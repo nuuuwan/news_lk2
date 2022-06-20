@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655725680,
+    "title": "Protesters arrested near Finance Ministry granted bail",
+    "url": "http://www.adaderana.lk/news/83159/protesters-arrested-near-finance-ministry-granted-bail",
+    "file_name": "/tmp/news_lk2/articles/a0/a0cf7729.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655725020,
+    "title": "Dhammika Perera undertakes not to take oath as MP or Minister until court decides on FR",
+    "url": "http://www.adaderana.lk/news/83158/dhammika-perera-undertakes-not-to-take-oath-as-mp-or-minister-until-court-decides-on-fr",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf7cb8a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655724900,
+    "title": "Sri Lanka police arrests 21 anti-govt protestors as IMF talks begin",
+    "url": "https://economynext.com/sri-lanka-police-arrests-21-anti-govt-protestors-as-imf-talks-begin-96114/",
+    "file_name": "/tmp/news_lk2/articles/a0/a06ccdd8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655724840,
+    "title": "Bicycles to the rescue....",
+    "url": "https://www.dailymirror.lk/caption_story/Bicycles-to-the-rescue/110-239431",
+    "file_name": "/tmp/news_lk2/articles/0c/0c10f919.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655722200,
     "title": "\u2018Will NOT take oaths as MP or Minister until decision on FR\u2019 \u2013 Dhammika promises to SC",
@@ -670,33 +698,5 @@
     "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
     "url": "https://www.dailymirror.lk/opinion/People-explode-when-suppressed-and-repressed-Fr-Jeewantha-Peiris/172-239342",
     "file_name": "/tmp/news_lk2/articles/85/8534a3fa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655663820,
-    "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
-    "url": "https://www.dailymirror.lk/opinion/People-explode-when-suppressed-and-repressed-Fr-Jeewantha-Peiris/231-239342",
-    "file_name": "/tmp/news_lk2/articles/f0/f0d74094.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655663640,
-    "title": "Journalists and protestors - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Journalists-and-protestors-EDITORIAL/172-239341",
-    "file_name": "/tmp/news_lk2/articles/cd/cd6fdeac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655663640,
-    "title": "Journalists and protestors - EDITORIAL",
-    "url": "https://www.dailymirror.lk/opinion/Journalists-and-protestors-EDITORIAL/231-239341",
-    "file_name": "/tmp/news_lk2/articles/80/80dd05bc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655663460,
-    "title": "Why CEB?",
-    "url": "https://www.dailymirror.lk/opinion/Why-CEB/231-239340",
-    "file_name": "/tmp/news_lk2/articles/39/3968e957.json"
   }
 ]
