@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655711400,
+    "title": "Australia gives Sri Lanka US$50mn in food, medicine aid amid",
+    "url": "https://economynext.com/australia-gives-sri-lanka-us50mn-in-food-medicine-aid-amid-96101/",
+    "file_name": "/tmp/news_lk2/articles/0a/0aada267.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655710020,
     "title": "Australia announces $50 million support for Sri Lanka",
@@ -124,6 +131,13 @@
     "title": "Sri Lanka police arrest 19 anti-govt protestors on president\u2019s birthday",
     "url": "https://economynext.com/sri-lanka-police-arrest-19-anti-govt-protestors-on-presidents-birthday-96097/",
     "file_name": "/tmp/news_lk2/articles/5e/5e7b9304.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655703120,
+    "title": "Sri Lanka police arrest 19 protestors on president\u2019s birthday",
+    "url": "https://economynext.com/sri-lanka-police-arrest-19-protestors-on-presidents-birthday-96097/",
+    "file_name": "/tmp/news_lk2/articles/2b/2b87a712.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Evaluation of O/L papers will continue without hindrance: Education Ministry",
     "url": "https://www.newsfirst.lk/2022/06/19/evaluation-of-o-l-papers-will-continue-without-hindrance-education-ministry/",
     "file_name": "/tmp/news_lk2/articles/0e/0e4a360c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655633040,
-    "title": "Warning shots fired to control \u2018drunken mob\u2019 in Vishwamadu \u2013 Army",
-    "url": "http://www.adaderana.lk/news/83136/warning-shots-fired-to-control-drunken-mob-in-vishwamadu-army",
-    "file_name": "/tmp/news_lk2/articles/b7/b790d610.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655632740,
-    "title": "No lockdown planned",
-    "url": "https://www.dailymirror.lk/top_story/No-lockdown-planned/155-239335",
-    "file_name": "/tmp/news_lk2/articles/ff/ff434757.json"
   }
 ]
