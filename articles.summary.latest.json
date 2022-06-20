@@ -1,10 +1,31 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655737860,
+    "title": "IUSF against shortage of gas, fuel, medicine, food",
+    "url": "https://www.dailymirror.lk/latest_news/IUSF-against-shortage-of-gas-fuel-medicine-food/342-239437",
+    "file_name": "/tmp/news_lk2/articles/eb/eb4e825e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655735640,
+    "title": "Kusal Mendis becomes father for first time",
+    "url": "https://www.dailymirror.lk/breaking_news/Kusal-Mendis-becomes-father-for-first-time/108-239436",
+    "file_name": "/tmp/news_lk2/articles/aa/aa83ccfe.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655735640,
     "title": "Kusal Mendis becomes father for first time",
     "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/322-239436",
     "file_name": "/tmp/news_lk2/articles/da/da803108.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655734680,
+    "title": "Prime Minister Wickremesinghe meets Australia\u2019s Minister of Home Affairs",
+    "url": "https://www.newsfirst.lk/2022/06/20/prime-minister-wickremesinghe-meets-australias-minister-of-home-affairs/",
+    "file_name": "/tmp/news_lk2/articles/2e/2e866adf.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -677,26 +698,5 @@
     "title": "IMF delegates in Sri Lanka",
     "url": "https://www.newsfirst.lk/2022/06/20/imf-delegates-in-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/ba/bae8f76e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655691060,
-    "title": "Teachers\u2019 attendance not \u2019must\u2019 this week: Edu Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/Teachers-attendance-not-must-this-week-Edu-Minister/108-239379",
-    "file_name": "/tmp/news_lk2/articles/8f/8fda8e74.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655691060,
-    "title": "Teachers\u2019 attendance not \u2019must\u2019 this week: Edu Minister",
-    "url": "https://www.dailymirror.lk/latest_news/Teachers-attendance-not-must-this-week-Edu-Minister/342-239379",
-    "file_name": "/tmp/news_lk2/articles/ac/ac405840.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655691000,
-    "title": "Fairly heavy showers expected in parts of the country",
-    "url": "http://www.adaderana.lk/news/83145/fairly-heavy-showers-expected-in-parts-of-the-country",
-    "file_name": "/tmp/news_lk2/articles/6d/6d16e0a8.json"
   }
 ]
