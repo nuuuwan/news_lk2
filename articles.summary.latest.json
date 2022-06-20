@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655740440,
+    "title": "Dhammika Perera gives undertaking not to take oaths as MP until SC decides",
+    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-gives-undertaking-not-to-take-oaths-as-MP-until-SC-decides/342-239438",
+    "file_name": "/tmp/news_lk2/articles/b6/b698c311.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655739720,
+    "title": "Flights between China and Sri Lanka to be increased",
+    "url": "http://www.adaderana.lk/news/83163/flights-between-china-and-sri-lanka-to-be-increased",
+    "file_name": "/tmp/news_lk2/articles/86/8623cfdf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655737860,
     "title": "IUSF against shortage of gas, fuel, medicine, food",
     "url": "https://www.dailymirror.lk/latest_news/IUSF-against-shortage-of-gas-fuel-medicine-food/342-239437",
@@ -399,6 +413,13 @@
     "file_name": "/tmp/news_lk2/articles/6f/6f4cec09.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655708340,
+    "title": "Finance Ministry Secy. late to attend IMF meeting due to protest:  21 protesters arrested",
+    "url": "https://www.dailymirror.lk/breaking_news/Finance-Ministry-Secy-late-to-attend-IMF-meeting-due-to-protest-21-protesters-arrested/108-239420",
+    "file_name": "/tmp/news_lk2/articles/bd/bdfc9879.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655708100,
     "title": "Private Bus operations up 50%",
@@ -677,26 +698,5 @@
     "title": "Nearly 5 million people food insecure",
     "url": "https://www.dailymirror.lk/breaking_news/Nearly-5-million-people-food-insecure/108-239393",
     "file_name": "/tmp/news_lk2/articles/3c/3c27f27f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655694000,
-    "title": "IMF delegation visits Sri Lanka with time running out",
-    "url": "http://www.adaderana.lk/news/83146/imf-delegation-visits-sri-lanka-with-time-running-out",
-    "file_name": "/tmp/news_lk2/articles/29/2989e8de.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655694000,
-    "title": "IMF delegation to visit Sri Lanka with time running out",
-    "url": "http://www.adaderana.lk/news/83146/imf-delegation-to-visit-sri-lanka-with-time-running-out",
-    "file_name": "/tmp/news_lk2/articles/18/1805e2d5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655692620,
-    "title": "IMF delegates in Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/20/imf-delegates-in-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/ba/bae8f76e.json"
   }
 ]
