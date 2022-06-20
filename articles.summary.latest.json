@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655749800,
+    "title": "Strengthening parliamentary committees is critical for making 21A meaningful",
+    "url": "https://www.dailymirror.lk/opinion/Strengthening-parliamentary-committees-is-critical-for-making-21A-meaningful/172-239465",
+    "file_name": "/tmp/news_lk2/articles/76/76515dfc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655747160,
     "title": "PM looking forward to reach staff-level agreement with IMF",
@@ -26,6 +33,13 @@
     "title": "Govt. pharmacists contemplating TU action",
     "url": "https://www.dailymirror.lk/breaking_news/Govt-pharmacists-contemplating-TU-action/108-239439",
     "file_name": "/tmp/news_lk2/articles/82/82adf4e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655740440,
+    "title": "Dhammika Perera gives undertaking not to take oaths as MP until SC decides",
+    "url": "https://www.dailymirror.lk/top_story/Dhammika-Perera-gives-undertaking-not-to-take-oaths-as-MP-until-SC-decides/155-239438",
+    "file_name": "/tmp/news_lk2/articles/b4/b4f14926.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "GotaGoGama : All gates at President\u2019s Office taken over by protestors",
     "url": "https://www.newsfirst.lk/2022/06/20/gotagogama-all-gates-at-presidents-office-taken-over-by-protestors/",
     "file_name": "/tmp/news_lk2/articles/cf/cff729b5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655696100,
-    "title": "Public Sector to Work from Home for Two Weeks",
-    "url": "https://www.newsfirst.lk/2022/06/20/public-sector-to-work-from-home-for-two-weeks/",
-    "file_name": "/tmp/news_lk2/articles/c1/c164044b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655696040,
-    "title": "President and SLPP parliamentary group to meet today",
-    "url": "http://www.adaderana.lk/news/83147/president-and-slpp-parliamentary-group-to-meet-today",
-    "file_name": "/tmp/news_lk2/articles/72/72fe30c7.json"
   }
 ]
