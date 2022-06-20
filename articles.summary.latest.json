@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655721600,
+    "title": "Free vocational training for children of workers: Manusha",
+    "url": "https://www.dailymirror.lk/latest_news/Free-vocational-training-for-children-of-workers-Manusha/342-239428",
+    "file_name": "/tmp/news_lk2/articles/fd/fd316581.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655720280,
     "title": "Ex-provincial councillor acquitted in double murder case",
@@ -691,12 +698,5 @@
     "title": "Bank of Ceylon records a net pre-tax profit of Rs. 43 billion",
     "url": "http://www.adaderana.lk/news/83144/bank-of-ceylon-records-a-net-pre-tax-profit-of-rs-43-billion",
     "file_name": "/tmp/news_lk2/articles/c6/c680d1ae.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655660280,
-    "title": "Pathum Nissanka century gives Sri Lanka 2-1 series lead vs Australia",
-    "url": "https://www.dailymirror.lk/breaking_news/Pathum-Nissanka-century-gives-Sri-Lanka-2-1-series-lead-vs-Australia/108-239345",
-    "file_name": "/tmp/news_lk2/articles/4a/4a31764b.json"
   }
 ]
