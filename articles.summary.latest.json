@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757300,
+    "title": "Sri Lanka and Australia renew commitment to boost bilateral ties",
+    "url": "https://www.ft.lk/news/Sri-Lanka-and-Australia-renew-commitment-to-boost-bilateral-ties/56-736439",
+    "file_name": "/tmp/news_lk2/articles/8d/8d617412.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757300,
+    "title": "Galle Face protesters arrested near Finance Ministry granted bail",
+    "url": "https://www.ft.lk/news/Galle-Face-protesters-arrested-near-Finance-Ministry-granted-bail/56-736437",
+    "file_name": "/tmp/news_lk2/articles/fa/fa7e0fe0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757300,
+    "title": "UK monitoring SL situation, ready to support",
+    "url": "https://www.ft.lk/news/UK-monitoring-SL-situation-ready-to-support/56-736438",
+    "file_name": "/tmp/news_lk2/articles/36/36f594a6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655750400,
     "title": "Fighting in a minefield",
@@ -677,26 +698,5 @@
     "title": "PM commences talks with IMF Delegation",
     "url": "https://www.dailymirror.lk/breaking_news/PM-commences-talks-with-IMF-Delegation/108-239407",
     "file_name": "/tmp/news_lk2/articles/eb/eb0de2d8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655698740,
-    "title": "City schools are closed from Monday (20)",
-    "url": "https://www.newsfirst.lk/2022/06/20/city-schools-are-closed-from-monday-20/",
-    "file_name": "/tmp/news_lk2/articles/31/31ec448a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655698380,
-    "title": "IMF starts talks on Sri Lanka with PM",
-    "url": "https://www.newsfirst.lk/2022/06/20/imf-starts-talks-on-sri-lanka-with-pm/",
-    "file_name": "/tmp/news_lk2/articles/73/73da89a1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655697960,
-    "title": "Lotus Roundabout in Colombo blocked due to protest",
-    "url": "http://www.adaderana.lk/news/83148/lotus-roundabout-in-colombo-blocked-due-to-protest",
-    "file_name": "/tmp/news_lk2/articles/b9/b9c6ac43.json"
   }
 ]
