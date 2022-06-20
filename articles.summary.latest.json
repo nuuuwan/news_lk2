@@ -1,10 +1,31 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655728320,
+    "title": "Cabinet approval for 21st Amendment to Constitution",
+    "url": "http://www.adaderana.lk/news/83160/cabinet-approval-for-21st-amendment-to-constitution",
+    "file_name": "/tmp/news_lk2/articles/ed/ed30a54b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655727420,
+    "title": "Australia offers Sri Lanka assistance in Customs Department restructure",
+    "url": "https://economynext.com/australia-offers-sri-lanka-assistance-in-customs-department-restructure-96121/",
+    "file_name": "/tmp/news_lk2/articles/a3/a300d851.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655725680,
     "title": "Protesters arrested near Finance Ministry granted bail",
     "url": "http://www.adaderana.lk/news/83159/protesters-arrested-near-finance-ministry-granted-bail",
     "file_name": "/tmp/news_lk2/articles/a0/a0cf7729.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655725440,
+    "title": "Sanath Nishantha\u2019s brother remanded for assault & obstruction",
+    "url": "https://www.newsfirst.lk/2022/06/20/sanath-nishanthas-brother-remanded-for-assault-obstruction/",
+    "file_name": "/tmp/news_lk2/articles/12/12239487.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -26,6 +47,13 @@
     "title": "Bicycles to the rescue....",
     "url": "https://www.dailymirror.lk/caption_story/Bicycles-to-the-rescue/110-239431",
     "file_name": "/tmp/news_lk2/articles/0c/0c10f919.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655724840,
+    "title": "Bicycles to the rescue....",
+    "url": "https://www.dailymirror.lk/latest_news/Bicycles-to-the-rescue/342-239431",
+    "file_name": "/tmp/news_lk2/articles/5b/5bfcbf13.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Remembering late PM",
     "url": "https://www.dailymirror.lk/latest_news/Remembering-late-PM/342-239377",
     "file_name": "/tmp/news_lk2/articles/9e/9e0df746.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655665800,
-    "title": "Sri Lanka comes to grinding halt as fuel runs out",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/342-239369",
-    "file_name": "/tmp/news_lk2/articles/5e/5e175069.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655665800,
-    "title": "Sri Lanka comes to grinding halt as fuel runs out",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/108-239369",
-    "file_name": "/tmp/news_lk2/articles/3f/3fe88041.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655665800,
-    "title": "Sri Lanka comes to grinding halt as fuel runs out",
-    "url": "https://www.dailymirror.lk/business__main/Sri-Lanka-comes-to-grinding-halt-as-fuel-runs-out/245-239369",
-    "file_name": "/tmp/news_lk2/articles/32/3245e867.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655663820,
-    "title": "People explode when suppressed and repressed  - Fr. Jeewantha Peiris",
-    "url": "https://www.dailymirror.lk/opinion/People-explode-when-suppressed-and-repressed-Fr-Jeewantha-Peiris/172-239342",
-    "file_name": "/tmp/news_lk2/articles/85/8534a3fa.json"
   }
 ]
