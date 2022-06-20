@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655742720,
+    "title": "Govt. pharmacists contemplating TU action",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-pharmacists-contemplating-TU-action/342-239439",
+    "file_name": "/tmp/news_lk2/articles/31/312f3831.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655740440,
     "title": "Dhammika Perera gives undertaking not to take oaths as MP until SC decides",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-gives-undertaking-not-to-take-oaths-as-MP-until-SC-decides/342-239438",
@@ -691,12 +698,5 @@
     "title": "Nearly 5 million people food insecure",
     "url": "https://www.dailymirror.lk/latest_news/Nearly-5-million-people-food-insecure/342-239393",
     "file_name": "/tmp/news_lk2/articles/cf/cf98431b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655694060,
-    "title": "Nearly 5 million people food insecure",
-    "url": "https://www.dailymirror.lk/breaking_news/Nearly-5-million-people-food-insecure/108-239393",
-    "file_name": "/tmp/news_lk2/articles/3c/3c27f27f.json"
   }
 ]
