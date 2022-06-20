@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655715240,
+    "title": "Kerala cannabis worth around Rs. 120 million seized at Udappuwa",
+    "url": "http://www.adaderana.lk/news/83154/kerala-cannabis-worth-around-rs-120-million-seized-at-udappuwa",
+    "file_name": "/tmp/news_lk2/articles/ad/ad518416.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655713680,
+    "title": "Dhammika Perera to be sworn as MP tomorrow",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/108-239421",
+    "file_name": "/tmp/news_lk2/articles/bb/bbbb8d80.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655713680,
     "title": "Dhammika Perera to be sworn as MP tomorrow",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/342-239421",
     "file_name": "/tmp/news_lk2/articles/64/647117d0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655711400,
+    "title": "Australia gives Sri Lanka US$50mn in food, medicine aid",
+    "url": "https://economynext.com/australia-gives-sri-lanka-us50mn-in-food-medicine-aid-96101/",
+    "file_name": "/tmp/news_lk2/articles/93/93d606d2.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -19,6 +40,13 @@
     "title": "Australia announces $50 million support for Sri Lanka",
     "url": "http://www.adaderana.lk/news/83153/australia-announces-50-million-support-for-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/9d/9ddac5e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655709000,
+    "title": "Journalists and protestors",
+    "url": "https://www.dailymirror.lk/breaking_news/Journalists-and-protestors/108-239419",
+    "file_name": "/tmp/news_lk2/articles/20/20a79cb1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -129,6 +157,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655704440,
     "title": "Australia to provide $50 Mn for urgent food and healthcare needs",
+    "url": "https://www.dailymirror.lk/breaking_news/Australia-to-provide-50-Mn-for-urgent-food-and-healthcare-needs/108-239416",
+    "file_name": "/tmp/news_lk2/articles/83/83d04734.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655704440,
+    "title": "Australia to provide $50 Mn for urgent food and healthcare needs",
     "url": "https://www.dailymirror.lk/latest_news/Australia-to-provide-50-Mn-for-urgent-food-and-healthcare-needs/342-239416",
     "file_name": "/tmp/news_lk2/articles/9e/9e86cb80.json"
   },
@@ -168,6 +203,13 @@
     "file_name": "/tmp/news_lk2/articles/b0/b0595bed.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655701740,
+    "title": "Buses, trains run smoothly today",
+    "url": "https://www.dailymirror.lk/breaking_news/Buses-trains-run-smoothly-today/108-239414",
+    "file_name": "/tmp/news_lk2/articles/99/99163e40.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655700900,
     "title": "Sri Lanka Prime Minister meets IMF mission in bailout talks",
@@ -194,6 +236,13 @@
     "title": "Clare O\u2019Neil visits Sri Lanka for talks on how Australia can assist country\u2019s economic crisis",
     "url": "https://www.dailymirror.lk/breaking_news/Clare-ONeil-visits-Sri-Lanka-for-talks-on-how-Australia-can-assist-countrys-economic-crisis/108-239405",
     "file_name": "/tmp/news_lk2/articles/f7/f7013cf0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655699700,
+    "title": "Protesters blocking entrance to Presidential Secretariat removed",
+    "url": "https://www.dailymirror.lk/breaking_news/Protesters-blocking-entrance-to-Presidential-Secretariat-removed/108-239413",
+    "file_name": "/tmp/news_lk2/articles/49/4990d2e9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -649,54 +698,5 @@
     "title": "Minister requests to provide online education to students of schools closed next week",
     "url": "http://www.adaderana.lk/news/83139/minister-requests-to-provide-online-education-to-students-of-schools-closed-next-week",
     "file_name": "/tmp/news_lk2/articles/a6/a62600ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655642460,
-    "title": "Minister requests teachers to provide online education to students of schools closed",
-    "url": "http://www.adaderana.lk/news/83139/minister-requests-teachers-to-provide-online-education-to-students-of-schools-closed",
-    "file_name": "/tmp/news_lk2/articles/cf/cff26f25.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655641320,
-    "title": "Sri Lanka low-grown tea prices slips in June second week sale",
-    "url": "https://economynext.com/sri-lanka-low-grown-tea-prices-slips-in-june-second-week-sale-96059/",
-    "file_name": "/tmp/news_lk2/articles/bb/bbf78107.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655641260,
-    "title": "Police caution cyclists over increasing road accidents",
-    "url": "http://www.adaderana.lk/news/83138/police-caution-cyclists-over-increasing-road-accidents",
-    "file_name": "/tmp/news_lk2/articles/cf/cfc1cf77.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655638740,
-    "title": "Newly restored Embilipitiya Paper Mill to save outflow of dollars",
-    "url": "http://island.lk/newly-restored-embilipitiya-paper-mill-to-save-outflow-of-dollars/",
-    "file_name": "/tmp/news_lk2/articles/9a/9aaafe71.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655638620,
-    "title": "Seylan Tikiri partnership with WNPS opens doors for children to create strong appreciation of nature",
-    "url": "http://island.lk/seylan-tikiri-partnership-with-wnps-opens-doors-for-children-to-create-strong-appreciation-of-nature/",
-    "file_name": "/tmp/news_lk2/articles/6c/6cc957ad.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655638500,
-    "title": "It\u2019s now or never for Sri Lanka to implement structural reforms, says 14th governor of Central Bank",
-    "url": "http://island.lk/its-now-or-never-for-sri-lanka-to-implement-structural-reforms-says-14th-governor-of-central-bank/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d908078.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655637540,
-    "title": "Foreign Minister meets UN Human Rights High Commissioner",
-    "url": "https://www.newsfirst.lk/2022/06/19/foreign-minister-meets-un-human-rights-high-commissioner/",
-    "file_name": "/tmp/news_lk2/articles/a6/a6ef67b4.json"
   }
 ]
