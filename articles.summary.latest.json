@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655720280,
+    "title": "Ex-provincial councillor acquitted in double murder case",
+    "url": "http://www.adaderana.lk/news/83157/ex-provincial-councillor-acquitted-in-double-murder-case",
+    "file_name": "/tmp/news_lk2/articles/23/23b64df1.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655718600,
     "title": "Cannot afford to allow protesters to disrupt economic recovery: UNP",
@@ -54,6 +61,13 @@
     "title": "Take legal action against those who gave order, instead withholding bowser permits: Bowser Assn.",
     "url": "https://www.dailymirror.lk/latest_news/Take-legal-action-against-those-who-gave-order-instead-withholding-bowser-permits-Bowser-Assn/342-239422",
     "file_name": "/tmp/news_lk2/articles/6a/6a53269f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655715840,
+    "title": "Take legal action against those who gave order, instead withholding bowser permits: Bowser Assn.",
+    "url": "https://www.dailymirror.lk/breaking_news/Take-legal-action-against-those-who-gave-order-instead-withholding-bowser-permits-Bowser-Assn/108-239422",
+    "file_name": "/tmp/news_lk2/articles/9e/9e574416.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -145,6 +159,13 @@
     "title": "Tense situ outside Presidential Secretariat",
     "url": "https://www.dailymirror.lk/latest_news/Tense-situ-outside-Presidential-Secretariat/342-239418",
     "file_name": "/tmp/news_lk2/articles/c8/c8d2d9bc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655708820,
+    "title": "Tense situ outside Presidential Secretariat",
+    "url": "https://www.dailymirror.lk/caption_story/Tense-situ-outside-Presidential-Secretariat/110-239418",
+    "file_name": "/tmp/news_lk2/articles/5d/5d2bec34.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "Pathum Nissanka century gives Sri Lanka 2-1 series lead vs Australia",
     "url": "https://www.dailymirror.lk/breaking_news/Pathum-Nissanka-century-gives-Sri-Lanka-2-1-series-lead-vs-Australia/108-239345",
     "file_name": "/tmp/news_lk2/articles/4a/4a31764b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655653320,
-    "title": "Tense situation at fuel station in Meegahathenna",
-    "url": "http://www.adaderana.lk/news/83143/tense-situation-at-fuel-station-in-meegahathenna",
-    "file_name": "/tmp/news_lk2/articles/0c/0ca81134.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655651940,
-    "title": "Foreign Minister Peiris meets UN High Commissioner for Human Rights",
-    "url": "http://www.adaderana.lk/news/83141/foreign-minister-peiris-meets-un-high-commissioner-for-human-rights",
-    "file_name": "/tmp/news_lk2/articles/01/01f5aca2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655648940,
-    "title": "Govt plotting to arrest protesters on court orders: JVP alleges",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-plotting-to-arrest-protesters-on-court-orders-JVP-alleges/108-239339",
-    "file_name": "/tmp/news_lk2/articles/0d/0daeb7a2.json"
   }
 ]
