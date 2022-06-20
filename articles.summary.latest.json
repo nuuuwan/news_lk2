@@ -31,6 +31,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655730600,
     "title": "President and PM must step down: Kiriella",
+    "url": "https://www.dailymirror.lk/breaking_news/President-and-PM-must-step-down-Kiriella/108-239434",
+    "file_name": "/tmp/news_lk2/articles/00/00eb575d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655730600,
+    "title": "President and PM must step down: Kiriella",
     "url": "https://www.dailymirror.lk/latest_news/President-and-PM-must-step-down-Kiriella/342-239434",
     "file_name": "/tmp/news_lk2/articles/fc/fce876cf.json"
   },
@@ -68,6 +75,13 @@
     "title": "Australia offers Sri Lanka assistance in Customs Department restructure",
     "url": "https://economynext.com/australia-offers-sri-lanka-assistance-in-customs-department-restructure-96121/",
     "file_name": "/tmp/news_lk2/articles/a3/a300d851.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655726640,
+    "title": "Flights between China and Sri Lanka to increase",
+    "url": "https://www.dailymirror.lk/breaking_news/Flights-between-China-and-Sri-Lanka-to-increase/108-239433",
+    "file_name": "/tmp/news_lk2/articles/a9/a9f6ec51.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Sri Lanka chicken, egg production plunge amid soft-peg collapse",
     "url": "https://economynext.com/sri-lanka-chicken-egg-production-plunge-amid-soft-peg-collapse-96071/",
     "file_name": "/tmp/news_lk2/articles/64/641f2b67.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655682900,
-    "title": "Painted faces...",
-    "url": "https://www.dailymirror.lk/latest_news/Painted-faces/342-239378",
-    "file_name": "/tmp/news_lk2/articles/77/7742e673.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655682900,
-    "title": "Painted faces...",
-    "url": "https://www.dailymirror.lk/caption_story/Painted-faces/110-239378",
-    "file_name": "/tmp/news_lk2/articles/94/94f34060.json"
   }
 ]
