@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655713680,
+    "title": "Dhammika Perera to be sworn as MP tomorrow",
+    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/342-239421",
+    "file_name": "/tmp/news_lk2/articles/64/647117d0.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655711400,
     "title": "Australia gives Sri Lanka US$50mn in food, medicine aid amid",
@@ -12,6 +19,13 @@
     "title": "Australia announces $50 million support for Sri Lanka",
     "url": "http://www.adaderana.lk/news/83153/australia-announces-50-million-support-for-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/9d/9ddac5e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655709000,
+    "title": "Journalists and protestors",
+    "url": "https://www.dailymirror.lk/latest_news/Journalists-and-protestors/342-239419",
+    "file_name": "/tmp/news_lk2/articles/c6/c6940032.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Foreign Minister meets UN Human Rights High Commissioner",
     "url": "https://www.newsfirst.lk/2022/06/19/foreign-minister-meets-un-human-rights-high-commissioner/",
     "file_name": "/tmp/news_lk2/articles/a6/a6ef67b4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655636340,
-    "title": "Public mistrust of govt and law enforcement will have dire consequences \u2013 BASL warns",
-    "url": "http://www.adaderana.lk/news/83137/public-mistrust-of-govt-and-law-enforcement-will-have-dire-consequences-basl-warns",
-    "file_name": "/tmp/news_lk2/articles/6f/6f8a0e5d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655635200,
-    "title": "Evaluation of O/L papers will continue without hindrance: Education Ministry",
-    "url": "https://www.newsfirst.lk/2022/06/19/evaluation-of-o-l-papers-will-continue-without-hindrance-education-ministry/",
-    "file_name": "/tmp/news_lk2/articles/0e/0e4a360c.json"
   }
 ]
