@@ -1,10 +1,73 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655710020,
+    "title": "Australia announces $50 million support for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/83153/australia-announces-50-million-support-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/9d/9ddac5e4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655708940,
+    "title": "Police arrest 21 protesters near Finance Ministry",
+    "url": "http://www.adaderana.lk/news/83152/police-arrest-21-protesters-near-finance-ministry",
+    "file_name": "/tmp/news_lk2/articles/de/dece9caf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655708820,
+    "title": "Tense situ outside Presidential Secretariat",
+    "url": "https://www.dailymirror.lk/latest_news/Tense-situ-outside-Presidential-Secretariat/342-239418",
+    "file_name": "/tmp/news_lk2/articles/c8/c8d2d9bc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655708700,
+    "title": "Daily Exchange Rate from CBSL",
+    "url": "https://www.newsfirst.lk/2022/06/20/daily-exchange-rate-from-cbsl-2/",
+    "file_name": "/tmp/news_lk2/articles/9d/9dede75e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655708340,
+    "title": "Finance Ministry Secy. late to attend IMF meeting due to protest:  21 protesters arrested",
+    "url": "https://www.dailymirror.lk/top_story/Finance-Ministry-Secy-late-to-attend-IMF-meeting-due-to-protest-21-protesters-arrested/155-239420",
+    "file_name": "/tmp/news_lk2/articles/6f/6f4cec09.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655708100,
+    "title": "Private Bus operations up 50%",
+    "url": "https://www.newsfirst.lk/2022/06/20/private-bus-operations-up-50/",
+    "file_name": "/tmp/news_lk2/articles/ac/acfd696b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655707680,
     "title": "Asylum seekers return to Sri Lanka after sea intercept",
     "url": "http://www.adaderana.lk/news/83151/asylum-seekers-return-to-sri-lanka-after-sea-intercept",
     "file_name": "/tmp/news_lk2/articles/d9/d9b843c8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655707380,
+    "title": "DO NOT wait in line for fuel \u2013 Minister",
+    "url": "https://www.newsfirst.lk/2022/06/20/do-not-wait-in-line-for-fuel-minister/",
+    "file_name": "/tmp/news_lk2/articles/53/530c4714.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655707020,
+    "title": "Santha Nishantha\u2019s brother arrested for assault",
+    "url": "https://www.newsfirst.lk/2022/06/20/santha-nishanthas-brother-arrested-for-assault/",
+    "file_name": "/tmp/news_lk2/articles/31/3104d6cf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655706720,
+    "title": "Sri Lanka has sufficient Diesel stocks \u2013 CPC",
+    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-has-sufficient-diesel-stocks-cpc/",
+    "file_name": "/tmp/news_lk2/articles/8f/8f97466d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -12,6 +75,20 @@
     "title": "Sri Lanka shares slip over 1.5-pct in mid-day trade",
     "url": "https://economynext.com/sri-lanka-shares-slip-over-1-5-pct-in-mid-day-trade-96099/",
     "file_name": "/tmp/news_lk2/articles/b0/b077fa18.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655706240,
+    "title": "Sri Lanka to import paper for text books",
+    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-to-import-paper-for-text-books/",
+    "file_name": "/tmp/news_lk2/articles/90/901427ec.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655706060,
+    "title": "21 arrested for blocking gates to President\u2019s Office; Protest delayed Finance Secretary from meeting IMF",
+    "url": "https://www.newsfirst.lk/2022/06/20/21-arrested-for-blocking-gates-to-presidents-office-protest-delayed-finance-secretary-from-meeting-imf/",
+    "file_name": "/tmp/news_lk2/articles/37/37a86a13.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -621,82 +698,5 @@
     "title": "No lockdown planned",
     "url": "https://www.dailymirror.lk/top_story/No-lockdown-planned/155-239335",
     "file_name": "/tmp/news_lk2/articles/ff/ff434757.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655632740,
-    "title": "No lockdown planned",
-    "url": "https://www.dailymirror.lk/latest_news/No-lockdown-planned/342-239335",
-    "file_name": "/tmp/news_lk2/articles/0f/0f96980f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655632740,
-    "title": "No lockdown planned",
-    "url": "https://www.dailymirror.lk/breaking_news/No-lockdown-planned/108-239335",
-    "file_name": "/tmp/news_lk2/articles/84/84421855.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655630700,
-    "title": "Youth dies following attack over dispute",
-    "url": "http://www.adaderana.lk/news/83135/youth-dies-following-attack-over-dispute",
-    "file_name": "/tmp/news_lk2/articles/55/55f9eca9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655630400,
-    "title": "Sri Lanka protestors in human chain against President, PM as currency crisis bites",
-    "url": "https://economynext.com/sri-lanka-protestors-in-human-chain-against-president-pm-as-currency-crisis-bites-96048/",
-    "file_name": "/tmp/news_lk2/articles/d5/d57fdaba.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655630400,
-    "title": "Sri Lanka  in human chain protest against President, PM as currency crisis bites",
-    "url": "https://economynext.com/sri-lanka-in-human-chain-protest-against-president-pm-as-currency-crisis-bites-96048/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d457da0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655629740,
-    "title": "Don\u2019t queue up for fuel next three- four days: Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/Dont-queue-up-for-fuel-next-three-four-days-Minister/108-239334",
-    "file_name": "/tmp/news_lk2/articles/52/5239b4df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655629740,
-    "title": "Don\u2019t queue up for petrol next three- four days: Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/Dont-queue-up-for-petrol-next-three-four-days-Minister/108-239334",
-    "file_name": "/tmp/news_lk2/articles/6f/6f6ac741.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655629740,
-    "title": "Don\u2019t queue up for petrol next three- four days: Minister",
-    "url": "https://www.dailymirror.lk/latest_news/Dont-queue-up-for-petrol-next-three-four-days-Minister/342-239334",
-    "file_name": "/tmp/news_lk2/articles/74/7456e479.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655629020,
-    "title": "General election could be held if no other option remains: Harsha",
-    "url": "https://www.dailymirror.lk/breaking_news/General-election-could-be-held-if-no-other-option-remains-Harsha/108-239333",
-    "file_name": "/tmp/news_lk2/articles/91/9167e188.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655627160,
-    "title": "HSBC Group MD visits Sri Lanka to offer support",
-    "url": "https://economynext.com/hsbc-group-md-visits-sri-lanka-to-offer-support-96045/",
-    "file_name": "/tmp/news_lk2/articles/bb/bb56e84a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655625840,
-    "title": "SLBFE warns people of scammers promising foreign employments",
-    "url": "https://www.dailymirror.lk/breaking_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/108-239332",
-    "file_name": "/tmp/news_lk2/articles/33/339a206e.json"
   }
 ]
