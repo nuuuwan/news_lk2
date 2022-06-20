@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655707680,
+    "title": "Asylum seekers return to Sri Lanka after sea intercept",
+    "url": "http://www.adaderana.lk/news/83151/asylum-seekers-return-to-sri-lanka-after-sea-intercept",
+    "file_name": "/tmp/news_lk2/articles/d9/d9b843c8.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655706660,
     "title": "Sri Lanka shares slip over 1.5-pct in mid-day trade",
@@ -691,12 +698,5 @@
     "title": "SLBFE warns people of scammers promising foreign employments",
     "url": "https://www.dailymirror.lk/breaking_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/108-239332",
     "file_name": "/tmp/news_lk2/articles/33/339a206e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655625840,
-    "title": "SLBFE warns people of scammers promising foreign employments",
-    "url": "https://www.dailymirror.lk/latest_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/342-239332",
-    "file_name": "/tmp/news_lk2/articles/6f/6fb1e585.json"
   }
 ]
