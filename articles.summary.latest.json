@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655706660,
+    "title": "Sri Lanka shares slip over 1.5-pct in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-shares-slip-over-1-5-pct-in-mid-day-trade-96099/",
+    "file_name": "/tmp/news_lk2/articles/b0/b077fa18.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655704740,
+    "title": "Private Buses urged to move to SLTB depots",
+    "url": "https://www.newsfirst.lk/2022/06/20/private-buses-urged-to-move-to-sltb-depots/",
+    "file_name": "/tmp/news_lk2/articles/ee/ee7090f0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655704560,
+    "title": "Australia to provide $ 50 Mn to Sri Lanka for food & healthcare needs",
+    "url": "https://www.newsfirst.lk/2022/06/20/australia-to-provide-50-mn-to-sri-lanka-for-food-healthcare-needs/",
+    "file_name": "/tmp/news_lk2/articles/2b/2bd15fdf.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655704440,
     "title": "Australia to provide $50 Mn for urgent food and healthcare needs",
     "url": "https://www.dailymirror.lk/latest_news/Australia-to-provide-50-Mn-for-urgent-food-and-healthcare-needs/342-239416",
     "file_name": "/tmp/news_lk2/articles/9e/9e86cb80.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655703600,
+    "title": "Fuel for teachers engaged in paper marking",
+    "url": "https://www.newsfirst.lk/2022/06/20/fuel-for-teachers-engaged-in-paper-marking/",
+    "file_name": "/tmp/news_lk2/articles/d9/d92beee2.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -68,6 +96,13 @@
     "title": "PM commences talks with IMF Delegation",
     "url": "https://www.dailymirror.lk/latest_news/PM-commences-talks-with-IMF-Delegation/342-239407",
     "file_name": "/tmp/news_lk2/articles/1b/1b913101.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655698800,
+    "title": "PM commences talks with IMF Delegation",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-commences-talks-with-IMF-Delegation/108-239407",
+    "file_name": "/tmp/news_lk2/articles/eb/eb0de2d8.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -374,6 +409,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655663160,
     "title": "Newly-restored Embilipitiya Paper Mill to save extensive outflow of dollars, says BOI",
+    "url": "https://www.dailymirror.lk/breaking_news/Newly-restored-Embilipitiya-Paper-Mill-to-save-extensive-outflow-of-dollars-says-BOI/108-239354",
+    "file_name": "/tmp/news_lk2/articles/3e/3e00a3ca.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655663160,
+    "title": "Newly-restored Embilipitiya Paper Mill to save extensive outflow of dollars, says BOI",
     "url": "https://www.dailymirror.lk/latest_news/Newly-restored-Embilipitiya-Paper-Mill-to-save-extensive-outflow-of-dollars-says-BOI/342-239354",
     "file_name": "/tmp/news_lk2/articles/a3/a364e7bd.json"
   },
@@ -656,47 +698,5 @@
     "title": "SLBFE warns people of scammers promising foreign employments",
     "url": "https://www.dailymirror.lk/latest_news/SLBFE-warns-people-of-scammers-promising-foreign-employments/342-239332",
     "file_name": "/tmp/news_lk2/articles/6f/6fb1e585.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655625240,
-    "title": "Public urged not to queue up for fuel in next 3-4 days; SLTB depots to issue fuel for private buses",
-    "url": "http://www.adaderana.lk/news/83134/public-urged-not-to-queue-up-for-fuel-in-next-3-4-days-sltb-depots-to-issue-fuel-for-private-buses",
-    "file_name": "/tmp/news_lk2/articles/0c/0c0f8e15.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655625240,
-    "title": "Public requested not to queue up for fuel in next 3-4 days",
-    "url": "http://www.adaderana.lk/news/83134/public-requested-not-to-queue-up-for-fuel-in-next-3-4-days",
-    "file_name": "/tmp/news_lk2/articles/dc/dc92a1df.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655624280,
-    "title": "Number-plate system considered to issue fuel, priority system for essential workers",
-    "url": "https://www.newsfirst.lk/2022/06/19/number-plate-system-considered-to-issue-fuel-priority-system-for-essential-workers/",
-    "file_name": "/tmp/news_lk2/articles/9c/9c1a2118.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655624280,
-    "title": "Number-plate system to issue fuel, priority system for essential workers",
-    "url": "https://www.newsfirst.lk/2022/06/19/number-plate-system-to-issue-fuel/",
-    "file_name": "/tmp/news_lk2/articles/5e/5e6ef36d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655624220,
-    "title": "Next Petrol Shipment on 23rd June, Do NOT join queues",
-    "url": "https://www.newsfirst.lk/2022/06/19/next-petrol-shipment-on-23rd-june-do-not-join-queues/",
-    "file_name": "/tmp/news_lk2/articles/ed/edef6795.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655623380,
-    "title": "Liyoni Kotelawala passes away",
-    "url": "https://www.dailymirror.lk/breaking_news/Liyoni-Kotelawala-passes-away/108-239331",
-    "file_name": "/tmp/news_lk2/articles/7e/7e2b0640.json"
   }
 ]
