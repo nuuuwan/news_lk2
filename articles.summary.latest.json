@@ -1,26 +1,5 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655730600,
-    "title": "President and PM must step down: Kiriella",
-    "url": "https://www.dailymirror.lk/latest_news/President-and-PM-must-step-down-Kiriella/342-239434",
-    "file_name": "/tmp/news_lk2/articles/fc/fce876cf.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655729100,
-    "title": "Amid Chinese tourism shutdown, Sri Lanka says flights to and from Beijing to increase",
-    "url": "https://economynext.com/amid-chinese-tourism-shutdown-sri-lanka-says-flights-to-and-from-beijing-to-increase-96120/",
-    "file_name": "/tmp/news_lk2/articles/4c/4ceb1b6b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655729040,
-    "title": "Chinese Amb. delivers Xi\u2019s special message to President",
-    "url": "https://www.newsfirst.lk/2022/06/20/chinese-amb-delivers-xis-special-message-to-president/",
-    "file_name": "/tmp/news_lk2/articles/3d/3d8d094d.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655728320,
     "title": "Cabinet approval for 21st Amendment to Constitution",
@@ -28,25 +7,11 @@
     "file_name": "/tmp/news_lk2/articles/ed/ed30a54b.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655727960,
-    "title": "21A passed by Cabinet; To be tabled in Parliament soon \u2013 Harin",
-    "url": "https://www.newsfirst.lk/2022/06/20/21a-passed-by-cabinet-to-be-tabled-in-parliament-soon-harin/",
-    "file_name": "/tmp/news_lk2/articles/56/5647f1e3.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655727420,
     "title": "Australia offers Sri Lanka assistance in Customs Department restructure",
     "url": "https://economynext.com/australia-offers-sri-lanka-assistance-in-customs-department-restructure-96121/",
     "file_name": "/tmp/news_lk2/articles/a3/a300d851.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655726640,
-    "title": "Flights between China and Sri Lanka to increase",
-    "url": "https://www.dailymirror.lk/latest_news/Flights-between-China-and-Sri-Lanka-to-increase/342-239433",
-    "file_name": "/tmp/news_lk2/articles/f5/f52eec2b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -698,5 +663,40 @@
     "title": "New software application helps Sri Lanka Consulate General in Melbourne to deliver efficient services",
     "url": "https://www.ft.lk/news/New-software-application-helps-Sri-Lanka-Consulate-General-in-Melbourne-to-deliver-efficient-services/56-736395",
     "file_name": "/tmp/news_lk2/articles/4b/4b16362a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655672880,
+    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
+    "url": "https://www.dailymirror.lk/top_story/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/155-239376",
+    "file_name": "/tmp/news_lk2/articles/01/0132a857.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655672880,
+    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
+    "url": "https://www.dailymirror.lk/latest_news/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/342-239376",
+    "file_name": "/tmp/news_lk2/articles/6c/6cf43678.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655672880,
+    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
+    "url": "https://www.dailymirror.lk/breaking_news/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/108-239376",
+    "file_name": "/tmp/news_lk2/articles/ff/fff299db.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655667480,
+    "title": "Remembering late PM",
+    "url": "https://www.dailymirror.lk/caption_story/Remembering-late-PM/110-239377",
+    "file_name": "/tmp/news_lk2/articles/f9/f9bd3e3d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655667480,
+    "title": "Remembering late PM",
+    "url": "https://www.dailymirror.lk/latest_news/Remembering-late-PM/342-239377",
+    "file_name": "/tmp/news_lk2/articles/9e/9e0df746.json"
   }
 ]
