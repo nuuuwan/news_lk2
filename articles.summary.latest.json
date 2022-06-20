@@ -1,41 +1,6 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655717580,
-    "title": "Colombia elects former guerrilla Petro as first leftist president",
-    "url": "http://www.adaderana.lk/news/83155/colombia-elects-former-guerrilla-petro-as-first-leftist-president",
-    "file_name": "/tmp/news_lk2/articles/87/871f42ac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655717040,
-    "title": "One lane from Lipton Circus to Fort blocked",
-    "url": "https://www.dailymirror.lk/latest_news/One-lane-from-Lipton-Circus-to-Fort-blocked/342-239424",
-    "file_name": "/tmp/news_lk2/articles/01/01e1eb88.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655716980,
-    "title": "President will martial this country out of this crisis - MR",
-    "url": "https://www.dailymirror.lk/breaking_news/President-will-martial-this-country-out-of-this-crisis-MR/108-239423",
-    "file_name": "/tmp/news_lk2/articles/1d/1dd04c83.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655715840,
-    "title": "Take legal action against those who gave order, instead withholding bowser permits: Bowser Assn.",
-    "url": "https://www.dailymirror.lk/latest_news/Take-legal-action-against-those-who-gave-order-instead-withholding-bowser-permits-Bowser-Assn/342-239422",
-    "file_name": "/tmp/news_lk2/articles/6a/6a53269f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655715720,
-    "title": "Australian Home Affairs Minister in Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/20/australian-home-affairs-minister-in-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/12/12a3cfb5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655715240,
     "title": "Kerala cannabis worth around Rs. 120 million seized at Udappuwa",
     "url": "http://www.adaderana.lk/news/83154/kerala-cannabis-worth-around-rs-120-million-seized-at-udappuwa",
@@ -54,20 +19,6 @@
     "title": "Dhammika Perera to be sworn as MP tomorrow",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/342-239421",
     "file_name": "/tmp/news_lk2/articles/64/647117d0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655713560,
-    "title": "Fuel for Health Workers every Friday \u2013 Minister",
-    "url": "https://www.newsfirst.lk/2022/06/20/fuel-for-health-workers-every-friday-minister/",
-    "file_name": "/tmp/news_lk2/articles/c3/c31af26f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655713080,
-    "title": "Hasitha Samantha alias \u2018Sarpaya\u2019 acquitted and released from double murder case",
-    "url": "https://www.newsfirst.lk/2022/06/20/hasitha-samantha-alias-sarpaya-acquitted-and-released-from-double-murder-case/",
-    "file_name": "/tmp/news_lk2/articles/a6/a6b95b06.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -698,5 +649,54 @@
     "title": "No power cuts during morning for two days: PUCSL",
     "url": "https://www.newsfirst.lk/2022/06/19/no-power-cuts-during-morning-for-two-days-pucsl/",
     "file_name": "/tmp/news_lk2/articles/a9/a9e8ba84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655644620,
+    "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-clarifies-freight-costs-on-280-000-MT-LPG-Tender-for-202223/108-239337",
+    "file_name": "/tmp/news_lk2/articles/5f/5f95f24a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655644620,
+    "title": "LITRO clarifies freight costs on 280,000 MT LPG Tender for 2022\u201323",
+    "url": "https://www.dailymirror.lk/latest_news/LITRO-clarifies-freight-costs-on-280-000-MT-LPG-Tender-for-202223/342-239337",
+    "file_name": "/tmp/news_lk2/articles/9e/9ec8734d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655643840,
+    "title": "UN coordinator, US Ambassador call for restraint, probe into excessive force",
+    "url": "https://www.newsfirst.lk/2022/06/19/un-coordinator-us-ambassador-call-for-restraint-probe-into-excessive-force/",
+    "file_name": "/tmp/news_lk2/articles/2d/2d235d18.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655643780,
+    "title": "Election is the last option: Harsha",
+    "url": "https://www.newsfirst.lk/2022/06/19/election-is-the-last-option-harsha/",
+    "file_name": "/tmp/news_lk2/articles/13/13f50b01.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655643720,
+    "title": "No power cuts in the morning for next two weeks - PUCSL",
+    "url": "http://www.adaderana.lk/news/83140/no-power-cuts-in-the-morning-for-next-two-weeks-pucsl",
+    "file_name": "/tmp/news_lk2/articles/94/94bed5da.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655643300,
+    "title": "Sri Lanka arrests woman with 26kg of Kerala Cannabis in North",
+    "url": "https://economynext.com/sri-lanka-arrests-woman-with-26kg-of-kerala-cannabis-in-north-96061/",
+    "file_name": "/tmp/news_lk2/articles/5e/5efb1e1b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655642460,
+    "title": "Minister requests to provide online education to students of schools closed next week",
+    "url": "http://www.adaderana.lk/news/83139/minister-requests-to-provide-online-education-to-students-of-schools-closed-next-week",
+    "file_name": "/tmp/news_lk2/articles/a6/a62600ef.json"
   }
 ]
