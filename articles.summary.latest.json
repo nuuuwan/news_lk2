@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655759040,
+    "title": "Sanath Nishantha\u2019s brother remanded",
+    "url": "http://www.adaderana.lk/news/83165/sanath-nishanthas-brother-remanded",
+    "file_name": "/tmp/news_lk2/articles/21/2161b14d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757600,
+    "title": "Vega Innovations partners USAID Sri Lanka Energy Program",
+    "url": "https://www.ft.lk/business/Vega-Innovations-partners-USAID-Sri-Lanka-Energy-Program/34-736443",
+    "file_name": "/tmp/news_lk2/articles/f6/f6f47451.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757540,
+    "title": "UTE commences retail distribution of CAT lubricants",
+    "url": "https://www.ft.lk/business/UTE-commences-retail-distribution-of-CAT-lubricants/34-736442",
+    "file_name": "/tmp/news_lk2/articles/d4/d4b2963f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757480,
+    "title": "Ceciliyan strives  with continuous  all-time record prices",
+    "url": "https://www.ft.lk/business/Ceciliyan-strives-with-continuous-all-time-record-prices/34-736440",
+    "file_name": "/tmp/news_lk2/articles/a3/a3d81d50.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655757480,
+    "title": "Ajith De Silva, appointed to the Associated Battery Manufacturers (ABM) board",
+    "url": "https://www.ft.lk/business/Ajith-De-Silva-appointed-to-the-Associated-Battery-Manufacturers-ABM-board/34-736441",
+    "file_name": "/tmp/news_lk2/articles/c3/c35fc1a8.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655757300,
     "title": "Sri Lanka and Australia renew commitment to boost bilateral ties",
@@ -131,6 +166,13 @@
     "title": "Kusal Mendis becomes father for first time",
     "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/322-239436",
     "file_name": "/tmp/news_lk2/articles/da/da803108.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655735640,
+    "title": "Kusal Mendis becomes father for first time",
+    "url": "https://www.dailymirror.lk/headline/Kusal-Mendis-becomes-father-for-first-time/419-239436",
+    "file_name": "/tmp/news_lk2/articles/e9/e9fa19a7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -656,47 +698,5 @@
     "title": "PM begins talks with visiting IMF team in Sri Lanka",
     "url": "http://www.adaderana.lk/news/83150/pm-begins-talks-with-visiting-imf-team-in-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/52/52f64807.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655699700,
-    "title": "Protesters blocking entrance to Presidential Secretariat removed",
-    "url": "https://www.dailymirror.lk/latest_news/Protesters-blocking-entrance-to-Presidential-Secretariat-removed/342-239413",
-    "file_name": "/tmp/news_lk2/articles/fa/fa34ffd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655699700,
-    "title": "Clare O\u2019Neil visits Sri Lanka for talks on how Australia can assist country\u2019s economic crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Clare-ONeil-visits-Sri-Lanka-for-talks-on-how-Australia-can-assist-countrys-economic-crisis/108-239405",
-    "file_name": "/tmp/news_lk2/articles/f7/f7013cf0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655699700,
-    "title": "Protesters blocking entrance to Presidential Secretariat removed",
-    "url": "https://www.dailymirror.lk/breaking_news/Protesters-blocking-entrance-to-Presidential-Secretariat-removed/108-239413",
-    "file_name": "/tmp/news_lk2/articles/49/4990d2e9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655698860,
-    "title": "MP Sanath Nishantha\u2019s brother arrested",
-    "url": "http://www.adaderana.lk/news/83149/mp-sanath-nishanthas-brother-arrested",
-    "file_name": "/tmp/news_lk2/articles/bc/bce76e15.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655698800,
-    "title": "PM commences talks with IMF Delegation",
-    "url": "https://www.dailymirror.lk/latest_news/PM-commences-talks-with-IMF-Delegation/342-239407",
-    "file_name": "/tmp/news_lk2/articles/1b/1b913101.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655698800,
-    "title": "PM commences talks with IMF Delegation",
-    "url": "https://www.dailymirror.lk/breaking_news/PM-commences-talks-with-IMF-Delegation/108-239407",
-    "file_name": "/tmp/news_lk2/articles/eb/eb0de2d8.json"
   }
 ]
