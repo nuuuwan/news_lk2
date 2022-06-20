@@ -1,5 +1,54 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655731800,
+    "title": "Amnesty International calls for release of detained Sri Lanka protestors",
+    "url": "https://economynext.com/amnesty-international-calls-for-release-of-detained-sri-lanka-protestors-96127/",
+    "file_name": "/tmp/news_lk2/articles/be/be5c2fc3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655731680,
+    "title": "Australia to assist Sri Lanka to overcome economic crisis within framework of IMF",
+    "url": "http://www.adaderana.lk/news/83161/australia-to-assist-sri-lanka-to-overcome-economic-crisis-within-framework-of-imf",
+    "file_name": "/tmp/news_lk2/articles/4e/4ebe6bfe.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655731020,
+    "title": "Sri Lanka stocks down for 5th session, hit near 8-wk low; fuel shortage weighs",
+    "url": "https://economynext.com/sri-lanka-stocks-down-for-5th-session-hit-near-8-wk-low-fuel-shortage-weighs-96126/",
+    "file_name": "/tmp/news_lk2/articles/b3/b37155e3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655730660,
+    "title": "Sri Lanka cabinet approves proposed 21st amendment to constitution",
+    "url": "https://economynext.com/sri-lanka-cabinet-approves-proposed-21st-amendment-to-constitution-96115/",
+    "file_name": "/tmp/news_lk2/articles/78/789072ed.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655730600,
+    "title": "President and PM must step down: Kiriella",
+    "url": "https://www.dailymirror.lk/latest_news/President-and-PM-must-step-down-Kiriella/342-239434",
+    "file_name": "/tmp/news_lk2/articles/fc/fce876cf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655729100,
+    "title": "Amid Chinese tourism shutdown, Sri Lanka says flights to and from Beijing to increase",
+    "url": "https://economynext.com/amid-chinese-tourism-shutdown-sri-lanka-says-flights-to-and-from-beijing-to-increase-96120/",
+    "file_name": "/tmp/news_lk2/articles/4c/4ceb1b6b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655729040,
+    "title": "Chinese Amb. delivers Xi\u2019s special message to President",
+    "url": "https://www.newsfirst.lk/2022/06/20/chinese-amb-delivers-xis-special-message-to-president/",
+    "file_name": "/tmp/news_lk2/articles/3d/3d8d094d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655728320,
     "title": "Cabinet approval for 21st Amendment to Constitution",
@@ -7,11 +56,25 @@
     "file_name": "/tmp/news_lk2/articles/ed/ed30a54b.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655727960,
+    "title": "21A passed by Cabinet; To be tabled in Parliament soon \u2013 Harin",
+    "url": "https://www.newsfirst.lk/2022/06/20/21a-passed-by-cabinet-to-be-tabled-in-parliament-soon-harin/",
+    "file_name": "/tmp/news_lk2/articles/56/5647f1e3.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655727420,
     "title": "Australia offers Sri Lanka assistance in Customs Department restructure",
     "url": "https://economynext.com/australia-offers-sri-lanka-assistance-in-customs-department-restructure-96121/",
     "file_name": "/tmp/news_lk2/articles/a3/a300d851.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655726640,
+    "title": "Flights between China and Sri Lanka to increase",
+    "url": "https://www.dailymirror.lk/latest_news/Flights-between-China-and-Sri-Lanka-to-increase/342-239433",
+    "file_name": "/tmp/news_lk2/articles/f5/f52eec2b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -152,6 +215,13 @@
     "title": "President will martial this country out of this crisis - MR",
     "url": "https://www.dailymirror.lk/breaking_news/President-will-martial-this-country-out-of-this-crisis-MR/108-239423",
     "file_name": "/tmp/news_lk2/articles/1d/1dd04c83.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655716740,
+    "title": "12 air tickets for students leaving for Japan",
+    "url": "https://www.dailymirror.lk/latest_news/12-air-tickets-for-students-leaving-for-Japan/342-239435",
+    "file_name": "/tmp/news_lk2/articles/7e/7e5efed9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -628,75 +698,5 @@
     "title": "Painted faces...",
     "url": "https://www.dailymirror.lk/caption_story/Painted-faces/110-239378",
     "file_name": "/tmp/news_lk2/articles/94/94f34060.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655680920,
-    "title": "All island private bus service will return to normal after tomorrow: Gemunu",
-    "url": "https://www.dailymirror.lk/latest_news/All-island-private-bus-service-will-return-to-normal-after-tomorrow-Gemunu/342-239375",
-    "file_name": "/tmp/news_lk2/articles/16/16898e47.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655680920,
-    "title": "All island private bus service will return to normal after tomorrow: Gemunu",
-    "url": "https://www.dailymirror.lk/breaking_news/All-island-private-bus-service-will-return-to-normal-after-tomorrow-Gemunu/108-239375",
-    "file_name": "/tmp/news_lk2/articles/bd/bd5fb95c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655675940,
-    "title": "Verit\u00e9 Research Sri Lanka Economic Policy Group makes key recommendations",
-    "url": "https://www.ft.lk/business/Verit\u00e9-Research-Sri-Lanka-Economic-Policy-Group-makes-key-recommendations/34-736394",
-    "file_name": "/tmp/news_lk2/articles/cd/cd943d30.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655675340,
-    "title": "Foreign Minister meets High Commissioner for Human Rights",
-    "url": "https://www.ft.lk/news/Foreign-Minister-meets-High-Commissioner-for-Human-Rights/56-736396",
-    "file_name": "/tmp/news_lk2/articles/f3/f3f6b43a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655674200,
-    "title": "New software application helps Sri Lanka Consulate General in Melbourne to deliver efficient services",
-    "url": "https://www.ft.lk/news/New-software-application-helps-Sri-Lanka-Consulate-General-in-Melbourne-to-deliver-efficient-services/56-736395",
-    "file_name": "/tmp/news_lk2/articles/4b/4b16362a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655672880,
-    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
-    "url": "https://www.dailymirror.lk/top_story/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/155-239376",
-    "file_name": "/tmp/news_lk2/articles/01/0132a857.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655672880,
-    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
-    "url": "https://www.dailymirror.lk/latest_news/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/342-239376",
-    "file_name": "/tmp/news_lk2/articles/6c/6cf43678.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655672880,
-    "title": "Global financial agencies or donor countries would not come forward to bail out SL: Sirisena",
-    "url": "https://www.dailymirror.lk/breaking_news/Global-financial-agencies-or-donor-countries-would-not-come-forward-to-bail-out-SL-Sirisena/108-239376",
-    "file_name": "/tmp/news_lk2/articles/ff/fff299db.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655667480,
-    "title": "Remembering late PM",
-    "url": "https://www.dailymirror.lk/caption_story/Remembering-late-PM/110-239377",
-    "file_name": "/tmp/news_lk2/articles/f9/f9bd3e3d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655667480,
-    "title": "Remembering late PM",
-    "url": "https://www.dailymirror.lk/latest_news/Remembering-late-PM/342-239377",
-    "file_name": "/tmp/news_lk2/articles/9e/9e0df746.json"
   }
 ]
