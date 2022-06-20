@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655735640,
+    "title": "Kusal Mendis becomes father for first time",
+    "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/322-239436",
+    "file_name": "/tmp/news_lk2/articles/da/da803108.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655731800,
     "title": "Amnesty International calls for release of detained Sri Lanka protestors",
@@ -229,6 +236,13 @@
     "title": "President will martial this country out of this crisis - MR",
     "url": "https://www.dailymirror.lk/breaking_news/President-will-martial-this-country-out-of-this-crisis-MR/108-239423",
     "file_name": "/tmp/news_lk2/articles/1d/1dd04c83.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655716740,
+    "title": "12 air tickets for students leaving for Japan",
+    "url": "https://www.dailymirror.lk/caption_story/12-air-tickets-for-students-leaving-for-Japan/110-239435",
+    "file_name": "/tmp/news_lk2/articles/c1/c135be7c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Fairly heavy showers expected in parts of the country",
     "url": "http://www.adaderana.lk/news/83145/fairly-heavy-showers-expected-in-parts-of-the-country",
     "file_name": "/tmp/news_lk2/articles/6d/6d16e0a8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655689800,
-    "title": "Speculation over Litro gas tender controversy",
-    "url": "https://www.newsfirst.lk/2022/06/20/speculation-over-litro-gas-tender-controversy/",
-    "file_name": "/tmp/news_lk2/articles/97/976c653d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655689080,
-    "title": "Sri Lanka chicken, egg production plunge amid soft-peg collapse",
-    "url": "https://economynext.com/sri-lanka-chicken-egg-production-plunge-amid-soft-peg-collapse-96071/",
-    "file_name": "/tmp/news_lk2/articles/64/641f2b67.json"
   }
 ]
