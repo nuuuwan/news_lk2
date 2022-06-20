@@ -1,6 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655750400,
+    "title": "Fighting in a minefield",
+    "url": "https://www.dailymirror.lk/opinion/Fighting-in-a-minefield/172-239461",
+    "file_name": "/tmp/news_lk2/articles/26/26a3f18f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655750280,
+    "title": "Why Gotabaya should go? Why now?",
+    "url": "https://www.dailymirror.lk/opinion/Why-Gotabaya-should-go-Why-now/172-239462",
+    "file_name": "/tmp/news_lk2/articles/6a/6a143f00.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655750100,
+    "title": "Future of the country is precarious, hopeless and bleak: Anura Priyadharshana Yapa",
+    "url": "https://www.dailymirror.lk/hard-talk/Future-of-the-country-is-precarious-hopeless-and-bleak-Anura-Priyadharshana-Yapa/334-239466",
+    "file_name": "/tmp/news_lk2/articles/3f/3f9ecee5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655749800,
     "title": "Strengthening parliamentary committees is critical for making 21A meaningful",
     "url": "https://www.dailymirror.lk/opinion/Strengthening-parliamentary-committees-is-critical-for-making-21A-meaningful/172-239465",
@@ -12,6 +33,13 @@
     "title": "PM looking forward to reach staff-level agreement with IMF",
     "url": "http://www.adaderana.lk/news/83164/pm-looking-forward-to-reach-staff-level-agreement-with-imf",
     "file_name": "/tmp/news_lk2/articles/43/43e811d2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655746920,
+    "title": "Essential, life-saving drugs in hospitals running out rapidly: GMOA",
+    "url": "https://www.dailymirror.lk/latest_news/Essential-life-saving-drugs-in-hospitals-running-out-rapidly-GMOA/342-239440",
+    "file_name": "/tmp/news_lk2/articles/a5/a5f68d1a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Lotus Roundabout in Colombo blocked due to protest",
     "url": "http://www.adaderana.lk/news/83148/lotus-roundabout-in-colombo-blocked-due-to-protest",
     "file_name": "/tmp/news_lk2/articles/b9/b9c6ac43.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655697600,
-    "title": "Police detain GotaGoGama protestors who obstructed gates to President\u2019s Office",
-    "url": "https://www.newsfirst.lk/2022/06/20/police-detain-gotagogama-protestors-who-obstructed-gates-to-presidents-office/",
-    "file_name": "/tmp/news_lk2/articles/69/6958786b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655697120,
-    "title": "NO Power Cuts in the Morning \u2013 PUCSL",
-    "url": "https://www.newsfirst.lk/2022/06/20/no-power-cuts-in-the-morning-pucsl/",
-    "file_name": "/tmp/news_lk2/articles/e8/e81079be.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655696760,
-    "title": "Sri Lanka record highest ODI chase against Australia to go 2-1 up",
-    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-record-highest-odi-chase-against-australia-to-go-2-1-up/",
-    "file_name": "/tmp/news_lk2/articles/e1/e1a2a878.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655696220,
-    "title": "GotaGoGama : All gates at President\u2019s Office taken over by protestors",
-    "url": "https://www.newsfirst.lk/2022/06/20/gotagogama-all-gates-at-presidents-office-taken-over-by-protestors/",
-    "file_name": "/tmp/news_lk2/articles/cf/cff729b5.json"
   }
 ]
