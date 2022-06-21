@@ -1,10 +1,52 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655795880,
+    "title": "List of filling stations allocated for health sector workers on Fridays",
+    "url": "http://www.adaderana.lk/news/83171/list-of-filling-stations-allocated-for-health-sector-workers-on-fridays-",
+    "file_name": "/tmp/news_lk2/articles/7a/7ab2af8f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655795700,
+    "title": "U.S. Announces an Additional $5.75M in Response to Sri Lanka\u2019s Economic Crisis",
+    "url": "https://www.newsfirst.lk/2022/06/21/u-s-announces-an-additional-5-75m-in-response-to-sri-lankas-economic-crisis/",
+    "file_name": "/tmp/news_lk2/articles/c2/c2969e72.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655795460,
+    "title": "GL to represent President at CHOGM in Rwanda",
+    "url": "https://www.newsfirst.lk/2022/06/21/gl-to-represent-president-at-chogm-in-rwanda/",
+    "file_name": "/tmp/news_lk2/articles/0b/0bbcaaa7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655793660,
     "title": "August and December school holidays to be shortened - Education Minister",
     "url": "https://www.dailymirror.lk/latest_news/August-and-December-school-holidays-to-be-shortened-Education-Minister/342-239495",
     "file_name": "/tmp/news_lk2/articles/44/440da6f3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655793660,
+    "title": "August and December school holidays to be shortened - Education Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/August-and-December-school-holidays-to-be-shortened-Education-Minister/108-239495",
+    "file_name": "/tmp/news_lk2/articles/a3/a3575dd8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655792820,
+    "title": "Sri Lanka stock gains over 1.5-pct in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stock-gains-over-1-5-pct-in-mid-day-trade-96186/",
+    "file_name": "/tmp/news_lk2/articles/dc/dca4a425.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655792340,
+    "title": "Daily Exchange Rate from CBSL",
+    "url": "https://www.newsfirst.lk/2022/06/21/daily-exchange-rate-from-cbsl-3/",
+    "file_name": "/tmp/news_lk2/articles/20/20e0a91b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -15,6 +57,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791860,
+    "title": "SC determines SJB\u2019s 21A requires approval through referendum: Speaker informs Parliament",
+    "url": "https://www.dailymirror.lk/breaking_news/SC-determines-SJBs-21A-requires-approval-through-referendum-Speaker-informs-Parliament/108-239494",
+    "file_name": "/tmp/news_lk2/articles/9a/9abfecb2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655791500,
     "title": "Driver gets a friendly nudge from Geetha",
     "url": "https://www.dailymirror.lk/latest_news/Driver-gets-a-friendly-nudge-from-Geetha/342-239493",
@@ -22,10 +71,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791500,
+    "title": "Driver gets a friendly nudge from Geetha",
+    "url": "https://www.dailymirror.lk/breaking_news/Driver-gets-a-friendly-nudge-from-Geetha/108-239493",
+    "file_name": "/tmp/news_lk2/articles/2c/2c962e3e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655791380,
     "title": "SJB, SLFP and NPP walk out of Parliament",
     "url": "https://www.dailymirror.lk/latest_news/SJB-SLFP-and-NPP-walk-out-of-Parliament/342-239492",
     "file_name": "/tmp/news_lk2/articles/c1/c1bde89d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791380,
+    "title": "SJB, SLFP and NPP walk out of Parliament",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-SLFP-and-NPP-walk-out-of-Parliament/108-239492",
+    "file_name": "/tmp/news_lk2/articles/82/82f1ccdc.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -54,6 +117,13 @@
     "title": "Jaishankar assures support for stabilizing and recovering Sri Lankan economy",
     "url": "https://www.newsfirst.lk/2022/06/21/jaishankar-assures-support-for-stabilizing-and-recovering-sri-lankan-economy/",
     "file_name": "/tmp/news_lk2/articles/3f/3f041f89.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655789220,
+    "title": "Minimum age for SL women working abroad amended to 21",
+    "url": "https://www.dailymirror.lk/breaking_news/Minimum-age-for-SL-women-working-abroad-amended-to-21/108-239491",
+    "file_name": "/tmp/news_lk2/articles/52/527306e8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -560,6 +630,13 @@
     "file_name": "/tmp/news_lk2/articles/e9/e9fa19a7.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655735640,
+    "title": "Kusal Mendis becomes father for first time",
+    "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/323-239436",
+    "file_name": "/tmp/news_lk2/articles/b5/b5bceacd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655734680,
     "title": "Prime Minister Wickremesinghe meets Australia\u2019s Minister of Home Affairs",
@@ -621,82 +698,5 @@
     "title": "Chinese Amb. delivers Xi\u2019s special message to President",
     "url": "https://www.newsfirst.lk/2022/06/20/chinese-amb-delivers-xis-special-message-to-president/",
     "file_name": "/tmp/news_lk2/articles/3d/3d8d094d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655728320,
-    "title": "Cabinet approval for 21st Amendment to Constitution",
-    "url": "http://www.adaderana.lk/news/83160/cabinet-approval-for-21st-amendment-to-constitution",
-    "file_name": "/tmp/news_lk2/articles/ed/ed30a54b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655727960,
-    "title": "21A passed by Cabinet; To be tabled in Parliament soon \u2013 Harin",
-    "url": "https://www.newsfirst.lk/2022/06/20/21a-passed-by-cabinet-to-be-tabled-in-parliament-soon-harin/",
-    "file_name": "/tmp/news_lk2/articles/56/5647f1e3.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655727420,
-    "title": "Australia offers Sri Lanka assistance in Customs Department restructure",
-    "url": "https://economynext.com/australia-offers-sri-lanka-assistance-in-customs-department-restructure-96121/",
-    "file_name": "/tmp/news_lk2/articles/a3/a300d851.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655726640,
-    "title": "Flights between China and Sri Lanka to increase",
-    "url": "https://www.dailymirror.lk/breaking_news/Flights-between-China-and-Sri-Lanka-to-increase/108-239433",
-    "file_name": "/tmp/news_lk2/articles/a9/a9f6ec51.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655726640,
-    "title": "Flights between China and Sri Lanka to increase",
-    "url": "https://www.dailymirror.lk/latest_news/Flights-between-China-and-Sri-Lanka-to-increase/342-239433",
-    "file_name": "/tmp/news_lk2/articles/f5/f52eec2b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655725680,
-    "title": "Protesters arrested near Finance Ministry granted bail",
-    "url": "http://www.adaderana.lk/news/83159/protesters-arrested-near-finance-ministry-granted-bail",
-    "file_name": "/tmp/news_lk2/articles/a0/a0cf7729.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655725440,
-    "title": "Sanath Nishantha\u2019s brother remanded for assault & obstruction",
-    "url": "https://www.newsfirst.lk/2022/06/20/sanath-nishanthas-brother-remanded-for-assault-obstruction/",
-    "file_name": "/tmp/news_lk2/articles/12/12239487.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655725020,
-    "title": "Dhammika Perera undertakes not to take oath as MP or Minister until court decides on FR",
-    "url": "http://www.adaderana.lk/news/83158/dhammika-perera-undertakes-not-to-take-oath-as-mp-or-minister-until-court-decides-on-fr",
-    "file_name": "/tmp/news_lk2/articles/9c/9cf7cb8a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655724900,
-    "title": "Sri Lanka police arrests 21 anti-govt protestors as IMF talks begin",
-    "url": "https://economynext.com/sri-lanka-police-arrests-21-anti-govt-protestors-as-imf-talks-begin-96114/",
-    "file_name": "/tmp/news_lk2/articles/a0/a06ccdd8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655724840,
-    "title": "Bicycles to the rescue....",
-    "url": "https://www.dailymirror.lk/caption_story/Bicycles-to-the-rescue/110-239431",
-    "file_name": "/tmp/news_lk2/articles/0c/0c10f919.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655724840,
-    "title": "Bicycles to the rescue....",
-    "url": "https://www.dailymirror.lk/latest_news/Bicycles-to-the-rescue/342-239431",
-    "file_name": "/tmp/news_lk2/articles/5b/5bfcbf13.json"
   }
 ]
