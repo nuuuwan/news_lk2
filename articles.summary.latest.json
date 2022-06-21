@@ -140,6 +140,34 @@
     "file_name": "/tmp/news_lk2/articles/86/8623cfdf.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655738580,
+    "title": "Sustainable fuel bill for road transport",
+    "url": "http://island.lk/sustainable-fuel-bill-for-road-transport/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9413fbb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655738460,
+    "title": "SLT-MOBITEL and NWSDB sign agreement to provide Call Centre solution for citizens",
+    "url": "http://island.lk/slt-mobitel-and-nwsdb-sign-agreement-to-provide-call-centre-solution-for-citizens/",
+    "file_name": "/tmp/news_lk2/articles/b3/b339a45f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655738340,
+    "title": "Ajith De Silva, appointed to Associated Battery Manufacturers Board",
+    "url": "http://island.lk/ajith-de-silva-appointed-to-associated-battery-manufacturers-board/",
+    "file_name": "/tmp/news_lk2/articles/fd/fd1dc2c1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655738280,
+    "title": "Drop in CSE market capitalization; net foreign outflow Rs. 40 million",
+    "url": "http://island.lk/drop-in-cse-market-capitalization-net-foreign-outflow-rs-40-million/",
+    "file_name": "/tmp/news_lk2/articles/9e/9eb72635.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655737860,
     "title": "IUSF against shortage of gas, fuel, medicine, food",
@@ -152,6 +180,13 @@
     "title": "IUSF against shortage of gas, fuel, medicine, food",
     "url": "https://www.dailymirror.lk/caption_story/IUSF-against-shortage-of-gas-fuel-medicine-food/110-239437",
     "file_name": "/tmp/news_lk2/articles/50/50ab1d03.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655737080,
+    "title": "Big scene for Rajiv, The Clan and Falan in the UK and Europe!",
+    "url": "http://island.lk/big-scene-for-rajiv-the-clan-and-falan-in-the-uk-and-europe/",
+    "file_name": "/tmp/news_lk2/articles/86/86e2dee8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Sri Lanka police arrest 19 protestors on president\u2019s birthday",
     "url": "https://economynext.com/sri-lanka-police-arrest-19-protestors-on-presidents-birthday-96097/",
     "file_name": "/tmp/news_lk2/articles/2b/2b87a712.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655702220,
-    "title": "Three including MP Sanath Nishantha\u2019s brother arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Three-including-MP-Sanath-Nishanthas-brother-arrested/108-239415",
-    "file_name": "/tmp/news_lk2/articles/9c/9cdb36f1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655701740,
-    "title": "Buses, trains run smoothly today",
-    "url": "https://www.dailymirror.lk/latest_news/Buses-trains-run-smoothly-today/342-239414",
-    "file_name": "/tmp/news_lk2/articles/b0/b0595bed.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655701740,
-    "title": "Buses, trains run smoothly today",
-    "url": "https://www.dailymirror.lk/breaking_news/Buses-trains-run-smoothly-today/108-239414",
-    "file_name": "/tmp/news_lk2/articles/99/99163e40.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655700900,
-    "title": "Sri Lanka Prime Minister meets IMF mission in bailout talks",
-    "url": "https://economynext.com/sri-lanka-prime-minister-meets-imf-mission-in-bailout-talks-96088/",
-    "file_name": "/tmp/news_lk2/articles/c3/c343860f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655700180,
-    "title": "PM begins talks with visiting IMF team in Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83150/pm-begins-talks-with-visiting-imf-team-in-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/52/52f64807.json"
   }
 ]
