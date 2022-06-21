@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655836080,
+    "title": "Former CEB chairman to be summoned before COPE",
+    "url": "http://www.adaderana.lk/news/83183/former-ceb-chairman-to-be-summoned-before-cope",
+    "file_name": "/tmp/news_lk2/articles/d6/d6f0ee29.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655832300,
     "title": "Sri Lanka wins first ODI series over Australia since 2010",
@@ -691,12 +698,5 @@
     "title": "SJB & JVP boycott Parliament session, as mark of protest against government",
     "url": "https://www.newsfirst.lk/2022/06/21/sjb-jvp-boycott-parliament-session-as-mark-of-protest-against-government/",
     "file_name": "/tmp/news_lk2/articles/78/78dd7229.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655788560,
-    "title": "Speaker conveys SC\u2019s determination on constitutional amendments proposed by SJB",
-    "url": "http://www.adaderana.lk/news/83169/speaker-conveys-scs-determination-on-constitutional-amendments-proposed-by-sjb",
-    "file_name": "/tmp/news_lk2/articles/6c/6c461262.json"
   }
 ]
