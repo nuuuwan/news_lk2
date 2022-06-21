@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655817180,
+    "title": "Youth activist Anuruddha Bandara released from court case",
+    "url": "http://www.adaderana.lk/news/83181/youth-activist-anuruddha-bandara-released-from-court-case",
+    "file_name": "/tmp/news_lk2/articles/76/76b1f651.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655816100,
+    "title": "Sri Lanka stocks reverse falling trend on IMF discussion; concerns remain",
+    "url": "https://economynext.com/sri-lanka-stocks-reverse-falling-trend-on-imf-discussion-concerns-remain-96207/",
+    "file_name": "/tmp/news_lk2/articles/19/1915ee96.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655815860,
+    "title": "Court dismisses Johnston\u2019s writ application",
+    "url": "http://www.adaderana.lk/news/83180/court-dismisses-johnstons-writ-application",
+    "file_name": "/tmp/news_lk2/articles/48/48187541.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655814900,
     "title": "Parliament week limited to two days",
@@ -677,26 +698,5 @@
     "title": "Over 3,000 dengue cases from Western Province",
     "url": "https://www.newsfirst.lk/2022/06/21/over-3000-dengue-cases-from-western-province/",
     "file_name": "/tmp/news_lk2/articles/58/5804c4ab.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655781720,
-    "title": "Passport demand increases",
-    "url": "https://www.newsfirst.lk/2022/06/21/passport-demand-increases/",
-    "file_name": "/tmp/news_lk2/articles/18/185414fa.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655781000,
-    "title": "Fuel for health staff on Fridays",
-    "url": "https://www.newsfirst.lk/2022/06/21/fuel-for-health-staff-on-fridays/",
-    "file_name": "/tmp/news_lk2/articles/c9/c9e8b262.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655780280,
-    "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/108-239480",
-    "file_name": "/tmp/news_lk2/articles/01/014d7a6c.json"
   }
 ]
