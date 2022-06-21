@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655793660,
+    "title": "August and December school holidays to be shortened - Education Minister",
+    "url": "https://www.dailymirror.lk/latest_news/August-and-December-school-holidays-to-be-shortened-Education-Minister/342-239495",
+    "file_name": "/tmp/news_lk2/articles/44/440da6f3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791860,
+    "title": "SC determines SJB\u2019s 21A requires approval through referendum: Speaker informs Parliament",
+    "url": "https://www.dailymirror.lk/latest_news/SC-determines-SJBs-21A-requires-approval-through-referendum-Speaker-informs-Parliament/342-239494",
+    "file_name": "/tmp/news_lk2/articles/79/79592c99.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791500,
+    "title": "Driver gets a friendly nudge from Geetha",
+    "url": "https://www.dailymirror.lk/latest_news/Driver-gets-a-friendly-nudge-from-Geetha/342-239493",
+    "file_name": "/tmp/news_lk2/articles/c7/c73a3ebe.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655791380,
+    "title": "SJB, SLFP and NPP walk out of Parliament",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-SLFP-and-NPP-walk-out-of-Parliament/342-239492",
+    "file_name": "/tmp/news_lk2/articles/c1/c1bde89d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655791320,
     "title": "Bus services at 50% in the face of Fuel Crisis",
@@ -101,6 +129,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655785200,
     "title": "SJB to boycott Parliament from today",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-boycott-Parliament-from-today/108-239490",
+    "file_name": "/tmp/news_lk2/articles/1d/1da3c1de.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655785200,
+    "title": "SJB to boycott Parliament from today",
     "url": "https://www.dailymirror.lk/latest_news/SJB-to-boycott-Parliament-from-today/342-239490",
     "file_name": "/tmp/news_lk2/articles/c5/c522c43d.json"
   },
@@ -159,6 +194,13 @@
     "title": "Sri Lanka revises Minimum Age for Migrant Domestic Workers",
     "url": "https://www.newsfirst.lk/2022/06/21/sri-lanka-revises-minimum-age-for-migrant-domestic-workers/",
     "file_name": "/tmp/news_lk2/articles/d6/d67cacfd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655782500,
+    "title": "Gazette issued; bringing fuel supply, power, health care under essential services category",
+    "url": "https://www.dailymirror.lk/breaking_news/Gazette-issued-bringing-fuel-supply-power-health-care-under-essential-services-category/108-239489",
+    "file_name": "/tmp/news_lk2/articles/e1/e16dab82.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -334,6 +376,13 @@
     "title": "UK monitoring SL situation, ready to support",
     "url": "https://www.ft.lk/news/UK-monitoring-SL-situation-ready-to-support/56-736438",
     "file_name": "/tmp/news_lk2/articles/36/36f594a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655752440,
+    "title": "Jaffna International Airport to resume international flights from July 1",
+    "url": "https://www.dailymirror.lk/breaking_news/Jaffna-International-Airport-to-resume-international-flights-from-July-1/108-239470",
+    "file_name": "/tmp/news_lk2/articles/66/66fab489.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "Bicycles to the rescue....",
     "url": "https://www.dailymirror.lk/latest_news/Bicycles-to-the-rescue/342-239431",
     "file_name": "/tmp/news_lk2/articles/5b/5bfcbf13.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655722200,
-    "title": "\u2018Will NOT take oaths as MP or Minister until decision on FR\u2019 \u2013 Dhammika promises to SC",
-    "url": "https://www.newsfirst.lk/2022/06/20/will-not-take-oaths-as-mp-or-minister-until-decision-on-fr-dhammika-promises-to-sc/",
-    "file_name": "/tmp/news_lk2/articles/b1/b18aaae7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655721600,
-    "title": "Free vocational training for children of workers: Manusha",
-    "url": "https://www.dailymirror.lk/breaking_news/Free-vocational-training-for-children-of-workers-Manusha/108-239428",
-    "file_name": "/tmp/news_lk2/articles/de/de4dd566.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655721600,
-    "title": "Free vocational training for children of workers: Manusha",
-    "url": "https://www.dailymirror.lk/latest_news/Free-vocational-training-for-children-of-workers-Manusha/342-239428",
-    "file_name": "/tmp/news_lk2/articles/fd/fd316581.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655720280,
-    "title": "Ex-provincial councillor acquitted in double murder case",
-    "url": "http://www.adaderana.lk/news/83157/ex-provincial-councillor-acquitted-in-double-murder-case",
-    "file_name": "/tmp/news_lk2/articles/23/23b64df1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655718600,
-    "title": "Cannot afford to allow protesters to disrupt economic recovery: UNP",
-    "url": "https://www.dailymirror.lk/latest_news/Cannot-afford-to-allow-protesters-to-disrupt-economic-recovery-UNP/342-239427",
-    "file_name": "/tmp/news_lk2/articles/88/88640c91.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655718600,
-    "title": "Cannot afford to allow protesters to disrupt economic recovery: UNP",
-    "url": "https://www.dailymirror.lk/breaking_news/Cannot-afford-to-allow-protesters-to-disrupt-economic-recovery-UNP/108-239427",
-    "file_name": "/tmp/news_lk2/articles/30/30734be5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655718420,
-    "title": "French elections: Macron loses majority as French vote fragments",
-    "url": "https://www.dailymirror.lk/breaking_news/French-elections-Macron-loses-majority-as-French-vote-fragments/108-239426",
-    "file_name": "/tmp/news_lk2/articles/92/9265a81d.json"
   }
 ]
