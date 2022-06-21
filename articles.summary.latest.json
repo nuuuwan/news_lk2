@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655789220,
+    "title": "Minimum age for SL women working abroad amended to 21",
+    "url": "https://www.dailymirror.lk/latest_news/Minimum-age-for-SL-women-working-abroad-amended-to-21/342-239491",
+    "file_name": "/tmp/news_lk2/articles/bc/bc71225a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655788560,
+    "title": "Speaker conveys SC\u2019s determination on constitutional amendments proposed by SJB",
+    "url": "http://www.adaderana.lk/news/83169/speaker-conveys-scs-determination-on-constitutional-amendments-proposed-by-sjb",
+    "file_name": "/tmp/news_lk2/articles/6c/6c461262.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655787900,
+    "title": "21A: Supreme Court says some clauses inconsistent, must pass by Special Majority & referendum",
+    "url": "https://www.newsfirst.lk/2022/06/21/21a-supreme-court-says-some-clauses-inconsistent-must-pass-by-special-majority-referendum/",
+    "file_name": "/tmp/news_lk2/articles/b3/b3ab8c0a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655787780,
     "title": "Sri Lanka main opposition SJB to boycott parliament in protest",
@@ -8,10 +29,24 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655787780,
+    "title": "Sri Lanka opposition parties to boycott parliament in protest",
+    "url": "https://economynext.com/sri-lanka-opposition-parties-to-boycott-parliament-in-protest-96168/",
+    "file_name": "/tmp/news_lk2/articles/30/3070de8d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655785680,
     "title": "Sri Lanka to lease railway reservation land for emergency farming",
     "url": "https://economynext.com/sri-lanka-to-lease-railway-reservation-land-for-emergency-farming-96158/",
     "file_name": "/tmp/news_lk2/articles/b3/b3c80315.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655785380,
+    "title": "Australia to help Sri Lanka overcome crisis \u2013 Home Minister",
+    "url": "https://www.newsfirst.lk/2022/06/21/australia-to-help-sri-lanka-overcome-crisis-home-minister/",
+    "file_name": "/tmp/news_lk2/articles/2f/2f172ea1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -108,6 +143,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655780280,
     "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/342-239480",
+    "file_name": "/tmp/news_lk2/articles/d8/d8393ec8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655780280,
+    "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
     "url": "https://www.dailymirror.lk/business-news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/273-239480",
     "file_name": "/tmp/news_lk2/articles/4b/4b1a7763.json"
   },
@@ -117,6 +159,13 @@
     "title": "Distribution of petroleum products and fuel declared as essential services",
     "url": "http://www.adaderana.lk/news/83167/distribution-of-petroleum-products-and-fuel-declared-as-essential-services",
     "file_name": "/tmp/news_lk2/articles/0b/0bfddf3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655778240,
+    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
+    "url": "https://www.dailymirror.lk/latest_news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/342-239479",
+    "file_name": "/tmp/news_lk2/articles/40/40b39ae8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -649,54 +698,5 @@
     "title": "President will martial this country out of this crisis - MR",
     "url": "https://www.dailymirror.lk/breaking_news/President-will-martial-this-country-out-of-this-crisis-MR/108-239423",
     "file_name": "/tmp/news_lk2/articles/1d/1dd04c83.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655716740,
-    "title": "12 air tickets for students leaving for Japan",
-    "url": "https://www.dailymirror.lk/caption_story/12-air-tickets-for-students-leaving-for-Japan/110-239435",
-    "file_name": "/tmp/news_lk2/articles/c1/c135be7c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655716740,
-    "title": "12 air tickets for students leaving for Japan",
-    "url": "https://www.dailymirror.lk/latest_news/12-air-tickets-for-students-leaving-for-Japan/342-239435",
-    "file_name": "/tmp/news_lk2/articles/7e/7e5efed9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655715840,
-    "title": "Take legal action against those who gave order, instead withholding bowser permits: Bowser Assn.",
-    "url": "https://www.dailymirror.lk/latest_news/Take-legal-action-against-those-who-gave-order-instead-withholding-bowser-permits-Bowser-Assn/342-239422",
-    "file_name": "/tmp/news_lk2/articles/6a/6a53269f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655715840,
-    "title": "Take legal action against those who gave order, instead withholding bowser permits: Bowser Assn.",
-    "url": "https://www.dailymirror.lk/breaking_news/Take-legal-action-against-those-who-gave-order-instead-withholding-bowser-permits-Bowser-Assn/108-239422",
-    "file_name": "/tmp/news_lk2/articles/9e/9e574416.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655715720,
-    "title": "Australian Home Affairs Minister in Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/20/australian-home-affairs-minister-in-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/12/12a3cfb5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655715240,
-    "title": "Kerala cannabis worth around Rs. 120 million seized at Udappuwa",
-    "url": "http://www.adaderana.lk/news/83154/kerala-cannabis-worth-around-rs-120-million-seized-at-udappuwa",
-    "file_name": "/tmp/news_lk2/articles/ad/ad518416.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655713680,
-    "title": "Dhammika Perera to be sworn as MP tomorrow",
-    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/108-239421",
-    "file_name": "/tmp/news_lk2/articles/bb/bbbb8d80.json"
   }
 ]
