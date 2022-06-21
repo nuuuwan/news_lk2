@@ -21,11 +21,25 @@
     "file_name": "/tmp/news_lk2/articles/84/8452409b.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655828460,
+    "title": "COPE to take oath from officials before making statements",
+    "url": "https://www.dailymirror.lk/latest_news/COPE-to-take-oath-from-officials-before-making-statements/342-239517",
+    "file_name": "/tmp/news_lk2/articles/a6/a6a1c312.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655827020,
     "title": "Dhammika Perera to take oath as MP tomorrow",
     "url": "http://www.adaderana.lk/news/83182/dhammika-perera-to-take-oath-as-mp-tomorrow",
     "file_name": "/tmp/news_lk2/articles/2c/2c9d083e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655826780,
+    "title": "SL Govt. making an effort effort to reclaim compensation",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/108-239514",
+    "file_name": "/tmp/news_lk2/articles/6e/6e9f1a80.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Speaker conveys SC\u2019s determination on constitutional amendments proposed by SJB",
     "url": "http://www.adaderana.lk/news/83169/speaker-conveys-scs-determination-on-constitutional-amendments-proposed-by-sjb",
     "file_name": "/tmp/news_lk2/articles/6c/6c461262.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655788440,
-    "title": "COPA focus on ICTA contributions to State",
-    "url": "https://www.newsfirst.lk/2022/06/21/copa-focus-on-icta-contributions-to-state/",
-    "file_name": "/tmp/news_lk2/articles/c6/c60de818.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655787900,
-    "title": "21A: Supreme Court says some clauses inconsistent, must pass by Special Majority & referendum",
-    "url": "https://www.newsfirst.lk/2022/06/21/21a-supreme-court-says-some-clauses-inconsistent-must-pass-by-special-majority-referendum/",
-    "file_name": "/tmp/news_lk2/articles/b3/b3ab8c0a.json"
   }
 ]
