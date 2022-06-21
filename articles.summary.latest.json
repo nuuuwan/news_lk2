@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655809080,
+    "title": "Power cut schedule for Wednesday and Thursday",
+    "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-for-Wednesday-and-Thursday/342-239507",
+    "file_name": "/tmp/news_lk2/articles/88/8804b627.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655808180,
+    "title": "Supreme Court dismisses FR petitions against appointing Dhammika Perera as MP",
+    "url": "http://www.adaderana.lk/news/83177/supreme-court-dismisses-fr-petitions-against-appointing-dhammika-perera-as-mp",
+    "file_name": "/tmp/news_lk2/articles/70/705a29a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655807160,
+    "title": "Supreme Court rejects petitions against Dhammika Perera\u2019s appointment",
+    "url": "https://www.newsfirst.lk/2022/06/21/supreme-court-rejects-petitions-against-dhammika-pereras-appointment/",
+    "file_name": "/tmp/news_lk2/articles/b5/b5f1d549.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655807040,
     "title": "Sri Lanka\u2019s inflation hits record high 45.3% in May",
@@ -17,8 +38,22 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655806680,
     "title": "Reveal why US$129 paid to procure one MT Gas: Dayasiri asks PM",
+    "url": "https://www.dailymirror.lk/latest_news/Reveal-why-US-129-paid-to-procure-one-MT-Gas-Dayasiri-asks-PM/342-239505",
+    "file_name": "/tmp/news_lk2/articles/9f/9f4a4e23.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655806680,
+    "title": "Reveal why US$129 paid to procure one MT Gas: Dayasiri asks PM",
     "url": "https://www.dailymirror.lk/breaking_news/Reveal-why-US-129-paid-to-procure-one-MT-Gas-Dayasiri-asks-PM/108-239505",
     "file_name": "/tmp/news_lk2/articles/03/03c007a7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655806440,
+    "title": "PM, Ministers perform Yoga in Colombo",
+    "url": "https://www.newsfirst.lk/2022/06/21/pm-ministers-perform-yoga-in-colombo/",
+    "file_name": "/tmp/news_lk2/articles/38/38196e29.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -28,11 +63,39 @@
     "file_name": "/tmp/news_lk2/articles/fa/fabc3a8a.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655806320,
+    "title": "PMB Rice to the market from next week",
+    "url": "https://www.newsfirst.lk/2022/06/21/pmb-rice-to-the-market-from-next-week/",
+    "file_name": "/tmp/news_lk2/articles/6e/6ee3411d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655806140,
+    "title": "Sri Lanka looking to discuss debt restructuring with China",
+    "url": "https://www.newsfirst.lk/2022/06/21/sri-lanka-looking-to-discuss-debt-restructuring-with-china/",
+    "file_name": "/tmp/news_lk2/articles/ce/ce20ea17.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655805900,
+    "title": "Fuel crisis is a technical issue, not a political one: Bandula",
+    "url": "https://www.newsfirst.lk/2022/06/21/fuel-crisis-is-a-technical-issue-not-a-political-one-bandula/",
+    "file_name": "/tmp/news_lk2/articles/cd/cd2c97fc.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655805180,
     "title": "Int\u2019l Yoga Day",
     "url": "https://www.dailymirror.lk/caption_story/Intl-Yoga-Day/110-239502",
     "file_name": "/tmp/news_lk2/articles/f4/f4d3bd34.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655805060,
+    "title": "Railway lands for Cultivations",
+    "url": "https://www.newsfirst.lk/2022/06/21/railway-lands-for-cultivations/",
+    "file_name": "/tmp/news_lk2/articles/05/056e8f14.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -98,6 +161,13 @@
     "file_name": "/tmp/news_lk2/articles/38/38619b80.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655801640,
+    "title": "Step down if unable to provide solutions...",
+    "url": "https://www.dailymirror.lk/latest_news/Step-down-if-unable-to-provide-solutions/342-239503",
+    "file_name": "/tmp/news_lk2/articles/53/53baaedb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655801280,
     "title": "Petrol distribution restricted; Does NOT apply to Diesel",
@@ -159,6 +229,13 @@
     "title": "Crisis aggravated after new govt., PM took over: AKD",
     "url": "https://www.dailymirror.lk/latest_news/Crisis-aggravated-after-new-govt-PM-took-over-AKD/342-239498",
     "file_name": "/tmp/news_lk2/articles/b1/b1818626.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655797560,
+    "title": "Sri Lanka central bank own Treasuries holding tops Rs 2 trillion",
+    "url": "https://economynext.com/sri-lanka-central-bank-own-treasuries-holding-tops-rs-2-trillion-96190/",
+    "file_name": "/tmp/news_lk2/articles/34/342a514e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -621,82 +698,5 @@
     "title": "UTE commences retail distribution of CAT lubricants",
     "url": "https://www.ft.lk/business/UTE-commences-retail-distribution-of-CAT-lubricants/34-736442",
     "file_name": "/tmp/news_lk2/articles/d4/d4b2963f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757480,
-    "title": "Ceciliyan strives  with continuous  all-time record prices",
-    "url": "https://www.ft.lk/business/Ceciliyan-strives-with-continuous-all-time-record-prices/34-736440",
-    "file_name": "/tmp/news_lk2/articles/a3/a3d81d50.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757480,
-    "title": "Ajith De Silva, appointed to the Associated Battery Manufacturers (ABM) board",
-    "url": "https://www.ft.lk/business/Ajith-De-Silva-appointed-to-the-Associated-Battery-Manufacturers-ABM-board/34-736441",
-    "file_name": "/tmp/news_lk2/articles/c3/c35fc1a8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757300,
-    "title": "Sri Lanka and Australia renew commitment to boost bilateral ties",
-    "url": "https://www.ft.lk/news/Sri-Lanka-and-Australia-renew-commitment-to-boost-bilateral-ties/56-736439",
-    "file_name": "/tmp/news_lk2/articles/8d/8d617412.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757300,
-    "title": "Galle Face protesters arrested near Finance Ministry granted bail",
-    "url": "https://www.ft.lk/news/Galle-Face-protesters-arrested-near-Finance-Ministry-granted-bail/56-736437",
-    "file_name": "/tmp/news_lk2/articles/fa/fa7e0fe0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757300,
-    "title": "UK monitoring SL situation, ready to support",
-    "url": "https://www.ft.lk/news/UK-monitoring-SL-situation-ready-to-support/56-736438",
-    "file_name": "/tmp/news_lk2/articles/36/36f594a6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655752440,
-    "title": "Jaffna International Airport to resume international flights from July 1",
-    "url": "https://www.dailymirror.lk/breaking_news/Jaffna-International-Airport-to-resume-international-flights-from-July-1/108-239470",
-    "file_name": "/tmp/news_lk2/articles/66/66fab489.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655752440,
-    "title": "Jaffna International Airport to resume international flights from July 1",
-    "url": "https://www.dailymirror.lk/business-news/Jaffna-International-Airport-to-resume-international-flights-from-July-1/273-239470",
-    "file_name": "/tmp/news_lk2/articles/b6/b63cc93c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655750400,
-    "title": "Fighting in a minefield",
-    "url": "https://www.dailymirror.lk/opinion/Fighting-in-a-minefield/172-239461",
-    "file_name": "/tmp/news_lk2/articles/26/26a3f18f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655750280,
-    "title": "Why Gotabaya should go? Why now?",
-    "url": "https://www.dailymirror.lk/opinion/Why-Gotabaya-should-go-Why-now/172-239462",
-    "file_name": "/tmp/news_lk2/articles/6a/6a143f00.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655750100,
-    "title": "Future of the country is precarious, hopeless and bleak: Anura Priyadharshana Yapa",
-    "url": "https://www.dailymirror.lk/hard-talk/Future-of-the-country-is-precarious-hopeless-and-bleak-Anura-Priyadharshana-Yapa/334-239466",
-    "file_name": "/tmp/news_lk2/articles/3f/3f9ecee5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655749800,
-    "title": "Strengthening parliamentary committees is critical for making 21A meaningful",
-    "url": "https://www.dailymirror.lk/opinion/Strengthening-parliamentary-committees-is-critical-for-making-21A-meaningful/172-239465",
-    "file_name": "/tmp/news_lk2/articles/76/76515dfc.json"
   }
 ]
