@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655810880,
+    "title": "Biggest rail strike in 30 years brings UK to standstill",
+    "url": "http://www.adaderana.lk/news/83179/biggest-rail-strike-in-30-years-brings-uk-to-standstill",
+    "file_name": "/tmp/news_lk2/articles/ff/ff6f8738.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655810520,
+    "title": "Railway to lease its lands for agricultural purposes for one year",
+    "url": "https://www.dailymirror.lk/latest_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/342-239510",
+    "file_name": "/tmp/news_lk2/articles/fd/fd4fd0dc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655810400,
+    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-inflation-hits-45-3-in-May-highest-this-year/342-239509",
+    "file_name": "/tmp/news_lk2/articles/5f/5f241ee7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655810340,
+    "title": "Officials must take an oath before testifying at COPE",
+    "url": "https://www.newsfirst.lk/2022/06/21/officials-must-take-an-oath-before-testifying-at-cope/",
+    "file_name": "/tmp/news_lk2/articles/ed/ed05cba0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655809080,
     "title": "Power cut schedule for Wednesday and Thursday",
@@ -178,6 +206,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655801220,
     "title": "CA orders Magistrate to make fresh orders against Johnston",
+    "url": "https://www.dailymirror.lk/latest_news/CA-orders-Magistrate-to-make-fresh-orders-against-Johnston/342-239499",
+    "file_name": "/tmp/news_lk2/articles/41/419910c7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655801220,
+    "title": "CA orders Magistrate to make fresh orders against Johnston",
     "url": "https://www.dailymirror.lk/top_story/CA-orders-Magistrate-to-make-fresh-orders-against-Johnston/155-239499",
     "file_name": "/tmp/news_lk2/articles/03/03cf2907.json"
   },
@@ -243,6 +278,13 @@
     "title": "Sri Lanka central bank own Treasuries holding tops Rs2trillion",
     "url": "https://economynext.com/sri-lanka-central-bank-own-treasuries-holding-tops-rs2trillion-96190/",
     "file_name": "/tmp/news_lk2/articles/82/821c5160.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655797500,
+    "title": "Still with hope...",
+    "url": "https://www.dailymirror.lk/latest_news/Still-with-hope/342-239501",
+    "file_name": "/tmp/news_lk2/articles/e1/e16373be.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "Sapugaskanda adding 165 MW to national grid",
     "url": "https://www.newsfirst.lk/2022/06/21/sapugaskanda-adding-165-mw-to-national-grid/",
     "file_name": "/tmp/news_lk2/articles/ab/ab453d34.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655773080,
-    "title": "Showers & thundershowers likely on Tuesday (21)",
-    "url": "https://www.newsfirst.lk/2022/06/21/showers-thundershowers-likely-on-tuesday-21/",
-    "file_name": "/tmp/news_lk2/articles/d6/d695b073.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655768820,
-    "title": "Sarpaya acquitted in double murder case",
-    "url": "https://www.dailymirror.lk/breaking_news/Sarpaya-acquitted-in-double-murder-case/108-239487",
-    "file_name": "/tmp/news_lk2/articles/38/385c14b9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655768820,
-    "title": "Sarpaya acquitted in double murder case",
-    "url": "https://www.dailymirror.lk/latest_news/Sarpaya-acquitted-in-double-murder-case/342-239487",
-    "file_name": "/tmp/news_lk2/articles/7f/7f989ec0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655759040,
-    "title": "Sanath Nishantha\u2019s brother remanded",
-    "url": "http://www.adaderana.lk/news/83165/sanath-nishanthas-brother-remanded",
-    "file_name": "/tmp/news_lk2/articles/21/2161b14d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757600,
-    "title": "Vega Innovations partners USAID Sri Lanka Energy Program",
-    "url": "https://www.ft.lk/business/Vega-Innovations-partners-USAID-Sri-Lanka-Energy-Program/34-736443",
-    "file_name": "/tmp/news_lk2/articles/f6/f6f47451.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655757540,
-    "title": "UTE commences retail distribution of CAT lubricants",
-    "url": "https://www.ft.lk/business/UTE-commences-retail-distribution-of-CAT-lubricants/34-736442",
-    "file_name": "/tmp/news_lk2/articles/d4/d4b2963f.json"
   }
 ]
