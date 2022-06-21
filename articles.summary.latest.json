@@ -1,10 +1,45 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655802060,
+    "title": "Sri Lanka Supreme Court determines major provisions of SJB\u2019s draft 21A needs referendum",
+    "url": "https://economynext.com/sri-lanka-supreme-court-determines-major-provisions-of-sjbs-draft-21a-needs-referendum-96189/",
+    "file_name": "/tmp/news_lk2/articles/49/49c99825.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655801820,
+    "title": "Parliament sessions limited to two days this week",
+    "url": "http://www.adaderana.lk/news/83173/parliament-sessions-limited-to-two-days-this-week",
+    "file_name": "/tmp/news_lk2/articles/3a/3af75d75.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655801280,
+    "title": "Petrol distribution restricted; Does NOT apply to Diesel",
+    "url": "https://www.newsfirst.lk/2022/06/21/petrol-distribution-restricted-does-not-apply-to-diesel/",
+    "file_name": "/tmp/news_lk2/articles/94/943b03e7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655801220,
+    "title": "Attack on protesters at Galle Face: CA orders Magistrate to make fresh orders against Johnston",
+    "url": "https://www.dailymirror.lk/breaking_news/Attack-on-protesters-at-Galle-Face-CA-orders-Magistrate-to-make-fresh-orders-against-Johnston/108-239499",
+    "file_name": "/tmp/news_lk2/articles/7d/7db5b0c7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655801160,
     "title": "Sri Lanka guidance peg dropped by rupee to 361.75 to US dollar",
     "url": "https://economynext.com/sri-lanka-guidance-peg-dropped-by-rupee-to-361-75-to-us-dollar-96194/",
     "file_name": "/tmp/news_lk2/articles/9d/9d4d7b19.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655800920,
+    "title": "Appeal Court rejects Johnston\u2019s petition seeking to prevent his arrest",
+    "url": "https://www.newsfirst.lk/2022/06/21/appeal-court-rejects-johnstons-petition-seeking-to-prevent-his-arrest/",
+    "file_name": "/tmp/news_lk2/articles/31/312d4fd0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -19,6 +54,13 @@
     "title": "U.S. announces additional $5.75 Mn in response to Sri Lanka\u2019s economic crisis",
     "url": "http://www.adaderana.lk/news/83172/us-announces-additional-575-mn-in-response-to-sri-lankas-economic-crisis",
     "file_name": "/tmp/news_lk2/articles/01/010376a6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655797680,
+    "title": "Crisis aggravated after new govt., PM took over: AKD",
+    "url": "https://www.dailymirror.lk/breaking_news/Crisis-aggravated-after-new-govt-PM-took-over-AKD/108-239498",
+    "file_name": "/tmp/news_lk2/articles/79/79ef6b71.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +82,13 @@
     "title": "US extends fresh funding of US$ 5.75 mil",
     "url": "https://www.dailymirror.lk/business_247/US-extends-fresh-funding-of-US-5-75-mil/395-239497",
     "file_name": "/tmp/news_lk2/articles/2f/2f03790e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655796420,
+    "title": "US extends fresh funding of US$ 5.75 mil",
+    "url": "https://www.dailymirror.lk/breaking_news/US-extends-fresh-funding-of-US-5-75-mil/108-239497",
+    "file_name": "/tmp/news_lk2/articles/6b/6bf57318.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -649,54 +698,5 @@
     "title": "IUSF against shortage of gas, fuel, medicine, food",
     "url": "https://www.dailymirror.lk/latest_news/IUSF-against-shortage-of-gas-fuel-medicine-food/342-239437",
     "file_name": "/tmp/news_lk2/articles/eb/eb4e825e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655737860,
-    "title": "IUSF against shortage of gas, fuel, medicine, food",
-    "url": "https://www.dailymirror.lk/caption_story/IUSF-against-shortage-of-gas-fuel-medicine-food/110-239437",
-    "file_name": "/tmp/news_lk2/articles/50/50ab1d03.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655737080,
-    "title": "Big scene for Rajiv, The Clan and Falan in the UK and Europe!",
-    "url": "http://island.lk/big-scene-for-rajiv-the-clan-and-falan-in-the-uk-and-europe/",
-    "file_name": "/tmp/news_lk2/articles/86/86e2dee8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655735640,
-    "title": "Kusal Mendis becomes father for first time",
-    "url": "https://www.dailymirror.lk/breaking_news/Kusal-Mendis-becomes-father-for-first-time/108-239436",
-    "file_name": "/tmp/news_lk2/articles/aa/aa83ccfe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655735640,
-    "title": "Kusal Mendis becomes father for first time",
-    "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/322-239436",
-    "file_name": "/tmp/news_lk2/articles/da/da803108.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655735640,
-    "title": "Kusal Mendis becomes father for first time",
-    "url": "https://www.dailymirror.lk/headline/Kusal-Mendis-becomes-father-for-first-time/419-239436",
-    "file_name": "/tmp/news_lk2/articles/e9/e9fa19a7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655735640,
-    "title": "Kusal Mendis becomes father for first time",
-    "url": "https://www.dailymirror.lk/sports/Kusal-Mendis-becomes-father-for-first-time/323-239436",
-    "file_name": "/tmp/news_lk2/articles/b5/b5bceacd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655734680,
-    "title": "Prime Minister Wickremesinghe meets Australia\u2019s Minister of Home Affairs",
-    "url": "https://www.newsfirst.lk/2022/06/20/prime-minister-wickremesinghe-meets-australias-minister-of-home-affairs/",
-    "file_name": "/tmp/news_lk2/articles/2e/2e866adf.json"
   }
 ]
