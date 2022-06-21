@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655814900,
+    "title": "Parliament week limited to two days",
+    "url": "https://www.newsfirst.lk/2022/06/21/parliament-week-limited-to-two-days/",
+    "file_name": "/tmp/news_lk2/articles/80/80e64baa.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655814660,
+    "title": "Sri Lanka opposition-MP-turned-minister lambasts opposition leader over boycott",
+    "url": "https://economynext.com/sri-lanka-opposition-mp-turned-minister-lambasts-opposition-leader-over-boycott-96208/",
+    "file_name": "/tmp/news_lk2/articles/c5/c52544f9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655814360,
+    "title": "Crisis-hit Sri Lanka\u2019s priority is making drugs available than affordable \u2013 Health Minister",
+    "url": "https://economynext.com/crisis-hit-sri-lankas-priority-is-making-drugs-available-than-affordable-health-minister-96197/",
+    "file_name": "/tmp/news_lk2/articles/55/550afa2a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655812860,
+    "title": "Fruit vendor shot dead in Mannin Market",
+    "url": "https://www.newsfirst.lk/2022/06/21/fruit-vendor-shot-dead-in-mannin-market/",
+    "file_name": "/tmp/news_lk2/articles/ff/ffefaa8e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655811180,
     "title": "Sri Lanka justice minister calls for opposition support for his 21st amendment",
@@ -670,33 +698,5 @@
     "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/108-239480",
     "file_name": "/tmp/news_lk2/articles/01/014d7a6c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655780280,
-    "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/342-239480",
-    "file_name": "/tmp/news_lk2/articles/d8/d8393ec8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655780280,
-    "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
-    "url": "https://www.dailymirror.lk/business-news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/273-239480",
-    "file_name": "/tmp/news_lk2/articles/4b/4b1a7763.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655779140,
-    "title": "Distribution of petroleum products and fuel declared as essential services",
-    "url": "http://www.adaderana.lk/news/83167/distribution-of-petroleum-products-and-fuel-declared-as-essential-services",
-    "file_name": "/tmp/news_lk2/articles/0b/0bfddf3b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655778240,
-    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
-    "url": "https://www.dailymirror.lk/latest_news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/342-239479",
-    "file_name": "/tmp/news_lk2/articles/40/40b39ae8.json"
   }
 ]
