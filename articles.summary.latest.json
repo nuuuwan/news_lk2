@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655829720,
+    "title": "21A somewhat close to 19A: Justice Minister",
+    "url": "https://www.dailymirror.lk/breaking_news/21A-somewhat-close-to-19A-Justice-Minister/108-239515",
+    "file_name": "/tmp/news_lk2/articles/84/8452409b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655827020,
     "title": "Dhammika Perera to take oath as MP tomorrow",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka main opposition SJB to boycott parliament in protest",
     "url": "https://economynext.com/sri-lanka-main-opposition-sjb-to-boycott-parliament-in-protest-96168/",
     "file_name": "/tmp/news_lk2/articles/f4/f4f3ebb1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655787780,
-    "title": "Sri Lanka opposition parties to boycott parliament in protest",
-    "url": "https://economynext.com/sri-lanka-opposition-parties-to-boycott-parliament-in-protest-96168/",
-    "file_name": "/tmp/news_lk2/articles/30/3070de8d.json"
   }
 ]
