@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655791320,
+    "title": "Bus services at 50% in the face of Fuel Crisis",
+    "url": "https://www.newsfirst.lk/2022/06/21/bus-services-at-50-in-the-face-of-fuel-crisis/",
+    "file_name": "/tmp/news_lk2/articles/62/62ab0712.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655790900,
+    "title": "SJB to boycott parliamentary sessions",
+    "url": "http://www.adaderana.lk/news/83170/sjb-to-boycott-parliamentary-sessions",
+    "file_name": "/tmp/news_lk2/articles/35/35437fe7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655790180,
+    "title": "Jaishankar assures support for stabilizing and recovering Sri Lankan economy",
+    "url": "https://www.newsfirst.lk/2022/06/21/jaishankar-assures-support-for-stabilizing-and-recovering-sri-lankan-economy/",
+    "file_name": "/tmp/news_lk2/articles/3f/3f041f89.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655789220,
     "title": "Minimum age for SL women working abroad amended to 21",
     "url": "https://www.dailymirror.lk/latest_news/Minimum-age-for-SL-women-working-abroad-amended-to-21/342-239491",
     "file_name": "/tmp/news_lk2/articles/bc/bc71225a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655788800,
+    "title": "SJB & JVP boycott Parliament session, as mark of protest against government",
+    "url": "https://www.newsfirst.lk/2022/06/21/sjb-jvp-boycott-parliament-session-as-mark-of-protest-against-government/",
+    "file_name": "/tmp/news_lk2/articles/78/78dd7229.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -15,10 +43,24 @@
   },
   {
     "newspaper_id": "news-first-lk",
+    "time_ut": 1655788440,
+    "title": "COPA focus on ICTA contributions to State",
+    "url": "https://www.newsfirst.lk/2022/06/21/copa-focus-on-icta-contributions-to-state/",
+    "file_name": "/tmp/news_lk2/articles/c6/c60de818.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "time_ut": 1655787900,
     "title": "21A: Supreme Court says some clauses inconsistent, must pass by Special Majority & referendum",
     "url": "https://www.newsfirst.lk/2022/06/21/21a-supreme-court-says-some-clauses-inconsistent-must-pass-by-special-majority-referendum/",
     "file_name": "/tmp/news_lk2/articles/b3/b3ab8c0a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655787780,
+    "title": "Sri Lanka opposition parties boycott parliament in protest",
+    "url": "https://economynext.com/sri-lanka-opposition-parties-boycott-parliament-in-protest-96168/",
+    "file_name": "/tmp/news_lk2/articles/6a/6a28e9e7.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -656,47 +698,5 @@
     "title": "Special mechanism for Health workers to obtain fuel: Keheliya",
     "url": "https://www.dailymirror.lk/breaking_news/Special-mechanism-for-Health-workers-to-obtain-fuel-Keheliya/108-239425",
     "file_name": "/tmp/news_lk2/articles/6c/6c807176.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655718180,
-    "title": "Special mechanism for Health workers to obtain fuel: Keheliya",
-    "url": "https://www.dailymirror.lk/latest_news/Special-mechanism-for-Health-workers-to-obtain-fuel-Keheliya/342-239425",
-    "file_name": "/tmp/news_lk2/articles/65/65038ac2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655717880,
-    "title": "Heavy traffic in Colombo due to protest march",
-    "url": "http://www.adaderana.lk/news/83156/heavy-traffic-in-colombo-due-to-protest-march",
-    "file_name": "/tmp/news_lk2/articles/d7/d70ea6cb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655717580,
-    "title": "Colombia elects former guerrilla Petro as first leftist president",
-    "url": "http://www.adaderana.lk/news/83155/colombia-elects-former-guerrilla-petro-as-first-leftist-president",
-    "file_name": "/tmp/news_lk2/articles/87/871f42ac.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655717040,
-    "title": "One lane from Lipton Circus to Fort blocked",
-    "url": "https://www.dailymirror.lk/latest_news/One-lane-from-Lipton-Circus-to-Fort-blocked/342-239424",
-    "file_name": "/tmp/news_lk2/articles/01/01e1eb88.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655717040,
-    "title": "One lane from Lipton Circus to Fort blocked",
-    "url": "https://www.dailymirror.lk/breaking_news/One-lane-from-Lipton-Circus-to-Fort-blocked/108-239424",
-    "file_name": "/tmp/news_lk2/articles/17/1789fd49.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655716980,
-    "title": "President will martial this country out of this crisis - MR",
-    "url": "https://www.dailymirror.lk/breaking_news/President-will-martial-this-country-out-of-this-crisis-MR/108-239423",
-    "file_name": "/tmp/news_lk2/articles/1d/1dd04c83.json"
   }
 ]
