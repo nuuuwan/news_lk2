@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655773080,
+    "title": "Showers & thundershowers likely on Tuesday (21)",
+    "url": "https://www.newsfirst.lk/2022/06/21/showers-thundershowers-likely-on-tuesday-21/",
+    "file_name": "/tmp/news_lk2/articles/d6/d695b073.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655759040,
     "title": "Sanath Nishantha\u2019s brother remanded",
@@ -691,12 +698,5 @@
     "title": "Sri Lanka police arrest 19 anti-govt protestors on president\u2019s birthday",
     "url": "https://economynext.com/sri-lanka-police-arrest-19-anti-govt-protestors-on-presidents-birthday-96097/",
     "file_name": "/tmp/news_lk2/articles/5e/5e7b9304.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655703120,
-    "title": "Sri Lanka police arrest 19 protestors on president\u2019s birthday",
-    "url": "https://economynext.com/sri-lanka-police-arrest-19-protestors-on-presidents-birthday-96097/",
-    "file_name": "/tmp/news_lk2/articles/2b/2b87a712.json"
   }
 ]
