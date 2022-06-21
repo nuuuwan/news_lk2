@@ -1,10 +1,38 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655819100,
+    "title": "Overall inflation rises to 45%",
+    "url": "https://www.newsfirst.lk/2022/06/21/overall-inflation-rises-to-45/",
+    "file_name": "/tmp/news_lk2/articles/a9/a9be9ed6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655818140,
+    "title": "Sri Lanka announces up to 3 hour power cuts from June 22-23",
+    "url": "https://economynext.com/sri-lanka-announces-up-to-3-hour-power-cuts-from-june-22-23-96209/",
+    "file_name": "/tmp/news_lk2/articles/f0/f07a2123.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655817840,
+    "title": "No serious, uncontrollable drug shortage in the country: Keheliya",
+    "url": "https://www.dailymirror.lk/latest_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/342-239512",
+    "file_name": "/tmp/news_lk2/articles/e5/e55bbed9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655817180,
     "title": "Youth activist Anuruddha Bandara released from court case",
     "url": "http://www.adaderana.lk/news/83181/youth-activist-anuruddha-bandara-released-from-court-case",
     "file_name": "/tmp/news_lk2/articles/76/76b1f651.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655816400,
+    "title": "Rear Admiral YN Jayarathne retires from Sri Lanka Navy",
+    "url": "https://www.newsfirst.lk/2022/06/21/rear-admiral-yn-jayarathne-retires-from-sri-lanka-navy/",
+    "file_name": "/tmp/news_lk2/articles/9c/9c9dc989.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka seeing first Yala paddy harvest from North and East: Minister",
     "url": "https://economynext.com/sri-lanka-seeing-first-yala-paddy-harvest-from-north-and-east-minister-96148/",
     "file_name": "/tmp/news_lk2/articles/79/79ca7972.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655782560,
-    "title": "Sri Lanka revises Minimum Age for Migrant Domestic Workers",
-    "url": "https://www.newsfirst.lk/2022/06/21/sri-lanka-revises-minimum-age-for-migrant-domestic-workers/",
-    "file_name": "/tmp/news_lk2/articles/d6/d67cacfd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655782500,
-    "title": "Gazette issued; bringing fuel supply, power, health care under essential services category",
-    "url": "https://www.dailymirror.lk/breaking_news/Gazette-issued-bringing-fuel-supply-power-health-care-under-essential-services-category/108-239489",
-    "file_name": "/tmp/news_lk2/articles/e1/e16dab82.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655782500,
-    "title": "Gazette issued; bringing fuel supply, power, health care under essential services category",
-    "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-bringing-fuel-supply-power-health-care-under-essential-services-category/342-239489",
-    "file_name": "/tmp/news_lk2/articles/e3/e31798ac.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655782440,
-    "title": "Over 3,000 dengue cases from Western Province",
-    "url": "https://www.newsfirst.lk/2022/06/21/over-3000-dengue-cases-from-western-province/",
-    "file_name": "/tmp/news_lk2/articles/58/5804c4ab.json"
   }
 ]
