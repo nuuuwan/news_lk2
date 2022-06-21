@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655827020,
+    "title": "Dhammika Perera to take oath as MP tomorrow",
+    "url": "http://www.adaderana.lk/news/83182/dhammika-perera-to-take-oath-as-mp-tomorrow",
+    "file_name": "/tmp/news_lk2/articles/2c/2c9d083e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655826780,
+    "title": "SL Govt. making an effort effort to reclaim compensation",
+    "url": "https://www.dailymirror.lk/latest_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/342-239514",
+    "file_name": "/tmp/news_lk2/articles/95/95e12517.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655821020,
     "title": "Man shot dead at Peliyagoda Manning Market",
     "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-at-Peliyagoda-Manning-Market/108-239513",
     "file_name": "/tmp/news_lk2/articles/e7/e763e6d8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655821020,
+    "title": "Man shot dead at Peliyagoda Manning Market",
+    "url": "https://www.dailymirror.lk/latest_news/Man-shot-dead-at-Peliyagoda-Manning-Market/342-239513",
+    "file_name": "/tmp/news_lk2/articles/e9/e9fc9446.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -33,6 +54,13 @@
     "title": "Social Media activist Anuruddha Bandara released",
     "url": "https://www.newsfirst.lk/2022/06/21/social-media-activist-anuruddha-bandara-released/",
     "file_name": "/tmp/news_lk2/articles/d8/d8aa372f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655819160,
+    "title": "Sri Lanka rupee quoted weaker at 370 to the TT dollar",
+    "url": "https://economynext.com/sri-lanka-rupee-quoted-weaker-at-370-to-the-tt-dollar-96210/",
+    "file_name": "/tmp/news_lk2/articles/ef/ef458dbb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka opposition parties to boycott parliament in protest",
     "url": "https://economynext.com/sri-lanka-opposition-parties-to-boycott-parliament-in-protest-96168/",
     "file_name": "/tmp/news_lk2/articles/30/3070de8d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655785680,
-    "title": "Sri Lanka to lease railway reservation land for emergency farming",
-    "url": "https://economynext.com/sri-lanka-to-lease-railway-reservation-land-for-emergency-farming-96158/",
-    "file_name": "/tmp/news_lk2/articles/b3/b3c80315.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655785380,
-    "title": "Australia to help Sri Lanka overcome crisis \u2013 Home Minister",
-    "url": "https://www.newsfirst.lk/2022/06/21/australia-to-help-sri-lanka-overcome-crisis-home-minister/",
-    "file_name": "/tmp/news_lk2/articles/2f/2f172ea1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655785200,
-    "title": "SJB to boycott Parliament from today",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-boycott-Parliament-from-today/108-239490",
-    "file_name": "/tmp/news_lk2/articles/1d/1da3c1de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655785200,
-    "title": "SJB to boycott Parliament from today",
-    "url": "https://www.dailymirror.lk/latest_news/SJB-to-boycott-Parliament-from-today/342-239490",
-    "file_name": "/tmp/news_lk2/articles/c5/c522c43d.json"
   }
 ]
