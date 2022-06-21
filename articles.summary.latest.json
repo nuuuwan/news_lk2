@@ -1,10 +1,24 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655780280,
+    "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lankans-trapped-in-livability-crisis-as-wages-massively-fall-behind-inflation/273-239480",
+    "file_name": "/tmp/news_lk2/articles/4b/4b1a7763.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655779140,
     "title": "Distribution of petroleum products and fuel declared as essential services",
     "url": "http://www.adaderana.lk/news/83167/distribution-of-petroleum-products-and-fuel-declared-as-essential-services",
     "file_name": "/tmp/news_lk2/articles/0b/0bfddf3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655778240,
+    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
+    "url": "https://www.dailymirror.lk/business-news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/273-239479",
+    "file_name": "/tmp/news_lk2/articles/ef/efc5e389.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -40,6 +54,13 @@
     "title": "Showers & thundershowers likely on Tuesday (21)",
     "url": "https://www.newsfirst.lk/2022/06/21/showers-thundershowers-likely-on-tuesday-21/",
     "file_name": "/tmp/news_lk2/articles/d6/d695b073.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655768820,
+    "title": "Sarpaya acquitted in double murder case",
+    "url": "https://www.dailymirror.lk/latest_news/Sarpaya-acquitted-in-double-murder-case/342-239487",
+    "file_name": "/tmp/news_lk2/articles/7f/7f989ec0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -99,6 +120,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655752440,
+    "title": "Jaffna International Airport to resume international flights from July 1",
+    "url": "https://www.dailymirror.lk/business-news/Jaffna-International-Airport-to-resume-international-flights-from-July-1/273-239470",
+    "file_name": "/tmp/news_lk2/articles/b6/b63cc93c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655750400,
     "title": "Fighting in a minefield",
     "url": "https://www.dailymirror.lk/opinion/Fighting-in-a-minefield/172-239461",
@@ -124,6 +152,13 @@
     "title": "Strengthening parliamentary committees is critical for making 21A meaningful",
     "url": "https://www.dailymirror.lk/opinion/Strengthening-parliamentary-committees-is-critical-for-making-21A-meaningful/172-239465",
     "file_name": "/tmp/news_lk2/articles/76/76515dfc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655749500,
+    "title": "China-funded Lotus Tower stays idle in Colombo",
+    "url": "https://www.dailymirror.lk/business-news/China-funded-Lotus-Tower-stays-idle-in-Colombo/273-239488",
+    "file_name": "/tmp/news_lk2/articles/d3/d30ac8c4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "Santha Nishantha\u2019s brother arrested for assault",
     "url": "https://www.newsfirst.lk/2022/06/20/santha-nishanthas-brother-arrested-for-assault/",
     "file_name": "/tmp/news_lk2/articles/31/3104d6cf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655706720,
-    "title": "Sri Lanka has sufficient Diesel stocks \u2013 CPC",
-    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-has-sufficient-diesel-stocks-cpc/",
-    "file_name": "/tmp/news_lk2/articles/8f/8f97466d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655706660,
-    "title": "Sri Lanka shares slip over 1.5-pct in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-shares-slip-over-1-5-pct-in-mid-day-trade-96099/",
-    "file_name": "/tmp/news_lk2/articles/b0/b077fa18.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655706240,
-    "title": "Sri Lanka to import paper for text books",
-    "url": "https://www.newsfirst.lk/2022/06/20/sri-lanka-to-import-paper-for-text-books/",
-    "file_name": "/tmp/news_lk2/articles/90/901427ec.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655706060,
-    "title": "21 arrested for blocking gates to President\u2019s Office; Protest delayed Finance Secretary from meeting IMF",
-    "url": "https://www.newsfirst.lk/2022/06/20/21-arrested-for-blocking-gates-to-presidents-office-protest-delayed-finance-secretary-from-meeting-imf/",
-    "file_name": "/tmp/news_lk2/articles/37/37a86a13.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655704740,
-    "title": "Private Buses urged to move to SLTB depots",
-    "url": "https://www.newsfirst.lk/2022/06/20/private-buses-urged-to-move-to-sltb-depots/",
-    "file_name": "/tmp/news_lk2/articles/ee/ee7090f0.json"
   }
 ]
