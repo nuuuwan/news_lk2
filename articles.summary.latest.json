@@ -35,6 +35,13 @@
     "file_name": "/tmp/news_lk2/articles/a6/a6a1c312.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655828460,
+    "title": "COPE to take oath from officials before making statements",
+    "url": "https://www.dailymirror.lk/breaking_news/COPE-to-take-oath-from-officials-before-making-statements/108-239517",
+    "file_name": "/tmp/news_lk2/articles/cb/cbbe6e58.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655827020,
     "title": "Dhammika Perera to take oath as MP tomorrow",
@@ -691,12 +698,5 @@
     "title": "Minimum age for SL women working abroad amended to 21",
     "url": "https://www.dailymirror.lk/latest_news/Minimum-age-for-SL-women-working-abroad-amended-to-21/342-239491",
     "file_name": "/tmp/news_lk2/articles/bc/bc71225a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655788800,
-    "title": "SJB & JVP boycott Parliament session, as mark of protest against government",
-    "url": "https://www.newsfirst.lk/2022/06/21/sjb-jvp-boycott-parliament-session-as-mark-of-protest-against-government/",
-    "file_name": "/tmp/news_lk2/articles/78/78dd7229.json"
   }
 ]
