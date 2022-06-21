@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655811180,
+    "title": "Sri Lanka justice minister calls for opposition support for his 21st amendment",
+    "url": "https://economynext.com/sri-lanka-justice-minister-calls-for-opposition-support-for-his-21st-amendment-96169/",
+    "file_name": "/tmp/news_lk2/articles/68/6815a766.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655810880,
     "title": "Biggest rail strike in 30 years brings UK to standstill",
@@ -15,6 +22,20 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655810520,
+    "title": "Railway to lease its lands for agricultural purposes for one year",
+    "url": "https://www.dailymirror.lk/breaking_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/108-239510",
+    "file_name": "/tmp/news_lk2/articles/9d/9d9b8acd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655810400,
+    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-inflation-hits-45-3-in-May-highest-this-year/108-239509",
+    "file_name": "/tmp/news_lk2/articles/cd/cd4534d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655810400,
     "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
     "url": "https://www.dailymirror.lk/latest_news/SLs-inflation-hits-45-3-in-May-highest-this-year/342-239509",
@@ -26,6 +47,20 @@
     "title": "Officials must take an oath before testifying at COPE",
     "url": "https://www.newsfirst.lk/2022/06/21/officials-must-take-an-oath-before-testifying-at-cope/",
     "file_name": "/tmp/news_lk2/articles/ed/ed05cba0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655809320,
+    "title": "\u2019Chinese Bridge\u2019 language competition held",
+    "url": "https://www.dailymirror.lk/latest_news/Chinese-Bridge-language-competition-held/342-239511",
+    "file_name": "/tmp/news_lk2/articles/08/08b174f5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655809080,
+    "title": "Power cut schedule for Wednesday and Thursday",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-for-Wednesday-and-Thursday/108-239507",
+    "file_name": "/tmp/news_lk2/articles/04/045727b2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -299,6 +334,13 @@
     "title": "US extends fresh funding of US$ 5.75 mil",
     "url": "https://www.dailymirror.lk/business/US-extends-fresh-funding-of-US-5-75-mil/215-239497",
     "file_name": "/tmp/news_lk2/articles/79/79b4a1f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655796420,
+    "title": "US extends fresh funding of US$ 5.75 mil",
+    "url": "https://www.dailymirror.lk/mirror_business/US-extends-fresh-funding-of-US-5-75-mil/241-239497",
+    "file_name": "/tmp/news_lk2/articles/48/48dd3d90.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,47 +698,5 @@
     "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
     "url": "https://www.dailymirror.lk/latest_news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/342-239479",
     "file_name": "/tmp/news_lk2/articles/40/40b39ae8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655778240,
-    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
-    "url": "https://www.dailymirror.lk/business-news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/273-239479",
-    "file_name": "/tmp/news_lk2/articles/ef/efc5e389.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655778240,
-    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
-    "url": "https://www.dailymirror.lk/breaking_news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/108-239479",
-    "file_name": "/tmp/news_lk2/articles/ad/ad1ebfc0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655776560,
-    "title": "Showers possible in parts of the island today",
-    "url": "http://www.adaderana.lk/news/83166/showers-possible-in-parts-of-the-island-today",
-    "file_name": "/tmp/news_lk2/articles/20/20af7116.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655775960,
-    "title": "Sri Lanka expands state workers 11-pct under revenue based fiscal consolidation",
-    "url": "https://economynext.com/sri-lanka-expands-state-workers-11-pct-under-revenue-based-fiscal-consolidation-96128/",
-    "file_name": "/tmp/news_lk2/articles/8a/8aa73853.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655774340,
-    "title": "Petrol shipment on 24th June",
-    "url": "https://www.newsfirst.lk/2022/06/21/petrol-shipment-on-24th-june/",
-    "file_name": "/tmp/news_lk2/articles/1d/1d77109c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655773740,
-    "title": "Sapugaskanda adding 165 MW to national grid",
-    "url": "https://www.newsfirst.lk/2022/06/21/sapugaskanda-adding-165-mw-to-national-grid/",
-    "file_name": "/tmp/news_lk2/articles/ab/ab453d34.json"
   }
 ]
