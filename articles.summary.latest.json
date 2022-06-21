@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655804280,
+    "title": "Man shot dead at Manning Market",
+    "url": "http://www.adaderana.lk/news/83174/man-shot-dead-at-manning-market",
+    "file_name": "/tmp/news_lk2/articles/61/61f61bab.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655803020,
+    "title": "Parliament to convene only today and tomorrow due to fuel crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Parliament-to-convene-only-today-and-tomorrow-due-to-fuel-crisis/108-239500",
+    "file_name": "/tmp/news_lk2/articles/c9/c9822ca8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655802960,
+    "title": "COPA wants Sub Committee for Food Security",
+    "url": "https://www.newsfirst.lk/2022/06/21/copa-wants-sub-committee-for-food-security/",
+    "file_name": "/tmp/news_lk2/articles/a8/a8a804f1.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655802060,
     "title": "Sri Lanka Supreme Court determines major provisions of SJB\u2019s draft 21A needs referendum",
@@ -12,6 +33,13 @@
     "title": "Parliament sessions limited to two days this week",
     "url": "http://www.adaderana.lk/news/83173/parliament-sessions-limited-to-two-days-this-week",
     "file_name": "/tmp/news_lk2/articles/3a/3af75d75.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655801820,
+    "title": "Parliamentary sessions limited to two days this week",
+    "url": "http://www.adaderana.lk/news/83173/parliamentary-sessions-limited-to-two-days-this-week",
+    "file_name": "/tmp/news_lk2/articles/36/3690a9fe.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Sustainable fuel bill for road transport",
     "url": "http://island.lk/sustainable-fuel-bill-for-road-transport/",
     "file_name": "/tmp/news_lk2/articles/c9/c9413fbb.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655738460,
-    "title": "SLT-MOBITEL and NWSDB sign agreement to provide Call Centre solution for citizens",
-    "url": "http://island.lk/slt-mobitel-and-nwsdb-sign-agreement-to-provide-call-centre-solution-for-citizens/",
-    "file_name": "/tmp/news_lk2/articles/b3/b339a45f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655738340,
-    "title": "Ajith De Silva, appointed to Associated Battery Manufacturers Board",
-    "url": "http://island.lk/ajith-de-silva-appointed-to-associated-battery-manufacturers-board/",
-    "file_name": "/tmp/news_lk2/articles/fd/fd1dc2c1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655738280,
-    "title": "Drop in CSE market capitalization; net foreign outflow Rs. 40 million",
-    "url": "http://island.lk/drop-in-cse-market-capitalization-net-foreign-outflow-rs-40-million/",
-    "file_name": "/tmp/news_lk2/articles/9e/9eb72635.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655737860,
-    "title": "IUSF against shortage of gas, fuel, medicine, food",
-    "url": "https://www.dailymirror.lk/latest_news/IUSF-against-shortage-of-gas-fuel-medicine-food/342-239437",
-    "file_name": "/tmp/news_lk2/articles/eb/eb4e825e.json"
   }
 ]
