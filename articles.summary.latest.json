@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655787780,
+    "title": "Sri Lanka main opposition SJB to boycott parliament in protest",
+    "url": "https://economynext.com/sri-lanka-main-opposition-sjb-to-boycott-parliament-in-protest-96168/",
+    "file_name": "/tmp/news_lk2/articles/f4/f4f3ebb1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655785680,
     "title": "Sri Lanka to lease railway reservation land for emergency farming",
     "url": "https://economynext.com/sri-lanka-to-lease-railway-reservation-land-for-emergency-farming-96158/",
@@ -691,12 +698,5 @@
     "title": "Dhammika Perera to be sworn as MP tomorrow",
     "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/108-239421",
     "file_name": "/tmp/news_lk2/articles/bb/bbbb8d80.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655713680,
-    "title": "Dhammika Perera to be sworn as MP tomorrow",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/342-239421",
-    "file_name": "/tmp/news_lk2/articles/64/647117d0.json"
   }
 ]
