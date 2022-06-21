@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655832300,
+    "title": "Sri Lanka wins first ODI series over Australia since 2010",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-wins-first-ODI-series-over-Australia-since-2010/108-239516",
+    "file_name": "/tmp/news_lk2/articles/c9/c9f8f843.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655829720,
+    "title": "21A somewhat close to 19A: Justice Minister",
+    "url": "https://www.dailymirror.lk/latest_news/21A-somewhat-close-to-19A-Justice-Minister/342-239515",
+    "file_name": "/tmp/news_lk2/articles/77/773c64aa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655829720,
     "title": "21A somewhat close to 19A: Justice Minister",
     "url": "https://www.dailymirror.lk/breaking_news/21A-somewhat-close-to-19A-Justice-Minister/108-239515",
@@ -684,19 +698,5 @@
     "title": "21A: Supreme Court says some clauses inconsistent, must pass by Special Majority & referendum",
     "url": "https://www.newsfirst.lk/2022/06/21/21a-supreme-court-says-some-clauses-inconsistent-must-pass-by-special-majority-referendum/",
     "file_name": "/tmp/news_lk2/articles/b3/b3ab8c0a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655787780,
-    "title": "Sri Lanka opposition parties boycott parliament in protest",
-    "url": "https://economynext.com/sri-lanka-opposition-parties-boycott-parliament-in-protest-96168/",
-    "file_name": "/tmp/news_lk2/articles/6a/6a28e9e7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655787780,
-    "title": "Sri Lanka main opposition SJB to boycott parliament in protest",
-    "url": "https://economynext.com/sri-lanka-main-opposition-sjb-to-boycott-parliament-in-protest-96168/",
-    "file_name": "/tmp/news_lk2/articles/f4/f4f3ebb1.json"
   }
 ]
