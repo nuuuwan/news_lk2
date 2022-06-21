@@ -1,5 +1,89 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655784780,
+    "title": "Sri Lanka identifies 5000 acres for sea cucumber cultivation",
+    "url": "https://economynext.com/sri-lanka-identifies-5000-acres-for-sea-cucumber-cultivation-96153/",
+    "file_name": "/tmp/news_lk2/articles/51/5170c3b0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655784300,
+    "title": "Sri Lanka cabinet approves proposed 22nd amendment to constitution",
+    "url": "https://economynext.com/sri-lanka-cabinet-approves-proposed-22nd-amendment-to-constitution-96149/",
+    "file_name": "/tmp/news_lk2/articles/f6/f63eb917.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655784240,
+    "title": "Sri Lanka to amend minimum age for women leaving for foreign housemaid jobs",
+    "url": "http://www.adaderana.lk/news/83168/sri-lanka-to-amend-minimum-age-for-women-leaving-for-foreign-housemaid-jobs",
+    "file_name": "/tmp/news_lk2/articles/22/2248ef56.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655783880,
+    "title": "Australia leans on Sri Lanka to contain boat people as currency crisis worsens",
+    "url": "https://economynext.com/australia-leans-on-sri-lanka-to-contain-boat-people-as-currency-crisis-worsens-96152/",
+    "file_name": "/tmp/news_lk2/articles/49/4956c1cc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655783640,
+    "title": "Sri Lanka cuts age for Middle East housemaids to 21 years in currency crisis",
+    "url": "https://economynext.com/sri-lanka-cuts-age-for-middle-east-housemaids-to-21-years-in-currency-crisis-96151/",
+    "file_name": "/tmp/news_lk2/articles/9e/9ef235ca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655783160,
+    "title": "Three sectors declared essential by gazette",
+    "url": "https://www.newsfirst.lk/2022/06/21/three-sectors-declared-essential-by-gazette/",
+    "file_name": "/tmp/news_lk2/articles/13/13e03bf5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655783100,
+    "title": "Sri Lanka seeing first Yala paddy harvest from North and East: Minister",
+    "url": "https://economynext.com/sri-lanka-seeing-first-yala-paddy-harvest-from-north-and-east-minister-96148/",
+    "file_name": "/tmp/news_lk2/articles/79/79ca7972.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655782560,
+    "title": "Sri Lanka revises Minimum Age for Migrant Domestic Workers",
+    "url": "https://www.newsfirst.lk/2022/06/21/sri-lanka-revises-minimum-age-for-migrant-domestic-workers/",
+    "file_name": "/tmp/news_lk2/articles/d6/d67cacfd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655782500,
+    "title": "Gazette issued; bringing fuel supply, power, health care under essential services category",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-bringing-fuel-supply-power-health-care-under-essential-services-category/342-239489",
+    "file_name": "/tmp/news_lk2/articles/e3/e31798ac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655782440,
+    "title": "Over 3,000 dengue cases from Western Province",
+    "url": "https://www.newsfirst.lk/2022/06/21/over-3000-dengue-cases-from-western-province/",
+    "file_name": "/tmp/news_lk2/articles/58/5804c4ab.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655781720,
+    "title": "Passport demand increases",
+    "url": "https://www.newsfirst.lk/2022/06/21/passport-demand-increases/",
+    "file_name": "/tmp/news_lk2/articles/18/185414fa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655781000,
+    "title": "Fuel for health staff on Fridays",
+    "url": "https://www.newsfirst.lk/2022/06/21/fuel-for-health-staff-on-fridays/",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e8b262.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655780280,
     "title": "Sri Lankans trapped in livability crisis as wages massively fall behind inflation",
@@ -159,6 +243,13 @@
     "title": "China-funded Lotus Tower stays idle in Colombo",
     "url": "https://www.dailymirror.lk/business-news/China-funded-Lotus-Tower-stays-idle-in-Colombo/273-239488",
     "file_name": "/tmp/news_lk2/articles/d3/d30ac8c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655749500,
+    "title": "China-funded Lotus Tower stays idle in Colombo",
+    "url": "https://www.dailymirror.lk/breaking_news/China-funded-Lotus-Tower-stays-idle-in-Colombo/108-239488",
+    "file_name": "/tmp/news_lk2/articles/62/62b83903.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -607,96 +698,5 @@
     "title": "Australia gives Sri Lanka US$50mn in food, medicine aid amid",
     "url": "https://economynext.com/australia-gives-sri-lanka-us50mn-in-food-medicine-aid-amid-96101/",
     "file_name": "/tmp/news_lk2/articles/0a/0aada267.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655710020,
-    "title": "Australia announces $50 million support for Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83153/australia-announces-50-million-support-for-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/9d/9ddac5e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655709000,
-    "title": "Journalists and protestors",
-    "url": "https://www.dailymirror.lk/breaking_news/Journalists-and-protestors/108-239419",
-    "file_name": "/tmp/news_lk2/articles/20/20a79cb1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655709000,
-    "title": "Journalists and protestors",
-    "url": "https://www.dailymirror.lk/latest_news/Journalists-and-protestors/342-239419",
-    "file_name": "/tmp/news_lk2/articles/c6/c6940032.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655708940,
-    "title": "Police arrest 21 protesters near Finance Ministry",
-    "url": "http://www.adaderana.lk/news/83152/police-arrest-21-protesters-near-finance-ministry",
-    "file_name": "/tmp/news_lk2/articles/de/dece9caf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655708820,
-    "title": "Tense situ outside Presidential Secretariat",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situ-outside-Presidential-Secretariat/342-239418",
-    "file_name": "/tmp/news_lk2/articles/c8/c8d2d9bc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655708820,
-    "title": "Tense situ outside Presidential Secretariat",
-    "url": "https://www.dailymirror.lk/caption_story/Tense-situ-outside-Presidential-Secretariat/110-239418",
-    "file_name": "/tmp/news_lk2/articles/5d/5d2bec34.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655708700,
-    "title": "Daily Exchange Rate from CBSL",
-    "url": "https://www.newsfirst.lk/2022/06/20/daily-exchange-rate-from-cbsl-2/",
-    "file_name": "/tmp/news_lk2/articles/9d/9dede75e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655708340,
-    "title": "Finance Ministry Secy. late to attend IMF meeting due to protest:  21 protesters arrested",
-    "url": "https://www.dailymirror.lk/top_story/Finance-Ministry-Secy-late-to-attend-IMF-meeting-due-to-protest-21-protesters-arrested/155-239420",
-    "file_name": "/tmp/news_lk2/articles/6f/6f4cec09.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655708340,
-    "title": "Finance Ministry Secy. late to attend IMF meeting due to protest:  21 protesters arrested",
-    "url": "https://www.dailymirror.lk/breaking_news/Finance-Ministry-Secy-late-to-attend-IMF-meeting-due-to-protest-21-protesters-arrested/108-239420",
-    "file_name": "/tmp/news_lk2/articles/bd/bdfc9879.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655708100,
-    "title": "Private Bus operations up 50%",
-    "url": "https://www.newsfirst.lk/2022/06/20/private-bus-operations-up-50/",
-    "file_name": "/tmp/news_lk2/articles/ac/acfd696b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655707680,
-    "title": "Asylum seekers return to Sri Lanka after sea intercept",
-    "url": "http://www.adaderana.lk/news/83151/asylum-seekers-return-to-sri-lanka-after-sea-intercept",
-    "file_name": "/tmp/news_lk2/articles/d9/d9b843c8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655707380,
-    "title": "DO NOT wait in line for fuel \u2013 Minister",
-    "url": "https://www.newsfirst.lk/2022/06/20/do-not-wait-in-line-for-fuel-minister/",
-    "file_name": "/tmp/news_lk2/articles/53/530c4714.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655707020,
-    "title": "Santha Nishantha\u2019s brother arrested for assault",
-    "url": "https://www.newsfirst.lk/2022/06/20/santha-nishanthas-brother-arrested-for-assault/",
-    "file_name": "/tmp/news_lk2/articles/31/3104d6cf.json"
   }
 ]
