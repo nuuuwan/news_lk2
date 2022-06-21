@@ -9,6 +9,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655790900,
+    "title": "SJB to boycott parliamentary sessions this week",
+    "url": "http://www.adaderana.lk/news/83170/sjb-to-boycott-parliamentary-sessions-this-week",
+    "file_name": "/tmp/news_lk2/articles/05/051c87ca.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655790900,
     "title": "SJB to boycott parliamentary sessions",
     "url": "http://www.adaderana.lk/news/83170/sjb-to-boycott-parliamentary-sessions",
     "file_name": "/tmp/news_lk2/articles/35/35437fe7.json"
@@ -691,12 +698,5 @@
     "title": "French elections: Macron loses majority as French vote fragments",
     "url": "https://www.dailymirror.lk/breaking_news/French-elections-Macron-loses-majority-as-French-vote-fragments/108-239426",
     "file_name": "/tmp/news_lk2/articles/92/9265a81d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655718180,
-    "title": "Special mechanism for Health workers to obtain fuel: Keheliya",
-    "url": "https://www.dailymirror.lk/breaking_news/Special-mechanism-for-Health-workers-to-obtain-fuel-Keheliya/108-239425",
-    "file_name": "/tmp/news_lk2/articles/6c/6c807176.json"
   }
 ]
