@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655819160,
+    "title": "Sri Lanka rupee ends weaker on lower dollar liquidity",
+    "url": "https://economynext.com/sri-lanka-rupee-ends-weaker-on-lower-dollar-liquidity-96210/",
+    "file_name": "/tmp/news_lk2/articles/15/157e259a.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655819100,
     "title": "Overall inflation rises to 45%",
@@ -691,12 +698,5 @@
     "title": "Three sectors declared essential by gazette",
     "url": "https://www.newsfirst.lk/2022/06/21/three-sectors-declared-essential-by-gazette/",
     "file_name": "/tmp/news_lk2/articles/13/13e03bf5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655783100,
-    "title": "Sri Lanka seeing first Yala paddy harvest from North and East: Minister",
-    "url": "https://economynext.com/sri-lanka-seeing-first-yala-paddy-harvest-from-north-and-east-minister-96148/",
-    "file_name": "/tmp/news_lk2/articles/79/79ca7972.json"
   }
 ]
