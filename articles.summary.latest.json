@@ -1,5 +1,40 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655821020,
+    "title": "Man shot dead at Peliyagoda Manning Market",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-at-Peliyagoda-Manning-Market/108-239513",
+    "file_name": "/tmp/news_lk2/articles/e7/e763e6d8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655820480,
+    "title": "Sri Lanka JKH borrows USD75 mln from Canada to fund India\u2019s Adani Group JV port terminal",
+    "url": "https://economynext.com/sri-lanka-jkh-borrows-usd75-mln-from-canada-to-fund-indias-adani-group-jv-port-terminal-96212/",
+    "file_name": "/tmp/news_lk2/articles/89/89d10651.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655820300,
+    "title": "Why delay in distributing medicines? \u2013 GMOA questions Health Minister",
+    "url": "https://www.newsfirst.lk/2022/06/21/why-delay-in-distributing-medicines-gmoa-questions-health-minister/",
+    "file_name": "/tmp/news_lk2/articles/2f/2f87d248.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655820120,
+    "title": "\u2019Chinese Bridge\u2019 language competition held",
+    "url": "https://www.dailymirror.lk/caption_story/Chinese-Bridge-language-competition-held/110-239511",
+    "file_name": "/tmp/news_lk2/articles/f3/f38753e8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655820060,
+    "title": "Social Media activist Anuruddha Bandara released",
+    "url": "https://www.newsfirst.lk/2022/06/21/social-media-activist-anuruddha-bandara-released/",
+    "file_name": "/tmp/news_lk2/articles/d8/d8aa372f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655819160,
     "title": "Sri Lanka rupee ends weaker on lower dollar liquidity",
@@ -26,6 +61,13 @@
     "title": "No serious, uncontrollable drug shortage in the country: Keheliya",
     "url": "https://www.dailymirror.lk/latest_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/342-239512",
     "file_name": "/tmp/news_lk2/articles/e5/e55bbed9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655817840,
+    "title": "No serious, uncontrollable drug shortage in the country: Keheliya",
+    "url": "https://www.dailymirror.lk/breaking_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/108-239512",
+    "file_name": "/tmp/news_lk2/articles/0e/0ecb61a9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "SJB to boycott Parliament from today",
     "url": "https://www.dailymirror.lk/latest_news/SJB-to-boycott-Parliament-from-today/342-239490",
     "file_name": "/tmp/news_lk2/articles/c5/c522c43d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655784780,
-    "title": "Sri Lanka identifies 5000 acres for sea cucumber cultivation",
-    "url": "https://economynext.com/sri-lanka-identifies-5000-acres-for-sea-cucumber-cultivation-96153/",
-    "file_name": "/tmp/news_lk2/articles/51/5170c3b0.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655784300,
-    "title": "Sri Lanka cabinet approves proposed 22nd amendment to constitution",
-    "url": "https://economynext.com/sri-lanka-cabinet-approves-proposed-22nd-amendment-to-constitution-96149/",
-    "file_name": "/tmp/news_lk2/articles/f6/f63eb917.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655784240,
-    "title": "Sri Lanka to amend minimum age for women leaving for foreign housemaid jobs",
-    "url": "http://www.adaderana.lk/news/83168/sri-lanka-to-amend-minimum-age-for-women-leaving-for-foreign-housemaid-jobs",
-    "file_name": "/tmp/news_lk2/articles/22/2248ef56.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655783880,
-    "title": "Australia leans on Sri Lanka to contain boat people as currency crisis worsens",
-    "url": "https://economynext.com/australia-leans-on-sri-lanka-to-contain-boat-people-as-currency-crisis-worsens-96152/",
-    "file_name": "/tmp/news_lk2/articles/49/4956c1cc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655783640,
-    "title": "Sri Lanka cuts age for Middle East housemaids to 21 years in currency crisis",
-    "url": "https://economynext.com/sri-lanka-cuts-age-for-middle-east-housemaids-to-21-years-in-currency-crisis-96151/",
-    "file_name": "/tmp/news_lk2/articles/9e/9ef235ca.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655783160,
-    "title": "Three sectors declared essential by gazette",
-    "url": "https://www.newsfirst.lk/2022/06/21/three-sectors-declared-essential-by-gazette/",
-    "file_name": "/tmp/news_lk2/articles/13/13e03bf5.json"
   }
 ]
