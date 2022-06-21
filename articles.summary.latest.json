@@ -1,6 +1,20 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655785680,
+    "title": "Sri Lanka to lease railway reservation land for emergency farming",
+    "url": "https://economynext.com/sri-lanka-to-lease-railway-reservation-land-for-emergency-farming-96158/",
+    "file_name": "/tmp/news_lk2/articles/b3/b3c80315.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655785200,
+    "title": "SJB to boycott Parliament from today",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-to-boycott-Parliament-from-today/342-239490",
+    "file_name": "/tmp/news_lk2/articles/c5/c522c43d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655784780,
     "title": "Sri Lanka identifies 5000 acres for sea cucumber cultivation",
     "url": "https://economynext.com/sri-lanka-identifies-5000-acres-for-sea-cucumber-cultivation-96153/",
@@ -105,6 +119,13 @@
     "file_name": "/tmp/news_lk2/articles/ef/efc5e389.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655778240,
+    "title": "State intervention sought to prevent continuous exploitation of foreign employment seekers",
+    "url": "https://www.dailymirror.lk/breaking_news/State-intervention-sought-to-prevent-continuous-exploitation-of-foreign-employment-seekers/108-239479",
+    "file_name": "/tmp/news_lk2/articles/ad/ad1ebfc0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655776560,
     "title": "Showers possible in parts of the island today",
@@ -138,6 +159,13 @@
     "title": "Showers & thundershowers likely on Tuesday (21)",
     "url": "https://www.newsfirst.lk/2022/06/21/showers-thundershowers-likely-on-tuesday-21/",
     "file_name": "/tmp/news_lk2/articles/d6/d695b073.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655768820,
+    "title": "Sarpaya acquitted in double murder case",
+    "url": "https://www.dailymirror.lk/breaking_news/Sarpaya-acquitted-in-double-murder-case/108-239487",
+    "file_name": "/tmp/news_lk2/articles/38/385c14b9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -670,33 +698,5 @@
     "title": "Dhammika Perera to be sworn as MP tomorrow",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-to-be-sworn-as-MP-tomorrow/342-239421",
     "file_name": "/tmp/news_lk2/articles/64/647117d0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655713560,
-    "title": "Fuel for Health Workers every Friday \u2013 Minister",
-    "url": "https://www.newsfirst.lk/2022/06/20/fuel-for-health-workers-every-friday-minister/",
-    "file_name": "/tmp/news_lk2/articles/c3/c31af26f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655713080,
-    "title": "Hasitha Samantha alias \u2018Sarpaya\u2019 acquitted and released from double murder case",
-    "url": "https://www.newsfirst.lk/2022/06/20/hasitha-samantha-alias-sarpaya-acquitted-and-released-from-double-murder-case/",
-    "file_name": "/tmp/news_lk2/articles/a6/a6b95b06.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655711400,
-    "title": "Australia gives Sri Lanka US$50mn in food, medicine aid",
-    "url": "https://economynext.com/australia-gives-sri-lanka-us50mn-in-food-medicine-aid-96101/",
-    "file_name": "/tmp/news_lk2/articles/93/93d606d2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655711400,
-    "title": "Australia gives Sri Lanka US$50mn in food, medicine aid amid",
-    "url": "https://economynext.com/australia-gives-sri-lanka-us50mn-in-food-medicine-aid-amid-96101/",
-    "file_name": "/tmp/news_lk2/articles/0a/0aada267.json"
   }
 ]
