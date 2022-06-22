@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655922960,
+    "title": "India\u2019s finance minister assures \u2018fullest support\u2019 for Sri Lanka\u2019s economic recovery",
+    "url": "http://www.adaderana.lk/news/83203/indias-finance-minister-assures-fullest-support-for-sri-lankas-economic-recovery",
+    "file_name": "/tmp/news_lk2/articles/dc/dc7070a3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655915880,
     "title": "Final inquiry report on Sri Lanka Customs handed over to President",
     "url": "http://www.adaderana.lk/news/83202/final-inquiry-report-on-sri-lanka-customs-handed-over-to-president",
@@ -12,6 +19,13 @@
     "title": "Demanding solutions to present crisis...",
     "url": "https://www.dailymirror.lk/caption_story/Demanding-solutions-to-present-crisis/110-239586",
     "file_name": "/tmp/news_lk2/articles/fe/fef6e768.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655909160,
+    "title": "\u2019Ratta\u2019\u2019 and seven others remanded till July 1",
+    "url": "https://www.dailymirror.lk/breaking_news/Ratta-and-seven-others-remanded-till-July-1/108-239589",
+    "file_name": "/tmp/news_lk2/articles/9f/9f225921.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -40,6 +54,13 @@
     "title": "New bail order for Johnston, 24-hours after CA dismisses application to prevent arrest",
     "url": "https://www.newsfirst.lk/2022/06/22/new-bail-order-for-johnston-24-hours-after-ca-dismisses-application-to-prevent-arrest/",
     "file_name": "/tmp/news_lk2/articles/b1/b15c1aa4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655907600,
+    "title": "Protest against Prez...",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-against-Prez/110-239587",
+    "file_name": "/tmp/news_lk2/articles/06/06009196.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -278,6 +299,13 @@
     "title": "SL intends to enter official level agreement with IMF",
     "url": "https://www.dailymirror.lk/latest_news/SL-intends-to-enter-official-level-agreement-with-IMF/342-239579",
     "file_name": "/tmp/news_lk2/articles/bc/bc9b0322.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655886540,
+    "title": "Teams from US Treasury and India will arrive here: PM",
+    "url": "https://www.dailymirror.lk/top_story/Teams-from-US-Treasury-and-India-will-arrive-here-PM/155-239579",
+    "file_name": "/tmp/news_lk2/articles/5d/5dd4a2fd.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -670,33 +698,5 @@
     "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
     "url": "https://www.dailymirror.lk/business__main/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/245-239536",
     "file_name": "/tmp/news_lk2/articles/8e/8eb7b8b8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655859900,
-    "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/108-239536",
-    "file_name": "/tmp/news_lk2/articles/09/09886e74.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655854500,
-    "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
-    "url": "https://www.dailymirror.lk/latest_news/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/342-239544",
-    "file_name": "/tmp/news_lk2/articles/04/041df755.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655854500,
-    "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
-    "url": "https://www.dailymirror.lk/breaking_news/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/108-239544",
-    "file_name": "/tmp/news_lk2/articles/30/30c3543b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655854500,
-    "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
-    "url": "https://www.dailymirror.lk/top_story/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/155-239544",
-    "file_name": "/tmp/news_lk2/articles/47/47672d27.json"
   }
 ]
