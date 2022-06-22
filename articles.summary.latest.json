@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655907960,
+    "title": "Ratta & Co remanded until 1st of July",
+    "url": "https://www.newsfirst.lk/2022/06/22/ratta-co-remanded-until-1st-of-july/",
+    "file_name": "/tmp/news_lk2/articles/fa/fae36400.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655907600,
+    "title": "Protest against Prez...",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-against-Prez/342-239587",
+    "file_name": "/tmp/news_lk2/articles/c8/c8236e33.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655907600,
+    "title": "New bail order for Johnston, 24-hours after CA dismisses application to prevent arrest",
+    "url": "https://www.newsfirst.lk/2022/06/22/new-bail-order-for-johnston-24-hours-after-ca-dismisses-application-to-prevent-arrest/",
+    "file_name": "/tmp/news_lk2/articles/b1/b15c1aa4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655906460,
     "title": "\u2018Ratta\u2019, Lahiru Weerasekara and 5 others remanded",
@@ -36,6 +57,20 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655903880,
+    "title": "More than 30 of Sri Lanka\u2019s bondholders launch formal group for debt talks",
+    "url": "https://www.dailymirror.lk/latest_news/More-than-30-of-Sri-Lankas-bondholders-launch-formal-group-for-debt-talks/342-239584",
+    "file_name": "/tmp/news_lk2/articles/31/31ad3f23.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655903460,
+    "title": "Cabinet proposal allowing to import electric vehicles for migrant workers who make legal remittances: Manusha",
+    "url": "https://www.dailymirror.lk/latest_news/Cabinet-proposal-allowing-to-import-electric-vehicles-for-migrant-workers-who-make-legal-remittances-Manusha/342-239585",
+    "file_name": "/tmp/news_lk2/articles/db/db4c11bb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655903460,
     "title": "Cabinet proposal allowing to import electric vehicles for migrant workers who make legal remittances: Manusha",
     "url": "https://www.dailymirror.lk/breaking_news/Cabinet-proposal-allowing-to-import-electric-vehicles-for-migrant-workers-who-make-legal-remittances-Manusha/108-239585",
@@ -68,6 +103,13 @@
     "title": "Demand for liquor in Sri Lank decreased by about 30% - COPF reveals",
     "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lank-decreased-by-about-30-copf-reveals",
     "file_name": "/tmp/news_lk2/articles/6a/6a8b9928.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655900940,
+    "title": "\u2019Ice\u2019 worth Rs. 13.6 million seized at CME",
+    "url": "https://www.dailymirror.lk/latest_news/Ice-worth-Rs-13-6-million-seized-at-CME/342-239588",
+    "file_name": "/tmp/news_lk2/articles/cd/cd549e62.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -656,47 +698,5 @@
     "title": "Sri Lanka vs Australia ODI series",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
     "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850480,
-    "title": "Sri Lanka vs Australia ODI series",
-    "url": "https://www.dailymirror.lk/caption_story/Sri-Lanka-vs-Australia-ODI-series/110-239542",
-    "file_name": "/tmp/news_lk2/articles/df/df569bea.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655843280,
-    "title": "FUTURE OF ENGINEERS, ENGINEERING SECTOR AND SRI LANKA",
-    "url": "https://www.dailymirror.lk/opinion/FUTURE-OF-ENGINEERS-ENGINEERING-SECTOR-AND-SRI-LANKA/172-239540",
-    "file_name": "/tmp/news_lk2/articles/f8/f883f2ee.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655843160,
-    "title": "From the depths of despair King Cricket  rises again",
-    "url": "https://www.dailymirror.lk/opinion/From-the-depths-of-despair-King-Cricket-rises-again/172-239539",
-    "file_name": "/tmp/news_lk2/articles/71/710472dd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655842680,
-    "title": "Social safety net spread to console vulnerable segments",
-    "url": "https://www.dailymirror.lk/plus/Social-safety-net-spread-to-console-vulnerable-segments/352-239538",
-    "file_name": "/tmp/news_lk2/articles/42/426e4be0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655842560,
-    "title": "University dons propose plan to tackle food crisis",
-    "url": "https://www.dailymirror.lk/plus/University-dons-propose-plan-to-tackle-food-crisis/352-239537",
-    "file_name": "/tmp/news_lk2/articles/a3/a33c21db.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "Cabinet nod to amend minimum age to 21 years for female migrant workers",
-    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-minimum-age-to-21-years-for-female-migrant-workers/56-736469",
-    "file_name": "/tmp/news_lk2/articles/99/996b1f5c.json"
   }
 ]
