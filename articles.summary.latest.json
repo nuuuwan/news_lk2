@@ -2,6 +2,13 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655901660,
+    "title": "Demand for liquor in Sri Lanka decreased by about 30% - officials reveal",
+    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lanka-decreased-by-about-30-officials-reveal",
+    "file_name": "/tmp/news_lk2/articles/34/34d0b765.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655901660,
     "title": "Demand for liquor in Sri Lank decreased by about 30% - COPF reveals",
     "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lank-decreased-by-about-30-copf-reveals",
     "file_name": "/tmp/news_lk2/articles/6a/6a8b9928.json"
@@ -691,12 +698,5 @@
     "title": "Luminex posts excellent financial results for FY2022; turnover up 22% NPAT up 38%",
     "url": "https://www.ft.lk/business/Luminex-posts-excellent-financial-results-for-FY2022-turnover-up-22-NPAT-up-38/34-736473",
     "file_name": "/tmp/news_lk2/articles/cf/cf0b2ef4.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655836080,
-    "title": "Former CEB chairman Ferdinando to be summoned before COPE",
-    "url": "http://www.adaderana.lk/news/83183/former-ceb-chairman-ferdinando-to-be-summoned-before-cope",
-    "file_name": "/tmp/news_lk2/articles/7f/7f5075db.json"
   }
 ]
