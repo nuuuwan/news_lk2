@@ -185,6 +185,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655900940,
     "title": "\u2019Ice\u2019 worth Rs. 13.6 million seized at CME",
+    "url": "https://www.dailymirror.lk/breaking_news/Ice-worth-Rs-13-6-million-seized-at-CME/108-239588",
+    "file_name": "/tmp/news_lk2/articles/26/262b4af8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655900940,
+    "title": "\u2019Ice\u2019 worth Rs. 13.6 million seized at CME",
     "url": "https://www.dailymirror.lk/latest_news/Ice-worth-Rs-13-6-million-seized-at-CME/342-239588",
     "file_name": "/tmp/news_lk2/articles/cd/cd549e62.json"
   },
@@ -691,12 +698,5 @@
     "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
     "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
     "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655865840,
-    "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
-    "url": "https://economynext.com/sri-lanka-bond-holders-form-group-to-negotiate-hamilton-reserve-sues-96218/",
-    "file_name": "/tmp/news_lk2/articles/e6/e6cb9b71.json"
   }
 ]
