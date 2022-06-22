@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655915880,
+    "title": "Final inquiry report on Sri Lanka Customs handed over to President",
+    "url": "http://www.adaderana.lk/news/83202/final-inquiry-report-on-sri-lanka-customs-handed-over-to-president",
+    "file_name": "/tmp/news_lk2/articles/e7/e77abf96.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655913120,
     "title": "Demanding solutions to present crisis...",
@@ -691,12 +698,5 @@
     "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
     "url": "https://www.dailymirror.lk/top_story/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/155-239544",
     "file_name": "/tmp/news_lk2/articles/47/47672d27.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850720,
-    "title": "Dhammika to be aworn in today",
-    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-aworn-in-today/108-239543",
-    "file_name": "/tmp/news_lk2/articles/38/3892c0ac.json"
   }
 ]
