@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655859960,
+    "title": "Sri Lanka tightens border transactions reporting after printing money",
+    "url": "https://economynext.com/sri-lanka-tightens-border-transactions-reporting-after-printing-money-96216/",
+    "file_name": "/tmp/news_lk2/articles/35/35cfc7e4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655850480,
+    "title": "Sri Lanka vs Australia ODI series",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
+    "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655843280,
     "title": "FUTURE OF ENGINEERS, ENGINEERING SECTOR AND SRI LANKA",
@@ -684,19 +698,5 @@
     "title": "US extends fresh funding of US$ 5.75 mil",
     "url": "https://www.dailymirror.lk/breaking_news/US-extends-fresh-funding-of-US-5-75-mil/108-239497",
     "file_name": "/tmp/news_lk2/articles/6b/6bf57318.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655795880,
-    "title": "74 filling stations allocated to supply fuel for health workers",
-    "url": "http://www.adaderana.lk/news/83171/74-filling-stations-allocated-to-supply-fuel-for-health-workers",
-    "file_name": "/tmp/news_lk2/articles/6f/6fd92611.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655795880,
-    "title": "List of filling stations allocated for health sector workers on Fridays",
-    "url": "http://www.adaderana.lk/news/83171/list-of-filling-stations-allocated-for-health-sector-workers-on-fridays-",
-    "file_name": "/tmp/news_lk2/articles/7a/7ab2af8f.json"
   }
 ]
