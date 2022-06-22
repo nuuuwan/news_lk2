@@ -70,6 +70,13 @@
     "file_name": "/tmp/news_lk2/articles/ed/eddcc310.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655923800,
+    "title": "Come together as one country and join in nation\u2019s rebuilding process: Ranil",
+    "url": "https://www.ft.lk/opinion/Come-together-as-one-country-and-join-in-nation-s-rebuilding-process-Ranil/14-736512",
+    "file_name": "/tmp/news_lk2/articles/1f/1f51fc9c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655922960,
     "title": "India\u2019s finance minister assures \u2018fullest support\u2019 for Sri Lanka\u2019s economic recovery",
@@ -691,12 +698,5 @@
     "title": "Dhammika Perera sworn in as Member of Parliament",
     "url": "http://www.adaderana.lk/news/83186/dhammika-perera-sworn-in-as-member-of-parliament",
     "file_name": "/tmp/news_lk2/articles/79/79ce65de.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655872380,
-    "title": "Dhammika Perera sworn in as MP",
-    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-sworn-in-as-MP/108-239565",
-    "file_name": "/tmp/news_lk2/articles/cd/cd00df12.json"
   }
 ]
