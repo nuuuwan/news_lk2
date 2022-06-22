@@ -37,6 +37,13 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655836200,
+    "title": "Harin promotes Sri Lanka in UK, France and Germany",
+    "url": "https://www.ft.lk/business/Harin-promotes-Sri-Lanka-in-UK-France-and-Germany/34-736471",
+    "file_name": "/tmp/news_lk2/articles/54/54549cf6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
     "title": "Extremists storm India-backed yoga event in Maldives",
     "url": "https://www.ft.lk/news/Extremists-storm-India-backed-yoga-event-in-Maldives/56-736468",
     "file_name": "/tmp/news_lk2/articles/9c/9c5549e1.json"
@@ -44,9 +51,23 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655836200,
+    "title": "Luminex posts excellent financial results for FY2022; turnover up 22% NPAT up 38%",
+    "url": "https://www.ft.lk/business/Luminex-posts-excellent-financial-results-for-FY2022-turnover-up-22-NPAT-up-38/34-736473",
+    "file_name": "/tmp/news_lk2/articles/cf/cf0b2ef4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
     "title": "PM participates at Yoga Day",
     "url": "https://www.ft.lk/news/PM-participates-at-Yoga-Day/56-736464",
     "file_name": "/tmp/news_lk2/articles/0c/0c46b7c1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "appiGo e-commerce platform to drive Sri Lanka towards\u00a0export-led economy",
+    "url": "https://www.ft.lk/business/appiGo-e-commerce-platform-to-drive-Sri-Lanka-towardsexport-led-economy/34-736472",
+    "file_name": "/tmp/news_lk2/articles/12/122dc72c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -159,6 +180,34 @@
     "title": "Sri Lanka JKH borrows USD75 mln from Canada to fund India\u2019s Adani Group JV port terminal",
     "url": "https://economynext.com/sri-lanka-jkh-borrows-usd75-mln-from-canada-to-fund-indias-adani-group-jv-port-terminal-96212/",
     "file_name": "/tmp/news_lk2/articles/89/89d10651.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655820420,
+    "title": "SampathCards introduces real time Rewards Points Redemption at Keells Supermarkets for the first time in Sri Lanka",
+    "url": "http://island.lk/sampathcards-introduces-real-time-rewards-points-redemption-at-keells-supermarkets-for-the-first-time-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/9c/9cc91606.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655820360,
+    "title": "Dialog empowers customers with digital customer care via Google Assistant",
+    "url": "http://island.lk/dialog-empowers-customers-with-digital-customer-care-via-google-assistant/",
+    "file_name": "/tmp/news_lk2/articles/22/22f096a1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655820360,
+    "title": "John Keells Holdings to raise the equivalent of USD 75 million via unlisted convertible debentures to Fairfax Financial",
+    "url": "http://island.lk/john-keells-holdings-to-raise-the-equivalent-of-usd-75-million-via-unlisted-convertible-debentures-to-fairfax-financial/",
+    "file_name": "/tmp/news_lk2/articles/95/9590dfac.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655820360,
+    "title": "Lanka Accelerator launched in Sri Lanka",
+    "url": "http://island.lk/lanka-accelerator-launched-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/1e/1e2562b2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -649,54 +698,5 @@
     "title": "List of filling stations allocated for health sector workers on Fridays",
     "url": "http://www.adaderana.lk/news/83171/list-of-filling-stations-allocated-for-health-sector-workers-on-fridays-",
     "file_name": "/tmp/news_lk2/articles/7a/7ab2af8f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655795700,
-    "title": "U.S. Announces an Additional $5.75M in Response to Sri Lanka\u2019s Economic Crisis",
-    "url": "https://www.newsfirst.lk/2022/06/21/u-s-announces-an-additional-5-75m-in-response-to-sri-lankas-economic-crisis/",
-    "file_name": "/tmp/news_lk2/articles/c2/c2969e72.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655795460,
-    "title": "GL to represent President at CHOGM in Rwanda",
-    "url": "https://www.newsfirst.lk/2022/06/21/gl-to-represent-president-at-chogm-in-rwanda/",
-    "file_name": "/tmp/news_lk2/articles/0b/0bbcaaa7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655793660,
-    "title": "August and December school holidays to be shortened - Education Minister",
-    "url": "https://www.dailymirror.lk/latest_news/August-and-December-school-holidays-to-be-shortened-Education-Minister/342-239495",
-    "file_name": "/tmp/news_lk2/articles/44/440da6f3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655793660,
-    "title": "August and December school holidays to be shortened - Education Minister",
-    "url": "https://www.dailymirror.lk/breaking_news/August-and-December-school-holidays-to-be-shortened-Education-Minister/108-239495",
-    "file_name": "/tmp/news_lk2/articles/a3/a3575dd8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655792820,
-    "title": "Sri Lanka stock gains over 1.5-pct in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stock-gains-over-1-5-pct-in-mid-day-trade-96186/",
-    "file_name": "/tmp/news_lk2/articles/dc/dca4a425.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655792340,
-    "title": "Daily Exchange Rate from CBSL",
-    "url": "https://www.newsfirst.lk/2022/06/21/daily-exchange-rate-from-cbsl-3/",
-    "file_name": "/tmp/news_lk2/articles/20/20e0a91b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655791860,
-    "title": "SC determines SJB\u2019s 21A requires approval through referendum: Speaker informs Parliament",
-    "url": "https://www.dailymirror.lk/latest_news/SC-determines-SJBs-21A-requires-approval-through-referendum-Speaker-informs-Parliament/342-239494",
-    "file_name": "/tmp/news_lk2/articles/79/79592c99.json"
   }
 ]
