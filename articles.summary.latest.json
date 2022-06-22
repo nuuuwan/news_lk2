@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655892120,
+    "title": "Update: Afghan earthquake: At least 920 people killed and 600 wounded, officials say",
+    "url": "https://www.dailymirror.lk/breaking_news/Update-Afghan-earthquake-At-least-920-people-killed-and-600-wounded-officials-say/108-239578",
+    "file_name": "/tmp/news_lk2/articles/34/342ceef9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655891940,
+    "title": "Energy Minister says $34 million payment made for furnace oil cargo",
+    "url": "http://www.adaderana.lk/news/83195/energy-minister-says-34-million-payment-made-for-furnace-oil-cargo",
+    "file_name": "/tmp/news_lk2/articles/4b/4bdf51ee.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655891820,
+    "title": "Death toll from earthquake in Afghanistan rises over 900",
+    "url": "http://www.adaderana.lk/news/83194/death-toll-from-earthquake-in-afghanistan-rises-over-900",
+    "file_name": "/tmp/news_lk2/articles/50/50c038b9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655889300,
+    "title": "(Video) Hirunika leads protest against Prime Minister",
+    "url": "https://www.newsfirst.lk/2022/06/22/video-hirunika-leads-protest-against-prime-minister/",
+    "file_name": "/tmp/news_lk2/articles/bc/bc1a289a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655889180,
     "title": "Dozens of Sri Lanka bondholders join for debt-restructure talks",
@@ -96,6 +124,13 @@
     "title": "Cops get another hug from Hirunika?",
     "url": "https://www.dailymirror.lk/latest_news/Cops-get-another-hug-from-Hirunika/342-239573",
     "file_name": "/tmp/news_lk2/articles/7c/7c537eaf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655884080,
+    "title": "Sri Lanka considering dollar tea auction: Minister",
+    "url": "https://economynext.com/sri-lanka-considering-dollar-tea-auction-minister-96251/",
+    "file_name": "/tmp/news_lk2/articles/b6/b6c181aa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -663,40 +698,5 @@
     "title": "Man shot dead at Peliyagoda Manning Market",
     "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-at-Peliyagoda-Manning-Market/108-239513",
     "file_name": "/tmp/news_lk2/articles/e7/e763e6d8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655821020,
-    "title": "Man shot dead at Peliyagoda Manning Market",
-    "url": "https://www.dailymirror.lk/latest_news/Man-shot-dead-at-Peliyagoda-Manning-Market/342-239513",
-    "file_name": "/tmp/news_lk2/articles/e9/e9fc9446.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655820480,
-    "title": "Sri Lanka JKH borrows USD75 mln from Canada to fund India\u2019s Adani Group JV port terminal",
-    "url": "https://economynext.com/sri-lanka-jkh-borrows-usd75-mln-from-canada-to-fund-indias-adani-group-jv-port-terminal-96212/",
-    "file_name": "/tmp/news_lk2/articles/89/89d10651.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655820420,
-    "title": "SampathCards introduces real time Rewards Points Redemption at Keells Supermarkets for the first time in Sri Lanka",
-    "url": "http://island.lk/sampathcards-introduces-real-time-rewards-points-redemption-at-keells-supermarkets-for-the-first-time-in-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/9c/9cc91606.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655820360,
-    "title": "Dialog empowers customers with digital customer care via Google Assistant",
-    "url": "http://island.lk/dialog-empowers-customers-with-digital-customer-care-via-google-assistant/",
-    "file_name": "/tmp/news_lk2/articles/22/22f096a1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655820360,
-    "title": "John Keells Holdings to raise the equivalent of USD 75 million via unlisted convertible debentures to Fairfax Financial",
-    "url": "http://island.lk/john-keells-holdings-to-raise-the-equivalent-of-usd-75-million-via-unlisted-convertible-debentures-to-fairfax-financial/",
-    "file_name": "/tmp/news_lk2/articles/95/9590dfac.json"
   }
 ]
