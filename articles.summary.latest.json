@@ -2,9 +2,23 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655873640,
+    "title": "Tense situation near PM's private residence",
+    "url": "https://www.dailymirror.lk/latest_news/Tense-situation-near-PM-s-private-residence/342-239567",
+    "file_name": "/tmp/news_lk2/articles/d8/d84042ab.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655873640,
     "title": "Tense situ outside Prime Minister\u2019s private residence",
     "url": "https://www.dailymirror.lk/latest_news/Tense-situ-outside-Prime-Ministers-private-residence/342-239567",
     "file_name": "/tmp/news_lk2/articles/bd/bd33c522.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655873400,
+    "title": "Protest staged against PM Ranil",
+    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
+    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -684,19 +698,5 @@
     "title": "Man shot dead at Manning Market",
     "url": "http://www.adaderana.lk/news/83174/man-shot-dead-at-manning-market",
     "file_name": "/tmp/news_lk2/articles/61/61f61bab.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655803620,
-    "title": "Power cuts scheduled for 22nd & 23rd",
-    "url": "https://www.newsfirst.lk/2022/06/21/power-cuts-scheduled-for-22nd-23rd/",
-    "file_name": "/tmp/news_lk2/articles/c6/c62b40dd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655803020,
-    "title": "Parliament to convene only today and tomorrow due to fuel crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Parliament-to-convene-only-today-and-tomorrow-due-to-fuel-crisis/108-239500",
-    "file_name": "/tmp/news_lk2/articles/c9/c9822ca8.json"
   }
 ]
