@@ -63,11 +63,25 @@
     "file_name": "/tmp/news_lk2/articles/7b/7bf73c2a.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655886960,
+    "title": "Wimal says US Ambassador had intervened in Aragalaya",
+    "url": "https://www.dailymirror.lk/latest_news/Wimal-says-US-Ambassador-had-intervened-in-Aragalaya/342-239575",
+    "file_name": "/tmp/news_lk2/articles/61/61e162f9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655886540,
     "title": "Govt to present an interim budget in August 2022",
     "url": "http://www.adaderana.lk/news/83191/govt-to-present-an-interim-budget-in-august-2022",
     "file_name": "/tmp/news_lk2/articles/2c/2c2339b2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655886540,
+    "title": "SL intends to enter official level agreement with IMF",
+    "url": "https://www.dailymirror.lk/latest_news/SL-intends-to-enter-official-level-agreement-with-IMF/342-239579",
+    "file_name": "/tmp/news_lk2/articles/bc/bc9b0322.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -82,6 +96,13 @@
     "title": "US$ 34mn paid for furnace oil cargo: Minister",
     "url": "https://www.dailymirror.lk/breaking_news/US-34mn-paid-for-furnace-oil-cargo-Minister/108-239574",
     "file_name": "/tmp/news_lk2/articles/5c/5c6d3f05.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655885400,
+    "title": "US$ 34mn paid for furnace oil cargo: Minister",
+    "url": "https://www.dailymirror.lk/latest_news/US-34mn-paid-for-furnace-oil-cargo-Minister/342-239574",
+    "file_name": "/tmp/news_lk2/articles/84/84e83fee.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -677,26 +698,5 @@
     "title": "Dhammika Perera to take oath as MP tomorrow",
     "url": "http://www.adaderana.lk/news/83182/dhammika-perera-to-take-oath-as-mp-tomorrow",
     "file_name": "/tmp/news_lk2/articles/2c/2c9d083e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655826780,
-    "title": "SL Govt. making an effort effort to reclaim compensation",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/108-239514",
-    "file_name": "/tmp/news_lk2/articles/6e/6e9f1a80.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655826780,
-    "title": "SL Govt. making an effort effort to reclaim compensation",
-    "url": "https://www.dailymirror.lk/latest_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/342-239514",
-    "file_name": "/tmp/news_lk2/articles/95/95e12517.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655821020,
-    "title": "Man shot dead at Peliyagoda Manning Market",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-shot-dead-at-Peliyagoda-Manning-Market/108-239513",
-    "file_name": "/tmp/news_lk2/articles/e7/e763e6d8.json"
   }
 ]
