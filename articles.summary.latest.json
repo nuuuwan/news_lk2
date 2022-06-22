@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655868300,
+    "title": "Sri Lanka Sued by Bondholder in US",
+    "url": "https://www.newsfirst.lk/2022/06/22/sri-lanka-sued-by-bondholder-in-us/",
+    "file_name": "/tmp/news_lk2/articles/0f/0f95e383.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655865840,
     "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
@@ -29,10 +36,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655854500,
+    "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
+    "url": "https://www.dailymirror.lk/top_story/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/155-239544",
+    "file_name": "/tmp/news_lk2/articles/47/47672d27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655850720,
     "title": "Dhammika to be aworn in today",
     "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-aworn-in-today/108-239543",
     "file_name": "/tmp/news_lk2/articles/38/3892c0ac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655850720,
+    "title": "Dhammika to be sworn in today",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-sworn-in-today/108-239543",
+    "file_name": "/tmp/news_lk2/articles/c5/c50b1fb6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -644,6 +665,13 @@
     "file_name": "/tmp/news_lk2/articles/7d/7db5b0c7.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655801220,
+    "title": "CA orders Magistrate to make fresh orders against Johnston",
+    "url": "https://www.dailymirror.lk/breaking_news/CA-orders-Magistrate-to-make-fresh-orders-against-Johnston/108-239499",
+    "file_name": "/tmp/news_lk2/articles/c3/c3b64bc1.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655801160,
     "title": "Sri Lanka guidance peg dropped by rupee to 361.75 to US dollar",
@@ -670,33 +698,5 @@
     "title": "U.S. announces additional $5.75 Mn in response to Sri Lanka\u2019s economic crisis",
     "url": "http://www.adaderana.lk/news/83172/us-announces-additional-575-mn-in-response-to-sri-lankas-economic-crisis",
     "file_name": "/tmp/news_lk2/articles/01/010376a6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655797680,
-    "title": "Crisis aggravated after new govt., PM took over: AKD",
-    "url": "https://www.dailymirror.lk/breaking_news/Crisis-aggravated-after-new-govt-PM-took-over-AKD/108-239498",
-    "file_name": "/tmp/news_lk2/articles/79/79ef6b71.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655797680,
-    "title": "Crisis aggravated after new govt., PM took over: AKD",
-    "url": "https://www.dailymirror.lk/latest_news/Crisis-aggravated-after-new-govt-PM-took-over-AKD/342-239498",
-    "file_name": "/tmp/news_lk2/articles/b1/b1818626.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655797560,
-    "title": "Sri Lanka central bank own Treasuries holding tops Rs 2 trillion",
-    "url": "https://economynext.com/sri-lanka-central-bank-own-treasuries-holding-tops-rs-2-trillion-96190/",
-    "file_name": "/tmp/news_lk2/articles/34/342a514e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655797560,
-    "title": "Sri Lanka central bank owned Treasuries tops Rs2trillion",
-    "url": "https://economynext.com/sri-lanka-central-bank-owned-treasuries-tops-rs2trillion-96190/",
-    "file_name": "/tmp/news_lk2/articles/62/623207ae.json"
   }
 ]
