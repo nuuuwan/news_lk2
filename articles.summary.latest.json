@@ -332,6 +332,13 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655869440,
     "title": "Sri Lanka sued by bondholder in US following historic default",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/108-239558",
+    "file_name": "/tmp/news_lk2/articles/22/22f0a877.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655869440,
+    "title": "Sri Lanka sued by bondholder in US following historic default",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/342-239558",
     "file_name": "/tmp/news_lk2/articles/91/91125512.json"
   },
@@ -383,6 +390,13 @@
     "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
     "url": "https://www.dailymirror.lk/latest_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/342-239536",
     "file_name": "/tmp/news_lk2/articles/d5/d5c84f06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655859900,
+    "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
+    "url": "https://www.dailymirror.lk/breaking_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/108-239536",
+    "file_name": "/tmp/news_lk2/articles/09/09886e74.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Why delay in distributing medicines? \u2013 GMOA questions Health Minister",
     "url": "https://www.newsfirst.lk/2022/06/21/why-delay-in-distributing-medicines-gmoa-questions-health-minister/",
     "file_name": "/tmp/news_lk2/articles/2f/2f87d248.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655820120,
-    "title": "\u2019Chinese Bridge\u2019 language competition held",
-    "url": "https://www.dailymirror.lk/caption_story/Chinese-Bridge-language-competition-held/110-239511",
-    "file_name": "/tmp/news_lk2/articles/f3/f38753e8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655820060,
-    "title": "Social Media activist Anuruddha Bandara released",
-    "url": "https://www.newsfirst.lk/2022/06/21/social-media-activist-anuruddha-bandara-released/",
-    "file_name": "/tmp/news_lk2/articles/d8/d8aa372f.json"
   }
 ]
