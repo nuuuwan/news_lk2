@@ -1,5 +1,33 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655882100,
+    "title": "Need to work out a system to repay loans - PM",
+    "url": "http://www.adaderana.lk/news/83190/need-to-work-out-a-system-to-repay-loans-pm",
+    "file_name": "/tmp/news_lk2/articles/cf/cf4859e6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655882100,
+    "title": "Sri Lanka PM wants opposition to call off boycott to proceed with reforms",
+    "url": "https://economynext.com/sri-lanka-pm-wants-opposition-to-call-off-boycott-to-proceed-with-reforms-96249/",
+    "file_name": "/tmp/news_lk2/articles/fc/fcc1e784.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655881560,
+    "title": "Sri Lanka to maintain 2.5 hour power cut until Norochcholai fully operates",
+    "url": "https://economynext.com/sri-lanka-to-maintain-2-5-hour-power-cut-until-norochcholai-fully-operates-96250/",
+    "file_name": "/tmp/news_lk2/articles/39/393bdbf9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655881320,
+    "title": "\u2018Ratta\u2019, Lahiru surrender to police",
+    "url": "https://www.dailymirror.lk/latest_news/Ratta-Lahiru-surrender-to-police/342-239572",
+    "file_name": "/tmp/news_lk2/articles/ad/adac5f55.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655880060,
     "title": "Sri Lanka: Indian Govt. & US Treasury delegations to visit tomorrow (23), and next week (27)",
@@ -428,6 +456,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655833200,
+    "title": "New monitoring centre to monitor SL fishing vessels",
+    "url": "https://www.dailymirror.lk/latest_news/New-monitoring-centre-to-monitor-SL-fishing-vessels/342-239571",
+    "file_name": "/tmp/news_lk2/articles/60/600430ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655832300,
     "title": "Sri Lanka wins first ODI series over Australia since 2010",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-wins-first-ODI-series-over-Australia-since-2010/108-239516",
@@ -663,40 +698,5 @@
     "title": "Biggest rail strike in 30 years brings UK to standstill",
     "url": "http://www.adaderana.lk/news/83179/biggest-rail-strike-in-30-years-brings-uk-to-standstill",
     "file_name": "/tmp/news_lk2/articles/ff/ff6f8738.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810520,
-    "title": "Railway to lease its lands for agricultural purposes for one year",
-    "url": "https://www.dailymirror.lk/latest_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/342-239510",
-    "file_name": "/tmp/news_lk2/articles/fd/fd4fd0dc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810520,
-    "title": "Railway to lease its lands for agricultural purposes for one year",
-    "url": "https://www.dailymirror.lk/breaking_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/108-239510",
-    "file_name": "/tmp/news_lk2/articles/9d/9d9b8acd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810400,
-    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
-    "url": "https://www.dailymirror.lk/breaking_news/SLs-inflation-hits-45-3-in-May-highest-this-year/108-239509",
-    "file_name": "/tmp/news_lk2/articles/cd/cd4534d1.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810400,
-    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
-    "url": "https://www.dailymirror.lk/latest_news/SLs-inflation-hits-45-3-in-May-highest-this-year/342-239509",
-    "file_name": "/tmp/news_lk2/articles/5f/5f241ee7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655810340,
-    "title": "Officials must take an oath before testifying at COPE",
-    "url": "https://www.newsfirst.lk/2022/06/21/officials-must-take-an-oath-before-testifying-at-cope/",
-    "file_name": "/tmp/news_lk2/articles/ed/ed05cba0.json"
   }
 ]
