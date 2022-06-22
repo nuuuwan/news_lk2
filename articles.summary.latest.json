@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655880060,
+    "title": "Sri Lanka: Indian Govt. & US Treasury delegations to visit tomorrow (23), and next week (27)",
+    "url": "https://www.newsfirst.lk/2022/06/22/sri-lanka-indian-govt-us-treasury-delegations-to-visit-tomorrow-23-and-next-week-27/",
+    "file_name": "/tmp/news_lk2/articles/c3/c3281202.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655880000,
+    "title": "Sri Lanka stocks marginally up in mid-day trade",
+    "url": "https://economynext.com/sri-lanka-stocks-marginally-up-in-mid-day-trade-96248/",
+    "file_name": "/tmp/news_lk2/articles/4b/4b4261cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655879940,
     "title": "\u2018Ratta\u2019 and Lahiru Weerasekara surrender to police",
@@ -12,6 +26,13 @@
     "title": "No pay leave for public service officers to take up overseas jobs",
     "url": "https://www.dailymirror.lk/breaking_news/No-pay-leave-for-public-service-officers-to-take-up-overseas-jobs/108-239570",
     "file_name": "/tmp/news_lk2/articles/95/95184f83.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655879400,
+    "title": "No pay leave for public service officers to take up overseas jobs",
+    "url": "https://www.dailymirror.lk/latest_news/No-pay-leave-for-public-service-officers-to-take-up-overseas-jobs/342-239570",
+    "file_name": "/tmp/news_lk2/articles/a1/a1653517.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -400,6 +421,13 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655833200,
+    "title": "New monitoring centre to monitor SL fishing vessels",
+    "url": "https://www.dailymirror.lk/caption_story/New-monitoring-centre-to-monitor-SL-fishing-vessels/110-239571",
+    "file_name": "/tmp/news_lk2/articles/da/daa077a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655832300,
     "title": "Sri Lanka wins first ODI series over Australia since 2010",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-wins-first-ODI-series-over-Australia-since-2010/108-239516",
@@ -670,33 +698,5 @@
     "title": "Officials must take an oath before testifying at COPE",
     "url": "https://www.newsfirst.lk/2022/06/21/officials-must-take-an-oath-before-testifying-at-cope/",
     "file_name": "/tmp/news_lk2/articles/ed/ed05cba0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655809320,
-    "title": "\u2019Chinese Bridge\u2019 language competition held",
-    "url": "https://www.dailymirror.lk/latest_news/Chinese-Bridge-language-competition-held/342-239511",
-    "file_name": "/tmp/news_lk2/articles/08/08b174f5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655809080,
-    "title": "Power cut schedule for Wednesday and Thursday",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-for-Wednesday-and-Thursday/108-239507",
-    "file_name": "/tmp/news_lk2/articles/04/045727b2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655809080,
-    "title": "Power cut schedule for Wednesday and Thursday",
-    "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-for-Wednesday-and-Thursday/342-239507",
-    "file_name": "/tmp/news_lk2/articles/88/8804b627.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655808180,
-    "title": "Supreme Court dismisses FR petitions against appointing Dhammika Perera as MP",
-    "url": "http://www.adaderana.lk/news/83177/supreme-court-dismisses-fr-petitions-against-appointing-dhammika-perera-as-mp",
-    "file_name": "/tmp/news_lk2/articles/70/705a29a1.json"
   }
 ]
