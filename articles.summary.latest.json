@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655909160,
+    "title": "\u2019Ratta\u2019\u2019 and seven others remanded till July 1",
+    "url": "https://www.dailymirror.lk/latest_news/Ratta-and-seven-others-remanded-till-July-1/342-239589",
+    "file_name": "/tmp/news_lk2/articles/1a/1aafb6e6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655907960,
     "title": "Ratta & Co remanded until 1st of July",
@@ -33,6 +40,13 @@
     "title": "Sri Lanka rupee guidance rate up by 95 cents; T-bill yields steady at weekly auction",
     "url": "https://economynext.com/sri-lanka-rupee-guidance-rate-up-by-95-cents-t-bill-yields-steady-at-weekly-auction-96276/",
     "file_name": "/tmp/news_lk2/articles/b4/b4c0ee09.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655904720,
+    "title": "Sri Lanka guidance peg strengthen 95 cents  in severe forex shortages",
+    "url": "https://economynext.com/sri-lanka-guidance-peg-strengthen-95-cents-in-severe-forex-shortages-96276/",
+    "file_name": "/tmp/news_lk2/articles/57/579ca806.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -684,19 +698,5 @@
     "title": "Dhammika to be sworn in today",
     "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-sworn-in-today/108-239543",
     "file_name": "/tmp/news_lk2/articles/c5/c50b1fb6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850720,
-    "title": "Dhammika to be sworn in today",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-be-sworn-in-today/342-239543",
-    "file_name": "/tmp/news_lk2/articles/d4/d494dfbd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850480,
-    "title": "Sri Lanka vs Australia ODI series",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
-    "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
   }
 ]
