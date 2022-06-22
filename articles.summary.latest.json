@@ -1,10 +1,45 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655879940,
+    "title": "\u2018Ratta\u2019 and Lahiru Weerasekara surrender to police",
+    "url": "http://www.adaderana.lk/news/83189/ratta-and-lahiru-weerasekara-surrender-to-police",
+    "file_name": "/tmp/news_lk2/articles/11/117cbfc6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655879400,
+    "title": "No pay leave for public service officers to take up overseas jobs",
+    "url": "https://www.dailymirror.lk/breaking_news/No-pay-leave-for-public-service-officers-to-take-up-overseas-jobs/108-239570",
+    "file_name": "/tmp/news_lk2/articles/95/95184f83.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655879340,
+    "title": "Rear Admiral Upul De Silva appointed as Chief of Staff of the Sri Lanka Navy",
+    "url": "https://www.newsfirst.lk/2022/06/22/rear-admiral-upul-de-silva-appointed-as-chief-of-staff-of-the-sri-lanka-navy/",
+    "file_name": "/tmp/news_lk2/articles/1e/1e03c9f2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655876940,
+    "title": "Powerful earthquake in Afghanistan leaves scores dead and wounded",
+    "url": "http://www.adaderana.lk/news/83188/powerful-earthquake-in-afghanistan-leaves-scores-dead-and-wounded-",
+    "file_name": "/tmp/news_lk2/articles/f0/f0862c4b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655876940,
     "title": "Scores killed and wounded in powerful earthquake in Afghanistan",
     "url": "http://www.adaderana.lk/news/83188/scores-killed-and-wounded-in-powerful-earthquake-in-afghanistan",
     "file_name": "/tmp/news_lk2/articles/87/87b79cc0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655876460,
+    "title": "Afghanistan quake kills at least 250",
+    "url": "https://www.newsfirst.lk/2022/06/22/afghanistan-quake-kills-at-least-130/",
+    "file_name": "/tmp/news_lk2/articles/56/5651f8eb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -15,10 +50,24 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655876400,
+    "title": "Dozens killed as 6.1 magnitude quake shakes Afghanistan, Pakistan",
+    "url": "https://www.dailymirror.lk/breaking_news/Dozens-killed-as-6-1-magnitude-quake-shakes-Afghanistan-Pakistan/108-239568",
+    "file_name": "/tmp/news_lk2/articles/23/2304cc0b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655873640,
     "title": "Tense situation near PM's private residence",
     "url": "https://www.dailymirror.lk/latest_news/Tense-situation-near-PM-s-private-residence/342-239567",
     "file_name": "/tmp/news_lk2/articles/d8/d84042ab.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655873640,
+    "title": "Tense situation near PM's private residence",
+    "url": "https://www.dailymirror.lk/breaking_news/Tense-situation-near-PM-s-private-residence/108-239567",
+    "file_name": "/tmp/news_lk2/articles/ee/ee0e146e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -37,16 +86,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655873400,
-    "title": "Protest staged in Colombo against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
-    "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
+    "title": "Protest staged against PM Ranil",
+    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
+    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655873400,
-    "title": "Protest staged against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
+    "title": "Protest staged in Colombo against PM Ranil",
+    "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
+    "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -77,13 +126,6 @@
     "file_name": "/tmp/news_lk2/articles/97/97bd8954.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655872380,
-    "title": "Dhammika Perera sworn in as MP",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-sworn-in-as-MP/342-239565",
-    "file_name": "/tmp/news_lk2/articles/e0/e0d28ffb.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655872380,
     "title": "Dhammika Perera sworn in as Member of Parliament",
@@ -92,10 +134,31 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655872380,
+    "title": "Dhammika Perera sworn in as MP",
+    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-sworn-in-as-MP/342-239565",
+    "file_name": "/tmp/news_lk2/articles/e0/e0d28ffb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655872380,
+    "title": "Dhammika Perera sworn in as MP",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-sworn-in-as-MP/108-239565",
+    "file_name": "/tmp/news_lk2/articles/cd/cd00df12.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655871480,
     "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
     "url": "https://www.dailymirror.lk/latest_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/342-239559",
     "file_name": "/tmp/news_lk2/articles/37/371f4115.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655871480,
+    "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
+    "url": "https://www.dailymirror.lk/breaking_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/108-239559",
+    "file_name": "/tmp/news_lk2/articles/19/19c63a0b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -128,16 +191,16 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655865840,
-    "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
-    "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
-    "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
+    "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
+    "url": "https://economynext.com/sri-lanka-bond-holders-form-group-to-negotiate-hamilton-reserve-sues-96218/",
+    "file_name": "/tmp/news_lk2/articles/e6/e6cb9b71.json"
   },
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655865840,
-    "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
-    "url": "https://economynext.com/sri-lanka-bond-holders-form-group-to-negotiate-hamilton-reserve-sues-96218/",
-    "file_name": "/tmp/news_lk2/articles/e6/e6cb9b71.json"
+    "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
+    "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
+    "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -199,22 +262,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655850720,
     "title": "Dhammika to be sworn in today",
-    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-sworn-in-today/108-239543",
-    "file_name": "/tmp/news_lk2/articles/c5/c50b1fb6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850720,
-    "title": "Dhammika to be sworn in today",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-be-sworn-in-today/342-239543",
     "file_name": "/tmp/news_lk2/articles/d4/d494dfbd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850480,
-    "title": "Sri Lanka vs Australia ODI series",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
-    "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
+    "time_ut": 1655850720,
+    "title": "Dhammika to be sworn in today",
+    "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-sworn-in-today/108-239543",
+    "file_name": "/tmp/news_lk2/articles/c5/c50b1fb6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -222,6 +278,13 @@
     "title": "Sri Lanka vs Australia ODI series",
     "url": "https://www.dailymirror.lk/caption_story/Sri-Lanka-vs-Australia-ODI-series/110-239542",
     "file_name": "/tmp/news_lk2/articles/df/df569bea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655850480,
+    "title": "Sri Lanka vs Australia ODI series",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
+    "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -254,37 +317,9 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655836200,
-    "title": "Cabinet nod to amend minimum age to 21 years for female migrant workers",
-    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-minimum-age-to-21-years-for-female-migrant-workers/56-736469",
-    "file_name": "/tmp/news_lk2/articles/99/996b1f5c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "PM participates at Yoga Day",
-    "url": "https://www.ft.lk/news/PM-participates-at-Yoga-Day/56-736464",
-    "file_name": "/tmp/news_lk2/articles/0c/0c46b7c1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "Appeal Court rejects writ filed by Johnston Fernando",
-    "url": "https://www.ft.lk/news/Appeal-Court-rejects-writ-filed-by-Johnston-Fernando/56-736470",
-    "file_name": "/tmp/news_lk2/articles/30/3046aed8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "SJB MP Bakeer Markar to present Bill to ensure 35% youth quota in elections",
-    "url": "https://www.ft.lk/news/SJB-MP-Bakeer-Markar-to-present-Bill-to-ensure-35-youth-quota-in-elections/56-736467",
-    "file_name": "/tmp/news_lk2/articles/ca/ca89d4bf.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "appiGo e-commerce platform to drive Sri Lanka towards\u00a0export-led economy",
-    "url": "https://www.ft.lk/business/appiGo-e-commerce-platform-to-drive-Sri-Lanka-towardsexport-led-economy/34-736472",
-    "file_name": "/tmp/news_lk2/articles/12/122dc72c.json"
+    "title": "GL to attend Commonwealth Heads of Government Meeting in Kigali, Rwanda",
+    "url": "https://www.ft.lk/news/GL-to-attend-Commonwealth-Heads-of-Government-Meeting-in-Kigali-Rwanda/56-736466",
+    "file_name": "/tmp/news_lk2/articles/63/63e0f440.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -303,23 +338,51 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655836200,
-    "title": "SJB\u2019s 21A Bill shot down by SC",
-    "url": "https://www.ft.lk/news/SJB-s-21A-Bill-shot-down-by-SC/56-736465",
-    "file_name": "/tmp/news_lk2/articles/7a/7a66187a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "GL to attend Commonwealth Heads of Government Meeting in Kigali, Rwanda",
-    "url": "https://www.ft.lk/news/GL-to-attend-Commonwealth-Heads-of-Government-Meeting-in-Kigali-Rwanda/56-736466",
-    "file_name": "/tmp/news_lk2/articles/63/63e0f440.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
     "title": "Luminex posts excellent financial results for FY2022; turnover up 22% NPAT up 38%",
     "url": "https://www.ft.lk/business/Luminex-posts-excellent-financial-results-for-FY2022-turnover-up-22-NPAT-up-38/34-736473",
     "file_name": "/tmp/news_lk2/articles/cf/cf0b2ef4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "PM participates at Yoga Day",
+    "url": "https://www.ft.lk/news/PM-participates-at-Yoga-Day/56-736464",
+    "file_name": "/tmp/news_lk2/articles/0c/0c46b7c1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "appiGo e-commerce platform to drive Sri Lanka towards\u00a0export-led economy",
+    "url": "https://www.ft.lk/business/appiGo-e-commerce-platform-to-drive-Sri-Lanka-towardsexport-led-economy/34-736472",
+    "file_name": "/tmp/news_lk2/articles/12/122dc72c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "SJB MP Bakeer Markar to present Bill to ensure 35% youth quota in elections",
+    "url": "https://www.ft.lk/news/SJB-MP-Bakeer-Markar-to-present-Bill-to-ensure-35-youth-quota-in-elections/56-736467",
+    "file_name": "/tmp/news_lk2/articles/ca/ca89d4bf.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "Cabinet nod to amend minimum age to 21 years for female migrant workers",
+    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-minimum-age-to-21-years-for-female-migrant-workers/56-736469",
+    "file_name": "/tmp/news_lk2/articles/99/996b1f5c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "Appeal Court rejects writ filed by Johnston Fernando",
+    "url": "https://www.ft.lk/news/Appeal-Court-rejects-writ-filed-by-Johnston-Fernando/56-736470",
+    "file_name": "/tmp/news_lk2/articles/30/3046aed8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655836200,
+    "title": "SJB\u2019s 21A Bill shot down by SC",
+    "url": "https://www.ft.lk/news/SJB-s-21A-Bill-shot-down-by-SC/56-736465",
+    "file_name": "/tmp/news_lk2/articles/7a/7a66187a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -360,15 +423,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655828460,
     "title": "COPE to take oath from officials before making statements",
-    "url": "https://www.dailymirror.lk/breaking_news/COPE-to-take-oath-from-officials-before-making-statements/108-239517",
-    "file_name": "/tmp/news_lk2/articles/cb/cbbe6e58.json"
+    "url": "https://www.dailymirror.lk/latest_news/COPE-to-take-oath-from-officials-before-making-statements/342-239517",
+    "file_name": "/tmp/news_lk2/articles/a6/a6a1c312.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655828460,
     "title": "COPE to take oath from officials before making statements",
-    "url": "https://www.dailymirror.lk/latest_news/COPE-to-take-oath-from-officials-before-making-statements/342-239517",
-    "file_name": "/tmp/news_lk2/articles/a6/a6a1c312.json"
+    "url": "https://www.dailymirror.lk/breaking_news/COPE-to-take-oath-from-officials-before-making-statements/108-239517",
+    "file_name": "/tmp/news_lk2/articles/cb/cbbe6e58.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -381,15 +444,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655826780,
     "title": "SL Govt. making an effort effort to reclaim compensation",
-    "url": "https://www.dailymirror.lk/latest_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/342-239514",
-    "file_name": "/tmp/news_lk2/articles/95/95e12517.json"
+    "url": "https://www.dailymirror.lk/breaking_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/108-239514",
+    "file_name": "/tmp/news_lk2/articles/6e/6e9f1a80.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655826780,
     "title": "SL Govt. making an effort effort to reclaim compensation",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/108-239514",
-    "file_name": "/tmp/news_lk2/articles/6e/6e9f1a80.json"
+    "url": "https://www.dailymirror.lk/latest_news/SL-Govt-making-an-effort-effort-to-reclaim-compensation/342-239514",
+    "file_name": "/tmp/news_lk2/articles/95/95e12517.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -422,6 +485,13 @@
   {
     "newspaper_id": "island-lk",
     "time_ut": 1655820360,
+    "title": "Dialog empowers customers with digital customer care via Google Assistant",
+    "url": "http://island.lk/dialog-empowers-customers-with-digital-customer-care-via-google-assistant/",
+    "file_name": "/tmp/news_lk2/articles/22/22f096a1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655820360,
     "title": "John Keells Holdings to raise the equivalent of USD 75 million via unlisted convertible debentures to Fairfax Financial",
     "url": "http://island.lk/john-keells-holdings-to-raise-the-equivalent-of-usd-75-million-via-unlisted-convertible-debentures-to-fairfax-financial/",
     "file_name": "/tmp/news_lk2/articles/95/9590dfac.json"
@@ -432,13 +502,6 @@
     "title": "Lanka Accelerator launched in Sri Lanka",
     "url": "http://island.lk/lanka-accelerator-launched-in-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/1e/1e2562b2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "time_ut": 1655820360,
-    "title": "Dialog empowers customers with digital customer care via Google Assistant",
-    "url": "http://island.lk/dialog-empowers-customers-with-digital-customer-care-via-google-assistant/",
-    "file_name": "/tmp/news_lk2/articles/22/22f096a1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -493,15 +556,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655817840,
     "title": "No serious, uncontrollable drug shortage in the country: Keheliya",
-    "url": "https://www.dailymirror.lk/breaking_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/108-239512",
-    "file_name": "/tmp/news_lk2/articles/0e/0ecb61a9.json"
+    "url": "https://www.dailymirror.lk/latest_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/342-239512",
+    "file_name": "/tmp/news_lk2/articles/e5/e55bbed9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655817840,
     "title": "No serious, uncontrollable drug shortage in the country: Keheliya",
-    "url": "https://www.dailymirror.lk/latest_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/342-239512",
-    "file_name": "/tmp/news_lk2/articles/e5/e55bbed9.json"
+    "url": "https://www.dailymirror.lk/breaking_news/No-serious-uncontrollable-drug-shortage-in-the-country-Keheliya/108-239512",
+    "file_name": "/tmp/news_lk2/articles/0e/0ecb61a9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -577,22 +640,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655810520,
     "title": "Railway to lease its lands for agricultural purposes for one year",
-    "url": "https://www.dailymirror.lk/breaking_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/108-239510",
-    "file_name": "/tmp/news_lk2/articles/9d/9d9b8acd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810520,
-    "title": "Railway to lease its lands for agricultural purposes for one year",
     "url": "https://www.dailymirror.lk/latest_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/342-239510",
     "file_name": "/tmp/news_lk2/articles/fd/fd4fd0dc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655810400,
-    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
-    "url": "https://www.dailymirror.lk/latest_news/SLs-inflation-hits-45-3-in-May-highest-this-year/342-239509",
-    "file_name": "/tmp/news_lk2/articles/5f/5f241ee7.json"
+    "time_ut": 1655810520,
+    "title": "Railway to lease its lands for agricultural purposes for one year",
+    "url": "https://www.dailymirror.lk/breaking_news/Railway-to-lease-its-lands-for-agricultural-purposes-for-one-year/108-239510",
+    "file_name": "/tmp/news_lk2/articles/9d/9d9b8acd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -600,6 +656,13 @@
     "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
     "url": "https://www.dailymirror.lk/breaking_news/SLs-inflation-hits-45-3-in-May-highest-this-year/108-239509",
     "file_name": "/tmp/news_lk2/articles/cd/cd4534d1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655810400,
+    "title": "SL\u2019s inflation hits 45.3% in May, highest this year",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-inflation-hits-45-3-in-May-highest-this-year/342-239509",
+    "file_name": "/tmp/news_lk2/articles/5f/5f241ee7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -635,68 +698,5 @@
     "title": "Supreme Court dismisses FR petitions against appointing Dhammika Perera as MP",
     "url": "http://www.adaderana.lk/news/83177/supreme-court-dismisses-fr-petitions-against-appointing-dhammika-perera-as-mp",
     "file_name": "/tmp/news_lk2/articles/70/705a29a1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655807160,
-    "title": "Supreme Court rejects petitions against Dhammika Perera\u2019s appointment",
-    "url": "https://www.newsfirst.lk/2022/06/21/supreme-court-rejects-petitions-against-dhammika-pereras-appointment/",
-    "file_name": "/tmp/news_lk2/articles/b5/b5f1d549.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655807040,
-    "title": "Sri Lanka\u2019s inflation hits record high 45.3% in May",
-    "url": "http://www.adaderana.lk/news/83176/sri-lankas-inflation-hits-record-high-453-in-may",
-    "file_name": "/tmp/news_lk2/articles/f6/f68f1ad5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655806920,
-    "title": "Sri Lanka PM talks debt restructuring, One China policy with Chinese envoy",
-    "url": "https://economynext.com/sri-lanka-pm-talks-debt-restructuring-one-china-policy-with-chinese-envoy-96196/",
-    "file_name": "/tmp/news_lk2/articles/aa/aa2dc6a9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655806680,
-    "title": "Reveal why US$129 paid to procure one MT Gas: Dayasiri asks PM",
-    "url": "https://www.dailymirror.lk/latest_news/Reveal-why-US-129-paid-to-procure-one-MT-Gas-Dayasiri-asks-PM/342-239505",
-    "file_name": "/tmp/news_lk2/articles/9f/9f4a4e23.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655806680,
-    "title": "Reveal why US$129 paid to procure one MT Gas: Dayasiri asks PM",
-    "url": "https://www.dailymirror.lk/breaking_news/Reveal-why-US-129-paid-to-procure-one-MT-Gas-Dayasiri-asks-PM/108-239505",
-    "file_name": "/tmp/news_lk2/articles/03/03c007a7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655806440,
-    "title": "PM, Ministers perform Yoga in Colombo",
-    "url": "https://www.newsfirst.lk/2022/06/21/pm-ministers-perform-yoga-in-colombo/",
-    "file_name": "/tmp/news_lk2/articles/38/38196e29.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655806380,
-    "title": "Power cut schedule for June 22 and 23",
-    "url": "http://www.adaderana.lk/news/83175/power-cut-schedule-for-june-22-and-23",
-    "file_name": "/tmp/news_lk2/articles/fa/fabc3a8a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655806320,
-    "title": "PMB Rice to the market from next week",
-    "url": "https://www.newsfirst.lk/2022/06/21/pmb-rice-to-the-market-from-next-week/",
-    "file_name": "/tmp/news_lk2/articles/6e/6ee3411d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655806140,
-    "title": "Sri Lanka looking to discuss debt restructuring with China",
-    "url": "https://www.newsfirst.lk/2022/06/21/sri-lanka-looking-to-discuss-debt-restructuring-with-china/",
-    "file_name": "/tmp/news_lk2/articles/ce/ce20ea17.json"
   }
 ]
