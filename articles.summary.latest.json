@@ -1,6 +1,13 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655901660,
+    "title": "Demand for liquor in Sri Lank decreased by about 30% - COPF reveals",
+    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lank-decreased-by-about-30-copf-reveals",
+    "file_name": "/tmp/news_lk2/articles/6a/6a8b9928.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "time_ut": 1655899200,
     "title": "Oil prices slump amid concerns over potential recession",
     "url": "http://www.adaderana.lk/news/83198/oil-prices-slump-amid-concerns-over-potential-recession-",
@@ -47,6 +54,13 @@
     "title": "Verbal clash between rice mill owners; say rice mafia not created by Araliya",
     "url": "https://www.dailymirror.lk/latest_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/342-239580",
     "file_name": "/tmp/news_lk2/articles/93/9381631e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655893980,
+    "title": "Verbal clash between rice mill owners; say rice mafia not created by Araliya",
+    "url": "https://www.dailymirror.lk/breaking_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/108-239580",
+    "file_name": "/tmp/news_lk2/articles/60/60e5f437.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -684,19 +698,5 @@
     "title": "Former CEB chairman Ferdinando to be summoned before COPE",
     "url": "http://www.adaderana.lk/news/83183/former-ceb-chairman-ferdinando-to-be-summoned-before-cope",
     "file_name": "/tmp/news_lk2/articles/7f/7f5075db.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655836080,
-    "title": "Former CEB chairman to be summoned before COPE",
-    "url": "http://www.adaderana.lk/news/83183/former-ceb-chairman-to-be-summoned-before-cope",
-    "file_name": "/tmp/news_lk2/articles/d6/d6f0ee29.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655833200,
-    "title": "New monitoring centre to monitor SL fishing vessels",
-    "url": "https://www.dailymirror.lk/caption_story/New-monitoring-centre-to-monitor-SL-fishing-vessels/110-239571",
-    "file_name": "/tmp/news_lk2/articles/da/daa077a1.json"
   }
 ]
