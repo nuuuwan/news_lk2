@@ -1,5 +1,54 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655932920,
+    "title": "COPE to hold special meeting to discuss CEB",
+    "url": "https://www.ft.lk/news/COPE-to-hold-special-meeting-to-discuss-CEB/56-736551",
+    "file_name": "/tmp/news_lk2/articles/06/069227d7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655932620,
+    "title": "Power cuts to continue till Norochcholai power plant is fully functional: Minister",
+    "url": "https://www.ft.lk/news/Power-cuts-to-continue-till-Norochcholai-power-plant-is-fully-functional-Minister/56-736550",
+    "file_name": "/tmp/news_lk2/articles/03/030e02f7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655932440,
+    "title": "Australia provides $ 15 m critical funding to help WFP respond to rising food insecurity in SL",
+    "url": "https://www.ft.lk/news/Australia-provides-15-m-critical-funding-to-help-WFP-respond-to-rising-food-insecurity-in-SL/56-736549",
+    "file_name": "/tmp/news_lk2/articles/72/723030e4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655932380,
+    "title": "$ 5.75 m more from USAID to help Sri Lanka emerge from crisis",
+    "url": "https://www.ft.lk/news/5-75-m-more-from-USAID-to-help-Sri-Lanka-emerge-from-crisis/56-736548",
+    "file_name": "/tmp/news_lk2/articles/44/44771da8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655932020,
+    "title": "Ashok Ferry wins Gratiaen Prize 2021",
+    "url": "https://www.ft.lk/news/Ashok-Ferry-wins-Gratiaen-Prize-2021/56-736547",
+    "file_name": "/tmp/news_lk2/articles/55/553ce21d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655931780,
+    "title": "Dr. Pethiyagoda appointed Senior Policy Advisor to Opposition Leader",
+    "url": "https://www.ft.lk/news/Dr-Pethiyagoda-appointed-Senior-Policy-Advisor-to-Opposition-Leader/56-736546",
+    "file_name": "/tmp/news_lk2/articles/b3/b3f5df0f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1655931600,
+    "title": "Afghanistan earthquake death toll hits 1,000",
+    "url": "https://www.ft.lk/news/Afghanistan-earthquake-death-toll-hits-1-000/56-736545",
+    "file_name": "/tmp/news_lk2/articles/05/055c9391.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655929140,
     "title": "\u2018Intl. community,\u2019 Opposition and  \u2018The People\u2019",
@@ -649,54 +698,5 @@
     "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
     "url": "https://www.dailymirror.lk/breaking_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/108-239559",
     "file_name": "/tmp/news_lk2/articles/19/19c63a0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655871480,
-    "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
-    "url": "https://www.dailymirror.lk/latest_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/342-239559",
-    "file_name": "/tmp/news_lk2/articles/37/371f4115.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655871180,
-    "title": "Sri Lanka sued by bondholder in US following historic default",
-    "url": "http://www.adaderana.lk/news/83185/sri-lanka-sued-by-bondholder-in-us-following-historic-default",
-    "file_name": "/tmp/news_lk2/articles/b0/b04bb25d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655869440,
-    "title": "Sri Lanka sued by bondholder in US following historic default",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/342-239558",
-    "file_name": "/tmp/news_lk2/articles/91/91125512.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655869440,
-    "title": "Sri Lanka sued by bondholder in US following historic default",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/108-239558",
-    "file_name": "/tmp/news_lk2/articles/22/22f0a877.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655869140,
-    "title": "Parliament will ONLY meet today (22) this week",
-    "url": "https://www.newsfirst.lk/2022/06/22/parliament-will-only-meet-today-22-this-week/",
-    "file_name": "/tmp/news_lk2/articles/93/934b917a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655868300,
-    "title": "Sri Lanka Sued by Bondholder in US",
-    "url": "https://www.newsfirst.lk/2022/06/22/sri-lanka-sued-by-bondholder-in-us/",
-    "file_name": "/tmp/news_lk2/articles/0f/0f95e383.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655865840,
-    "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
-    "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
-    "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
   }
 ]
