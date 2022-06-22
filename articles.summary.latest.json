@@ -1,5 +1,26 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655885040,
+    "title": "Sri Lanka must not overlook Russia in favour of IMF, says MP Weerawansa",
+    "url": "https://economynext.com/sri-lanka-must-not-overlook-russia-in-favour-of-imf-says-mp-weerawansa-96246/",
+    "file_name": "/tmp/news_lk2/articles/f4/f4679930.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655884080,
+    "title": "Sri Lanka exploring dollarized tea auction: Minister",
+    "url": "https://economynext.com/sri-lanka-exploring-dollarized-tea-auction-minister-96251/",
+    "file_name": "/tmp/news_lk2/articles/6a/6a193083.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655884080,
+    "title": "Cops get another hug from Hirunika?",
+    "url": "https://www.dailymirror.lk/latest_news/Cops-get-another-hug-from-Hirunika/342-239573",
+    "file_name": "/tmp/news_lk2/articles/7c/7c537eaf.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655882100,
     "title": "Need to work out a system to repay loans - PM",
@@ -26,6 +47,13 @@
     "title": "\u2018Ratta\u2019, Lahiru surrender to police",
     "url": "https://www.dailymirror.lk/latest_news/Ratta-Lahiru-surrender-to-police/342-239572",
     "file_name": "/tmp/news_lk2/articles/ad/adac5f55.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655880840,
+    "title": "Limited Fuel Supply & Zero Gas distribution in Sri Lanka",
+    "url": "https://www.newsfirst.lk/2022/06/22/limited-fuel-supply-zero-gas-distribution-in-sri-lanka/",
+    "file_name": "/tmp/news_lk2/articles/a8/a83e54b1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -670,33 +698,5 @@
     "title": "Sri Lanka opposition-MP-turned-minister lambasts opposition leader over boycott",
     "url": "https://economynext.com/sri-lanka-opposition-mp-turned-minister-lambasts-opposition-leader-over-boycott-96208/",
     "file_name": "/tmp/news_lk2/articles/c5/c52544f9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655814360,
-    "title": "Crisis-hit Sri Lanka\u2019s priority is making drugs available than affordable \u2013 Health Minister",
-    "url": "https://economynext.com/crisis-hit-sri-lankas-priority-is-making-drugs-available-than-affordable-health-minister-96197/",
-    "file_name": "/tmp/news_lk2/articles/55/550afa2a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655812860,
-    "title": "Fruit vendor shot dead in Mannin Market",
-    "url": "https://www.newsfirst.lk/2022/06/21/fruit-vendor-shot-dead-in-mannin-market/",
-    "file_name": "/tmp/news_lk2/articles/ff/ffefaa8e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655811180,
-    "title": "Sri Lanka justice minister calls for opposition support for his 21st amendment",
-    "url": "https://economynext.com/sri-lanka-justice-minister-calls-for-opposition-support-for-his-21st-amendment-96169/",
-    "file_name": "/tmp/news_lk2/articles/68/6815a766.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655810880,
-    "title": "Biggest rail strike in 30 years brings UK to standstill",
-    "url": "http://www.adaderana.lk/news/83179/biggest-rail-strike-in-30-years-brings-uk-to-standstill",
-    "file_name": "/tmp/news_lk2/articles/ff/ff6f8738.json"
   }
 ]
