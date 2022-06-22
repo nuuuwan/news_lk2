@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655906460,
+    "title": "\u2018Ratta\u2019, Lahiru Weerasekara and 5 others remanded",
+    "url": "http://www.adaderana.lk/news/83201/ratta-lahiru-weerasekara-and-5-others-remanded",
+    "file_name": "/tmp/news_lk2/articles/c0/c03f09ea.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655904720,
     "title": "Sri Lanka rupee guidance rate up by 95 cents; T-bill yields steady at weekly auction",
@@ -51,16 +58,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655901660,
-    "title": "Demand for liquor in Sri Lank decreased by about 30% - COPF reveals",
-    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lank-decreased-by-about-30-copf-reveals",
-    "file_name": "/tmp/news_lk2/articles/6a/6a8b9928.json"
+    "title": "Demand for liquor in Sri Lanka decreased by about 30% - officials reveal",
+    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lanka-decreased-by-about-30-officials-reveal",
+    "file_name": "/tmp/news_lk2/articles/34/34d0b765.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655901660,
-    "title": "Demand for liquor in Sri Lanka decreased by about 30% - officials reveal",
-    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lanka-decreased-by-about-30-officials-reveal",
-    "file_name": "/tmp/news_lk2/articles/34/34d0b765.json"
+    "title": "Demand for liquor in Sri Lank decreased by about 30% - COPF reveals",
+    "url": "http://www.adaderana.lk/news/83199/demand-for-liquor-in-sri-lank-decreased-by-about-30-copf-reveals",
+    "file_name": "/tmp/news_lk2/articles/6a/6a8b9928.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -108,15 +115,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655893980,
     "title": "Verbal clash between rice mill owners; say rice mafia not created by Araliya",
-    "url": "https://www.dailymirror.lk/breaking_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/108-239580",
-    "file_name": "/tmp/news_lk2/articles/60/60e5f437.json"
+    "url": "https://www.dailymirror.lk/latest_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/342-239580",
+    "file_name": "/tmp/news_lk2/articles/93/9381631e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655893980,
     "title": "Verbal clash between rice mill owners; say rice mafia not created by Araliya",
-    "url": "https://www.dailymirror.lk/latest_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/342-239580",
-    "file_name": "/tmp/news_lk2/articles/93/9381631e.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Verbal-clash-between-rice-mill-owners-say-rice-mafia-not-created-by-Araliya/108-239580",
+    "file_name": "/tmp/news_lk2/articles/60/60e5f437.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -189,13 +196,6 @@
     "file_name": "/tmp/news_lk2/articles/61/61e162f9.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655886540,
-    "title": "Govt to present an interim budget in August 2022",
-    "url": "http://www.adaderana.lk/news/83191/govt-to-present-an-interim-budget-in-august-2022",
-    "file_name": "/tmp/news_lk2/articles/2c/2c2339b2.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655886540,
     "title": "Teams from US Treasury and India will arrive here: PM",
@@ -208,6 +208,13 @@
     "title": "SL intends to enter official level agreement with IMF",
     "url": "https://www.dailymirror.lk/latest_news/SL-intends-to-enter-official-level-agreement-with-IMF/342-239579",
     "file_name": "/tmp/news_lk2/articles/bc/bc9b0322.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655886540,
+    "title": "Govt to present an interim budget in August 2022",
+    "url": "http://www.adaderana.lk/news/83191/govt-to-present-an-interim-budget-in-august-2022",
+    "file_name": "/tmp/news_lk2/articles/2c/2c2339b2.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -247,16 +254,23 @@
   {
     "newspaper_id": "news-first-lk",
     "time_ut": 1655884680,
+    "title": "Rs. 5,000/- allowance for 3.3 Mn families",
+    "url": "https://www.newsfirst.lk/2022/06/22/rs-5000-allowance-for-3-3-mn-families/",
+    "file_name": "/tmp/news_lk2/articles/b6/b67273ba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655884680,
     "title": "Seven wanted protestors surrender to police",
     "url": "https://www.newsfirst.lk/2022/06/22/seven-wanted-protestors-surrender-to-police/",
     "file_name": "/tmp/news_lk2/articles/27/27e1b8e6.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655884680,
-    "title": "Rs. 5,000/- allowance for 3.3 Mn families",
-    "url": "https://www.newsfirst.lk/2022/06/22/rs-5000-allowance-for-3-3-mn-families/",
-    "file_name": "/tmp/news_lk2/articles/b6/b67273ba.json"
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655884080,
+    "title": "Sri Lanka considering dollar tea auction: Minister",
+    "url": "https://economynext.com/sri-lanka-considering-dollar-tea-auction-minister-96251/",
+    "file_name": "/tmp/news_lk2/articles/b6/b6c181aa.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -268,30 +282,16 @@
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655884080,
-    "title": "Cops get another hug from Hirunika?",
-    "url": "https://www.dailymirror.lk/latest_news/Cops-get-another-hug-from-Hirunika/342-239573",
-    "file_name": "/tmp/news_lk2/articles/7c/7c537eaf.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655884080,
-    "title": "Sri Lanka considering dollar tea auction: Minister",
-    "url": "https://economynext.com/sri-lanka-considering-dollar-tea-auction-minister-96251/",
-    "file_name": "/tmp/news_lk2/articles/b6/b6c181aa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655884080,
     "title": "Cops get another hug from Hirunika",
     "url": "https://www.dailymirror.lk/caption_story/Cops-get-another-hug-from-Hirunika/110-239573",
     "file_name": "/tmp/news_lk2/articles/d6/d660c9d0.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655882100,
-    "title": "Need to work out a system to repay loans - PM",
-    "url": "http://www.adaderana.lk/news/83190/need-to-work-out-a-system-to-repay-loans-pm",
-    "file_name": "/tmp/news_lk2/articles/cf/cf4859e6.json"
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655884080,
+    "title": "Cops get another hug from Hirunika?",
+    "url": "https://www.dailymirror.lk/latest_news/Cops-get-another-hug-from-Hirunika/342-239573",
+    "file_name": "/tmp/news_lk2/articles/7c/7c537eaf.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -306,6 +306,13 @@
     "title": "Sri Lanka PM wants opposition to call off boycott to proceed with reforms",
     "url": "https://economynext.com/sri-lanka-pm-wants-opposition-to-call-off-boycott-to-proceed-with-reforms-96249/",
     "file_name": "/tmp/news_lk2/articles/fc/fcc1e784.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655882100,
+    "title": "Need to work out a system to repay loans - PM",
+    "url": "http://www.adaderana.lk/news/83190/need-to-work-out-a-system-to-repay-loans-pm",
+    "file_name": "/tmp/news_lk2/articles/cf/cf4859e6.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -443,16 +450,16 @@
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655873400,
-    "title": "Protest staged against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
+    "title": "Protest staged in Colombo against PM Ranil",
+    "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
+    "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655873400,
-    "title": "Protest staged in Colombo against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
-    "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
+    "title": "Protest staged against PM Ranil",
+    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
+    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -483,18 +490,18 @@
     "file_name": "/tmp/news_lk2/articles/97/97bd8954.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655872380,
-    "title": "Dhammika Perera sworn in as Member of Parliament",
-    "url": "http://www.adaderana.lk/news/83186/dhammika-perera-sworn-in-as-member-of-parliament",
-    "file_name": "/tmp/news_lk2/articles/79/79ce65de.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655872380,
     "title": "Dhammika Perera sworn in as MP",
     "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-sworn-in-as-MP/342-239565",
     "file_name": "/tmp/news_lk2/articles/e0/e0d28ffb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655872380,
+    "title": "Dhammika Perera sworn in as Member of Parliament",
+    "url": "http://www.adaderana.lk/news/83186/dhammika-perera-sworn-in-as-member-of-parliament",
+    "file_name": "/tmp/news_lk2/articles/79/79ce65de.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -507,15 +514,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655871480,
     "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
-    "url": "https://www.dailymirror.lk/latest_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/342-239559",
-    "file_name": "/tmp/news_lk2/articles/37/371f4115.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/108-239559",
+    "file_name": "/tmp/news_lk2/articles/19/19c63a0b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655871480,
     "title": "Minimum monthly wage for private sector employees, estate workers to go up: Manusha",
-    "url": "https://www.dailymirror.lk/breaking_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/108-239559",
-    "file_name": "/tmp/news_lk2/articles/19/19c63a0b.json"
+    "url": "https://www.dailymirror.lk/latest_news/Minimum-monthly-wage-for-private-sector-employees-estate-workers-to-go-up-Manusha/342-239559",
+    "file_name": "/tmp/news_lk2/articles/37/371f4115.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -528,15 +535,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655869440,
     "title": "Sri Lanka sued by bondholder in US following historic default",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/108-239558",
-    "file_name": "/tmp/news_lk2/articles/22/22f0a877.json"
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/342-239558",
+    "file_name": "/tmp/news_lk2/articles/91/91125512.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655869440,
     "title": "Sri Lanka sued by bondholder in US following historic default",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/342-239558",
-    "file_name": "/tmp/news_lk2/articles/91/91125512.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-sued-by-bondholder-in-US-following-historic-default/108-239558",
+    "file_name": "/tmp/news_lk2/articles/22/22f0a877.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -555,16 +562,16 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655865840,
-    "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
-    "url": "https://economynext.com/sri-lanka-bond-holders-form-group-to-negotiate-hamilton-reserve-sues-96218/",
-    "file_name": "/tmp/news_lk2/articles/e6/e6cb9b71.json"
+    "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
+    "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
+    "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
   },
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655865840,
-    "title": "Sri Lanka sued by holdout Hamilton Reserve, other bondholders form group",
-    "url": "https://economynext.com/sri-lanka-sued-by-holdout-hamilton-reserve-other-bondholders-form-group-96218/",
-    "file_name": "/tmp/news_lk2/articles/92/9230461b.json"
+    "title": "Sri Lanka bond holders form group to negotiate, Hamilton Reserve sues",
+    "url": "https://economynext.com/sri-lanka-bond-holders-form-group-to-negotiate-hamilton-reserve-sues-96218/",
+    "file_name": "/tmp/news_lk2/articles/e6/e6cb9b71.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -591,15 +598,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655859900,
     "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
-    "url": "https://www.dailymirror.lk/breaking_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/108-239536",
-    "file_name": "/tmp/news_lk2/articles/09/09886e74.json"
+    "url": "https://www.dailymirror.lk/business__main/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/245-239536",
+    "file_name": "/tmp/news_lk2/articles/8e/8eb7b8b8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655859900,
     "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
-    "url": "https://www.dailymirror.lk/business__main/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/245-239536",
-    "file_name": "/tmp/news_lk2/articles/8e/8eb7b8b8.json"
+    "url": "https://www.dailymirror.lk/breaking_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/108-239536",
+    "file_name": "/tmp/news_lk2/articles/09/09886e74.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -633,22 +640,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655850720,
     "title": "Dhammika to be sworn in today",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-be-sworn-in-today/342-239543",
-    "file_name": "/tmp/news_lk2/articles/d4/d494dfbd.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850720,
-    "title": "Dhammika to be sworn in today",
     "url": "https://www.dailymirror.lk/breaking_news/Dhammika-to-be-sworn-in-today/108-239543",
     "file_name": "/tmp/news_lk2/articles/c5/c50b1fb6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655850480,
-    "title": "Sri Lanka vs Australia ODI series",
-    "url": "https://www.dailymirror.lk/caption_story/Sri-Lanka-vs-Australia-ODI-series/110-239542",
-    "file_name": "/tmp/news_lk2/articles/df/df569bea.json"
+    "time_ut": 1655850720,
+    "title": "Dhammika to be sworn in today",
+    "url": "https://www.dailymirror.lk/latest_news/Dhammika-to-be-sworn-in-today/342-239543",
+    "file_name": "/tmp/news_lk2/articles/d4/d494dfbd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -656,6 +656,13 @@
     "title": "Sri Lanka vs Australia ODI series",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-vs-Australia-ODI-series/342-239542",
     "file_name": "/tmp/news_lk2/articles/c3/c326add5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655850480,
+    "title": "Sri Lanka vs Australia ODI series",
+    "url": "https://www.dailymirror.lk/caption_story/Sri-Lanka-vs-Australia-ODI-series/110-239542",
+    "file_name": "/tmp/news_lk2/articles/df/df569bea.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -688,15 +695,8 @@
   {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655836200,
-    "title": "GL to attend Commonwealth Heads of Government Meeting in Kigali, Rwanda",
-    "url": "https://www.ft.lk/news/GL-to-attend-Commonwealth-Heads-of-Government-Meeting-in-Kigali-Rwanda/56-736466",
-    "file_name": "/tmp/news_lk2/articles/63/63e0f440.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "time_ut": 1655836200,
-    "title": "Harin promotes Sri Lanka in UK, France and Germany",
-    "url": "https://www.ft.lk/business/Harin-promotes-Sri-Lanka-in-UK-France-and-Germany/34-736471",
-    "file_name": "/tmp/news_lk2/articles/54/54549cf6.json"
+    "title": "Cabinet nod to amend minimum age to 21 years for female migrant workers",
+    "url": "https://www.ft.lk/news/Cabinet-nod-to-amend-minimum-age-to-21-years-for-female-migrant-workers/56-736469",
+    "file_name": "/tmp/news_lk2/articles/99/996b1f5c.json"
   }
 ]
