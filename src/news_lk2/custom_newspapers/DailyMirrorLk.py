@@ -1,4 +1,3 @@
-
 from news_lk2.core import AbstractNewsPaper
 
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
