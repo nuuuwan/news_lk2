@@ -45,7 +45,7 @@ def get_article_file(url, dir_prefix=''):
 
 def git_checkout():
     git = Git(GIT_REPO_URL)
-    git.clone(DIR_REPO, force=False)
+    git.clone(DIR_REPO, force=True)
     git.checkout('data')
     log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
