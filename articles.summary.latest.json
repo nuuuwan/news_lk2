@@ -1,5 +1,32 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1656001845,
+    "title": "Powercut schedule until Sunday announced",
+    "url": "https://www.dailymirror.lk/breaking_news/Powercut-schedule-until-Sunday-announced/108-239659",
+    "file_name": "/tmp/news_lk2/articles/f5/f599f5c2.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1656001454,
+    "title": "\u0dc0\u0dd0\u0da9\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd1:\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dad\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0db1 \u0dc4\u0dd0\u0da9",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd0\u0da9\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd1:\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dad\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0db1-\u0dc4\u0dd0\u0da9/101-615297",
+    "file_name": "/tmp/news_lk2/articles/a3/a315d5b9.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1656001318,
+    "title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0da7 \u0da2\u0dbb\u0dcf\u0dc0 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0d9a\u0dad\u0d9a\u0da7 \u0db8\u0dcf\u0d82\u0da0\u0dd4",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0da7-\u0da2\u0dbb\u0dcf\u0dc0-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0d9a\u0dad\u0d9a\u0da7-\u0db8\u0dcf\u0d82\u0da0\u0dd4/101-615296",
+    "file_name": "/tmp/news_lk2/articles/2d/2d1bc923.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "time_ut": 1656000810,
     "title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0da7 \u0da2\u0dbb\u0dcf\u0dc0 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0d9a\u0dad\u0d9a\u0da7 \u0db8\u0dcf\u0d82\u0da0\u0dd4",
@@ -59,6 +86,15 @@
     "title": "Woman arrested for bribery attempt",
     "url": "https://www.newsfirst.lk/2022/06/23/woman-arrested-for-bribery-attempt/",
     "file_name": "/tmp/news_lk2/articles/dc/dc235216.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655995924,
+    "title": "Office train stopped without water at Peralanda station",
+    "url": "https://www.dailymirror.lk/latest_news/Office-train-stopped-without-water-at-Peralanda-station/342-239657",
+    "file_name": "/tmp/news_lk2/articles/18/188bc620.json",
     "original_lang": "en",
     "is_translated": true
   },
@@ -860,42 +896,6 @@
     "title": "Rains to continue, says Met Dept.",
     "url": "https://www.newsfirst.lk/2022/06/23/rains-to-continue-says-met-dept/",
     "file_name": "/tmp/news_lk2/articles/77/77cf1fd0.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655977144,
-    "title": "\u0dc3\u0dc4\u0dbd\u0dca \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7 665 \u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7-665-\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615277",
-    "file_name": "/tmp/news_lk2/articles/e3/e3c66bd3.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655977144,
-    "title": "\u0dc3\u0dc4\u0dbd\u0dca \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7 665 \u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7-665-\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-615277",
-    "file_name": "/tmp/news_lk2/articles/3a/3afa6b76.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655977120,
-    "title": "Steve Hanke measures SL\u2019 inflation at 130.14%/year",
-    "url": "https://www.dailymirror.lk/breaking_news/Steve-Hanke-measures-SL-inflation-at-130-14year/108-239649",
-    "file_name": "/tmp/news_lk2/articles/d0/d0e7a56c.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655977120,
-    "title": "Steve Hanke measures SL\u2019 inflation at 130.14%/year",
-    "url": "https://www.dailymirror.lk/business_247/Steve-Hanke-measures-SL-inflation-at-130-14year/395-239649",
-    "file_name": "/tmp/news_lk2/articles/cf/cf8a31a8.json",
     "original_lang": "en",
     "is_translated": true
   }
