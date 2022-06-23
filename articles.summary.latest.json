@@ -1,10 +1,31 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655951580,
+    "title": "Another suspect arrested over murder of MP Amarakeerthi",
+    "url": "http://www.adaderana.lk/news/83206/another-suspect-arrested-over-murder-of-mp-amarakeerthi-",
+    "file_name": "/tmp/news_lk2/articles/c9/c9d9b529.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655950140,
+    "title": "Parts of the island to receive spells of showers today",
+    "url": "http://www.adaderana.lk/news/83204/parts-of-the-island-to-receive-spells-of-showers-today",
+    "file_name": "/tmp/news_lk2/articles/dd/dda395f4.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655947560,
     "title": "Sri Lanka Treasury bill auction failed despite forex shortages, inflation",
     "url": "https://economynext.com/sri-lanka-treasury-bill-auction-failed-despite-forex-shortages-inflation-96282/",
     "file_name": "/tmp/news_lk2/articles/38/382ef02d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655946120,
+    "title": "Heavy showers excepted today (23)",
+    "url": "https://www.newsfirst.lk/2022/06/23/heavy-showers-excepted-today-23/",
+    "file_name": "/tmp/news_lk2/articles/9a/9a354668.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -677,26 +698,5 @@
     "title": "Protest staged in Colombo against PM Ranil",
     "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
     "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655873400,
-    "title": "Protest staged against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-against-pm-ranil-",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cf1dae.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655873400,
-    "title": "SJB members launch protest against prime minister",
-    "url": "http://www.adaderana.lk/news/83187/sjb-members-launch-protest-against-prime-minister-",
-    "file_name": "/tmp/news_lk2/articles/bd/bd582234.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655873340,
-    "title": "Dhammika Perera sworn in as a Member of Parliament",
-    "url": "https://www.newsfirst.lk/2022/06/22/dhammika-perera-sworn-in-as-a-member-of-parliament/",
-    "file_name": "/tmp/news_lk2/articles/33/33bc3323.json"
   }
 ]
