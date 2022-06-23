@@ -2,7 +2,7 @@ name: Translate Data - Cron
 
 on:
  schedule:
-   - cron:  "*/15 * * * *"
+   - cron:  "5 * * * *"
 
 jobs:
   translate-data:
