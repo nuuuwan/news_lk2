@@ -1,6 +1,6 @@
 import math
 
-from utils import jsonx, timex
+from utils import JSONFile, timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2._utils import log
@@ -77,7 +77,7 @@ class Article:
         )
 
     def store(self):
-        jsonx.write(self.file_name, self.dict)
+        JSONFile(self.file_name).write(self.dict)
         log.info(f'Wrote {self.file_name}')
 
     def __lt__(self, other):
@@ -85,7 +85,7 @@ class Article:
 
     @staticmethod
     def load(article_file):
-        d = jsonx.read(article_file)
+        d = JSONFile(article_file).read()
         return Article(
             newspaper_id=d['newspaper_id'],
             url=d['url'],
