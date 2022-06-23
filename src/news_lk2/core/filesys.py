@@ -1,7 +1,6 @@
 import os
-import shutil
 
-from utils import hashx
+from utils import Git, hashx
 
 from news_lk2._utils import log
 
@@ -45,20 +44,9 @@ def get_article_file(url, dir_prefix=''):
 
 
 def git_checkout():
-    if os.path.exists(DIR_REPO):
-        shutil.rmtree(DIR_REPO)
-
-    os.mkdir(DIR_REPO)
-    os.system(
-        '; '.join(
-            [
-                f'cd {DIR_ROOT}',
-                f'git clone {GIT_REPO_URL}',
-                'cd news_lk2',
-                'git checkout data',
-            ]
-        )
-    )
+    git = Git(GIT_REPO_URL)
+    git.clone(DIR_REPO, force=False)
+    git.checkout('data')
     log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
 
