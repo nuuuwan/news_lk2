@@ -55,9 +55,15 @@ def build_articles_summary():
     log.info(f'Wrote {articles_summary_latest_file}')
 
 
-if __name__ == '__main__':
+def main(is_test_mode=False):
     git_checkout()
     for newspaper_class in newspaper_class_list:
         newspaper_class.scrape()
+        if is_test_mode:
+            break
     build_readme_summary()
     build_articles_summary()
+
+
+if __name__ == '__main__':
+    main(is_test_mode=False)
