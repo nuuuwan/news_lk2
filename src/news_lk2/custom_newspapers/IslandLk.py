@@ -1,8 +1,4 @@
-from utils import timex
-
 from news_lk2.core import AbstractNewsPaper
-
-TIME_RAW_FORMAT = '%Y-%m-%d %I:%M %p'
 
 
 class IslandLk(AbstractNewsPaper):
@@ -24,15 +20,6 @@ class IslandLk(AbstractNewsPaper):
             article_urls.append(article_url)
 
         return article_urls
-
-    @classmethod
-    def parse_time_ut(cls, soup):
-        meta_time = soup.find('meta', {'itemprop': 'dateModified'})
-        return timex.parse_time(
-            meta_time.get('content', '').strip(),
-            TIME_RAW_FORMAT,
-            timex.TIMEZONE_OFFSET_LK,
-        )
 
     @classmethod
     def parse_body_lines(cls, soup):
