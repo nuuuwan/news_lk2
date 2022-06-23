@@ -1,4 +1,3 @@
-from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
 
@@ -20,13 +19,6 @@ class DailyFtLk(AbstractNewsPaper):
             article_url = div.find('a').get('href')
             article_urls.append(article_url)
         return article_urls
-
-    @classmethod
-    def parse_time_ut(cls, soup):
-        span_time = soup.find('span', {'class': 'gtime'})
-        return timex.parse_time(
-            span_time.text.strip(), TIME_RAW_FORMAT, timex.TIMEZONE_OFFSET_LK
-        )
 
     @classmethod
     def parse_body_lines(cls, soup):
