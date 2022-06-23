@@ -92,12 +92,12 @@ class AbstractNewsPaper(ABC):
         article_file = get_article_file(article_url)
         if os.path.exists(article_file):
             log.info(f'{article_file} already exists. Not parsing.')
-            return
+            return None
 
         soup = cls.get_soup(article_url)
         if not soup:
             log.warn(f'{article_file} has invalid HTML. Not parsing.')
-            return
+            return None
         try:
             article = Article(
                 newspaper_id=cls.get_newspaper_id(),
@@ -113,12 +113,15 @@ class AbstractNewsPaper(ABC):
                 original_lang=cls.get_original_lang(),
             )
             article.store()
+            return article
         except ValueError as e:
             log.error(str(e))
-            return
+            return None
 
     @classmethod
     def scrape(cls):
         article_urls = cls.get_article_urls()
         for article_url in article_urls:
-            cls.parse_and_store_article(article_url)
+            article = cls.parse_and_store_article(article_url)
+            if article:
+                yield article
