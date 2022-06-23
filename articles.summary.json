@@ -1,17 +1,17 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "time_ut": 1655957866,
+    "title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca \u0db7\u0dd6\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dda \u0db8\u0dbb\u0dab 1000\u0d9a \u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf \u0dba\u0dba\u0dd2",
+    "url": "https://www.ada.lk/international/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca-\u0db7\u0dd6\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dda-\u0db8\u0dbb\u0dab-1000\u0d9a-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dcf-\u0dba\u0dba\u0dd2/3-394730",
+    "file_name": "/tmp/news_lk2/articles/7d/7d6a0b83.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655957640,
     "title": "PM appeals to social media activists not to insult Hirunika",
     "url": "https://www.dailymirror.lk/latest_news/PM-appeals-to-social-media-activists-not-to-insult-Hirunika/342-239631",
     "file_name": "/tmp/news_lk2/articles/d8/d8b4c237.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655957460,
-    "title": "PM appeals to social media activists not to insult Hirunika",
-    "url": "https://www.dailymirror.lk/latest_news/PM-appeals-to-social-media-activists-not-to-insult-Hirunika/342-239630",
-    "file_name": "/tmp/news_lk2/articles/57/57508df5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -903,13 +903,6 @@
     "file_name": "/tmp/news_lk2/articles/11/117cbfc6.json"
   },
   {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655879848,
-    "title": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d95\u0db1",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d95\u0db1/11-394696",
-    "file_name": "/tmp/news_lk2/articles/f3/f3495406.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655879400,
     "title": "No pay leave for public service officers to take up overseas jobs",
@@ -1069,6 +1062,13 @@
     "title": "Dollar crunch unravels SL\u2019s decades-long transport crisis",
     "url": "https://www.dailymirror.lk/latest_news/Dollar-crunch-unravels-SLs-decades-long-transport-crisis/342-239536",
     "file_name": "/tmp/news_lk2/articles/d5/d5c84f06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655854500,
+    "title": "Top level Indian delegation to visit SL tomorrow on special aircraft for 3 hours",
+    "url": "https://www.dailymirror.lk/latest_news/Top-level-Indian-delegation-to-visit-SL-tomorrow-on-special-aircraft-for-3-hours/342-239544",
+    "file_name": "/tmp/news_lk2/articles/04/041df755.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2560,13 +2560,6 @@
     "title": "The World Bank does not plan to offer new financing to Sri Lanka Until an adequate macroeconomic policy framework is in place.",
     "url": "https://dbsjeyaraj.com/dbsj/archives/77667",
     "file_name": "/tmp/news_lk2/articles/1a/1aee4050.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "time_ut": 1653334860,
-    "title": "Basil Rajapaksa\u2019s Mouthpiece  .Sagara Kariyawasam Lashes out at Prime Minister Ranil Wickremesinghe for Trying to Introduce 21st Constitutional Amendment Before Resolving Economic Crisis; Provision Preventing Dual Citizens like Basil Entering Parliament  Seems to Irk  SLPP Gen Secy",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/77664",
-    "file_name": "/tmp/news_lk2/articles/fa/faf265c8.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",

@@ -58,7 +58,7 @@
 
 * 20220525 - 4 articles
 
-* 20220524 - 3 articles
+* 20220524 - 2 articles
 
 * 20220523 - 1 articles
 
@@ -116,4 +116,4 @@
 
 * 20220106 - 1 articles
 
-* **TOTAL** - 410 articles
+* **TOTAL** - 409 articles
