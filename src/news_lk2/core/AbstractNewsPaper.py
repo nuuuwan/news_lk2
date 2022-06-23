@@ -2,7 +2,7 @@ import os
 from abc import ABC
 
 from bs4 import BeautifulSoup
-from utils import dt, www
+from utils import dt, timex, www
 
 from news_lk2._utils import log
 from news_lk2.core.Article import Article
@@ -11,6 +11,7 @@ from news_lk2.core.filesys import get_article_file
 MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
 MIN_WORDS_IN_BODY_LINE = 10
+TIME_RAW_FORMAT = '%Y-%m-%d %H:%M:%S'
 
 
 def is_valid_line(line):
@@ -60,7 +61,12 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_time_ut(cls, soup):
-        raise NotImplementedError
+        meta_time = soup.find('meta', {'itemprop': 'datePublished'})
+        return timex.parse_time(
+            meta_time.get('content').strip(),
+            TIME_RAW_FORMAT,
+            timex.TIMEZONE_OFFSET_LK,
+        )
 
     @classmethod
     def parse_title(cls, soup):
