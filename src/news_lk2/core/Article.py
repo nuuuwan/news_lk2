@@ -30,6 +30,22 @@ class Article:
         self.body_lines = body_lines
         self.original_lang = original_lang
 
+    def __str__(self):
+        h_line = '-' * 32
+        lines = (
+            [
+                h_line,
+                self.title,
+                self.time_short_str,
+                h_line,
+            ]
+            + self.body_lines
+            + [
+                h_line,
+            ]
+        )
+        return '\n'.join(lines)
+
     @property
     def url_hash(self):
         return get_hash(self.url)
