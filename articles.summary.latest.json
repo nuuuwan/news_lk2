@@ -1,5 +1,23 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "time_ut": 1655984055,
+    "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8 \u0bb8\u0bcd\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd ; \u0baf\u0bbe\u0bb4\u0bcd \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url": "http://www.virakesari.lk/article/130055",
+    "file_name": "/tmp/news_lk2/articles/f8/f8987690.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "time_ut": 1655983829,
+    "title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url": "http://www.virakesari.lk/article/130070",
+    "file_name": "/tmp/news_lk2/articles/0c/0c535ee3.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "time_ut": 1655983412,
     "title": "\u0da9\u0ddc\u0dbd\u0dbb\u0dba \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0d9c\u0dab\u0db1\u0dca \u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2",
@@ -878,24 +896,6 @@
     "title": "10-hour water cut for Kotte from Saturday (25) night to Sunday (26) morning",
     "url": "https://www.newsfirst.lk/2022/06/23/10-hour-water-cut-for-kotte-from-saturday-25-night-to-sunday-26-morning/",
     "file_name": "/tmp/news_lk2/articles/c3/c3ecc89d.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655967602,
-    "title": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0\u0dd6 \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0dba\u0db1\u0dca\u0db1\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbb\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0\u0dd6-\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0dd2\u0db1\u0dca-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0dba\u0db1\u0dca\u0db1\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbb\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-394746",
-    "file_name": "/tmp/news_lk2/articles/32/3274968b.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655967120,
-    "title": "Another person dies while waiting in fuel queue",
-    "url": "http://www.adaderana.lk/news/83211/another-person-dies-while-waiting-in-fuel-queue",
-    "file_name": "/tmp/news_lk2/articles/89/89a71099.json",
     "original_lang": "en",
     "is_translated": true
   }
