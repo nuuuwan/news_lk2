@@ -46,6 +46,15 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "time_ut": 1656007537,
+    "title": "\u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bbe\u0b9a\u0bbe\u0bb0\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0b9a\u0baa\u0bc8 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0baf\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8",
+    "url": "http://www.virakesari.lk/article/130066",
+    "file_name": "/tmp/news_lk2/articles/b9/b9ff347b.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "time_ut": 1656006927,
     "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "url": "http://www.virakesari.lk/article/130054",
@@ -887,15 +896,6 @@
     "title": "Fuel prices to increase tomorrow?",
     "url": "https://www.dailymirror.lk/latest_news/Fuel-prices-to-increase-tomorrow/342-239650",
     "file_name": "/tmp/news_lk2/articles/40/405d3bf6.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655979530,
-    "title": "Fuel prices to increase tomorrow?",
-    "url": "https://www.dailymirror.lk/top_story/Fuel-prices-to-increase-tomorrow/155-239650",
-    "file_name": "/tmp/news_lk2/articles/81/81d5a683.json",
     "original_lang": "en",
     "is_translated": true
   }
