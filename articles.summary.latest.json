@@ -144,6 +144,15 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "time_ut": 1656001809,
+    "title": "\u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc2\u0b9f\u0bbe\u0b95 \u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc2\u0b9f\u0bbe\u0b95-\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-299105",
+    "file_name": "/tmp/news_lk2/articles/41/414fbc50.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "time_ut": 1656001454,
     "title": "\u0dc0\u0dd0\u0da9\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd1:\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dad\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0db1 \u0dc4\u0dd0\u0da9",
@@ -888,15 +897,6 @@
     "url": "https://www.ada.lk/breaking_news/\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1-\u0db8\u0dc4-\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-394761",
     "file_name": "/tmp/news_lk2/articles/6b/6b98e5ff.json",
     "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655980020,
-    "title": "Indian Foreign Secretary assures continued support for Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83216/indian-foreign-secretary-assures-continued-support-for-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/6e/6e5538ef.json",
-    "original_lang": "en",
     "is_translated": true
   }
 ]
