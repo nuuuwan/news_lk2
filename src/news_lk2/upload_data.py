@@ -46,13 +46,19 @@ def build_articles_summary():
 
     articles_summary_file = os.path.join(DIR_REPO, 'articles.summary.json')
     jsonx.write(articles_summary_file, data_list)
-    log.info(f'Wrote {articles_summary_file}')
+    n_data_list = len(data_list)
+    log.info(f'Wrote {n_data_list} articles to {articles_summary_file}')
 
     articles_summary_latest_file = os.path.join(
         DIR_REPO, 'articles.summary.latest.json'
     )
-    jsonx.write(articles_summary_latest_file, data_list[:N_LATEST])
-    log.info(f'Wrote {articles_summary_latest_file}')
+    latest_data_list = data_list[:N_LATEST]
+    jsonx.write(articles_summary_latest_file, latest_data_list)
+    n_latest_data_list = len(latest_data_list)
+    log.info(
+        f'Wrote {n_latest_data_list} articles '
+        + f'to {articles_summary_latest_file}',
+    )
 
 
 def main(is_test_mode=False):
