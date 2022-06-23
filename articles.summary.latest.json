@@ -1,5 +1,14 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1656011340,
+    "title": "Sri Lanka announces up to 2.5 hour power cuts from June 24-26",
+    "url": "https://economynext.com/sri-lanka-announces-up-to-2-5-hour-power-cuts-from-june-24-26-96373/",
+    "file_name": "/tmp/news_lk2/articles/60/6031f2bf.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1656010320,
     "title": "Jaishankar meets GL Peiris in Rwanda; discusses India\u2019s support for economic recovery",
@@ -887,15 +896,6 @@
     "title": "Small Mills wants Govt to inspect Large Mills",
     "url": "https://www.newsfirst.lk/2022/06/23/small-mills-wants-govt-to-inspect-large-mills/",
     "file_name": "/tmp/news_lk2/articles/75/7575af8c.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655979530,
-    "title": "Fuel prices to increase tomorrow?",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-prices-to-increase-tomorrow/342-239650",
-    "file_name": "/tmp/news_lk2/articles/40/405d3bf6.json",
     "original_lang": "en",
     "is_translated": true
   }
