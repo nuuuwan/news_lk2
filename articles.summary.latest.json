@@ -1,5 +1,19 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655952960,
+    "title": "SL\u2019s sorry plight - who is to blame?",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-sorry-plight-who-is-to-blame/342-239619",
+    "file_name": "/tmp/news_lk2/articles/57/57c63db7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655952420,
+    "title": "Four arrested over unruly conduct at filling stations",
+    "url": "http://www.adaderana.lk/news/83207/four-arrested-over-unruly-conduct-at-filling-stations-",
+    "file_name": "/tmp/news_lk2/articles/80/80803787.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655951580,
     "title": "Another suspect arrested over murder of MP Amarakeerthi",
@@ -14,11 +28,25 @@
     "file_name": "/tmp/news_lk2/articles/dd/dda395f4.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655949180,
+    "title": "CID acted in biased manner",
+    "url": "https://www.dailymirror.lk/latest_news/CID-acted-in-biased-manner/342-239618",
+    "file_name": "/tmp/news_lk2/articles/71/71ffc4f1.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655947560,
     "title": "Sri Lanka Treasury bill auction failed despite forex shortages, inflation",
     "url": "https://economynext.com/sri-lanka-treasury-bill-auction-failed-despite-forex-shortages-inflation-96282/",
     "file_name": "/tmp/news_lk2/articles/38/382ef02d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655946960,
+    "title": "Prices of fuel will have to be increased: PM",
+    "url": "https://www.dailymirror.lk/latest_news/Prices-of-fuel-will-have-to-be-increased-PM/342-239617",
+    "file_name": "/tmp/news_lk2/articles/8e/8ea6b3fb.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -110,6 +138,13 @@
     "title": "Come together as one country and join in nation\u2019s rebuilding process: Ranil",
     "url": "https://www.ft.lk/opinion/Come-together-as-one-country-and-join-in-nation-s-rebuilding-process-Ranil/14-736512",
     "file_name": "/tmp/news_lk2/articles/1f/1f51fc9c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655923560,
+    "title": "Sri Lanka loses Rs.94bn from concessionary vehicle permits per annum",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-loses-Rs-94bn-from-concessionary-vehicle-permits-per-annum/342-239602",
+    "file_name": "/tmp/news_lk2/articles/07/07bcae89.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -663,40 +698,5 @@
     "title": "Dozens killed as 6.1 magnitude quake shakes Afghanistan, Pakistan",
     "url": "https://www.dailymirror.lk/breaking_news/Dozens-killed-as-6-1-magnitude-quake-shakes-Afghanistan-Pakistan/108-239568",
     "file_name": "/tmp/news_lk2/articles/23/2304cc0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655873640,
-    "title": "Tense situation near PM's private residence",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situation-near-PM-s-private-residence/342-239567",
-    "file_name": "/tmp/news_lk2/articles/d8/d84042ab.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655873640,
-    "title": "Tense situation near PM's private residence",
-    "url": "https://www.dailymirror.lk/breaking_news/Tense-situation-near-PM-s-private-residence/108-239567",
-    "file_name": "/tmp/news_lk2/articles/ee/ee0e146e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655873640,
-    "title": "Tense situ outside Prime Minister\u2019s private residence",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situ-outside-Prime-Ministers-private-residence/342-239567",
-    "file_name": "/tmp/news_lk2/articles/bd/bd33c522.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655873520,
-    "title": "EXCLUSIVE DOCUMENTS: US Firm suing Sri Lanka says \u2018Rajapakses\u2019 Created Default.",
-    "url": "https://www.newsfirst.lk/2022/06/22/exclusive-documents-us-firm-suing-sri-lanka-says-rajapakses-created-default/",
-    "file_name": "/tmp/news_lk2/articles/a4/a459271d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655873400,
-    "title": "Protest staged in Colombo against PM Ranil",
-    "url": "http://www.adaderana.lk/news/83187/protest-staged-in-colombo-against-pm-ranil",
-    "file_name": "/tmp/news_lk2/articles/12/122afe65.json"
   }
 ]
