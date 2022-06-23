@@ -56,6 +56,7 @@ def build_articles_summary():
 
 
 def main(is_test_mode=False):
+    log.debug(f'{is_test_mode=}')
     git_checkout()
     for newspaper_class in newspaper_class_list:
         newspaper_class.scrape()

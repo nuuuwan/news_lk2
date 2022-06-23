@@ -1,3 +1,4 @@
+from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles
 from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import git_checkout
@@ -6,6 +7,7 @@ MAX_ARTICLES_TO_TRANSLATE = 20
 
 
 def main(is_test_mode=False):
+    log.debug(f'{is_test_mode=}')
     git_checkout()
     articles = get_articles()
     i_translated = 0
