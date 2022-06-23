@@ -1,10 +1,82 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655981880,
+    "title": "Tamil Nadu sends second aid shipment",
+    "url": "https://www.newsfirst.lk/2022/06/23/tamil-nadu-sends-second-aid-shipment/",
+    "file_name": "/tmp/news_lk2/articles/5d/5dcb7c9a.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655981820,
+    "title": "Customs seizes cars illegally imported to Sri Lanka, under the guise of importing spare parts",
+    "url": "https://www.newsfirst.lk/2022/06/23/customs-seizes-cars-illegally-imported-to-sri-lanka-under-the-guise-of-importing-spare-parts/",
+    "file_name": "/tmp/news_lk2/articles/5a/5a14afba.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655981760,
+    "title": "Five illegally imported luxury cars seized at Orugodawatte",
+    "url": "http://www.adaderana.lk/news/83217/five-illegally-imported-luxury-cars-seized-at-orugodawatte",
+    "file_name": "/tmp/news_lk2/articles/71/71f68766.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "time_ut": 1655981591,
+    "title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url": "http://www.virakesari.lk/article/130065",
+    "file_name": "/tmp/news_lk2/articles/de/de1d7a1f.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "time_ut": 1655981198,
+    "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url": "http://www.virakesari.lk/article/130064",
+    "file_name": "/tmp/news_lk2/articles/1f/1fdd6f42.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655980620,
+    "title": "Australia, India must work together for betterment of Indo-Pacific \u2013 Australian Deputy PM",
+    "url": "https://www.newsfirst.lk/2022/06/23/australia-india-must-work-together-for-betterment-of-indo-pacific-australian-deputy-pm/",
+    "file_name": "/tmp/news_lk2/articles/3c/3c5b47d1.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655980500,
+    "title": "Another death in a Sri Lankan fuel queue",
+    "url": "https://www.newsfirst.lk/2022/06/23/another-death-in-a-sri-lankan-fuel-queue/",
+    "file_name": "/tmp/news_lk2/articles/e3/e39aca84.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-lk",
     "time_ut": 1655980309,
     "title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2?",
     "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2-/11-394762",
     "file_name": "/tmp/news_lk2/articles/e8/e88ce9be.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655980201,
+    "title": "\u0db8\u0dd9\u0dbb\u0da7 \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dbb\u0da7-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba\u0d9a\u0dca/101-615279",
+    "file_name": "/tmp/news_lk2/articles/19/19962dfe.json",
     "original_lang": "si",
     "is_translated": true
   },
@@ -18,11 +90,47 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "time_ut": 1655980152,
+    "title": "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1 \u0db8\u0dc4 \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1-\u0db8\u0dc4-\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-394761",
+    "file_name": "/tmp/news_lk2/articles/6b/6b98e5ff.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "time_ut": 1655980020,
     "title": "Indian Foreign Secretary assures continued support for Sri Lanka",
     "url": "http://www.adaderana.lk/news/83216/indian-foreign-secretary-assures-continued-support-for-sri-lanka",
     "file_name": "/tmp/news_lk2/articles/6e/6e5538ef.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655979960,
+    "title": "Australian Opposition Leader blames Govt for rising asylum seeker issue",
+    "url": "https://www.newsfirst.lk/2022/06/23/australian-opposition-leader-blames-govt-for-rising-asylum-seeker-issue/",
+    "file_name": "/tmp/news_lk2/articles/bd/bddd06d4.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655979840,
+    "title": "Police jeep pumps fuel into cans, locals protest",
+    "url": "https://www.newsfirst.lk/2022/06/23/police-jeep-pumps-fuel-into-cans-locals-protest/",
+    "file_name": "/tmp/news_lk2/articles/47/47517bda.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655979660,
+    "title": "Small Mills wants Govt to inspect Large Mills",
+    "url": "https://www.newsfirst.lk/2022/06/23/small-mills-wants-govt-to-inspect-large-mills/",
+    "file_name": "/tmp/news_lk2/articles/75/7575af8c.json",
     "original_lang": "en",
     "is_translated": true
   },
@@ -108,6 +216,15 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655977830,
+    "title": "\u0dbb\u0da7 \u0dad\u0dd4\u0dc5 \u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0dad\u0dd4\u0dc5-\u0dc3\u0dd2\u0dc0\u0dd2\u0dbd\u0dca-\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0d9a\u0dca-\u0d87\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/101-615278",
+    "file_name": "/tmp/news_lk2/articles/bb/bb439ab9.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "time_ut": 1655977739,
     "title": "\u0bb5\u0bb0\u0b95\u0bcd\u0b95\u0bbe\u0baa\u0bca\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
@@ -141,6 +258,15 @@
     "url": "https://www.newsfirst.lk/2022/06/23/rains-to-continue-says-met-dept/",
     "file_name": "/tmp/news_lk2/articles/77/77cf1fd0.json",
     "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655977144,
+    "title": "\u0dc3\u0dc4\u0dbd\u0dca \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7 665 \u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7-665-\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615277",
+    "file_name": "/tmp/news_lk2/articles/e3/e3c66bd3.json",
+    "original_lang": "si",
     "is_translated": true
   },
   {
@@ -771,132 +897,6 @@
     "url": "https://www.dailymirror.lk/latest_news/Rathana-Thera-arrives-at-CID/342-239640",
     "file_name": "/tmp/news_lk2/articles/c7/c78523e9.json",
     "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655966743,
-    "title": "Rathana Thera arrives at CID",
-    "url": "https://www.dailymirror.lk/breaking_news/Rathana-Thera-arrives-at-CID/108-239640",
-    "file_name": "/tmp/news_lk2/articles/4f/4f2393d5.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655966601,
-    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca \u0dc0\u0dbd \u0dc3\u0dd2\u0da7 \u0d8b\u0dad\u0dd4\u0dbb\u0da7 \u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0d9c\u0dd9\u0db1 \u0d92\u0db8\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca-\u0dc0\u0dbd-\u0dc3\u0dd2\u0da7-\u0d8b\u0dad\u0dd4\u0dbb\u0da7-\u0d85\u0dad\u0dca\u200d\u0dba\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0d9c\u0dd9\u0db1-\u0d92\u0db8\u0da7-\u0db4\u0dd2\u0dba\u0dc0\u0dbb/11-394745",
-    "file_name": "/tmp/news_lk2/articles/4a/4a7a923f.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655966586,
-    "title": "\u0db6\u0da7\u0d9c\u0ddc\u0da9 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0da7\u0d9c\u0ddc\u0da9-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-615262",
-    "file_name": "/tmp/news_lk2/articles/bb/bb4a256a.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655966586,
-    "title": "\u0db6\u0da7\u0d9c\u0ddc\u0da9 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0da7\u0d9c\u0ddc\u0da9-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dc3\u0dd2\u0da7\u0dd2-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-615262",
-    "file_name": "/tmp/news_lk2/articles/a7/a7817623.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655966460,
-    "title": "India top team visits Sri Lanka to help with currency crisis",
-    "url": "https://economynext.com/india-top-team-visits-sri-lanka-to-help-with-currency-crisis-96311/",
-    "file_name": "/tmp/news_lk2/articles/87/8741d5ba.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655966040,
-    "title": "CEB depending on Diesel Plants, as Norochcholai taken off",
-    "url": "https://www.newsfirst.lk/2022/06/23/ceb-depending-on-diesel-plants-as-norochcholai-taken-off/",
-    "file_name": "/tmp/news_lk2/articles/62/6284c2e5.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655965980,
-    "title": "Sri Lanka stocks marginally up in mid-day trade",
-    "url": "https://economynext.com/sri-lanka-stocks-marginally-up-in-mid-day-trade-96307/",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e1fe16.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655965814,
-    "title": "\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dbb\u0dad\u0db1 \u0dc4\u0dd2\u0db8\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3\u0d9c\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dbb\u0dad\u0db1-\u0dc4\u0dd2\u0db8\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-615261",
-    "file_name": "/tmp/news_lk2/articles/a7/a748b040.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655965814,
-    "title": "\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dbb\u0dad\u0db1 \u0dc4\u0dd2\u0db8\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3\u0d9c\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dbb\u0dad\u0db1-\u0dc4\u0dd2\u0db8\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-615261",
-    "file_name": "/tmp/news_lk2/articles/80/80041fa0.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655965635,
-    "title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd ; \u0baa\u0bc6\u0ba3\u0bcd\u0bae\u0bc8, \u0ba4\u0bbe\u0baf\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "url": "http://www.virakesari.lk/article/130031",
-    "file_name": "/tmp/news_lk2/articles/8a/8aabffff.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655965500,
-    "title": "Sri Lanka rupee at 368-370 to TT dollar",
-    "url": "https://economynext.com/sri-lanka-rupee-at-368-370-to-tt-dollar-96308/",
-    "file_name": "/tmp/news_lk2/articles/6c/6c60c532.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655965365,
-    "title": "3 \u0b85\u0bb4\u0b95\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0baa\u0bbe\u0bb2\u0bcd \u0b8a\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc8 \u0ba8\u0bbf\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8\u0baf\u0b9f\u0bc8\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd - \u0b85\u0ba8\u0bbe\u0b95\u0bb0\u0bc0\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf",
-    "url": "http://www.virakesari.lk/article/130032",
-    "file_name": "/tmp/news_lk2/articles/c3/c3c1eef7.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655965080,
-    "title": "USD shortage affects coal purchase for Norochcholai",
-    "url": "https://www.newsfirst.lk/2022/06/23/usd-shortage-affects-coal-purchase-for-norochcholai/",
-    "file_name": "/tmp/news_lk2/articles/da/dab32978.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "time_ut": 1655965076,
-    "title": "\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8: \u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8-\u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-299058",
-    "file_name": "/tmp/news_lk2/articles/7f/7f29c131.json",
-    "original_lang": "ta",
     "is_translated": true
   }
 ]
