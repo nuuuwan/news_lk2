@@ -1,6 +1,15 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "time_ut": 1655985240,
+    "title": "Indian delegation meets President, PM; discusses economic crisis",
+    "url": "https://economynext.com/indian-delegation-meets-president-pm-discusses-economic-crisis-96354/",
+    "file_name": "/tmp/news_lk2/articles/76/76895907.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "time_ut": 1655984820,
     "title": "Sri Lanka constitutional reforms won\u2019t be in effect till next parliament: opposition leader",
     "url": "https://economynext.com/sri-lanka-constitutional-reforms-wont-be-in-effect-till-next-parliament-opposition-leader-96355/",
@@ -15,6 +24,24 @@
     "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc4\u0dd9\u0da7-\u0dad\u0dbb\u0dd4-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dba\u0dd2/1-615283",
     "file_name": "/tmp/news_lk2/articles/c3/c3be7f79.json",
     "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655984640,
+    "title": "Do not get caught in the IMF trap: Vasudeva",
+    "url": "https://www.newsfirst.lk/2022/06/23/do-not-get-caught-in-the-imf-trap-vasudeva/",
+    "file_name": "/tmp/news_lk2/articles/a7/a79f8ae3.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655984400,
+    "title": "Indian delegation holds talks with Lankan PM",
+    "url": "https://www.newsfirst.lk/2022/06/23/indian-delegation-holds-talks-with-lankan-pm/",
+    "file_name": "/tmp/news_lk2/articles/5a/5abf0642.json",
+    "original_lang": "en",
     "is_translated": true
   },
   {
@@ -69,6 +96,15 @@
     "url": "https://www.lankadeepa.lk/news/\u0da9\u0ddc\u0dbd\u0dbb\u0dba-\u0da7\u0dd2\u0d9a\u0d9a\u0dca-\u0d9c\u0dab\u0db1\u0dca-\u0d8b\u0dc3\u0dca\u0dc3\u0dba\u0dd2/101-615282",
     "file_name": "/tmp/news_lk2/articles/8b/8b16c564.json",
     "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655982600,
+    "title": "Govt should have paid more attention to farmers issues: Prof. Marambe",
+    "url": "https://www.newsfirst.lk/2022/06/23/govt-should-have-paid-more-attention-to-farmers-issues-prof-marambe/",
+    "file_name": "/tmp/news_lk2/articles/95/95b3f35a.json",
+    "original_lang": "en",
     "is_translated": true
   },
   {
@@ -255,6 +291,15 @@
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655979530,
     "title": "Fuel prices to increase tomorrow?",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-prices-to-increase-tomorrow/342-239650",
+    "file_name": "/tmp/news_lk2/articles/40/405d3bf6.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655979530,
+    "title": "Fuel prices to increase tomorrow?",
     "url": "https://www.dailymirror.lk/top_story/Fuel-prices-to-increase-tomorrow/155-239650",
     "file_name": "/tmp/news_lk2/articles/81/81d5a683.json",
     "original_lang": "en",
@@ -393,6 +438,15 @@
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf\u0dc0\u0dbd\u0da7-665-\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-615277",
     "file_name": "/tmp/news_lk2/articles/3a/3afa6b76.json",
     "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655977120,
+    "title": "Steve Hanke measures SL\u2019 inflation at 130.14%/year",
+    "url": "https://www.dailymirror.lk/breaking_news/Steve-Hanke-measures-SL-inflation-at-130-14year/108-239649",
+    "file_name": "/tmp/news_lk2/articles/d0/d0e7a56c.json",
+    "original_lang": "en",
     "is_translated": true
   },
   {
@@ -842,60 +896,6 @@
     "title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf : \u0b95\u0bbe\u0bb0\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
     "url": "http://www.virakesari.lk/article/130037",
     "file_name": "/tmp/news_lk2/articles/b8/b835ecc5.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655969700,
-    "title": "Sri Lanka petrol shipment delays by another day \u2013 Minister",
-    "url": "https://economynext.com/sri-lanka-petrol-shipment-delays-by-another-day-minister-96314/",
-    "file_name": "/tmp/news_lk2/articles/26/26eafd96.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "time_ut": 1655969637,
-    "title": "\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf; \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b95\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0b95\u0bbe\u0bb0\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/71-299065",
-    "file_name": "/tmp/news_lk2/articles/f7/f71c4ed3.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655969400,
-    "title": "Indian Foreign Secretary calls on Sri Lankan President & PM",
-    "url": "http://www.adaderana.lk/news/83212/indian-foreign-secretary-calls-on-sri-lankan-president-pm",
-    "file_name": "/tmp/news_lk2/articles/45/454e7b39.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655969388,
-    "title": "\u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bb2\u0bb5\u0bbe\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bbe\u0baf \u0ba8\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url": "http://www.virakesari.lk/article/130034",
-    "file_name": "/tmp/news_lk2/articles/e9/e9c01648.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655969337,
-    "title": "5 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url": "http://www.virakesari.lk/article/130039",
-    "file_name": "/tmp/news_lk2/articles/ae/aec41806.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655969201,
-    "title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8 \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd",
-    "url": "http://www.virakesari.lk/article/130033",
-    "file_name": "/tmp/news_lk2/articles/53/53e38913.json",
     "original_lang": "ta",
     "is_translated": true
   }
