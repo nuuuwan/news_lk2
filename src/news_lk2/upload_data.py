@@ -34,20 +34,23 @@ def build_articles_summary():
     articles = get_articles()
     data_list = []
     for article in articles:
-        data_list.append(dict(
-            newspaper_id=article.newspaper_id,
-            time_ut=article.time_ut,
-            title=article.title,
-            url=article.url,
-            file_name=article.file_name,
-        ))
+        data_list.append(
+            dict(
+                newspaper_id=article.newspaper_id,
+                time_ut=article.time_ut,
+                title=article.title,
+                url=article.url,
+                file_name=article.file_name,
+            )
+        )
 
     articles_summary_file = os.path.join(DIR_REPO, 'articles.summary.json')
     jsonx.write(articles_summary_file, data_list)
     log.info(f'Wrote {articles_summary_file}')
 
     articles_summary_latest_file = os.path.join(
-        DIR_REPO, 'articles.summary.latest.json')
+        DIR_REPO, 'articles.summary.latest.json'
+    )
     jsonx.write(articles_summary_latest_file, data_list[:N_LATEST])
     log.info(f'Wrote {articles_summary_latest_file}')
 

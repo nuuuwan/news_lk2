@@ -16,10 +16,14 @@ def get_translator(target_lang):
     return GoogleTranslator(source=SOURCE_LANG, target=target_lang)
 
 
-translator_idx = dict(list(map(
-    lambda target_lang: [target_lang, get_translator(target_lang)],
-    TARGET_LANG_LIST,
-)))
+translator_idx = dict(
+    list(
+        map(
+            lambda target_lang: [target_lang, get_translator(target_lang)],
+            TARGET_LANG_LIST,
+        )
+    )
+)
 
 
 @cache('news_lk2.translate', 86400 * 1000)
@@ -44,10 +48,12 @@ class TranslatedArticle(Article):
         for target_lang in TARGET_LANG_LIST:
             translated[target_lang] = {
                 'title': translate(target_lang, self.title),
-                'body_lines': list(map(
-                    lambda line: translate(target_lang, line),
-                    self.body_lines,
-                )),
+                'body_lines': list(
+                    map(
+                        lambda line: translate(target_lang, line),
+                        self.body_lines,
+                    )
+                ),
             }
         return translated
 

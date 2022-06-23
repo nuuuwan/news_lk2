@@ -22,7 +22,7 @@ ARTICLE_FILE_ONLY_LEN = HASH_LENGTH + 5
 
 
 def get_dir_article_shard(file_name_only, dir_prefix=''):
-    assert(len(file_name_only) == ARTICLE_FILE_ONLY_LEN)
+    assert len(file_name_only) == ARTICLE_FILE_ONLY_LEN
     dir_shard_only = file_name_only[:SHARD_NAME_LENGTH]
     return os.path.join(DIR_ARTICLES + dir_prefix, dir_shard_only)
 
@@ -50,12 +50,14 @@ def git_checkout():
 
     os.mkdir(DIR_REPO)
     os.system(
-        '; '.join([
-            f'cd {DIR_ROOT}',
-            f'git clone {GIT_REPO_URL}',
-            'cd news_lk2',
-            'git checkout data',
-        ])
+        '; '.join(
+            [
+                f'cd {DIR_ROOT}',
+                f'git clone {GIT_REPO_URL}',
+                'cd news_lk2',
+                'git checkout data',
+            ]
+        )
     )
     log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 

@@ -40,7 +40,9 @@ class AdaDeranaLk(AbstractNewsPaper):
     @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'news-content'})
-        return list(map(
-            lambda line: line.strip(),
-            header_inner.text.strip().split('\n'),
-        ))
+        return list(
+            map(
+                lambda line: line.strip(),
+                header_inner.text.strip().split('\n'),
+            )
+        )

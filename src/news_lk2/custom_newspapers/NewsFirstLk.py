@@ -1,4 +1,3 @@
-
 from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
@@ -39,7 +38,9 @@ class NewsFirstLk(AbstractNewsPaper):
     @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'thumb-para'})
-        return list(map(
-            lambda line: line.strip(),
-            header_inner.text.strip().split('\n'),
-        ))
+        return list(
+            map(
+                lambda line: line.strip(),
+                header_inner.text.strip().split('\n'),
+            )
+        )

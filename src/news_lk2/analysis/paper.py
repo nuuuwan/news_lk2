@@ -1,4 +1,3 @@
-
 from utils import timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
@@ -9,30 +8,42 @@ DELIM_MD = '\n\n'
 
 
 def get_articles(ut_min=None):
-    articles = list(map(
-        Article.load,
-        get_article_files(),
-    ))
+    articles = list(
+        map(
+            Article.load,
+            get_article_files(),
+        )
+    )
     if ut_min:
-        articles = list(filter(
-            lambda article: article.time_ut >= ut_min,
-            articles,
-        ))
+        articles = list(
+            filter(
+                lambda article: article.time_ut >= ut_min,
+                articles,
+            )
+        )
     return list(reversed(sorted(articles)))
 
 
 def get_articles_for_date_id(date_id):
-    return list(filter(
-        lambda article: article.date_id == date_id,
-        get_articles(),
-    ))
+    return list(
+        filter(
+            lambda article: article.date_id == date_id,
+            get_articles(),
+        )
+    )
 
 
 def get_date_ids():
-    return sorted(list(set(map(
-        lambda article: article.date_id,
-        get_articles(),
-    ))))
+    return sorted(
+        list(
+            set(
+                map(
+                    lambda article: article.date_id,
+                    get_articles(),
+                )
+            )
+        )
+    )
 
 
 def get_date_id_to_articles(max_days_ago=None):
@@ -51,13 +62,17 @@ def get_date_id_to_articles(max_days_ago=None):
             date_id_to_articles[date_id] = []
         date_id_to_articles[date_id].append(article)
 
-    date_id_to_articles = dict(sorted(
-        list(map(
-            lambda item: [item[0], sorted(item[1])],
-            date_id_to_articles.items(),
-        )),
-        key=lambda item: item[0],
-    ))
+    date_id_to_articles = dict(
+        sorted(
+            list(
+                map(
+                    lambda item: [item[0], sorted(item[1])],
+                    date_id_to_articles.items(),
+                )
+            ),
+            key=lambda item: item[0],
+        )
+    )
     return date_id_to_articles
 
 
