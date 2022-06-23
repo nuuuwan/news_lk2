@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655943480,
+    "title": "40,000 MT petrol shipment arrives tomorrow",
+    "url": "https://www.dailymirror.lk/latest_news/40-000-MT-petrol-shipment-arrives-tomorrow/342-239616",
+    "file_name": "/tmp/news_lk2/articles/6d/6d9aebfd.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "time_ut": 1655932920,
     "title": "COPE to hold special meeting to discuss CEB",
@@ -691,12 +698,5 @@
     "title": "Businessman Dammika Perera sworn in as Sri Lanka member of parliament",
     "url": "https://economynext.com/businessman-dammika-perera-sworn-in-as-sri-lanka-member-of-parliament-96236/",
     "file_name": "/tmp/news_lk2/articles/6a/6a46b1dc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655872800,
-    "title": "Dammika Perera sworn in as Sri Lanka member of parliament",
-    "url": "https://economynext.com/dammika-perera-sworn-in-as-sri-lanka-member-of-parliament-96236/",
-    "file_name": "/tmp/news_lk2/articles/97/97bd8954.json"
   }
 ]
