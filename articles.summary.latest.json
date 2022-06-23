@@ -1,5 +1,14 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "time_ut": 1656028426,
+    "title": "Govt. issues circular to send State workers for foreign employment",
+    "url": "https://www.ft.lk/news/Govt-issues-circular-to-send-State-workers-for-foreign-employment/56-736574",
+    "file_name": "/tmp/news_lk2/articles/51/514e4d42.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1656011340,
     "title": "Sri Lanka announces up to 2.5 hour power cuts from June 24-26",
@@ -888,15 +897,6 @@
     "url": "https://www.newsfirst.lk/2022/06/23/another-death-in-a-sri-lankan-fuel-queue/",
     "file_name": "/tmp/news_lk2/articles/e3/e39aca84.json",
     "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655980309,
-    "title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2?",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2-/11-394762",
-    "file_name": "/tmp/news_lk2/articles/e8/e88ce9be.json",
-    "original_lang": "si",
     "is_translated": true
   }
 ]
