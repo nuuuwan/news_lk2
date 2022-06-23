@@ -1,10 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "time_ut": 1655988728,
+    "title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bca\u0b95\u0bc1\u0b9a\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc1\u0b99\u0bcd\u0b95 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+    "url": "http://www.virakesari.lk/article/130078",
+    "file_name": "/tmp/news_lk2/articles/04/04cfb855.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655988676,
+    "title": "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dd3\u0dad\u0dca \u0d91\u0d9a\u0dca\u0db1\u0dd0\u0dc5\u0dd2\u0d9c\u0ddc\u0da9 \u0db1\u0da9\u0dd4\u0dc0: \u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d9a\u0dbb\u0dca\u0db1\u0dbd\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0db5 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0d87\u0db4",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0d9c\u0dd3\u0dad\u0dca-\u0d91\u0d9a\u0dca\u0db1\u0dd0\u0dc5\u0dd2\u0d9c\u0ddc\u0da9-\u0db1\u0da9\u0dd4\u0dc0:-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0d9a\u0dbb\u0dca\u0db1\u0dbd\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0db5-\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d87\u0db4/1-615287",
+    "file_name": "/tmp/news_lk2/articles/24/24767a39.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655987786,
     "title": "Rapid rescue...",
     "url": "https://www.dailymirror.lk/caption_story/Rapid-rescue/110-239655",
     "file_name": "/tmp/news_lk2/articles/54/541cb756.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655987786,
+    "title": "Rapid rescue...",
+    "url": "https://www.dailymirror.lk/latest_news/Rapid-rescue/342-239655",
+    "file_name": "/tmp/news_lk2/articles/1a/1a968420.json",
     "original_lang": "en",
     "is_translated": true
   },
@@ -15,6 +42,15 @@
     "url": "https://economynext.com/sri-lanka-stocks-gain-for-third-day-amid-worst-foreign-outflow-in-three-weeks-96358/",
     "file_name": "/tmp/news_lk2/articles/8f/8fff58e1.json",
     "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655987247,
+    "title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4  \u0d9c\u0ddc\u0dc0\u0dd2\u0db4\u0ddc\u0dc5 \u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1  \u0dc0\u0d9c\u0dcf\u0dc0\u0da7",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4--\u0d9c\u0ddc\u0dc0\u0dd2\u0db4\u0ddc\u0dc5-\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1--\u0dc0\u0d9c\u0dcf\u0dc0\u0da7/1-615286",
+    "file_name": "/tmp/news_lk2/articles/26/2619cc1e.json",
+    "original_lang": "si",
     "is_translated": true
   },
   {
@@ -45,11 +81,38 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655986644,
+    "title": "\u0db6\u0d82\u0d9c\u0dbd\u0daf\u0dda\u0dc1 \u0db8\u0dc4 \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca  \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0d82\u0d9c\u0dbd\u0daf\u0dda\u0dc1-\u0db8\u0dc4-\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca--\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/1-615284",
+    "file_name": "/tmp/news_lk2/articles/c5/c5e0ddba.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655986454,
+    "title": "Customs seize three illegally imported used cars",
+    "url": "https://www.dailymirror.lk/latest_news/Customs-seize-three-illegally-imported-used-cars/342-239653",
+    "file_name": "/tmp/news_lk2/articles/07/072b1517.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655986454,
     "title": "Customs seize three illegally imported used cars",
     "url": "https://www.dailymirror.lk/breaking_news/Customs-seize-three-illegally-imported-used-cars/108-239653",
     "file_name": "/tmp/news_lk2/articles/79/79d7383f.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655986137,
+    "title": "India assures fullest support to overcome difficult situation as close friend: PMD",
+    "url": "https://www.dailymirror.lk/latest_news/India-assures-fullest-support-to-overcome-difficult-situation-as-close-friend-PMD/342-239652",
+    "file_name": "/tmp/news_lk2/articles/2c/2c355ea8.json",
     "original_lang": "en",
     "is_translated": true
   },
@@ -531,6 +594,15 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "time_ut": 1655977120,
+    "title": "Steve Hanke measures SL\u2019 inflation at 130.14%/year",
+    "url": "https://www.dailymirror.lk/business_247/Steve-Hanke-measures-SL-inflation-at-130-14year/395-239649",
+    "file_name": "/tmp/news_lk2/articles/cf/cf8a31a8.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "time_ut": 1655976694,
     "title": "\u0bae\u0bb9\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0ba9\u0bc8 - \u0b95\u0bbf\u0bb0\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
@@ -825,78 +897,6 @@
     "url": "https://www.newsfirst.lk/2022/06/23/new-zealand-to-provide-800k-to-unicef-sri-lanka/",
     "file_name": "/tmp/news_lk2/articles/9f/9fc76212.json",
     "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655972059,
-    "title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db4\u0dc4\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0db8\u0d9c \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4\u0d9a\u0da7-\u0d85\u0db0\u0dd2\u0d9a-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-394753",
-    "file_name": "/tmp/news_lk2/articles/27/27dbc0c8.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655971985,
-    "title": "\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6 \u0dad\u0dd9\u0dbd\u0dca \u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6-\u0dad\u0dd9\u0dbd\u0dca-\u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1/1-615273",
-    "file_name": "/tmp/news_lk2/articles/f5/f54db7ac.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655971985,
-    "title": "\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6 \u0dad\u0dd9\u0dbd\u0dca \u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6-\u0dad\u0dd9\u0dbd\u0dca-\u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1/101-615273",
-    "file_name": "/tmp/news_lk2/articles/f6/f61074ec.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655971879,
-    "title": "Military officer assaults cop at filling station in Warakapola",
-    "url": "https://www.dailymirror.lk/latest_news/Military-officer-assaults-cop-at-filling-station-in-Warakapola/342-239643",
-    "file_name": "/tmp/news_lk2/articles/ea/ea76de4c.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655971879,
-    "title": "Military officer assaults cop at filling station in Warakapola",
-    "url": "https://www.dailymirror.lk/breaking_news/Military-officer-assaults-cop-at-filling-station-in-Warakapola/108-239643",
-    "file_name": "/tmp/news_lk2/articles/c7/c7dd2a4d.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655971711,
-    "title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf  \u0d87\u0dbb\u0dd0\u0db9\u0dda",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf--\u0d87\u0dbb\u0dd0\u0db9\u0dda/101-615272",
-    "file_name": "/tmp/news_lk2/articles/83/838a0d9e.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655971711,
-    "title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf  \u0d87\u0dbb\u0dd0\u0db9\u0dda",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf--\u0d87\u0dbb\u0dd0\u0db9\u0dda/1-615272",
-    "file_name": "/tmp/news_lk2/articles/da/dac0bc1c.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655971495,
-    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0dbb \u0dc0\u0dc4\u0dba\u0dd2",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc4\u0dba\u0dd2/101-615271",
-    "file_name": "/tmp/news_lk2/articles/81/81d46720.json",
-    "original_lang": "si",
     "is_translated": true
   }
 ]
