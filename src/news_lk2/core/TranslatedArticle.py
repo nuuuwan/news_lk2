@@ -8,28 +8,34 @@ from news_lk2._utils import log
 from news_lk2.core.Article import Article
 from news_lk2.core.filesys import get_article_file
 
-SOURCE_LANG = 'en'
-TARGET_LANG_LIST = ['si', 'ta']
+LANG_LIST = ['si', 'ta', 'en']
 
 
-def get_translator(target_lang):
-    return GoogleTranslator(source=SOURCE_LANG, target=target_lang)
+def get_translator(source_lang, target_lang):
+    return GoogleTranslator(source=source_lang, target=target_lang)
 
 
-translator_idx = dict(
-    list(
-        map(
-            lambda target_lang: [target_lang, get_translator(target_lang)],
-            TARGET_LANG_LIST,
-        )
-    )
-)
+def get_translator_idx():
+    idx = {}
+    for source_lang in LANG_LIST:
+        idx[source_lang] = {}
+        for target_lang in LANG_LIST:
+            if source_lang == target_lang:
+                continue
+            idx[source_lang][target_lang] = get_translator(
+                source_lang, target_lang
+            )
+    return idx
+
+
+TRANSLATOR_IDX = get_translator_idx()
 
 
 @cache('news_lk2.translate', 86400 * 1000)
-def translate(target_lang, word):
-    translated_word = translator_idx[target_lang].translate(word)
-    return translated_word
+def translate(source_lang, target_lang, word):
+    if source_lang == target_lang:
+        return word
+    return TRANSLATOR_IDX[source_lang][target_lang].translate(word)
 
 
 class TranslatedArticle(Article):
@@ -41,16 +47,20 @@ class TranslatedArticle(Article):
             article.time_ut,
             article.title,
             article.body_lines,
+            article.original_lang,
         )
 
     def get_translated(self):
         translated = {}
-        for target_lang in TARGET_LANG_LIST:
+        source_lang = self.original_lang
+        for target_lang in LANG_LIST:
             translated[target_lang] = {
-                'title': translate(target_lang, self.title),
+                'title': translate(source_lang, target_lang, self.title),
                 'body_lines': list(
                     map(
-                        lambda line: translate(target_lang, line),
+                        lambda line: translate(
+                            source_lang, target_lang, line
+                        ),
                         self.body_lines,
                     )
                 ),
@@ -65,6 +75,7 @@ class TranslatedArticle(Article):
             time_ut=self.time_ut,
             title=self.title,
             body_lines=self.body_lines,
+            original_lang=self.original_lang,
             translate=self.get_translated(),
         )
 

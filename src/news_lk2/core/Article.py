@@ -11,6 +11,8 @@ MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
 
 
 class Article:
+    DEFAULT_ORIGINAL_LANG = 'en'
+
     def __init__(
         self,
         newspaper_id,
@@ -18,6 +20,7 @@ class Article:
         time_ut,
         title,
         body_lines,
+        original_lang,
     ):
         self.newspaper_id = newspaper_id
         self.url = url
@@ -25,6 +28,7 @@ class Article:
 
         self.title = title
         self.body_lines = body_lines
+        self.original_lang = original_lang
 
     @property
     def url_hash(self):
@@ -69,6 +73,7 @@ class Article:
             time_ut=self.time_ut,
             title=self.title,
             body_lines=self.body_lines,
+            original_lang=self.original_lang,
         )
 
     def store(self):
@@ -87,18 +92,7 @@ class Article:
             time_ut=d['time_ut'],
             title=d['title'],
             body_lines=d['body_lines'],
+            original_lang=d.get(
+                'original_lang', Article.DEFAULT_ORIGINAL_LANG
+            ),
         )
-
-    @property
-    def body_lines_truncated(self):
-        truncated_body_lines = []
-        word_count = 0
-        for line in self.body_lines:
-            truncated_body_lines.append(line)
-
-            words = line.split(' ')
-            word_count += len(words)
-            if word_count > MAX_WORDS_TRUNCATED:
-                return truncated_body_lines + ['...']
-
-        return self.body_lines

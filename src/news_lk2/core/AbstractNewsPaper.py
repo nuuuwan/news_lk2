@@ -84,6 +84,10 @@ class AbstractNewsPaper(ABC):
         return article_urls
 
     @classmethod
+    def get_original_lang(cls):
+        return Article.DEFAULT_ORIGINAL_LANG
+
+    @classmethod
     def parse_and_store_article(cls, article_url):
         article_file = get_article_file(article_url)
         if os.path.exists(article_file):
@@ -106,6 +110,7 @@ class AbstractNewsPaper(ABC):
                         cls.parse_body_lines(soup),
                     )
                 ),
+                original_lang=cls.get_original_lang(),
             )
             article.store()
         except ValueError as e:
