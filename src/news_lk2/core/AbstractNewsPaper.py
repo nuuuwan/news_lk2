@@ -126,8 +126,10 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def scrape(cls):
+        article_list = []
         article_urls = cls.get_article_urls()
         for article_url in article_urls:
             article = cls.parse_and_store_article(article_url)
             if article:
-                yield article
+                article_list.append(article)
+        return article_list
