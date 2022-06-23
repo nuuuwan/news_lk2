@@ -154,6 +154,13 @@
     "file_name": "/tmp/news_lk2/articles/c0/c03f09ea.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655904720,
+    "title": "DFCC Bank commemorates World Bicycle Day in line with its sustainability strategy",
+    "url": "http://island.lk/dfcc-bank-commemorates-world-bicycle-day-in-line-with-its-sustainability-strategy/",
+    "file_name": "/tmp/news_lk2/articles/1e/1ed20730.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655904720,
     "title": "Sri Lanka rupee guidance rate up by 95 cents; T-bill yields steady at weekly auction",
@@ -166,6 +173,13 @@
     "title": "Sri Lanka guidance peg strengthen 95 cents  in severe forex shortages",
     "url": "https://economynext.com/sri-lanka-guidance-peg-strengthen-95-cents-in-severe-forex-shortages-96276/",
     "file_name": "/tmp/news_lk2/articles/57/579ca806.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "time_ut": 1655904600,
+    "title": "CBSL launches International Transactions Reporting System",
+    "url": "http://island.lk/cbsl-launches-international-transactions-reporting-system/",
+    "file_name": "/tmp/news_lk2/articles/4d/4dc9efd7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -684,19 +698,5 @@
     "title": "Dammika Perera sworn in as Sri Lanka member of parliament",
     "url": "https://economynext.com/dammika-perera-sworn-in-as-sri-lanka-member-of-parliament-96236/",
     "file_name": "/tmp/news_lk2/articles/97/97bd8954.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655872380,
-    "title": "Dhammika Perera sworn in as MP",
-    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-sworn-in-as-MP/342-239565",
-    "file_name": "/tmp/news_lk2/articles/e0/e0d28ffb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655872380,
-    "title": "Dhammika Perera sworn in as Member of Parliament",
-    "url": "http://www.adaderana.lk/news/83186/dhammika-perera-sworn-in-as-member-of-parliament",
-    "file_name": "/tmp/news_lk2/articles/79/79ce65de.json"
   }
 ]
