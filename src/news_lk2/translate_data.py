@@ -3,7 +3,7 @@ from news_lk2.analysis.paper import get_articles
 from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import git_checkout
 
-MAX_ARTICLES_TO_TRANSLATE = 20
+MAX_ARTICLES_TO_TRANSLATE = 40
 
 
 def main(is_test_mode=False):
