@@ -153,6 +153,15 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "time_ut": 1656002242,
+    "title": "800,000 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1  \u0ba8\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/800-000-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b9f\u0bca\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0ba8\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1/175-299106",
+    "file_name": "/tmp/news_lk2/articles/03/03ebbfda.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1656001845,
     "title": "Powercut schedule until Sunday announced",
@@ -887,15 +896,6 @@
     "title": "\u0db8\u0dd9\u0dbb\u0da7 \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd9\u0dbb\u0da7-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca/1-615279",
     "file_name": "/tmp/news_lk2/articles/8d/8ddb9ef4.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "time_ut": 1655980201,
-    "title": "\u0db8\u0dd9\u0dbb\u0da7 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba\u0d9a\u0dca",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd9\u0dbb\u0da7-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba\u0d9a\u0dca/1-615279",
-    "file_name": "/tmp/news_lk2/articles/bf/bf76c0b4.json",
     "original_lang": "si",
     "is_translated": true
   }
