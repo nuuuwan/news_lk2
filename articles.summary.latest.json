@@ -1,5 +1,12 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655947560,
+    "title": "Sri Lanka Treasury bill auction failed despite forex shortages, inflation",
+    "url": "https://economynext.com/sri-lanka-treasury-bill-auction-failed-despite-forex-shortages-inflation-96282/",
+    "file_name": "/tmp/news_lk2/articles/38/382ef02d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655943480,
     "title": "40,000 MT petrol shipment arrives tomorrow",
@@ -691,12 +698,5 @@
     "title": "Dhammika Perera sworn in as a Member of Parliament",
     "url": "https://www.newsfirst.lk/2022/06/22/dhammika-perera-sworn-in-as-a-member-of-parliament/",
     "file_name": "/tmp/news_lk2/articles/33/33bc3323.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655872800,
-    "title": "Businessman Dammika Perera sworn in as Sri Lanka member of parliament",
-    "url": "https://economynext.com/businessman-dammika-perera-sworn-in-as-sri-lanka-member-of-parliament-96236/",
-    "file_name": "/tmp/news_lk2/articles/6a/6a46b1dc.json"
   }
 ]
