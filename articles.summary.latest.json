@@ -1,5 +1,32 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "time_ut": 1655980309,
+    "title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2?",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2-/11-394762",
+    "file_name": "/tmp/news_lk2/articles/e8/e88ce9be.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "time_ut": 1655980201,
+    "title": "\u0db8\u0dd9\u0dbb\u0da7 \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd9\u0dbb\u0da7-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca/1-615279",
+    "file_name": "/tmp/news_lk2/articles/8d/8ddb9ef4.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655980020,
+    "title": "Indian Foreign Secretary assures continued support for Sri Lanka",
+    "url": "http://www.adaderana.lk/news/83216/indian-foreign-secretary-assures-continued-support-for-sri-lanka",
+    "file_name": "/tmp/news_lk2/articles/6e/6e5538ef.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655979530,
     "title": "Fuel prices to increase tomorrow?",
@@ -29,10 +56,28 @@
   {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655979120,
+    "title": "Sri Lankans express anger, frustration over president\u2019s tweet after cricket win",
+    "url": "https://economynext.com/sri-lankans-express-anger-frustration-over-presidents-tweet-after-cricket-win-96264/",
+    "file_name": "/tmp/news_lk2/articles/90/90e19744.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "time_ut": 1655979120,
     "title": "Sri Lankns express anger, frustration over president\u2019s tweet after cricket win",
     "url": "https://economynext.com/sri-lankns-express-anger-frustration-over-presidents-tweet-after-cricket-win-96264/",
     "file_name": "/tmp/news_lk2/articles/14/14b16e80.json",
     "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "time_ut": 1655979063,
+    "title": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9c\u0dad\u0dca \u0dab\u0dba \u0d9a\u0dd2\u0dc3\u0dd2\u0db8 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0d9a \u0db1\u0dd1",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d9c\u0dad\u0dca-\u0dab\u0dba-\u0d9a\u0dd2\u0dc3\u0dd2\u0db8-\u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0d9a-\u0db1\u0dd1/11-394760",
+    "file_name": "/tmp/news_lk2/articles/b3/b368fe25.json",
+    "original_lang": "si",
     "is_translated": true
   },
   {
@@ -852,51 +897,6 @@
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8-\u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-299058",
     "file_name": "/tmp/news_lk2/articles/7f/7f29c131.json",
     "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655964855,
-    "title": "\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d85\u0d82\u0d9a\u0dba\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0daf\u0dd2\u0db1\u0dba\u0db1\u0dca",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d85\u0d82\u0d9a\u0dba\u0da7-\u0d85\u0db1\u0dd4\u0dc0-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0daf\u0dd2\u0db1\u0dba\u0db1\u0dca/11-394744",
-    "file_name": "/tmp/news_lk2/articles/62/624de8f5.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655964733,
-    "title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0d9c\u0dcf\u0dab\u0d9a\u0dca \u0dbd\u0dcf\u0db7 \u0d9c\u0dad\u0dca\u0dad\u0dcf \u0daf\u0dd0\u0db1\u0dca\u0dc0\u0dad\u0dca \u0dbd\u0dcf\u0db7 \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0dc4\u0dcf\u0dbd\u0dca \u0daf\u0dd9\u0db8\u0dd4",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-\u0d9c\u0dcf\u0dab\u0d9a\u0dca-\u0dbd\u0dcf\u0db7-\u0d9c\u0dad\u0dca\u0dad\u0dcf-\u0daf\u0dd0\u0db1\u0dca\u0dc0\u0dad\u0dca-\u0dbd\u0dcf\u0db7-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0dc4\u0dcf\u0dbd\u0dca-\u0daf\u0dd9\u0db8\u0dd4/11-394743",
-    "file_name": "/tmp/news_lk2/articles/4c/4c6f5397.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655963760,
-    "title": "Diplomats from Southeast Asian Countries meet President",
-    "url": "https://www.newsfirst.lk/2022/06/23/diplomats-from-southeast-asian-countries-meet-president/",
-    "file_name": "/tmp/news_lk2/articles/d3/d3b75079.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "time_ut": 1655963760,
-    "title": "Tamil Nadu sends second batch of relief materials to Sri Lanka",
-    "url": "http://www.adaderana.lk/news/83210/tamil-nadu-sends-second-batch-of-relief-materials-to-sri-lanka",
-    "file_name": "/tmp/news_lk2/articles/fe/fe09b206.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655963078,
-    "title": "\u0db8\u0db8 \u0db8\u0d9c\u0dda \u0db4\u0db4\u0dd4\u0dc0 \u0d9c\u0dd0\u0db1 \u0d86\u0da9\u0db8\u0dca\u0db6\u0dbb \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db8-\u0db8\u0d9c\u0dda-\u0db4\u0db4\u0dd4\u0dc0-\u0d9c\u0dd0\u0db1-\u0d86\u0da9\u0db8\u0dca\u0db6\u0dbb-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-394742",
-    "file_name": "/tmp/news_lk2/articles/5c/5c895bfd.json",
-    "original_lang": "si",
     "is_translated": true
   }
 ]
