@@ -1,10 +1,46 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655996400,
+    "title": "Woman arrested for bribery attempt",
+    "url": "https://www.newsfirst.lk/2022/06/23/woman-arrested-for-bribery-attempt/",
+    "file_name": "/tmp/news_lk2/articles/dc/dc235216.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "time_ut": 1655995924,
     "title": "Office train stopped without water at Peralanda station",
     "url": "https://www.dailymirror.lk/breaking_news/Office-train-stopped-without-water-at-Peralanda-station/108-239657",
     "file_name": "/tmp/news_lk2/articles/47/470b5f92.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655995320,
+    "title": "Two gas shipments in early July, says Litro",
+    "url": "https://www.newsfirst.lk/2022/06/23/two-gas-shipments-in-early-july-says-litro/",
+    "file_name": "/tmp/news_lk2/articles/06/06b7fbcf.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655994360,
+    "title": "Ex-CEB Chief\u2019s testimony: Guidelines accepted as directives",
+    "url": "https://www.newsfirst.lk/2022/06/23/ex-ceb-chiefs-testimony-guidelines-accepted-as-directives/",
+    "file_name": "/tmp/news_lk2/articles/26/266877de.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655994180,
+    "title": "Country at risk of coming to grinding halt owing to delayed shipments",
+    "url": "https://www.newsfirst.lk/2022/06/23/country-at-risk-of-coming-to-grinding-halt-owing-to-delayed-shipments/",
+    "file_name": "/tmp/news_lk2/articles/23/23e936df.json",
     "original_lang": "en",
     "is_translated": true
   },
@@ -24,6 +60,15 @@
     "url": "http://www.virakesari.lk/article/130080",
     "file_name": "/tmp/news_lk2/articles/9b/9bc57c4c.json",
     "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655992920,
+    "title": "Power cuts scheduled for 24th \u2013 26th June",
+    "url": "https://www.newsfirst.lk/2022/06/23/power-cuts-scheduled-for-24th-26th-june/",
+    "file_name": "/tmp/news_lk2/articles/fa/faa6b82a.json",
+    "original_lang": "en",
     "is_translated": true
   },
   {
@@ -851,51 +896,6 @@
     "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd, \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1/175-299075",
     "file_name": "/tmp/news_lk2/articles/32/32e7878c.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "time_ut": 1655974980,
-    "title": "Sri Lanka private bus services hit by fuel hoarding, tyre price hike",
-    "url": "https://economynext.com/sri-lanka-private-bus-services-hit-by-fuel-hoarding-tyre-price-hike-96322/",
-    "file_name": "/tmp/news_lk2/articles/24/24eae6fe.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655974937,
-    "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1",
-    "url": "http://www.virakesari.lk/article/130049",
-    "file_name": "/tmp/news_lk2/articles/0a/0a935ae1.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "time_ut": 1655974916,
-    "title": "\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0da7 \u0db1\u0da9\u0dd4 \u0db1\u0ddc\u0daf\u0db8\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d95. \u0d85\u0dba\u0dd2.\u0dc3\u0dd3.\u0da7 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd4\u0db1\u0dca \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a \u0daf\u0dd0\u0dbd\u0dda",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0da7-\u0db1\u0da9\u0dd4-\u0db1\u0ddc\u0daf\u0db8\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d95--\u0d85\u0dba\u0dd2-\u0dc3\u0dd3-\u0da7-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0daf\u0dd4\u0db1\u0dca-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a-\u0daf\u0dd0\u0dbd\u0dda/11-394756",
-    "file_name": "/tmp/news_lk2/articles/90/902d0e2b.json",
-    "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655974260,
-    "title": "Sri Lanka and New Zealand Foreign Ministers meet at CHOGM 2022",
-    "url": "https://www.newsfirst.lk/2022/06/23/sri-lanka-and-new-zealand-foreign-ministers-meet-at-chogm-2022/",
-    "file_name": "/tmp/news_lk2/articles/08/0842b3a4.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "time_ut": 1655974166,
-    "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0baa\u0b9e\u0bcd\u0b9a\u0bbf\u0b95\u0bbe\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf-\u0baa\u0b9e\u0bcd\u0b9a\u0bbf\u0b95\u0bbe\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8-\u0bb5\u0bc0\u0ba4\u0bbf-\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-299073",
-    "file_name": "/tmp/news_lk2/articles/d9/d989de11.json",
     "original_lang": "ta",
     "is_translated": true
   }
