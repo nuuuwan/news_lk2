@@ -1,5 +1,32 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655990340,
+    "title": "Two shipments of LP gas to arrives next month",
+    "url": "http://www.adaderana.lk/news/83220/two-shipments-of-lp-gas-to-arrives-next-month",
+    "file_name": "/tmp/news_lk2/articles/cc/cc3f9ef0.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "time_ut": 1655989988,
+    "title": "\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0bb2\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb/175-299084",
+    "file_name": "/tmp/news_lk2/articles/ad/ad33cf63.json",
+    "original_lang": "ta",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "time_ut": 1655989500,
+    "title": "Indian delegation leaves island after talks with Sri Lanka\u2019s leadership",
+    "url": "http://www.adaderana.lk/news/83219/indian-delegation-leaves-island-after-talks-with-sri-lankas-leadership",
+    "file_name": "/tmp/news_lk2/articles/b9/b97deba9.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "time_ut": 1655988728,
     "title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bca\u0b95\u0bc1\u0b9a\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc1\u0b99\u0bcd\u0b95 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
@@ -15,6 +42,24 @@
     "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0d9c\u0dd3\u0dad\u0dca-\u0d91\u0d9a\u0dca\u0db1\u0dd0\u0dc5\u0dd2\u0d9c\u0ddc\u0da9-\u0db1\u0da9\u0dd4\u0dc0:-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0d9a\u0dbb\u0dca\u0db1\u0dbd\u0dca\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0db5-\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0d87\u0db4/1-615287",
     "file_name": "/tmp/news_lk2/articles/24/24767a39.json",
     "original_lang": "si",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655988660,
+    "title": "Bangladesh HC meets President; Discusses cooperation",
+    "url": "https://www.newsfirst.lk/2022/06/23/bangladesh-hc-meets-president-discusses-cooperation/",
+    "file_name": "/tmp/news_lk2/articles/dc/dc7e7b6b.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "time_ut": 1655988120,
+    "title": "Foreign Loans for Hambantota Port Construction NOT shown in official records \u2013 COPE",
+    "url": "https://www.newsfirst.lk/2022/06/23/foreign-loans-for-hambantota-port-construction-not-shown-in-official-records-cope/",
+    "file_name": "/tmp/news_lk2/articles/fe/fe19ba24.json",
+    "original_lang": "en",
     "is_translated": true
   },
   {
@@ -851,51 +896,6 @@
     "title": "Stop arresting peaceful protesters...",
     "url": "https://www.dailymirror.lk/caption_story/Stop-arresting-peaceful-protesters/110-239645",
     "file_name": "/tmp/news_lk2/articles/7d/7dae5e3a.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655972438,
-    "title": "\u0b95\u0bca\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 10 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
-    "url": "http://www.virakesari.lk/article/130044",
-    "file_name": "/tmp/news_lk2/articles/9d/9dc293cd.json",
-    "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655972279,
-    "title": "Businessman nabbed with1,400 litres of diesel",
-    "url": "https://www.dailymirror.lk/breaking_news/Businessman-nabbed-with1-400-litres-of-diesel/108-239644",
-    "file_name": "/tmp/news_lk2/articles/33/33b136c9.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655972279,
-    "title": "Businessman nabbed with1,400 litres of diesel",
-    "url": "https://www.dailymirror.lk/latest_news/Businessman-nabbed-with1-400-litres-of-diesel/342-239644",
-    "file_name": "/tmp/news_lk2/articles/f8/f87f47d6.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655972160,
-    "title": "Four people arrested for violent behavior at filling station",
-    "url": "https://www.newsfirst.lk/2022/06/23/four-people-arrested-for-violent-behavior-at-filling-station/",
-    "file_name": "/tmp/news_lk2/articles/4c/4ca2062c.json",
-    "original_lang": "en",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "time_ut": 1655972160,
-    "title": "New Zealand to provide $ 800K to UNICEF Sri Lanka",
-    "url": "https://www.newsfirst.lk/2022/06/23/new-zealand-to-provide-800k-to-unicef-sri-lanka/",
-    "file_name": "/tmp/news_lk2/articles/9f/9fc76212.json",
     "original_lang": "en",
     "is_translated": true
   }
