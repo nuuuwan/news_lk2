@@ -162,6 +162,15 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "time_ut": 1655987505,
+    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+    "url": "https://www.ada.lk/business/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0d9a\u0dd3\u0dc0\u0dda-\u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf-/7-394770",
+    "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json",
+    "original_lang": "si",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "economy-next-com",
     "time_ut": 1655987340,
     "title": "Sri Lanka stocks gain for third day amid worst foreign outflow in three weeks",
@@ -888,15 +897,6 @@
     "url": "http://www.virakesari.lk/article/130043",
     "file_name": "/tmp/news_lk2/articles/6e/6ef78b81.json",
     "original_lang": "ta",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "time_ut": 1655973877,
-    "title": "10-hour water cut in many areas of Colombo",
-    "url": "https://www.dailymirror.lk/breaking_news/10-hour-water-cut-in-many-areas-of-Colombo/108-239647",
-    "file_name": "/tmp/news_lk2/articles/27/27040a55.json",
-    "original_lang": "en",
     "is_translated": true
   }
 ]
