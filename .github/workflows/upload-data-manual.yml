@@ -28,7 +28,7 @@ jobs:
     - name: Run - Upload Data
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/news_lk2/upload_data.py
+        python src/news_lk2/workflows/upload_data.py
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2

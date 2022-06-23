@@ -1,8 +1,8 @@
-from news_lk2 import common
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles
 from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import git_checkout
+from news_lk2.workflows import common
 
 MAX_ARTICLES_TO_TRANSLATE = 40
 
