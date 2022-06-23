@@ -4,6 +4,7 @@ from utils import filex, jsonx, timex
 
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles, get_date_id_to_articles
+from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import DIR_REPO, git_checkout
 from news_lk2.custom_newspapers import newspaper_class_list
 
@@ -34,6 +35,8 @@ def build_articles_summary():
     articles = get_articles()
     data_list = []
     for article in articles:
+        translated_article = TranslatedArticle.initFromArticle(article)
+        is_translated = os.path.exists(translated_article.file_name)
         data_list.append(
             dict(
                 newspaper_id=article.newspaper_id,
@@ -41,6 +44,7 @@ def build_articles_summary():
                 title=article.title,
                 url=article.url,
                 file_name=article.file_name,
+                is_translated=is_translated,
             )
         )
 
