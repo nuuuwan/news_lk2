@@ -1,3 +1,4 @@
+from news_lk2 import common
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles
 from news_lk2.core import TranslatedArticle
@@ -21,6 +22,8 @@ def main(is_test_mode=False):
             break
         if is_test_mode:
             break
+    common.build_readme_summary()
+    common.build_articles_summary()
 
 
 if __name__ == '__main__':
