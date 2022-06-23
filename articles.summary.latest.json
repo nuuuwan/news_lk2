@@ -28,6 +28,15 @@
   },
   {
     "newspaper_id": "news-first-lk",
+    "time_ut": 1655996460,
+    "title": "Limited services by Consular Affairs Division tomorrow (24)",
+    "url": "https://www.newsfirst.lk/2022/06/23/limited-services-by-consular-affairs-division-tomorrow-24/",
+    "file_name": "/tmp/news_lk2/articles/65/652ca043.json",
+    "original_lang": "en",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "time_ut": 1655996400,
     "title": "Woman arrested for bribery attempt",
     "url": "https://www.newsfirst.lk/2022/06/23/woman-arrested-for-bribery-attempt/",
@@ -888,15 +897,6 @@
     "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0dda/101-615276",
     "file_name": "/tmp/news_lk2/articles/94/94ba76d2.json",
     "original_lang": "si",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "time_ut": 1655976481,
-    "title": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0ba4\u0bca\u0b95\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url": "http://www.virakesari.lk/article/130052",
-    "file_name": "/tmp/news_lk2/articles/48/484b1e90.json",
-    "original_lang": "ta",
     "is_translated": true
   }
 ]
