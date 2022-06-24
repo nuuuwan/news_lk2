@@ -45,9 +45,10 @@ class Article:
 
         self.text_idx = text_idx
 
-    @static
+    @staticmethod
     def load_from_file(article_file):
         d = JSONFile(article_file).read()
+        return Article.from_dict(d)
 
     @staticmethod
     def from_dict(d):
@@ -68,7 +69,7 @@ class Article:
             original_title = d['title']
 
         if 'text_idx' in d:
-            text_idx = d['original_title']
+            text_idx = d['text_idx']
         else:
             text_idx = None
             if 'translate' in d:
@@ -111,10 +112,10 @@ class Article:
 
     def store(self):
         JSONFile(self.file_name).write(self.to_dict)
-        log.info(f'Wrote {self.file_name}')
+        log.debug(f'Wrote {self.file_name}')
 
         JSONFile(self.file_name_legacy).write(self.to_dict)
-        log.info(f'Wrote [legacy] {self.file_name_legacy}')
+        log.debug(f'Wrote [legacy] {self.file_name_legacy}')
 
     @property
     def file_name(self):
