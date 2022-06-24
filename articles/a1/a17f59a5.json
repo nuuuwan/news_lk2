@@ -42,16 +42,16 @@
         "The Presidential Media Unit announced that the President responsibly rejects the statement made by the Chairman of the Ceylon Electricity Board at the Parliamentary Committee on Public Enterprises.",
         "\"Sri Lanka's policy is to hand over every project in a very transparent and accountable manner and in a timely manner. In line with the policies, it will be implemented under a transparent procedure, \"the Presidential Media Unit said.",
         "Meanwhile, all-party activists have issued a statement saying the current president has become an Indian puppet.",
-        "All party activists claim that the statement made by the Ceylon Electricity Board (CEB) chairman before the COPE Committee proved that the failed ruler Gotabhaya Rajapaksa, who had bankrupted the economy by destabilizing the motherland, was sitting in a bunker without any manpower and advocating for Indo-US political interests.",
-        "They expressed their gratitude to India for its financial assistance to Sri Lanka at this critical juncture, stressing that under that pretext, Prime Minister Modi has no right to challenge Sri Lanka's constitutional and international freedom to make governing decisions as a sovereign independent state.",
-        "If the statement made by the Chairman of the CEB before the COPE Committee is in some way untrue, then the protesters should take action against him for misleading the COPE Committee. The puppet president must remember. \"",
+        "All party activists claim that the statement made by the Chairman of the Ceylon Electricity Board (CEB) before the COPE Committee proved that the failed ruler Gotabhaya Rajapaksa, who anarchized the motherland and bankrupted the economy, was sitting in a bunker without any manpower and advocating for Indo-American political interests.",
+        "They expressed their gratitude to India for its financial assistance to Sri Lanka at this critical juncture, stressing that Prime Minister Modi has no right to challenge Sri Lanka's constitutional and international independence in governing decisions as a sovereign independent state.",
+        "If the statement made by the Chairman of the CEB before the COPE Committee is in some way untrue, the protesters further say that action should be taken against him for misleading the COPE Committee. The puppet president must remember. \"",
         "Members of the Committee on Public Enterprises in this regard state that the statement of the Chairman of the Electricity Board cannot be withdrawn.",
         "\"It is clear from the letter he sent to SR Artigala on November 25 that the President had directed him to do this. Most importantly, it has been more than six months since this exactly happened. On the 12th of this month, Adani, the Ceylon Electricity Board, the Board of Investment, the Ministry of Finance and the Sustainable Energy Authority signed a Memorandum of Understanding, \u201dsaid Patali Champika Ranawaka, Member of the Committee.",
         "\"Last Thursday, amendments were passed to the new Electricity Act. If those amendments do not work between the governments, that is, if there is a legal issue, it allows Adani to do this elsewhere.\"",
         "Commenting on this, Member of the Committee on Public Enterprises Nalin Bandara said, \"There is no need for new evidence that our country has become a victim of world powers today.\"",
         "Former chairman of the committee Sunil Handunnetti said: \"Support is from India, oil is from India, gas is from India, food is from India, support is from Modi.",
         "Member of the Committee M. Marikkar said he had no legal authority to withdraw his statement before the COPE.",
-        "\"It is not lawful for him to withdraw his unconditional apology in a letter now. He has now legally stated that he, as a member of the COPE, is of the opinion that we as a member of the COPE cannot accept it. By no means did the Chairman of the Ceylon Electricity Board request a statement from the COPE. He has no legal responsibility or authority to withdraw and the COPE has no power to recognize it, so it should be made clear that we will take a decision on this at the next COPE meeting, \"he said.",
+        "\"It is not lawful for him to withdraw his unconditional apology in a letter now. He has now legally stated that, therefore, as a member of the COPE, it is my opinion that we, as members of the COPE, should not accept it. He has no legal responsibility or authority to withdraw and the COPE has no power to recognize it, so it should be made clear that we will take a decision on this at the next COPE meeting, \"he said.",
         "Jayantha Samaraweera, a member of the PSC, also said: \u201cThe bitter truth and ruthlessness of sacrificing electricity and energy in this country to these foreigners came out in the PSC itself. The Chairman has no right to lie in the COPE. That being said, this is a ruthless statement he made at the COPE.",
         "\"It does not appear that he was under much pressure. Now it is very clear that he is under pressure and has made such a statement,\" said Buddhi Pathirana, a Member of Parliament for the Samagi Jana Balawega."
       ],
@@ -525,8 +525,8 @@
             "label": "PERSON"
           },
           {
-            "text": "US",
-            "label": "GPE"
+            "text": "Indo-American",
+            "label": "ORG"
           }
         ],
         [
@@ -680,14 +680,6 @@
         [
           {
             "text": "COPE",
-            "label": "ORG"
-          },
-          {
-            "text": "COPE",
-            "label": "ORG"
-          },
-          {
-            "text": "the Ceylon Electricity Board",
             "label": "ORG"
           },
           {
@@ -1257,8 +1249,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
-            "label": "GPE"
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd4-\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4",
+            "label": "ORG"
           }
         ],
         [
@@ -1412,14 +1404,6 @@
         [
           {
             "text": "\u0d9a\u0ddd\u0db4\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0ddd\u0db4\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
             "label": "ORG"
           },
           {
@@ -1989,8 +1973,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
-            "label": "GPE"
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
+            "label": "ORG"
           }
         ],
         [
@@ -2144,14 +2128,6 @@
         [
           {
             "text": "\u0b95\u0bcb\u0baa\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bcb\u0baa\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
             "label": "ORG"
           },
           {
@@ -2288,16 +2264,16 @@
         "The Presidential Media Unit announced that the President responsibly rejects the statement made by the Chairman of the Ceylon Electricity Board at the Parliamentary Committee on Public Enterprises.",
         "\"Sri Lanka's policy is to hand over every project in a very transparent and accountable manner and in a timely manner. In line with the policies, it will be implemented under a transparent procedure, \"the Presidential Media Unit said.",
         "Meanwhile, all-party activists have issued a statement saying the current president has become an Indian puppet.",
-        "All party activists claim that the statement made by the Ceylon Electricity Board (CEB) chairman before the COPE Committee proved that the failed ruler Gotabhaya Rajapaksa, who had bankrupted the economy by destabilizing the motherland, was sitting in a bunker without any manpower and advocating for Indo-US political interests.",
-        "They expressed their gratitude to India for its financial assistance to Sri Lanka at this critical juncture, stressing that under that pretext, Prime Minister Modi has no right to challenge Sri Lanka's constitutional and international freedom to make governing decisions as a sovereign independent state.",
-        "If the statement made by the Chairman of the CEB before the COPE Committee is in some way untrue, then the protesters should take action against him for misleading the COPE Committee. The puppet president must remember. \"",
+        "All party activists claim that the statement made by the Chairman of the Ceylon Electricity Board (CEB) before the COPE Committee proved that the failed ruler Gotabhaya Rajapaksa, who anarchized the motherland and bankrupted the economy, was sitting in a bunker without any manpower and advocating for Indo-American political interests.",
+        "They expressed their gratitude to India for its financial assistance to Sri Lanka at this critical juncture, stressing that Prime Minister Modi has no right to challenge Sri Lanka's constitutional and international independence in governing decisions as a sovereign independent state.",
+        "If the statement made by the Chairman of the CEB before the COPE Committee is in some way untrue, the protesters further say that action should be taken against him for misleading the COPE Committee. The puppet president must remember. \"",
         "Members of the Committee on Public Enterprises in this regard state that the statement of the Chairman of the Electricity Board cannot be withdrawn.",
         "\"It is clear from the letter he sent to SR Artigala on November 25 that the President had directed him to do this. Most importantly, it has been more than six months since this exactly happened. On the 12th of this month, Adani, the Ceylon Electricity Board, the Board of Investment, the Ministry of Finance and the Sustainable Energy Authority signed a Memorandum of Understanding, \u201dsaid Patali Champika Ranawaka, Member of the Committee.",
         "\"Last Thursday, amendments were passed to the new Electricity Act. If those amendments do not work between the governments, that is, if there is a legal issue, it allows Adani to do this elsewhere.\"",
         "Commenting on this, Member of the Committee on Public Enterprises Nalin Bandara said, \"There is no need for new evidence that our country has become a victim of world powers today.\"",
         "Former chairman of the committee Sunil Handunnetti said: \"Support is from India, oil is from India, gas is from India, food is from India, support is from Modi.",
         "Member of the Committee M. Marikkar said he had no legal authority to withdraw his statement before the COPE.",
-        "\"It is not lawful for him to withdraw his unconditional apology in a letter now. He has now legally stated that he, as a member of the COPE, is of the opinion that we as a member of the COPE cannot accept it. By no means did the Chairman of the Ceylon Electricity Board request a statement from the COPE. He has no legal responsibility or authority to withdraw and the COPE has no power to recognize it, so it should be made clear that we will take a decision on this at the next COPE meeting, \"he said.",
+        "\"It is not lawful for him to withdraw his unconditional apology in a letter now. He has now legally stated that, therefore, as a member of the COPE, it is my opinion that we, as members of the COPE, should not accept it. He has no legal responsibility or authority to withdraw and the COPE has no power to recognize it, so it should be made clear that we will take a decision on this at the next COPE meeting, \"he said.",
         "Jayantha Samaraweera, a member of the PSC, also said: \u201cThe bitter truth and ruthlessness of sacrificing electricity and energy in this country to these foreigners came out in the PSC itself. The Chairman has no right to lie in the COPE. That being said, this is a ruthless statement he made at the COPE.",
         "\"It does not appear that he was under much pressure. Now it is very clear that he is under pressure and has made such a statement,\" said Buddhi Pathirana, a Member of Parliament for the Samagi Jana Balawega."
       ],
@@ -2771,8 +2747,8 @@
             "label": "PERSON"
           },
           {
-            "text": "US",
-            "label": "GPE"
+            "text": "Indo-American",
+            "label": "ORG"
           }
         ],
         [
@@ -2926,14 +2902,6 @@
         [
           {
             "text": "COPE",
-            "label": "ORG"
-          },
-          {
-            "text": "COPE",
-            "label": "ORG"
-          },
-          {
-            "text": "the Ceylon Electricity Board",
             "label": "ORG"
           },
           {
@@ -3503,8 +3471,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
-            "label": "GPE"
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd4-\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4",
+            "label": "ORG"
           }
         ],
         [
@@ -3658,14 +3626,6 @@
         [
           {
             "text": "\u0d9a\u0ddd\u0db4\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0ddd\u0db4\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
             "label": "ORG"
           },
           {
@@ -4235,8 +4195,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
-            "label": "GPE"
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
+            "label": "ORG"
           }
         ],
         [
@@ -4390,14 +4350,6 @@
         [
           {
             "text": "\u0b95\u0bcb\u0baa\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bcb\u0baa\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
             "label": "ORG"
           },
           {

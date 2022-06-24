@@ -22,7 +22,7 @@
         "The Hamilton Reserve Bank also alleged that Sri Lanka had discarded bonds from local banks and other interested parties in restructuring the announced loans.",
         "Lawyers representing Hamilton Reserve Bank Ltd. stated that \u201cas a result, the sponsoring Sri Lankan parties will receive a down payment and interest payments.",
         "But Fidelity Investments, BlackRock, T. Rowe Price, Lord Abbett, JPMorgan, PIMCO, Neuberger Berman and other US investors have defaulted on payments indefinitely, causing American retirees to suffer severe losses of up to 80% of their original investment value. The lawyers have pointed out in the complaint that they are suffering.",
-        "Lazard and Clifford Chance, the financial and legal advisers to the government, began restructuring more than $ 12 billion in debt last May after the government announced it was attacking international creditors for failing to repay its debt for the first time in its history. Was selected for.",
+        "Lazard & Clifford Chance, the financial and legal advisers to the government, began restructuring more than $ 12 billion in debt last May after the government announced it was attacking international creditors for failing to repay its debt for the first time in its history. Was selected for.",
         "The Prime Minister said on June 14 that representatives of Lazard and Clifford Chance had arrived in Sri Lanka.",
         "Meanwhile, Pacific Investment Management Co., T. Rowe Price Group Inc. And BlackRock Inc. Sri Lanka's largest lenders have formed a group including and are expected to begin debt restructuring talks soon, international media reported.",
         "According to Legal Adviser White & Case LLC, more than 30 Sri Lankan international bond-holding asset managers are set to enter into a group of creditors to begin debt restructuring negotiations with Sri Lanka.",
@@ -271,12 +271,8 @@
         ],
         [
           {
-            "text": "Lazard",
+            "text": "Lazard & Clifford Chance",
             "label": "ORG"
-          },
-          {
-            "text": "Clifford Chance",
-            "label": "PERSON"
           },
           {
             "text": "more than $ 12 billion",
@@ -711,12 +707,8 @@
         ],
         [
           {
-            "text": "Lazard",
+            "text": "\u0dbd\u0dcf\u0dc3\u0dcf\u0da9\u0dca \u0dc3\u0dc4 \u0d9a\u0dca\u0dbd\u0dd2\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dca",
             "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0dca\u0dbd\u0dd2\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dca",
-            "label": "PERSON"
           },
           {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 12 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
@@ -1109,7 +1101,7 @@
         ],
         [
           {
-            "text": "\u0ba8\u0bae\u0bcd\u0baa\u0b95 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "text": "\u0ba8\u0bae\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "ORG"
           },
           {
@@ -1151,12 +1143,8 @@
         ],
         [
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd & \u0b95\u0bbf\u0bb3\u0bbf\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
-            "label": "PERSON"
           },
           {
             "text": "$ 12 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
@@ -1177,7 +1165,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
             "label": "ORG"
           },
           {
@@ -1275,7 +1263,7 @@
             "label": "MONEY"
           },
           {
-            "text": "\u0b90.\u0b8e\u0bb8\u0bcd.\u0baa\u0bbf",
+            "text": "ISB",
             "label": "ORG"
           },
           {
@@ -1293,7 +1281,7 @@
         ],
         [
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
             "label": "ORG"
           },
           {
@@ -1369,7 +1357,7 @@
         "The Hamilton Reserve Bank also alleged that Sri Lanka had discarded bonds from local banks and other interested parties in restructuring the announced loans.",
         "Lawyers representing Hamilton Reserve Bank Ltd. stated that \u201cas a result, the sponsoring Sri Lankan parties will receive a down payment and interest payments.",
         "But Fidelity Investments, BlackRock, T. Rowe Price, Lord Abbett, JPMorgan, PIMCO, Neuberger Berman and other US investors have defaulted on payments indefinitely, causing American retirees to suffer severe losses of up to 80% of their original investment value. The lawyers have pointed out in the complaint that they are suffering.",
-        "Lazard and Clifford Chance, the financial and legal advisers to the government, began restructuring more than $ 12 billion in debt last May after the government announced it was attacking international creditors for failing to repay its debt for the first time in its history. Was selected for.",
+        "Lazard & Clifford Chance, the financial and legal advisers to the government, began restructuring more than $ 12 billion in debt last May after the government announced it was attacking international creditors for failing to repay its debt for the first time in its history. Was selected for.",
         "The Prime Minister said on June 14 that representatives of Lazard and Clifford Chance had arrived in Sri Lanka.",
         "Meanwhile, Pacific Investment Management Co., T. Rowe Price Group Inc. And BlackRock Inc. Sri Lanka's largest lenders have formed a group including and are expected to begin debt restructuring talks soon, international media reported.",
         "According to Legal Adviser White & Case LLC, more than 30 Sri Lankan international bond-holding asset managers are set to enter into a group of creditors to begin debt restructuring negotiations with Sri Lanka.",
@@ -1618,12 +1606,8 @@
         ],
         [
           {
-            "text": "Lazard",
+            "text": "Lazard & Clifford Chance",
             "label": "ORG"
-          },
-          {
-            "text": "Clifford Chance",
-            "label": "PERSON"
           },
           {
             "text": "more than $ 12 billion",
@@ -2058,12 +2042,8 @@
         ],
         [
           {
-            "text": "Lazard",
+            "text": "\u0dbd\u0dcf\u0dc3\u0dcf\u0da9\u0dca \u0dc3\u0dc4 \u0d9a\u0dca\u0dbd\u0dd2\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dca",
             "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0dca\u0dbd\u0dd2\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dca",
-            "label": "PERSON"
           },
           {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 12 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
@@ -2456,7 +2436,7 @@
         ],
         [
           {
-            "text": "\u0ba8\u0bae\u0bcd\u0baa\u0b95 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "text": "\u0ba8\u0bae\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "ORG"
           },
           {
@@ -2498,12 +2478,8 @@
         ],
         [
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd & \u0b95\u0bbf\u0bb3\u0bbf\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
-            "label": "PERSON"
           },
           {
             "text": "$ 12 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95",
@@ -2524,7 +2500,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
             "label": "ORG"
           },
           {
@@ -2622,7 +2598,7 @@
             "label": "MONEY"
           },
           {
-            "text": "\u0b90.\u0b8e\u0bb8\u0bcd.\u0baa\u0bbf",
+            "text": "ISB",
             "label": "ORG"
           },
           {
@@ -2640,7 +2616,7 @@
         ],
         [
           {
-            "text": "\u0bb2\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd",
+            "text": "\u0bb2\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
             "label": "ORG"
           },
           {
