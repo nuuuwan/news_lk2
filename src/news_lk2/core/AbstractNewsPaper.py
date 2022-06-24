@@ -158,13 +158,10 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def scrape(cls):
-        article_list = []
         article_urls = cls.get_article_urls()
-
         def func_inner(article_url):
             article = cls.parse_and_store_article(article_url)
             return article
-
         article_list_raw = mr.map_parallel(
             func_inner,
             article_urls,
