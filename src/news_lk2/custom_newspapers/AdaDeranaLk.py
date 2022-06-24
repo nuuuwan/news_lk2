@@ -38,6 +38,12 @@ class AdaDeranaLk(AbstractNewsPaper):
         )
 
     @classmethod
+    def parse_title(cls, soup):
+        article = soup.find('article', {'class': "news"})
+        h1 = article.find('h1')
+        return h1.text
+
+    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'news-content'})
         return list(
@@ -46,3 +52,8 @@ class AdaDeranaLk(AbstractNewsPaper):
                 header_inner.text.strip().split('\n'),
             )
         )
+
+
+if __name__ == '__main__':
+    for article in AdaDeranaLk.scrape():
+        print(article.title)

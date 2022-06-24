@@ -23,6 +23,12 @@ class AdaLk(AbstractNewsPaper):
         return article_urls
 
     @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'class': 'single-head'})
+        return h1.text
+
+
+    @classmethod
     def parse_body_lines(cls, soup):
         div_body = soup.find('div', {'class': 'single-body-wrap'})
         return list(
@@ -34,4 +40,5 @@ class AdaLk(AbstractNewsPaper):
 
 
 if __name__ == '__main__':
-    AdaLk.scrape()
+    for article in AdaLk.scrape():
+        print(article.title)
