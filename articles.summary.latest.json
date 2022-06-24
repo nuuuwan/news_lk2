@@ -1,5 +1,35 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0bb5\u0bb2\u0bc8-\u0bb5\u0bc0\u0b9a\u0bbf-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc8-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd/71-299130",
+    "time_ut": 1656063004,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0bb5\u0bb2\u0bc8 \u0bb5\u0bc0\u0b9a\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd ",
+    "file_name": "/tmp/news_lk2/articles/1a/1a7fa10d.json",
+    "title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0bb5\u0bb2\u0bc8 \u0bb5\u0bc0\u0b9a\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd ",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83235/leave-of-agri-ministry-employees-cancelled-from-july-06",
+    "time_ut": 1656062940,
+    "original_lang": "en",
+    "original_title": "Leave of Agri. Ministry employees cancelled from July 06",
+    "file_name": "/tmp/news_lk2/articles/15/15a51779.json",
+    "title": "Leave of Agri. Ministry employees cancelled from July 06",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130118",
+    "time_ut": 1656062647,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e2/e24a0803.json",
+    "title": "\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Doctors-in-fuel-queues/342-239724",
     "time_ut": 1656062366,
@@ -127,6 +157,16 @@
     "original_title": " SL receives second consignment of humanitarian supplies donated by India",
     "file_name": "/tmp/news_lk2/articles/10/1070d5ad.json",
     "title": " SL receives second consignment of humanitarian supplies donated by India",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca/11-394792",
+    "time_ut": 1656059881,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8 \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6c/6c456272.json",
+    "title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8 \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
     "is_translated": true
   },
   {
@@ -957,46 +997,6 @@
     "original_title": "Navy apprehend 35 more people attempting to illegally migrate",
     "file_name": "/tmp/news_lk2/articles/ec/ec75922d.json",
     "title": "Navy apprehend 35 more people attempting to illegally migrate",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83227/navy-apprehends-35-more-people-attempting-to-illegally-migrate",
-    "time_ut": 1656044400,
-    "original_lang": "en",
-    "original_title": "Navy apprehends 35 more people attempting to illegally migrate",
-    "file_name": "/tmp/news_lk2/articles/bd/bd63ac8e.json",
-    "title": "Navy apprehends 35 more people attempting to illegally migrate",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299119",
-    "time_ut": 1656044330,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/12/12c91c6e.json",
-    "title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/weather-rains-to-continue-thundershowers-for-ampara-and-batticaloa/",
-    "time_ut": 1656043740,
-    "original_lang": "en",
-    "original_title": "Weather: Rains to continue; Thundershowers for Ampara and Batticaloa",
-    "file_name": "/tmp/news_lk2/articles/d1/d1c981a7.json",
-    "title": "Weather: Rains to continue; Thundershowers for Ampara and Batticaloa",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Economic-crisis-cannot-be-resolved-overnight/352-239707",
-    "time_ut": 1656043682,
-    "original_lang": "en",
-    "original_title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
-    "file_name": "/tmp/news_lk2/articles/f6/f6546fc4.json",
-    "title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
     "is_translated": true
   }
 ]
