@@ -1,6 +1,16 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-told-not-to-intercede-checking-underground-storage-tanks-at-filling-stations/108-239751",
+    "time_ut": 1656093722,
+    "original_lang": "en",
+    "original_title": "Police told not to intercede checking underground storage tanks at filling stations",
+    "file_name": "/tmp/news_lk2/articles/c7/c7234aeb.json",
+    "title": "Police told not to intercede checking underground storage tanks at filling stations",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-facing-fullblown-humanitarian-emergency/108-239750",
     "time_ut": 1656093055,
     "original_lang": "en",
@@ -110,6 +120,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/headline/Middle-order-steers-Aussies-home-in-tense-chase/419-239730",
+    "time_ut": 1656088220,
+    "original_lang": "en",
+    "original_title": "Middle order steers Aussies home in tense chase",
+    "file_name": "/tmp/news_lk2/articles/c6/c61d9860.json",
+    "title": "Middle order steers Aussies home in tense chase",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83241/afghanistan-ends-search-for-survivors-of-devastating-earthquake",
     "time_ut": 1656087480,
@@ -146,6 +166,16 @@
     "original_lang": "en",
     "original_title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
     "file_name": "/tmp/news_lk2/articles/54/5476e74b.json",
+    "title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/headline/Sri-Lanka-held-a-special-place-in-Shane-Warnes-heart-says-his-brother/419-239729",
+    "time_ut": 1656084900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
+    "file_name": "/tmp/news_lk2/articles/be/bee490ed.json",
     "title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
     "is_translated": true
   },
@@ -967,36 +997,6 @@
     "original_title": "\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2 - \u0da2\u0db1\u0db4\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/07/07e3503a.json",
     "title": "\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc4\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2 - \u0da2\u0db1\u0db4\u0dad\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130122",
-    "time_ut": 1656064724,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 ? \u0b9a\u0bc0\u0ba9\u0bbf,  \u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/80/80bbacc1.json",
-    "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 ? \u0b9a\u0bc0\u0ba9\u0bbf,  \u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/crisis-hit-sri-lanka-finally-starts-to-deal-with-bloated-public-sector-96277/",
-    "time_ut": 1656064200,
-    "original_lang": "en",
-    "original_title": "Crisis-hit Sri Lanka finally starts to deal with bloated public sector",
-    "file_name": "/tmp/news_lk2/articles/67/67dd200c.json",
-    "title": "Crisis-hit Sri Lanka finally starts to deal with bloated public sector",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Fans-in-yellow/110-239726",
-    "time_ut": 1656064109,
-    "original_lang": "en",
-    "original_title": " Fans in yellow...",
-    "file_name": "/tmp/news_lk2/articles/c9/c9cee8af.json",
-    "title": " Fans in yellow...",
     "is_translated": true
   }
 ]
