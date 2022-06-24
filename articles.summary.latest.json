@@ -1,5 +1,15 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83243/european-countries-assure-provision-of-assistance-to-sri-lanka",
+    "time_ut": 1656089460,
+    "original_lang": "en",
+    "original_title": "European countries assure provision of assistance to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/37/372a05a4.json",
+    "title": "European countries assure provision of assistance to Sri Lanka",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Dhammika-Perera-sworn-in-as-Minister/108-239731",
     "time_ut": 1656088590,
@@ -17,6 +27,16 @@
     "original_title": "600 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bc8 \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0bae\u0bbe\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/80/80719abe.json",
     "title": "600 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bc8 \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0bae\u0bbe\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Middle-order-steers-Aussies-home-in-tense-chase/324-239730",
+    "time_ut": 1656088220,
+    "original_lang": "en",
+    "original_title": "Middle order steers Aussies home in tense chase",
+    "file_name": "/tmp/news_lk2/articles/18/18c0e874.json",
+    "title": "Middle order steers Aussies home in tense chase",
     "is_translated": true
   },
   {
@@ -61,6 +81,16 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/sports/Sri-Lanka-held-a-special-place-in-Shane-Warnes-heart-says-his-brother/322-239729",
+    "time_ut": 1656084900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
+    "file_name": "/tmp/news_lk2/articles/27/277ae983.json",
+    "title": "Sri Lanka held a special place in Shane Warne\u2019s heart, says his brother",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Sri-Lanka-held-a-special-place-in-Shane-Warnes-heart-says-his-brother/324-239729",
     "time_ut": 1656084900,
     "original_lang": "en",
@@ -87,6 +117,16 @@
     "original_title": "Two men arrested for illegal stockpiling; over 2,000l diesel recovered",
     "file_name": "/tmp/news_lk2/articles/42/428744c2.json",
     "title": "Two men arrested for illegal stockpiling; over 2,000l diesel recovered",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9c\u0db8\u0da7-\u0daf\u0dc4\u0dc3\u0dca-\u0d9c\u0dab\u0db1\u0d9a\u0dca--\u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0db1\u0dca-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca-\u0d9c\u0dd9\u0dc0\u0dbd\u0dcf/101-615348",
+    "time_ut": 1656083571,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9c\u0db8\u0da7 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca  \u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d9c\u0dd9\u0dc0\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/9d/9dc9088f.json",
+    "title": "\u0dbd\u0d82\u0d9c\u0db8\u0da7 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca  \u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d9c\u0dd9\u0dc0\u0dbd\u0dcf",
     "is_translated": true
   },
   {
@@ -166,6 +206,16 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/36/3642c921.json",
+    "title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2/101-615346",
+    "time_ut": 1656078704,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a3/a3733a8d.json",
     "title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
     "is_translated": true
   },
@@ -570,6 +620,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0dad\u0dca\u0daf\u0dc5-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-615339",
+    "time_ut": 1656069787,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0dad\u0dca\u0daf\u0dc5 \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2b/2b5aaf26.json",
+    "title": "\u0d87\u0dad\u0dca\u0daf\u0dc5 \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130128",
     "time_ut": 1656069450,
@@ -937,66 +997,6 @@
     "original_title": " Doctors in fuel queues",
     "file_name": "/tmp/news_lk2/articles/d6/d6f186d0.json",
     "title": " Doctors in fuel queues",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Doctors-in-fuel-queues/342-239724",
-    "time_ut": 1656062366,
-    "original_lang": "en",
-    "original_title": " Doctors in fuel queues",
-    "file_name": "/tmp/news_lk2/articles/02/02e89378.json",
-    "title": " Doctors in fuel queues",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/leave-of-agri-ministry-employees-cancelled-to-distribute-fertilizer/",
-    "time_ut": 1656062100,
-    "original_lang": "en",
-    "original_title": "\nLeave of Agri Ministry employees cancelled to distribute fertilizer",
-    "file_name": "/tmp/news_lk2/articles/df/dfe97adb.json",
-    "title": "\nLeave of Agri Ministry employees cancelled to distribute fertilizer",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130115",
-    "time_ut": 1656062049,
-    "original_lang": "ta",
-    "original_title": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bb0\u0bb7\u0bbf\u0baf \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd- \u0bb5\u0bbe\u0b9a\u0bc1\u0ba4\u0bc7\u0bb5",
-    "file_name": "/tmp/news_lk2/articles/7f/7f13c4e7.json",
-    "title": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bb0\u0bb7\u0bbf\u0baf \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd- \u0bb5\u0bbe\u0b9a\u0bc1\u0ba4\u0bc7\u0bb5",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-3\u0d9a-\u0d86\u0db0\u0dcf\u0dbb/11-394793",
-    "time_ut": 1656061632,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3\u0d9a \u0d86\u0db0\u0dcf\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/24/249ff8e5.json",
-    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3\u0d9a \u0d86\u0db0\u0dcf\u0dbb",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/fuel-for-health-sector-on-fridays-24/",
-    "time_ut": 1656061380,
-    "original_lang": "en",
-    "original_title": "\nFuel for Health Sector on Fridays (24)",
-    "file_name": "/tmp/news_lk2/articles/09/097205b4.json",
-    "title": "\nFuel for Health Sector on Fridays (24)",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8-\u0dc3\u0dda\u0dc0\u0d9a-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/101-615331",
-    "time_ut": 1656061019,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/7f/7fbbf15e.json",
-    "title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
     "is_translated": true
   }
 ]
