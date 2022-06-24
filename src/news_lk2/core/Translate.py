@@ -11,9 +11,7 @@ def extract_named_entities(phrase):
     doc = SPACY_NLP(phrase)
     ents = []
     for ent in doc.ents:
-        ents.append(
-            dict(text=ent.text, label=ent.label_)
-        )
+        ents.append(dict(text=ent.text, label=ent.label_))
     return ents
 
 
@@ -82,25 +80,29 @@ def build_text_idx(source_lang, original_title, original_body_lines):
         )
 
     text_idx[ENTS_LANG]['title_ents'] = extract_named_entities(
-        text_idx[ENTS_LANG]['title'])
-    text_idx[ENTS_LANG]['body_line_ents_list'] = list(map(
-        extract_named_entities,
-        text_idx[ENTS_LANG]['body_lines'],
-    ))
+        text_idx[ENTS_LANG]['title']
+    )
+    text_idx[ENTS_LANG]['body_line_ents_list'] = list(
+        map(
+            extract_named_entities,
+            text_idx[ENTS_LANG]['body_lines'],
+        )
+    )
 
     for target_lang in LANG_LIST[1:]:
         text_idx[target_lang]['title_ents'] = translate_ents(
             target_lang,
             text_idx[ENTS_LANG]['title_ents'],
         )
-        text_idx[target_lang]['body_line_ents_list'] = list(map(
-            lambda ents: translate_ents(
-                target_lang,
-                ents,
-            ),
-            text_idx[ENTS_LANG]['body_line_ents_list']
-
-        ))
+        text_idx[target_lang]['body_line_ents_list'] = list(
+            map(
+                lambda ents: translate_ents(
+                    target_lang,
+                    ents,
+                ),
+                text_idx[ENTS_LANG]['body_line_ents_list'],
+            )
+        )
 
     return text_idx
 
@@ -113,7 +115,7 @@ if __name__ == '__main__':
             'Colombo is going to Tom.',
             'Dick wants Galle.',
             'And who do you think wants Jaffna?',
-        ]
+        ],
     )
     for ent in text_idx['si']['title_ents']:
         print(ent['text'])

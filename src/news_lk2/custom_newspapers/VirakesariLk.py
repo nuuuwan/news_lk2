@@ -41,7 +41,7 @@ class VirakesariLk(AbstractNewsPaper):
         h1 = article.find('h1')
         return h1.text
 
-    @ classmethod
+    @classmethod
     def parse_body_lines(cls, soup):
         div = soup.find('div', {'class': 'post-content'})
         return list(
