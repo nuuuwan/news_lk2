@@ -1,4 +1,4 @@
-name: Backpopulate - Manual
+name: Backpopulate (Hour) - Manual
 
 on: workflow_dispatch
 
@@ -28,7 +28,7 @@ jobs:
     - name: Run - Backpopulate
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/news_lk2/workflows/backpopulate.py
+        python src/news_lk2/workflows/backpopulate.py --time-window=3600
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
