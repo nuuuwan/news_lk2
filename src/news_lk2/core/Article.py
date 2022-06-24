@@ -45,10 +45,12 @@ class Article:
 
         self.text_idx = text_idx
 
-    @staticmethod
-    def from_dict(article_file):
+    @static
+    def load_from_file(article_file):
         d = JSONFile(article_file).read()
 
+    @staticmethod
+    def from_dict(d):
         url = d['url']
         newspaper_id = d['newspaper_id']
 
