@@ -1,0 +1,1371 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/dilshan-wirasekara-appointed-cse-chairman/",
+  "time_ut": 1655992500,
+  "original_lang": "en",
+  "original_title": "Dilshan Wirasekara appointed CSE chairman",
+  "text_idx": {
+    "en": {
+      "title": "Dilshan Wirasekara appointed CSE chairman",
+      "author": "Dilshan Nadeera",
+      "body_lines": [
+        "The Colombo Stock Exchange (CSE) is announces the appointment of Dilshan Wirasekara as the Chairman of the Board of Directors of the CSE with effect from 24th June 2022. Wirasekara has served on the Board of the CSE since 21st November 2017 and succeeds Dumith Fernando, who steps down as the Chairman after completing his two-year tenure.",
+        "Wirasekara is the Director/Chief Executive Officer of one of the leading investment banking firms, First Capital Holdings PLC, offering a diverse range of financial services in Government Securities, Corporate Finance and Advisory, Asset Management and Stock Brokering, which he has been part of since 2013.",
+        "He currently is the chairman of the Investment Subcommittee of the CSE and also serves on the Risk and Audit Committee of the CSE as well as the CSE/SEC joint committees on Digitalization and the Central Counter Party System (CCP).",
+        "An Investment banker by profession with a career spanning over 26 years, comprising diversified expertise in financial services, including banking, treasury and investment management, capital market strategy, and corporate finance advisory services. Wirasekara specializes in Asset and Liability Risk Management, having secured the accolade of leading and representing two Sri Lankan companies in winning the International Bank Asset and Liability competition organized annually by the Netherlands Development Finance Company (FMO), German Investment Corporation (DEG), and Proparco \u2013 a subsidiary of the Agence Fran\u00e7aise de Development (AFD).",
+        "Wirasekara is an alumnus of INSEAD, having completed his Executive Professional Education at INSEAD Business School in Fontainebleau, France. He is also an alumnus of AOTS, Tokyo, Japan.",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [
+        {
+          "text": "Dilshan Wirasekara",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Colombo Stock Exchange",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "Dilshan Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Board of Directors",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "24th June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Board of the CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "21st November 2017",
+            "label": "DATE"
+          },
+          {
+            "text": "Dumith Fernando",
+            "label": "PERSON"
+          },
+          {
+            "text": "two-year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "First Capital Holdings PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "Government Securities",
+            "label": "ORG"
+          },
+          {
+            "text": "Advisory",
+            "label": "ORG"
+          },
+          {
+            "text": "Asset Management and Stock Brokering",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Investment Subcommittee of the CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "the Risk and Audit Committee",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "the Central Counter Party System",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "26 years",
+            "label": "DATE"
+          },
+          {
+            "text": "treasury",
+            "label": "ORG"
+          },
+          {
+            "text": "Liability Risk Management",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "the International Bank Asset",
+            "label": "ORG"
+          },
+          {
+            "text": "Liability",
+            "label": "ORG"
+          },
+          {
+            "text": "annually",
+            "label": "DATE"
+          },
+          {
+            "text": "the Netherlands Development Finance Company",
+            "label": "ORG"
+          },
+          {
+            "text": "German Investment Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "Proparco",
+            "label": "GPE"
+          },
+          {
+            "text": "the Agence Fran\u00e7aise de Development",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "Executive Professional Education",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD Business School",
+            "label": "ORG"
+          },
+          {
+            "text": "Fontainebleau",
+            "label": "GPE"
+          },
+          {
+            "text": "France",
+            "label": "GPE"
+          },
+          {
+            "text": "AOTS",
+            "label": "ORG"
+          },
+          {
+            "text": "Tokyo",
+            "label": "GPE"
+          },
+          {
+            "text": "Japan",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "CSE \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0db1\u0daf\u0dd3\u0dbb",
+      "body_lines": [
+        "2022 \u0da2\u0dd6\u0db1\u0dd2 24 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 CSE \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0db6\u0dc0 Colombo Stock Exchange (CSE) \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2. Wirasekara 2017 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 21 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 CSE \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0daf\u0dd4\u0db8\u0dd2\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0db4\u0dad\u0dca \u0dc0\u0dda. \u0daf\u0dd9\u0dc0\u0dc3\u0dbb\u0d9a \u0db0\u0dd4\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0db1\u0dd2\u0db8\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db0\u0dd6\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0db1.",
+        "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0dba\u0db1\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0db4\u0dd9\u0dc5\u0dda \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dc0\u0db1 First Capital Holdings PLC \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2/\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d94\u0dc4\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca, \u0d86\u0dba\u0dad\u0db1\u0dd2\u0d9a \u0db8\u0dd4\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dc4 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1, \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dcf\u0dbb \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0db1\u0dca\u0dc4\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc0\u0dd6 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db4\u0dba\u0dba\u0dd2. 2013 \u0dc3\u0dd2\u0da7.",
+        "\u0d94\u0dc4\u0dd4 \u0daf\u0dd0\u0db1\u0da7 CSE \u0dc4\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d85\u0db1\u0dd4\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb CSE \u0dc4\u0dd2 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0db1\u0dca\u0db8 CSE/SEC \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2 \u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba (CCP) \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dbd\u0daf \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dab\u0dba, \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb \u0dc3\u0dc4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba, \u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1 \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0d8b\u0db4\u0dcf\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc3\u0dc4 \u0d86\u0dba\u0dad\u0db1\u0dd2\u0d9a \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0\u0dcf\u0d82\u0d9c\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0dc0\u0dd6 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad, \u0dc0\u0dc3\u0dbb 26\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0dc0\u0dda. \u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8 (FMO), German Investment Corporation (DEG) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc0\u0dd3\u0db8\u0dda \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dba\u0dd9\u0d9a\u0dd2. Proparco - Agence Fran\u00e7aise de Development (AFD) \u0dc4\u0dd2 \u0d85\u0db1\u0dd4\u0db6\u0daf\u0dca\u0db0\u0dd2\u0dad \u0d86\u0dba\u0dad\u0db1\u0dba\u0d9a\u0dd2.",
+        "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb INSEAD \u0dc4\u0dd2 \u0d86\u0daf\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dd2, \u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1\u0dba\u0dda Fontainebleau \u0dc4\u0dd2 INSEAD \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd\u0dda \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb \u0d87\u0dad. \u0d94\u0dc4\u0dd4 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd \u0dc4\u0dd2 AOTS \u0dc4\u0dd2 \u0d86\u0daf\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dd2.",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "CSE \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2017 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 21",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd4\u0db8\u0dd2\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dbb\u0dab\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CSE \u0dc4\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d85\u0db1\u0dd4\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2 \u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 26 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0d9c\u0d9a\u0dd3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "Proparco",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba Fran\u00e7aise de Development",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc6\u0ddc\u0db1\u0dca\u0da7\u0dba\u0dd2\u0db1\u0dca\u0db6\u0dca\u0dbd\u0dd6",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0d82\u0dc1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "AOTS",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 CSE \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0ba8\u0ba4\u0bc0\u0bb0\u0bbe",
+      "body_lines": [
+        "24 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd CSE \u0b87\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 (CSE) \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0bb5\u0bc8\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 2017 \u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd 21 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd CSE \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bc1\u0bae\u0bbf\u0ba4\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd.",
+        "\u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0ba9 \u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd/\u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b86\u0bb5\u0bbe\u0bb0\u0bcd. \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0b9f\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8, \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bb0\u0b95\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. 2013 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 CSE \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd CSE \u0b87\u0ba9\u0bcd \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (CCP) \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 CSE/SEC \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd, \u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8, \u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf, 26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd. Netherlands Development Finance Company (FMO), German Investment Corporation (DEG) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bbe\u0b9a\u0bc7\u0b95\u0bb0 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd. Proparco - \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd Fran\u00e7aise de Development (AFD) \u0b87\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd.",
+        "\u0bb5\u0bc8\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 INSEAD \u0b87\u0ba9\u0bcd \u0baa\u0bb4\u0bc8\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd, \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd Fontainebleau \u0b87\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 INSEAD \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 AOTS \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd.",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd*",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "24 \u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "CSE \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "21 \u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd 2017",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0bae\u0bbf\u0ba4\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CSE \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bcd\u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b95\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd \u0b83\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc8\u0bb8\u0bcd \u0b9f\u0bbf \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd\u0baa\u0bcd\u0bb3\u0bc2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8f\u0b93\u0b9f\u0bbf\u0b8e\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  },
+  "title": "Dilshan Wirasekara appointed CSE chairman",
+  "body_lines": [
+    "The Colombo Stock Exchange (CSE) is announces the appointment of Dilshan Wirasekara as the Chairman of the Board of Directors of the CSE with effect from 24th June 2022. Wirasekara has served on the Board of the CSE since 21st November 2017 and succeeds Dumith Fernando, who steps down as the Chairman after completing his two-year tenure.",
+    "Wirasekara is the Director/Chief Executive Officer of one of the leading investment banking firms, First Capital Holdings PLC, offering a diverse range of financial services in Government Securities, Corporate Finance and Advisory, Asset Management and Stock Brokering, which he has been part of since 2013.",
+    "He currently is the chairman of the Investment Subcommittee of the CSE and also serves on the Risk and Audit Committee of the CSE as well as the CSE/SEC joint committees on Digitalization and the Central Counter Party System (CCP).",
+    "An Investment banker by profession with a career spanning over 26 years, comprising diversified expertise in financial services, including banking, treasury and investment management, capital market strategy, and corporate finance advisory services. Wirasekara specializes in Asset and Liability Risk Management, having secured the accolade of leading and representing two Sri Lankan companies in winning the International Bank Asset and Liability competition organized annually by the Netherlands Development Finance Company (FMO), German Investment Corporation (DEG), and Proparco \u2013 a subsidiary of the Agence Fran\u00e7aise de Development (AFD).",
+    "Wirasekara is an alumnus of INSEAD, having completed his Executive Professional Education at INSEAD Business School in Fontainebleau, France. He is also an alumnus of AOTS, Tokyo, Japan.",
+    "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+    "Save my name, email, and website in this browser for the next time I comment."
+  ],
+  "translate": {
+    "en": {
+      "title": "Dilshan Wirasekara appointed CSE chairman",
+      "author": "Dilshan Nadeera",
+      "body_lines": [
+        "The Colombo Stock Exchange (CSE) is announces the appointment of Dilshan Wirasekara as the Chairman of the Board of Directors of the CSE with effect from 24th June 2022. Wirasekara has served on the Board of the CSE since 21st November 2017 and succeeds Dumith Fernando, who steps down as the Chairman after completing his two-year tenure.",
+        "Wirasekara is the Director/Chief Executive Officer of one of the leading investment banking firms, First Capital Holdings PLC, offering a diverse range of financial services in Government Securities, Corporate Finance and Advisory, Asset Management and Stock Brokering, which he has been part of since 2013.",
+        "He currently is the chairman of the Investment Subcommittee of the CSE and also serves on the Risk and Audit Committee of the CSE as well as the CSE/SEC joint committees on Digitalization and the Central Counter Party System (CCP).",
+        "An Investment banker by profession with a career spanning over 26 years, comprising diversified expertise in financial services, including banking, treasury and investment management, capital market strategy, and corporate finance advisory services. Wirasekara specializes in Asset and Liability Risk Management, having secured the accolade of leading and representing two Sri Lankan companies in winning the International Bank Asset and Liability competition organized annually by the Netherlands Development Finance Company (FMO), German Investment Corporation (DEG), and Proparco \u2013 a subsidiary of the Agence Fran\u00e7aise de Development (AFD).",
+        "Wirasekara is an alumnus of INSEAD, having completed his Executive Professional Education at INSEAD Business School in Fontainebleau, France. He is also an alumnus of AOTS, Tokyo, Japan.",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [
+        {
+          "text": "Dilshan Wirasekara",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Colombo Stock Exchange",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "Dilshan Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Board of Directors",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "24th June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Board of the CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "21st November 2017",
+            "label": "DATE"
+          },
+          {
+            "text": "Dumith Fernando",
+            "label": "PERSON"
+          },
+          {
+            "text": "two-year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "First Capital Holdings PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "Government Securities",
+            "label": "ORG"
+          },
+          {
+            "text": "Advisory",
+            "label": "ORG"
+          },
+          {
+            "text": "Asset Management and Stock Brokering",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Investment Subcommittee of the CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "the Risk and Audit Committee",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "the Central Counter Party System",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "26 years",
+            "label": "DATE"
+          },
+          {
+            "text": "treasury",
+            "label": "ORG"
+          },
+          {
+            "text": "Liability Risk Management",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "the International Bank Asset",
+            "label": "ORG"
+          },
+          {
+            "text": "Liability",
+            "label": "ORG"
+          },
+          {
+            "text": "annually",
+            "label": "DATE"
+          },
+          {
+            "text": "the Netherlands Development Finance Company",
+            "label": "ORG"
+          },
+          {
+            "text": "German Investment Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "Proparco",
+            "label": "GPE"
+          },
+          {
+            "text": "the Agence Fran\u00e7aise de Development",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Wirasekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "Executive Professional Education",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD Business School",
+            "label": "ORG"
+          },
+          {
+            "text": "Fontainebleau",
+            "label": "GPE"
+          },
+          {
+            "text": "France",
+            "label": "GPE"
+          },
+          {
+            "text": "AOTS",
+            "label": "ORG"
+          },
+          {
+            "text": "Tokyo",
+            "label": "GPE"
+          },
+          {
+            "text": "Japan",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "CSE \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0db1\u0daf\u0dd3\u0dbb",
+      "body_lines": [
+        "2022 \u0da2\u0dd6\u0db1\u0dd2 24 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 CSE \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0db6\u0dc0 Colombo Stock Exchange (CSE) \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2. Wirasekara 2017 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 21 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 CSE \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0daf\u0dd4\u0db8\u0dd2\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0db4\u0dad\u0dca \u0dc0\u0dda. \u0daf\u0dd9\u0dc0\u0dc3\u0dbb\u0d9a \u0db0\u0dd4\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0db1\u0dd2\u0db8\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db0\u0dd6\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0db1.",
+        "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0dba\u0db1\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0db4\u0dd9\u0dc5\u0dda \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dc0\u0db1 First Capital Holdings PLC \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2/\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d94\u0dc4\u0dd4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca, \u0d86\u0dba\u0dad\u0db1\u0dd2\u0d9a \u0db8\u0dd4\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dc4 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1, \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dcf\u0dbb \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0db1\u0dca\u0dc4\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc0\u0dd6 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db4\u0dba\u0dba\u0dd2. 2013 \u0dc3\u0dd2\u0da7.",
+        "\u0d94\u0dc4\u0dd4 \u0daf\u0dd0\u0db1\u0da7 CSE \u0dc4\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d85\u0db1\u0dd4\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb CSE \u0dc4\u0dd2 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0db1\u0dca\u0db8 CSE/SEC \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2 \u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba (CCP) \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dbd\u0daf \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dab\u0dba, \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb \u0dc3\u0dc4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba, \u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca\u0db0\u0db1 \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0d8b\u0db4\u0dcf\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc3\u0dc4 \u0d86\u0dba\u0dad\u0db1\u0dd2\u0d9a \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0\u0dcf\u0d82\u0d9c\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0dc0\u0dd6 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad, \u0dc0\u0dc3\u0dbb 26\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0dc0\u0dda. \u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8 (FMO), German Investment Corporation (DEG) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dda\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc0\u0dd3\u0db8\u0dda \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dba\u0dd9\u0d9a\u0dd2. Proparco - Agence Fran\u00e7aise de Development (AFD) \u0dc4\u0dd2 \u0d85\u0db1\u0dd4\u0db6\u0daf\u0dca\u0db0\u0dd2\u0dad \u0d86\u0dba\u0dad\u0db1\u0dba\u0d9a\u0dd2.",
+        "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb INSEAD \u0dc4\u0dd2 \u0d86\u0daf\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dd2, \u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1\u0dba\u0dda Fontainebleau \u0dc4\u0dd2 INSEAD \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd\u0dda \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb \u0d87\u0dad. \u0d94\u0dc4\u0dd4 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd \u0dc4\u0dd2 AOTS \u0dc4\u0dd2 \u0d86\u0daf\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dd2.",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "CSE \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2017 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 21",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd4\u0db8\u0dd2\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca \u0dc4\u0ddd\u0dbd\u0dca\u0da9\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0dc4 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dbb\u0dab\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CSE \u0dc4\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d85\u0db1\u0dd4\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2 \u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 26 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0d9c\u0d9a\u0dd3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "Proparco",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba Fran\u00e7aise de Development",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a \u0db4\u0dcf\u0dc3\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc6\u0ddc\u0db1\u0dca\u0da7\u0dba\u0dd2\u0db1\u0dca\u0db6\u0dca\u0dbd\u0dd6",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0d82\u0dc1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "AOTS",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0ddd\u0d9a\u0dd2\u0dba\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 CSE \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0ba8\u0ba4\u0bc0\u0bb0\u0bbe",
+      "body_lines": [
+        "24 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd CSE \u0b87\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 (CSE) \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0bb5\u0bc8\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 2017 \u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd 21 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd CSE \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bc1\u0bae\u0bbf\u0ba4\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd. \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd.",
+        "\u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0ba9 \u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd/\u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b86\u0bb5\u0bbe\u0bb0\u0bcd. \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0b9f\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8, \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bb0\u0b95\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. 2013 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 CSE \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd CSE \u0b87\u0ba9\u0bcd \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (CCP) \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 CSE/SEC \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd, \u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8, \u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf, 26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd. Netherlands Development Finance Company (FMO), German Investment Corporation (DEG) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bbe\u0b9a\u0bc7\u0b95\u0bb0 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd. Proparco - \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd Fran\u00e7aise de Development (AFD) \u0b87\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd.",
+        "\u0bb5\u0bc8\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 INSEAD \u0b87\u0ba9\u0bcd \u0baa\u0bb4\u0bc8\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd, \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd Fontainebleau \u0b87\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 INSEAD \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 AOTS \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd.",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd*",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+          "label": "PERSON"
+        },
+        {
+          "text": "CSE",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "24 \u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "CSE \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "21 \u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd 2017",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0bae\u0bbf\u0ba4\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CSE \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "CSE",
+            "label": "ORG"
+          },
+          {
+            "text": "SEC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b9f\u0bb0\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "DEG",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bcd\u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b95\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd \u0b83\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc8\u0bb8\u0bcd \u0b9f\u0bbf \u0b9f\u0bc6\u0bb5\u0bb2\u0baa\u0bcd\u0bae\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "AFD",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "INSEAD",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "INSEAD \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd\u0baa\u0bcd\u0bb3\u0bc2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8f\u0b93\u0b9f\u0bbf\u0b8e\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [],
+        []
+      ]
+    }
+  }
+}
