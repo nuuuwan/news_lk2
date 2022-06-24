@@ -27,7 +27,6 @@ class AdaLk(AbstractNewsPaper):
         h1 = soup.find('h1', {'class': 'single-head'})
         return h1.text
 
-
     @classmethod
     def parse_body_lines(cls, soup):
         div_body = soup.find('div', {'class': 'single-body-wrap'})
