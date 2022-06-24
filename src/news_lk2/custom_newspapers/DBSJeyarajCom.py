@@ -22,6 +22,11 @@ class DBSJeyarajCom(AbstractNewsPaper):
         return h1_title.text
 
     @classmethod
+    def parse_author(cls, soup):
+        span_author = soup.find('span', {'class': 'author vcard'})
+        return span_author.text
+
+    @classmethod
     def parse_article_urls(cls, soup):
         article_urls = []
         for h1_title in soup.find_all('h1', {'class': 'entry-title'}):
