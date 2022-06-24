@@ -33,7 +33,7 @@ def main(is_test_mode=False):
             if i_within_time_window > 10:
                 break
 
-    log.info(f'Backpopulated {n} articles.')
+    log.info(f'Backpopulated {i_within_time_window}/{n} articles.')
 
 
 if __name__ == '__main__':
