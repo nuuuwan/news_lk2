@@ -1,4 +1,5 @@
 import random
+
 from news_lk2._utils import log
 from news_lk2.core.filesys import git_checkout
 from news_lk2.custom_newspapers import newspaper_class_list
@@ -6,6 +7,7 @@ from news_lk2.workflows import common
 
 DELIM_MD = '\n' * 2
 MAX_ARTICLES_TO_UPLOAD = 40
+
 
 def main(is_test_mode=False):
     log.debug(f'{is_test_mode=}')
@@ -18,10 +20,12 @@ def main(is_test_mode=False):
         newspaper_name = newspaper_class.__name__
         log.info(f'{i + 1}/{n}) Scraping {newspaper_name}...')
         article_list = newspaper_class.scrape()
-        n_article_list = len(article_list)
-        log.info(f'{i + 1}/{n}) Scraped {n_article_list} articles from {newspaper_name}')
+        n_paper = len(article_list)
+        log.info(
+            f'{i + 1}/{n}) Scraped {n_paper} articles from {newspaper_name}'
+        )
 
-        n_total += n_article_list
+        n_total += n_paper
 
         if is_test_mode:
             if n_total > 5:
