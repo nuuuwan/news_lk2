@@ -14,6 +14,7 @@ MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
 MIN_WORDS_IN_BODY_LINE = 10
 TIME_RAW_FORMAT = '%Y-%m-%d %H:%M:%S'
+TIME_SCRAPE_WAIT = 1
 
 
 def is_valid_line(line):
@@ -107,7 +108,7 @@ class AbstractNewsPaper(ABC):
             log.info(f'{article_file} already exists. Not parsing.')
             return None
 
-        time.sleep(TIME_SCRAPE_WAIT)            
+        time.sleep(TIME_SCRAPE_WAIT)
         soup = cls.get_soup(article_url)
         if not soup:
             log.warn(f'{article_url} has invalid HTML. Not parsing.')
@@ -146,8 +147,6 @@ class AbstractNewsPaper(ABC):
     def scrape(cls):
         article_list = []
         article_urls = cls.get_article_urls()
-
-        TIME_SCRAPE_WAIT = 1
 
         def func_inner(article_url):
             try:
