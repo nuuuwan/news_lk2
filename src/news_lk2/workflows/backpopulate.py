@@ -25,7 +25,7 @@ def main(time_window, is_test_mode=False):
             continue
 
         i_within_time_window += 1
-        article = Article.load_from_file(article_file)
+        article = Article.load_from_file_with_backpopulate(article_file)
         log.debug(f'{i +  1}/{n} {article.url} done.')
         article.store()
 

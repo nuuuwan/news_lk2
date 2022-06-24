@@ -46,16 +46,32 @@ class Article:
         self.text_idx = text_idx
 
     @staticmethod
+    def load_d_from_file(article_file):
+        return JSONFile(article_file).read()
+
+    @staticmethod
     def load_from_file(article_file):
         d = Article.load_d_from_file(article_file)
         return Article.from_dict(d)
 
     @staticmethod
-    def load_d_from_file(article_file):
-        return JSONFile(article_file).read()
+    def load_from_file_with_backpopulate(article_file):
+        d = Article.load_d_from_file(article_file)
+        return Article.from_dict_with_backpopulate(d)
 
     @staticmethod
     def from_dict(d):
+        return Article(
+            newspaper_id=d['newspaper_id'],
+            url=d['url'],
+            time_ut=d['time_ut'],
+            original_lang=d.get('original_lang'),
+            original_title=d.get('original_title'),
+            text_idx=d.get('text_idx'),
+        )
+
+    @staticmethod
+    def from_dict_with_backpopulate(d):
         url = d['url']
         newspaper_id = d['newspaper_id']
 
