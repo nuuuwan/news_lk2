@@ -1,4 +1,5 @@
 import os
+import time
 from abc import ABC
 
 from bs4 import BeautifulSoup
@@ -142,7 +143,10 @@ class AbstractNewsPaper(ABC):
         article_list = []
         article_urls = cls.get_article_urls()
 
+        TIME_SCRAPE_WAIT = 1
+
         def func_inner(article_url):
+            time.sleep(TIME_SCRAPE_WAIT)
             return cls.parse_and_store_article(article_url)
 
         article_list_raw = mr.map_parallel(
