@@ -132,7 +132,7 @@ class AbstractNewsPaper(ABC):
             try:
                 original_author = cls.parse_author(soup).strip()
             except:
-                original_author = ""    
+                original_author = ""
 
             text_idx = Translate.build_text_idx(
                 original_lang,
@@ -151,6 +151,7 @@ class AbstractNewsPaper(ABC):
             )
             article.store()
             return article
+
         except ValueError as e:
             log.error(str(e))
             return None
@@ -161,12 +162,7 @@ class AbstractNewsPaper(ABC):
         article_urls = cls.get_article_urls()
 
         def func_inner(article_url):
-            try:
-                article = cls.parse_and_store_article(article_url)
-            except Exception as e:
-                log.error(str(e))
-                return None
-
+            article = cls.parse_and_store_article(article_url)
             return article
 
         article_list_raw = mr.map_parallel(
