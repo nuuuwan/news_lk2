@@ -1,30 +1,30 @@
 # news_lk2 (upload_data summary)
 
-*Last run 20220624-205157 (LK time)*
+*Last run 20220624-210916 (LK time)*
 
-* 20220624 - 269 articles
+* 20220624 - 270 articles
 
-* 20220623 - 344 articles
+* 20220623 - 345 articles
 
-* 20220622 - 231 articles
+* 20220622 - 234 articles
 
-* 20220621 - 177 articles
+* 20220621 - 180 articles
 
-* 20220620 - 167 articles
+* 20220620 - 169 articles
 
 * 20220619 - 101 articles
 
-* 20220618 - 124 articles
+* 20220618 - 125 articles
 
-* 20220617 - 164 articles
+* 20220617 - 165 articles
 
-* 20220616 - 179 articles
+* 20220616 - 181 articles
 
-* 20220615 - 159 articles
+* 20220615 - 162 articles
 
-* 20220614 - 130 articles
+* 20220614 - 131 articles
 
-* 20220613 - 169 articles
+* 20220613 - 171 articles
 
 * 20220612 - 87 articles
 
@@ -32,9 +32,9 @@
 
 * 20220610 - 160 articles
 
-* 20220609 - 174 articles
+* 20220609 - 175 articles
 
-* 20220608 - 138 articles
+* 20220608 - 140 articles
 
 * 20220607 - 167 articles
 
@@ -280,6 +280,8 @@
 
 * 20211113 - 2 articles
 
+* 20211112 - 1 articles
+
 * 20211109 - 2 articles
 
 * 20211108 - 3 articles
@@ -378,4 +380,4 @@
 
 * 20201227 - 1 articles
 
-* **TOTAL** - 15,949 articles
+* **TOTAL** - 15,973 articles
