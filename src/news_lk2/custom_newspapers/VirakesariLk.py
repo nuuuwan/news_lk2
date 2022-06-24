@@ -42,6 +42,12 @@ class VirakesariLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
+    def parse_author(cls, soup):
+        article = soup.find('article')
+        p_meta = article.find('p', {'class', 'meta'})
+        return p_meta.text[:-19].replace('Published', '').replace('by', '').replace('on', '')
+
+    @classmethod
     def parse_body_lines(cls, soup):
         div = soup.find('div', {'class': 'post-content'})
         return list(
