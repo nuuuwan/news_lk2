@@ -5,7 +5,7 @@ from news_lk2.analysis import paper
 from news_lk2.core import Article
 from news_lk2.core.filesys import git_checkout
 
-MAX_BACKPOPULATE_TIME_DELTA = timex.SECONDS_IN.DAY * 28
+MAX_BACKPOPULATE_TIME_DELTA = timex.SECONDS_IN.DAY * 7
 
 
 def main(is_test_mode=False):
