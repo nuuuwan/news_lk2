@@ -96,6 +96,8 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_and_store_article(cls, article_url):
+        log.debug(f'[parse_and_store_article] {article_url}...')
+
         article_file = get_article_file(article_url)
         if os.path.exists(article_file):
             log.info(f'{article_file} already exists. Not parsing.')
@@ -103,7 +105,7 @@ class AbstractNewsPaper(ABC):
 
         soup = cls.get_soup(article_url)
         if not soup:
-            log.warn(f'{article_file} has invalid HTML. Not parsing.')
+            log.warn(f'{article_url} has invalid HTML. Not parsing.')
             return None
         try:
             original_lang = cls.get_original_lang()
