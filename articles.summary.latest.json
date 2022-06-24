@@ -150,6 +150,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0db8\u0db1\u0dca-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0d9c\u0dd2\u0dba-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda\u0daf\u0dd3-\u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dba\u0d9a\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/11-394789",
+    "time_ut": 1656054436,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0db8\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda\u0daf\u0dd3 \u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dba\u0d9a\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ca/ca0baf18.json",
+    "title": "\u0d9c\u0db8\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dcf \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda\u0daf\u0dd3 \u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dba\u0d9a\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/24/19-year-old-dies-in-accident-near-filling-station/",
     "time_ut": 1656054060,
@@ -987,16 +997,6 @@
     "original_title": "All-time record price for Morawakkorale Tea Factory",
     "file_name": "/tmp/news_lk2/articles/c6/c6faf804.json",
     "title": "All-time record price for Morawakkorale Tea Factory",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Another-all-time-record-price-for-Pedro-Estate/34-736597",
-    "time_ut": 1656033122,
-    "original_lang": "en",
-    "original_title": "Another all-time record price for Pedro Estate",
-    "file_name": "/tmp/news_lk2/articles/9e/9e2ea505.json",
-    "title": "Another all-time record price for Pedro Estate",
     "is_translated": true
   }
 ]
