@@ -1,5 +1,25 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0dc3\u0dd2\u0dc0\u0dca-\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u0d87\u0db4:\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dcf-\u0dc3\u0dc4-\u0dc5\u0dc4\u0dd2\u0dbb\u0dd4-\u0dba\u0dc5\u0dd2-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-615337",
+    "time_ut": 1656067893,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dca \u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u0d87\u0db4:\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dcf \u0dc3\u0dc4 \u0dc5\u0dc4\u0dd2\u0dbb\u0dd4 \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/76/761683a7.json",
+    "title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dca \u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u0d87\u0db4:\u0dbb\u0dd0\u0da7\u0dca\u0da7\u0dcf \u0dc3\u0dc4 \u0dc5\u0dc4\u0dd2\u0dbb\u0dd4 \u0dba\u0dc5\u0dd2 \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Consider-European-countries-as-friends-of-Sri-Lanka-EU-Ambassadors/342-239727",
+    "time_ut": 1656067648,
+    "original_lang": "en",
+    "original_title": " Consider European countries as friends of Sri Lanka: EU Ambassadors",
+    "file_name": "/tmp/news_lk2/articles/4b/4ba9d79e.json",
+    "title": " Consider European countries as friends of Sri Lanka: EU Ambassadors",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83236/four-anti-govt-activists-under-arrest-granted-bail",
     "time_ut": 1656067140,
@@ -37,6 +57,16 @@
     "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd ",
     "file_name": "/tmp/news_lk2/articles/18/180489e1.json",
     "title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd ",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca/1-615334",
+    "time_ut": 1656066109,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d9c\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d5/d573dd69.json",
+    "title": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0d9c\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca",
     "is_translated": true
   },
   {
@@ -307,6 +337,16 @@
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf \u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/f2/f2270415.json",
     "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf \u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dbd\u0dcf",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7-\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dc5-\u0daf\u0dd2\u0db1\u0dba\u0dda-\u0dc2\u0dd9\u0da9\u0dca-\u0dc4\u0dd2\u0dc3\u0dca/11-615329",
+    "time_ut": 1656060771,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7 \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc2\u0dd9\u0da9\u0dca \u0dc4\u0dd2\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5f/5f438edf.json",
+    "title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7 \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc2\u0dd9\u0da9\u0dca \u0dc4\u0dd2\u0dc3\u0dca",
     "is_translated": true
   },
   {
@@ -957,46 +997,6 @@
     "original_title": "Donation from Japan",
     "file_name": "/tmp/news_lk2/articles/7e/7e53b962.json",
     "title": "Donation from Japan",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Donation-from-Japan/110-239718",
-    "time_ut": 1656051110,
-    "original_lang": "en",
-    "original_title": " Donation from Japan",
-    "file_name": "/tmp/news_lk2/articles/db/dbb033c0.json",
-    "title": " Donation from Japan",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/St-Josephs-beat-Kingswood/110-239717",
-    "time_ut": 1656050743,
-    "original_lang": "en",
-    "original_title": " St. Joseph\u2019s beat Kingswood",
-    "file_name": "/tmp/news_lk2/articles/6e/6e48ca1f.json",
-    "title": " St. Joseph\u2019s beat Kingswood",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/St-Josephs-beat-Kingswood/342-239717",
-    "time_ut": 1656050743,
-    "original_lang": "en",
-    "original_title": "St. Joseph\u2019s beat Kingswood",
-    "file_name": "/tmp/news_lk2/articles/5d/5de49aef.json",
-    "title": "St. Joseph\u2019s beat Kingswood",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0ddd-35-\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd9\u0db1\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615316",
-    "time_ut": 1656050724,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0ddd 35 \u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/13/13e6c467.json",
-    "title": "\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0ddd 35 \u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "is_translated": true
   }
 ]
