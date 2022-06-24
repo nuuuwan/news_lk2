@@ -40,6 +40,10 @@ class ColomboTelegraphCom(AbstractNewsPaper):
         return h1_title.text.strip()
 
     @classmethod
+    def parse_author(cls, soup):
+        raise ""
+
+    @classmethod
     def parse_body_lines(cls, soup):
         div = soup.find('div', {'class': 'pf-content'})
         return list(
