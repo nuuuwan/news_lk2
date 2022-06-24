@@ -1,7 +1,9 @@
-from news_lk2.core import AbstractNewsPaper
 from utils import timex
 
+from news_lk2.core import AbstractNewsPaper
+
 TIME_RAW_FORMAT = '%Y-%m-%dT%H:%M:%S.%fZ'
+
 
 class BBCComSinhala(AbstractNewsPaper):
     @classmethod

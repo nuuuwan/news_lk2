@@ -123,15 +123,17 @@ class AbstractNewsPaper(ABC):
             original_body_lines = list(
                 filter(
                     lambda line: is_valid_line(line),
-                    list(map(
-                        lambda line: line.strip(),
-                        cls.parse_body_lines(soup),
-                    )),
+                    list(
+                        map(
+                            lambda line: line.strip(),
+                            cls.parse_body_lines(soup),
+                        )
+                    ),
                 )
             )
             try:
                 original_author = cls.parse_author(soup).strip()
-            except:
+            except BaseException:
                 original_author = ""
 
             text_idx = Translate.build_text_idx(
@@ -159,9 +161,11 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def scrape(cls):
         article_urls = cls.get_article_urls()
+
         def func_inner(article_url):
             article = cls.parse_and_store_article(article_url)
             return article
+
         article_list_raw = mr.map_parallel(
             func_inner,
             article_urls,
