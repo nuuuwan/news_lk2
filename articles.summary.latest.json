@@ -1,5 +1,15 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83228/welgama-released-from-bribery-case",
+    "time_ut": 1656048540,
+    "original_lang": "en",
+    "original_title": "Welgama released from bribery case",
+    "file_name": "/tmp/news_lk2/articles/bb/bbcb696a.json",
+    "title": "Welgama released from bribery case",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Great-if-they-all-did-come-down-and-wear-yellow-Finch/342-239715",
     "time_ut": 1656047626,
@@ -407,6 +417,26 @@
     "original_title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/84/8499c785.json",
     "title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-\u0d9a\u0dad\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615305",
+    "time_ut": 1656036586,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/dd/dd1a3e95.json",
+    "title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0db4\u0ddc\u0da9\u0dca\u0da9\u0d9a\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dda/1-615304",
+    "time_ut": 1656036304,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db4\u0ddc\u0da9\u0dca\u0da9\u0d9a\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/9f/9f67fcac.json",
+    "title": "\u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db4\u0ddc\u0da9\u0dca\u0da9\u0d9a\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
     "is_translated": true
   },
   {
@@ -966,36 +996,6 @@
     "original_lang": "en",
     "original_title": null,
     "file_name": "/tmp/news_lk2/articles/01/01634968.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bc8-\u0b95\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc8-\u0bae\u0bc0\u0bb3-\u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bbe/175-299109",
-    "time_ut": 1656004402,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8 \u0b95\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb3 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bbe?",
-    "file_name": "/tmp/news_lk2/articles/1e/1eb5ea64.json",
-    "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8 \u0b95\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb3 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bbe?",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bc8-\u0ba4\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba8\u0bbe\u0b9f\u0bc1-\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-299108",
-    "time_ut": 1656003334,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/52/52a1734c.json",
-    "title": "\u2019\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83223/foreign-ministrys-consular-services-limited-tomorrow",
-    "time_ut": 1656003060,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/e4/e44275b2.json",
     "title": null,
     "is_translated": true
   }
