@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from utils import dt, timex, www
 
 from news_lk2._utils import log
+from news_lk2.core import Translate
 from news_lk2.core.Article import Article
 from news_lk2.core.filesys import get_article_file
 
@@ -105,18 +106,28 @@ class AbstractNewsPaper(ABC):
             log.warn(f'{article_file} has invalid HTML. Not parsing.')
             return None
         try:
+            original_lang = cls.get_original_lang()
+            original_title = cls.parse_title(soup)
+            original_body_lines = list(
+                filter(
+                    lambda line: is_valid_line(line),
+                    cls.parse_body_lines(soup),
+                )
+            )
+
+            text_idx = Translate.build_text_idx(
+                original_lang,
+                original_title,
+                original_body_lines,
+            )
+
             article = Article(
                 newspaper_id=cls.get_newspaper_id(),
                 url=article_url,
                 time_ut=cls.parse_time_ut(soup),
-                title=cls.parse_title(soup),
-                body_lines=list(
-                    filter(
-                        lambda line: is_valid_line(line),
-                        cls.parse_body_lines(soup),
-                    )
-                ),
-                original_lang=cls.get_original_lang(),
+                original_lang=original_lang,
+                original_title=original_title,
+                text_idx=text_idx,
             )
             article.store()
             return article
