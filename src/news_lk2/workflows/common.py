@@ -4,7 +4,6 @@ from utils import filex, jsonx, timex
 
 from news_lk2._utils import log
 from news_lk2.analysis.paper import get_articles, get_date_id_to_articles
-from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import DIR_REPO
 
 DELIM_MD = '\n' * 2
@@ -12,6 +11,7 @@ N_LATEST = 100
 
 
 def build_readme_summary():
+    log.info('Building README.md')
     date_id_to_articles = get_date_id_to_articles()
     md_lines = []
     md_lines.append('# news_lk2 (upload_data summary)')
@@ -31,19 +31,22 @@ def build_readme_summary():
 
 
 def build_articles_summary():
+    log.info('Building articles.summary.json')
     articles = get_articles()
     data_list = []
     for article in articles:
-        translated_article = TranslatedArticle.initFromArticle(article)
-        is_translated = os.path.exists(translated_article.file_name)
+        is_translated = os.path.exists(article.file_name_legacy)
         data_list.append(
             dict(
                 newspaper_id=article.newspaper_id,
-                time_ut=article.time_ut,
-                title=article.title,
                 url=article.url,
-                file_name=article.file_name,
+                time_ut=article.time_ut,
                 original_lang=article.original_lang,
+                original_title=article.original_title,
+                # only in summary
+                file_name=article.file_name,
+                # legacy
+                title=article.original_title,
                 is_translated=is_translated,
             )
         )
