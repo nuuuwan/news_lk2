@@ -34,7 +34,7 @@ def main(is_test_mode=False):
         if n_total > MAX_ARTICLES_TO_UPLOAD:
             break
 
-    log.info(f'Scraped {n_total} articles in total.')        
+    log.info(f'Scraped {n_total} articles in total.')
 
     common.build_readme_summary()
     common.build_articles_summary()
