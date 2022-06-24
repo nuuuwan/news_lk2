@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Doctors-in-fuel-queues/342-239724",
+    "time_ut": 1656062366,
+    "original_lang": "en",
+    "original_title": " Doctors in fuel queues",
+    "file_name": "/tmp/news_lk2/articles/02/02e89378.json",
+    "title": " Doctors in fuel queues",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/leave-of-agri-ministry-employees-cancelled-to-distribute-fertilizer/",
+    "time_ut": 1656062100,
+    "original_lang": "en",
+    "original_title": "\nLeave of Agri Ministry employees cancelled to distribute fertilizer",
+    "file_name": "/tmp/news_lk2/articles/df/dfe97adb.json",
+    "title": "\nLeave of Agri Ministry employees cancelled to distribute fertilizer",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130115",
+    "time_ut": 1656062049,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bb0\u0bb7\u0bbf\u0baf \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd- \u0bb5\u0bbe\u0b9a\u0bc1\u0ba4\u0bc7\u0bb5",
+    "file_name": "/tmp/news_lk2/articles/7f/7f13c4e7.json",
+    "title": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bb0\u0bb7\u0bbf\u0baf \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd- \u0bb5\u0bbe\u0b9a\u0bc1\u0ba4\u0bc7\u0bb5",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/fuel-for-health-sector-on-fridays-24/",
+    "time_ut": 1656061380,
+    "original_lang": "en",
+    "original_title": "\nFuel for Health Sector on Fridays (24)",
+    "file_name": "/tmp/news_lk2/articles/09/097205b4.json",
+    "title": "\nFuel for Health Sector on Fridays (24)",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8-\u0dc3\u0dda\u0dc0\u0d9a-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-615331",
+    "time_ut": 1656061019,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a7/a7c6f87b.json",
+    "title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd1:-\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2/1-615330",
+    "time_ut": 1656060904,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/bb/bbe67d77.json",
+    "title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0db1\u0dca\u0db1-\u0d87\u0dc0\u0dd2\u0dad\u0dca-\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf-\u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dbd\u0dcf/1-615329",
+    "time_ut": 1656060771,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf \u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/f2/f2270415.json",
+    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf \u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dbd\u0dcf",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/ratta-lahiru-jinarathana-thero-returned-to-remand-custody/",
+    "time_ut": 1656060660,
+    "original_lang": "en",
+    "original_title": "\nRatta, Lahiru, & Jinarathana Thero returned to remand custody",
+    "file_name": "/tmp/news_lk2/articles/80/807de9fd.json",
+    "title": "\nRatta, Lahiru, & Jinarathana Thero returned to remand custody",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-former-leftist-leader-blames-imf-for-russias-invasion-of-ukraine-96407/",
     "time_ut": 1656060480,
@@ -91,6 +171,16 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0daf\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/1-615328",
+    "time_ut": 1656058251,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fb/fb6b4a7c.json",
+    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0daf\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/101-615328",
     "time_ut": 1656058251,
     "original_lang": "si",
@@ -130,6 +220,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3\u0dba-\u0da2\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dba-4-\u0d9a\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/1-615327",
+    "time_ut": 1656057941,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3\u0dba \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dba 4 \u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fb/fb8592ec.json",
+    "title": "\u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3\u0dba \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dba 4 \u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/24/welgama-released-from-bribery-case-ciaboc-says-it-reserved-right-to-re-file-case/",
     "time_ut": 1656057840,
@@ -157,6 +257,16 @@
     "original_title": " Court issues summons on Johnston Fernando and two others",
     "file_name": "/tmp/news_lk2/articles/b8/b8f44b7a.json",
     "title": " Court issues summons on Johnston Fernando and two others",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d86\u0db0\u0dcf\u0dbb-\u0dad\u0ddc\u0d9c\u0dba-\u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2/1-615326",
+    "time_ut": 1656057719,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a3/a348329c.json",
+    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -316,6 +426,16 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dad\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/65/657cb90c.json",
+    "title": "\u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dad\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc4\u0dbd\u0dca-\u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0-\u0db1\u0dad\u0dbb-\u0d9a\u0dbb\u0db1\u0dca\u0db1/1-615321",
+    "time_ut": 1656055683,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dad\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/6e/6ef96a77.json",
     "title": "\u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dad\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1",
     "is_translated": true
   },
@@ -877,126 +997,6 @@
     "original_title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
     "file_name": "/tmp/news_lk2/articles/f6/f6546fc4.json",
     "title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/news-features/Economic-crisis-cannot-be-resolved-overnight/131-239707",
-    "time_ut": 1656043682,
-    "original_lang": "en",
-    "original_title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
-    "file_name": "/tmp/news_lk2/articles/2f/2f75c67a.json",
-    "title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a-\u0d9c\u0dd0\u0da7\u0dd9\u0dba\u0dd2/11-394782",
-    "time_ut": 1656043416,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a \u0d9c\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fb/fb873836.json",
-    "title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a \u0d9c\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/another-group-of-35-people-detained-for-illegal-migration-attempt-to-australia/",
-    "time_ut": 1656043200,
-    "original_lang": "en",
-    "original_title": "Another group of 35 people detained for illegal migration attempt to Australia",
-    "file_name": "/tmp/news_lk2/articles/37/379e86db.json",
-    "title": "Another group of 35 people detained for illegal migration attempt to Australia",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Minister-Amaraweera-please-spare-North-East-forest-land-EDITORIAL/231-239706",
-    "time_ut": 1656043152,
-    "original_lang": "en",
-    "original_title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/fc/fc9525a7.json",
-    "title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Minister-Amaraweera-please-spare-North-East-forest-land-EDITORIAL/172-239706",
-    "time_ut": 1656043152,
-    "original_lang": "en",
-    "original_title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/24/244d3a74.json",
-    "title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/India-Quad-and-BRICS-Shifting-realities-in-Indo-Pacific-region/172-239705",
-    "time_ut": 1656043075,
-    "original_lang": "en",
-    "original_title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
-    "file_name": "/tmp/news_lk2/articles/20/2013924e.json",
-    "title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/India-Quad-and-BRICS-Shifting-realities-in-Indo-Pacific-region/231-239705",
-    "time_ut": 1656043075,
-    "original_lang": "en",
-    "original_title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
-    "file_name": "/tmp/news_lk2/articles/a7/a7e17106.json",
-    "title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Acute-nutritional-issues-malnutrition-situations-among-children-escalate-GMOA/342-239704",
-    "time_ut": 1656042602,
-    "original_lang": "en",
-    "original_title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
-    "file_name": "/tmp/news_lk2/articles/fb/fb5bdc56.json",
-    "title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Acute-nutritional-issues-malnutrition-situations-among-children-escalate-GMOA/108-239704",
-    "time_ut": 1656042602,
-    "original_lang": "en",
-    "original_title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
-    "file_name": "/tmp/news_lk2/articles/98/98bcb731.json",
-    "title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7-\u0d9a\u0ddc\u0dc5-\u0db1\u0dd1/1-615306",
-    "time_ut": 1656042515,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/13/13ba4ac4.json",
-    "title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7-\u0d9a\u0ddc\u0dc5-\u0db1\u0dd1/101-615306",
-    "time_ut": 1656042515,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/ba/baf9cda8.json",
-    "title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7-\u0d9a\u0ddc\u0dc5-\u0db1\u0dd1/14-615306",
-    "time_ut": 1656042515,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/22/226714dd.json",
-    "title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
     "is_translated": true
   }
 ]
