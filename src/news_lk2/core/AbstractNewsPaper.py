@@ -126,11 +126,13 @@ class AbstractNewsPaper(ABC):
                     cls.parse_body_lines(soup),
                 )
             )
+            original_author = cls.parse_author(soup)
 
             text_idx = Translate.build_text_idx(
                 original_lang,
                 original_title,
                 original_body_lines,
+                original_author,
             )
 
             article = Article(
