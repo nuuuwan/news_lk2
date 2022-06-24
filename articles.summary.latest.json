@@ -1,6 +1,16 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Donation-from-Japan/342-239718",
+    "time_ut": 1656051110,
+    "original_lang": "en",
+    "original_title": "Donation from Japan",
+    "file_name": "/tmp/news_lk2/articles/7e/7e53b962.json",
+    "title": "Donation from Japan",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/St-Josephs-beat-Kingswood/342-239717",
     "time_ut": 1656050743,
     "original_lang": "en",
@@ -67,6 +77,16 @@
     "original_title": "Court orders to release Welgama from bribery case",
     "file_name": "/tmp/news_lk2/articles/8a/8ab97643.json",
     "title": "Court orders to release Welgama from bribery case",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0dad\u0db8-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8-\u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2/11-394786",
+    "time_ut": 1656048316,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0dad\u0db8 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8 \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c4/c42a7e9e.json",
+    "title": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0dad\u0db8 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8 \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -977,26 +997,6 @@
     "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0ba3\u0baf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/35/3543776d.json",
     "title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0ba3\u0baf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130072",
-    "time_ut": 1656007924,
-    "original_lang": "ta",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/49/49265eda.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8-7-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bca\u0ba3\u0bcd\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-299111",
-    "time_ut": 1656007835,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8:  7 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/01/01841b39.json",
-    "title": "\u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8:  7 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
     "is_translated": true
   }
 ]
