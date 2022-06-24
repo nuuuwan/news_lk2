@@ -1,5 +1,35 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SLMA-writes-to-PM-on-tobacco-and-alcohol-taxes/342-239721",
+    "time_ut": 1656058059,
+    "original_lang": "en",
+    "original_title": " SLMA writes to PM on tobacco and alcohol taxes",
+    "file_name": "/tmp/news_lk2/articles/9f/9ffc988f.json",
+    "title": " SLMA writes to PM on tobacco and alcohol taxes",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Court-issues-summons-on-Johnston-Fernando-and-two-others/342-239720",
+    "time_ut": 1656057757,
+    "original_lang": "en",
+    "original_title": " Court issues summons on Johnston Fernando and two others",
+    "file_name": "/tmp/news_lk2/articles/d0/d03c8efd.json",
+    "title": " Court issues summons on Johnston Fernando and two others",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/luminex-limited-starts-trading-at-after-raising-rs-250-million-via-ipo-96402/",
+    "time_ut": 1656057600,
+    "original_lang": "en",
+    "original_title": "Luminex Limited starts trading at after raising Rs.250 million via IPO",
+    "file_name": "/tmp/news_lk2/articles/5b/5b8189d0.json",
+    "title": "Luminex Limited starts trading at after raising Rs.250 million via IPO",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83233/cid-records-statements-from-johnston-over-may-09-violence",
     "time_ut": 1656056400,
@@ -27,6 +57,16 @@
     "original_title": "\u0dbd\u0d82\u0d9c\u0db8 \u0db1\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8 \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
     "file_name": "/tmp/news_lk2/articles/f3/f3e41f42.json",
     "title": "\u0dbd\u0d82\u0d9c\u0db8 \u0db1\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8 \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4-\u0d9c\u0dd0\u0db1-\u0d9a\u0dab\u0d9c\u0dcf\u0da7\u0dd4\u0dba\u0dd2\u2018\u2018/1-615324",
+    "time_ut": 1656056215,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4 \u0d9c\u0dd0\u0db1 \u0d9a\u0dab\u0d9c\u0dcf\u0da7\u0dd4\u0dba\u0dd2\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/a7/a74d5a96.json",
+    "title": "\u2018\u2018\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4 \u0d9c\u0dd0\u0db1 \u0d9a\u0dab\u0d9c\u0dcf\u0da7\u0dd4\u0dba\u0dd2\u2018\u2018",
     "is_translated": true
   },
   {
@@ -957,46 +997,6 @@
     "original_title": "Showery condition to slightly enhance from today",
     "file_name": "/tmp/news_lk2/articles/5f/5f211db5.json",
     "title": "Showery condition to slightly enhance from today",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/TMVP-informant-spills-the-beans/342-239688",
-    "time_ut": 1656033271,
-    "original_lang": "en",
-    "original_title": "TMVP informant spills the beans",
-    "file_name": "/tmp/news_lk2/articles/b8/b8326c8d.json",
-    "title": "TMVP informant spills the beans",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/TMVP-informant-spills-the-beans/108-239688",
-    "time_ut": 1656033271,
-    "original_lang": "en",
-    "original_title": "TMVP informant spills the beans",
-    "file_name": "/tmp/news_lk2/articles/91/91bc29fa.json",
-    "title": "TMVP informant spills the beans",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Hingalgoda-Tea-Factory-achieves-all-time-record-price/34-736599",
-    "time_ut": 1656033218,
-    "original_lang": "en",
-    "original_title": "Hingalgoda Tea Factory achieves all-time record price",
-    "file_name": "/tmp/news_lk2/articles/ad/ad5e3b1f.json",
-    "title": "Hingalgoda Tea Factory achieves all-time record price",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/All-time-record-price-for-Morawakkorale-Tea-Factory/34-736598",
-    "time_ut": 1656033167,
-    "original_lang": "en",
-    "original_title": "All-time record price for Morawakkorale Tea Factory",
-    "file_name": "/tmp/news_lk2/articles/c6/c6faf804.json",
-    "title": "All-time record price for Morawakkorale Tea Factory",
     "is_translated": true
   }
 ]
