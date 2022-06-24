@@ -42,7 +42,7 @@ MAX_WORD_LEN = 2000
 def translate(source_lang, target_lang, word):
     if word.isnumeric():
         return word
-        
+
     word = word.strip()
     if len(word) < 1:
         return word
