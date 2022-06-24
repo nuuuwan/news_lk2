@@ -47,8 +47,12 @@ class Article:
 
     @staticmethod
     def load_from_file(article_file):
-        d = JSONFile(article_file).read()
+        d = Article.load_d_from_file(article_file)
         return Article.from_dict(d)
+
+    @staticmethod
+    def load_d_from_file(article_file):
+        return JSONFile(article_file).read()
 
     @staticmethod
     def from_dict(d):
@@ -76,10 +80,17 @@ class Article:
                 translate = d['translate']
                 if len(translate.keys()) == 3:
                     text_idx = translate
+                if len(translate.keys()) == 2:
+                    text_idx = translate
+                    origin_body_lines = d['body_lines']
+                    text_idx[original_lang] = dict(
+                        title=original_title,
+                        body_lines=origin_body_lines,
+                    )
 
             if not text_idx:
-                origin_body_lines = d['body_lines']
                 log.warning(f'[{url}] Translating')
+                origin_body_lines = d['body_lines']
                 text_idx = Translate.build_text_idx(
                     original_lang,
                     original_title,
