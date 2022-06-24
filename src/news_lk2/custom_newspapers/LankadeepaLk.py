@@ -24,6 +24,11 @@ class LankadeepaLk(AbstractNewsPaper):
         return article_urls
 
     @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'class': 'post-title'})
+        return h1.text
+
+    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('header', {'class': 'post-content'})
         return list(

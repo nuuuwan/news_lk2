@@ -38,6 +38,11 @@ class DailyNewsLk(AbstractNewsPaper):
         )
 
     @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'class': 'title'})
+        return h1.text
+
+    @classmethod
     def parse_body_lines(cls, soup):
         divs = soup.find_all('div', {'class': 'field-item'})
         body_lines = []

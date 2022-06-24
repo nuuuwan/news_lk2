@@ -31,6 +31,11 @@ class EconomyNextCom(AbstractNewsPaper):
         )
 
     @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'class': 'story-page-header'})
+        return h1.text
+
+    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'story-page-text-main'})
         return list(

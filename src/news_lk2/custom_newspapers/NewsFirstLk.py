@@ -3,6 +3,7 @@ from utils import timex
 from news_lk2.core import AbstractNewsPaper
 
 TIME_RAW_FORMAT = '%d %b, %Y\t| %I:%M %p'
+H1_CLASS = 'text-left w-600 text-foxblue hidden-xs hidden-sm artical-hd-out'
 
 
 class NewsFirstLk(AbstractNewsPaper):
@@ -34,6 +35,11 @@ class NewsFirstLk(AbstractNewsPaper):
             TIME_RAW_FORMAT,
             timex.TIMEZONE_OFFSET_LK,
         )
+
+    @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'class': H1_CLASS})
+        return h1.text
 
     @classmethod
     def parse_body_lines(cls, soup):

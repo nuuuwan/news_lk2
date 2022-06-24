@@ -35,6 +35,11 @@ class IslandLk(AbstractNewsPaper):
         )
 
     @classmethod
+    def parse_title(cls, soup):
+        h1 = soup.find('h1', {'itemprop': 'headline'})
+        return h1.text
+
+    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'id': 'mvp-content-wrap'})
         return list(
