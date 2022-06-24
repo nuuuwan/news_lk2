@@ -10,7 +10,7 @@ DELIM_MD = '\n\n'
 def get_articles(ut_min=None):
     articles = list(
         map(
-            Article.load,
+            Article.from_dict,
             get_article_files(),
         )
     )
