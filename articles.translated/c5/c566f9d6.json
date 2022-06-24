@@ -1,0 +1,1738 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/news/Y-s-Men-Intl-Asia-Pacific-President-Ben-Tsutomu-to-address-YM-Convention-in-Colombo-today/56-736659",
+  "time_ut": 1656096323,
+  "original_lang": "en",
+  "original_title": "Y\u2019s Men Intl. Asia Pacific President Ben Tsutomu to address YM Convention in Colombo today",
+  "text_idx": {
+    "en": {
+      "title": "Y\u2019s Men Intl. Asia Pacific President Ben Tsutomu to address YM Convention in Colombo today",
+      "author": "",
+      "body_lines": [
+        "Y\u2019s Men International movement, the premier movement oriented to serve MCAs and is also renowned for assisting communities across Sri Lanka for over 90 years, will hold its 46th national convention today at the Grand Oriental Hotel, Colombo.",
+        "No less than the Y\u2019s Men International Asia Pacific Area President YM Ohno Ben Tsutomu (of Kobe Port Y\u2019s Men\u2019s Club, Japan West Region) will address this year\u2019s event as the Chief Guest. YM Tsutomu leads the large group of diverse Clubs spread across Asia Pacific Y\u2019s Men Area that includes Sri Lanka, along with the Regions of Australia, Southeast Asia, Japan East and Japan West, Taiwan, and the Philippines.",
+        "At today\u2019s convention in Colombo, the Present Sri Lanka Regional Director Milroy Manuel will conclude his term thus opening the way for incoming 2022/\u201923 Sri Lanka Regional Director YM Anton Kandiah, who held the mantle of the Sri Lanka Regional Director previously on two occasions.",
+        "Renowned compere, TV Presenter, show-biz personality and Sri Lanka Broadcasting Corporation former Director General Dr. Vijaya Corea will deliver the keynote address of the Convention.",
+        "The global Y\u2019s Men movement was one of the earliest global community service movements to be launched and was founded in Toledo, Ohio, USA in 1922. Despite being titled, \u201cY\u2019s Men\u201d, many women too are among its members today and family participation is widely seen in numerous service activities.",
+        "The movement was introduced to Sri Lanka by the Colombo YMCA first General Secretary the late YM R.O. Buell. He launched it in Sri Lanka upon his return to the country after attending an International Y\u2019s Men Convention in Minneapolis, USA. The first Y\u2019s Men\u2019s Club in Sri Lanka began its operations in 1929 in Colombo and was called Y\u2019s Men\u2019s Club of Colombo, which continues to function and grow to this day.",
+        "The milestone event of Chartering the \u201cColombo Club\u201d to be part of International Y\u2019s Men, Geneva, took place in December 1930 with late Sir Oliver Goonetilleka, the former Governor-General of Ceylon, being the Club\u2019s first Charter President. It was also through the Colombo Club that the Y\u2019s Men\u2019s movement was introduced to India.",
+        "Later Sri Lanka became a separate Region of its own in 1975. The first Regional Convention of the newborn \u201cSri Lanka Region\u201d was held in Kandy in September 1976, attended by a large gathering."
+      ],
+      "title_ents": [
+        {
+          "text": "Y\u2019s Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "Asia Pacific",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "YM Convention in Colombo",
+          "label": "ORG"
+        },
+        {
+          "text": "today",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y\u2019s Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "over 90 years",
+            "label": "DATE"
+          },
+          {
+            "text": "46th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "the Grand Oriental Hotel, Colombo",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kobe Port",
+            "label": "FAC"
+          },
+          {
+            "text": "Japan",
+            "label": "GPE"
+          },
+          {
+            "text": "West Region",
+            "label": "GPE"
+          },
+          {
+            "text": "year",
+            "label": "DATE"
+          },
+          {
+            "text": "the Chief Guest",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Asia Pacific Y\u2019s Men Area",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Southeast Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "Japan East",
+            "label": "LOC"
+          },
+          {
+            "text": "Japan West",
+            "label": "GPE"
+          },
+          {
+            "text": "Taiwan",
+            "label": "GPE"
+          },
+          {
+            "text": "Philippines",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Milroy Manuel",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/\u201923",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "YM Anton Kandiah",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka Broadcasting Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "Vijaya Corea",
+            "label": "PERSON"
+          },
+          {
+            "text": "Convention",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Toledo",
+            "label": "GPE"
+          },
+          {
+            "text": "Ohio",
+            "label": "GPE"
+          },
+          {
+            "text": "USA",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s Men",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "R.O. Buell",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Minneapolis",
+            "label": "GPE"
+          },
+          {
+            "text": "USA",
+            "label": "GPE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s Men\u2019s Club of Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "this day",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "International Y\u2019s Men",
+            "label": "ORG"
+          },
+          {
+            "text": "Geneva",
+            "label": "GPE"
+          },
+          {
+            "text": "December 1930",
+            "label": "DATE"
+          },
+          {
+            "text": "Oliver Goonetilleka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Club",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the Colombo Club",
+            "label": "ORG"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Later Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "Kandy",
+            "label": "PERSON"
+          },
+          {
+            "text": "September 1976",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Y\u2019s Men Intl. \u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0dc1\u0dcf\u0db1\u0dca\u0dad\u0dd2\u0d9a\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db6\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0da7\u0ddd\u0db8\u0dd4 \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd3 YM \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d87\u0db8\u0dad\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba",
+      "author": "",
+      "body_lines": [
+        "\u0dc0\u0dc3\u0dbb 90 \u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0daf \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0d9a\u0dca \u0d8b\u0dc3\u0dd4\u0dbd\u0db1 MCA \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc0\u0db1 Y\u2019s Men International \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc3\u0dd2\u0dba 46 \u0dc0\u0dd0\u0db1\u0dd2 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9 Grand Oriental \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dda.",
+        "Y\u2019s Men International Asia Pacific Area \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 YM Ohno Ben Tsutomu (Japan West Region, Kobe Port Y\u2019s Men\u2019s Club) \u0db8\u0dd9\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad \u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0dcf \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dad\u0db1\u0dd4 \u0d87\u0dad. \u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0, \u0d85\u0d9c\u0dca\u0db1\u0dd2\u0daf\u0dd2\u0d9c \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0, \u0da2\u0db4\u0dcf\u0db1\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dc3\u0dc4 \u0da2\u0db4\u0dcf\u0db1\u0dba \u0db6\u0da7\u0dc4\u0dd2\u0dbb, \u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba \u0dba\u0db1 \u0d9a\u0dbd\u0dcf\u0db4 \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 Asia Pacific Y\u2019s Men Area \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd3 \u0d87\u0dad\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc3\u0db8\u0dcf\u0da2 \u0dc1\u0dcf\u0dbd\u0dcf \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0da7 YM Tsutomu \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dd2\u0dbd\u0dca\u0dbb\u0ddd\u0dba\u0dd2 \u0db8\u0dd0\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0dc3\u0dd2\u0dba \u0db0\u0dd4\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0daf\u0dd9\u0d9a\u0d9a\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db0\u0dd4\u0dbb\u0dba \u0daf\u0dd0\u0dbb\u0dd6 2022/'23 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d87\u0db1\u0dca\u0da7\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf \u0db8\u0dc4\u0dad\u0dcf\u0da7 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dd2 .",
+        "\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0daf\u0dda\u0dc1\u0db1\u0dba \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dd4 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dda \u0dc3\u0dd4\u0db4\u0dca\u200d\u0dbb\u0d9a\u0da7 compere, TV \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dcf, show-biz \u0db4\u0dde\u0dbb\u0dd4\u0dc2\u0dba \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0dc0\u0dd2\u0da2\u0dba \u0d9a\u0ddc\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2.",
+        "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba Y's Men \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0db8\u0dd4\u0dbd\u0dca\u0db8 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf \u0dc3\u0dda\u0dc0\u0dcf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba 1922 \u0daf\u0dd3 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0d94\u0dc4\u0dd2\u0dba\u0ddd \u0dc4\u0dd2 \u0da7\u0ddc\u0dbd\u0dd9\u0da9\u0ddd \u0dc4\u0dd2 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \"Y's Men\" \u0dbd\u0dd9\u0dc3 \u0db1\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dad\u0dca, \u0db6\u0ddc\u0dc4\u0ddd \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0daf \u0d85\u0daf \u0d91\u0dc4\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dc0\u0dd4\u0dbd\u0dda \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0daf \u0dc0\u0dda. \u0db6\u0ddc\u0dc4\u0ddd \u0dc3\u0dda\u0dc0\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca\u0dc0\u0dbd \u0db6\u0dc4\u0dd4\u0dbd\u0dc0 \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dda.",
+        "\u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd4\u0dc0\u0dda \u0d9a\u0ddc\u0dc5\u0db9 YMCA \u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0daf\u0dd2\u0dc0\u0d82\u0d9c\u0dad YM R.O \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2. \u0db6\u0dd4\u0dc0\u0dd9\u0dbd\u0dca. \u0d94\u0dc4\u0dd4 \u0d91\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dc5\u0dda \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0db8\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y\u2019s Men \u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0d86\u0db4\u0dc3\u0dd4 \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0db4\u0dc3\u0dd4\u0dc0\u0dba. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dc3\u0db8\u0dcf\u0da2\u0dba 1929 \u0daf\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0dc3\u0dd2\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d85\u0daf \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 Y\u2019s Men\u2019s Club of Colombo \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd0\u0db3\u0dd2\u0db1\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y's Men, Geneva \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0dca \u0dc0\u0dd3\u0db8\u0da7 \"Colombo Club\" \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba 1930 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0dd6\u0dba\u0dda, \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd6 \u0daf\u0dd2\u0dc0\u0d82\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dad\u0dca \u0d94\u0dbd\u0dd2\u0dc0\u0dbb\u0dca \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f\u0dba. Y\u2019s Men\u2019s \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0daf Colombo Club \u0dc4\u0dbb\u0dc4\u0dcf\u0dba.",
+        "\u0db4\u0dc3\u0dd4\u0dc0 1975 \u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0db8 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd2\u0dba. \u0d85\u0dbd\u0dd4\u0dad \u0d8b\u0db4\u0db1\u0dca \u201c\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda\u201d \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 1976 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2 \u0dc0\u0dd6\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "Y\u2019s Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d85\u0daf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y\u2019s Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 90 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "46 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0d94\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0da7\u0dbd\u0dca \u0dc4\u0ddd\u0da7\u0dbd\u0dba, \u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddd\u0db6\u0dda \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0dad\u0ddc\u0db8\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca Y's \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0db4\u0dca\u0dbb\u0daf\u0dda\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0db1\u0dd2\u0d9a\u0ddc\u0db1\u0daf\u0dd2\u0d9c \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dca\u0dbb\u0ddd\u0dba\u0dd2 \u0db8\u0dd0\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/'23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca \u0d87\u0db1\u0dca\u0da7\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dba \u0d9a\u0ddc\u0dbb\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0dbd\u0dd2\u0da9\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d94\u0dc4\u0dd2\u0dba\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0d91\u0da2",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y \u0d9c\u0dda \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "R.O. \u0db6\u0dd4\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0d91\u0da2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dc3\u0db8\u0dcf\u0da2\u0dba \u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf \u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "1930 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d94\u0dbd\u0dd2\u0dc0\u0dbb\u0dca \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0db8\u0dcf\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "1976 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "Y's Men Intl. \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd YM \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bc1\u0baa\u0bbf\u0b95\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0baa\u0bc6\u0ba9\u0bcd \u0b9a\u0bc1\u0b9f\u0bcb\u0bae\u0bc1 \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "",
+      "body_lines": [
+        "90 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bae\u0bc2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb3\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd, MCA \u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 Y\u2019s Men International \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd 46\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 Grand Oriental Hotel \u0b87\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "Y's Men \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd YM Ohno Ben Tsutomu (\u0b95\u0bcb\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd Y's Men's Club, Japan West Region) \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd. \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe, \u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe, \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1, \u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd Y's Men \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 YM Tsutomu \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb0\u0bcb\u0baf\u0bcd \u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd 2022/'23 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bb5\u0bc8.\u0b8e\u0bae\u0bcd. \u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0b9f\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd. .",
+        "\u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0b9a\u0bc8\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0bbf\u0bb8\u0bcd \u0b86\u0bb3\u0bc1\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b92\u0bb2\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0bb5\u0bbf\u0b9c\u0baf \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0bb0\u0bc8\u0baf\u0bc8 \u0b86\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b92\u0baf\u0bcd\u0bb8\u0bcd \u0bae\u0bc6\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b95\u0bbe\u0bb2 \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 1922 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b93\u0bb9\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9f\u0bcb\u0bb2\u0bbf\u0b9f\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \"\u0b92\u0baf\u0bcd'\u0bb8\u0bcd \u0bae\u0bc6\u0ba9\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bb2 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0baa\u0bb2 \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b92\u0baf\u0bcd\u0b8e\u0bae\u0bcd\u0b9a\u0bbf\u0b8f \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b92\u0baf\u0bcd\u0b8e\u0bae\u0bcd \u0b86\u0bb0\u0bcd \u0b93 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0baa\u0bc1\u0baf\u0bb2\u0bcd. \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0ba9\u0bbf\u0baf\u0bbe\u0baa\u0bcb\u0bb2\u0bbf\u0bb8\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0baf\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b85\u0ba4\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd Y's Men's Club 1929 \u0b87\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Y's Men's Club of Colombo \u0b8e\u0ba9 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b85\u0ba4\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a Y's Men \u0b87\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \"\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd\" \u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1, 1930 \u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b95\u0bb5\u0bb0\u0bcd\u0ba9\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b9a\u0bb0\u0bcd \u0b92\u0bb2\u0bbf\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95, \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. Y\u2019s Men\u2019s \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bbe\u0ba9\u0bcd.",
+        "\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd 1975 \u0b87\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0ba4\u0bc1. \u0baa\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u201c\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u201d \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1 1976 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb0\u0bbe\u0bb3\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "Y's Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8.\u0b8e\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y's Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "90 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "46\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b93\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0baa\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bae\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0b9f\u0bcb\u0bae\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b92\u0baf\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0bb2\u0bcd\u0bb0\u0bbe\u0baf\u0bcd \u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/'23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b92\u0baf\u0bcd.\u0b8e\u0bae\u0bcd.\u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b92\u0bb2\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0bbe \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0bb2\u0bbf\u0b9f\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b93\u0bb9\u0bbf\u0baf\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y's \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd.\u0b93. \u0baa\u0bc1\u0baf\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0ba9\u0bbf\u0baf\u0bbe\u0baa\u0bcb\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y's Men's Club of Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0baf\u0bcd'\u0bb8\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1930",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb2\u0bbf\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1976",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  },
+  "title": "Y\u2019s Men Intl. Asia Pacific President Ben Tsutomu to address YM Convention in Colombo today",
+  "body_lines": [
+    "Y\u2019s Men International movement, the premier movement oriented to serve MCAs and is also renowned for assisting communities across Sri Lanka for over 90 years, will hold its 46th national convention today at the Grand Oriental Hotel, Colombo.",
+    "No less than the Y\u2019s Men International Asia Pacific Area President YM Ohno Ben Tsutomu (of Kobe Port Y\u2019s Men\u2019s Club, Japan West Region) will address this year\u2019s event as the Chief Guest. YM Tsutomu leads the large group of diverse Clubs spread across Asia Pacific Y\u2019s Men Area that includes Sri Lanka, along with the Regions of Australia, Southeast Asia, Japan East and Japan West, Taiwan, and the Philippines.",
+    "At today\u2019s convention in Colombo, the Present Sri Lanka Regional Director Milroy Manuel will conclude his term thus opening the way for incoming 2022/\u201923 Sri Lanka Regional Director YM Anton Kandiah, who held the mantle of the Sri Lanka Regional Director previously on two occasions.",
+    "Renowned compere, TV Presenter, show-biz personality and Sri Lanka Broadcasting Corporation former Director General Dr. Vijaya Corea will deliver the keynote address of the Convention.",
+    "The global Y\u2019s Men movement was one of the earliest global community service movements to be launched and was founded in Toledo, Ohio, USA in 1922. Despite being titled, \u201cY\u2019s Men\u201d, many women too are among its members today and family participation is widely seen in numerous service activities.",
+    "The movement was introduced to Sri Lanka by the Colombo YMCA first General Secretary the late YM R.O. Buell. He launched it in Sri Lanka upon his return to the country after attending an International Y\u2019s Men Convention in Minneapolis, USA. The first Y\u2019s Men\u2019s Club in Sri Lanka began its operations in 1929 in Colombo and was called Y\u2019s Men\u2019s Club of Colombo, which continues to function and grow to this day.",
+    "The milestone event of Chartering the \u201cColombo Club\u201d to be part of International Y\u2019s Men, Geneva, took place in December 1930 with late Sir Oliver Goonetilleka, the former Governor-General of Ceylon, being the Club\u2019s first Charter President. It was also through the Colombo Club that the Y\u2019s Men\u2019s movement was introduced to India.",
+    "Later Sri Lanka became a separate Region of its own in 1975. The first Regional Convention of the newborn \u201cSri Lanka Region\u201d was held in Kandy in September 1976, attended by a large gathering."
+  ],
+  "translate": {
+    "en": {
+      "title": "Y\u2019s Men Intl. Asia Pacific President Ben Tsutomu to address YM Convention in Colombo today",
+      "author": "",
+      "body_lines": [
+        "Y\u2019s Men International movement, the premier movement oriented to serve MCAs and is also renowned for assisting communities across Sri Lanka for over 90 years, will hold its 46th national convention today at the Grand Oriental Hotel, Colombo.",
+        "No less than the Y\u2019s Men International Asia Pacific Area President YM Ohno Ben Tsutomu (of Kobe Port Y\u2019s Men\u2019s Club, Japan West Region) will address this year\u2019s event as the Chief Guest. YM Tsutomu leads the large group of diverse Clubs spread across Asia Pacific Y\u2019s Men Area that includes Sri Lanka, along with the Regions of Australia, Southeast Asia, Japan East and Japan West, Taiwan, and the Philippines.",
+        "At today\u2019s convention in Colombo, the Present Sri Lanka Regional Director Milroy Manuel will conclude his term thus opening the way for incoming 2022/\u201923 Sri Lanka Regional Director YM Anton Kandiah, who held the mantle of the Sri Lanka Regional Director previously on two occasions.",
+        "Renowned compere, TV Presenter, show-biz personality and Sri Lanka Broadcasting Corporation former Director General Dr. Vijaya Corea will deliver the keynote address of the Convention.",
+        "The global Y\u2019s Men movement was one of the earliest global community service movements to be launched and was founded in Toledo, Ohio, USA in 1922. Despite being titled, \u201cY\u2019s Men\u201d, many women too are among its members today and family participation is widely seen in numerous service activities.",
+        "The movement was introduced to Sri Lanka by the Colombo YMCA first General Secretary the late YM R.O. Buell. He launched it in Sri Lanka upon his return to the country after attending an International Y\u2019s Men Convention in Minneapolis, USA. The first Y\u2019s Men\u2019s Club in Sri Lanka began its operations in 1929 in Colombo and was called Y\u2019s Men\u2019s Club of Colombo, which continues to function and grow to this day.",
+        "The milestone event of Chartering the \u201cColombo Club\u201d to be part of International Y\u2019s Men, Geneva, took place in December 1930 with late Sir Oliver Goonetilleka, the former Governor-General of Ceylon, being the Club\u2019s first Charter President. It was also through the Colombo Club that the Y\u2019s Men\u2019s movement was introduced to India.",
+        "Later Sri Lanka became a separate Region of its own in 1975. The first Regional Convention of the newborn \u201cSri Lanka Region\u201d was held in Kandy in September 1976, attended by a large gathering."
+      ],
+      "title_ents": [
+        {
+          "text": "Y\u2019s Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "Asia Pacific",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "YM Convention in Colombo",
+          "label": "ORG"
+        },
+        {
+          "text": "today",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y\u2019s Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "over 90 years",
+            "label": "DATE"
+          },
+          {
+            "text": "46th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "the Grand Oriental Hotel, Colombo",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kobe Port",
+            "label": "FAC"
+          },
+          {
+            "text": "Japan",
+            "label": "GPE"
+          },
+          {
+            "text": "West Region",
+            "label": "GPE"
+          },
+          {
+            "text": "year",
+            "label": "DATE"
+          },
+          {
+            "text": "the Chief Guest",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Asia Pacific Y\u2019s Men Area",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Southeast Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "Japan East",
+            "label": "LOC"
+          },
+          {
+            "text": "Japan West",
+            "label": "GPE"
+          },
+          {
+            "text": "Taiwan",
+            "label": "GPE"
+          },
+          {
+            "text": "Philippines",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Milroy Manuel",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/\u201923",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "YM Anton Kandiah",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka Broadcasting Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "Vijaya Corea",
+            "label": "PERSON"
+          },
+          {
+            "text": "Convention",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Toledo",
+            "label": "GPE"
+          },
+          {
+            "text": "Ohio",
+            "label": "GPE"
+          },
+          {
+            "text": "USA",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s Men",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "R.O. Buell",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Minneapolis",
+            "label": "GPE"
+          },
+          {
+            "text": "USA",
+            "label": "GPE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s Men\u2019s Club of Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "this day",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "International Y\u2019s Men",
+            "label": "ORG"
+          },
+          {
+            "text": "Geneva",
+            "label": "GPE"
+          },
+          {
+            "text": "December 1930",
+            "label": "DATE"
+          },
+          {
+            "text": "Oliver Goonetilleka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Club",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the Colombo Club",
+            "label": "ORG"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Later Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "Kandy",
+            "label": "PERSON"
+          },
+          {
+            "text": "September 1976",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Y\u2019s Men Intl. \u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0dc1\u0dcf\u0db1\u0dca\u0dad\u0dd2\u0d9a\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db6\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0da7\u0ddd\u0db8\u0dd4 \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd3 YM \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d87\u0db8\u0dad\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba",
+      "author": "",
+      "body_lines": [
+        "\u0dc0\u0dc3\u0dbb 90 \u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0daf \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0d9a\u0dca \u0d8b\u0dc3\u0dd4\u0dbd\u0db1 MCA \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc0\u0db1 Y\u2019s Men International \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc3\u0dd2\u0dba 46 \u0dc0\u0dd0\u0db1\u0dd2 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9 Grand Oriental \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dda.",
+        "Y\u2019s Men International Asia Pacific Area \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 YM Ohno Ben Tsutomu (Japan West Region, Kobe Port Y\u2019s Men\u2019s Club) \u0db8\u0dd9\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad \u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0dcf \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dad\u0db1\u0dd4 \u0d87\u0dad. \u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0, \u0d85\u0d9c\u0dca\u0db1\u0dd2\u0daf\u0dd2\u0d9c \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0, \u0da2\u0db4\u0dcf\u0db1\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dc3\u0dc4 \u0da2\u0db4\u0dcf\u0db1\u0dba \u0db6\u0da7\u0dc4\u0dd2\u0dbb, \u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba \u0dba\u0db1 \u0d9a\u0dbd\u0dcf\u0db4 \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 Asia Pacific Y\u2019s Men Area \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd3 \u0d87\u0dad\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc3\u0db8\u0dcf\u0da2 \u0dc1\u0dcf\u0dbd\u0dcf \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0da7 YM Tsutomu \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dd2\u0dbd\u0dca\u0dbb\u0ddd\u0dba\u0dd2 \u0db8\u0dd0\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0dc3\u0dd2\u0dba \u0db0\u0dd4\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0daf\u0dd9\u0d9a\u0d9a\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db0\u0dd4\u0dbb\u0dba \u0daf\u0dd0\u0dbb\u0dd6 2022/'23 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d87\u0db1\u0dca\u0da7\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf \u0db8\u0dc4\u0dad\u0dcf\u0da7 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dd2 .",
+        "\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0daf\u0dda\u0dc1\u0db1\u0dba \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dd4 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dda \u0dc3\u0dd4\u0db4\u0dca\u200d\u0dbb\u0d9a\u0da7 compere, TV \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dcf, show-biz \u0db4\u0dde\u0dbb\u0dd4\u0dc2\u0dba \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0dc0\u0dd2\u0da2\u0dba \u0d9a\u0ddc\u0dbb\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2.",
+        "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba Y's Men \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0db8\u0dd4\u0dbd\u0dca\u0db8 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf \u0dc3\u0dda\u0dc0\u0dcf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba 1922 \u0daf\u0dd3 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0d94\u0dc4\u0dd2\u0dba\u0ddd \u0dc4\u0dd2 \u0da7\u0ddc\u0dbd\u0dd9\u0da9\u0ddd \u0dc4\u0dd2 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \"Y's Men\" \u0dbd\u0dd9\u0dc3 \u0db1\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dad\u0dca, \u0db6\u0ddc\u0dc4\u0ddd \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0daf \u0d85\u0daf \u0d91\u0dc4\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dc0\u0dd4\u0dbd\u0dda \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0daf \u0dc0\u0dda. \u0db6\u0ddc\u0dc4\u0ddd \u0dc3\u0dda\u0dc0\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca\u0dc0\u0dbd \u0db6\u0dc4\u0dd4\u0dbd\u0dc0 \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dda.",
+        "\u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd4\u0dc0\u0dda \u0d9a\u0ddc\u0dc5\u0db9 YMCA \u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0daf\u0dd2\u0dc0\u0d82\u0d9c\u0dad YM R.O \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2. \u0db6\u0dd4\u0dc0\u0dd9\u0dbd\u0dca. \u0d94\u0dc4\u0dd4 \u0d91\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dc5\u0dda \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0db8\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y\u2019s Men \u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0d86\u0db4\u0dc3\u0dd4 \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0db4\u0dc3\u0dd4\u0dc0\u0dba. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dc3\u0db8\u0dcf\u0da2\u0dba 1929 \u0daf\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0dc3\u0dd2\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d85\u0daf \u0daf\u0d9a\u0dca\u0dc0\u0dcf\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 Y\u2019s Men\u2019s Club of Colombo \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd0\u0db3\u0dd2\u0db1\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y's Men, Geneva \u0dc4\u0dd2 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0dca \u0dc0\u0dd3\u0db8\u0da7 \"Colombo Club\" \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba 1930 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0dd6\u0dba\u0dda, \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd6 \u0daf\u0dd2\u0dc0\u0d82\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dad\u0dca \u0d94\u0dbd\u0dd2\u0dc0\u0dbb\u0dca \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f\u0dba. Y\u2019s Men\u2019s \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0daf Colombo Club \u0dc4\u0dbb\u0dc4\u0dcf\u0dba.",
+        "\u0db4\u0dc3\u0dd4\u0dc0 1975 \u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0db8 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd2\u0dba. \u0d85\u0dbd\u0dd4\u0dad \u0d8b\u0db4\u0db1\u0dca \u201c\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda\u201d \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 1976 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb\u0daf\u0dd3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2 \u0dc0\u0dd6\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "Y\u2019s Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d85\u0daf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y\u2019s Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 90 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "46 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0d94\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0da7\u0dbd\u0dca \u0dc4\u0ddd\u0da7\u0dbd\u0dba, \u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddd\u0db6\u0dda \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd4\u0dad\u0ddc\u0db8\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca Y's \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0db4\u0dca\u0dbb\u0daf\u0dda\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0db1\u0dd2\u0d9a\u0ddc\u0db1\u0daf\u0dd2\u0d9c \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dca\u0dbb\u0ddd\u0dba\u0dd2 \u0db8\u0dd0\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/'23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dd2.\u0d91\u0db8\u0dca \u0d87\u0db1\u0dca\u0da7\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dba \u0d9a\u0ddc\u0dbb\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0dbd\u0dd2\u0da9\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d94\u0dc4\u0dd2\u0dba\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0d91\u0da2",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y \u0d9c\u0dda \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "R.O. \u0db6\u0dd4\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0d91\u0da2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dc3\u0db8\u0dcf\u0da2\u0dba \u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf \u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb Y\u2019s \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd2\u0db1\u0dd3\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "1930 \u0daf\u0dd9\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d94\u0dbd\u0dd2\u0dc0\u0dbb\u0dca \u0d9c\u0dd4\u0dab\u0dad\u0dd2\u0dbd\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dcf\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0db8\u0dcf\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "1976 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "Y's Men Intl. \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd YM \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bc1\u0baa\u0bbf\u0b95\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0baa\u0bc6\u0ba9\u0bcd \u0b9a\u0bc1\u0b9f\u0bcb\u0bae\u0bc1 \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "",
+      "body_lines": [
+        "90 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bae\u0bc2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb3\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd, MCA \u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 Y\u2019s Men International \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd 46\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 Grand Oriental Hotel \u0b87\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "Y's Men \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd YM Ohno Ben Tsutomu (\u0b95\u0bcb\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd Y's Men's Club, Japan West Region) \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd. \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe, \u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe, \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1, \u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd Y's Men \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 YM Tsutomu \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bbf\u0bb2\u0bcd\u0bb0\u0bcb\u0baf\u0bcd \u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd 2022/'23 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bb5\u0bc8.\u0b8e\u0bae\u0bcd. \u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0b9f\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd. .",
+        "\u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b87\u0b9a\u0bc8\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0bbf\u0bb8\u0bcd \u0b86\u0bb3\u0bc1\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b92\u0bb2\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0bb5\u0bbf\u0b9c\u0baf \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0bb0\u0bc8\u0baf\u0bc8 \u0b86\u0bb1\u0bcd\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b92\u0baf\u0bcd\u0bb8\u0bcd \u0bae\u0bc6\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b95\u0bbe\u0bb2 \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 1922 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b93\u0bb9\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9f\u0bcb\u0bb2\u0bbf\u0b9f\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \"\u0b92\u0baf\u0bcd'\u0bb8\u0bcd \u0bae\u0bc6\u0ba9\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bb2 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0baa\u0bb2 \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b92\u0baf\u0bcd\u0b8e\u0bae\u0bcd\u0b9a\u0bbf\u0b8f \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b92\u0baf\u0bcd\u0b8e\u0bae\u0bcd \u0b86\u0bb0\u0bcd \u0b93 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0baa\u0bc1\u0baf\u0bb2\u0bcd. \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0ba9\u0bbf\u0baf\u0bbe\u0baa\u0bcb\u0bb2\u0bbf\u0bb8\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0baf\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b85\u0ba4\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd Y's Men's Club 1929 \u0b87\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Y's Men's Club of Colombo \u0b8e\u0ba9 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b85\u0ba4\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a Y's Men \u0b87\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \"\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd\" \u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1, 1930 \u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b95\u0bb5\u0bb0\u0bcd\u0ba9\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b9a\u0bb0\u0bcd \u0b92\u0bb2\u0bbf\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95, \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. Y\u2019s Men\u2019s \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bbe\u0ba9\u0bcd.",
+        "\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd 1975 \u0b87\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0ba4\u0bc1. \u0baa\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u201c\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u201d \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1 1976 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb0\u0bbe\u0bb3\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "Y's Men Intl",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b86\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "Ben Tsutomu",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8.\u0b8e\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Y's Men International",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "90 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "46\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b93\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd \u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "YM Ohno Ben Tsutomu",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0baa\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bae\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0b9f\u0bcb\u0bae\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b92\u0baf\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0bb2\u0bcd\u0bb0\u0bbe\u0baf\u0bcd \u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2022/'23",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b92\u0baf\u0bcd.\u0b8e\u0bae\u0bcd.\u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b92\u0bb2\u0bbf\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0bbe \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bcb\u0bb2\u0bbf\u0b9f\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b93\u0bb9\u0bbf\u0baf\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "1922",
+            "label": "DATE"
+          },
+          {
+            "text": "Y's \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd.\u0b93. \u0baa\u0bc1\u0baf\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0ba9\u0bbf\u0baf\u0bbe\u0baa\u0bcb\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "1929",
+            "label": "DATE"
+          },
+          {
+            "text": "Y's Men's Club of Colombo",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0baf\u0bcd'\u0bb8\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1930",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb2\u0bbf\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0ba3\u0ba4\u0bbf\u0bb2\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb3\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "1975",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1976",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
