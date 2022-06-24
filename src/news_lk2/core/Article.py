@@ -130,7 +130,6 @@ class Article:
             original_lang=self.original_lang,
             original_title=self.original_title,
             text_idx=self.text_idx,
-
             # legacy - eventually delete
             title=self.original_title,
             body_lines=self.text_idx[self.original_lang]['body_lines'],
