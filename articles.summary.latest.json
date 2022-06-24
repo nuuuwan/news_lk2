@@ -1,5 +1,25 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83240/imf-delegation-assures-support-for-sri-lanka-",
+    "time_ut": 1656080100,
+    "original_lang": "en",
+    "original_title": "IMF delegation assures support for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/9e/9ee25442.json",
+    "title": "IMF delegation assures support for Sri Lanka",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/rear-admiral-prasad-kariyapperuma-se-navy-chief/",
+    "time_ut": 1656080040,
+    "original_lang": "en",
+    "original_title": "Rear Admiral Prasad Kariyapperuma \u2013 SE Navy Chief",
+    "file_name": "/tmp/news_lk2/articles/a1/a14d4f9b.json",
+    "title": "Rear Admiral Prasad Kariyapperuma \u2013 SE Navy Chief",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2/1-615346",
     "time_ut": 1656078704,
@@ -7,6 +27,16 @@
     "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/36/3642c921.json",
     "title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dad\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/fitch-downgrades-boc-to-rd/",
+    "time_ut": 1656078180,
+    "original_lang": "en",
+    "original_title": "Fitch downgrades BOC to RD",
+    "file_name": "/tmp/news_lk2/articles/ec/ec801ee5.json",
+    "title": "Fitch downgrades BOC to RD",
     "is_translated": true
   },
   {
@@ -27,6 +57,16 @@
     "original_title": "Sri Lanka\u2019s Dhammika Perera sworn in as Minister of Investment Promotion",
     "file_name": "/tmp/news_lk2/articles/1c/1c81f96e.json",
     "title": "Sri Lanka\u2019s Dhammika Perera sworn in as Minister of Investment Promotion",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/land-for-all-pm-launches-program-to-address-land-issue/",
+    "time_ut": 1656077460,
+    "original_lang": "en",
+    "original_title": "\u2018Land for All\u2019 \u2013 PM launches program to address land issue",
+    "file_name": "/tmp/news_lk2/articles/bd/bda87ddb.json",
+    "title": "\u2018Land for All\u2019 \u2013 PM launches program to address land issue",
     "is_translated": true
   },
   {
@@ -57,6 +97,16 @@
     "original_title": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/6b/6b19d7e3.json",
     "title": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/eu-ambassadors-urge-president-to-send-firm-message-on-future-economic-plans/",
+    "time_ut": 1656076980,
+    "original_lang": "en",
+    "original_title": "EU Ambassadors urge President to send firm message on future economic plans",
+    "file_name": "/tmp/news_lk2/articles/87/878798e7.json",
+    "title": "EU Ambassadors urge President to send firm message on future economic plans",
     "is_translated": true
   },
   {
@@ -947,56 +997,6 @@
     "original_title": "\u0ba8\u0bc0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd\u00a0",
     "file_name": "/tmp/news_lk2/articles/d6/d6b6e8b8.json",
     "title": "\u0ba8\u0bc0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd\u00a0",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0b99\u0bcd\u0b95\u0bae-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299128",
-    "time_ut": 1656058783,
-    "original_lang": "ta",
-    "original_title": "\u0bb2\u0b99\u0bcd\u0b95\u0bae \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ",
-    "file_name": "/tmp/news_lk2/articles/ea/ea8cbe97.json",
-    "title": "\u0bb2\u0b99\u0bcd\u0b95\u0bae \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0ddd\u0dc4\u0dbd\u0dca-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc4\u0dba\u0dd2/11-394791",
-    "time_ut": 1656058467,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0db4\u0dcf\u0dbb \u0dc0\u0dc4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/8f/8fb90969.json",
-    "title": "\u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0db4\u0dcf\u0dbb \u0dc0\u0dc4\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0daf\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/1-615328",
-    "time_ut": 1656058251,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fb/fb6b4a7c.json",
-    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0daf\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/101-615328",
-    "time_ut": 1656058251,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/06/06934c5e.json",
-    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0daf\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SLMA-writes-to-PM-on-tobacco-and-alcohol-taxes/108-239721",
-    "time_ut": 1656058059,
-    "original_lang": "en",
-    "original_title": " SLMA writes to PM on tobacco and alcohol taxes",
-    "file_name": "/tmp/news_lk2/articles/f5/f5262fd3.json",
-    "title": " SLMA writes to PM on tobacco and alcohol taxes",
     "is_translated": true
   }
 ]
