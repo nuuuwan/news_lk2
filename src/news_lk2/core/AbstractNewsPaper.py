@@ -58,6 +58,10 @@ class AbstractNewsPaper(ABC):
         return dt.to_kebab(dt.camel_to_snake(cls.__name__))
 
     @classmethod
+    def get_index_urls(cls):
+        raise NotImplementedError
+
+    @classmethod
     def parse_article_urls(cls, soup):
         raise NotImplementedError
 
@@ -72,8 +76,7 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_title(cls, soup):
-        h1_title = soup.find('h1')
-        return h1_title.text.strip()
+        raise NotImplementedError
 
     @classmethod
     def parse_body_lines(cls, soup):
@@ -104,6 +107,7 @@ class AbstractNewsPaper(ABC):
             log.info(f'{article_file} already exists. Not parsing.')
             return None
 
+        time.sleep(TIME_SCRAPE_WAIT)            
         soup = cls.get_soup(article_url)
         if not soup:
             log.warn(f'{article_url} has invalid HTML. Not parsing.')
@@ -146,7 +150,6 @@ class AbstractNewsPaper(ABC):
         TIME_SCRAPE_WAIT = 1
 
         def func_inner(article_url):
-            time.sleep(TIME_SCRAPE_WAIT)
             try:
                 article = cls.parse_and_store_article(article_url)
             except Exception as e:
