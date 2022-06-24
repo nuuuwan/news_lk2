@@ -119,14 +119,14 @@ class AbstractNewsPaper(ABC):
             return None
         try:
             original_lang = cls.get_original_lang()
-            original_title = cls.parse_title(soup)
+            original_title = cls.parse_title(soup).strip()
             original_body_lines = list(
                 filter(
-                    lambda line: is_valid_line(line),
+                    lambda line: is_valid_line(line).strip(),
                     cls.parse_body_lines(soup),
                 )
             )
-            original_author = cls.parse_author(soup)
+            original_author = cls.parse_author(soup).strip()
 
             text_idx = Translate.build_text_idx(
                 original_lang,
