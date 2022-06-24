@@ -41,7 +41,8 @@ class ColomboTelegraphCom(AbstractNewsPaper):
 
     @classmethod
     def parse_author(cls, soup):
-        raise ""
+        a_author = soup.find('a', {'itemprop': 'author'})
+        return a_author.text.replace('author:', '')
 
     @classmethod
     def parse_body_lines(cls, soup):
