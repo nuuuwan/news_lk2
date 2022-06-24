@@ -1,5 +1,35 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-fuel-queue-death-toll-rises-to-12-latest-victim-19-years-old-96421/",
+    "time_ut": 1656070380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka fuel queue death toll rises to 12; latest victim 19 years old",
+    "file_name": "/tmp/news_lk2/articles/15/151b4f16.json",
+    "title": "Sri Lanka fuel queue death toll rises to 12; latest victim 19 years old",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83237/speaker-endorses-certificate-on-3-bills",
+    "time_ut": 1656070320,
+    "original_lang": "en",
+    "original_title": "Speaker endorses certificate on 3 Bills",
+    "file_name": "/tmp/news_lk2/articles/08/08053494.json",
+    "title": "Speaker endorses certificate on 3 Bills",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130136",
+    "time_ut": 1656070158,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b9f\u0b95\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd\u00a0",
+    "file_name": "/tmp/news_lk2/articles/07/07ce7be2.json",
+    "title": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b9f\u0b95\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd\u00a0",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130128",
     "time_ut": 1656069450,
@@ -670,6 +700,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/luminex-limited-starts-trading-after-raising-rs-250-million-via-ipo-96402/",
+    "time_ut": 1656057600,
+    "original_lang": "en",
+    "original_title": "Luminex Limited starts trading after raising Rs.250 million via IPO",
+    "file_name": "/tmp/news_lk2/articles/fc/fc86dff0.json",
+    "title": "Luminex Limited starts trading after raising Rs.250 million via IPO",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83233/cid-records-statements-from-johnston-over-may-09-violence",
     "time_ut": 1656056400,
@@ -957,46 +997,6 @@
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd0\u0dba\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ae/ae2dafae.json",
     "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd0\u0dba\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stock-index-gains-over-1-6-pct-in-mid-day-96399/",
-    "time_ut": 1656053040,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
-    "file_name": "/tmp/news_lk2/articles/95/95b3ec50.json",
-    "title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/over-8000-dengue-cases-reported-in-june/",
-    "time_ut": 1656052980,
-    "original_lang": "en",
-    "original_title": "Over 8,000 Dengue cases reported in June",
-    "file_name": "/tmp/news_lk2/articles/2b/2bdf8c7f.json",
-    "title": "Over 8,000 Dengue cases reported in June",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7-\u0dc3\u0dd3-\u0dc3\u0dd3-\u0da9\u0dd3-\u0dba\u0dba\u0dd2/11-394788",
-    "time_ut": 1656052941,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc3\u0dd3.\u0dc3\u0dd3.\u0da9\u0dd3 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3b/3bbd6ba2.json",
-    "title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc3\u0dd3.\u0dc3\u0dd3.\u0da9\u0dd3 \u0dba\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83231/johnston-fernando-issued-summons-over-sathosa-case",
-    "time_ut": 1656052740,
-    "original_lang": "en",
-    "original_title": "Johnston Fernando issued summons over Sathosa case",
-    "file_name": "/tmp/news_lk2/articles/5a/5a423686.json",
-    "title": "Johnston Fernando issued summons over Sathosa case",
     "is_translated": true
   }
 ]
