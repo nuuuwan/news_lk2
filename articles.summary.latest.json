@@ -1,6 +1,36 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130124",
+    "time_ut": 1656065783,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 !",
+    "file_name": "/tmp/news_lk2/articles/67/67812ddb.json",
+    "title": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 !",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3-\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd-\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-299131",
+    "time_ut": 1656065416,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 ",
+    "file_name": "/tmp/news_lk2/articles/ca/ca41fde4.json",
+    "title": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 ",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130123",
+    "time_ut": 1656065230,
+    "original_lang": "ta",
+    "original_title": "20 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0ba3\u0bb5\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/da/daf34bc0.json",
+    "title": "20 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0ba3\u0bb5\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130122",
     "time_ut": 1656064724,
     "original_lang": "ta",
@@ -67,6 +97,16 @@
     "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 2 \u0b86\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f \u0b89\u0ba4\u0bb5\u0bbf\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9",
     "file_name": "/tmp/news_lk2/articles/16/16a88b61.json",
     "title": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 2 \u0b86\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f \u0b89\u0ba4\u0bb5\u0bbf\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd/71-299130",
+    "time_ut": 1656063004,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u200b\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd ",
+    "file_name": "/tmp/news_lk2/articles/e5/e54131cd.json",
+    "title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u200b\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd ",
     "is_translated": true
   },
   {
@@ -140,6 +180,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-3\u0d9a-\u0d86\u0db0\u0dcf\u0dbb/11-394793",
+    "time_ut": 1656061632,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3\u0d9a \u0d86\u0db0\u0dcf\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/24/249ff8e5.json",
+    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3\u0d9a \u0d86\u0db0\u0dcf\u0dbb",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/24/fuel-for-health-sector-on-fridays-24/",
     "time_ut": 1656061380,
@@ -147,6 +197,16 @@
     "original_title": "\nFuel for Health Sector on Fridays (24)",
     "file_name": "/tmp/news_lk2/articles/09/097205b4.json",
     "title": "\nFuel for Health Sector on Fridays (24)",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8-\u0dc3\u0dda\u0dc0\u0d9a-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/101-615331",
+    "time_ut": 1656061019,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7f/7fbbf15e.json",
+    "title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0dc3\u0dda\u0dc0\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -166,6 +226,16 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/bb/bbe67d77.json",
+    "title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd1:-\u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf-\u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2/101-615330",
+    "time_ut": 1656060904,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f7/f7b80d81.json",
     "title": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1: \u0dc3\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0d9a\u0db1\u0dca\u0daf \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
     "is_translated": true
   },
@@ -927,76 +997,6 @@
     "original_title": "Welgama released from bribery case",
     "file_name": "/tmp/news_lk2/articles/bb/bbcb696a.json",
     "title": "Welgama released from bribery case",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83228/court-orders-to-release-welgama-from-bribery-case",
-    "time_ut": 1656048540,
-    "original_lang": "en",
-    "original_title": "Court orders to release Welgama from bribery case",
-    "file_name": "/tmp/news_lk2/articles/8a/8ab97643.json",
-    "title": "Court orders to release Welgama from bribery case",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0dad\u0db8-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8-\u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2/11-394786",
-    "time_ut": 1656048316,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0dad\u0db8 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8 \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c4/c42a7e9e.json",
-    "title": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0dad\u0db8 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7\u0db8 \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Great-if-they-all-did-come-down-and-wear-yellow-Finch/108-239715",
-    "time_ut": 1656047626,
-    "original_lang": "en",
-    "original_title": "Great if they all did come down and wear yellow: Finch",
-    "file_name": "/tmp/news_lk2/articles/86/8655474b.json",
-    "title": "Great if they all did come down and wear yellow: Finch",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Great-if-they-all-did-come-down-and-wear-yellow-Finch/342-239715",
-    "time_ut": 1656047626,
-    "original_lang": "en",
-    "original_title": "Great if they all did come down and wear yellow: Finch",
-    "file_name": "/tmp/news_lk2/articles/28/2837be29.json",
-    "title": "Great if they all did come down and wear yellow: Finch",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130089",
-    "time_ut": 1656047159,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 35 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8c/8ced809c.json",
-    "title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 35 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0db4\u0dcf\u0dbb\u0dda/11-394785",
-    "time_ut": 1656046718,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0db4\u0dcf\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/23/238166a8.json",
-    "title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0db4\u0dcf\u0dbb\u0dda",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130087",
-    "time_ut": 1656046629,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 74 \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/ad/ad012ec6.json",
-    "title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 74 \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
     "is_translated": true
   }
 ]
