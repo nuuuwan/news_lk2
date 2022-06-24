@@ -6,7 +6,7 @@ from news_lk2.custom_newspapers import newspaper_class_list
 from news_lk2.workflows import common
 
 DELIM_MD = '\n' * 2
-MAX_ARTICLES_TO_UPLOAD = 40
+MAX_ARTICLES_TO_UPLOAD = 200
 
 
 def main(is_test_mode=False):
