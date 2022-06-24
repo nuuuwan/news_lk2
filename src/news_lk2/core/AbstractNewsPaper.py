@@ -147,7 +147,13 @@ class AbstractNewsPaper(ABC):
 
         def func_inner(article_url):
             time.sleep(TIME_SCRAPE_WAIT)
-            return cls.parse_and_store_article(article_url)
+            try:
+                article = cls.parse_and_store_article(article_url)
+            except Exception as e:
+                log.error(str(e))
+                return None
+
+            return article
 
         article_list_raw = mr.map_parallel(
             func_inner,
