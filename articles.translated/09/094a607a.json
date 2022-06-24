@@ -1,0 +1,499 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/06/24/3000-bakeries-shut-down-in-sri-lanka/",
+  "time_ut": 1656055020,
+  "original_lang": "en",
+  "original_title": "3,000 bakeries shut down in Sri Lanka",
+  "text_idx": {
+    "en": {
+      "title": "3,000 bakeries shut down in Sri Lanka",
+      "body_lines": [
+        "COLOMBO (News 1st); The All Ceylon Bakery Owners Association said that the prices of raw materials used in bakery products have increased by over 300%",
+        "The Chairman of All Ceylon Bakery Owners Association N.K Jayawardana said that the price of a 50kg of wheat flour pack had risen by Rs.1000/- last week and the price of a pack of wheat flour had gone up to Rs. 14,000.",
+        "He also said that nearly 3,000 bakeries have been shut down so far.",
+        "In addition, Jayawardena said that Minister Kanchana Wijesekera was requested to provide immediate solutions to the shortage of diesel and petrol.",
+        "5-year no-pay leave for Public Sector to work in Private Sector?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The All Ceylon Bakery Owners Association",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "over 300%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "All Ceylon Bakery Owners Association N.K Jayawardana",
+            "label": "ORG"
+          },
+          {
+            "text": "50kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Rs.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "nearly 3,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Jayawardena",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kanchana Wijesekera",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "5-year",
+            "label": "DATE"
+          },
+          {
+            "text": "Private Sector",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db6\u0dda\u0d9a\u0dbb\u0dd2 3000\u0d9a\u0dca \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0dba\u0dd2",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0d85\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dbd \u0db8\u0dd2\u0dbd 300% \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d91\u0db1\u0dca.\u0d9a\u0dda \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 50\u0d9a \u0db8\u0dd2\u0dc5\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1000/-\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba \u0db6\u0dc0\u0dad\u0dca \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0db4\u0dd0\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 14,000 \u0d9a\u0dd2.",
+        "\u0db8\u0dda \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0db6\u0dda\u0d9a\u0dbb\u0dd2 3000\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0daf \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd3\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd9\u0db1 \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0\u0daf \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dda \u0dc0\u0dd0\u0da9 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0da7 \u0dc0\u0dc3\u0dbb 5\u0d9a \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0daf?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "300% \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba N.K \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "50kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dbb\u0dd4.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3,000\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 5\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dda",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 3,000 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 300% \u0b87\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 50 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe \u0baa\u0bca\u0ba4\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1000 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe \u0baa\u0bca\u0ba4\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 100 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd.\u0b95\u0bc7 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. 14,000.",
+        "\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 3,000 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bc1\u0bb0\u0bbf\u0baf \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "300%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b8e\u0ba9\u0bcd.\u0b95\u0bc7 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "ORG"
+          },
+          {
+            "text": "50 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bb0\u0bc2.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 3,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "5-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  },
+  "title": "3,000 bakeries shut down in Sri Lanka",
+  "body_lines": [
+    "COLOMBO (News 1st); The All Ceylon Bakery Owners Association said that the prices of raw materials used in bakery products have increased by over 300%",
+    "The Chairman of All Ceylon Bakery Owners Association N.K Jayawardana said that the price of a 50kg of wheat flour pack had risen by Rs.1000/- last week and the price of a pack of wheat flour had gone up to Rs. 14,000.",
+    "He also said that nearly 3,000 bakeries have been shut down so far.",
+    "In addition, Jayawardena said that Minister Kanchana Wijesekera was requested to provide immediate solutions to the shortage of diesel and petrol.",
+    "5-year no-pay leave for Public Sector to work in Private Sector?"
+  ],
+  "translate": {
+    "en": {
+      "title": "3,000 bakeries shut down in Sri Lanka",
+      "body_lines": [
+        "COLOMBO (News 1st); The All Ceylon Bakery Owners Association said that the prices of raw materials used in bakery products have increased by over 300%",
+        "The Chairman of All Ceylon Bakery Owners Association N.K Jayawardana said that the price of a 50kg of wheat flour pack had risen by Rs.1000/- last week and the price of a pack of wheat flour had gone up to Rs. 14,000.",
+        "He also said that nearly 3,000 bakeries have been shut down so far.",
+        "In addition, Jayawardena said that Minister Kanchana Wijesekera was requested to provide immediate solutions to the shortage of diesel and petrol.",
+        "5-year no-pay leave for Public Sector to work in Private Sector?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The All Ceylon Bakery Owners Association",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "over 300%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "All Ceylon Bakery Owners Association N.K Jayawardana",
+            "label": "ORG"
+          },
+          {
+            "text": "50kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Rs.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "nearly 3,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Jayawardena",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kanchana Wijesekera",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "5-year",
+            "label": "DATE"
+          },
+          {
+            "text": "Private Sector",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db6\u0dda\u0d9a\u0dbb\u0dd2 3000\u0d9a\u0dca \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0dba\u0dd2",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0d85\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dbd \u0db8\u0dd2\u0dbd 300% \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d91\u0db1\u0dca.\u0d9a\u0dda \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 50\u0d9a \u0db8\u0dd2\u0dc5\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1000/-\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba \u0db6\u0dc0\u0dad\u0dca \u0dad\u0dd2\u0dbb\u0dd2\u0d9f\u0dd4 \u0db4\u0dd2\u0da7\u0dd2 \u0db4\u0dd0\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 14,000 \u0d9a\u0dd2.",
+        "\u0db8\u0dda \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0db6\u0dda\u0d9a\u0dbb\u0dd2 3000\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0daf \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd3\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd9\u0db1 \u0dbd\u0dd9\u0dc3 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0\u0daf \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dda \u0dc0\u0dd0\u0da9 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0da7 \u0dc0\u0dc3\u0dbb 5\u0d9a \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0daf?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "300% \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba N.K \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "50kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dbb\u0dd4.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3,000\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 5\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dda",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 3,000 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 300% \u0b87\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 50 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe \u0baa\u0bca\u0ba4\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1000 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe \u0baa\u0bca\u0ba4\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 100 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd.\u0b95\u0bc7 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. 14,000.",
+        "\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 3,000 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bc1\u0bb0\u0bbf\u0baf \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1?"
+      ],
+      "title_ents": [
+        {
+          "text": "3,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "300%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b8e\u0ba9\u0bcd.\u0b95\u0bc7 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "ORG"
+          },
+          {
+            "text": "50 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bb0\u0bc2.1000/-",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "14,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 3,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "5-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

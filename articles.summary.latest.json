@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8-\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8/71-299124",
+    "time_ut": 1656055288,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/19/1902d814.json",
+    "title": "\u0b95\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/3000-bakeries-shut-down-in-sri-lanka/",
+    "time_ut": 1656055020,
+    "original_lang": "en",
+    "original_title": "3,000 bakeries shut down in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/09/094a607a.json",
+    "title": "3,000 bakeries shut down in Sri Lanka",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130091",
+    "time_ut": 1656054629,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd : \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bae\u0bc8\u0baf\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0b8e\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1!",
+    "file_name": "/tmp/news_lk2/articles/2b/2bc50277.json",
+    "title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd : \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bae\u0bc8\u0baf\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0b8e\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1!",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/19-year-old-dies-in-accident-near-filling-station/",
+    "time_ut": 1656054060,
+    "original_lang": "en",
+    "original_title": "19-year-old dies in accident near filling station",
+    "file_name": "/tmp/news_lk2/articles/64/64d85eef.json",
+    "title": "19-year-old dies in accident near filling station",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130099",
     "time_ut": 1656053933,
@@ -37,6 +77,26 @@
     "original_title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
     "file_name": "/tmp/news_lk2/articles/95/95b3ec50.json",
     "title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/over-8000-dengue-cases-reported-in-june/",
+    "time_ut": 1656052980,
+    "original_lang": "en",
+    "original_title": "Over 8,000 Dengue cases reported in June",
+    "file_name": "/tmp/news_lk2/articles/2b/2bdf8c7f.json",
+    "title": "Over 8,000 Dengue cases reported in June",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7-\u0dc3\u0dd3-\u0dc3\u0dd3-\u0da9\u0dd3-\u0dba\u0dba\u0dd2/11-394788",
+    "time_ut": 1656052941,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc3\u0dd3.\u0dc3\u0dd3.\u0da9\u0dd3 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3b/3bbd6ba2.json",
+    "title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc3\u0dd3.\u0dc3\u0dd3.\u0da9\u0dd3 \u0dba\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -937,66 +997,6 @@
     "original_title": "President meets envoys of Southeast Asian countries seeking to boost trade, investment",
     "file_name": "/tmp/news_lk2/articles/55/551c8c28.json",
     "title": "President meets envoys of Southeast Asian countries seeking to boost trade, investment",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Govt-issues-circular-to-send-State-workers-for-foreign-employment/56-736574",
-    "time_ut": 1656028426,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/51/514e4d42.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/71-299115",
-    "time_ut": 1656013938,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/81/812fd0a0.json",
-    "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-ranks-low-in-progress-made-onachieving-gender-equality/108-239674",
-    "time_ut": 1656012700,
-    "original_lang": "en",
-    "original_title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
-    "file_name": "/tmp/news_lk2/articles/b7/b7425329.json",
-    "title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-ranks-low-in-progress-made-onachieving-gender-equality/273-239674",
-    "time_ut": 1656012700,
-    "original_lang": "en",
-    "original_title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
-    "file_name": "/tmp/news_lk2/articles/05/05c3701e.json",
-    "title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/273-239671",
-    "time_ut": 1656012410,
-    "original_lang": "en",
-    "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "file_name": "/tmp/news_lk2/articles/ec/ece31327.json",
-    "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/155-239671",
-    "time_ut": 1656012410,
-    "original_lang": "en",
-    "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "file_name": "/tmp/news_lk2/articles/71/715df9dc.json",
-    "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
     "is_translated": true
   }
 ]
