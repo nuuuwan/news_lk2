@@ -14,6 +14,7 @@ class VirakesariLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://www.virakesari.lk/category/local',
+            'https://www.virakesari.lk/category/feature',
         ]
 
     @classmethod

@@ -10,6 +10,7 @@ class EconomyNextCom(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://economynext.com/more-news/',
+            'https://economynext.com/economy/',
         ]
 
     @classmethod

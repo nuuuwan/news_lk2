@@ -10,6 +10,9 @@ class LankadeepaLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://www.lankadeepa.lk/latest_news/1',
+            'https://www.lankadeepa.lk/feature/2',
+            'https://www.lankadeepa.lk/politics/13',
+            'https://www.lankadeepa.lk/editorial/117',
         ]
 
     @classmethod

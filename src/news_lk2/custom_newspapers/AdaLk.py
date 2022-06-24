@@ -10,6 +10,8 @@ class AdaLk(AbstractNewsPaper):
     def get_index_urls(cls):
         return [
             'https://www.ada.lk/latest-news/11',
+            'https://www.ada.lk/technology/5',
+            'https://www.ada.lk/business/7',
         ]
 
     @classmethod
