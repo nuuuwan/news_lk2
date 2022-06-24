@@ -400,6 +400,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/preventing-crooks-from-entering-the-parliament/",
+    "time_ut": 1656084056,
+    "original_lang": "en",
+    "original_title": "Preventing Crooks From Entering The Parliament",
+    "file_name": "/tmp/news_lk2/articles/0f/0fb4c7bb.json",
+    "title": "Preventing Crooks From Entering The Parliament",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/24/two-men-arrested-for-illegal-stockpiling-over-2000l-diesel-recovered/",
     "time_ut": 1656083880,
@@ -986,16 +996,6 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2 \u0daf",
     "file_name": "/tmp/news_lk2/articles/c2/c2400ccc.json",
-    "title": "\u0db8\u0dd0\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2 \u0daf",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0-\u0dba\u0dc5\u0dd2-\u0dc4\u0dd2\u0dc3-\u0d94\u0dc3\u0dc0\u0dba\u0dd2-\u0daf/101-615338",
-    "time_ut": 1656068485,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd0\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2 \u0daf",
-    "file_name": "/tmp/news_lk2/articles/48/48bf6785.json",
     "title": "\u0db8\u0dd0\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2 \u0daf",
     "is_translated": true
   }
