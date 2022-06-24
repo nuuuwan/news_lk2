@@ -37,11 +37,16 @@ class AdaDeranaLk(AbstractNewsPaper):
             timex.TIMEZONE_OFFSET_LK,
         )
 
+
     @classmethod
     def parse_title(cls, soup):
         article = soup.find('article', {'class': "news"})
         h1 = article.find('h1')
         return h1.text
+
+    @classmethod
+    def parse_author(cls, soup):
+        raise ""        
 
     @classmethod
     def parse_body_lines(cls, soup):
