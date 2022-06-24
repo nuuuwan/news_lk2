@@ -1,5 +1,25 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-35-Australia-bound-illegal-migrants-held-in-Panadura/108-239714",
+    "time_ut": 1656046507,
+    "original_lang": "en",
+    "original_title": "Another 35 Australia-bound illegal migrants held in Panadura",
+    "file_name": "/tmp/news_lk2/articles/cc/ccde2827.json",
+    "title": "Another 35 Australia-bound illegal migrants held in Panadura",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95-\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bcd-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-299121",
+    "time_ut": 1656046393,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a7/a777a8f6.json",
+    "title": "\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130082",
     "time_ut": 1656044621,
@@ -7,6 +27,16 @@
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/35/357d0c7b.json",
     "title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83227/navy-apprehend-35-more-people-attempting-to-illegally-migrate",
+    "time_ut": 1656044400,
+    "original_lang": "en",
+    "original_title": "Navy apprehend 35 more people attempting to illegally migrate",
+    "file_name": "/tmp/news_lk2/articles/ec/ec75922d.json",
+    "title": "Navy apprehend 35 more people attempting to illegally migrate",
     "is_translated": true
   },
   {
@@ -21,12 +51,82 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/news-features/Economic-crisis-cannot-be-resolved-overnight/131-239707",
+    "time_ut": 1656043682,
+    "original_lang": "en",
+    "original_title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
+    "file_name": "/tmp/news_lk2/articles/2f/2f75c67a.json",
+    "title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Minister-Amaraweera-please-spare-North-East-forest-land-EDITORIAL/231-239706",
+    "time_ut": 1656043152,
+    "original_lang": "en",
+    "original_title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/fc/fc9525a7.json",
+    "title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Minister-Amaraweera-please-spare-North-East-forest-land-EDITORIAL/172-239706",
+    "time_ut": 1656043152,
+    "original_lang": "en",
+    "original_title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/24/244d3a74.json",
+    "title": "Minister Amaraweera: please spare North-East forest land - EDITORIAL",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/India-Quad-and-BRICS-Shifting-realities-in-Indo-Pacific-region/172-239705",
+    "time_ut": 1656043075,
+    "original_lang": "en",
+    "original_title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
+    "file_name": "/tmp/news_lk2/articles/20/2013924e.json",
+    "title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/India-Quad-and-BRICS-Shifting-realities-in-Indo-Pacific-region/231-239705",
+    "time_ut": 1656043075,
+    "original_lang": "en",
+    "original_title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
+    "file_name": "/tmp/news_lk2/articles/a7/a7e17106.json",
+    "title": "India, Quad and BRICS: Shifting realities in Indo-Pacific region",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Acute-nutritional-issues-malnutrition-situations-among-children-escalate-GMOA/108-239704",
     "time_ut": 1656042602,
     "original_lang": "en",
     "original_title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
     "file_name": "/tmp/news_lk2/articles/98/98bcb731.json",
     "title": "Acute nutritional issues, malnutrition situations among children escalate: GMOA",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7-\u0d9a\u0ddc\u0dc5-\u0db1\u0dd1/1-615306",
+    "time_ut": 1656042515,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/13/13ba4ac4.json",
+    "title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca-\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7-\u0d9a\u0ddc\u0dc5-\u0db1\u0dd1/101-615306",
+    "time_ut": 1656042515,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/ba/baf9cda8.json",
+    "title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db4\u0dd9\u0dc5\u0db4\u0ddc\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0ddc\u0dc5 \u0db1\u0dd1",
     "is_translated": true
   },
   {
@@ -70,6 +170,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0d9a\u0dc4\u0db4\u0dcf\u0da7-\u0d87\u0db3\u0d9c\u0dd9\u0db1-\u0d86\u0dc0\u0ddc\u0dad\u0dca-\u0d92\u0d9a-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8-\u0daf\u0dd9\u0dba\u0d9a\u0dca---\u0dc6\u0dd2\u0db1\u0dca\u0da0\u0dca/9-394781",
+    "time_ut": 1656040671,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dc4\u0db4\u0dcf\u0da7 \u0d87\u0db3\u0d9c\u0dd9\u0db1 \u0d86\u0dc0\u0ddc\u0dad\u0dca \u0d92\u0d9a \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8 \u0daf\u0dd9\u0dba\u0d9a\u0dca - \u0dc6\u0dd2\u0db1\u0dca\u0da0\u0dca",
+    "file_name": "/tmp/news_lk2/articles/75/75c219f1.json",
+    "title": "\u0d9a\u0dc4\u0db4\u0dcf\u0da7 \u0d87\u0db3\u0d9c\u0dd9\u0db1 \u0d86\u0dc0\u0ddc\u0dad\u0dca \u0d92\u0d9a \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8 \u0daf\u0dd9\u0dba\u0d9a\u0dca - \u0dc6\u0dd2\u0db1\u0dca\u0da0\u0dca",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130081",
     "time_ut": 1656040581,
@@ -77,6 +187,16 @@
     "original_title": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/34/340fdf25.json",
     "title": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0-\u0d85\u0daf-\u0d91\u0dba\u0dd2/11-394779",
+    "time_ut": 1656039267,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0 \u0d85\u0daf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/74/7481bb71.json",
+    "title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0 \u0d85\u0daf \u0d91\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -270,6 +390,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Economic-situ-in-SL-should-not-distract-efforts-to-improve-human-rights-UK/108-239687",
+    "time_ut": 1656033046,
+    "original_lang": "en",
+    "original_title": "Economic situ in SL should not distract efforts to improve human rights: UK",
+    "file_name": "/tmp/news_lk2/articles/65/6592233b.json",
+    "title": "Economic situ in SL should not distract efforts to improve human rights: UK",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Glenanore-Estate-establishes-all-time-record-price/34-736595",
     "time_ut": 1656032997,
@@ -307,6 +437,16 @@
     "original_title": "Cargo shipment carrying 40,000 MT of Petrol 92 to arrive today: Minister",
     "file_name": "/tmp/news_lk2/articles/7a/7acc8746.json",
     "title": "Cargo shipment carrying 40,000 MT of Petrol 92 to arrive today: Minister",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Consumption-of-Illicit-liquor-trending-Excise-warns/108-239685",
+    "time_ut": 1656031754,
+    "original_lang": "en",
+    "original_title": "Consumption of Illicit liquor trending: Excise warns",
+    "file_name": "/tmp/news_lk2/articles/5a/5aaa59b3.json",
+    "title": "Consumption of Illicit liquor trending: Excise warns",
     "is_translated": true
   },
   {
@@ -401,6 +541,16 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-ranks-low-in-progress-made-onachieving-gender-equality/108-239674",
+    "time_ut": 1656012700,
+    "original_lang": "en",
+    "original_title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
+    "file_name": "/tmp/news_lk2/articles/b7/b7425329.json",
+    "title": "Sri Lanka ranks low in progress made on\u00a0achieving\u00a0 gender equality",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-ranks-low-in-progress-made-onachieving-gender-equality/273-239674",
     "time_ut": 1656012700,
     "original_lang": "en",
@@ -411,12 +561,42 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/273-239671",
+    "time_ut": 1656012410,
+    "original_lang": "en",
+    "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
+    "file_name": "/tmp/news_lk2/articles/ec/ece31327.json",
+    "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/155-239671",
+    "time_ut": 1656012410,
+    "original_lang": "en",
+    "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
+    "file_name": "/tmp/news_lk2/articles/71/715df9dc.json",
+    "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/108-239671",
     "time_ut": 1656012410,
     "original_lang": "en",
     "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
     "file_name": "/tmp/news_lk2/articles/55/55476cc9.json",
     "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Credit-card-interest-rates-flirt-with-40-as-banks-respond-to-ward-off-pressure-on-asset-quality/108-239670",
+    "time_ut": 1656012326,
+    "original_lang": "en",
+    "original_title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
+    "file_name": "/tmp/news_lk2/articles/a3/a390e413.json",
+    "title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
     "is_translated": true
   },
   {
@@ -816,186 +996,6 @@
     "original_lang": "ta",
     "original_title": null,
     "file_name": "/tmp/news_lk2/articles/f4/f453c374.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0-\u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0b95\u0bcd\u0b95-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/46-299099",
-    "time_ut": 1655999614,
-    "original_lang": "ta",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/3e/3e2929a5.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0-\u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0d9c\u0dad-\u0d9a\u0dc5\u0dcf\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba/101-615293",
-    "time_ut": 1655997048,
-    "original_lang": "si",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/58/589d4adf.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-299087",
-    "time_ut": 1655996992,
-    "original_lang": "ta",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/b7/b737bf6f.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/limited-services-by-consular-affairs-division-tomorrow-24/",
-    "time_ut": 1655996460,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/65/652ca043.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/woman-arrested-for-bribery-attempt/",
-    "time_ut": 1655996400,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/dc/dc235216.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Office-train-stopped-without-water-at-Peralanda-station/342-239657",
-    "time_ut": 1655995924,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/18/188bc620.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Office-train-stopped-without-water-at-Peralanda-station/108-239657",
-    "time_ut": 1655995924,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/47/470b5f92.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/two-gas-shipments-in-early-july-says-litro/",
-    "time_ut": 1655995320,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/06/06b7fbcf.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/ex-ceb-chiefs-testimony-guidelines-accepted-as-directives/",
-    "time_ut": 1655994360,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/26/266877de.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/country-at-risk-of-coming-to-grinding-halt-owing-to-delayed-shipments/",
-    "time_ut": 1655994180,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/23/23e936df.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0ddc\u0d9a\u0dd4\u0db8-\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca-\u0db1\u0da9\u0dd4\u0dc0\u0dda-\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dda/101-615292",
-    "time_ut": 1655993578,
-    "original_lang": "si",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/07/07360779.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130080",
-    "time_ut": 1655993339,
-    "original_lang": "ta",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/9b/9bc57c4c.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/23/power-cuts-scheduled-for-24th-26th-june/",
-    "time_ut": 1655992920,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/fa/faa6b82a.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/aia-continues-societal-support-through-its-digital-vesak-dane-with-a-donation-to-helpage-sri-lanka/",
-    "time_ut": 1655992560,
-    "original_lang": "en",
-    "original_title": "AIA continues societal support through its digital Vesak Dane, with a donation to HelpAge Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/26/26b3dc57.json",
-    "title": "AIA continues societal support through its digital Vesak Dane, with a donation to HelpAge Sri Lanka",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/orient-finance-registers-robust-growth-through-fy-2021-22/",
-    "time_ut": 1655992440,
-    "original_lang": "en",
-    "original_title": "Orient Finance registers robust growth through FY 2021-22",
-    "file_name": "/tmp/news_lk2/articles/dd/ddfad6f5.json",
-    "title": "Orient Finance registers robust growth through FY 2021-22",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dbd\u0dda\u0dc0\u0dd9\u0dbd-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0da7-\u0d86-\u0db8\u0dd0\u0dbb\u0dba\u0db1\u0dca-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0ddd-\u0d91\u0dc5\u0dc0\u0dad\u0dd2/101-615291",
-    "time_ut": 1655992220,
-    "original_lang": "si",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/ab/abe514bc.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0dc0\u0dd3\u0db8-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb-\u0d9c\u0db1\u0dca\u0db1-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/101-615290",
-    "time_ut": 1655992073,
-    "original_lang": "si",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/70/709b1741.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83221/new-zealand-pledges-over-lkr-180-mn-to-help-crisis-hit-sri-lankan-children",
-    "time_ut": 1655991720,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/90/9003db0a.json",
     "title": null,
     "is_translated": true
   }

@@ -1,72 +1,72 @@
 # news_lk2 (upload_data summary)
 
-*Last run 20220624-100725 (LK time)*
+*Last run 20220624-102751 (LK time)*
 
-* 20220624 - 47 articles
+* 20220624 - 65 articles
 
 * 20220623 - 332 articles
 
-* 20220622 - 229 articles
+* 20220622 - 231 articles
 
 * 20220621 - 177 articles
 
-* 20220620 - 164 articles
+* 20220620 - 166 articles
 
 * 20220619 - 101 articles
 
-* 20220618 - 123 articles
+* 20220618 - 124 articles
 
-* 20220617 - 161 articles
+* 20220617 - 164 articles
 
-* 20220616 - 176 articles
+* 20220616 - 178 articles
 
 * 20220615 - 159 articles
 
-* 20220614 - 128 articles
+* 20220614 - 129 articles
 
-* 20220613 - 167 articles
+* 20220613 - 169 articles
 
 * 20220612 - 87 articles
 
-* 20220611 - 92 articles
+* 20220611 - 95 articles
 
-* 20220610 - 159 articles
+* 20220610 - 160 articles
 
 * 20220609 - 174 articles
 
-* 20220608 - 136 articles
+* 20220608 - 138 articles
 
 * 20220607 - 167 articles
 
-* 20220606 - 153 articles
+* 20220606 - 155 articles
 
 * 20220605 - 78 articles
 
-* 20220604 - 103 articles
+* 20220604 - 104 articles
 
-* 20220603 - 166 articles
+* 20220603 - 167 articles
 
 * 20220602 - 175 articles
 
-* 20220601 - 160 articles
+* 20220601 - 162 articles
 
 * 20220531 - 175 articles
 
-* 20220530 - 188 articles
+* 20220530 - 190 articles
 
-* 20220529 - 82 articles
+* 20220529 - 84 articles
 
-* 20220528 - 111 articles
+* 20220528 - 112 articles
 
-* 20220527 - 159 articles
+* 20220527 - 160 articles
 
-* 20220526 - 169 articles
+* 20220526 - 170 articles
 
-* 20220525 - 187 articles
+* 20220525 - 188 articles
 
 * 20220524 - 211 articles
 
-* 20220523 - 165 articles
+* 20220523 - 167 articles
 
 * 20220522 - 80 articles
 
@@ -74,7 +74,7 @@
 
 * 20220520 - 185 articles
 
-* 20220519 - 186 articles
+* 20220519 - 187 articles
 
 * 20220518 - 166 articles
 
@@ -216,7 +216,7 @@
 
 * 20220310 - 129 articles
 
-* 20220309 - 128 articles
+* 20220309 - 130 articles
 
 * 20220308 - 137 articles
 
@@ -336,7 +336,7 @@
 
 * 20210702 - 1 articles
 
-* 20210701 - 1 articles
+* 20210701 - 2 articles
 
 * 20210625 - 2 articles
 
@@ -378,4 +378,4 @@
 
 * 20201227 - 1 articles
 
-* **TOTAL** - 15,657 articles
+* **TOTAL** - 15,714 articles
