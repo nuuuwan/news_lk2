@@ -10,8 +10,9 @@ N_LATEST = 100
 def main(is_test_mode=False):
     log.debug(f'{is_test_mode=}')
     git_checkout(force=not is_test_mode)
-    for newspaper_class in newspaper_class_list:
-        log.debug(f'Scraping {newspaper_class.__name__}...')
+    n  = len(newspaper_class_list)
+    for i, newspaper_class in enumerate(newspaper_class_list):
+        log.debug(f'{i + 1}/{n}) Scraping {newspaper_class.__name__}...')
         newspaper_class.scrape()
 
         if is_test_mode:
