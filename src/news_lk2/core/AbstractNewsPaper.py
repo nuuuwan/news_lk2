@@ -129,7 +129,10 @@ class AbstractNewsPaper(ABC):
                     )),
                 )
             )
-            original_author = cls.parse_author(soup).strip()
+            try:
+                original_author = cls.parse_author(soup).strip()
+            except:
+                original_author = ""    
 
             text_idx = Translate.build_text_idx(
                 original_lang,
