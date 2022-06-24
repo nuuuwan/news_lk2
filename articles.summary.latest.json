@@ -1,5 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83234/sri-lanka-receives-lkr-3-bn-worth-humanitarian-supplies-from-india",
+    "time_ut": 1656059520,
+    "original_lang": "en",
+    "original_title": "Sri Lanka receives LKR 3 Bn worth humanitarian supplies from India",
+    "file_name": "/tmp/news_lk2/articles/73/737d118b.json",
+    "title": "Sri Lanka receives LKR 3 Bn worth humanitarian supplies from India",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130112",
+    "time_ut": 1656058799,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd\u00a0",
+    "file_name": "/tmp/news_lk2/articles/d6/d6b6e8b8.json",
+    "title": "\u0ba8\u0bc0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd\u00a0",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0b99\u0bcd\u0b95\u0bae-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299128",
+    "time_ut": 1656058783,
+    "original_lang": "ta",
+    "original_title": "\u0bb2\u0b99\u0bcd\u0b95\u0bae \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ",
+    "file_name": "/tmp/news_lk2/articles/ea/ea8cbe97.json",
+    "title": "\u0bb2\u0b99\u0bcd\u0b95\u0bae \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb2\u0bcd\u0b95\u0bae \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0daf\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db4\u0d82\u0da0\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/101-615328",
     "time_ut": 1656058251,
@@ -47,6 +77,16 @@
     "original_title": " Court issues summons on Johnston Fernando and two others",
     "file_name": "/tmp/news_lk2/articles/d0/d03c8efd.json",
     "title": " Court issues summons on Johnston Fernando and two others",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d86\u0db0\u0dcf\u0dbb-\u0dad\u0ddc\u0d9c\u0dba-\u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2/101-615326",
+    "time_ut": 1656057719,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f6/f60c61dd.json",
+    "title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
     "is_translated": true
   },
   {
@@ -137,6 +177,16 @@
     "original_title": "\nDaily Exchange Rate from CBSL",
     "file_name": "/tmp/news_lk2/articles/0e/0e08f839.json",
     "title": "\nDaily Exchange Rate from CBSL",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0d9c\u0dd2\u0dba-\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4-\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca/11-394790",
+    "time_ut": 1656055839,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba \u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7a/7a518fcb.json",
+    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba \u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca",
     "is_translated": true
   },
   {
@@ -947,56 +997,6 @@
     "original_title": "BRICS \u0dc4\u0dd2 14 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/6d/6dc8d573.json",
     "title": "BRICS \u0dc4\u0dd2 14 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba-\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0db1-\u0db6\u0dc0-\u0dc3\u0dd2\u0dc4\u0dd2\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-394774",
-    "time_ut": 1656038988,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0db1 \u0db6\u0dc0 \u0dc3\u0dd2\u0dc4\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1d/1d9a7b47.json",
-    "title": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0db1 \u0db6\u0dc0 \u0dc3\u0dd2\u0dc4\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/abans-finance-donates-emergency-medicines-and-equipment-to-national-hospital-of-sri-lanka/",
-    "time_ut": 1656038100,
-    "original_lang": "en",
-    "original_title": "Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/3b/3b8d44a4.json",
-    "title": "Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-demanding-petrol/342-239690",
-    "time_ut": 1656037473,
-    "original_lang": "en",
-    "original_title": "Protest demanding petrol...",
-    "file_name": "/tmp/news_lk2/articles/d7/d71ed647.json",
-    "title": "Protest demanding petrol...",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protest-demanding-petrol/110-239690",
-    "time_ut": 1656037473,
-    "original_lang": "en",
-    "original_title": "Protest demanding petrol...",
-    "file_name": "/tmp/news_lk2/articles/33/33136363.json",
-    "title": "Protest demanding petrol...",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Getting-prepared-to-counter-food-crisis/342-239689",
-    "time_ut": 1656037275,
-    "original_lang": "en",
-    "original_title": "Getting prepared to counter food crisis",
-    "file_name": "/tmp/news_lk2/articles/97/97613514.json",
-    "title": "Getting prepared to counter food crisis",
     "is_translated": true
   }
 ]
