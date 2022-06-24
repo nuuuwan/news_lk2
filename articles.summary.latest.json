@@ -10,6 +10,26 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83228/court-orders-to-release-welgama-from-bribery-case",
+    "time_ut": 1656048540,
+    "original_lang": "en",
+    "original_title": "Court orders to release Welgama from bribery case",
+    "file_name": "/tmp/news_lk2/articles/8a/8ab97643.json",
+    "title": "Court orders to release Welgama from bribery case",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Great-if-they-all-did-come-down-and-wear-yellow-Finch/108-239715",
+    "time_ut": 1656047626,
+    "original_lang": "en",
+    "original_title": "Great if they all did come down and wear yellow: Finch",
+    "file_name": "/tmp/news_lk2/articles/86/8655474b.json",
+    "title": "Great if they all did come down and wear yellow: Finch",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Great-if-they-all-did-come-down-and-wear-yellow-Finch/342-239715",
     "time_ut": 1656047626,
@@ -137,6 +157,16 @@
     "original_title": "Weather: Rains to continue; Thundershowers for Ampara and Batticaloa",
     "file_name": "/tmp/news_lk2/articles/d1/d1c981a7.json",
     "title": "Weather: Rains to continue; Thundershowers for Ampara and Batticaloa",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/plus/Economic-crisis-cannot-be-resolved-overnight/352-239707",
+    "time_ut": 1656043682,
+    "original_lang": "en",
+    "original_title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
+    "file_name": "/tmp/news_lk2/articles/f6/f6546fc4.json",
+    "title": "\u201cEconomic crisis cannot be resolved overnight\u201d",
     "is_translated": true
   },
   {
@@ -966,36 +996,6 @@
     "original_lang": "ta",
     "original_title": null,
     "file_name": "/tmp/news_lk2/articles/c8/c80b7ffe.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130050",
-    "time_ut": 1656006691,
-    "original_lang": "ta",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/09/099c34ff.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4-\u0ba4\u0b9f\u0bc8\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd-\u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd/175-299110",
-    "time_ut": 1656005583,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/6c/6c120756.json",
-    "title": "\u2019\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u2019",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83224/committee-to-study-possibility-of-granting-5-years-leave-to-govt-employees-to-work-in-private-sector",
-    "time_ut": 1656004560,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/01/01634968.json",
     "title": null,
     "is_translated": true
   }
