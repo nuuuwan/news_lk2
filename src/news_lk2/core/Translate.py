@@ -66,11 +66,18 @@ def translate_ents(target_lang, ents):
     return translated_ents
 
 
-def build_text_idx(source_lang, original_title, original_body_lines):
+def build_text_idx(
+    source_lang,
+    original_title,
+    original_body_lines,
+    original_author,
+):
     text_idx = {}
     for target_lang in LANG_LIST:
+
         text_idx[target_lang] = dict(
             title=translate(source_lang, target_lang, original_title),
+            author=translate(source_lang, target_lang, original_author),
             body_lines=list(
                 map(
                     lambda line: translate(source_lang, target_lang, line),
@@ -105,17 +112,3 @@ def build_text_idx(source_lang, original_title, original_body_lines):
         )
 
     return text_idx
-
-
-if __name__ == '__main__':
-    text_idx = build_text_idx(
-        ENTS_LANG,
-        'Apple is going to buy Sri Lanka.',
-        [
-            'Colombo is going to Tom.',
-            'Dick wants Galle.',
-            'And who do you think wants Jaffna?',
-        ],
-    )
-    for ent in text_idx['si']['title_ents']:
-        print(ent['text'])
