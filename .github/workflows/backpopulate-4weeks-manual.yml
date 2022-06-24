@@ -28,7 +28,7 @@ jobs:
     - name: Run - Backpopulate
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/news_lk2/workflows/backpopulate.py --time-window=2419200
+        python src/news_lk2/workflows/backpopulate.py --time_window=2419200
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
