@@ -43,9 +43,10 @@ def get_article_file(url, dir_prefix=''):
     return os.path.join(dir_article_shard, file_name_only)
 
 
-def git_checkout():
+def git_checkout(force=True):
+    log.debug(f'[git_checkout] {force=}')
     git = Git(GIT_REPO_URL)
-    git.clone(DIR_REPO, force=True)
+    git.clone(DIR_REPO, force=force)
     git.checkout('data')
     log.debug(f'Cloned {GIT_REPO_URL} [data] to {DIR_REPO}')
 
