@@ -1,0 +1,2804 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83232/european-union-grants-candidate-status-to-ukraine-and-moldova",
+  "time_ut": 1656055260,
+  "original_lang": "en",
+  "original_title": "European Union grants candidate status to Ukraine and Moldova",
+  "text_idx": {
+    "en": {
+      "title": "European Union grants candidate status to Ukraine and Moldova",
+      "body_lines": [
+        "Leaders of the European Union on Thursday decided to make Ukraine and Moldova official candidates for membership of the bloc.",
+        "European Council President Charles Michel made the announcement after discussions among leaders of the EU\u2019s 27 member states.",
+        "The EU has been largely united in backing Ukraine since Russia invaded on February 24, adopting unprecedented economic sanctions against Moscow. Just four days after Russia launched its war, Ukraine applied to become a member of the EU.",
+        "Member states were initially divided on how quickly the bloc should accept Ukraine as a member, with the Netherlands, Sweden and Denmark among the most skeptical.",
+        "But Ukraine\u2019s bid got a boost last week when the European Commission gave its endorsement based on Kyiv\u2019s answers to a questionnaire.",
+        "Ukrainian President Volodymyr Zelenskyy welcomed the decision, calling it \u201ca unique and historic moment\u201d in relations with the 27-nation bloc.",
+        "Moldovan President Maia Sandu tweeted that the decision was a \u201cstrong signal of support for Moldova and our citizens.\u201d",
+        "German Chancellor Olaf Scholz tweeted his congratulations to the two countries.",
+        "\u201cThe European Council welcomes two new candidate countries to join the EU,\u201d said Scholz. \u201cHere\u2019s to good cooperation in the European family.\u201d",
+        "European Commission President Ursula von der Leyen said she was convinced that Ukraine and Moldova would move as swiftly as possible to implement necessary reforms.",
+        "\u201cI am deeply convinced that our decision that we have taken today strengthens us all,\u201d she said.",
+        "European Council President Charles Michel tweeted that it had been a \u201chistoric moment.\u201d",
+        "Today marks a crucial step on your path towards the EU,\u201d he told both countries.",
+        "Estonia\u2019s Prime Minister Kaja Kallas told DW the European Union had a window of opportunity to convince Ukraine and Moldova to implement reforms required for European Union accession.",
+        "\u201cIf you lose this opportunity window because you don\u2019t give hope, then Ukraine and Moldova do not do the reforms that also we need. Getting rid of corruption, also being a rule of law country,\u201d she said.",
+        "\u201cToday the EU is sending a message of solidarity to the people of Ukraine that you belong to the European family, that you belong to the EU... and you will get candidate status,\u201d Irish Prime Minister Micheal Martin said as he arrived at the summit.",
+        "Earlier on Thursday, the European Parliament voted in favor of granting Ukraine and Moldova EU candidate status.",
+        "European Parliament President Roberta Metsola said the vote had been \u201cunequivocal.\u201d",
+        "\u201cThis will show leadership, resolve and vision in context of Russia\u2019s war against Ukraine,\u201d she tweeted.",
+        "EU leaders debated Thursday a recommendation from the European Commission to grant Moldova, a country that borders Ukraine, candidate status.",
+        "Meanwhile, leaders failed to break a deadlock over a stalled membership bids from North Macedonia and Albania.",
+        "The two countries were given candidate status in 2005 and 2014 respectively, and Dimitar Kovacevski, North Macedonia\u2019s prime minister, responded to the lack of progress. \u201cWhat has happened is a serious blow to the credibility (of) the European Union,\u201d Kovacevski told a news conference following the summit.",
+        "\u201cFor almost 20 years, the countries and the citizens of the Western Balkans have been waiting for the opportunity to become members of the European Union,\u201d Scholz said ahead of the summit in Brussels.",
+        "Scholz mentioned that North Macedonia had even changed its name to further its aspirations of joining the European Union."
+      ],
+      "title_ents": [
+        {
+          "text": "European Union",
+          "label": "ORG"
+        },
+        {
+          "text": "Ukraine",
+          "label": "GPE"
+        },
+        {
+          "text": "Moldova",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Charles Michel",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "February 24",
+            "label": "DATE"
+          },
+          {
+            "text": "Moscow",
+            "label": "GPE"
+          },
+          {
+            "text": "Just four days",
+            "label": "DATE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Netherlands",
+            "label": "GPE"
+          },
+          {
+            "text": "Sweden",
+            "label": "GPE"
+          },
+          {
+            "text": "Denmark",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "ORG"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Kyiv",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukrainian",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Maia Sandu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "German",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "The European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Ursula von",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leyen",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Charles Michel",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Estonia",
+            "label": "GPE"
+          },
+          {
+            "text": "Kaja Kallas",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "GPE"
+          },
+          {
+            "text": "European Union",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Today",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Irish",
+            "label": "NORP"
+          },
+          {
+            "text": "Micheal Martin",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "European Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "Roberta Metsola",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "North Macedonia",
+            "label": "LOC"
+          },
+          {
+            "text": "Albania",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "Dimitar Kovacevski",
+            "label": "ORG"
+          },
+          {
+            "text": "North Macedonia\u2019s",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Kovacevski",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "almost 20 years",
+            "label": "DATE"
+          },
+          {
+            "text": "the Western Balkans",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Brussels",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "North Macedonia",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "body_lines": [
+        "\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0d9a\u0dca\u200d\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dd2\u0dbd \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dc5\u0dc4.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca 27 \u0d9a \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dda \u0db6\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 24 \u0daf\u0dcf \u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dbb \u0db1\u0ddc\u0dc0\u0dd6 \u0dc0\u0dd2\u0dbb\u0dd6 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0db8\u0dca\u0db6\u0dcf\u0db0\u0d9a \u0db4\u0db1\u0dc0\u0db1 \u0dbd\u0daf \u0d86\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0db4\u0dd2\u0da7\u0dd4\u0db6\u0dbd\u0dba \u0daf\u0dd3\u0db8\u0dda \u0daf\u0dd3 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0db6\u0ddc\u0dc4\u0ddd \u0daf\u0dd4\u0dbb\u0da7 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd3 \u0d87\u0dad. \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dd2\u0dba \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba, \u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba \u0dc3\u0dc4 \u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0dc3\u0dd0\u0d9a \u0dc3\u0dc4\u0dd2\u0dad \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0d85\u0dad\u0dbb \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0d9a\u0dd9\u0dad\u0dbb\u0db8\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dd4\u0daf \u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca \u0db6\u0dd9\u0daf\u0dd3 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0db1\u0db8\u0dd4\u0dad\u0dca \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda \u0dbd\u0d82\u0dc3\u0dd4\u0dc0 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7 \u0d9a\u0dd2\u0dba\u0dd9\u0dc0\u0dca\u0d9c\u0dda \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8 \u0dc3\u0dd2\u0dba \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0d89\u0dc4\u0dc5 \u0db1\u0dd0\u0d82\u0dc0\u0dd3\u0dba.",
+        "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 Volodymyr Zelenskyy \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0d91\u0dba \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca 27 \u0d9a \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dc3\u0db8\u0d9f \u0dc3\u0db6\u0db3\u0dad\u0dcf\u0dc0\u0dbd \"\u0d85\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dd3\u0dba \u0dc4\u0dcf \u0d93\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca\" \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd0\u0db3\u0dd2\u0db1\u0dca\u0dc0\u0dda.",
+        "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 Maia Sandu \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u201c\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dc3\u0dc4 \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0db6\u0dbd \u0dc3\u0d82\u0da5\u0dcf\u0dc0\u0d9a\u0dca\u201d \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dbd\u0dbb\u0dca \u0d94\u0dbd\u0dcf\u0dc6\u0dca \u0dc2\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0daf\u0dd9\u0dbb\u0da7\u0da7 \u0dc3\u0dd2\u0dba \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\"\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba \u0db1\u0dc0 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0db6\u0dd0\u0db3\u0dd3\u0db8\u0da7 \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3,\" \u0dc2\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. \"\u0db8\u0dd9\u0db1\u0dca\u0db1 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dc0\u0dd4\u0dbd \u0dad\u0dd4\u0dc5 \u0dc4\u0ddc\u0db3 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca.\"",
+        "\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0db1\u0dd0\u0d82\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dc4\u0dd0\u0d9a\u0dd2 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0 \u0dad\u0db8\u0dcf\u0da7 \u0d92\u0dad\u0dca\u0dad\u0dd4 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0da9\u0dbb\u0dca \u0dbd\u0dda\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\"\u0d85\u0daf \u0d85\u0db4 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0db4\u0d9c\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d85\u0db4 \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db8 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0db8\u0da7 \u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba\u0dd2,\" \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0d91\u0dba \"\u0d93\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca\" \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d85\u0daf \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0d9a\u0dbb\u0dcf \u0dba\u0db1 \u0d9c\u0db8\u0db1\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dd2\u0dba\u0dc0\u0dbb\u0d9a\u0dca \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2,\u201d \u0d94\u0dc4\u0dd4 \u0daf\u0dd9\u0dbb\u0da7\u0da7\u0db8 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 Kaja Kalas DW \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d87\u0dad\u0dd4\u0dbd\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d92\u0dad\u0dca\u0dad\u0dd4 \u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u201c\u0d94\u0db6 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0db1\u0ddc\u0daf\u0dd9\u0db1 \u0db1\u0dd2\u0dc3\u0dcf \u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0d9a\u0dc0\u0dd4\u0dc5\u0dd4\u0dc0 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca, \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0d85\u0db4\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0dc3\u0dd2\u0daf\u0dd4 \u0db1\u0ddc\u0d9a\u0dbb\u0dba\u0dd2. \u0daf\u0dd6\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0daf\u0dd3\u0db8\u0dad\u0dca, \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0dda \u0d86\u0db0\u0dd2\u0db4\u0dad\u0dca\u200d\u0dba\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dbb\u0da7\u0d9a\u0dca \u0dc0\u0dd3\u0db8\u0dad\u0dca,\" \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\"\u0d85\u0daf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0\u0dba\u0dda \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9\u0dba\u0d9a\u0dca \u0dba\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dc0\u0dd4\u0dbd\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca, \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca... \u0d91\u0dc0\u0dd2\u0da7 \u0d94\u0db6\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0dd0\u0db6\u0dd9\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca,\" \u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca \u0d94\u0dc4\u0dd4 \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0dc0\u0dd2\u0da7 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. \u0dc3\u0db8\u0dd4\u0dbd\u0dd4\u0dc0.",
+        "\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dd4\u0dbd\u0daf\u0dd3, \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0da1\u0db1\u0dca\u0daf\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dbb\u0ddc\u0db6\u0dbb\u0dca\u0da7\u0dcf \u0db8\u0dd9\u0da7\u0dca\u0dc3\u0ddd\u0dbd\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0da1\u0db1\u0dca\u0daf\u0dba \u201c\u0db1\u0dd2\u0dc3\u0dd0\u0d9a\u201d \u0dc0\u0dd6 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u201c\u0db8\u0dd9\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dda \u0dc3\u0db1\u0dca\u0daf\u0dbb\u0dca\u0db7\u0dba \u0dad\u0dd4\u0dc5 \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba, \u0d85\u0db0\u0dd2\u0dc2\u0dca\u0da8\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0daf\u0dd0\u0d9a\u0dca\u0db8 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dd4 \u0d87\u0dad,\u201d \u0d87\u0dba \u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dc5\u0dcf\u0dba.",
+        "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0db8\u0dcf\u0dba\u0dd2\u0db8\u0dca\u0dc0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0dbb\u0da7\u0d9a\u0dca \u0dc0\u0db1 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d9c\u0dad\u0dca\u0dc4.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d87\u0db1\u0dc4\u0dd2\u0da7 \u0d87\u0dad\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0 \u0dbd\u0d82\u0dc3\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dba\u0d9a\u0dca \u0db6\u0dd2\u0db3 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d85\u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "2005 \u0dc3\u0dc4 2014 \u0daf\u0dd3 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0daf\u0dd9\u0d9a\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0da9\u0dd2\u0db8\u0dd2\u0da7\u0dcf\u0dbb\u0dca \u0d9a\u0ddc\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da0\u0dcf\u0dbb \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0dba. \"\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0dad\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda () \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc3\u0db1\u0dd3\u0dba\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0db4\u0dc4\u0dbb\u0d9a\u0dca\" \u0dba\u0dba\u0dd2 \u0dc3\u0db8\u0dd4\u0dbd\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0daf\u0dd3 \u0d9a\u0ddc\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0dc0\u0dc3\u0dbb 20 \u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca, \u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db6\u0ddd\u0dbd\u0dca\u0d9a\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc3\u0dc4 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0d91\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0ddd\u0dba,\" \u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca\u0dc4\u0dd2 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7 \u0db4\u0dd9\u0dbb Scholz \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0db6\u0dd0\u0db3\u0dd3\u0db8\u0dda \u0d85\u0db7\u0dd2\u0dbd\u0dcf\u0dc2\u0dba\u0db1\u0dca \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dc4\u0dd2 \u0db1\u0db8 \u0db4\u0dc0\u0dcf \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 Scholz \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0db1\u0dd4 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dd2\u0dc2\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dc0\u0dd2\u0dad\u0dbb\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dba\u0dd9\u0dc0\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dba\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dda\u0dba\u0db1\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dd2\u0dc2\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0da2\u0dcf \u0d9a\u0dbd\u0dca\u0dbd\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0db1\u0dd4 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0db6\u0dbb\u0dca\u0da7\u0dcf \u0db8\u0dd9\u0da7\u0dca\u0dc3\u0ddd\u0dbd\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0db8\u0dd2\u0da7\u0dbb\u0dca \u0d9a\u0ddd\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "Kovacevski",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dc3\u0dbb 20 \u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db6\u0ddd\u0dbd\u0dca\u0d9a\u0db1\u0dca",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "body_lines": [
+        "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 27 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1, \u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 24 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1, \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1, \u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc8 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0baf\u0bc7\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b89\u0b95\u0bcd\u0bb0\u0bc7\u0ba9\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bcb\u0bb2\u0bcb\u0b9f\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0b9c\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc8 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, 27 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b89\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \"\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0b9a\u0bae\u0bbf\u0b95\u0bcd\u0b9e\u0bc8\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbf\u0baf\u0bbe \u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb7\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb7\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bb2\u0bcd\u0bb2 \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.\"",
+        "\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcb \u0b85\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0b95\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd Ursula von der Leyen \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0ba8\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b86\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0ba9\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \"\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0baa\u0b9f\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b95\u0bbe\u0b9c\u0bbe \u0b95\u0bb2\u0bcd\u0bb2\u0bbe\u0bb8\u0bcd DW \u0b87\u0b9f\u0bae\u0bcd, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b9a\u0bae\u0bbe\u0ba4\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\"\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bbe\u0bb3\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd, \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0ba4\u0bc1. \u0b8a\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1, \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0ba8\u0bbe\u0b9f\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd... \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1.",
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bc1, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bae\u0bc6\u0b9f\u0bcd\u0b9a\u0bcb\u0bb2\u0bbe, \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \"\u0b90\u0baf\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba4\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8, \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bc8 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0baa\u0bc7\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb8\u0bcd\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 \u0b89\u0b9f\u0bc8\u0b95\u0bcd\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb5\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 2005 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2014 \u0b87\u0bb2\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9f\u0bbf\u0bae\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd () \u0ba8\u0bae\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0b89\u0b9a\u0bcd\u0b9a\u0bbf\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 20 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95, \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bcd\u0b95\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0b89\u0b9a\u0bcd\u0b9a\u0bbf\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0bb7\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba4\u0ba9\u0bcd \u0b85\u0baa\u0bbf\u0bb2\u0bbe\u0bb7\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8 \u0b95\u0bc2\u0b9f \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0bb7\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bc7\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc0\u0bb5\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc8\u0baf\u0bbe \u0b9a\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc7\u0baf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9c\u0bbe \u0b95\u0bb2\u0bcd\u0bb2\u0bbe\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bae\u0bc6\u0b9f\u0bcd\u0b9a\u0bcb\u0bb2\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bcd\u0baa\u0bc7\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bae\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 20 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bcd\u0b95\u0ba9\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  },
+  "title": "European Union grants candidate status to Ukraine and Moldova",
+  "body_lines": [
+    "Leaders of the European Union on Thursday decided to make Ukraine and Moldova official candidates for membership of the bloc.",
+    "European Council President Charles Michel made the announcement after discussions among leaders of the EU\u2019s 27 member states.",
+    "The EU has been largely united in backing Ukraine since Russia invaded on February 24, adopting unprecedented economic sanctions against Moscow. Just four days after Russia launched its war, Ukraine applied to become a member of the EU.",
+    "Member states were initially divided on how quickly the bloc should accept Ukraine as a member, with the Netherlands, Sweden and Denmark among the most skeptical.",
+    "But Ukraine\u2019s bid got a boost last week when the European Commission gave its endorsement based on Kyiv\u2019s answers to a questionnaire.",
+    "Ukrainian President Volodymyr Zelenskyy welcomed the decision, calling it \u201ca unique and historic moment\u201d in relations with the 27-nation bloc.",
+    "Moldovan President Maia Sandu tweeted that the decision was a \u201cstrong signal of support for Moldova and our citizens.\u201d",
+    "German Chancellor Olaf Scholz tweeted his congratulations to the two countries.",
+    "\u201cThe European Council welcomes two new candidate countries to join the EU,\u201d said Scholz. \u201cHere\u2019s to good cooperation in the European family.\u201d",
+    "European Commission President Ursula von der Leyen said she was convinced that Ukraine and Moldova would move as swiftly as possible to implement necessary reforms.",
+    "\u201cI am deeply convinced that our decision that we have taken today strengthens us all,\u201d she said.",
+    "European Council President Charles Michel tweeted that it had been a \u201chistoric moment.\u201d",
+    "Today marks a crucial step on your path towards the EU,\u201d he told both countries.",
+    "Estonia\u2019s Prime Minister Kaja Kallas told DW the European Union had a window of opportunity to convince Ukraine and Moldova to implement reforms required for European Union accession.",
+    "\u201cIf you lose this opportunity window because you don\u2019t give hope, then Ukraine and Moldova do not do the reforms that also we need. Getting rid of corruption, also being a rule of law country,\u201d she said.",
+    "\u201cToday the EU is sending a message of solidarity to the people of Ukraine that you belong to the European family, that you belong to the EU... and you will get candidate status,\u201d Irish Prime Minister Micheal Martin said as he arrived at the summit.",
+    "Earlier on Thursday, the European Parliament voted in favor of granting Ukraine and Moldova EU candidate status.",
+    "European Parliament President Roberta Metsola said the vote had been \u201cunequivocal.\u201d",
+    "\u201cThis will show leadership, resolve and vision in context of Russia\u2019s war against Ukraine,\u201d she tweeted.",
+    "EU leaders debated Thursday a recommendation from the European Commission to grant Moldova, a country that borders Ukraine, candidate status.",
+    "Meanwhile, leaders failed to break a deadlock over a stalled membership bids from North Macedonia and Albania.",
+    "The two countries were given candidate status in 2005 and 2014 respectively, and Dimitar Kovacevski, North Macedonia\u2019s prime minister, responded to the lack of progress. \u201cWhat has happened is a serious blow to the credibility (of) the European Union,\u201d Kovacevski told a news conference following the summit.",
+    "\u201cFor almost 20 years, the countries and the citizens of the Western Balkans have been waiting for the opportunity to become members of the European Union,\u201d Scholz said ahead of the summit in Brussels.",
+    "Scholz mentioned that North Macedonia had even changed its name to further its aspirations of joining the European Union."
+  ],
+  "translate": {
+    "en": {
+      "title": "European Union grants candidate status to Ukraine and Moldova",
+      "body_lines": [
+        "Leaders of the European Union on Thursday decided to make Ukraine and Moldova official candidates for membership of the bloc.",
+        "European Council President Charles Michel made the announcement after discussions among leaders of the EU\u2019s 27 member states.",
+        "The EU has been largely united in backing Ukraine since Russia invaded on February 24, adopting unprecedented economic sanctions against Moscow. Just four days after Russia launched its war, Ukraine applied to become a member of the EU.",
+        "Member states were initially divided on how quickly the bloc should accept Ukraine as a member, with the Netherlands, Sweden and Denmark among the most skeptical.",
+        "But Ukraine\u2019s bid got a boost last week when the European Commission gave its endorsement based on Kyiv\u2019s answers to a questionnaire.",
+        "Ukrainian President Volodymyr Zelenskyy welcomed the decision, calling it \u201ca unique and historic moment\u201d in relations with the 27-nation bloc.",
+        "Moldovan President Maia Sandu tweeted that the decision was a \u201cstrong signal of support for Moldova and our citizens.\u201d",
+        "German Chancellor Olaf Scholz tweeted his congratulations to the two countries.",
+        "\u201cThe European Council welcomes two new candidate countries to join the EU,\u201d said Scholz. \u201cHere\u2019s to good cooperation in the European family.\u201d",
+        "European Commission President Ursula von der Leyen said she was convinced that Ukraine and Moldova would move as swiftly as possible to implement necessary reforms.",
+        "\u201cI am deeply convinced that our decision that we have taken today strengthens us all,\u201d she said.",
+        "European Council President Charles Michel tweeted that it had been a \u201chistoric moment.\u201d",
+        "Today marks a crucial step on your path towards the EU,\u201d he told both countries.",
+        "Estonia\u2019s Prime Minister Kaja Kallas told DW the European Union had a window of opportunity to convince Ukraine and Moldova to implement reforms required for European Union accession.",
+        "\u201cIf you lose this opportunity window because you don\u2019t give hope, then Ukraine and Moldova do not do the reforms that also we need. Getting rid of corruption, also being a rule of law country,\u201d she said.",
+        "\u201cToday the EU is sending a message of solidarity to the people of Ukraine that you belong to the European family, that you belong to the EU... and you will get candidate status,\u201d Irish Prime Minister Micheal Martin said as he arrived at the summit.",
+        "Earlier on Thursday, the European Parliament voted in favor of granting Ukraine and Moldova EU candidate status.",
+        "European Parliament President Roberta Metsola said the vote had been \u201cunequivocal.\u201d",
+        "\u201cThis will show leadership, resolve and vision in context of Russia\u2019s war against Ukraine,\u201d she tweeted.",
+        "EU leaders debated Thursday a recommendation from the European Commission to grant Moldova, a country that borders Ukraine, candidate status.",
+        "Meanwhile, leaders failed to break a deadlock over a stalled membership bids from North Macedonia and Albania.",
+        "The two countries were given candidate status in 2005 and 2014 respectively, and Dimitar Kovacevski, North Macedonia\u2019s prime minister, responded to the lack of progress. \u201cWhat has happened is a serious blow to the credibility (of) the European Union,\u201d Kovacevski told a news conference following the summit.",
+        "\u201cFor almost 20 years, the countries and the citizens of the Western Balkans have been waiting for the opportunity to become members of the European Union,\u201d Scholz said ahead of the summit in Brussels.",
+        "Scholz mentioned that North Macedonia had even changed its name to further its aspirations of joining the European Union."
+      ],
+      "title_ents": [
+        {
+          "text": "European Union",
+          "label": "ORG"
+        },
+        {
+          "text": "Ukraine",
+          "label": "GPE"
+        },
+        {
+          "text": "Moldova",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Charles Michel",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "February 24",
+            "label": "DATE"
+          },
+          {
+            "text": "Moscow",
+            "label": "GPE"
+          },
+          {
+            "text": "Just four days",
+            "label": "DATE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Netherlands",
+            "label": "GPE"
+          },
+          {
+            "text": "Sweden",
+            "label": "GPE"
+          },
+          {
+            "text": "Denmark",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "ORG"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Kyiv",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukrainian",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Maia Sandu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "German",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "The European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Ursula von",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leyen",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Charles Michel",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Estonia",
+            "label": "GPE"
+          },
+          {
+            "text": "Kaja Kallas",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "GPE"
+          },
+          {
+            "text": "European Union",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Today",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Irish",
+            "label": "NORP"
+          },
+          {
+            "text": "Micheal Martin",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "European Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "Roberta Metsola",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "the European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Moldova",
+            "label": "ORG"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "North Macedonia",
+            "label": "LOC"
+          },
+          {
+            "text": "Albania",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "Dimitar Kovacevski",
+            "label": "ORG"
+          },
+          {
+            "text": "North Macedonia\u2019s",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Kovacevski",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "almost 20 years",
+            "label": "DATE"
+          },
+          {
+            "text": "the Western Balkans",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          },
+          {
+            "text": "Brussels",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "North Macedonia",
+            "label": "LOC"
+          },
+          {
+            "text": "the European Union",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "body_lines": [
+        "\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0d9a\u0dca\u200d\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dd2\u0dbd \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dc5\u0dc4.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca 27 \u0d9a \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca \u0d85\u0dad\u0dbb \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dda \u0db6\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 24 \u0daf\u0dcf \u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dbb \u0db1\u0ddc\u0dc0\u0dd6 \u0dc0\u0dd2\u0dbb\u0dd6 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0db8\u0dca\u0db6\u0dcf\u0db0\u0d9a \u0db4\u0db1\u0dc0\u0db1 \u0dbd\u0daf \u0d86\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0db4\u0dd2\u0da7\u0dd4\u0db6\u0dbd\u0dba \u0daf\u0dd3\u0db8\u0dda \u0daf\u0dd3 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0db6\u0ddc\u0dc4\u0ddd \u0daf\u0dd4\u0dbb\u0da7 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd3 \u0d87\u0dad. \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dd2\u0dba \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba, \u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba \u0dc3\u0dc4 \u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0dc3\u0dd0\u0d9a \u0dc3\u0dc4\u0dd2\u0dad \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0d85\u0dad\u0dbb \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0d9a\u0dd9\u0dad\u0dbb\u0db8\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dd4\u0daf \u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca \u0db6\u0dd9\u0daf\u0dd3 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0db1\u0db8\u0dd4\u0dad\u0dca \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda \u0dbd\u0d82\u0dc3\u0dd4\u0dc0 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7 \u0d9a\u0dd2\u0dba\u0dd9\u0dc0\u0dca\u0d9c\u0dda \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8 \u0dc3\u0dd2\u0dba \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0d89\u0dc4\u0dc5 \u0db1\u0dd0\u0d82\u0dc0\u0dd3\u0dba.",
+        "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 Volodymyr Zelenskyy \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0d91\u0dba \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca 27 \u0d9a \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dc3\u0db8\u0d9f \u0dc3\u0db6\u0db3\u0dad\u0dcf\u0dc0\u0dbd \"\u0d85\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dd3\u0dba \u0dc4\u0dcf \u0d93\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca\" \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd0\u0db3\u0dd2\u0db1\u0dca\u0dc0\u0dda.",
+        "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 Maia Sandu \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u201c\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dc3\u0dc4 \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0db6\u0dbd \u0dc3\u0d82\u0da5\u0dcf\u0dc0\u0d9a\u0dca\u201d \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dbd\u0dbb\u0dca \u0d94\u0dbd\u0dcf\u0dc6\u0dca \u0dc2\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0daf\u0dd9\u0dbb\u0da7\u0da7 \u0dc3\u0dd2\u0dba \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\"\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba \u0db1\u0dc0 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0db6\u0dd0\u0db3\u0dd3\u0db8\u0da7 \u0dc3\u0dcf\u0daf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3,\" \u0dc2\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. \"\u0db8\u0dd9\u0db1\u0dca\u0db1 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dc0\u0dd4\u0dbd \u0dad\u0dd4\u0dc5 \u0dc4\u0ddc\u0db3 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca.\"",
+        "\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0db1\u0dd0\u0d82\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dc4\u0dd0\u0d9a\u0dd2 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0 \u0dad\u0db8\u0dcf\u0da7 \u0d92\u0dad\u0dca\u0dad\u0dd4 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0da9\u0dbb\u0dca \u0dbd\u0dda\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\"\u0d85\u0daf \u0d85\u0db4 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0db4\u0d9c\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d85\u0db4 \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db8 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0db8\u0da7 \u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba\u0dd2,\" \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0d91\u0dba \"\u0d93\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dd2\u0d9a \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca\" \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d85\u0daf \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0d9a\u0dbb\u0dcf \u0dba\u0db1 \u0d9c\u0db8\u0db1\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dd2\u0dba\u0dc0\u0dbb\u0d9a\u0dca \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2,\u201d \u0d94\u0dc4\u0dd4 \u0daf\u0dd9\u0dbb\u0da7\u0da7\u0db8 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 Kaja Kalas DW \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d87\u0dad\u0dd4\u0dbd\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d92\u0dad\u0dca\u0dad\u0dd4 \u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u201c\u0d94\u0db6 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0db1\u0ddc\u0daf\u0dd9\u0db1 \u0db1\u0dd2\u0dc3\u0dcf \u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0d9a\u0dc0\u0dd4\u0dc5\u0dd4\u0dc0 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca, \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0d85\u0db4\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0dc3\u0dd2\u0daf\u0dd4 \u0db1\u0ddc\u0d9a\u0dbb\u0dba\u0dd2. \u0daf\u0dd6\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0daf\u0dd3\u0db8\u0dad\u0dca, \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0dda \u0d86\u0db0\u0dd2\u0db4\u0dad\u0dca\u200d\u0dba\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dbb\u0da7\u0d9a\u0dca \u0dc0\u0dd3\u0db8\u0dad\u0dca,\" \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\"\u0d85\u0daf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd3\u0dad\u0dcf\u0dc0\u0dba\u0dda \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9\u0dba\u0d9a\u0dca \u0dba\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dc0\u0dd4\u0dbd\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca, \u0d94\u0db6 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca... \u0d91\u0dc0\u0dd2\u0da7 \u0d94\u0db6\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0dd0\u0db6\u0dd9\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca,\" \u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca \u0d94\u0dc4\u0dd4 \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0dc0\u0dd2\u0da7 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. \u0dc3\u0db8\u0dd4\u0dbd\u0dd4\u0dc0.",
+        "\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0db8\u0dd4\u0dbd\u0daf\u0dd3, \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba \u0dc3\u0dc4 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0da1\u0db1\u0dca\u0daf\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dbb\u0ddc\u0db6\u0dbb\u0dca\u0da7\u0dcf \u0db8\u0dd9\u0da7\u0dca\u0dc3\u0ddd\u0dbd\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0da1\u0db1\u0dca\u0daf\u0dba \u201c\u0db1\u0dd2\u0dc3\u0dd0\u0d9a\u201d \u0dc0\u0dd6 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u201c\u0db8\u0dd9\u0dba \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dda \u0dc3\u0db1\u0dca\u0daf\u0dbb\u0dca\u0db7\u0dba \u0dad\u0dd4\u0dc5 \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba, \u0d85\u0db0\u0dd2\u0dc2\u0dca\u0da8\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0daf\u0dd0\u0d9a\u0dca\u0db8 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dd4 \u0d87\u0dad,\u201d \u0d87\u0dba \u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dc5\u0dcf\u0dba.",
+        "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0db8\u0dcf\u0dba\u0dd2\u0db8\u0dca\u0dc0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0dbb\u0da7\u0d9a\u0dca \u0dc0\u0db1 \u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0dc0\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dca \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d9c\u0dad\u0dca\u0dc4.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d87\u0db1\u0dc4\u0dd2\u0da7 \u0d87\u0dad\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dad\u0dca\u0dc0 \u0dbd\u0d82\u0dc3\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dba\u0d9a\u0dca \u0db6\u0dd2\u0db3 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d85\u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0dba.",
+        "2005 \u0dc3\u0dc4 2014 \u0daf\u0dd3 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0daf\u0dd9\u0d9a\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0da9\u0dd2\u0db8\u0dd2\u0da7\u0dcf\u0dbb\u0dca \u0d9a\u0ddc\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da0\u0dcf\u0dbb \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0dba. \"\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0dad\u0dda \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda () \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc3\u0db1\u0dd3\u0dba\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0db4\u0dc4\u0dbb\u0d9a\u0dca\" \u0dba\u0dba\u0dd2 \u0dc3\u0db8\u0dd4\u0dbd\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0d9a\u0daf\u0dd3 \u0d9a\u0ddc\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0dc0\u0dc3\u0dbb 20 \u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca, \u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db6\u0ddd\u0dbd\u0dca\u0d9a\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc3\u0dc4 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0d91\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0ddd\u0dba,\" \u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca\u0dc4\u0dd2 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7 \u0db4\u0dd9\u0dbb Scholz \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0db6\u0dd0\u0db3\u0dd3\u0db8\u0dda \u0d85\u0db7\u0dd2\u0dbd\u0dcf\u0dc2\u0dba\u0db1\u0dca \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dc4\u0dd2 \u0db1\u0db8 \u0db4\u0dc0\u0dcf \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 Scholz \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0db1\u0dd4 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dd2\u0dc2\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dc0\u0dd2\u0dad\u0dbb\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da9\u0dd9\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dba\u0dd9\u0dc0\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dba\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dda\u0dba\u0db1\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dd2\u0dc2\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0da2\u0dcf \u0d9a\u0dbd\u0dca\u0dbd\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0db1\u0dd4 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0db6\u0dbb\u0dca\u0da7\u0dcf \u0db8\u0dd9\u0da7\u0dca\u0dc3\u0ddd\u0dbd\u0dcf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd2\u0db8\u0dd2\u0da7\u0dbb\u0dca \u0d9a\u0ddd\u0dc0\u0dcf\u0dc3\u0dd9\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "Kovacevski",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dc3\u0dbb 20 \u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db6\u0ddd\u0dbd\u0dca\u0d9a\u0db1\u0dca",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Scholz",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "body_lines": [
+        "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 27 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1, \u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 24 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1, \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1, \u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc8 \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0baf\u0bc7\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b89\u0b95\u0bcd\u0bb0\u0bc7\u0ba9\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bcb\u0bb2\u0bcb\u0b9f\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0b9c\u0bc6\u0bb2\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc8 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, 27 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b89\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \"\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0b9a\u0bae\u0bbf\u0b95\u0bcd\u0b9e\u0bc8\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbf\u0baf\u0bbe \u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb7\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb7\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bb2\u0bcd\u0bb2 \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.\"",
+        "\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcb \u0b85\u0bb5\u0bcd\u0bb5\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0b95\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd Ursula von der Leyen \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0ba8\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b86\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0ba9\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \"\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0baa\u0b9f\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b95\u0bbe\u0b9c\u0bbe \u0b95\u0bb2\u0bcd\u0bb2\u0bbe\u0bb8\u0bcd DW \u0b87\u0b9f\u0bae\u0bcd, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc8 \u0b9a\u0bae\u0bbe\u0ba4\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\"\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bbe\u0bb3\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd, \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0ba4\u0bc1. \u0b8a\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1, \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0ba8\u0bbe\u0b9f\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd... \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1.",
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bc1, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bae\u0bc6\u0b9f\u0bcd\u0b9a\u0bcb\u0bb2\u0bbe, \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \"\u0b90\u0baf\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba4\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8, \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bc8 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0baa\u0bc7\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb8\u0bcd\u0ba4\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 \u0b89\u0b9f\u0bc8\u0b95\u0bcd\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb5\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 2005 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2014 \u0b87\u0bb2\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0bb8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9f\u0bbf\u0bae\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \"\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd () \u0ba8\u0bae\u0bcd\u0baa\u0b95\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf \u0b89\u0b9a\u0bcd\u0b9a\u0bbf\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 20 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95, \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bcd\u0b95\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0b89\u0b9a\u0bcd\u0b9a\u0bbf\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95 \u0bb7\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba4\u0ba9\u0bcd \u0b85\u0baa\u0bbf\u0bb2\u0bbe\u0bb7\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8 \u0b95\u0bc2\u0b9f \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0bb7\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 24",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bc7\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb5\u0bc0\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc0\u0bb5\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "Volodymyr Zelenskyy",
+            "label": "FAC"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc8\u0baf\u0bbe \u0b9a\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc7\u0baf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9c\u0bbe \u0b95\u0bb2\u0bcd\u0bb2\u0bbe\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "DW \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bae\u0bc6\u0b9f\u0bcd\u0b9a\u0bcb\u0bb2\u0bbe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bcd\u0baa\u0bc7\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2005",
+            "label": "DATE"
+          },
+          {
+            "text": "2014",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bae\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0bb5\u0b9a\u0bc6\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bbf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 20 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bcd\u0b95\u0ba9\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
