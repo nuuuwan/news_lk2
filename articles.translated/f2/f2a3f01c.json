@@ -1,0 +1,1934 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Samsung-introduces-Big-Offer-Days-for-Galaxy-accessories/34-736665",
+  "time_ut": 1656097289,
+  "original_lang": "en",
+  "original_title": "Samsung introduces \u2018Big Offer Days\u2019 for Galaxy accessories",
+  "text_idx": {
+    "en": {
+      "title": "Samsung introduces \u2018Big Offer Days\u2019 for Galaxy accessories",
+      "author": "",
+      "body_lines": [
+        "Samsung, Sri Lanka\u2019s No. 1 smartphone brand, recently unveiled their promotional prices for Galaxy accessories to alleviate the financial burdens of consumers in the midst of turbulent times.",
+        "Samsung, as a caring brand for its people, has introduced up to 48% discounts in their promotional prices and hence relieves consumers of paying large sums for accessories to adorn their Galaxy devices. This promotional campaign introduces reduced prices for adapters, wearables, hearables, chargers, smart tags and headphones, all part of the Galaxy ecosystem, to allow consumers to experience the true brilliance of Samsung.",
+        "\u201cSamsung has always been a people brand and has always paid attention to the well-being of the consumer. In these trying times, it is important to help consumers in our own ways to help them alleviate the stress of inflation. We have introduced our promotional prices for Galaxy accessories to allow our consumers to integrate themselves into the Galaxy ecosystem without having to worry about the prices caused by inflation,\u201d said Samsung Sri Lanka Managing Director Kevin SungSu YOU.",
+        "Under this all-market promotional campaign, Samsung has reduced its Galaxy accessories of up to 48% of its market price. Items including Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters and Wireless Chargers are included under this campaign.",
+        "The Galaxy Watch 4 (BT, 40 mm) has been discounted to Rs. 71,999 in a 42% discount rate. The Galaxy Watch 4 Classic (BT, 46 mm) has been discounted to Rs. 104,999 in a 41% discount rate.",
+        "Galaxy hearables have also seen large price reductions under this campaign. The Glaxy Buds 2 has been reduced to Rs. 47,999 at a discount rate of 23%, while the Galaxy Buds Live has been discounted to Rs. 35,999 at a rate of 48%. Meanwhile, the Galaxy Buds Pro has been discounted to Rs. 46,499 in a 48% discount rate. The Level U2 headphone is now available for a reduced price of Rs. 10,499 in a 42% discount rate.",
+        "The Galaxy SmartTag (one pack) is now available for a reduced price of Rs. 5,999 in a 40% discount rate.",
+        "Meanwhile, the Wireless Charger Due 2021 (without PA) is now available for a discounted price of Rs. 9,199, while the Wireless Charger Pad 2021 (Without PA) has been discounted to Rs. 5,599. The Wireless Charger Trio is available at a discounted price of Rs. 17,999. Meanwhile, the Wireless Charger Convertible has been discounted to Rs. 8,999.",
+        "The car charger for Galaxy devices of 15 W and two ports has been discounted to Rs. 3,199. The Galaxy Travel Adapter (25W) has been discounted to Rs. 3,389, while the adapter and cable have been reduced to Rs. 5,599.",
+        "The UV Steriliser has been discounted to Rs. 9,999 while the Galaxy Z Fold3 Silicone Cover is now available for a discounted price of Rs. 10,499.",
+        "Consumers in Sri Lanka can order their Galaxy accessories for a reduced price at island-wide authorised dealers of John Keells Office Automation and Softlogic Mobile Distribution which can be easily identified by the Samsung logo placed outside the shop.",
+        "It is also available at authorised partners; Softlogic Retail, Singer, Singhagiri and Damro, Network Partners Dialog and Mobitel, and via the online portals; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "Samsung",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "up to 48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "smart tags",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kevin SungSu",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "up to 48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Watch",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "Travel Adapters and",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 mm",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 mm",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "The Glaxy Buds 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the Galaxy Buds Live",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "The Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "The Wireless Charger Trio",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Wireless Charger Convertible",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "The Galaxy Travel Adapter",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Steriliser",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "John Keells Office Automation and Softlogic Mobile Distribution",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Softlogic Retail",
+            "label": "PERSON"
+          },
+          {
+            "text": "Singer",
+            "label": "GPE"
+          },
+          {
+            "text": "Singhagiri",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, Network Partners Dialog",
+            "label": "ORG"
+          },
+          {
+            "text": "Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung EStore",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Samsung Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf 'Big Offer Days' \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0d82\u0d9a 1 \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc0\u0db1 Samsung, \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0dbd\u0daf\u0dd3.",
+        "Samsung, \u0d91\u0dc4\u0dd2 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3, \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dc0\u0dbd 48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0d85\u0dbd\u0d82\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db8\u0dad\u0dbb \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db8\u0dd4\u0daf\u0dbd\u0d9a\u0dca \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 Samsung \u0dc4\u0dd2 \u0dc3\u0dd0\u0db6\u0dd1 \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0dba \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Galaxy \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca, \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb, \u0db4\u0dd0\u0dc5\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2, \u0dc1\u0dca\u200d\u0dbb\u0dc0\u0dab\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2, \u0da0\u0dcf\u0da2\u0dbb\u0dca, \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0da7\u0dd0\u0d9c\u0dca \u0dc3\u0dc4 \u0dc4\u0dd9\u0da9\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u201cSamsung \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0da2\u0db1\u0dad\u0dcf \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dcf\u0d9c\u0dda \u0dba\u0dc4\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0db8 \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dbb \u0d87\u0dad. \u0db8\u0dd9\u0db8 \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3, \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dda \u0d86\u0dad\u0dad\u0dd2\u0dba \u0dc3\u0db8\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d85\u0db4\u0d9c\u0dda\u0db8 \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc0\u0dd0\u0daf\u0d9c\u0dad\u0dca \u0dc0\u0dda. \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d87\u0dad\u0dd2 \u0dc0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0d9c\u0dd0\u0db1 \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 Galaxy \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4\u0dd2 Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd3 \u0d87\u0dad,\" Samsung \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Kevin SungSu YOU \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd9\u0db8 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda, Samsung \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db8\u0dd2\u0dbd\u0dd9\u0db1\u0dca 48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d87\u0dad. Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters \u0dc3\u0dc4 Wireless Chargers \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d85\u0dba\u0dd2\u0dad\u0db8 \u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dda.",
+        "Galaxy Watch 4 (BT, 40 mm) \u0dbb\u0dd4. 42% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 71,999. Galaxy Watch 4 Classic (BT, 46 mm) \u0dbb\u0dd4. 41% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 104,999.",
+        "Galaxy Hearables \u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0daf \u0daf\u0dd0\u0d9a \u0d87\u0dad. Glaxy Buds 2 \u0dbb\u0dd4. 47,999 23% \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dca \u0dba\u0da7\u0dad\u0dda, Galaxy Buds Live \u0dbb\u0dd4. 48% \u0d9a \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 35,999. \u0db8\u0dda \u0d85\u0dad\u0dbb, Galaxy Buds Pro \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4. 46,499 48% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca. Level U2 headphone \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 42% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 10,499.",
+        "Galaxy SmartTag (\u0d91\u0d9a\u0dca \u0db4\u0dd0\u0d9a\u0dca \u0d91\u0d9a\u0d9a\u0dca) \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 40% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 5,999.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, Wireless Charger Due 2021 (PA \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0) \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 9,199, Wireless Charger Pad 2021 (PA \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0) \u0dbb\u0dd4. 5,599 \u0d9a\u0dd2. Wireless Charger Trio \u0d91\u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dbb\u0dd4. 17,999 \u0d9a\u0dd2. \u0db8\u0dda \u0d85\u0dad\u0dbb Wireless Charger Convertible \u0dbb\u0dae\u0dba \u0dbb\u0dd4. 8,999 \u0d9a\u0dd2.",
+        "15 W \u0dc3\u0dc4 \u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dcf\u0dbb\u0dca \u0da0\u0dcf\u0da2\u0dbb\u0dba \u0dbb\u0dd4. 3,199 \u0d9a\u0dd2. Galaxy Travel Adapter (25W) \u0dbb\u0dd4. 3,389 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d87\u0da9\u0db4\u0dca\u0da7\u0dbb\u0dba \u0dc3\u0dc4 \u0d9a\u0dda\u0db6\u0dbd\u0dca \u0dbb\u0dd4. 5,599 \u0d9a\u0dd2.",
+        "UV Steriliser \u0d91\u0d9a \u0dbb\u0dd4. 9,999 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb Galaxy Z Fold3 \u0dc3\u0dd2\u0dbd\u0dd2\u0d9a\u0db1\u0dca \u0d9a\u0dc0\u0dbb\u0dba \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 10,499 \u0d9a\u0dd2.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad \u0dad\u0db6\u0dcf \u0d87\u0dad\u0dd2 Samsung \u0dbd\u0dcf\u0d82\u0da1\u0db1\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 John Keells Office Automation \u0dc3\u0dc4 Softlogic Mobile Distribution \u0dc4\u0dd2 \u0daf\u0dd3\u0db4\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dca\u0dad \u0db6\u0dbd\u0dba\u0dbd\u0dad\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0d87\u0dab\u0dc0\u0dd4\u0db8\u0dca \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+        "\u0d91\u0dba \u0db6\u0dbd\u0dba\u0dbd\u0dad\u0dca \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0daf \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba; Softlogic Retail, Singer, Singhagiri \u0dc3\u0dc4 Damro, Network Partners Dialog \u0dc3\u0dc4 Mobitel, \u0dc3\u0dc4 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0daf\u0dca\u0dc0\u0dcf\u0dbb \u0dc4\u0dbb\u0dc4\u0dcf; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0da7\u0dd0\u0d9c\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd4\u0d82\u0dc3\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Watch",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb \u0dc3\u0dc4",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 \u0db8\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 \u0db8\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Glaxy Buds 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Live",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0da0\u0dcf\u0da2\u0dbb\u0dca \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0da0\u0dcf\u0da2\u0dbb\u0dba \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Galaxy \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2 \u0db1\u0dcf\u0dc1\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0ddd\u0db1\u0dca \u0d9a\u0dd3\u0dbd\u0dca\u0dc3\u0dca \u0d94\u0dc6\u0dd2\u0dc3\u0dca \u0d94\u0da7\u0ddd\u0db8\u0dda\u0dc2\u0db1\u0dca \u0dc3\u0dc4 \u0dc3\u0ddc\u0dc6\u0dca\u0da7\u0dca\u0dbd\u0ddc\u0da2\u0dd2\u0d9a\u0dca \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Softlogic \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dba\u0d9a\u0dba\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dd2\u0dbb\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, Network Partners Dialog",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0db6\u0dd2\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung EStore",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b86\u0b95\u0bcd\u0b9a\u0bb8\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u2018\u0baa\u0bbf\u0b95\u0bcd \u0b86\u0b83\u0baa\u0bb0\u0bcd \u0b9f\u0bc7\u0bb8\u0bcd\u2019 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1 \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0ba9 Samsung, \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95 Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0b95\u0bcd\u0b95\u0bb1\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0b95, \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 48% \u0bb5\u0bb0\u0bc8 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b8e\u0ba9\u0bb5\u0bc7 \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd Galaxy \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bb2\u0b99\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95 \u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bc8 \u0b86\u0b95\u0bcd\u0b9a\u0bb8\u0bb0\u0bc0\u0bb8\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0ba3\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0bb5\u0bc8, \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0bb5\u0bc8, \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bc6\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\"\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bb2\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd. \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0bae\u0bb2\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd Galaxy \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 Samsung Sri Lanka \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd Kevin SungSu YOU \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd, Samsung \u0ba4\u0ba9\u0ba4\u0bc1 Galaxy \u0baa\u0bbe\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 48% \u0bb5\u0bb0\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Wireless Chargers \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "Galaxy Watch 4 (BT, 40 mm) \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 42% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 71,999. Galaxy Watch 4 Classic (BT, 46 mm) \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 41% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 104,999.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd Galaxy \u0bb9\u0bbf\u0baf\u0bb0\u0bcd\u0baa\u0baa\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. Glaxy Buds 2 \u0bb0\u0bc2. \u0b86\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 47,999 23% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, Galaxy Buds Live \u0bb0\u0bc2. 48% \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 35,999. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, Galaxy Buds Pro \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 48% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 46,499. Level U2 \u0bb9\u0bc6\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 42% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 10,499.",
+        "Galaxy SmartTag (\u0b92\u0bb0\u0bc1 \u0baa\u0bc7\u0b95\u0bcd) \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 40% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 5,999.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bc2 2021 (PA \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd) \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 9,199, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0baa\u0bc7\u0b9f\u0bcd 2021 (\u0baa\u0bbf\u0b8f \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd) \u0bb0\u0bc2. 5,599. \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bcd\u0bb0\u0bc8\u0baf\u0bcb \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 17,999. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1 \u0bb0\u0bc2. 8,999.",
+        "15 W \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f Galaxy \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bb0\u0bc2. 3,199. Galaxy Travel Adapter (25W) \u0bb0\u0bc2. \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 3,389, \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0bb3\u0bcd \u0bb0\u0bc2. 5,599.",
+        "UV \u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0bb0\u0bc2. 9,999 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Galaxy Z Fold3 \u0b9a\u0bbf\u0bb2\u0bbf\u0b95\u0bbe\u0ba9\u0bcd \u0b95\u0bb5\u0bb0\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 10,499.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b9c\u0bcb\u0ba9\u0bcd \u0b95\u0bc0\u0bb2\u0bcd\u0bb8\u0bcd \u0b86\u0baa\u0bc0\u0bb8\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bc7\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0bb2\u0bca\u0b9c\u0bbf\u0b95\u0bcd \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd.",
+        "\u0b87\u0ba4\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1; Softlogic Retail, Singer, Singhagiri \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Damro, Network Partners Dialog \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Mobitel \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "48% \u0bb5\u0bb0\u0bc8",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bca\u0bb1\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0b99\u0bcd\u0b9a\u0bc1",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "48% \u0bb5\u0bb0\u0bc8",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0bb5\u0bbe\u0b9f\u0bcd\u0b9a\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0baf\u0ba3 \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 \u0bae\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 \u0bae\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb3\u0bbe\u0b95\u0bcd\u0bb8\u0bbf \u0baa\u0b9f\u0bcd\u0bb8\u0bcd 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0baa\u0b9f\u0bcd\u0bb8\u0bcd \u0bb2\u0bc8\u0bb5\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bc7\u0b95\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bcd\u0bb0\u0bc8\u0baf\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b9f\u0bbf\u0bb0\u0bbe\u0bb5\u0bb2\u0bcd \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "John Keells Office Automation \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Softlogic Mobile Distribution",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0bb2\u0bbe\u0b9c\u0bbf\u0b95\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b95\u0bbf\u0bb0\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bca\u0baa\u0bbf\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  },
+  "title": "Samsung introduces \u2018Big Offer Days\u2019 for Galaxy accessories",
+  "body_lines": [
+    "Samsung, Sri Lanka\u2019s No. 1 smartphone brand, recently unveiled their promotional prices for Galaxy accessories to alleviate the financial burdens of consumers in the midst of turbulent times.",
+    "Samsung, as a caring brand for its people, has introduced up to 48% discounts in their promotional prices and hence relieves consumers of paying large sums for accessories to adorn their Galaxy devices. This promotional campaign introduces reduced prices for adapters, wearables, hearables, chargers, smart tags and headphones, all part of the Galaxy ecosystem, to allow consumers to experience the true brilliance of Samsung.",
+    "\u201cSamsung has always been a people brand and has always paid attention to the well-being of the consumer. In these trying times, it is important to help consumers in our own ways to help them alleviate the stress of inflation. We have introduced our promotional prices for Galaxy accessories to allow our consumers to integrate themselves into the Galaxy ecosystem without having to worry about the prices caused by inflation,\u201d said Samsung Sri Lanka Managing Director Kevin SungSu YOU.",
+    "Under this all-market promotional campaign, Samsung has reduced its Galaxy accessories of up to 48% of its market price. Items including Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters and Wireless Chargers are included under this campaign.",
+    "The Galaxy Watch 4 (BT, 40 mm) has been discounted to Rs. 71,999 in a 42% discount rate. The Galaxy Watch 4 Classic (BT, 46 mm) has been discounted to Rs. 104,999 in a 41% discount rate.",
+    "Galaxy hearables have also seen large price reductions under this campaign. The Glaxy Buds 2 has been reduced to Rs. 47,999 at a discount rate of 23%, while the Galaxy Buds Live has been discounted to Rs. 35,999 at a rate of 48%. Meanwhile, the Galaxy Buds Pro has been discounted to Rs. 46,499 in a 48% discount rate. The Level U2 headphone is now available for a reduced price of Rs. 10,499 in a 42% discount rate.",
+    "The Galaxy SmartTag (one pack) is now available for a reduced price of Rs. 5,999 in a 40% discount rate.",
+    "Meanwhile, the Wireless Charger Due 2021 (without PA) is now available for a discounted price of Rs. 9,199, while the Wireless Charger Pad 2021 (Without PA) has been discounted to Rs. 5,599. The Wireless Charger Trio is available at a discounted price of Rs. 17,999. Meanwhile, the Wireless Charger Convertible has been discounted to Rs. 8,999.",
+    "The car charger for Galaxy devices of 15 W and two ports has been discounted to Rs. 3,199. The Galaxy Travel Adapter (25W) has been discounted to Rs. 3,389, while the adapter and cable have been reduced to Rs. 5,599.",
+    "The UV Steriliser has been discounted to Rs. 9,999 while the Galaxy Z Fold3 Silicone Cover is now available for a discounted price of Rs. 10,499.",
+    "Consumers in Sri Lanka can order their Galaxy accessories for a reduced price at island-wide authorised dealers of John Keells Office Automation and Softlogic Mobile Distribution which can be easily identified by the Samsung logo placed outside the shop.",
+    "It is also available at authorised partners; Softlogic Retail, Singer, Singhagiri and Damro, Network Partners Dialog and Mobitel, and via the online portals; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+  ],
+  "translate": {
+    "en": {
+      "title": "Samsung introduces \u2018Big Offer Days\u2019 for Galaxy accessories",
+      "author": "",
+      "body_lines": [
+        "Samsung, Sri Lanka\u2019s No. 1 smartphone brand, recently unveiled their promotional prices for Galaxy accessories to alleviate the financial burdens of consumers in the midst of turbulent times.",
+        "Samsung, as a caring brand for its people, has introduced up to 48% discounts in their promotional prices and hence relieves consumers of paying large sums for accessories to adorn their Galaxy devices. This promotional campaign introduces reduced prices for adapters, wearables, hearables, chargers, smart tags and headphones, all part of the Galaxy ecosystem, to allow consumers to experience the true brilliance of Samsung.",
+        "\u201cSamsung has always been a people brand and has always paid attention to the well-being of the consumer. In these trying times, it is important to help consumers in our own ways to help them alleviate the stress of inflation. We have introduced our promotional prices for Galaxy accessories to allow our consumers to integrate themselves into the Galaxy ecosystem without having to worry about the prices caused by inflation,\u201d said Samsung Sri Lanka Managing Director Kevin SungSu YOU.",
+        "Under this all-market promotional campaign, Samsung has reduced its Galaxy accessories of up to 48% of its market price. Items including Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters and Wireless Chargers are included under this campaign.",
+        "The Galaxy Watch 4 (BT, 40 mm) has been discounted to Rs. 71,999 in a 42% discount rate. The Galaxy Watch 4 Classic (BT, 46 mm) has been discounted to Rs. 104,999 in a 41% discount rate.",
+        "Galaxy hearables have also seen large price reductions under this campaign. The Glaxy Buds 2 has been reduced to Rs. 47,999 at a discount rate of 23%, while the Galaxy Buds Live has been discounted to Rs. 35,999 at a rate of 48%. Meanwhile, the Galaxy Buds Pro has been discounted to Rs. 46,499 in a 48% discount rate. The Level U2 headphone is now available for a reduced price of Rs. 10,499 in a 42% discount rate.",
+        "The Galaxy SmartTag (one pack) is now available for a reduced price of Rs. 5,999 in a 40% discount rate.",
+        "Meanwhile, the Wireless Charger Due 2021 (without PA) is now available for a discounted price of Rs. 9,199, while the Wireless Charger Pad 2021 (Without PA) has been discounted to Rs. 5,599. The Wireless Charger Trio is available at a discounted price of Rs. 17,999. Meanwhile, the Wireless Charger Convertible has been discounted to Rs. 8,999.",
+        "The car charger for Galaxy devices of 15 W and two ports has been discounted to Rs. 3,199. The Galaxy Travel Adapter (25W) has been discounted to Rs. 3,389, while the adapter and cable have been reduced to Rs. 5,599.",
+        "The UV Steriliser has been discounted to Rs. 9,999 while the Galaxy Z Fold3 Silicone Cover is now available for a discounted price of Rs. 10,499.",
+        "Consumers in Sri Lanka can order their Galaxy accessories for a reduced price at island-wide authorised dealers of John Keells Office Automation and Softlogic Mobile Distribution which can be easily identified by the Samsung logo placed outside the shop.",
+        "It is also available at authorised partners; Softlogic Retail, Singer, Singhagiri and Damro, Network Partners Dialog and Mobitel, and via the online portals; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "Samsung",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "up to 48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "smart tags",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kevin SungSu",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "up to 48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Watch",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "Travel Adapters and",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 mm",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 mm",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "The Glaxy Buds 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the Galaxy Buds Live",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "The Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "The Wireless Charger Trio",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Wireless Charger Convertible",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "The Galaxy Travel Adapter",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Steriliser",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "John Keells Office Automation and Softlogic Mobile Distribution",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Softlogic Retail",
+            "label": "PERSON"
+          },
+          {
+            "text": "Singer",
+            "label": "GPE"
+          },
+          {
+            "text": "Singhagiri",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, Network Partners Dialog",
+            "label": "ORG"
+          },
+          {
+            "text": "Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung EStore",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Samsung Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf 'Big Offer Days' \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0d82\u0d9a 1 \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc0\u0db1 Samsung, \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0dbd\u0daf\u0dd3.",
+        "Samsung, \u0d91\u0dc4\u0dd2 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3, \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dc0\u0dbd 48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0d85\u0dbd\u0d82\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db8\u0dad\u0dbb \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db8\u0dd4\u0daf\u0dbd\u0d9a\u0dca \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 Samsung \u0dc4\u0dd2 \u0dc3\u0dd0\u0db6\u0dd1 \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0dba \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Galaxy \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca, \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb, \u0db4\u0dd0\u0dc5\u0db3\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2, \u0dc1\u0dca\u200d\u0dbb\u0dc0\u0dab\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2, \u0da0\u0dcf\u0da2\u0dbb\u0dca, \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0da7\u0dd0\u0d9c\u0dca \u0dc3\u0dc4 \u0dc4\u0dd9\u0da9\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u201cSamsung \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0da2\u0db1\u0dad\u0dcf \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dcf\u0d9c\u0dda \u0dba\u0dc4\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0db8 \u0d9a\u0dd9\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dbb \u0d87\u0dad. \u0db8\u0dd9\u0db8 \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3, \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dda \u0d86\u0dad\u0dad\u0dd2\u0dba \u0dc3\u0db8\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d85\u0db4\u0d9c\u0dda\u0db8 \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc0\u0dd0\u0daf\u0d9c\u0dad\u0dca \u0dc0\u0dda. \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d87\u0dad\u0dd2 \u0dc0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0d9c\u0dd0\u0db1 \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 Galaxy \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4\u0dd2 Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd3 \u0d87\u0dad,\" Samsung \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Kevin SungSu YOU \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd9\u0db8 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda, Samsung \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db8\u0dd2\u0dbd\u0dd9\u0db1\u0dca 48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0d87\u0dad. Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters \u0dc3\u0dc4 Wireless Chargers \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d85\u0dba\u0dd2\u0dad\u0db8 \u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dda.",
+        "Galaxy Watch 4 (BT, 40 mm) \u0dbb\u0dd4. 42% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 71,999. Galaxy Watch 4 Classic (BT, 46 mm) \u0dbb\u0dd4. 41% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 104,999.",
+        "Galaxy Hearables \u0db8\u0dd9\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0daf \u0daf\u0dd0\u0d9a \u0d87\u0dad. Glaxy Buds 2 \u0dbb\u0dd4. 47,999 23% \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dca \u0dba\u0da7\u0dad\u0dda, Galaxy Buds Live \u0dbb\u0dd4. 48% \u0d9a \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 35,999. \u0db8\u0dda \u0d85\u0dad\u0dbb, Galaxy Buds Pro \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4. 46,499 48% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca. Level U2 headphone \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 42% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 10,499.",
+        "Galaxy SmartTag (\u0d91\u0d9a\u0dca \u0db4\u0dd0\u0d9a\u0dca \u0d91\u0d9a\u0d9a\u0dca) \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 40% \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dd2\u0db1\u0dca 5,999.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, Wireless Charger Due 2021 (PA \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0) \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 9,199, Wireless Charger Pad 2021 (PA \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0) \u0dbb\u0dd4. 5,599 \u0d9a\u0dd2. Wireless Charger Trio \u0d91\u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dbb\u0dd4. 17,999 \u0d9a\u0dd2. \u0db8\u0dda \u0d85\u0dad\u0dbb Wireless Charger Convertible \u0dbb\u0dae\u0dba \u0dbb\u0dd4. 8,999 \u0d9a\u0dd2.",
+        "15 W \u0dc3\u0dc4 \u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dcf\u0dbb\u0dca \u0da0\u0dcf\u0da2\u0dbb\u0dba \u0dbb\u0dd4. 3,199 \u0d9a\u0dd2. Galaxy Travel Adapter (25W) \u0dbb\u0dd4. 3,389 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d87\u0da9\u0db4\u0dca\u0da7\u0dbb\u0dba \u0dc3\u0dc4 \u0d9a\u0dda\u0db6\u0dbd\u0dca \u0dbb\u0dd4. 5,599 \u0d9a\u0dd2.",
+        "UV Steriliser \u0d91\u0d9a \u0dbb\u0dd4. 9,999 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb Galaxy Z Fold3 \u0dc3\u0dd2\u0dbd\u0dd2\u0d9a\u0db1\u0dca \u0d9a\u0dc0\u0dbb\u0dba \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 10,499 \u0d9a\u0dd2.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad \u0dad\u0db6\u0dcf \u0d87\u0dad\u0dd2 Samsung \u0dbd\u0dcf\u0d82\u0da1\u0db1\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 John Keells Office Automation \u0dc3\u0dc4 Softlogic Mobile Distribution \u0dc4\u0dd2 \u0daf\u0dd3\u0db4\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dca\u0dad \u0db6\u0dbd\u0dba\u0dbd\u0dad\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0d87\u0dab\u0dc0\u0dd4\u0db8\u0dca \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+        "\u0d91\u0dba \u0db6\u0dbd\u0dba\u0dbd\u0dad\u0dca \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0daf \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba; Softlogic Retail, Singer, Singhagiri \u0dc3\u0dc4 Damro, Network Partners Dialog \u0dc3\u0dc4 Mobitel, \u0dc3\u0dc4 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0daf\u0dca\u0dc0\u0dcf\u0dbb \u0dc4\u0dbb\u0dc4\u0dcf; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0da7\u0dd0\u0d9c\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd4\u0d82\u0dc3\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Galaxy",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "48% \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Watch",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb \u0dc3\u0dc4",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 \u0db8\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 \u0db8\u0dd2.\u0db8\u0dd3",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Glaxy Buds 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Live",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0da0\u0dcf\u0da2\u0dbb\u0dca \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd0\u0dc4\u0dd0\u0db1\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0da0\u0dcf\u0da2\u0dbb\u0dba \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Galaxy \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0d87\u0da9\u0dd0\u0db4\u0dca\u0da7\u0dbb\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2 \u0db1\u0dcf\u0dc1\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0ddd\u0db1\u0dca \u0d9a\u0dd3\u0dbd\u0dca\u0dc3\u0dca \u0d94\u0dc6\u0dd2\u0dc3\u0dca \u0d94\u0da7\u0ddd\u0db8\u0dda\u0dc2\u0db1\u0dca \u0dc3\u0dc4 \u0dc3\u0ddc\u0dc6\u0dca\u0da7\u0dca\u0dbd\u0ddc\u0da2\u0dd2\u0d9a\u0dca \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Softlogic \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dba\u0d9a\u0dba\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dd2\u0dbb\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, Network Partners Dialog",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0db6\u0dd2\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung EStore",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b86\u0b95\u0bcd\u0b9a\u0bb8\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u2018\u0baa\u0bbf\u0b95\u0bcd \u0b86\u0b83\u0baa\u0bb0\u0bcd \u0b9f\u0bc7\u0bb8\u0bcd\u2019 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1 \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0ba9 Samsung, \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95 Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0b95\u0bcd\u0b95\u0bb1\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0b95, \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 48% \u0bb5\u0bb0\u0bc8 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b8e\u0ba9\u0bb5\u0bc7 \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd Galaxy \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bb2\u0b99\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95 \u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bc8 \u0b86\u0b95\u0bcd\u0b9a\u0bb8\u0bb0\u0bc0\u0bb8\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0ba3\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0bb5\u0bc8, \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0bb5\u0bc8, \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bc6\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\"\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bb2\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd. \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0bae\u0bb2\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd Galaxy \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 Samsung Sri Lanka \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd Kevin SungSu YOU \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd, Samsung \u0ba4\u0ba9\u0ba4\u0bc1 Galaxy \u0baa\u0bbe\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 48% \u0bb5\u0bb0\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. Galaxy Watch, Galaxy Buds, Galaxy SmartTag, Travel Adapters \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Wireless Chargers \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "Galaxy Watch 4 (BT, 40 mm) \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 42% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 71,999. Galaxy Watch 4 Classic (BT, 46 mm) \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 41% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 104,999.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd Galaxy \u0bb9\u0bbf\u0baf\u0bb0\u0bcd\u0baa\u0baa\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. Glaxy Buds 2 \u0bb0\u0bc2. \u0b86\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 47,999 23% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, Galaxy Buds Live \u0bb0\u0bc2. 48% \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 35,999. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, Galaxy Buds Pro \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 48% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 46,499. Level U2 \u0bb9\u0bc6\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 42% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 10,499.",
+        "Galaxy SmartTag (\u0b92\u0bb0\u0bc1 \u0baa\u0bc7\u0b95\u0bcd) \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 40% \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 5,999.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bc2 2021 (PA \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd) \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 9,199, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0baa\u0bc7\u0b9f\u0bcd 2021 (\u0baa\u0bbf\u0b8f \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd) \u0bb0\u0bc2. 5,599. \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bcd\u0bb0\u0bc8\u0baf\u0bcb \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 17,999. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1 \u0bb0\u0bc2. 8,999.",
+        "15 W \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f Galaxy \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bb0\u0bc2. 3,199. Galaxy Travel Adapter (25W) \u0bb0\u0bc2. \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 3,389, \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0baa\u0bbf\u0bb3\u0bcd \u0bb0\u0bc2. 5,599.",
+        "UV \u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0bb0\u0bc2. 9,999 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Galaxy Z Fold3 \u0b9a\u0bbf\u0bb2\u0bbf\u0b95\u0bbe\u0ba9\u0bcd \u0b95\u0bb5\u0bb0\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 10,499.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b9c\u0bcb\u0ba9\u0bcd \u0b95\u0bc0\u0bb2\u0bcd\u0bb8\u0bcd \u0b86\u0baa\u0bc0\u0bb8\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0bcb\u0bae\u0bc7\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0bb2\u0bca\u0b9c\u0bbf\u0b95\u0bcd \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd Galaxy \u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd.",
+        "\u0b87\u0ba4\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1; Softlogic Retail, Singer, Singhagiri \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Damro, Network Partners Dialog \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Mobitel \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd; Samsung EStore (samsungsrilanka.lk), MySoftlogic.lk, Daraz.lk."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "48% \u0bb5\u0bb0\u0bc8",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bca\u0bb1\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0b99\u0bcd\u0b9a\u0bc1",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "48% \u0bb5\u0bb0\u0bc8",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0bb5\u0bbe\u0b9f\u0bcd\u0b9a\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Galaxy SmartTag",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0baf\u0ba3 \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "40 \u0bae\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "71,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "46 \u0bae\u0bbf.\u0bae\u0bc0",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "104,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "41%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb3\u0bbe\u0b95\u0bcd\u0bb8\u0bbf \u0baa\u0b9f\u0bcd\u0bb8\u0bcd 2",
+            "label": "ORG"
+          },
+          {
+            "text": "47,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "23%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0baa\u0b9f\u0bcd\u0bb8\u0bcd \u0bb2\u0bc8\u0bb5\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "35,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Galaxy Buds Pro",
+            "label": "ORG"
+          },
+          {
+            "text": "46,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "48%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "42%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bc7\u0b95\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "40%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "9,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0b9f\u0bcd\u0bb0\u0bc8\u0baf\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "17,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0bb0\u0bcd\u0bb2\u0bc6\u0bb8\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "8,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,199",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b9f\u0bbf\u0bb0\u0bbe\u0bb5\u0bb2\u0bcd \u0b85\u0b9f\u0bbe\u0baa\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "25W",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,389",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5,599",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10,499",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "John Keells Office Automation \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Softlogic Mobile Distribution",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0bb2\u0bbe\u0b9c\u0bbf\u0b95\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b95\u0bbf\u0bb0\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro, \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bca\u0baa\u0bbf\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "samsungsrilanka.lk",
+            "label": "ORG"
+          },
+          {
+            "text": "Daraz.lk",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
