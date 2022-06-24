@@ -2,7 +2,7 @@ import os
 from abc import ABC
 
 from bs4 import BeautifulSoup
-from utils import dt, timex, www
+from utils import dt, mr, timex, www
 
 from news_lk2._utils import log
 from news_lk2.core import Translate
@@ -139,8 +139,20 @@ class AbstractNewsPaper(ABC):
     def scrape(cls):
         article_list = []
         article_urls = cls.get_article_urls()
-        for article_url in article_urls:
-            article = cls.parse_and_store_article(article_url)
-            if article:
-                article_list.append(article)
+
+        def func_inner(article_url):
+            return cls.parse_and_store_article(article_url)
+
+        article_list_raw = mr.map_parallel(
+            func_inner,
+            article_urls,
+            max_threads=4,
+        )
+
+        article_list = list(
+            filter(
+                lambda article: article,
+                article_list_raw,
+            )
+        )
         return article_list
