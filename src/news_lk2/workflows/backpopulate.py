@@ -14,7 +14,7 @@ def main(is_test_mode=False):
     git_checkout(force=not is_test_mode)
     article_files = paper.get_article_files()
     n = len(article_files)
-    log.debug(f'Backpopulating on {n} articles...')
+    log.info(f'Backpopulating on {n} articles...')
 
     current_ut = timex.get_unixtime()
     i_within_time_window = 0
@@ -26,14 +26,14 @@ def main(is_test_mode=False):
 
         i_within_time_window += 1
         article = Article.load_from_file(article_file)
-        log.info(f'{i +  1}/{n} {article.url} done.')
+        log.debug(f'{i +  1}/{n} {article.url} done.')
         article.store()
 
         if is_test_mode:
             if i_within_time_window > 10:
                 break
 
-    log.debug(f'Backpopulated {n} articles.')
+    log.info(f'Backpopulated {n} articles.')
 
 
 if __name__ == '__main__':
