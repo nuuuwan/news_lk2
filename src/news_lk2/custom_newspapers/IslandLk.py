@@ -39,7 +39,6 @@ class IslandLk(AbstractNewsPaper):
         h1 = soup.find('h1', {'itemprop': 'headline'})
         return h1.text
 
-
     @classmethod
     def parse_author(cls, soup):
         a_author = soup.find('a', {'rel': 'author'})

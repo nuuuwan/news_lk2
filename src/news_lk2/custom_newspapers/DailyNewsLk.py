@@ -44,7 +44,7 @@ class DailyNewsLk(AbstractNewsPaper):
 
     @classmethod
     def parse_author(cls, soup):
-        return ""        
+        return ""
 
     @classmethod
     def parse_body_lines(cls, soup):
