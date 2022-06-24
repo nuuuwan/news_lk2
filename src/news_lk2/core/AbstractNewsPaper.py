@@ -80,6 +80,10 @@ class AbstractNewsPaper(ABC):
         raise NotImplementedError
 
     @classmethod
+    def parse_author(cls, soup):
+        raise NotImplementedError
+
+    @classmethod
     def parse_body_lines(cls, soup):
         raise NotImplementedError
 
