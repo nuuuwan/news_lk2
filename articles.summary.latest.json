@@ -290,6 +290,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb4-\u0b85\u0b95\u0ba4\u0bbf\u0baf\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf/175-299156",
+    "time_ut": 1656088296,
+    "original_lang": "ta",
+    "original_title": "\u0b88\u0bb4 \u0b85\u0b95\u0ba4\u0bbf\u0baf\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/cd/cdf60b84.json",
+    "title": "\u0b88\u0bb4 \u0b85\u0b95\u0ba4\u0bbf\u0baf\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130149",
     "time_ut": 1656088274,
@@ -890,6 +900,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130137",
+    "time_ut": 1656072305,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0bae\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/dc/dc96171f.json",
+    "title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0bae\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/24/sapugaskanda-to-go-offline-tonight-24/",
     "time_ut": 1656072060,
@@ -977,26 +997,6 @@
     "original_title": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5\u0dad\u0dca \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/4d/4d286d46.json",
     "title": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5\u0dad\u0dca \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd1",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-fuel-queue-death-toll-rises-to-12-latest-victim-19-years-old-96421/",
-    "time_ut": 1656070380,
-    "original_lang": "en",
-    "original_title": "Sri Lanka fuel queue death toll rises to 12; latest victim 19 years old",
-    "file_name": "/tmp/news_lk2/articles/15/151b4f16.json",
-    "title": "Sri Lanka fuel queue death toll rises to 12; latest victim 19 years old",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83237/speaker-endorses-certificate-on-3-bills",
-    "time_ut": 1656070320,
-    "original_lang": "en",
-    "original_title": "Speaker endorses certificate on 3 Bills",
-    "file_name": "/tmp/news_lk2/articles/08/08053494.json",
-    "title": "Speaker endorses certificate on 3 Bills",
     "is_translated": true
   }
 ]
