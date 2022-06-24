@@ -122,8 +122,11 @@ class AbstractNewsPaper(ABC):
             original_title = cls.parse_title(soup).strip()
             original_body_lines = list(
                 filter(
-                    lambda line: is_valid_line(line).strip(),
-                    cls.parse_body_lines(soup),
+                    lambda line: is_valid_line(line),
+                    list(map(
+                        lambda line: line.strip(),
+                        cls.parse_body_lines(soup),
+                    )),
                 )
             )
             original_author = cls.parse_author(soup).strip()
