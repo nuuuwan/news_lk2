@@ -1,5 +1,55 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130099",
+    "time_ut": 1656053933,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0bbf\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0bcb\u0ba4\u0bbf\u0baa \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8 ; \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bbaa4ce0.json",
+    "title": "\u0ba4\u0ba9\u0bbf\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0bcb\u0ba4\u0bbf\u0baa \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8 ; \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130100",
+    "time_ut": 1656053780,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e0/e0f69762.json",
+    "title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd0\u0dad\u0dd0\u0dba\u0dd2-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0db4\u0dcf\u0dbb-\u0dc0\u0dc3\u0dad\u0dd2/101-615320",
+    "time_ut": 1656053197,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd0\u0dba\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ae/ae2dafae.json",
+    "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd0\u0dba\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0db4\u0dcf\u0dbb \u0dc0\u0dc3\u0dad\u0dd2",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stock-index-gains-over-1-6-pct-in-mid-day-96399/",
+    "time_ut": 1656053040,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
+    "file_name": "/tmp/news_lk2/articles/95/95b3ec50.json",
+    "title": "Sri Lanka stock index gains over 1.6 pct in mid-day",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83231/johnston-fernando-issued-summons-over-sathosa-case",
+    "time_ut": 1656052740,
+    "original_lang": "en",
+    "original_title": "Johnston Fernando issued summons over Sathosa case",
+    "file_name": "/tmp/news_lk2/articles/5a/5a423686.json",
+    "title": "Johnston Fernando issued summons over Sathosa case",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/imfs-talks-with-sri-lanka-must-also-focus-on-corruption-aid-diversion-mark-malloch-brown-96398/",
     "time_ut": 1656051780,
@@ -10,6 +60,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dba\u0db1\u0dca\u0da7-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0dc0\u0dbb\u0db8\u0dca-\u0dc5\u0d9f\u0daf\u0dd3\u0db8/101-615318",
+    "time_ut": 1656051768,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc0\u0dbb\u0db8\u0dca \u0dc5\u0d9f\u0daf\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/80/803f1ef5.json",
+    "title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc0\u0dbb\u0db8\u0dca \u0dc5\u0d9f\u0daf\u0dd3\u0db8",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130098",
     "time_ut": 1656051761,
@@ -17,6 +77,16 @@
     "original_title": "\u0bb5\u0b9f\u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/40/40eaa834.json",
     "title": "\u0bb5\u0b9f\u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0d85\u0dad-\u0d9a\u0dd0\u0da9\u0dd9\u0db1\u0dca\u0db1-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf/101-615317",
+    "time_ut": 1656051590,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0d85\u0dad \u0d9a\u0dd0\u0da9\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/4e/4ebedfe2.json",
+    "title": "\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0d85\u0dad \u0d9a\u0dd0\u0da9\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf",
     "is_translated": true
   },
   {
@@ -57,6 +127,16 @@
     "original_title": "\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0ddd 35 \u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/a0/a059d219.json",
     "title": "\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0ddd 35 \u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db1\u0dd0\u0dc0\u0dca-02\u0d9a\u0dca-\u0da2\u0dd6\u0dbd\u0dd2-5-\u0dc3\u0dc4-12-\u0d85\u0dad\u0dbb-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-394787",
+    "time_ut": 1656050660,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dca 02\u0d9a\u0dca \u0da2\u0dd6\u0dbd\u0dd2 5 \u0dc3\u0dc4 12 \u0d85\u0dad\u0dbb \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/28/283fdc60.json",
+    "title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dca 02\u0d9a\u0dca \u0da2\u0dd6\u0dbd\u0dd2 5 \u0dc3\u0dc4 12 \u0d85\u0dad\u0dbb \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
     "is_translated": true
   },
   {
@@ -917,86 +997,6 @@
     "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
     "file_name": "/tmp/news_lk2/articles/71/715df9dc.json",
     "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Cabraal-claims-Central-Bank-has-returned-to-fixing-exchange-rate-via-guidance-rate/108-239671",
-    "time_ut": 1656012410,
-    "original_lang": "en",
-    "original_title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "file_name": "/tmp/news_lk2/articles/55/55476cc9.json",
-    "title": "Cabraal claims Central Bank has returned to \u2018fixing\u2019 exchange rate via \u2018guidance\u2019 rate",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Credit-card-interest-rates-flirt-with-40-as-banks-respond-to-ward-off-pressure-on-asset-quality/108-239670",
-    "time_ut": 1656012326,
-    "original_lang": "en",
-    "original_title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
-    "file_name": "/tmp/news_lk2/articles/a3/a390e413.json",
-    "title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Credit-card-interest-rates-flirt-with-40-as-banks-respond-to-ward-off-pressure-on-asset-quality/273-239670",
-    "time_ut": 1656012326,
-    "original_lang": "en",
-    "original_title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
-    "file_name": "/tmp/news_lk2/articles/4f/4f41399d.json",
-    "title": "Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-announces-up-to-2-5-hour-power-cuts-from-june-24-26-96373/",
-    "time_ut": 1656011340,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/60/6031f2bf.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0ba4\u0bbf-\u0b9a\u0bc7\u0bb5\u0bc8-\u0b8a\u0b9f\u0bbe\u0b95-\u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bcd/175-299113",
-    "time_ut": 1656010735,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bca\u0ba4\u0bbf \u0b9a\u0bc7\u0bb5\u0bc8 \u0b8a\u0b9f\u0bbe\u0b95 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/52/526c5727.json",
-    "title": "\u0baa\u0bca\u0ba4\u0bbf \u0b9a\u0bc7\u0bb5\u0bc8 \u0b8a\u0b9f\u0bbe\u0b95 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83225/jaishankar-meets-gl-peiris-in-rwanda-discusses-indias-support-for-economic-recovery",
-    "time_ut": 1656010320,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/dc/dc13f2ea.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-rupee-steady-despite-dollar-shortage-96372/",
-    "time_ut": 1656009480,
-    "original_lang": "en",
-    "original_title": null,
-    "file_name": "/tmp/news_lk2/articles/74/7436f065.json",
-    "title": null,
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc2\u0ba4\u0bb0\u0b95-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bb0\u0bc8\u0baf\u0bb1\u0bc8/175-299112",
-    "time_ut": 1656008766,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc2\u0ba4\u0bb0\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc8\u0baf\u0bb1\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/de/de034605.json",
-    "title": "\u0ba4\u0bc2\u0ba4\u0bb0\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc8\u0baf\u0bb1\u0bc8",
     "is_translated": true
   }
 ]
