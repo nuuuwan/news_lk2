@@ -39,6 +39,12 @@ class IslandLk(AbstractNewsPaper):
         h1 = soup.find('h1', {'itemprop': 'headline'})
         return h1.text
 
+
+    @classmethod
+    def parse_author(cls, soup):
+        a_author = soup.find('a', {'rel': 'author'})
+        return a_author.text
+
     @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'id': 'mvp-content-wrap'})
