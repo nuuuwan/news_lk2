@@ -148,7 +148,7 @@ class AbstractNewsPaper(ABC):
         article_list_raw = mr.map_parallel(
             func_inner,
             article_urls,
-            max_threads=4,
+            max_threads=5,
         )
 
         article_list = list(
