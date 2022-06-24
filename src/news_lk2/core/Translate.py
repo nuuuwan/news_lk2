@@ -40,6 +40,9 @@ MAX_WORD_LEN = 2000
 
 @cache('news_lk2.translate', 86400 * 1000)
 def translate(source_lang, target_lang, word):
+    if word.isnumeric():
+        return word
+        
     word = word.strip()
     if len(word) < 1:
         return word
