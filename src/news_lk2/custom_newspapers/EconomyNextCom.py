@@ -36,6 +36,11 @@ class EconomyNextCom(AbstractNewsPaper):
         return h1.text
 
     @classmethod
+    def parse_author(cls, soup):
+        div_author = soup.find('div', {'class': 'single-author'})
+        return div_author.text.replace('By', '')
+
+    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'story-page-text-main'})
         return list(
