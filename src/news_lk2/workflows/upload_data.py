@@ -1,5 +1,4 @@
 from news_lk2._utils import log
-from news_lk2.core import TranslatedArticle
 from news_lk2.core.filesys import git_checkout
 from news_lk2.custom_newspapers import newspaper_class_list
 from news_lk2.workflows import common
@@ -10,15 +9,10 @@ N_LATEST = 100
 
 def main(is_test_mode=False):
     log.debug(f'{is_test_mode=}')
-    git_checkout()
+    git_checkout(force=not is_test_mode)
     for newspaper_class in newspaper_class_list:
         log.debug(f'Scraping {newspaper_class.__name__}...')
-        article_list = newspaper_class.scrape()
-
-        log.debug(f'Translating articles for {newspaper_class.__name__}...')
-        for article in article_list:
-            translated_article = TranslatedArticle.initFromArticle(article)
-            translated_article.store()
+        newspaper_class.scrape()
 
         if is_test_mode:
             break
