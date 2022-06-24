@@ -1,6 +1,16 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83244/sale-of-rice-or-paddy-for-animal-feed-production-banned-from-today",
+    "time_ut": 1656090000,
+    "original_lang": "en",
+    "original_title": "Sale of rice or paddy for animal feed production banned from today",
+    "file_name": "/tmp/news_lk2/articles/0b/0b362ae7.json",
+    "title": "Sale of rice or paddy for animal feed production banned from today",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83243/european-countries-assure-provision-of-assistance-to-sri-lanka",
     "time_ut": 1656089460,
     "original_lang": "en",
@@ -987,16 +997,6 @@
     "original_title": "\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/e2/e24a0803.json",
     "title": "\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Doctors-in-fuel-queues/110-239724",
-    "time_ut": 1656062366,
-    "original_lang": "en",
-    "original_title": " Doctors in fuel queues",
-    "file_name": "/tmp/news_lk2/articles/d6/d6f186d0.json",
-    "title": " Doctors in fuel queues",
     "is_translated": true
   }
 ]
