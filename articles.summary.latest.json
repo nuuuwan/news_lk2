@@ -1,5 +1,35 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/two-men-arrested-for-illegal-stockpiling-over-2000l-diesel-recovered/",
+    "time_ut": 1656083880,
+    "original_lang": "en",
+    "original_title": "Two men arrested for illegal stockpiling; over 2,000l diesel recovered",
+    "file_name": "/tmp/news_lk2/articles/42/428744c2.json",
+    "title": "Two men arrested for illegal stockpiling; over 2,000l diesel recovered",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9c\u0db8\u0da7-\u0daf\u0dc4\u0dc3\u0dca-\u0d9c\u0dab\u0db1\u0d9a\u0dca--\u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0db1\u0dca-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca-\u0d9c\u0dd9\u0dc0\u0dbd\u0dcf/1-615348",
+    "time_ut": 1656083571,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9c\u0db8\u0da7 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca  \u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d9c\u0dd9\u0dc0\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/4c/4c38fdcb.json",
+    "title": "\u0dbd\u0d82\u0d9c\u0db8\u0da7 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca  \u0dc4\u0ddc\u0dbb\u0db4\u0dcf\u0dbb\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db1\u0dca \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d9c\u0dd9\u0dc0\u0dbd\u0dcf",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/who-brought-the-country-to-this-level-cardinal/",
+    "time_ut": 1656083340,
+    "original_lang": "en",
+    "original_title": "Who brought the country to this level? \u2013 Cardinal",
+    "file_name": "/tmp/news_lk2/articles/8e/8e8ec593.json",
+    "title": "Who brought the country to this level? \u2013 Cardinal",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130146",
     "time_ut": 1656082551,
@@ -7,6 +37,16 @@
     "original_title": "\u0bb5\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 :\u0b89\u0bb3\u0bb5\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/53/539f2054.json",
     "title": "\u0bb5\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 :\u0b89\u0bb3\u0bb5\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/24/uk-parliament-discusses-attaching-hr-conditions-to-imf-bailout/",
+    "time_ut": 1656081540,
+    "original_lang": "en",
+    "original_title": "UK Parliament discusses attaching HR conditions to IMF bailout",
+    "file_name": "/tmp/news_lk2/articles/f4/f493058c.json",
+    "title": "UK Parliament discusses attaching HR conditions to IMF bailout",
     "is_translated": true
   },
   {
@@ -957,46 +997,6 @@
     "original_title": "Sri Lanka former leftist leader blames IMF for Russia\u2019s invasion of Ukraine",
     "file_name": "/tmp/news_lk2/articles/19/195d4207.json",
     "title": "Sri Lanka former leftist leader blames IMF for Russia\u2019s invasion of Ukraine",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CID-quizzes-Johnston-over-May-9-attack-on-protesters/342-239723",
-    "time_ut": 1656060350,
-    "original_lang": "en",
-    "original_title": " CID quizzes Johnston over May 9 attack on protesters",
-    "file_name": "/tmp/news_lk2/articles/ee/ee1f2063.json",
-    "title": " CID quizzes Johnston over May 9 attack on protesters",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CID-quizzes-Johnston-over-May-9-attack-on-protesters/108-239723",
-    "time_ut": 1656060350,
-    "original_lang": "en",
-    "original_title": " CID quizzes Johnston over May 9 attack on protesters",
-    "file_name": "/tmp/news_lk2/articles/47/47806e48.json",
-    "title": " CID quizzes Johnston over May 9 attack on protesters",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-receives-second-consignment-of-humanitarian-supplies-donated-by-India/108-239722",
-    "time_ut": 1656060076,
-    "original_lang": "en",
-    "original_title": " SL receives second consignment of humanitarian supplies donated by India",
-    "file_name": "/tmp/news_lk2/articles/12/12152c06.json",
-    "title": " SL receives second consignment of humanitarian supplies donated by India",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SL-receives-second-consignment-of-humanitarian-supplies-donated-by-India/342-239722",
-    "time_ut": 1656060076,
-    "original_lang": "en",
-    "original_title": " SL receives second consignment of humanitarian supplies donated by India",
-    "file_name": "/tmp/news_lk2/articles/10/1070d5ad.json",
-    "title": " SL receives second consignment of humanitarian supplies donated by India",
     "is_translated": true
   }
 ]
