@@ -8,8 +8,7 @@ MAX_ARTICLES_TO_UPLOAD = 200
 def main():
     git_checkout(force=False)
 
-    common.build_readme_summary()
-    common.build_articles_summary()
+    common.build_all_summaries()
 
 
 if __name__ == '__main__':

@@ -36,8 +36,7 @@ def main(is_test_mode=False):
 
     log.info(f'Scraped {n_total} articles in total.')
 
-    common.build_readme_summary()
-    common.build_articles_summary()
+    common.build_all_summaries()
 
 
 if __name__ == '__main__':
