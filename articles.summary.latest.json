@@ -224,6 +224,14 @@
     "file_name": "/tmp/news_lk2/articles/27/276b9513.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/war-on-china-iv-rules-based-international-order-normalising-global-state-terrorism/",
+    "time_ut": 1656159803,
+    "original_lang": "en",
+    "original_title": "War On China? \u2013 IV: Rules-Based International Order: Normalising Global State Terrorism",
+    "file_name": "/tmp/news_lk2/articles/51/51dd0b62.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Further-delay-in-Petrol-Diesel-and-CrudeOil-Shipments-Minister/155-239800",
     "time_ut": 1656159678,
@@ -790,13 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/a3/a33592b3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca-\u0db7\u0dd6\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dda-\u0db8\u0dbb\u0dab-1-150-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/3-394813",
-    "time_ut": 1656135182,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca \u0db7\u0dd6\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dda \u0db8\u0dbb\u0dab 1,150 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/25/25f07e42.json"
   }
 ]
