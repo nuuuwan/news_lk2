@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 00:23:45 (LK time)*
+*As of 2022-06-26 00:36:14 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -12,7 +12,7 @@
 
 * **2** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
-## Last 24 Hours (190 Articles)
+## Last 24 Hours (184 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -30,13 +30,11 @@
 
 * **11** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
-* **6** daily-ft-lk ([Samsung introduces ‘Big Offer Days’ for Galaxy accessories](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2a3f01c.json))
-
 * **2** colombo-telegraph-com ([Why I Don’t Support The Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf71fc70.json))
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## Last Week (1,594 Articles)
+## Last Week (1,592 Articles)
 
 * **376** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcb6c6fa.json))
 
@@ -50,7 +48,7 @@
 
 * **123** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
-* **110** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19206b37.json))
+* **109** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56e77e20.json))
 
 * **90** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
@@ -58,7 +56,7 @@
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
-* **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e70e327.json))
+* **27** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26397379.json))
 
 * **15** colombo-telegraph-com ([Sovereignty Betrayed: The Ball Belongs To The State](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47fd8afa.json))
 
