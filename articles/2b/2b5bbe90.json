@@ -1,0 +1,165 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/Mahinda-Samarasinghe-meets-Joe-Biden/108-239792",
+  "time_ut": 1656137319,
+  "original_lang": "en",
+  "original_title": "Mahinda Samarasinghe meets Joe Biden",
+  "text_idx": {
+    "en": {
+      "title": "Mahinda Samarasinghe meets Joe Biden",
+      "author": "unknown",
+      "body_lines": [
+        "Ambassador of Sri Lanka to the United States of America Mahinda Samarasinghe met US President Joe Biden at the White House Oval Office.",
+        "During the meeting recently, Ambassador Samarasinghe briefed President Joe Biden on the current situation in Sri Lanka."
+      ],
+      "title_ents": [
+        {
+          "text": "Joe Biden",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the United States of America",
+            "label": "GPE"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "the White House Oval Office",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "Samarasinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0db0\u0dc0\u0dbd \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0d95\u0dc0\u0dbd\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0dc4\u0db8\u0dd4\u0dc0\u0dd2\u0dba.",
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc3\u0db8\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "Joe Biden",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db0\u0dc0\u0dbd \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba \u0d95\u0dc0\u0dbd\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dbb\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95, \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0b93\u0bb5\u0bb2\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "Joe Biden",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0b93\u0bb5\u0bb2\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
