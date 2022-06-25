@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 16:17:39 (LK time)*
+*As of 2022-06-25 16:29:29 (LK time)*
 
 
 
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([பள்ளத்தாக்கில் விழுந்த பேருந்து; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80e0e66.json))
-
-## Last Hour (5 Articles)
-
-* **2** virakesari-lk ([பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து ; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/304f81ca.json))
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([பள்ளத்தாக்கில் விழுந்த பேருந்து; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80e0e66.json))
 
-* **1** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2bd5fff.json))
+* **1** virakesari-lk ([ஐக்கிய நாடுகள் சபையின் உயிரியல் பன்முகத்தன்மை வரைபும் பெருந்தோட்ட பெண்களும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbee7789.json))
 
-* **1** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
+## Last 3 Hours (21 Articles)
 
-## Last 3 Hours (23 Articles)
-
-* **6** virakesari-lk ([அமெரிக்க ஜனாதிபதி பைடனை சந்தித்தார் அமெரிக்காவுக்கான இலங்கை தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e72b9183.json))
+* **5** virakesari-lk ([சீனத் தூதுவரை சந்தித்து மஹிந்த நன்றி தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce96446d.json))
 
 * **5** lankadeepa-lk ([ලබන සතියේ පාසල් පවත්වන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70039b06.json))
 
-* **4** news-first-lk ([Amber alert issued for strong winds & rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e6d97ed.json))
+* **3** news-first-lk ([Fuel protests continue today; Hatton residents allege no kerosene since 9th](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35ac6ae7.json))
 
 * **3** daily-mirror-lk ([Police advised to video if situation goes out of control at filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112b02a.json))
 
@@ -34,9 +26,9 @@
 
 * **1** economy-next-com ([Sri Lanka’s novice MPs apply for personal firearm: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90ac50b8.json))
 
-## Last 24 Hours (268 Articles)
+## Last 24 Hours (264 Articles)
 
-* **54** lankadeepa-lk ([ලිට්‍රෝ ගෑස් 6 දා තෙක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/971cdef5.json))
+* **50** lankadeepa-lk ([මැලේරියාව යළි හිස ඔසවයි ද](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bf6785.json))
 
 * **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
 
@@ -60,9 +52,9 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,557 Articles)
+## Last Week (1,555 Articles)
 
-* **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b505f98.json))
+* **382** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2c25727.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
