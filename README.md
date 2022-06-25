@@ -1,8 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 11:01:11 (LK time)*
+*As of 2022-06-25 11:02:22 (LK time)*
 
 
+
+## Last 30 Minutes (7 Articles)
+
+* **4** ada-lk ([චීන ස්නායු විද්‍යාඥවරියට යුනෙස්කෝ සම්මානයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9064df8.json))
+
+* **1** ada-derana-lk ([Sri Lanka amends limit on foreign currency possession](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d0d6696.json))
+
+* **1** tamil-mirror-lk ([ஹட்டனில் இருந்து கொழும்பு வீதி மூடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ccfbb42.json))
+
+* **1** news-first-lk ([Four injured in filling station clash](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92dcb356.json))
 
 ## Last Hour (14 Articles)
 
