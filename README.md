@@ -4,8 +4,6 @@
 
 ![wordcloud](wordcloud.png)
 
-
-
 ## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
