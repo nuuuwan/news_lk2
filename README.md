@@ -1,10 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 21:21:46 (LK time)*
+*As of 2022-06-25 21:26:20 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last Hour (1 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
+
+## Last Hour (2 Articles)
+
+* **1** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
 
 * **1** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
 
@@ -12,9 +18,9 @@
 
 * **11** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
-* **3** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
+* **3** tamil-mirror-lk ([9 பங்காளிகள் இணைந்து புதிய அரசியல் கூட்டணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86b6aeeb.json))
 
-* **3** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
+* **3** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
 
 * **3** ada-lk ([මහ බැංකු වංචාවේ දෙවැනි අදියර සජිත් හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde60c1f.json))
 
@@ -24,15 +30,15 @@
 
 * **1** news-first-lk ([Govt responsible for delayed surgeries](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58ace41d.json))
 
-## Last 24 Hours (227 Articles)
+## Last 24 Hours (228 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
 * **38** daily-mirror-lk ([Middle order steers Aussies home in tense chase](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c61d9860.json))
 
-* **29** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
+* **29** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
 
-* **28** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
+* **29** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
 
 * **21** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
 
@@ -46,7 +52,7 @@
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## Last Week (1,599 Articles)
+## Last Week (1,600 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
@@ -62,9 +68,9 @@
 
 * **113** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e8a56fb.json))
 
-* **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
+* **90** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
-* **89** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
@@ -74,7 +80,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,262 Articles)
+## All Time (16,263 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -96,7 +102,7 @@
 
 * **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **89** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **90** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
