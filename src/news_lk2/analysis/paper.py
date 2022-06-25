@@ -1,6 +1,5 @@
 from utils import timex
 
-from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2.core import Article
 from news_lk2.core.filesys import get_article_files
 
@@ -22,28 +21,6 @@ def get_articles(ut_min=None):
             )
         )
     return list(reversed(sorted(articles)))
-
-
-def get_articles_for_date_id(date_id):
-    return list(
-        filter(
-            lambda article: article.date_id == date_id,
-            get_articles(),
-        )
-    )
-
-
-def get_date_ids():
-    return sorted(
-        list(
-            set(
-                map(
-                    lambda article: article.date_id,
-                    get_articles(),
-                )
-            )
-        )
-    )
 
 
 def get_date_id_to_articles(max_days_ago=None):
@@ -74,24 +51,3 @@ def get_date_id_to_articles(max_days_ago=None):
         )
     )
     return date_id_to_articles
-
-
-def dedupe_by_title(articles):
-    title_to_article = {}
-    for article in articles:
-        title_to_article[article.title] = article
-    return sorted(list(title_to_article.values()))
-
-
-def split_body_lines(lines, split_point=WORDS_PER_MINUTE):
-    word_count = 0
-    before_lines = []
-    after_lines = []
-    for line in lines:
-        words = line.split(' ')
-        if word_count < split_point:
-            before_lines.append(line)
-        else:
-            after_lines.append(line)
-        word_count += len(words)
-    return before_lines, after_lines
