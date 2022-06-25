@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 10:56:05 (LK time)*
+*As of 2022-06-25 10:59:31 (LK time)*
 
 
 
-## Last 3 Hours
+## Last 3 Hours (8 Articles)
 
 * **2** economy-next-com ([Sri Lanka visited by top US Treasury, State delegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6eddb4a8.json))
 
@@ -18,9 +18,7 @@
 
 * **1** ada-derana-lk ([10-hour water cut in suburbs of Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json))
 
-TOTAL = **8**
-
-## Last 24 Hours
+## Last 24 Hours (272 Articles)
 
 * **61** lankadeepa-lk ([මන්ත්‍රීවරුන්ගෙන් ප්‍රකාශ ගන්න සී.සී.ඩීය මැතිසබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f5b6ae3.json))
 
@@ -32,7 +30,7 @@ TOTAL = **8**
 
 * **21** tamil-mirror-lk ([குதிரை வண்டியில் சென்ற அருட்தந்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/1902d814.json))
 
-* **21** ada-derana-lk ([Welgama released from bribery case](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbcb696a.json))
+* **19** ada-derana-lk ([Traffic congestion reported near Panchikawatte Junction](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/566d1d19.json))
 
 * **16** daily-ft-lk ([SriLankan Airlines’ Cares airlifts critical medicine to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9806cb02.json))
 
@@ -44,9 +42,7 @@ TOTAL = **8**
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-TOTAL = **274**
-
-## Last Week
+## Last Week (1,475 Articles)
 
 * **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c9e07fe.json))
 
@@ -74,9 +70,7 @@ TOTAL = **274**
 
 * **11** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය: පාසල්වලට ලබන සතියේ නිවාඩු දෙන ආකාරය ඔබ දන්නවාද ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07fbc9d0.json))
 
-TOTAL = **1,475**
-
-## All Time
+## All Time (16,081 Articles)
 
 * **5,857** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd77c3b.json))
 
@@ -105,5 +99,3 @@ TOTAL = **1,475**
 * **24** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
 * **10** daily-news-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16b9acba.json))
-
-TOTAL = **16,081**
