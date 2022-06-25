@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 20:08:55 (LK time)*
+*As of 2022-06-25 20:13:33 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ## Last 30 Minutes (3 Articles)
 
-* **2** lankadeepa-lk ([එක බීල මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cfe10b.json))
+* **2** lankadeepa-lk ([එකට බීලා මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2cfb51.json))
 
 * **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
 
@@ -38,7 +38,7 @@
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (233 Articles)
 
 * **44** daily-mirror-lk ([Sri Lanka held a special place in Shane Warne’s heart, says his brother](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a55e48a.json))
 
@@ -48,7 +48,7 @@
 
 * **27** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
 
-* **25** news-first-lk ([UK Parliament discusses attaching HR conditions to IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f493058c.json))
+* **24** news-first-lk ([Who brought the country to this level? – Cardinal](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e8ec593.json))
 
 * **20** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
 
