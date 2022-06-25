@@ -32,12 +32,28 @@
     "file_name": "/tmp/news_lk2/articles/8d/8d705b50.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/fuel-protests-continue-today-hatton-residents-allege-no-kerosene-since-9th/",
+    "time_ut": 1656144960,
+    "original_lang": "en",
+    "original_title": "Fuel protests continue today; Hatton residents allege no kerosene since 9th",
+    "file_name": "/tmp/news_lk2/articles/35/35ac6ae7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83252/importing-10-essential-items-through-open-accounts-allowed-from-july",
     "time_ut": 1656144600,
     "original_lang": "en",
     "original_title": "Importing 10 essential items through open accounts allowed from July",
     "file_name": "/tmp/news_lk2/articles/58/582a977a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/amber-alert-issued-for-strong-winds-rough-seas-3/",
+    "time_ut": 1656143940,
+    "original_lang": "en",
+    "original_title": "Amber alert issued for strong winds & rough seas",
+    "file_name": "/tmp/news_lk2/articles/9e/9e6d97ed.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -78,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Prof. Rangita De Alwis elected as SL representative for CEDAW",
     "file_name": "/tmp/news_lk2/articles/56/568fce31.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/prof-rangita-de-silva-de-alwis-elected-as-sl-representative-for-cedaw/",
+    "time_ut": 1656142920,
+    "original_lang": "en",
+    "original_title": "Prof. Rangita De Silva De Alwis elected as SL representative for CEDAW",
+    "file_name": "/tmp/news_lk2/articles/9c/9cbe3a79.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -774,29 +798,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka visited by top US Treasury, State delegation",
     "file_name": "/tmp/news_lk2/articles/6e/6eddb4a8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tuna-export-scam-Lakshadweep-MP-his-nephew-under-CBI-scanner/108-239789",
-    "time_ut": 1656126741,
-    "original_lang": "en",
-    "original_title": "Tuna export scam: Lakshadweep MP, his nephew under CBI scanner",
-    "file_name": "/tmp/news_lk2/articles/49/495d41e0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0d89\u0dc4\u0dc5-\u0db8\u0da7\u0dca\u0da7\u0db8\u0dda-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0dc4\u0dd9\u0da7-\u0d91\u0dba\u0dd2/11-394802",
-    "time_ut": 1656125727,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0d89\u0dc4\u0dc5 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc4\u0dd9\u0da7 \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/80/8078cbd1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83246/10-hour-water-cut-in-suburbs-of-colombo",
-    "time_ut": 1656124260,
-    "original_lang": "en",
-    "original_title": "10-hour water cut in suburbs of Colombo",
-    "file_name": "/tmp/news_lk2/articles/0f/0f6b2d23.json"
   }
 ]
