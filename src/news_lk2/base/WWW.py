@@ -31,7 +31,10 @@ class WWW:
             return None
 
     def read(self):
-        return self.readBinary().decode()
+        binary = self.readBinary()
+        if not binary:
+            return None
+        return binary.decode()
 
     def readSelenium(self):
         options = Options()
