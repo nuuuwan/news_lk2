@@ -1,24 +1,25 @@
 ent_group	n
-Sri Lanka	1144
+Sri Lanka	1154
 India	172
 US	124
 Australia	111
-Parliament	98
-IMF	81
-Gotabaya Rajapaksa	77
-the International Monetary Fund	66
-the Central Bank	61
-Ranil Wickremesinghe	60
-Russia	56
-Rajapaksa	52
+Parliament	108
+IMF	87
+Gotabaya Rajapaksa	78
+the International Monetary Fund	67
+the Central Bank	65
+Ranil Wickremesinghe	61
+Rajapaksas	60
+Russia	57
 Messi	50
+the 21st Amendment	50
 Opposition	49
-the 21st Amendment	49
+Aragalaya	43
 Tamil	43
 Viswanathan	41
 Cabinet	40
-Ukraine	37
-Constitution	35
+Constitution	39
+Ukraine	38
 German	34
 Jaffna	32
 the United States	32
@@ -30,16 +31,15 @@ the Central Bank of Sri Lanka	30
 Johnston Fernando	29
 The Bribery Commission	28
 Japan	27
+Kumara Welgama	27
 CID	26
 Argentina	26
-Kumara Welgama	26
 China	25
 Japanese	25
 CSE	25
 Tamil Nadu	24
+U.S.	24
 SPP	23
-U.S.	23
-Aragalaya	22
 Welgama	22
 CPC	21
 SriLankan Airlines	21
@@ -53,16 +53,16 @@ Mullaitivu	18
 Ramamurthy	18
 Premadasa	18
 Dudley Sirisena	18
+Nandalal Weerasinghe	17
 Navy	17
 Chinese	17
 Puttalam	17
 Order	17
+Mahinda Rajapaksa	17
 Asia	17
 the Ministry of Education	17
 the Ceylon Petroleum Corporation	17
-Mahinda Rajapaksa	16
 SL	16
-Nandalal Weerasinghe	16
 UN	16
 Bulgaria	16
 SriLankan Cares	16
@@ -73,16 +73,18 @@ Theekshana	15
 Karunaratne	15
 Estonia	15
 ISB	15
+Dhammika Perera	15
 the United Nations	15
 Korean	15
+Harin Fernando	15
 Hambantota	14
-Dhammika Perera	14
 Cooray	14
 Athukorala	14
+the World Bank	14
 Jehan Appuhamy	14
 Jagath Manuwarna	14
-Harin Fernando	14
-the World Bank	13
+British	13
+SJB	13
 Nepal	13
 SLTB	13
 the Sri Lanka Transport Board	13
@@ -92,7 +94,6 @@ Spain	12
 Army	12
 Perera	12
 National Savings Bank	12
-British	12
 London	12
 the Middle East	12
 Pat Cummins	12
@@ -102,20 +103,20 @@ FE	12
 the Northern Province	12
 the Soviet Union	12
 Section 8 of	12
+Temple Trees	12
 Naseer Ahmed	12
 EU Ambassadors	12
 Kelly Keiderling	12
 Shane Warne’s	12
+Morocco	11
 Diesel	11
 Sajith Premadasa	11
 Joe Biden	11
 Afghanistan	11
-SJB	11
 the Department of Foreign Exchange	11
 the Supreme Court	11
 Nimal Siripala de Silva	11
 American	11
-Morocco	10
 Spanish	10
 COVID-19	10
 Rangita De Silva De Alwis	10
@@ -144,6 +145,8 @@ Latin America	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Matara	9
+JVP	9
+Arab	9
 Hatton	9
 Galle	9
 US Treasury	9
@@ -161,11 +164,11 @@ the Ministry of Public Administration	9
 the U.S. Department of the	9
 the Samagi Jana Balawega	9
 Biden	8
+Galle Face	8
 Chamika Karunaratne	8
 Law Forum	8
 Kottawa	8
 Finance	8
-Temple Trees	8
 Kovid	8
 CBI	8
 the Ministry of Finance	8
@@ -181,8 +184,10 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
+the Finance Ministry	8
 Julie Chung	8
 Eric Lavertu	8
+Daily Mirror	8
 South Asia	8
 the International Transaction Reporting System	8
 Bell Geospace	8
@@ -191,11 +196,15 @@ Rathindu Senaratne	8
 Muslim	8
 Fort	7
 Britain	7
+Independence	7
+Pakistan	7
+Maldives	7
+Egypt	7
+Lebanon	7
 Jagath Kumara	7
 Italy	7
 Iran	7
 Norwegian	7
-JVP	7
 Peiris	7
 Victor Chiujdea	7
 Samsung	7
@@ -207,13 +216,15 @@ Sapugaskanda	7
 Home Affairs	7
 Provincial Councils and Local Government	7
 Sirisena	7
-Daily Mirror	7
+Tunisia	7
 Manipay	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
+the Presidential Secretariat	7
 the Colombo Stock Exchange	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
+Easter	7
 Expolanka Holdings	7
 The Education Ministry	7
 Sri Lankan Tamils ​​in	7
@@ -244,12 +255,10 @@ the Department of the Land Commissioner General	6
 Kurunegala Divisional Secretariats	6
 Taiwan	6
 Howard	6
-Lebanon	6
 Lothar Seubert	6
 Turkey	6
 Pathum Nissanka	6
 Dasun Shanaka	6
-Pakistan	6
 Jason Warne	6
 Shay	6
 Test	6
@@ -260,10 +269,8 @@ Lionel Messi	6
 the Godakawela Police	6
 Lithuania	6
 Coimbatore	6
-Maldives	6
 Anura Kumara Dissanayake	6
 Cuba	6
-the Finance Ministry	6
 Lanka	6
 Jayanath Colombage	6
 Green	6
@@ -276,7 +283,6 @@ the Cabinet Ministers	6
 Gopal Baglay	6
 Senthil Thondaman	6
 Jinarathana Thero	6
-Easter	6
 The Criminal Investigations Department	6
 Galle Face Green	6
 the United Nations Office for the Coordination of Humanitarian Affairs	6
@@ -287,9 +293,9 @@ African	6
 Melilla	5
 Ratnapura	5
 the Presidential Palace	5
+FSP	5
 Canada	5
 Convention	5
-Egypt	5
 Trichy	5
 Business Foreign Currency Account	5
 an Authorized Dealer	5
@@ -298,7 +304,6 @@ the United Kingdom	5
 Norway	5
 Lazard	5
 Maithripala Sirisena	5
-Independence	5
 Vinay Kwatra	5
 Rita Mannella	5
 Aussies	5
@@ -324,7 +329,6 @@ Jayamaha	5
 Kurt Schuler	5
 Milton Friedman	5
 Ruwan Walpola	5
-Arab	5
 UNFCCC	5
 the Paris Agreement	5
 T.K. Ramamurthy	5
@@ -344,6 +348,7 @@ North Macedonia	5
 the Ministry of Agriculture	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+Government	5
 Middle Eastern	5
 Masahiro Nozaki	5
 GL Peiris	5
@@ -362,6 +367,10 @@ the Katunayake Airport	4
 UPFA	4
 Specialist	4
 & CPC	4
+Ranil	4
+Vasudeva Nanayakkara	4
+Sinhalese	4
+Mirihana	4
 Chi Chenhong	4
 Deepal Perera	4
 the Lady Ridgeway Children's Hospital in Colombo	4
@@ -430,12 +439,12 @@ A-PAD SL	4
 Recommendations	4
 Maldivian	4
 Gota	4
-FSP	4
 Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
 IOC	4
+Gota Go Home	4
 the Galle International Stadium	4
 the Prime Minister's Office	4
 The National Water Supply and Drainage Board	4
@@ -463,7 +472,6 @@ Amarasekera	4
 the Public Property Act	4
 Indian High Commission	4
 The Bonn Climate Change Conference	4
-Government	4
 North African	3
 Rabat	3
 Maharagama Police	3
@@ -473,6 +481,12 @@ Wellampitiya, Colombo	3
 Dubai	3
 CrudeOil Shipments	3
 Mississippi	3
+Corona	3
+BBC	3
+SP	3
+Yemen	3
+Nivard Cabraal	3
+the National List	3
 Ministry	3
 Saravanapavan	3
 Kilinochchi	3
@@ -483,10 +497,8 @@ Boris Johnson	3
 www.dfe.lk	3
 Ada Derana	3
 the Board of Directors	3
-Vasudeva Nanayakkara	3
 the Sri Lanka Freedom Party	3
 the Janatha Vimukthi Peramuna	3
-Mirihana	3
 Madiwela	3
 Fed	3
 Thoothukudi	3
@@ -545,9 +557,7 @@ Panadura	3
 Saudi	3
 Greenwood	3
 Mundell	3
-the Presidential Secretariat	3
 Shehan Gunasekara	3
-Sinhalese	3
 Jayalalithaa	3
 C.R. Subburaman	3
 Seergali Govindarajan	3
@@ -629,6 +639,14 @@ Govt	2
 Congress	2
 the White House	2
 Public Transport	2
+Gotagogama	2
+RW	2
+GR	2
+SF	2
+Ben Ali	2
+Syria	2
+Libya	2
+Colombo Telegraph	2
 Vikum Liyanage	2
 Meemure	2
 Lulwatta	2
@@ -745,10 +763,8 @@ Magnetics	2
 Priantha Fernando	2
 Mirror Business	2
 United National Party	2
-the National List	2
 Reuters	2
 Kalutara	2
-BBC	2
 Subramaniam Jaisankar	2
 the Commonwealth Summit	2
 the Monetary Board of the Central Bank of Sri Lanka	2
@@ -835,7 +851,6 @@ Ja-Ela	2
 Kota Ko Gama'	2
 Denmark	2
 Jayashankar	2
-Ranil	2
 Gotabhaya Gotabhaya	2
 the Republic of Italy Rita Mannella	2
 Trina Jongran	2
@@ -874,7 +889,6 @@ the Cooperative Wholesale Establishment	2
 Investigate Allegations of Bribery	2
 the Cooperative and Internal Trade Minister	2
 Rajeeva Bandaranaike	2
-Corona	2
 the Trincomalee Port	2
 the Embassy of Japan	2
 Hoshiai	2
@@ -934,13 +948,11 @@ Abbett	2
 JPMorgan	2
 PIMCO	2
 Neuberger Berman	2
-Nivard Cabraal	2
 Ajith Nivard Cabraal	2
 Board Paper	2
 Cabraal	2
 W.D. Lakshman	2
 Core Group	2
-Galle Face	2
 US Senate Foreign Relations Committee	2
 Sivaji Ganesan	2
 Subburaman	2
@@ -1011,6 +1023,7 @@ Hans Singer	2
 Prebisch	2
 the National Council of Intellectuals	2
 the District Secretaries	2
+Pohottuwa	2
 Dimath Karunaratne	2
 the Department of Meteorology	2
 the Police Media Spokesman's Office	2
@@ -1018,7 +1031,6 @@ the Bakhtar News Agency	2
 Dumith Fernando's	2
 the Monetary Law Act No	2
 Wijayadasa	2
-Gota Go Home'	2
 Marxists	2
 Asia Pacific Department	2
 Anne-Marie Gulde	2
@@ -1066,6 +1078,7 @@ Shankar	2
 Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 the Cold War years	2
+21st Amendment	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
@@ -1124,6 +1137,36 @@ Devinuwara	1
 Ratna Gamage	1
 the National Organizer of the All Ceylon Common Fisheries Federation	1
 Gamage	1
+Mynah	1
+the Arab Spring	1
+Senegal	1
+Lamiaceae	1
+An Historical Relation of the Island Ceylon	1
+Robert Knox	1
+the Kandyan Kingdom	1
+Yahapalana	1
+Nodealgama	1
+Sarath Fonseka (SF	1
+Keith Noir	1
+Ekneligoda	1
+Mohamed Bouazizi	1
+Zine El	1
+Abidine Ben Ali	1
+Algeria	1
+Jordan	1
+Oman	1
+Bahrain	1
+Hosni Mubarak	1
+Muammar Gaddafi	1
+Saudi Arabia	1
+Rambukkana	1
+pro-Government	1
+Yahweh	1
+Abel	1
+Jamila Husain	1
+The Protests Have Fragmented	1
+Sunil Handuneththi	1
+Sarathchandra Mayadunne	1
 Kamal Gunaratne	1
 the Defence Headquarters Complex	1
 Sri Jayewardenepura	1
@@ -1886,7 +1929,6 @@ Sirisena Insinuates	1
 Royal Park Murderer’s	1
 Maithripala	1
 Royal Park	1
-Colombo Telegraph	1
 Coronation Bar & Restaurant	1
 Yvonne Johnson	1
 the Royal Park	1
@@ -1957,11 +1999,9 @@ Coordination of Humanitarian Affairs	1
 Organization of Arab Petroleum Exporting Countries	1
 JR’s	1
 Hameed	1
-Libya	1
 Gadhafi	1
 Sirimavo’s Leftist Coalition Government	1
 Mahmud	1
-GR	1
 OIC	1
 aadi karakkanum	1
 the Non-Aligned Movement	1
@@ -2192,7 +2232,6 @@ Charter	1
 a Stolen Asset Recovery Program	1
 StAR	1
 the International Convention for the Prevention of Money Laundering	1
-Tunisia	1
 the Prevention of Money Laundering Act	1
 the Anti-Corruption Convention	1
 the Center for Policy Alternatives	1
@@ -2216,7 +2255,6 @@ Left	1
 the Govt Parliamentary Group	1
 Anura Bandaranaike	1
 boycotts	1
-the 20th Amendment	1
 the Citizens’ Front	1
 the Rotary Club of Colombo West	1
 SAARC	1
@@ -2241,7 +2279,6 @@ the Tony Blair Institute for Global Change	1
 the Tamil Tigers	1
 Becoming South Asia’s	1
 Somalia	1
-Yemen	1
 ABC TV	1
 Bolsheviks	1
 the Armed Forces	1
@@ -2291,7 +2328,6 @@ Krishantha Prasad Cooray	1
 Vistas	1
 Armageddon	1
 the Presidential Election	1
-Pohotuwa	1
 the General Election	1
 SJB MPs	1
 Mahinda Rajapaksa’s Opposition	1
@@ -2413,7 +2449,6 @@ https://www.ft.lk/columns/Monetary-Board-collectively-accountable-for-imprudent-
 the Open University of Sri Lanka	1
 sscol@ou.ac.lk.	1
 All-Party Government	1
-RW	1
 DP	1
 St. Augustine’s	1
 Westminster	1
@@ -2426,7 +2461,6 @@ Sasana	1
 Citizens for Accountable Governance	1
 4.Country	1
 The 19th Amendment to 20th	1
-the 19th Amendment	1
 SLRs	1
 Press, Police, Penal, Accountable	1
 FDI	1

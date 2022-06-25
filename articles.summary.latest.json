@@ -240,6 +240,14 @@
     "file_name": "/tmp/news_lk2/articles/b0/b0af230a.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/why-i-dont-support-the-aragalaya/",
+    "time_ut": 1656159040,
+    "original_lang": "en",
+    "original_title": "Why I Don\u2019t Support The Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/cf/cf71fc70.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/25/fuel-shipments-further-delayed-cpc-cannot-confirm-next-shipment-arrival-date/",
     "time_ut": 1656159000,
@@ -790,13 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca \u0db7\u0dd6\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0dda \u0db8\u0dbb\u0dab 1,150 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/25/25f07e42.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dc4\u0db1-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-394812",
-    "time_ut": 1656135096,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dc4\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6b/6be6482a.json"
   }
 ]
