@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 17:27:56 (LK time)*
+*As of 2022-06-25 17:28:12 (LK time)*
 
 
 
@@ -26,13 +26,13 @@
 
 ## Last 24 Hours (253 Articles)
 
-* **44** lankadeepa-lk ([මන්ත්‍රී ජගත් කුමාර ගෙන් අගමැතිට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f37bca.json))
+* **44** lankadeepa-lk ([මන්ත්‍රී ජගත් කුමාර ගෙන් අගමැතිට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2425887e.json))
 
-* **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c09fd487.json))
+* **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
 
 * **33** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
-* **31** virakesari-lk ([அமைச்சர் ஜீ.எல்.பீரிஸ் - இந்திய வெளிநாட்டலுவல்கள் அமைச்சருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd25f47.json))
+* **32** virakesari-lk ([அமைச்சர் ஜீ.எல்.பீரிஸ் - இந்திய வெளிநாட்டலுவல்கள் அமைச்சருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd25f47.json))
 
 * **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
@@ -42,7 +42,7 @@
 
 * **19** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
-* **12** economy-next-com ([Sri Lankan landowners without deeds to be legally granted ownership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e56e21fc.json))
+* **11** economy-next-com ([Sri Lanka’s Dhammika Perera sworn in as Minister of Investment Promotion](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c81f96e.json))
 
 * **2** island-lk ([Market heavyweights, Lanka IOC and Expolanka Holdings, boost CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312ce67d.json))
 
@@ -50,9 +50,9 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,580 Articles)
+## Last Week (1,581 Articles)
 
-* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c4b5859.json))
+* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -60,7 +60,7 @@
 
 * **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87799aea.json))
 
-* **126** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **127** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **118** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -78,9 +78,9 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,230 Articles)
+## All Time (16,231 Articles)
 
-* **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd77c3b.json))
+* **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,070** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
@@ -88,7 +88,7 @@
 
 * **1,598** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
-* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/565f6156.json))
+* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
 
 * **1,122** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
@@ -96,7 +96,7 @@
 
 * **174** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **126** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **127** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
