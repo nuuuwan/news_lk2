@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 03:55:59 (LK time)*
+*As of 2022-06-26 04:06:42 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 24 Hours (178 Articles)
+## Last 24 Hours (176 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
 * **25** virakesari-lk ([இன்று மின்வெட்டு அமுலாகும் நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f9a8940.json))
 
-* **24** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
+* **22** daily-mirror-lk ([Opposition dilemma over IMF programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26cc9a87.json))
 
 * **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
