@@ -3,16 +3,15 @@ import argparse
 from utils import timex
 
 from news_lk2._utils import log
-from news_lk2.analysis import paper
 from news_lk2.core import Article
-from news_lk2.core.filesys import git_checkout
+from news_lk2.core.filesys import get_article_files, git_checkout
 
 
 def main(time_window, is_test_mode=False):
     log.debug(f'{time_window=}, {is_test_mode=}')
 
     git_checkout(force=not is_test_mode)
-    article_files = paper.get_article_files()
+    article_files = get_article_files()
     n = len(article_files)
     log.info(f'Backpopulating on {n} articles...')
 
