@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 15:02:32 (LK time)*
+*As of 2022-06-25 15:12:18 (LK time)*
 
 
 
@@ -8,17 +8,13 @@
 
 * **1** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4324bcdb.json))
 
-## Last Hour (4 Articles)
-
-* **2** lankadeepa-lk ([දරුවන්ගේ මන්දපෝෂණය වාර්තාගත ලෙස ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2604ba68.json))
+## Last Hour (1 Articles)
 
 * **1** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4324bcdb.json))
 
-* **1** virakesari-lk ([சுகாதாரத் துறையினருக்கான எரிபொருள் விநியோகத்தை குழப்ப முனைவோரையும்  சுகாதார சேவைகள் பணிப்பாளரை தாக்கியவர்களையும் வன்மையாக கண்டிக்கின்றோம் - வடமாகாண சுகாதார சேவைகள் பணிப்பாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a3029d4.json))
+## Last 3 Hours (36 Articles)
 
-## Last 3 Hours (37 Articles)
-
-* **8** daily-mirror-lk ([SL amends limit on foreign currency possession](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8c28d83.json))
+* **7** daily-mirror-lk ([Our hands are clean – Pillayan](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe3d920.json))
 
 * **7** virakesari-lk ([திருச்சி முகாமில் இலங்கை தமிழர் தீக்குளிப்பு : உயிரை மாய்த்துக்கொள்ள முயன்ற 30 இலங்கைத் தமிழர்கள் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/509ca848.json))
 
@@ -34,13 +30,13 @@
 
 * **2** economy-next-com ([Sri Lanka prohibits use of paddy, rice in animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dfcfea1.json))
 
-## Last 24 Hours (287 Articles)
+## Last 24 Hours (284 Articles)
 
 * **55** lankadeepa-lk ([යුරෝපා තානාපතිවරුන් ගෙන් ජනපතිට සහතිකයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c56bb8a4.json))
 
 * **50** daily-mirror-lk ([Jehan Appuhamy, Jagath Manuwarna and two others granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd70c20.json))
 
-* **48** virakesari-lk ([வெளிவிவகார கொள்கையில் ஏற்பட்ட மாற்றத்தின் விளைவையே தற்போது எதிர்கொள்கிறோம் -  கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5de671bb.json))
+* **45** virakesari-lk ([எரிபொருள் தட்டுப்பாட்டின் எதிரொலி யாழில் குதிரை வண்டியில் பயணம் செய்யும் மதகுரு](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50b38e4c.json))
 
 * **30** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
@@ -60,7 +56,7 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,554 Articles)
+## Last Week (1,553 Articles)
 
 * **385** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6fdf3ee.json))
 
@@ -86,7 +82,7 @@
 
 * **14** colombo-telegraph-com ([Aragalaya: Manufactured Economic Crisis & Peoples’ Suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6d81cd8.json))
 
-* **12** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය: පාසල්වලට ලබන සතියේ නිවාඩු දෙන ආකාරය ඔබ දන්නවාද ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07fbc9d0.json))
+* **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
 ## All Time (16,189 Articles)
 
