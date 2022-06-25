@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 17:28:12 (LK time)*
+*As of 2022-06-25 17:40:53 (LK time)*
 
 
 
@@ -24,15 +24,15 @@
 
 * **1** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4324bcdb.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (248 Articles)
 
 * **44** lankadeepa-lk ([මන්ත්‍රී ජගත් කුමාර ගෙන් අගමැතිට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2425887e.json))
 
 * **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
 
-* **33** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
+* **32** news-first-lk ([Thousands in line for Gas as shortage worsens](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea0ac50d.json))
 
-* **32** virakesari-lk ([அமைச்சர் ஜீ.எல்.பீரிஸ் - இந்திய வெளிநாட்டலுவல்கள் அமைச்சருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd25f47.json))
+* **28** virakesari-lk ([முதலீட்டு ஊக்குவிப்பு அமைச்சராக தம்மிக்க பெரேரா  ஜனாதிபதி முன்னிலையில் சத்தியப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/418665f7.json))
 
 * **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
@@ -50,13 +50,13 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,581 Articles)
+## Last Week (1,578 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
-* **202** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db92ffa3.json))
+* **199** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0ca8739c.json))
 
 * **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87799aea.json))
 

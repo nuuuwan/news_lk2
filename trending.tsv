@@ -14,6 +14,7 @@ Indian	NORP	49
 Messi	PERSON	48
 Opposition	ORG	47
 Viswanathan	GPE	41
+the Central Bank	ORG	39
 Russia	GPE	39
 Sri Lankan	NORP	38
 Cabinet	ORG	38
@@ -23,7 +24,6 @@ Ukraine	GPE	35
 Tamil	PERSON	35
 Constitution	LAW	33
 Sri Lanka's	GPE	31
-the Central Bank	ORG	31
 State	ORG	30
 Gotabhaya Rajapaksa	PERSON	30
 EU	ORG	28
@@ -58,6 +58,7 @@ Navy	ORG	17
 Order	ORG	17
 France	GPE	17
 Ramamurthy	PERSON	17
+Nandalal Weerasinghe	PERSON	16
 UN	ORG	16
 The Bribery Commission	ORG	16
 SL	ORG	15
@@ -81,6 +82,7 @@ SLTB	ORG	13
 Cooray	ORG	13
 Army	ORG	12
 Perera	PERSON	12
+Central Bank	ORG	12
 the Ministry of Education	ORG	12
 National Savings Bank	ORG	12
 British	NORP	12
@@ -92,8 +94,6 @@ Jehan Appuhamy	PERSON	12
 Dudley Sirisena	PERSON	12
 MSV	ORG	12
 the Northern Province	GPE	11
-Central Bank	ORG	11
-Nandalal Weerasinghe	PERSON	11
 Afghanistan	GPE	11
 Nepal	GPE	11
 UNP	ORG	11
@@ -162,6 +162,7 @@ M.S.	GPE	8
 TKR	ORG	8
 Naseer Ahmed	PERSON	8
 CAG	ORG	8
+Jagath Kumara	PERSON	7
 Hatton-Colombo	ORG	7
 Puttalam	ORG	7
 Julie Chung	PERSON	7
@@ -245,7 +246,6 @@ Shane	PERSON	6
 COPE	ORG	6
 Gamini Senarath	PERSON	6
 Expolanka	NORP	6
-Jagath Kumara	PERSON	6
 Lahiru Weerasekera	PERSON	6
 Bribery Case	ORG	6
 Sathosa	PERSON	6
@@ -592,6 +592,7 @@ the Young Journalists’ Association	ORG	2
 Bandarawela	GPE	2
 Sub Inspector Madhusankha	ORG	2
 the Sri Lanka Air Force	FAC	2
+Rangita De Alwis	PERSON	2
 the UN Committee	ORG	2
 the Elimination of All Forms of Discrimination Against Women	ORG	2
 De Silva-De Alwis	PERSON	2
@@ -608,7 +609,6 @@ the Global Institute for Human Rights	ORG	2
 the University of Pennsylvania Law School	ORG	2
 the University of Colombo	ORG	2
 Harvard Law School	ORG	2
-Rangita De Alwis	PERSON	2
 the Department of Media Studies	ORG	2
 the University Council	ORG	2
 Raghuram	ORG	2
@@ -630,9 +630,9 @@ USD	ORG	2
 Johnson	PERSON	2
 Ukraine	ORG	2
 First Capital Holdings PLC	ORG	2
-CBSL	ORG	2
 Samarasinghe	ORG	2
 US Department of State	ORG	2
+CBSL	ORG	2
 the Chipetco Fuel Station	FAC	2
 Hutton Colombo Main Road	ORG	2
 Hutton-Colombo	ORG	2
@@ -1204,6 +1204,7 @@ C. Sirisarkunaraja	PERSON	1
 University Grants Commission Circulars	ORG	1
 C.	PERSON	1
 the Faculty of Arts	ORG	1
+Queues	ORG	1
 Spokesperson SSP Nihal Thalduwa	PERSON	1
 Pallewela	GPE	1
 Badulu Oya	ORG	1
@@ -1212,7 +1213,6 @@ Meegahakiwula	GPE	1
 Petrol	GPE	1
 Kerosene	PERSON	1
 Manipai	ORG	1
-Queues	ORG	1
 Consumer Affairs Authority	ORG	1
 CAA	ORG	1
 Colombo	GPE	1
@@ -1273,13 +1273,13 @@ Alexander Koronzhi	PERSON	1
 the Stock Exchange	ORG	1
 Dumith Fernando's	GPE	1
 Weerasekera	ORG	1
-Section 08 of Foreign Exchange Act No	LAW	1
 State Dept	ORG	1
 John McDaniel	PERSON	1
 Catherine Reynolds	PERSON	1
 State Antony Blinken	ORG	1
 the State Department	ORG	1
 Antony Blinken	PERSON	1
+Section 08 of Foreign Exchange Act No	LAW	1
 Introduces the International Transaction Reporting System	ORG	1
 The International Bank Transaction Reporting System	ORG	1
 The Central Bank's	ORG	1
