@@ -1,101 +1,109 @@
-# news_lk2 (upload_data summary)
+# Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 10:34:06 (LK time)*
+*As of 2022-06-25 10:46:04 (LK time)*
 
 
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours
 
-* 2	tamil-mirror-lk
+* 2	[economy-next-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2df296fe.json)
 
-* 2	economy-next-com
+* 2	[virakesari-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json)
 
-* 2	virakesari-lk
+* 1	[lankadeepa-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json)
 
-* 1	lankadeepa-lk
+* 1	[tamil-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json)
 
-* 1	daily-mirror-lk
+* 1	[daily-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/495d41e0.json)
 
-* 1	ada-derana-lk
+* 1	[ada-derana-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json)
 
-## Last 24 Hours (278 Articles)
+* 8	*TOTAL*
 
-* 61	lankadeepa-lk
+## Last 24 Hours
 
-* 53	daily-mirror-lk
+* 61	[lankadeepa-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json)
 
-* 48	virakesari-lk
+* 51	[daily-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/495d41e0.json)
 
-* 24	news-first-lk
+* 47	[virakesari-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json)
 
-* 21	tamil-mirror-lk
+* 24	[news-first-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdb1b780.json)
 
-* 21	ada-derana-lk
+* 21	[tamil-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json)
 
-* 16	daily-ft-lk
+* 21	[ada-derana-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json)
 
-* 16	ada-lk
+* 16	[daily-ft-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5ec6064.json)
 
-* 15	economy-next-com
+* 16	[ada-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json)
 
-* 2	island-lk
+* 15	[economy-next-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2df296fe.json)
 
-* 1	colombo-telegraph-com
+* 2	[island-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5409040.json)
 
-## Last Week (1,480 Articles)
+* 1	[colombo-telegraph-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json)
 
-* 386	daily-mirror-lk
+* 275	*TOTAL*
 
-* 202	news-first-lk
+## Last Week
 
-* 192	lankadeepa-lk
+* 386	[daily-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/495d41e0.json)
 
-* 147	ada-derana-lk
+* 201	[news-first-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdb1b780.json)
 
-* 109	virakesari-lk
+* 192	[lankadeepa-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json)
 
-* 106	economy-next-com
+* 147	[ada-derana-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json)
 
-* 102	ada-lk
+* 109	[virakesari-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json)
 
-* 75	tamil-mirror-lk
+* 106	[economy-next-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2df296fe.json)
 
-* 61	daily-ft-lk
+* 102	[ada-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json)
 
-* 46	island-lk
+* 75	[tamil-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json)
 
-* 28	d-b-s-jeyaraj-com
+* 61	[daily-ft-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5ec6064.json)
 
-* 15	colombo-telegraph-com
+* 46	[island-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5409040.json)
 
-* 11	b-b-c-com-sinhala
+* 28	[d-b-s-jeyaraj-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15ce8ccf.json)
 
-## Anytime (16,081 Articles)
+* 15	[colombo-telegraph-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json)
 
-* 5,857	daily-mirror-lk
+* 11	[b-b-c-com-sinhala](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json)
 
-* 3,053	news-first-lk
+* 1,479	*TOTAL*
 
-* 2,416	ada-derana-lk
+## All Time
 
-* 1,592	economy-next-com
+* 5,857	[daily-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/495d41e0.json)
 
-* 1,219	daily-ft-lk
+* 3,053	[news-first-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdb1b780.json)
 
-* 1,122	island-lk
+* 2,416	[ada-derana-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json)
 
-* 304	lankadeepa-lk
+* 1,592	[economy-next-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2df296fe.json)
 
-* 158	ada-lk
+* 1,219	[daily-ft-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5ec6064.json)
 
-* 118	d-b-s-jeyaraj-com
+* 1,122	[island-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5409040.json)
 
-* 109	virakesari-lk
+* 304	[lankadeepa-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json)
 
-* 75	tamil-mirror-lk
+* 158	[ada-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json)
 
-* 24	colombo-telegraph-com
+* 118	[d-b-s-jeyaraj-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15ce8ccf.json)
 
-* 24	b-b-c-com-sinhala
+* 109	[virakesari-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json)
 
-* 10	daily-news-lk
+* 75	[tamil-mirror-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json)
+
+* 24	[colombo-telegraph-com](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json)
+
+* 24	[b-b-c-com-sinhala](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json)
+
+* 10	[daily-news-lk](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c57361d3.json)
+
+* 16,081	*TOTAL*
