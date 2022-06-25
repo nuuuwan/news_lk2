@@ -31,5 +31,6 @@ setuptools.setup(
         'selenium',
         'utils-nuuuwan',
         'spacy',
+        'fuzzywuzzy',
     ],
 )
