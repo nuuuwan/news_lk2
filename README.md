@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 00:42:36 (LK time)*
+*As of 2022-06-26 00:55:01 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Sri Lankan ambassador to U.S. meets President Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f00906e7.json))
 
 ## Last 3 Hours (2 Articles)
 
