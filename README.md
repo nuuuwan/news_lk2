@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 04:58:25 (LK time)*
+*As of 2022-06-26 05:09:51 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 24 Hours (174 Articles)
+## Last 24 Hours (172 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -14,9 +14,9 @@
 
 * **20** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
-* **20** daily-mirror-lk ([SriLankan Airlines airlifts critical medicine](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/767f5ddc.json))
-
 * **18** tamil-mirror-lk ([திருச்சி சிறப்பு முகாமில் தற்கொலைக்கு முயன்ற 30 தமிழர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f508ae55.json))
+
+* **18** daily-mirror-lk ([Tourism sector doing “everything possible” to stay afloat](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8b78c3.json))
 
 * **16** ada-derana-lk ([Fairly heavy rainfall expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67346824.json))
 
