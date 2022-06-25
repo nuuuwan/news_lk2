@@ -8,11 +8,13 @@ from news_lk2.core.filesys import DIR_REPO
 
 DELIM_MD = '\n' * 2
 N_LATEST = 100
+GITHUB_BASE = 'https://github.com/nuuuwan/news_lk2/blob/data'
+TMP_BASE = '/tmp/news_lk2'
 
 
-def get_summary_stats(current_time):
+def group_by_time_and_newspaper(current_time):
     articles = Article.load_articles()
-    summary_stats = {}
+    idx = {}
     for article in articles:
         time_ut = article.time_ut
         newspaper_id = article.newspaper_id
@@ -22,42 +24,44 @@ def get_summary_stats(current_time):
             [timex.SECONDS_IN.HOUR * 3, 'Last 3 Hours'],
             [timex.SECONDS_IN.DAY, 'Last 24 Hours'],
             [timex.SECONDS_IN.WEEK, 'Last Week'],
-            [None, 'Anytime'],
+            [None, 'All Time'],
         ]:
 
             if time_window is None or article_age < time_window:
-                if label not in summary_stats:
-                    summary_stats[label] = {}
-                if newspaper_id not in summary_stats[label]:
-                    summary_stats[label][newspaper_id] = 0
-                summary_stats[label][newspaper_id] += 1
+                if label not in idx:
+                    idx[label] = {}
+                if newspaper_id not in idx[label]:
+                    idx[label][newspaper_id] = []
+                idx[label][newspaper_id].append(article.file_name)
 
-    return summary_stats
+    return idx
 
 
 def build_readme_summary():
     current_time = timex.get_unixtime()
-    summary_stats = get_summary_stats(current_time)
+    idx = group_by_time_and_newspaper(current_time)
 
     log.info('Building README.md')
     lines = []
-    lines.append('# news_lk2 (upload_data summary)')
+    lines.append('# Sri Lanka News App (Article Summary)')
     time_last_run = timex.format_time(
         current_time, timezone=timex.TIMEZONE_OFFSET_LK
     )
     lines.append(f'*As of {time_last_run} (LK time)*')
     lines.append('')
 
-    for label, summary_stats_for_label in summary_stats.items():
-        total_n_articles = sum(list(summary_stats_for_label.values()))
-        s = 's' if total_n_articles != 1 else ''
-        lines.append(f'## {label} ({total_n_articles:,} Article{s})')
+    for label, idx_for_label in idx.items():
+        lines.append(f'## {label}')
         total_n_articles = 0
-        for newspaper_id, n_articles in sorted(
-            summary_stats_for_label.items(),
-            key=lambda x: -x[1],
+        for newspaper_id, article_file_list in sorted(
+            idx_for_label.items(),
+            key=lambda x: -len(x[1]),
         ):
-            lines.append(f'* {n_articles:,}\t{newspaper_id}')
+            n_articles = len(article_file_list)
+            url = article_file_list[0].replace(TMP_BASE, GITHUB_BASE)
+            lines.append(f'* {n_articles:,}\t[{newspaper_id}]({url})')
+            total_n_articles += n_articles
+        lines.append(f'* {total_n_articles:,}\t*TOTAL*')
 
     readme_file = os.path.join(DIR_REPO, 'README.md')
     File(readme_file).write(DELIM_MD.join(lines))
