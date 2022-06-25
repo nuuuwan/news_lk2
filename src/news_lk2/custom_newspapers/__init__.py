@@ -1,7 +1,8 @@
 # Auto-Generated
 # with src/news_lk2/workflows/get_custom_newspaper_init.py
-# 20220624-211748
+# 20220625-161354
 from news_lk2.custom_newspapers.AdaDeranaLk import AdaDeranaLk
+from news_lk2.custom_newspapers.AdaDeranaSinhalaLk import AdaDeranaSinhalaLk
 from news_lk2.custom_newspapers.AdaLk import AdaLk
 from news_lk2.custom_newspapers.BBCComSinhala import BBCComSinhala
 from news_lk2.custom_newspapers.ColomboTelegraphCom import ColomboTelegraphCom
@@ -19,6 +20,7 @@ from news_lk2.custom_newspapers.VirakesariLk import VirakesariLk
 
 newspaper_class_list = [
     AdaDeranaLk,
+    AdaDeranaSinhalaLk,
     AdaLk,
     BBCComSinhala,
     ColomboTelegraphCom,
