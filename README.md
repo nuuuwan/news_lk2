@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 01:21:38 (LK time)*
+*As of 2022-06-26 01:36:00 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,15 +10,15 @@
 
 * **1** tamil-mirror-lk ([திருச்சியில் இலங்கை தமிழர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f08d0f.json))
 
-## Last 24 Hours (183 Articles)
+## Last 24 Hours (180 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
-
-* **24** tamil-mirror-lk ([ஜூனில் 8,179 டெங்கு நோயாளர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6644d54f.json))
 
 * **24** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
 
 * **23** virakesari-lk ([இன்று மின்வெட்டு அமுலாகும் நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f9a8940.json))
+
+* **21** tamil-mirror-lk ([விசேட வர்த்தமானி அறிவித்தல் வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5316e33.json))
 
 * **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
