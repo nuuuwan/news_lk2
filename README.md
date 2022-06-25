@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 02:20:40 (LK time)*
+*As of 2022-06-26 02:27:17 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,7 +8,7 @@
 
 * **1** ada-derana-lk ([Sri Lankan ambassador to U.S. meets President Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f00906e7.json))
 
-## Last 24 Hours (180 Articles)
+## Last 24 Hours (179 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -16,11 +16,11 @@
 
 * **24** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
 
-* **20** tamil-mirror-lk ([மன்னிப்பு கோரினார் கஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/676871ae.json))
-
 * **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
 * **20** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
+
+* **19** tamil-mirror-lk ([’மக்கள் வரிசையில் நிற்கும்போது ஆட்சியாளர்கள் யோகா செய்கின்றனர்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927eccb8.json))
 
 * **16** ada-derana-lk ([Fairly heavy rainfall expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67346824.json))
 
@@ -30,7 +30,7 @@
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## Last Week (1,593 Articles)
+## Last Week (1,592 Articles)
 
 * **376** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcb6c6fa.json))
 
@@ -52,7 +52,7 @@
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
-* **26** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
+* **25** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c7fac67.json))
 
 * **15** colombo-telegraph-com ([Sovereignty Betrayed: The Ball Belongs To The State](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47fd8afa.json))
 
