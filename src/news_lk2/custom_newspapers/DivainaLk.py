@@ -1,3 +1,5 @@
+import os
+
 from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
@@ -58,6 +60,13 @@ class DivainaLk(AbstractNewsPaper):
                 lambda p: p.text,
                 ps,
             )
+        )
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "https://divaina.lk",
+            "%e0%b6%9c%e0%b6%9c%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b6%bd%e0%b7%92%e0%b6%9a%e0%b7%8a-%e0%b6%b1%e0%b7%99%e0%b7%80%e0%b7%99%e0%b6%ba%e0%b7%92-%e0%b6%b4%e0%b6%bd%e0%b7%8a%e0%b6%bd%e0%b7%80%e0%b7%92/",  # noqa: E501,
         )
 
 

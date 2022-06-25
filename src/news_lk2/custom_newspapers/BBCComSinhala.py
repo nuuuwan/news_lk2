@@ -1,3 +1,5 @@
+import os
+
 from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
@@ -52,6 +54,12 @@ class BBCComSinhala(AbstractNewsPaper):
                 lambda div: div.text,
                 divs,
             )
+        )
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "https://www.bbc.com/sinhala/sri-lanka-61923325",
         )
 
 

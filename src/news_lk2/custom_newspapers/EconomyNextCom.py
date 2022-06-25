@@ -1,3 +1,5 @@
+import os
+
 from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
@@ -48,4 +50,11 @@ class EconomyNextCom(AbstractNewsPaper):
                 lambda line: line.strip(),
                 header_inner.text.strip().split('\n'),
             )
+        )
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "https://economynext.com",
+            "sri-lanka-president-meets-high-powered-imf-mission-96429/",
         )

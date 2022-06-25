@@ -1,3 +1,5 @@
+import os
+
 from utils import timex
 
 from news_lk2.core import AbstractNewsPaper
@@ -52,6 +54,13 @@ class IslandLk(AbstractNewsPaper):
                 lambda line: line.strip(),
                 header_inner.text.strip().split('\n'),
             )
+        )
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "https://island.lk",
+            "flight-su-289-and-the-future-of-sri-lanka-russia-ties/",
         )
 
 

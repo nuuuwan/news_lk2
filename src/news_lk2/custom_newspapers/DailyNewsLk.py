@@ -58,3 +58,10 @@ class DailyNewsLk(AbstractNewsPaper):
                 )
             )
         return body_lines
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "http://dailynews.lk",
+            "2022/06/25/local/281662/imf-ready-assist-sri-lanka",
+        )

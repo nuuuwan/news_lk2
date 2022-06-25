@@ -1,3 +1,5 @@
+import os
+
 from news_lk2.core import AbstractNewsPaper
 
 TIME_RAW_FORMAT = '%d %B %Y %I:%M %p'
@@ -38,4 +40,12 @@ class DailyMirrorLk(AbstractNewsPaper):
                 lambda line: line.strip(),
                 header_inner.text.strip().split('\n'),
             )
+        )
+
+    @classmethod
+    def get_test_article_url(cls):
+        return os.path.join(
+            "https://www.dailymirror.lk",
+            "opinion",
+            "New-political-formation-under-Dullas-in-the-offing/172-239763",
         )
