@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 01:56:10 (LK time)*
+*As of 2022-06-26 02:07:43 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 3 Hours (2 Articles)
+## Last 3 Hours (1 Articles)
 
 * **1** ada-derana-lk ([Sri Lankan ambassador to U.S. meets President Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f00906e7.json))
 
-* **1** tamil-mirror-lk ([திருச்சியில் இலங்கை தமிழர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f08d0f.json))
-
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (180 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -18,7 +16,7 @@
 
 * **24** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
 
-* **21** tamil-mirror-lk ([விசேட வர்த்தமானி அறிவித்தல் வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5316e33.json))
+* **20** tamil-mirror-lk ([மன்னிப்பு கோரினார் கஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/676871ae.json))
 
 * **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
