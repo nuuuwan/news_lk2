@@ -43,6 +43,10 @@ class AbstractNewsPaper(ABC):
         return False
 
     @classmethod
+    def get_original_lang(cls):
+        return Article.DEFAULT_ORIGINAL_LANG
+
+    @classmethod
     def get_soup(cls, url):
         try:
             html = www.read(url, cached=True, use_selenium=cls.use_selenium())
@@ -100,8 +104,6 @@ class AbstractNewsPaper(ABC):
         return article_urls
 
     @classmethod
-    def get_original_lang(cls):
-        return Article.DEFAULT_ORIGINAL_LANG
     def get_test_article_url(cls):
         raise NotImplementedError
 
