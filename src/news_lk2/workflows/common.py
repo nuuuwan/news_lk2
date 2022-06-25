@@ -7,6 +7,7 @@ from news_lk2._utils import log
 from news_lk2.core import Article
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
+from news_lk2.workflows.build_wordcloud import build_wordcloud
 
 DELIM_MD = '\n' * 2
 N_LATEST = 100
@@ -72,8 +73,6 @@ def build_trending_summary():
                 > MIN_FUZZ_RATIO_FOR_GROUP
             ):
                 ent_to_group[sorted_ents[i]] = sorted_ents[j]
-                if i != j:
-                    log.debug(f'{sorted_ents[i]} -> {sorted_ents[j]}')
                 break
 
     group_to_n = {}
@@ -102,6 +101,8 @@ def build_trending_summary():
     TSVFile(trending_file).write(data_list)
     n_data_list = len(data_list)
     log.info(f'Wrote {n_data_list} ents to {trending_file}')
+
+    build_wordcloud(group_to_n)
 
 
 def group_by_time_and_newspaper(current_time):
