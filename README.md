@@ -2,6 +2,8 @@
 
 *As of 2022-06-25 18:05:33 (LK time)*
 
+![wordcloud](wordcloud.png)
+
 
 
 ## Last 30 Minutes (1 Articles)
