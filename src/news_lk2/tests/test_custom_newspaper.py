@@ -2,8 +2,13 @@ import time
 import unittest
 
 from news_lk2.core.Translate import LANG_LIST
-from news_lk2.custom_newspapers import (DailyNewsLk, DBSJeyarajCom, DivainaLk,
-                                        IslandLk, newspaper_class_list)
+from news_lk2.custom_newspapers import (
+    DailyNewsLk,
+    DBSJeyarajCom,
+    DivainaLk,
+    IslandLk,
+    newspaper_class_list,
+)
 
 MAX_ARTICLE_AGE = 86_400 * 1_000
 MIN_ARTICLE_TITLE_LEN = 10
