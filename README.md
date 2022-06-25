@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 15:39:47 (LK time)*
+*As of 2022-06-25 15:52:04 (LK time)*
 
 
 
-## Last 30 Minutes (4 Articles)
-
-* **2** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2bd5fff.json))
 
-* **1** ada-derana-lk ([One dead, several injured after bus topples down precipice](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/702d9f9d.json))
+* **1** virakesari-lk ([பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து ; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/304f81ca.json))
 
 ## Last Hour (6 Articles)
 
@@ -24,35 +22,35 @@
 
 * **1** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4324bcdb.json))
 
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (28 Articles)
 
-* **8** virakesari-lk ([நகர்ப்புற பாடசாலைகளின் செயற்பாடு குறித்து கல்வி அமைச்சின் விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8efb6bbe.json))
+* **7** virakesari-lk ([யாழ்ப்பாணப் பல்கலைக்கழக ஊடகத் துறைத் தலைவருக்குப் பேராசிரியராகப் பதவி உயர்வு!](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78da5bc8.json))
 
 * **5** lankadeepa-lk ([ලබන සතියේ පාසල් පවත්වන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70039b06.json))
 
 * **5** daily-mirror-lk ([Refrain interfering in duties of new media activists - MLF to IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783daf2e.json))
 
-* **5** news-first-lk ([675 people arrested for fuel hoarding](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75f956ee.json))
+* **4** news-first-lk ([Prof. Rangita De Silva De Alwis elected as SL representative for CEDAW](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cbe3a79.json))
 
-* **3** ada-derana-lk ([Latest announcement on functioning of schools next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b7f033b.json))
-
-* **2** economy-next-com ([Schools in Sri Lanka to open for three days as fuel crisis continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2a3814a.json))
+* **2** ada-derana-lk ([Importing 10 essential items through open accounts allowed from July](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/582a977a.json))
 
 * **2** tamil-mirror-lk ([மீண்டும் ஆரம்பிக்கப்படும் பாடசாலைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2301911.json))
 
 * **2** ada-lk ([සහල් හා වී සත්ත්ව ආහාර වෙනුවෙන් ගැනීම තහනම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2ece67aa.json))
 
-## Last 24 Hours (280 Articles)
+* **1** economy-next-com ([Sri Lanka’s novice MPs apply for personal firearm: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90ac50b8.json))
 
-* **56** lankadeepa-lk ([යුරෝපා තානාපතිවරුන් ගෙන් ජනපතිට සහතිකයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c56bb8a4.json))
+## Last 24 Hours (276 Articles)
+
+* **54** lankadeepa-lk ([ලිට්‍රෝ ගෑස් 6 දා තෙක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/971cdef5.json))
 
 * **46** daily-mirror-lk ([Consider European countries as friends of Sri Lanka: EU Ambassadors](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0037208b.json))
 
-* **44** virakesari-lk ([குமார வெல்கம விடுதலை !](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67812ddb.json))
+* **43** virakesari-lk ([மஹிந்த ராஜபக்ஷ , ஜோன்ஸ்டன் ஆகியோருக்கு  வேறு சட்டமா ? - ஜே.வி.பி. கேள்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5193ed9.json))
 
 * **30** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
-* **26** tamil-mirror-lk ([விவசாய திணைக்கள ஊழியர்களின் விடுமுறைகள் இரத்து ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca41fde4.json))
+* **25** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
 * **23** ada-lk ([විදේශ ඇමති ජී. එල් ඉන්දීය විදේශ ඇමති ජයශංකර් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be1c51b6.json))
 
