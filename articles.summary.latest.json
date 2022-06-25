@@ -1,11 +1,43 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc3\u0dca\u0d9a\u0dd9\u0dc5\u0dd2\u0dba\u0da7-\u0daf\u0dd2\u0db1-\u0db1\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd1/1-615385",
+    "time_ut": 1656168243,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc3\u0dca\u0d9a\u0dd9\u0dc5\u0dd2\u0dba\u0da7 \u0daf\u0dd2\u0db1 \u0db1\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/56/56ef4824.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0d9c\u0dda-\u0dbd\u0dd0\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a-\u0dbb\u0db1\u0dca-\u0db8\u0dad\u0dd4-\u0dc0\u0dda/101-615384",
+    "time_ut": 1656167350,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dad\u0d9c\u0dda \u0dbd\u0dd0\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a \u0dbb\u0db1\u0dca \u0db8\u0dad\u0dd4 \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/9b/9b5059df.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dad\u0d9c\u0dda-\u0dbd\u0dd0\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a-\u0dbb\u0db1\u0dca-\u0db8\u0dad\u0dd4-\u0dc0\u0dda/1-615384",
     "time_ut": 1656167350,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dad\u0d9c\u0dda \u0dbd\u0dd0\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a \u0dbb\u0db1\u0dca \u0db8\u0dad\u0dd4 \u0dc0\u0dda",
     "file_name": "/tmp/news_lk2/articles/16/16c5d882.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130177",
+    "time_ut": 1656167004,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd : \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd - \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/ec/ec402cc0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d91\u0d9a-\u0db6\u0dd3\u0dbd-\u0db8\u0dbb\u0dcf-\u0dc0\u0dd0\u0dc3\u0dd2\u0d9a\u0dd2\u0dc5\u0dd2\u0dc0\u0dc5\u0dda-\u0daf\u0dcf\u0dbd\u0dcf/101-615383",
+    "time_ut": 1656166864,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0d9a \u0db6\u0dd3\u0dbd \u0db8\u0dbb\u0dcf \u0dc0\u0dd0\u0dc3\u0dd2\u0d9a\u0dd2\u0dc5\u0dd2\u0dc0\u0dc5\u0dda \u0daf\u0dcf\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/88/88cfe10b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -766,37 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4\u0daf\u0dd2\u0d9c \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db6\u0dbd \u0db7\u0dd6 \u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0d9a \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/98/9801ac75.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-ambassador-to-us-briefs-president-biden-treasury-state-dept-officials-on-crisis-96436/",
-    "time_ut": 1656134040,
-    "original_lang": "en",
-    "original_title": "Sri Lanka ambassador to US briefs President Biden, Treasury, State Dept officials on crisis",
-    "file_name": "/tmp/news_lk2/articles/b3/b3e64374.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83250/sri-lanka-amends-limit-on-foreign-currency-possession",
-    "time_ut": 1656134040,
-    "original_lang": "en",
-    "original_title": "Sri Lanka amends limit on foreign currency possession",
-    "file_name": "/tmp/news_lk2/articles/8d/8d0d6696.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9a\u0dbb\u0dab-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-394805",
-    "time_ut": 1656134012,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0dc3\u0dca\u0db1\u0dcf\u0dba\u0dd4-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dc0\u0dbb\u0dd2\u0dba\u0da7-\u0dba\u0dd4\u0db1\u0dd9\u0dc3\u0dca\u0d9a\u0ddd-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba\u0d9a\u0dca/3-394804",
-    "time_ut": 1656133868,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1 \u0dc3\u0dca\u0db1\u0dcf\u0dba\u0dd4 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dc0\u0dbb\u0dd2\u0dba\u0da7 \u0dba\u0dd4\u0db1\u0dd9\u0dc3\u0dca\u0d9a\u0ddd \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/e9/e9064df8.json"
   }
 ]
