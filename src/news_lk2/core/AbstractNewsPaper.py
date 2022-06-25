@@ -102,6 +102,8 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def get_original_lang(cls):
         return Article.DEFAULT_ORIGINAL_LANG
+    def get_test_article_url(cls):
+        raise NotImplementedError
 
     @classmethod
     def parse_and_store_article(cls, article_url):
