@@ -86,8 +86,9 @@ class Article:
                 timex.format_time(self.time_ut),
                 self.original_lang,
                 self.original_title,
-                ', '.join(list(self.text_idx.keys())),
-                ', '.join(list(self.text_idx.get('en', {}).keys())),
+                ''.join(
+                    self.text_idx[self.original_lang]['body_lines'],
+                )
             ]
         )
 
