@@ -1,34 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 11:15:16 (LK time)*
+*As of 2022-06-25 11:19:33 (LK time)*
 
 
 
-## Last Hour (22 Articles)
+## Last Hour (23 Articles)
 
 * **10** ada-lk ([අධිකරණ ඇමති කෝච්චියෙන් යාපනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77b48514.json))
 
 * **6** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
-* **2** ada-derana-lk ([Traffic congestion reported on Hatton-Colombo main road](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3bd7fe6.json))
+* **3** tamil-mirror-lk ([ஹட்டனில் இருந்து கொழும்பு வீதி மூடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ccfbb42.json))
 
-* **2** tamil-mirror-lk ([ஹட்டனில் இருந்து கொழும்பு வீதி மூடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ccfbb42.json))
+* **2** ada-derana-lk ([Traffic congestion reported on Hatton-Colombo main road](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3bd7fe6.json))
 
 * **1** economy-next-com ([Sri Lanka ambassador to US briefs President Biden, Treasury, State Dept officials on crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3e64374.json))
 
 * **1** lankadeepa-lk ([සෞඛ්‍යට තෙල් දෙන්න තවත් ෂෙඩ් දහයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41980ee7.json))
 
-## Last 3 Hours (47 Articles)
+## Last 3 Hours (48 Articles)
 
 * **11** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
 * **11** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
+* **6** tamil-mirror-lk ([இலங்கைக்கு படையெடுக்கவுள்ள அமெரிக்க உயர்மட்ட குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json))
+
 * **6** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
 * **5** economy-next-com ([Sri Lanka visited by top US Treasury, State delegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6eddb4a8.json))
-
-* **5** tamil-mirror-lk ([இலங்கைக்கு படையெடுக்கவுள்ள அமெரிக்க உயர்மட்ட குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d406f.json))
 
 * **4** ada-derana-lk ([High-ranking U.S. delegation to arrive in Sri Lanka tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e10d908e.json))
 
@@ -36,7 +36,7 @@
 
 * **1** daily-mirror-lk ([Tuna export scam: Lakshadweep MP, his nephew under CBI scanner](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/495d41e0.json))
 
-## Last 24 Hours (312 Articles)
+## Last 24 Hours (313 Articles)
 
 * **69** lankadeepa-lk ([සංක්‍රමණිකයෝ 35 පානදුර මුහුදෙන් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a059d219.json))
 
@@ -48,7 +48,7 @@
 
 * **27** ada-lk ([ගෑස් නැව් 02ක් ජූලි 5 සහ 12 අතර කොළඹට](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/283fdc60.json))
 
-* **25** tamil-mirror-lk ([குதிரை வண்டியில் பயணிக்கும் அருட்தந்தை ](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25fb31ca.json))
+* **26** tamil-mirror-lk ([குதிரை வண்டியில் பயணிக்கும் அருட்தந்தை ](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25fb31ca.json))
 
 * **23** ada-derana-lk ([Traffic congestion reported near Panchikawatte Junction](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/566d1d19.json))
 
@@ -62,7 +62,7 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,513 Articles)
+## Last Week (1,514 Articles)
 
 * **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01c7f664.json))
 
@@ -78,7 +78,7 @@
 
 * **109** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/308cfdca.json))
 
-* **79** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **80** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **61** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
@@ -90,7 +90,7 @@
 
 * **12** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය: පාසල්වලට ලබන සතියේ නිවාඩු දෙන ආකාරය ඔබ දන්නවාද ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07fbc9d0.json))
 
-## All Time (16,123 Articles)
+## All Time (16,124 Articles)
 
 * **5,857** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -112,7 +112,7 @@
 
 * **111** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **79** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **80** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
