@@ -1,6 +1,6 @@
 import os
 
-from utils import File, timex
+from utils import File, timex, hashx
 
 DIR_CUSTOM_NEWSPAPERS = 'src/news_lk2/custom_newspapers'
 INIT_FILE_ONLY = '__init__.py'
@@ -21,10 +21,10 @@ def get_class_name_list():
 
 def build_init(class_name_list):
     lines = []
-    lines.append('# Auto-Generated')
-    lines.append('# with src/news_lk2/workflows/get_custom_newspaper_init.py')
+    hash = hashx.md5(str(class_name_list))
+    lines.append('# Auto-Generated with build_custom_newspaper_init.py')
     time_id = timex.get_time_id()
-    lines.append(f'# {time_id}')
+    lines.append(f'# {hash}')
 
     lines += list(
         map(
