@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 19:23:31 (LK time)*
+*As of 2022-06-25 19:32:02 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (5 Articles)
 
 * **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
-* **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
-
-## Last Hour (10 Articles)
+## Last Hour (8 Articles)
 
 * **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
@@ -19,10 +17,6 @@
 * **1** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
 
 * **1** ada-lk ([අත්‍යාවශ්‍ය ආහාර වර්ග 10ක් විවෘත ගිණුම් ක්‍රමය යටතේ ආනයනයට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aead02ef.json))
-
-* **1** news-first-lk ([Govt responsible for delayed surgeries](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58ace41d.json))
-
-* **1** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
 
 ## Last 3 Hours (15 Articles)
 
@@ -64,7 +58,7 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,588 Articles)
+## Last Week (1,587 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
@@ -78,7 +72,7 @@
 
 * **120** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
-* **113** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/308cfdca.json))
+* **112** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e8a56fb.json))
 
 * **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
