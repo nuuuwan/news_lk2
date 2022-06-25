@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 04:06:42 (LK time)*
+*As of 2022-06-26 04:16:40 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 24 Hours (176 Articles)
+## Last 24 Hours (174 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
 * **25** virakesari-lk ([இன்று மின்வெட்டு அமுலாகும் நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f9a8940.json))
 
-* **22** daily-mirror-lk ([Opposition dilemma over IMF programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26cc9a87.json))
-
 * **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
 * **20** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
+
+* **20** daily-mirror-lk ([SriLankan Airlines airlifts critical medicine](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/767f5ddc.json))
 
 * **18** tamil-mirror-lk ([திருச்சி சிறப்பு முகாமில் தற்கொலைக்கு முயன்ற 30 தமிழர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f508ae55.json))
 
