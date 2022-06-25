@@ -1,6 +1,16 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83246/10-hour-water-cut-in-suburbs-of-colombo",
+    "time_ut": 1656124260,
+    "original_lang": "en",
+    "original_title": "10-hour water cut in suburbs of Colombo",
+    "file_name": "/tmp/news_lk2/articles/0f/0f6b2d23.json",
+    "title": "10-hour water cut in suburbs of Colombo",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83245/fairly-heavy-rainfall-expected-in-some-areas-today",
     "time_ut": 1656121680,
     "original_lang": "en",
@@ -21,6 +31,16 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/First-aerial-mapping-of-SL-petroleum-resources-to-be-presented-at-SEAPEX-confab/245-239788",
+    "time_ut": 1656115108,
+    "original_lang": "en",
+    "original_title": "First aerial mapping of SL petroleum resources to be presented at SEAPEX confab",
+    "file_name": "/tmp/news_lk2/articles/5e/5e2ad427.json",
+    "title": "First aerial mapping of SL petroleum resources to be presented at SEAPEX confab",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/First-aerial-mapping-of-SL-petroleum-resources-to-be-presented-at-SEAPEX-confab/108-239788",
     "time_ut": 1656115108,
     "original_lang": "en",
@@ -36,6 +56,16 @@
     "original_lang": "en",
     "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
     "file_name": "/tmp/news_lk2/articles/37/37b7f4c9.json",
+    "title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Tourism-sector-doing-everything-possible-to-stay-afloat/273-239787",
+    "time_ut": 1656115024,
+    "original_lang": "en",
+    "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
+    "file_name": "/tmp/news_lk2/articles/8b/8b8b78c3.json",
     "title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
     "is_translated": true
   },
@@ -87,6 +117,16 @@
     "original_title": "For public servants, there is no higher calling than serving others",
     "file_name": "/tmp/news_lk2/articles/c7/c7c4e0ef.json",
     "title": "For public servants, there is no higher calling than serving others",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1-\u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baf\u0bcb\u0b95\u0bbe-\u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd/175-299165",
+    "time_ut": 1656105245,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baf\u0bcb\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/92/927eccb8.json",
+    "title": "\u2019\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baf\u0bcb\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd\u2019",
     "is_translated": true
   },
   {
@@ -340,6 +380,16 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2-\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dad\u0dbb\u0d9c\u0dba\u0dda-\u0da2\u0dba-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/9-394801",
+    "time_ut": 1656091332,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/7f/7f4797cb.json",
+    "title": "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130142",
     "time_ut": 1656090382,
@@ -347,6 +397,16 @@
     "original_title": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0bb1\u0bcd\u0b9a\u0bcb\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bbf \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf\u0baf \u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd ! - \u0bae\u0ba9\u0bcb \u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/00/00b3e625.json",
     "title": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0bb1\u0bcd\u0b9a\u0bcb\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bbf \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bbf\u0baf \u0bb5\u0bc7\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd ! - \u0bae\u0ba9\u0bcb \u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130147",
+    "time_ut": 1656090296,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc7 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/22/2283bde2.json",
+    "title": "\u0bae\u0bbf\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc7 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
     "is_translated": true
   },
   {
@@ -380,6 +440,26 @@
     "is_translated": true
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Sri-Lanka-to-use-another-US-70-M-from-Indian-credit-line-to-import-food/238-239743",
+    "time_ut": 1656089762,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to use another US $ 70 M  from Indian credit line to import food",
+    "file_name": "/tmp/news_lk2/articles/a7/a7829903.json",
+    "title": "Sri Lanka to use another US $ 70 M  from Indian credit line to import food",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Yellow-is-our-colour-SJB/238-239740",
+    "time_ut": 1656089664,
+    "original_lang": "en",
+    "original_title": "Yellow is our colour -SJB",
+    "file_name": "/tmp/news_lk2/articles/6d/6dc630fa.json",
+    "title": "Yellow is our colour -SJB",
+    "is_translated": true
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83243/european-countries-assure-provision-of-assistance-to-sri-lanka",
     "time_ut": 1656089460,
@@ -397,6 +477,16 @@
     "original_title": "Consider us as friends, European countries tell Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/4f/4f99230c.json",
     "title": "Consider us as friends, European countries tell Sri Lanka",
+    "is_translated": true
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Kumara-Welgama-released-from-corruption-case/238-239733",
+    "time_ut": 1656089393,
+    "original_lang": "en",
+    "original_title": "Kumara Welgama released from corruption case",
+    "file_name": "/tmp/news_lk2/articles/15/150ef60e.json",
+    "title": "Kumara Welgama released from corruption case",
     "is_translated": true
   },
   {
@@ -907,96 +997,6 @@
     "original_title": "\u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0db4\u0db1\u0dad\u0dca  \u0daf\u0dd9\u0d9a\u0da7 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dda \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba",
     "file_name": "/tmp/news_lk2/articles/dd/dd0755af.json",
     "title": "\u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0db4\u0db1\u0dad\u0dca  \u0daf\u0dd9\u0d9a\u0da7 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dda \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/dhammika-perera-sworn-in-as-minister-of-investment-promotion/",
-    "time_ut": 1656076080,
-    "original_lang": "en",
-    "original_title": "Dhammika Perera sworn in as Minister of Investment Promotion",
-    "file_name": "/tmp/news_lk2/articles/71/7159deff.json",
-    "title": "Dhammika Perera sworn in as Minister of Investment Promotion",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/petrol-shipment-further-delayed-kanchana/",
-    "time_ut": 1656075720,
-    "original_lang": "en",
-    "original_title": "Petrol shipment further delayed \u2013 Kanchana",
-    "file_name": "/tmp/news_lk2/articles/88/88c4d9b5.json",
-    "title": "Petrol shipment further delayed \u2013 Kanchana",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/g-l-thanks-india-for-extensive-support/",
-    "time_ut": 1656075660,
-    "original_lang": "en",
-    "original_title": "G.L. thanks India for extensive support",
-    "file_name": "/tmp/news_lk2/articles/cc/cc2bcf68.json",
-    "title": "G.L. thanks India for extensive support",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/committee-probing-recent-riots-obtains-statement-from-fmr-army-commander/",
-    "time_ut": 1656075660,
-    "original_lang": "en",
-    "original_title": "Committee probing recent riots obtains statement from fmr Army Commander",
-    "file_name": "/tmp/news_lk2/articles/f2/f280ba88.json",
-    "title": "Committee probing recent riots obtains statement from fmr Army Commander",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83238/dhammika-perera-sworn-in-as-a-minister",
-    "time_ut": 1656075180,
-    "original_lang": "en",
-    "original_title": "Dhammika Perera sworn in as a minister",
-    "file_name": "/tmp/news_lk2/articles/5e/5e956664.json",
-    "title": "Dhammika Perera sworn in as a minister",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-experience-for-Australian-cricketers/108-239728",
-    "time_ut": 1656074846,
-    "original_lang": "en",
-    "original_title": "Power cut experience for Australian cricketers",
-    "file_name": "/tmp/news_lk2/articles/c0/c09fd487.json",
-    "title": "Power cut experience for Australian cricketers",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Power-cut-experience-for-Australian-cricketers/155-239728",
-    "time_ut": 1656074846,
-    "original_lang": "en",
-    "original_title": "Power cut experience for Australian cricketers",
-    "file_name": "/tmp/news_lk2/articles/62/62e3492b.json",
-    "title": "Power cut experience for Australian cricketers",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/24/thousands-stranded-at-id-office-due-to-public-holiday/",
-    "time_ut": 1656074340,
-    "original_lang": "en",
-    "original_title": "Thousands stranded at ID Office due to Public Holiday",
-    "file_name": "/tmp/news_lk2/articles/fd/fde1676f.json",
-    "title": "Thousands stranded at ID Office due to Public Holiday",
-    "is_translated": true
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/a-rescue-and-reset-plan-for-sri-lanka/",
-    "time_ut": 1656073560,
-    "original_lang": "en",
-    "original_title": "A Rescue and Reset Plan for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/e5/e5409040.json",
-    "title": "A Rescue and Reset Plan for Sri Lanka",
     "is_translated": true
   }
 ]
