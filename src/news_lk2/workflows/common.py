@@ -1,15 +1,70 @@
 import os
 
-from utils import File, JSONFile, timex
+from utils import File, JSONFile, TSVFile, timex
 
 from news_lk2._utils import log
 from news_lk2.core import Article
+from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
 
 DELIM_MD = '\n' * 2
 N_LATEST = 100
 GITHUB_BASE = 'https://github.com/nuuuwan/news_lk2/blob/data'
 TMP_BASE = '/tmp/news_lk2'
+DELIM = ':'
+MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.WEEK
+
+
+def build_trending_summary():
+    current_time = timex.get_unixtime()
+    articles = Article.load_articles()
+    ents = []
+    for article in articles:
+        time_ut = article.time_ut
+        article_age = current_time - time_ut
+
+        if article_age > MAX_ARTICLE_AGE_FOR_TRENDS:
+            continue
+
+        if (
+            not article.text_idx
+            or 'en' not in article.text_idx
+            or 'title_ents' not in article.text_idx['en']
+        ):
+            continue
+        text_idx = article.text_idx['en']
+        ents += text_idx['title_ents']
+        for ents0 in text_idx['body_line_ents_list']:
+            ents += ents0
+
+    ent_text_to_n = {}
+    for ent in ents:
+        if ent['label'] not in THING_ENTS:
+            continue
+        k = ent['text'] + DELIM + ent['label']
+
+        if k not in ent_text_to_n:
+            ent_text_to_n[k] = 0
+        ent_text_to_n[k] += 1
+
+    data_list = list(
+        map(
+            lambda x: dict(
+                ent_text=x[0].split(DELIM)[0],
+                ent_label=x[0].split(DELIM)[1],
+                n=x[1],
+            ),
+            sorted(
+                ent_text_to_n.items(),
+                key=lambda x: -x[1],
+            ),
+        )
+    )
+
+    trending_file = os.path.join(DIR_REPO, 'trending.tsv')
+    TSVFile(trending_file).write(data_list)
+    n_data_list = len(data_list)
+    log.info(f'Wrote {n_data_list} ents to {trending_file}')
 
 
 def group_by_time_and_newspaper(current_time):
@@ -110,3 +165,9 @@ def build_articles_summary():
         f'Wrote {n_latest_data_list} articles '
         + f'to {articles_summary_latest_file}',
     )
+
+
+def build_all_summaries():
+    build_articles_summary()
+    build_readme_summary()
+    build_trending_summary()
