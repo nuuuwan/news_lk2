@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 14:38:53 (LK time)*
+*As of 2022-06-25 14:50:48 (LK time)*
 
 
 
-## Last Hour (11 Articles)
-
-* **4** lankadeepa-lk ([ලබන සතියේ පාසල් පවත්වන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70039b06.json))
+## Last Hour (5 Articles)
 
 * **2** virakesari-lk ([சீனத் தூதுவரை சந்தித்து மஹிந்த நன்றி தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce96446d.json))
 
-* **2** daily-mirror-lk ([Police advised to video if situation goes out of control at filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0112b02a.json))
+* **2** lankadeepa-lk ([දරුවන්ගේ මන්දපෝෂණය වාර්තාගත ලෙස ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2604ba68.json))
 
 * **1** tamil-mirror-lk ([எரிபொருள் தாங்கிகளை திறக்க வேண்டாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/926a0af9.json))
 
-* **1** news-first-lk ([Fuel protests continue today; Hatton residents allege no kerosene since 9th](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35ac6ae7.json))
+## Last 3 Hours (37 Articles)
 
-* **1** ada-derana-lk ([Importing 10 essential items through open accounts allowed from July](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/582a977a.json))
-
-## Last 3 Hours (39 Articles)
-
-* **10** virakesari-lk ([மக்கள் ஆர்ப்பாட்டம் ; ஹட்டன் - கொழும்பு பிரதான வீதியில் வாகன நெரிசல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff8c7ea6.json))
+* **8** virakesari-lk ([கொள்கைகளுக்கேற்ப இலங்கைக்கு உதவ முடியும் ; சர்வதேச நாணய நிதியக்குழு தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b69f4545.json))
 
 * **7** daily-mirror-lk ([SL amends limit on foreign currency possession](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8c28d83.json))
 
@@ -36,16 +30,15 @@
 
 * **2** economy-next-com ([Sri Lanka prohibits use of paddy, rice in animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dfcfea1.json))
 
-## Last 24 Hours (294 Articles)
+## Last 24 Hours (290 Articles)
 
 * **55** lankadeepa-lk ([යුරෝපා තානාපතිවරුන් ගෙන් ජනපතිට සහතිකයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c56bb8a4.json))
 
-* **51** daily-mirror-lk ([ Doctors in fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02e89378.json))
+* **49** virakesari-lk ([உணவகத்திற்கு சென்று மின்வெட்டில் சிக்கிக்கொண்ட ஆஸ்திரேலிய கிரிக்கெட் வீரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e24a0803.json))
 
-* **50** virakesari-lk ([உக்ரைன் ரஷிய மோதலிற்கு சர்வதேச நாணயநிதியமே காரணம்- வாசுதேவ](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f13c4e7.json))
+* **49** daily-mirror-lk ([Jehan Appuhamy, Jagath Manuwarna and two others granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd70c20.json))
 
-* **31** news-first-lk ([
-Leave of Agri Ministry employees cancelled to distribute fertilizer](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfe97adb.json))
+* **30** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
 * **28** tamil-mirror-lk ([காதல் வலை வீசி மாணவிகளை துஷ்பிரயோகம் செய்த அதிர்ச்சி சம்பவம் ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a7fa10d.json))
 
@@ -63,13 +56,13 @@ Leave of Agri Ministry employees cancelled to distribute fertilizer](https://git
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,556 Articles)
+## Last Week (1,553 Articles)
 
-* **386** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbd3c55e.json))
+* **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6fdf3ee.json))
 
 * **220** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
-* **203** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27dfddfa.json))
+* **202** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57876f5e.json))
 
 * **149** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd84ba.json))
 
