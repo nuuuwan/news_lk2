@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 19:32:02 (LK time)*
+*As of 2022-06-25 19:46:23 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([9 பங்காளிகள் இணைந்து புதிய அரசியல் கூட்டணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86b6aeeb.json))
+
+## Last Hour (7 Articles)
 
 * **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
-## Last Hour (8 Articles)
-
-* **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
+* **1** tamil-mirror-lk ([9 பங்காளிகள் இணைந்து புதிய அரசியல் கூட்டணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86b6aeeb.json))
 
 * **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
 
-* **1** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
-
-* **1** ada-lk ([අත්‍යාවශ්‍ය ආහාර වර්ග 10ක් විවෘත ගිණුම් ක්‍රමය යටතේ ආනයනයට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aead02ef.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (16 Articles)
 
 * **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
@@ -26,31 +24,31 @@
 
 * **3** news-first-lk ([Fuel shipments further delayed & CPC cannot confirm next shipment arrival date](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0da3324.json))
 
+* **2** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
+
 * **1** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
 
 * **1** ada-lk ([අත්‍යාවශ්‍ය ආහාර වර්ග 10ක් විවෘත ගිණුම් ක්‍රමය යටතේ ආනයනයට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aead02ef.json))
 
-* **1** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
-
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last 24 Hours (233 Articles)
+## Last 24 Hours (231 Articles)
 
 * **44** daily-mirror-lk ([Sri Lanka held a special place in Shane Warne’s heart, says his brother](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a55e48a.json))
 
 * **38** lankadeepa-lk ([ලංගමට දහස් ගණනක්  හොරපාරෙන් අරන් වැටුප් ගෙවලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c38fdcb.json))
 
+* **27** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
+
 * **27** virakesari-lk ([வத்தளை துப்பாக்கிச் சூடு :உளவு பார்த்த இருவர் கைது - தடுப்புக் காவலில் வைத்து விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/539f2054.json))
 
-* **26** news-first-lk ([Rear Admiral Prasad Kariyapperuma – SE Navy Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a14d4f9b.json))
-
-* **26** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
-
-* **20** ada-derana-lk ([Will assist Sri Lanka in line with IMF policies, delegation tells President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c2b17c5.json))
+* **25** news-first-lk ([UK Parliament discusses attaching HR conditions to IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f493058c.json))
 
 * **20** ada-lk ([ධම්මික පෙරේරාට ආයෝජන ප්‍රවර්ධන අමාත්‍යධුරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5552edfd.json))
 
 * **19** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
+
+* **18** ada-derana-lk ([Afghanistan ends search for survivors of devastating earthquake](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73e5e855.json))
 
 * **11** economy-next-com ([Sri Lanka stocks gain for 4th consecutive session to hit over 1-wk high](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3d56b4.json))
 
@@ -58,7 +56,7 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,587 Articles)
+## Last Week (1,588 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
@@ -76,7 +74,7 @@
 
 * **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
-* **87** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **88** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
@@ -86,7 +84,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,248 Articles)
+## All Time (16,249 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -108,7 +106,7 @@
 
 * **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **87** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **88** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
