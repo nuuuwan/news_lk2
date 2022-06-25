@@ -2,7 +2,7 @@ from utils import JSONFile, timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2._utils import log
-from news_lk2.core.filesys import get_article_file
+from news_lk2.core.filesys import get_article_file, get_article_files
 
 MINUTES_PER_TRUNCATED_BODY = 1
 MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
@@ -93,3 +93,13 @@ class Article:
 
     def __lt__(self, other):
         return self.time_ut < other.time_ut
+
+    @staticmethod
+    def load_articles():
+        articles = list(
+            map(
+                Article.load_from_file,
+                get_article_files(),
+            )
+        )
+        return list(reversed(sorted(articles)))
