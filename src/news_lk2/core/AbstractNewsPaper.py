@@ -1,5 +1,4 @@
 import os
-import time
 from abc import ABC
 
 from bs4 import BeautifulSoup
@@ -14,7 +13,6 @@ MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
 MIN_WORDS_IN_BODY_LINE = 10
 TIME_RAW_FORMAT = '%Y-%m-%d %H:%M:%S'
-TIME_SCRAPE_WAIT = 3
 
 
 def is_valid_line(line):
@@ -108,57 +106,57 @@ class AbstractNewsPaper(ABC):
         raise NotImplementedError
 
     @classmethod
+    def parse_article(cls, article_url):
+        soup = cls.get_soup(article_url)
+        if not soup:
+            raise Exception(f'{article_url} has invalid HTML. Not parsing.')
+
+        original_lang = cls.get_original_lang()
+        original_title = cls.parse_title(soup).strip()
+        original_body_lines = list(
+            filter(
+                lambda line: is_valid_line(line),
+                list(
+                    map(
+                        lambda line: line.strip(),
+                        cls.parse_body_lines(soup),
+                    )
+                ),
+            )
+        )
+        original_author = cls.parse_author(soup).strip()
+
+        text_idx = Translate.build_text_idx(
+            original_lang,
+            original_title,
+            original_body_lines,
+            original_author,
+        )
+
+        article = Article(
+            newspaper_id=cls.get_newspaper_id(),
+            url=article_url,
+            time_ut=cls.parse_time_ut(soup),
+            original_lang=original_lang,
+            original_title=original_title,
+            text_idx=text_idx,
+        )
+        return article
+
+    @classmethod
     def parse_and_store_article(cls, article_url):
         log.debug(f'[parse_and_store_article] {article_url}...')
-
         article_file = get_article_file(article_url)
         if os.path.exists(article_file):
             log.info(f'{article_file} already exists. Not parsing.')
             return None
 
-        time.sleep(TIME_SCRAPE_WAIT)
-        soup = cls.get_soup(article_url)
-        if not soup:
-            log.warn(f'{article_url} has invalid HTML. Not parsing.')
-            return None
         try:
-            original_lang = cls.get_original_lang()
-            original_title = cls.parse_title(soup).strip()
-            original_body_lines = list(
-                filter(
-                    lambda line: is_valid_line(line),
-                    list(
-                        map(
-                            lambda line: line.strip(),
-                            cls.parse_body_lines(soup),
-                        )
-                    ),
-                )
-            )
-            try:
-                original_author = cls.parse_author(soup).strip()
-            except BaseException:
-                original_author = ""
-
-            text_idx = Translate.build_text_idx(
-                original_lang,
-                original_title,
-                original_body_lines,
-                original_author,
-            )
-
-            article = Article(
-                newspaper_id=cls.get_newspaper_id(),
-                url=article_url,
-                time_ut=cls.parse_time_ut(soup),
-                original_lang=original_lang,
-                original_title=original_title,
-                text_idx=text_idx,
-            )
+            article = cls.parse_article(article_url)
             article.store()
             return article
 
-        except ValueError as e:
+        except Exception as e:
             log.error(str(e))
             return None
 
