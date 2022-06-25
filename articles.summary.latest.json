@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2/101-615372",
+    "time_ut": 1656145177,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/70/70039b06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-advise-to-video-if-situation-goes-out-of-control-at-filling-stations/108-239798",
+    "time_ut": 1656145152,
+    "original_lang": "en",
+    "original_title": "Police advise to video if situation goes out of control at filling stations",
+    "file_name": "/tmp/news_lk2/articles/8d/8d705b50.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83252/importing-10-essential-items-through-open-accounts-allowed-from-july",
+    "time_ut": 1656144600,
+    "original_lang": "en",
+    "original_title": "Importing 10 essential items through open accounts allowed from July",
+    "file_name": "/tmp/news_lk2/articles/58/582a977a.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130168",
     "time_ut": 1656143772,
@@ -46,6 +70,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/f2/f2301911.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dc4\u0dbd\u0dca-\u0dc4\u0dcf-\u0dc0\u0dd3-\u0dc3\u0dad\u0dca\u0dad\u0dca\u0dc0-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-394816",
+    "time_ut": 1656142172,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dc4\u0dbd\u0dca \u0dc4\u0dcf \u0dc0\u0dd3 \u0dc3\u0dad\u0dca\u0dad\u0dca\u0dc0 \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dad\u0dc4\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2e/2ece67aa.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -766,37 +798,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka President meets high powered IMF mission",
     "file_name": "/tmp/news_lk2/articles/8c/8c1b355e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/First-aerial-mapping-of-SL-petroleum-resources-to-be-presented-at-SEAPEX-confab/245-239788",
-    "time_ut": 1656115108,
-    "original_lang": "en",
-    "original_title": "First aerial mapping of SL petroleum resources to be presented at SEAPEX confab",
-    "file_name": "/tmp/news_lk2/articles/5e/5e2ad427.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/First-aerial-mapping-of-SL-petroleum-resources-to-be-presented-at-SEAPEX-confab/108-239788",
-    "time_ut": 1656115108,
-    "original_lang": "en",
-    "original_title": "First aerial mapping of SL petroleum resources to be presented at SEAPEX confab",
-    "file_name": "/tmp/news_lk2/articles/f2/f2a96666.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tourism-sector-doing-everything-possible-to-stay-afloat/108-239787",
-    "time_ut": 1656115024,
-    "original_lang": "en",
-    "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
-    "file_name": "/tmp/news_lk2/articles/37/37b7f4c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Tourism-sector-doing-everything-possible-to-stay-afloat/273-239787",
-    "time_ut": 1656115024,
-    "original_lang": "en",
-    "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
-    "file_name": "/tmp/news_lk2/articles/8b/8b8b78c3.json"
   }
 ]
