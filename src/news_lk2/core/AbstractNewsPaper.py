@@ -2,9 +2,10 @@ import os
 from abc import ABC
 
 from bs4 import BeautifulSoup
-from utils import dt, mr, timex, www
+from utils import dt, mr, timex
 
 from news_lk2._utils import log
+from news_lk2.base.WWW import WWW
 from news_lk2.core import Translate
 from news_lk2.core.Article import Article
 from news_lk2.core.filesys import get_article_file
@@ -47,7 +48,11 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def get_soup(cls, url):
         try:
-            html = www.read(url, cached=True, use_selenium=cls.use_selenium())
+            www = WWW(url)
+            if cls.use_selenium():
+                html = www.readSelenium()
+            else:
+                html = www.read()
         except Exception as e:
             log.error(str(e))
             return None
