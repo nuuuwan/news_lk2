@@ -1,52 +1,48 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 18:15:33 (LK time)*
+*As of 2022-06-25 18:36:11 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** ada-derana-lk ([U.S. Supreme Court ends constitutional right to abortion](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/276b9513.json))
+* **1** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
 
-* **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
-
-* **1** news-first-lk ([Fishermen protest against rising costs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0af230a.json))
-
-## Last Hour (4 Articles)
+## Last Hour (5 Articles)
 
 * **2** news-first-lk ([Fuel shipments further delayed & CPC cannot confirm next shipment arrival date](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0da3324.json))
 
+* **1** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
+
 * **1** ada-derana-lk ([U.S. Supreme Court ends constitutional right to abortion](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/276b9513.json))
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (9 Articles)
 
-* **4** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
+* **3** news-first-lk ([One dead, 5 injured in Meemure tragedy](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa0552fc.json))
 
-* **3** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
+* **2** tamil-mirror-lk ([பள்ளத்தாக்கில் விழுந்த பேருந்து; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80e0e66.json))
 
 * **2** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-* **1** tamil-mirror-lk ([பள்ளத்தாக்கில் விழுந்த பேருந்து; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80e0e66.json))
+* **1** virakesari-lk ([ஐக்கிய நாடுகள் சபையின் உயிரியல் பன்முகத்தன்மை வரைபும் பெருந்தோட்ட பெண்களும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbee7789.json))
 
-* **1** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2bd5fff.json))
+## Last 24 Hours (242 Articles)
 
-## Last 24 Hours (247 Articles)
-
-* **46** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
+* **44** daily-mirror-lk ([Sri Lanka held a special place in Shane Warne’s heart, says his brother](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a55e48a.json))
 
 * **42** lankadeepa-lk ([කම්කරු පනත්  දෙකට කතානායකගේ සහතිකය](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0755af.json))
 
-* **32** news-first-lk ([Committee probing recent riots obtains statement from fmr Army Commander](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f280ba88.json))
+* **29** news-first-lk ([Dhammika Perera sworn in as Minister of Investment Promotion](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/7159deff.json))
 
 * **28** virakesari-lk ([முதலீட்டு ஊக்குவிப்பு அமைச்சராக தம்மிக்க பெரேரா  ஜனாதிபதி முன்னிலையில் சத்தியப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/418665f7.json))
 
-* **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
+* **27** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
-* **22** ada-derana-lk ([Dhammika Perera sworn in as a minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e956664.json))
+* **21** ada-derana-lk ([Petrol shipment further delayed, minister says](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4e015f2.json))
 
 * **19** ada-lk ([ලංකාවට සහාය දෙන බව IMF නියෝජිතයෝ ජනපතිට කියති](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f706b0e.json))
 
@@ -58,9 +54,9 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,581 Articles)
+## Last Week (1,580 Articles)
 
-* **381** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
+* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -76,7 +72,7 @@
 
 * **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
-* **86** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **87** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
@@ -86,7 +82,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,236 Articles)
+## All Time (16,237 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -108,7 +104,7 @@
 
 * **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **86** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **87** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
