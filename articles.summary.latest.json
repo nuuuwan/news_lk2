@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/76-299181",
+    "time_ut": 1656152342,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/c8/c80e0e66.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130174",
+    "time_ut": 1656152056,
+    "original_lang": "ta",
+    "original_title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0ba9\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0bb5\u0bb0\u0bc8\u0baa\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bbee7789.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0da0\u0dd3\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0db8\u0dc4\u0dad\u0dcf-\u0d85\u0dad\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/101-615377",
     "time_ut": 1656150921,
@@ -14,6 +30,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bb8\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/30/304f81ca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/permission-to-import-10-essentials-via-open-accounts/",
+    "time_ut": 1656150780,
+    "original_lang": "en",
+    "original_title": "Permission to import 10 essentials via open accounts",
+    "file_name": "/tmp/news_lk2/articles/82/82495b1d.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -38,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s novice MPs apply for personal firearm: report",
     "file_name": "/tmp/news_lk2/articles/90/90ac50b8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/slc-selects-squad-for-slvsaus-test-series/",
+    "time_ut": 1656149400,
+    "original_lang": "en",
+    "original_title": "SLC selects squad for SLvsAUS test series",
+    "file_name": "/tmp/news_lk2/articles/46/46bc6ceb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -766,37 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/37/37bf42db.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615363",
-    "time_ut": 1656129519,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/5d/5d0e226e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Talks-today-to-open-schools-next-week-Edu-Min-Secy/108-239790",
-    "time_ut": 1656129492,
-    "original_lang": "en",
-    "original_title": "Talks today to open schools next week: Edu. Min. Secy.",
-    "file_name": "/tmp/news_lk2/articles/85/85e140f0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Talks-today-to-open-schools-next-week-Edu-Min-Secy/342-239790",
-    "time_ut": 1656129492,
-    "original_lang": "en",
-    "original_title": "Talks today to open schools next week: Edu. Min. Secy.",
-    "file_name": "/tmp/news_lk2/articles/2d/2d5ff2eb.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dc4\u0dbd\u0dca-\u0dc3\u0dc4-\u0dc0\u0dd3-\u0d9c\u0dd0\u0db1-\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca/101-615362",
-    "time_ut": 1656129455,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dc4\u0dbd\u0dca \u0dc3\u0dc4 \u0dc0\u0dd3 \u0d9c\u0dd0\u0db1 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/34/342c429c.json"
   }
 ]
