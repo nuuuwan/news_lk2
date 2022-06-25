@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 16:29:29 (LK time)*
+*As of 2022-06-25 16:40:41 (LK time)*
 
 
 
@@ -10,7 +10,7 @@
 
 * **1** virakesari-lk ([ஐக்கிய நாடுகள் சபையின் உயிரியல் பன்முகத்தன்மை வரைபும் பெருந்தோட்ட பெண்களும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbee7789.json))
 
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
 * **5** virakesari-lk ([சீனத் தூதுவரை சந்தித்து மஹிந்த நன்றி தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce96446d.json))
 
@@ -22,25 +22,25 @@
 
 * **2** tamil-mirror-lk ([எரிபொருள் தாங்கிகளை திறக்க வேண்டாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/926a0af9.json))
 
-* **2** ada-derana-lk ([Importing 10 essential items through open accounts allowed from July](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/582a977a.json))
+* **1** ada-derana-lk ([One dead, several injured after bus topples down precipice](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/702d9f9d.json))
 
 * **1** economy-next-com ([Sri Lanka’s novice MPs apply for personal firearm: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90ac50b8.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (262 Articles)
 
-* **50** lankadeepa-lk ([මැලේරියාව යළි හිස ඔසවයි ද](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48bf6785.json))
+* **48** lankadeepa-lk ([ඇත්දළ සමග අයෙක් සැකපිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b5aaf26.json))
 
 * **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
 
-* **37** virakesari-lk ([இலங்கையின் பொருளாதார நெருக்கடி : பிரிட்டனின் பிரபல இராஜதந்திரி சர்வதேச நாணய நிதியத்திற்கு விடுத்துள்ள எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/121a4bdc.json))
+* **36** virakesari-lk ([யார் இந்த மெஸ்ஸி.... ? இன்று பிறந்தநாள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e20a2fb.json))
 
 * **32** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
 * **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
-* **21** ada-lk ([ධීවර සංස්ථාව සහ සතොස මගින් මාළු බජට් පැක් 02ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b65f4132.json))
+* **21** ada-derana-lk ([Speaker endorses certificate on 3 Bills](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08053494.json))
 
-* **20** ada-derana-lk ([Speaker endorses certificate on 3 Bills](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08053494.json))
+* **21** ada-lk ([ධීවර සංස්ථාව සහ සතොස මගින් මාළු බජට් පැක් 02ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b65f4132.json))
 
 * **16** daily-ft-lk ([SriLankan Airlines’ Cares airlifts critical medicine to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9806cb02.json))
 
@@ -52,7 +52,7 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,555 Articles)
+## Last Week (1,556 Articles)
 
 * **382** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2c25727.json))
 
@@ -60,7 +60,7 @@
 
 * **202** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a90ba7bc.json))
 
-* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e53bd5a7.json))
+* **149** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e53bd5a7.json))
 
 * **126** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -80,13 +80,13 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,198 Articles)
+## All Time (16,199 Articles)
 
 * **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,069** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
-* **2,424** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
+* **2,425** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
 
 * **1,598** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
