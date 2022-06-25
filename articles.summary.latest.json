@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-facing-virtual-standstill-after-indefinite-delay-of-fuel-shipment-96449/",
+    "time_ut": 1656162900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka facing virtual standstill after indefinite delay of fuel shipment",
+    "file_name": "/tmp/news_lk2/articles/6c/6ce61805.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dbb\u0dca\u0d9c-10\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d86\u0db1\u0dba\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/11-394820",
     "time_ut": 1656162685,
     "original_lang": "si",
     "original_title": "\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dbb\u0dca\u0d9c 10\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba \u0dba\u0da7\u0dad\u0dda \u0d86\u0db1\u0dba\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
     "file_name": "/tmp/news_lk2/articles/ae/aead02ef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/govt-responsible-for-delayed-surgeries/",
+    "time_ut": 1656162060,
+    "original_lang": "en",
+    "original_title": "Govt responsible for delayed surgeries",
+    "file_name": "/tmp/news_lk2/articles/58/58ace41d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -782,21 +798,5 @@
     "original_lang": "si",
     "original_title": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0db4\u0dd0\u0db1\u0dd3\u0db8",
     "file_name": "/tmp/news_lk2/articles/00/00f5291a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/21-\u0dc0\u0dd0\u0db1\u0dd2-\u0d9a\u0da9\u0dd4\u0dbd\u0dca\u0dbd-\u0db4\u0dd0\u0db1\u0dd3\u0db8/2-615368",
-    "time_ut": 1656130588,
-    "original_lang": "si",
-    "original_title": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0db4\u0dd0\u0db1\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/92/92a738f6.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2\u0daf-/101-615367",
-    "time_ut": 1656130454,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/ad/ad2eaf5b.json"
   }
 ]
