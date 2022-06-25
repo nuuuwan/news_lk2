@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83257/at-least-18-migrants-die-attempting-to-enter-spains-melilla-from-morocco",
+    "time_ut": 1656175620,
+    "original_lang": "en",
+    "original_title": "At least 18 migrants die attempting to enter Spain\u2019s Melilla from Morocco",
+    "file_name": "/tmp/news_lk2/articles/38/389d27fc.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bc1\u0baa\u0bcb\u0ba4\u0bc8-\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8-\u0bae\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/175-299199",
     "time_ut": 1656171959,
@@ -790,13 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dc4\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/6b/6be6482a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda-\u0dad\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db1\u0dc0\u0dad\u0db8-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca/7-394811",
-    "time_ut": 1656134927,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f1/f1627303.json"
   }
 ]

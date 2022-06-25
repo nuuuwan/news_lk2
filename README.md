@@ -1,30 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 22:21:41 (LK time)*
+*As of 2022-06-25 22:35:36 (LK time)*
 
 ![wordcloud](wordcloud.png)
+
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
+
+## Last Hour (1 Articles)
+
+* **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
 ## Last 3 Hours (15 Articles)
 
 * **6** lankadeepa-lk ([එකට බීලා මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2cfb51.json))
 
-* **3** tamil-mirror-lk ([9 பங்காளிகள் இணைந்து புதிய அரசியல் கூட்டணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86b6aeeb.json))
-
 * **3** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
+
+* **2** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
 
 * **2** ada-lk ([ලක්ෂ 110 රන් සමග ව්‍යාපාරික කාන්තාවක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/922b03c1.json))
 
+* **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
+
 * **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
 
-## Last 24 Hours (212 Articles)
+## Last 24 Hours (205 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
-* **30** daily-mirror-lk ([Yellow is our colour -SJB](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01b0f7a0.json))
-
-* **27** virakesari-lk ([உண்மையான நட்பு நாட்டை அரசாங்கம் அடையாளப்படுத்திக்கொள்ள வேண்டும் - ரஷ்யாவிற்கான முன்னாள் இலங்கை தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6cc323.json))
+* **26** daily-mirror-lk ([Sri Lanka facing fullblown humanitarian emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6de73e5c.json))
 
 * **25** tamil-mirror-lk ([’மனித உரிமை மீறல்கள் குறித்தும் ஐ.எம்.எப் கவனம் செலுத்த வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c8d5d1a.json))
+
+* **24** virakesari-lk ([நீங்கள் பாற்சோறு பரிமாறி கொண்டாடிய வேளையிலும் போராடியவர்கள் நாங்கள் ! - மனோ கணேசன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00b3e625.json))
 
 * **22** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
 
@@ -32,7 +42,7 @@
 
 * **19** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
-* **15** ada-derana-lk ([Sale of rice or paddy for animal feed production banned from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b362ae7.json))
+* **15** ada-derana-lk ([Fairly heavy rainfall expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67346824.json))
 
 * **11** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
@@ -40,13 +50,13 @@
 
 ## Last Week (1,596 Articles)
 
-* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
+* **378** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fba4b99.json))
 
 * **233** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
 * **198** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9088e2e5.json))
 
-* **146** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9344efa2.json))
+* **147** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9344efa2.json))
 
 * **130** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -66,13 +76,13 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,264 Articles)
+## All Time (16,265 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,073** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
-* **2,428** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
+* **2,429** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
 
 * **1,600** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
