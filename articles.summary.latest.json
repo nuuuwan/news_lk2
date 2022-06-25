@@ -233,14 +233,6 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/50-299168",
-    "time_ut": 1656128031,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/45/45828608.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1/50-299168",
     "time_ut": 1656128031,
     "original_lang": "ta",
@@ -248,12 +240,12 @@
     "file_name": "/tmp/news_lk2/articles/4c/4c4d406f.json"
   },
   {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-tightens-legal-tender-limits-foreign-currency-possession-96434/",
-    "time_ut": 1656127860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka tightens legal tender, limits foreign currency possession",
-    "file_name": "/tmp/news_lk2/articles/e3/e3f74a10.json"
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f-\u0b95\u0bc1\u0bb4\u0bc1-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/50-299168",
+    "time_ut": 1656128031,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/45/45828608.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -262,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka tightens legal tender rule, limits foreign currency possession",
     "file_name": "/tmp/news_lk2/articles/2d/2df296fe.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tightens-legal-tender-limits-foreign-currency-possession-96434/",
+    "time_ut": 1656127860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tightens legal tender, limits foreign currency possession",
+    "file_name": "/tmp/news_lk2/articles/e3/e3f74a10.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -281,19 +281,19 @@
   },
   {
     "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/us-treasury-state-department-officials-to-visit-sri-lanka-96432/",
-    "time_ut": 1656126900,
-    "original_lang": "en",
-    "original_title": "US Treasury, State Department officials to visit Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/0c/0c9ab279.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-visited-by-top-us-treasury-state-delegation-96432/",
     "time_ut": 1656126900,
     "original_lang": "en",
     "original_title": "Sri Lanka visited by top US Treasury, State delegation",
     "file_name": "/tmp/news_lk2/articles/6e/6eddb4a8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/us-treasury-state-department-officials-to-visit-sri-lanka-96432/",
+    "time_ut": 1656126900,
+    "original_lang": "en",
+    "original_title": "US Treasury, State Department officials to visit Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/0c/0c9ab279.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -361,14 +361,6 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tourism-sector-doing-everything-possible-to-stay-afloat/108-239787",
-    "time_ut": 1656115024,
-    "original_lang": "en",
-    "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
-    "file_name": "/tmp/news_lk2/articles/37/37b7f4c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business-news/Tourism-sector-doing-everything-possible-to-stay-afloat/273-239787",
     "time_ut": 1656115024,
     "original_lang": "en",
@@ -377,11 +369,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SriLankan-Airlines-airlifts-critical-medicine/108-239771",
-    "time_ut": 1656113622,
+    "url": "https://www.dailymirror.lk/breaking_news/Tourism-sector-doing-everything-possible-to-stay-afloat/108-239787",
+    "time_ut": 1656115024,
     "original_lang": "en",
-    "original_title": "SriLankan Airlines airlifts critical medicine",
-    "file_name": "/tmp/news_lk2/articles/1d/1d582bde.json"
+    "original_title": "Tourism sector doing \u201ceverything possible\u201d to stay afloat",
+    "file_name": "/tmp/news_lk2/articles/37/37b7f4c9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -390,6 +382,14 @@
     "original_lang": "en",
     "original_title": "SriLankan Airlines airlifts critical medicine",
     "file_name": "/tmp/news_lk2/articles/76/767f5ddc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SriLankan-Airlines-airlifts-critical-medicine/108-239771",
+    "time_ut": 1656113622,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines airlifts critical medicine",
+    "file_name": "/tmp/news_lk2/articles/1d/1d582bde.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -641,19 +641,19 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/sports/\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2-\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dad\u0dbb\u0d9c\u0dba\u0dda-\u0da2\u0dba-\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7/9-394801",
-    "time_ut": 1656091332,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba \u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ad/add7ca35.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/sports/\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2-\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dad\u0dbb\u0d9c\u0dba\u0dda-\u0da2\u0dba-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/9-394801",
     "time_ut": 1656091332,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/7f/7f4797cb.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/sports/\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2-\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dad\u0dbb\u0d9c\u0dba\u0dda-\u0da2\u0dba-\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7/9-394801",
+    "time_ut": 1656091332,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0dda \u0da2\u0dba \u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ad/add7ca35.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -705,14 +705,6 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Yellow-is-our-colour-SJB/238-239740",
-    "time_ut": 1656089664,
-    "original_lang": "en",
-    "original_title": "Yellow is our colour -SJB",
-    "file_name": "/tmp/news_lk2/articles/6d/6dc630fa.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Yellow-is-our-colour-SJB/108-239740",
     "time_ut": 1656089664,
     "original_lang": "en",
@@ -720,12 +712,12 @@
     "file_name": "/tmp/news_lk2/articles/01/01b0f7a0.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83243/european-countries-assure-provision-of-assistance-to-sri-lanka",
-    "time_ut": 1656089460,
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Yellow-is-our-colour-SJB/238-239740",
+    "time_ut": 1656089664,
     "original_lang": "en",
-    "original_title": "European countries assure provision of assistance to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/37/372a05a4.json"
+    "original_title": "Yellow is our colour -SJB",
+    "file_name": "/tmp/news_lk2/articles/6d/6dc630fa.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -734,6 +726,14 @@
     "original_lang": "en",
     "original_title": "Consider us as friends, European countries tell Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/4f/4f99230c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83243/european-countries-assure-provision-of-assistance-to-sri-lanka",
+    "time_ut": 1656089460,
+    "original_lang": "en",
+    "original_title": "European countries assure provision of assistance to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/37/372a05a4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -777,6 +777,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Middle-order-steers-Aussies-home-in-tense-chase/458-239730",
+    "time_ut": 1656088220,
+    "original_lang": "en",
+    "original_title": "Middle order steers Aussies home in tense chase",
+    "file_name": "/tmp/news_lk2/articles/96/9635cac1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Middle-order-steers-Aussies-home-in-tense-chase/324-239730",
     "time_ut": 1656088220,
     "original_lang": "en",
@@ -785,18 +793,10 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Middle-order-steers-Aussies-home-in-tense-chase/342-239730",
+    "url": "https://www.dailymirror.lk/headline/Middle-order-steers-Aussies-home-in-tense-chase/419-239730",
     "time_ut": 1656088220,
     "original_lang": "en",
     "original_title": "Middle order steers Aussies home in tense chase",
-    "file_name": "/tmp/news_lk2/articles/51/518ed2d7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Middle-order-steers-Aussies-home-in-tense-chase/108-239730",
-    "time_ut": 1656088220,
-    "original_lang": "en",
-    "original_title": "Middle order steers Aussies home in tense chase",
-    "file_name": "/tmp/news_lk2/articles/fd/fdfa9f9b.json"
+    "file_name": "/tmp/news_lk2/articles/c6/c61d9860.json"
   }
 ]
