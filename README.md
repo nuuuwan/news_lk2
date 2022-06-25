@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 10:54:46 (LK time)*
+*As of 2022-06-25 10:56:05 (LK time)*
 
 
 
@@ -18,7 +18,7 @@
 
 * **1** ada-derana-lk ([10-hour water cut in suburbs of Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f6b2d23.json))
 
-* 8	*TOTAL*
+TOTAL = **8**
 
 ## Last 24 Hours
 
@@ -36,19 +36,19 @@
 
 * **16** daily-ft-lk ([SriLankan Airlines’ Cares airlifts critical medicine to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9806cb02.json))
 
-* **16** ada-lk ([රියදුරු තම ලොරියටම යටවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c42a7e9e.json))
-
 * **15** economy-next-com ([IMF’s talks with Sri Lanka must also focus on corruption, aid diversion: Mark Malloch-Brown](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43179b51.json))
+
+* **15** ada-lk ([ගෑස් නැව් 02ක් ජූලි 5 සහ 12 අතර කොළඹට](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/283fdc60.json))
 
 * **2** island-lk ([Market heavyweights, Lanka IOC and Expolanka Holdings, boost CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312ce67d.json))
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-* 275	*TOTAL*
+TOTAL = **274**
 
 ## Last Week
 
-* **386** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4f7f7ba.json))
+* **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c9e07fe.json))
 
 * **199** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c64a305.json))
 
@@ -74,7 +74,7 @@
 
 * **11** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය: පාසල්වලට ලබන සතියේ නිවාඩු දෙන ආකාරය ඔබ දන්නවාද ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07fbc9d0.json))
 
-* 1,477	*TOTAL*
+TOTAL = **1,475**
 
 ## All Time
 
@@ -106,4 +106,4 @@
 
 * **10** daily-news-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16b9acba.json))
 
-* 16,081	*TOTAL*
+TOTAL = **16,081**
