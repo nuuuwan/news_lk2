@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 17:18:16 (LK time)*
+*As of 2022-06-25 17:27:56 (LK time)*
 
 
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
 ## Last Hour (1 Articles)
 
@@ -28,25 +24,25 @@
 
 * **1** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4324bcdb.json))
 
-## Last 24 Hours (259 Articles)
+## Last 24 Hours (253 Articles)
 
-* **46** lankadeepa-lk ([පෙට්‍රල් නැවට බාලගිරි දෝෂයද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98e7ee1d.json))
+* **44** lankadeepa-lk ([මන්ත්‍රී ජගත් කුමාර ගෙන් අගමැතිට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f37bca.json))
 
-* **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
+* **44** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c09fd487.json))
 
 * **33** news-first-lk ([Sapugaskanda to go offline tonight (24)](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfb81eb.json))
 
-* **33** virakesari-lk ([இந்தியா - இலங்கைக்கிடையிலான இருதரப்பு உறவுகள் தொடர்பில் இரு நாட்டு வெளியுறவுச் செயலாளர்களுக்கிடையில் கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b79ebaa8.json))
+* **31** virakesari-lk ([அமைச்சர் ஜீ.எல்.பீரிஸ் - இந்திய வெளிநாட்டலுவல்கள் அமைச்சருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd25f47.json))
 
 * **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
 * **21** ada-derana-lk ([Dhammika Perera sworn in as a minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e956664.json))
 
-* **20** ada-lk ([සිකුරාදා වෙන් කළත් සෞඛ්‍යට ඉන්ධන නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d286d46.json))
+* **19** ada-lk ([ලංකාවට සහාය දෙන බව IMF නියෝජිතයෝ ජනපතිට කියති](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f706b0e.json))
 
 * **19** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
-* **13** economy-next-com ([Sri Lanka’s demand for legal booze drops by 30 percent](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e31f0f12.json))
+* **12** economy-next-com ([Sri Lankan landowners without deeds to be legally granted ownership](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e56e21fc.json))
 
 * **2** island-lk ([Market heavyweights, Lanka IOC and Expolanka Holdings, boost CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312ce67d.json))
 
@@ -56,7 +52,7 @@
 
 ## Last Week (1,580 Articles)
 
-* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
+* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c4b5859.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -84,7 +80,7 @@
 
 ## All Time (16,230 Articles)
 
-* **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
+* **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd77c3b.json))
 
 * **3,070** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
@@ -92,7 +88,7 @@
 
 * **1,598** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
-* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
+* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/565f6156.json))
 
 * **1,122** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
