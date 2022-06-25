@@ -85,7 +85,7 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_author(cls, soup):
-        raise NotImplementedError
+        return "unknown"
 
     @classmethod
     def parse_body_lines(cls, soup):

@@ -45,10 +45,6 @@ class AdaDeranaLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
-    def parse_author(cls, soup):
-        raise ""
-
-    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'news-content'})
         return list(

@@ -43,10 +43,6 @@ class DailyNewsLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
-    def parse_author(cls, soup):
-        return ""
-
-    @classmethod
     def parse_body_lines(cls, soup):
         divs = soup.find_all('div', {'class': 'field-item'})
         body_lines = []

@@ -31,10 +31,6 @@ class LankadeepaLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
-    def parse_author(cls, soup):
-        return ""
-
-    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('header', {'class': 'post-content'})
         return list(

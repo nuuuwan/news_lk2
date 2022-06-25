@@ -48,10 +48,6 @@ class DivainaLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
-    def parse_author(cls, soup):
-        return ""
-
-    @classmethod
     def parse_body_lines(cls, soup):
         div = soup.find('div', {'class': 'td-post-content tagdiv-type'})
         ps = div.find_all('p')
