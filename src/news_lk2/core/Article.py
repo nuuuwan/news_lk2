@@ -2,7 +2,6 @@ from utils import JSONFile, timex
 
 from news_lk2._constants import WORDS_PER_MINUTE
 from news_lk2._utils import log
-from news_lk2.core import Translate
 from news_lk2.core.filesys import get_article_file
 
 MINUTES_PER_TRUNCATED_BODY = 1
@@ -69,58 +68,6 @@ class Article:
             text_idx=d.get('text_idx'),
         )
 
-    @staticmethod
-    def from_dict_with_backpopulate(d):
-        url = d['url']
-        newspaper_id = d['newspaper_id']
-
-        # legacy
-        if 'original_lang' in d:
-            original_lang = d['original_lang']
-        else:
-            original_lang = newspaper_id_to_lang.get(newspaper_id)
-            if not original_lang:
-                raise Exception(newspaper_id)
-
-        if 'original_title' in d:
-            original_title = d['original_title']
-        else:
-            original_title = d['title']
-
-        if 'text_idx' in d:
-            text_idx = d['text_idx']
-        else:
-            text_idx = None
-            if 'translate' in d:
-                translate = d['translate']
-                if len(translate.keys()) == 3:
-                    text_idx = translate
-                if len(translate.keys()) == 2:
-                    text_idx = translate
-                    origin_body_lines = d['body_lines']
-                    text_idx[original_lang] = dict(
-                        title=original_title,
-                        body_lines=origin_body_lines,
-                    )
-
-            if not text_idx:
-                log.warning(f'[{url}] Translating')
-                origin_body_lines = d['body_lines']
-                text_idx = Translate.build_text_idx(
-                    original_lang,
-                    original_title,
-                    origin_body_lines,
-                )
-
-        return Article(
-            newspaper_id=newspaper_id,
-            url=url,
-            time_ut=d['time_ut'],
-            original_lang=original_lang,
-            original_title=original_title,
-            text_idx=text_idx,
-        )
-
     @property
     def to_dict(self):
         return dict(
@@ -130,26 +77,15 @@ class Article:
             original_lang=self.original_lang,
             original_title=self.original_title,
             text_idx=self.text_idx,
-            # legacy - eventually delete
-            title=self.original_title,
-            body_lines=self.text_idx[self.original_lang]['body_lines'],
-            translate=self.text_idx,
         )
 
     def store(self):
         JSONFile(self.file_name).write(self.to_dict)
         log.debug(f'Wrote {self.file_name}')
 
-        JSONFile(self.file_name_legacy).write(self.to_dict)
-        log.debug(f'Wrote [legacy] {self.file_name_legacy}')
-
     @property
     def file_name(self):
         return get_article_file(self.url)
-
-    @property
-    def file_name_legacy(self):
-        return get_article_file(self.url, '.translated')
 
     @property
     def date_id(self):
