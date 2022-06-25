@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 03:32:16 (LK time)*
+*As of 2022-06-26 03:45:58 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 24 Hours (179 Articles)
+## Last 24 Hours (178 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -24,9 +24,7 @@
 
 * **2** colombo-telegraph-com ([Why I Don’t Support The Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf71fc70.json))
 
-* **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
-
-## Last Week (1,593 Articles)
+## Last Week (1,592 Articles)
 
 * **376** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcb6c6fa.json))
 
@@ -48,7 +46,7 @@
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
-* **25** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c7fac67.json))
+* **24** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
 * **15** colombo-telegraph-com ([Sovereignty Betrayed: The Ball Belongs To The State](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47fd8afa.json))
 
