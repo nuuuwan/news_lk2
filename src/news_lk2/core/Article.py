@@ -7,22 +7,6 @@ from news_lk2.core.filesys import get_article_file, get_article_files
 MINUTES_PER_TRUNCATED_BODY = 1
 MAX_WORDS_TRUNCATED = WORDS_PER_MINUTE * MINUTES_PER_TRUNCATED_BODY
 
-newspaper_id_to_lang = {
-    'ada-derana-lk': 'en',
-    'ada-lk': 'si',
-    'colombo-telegraph-com': 'en',
-    'daily-ft-lk': 'en',
-    'daily-mirror-lk': 'en',
-    'daily-news-lk': 'en',
-    'd-b-s-jeyaraj-com': 'en',
-    'economy-next-com': 'en',
-    'island-lk': 'en',
-    'lankadeepa-lk': 'si',
-    'news-first-lk': 'en',
-    'tamil-mirror-lk': 'ta',
-    'virakesari-lk': 'ta',
-}
-
 
 class Article:
     DEFAULT_ORIGINAL_LANG = 'en'
