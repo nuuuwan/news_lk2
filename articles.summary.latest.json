@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/SL-amends-limit-on-foreign-currency-possession/155-239794",
+    "time_ut": 1656138997,
+    "original_lang": "en",
+    "original_title": "SL amends limit on foreign currency possession",
+    "file_name": "/tmp/news_lk2/articles/e8/e8c28d83.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130161",
+    "time_ut": 1656138695,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd ; \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b6/b69f4545.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130159",
     "time_ut": 1656137958,
@@ -54,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc0\u0dbd\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/fe/fea55dbc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/25/six-people-get-addicted-to-heroin-daily-national-authority-on-tobacco-and-alcohol/",
+    "time_ut": 1656135960,
+    "original_lang": "en",
+    "original_title": "Six people get addicted to heroin daily: National Authority on Tobacco and Alcohol",
+    "file_name": "/tmp/news_lk2/articles/31/31b12c57.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -774,29 +798,5 @@
     "original_lang": "en",
     "original_title": "Indian Foreign Secretary Vinay Kwatra calls on Foreign Secretary Aruni Wijewardane",
     "file_name": "/tmp/news_lk2/articles/3b/3bef9ee0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Education-Forum-SL-calls-for-urgent-action-on-national-education-policy-issues/56-736662",
-    "time_ut": 1656096607,
-    "original_lang": "en",
-    "original_title": "Education Forum SL calls for urgent action on national education policy issues",
-    "file_name": "/tmp/news_lk2/articles/ca/caabfbaf.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/SL-Bangladesh-commit-to-boost-ties/56-736661",
-    "time_ut": 1656096533,
-    "original_lang": "en",
-    "original_title": "SL, Bangladesh commit to boost ties",
-    "file_name": "/tmp/news_lk2/articles/87/87cbd33a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Islamic-Republic-of-Iran-pledges-medical-assistance-to-Sri-Lanka/56-736660",
-    "time_ut": 1656096402,
-    "original_lang": "en",
-    "original_title": "Islamic Republic of Iran pledges medical assistance to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/05/05f1ac62.json"
   }
 ]
