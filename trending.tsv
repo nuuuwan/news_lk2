@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1135
+Sri Lanka	1138
 India	172
 US	124
 Australia	111
@@ -8,7 +8,7 @@ IMF	81
 Gotabaya Rajapaksa	74
 the International Monetary Fund	66
 Ranil Wickremesinghe	60
-the Central Bank	57
+the Central Bank	58
 Russia	56
 Rajapaksa	51
 Messi	50
@@ -43,10 +43,10 @@ Aragalaya	22
 Welgama	22
 Wickremesinghe	21
 UNP	21
+CPC	20
 SriLankan Airlines	20
 Romania	20
 Singapore	19
-CPC	18
 France	18
 Mullaitivu	18
 Ramamurthy	18
@@ -54,10 +54,12 @@ Premadasa	18
 Dudley Sirisena	18
 Colombo/Jun24/2022	18
 Navy	17
+Chinese	17
 Puttalam	17
 Order	17
 Asia	17
 the Ministry of Education	17
+Mahinda Rajapaksa	16
 SL	16
 Nandalal Weerasinghe	16
 UN	16
@@ -70,22 +72,20 @@ Estonia	15
 ISB	15
 the European Union	15
 Korean	15
-Chinese	14
-Mahinda Rajapaksa	14
+the Ceylon Petroleum Corporation	15
 Hambantota	14
 Dhammika Perera	14
 Cooray	14
 Athukorala	14
 Jehan Appuhamy	14
 Jagath Manuwarna	14
+Kanchana Wijesekera	14
 the United Nations	14
-the Ceylon Petroleum Corporation	14
 Harin Fernando	14
 the World Bank	13
 Nepal	13
 SLTB	13
 the Sri Lanka Transport Board	13
-Kanchana Wijesekera	13
 National Authority on Tobacco and Alcohol	13
 Army	12
 Perera	12
@@ -266,6 +266,7 @@ Green	6
 Luminex	6
 The Colombo High Court	6
 John Greenwood	6
+Wijesekara	6
 Dilshan Weerasekera	6
 the Cabinet Ministers	6
 Gopal Baglay	6
@@ -343,13 +344,14 @@ GL Peiris	5
 Christian	5
 Mano Ganesan	5
 democratic	5
-Wijesekara	5
 the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
+Power and Energy	5
 the World Health Organization	5
 Specialist	4
 & CPC	4
+Chi Chenhong	4
 Deepal Perera	4
 the Lady Ridgeway Children's Hospital in Colombo	4
 the Computer Crime Investigation Division of CID	4
@@ -447,11 +449,11 @@ United People's Power	4
 The Parliamentary Committee on Public Enterprises	4
 the COPE committee	4
 Amarasekera	4
-Power and Energy	4
 the Public Property Act	4
 Indian High Commission	4
 The Bonn Climate Change Conference	4
 Government	4
+UPFA	3
 CrudeOil Shipments	3
 Mississippi	3
 Ministry	3
@@ -609,7 +611,8 @@ Lulwatta	2
 the Medamahanuwara Divisional Hospital	2
 Nairobi	2
 Gender	2
-Chi Chenhong	2
+Mahinda	2
+Sri Lanka Chi Chenhong	2
 Nihal Taltuwa	2
 Amarakeerthi Athukorala	2
 Health Services	2
@@ -964,7 +967,6 @@ Moody’s	2
 Beliatta	2
 Mangalore	2
 the United People's Freedom Alliance	2
-UPFA	2
 Leader	2
 Jana Balawegaya	2
 the Anura Jana Balamukha	2
@@ -986,6 +988,7 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Lanka Sama Samaja Party	2
 Dimath Karunaratne	2
 the Department of Meteorology	2
 the District Secretariat	2
@@ -996,7 +999,6 @@ the Monetary Law Act No	2
 Wijayadasa	2
 Gota Go Home'	2
 Marxists	2
-the Nava Sama Samaja Party	2
 Asia Pacific Department	2
 Anne-Marie Gulde	2
 Monetary and Capital Market Department of the IMF	2
@@ -1046,6 +1048,9 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Sama Party	1
+Pivithuru Hela Urumaya	1
+Left Front	1
 the Colombo Port	1
 Watana	1
 the Doctors Association of Sri Lanka	1
@@ -1115,8 +1120,6 @@ the UN Biodiversity Protection Agency	1
 Surani Pathirana	1
 Ministry of Environment	1
 Final Session	1
-Mahinda	1
-Sri Lanka Chi Chenhong	1
 Kandy - A	1
 Dhal	1
 Sunday Lankadeepa	1
@@ -1242,6 +1245,7 @@ the Galle Face Presidential Secretariat	1
 Gazi	1
 LSSP	1
 the Communist Party of Sri Lanka	1
+the Nava Sama Samaja Party	1
 the People's Front	1
 Asia Robert Cabrot	1
 Edul Fort	1
