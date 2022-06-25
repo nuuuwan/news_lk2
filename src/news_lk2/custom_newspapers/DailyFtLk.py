@@ -11,6 +11,7 @@ class DailyFtLk(AbstractNewsPaper):
         return [
             'https://www.ft.lk/ft-news/56',
             'https://www.ft.lk/business-news/34',
+            'https://www.ft.lk/opinion/14',
         ]
 
     @classmethod
