@@ -32,7 +32,7 @@ def group_by_time_and_newspaper(current_time):
                     idx[label] = {}
                 if newspaper_id not in idx[label]:
                     idx[label][newspaper_id] = []
-                idx[label][newspaper_id].append(article.file_name)
+                idx[label][newspaper_id].append(article)
 
     return idx
 
@@ -51,17 +51,26 @@ def build_readme_summary():
     lines.append('')
 
     for label, idx_for_label in idx.items():
-        lines.append(f'## {label}')
-        total_n_articles = 0
-        for newspaper_id, article_file_list in sorted(
+        total_n_articles = sum(
+            list(
+                map(
+                    lambda x: len(x[1]),
+                    idx_for_label.items(),
+                )
+            )
+        )
+        lines.append(f'## {label} ({total_n_articles:,} Articles)')
+        for newspaper_id, article_list in sorted(
             idx_for_label.items(),
             key=lambda x: -len(x[1]),
         ):
-            n_articles = len(article_file_list)
-            url = article_file_list[0].replace(TMP_BASE, GITHUB_BASE)
-            lines.append(f'* {n_articles:,}\t[{newspaper_id}]({url})')
-            total_n_articles += n_articles
-        lines.append(f'* {total_n_articles:,}\t*TOTAL*')
+            n_articles = len(article_list)
+            first_article = article_list[-1]
+            url = first_article.file_name.replace(TMP_BASE, GITHUB_BASE)
+            title = first_article.original_title
+            lines.append(
+                f'* **{n_articles:,}** {newspaper_id} ([{title}]({url}))',
+            )
 
     readme_file = os.path.join(DIR_REPO, 'README.md')
     File(readme_file).write(DELIM_MD.join(lines))
