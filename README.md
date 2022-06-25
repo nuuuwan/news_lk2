@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 21:45:12 (LK time)*
+*As of 2022-06-25 22:02:20 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
 
 * **1** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
-* **1** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
 * **11** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
@@ -28,17 +22,15 @@
 
 * **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
 
-* **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
-
-## Last 24 Hours (227 Articles)
+## Last 24 Hours (217 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
-* **38** daily-mirror-lk ([Middle order steers Aussies home in tense chase](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c61d9860.json))
+* **33** daily-mirror-lk ([Dhammika Perera sworn in as Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e2a81e1.json))
 
-* **28** tamil-mirror-lk ([பாற்சோறு உண்டு மகிழ்கையில் ; நாங்கள் போராடியவர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84e64d2.json))
+* **27** virakesari-lk ([உண்மையான நட்பு நாட்டை அரசாங்கம் அடையாளப்படுத்திக்கொள்ள வேண்டும் - ரஷ்யாவிற்கான முன்னாள் இலங்கை தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6cc323.json))
 
-* **28** virakesari-lk ([600 லீற்றர் டீசலை பதுக்கி வைத்திருந்த ஒருவர் கைது - மானிப்பாயில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80719abe.json))
+* **25** tamil-mirror-lk ([’மனித உரிமை மீறல்கள் குறித்தும் ஐ.எம்.எப் கவனம் செலுத்த வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c8d5d1a.json))
 
 * **22** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
 
@@ -46,13 +38,13 @@
 
 * **19** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
-* **18** ada-derana-lk ([Afghanistan ends search for survivors of devastating earthquake](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73e5e855.json))
+* **17** ada-derana-lk ([Consider us as friends, European countries tell Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f99230c.json))
 
 * **11** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## Last Week (1,600 Articles)
+## Last Week (1,597 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
@@ -70,7 +62,7 @@
 
 * **90** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
-* **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
+* **87** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
