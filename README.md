@@ -1,63 +1,59 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 13:27:49 (LK time)*
+*As of 2022-06-25 13:39:02 (LK time)*
 
 
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **3** virakesari-lk ([யாழ்ப்பாணப் பல்கலைக்கழக ஊடகத் துறைத் தலைவருக்குப் பேராசிரியராகப் பதவி உயர்வு!](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78da5bc8.json))
+* **2** virakesari-lk ([கிளிநொச்சியில் சுகாதார ஊழியர்கள் கண்டன ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea5c8c8e.json))
 
 * **1** daily-mirror-lk ([Refrain interfering the duties of new media activists - MLF to IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9b35825.json))
 
 * **1** news-first-lk ([Prof. Rangita De Alwis elected as SL representative for CEDAW](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/568fce31.json))
 
-* **1** tamil-mirror-lk ([மீண்டும் ஆரம்பிக்கப்படும் பாடசாலைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2301911.json))
-
-## Last Hour (12 Articles)
+## Last Hour (10 Articles)
 
 * **4** virakesari-lk ([நகர்ப்புற பாடசாலைகளின் செயற்பாடு குறித்து கல்வி அமைச்சின் விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8efb6bbe.json))
 
 * **2** news-first-lk ([675 people arrested for fuel hoarding](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75f956ee.json))
 
-* **2** economy-next-com ([Sri Lanka prohibits use of paddy, rice in animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dfcfea1.json))
-
 * **1** daily-mirror-lk ([Refrain interfering the duties of new media activists - MLF to IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9b35825.json))
 
 * **1** tamil-mirror-lk ([மீண்டும் ஆரம்பிக்கப்படும் பாடசாலைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2301911.json))
 
+* **1** economy-next-com ([Schools in Sri Lanka to open for three days as fuel crisis continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2a3814a.json))
+
 * **1** ada-derana-lk ([Latest announcement on functioning of schools next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b7f033b.json))
 
-* **1** lankadeepa-lk ([ඇමෙරිකානු නියෝජිත පිරිසේ ශ්‍රී ලංකා සංචාරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c52d4cbf.json))
-
-## Last 3 Hours (52 Articles)
+## Last 3 Hours (45 Articles)
 
 * **11** ada-lk ([චීන ස්නායු විද්‍යාඥවරියට යුනෙස්කෝ සම්මානයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9064df8.json))
 
 * **10** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் - 4 பேர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/893e8e67.json))
 
-* **8** news-first-lk ([CBSL reduces cap on currency possession](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89adb344.json))
-
-* **7** tamil-mirror-lk ([ஹட்டனில் இருந்து கொழும்பு வீதி மூடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ccfbb42.json))
-
-* **6** lankadeepa-lk ([සෞඛ්‍යට තෙල් දෙන්න තවත් ෂෙඩ් දහයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/317f9eae.json))
-
 * **5** daily-mirror-lk ([Mahinda Samarasinghe meets Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b5bbe90.json))
+
+* **5** news-first-lk ([Welgama Assault : One more arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5afccbf.json))
+
+* **5** tamil-mirror-lk ([எரிபொருளை வைத்திருந்த சந்தேக நபர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/095055a8.json))
+
+* **4** lankadeepa-lk ([ඩොලර් වලට තවත් සීමාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fea55dbc.json))
 
 * **3** economy-next-com ([Sri Lanka ambassador to US briefs President Biden, Treasury, State Dept officials on crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3e64374.json))
 
 * **2** ada-derana-lk ([Sri Lanka amends limit on foreign currency possession](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d0d6696.json))
 
-## Last 24 Hours (310 Articles)
+## Last 24 Hours (299 Articles)
 
-* **63** lankadeepa-lk ([ඉන්දියාවේ දෙවැනි ආධාර තොගය බාරදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f60c61dd.json))
+* **59** lankadeepa-lk ([ඉන්ධන ඉල්ලා අදත් ජනතාව පංචිකාවත්ත පාර වසති](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06934c5e.json))
 
-* **56** daily-mirror-lk ([ Court issues summons on Johnston Fernando and two others](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8f44b7a.json))
+* **52** daily-mirror-lk ([ SL receives second consignment of humanitarian supplies donated by India](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1070d5ad.json))
 
 * **49** virakesari-lk ([நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ யாழ்ப்பாணத்திற்கு விஜயம் ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6b6e8b8.json))
 
-* **31** news-first-lk ([
-Welgama released from Bribery Case; CIABOC says it reserved right to re-file case](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc6b91a1.json))
+* **30** news-first-lk ([
+Ratta, Lahiru, & Jinarathana Thero returned to remand custody](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/807de9fd.json))
 
 * **28** tamil-mirror-lk ([லங்கம வழக்கில் இருந்து வெல்கம விடுவிப்பு ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea8cbe97.json))
 
@@ -65,9 +61,9 @@ Welgama released from Bribery Case; CIABOC says it reserved right to re-file cas
 
 * **21** ada-derana-lk ([Sri Lanka receives LKR 3 Bn worth humanitarian supplies from India](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/737d118b.json))
 
-* **17** economy-next-com ([Luminex Limited starts trading after raising Rs.250 million via IPO](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc86dff0.json))
-
 * **16** daily-ft-lk ([SriLankan Airlines’ Cares airlifts critical medicine to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9806cb02.json))
+
+* **15** economy-next-com ([Sri Lanka former leftist leader blames IMF for Russia’s invasion of Ukraine](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/195d4207.json))
 
 * **2** island-lk ([Market heavyweights, Lanka IOC and Expolanka Holdings, boost CSE](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/312ce67d.json))
 
@@ -75,7 +71,7 @@ Welgama released from Bribery Case; CIABOC says it reserved right to re-file cas
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,550 Articles)
+## Last Week (1,549 Articles)
 
 * **391** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e9744a1.json))
 
@@ -83,7 +79,7 @@ Welgama released from Bribery Case; CIABOC says it reserved right to re-file cas
 
 * **202** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2ffee1c.json))
 
-* **149** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09d5588e.json))
+* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd84ba.json))
 
 * **121** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
