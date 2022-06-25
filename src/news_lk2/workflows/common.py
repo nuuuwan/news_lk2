@@ -20,6 +20,7 @@ def group_by_time_and_newspaper(current_time):
         newspaper_id = article.newspaper_id
         article_age = current_time - time_ut
         for [time_window, label] in [
+            [timex.SECONDS_IN.MINUTE * 30, 'Last 30 Minutes'],
             [timex.SECONDS_IN.HOUR, 'Last Hour'],
             [timex.SECONDS_IN.HOUR * 3, 'Last 3 Hours'],
             [timex.SECONDS_IN.DAY, 'Last 24 Hours'],
