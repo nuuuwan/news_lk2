@@ -4,11 +4,12 @@ from news_lk2.core import AbstractNewsPaper
 
 TIME_RAW_FORMAT = '%Y-%m-%dT%H:%M:%S+05:30'
 
+
 class DivainaLk(AbstractNewsPaper):
     @classmethod
     def get_original_lang(cls):
         return 'si'
-        
+
     @classmethod
     def get_index_urls(cls):
         return [
@@ -20,7 +21,9 @@ class DivainaLk(AbstractNewsPaper):
     @classmethod
     def parse_article_urls(cls, soup):
         article_urls = []
-        for h3 in soup.find_all('h3', {'class': 'entry-title td-module-title'}):
+        for h3 in soup.find_all(
+            'h3', {'class': 'entry-title td-module-title'}
+        ):
             article_url = h3.find('a').get('href')
             article_urls.append(article_url)
 
@@ -28,7 +31,9 @@ class DivainaLk(AbstractNewsPaper):
 
     @classmethod
     def parse_time_ut(cls, soup):
-        time_ = soup.find('time', {'class': 'entry-date updated td-module-date'})
+        time_ = soup.find(
+            'time', {'class': 'entry-date updated td-module-date'}
+        )
         return timex.parse_time(
             time_.get('datetime').strip(),
             TIME_RAW_FORMAT,
