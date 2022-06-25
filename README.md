@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 17:07:35 (LK time)*
+*As of 2022-06-25 17:10:14 (LK time)*
 
 
 
@@ -12,11 +12,11 @@
 
 * **1** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
-## Last 3 Hours (13 Articles)
-
-* **4** virakesari-lk ([சுகாதாரத் துறையினருக்கான எரிபொருள் விநியோகத்தை குழப்ப முனைவோரையும்  சுகாதார சேவைகள் பணிப்பாளரை தாக்கியவர்களையும் வன்மையாக கண்டிக்கின்றோம் - வடமாகாண சுகாதார சேவைகள் பணிப்பாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a3029d4.json))
+## Last 3 Hours (12 Articles)
 
 * **3** news-first-lk ([SLC selects squad for SLvsAUS test series](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46bc6ceb.json))
+
+* **3** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
 
 * **2** ada-derana-lk ([One dead, several injured after bus topples down precipice](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/702d9f9d.json))
 
@@ -56,7 +56,7 @@
 
 ## Last Week (1,584 Articles)
 
-* **382** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2c25727.json))
+* **381** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe376306.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -70,7 +70,7 @@
 
 * **112** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/308cfdca.json))
 
-* **89** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
+* **90** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8629ae03.json))
 
 * **86** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
@@ -82,7 +82,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,229 Articles)
+## All Time (16,230 Articles)
 
 * **5,870** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -92,7 +92,7 @@
 
 * **1,598** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
-* **1,247** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
+* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
 
 * **1,122** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
