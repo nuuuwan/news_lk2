@@ -142,7 +142,7 @@ def build_readme_summary():
         current_time, timezone=timex.TIMEZONE_OFFSET_LK
     )
     lines.append(f'*As of {time_last_run} (LK time)*')
-    lines.append('')
+    lines.append('![wordcloud](wordcloud.png)')
 
     for label, idx_for_label in idx.items():
         total_n_articles = sum(
