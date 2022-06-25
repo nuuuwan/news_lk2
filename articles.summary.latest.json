@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83258/sri-lankan-ambassador-to-us-meets-president-joe-biden",
+    "time_ut": 1656180900,
+    "original_lang": "en",
+    "original_title": "Sri Lankan ambassador to U.S. meets President Joe Biden",
+    "file_name": "/tmp/news_lk2/articles/f0/f00906e7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83257/at-least-18-migrants-die-attempting-to-enter-spains-melilla-from-morocco",
     "time_ut": 1656175620,
     "original_lang": "en",
@@ -790,13 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/09/095055a8.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-394814",
-    "time_ut": 1656135191,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a3/a33592b3.json"
   }
 ]
