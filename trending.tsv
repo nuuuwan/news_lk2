@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1130
+Sri Lanka	1131
 India	172
 US	124
 Australia	110
@@ -18,12 +18,12 @@ Tamil	43
 Viswanathan	41
 Cabinet	38
 Ukraine	37
+Constitution	35
 German	34
-Constitution	33
 Jaffna	32
+the United States	32
 Treasury	31
 European	31
-the United States	31
 State	30
 EU	30
 the Central Bank of Sri Lanka	30
@@ -46,6 +46,7 @@ UNP	21
 SriLankan Airlines	20
 Romania	20
 Singapore	19
+France	18
 Mullaitivu	18
 Ramamurthy	18
 Premadasa	18
@@ -53,7 +54,6 @@ Dudley Sirisena	18
 Navy	17
 Puttalam	17
 Order	17
-France	17
 Asia	17
 the Ministry of Education	17
 Colombo/Jun24/2022	17
@@ -62,6 +62,7 @@ Nandalal Weerasinghe	16
 UN	16
 Bulgaria	16
 SriLankan Cares	16
+CPC	15
 the Sri Lanka People's Front	15
 Theekshana	15
 Karunaratne	15
@@ -79,7 +80,6 @@ Jehan Appuhamy	14
 Jagath Manuwarna	14
 the United Nations	14
 Harin Fernando	14
-CPC	13
 the World Bank	13
 Nepal	13
 SLTB	13
@@ -104,14 +104,16 @@ Naseer Ahmed	12
 EU Ambassadors	12
 Kelly Keiderling	12
 Shane Warne’s	12
+Joe Biden	11
 Afghanistan	11
 SJB	11
 the Department of Foreign Exchange	11
 the Supreme Court	11
 Nimal Siripala de Silva	11
+American	11
+Diesel	10
 Rangita De Silva De Alwis	10
 CEDAW	10
-Joe Biden	10
 Central Asia	10
 USA	10
 STF	10
@@ -153,6 +155,8 @@ Lahiru Weerasekera	9
 Eranga Gunasekera	9
 the Ministry of Public Administration	9
 the U.S. Department of the	9
+Biden	8
+Matara	8
 Law Forum	8
 Kottawa	8
 Finance	8
@@ -181,7 +185,7 @@ The US Embassy	8
 the Samagi Jana Balawega	8
 Rathindu Senaratne	8
 Muslim	8
-Diesel	7
+Britain	7
 Jagath Kumara	7
 Italy	7
 Iran	7
@@ -204,7 +208,6 @@ Manipay	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
 the Colombo Stock Exchange	7
-American	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
 Expolanka Holdings	7
@@ -215,7 +218,6 @@ Kandy	6
 Chaturanga Samarawickrama	6
 North	6
 IGP	6
-Matara	6
 MLF	6
 Uduwaragedara	6
 the US Treasury Department	6
@@ -230,7 +232,6 @@ Batticaloa	6
 SLTDA	6
 Indonesia	6
 SLFP	6
-Britain	6
 Koko	6
 the Ministry of Tourism and Lands	6
 the Department of the Land Commissioner General	6
@@ -276,6 +277,7 @@ the United Nations Office for the Coordination of Humanitarian Affairs	6
 Harsha De Silva	6
 Kankesanthurai	6
 Hamilton Reserve Bank Ltd.	6
+Petrol	5
 Canada	5
 Convention	5
 Egypt	5
@@ -325,6 +327,7 @@ Naypyidaw	5
 Jayasuriya	5
 Hulangamuwa	5
 MoFA	5
+Roe	5
 New York	5
 Clifford Chance	5
 Sudath Samaraweera	5
@@ -339,6 +342,7 @@ Masahiro Nozaki	5
 GL Peiris	5
 Christian	5
 Mano Ganesan	5
+democratic	5
 Wijesekara	5
 the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
@@ -346,7 +350,6 @@ Jude Shramantha Anthony Jayamaha	5
 the World Health Organization	5
 Deepal Perera	4
 the Lady Ridgeway Children's Hospital in Colombo	4
-Biden	4
 the Computer Crime Investigation Division of CID	4
 Nigeria	4
 Harischandra	4
@@ -423,7 +426,6 @@ The National Water Supply and Drainage Board	4
 Peter Breuer	4
 External Affairs	4
 the Ministry of Foreign Affairs	4
-democratic	4
 KMM Siriwardena	4
 MSS Saman Fernando	4
 Department of Economic Research	4
@@ -447,7 +449,8 @@ the Public Property Act	4
 Indian High Commission	4
 The Bonn Climate Change Conference	4
 Government	4
-Petrol	3
+Mississippi	3
+& CPC	3
 Ministry	3
 Saravanapavan	3
 Kilinochchi	3
@@ -595,6 +598,10 @@ Matt Godwin	3
 The Archbishop of Colombo	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Congress	2
+the White House	2
+CrudeOil Shipments	2
+Public Transport	2
 Vikum Liyanage	2
 Meemure	2
 Lulwatta	2
@@ -616,6 +623,7 @@ the Young Journalists’ Association	2
 Bandarawela	2
 Sub Inspector Madhusankha	2
 the Sri Lanka Air Force	2
+Rangita De Alwis	2
 the UN Committee	2
 the Elimination of All Forms of Discrimination Against Women	2
 De Silva-De Alwis	2
@@ -631,7 +639,6 @@ the Associate Dean of International Affairs	2
 the Global Institute for Human Rights	2
 the University of Pennsylvania Law School	2
 Harvard Law School	2
-Rangita De Alwis	2
 the Department of Media Studies	2
 the University Council	2
 Raghuram	2
@@ -1037,11 +1044,29 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+U.S. Supreme Court	1
+The Supreme Court	1
+Roe v. Wade	1
+Republican	1
+John Roberts	1
+Democrats	1
+Clarence	1
+Samuel Alito	1
+the U.S. Constitution	1
+Brett Kavanaugh	1
+the U.S. Food and Drug Administration	1
+Vatican	1
+New Zealand	1
+Jacinda Ardern	1
 CrudeOil	1
-CrudeOil Shipments	1
-Public Transport	1
 CPC Trade Union	1
 way.(DSB	1
+the All Ceylon Fisheries Federation	1
+Kiralawella	1
+Devinuwara	1
+Ratna Gamage	1
+the National Organizer of the All Ceylon Common Fisheries Federation	1
+Gamage	1
 Kamal Gunaratne	1
 the Defence Headquarters Complex	1
 Sri Jayewardenepura	1
@@ -1121,13 +1146,13 @@ C. Sirisarkunaraja	1
 University Grants Commission Circulars	1
 C.	1
 the Faculty of Arts	1
+Queues	1
 Spokesperson SSP Nihal Thalduwa	1
 Pallewela	1
 Badulu Oya	1
 Pussakanda	1
 Meegahakiwula	1
 Kerosene	1
-Queues	1
 CAA	1
 Urban	1
 the Principals of Urban	1
@@ -1163,12 +1188,12 @@ the Makumbura Southern Expressway	1
 Alexander Koronzhi	1
 the Stock Exchange	1
 Weerasekera	1
-Section 08 of Foreign Exchange Act No	1
 State Dept	1
 John McDaniel	1
 Catherine Reynolds	1
 State Antony Blinken	1
 Antony Blinken	1
+Section 08 of Foreign Exchange Act No	1
 The Monitoring Unit of the International Transaction Reporting System	1
 the Banking Act No	1
 UNESCO Award	1
@@ -1372,7 +1397,6 @@ the Colombo Club	1
 Later Sri Lanka	1
 The America-Australia	1
 Canberra	1
-the White House	1
 the Vietnam War	1
 John Winston Howard	1
 Treasurer	1
@@ -1448,7 +1472,6 @@ General Workers Union	1
 CMU	1
 Ranjit Seneviratne – Marine Engineer	1
 FAO	1
-Rome	1
 Sandya Hewamanne	1
 Department of Sociology	1
 the University of Essex	1

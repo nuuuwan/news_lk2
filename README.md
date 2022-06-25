@@ -1,24 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 18:05:33 (LK time)*
+*As of 2022-06-25 18:15:33 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **1** ada-derana-lk ([U.S. Supreme Court ends constitutional right to abortion](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/276b9513.json))
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last Hour (1 Articles)
+* **1** news-first-lk ([Fishermen protest against rising costs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0af230a.json))
+
+## Last Hour (4 Articles)
+
+* **2** news-first-lk ([Fuel shipments further delayed & CPC cannot confirm next shipment arrival date](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0da3324.json))
+
+* **1** ada-derana-lk ([U.S. Supreme Court ends constitutional right to abortion](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/276b9513.json))
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (12 Articles)
+
+* **4** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
 
 * **3** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
 
-* **2** ada-derana-lk ([One dead, several injured after bus topples down precipice](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/702d9f9d.json))
-
-* **2** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
+* **2** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
@@ -26,19 +34,19 @@
 
 * **1** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2bd5fff.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (247 Articles)
 
-* **46** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c09fd487.json))
+* **46** daily-mirror-lk ([Power cut experience for Australian cricketers](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e3492b.json))
 
-* **42** lankadeepa-lk ([කම්කරු පනත්  දෙකට කතානායකගේ සහතිකය](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/269c3100.json))
+* **42** lankadeepa-lk ([කම්කරු පනත්  දෙකට කතානායකගේ සහතිකය](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd0755af.json))
 
-* **31** news-first-lk ([Thousands stranded at ID Office due to Public Holiday](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fde1676f.json))
+* **32** news-first-lk ([Committee probing recent riots obtains statement from fmr Army Commander](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f280ba88.json))
 
 * **28** virakesari-lk ([முதலீட்டு ஊக்குவிப்பு அமைச்சராக தம்மிக்க பெரேரா  ஜனாதிபதி முன்னிலையில் சத்தியப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/418665f7.json))
 
 * **26** tamil-mirror-lk ([தம்மிக்க அமைச்சரானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b19d7e3.json))
 
-* **21** ada-derana-lk ([Dhammika Perera sworn in as a minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e956664.json))
+* **22** ada-derana-lk ([Dhammika Perera sworn in as a minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e956664.json))
 
 * **19** ada-lk ([ලංකාවට සහාය දෙන බව IMF නියෝජිතයෝ ජනපතිට කියති](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f706b0e.json))
 
@@ -50,15 +58,15 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,579 Articles)
+## Last Week (1,581 Articles)
 
-* **381** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c4b5859.json))
+* **381** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
-* **198** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89ada4a2.json))
+* **200** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e95c4e85.json))
 
-* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87799aea.json))
+* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6bb8c6a.json))
 
 * **127** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -78,17 +86,17 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,233 Articles)
+## All Time (16,236 Articles)
 
-* **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd77c3b.json))
+* **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
-* **3,070** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
+* **3,072** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
-* **2,426** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
+* **2,427** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
 
 * **1,598** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
-* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/565f6156.json))
+* **1,248** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
 
 * **1,122** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
