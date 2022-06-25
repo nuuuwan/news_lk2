@@ -44,11 +44,6 @@ class NewsFirstLk(AbstractNewsPaper):
         return h1.text
 
     @classmethod
-    def parse_author(cls, soup):
-        p_author = soup.find('p', {'class': 'w-300  artical-new-byline'})
-        return p_author.text.replace('Written', '').replace('by', '')
-
-    @classmethod
     def parse_body_lines(cls, soup):
         header_inner = soup.find('div', {'class': 'thumb-para'})
         return list(
