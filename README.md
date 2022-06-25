@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 17:10:14 (LK time)*
+*As of 2022-06-25 17:18:16 (LK time)*
 
 
 
@@ -54,15 +54,15 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,584 Articles)
+## Last Week (1,580 Articles)
 
-* **381** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe376306.json))
+* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2327c439.json))
 
 * **221** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
 * **202** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db92ffa3.json))
 
-* **149** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/755d68fd.json))
+* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87799aea.json))
 
 * **126** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -78,7 +78,7 @@
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e70e327.json))
 
-* **14** colombo-telegraph-com ([Aragalaya: Manufactured Economic Crisis & Peoples’ Suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6d81cd8.json))
+* **13** colombo-telegraph-com ([Sovereignty Betrayed: The Ball Belongs To The State](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47fd8afa.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
