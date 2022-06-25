@@ -1,20 +1,20 @@
 ent_group	n
-Sri Lanka	1158
-India	178
+Sri Lanka	1184
+India	205
 US	160
 Australia	111
 Parliament	108
-IMF	87
-Gotabaya Rajapaksa	79
+IMF	93
+Gotabaya Rajapaksa	80
 Russia	71
 the International Monetary Fund	69
+Ranil Wickremesinghe	65
 the Central Bank	65
-Ranil Wickremesinghe	64
+China	61
 Rajapaksas	60
 the 21st Amendment	54
 Messi	50
 Opposition	49
-China	46
 German	45
 Tamil	44
 Ukraine	43
@@ -24,10 +24,10 @@ Cabinet	40
 Constitution	39
 European	34
 State	33
+Jaffna	33
 Treasury	33
 the United States	33
 EU	32
-Jaffna	32
 the Central Bank of Sri Lanka	30
 Johnston Fernando	29
 UN	28
@@ -41,26 +41,26 @@ Japanese	25
 CSE	25
 Tamil Nadu	24
 SPP	23
+Wickremesinghe	23
 Welgama	22
 Asia	22
 CPC	21
 France	21
 SriLankan Airlines	21
-Wickremesinghe	21
 UNP	21
+Chinese	20
 Romania	20
 Singapore	19
 Colombo/Jun24/2022	19
-Chinese	18
 Mullaitivu	18
 Ramamurthy	18
+Mahinda Rajapaksa	18
 Premadasa	18
 Dudley Sirisena	18
 Nandalal Weerasinghe	17
 Navy	17
 Puttalam	17
 Order	17
-Mahinda Rajapaksa	17
 the United Nations	17
 the Ministry of Education	17
 the Ceylon Petroleum Corporation	17
@@ -157,6 +157,7 @@ Manusha Nanayakkara	9
 the US State Department	9
 the Foreign Exchange Act	9
 Hong Kong	9
+South Asia	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
@@ -178,6 +179,7 @@ Kovid	8
 CBI	8
 the Ministry of Finance	8
 Fernando	8
+West	8
 Barista	8
 Commercial Bank	8
 Anura Dissanayake	8
@@ -192,7 +194,6 @@ the Finance Ministry	8
 Julie Chung	8
 Eric Lavertu	8
 Daily Mirror	8
-South Asia	8
 the International Transaction Reporting System	8
 Bell Geospace	8
 Eurasia	8
@@ -255,6 +256,7 @@ Batticaloa	6
 SLTDA	6
 Indonesia	6
 SLFP	6
+Vinay Kwatra	6
 Koko	6
 the Ministry of Tourism and Lands	6
 the Department of the Land Commissioner General	6
@@ -309,7 +311,8 @@ the United Kingdom	5
 Norway	5
 Lazard	5
 Maithripala Sirisena	5
-Vinay Kwatra	5
+SAGAR	5
+Wimal Weerawansa	5
 Rita Mannella	5
 Aussies	5
 Cameron Green	5
@@ -348,6 +351,7 @@ New York	5
 Clifford Chance	5
 Sudath Samaraweera	5
 Buddhist	5
+External Affairs	5
 Colombo Fort Magistrate	5
 North Macedonia	5
 the Ministry of Agriculture	5
@@ -365,6 +369,7 @@ the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the Lanka Sama Samaja Party	5
+the Indian High Commission	5
 Power and Energy	5
 the World Health Organization	5
 the White House Oval Office	4
@@ -414,7 +419,6 @@ World Bank	4
 OCHA	4
 Tamil Progressive Alliance	4
 Gotabhaya	4
-SAGAR	4
 Sri Lanka Denis Chaibi	4
 Sri Lanka Trine Jøranli Eskedal	4
 Tanja Gonggrijp	4
@@ -434,7 +438,6 @@ Palma	4
 Lakmal Sooriyagoda	4
 Haritha Aluthge	4
 the Government Medical Officers' Association	4
-Wimal Weerawansa	4
 Verite Research	4
 North America	4
 Private Sector	4
@@ -465,7 +468,6 @@ the Galle International Stadium	4
 the Prime Minister's Office	4
 The National Water Supply and Drainage Board	4
 Peter Breuer	4
-External Affairs	4
 the Ministry of Foreign Affairs	4
 KMM Siriwardena	4
 MSS Saman Fernando	4
@@ -485,7 +487,6 @@ The Parliamentary Committee on Public Enterprises	4
 the COPE committee	4
 Amarasekera	4
 the Public Property Act	4
-Indian High Commission	4
 The Bonn Climate Change Conference	4
 the United States Mahinda Samarasinghe	3
 North African	3
@@ -508,6 +509,7 @@ the National List	3
 Ministry	3
 Saravanapavan	3
 Kilinochchi	3
+Colombo	3
 the Makumbura Expressway	3
 Afghan	3
 Boris Johnson	3
@@ -560,7 +562,6 @@ Ven	3
 Hideki	3
 Misukoshi Hideki	3
 Bosnia	3
-West	3
 Nadu	3
 Vavuniya	3
 Thambuththegama	3
@@ -597,8 +598,10 @@ a Great Depression	3
 the Public Utilities Commission	3
 the UN Public Service Awards	3
 the National Dengue Control Unit	3
+New Delhi	3
 Asia Pacific	3
 Angajan Ramanthan	3
+Narendra Modi	3
 978-624-97686-5-9	3
 Vasantha Mudalike	3
 Copa America	3
@@ -665,6 +668,7 @@ Third Reich	2
 USSR	2
 Trump	2
 Alliance	2
+Xi Jinping	2
 Public Transport	2
 Gotagogama	2
 RW	2
@@ -717,7 +721,6 @@ Raghuram	2
 Police	2
 Kandaketiya	2
 distributor shall import	2
-Colombo	2
 Magammana	2
 Homagama	2
 Paktika	2
@@ -794,6 +797,9 @@ Subramaniam Jaisankar	2
 the Commonwealth Summit	2
 the Monetary Board of the Central Bank of Sri Lanka	2
 CHOGM	2
+Beijing	2
+FDI	2
+S. Jaishankar	2
 the Phase II	2
 Keells Supermarkets	2
 Horana	2
@@ -821,7 +827,6 @@ Kota-ko-home	2
 the Sri Lanka Parliamentary College	2
 Vladimir Putin	2
 Narendra	2
-Narendra Modi	2
 the Sri Lanka Unique Digital Identity Project	2
 Yellow	2
 Thushara Indunil Amarasena	2
@@ -1242,7 +1247,6 @@ the Alliance for Multilateralism	1
 Orwellian	1
 World Political Parties Virtual Summit	1
 76th Session	1
-Xi Jinping	1
 the UN Charter	1
 Sachithanandam Sathananthan	1
 the University of Cambridge	1
@@ -1501,6 +1505,23 @@ GA Colvin	1
 Heenatiyangala	1
 the Upper Province	1
 Commonwealth Foreign Affairs	1
+P.K. Balachandran	1
+post-war era	1
+Chatham House	1
+Ganeshan Wignaraja	1
+Umesh Moramudali	1
+PPG	1
+Beijing wanted Colombo	1
+Foreign Ministry	1
+Neighborhood First	1
+Indo-Lankan	1
+MoU	1
+the Trincomalee Power Company	1
+Gautam Adani	1
+Adani	1
+Indian	1
+S.M. Marikkar	1
+Kachhativu Island	1
 Lankans	1
 the Romanian Government	1
 the Romanian Employment Agencies Association	1
@@ -1818,7 +1839,6 @@ Holger Seubert	1
 Rakibe Şekercioğlu	1
 G.L.	1
 External Affairs of India	1
-S. Jaishankar	1
 the CHOGM Summit	1
 Defense Staff	1
 Daya Ratnayake	1
@@ -1915,7 +1935,6 @@ Colombo Fort	1
 Jayatilleke	1
 Sri Lanka Misukoshi	1
 India Milinda Moragoda	1
-New Delhi	1
 Belarus	1
 Belgium	1
 Ireland	1
@@ -2429,7 +2448,6 @@ the US Army Pacific	1
 Prabhu Ram	1
 the Nepal Army	1
 Hou Yanqi	1
-Beijing	1
 American State’s	1
 the National Guard Bureau	1
 the Department of Defense	1
@@ -2574,7 +2592,6 @@ Citizens for Accountable Governance	1
 The 19th Amendment to 20th	1
 SLRs	1
 Press, Police, Penal, Accountable	1
-FDI	1
 BOP	1
 SME	1
 Executive Committee	1

@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 04:49:26 (LK time)*
+*As of 2022-06-26 04:58:25 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -46,13 +46,13 @@
 
 * **46** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadaaf48.json))
 
-* **24** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
+* **25** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
-* **15** colombo-telegraph-com ([Sovereignty Betrayed: The Ball Belongs To The State](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47fd8afa.json))
+* **14** colombo-telegraph-com ([Life After This Death?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37991212.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,271 Articles)
+## All Time (16,272 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -72,7 +72,7 @@
 
 * **132** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
+* **119** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
 * **91** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
