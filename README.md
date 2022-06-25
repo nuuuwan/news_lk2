@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 19:17:22 (LK time)*
+*As of 2022-06-25 19:23:31 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (6 Articles)
 
-* **2** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77efb77.json))
+* **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
 * **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
 
-## Last Hour (7 Articles)
+## Last Hour (10 Articles)
 
-* **2** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77efb77.json))
+* **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
 * **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
 
@@ -24,13 +24,13 @@
 
 * **1** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (15 Articles)
+
+* **5** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
 * **3** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
 * **3** news-first-lk ([Fuel shipments further delayed & CPC cannot confirm next shipment arrival date](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0da3324.json))
-
-* **2** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77efb77.json))
 
 * **1** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
 
@@ -40,11 +40,11 @@
 
 * **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (233 Articles)
 
 * **44** daily-mirror-lk ([Sri Lanka held a special place in Shane Warne’s heart, says his brother](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a55e48a.json))
 
-* **37** lankadeepa-lk ([අයි.එම්.එෆ් නියෝජිතයෝ ජනපති හමුවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3733a8d.json))
+* **38** lankadeepa-lk ([ලංගමට දහස් ගණනක්  හොරපාරෙන් අරන් වැටුප් ගෙවලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c38fdcb.json))
 
 * **27** virakesari-lk ([வத்தளை துப்பாக்கிச் சூடு :உளவு பார்த்த இருவர் கைது - தடுப்புக் காவலில் வைத்து விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/539f2054.json))
 
@@ -64,11 +64,11 @@
 
 * **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
 
-## Last Week (1,585 Articles)
+## Last Week (1,588 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
-* **224** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
+* **227** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
 * **199** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25c2a9bf.json))
 
@@ -92,7 +92,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,245 Articles)
+## All Time (16,248 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -106,7 +106,7 @@
 
 * **1,122** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
-* **336** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **339** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

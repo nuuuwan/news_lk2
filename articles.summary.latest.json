@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d89\u0dbd\u0dca\u0dbd\u0dad\u0dd2/101-615380",
+    "time_ut": 1656164621,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d89\u0dbd\u0dca\u0dbd\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/54/54548a95.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dbb\u0dca\u0d9c-\u0daf\u0dc4\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d87\u0dab\u0dc0\u0dd4\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d86\u0db1\u0dba\u0db1\u0dba\u0da7/101-615379",
+    "time_ut": 1656164273,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dbb\u0dca\u0d9c \u0daf\u0dc4\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d87\u0dab\u0dc0\u0dd4\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba \u0dba\u0da7\u0dad\u0dda \u0d86\u0db1\u0dba\u0db1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/34/3493e997.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dbb\u0dca\u0d9c-\u0daf\u0dc4\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d87\u0dab\u0dc0\u0dd4\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d86\u0db1\u0dba\u0db1\u0dba\u0da7/1-615379",
     "time_ut": 1656164273,
     "original_lang": "si",
@@ -14,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0dbd\u0d9f\u0daf\u0dd3\u0db8 \u0d9a\u0dbb\u0dbd\u0dd2\u0dba\u0da7",
     "file_name": "/tmp/news_lk2/articles/f7/f77efb77.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca-\u0dbd\u0d9f\u0daf\u0dd3\u0db8-\u0d9a\u0dbb\u0dbd\u0dd2\u0dba\u0da7/101-615378",
+    "time_ut": 1656163964,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0dbd\u0d9f\u0daf\u0dd3\u0db8 \u0d9a\u0dbb\u0dbd\u0dd2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/69/693d5891.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -774,29 +798,5 @@
     "original_lang": "en",
     "original_title": "DO NOT request Police to open fuel storage tanks",
     "file_name": "/tmp/news_lk2/articles/55/55115ca8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/cbsl-reduces-cap-on-currency-possession/",
-    "time_ut": 1656133260,
-    "original_lang": "en",
-    "original_title": "CBSL reduces cap on currency possession",
-    "file_name": "/tmp/news_lk2/articles/89/89adb344.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/sl-ambassador-meets-president-joe-biden/",
-    "time_ut": 1656133020,
-    "original_lang": "en",
-    "original_title": "SL Ambassador meets President Joe Biden",
-    "file_name": "/tmp/news_lk2/articles/8e/8e94cf08.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/high-level-us-delegation-to-visit-sri-lanka/",
-    "time_ut": 1656132960,
-    "original_lang": "en",
-    "original_title": "High-level US delegation to visit Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/c4/c4c6238f.json"
   }
 ]
