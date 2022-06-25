@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 22:45:24 (LK time)*
+*As of 2022-06-25 22:58:42 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (9 Articles)
 
-* **6** lankadeepa-lk ([එකට බීලා මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2cfb51.json))
+* **4** lankadeepa-lk ([කතගේ ලැමෙන් කෝටියක රන් මතු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16c5d882.json))
 
 * **2** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
-
-* **2** virakesari-lk ([எரிபொருள் கப்பல்களின் வருகை மேலும் தாமதமாகும் : வரிசைகளில் காத்திருக்க வேண்டாம் - காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec402cc0.json))
 
 * **1** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
 * **1** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
-* **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
+* **1** virakesari-lk ([பொலிஸ் தலைமையகம்  பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982466f5.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (202 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -36,7 +30,7 @@
 
 * **23** virakesari-lk ([இன்று மின்வெட்டு அமுலாகும் நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f9a8940.json))
 
-* **22** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
+* **20** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
 * **20** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
@@ -48,9 +42,9 @@
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## Last Week (1,595 Articles)
+## Last Week (1,594 Articles)
 
-* **378** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fba4b99.json))
+* **377** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/2215a4bc.json))
 
 * **233** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
