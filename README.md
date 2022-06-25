@@ -1,40 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 20:48:52 (LK time)*
+*As of 2022-06-25 20:55:19 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (5 Articles)
+
+* **3** lankadeepa-lk ([කතගේ ලැමෙන් කෝටියක රන් මතු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16c5d882.json))
+
+* **1** virakesari-lk ([பொலிஸ் தலைமையகம்  பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982466f5.json))
 
 * **1** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
 
-## Last Hour (8 Articles)
-
-* **5** lankadeepa-lk ([එකට බීලා මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2cfb51.json))
-
-* **1** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
-
-* **1** virakesari-lk ([எரிபொருள் கப்பல்களின் வருகை மேலும் தாமதமாகும் : வரிசைகளில் காத்திருக்க வேண்டாம் - காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec402cc0.json))
-
-* **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
-
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (22 Articles)
 
 * **10** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
-* **3** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
+* **3** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
 
-* **2** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
+* **3** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
 
 * **2** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
 
-* **2** ada-derana-lk ([U.S. Supreme Court ends constitutional right to abortion](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/276b9513.json))
-
 * **2** ada-lk ([මහ බැංකු වංචාවේ දෙවැනි අදියර සජිත් හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde60c1f.json))
 
-* **2** news-first-lk ([Fishermen protest against rising costs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0af230a.json))
+* **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
 
-* **1** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abe3db7.json))
+* **1** news-first-lk ([Govt responsible for delayed surgeries](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58ace41d.json))
 
 ## Last 24 Hours (233 Articles)
 
@@ -42,9 +34,9 @@
 
 * **41** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
-* **28** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
+* **29** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
 
-* **28** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
+* **28** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
 
 * **22** news-first-lk ([IMF looking forward to help Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54907e45.json))
 
@@ -58,9 +50,7 @@
 
 * **1** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-* **1** colombo-telegraph-com ([Preventing Crooks From Entering The Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fb4c7bb.json))
-
-## Last Week (1,596 Articles)
+## Last Week (1,597 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0799cfda.json))
 
@@ -70,7 +60,7 @@
 
 * **147** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/142dcc23.json))
 
-* **129** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **130** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **121** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -88,7 +78,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,259 Articles)
+## All Time (16,260 Articles)
 
 * **5,872** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -106,7 +96,7 @@
 
 * **177** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **129** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **130** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **118** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
