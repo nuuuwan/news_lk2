@@ -6,3 +6,5 @@ utils-nuuuwan
 spacy
 deep-translator
 fuzzywuzzy
+matplotlib
+wordcloud

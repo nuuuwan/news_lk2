@@ -32,5 +32,7 @@ setuptools.setup(
         'utils-nuuuwan',
         'spacy',
         'fuzzywuzzy',
+        'matplotlib',
+        'wordcloud',
     ],
 )
