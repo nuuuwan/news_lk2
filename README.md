@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 23:57:09 (LK time)*
+*As of 2022-06-26 00:09:52 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -20,7 +20,7 @@
 
 * **1** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
-## Last 24 Hours (202 Articles)
+## Last 24 Hours (200 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
@@ -34,9 +34,9 @@
 
 * **20** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
-* **18** daily-ft-lk ([A call for debt justice, debt cancellation and transparency in IMF negotiations](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8042763.json))
-
 * **16** ada-derana-lk ([Fairly heavy rainfall expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67346824.json))
+
+* **16** daily-ft-lk ([SriLankan Airlines’ Cares airlifts critical medicine to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9806cb02.json))
 
 * **11** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
