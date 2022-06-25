@@ -94,6 +94,18 @@ class Article:
     def __lt__(self, other):
         return self.time_ut < other.time_ut
 
+    def __str__(self):
+        return '\n'.join([
+            self.newspaper_id,
+            self.url,
+            timex.format_time(self.time_ut),
+            self.original_lang,
+            self.original_title,
+            ', '.join(list(self.text_idx.keys())),
+            ', '.join(list(self.text_idx.get('en', {}).keys())),
+        ])
+
+
     @staticmethod
     def load_articles():
         articles = list(
