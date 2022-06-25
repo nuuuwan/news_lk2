@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-25 21:39:02 (LK time)*
+*As of 2022-06-25 21:45:12 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
-
-* **1** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
 ## Last Hour (3 Articles)
 
@@ -18,27 +16,27 @@
 
 * **1** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (21 Articles)
 
 * **11** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
 * **3** tamil-mirror-lk ([9 பங்காளிகள் இணைந்து புதிய அரசியல் கூட்டணி](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86b6aeeb.json))
 
-* **3** ada-lk ([අත්‍යාවශ්‍ය ආහාර වර්ග 10ක් විවෘත ගිණුම් ක්‍රමය යටතේ ආනයනයට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aead02ef.json))
-
 * **3** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
 
-* **2** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
+* **2** ada-lk ([ලක්ෂ 110 රන් සමග ව්‍යාපාරික කාන්තාවක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/922b03c1.json))
+
+* **1** economy-next-com ([Row at Sri Lanka fuel queue leaves four injured: police](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23a79858.json))
 
 * **1** ada-derana-lk ([Limited fuel stocks distributed to filling stations next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6c038c.json))
 
-## Last 24 Hours (228 Articles)
+## Last 24 Hours (227 Articles)
 
 * **42** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35268a76.json))
 
 * **38** daily-mirror-lk ([Middle order steers Aussies home in tense chase](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c61d9860.json))
 
-* **29** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
+* **28** tamil-mirror-lk ([பாற்சோறு உண்டு மகிழ்கையில் ; நாங்கள் போராடியவர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84e64d2.json))
 
 * **28** virakesari-lk ([600 லீற்றர் டீசலை பதுக்கி வைத்திருந்த ஒருவர் கைது - மானிப்பாயில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80719abe.json))
 
