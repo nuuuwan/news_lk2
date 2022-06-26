@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 17:18:53 (LK time)*
+*As of 2022-06-26 17:28:57 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (4 Articles)
-
-* **2** lankadeepa-lk ([ජාජබේ විරෝධයක් කොටුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/137585a9.json))
+## Last 30 Minutes (3 Articles)
 
 * **1** tamil-mirror-lk ([துப்பாக்கிச் சூட்டில் பூக்கடை உரிமையாளர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafb64db.json))
 
+* **1** lankadeepa-lk ([‘‘නැ‘හිර පර්යන්තයේ වැඩ කඩිනම් කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11c8e6a0.json))
+
 * **1** news-first-lk ([TUs concerned about fuel availability](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d37bab20.json))
 
-## Last Hour (15 Articles)
+## Last Hour (14 Articles)
 
-* **6** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d810571.json))
+* **7** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d810571.json))
 
-* **5** virakesari-lk ([அரச ஊழியர்களை பணிக்கு அழைப்பது தொடர்பில் புதிய சுற்றறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a6f2f19.json))
+* **4** virakesari-lk ([நாட்டிற்கு பயனற்று போயுள்ள தாமரை கோபுரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f6695d6.json))
 
 * **2** tamil-mirror-lk ([வீட்டில் ஏற்பட்ட தீ விபத்தில் தம்பதியினர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdc87c90.json))
 
 * **1** news-first-lk ([TUs concerned about fuel availability](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d37bab20.json))
 
-* **1** ada-lk ([විදුලි කප්පාදුව පැය භාගයකින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d4e4c2.json))
+## Last 3 Hours (53 Articles)
 
-## Last 3 Hours (52 Articles)
-
-* **22** lankadeepa-lk ([ත්‍රිවීල් ගාස්තුත් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c06a52.json))
+* **23** lankadeepa-lk ([ත්‍රිවීල් ගාස්තුත් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c06a52.json))
 
 * **7** tamil-mirror-lk ([இந்தியாவில் இருந்து வருகின்றது மண்ணெண்ணெய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337a862f.json))
 
@@ -42,9 +40,9 @@
 
 * **2** daily-mirror-lk ([3-hour power cuts from 27th June - 03rd July](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7444da82.json))
 
-## Last 24 Hours (230 Articles)
+## Last 24 Hours (231 Articles)
 
-* **76** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
+* **77** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693d5891.json))
 
 * **34** tamil-mirror-lk ([காணாமல் போன சிறுவன் கிணற்றிலிருந்து சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/134b9fd7.json))
 
@@ -64,15 +62,15 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
-## Last Week (1,735 Articles)
+## Last Week (1,733 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f95f24a.json))
 
-* **298** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
+* **299** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
 * **190** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13f50b01.json))
 
-* **157** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **155** virakesari-lk ([இனப்பிரச்சினையை தீர்க்காது மீண்டெழுதல் சாத்தியமில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a9b8995.json))
 
 * **147** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfc1cf77.json))
 
@@ -84,7 +82,7 @@
 
 * **87** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **55** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68f9f885.json))
+* **54** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9d9ec90.json))
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
@@ -92,7 +90,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,484 Articles)
+## All Time (16,485 Articles)
 
 * **5,891** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -106,7 +104,7 @@
 
 * **1,138** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
-* **410** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **411** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **200** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
