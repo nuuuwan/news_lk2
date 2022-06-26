@@ -1,8 +1,8 @@
 ent_group	n
-Sri Lanka	1369
-India	236
+Sri Lanka	1371
+India	240
 US	195
-Parliament	137
+Parliament	138
 Australia	117
 IMF	98
 Russia	96
@@ -13,9 +13,9 @@ the Central Bank	73
 China	66
 the 21st Amendment	64
 Rajapaksas	63
-Cabinet	52
+Cabinet	53
+Constitution	50
 Messi	50
-Constitution	49
 Opposition	49
 Jaffna	46
 Tamil	46
@@ -55,6 +55,7 @@ Welgama	22
 Singapore	22
 SriLankan Airlines	21
 the Ministry of Education	21
+Matara	20
 Hambantota	20
 Romania	20
 Kelly Keiderling	20
@@ -65,7 +66,6 @@ American	19
 the United Nations	19
 Robert Kaproth	19
 Colombo/Jun24/2022	19
-Matara	18
 Nandalal Weerasinghe	18
 Magammana	18
 Perera	18
@@ -74,6 +74,7 @@ Ramamurthy	18
 Mahinda Rajapaksa	18
 Dudley Sirisena	18
 Order	17
+Wijayadasa Rajapaksa	17
 UK	16
 SL	16
 Bulgaria	16
@@ -84,6 +85,7 @@ the European Union	16
 Korean	16
 Harin Fernando	16
 the U.S. Department of State	16
+Army	15
 Diesel	15
 Galle	15
 London	15
@@ -97,9 +99,7 @@ Estonia	15
 ISB	15
 Sajith Premadasa	15
 the Colombo National Hospital	15
-Wijayadasa Rajapaksa	15
 Homagama	14
-Army	14
 SJB	14
 CHS	14
 Cooray	14
@@ -200,9 +200,11 @@ Dhammika Munasinghe	9
 Kahathuduwa	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
+Wijesekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+Justice	8
 Home Affairs	8
 Provincial Councils and Local Government	8
 the Dehiwala Zoo	8
@@ -239,10 +241,10 @@ the Ministry of Health	8
 Eurasia	8
 Easter	8
 Lanka	8
-Wijesekera	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+the Paddy Marketing Board	7
 CWE	7
 Energy	7
 Twitter	7
@@ -287,12 +289,11 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
-the Paddy Marketing Board	6
+Kadawatha	6
 Brazil	6
 Yucatan	6
 Norway	6
 Colombo	6
-Justice	6
 the Dambulla Economic Center	6
 Western	6
 Super Diesel	6
@@ -431,6 +432,7 @@ Clifford Chance	5
 Sudath Samaraweera	5
 External Affairs	5
 Heenatigala	5
+the Bribery and Corruption Commission	5
 Colombo Fort Magistrate	5
 North Macedonia	5
 the State Government of Tamil Nadu	5
@@ -439,6 +441,7 @@ the Railway Department	5
 The Public Utilities Commission	5
 South Africa	5
 Subramaniam Satyavani	5
+the Outer Circular Highway	5
 the Matara General Hospital	5
 Nuwara-Eliya	5
 Government	5
@@ -457,6 +460,8 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
+Douglas Devananda	4
+Ministry	4
 BRICS	4
 the Lady Ridgeway Hospital for Children	4
 Dambade	4
@@ -530,7 +535,6 @@ UoC	4
 Capital Goods	4
 Rajeeva Bandaranaike	4
 HNB	4
-the Bribery and Corruption Commission	4
 Zoysa	4
 Palma	4
 Lakmal Sooriyagoda	4
@@ -555,9 +559,9 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+Shavendra Silva	4
 Narendra Modi	4
 the Southern Expressway	4
-the Outer Circular Highway	4
 Washington	4
 the League of Nations	4
 Gota Go Home	4
@@ -575,6 +579,8 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+Defense	4
+the Ministry of Defense	4
 the Office for National Unity and Reconciliation	4
 Charita Herath	4
 Amarakirthi Athukorala	4
@@ -588,7 +594,9 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
-Kadawatha	3
+OIC	3
+Select Committee	3
+Romesh de Silva	3
 Kankesanthurai - An	3
 Kollangalatti	3
 The Sri Lanka Tamil Teachers' Association	3
@@ -633,7 +641,6 @@ SP	3
 Libya	3
 Yemen	3
 Nivard Cabraal	3
-Ministry	3
 Saravanapavan	3
 Kilinochchi	3
 the Makumbura Expressway	3
@@ -697,7 +704,6 @@ Anuradhapura	3
 the Diri Savi Board	3
 Litro Gas	3
 Upul Kumarapperuma	3
-Douglas Devananda	3
 Ronaldinho	3
 Ven	3
 Hideki	3
@@ -726,6 +732,7 @@ Ceylonese	3
 Grandpa	3
 Dharmasekera	3
 the Ceylon Indian Oil Company	3
+the Provincial Secretaries	3
 Sri Lanka Navy	3
 the Ports Authority	3
 the Eastern Terminal	3
@@ -736,8 +743,6 @@ North Western	3
 Western Sahara	3
 Article	3
 Western Europe	3
-Defence	3
-Shavendra Silva	3
 Nihal Taltuwa	3
 section 14	3
 the Ministry of Justice	3
@@ -788,13 +793,23 @@ Ceylon Chamber of Commerce	3
 the Foreign Service	3
 Central Bank	3
 The Department of Meteorology	3
-the Ministry of Defence	3
 the Foreign Secretaries of India	3
 Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
-OIC	2
+Kerosene	2
+Ministry Secretaries	2
+the Southern Expressway Athurugiriya Traffic Control Center	2
+Kaduwela	2
+the Kotelawala Expressway	2
+the Matara Road	2
+the Expressway Traffic Police SSP Chinthaka Gunaratne	2
+Kapila Abeynayake	2
+Kumara	2
+Anuruddha Chandasekara	2
+Defense Staff	2
+Security Council	2
 Gamini Seneviratne	2
 Group CC	2
 MNOXYZ	2
@@ -804,7 +819,6 @@ the Food Promotion Board	2
 Neil de Alwis	2
 Sri Lanka Army	2
 the Secretaries of the Ministries of Education	2
-the Provincial Secretaries	2
 Provincial Directors	2
 Mexican	2
 Quintana Roo	2
@@ -949,7 +963,6 @@ the Chipetco Fuel Station	2
 Hutton Colombo Main Road	2
 Prison Affairs	2
 the Office of Compensation and the Office for National Unity and Reconciliation	2
-Romesh de Silva	2
 Cabinet Sub-Committee	2
 Constitutional Amendment	2
 the Committee on Parliamentary Affairs	2
@@ -1346,18 +1359,19 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
-the Southern Expressway Athurugiriya Traffic Control Center	1
-Kaduwela	1
-the Kotelawala Expressway	1
-the Matara Road	1
-the Expressway Traffic Police SSP Chinthaka Gunaratne	1
-Kapila Abeynayake	1
-Kumara	1
-Anuruddha Chandasekara	1
+the Eelam People's Democratic Party	1
+210	1
+Shipping Nimal Siripala de Silva	1
+The Ministry of Public Administration Home Affairs	1
+Secretaries	1
+State Personnel	1
+Thw Public Administration Circulars	1
+Tokens	1
+the Ministerial Sub-Committee	1
+the Expert Committee	1
 the Ministry of Finance Mahinda Siriwardena	1
 Thavamani	1
 Octane 95	1
-Security Council	1
 Ceylon Indian Oil	1
 Wang Yi	1
 Wang	1
@@ -1724,7 +1738,6 @@ Pallewela	1
 Badulu Oya	1
 Pussakanda	1
 Meegahakiwula	1
-Kerosene	1
 CAA	1
 Urban	1
 the Principals of Urban	1
@@ -2210,7 +2223,6 @@ J.R. Jayewardene	1
 the Navy House	1
 Menikdiwela	1
 the Administrative Service	1
-Ministry Secretaries	1
 the Ministry of Labour	1
 Ministries	1
 the Parliamentary Select Committee	1
@@ -2269,7 +2281,6 @@ Romayne	1
 G.L.	1
 External Affairs of India	1
 the CHOGM Summit	1
-Defense Staff	1
 Daya Ratnayake	1
 Roshan Goonetileke	1
 MULTI-TASKING IN COLOMBO – Part	1
