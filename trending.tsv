@@ -2,7 +2,7 @@ ent_group	n
 Sri Lanka	1237
 India	207
 US	166
-Parliament	119
+Parliament	127
 Australia	111
 IMF	98
 Gotabaya Rajapaksa	81
@@ -19,8 +19,8 @@ Tamil	45
 German	45
 Ukraine	43
 Aragalaya	43
+Constitution	42
 Cabinet	42
-Constitution	41
 Viswanathan	41
 European	36
 Jaffna	35
@@ -41,9 +41,9 @@ CID	26
 Argentina	26
 Japanese	25
 Tamil Nadu	24
+SPP	24
 Premadasa	24
 France	23
-SPP	23
 Wickremesinghe	23
 Asia	23
 Welgama	22
@@ -52,9 +52,11 @@ CPC	21
 SriLankan Airlines	21
 Chinese	20
 Romania	20
+Dhammika Perera	19
 the Monetary Board	19
 the United Nations	19
 Colombo/Jun24/2022	19
+Perera	18
 Navy	18
 Mullaitivu	18
 Ramamurthy	18
@@ -70,18 +72,18 @@ UK	16
 SL	16
 Bulgaria	16
 SriLankan Cares	16
-Dhammika Perera	16
+the Supreme Court	16
 the European Union	16
 Kanchana Wijesekera	16
 Korean	16
 Joe Biden	15
+British	15
 the Sri Lanka People's Front	15
 Theekshana	15
 Karunaratne	15
 Estonia	15
 ISB	15
 Harin Fernando	15
-British	14
 Hambantota	14
 London	14
 CHS	14
@@ -96,13 +98,12 @@ SJB	13
 Army	13
 USA	13
 Nepal	13
+Basil Rajapaksa	13
 the Sri Lanka Transport Board	13
-the Supreme Court	13
 National Authority on Tobacco and Alcohol	13
 Kelly Keiderling	13
 The Consumer Affairs Authority	13
 Afghanistan	12
-Perera	12
 National Savings Bank	12
 the Middle East	12
 Pat Cummins	12
@@ -111,11 +112,11 @@ MSV	12
 FE	12
 NL	12
 Central Asia	12
+Sajith Premadasa	12
 the Northern Province	12
 the Soviet Union	12
 Bangladesh	12
 Section 8 of	12
-Basil Rajapaksa	12
 Bell Geospace	12
 Temple Trees	12
 Naseer Ahmed	12
@@ -124,7 +125,6 @@ EU Ambassadors	12
 Shane Warne’s	12
 Morocco	11
 Diesel	11
-Sajith Premadasa	11
 Gulf	11
 French	11
 House	11
@@ -323,6 +323,8 @@ Hamilton Reserve Bank Ltd.	6
 African	6
 Melilla	5
 Ratnapura	5
+Podujana Peramuna	5
+Ceylon	5
 the Presidential Palace	5
 TNA	5
 Vasudeva Nanayakkara	5
@@ -375,6 +377,7 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+the National List	5
 Mark Meloch-Brown	5
 Roe	5
 New York	5
@@ -406,6 +409,7 @@ Power and Energy	5
 the White House Oval Office	4
 Moroccan	4
 Justice	4
+Royal Ceramics	4
 Maskeliya	4
 the Katunayake Airport	4
 Twitter	4
@@ -439,7 +443,6 @@ Faizal	4
 Northern	4
 Malaysia	4
 Kuwait	4
-Podujana Peramuna	4
 the Agriculture Ministry	4
 the Government of Japan	4
 Keells	4
@@ -483,7 +486,6 @@ Sanur	4
 Rahula Vidyalaya	4
 Godakawela	4
 Athuraliye Rathana	4
-Ceylon	4
 Menem	4
 Alan Walters	4
 MT of Petrol 92	4
@@ -531,6 +533,7 @@ Maharagama Police	3
 Maharagama	3
 Harantota	3
 the Tamil National Alliance	3
+Legislature	3
 Wellampitiya, Colombo	3
 Dubai	3
 CrudeOil Shipments	3
@@ -542,7 +545,6 @@ SP	3
 Libya	3
 Yemen	3
 Nivard Cabraal	3
-the National List	3
 Ministry	3
 Saravanapavan	3
 Kilinochchi	3
@@ -611,7 +613,6 @@ Seylan Cards	3
 Bank	3
 Anuradhapura	3
 the Diri Savi Board	3
-Royal Ceramics	3
 Litro Gas	3
 Upul Kumarapperuma	3
 Douglas Devananda	3
@@ -693,7 +694,10 @@ the Human Rights Council	3
 the Viswanathan-Ramamurthy	3
 Commission	3
 Venezuela	3
+Article 99A of the Constitution	3
+the Parliament Elections Act	3
 Central Planning	3
+Ceylon Chamber of Commerce	3
 the Ceylon Electricity Board	3
 the Foreign Service	3
 Central Bank	3
@@ -705,6 +709,10 @@ Mellisai Mannargal	3
 State Partnership Program	3
 Melkum Ranjith	2
 the National People's Force	2
+the Center for Policy Alternatives	2
+Bandaranaike	2
+Article	2
+Emphasis	2
 Customs	2
 the Katunayake International Airport	2
 the Navinna Holiday Resort	2
@@ -1028,7 +1036,6 @@ Friedman	2
 10 Downing Street	2
 Thatcher	2
 Executive	2
-Legislature	2
 Samagi United Trade Union Force	2
 SUTUF	2
 Ananda Palitha	2
@@ -1085,8 +1092,6 @@ Rotary	2
 Lenin	2
 Godwin	2
 Ghana	2
-Article 99A of the Constitution	2
-the Parliament Elections Act	2
 Manhattan	2
 Charles A. Flynn	2
 Millennium Challenge Corporation	2
@@ -1108,7 +1113,6 @@ the Jathika Nidahas Peramuna	2
 Vadivel Suresh	2
 Nimal Lansa	2
 Sanath Jayasuriya	2
-Ceylon Chamber of Commerce	2
 Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
@@ -1123,6 +1127,7 @@ Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
 the National People's Power Conference	2
+Board of Investment	2
 the Sri Lankan People's Alliance	2
 the National Council of Intellectuals	2
 the District Secretaries	2
@@ -1194,7 +1199,6 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 the Cold War years	2
 21st Amendment	2
-the Parliamentary Election Act No 1 of 1981	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
@@ -1221,6 +1225,23 @@ RPF	1
 Chandrika Ammiyar	1
 the Constituent Assembly	1
 Lukashenko	1
+Hayleys	1
+Lanka Tiles	1
+Vallibel Group	1
+Chandra Jayaratne	1
+the Elections Commission	1
+Ministry of Technology and Investment Promotion	1
+NewsWire	1
+the National Lists of the	1
+post-Independence years	1
+L.O. Abeyratne	1
+SWRD Bandaranaike	1
+Asoka Karunaratne	1
+Lakshman Kadirgamar	1
+Island	1
+Ratnasiri Wickremanayake	1
+UPFA National List	1
+the Sarath Silva Supreme Court	1
 Sick Matara	1
 Kaushalya Kumari	1
 the Matara Co-operative	1
@@ -2268,7 +2289,6 @@ the Jaffna Railway Station	1
 MDS Ramachandran	1
 Nandana Amarasinghe	1
 Puttalam Base Hospital	1
-Bandaranaike	1
 Temmeria Estate	1
 CWC	1
 Daily Exchange Rate	1
@@ -2632,7 +2652,6 @@ StAR	1
 the International Convention for the Prevention of Money Laundering	1
 the Prevention of Money Laundering Act	1
 the Anti-Corruption Convention	1
-the Center for Policy Alternatives	1
 post-world war	1
 Cold War	1
 The United Nations Organization	1
@@ -2684,9 +2703,9 @@ Otelo Carvalho	1
 Jerry Rawlings	1
 Thomas Sankara	1
 Hugo Chavez	1
+the Parliamentary Election Act No	1
 Saman Rathnapriya	1
-Article	1
-Emphasis	1
+the Parliamentary Election Act No 1 of 1981	1
 Manape	1
 Parliament Elections (Amendment	1
 Newratna	1
@@ -2925,7 +2944,6 @@ United Nations Industrial Development Organization	1
 UNIDO	1
 MCC Grant	1
 Visa	1
-the Board of Investment	1
 Cambodia	1
 Greed	1
 Thorium	1
