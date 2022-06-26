@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 23:59:12 (LK time)*
+*As of 2022-06-27 00:15:06 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -40,9 +36,9 @@
 
 * **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,782 Articles)
+## Last Week (1,776 Articles)
 
-* **376** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2b34de4.json))
+* **370** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe88041.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
