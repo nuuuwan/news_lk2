@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 03:20:16 (LK time)*
+*As of 2022-06-27 03:28:27 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,9 +8,9 @@
 
 * **2** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
-* **12** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
+* **11** daily-ft-lk ([Child’s guide to debt restructuring: Not a cakewalk but a task entailing hard work](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60352613.json))
 
 * **2** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
