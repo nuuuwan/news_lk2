@@ -1,27 +1,27 @@
 ent_group	n
-Sri Lanka	1353
-India	234
+Sri Lanka	1354
+India	236
 US	194
 Parliament	137
 Australia	117
 IMF	98
 Gotabhaya Rajapaksa	92
-Russia	87
+Russia	89
 the International Monetary Fund	79
 Ranil Wickremesinghe	73
 the Central Bank	70
+China	66
 the 21st Amendment	64
-China	63
 Rajapaksas	63
 Messi	50
+Cabinet	49
 Constitution	49
 Opposition	49
-Cabinet	48
 Jaffna	46
 Tamil	46
+State	45
 German	45
 Ukraine	44
-State	44
 Treasury	44
 Aragalaya	43
 the United States	43
@@ -47,17 +47,19 @@ Japanese	25
 Tamil Nadu	25
 SPP	24
 Premadasa	24
+Chinese	23
 France	23
 Wickremesinghe	23
 Welgama	22
 Singapore	22
 SriLankan Airlines	21
 Hambantota	20
-Chinese	20
 Romania	20
 Kelly Keiderling	20
 Dhammika Perera	19
 the Monetary Board	19
+the Ministry of Education	19
+Kanchana Wijesekera	19
 American	19
 the United Nations	19
 Robert Kaproth	19
@@ -68,10 +70,8 @@ Mullaitivu	18
 Ramamurthy	18
 Mahinda Rajapaksa	18
 Dudley Sirisena	18
-Kanchana Wijesekera	18
 Nandalal Weerasinghe	17
 Order	17
-the Ministry of Education	17
 Matara	16
 UK	16
 SL	16
@@ -171,6 +171,7 @@ Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+Middeniya	9
 Norwegian	9
 IOC	9
 Trincomalee	9
@@ -237,7 +238,6 @@ Lanka	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
-Middeniya	7
 Twitter	7
 Wimal Weerawansa	7
 Board	7
@@ -281,7 +281,10 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
+Brazil	6
+Yucatan	6
 Norway	6
+Colombo	6
 Justice	6
 the Dambulla Economic Center	6
 Homagama	6
@@ -354,11 +357,12 @@ the World Health Organization	6
 Hamilton Reserve Bank Ltd.	6
 African	6
 Article 83 of the Constitution	6
+Mexico	5
 Specialist	5
+Jayawardena	5
 Energy	5
 Sampath	5
 Mahinda Amaraweera	5
-Colombo	5
 Northern	5
 Melilla	5
 Podujana Peramuna	5
@@ -425,6 +429,7 @@ North Macedonia	5
 the Ministry of Agriculture	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+South Africa	5
 Subramaniam Satyavani	5
 the Matara General Hospital	5
 Nuwara-Eliya	5
@@ -445,6 +450,7 @@ Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
 Power and Energy	5
+BRICS	4
 the Jaffna Teaching Hospital	4
 the Lady Ridgeway Hospital for Children	4
 Dambade	4
@@ -469,7 +475,6 @@ CrudeOil Shipments	4
 Brzezinski	4
 Keynes	4
 BBC	4
-Brazil	4
 East	4
 Portugal	4
 Mirihana	4
@@ -575,14 +580,13 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
-Mexico	3
-Yucatan	3
 Belarus	3
 Vladimir Putin	3
+the Embilipitiya Hospital	3
 The Sri Lanka Medical Association	3
 Oslo	3
 Islamist	3
-Jayawardena	3
+Kanchana	3
 Ecuador	3
 the Nuwara Eliya Police Station Crime Prevention Unit	3
 Cope	3
@@ -737,7 +741,6 @@ the Monetary Law Act	3
 Asia Pacific	3
 Angajan Ramanthan	3
 Ceylon Daily News	3
-South America	3
 Marie	3
 Tourist Guide Lecturer	3
 978-624-97686-5-9	3
@@ -779,9 +782,14 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
-the Embilipitiya Hospital	2
+The Sri Lanka Tamil Teachers' Association	2
+Mexican	2
+Quintana Roo	2
+Mindeniya Police	2
 Kankesanthurai - An	2
 Kollangalatti	2
+the All Ceylon Bakery Owners'	2
+N.S. K. Mr.	2
 Lasso	2
 ICU	2
 the National Hospital	2
@@ -1021,7 +1029,6 @@ Azure Stack	2
 Peter Bower	2
 Kandyan	2
 California	2
-Kanchana	2
 Power & Energy Kanchana Wijesekara	2
 Coordinating	2
 Trinco	2
@@ -1318,19 +1325,20 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+the Secretaries of the Ministries of Education	1
+the Provincial Secretaries	1
+Provincial Directors	1
+Wang Yi	1
+Wang	1
+Emerging Market Group	1
 the Bakery Owners' Association	1
-Mexican	1
-Quintana Roo	1
 Belarusian	1
 Alexander Lukashenko	1
-Mindeniya Police	1
 Bowser Assn	1
 The Ceylon Petroleum Private Bowser Owners Association	1
 Obstetricians	1
 Nisal Baduge	1
 LGBT festival	1
-the All Ceylon Bakery Owners'	1
-N.S. K. Mr.	1
 Guillermo Lasso	1
 Quito	1
 the Santipura Oliphant Estate	1
@@ -2393,7 +2401,6 @@ the Chairmen of Labour Tribunals	1
 Douglas	1
 Karaikal	1
 Palali-Trichy and Chennai	1
-The Sri Lanka Tamil Teachers' Association	1
 the Association Sara Bhuvaneswaran	1
 the International Federation of Football Associations	1
 Cristiano Ronaldo	1
