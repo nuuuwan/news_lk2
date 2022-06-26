@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 20:18:28 (LK time)*
+*As of 2022-06-26 20:26:37 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,13 +10,13 @@
 
 * **1** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
 
-## Last 3 Hours (38 Articles)
+## Last 3 Hours (35 Articles)
 
 * **17** virakesari-lk ([தெல்லிப்பளை ஆதார வைத்தியசாலையின் மருந்துக் களஞ்சியத்தில் தீ விபத்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b400718b.json))
 
 * **9** lankadeepa-lk ([ස්කැවේටර් රියදුරාගේ සිරුර වැසිකිලිවළක](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/228da02a.json))
 
-* **7** tamil-mirror-lk ([’’கிழக்கு முனையத்தில் பணிகளை விரைவுபடுத்துங்கள்’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a76693.json))
+* **4** tamil-mirror-lk ([துஷ்பிரயோகம் செய்த மாணவர்களுக்கு வலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41ea77c6.json))
 
 * **2** ada-derana-lk ([Drunk police constable rides motorcycle on expressway, causes accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5af8e2e1.json))
 
@@ -24,13 +24,13 @@
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
-## Last 24 Hours (242 Articles)
+## Last 24 Hours (240 Articles)
 
 * **72** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
 
-* **44** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
+* **43** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
 
-* **42** virakesari-lk ([பொலிஸ் தலைமையகம்  பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982466f5.json))
+* **41** virakesari-lk ([கோட்டாவை வீட்டுக்கு அனுப்புவதற்கு இரு தெரிவுகளைக் கூறும் தாயான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc00175f.json))
 
 * **25** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
