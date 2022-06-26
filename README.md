@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 11:20:15 (LK time)*
+*As of 2022-06-26 11:27:41 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (5 Articles)
 
 * **1** daily-mirror-lk ([US delegation arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dae95824.json))
 
@@ -16,11 +16,9 @@
 
 * **1** news-first-lk ([Family of four injured in fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af78c4c.json))
 
-* **1** tamil-mirror-lk ([ஓட்டோ கட்டணமும் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c82d337f.json))
+## Last Hour (11 Articles)
 
-## Last Hour (14 Articles)
-
-* **5** tamil-mirror-lk ([பஸ் கட்டணத்தை 35 சதவீதத்தால் அதிகரிக்க கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aca9f42.json))
+* **4** tamil-mirror-lk ([ஐ.ஓ.சியும் அதேயளவில் அதிகரித்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35cc6bb9.json))
 
 * **2** ada-lk ([බත් පැකට් ඇතුළු සියලුම ආහාර සියයට 10කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95eb9e43.json))
 
@@ -31,10 +29,6 @@
 * **1** economy-next-com ([Sri Lanka removes ban on open account food imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d47799.json))
 
 * **1** news-first-lk ([Family of four injured in fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af78c4c.json))
-
-* **1** virakesari-lk ([எரிபொருள் விலை அதிகரிப்பினால் கடும் அழுத்தத்திற்குள்ளாகியுள்ளோம்- முச்சக்கரவண்டிகள் உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8538a1cc.json))
-
-* **1** ada-derana-lk ([Price of rice packet and other food items increase by 10%](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba8628e.json))
 
 ## Last 3 Hours (34 Articles)
 
@@ -54,11 +48,11 @@
 
 * **1** economy-next-com ([Sri Lanka removes ban on open account food imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d47799.json))
 
-## Last 24 Hours (170 Articles)
+## Last 24 Hours (165 Articles)
 
-* **42** lankadeepa-lk ([ඩොලර් වලට තවත් සීමාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fea55dbc.json))
+* **38** lankadeepa-lk ([ඇමෙරිකානු නියෝජිත පිරිසේ ශ්‍රී ලංකා සංචාරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c52d4cbf.json))
 
-* **31** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் - 4 பேர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/893e8e67.json))
+* **30** virakesari-lk ([வெளிநாட்டு நாணய கையிருப்பு குறித்து இலங்கை மத்திய வங்கியின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/008154ea.json))
 
 * **27** tamil-mirror-lk ([வெல்கமவை தாக்கிய குற்றச்சாட்டில் மேலும் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d651af1c.json))
 
@@ -76,13 +70,13 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
-## Last Week (1,650 Articles)
+## Last Week (1,649 Articles)
 
 * **378** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67678474.json))
 
 * **252** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
-* **189** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f426a8f.json))
+* **188** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baaa759c.json))
 
 * **149** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3d0b791.json))
 
