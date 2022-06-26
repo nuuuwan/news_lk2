@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/US-delegation-arrives-in-Sri-Lanka/108-239805",
+    "time_ut": 1656221906,
+    "original_lang": "en",
+    "original_title": "US delegation arrives in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/da/dae95824.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d85\u0d82\u0dc1\u0dba\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9-\u0db1\u0dd0\u0dc4\u0dd0/11-394827",
+    "time_ut": 1656221667,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd0\u0dc4\u0dd0",
+    "file_name": "/tmp/news_lk2/articles/d8/d81a7ed2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd2\u0dbb\u0dd2\u0dba-\u0db8\u0dbb\u0dcf-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0db6\u0dcf\u0dbb-\u0dc0\u0dd9\u0dbd\u0dcf/101-615401",
+    "time_ut": 1656221642,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd2\u0dbb\u0dd2\u0dba \u0db8\u0dbb\u0dcf \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0db6\u0dcf\u0dbb \u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c2/c220ac8b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-removes-ban-on-open-account-food-imports-96457/",
+    "time_ut": 1656221520,
+    "original_lang": "en",
+    "original_title": "Sri Lanka removes ban on open account food imports",
+    "file_name": "/tmp/news_lk2/articles/27/27d47799.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/family-of-four-injured-in-fire/",
+    "time_ut": 1656221400,
+    "original_lang": "en",
+    "original_title": "Family of four injured in fire",
+    "file_name": "/tmp/news_lk2/articles/3a/3af78c4c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b9f\u0bcd\u0b9f\u0bcb-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299222",
     "time_ut": 1656221000,
@@ -758,45 +798,5 @@
     "original_lang": "en",
     "original_title": "U.S. Supreme Court ends constitutional right to abortion",
     "file_name": "/tmp/news_lk2/articles/27/276b9513.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/war-on-china-iv-rules-based-international-order-normalising-global-state-terrorism/",
-    "time_ut": 1656159803,
-    "original_lang": "en",
-    "original_title": "War On China? \u2013 IV: Rules-Based International Order: Normalising Global State Terrorism",
-    "file_name": "/tmp/news_lk2/articles/51/51dd0b62.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Further-delay-in-Petrol-Diesel-and-CrudeOil-Shipments-Minister/108-239800",
-    "time_ut": 1656159678,
-    "original_lang": "en",
-    "original_title": "Further delay in Petrol, Diesel and CrudeOil Shipments: Minister",
-    "file_name": "/tmp/news_lk2/articles/c4/c4485b5a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Further-delay-in-Petrol-Diesel-and-CrudeOil-Shipments-Minister/155-239800",
-    "time_ut": 1656159678,
-    "original_lang": "en",
-    "original_title": "Further delay in Petrol, Diesel and CrudeOil Shipments: Minister",
-    "file_name": "/tmp/news_lk2/articles/9a/9abe3db7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/fishermen-protest-against-rising-costs/",
-    "time_ut": 1656159660,
-    "original_lang": "en",
-    "original_title": "Fishermen protest against rising costs",
-    "file_name": "/tmp/news_lk2/articles/b0/b0af230a.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/why-i-dont-support-the-aragalaya/",
-    "time_ut": 1656159040,
-    "original_lang": "en",
-    "original_title": "Why I Don\u2019t Support The Aragalaya",
-    "file_name": "/tmp/news_lk2/articles/cf/cf71fc70.json"
   }
 ]
