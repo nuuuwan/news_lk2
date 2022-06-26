@@ -1,23 +1,23 @@
 ent_group	n
-Sri Lanka	1614
-India	307
+Sri Lanka	1620
+India	313
 US	227
 Australia	187
 Russia	169
 Parliament	152
-IMF	106
+IMF	109
 Gotabhaya Rajapaksa	100
 Central Bank	96
 International Monetary Fund	91
 China	90
-Ranil Wickremesinghe	77
+Ranil Wickremesinghe	78
 21st Amendment	69
-Rajapaksas	68
+Rajapaksas	69
 Ukraine	65
 Tamil	63
+Jaffna	60
 Constitution	58
 Cabinet	57
-Jaffna	56
 CPC	54
 German	53
 Messi	50
@@ -27,8 +27,8 @@ Treasury	49
 State	46
 Ceylon Petroleum Corporation	46
 Aragalaya	42
+European	42
 Viswanathan	41
-European	41
 Buddhist	39
 U.S.	38
 Japan	36
@@ -59,8 +59,8 @@ ISB	25
 France	24
 Chinese	24
 SPP	24
+World Bank	23
 Nimal Siripala de Silva	23
-World Bank	22
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
@@ -88,6 +88,7 @@ UK	18
 Galle	18
 Nandalal Weerasinghe	18
 Ramamurthy	18
+Northern Province	18
 Sri Lanka Transport Board	18
 Singapore	18
 Supreme Court	18
@@ -96,7 +97,6 @@ Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 Homagama	17
 Order	17
-Northern Province	17
 SLTB	17
 Arab	17
 Joe Biden	16
@@ -114,6 +114,7 @@ Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
+Sinhalese	15
 North	15
 London	15
 Theekshana	15
@@ -124,11 +125,11 @@ Estonia	15
 Julie Chung	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
-Sinhalese	14
 SJB	14
 CHS	14
 Cooray	14
 Jehan Appuhamy	14
+Bangladesh	14
 Basil Rajapaksa	14
 Jagath Manuwarna	14
 National Savings Bank	13
@@ -141,7 +142,6 @@ Spain	13
 Nepal	13
 US Treasury	13
 National Authority on Tobacco and Alcohol	13
-Bangladesh	13
 Lankans	13
 Kahathuduwa	13
 Colombo Fort	13
@@ -187,6 +187,7 @@ COPE	11
 Latin America	11
 Hatton-Colombo	11
 Provincial Councils and Local Government	10
+CEB	10
 Sinhala	10
 West	10
 Eastern Terminal of Colombo Port	10
@@ -303,6 +304,7 @@ Rathindu Senaratne	8
 United National Party	7
 Western	7
 Indonesia	7
+Coimbatore	7
 Mendis	7
 Kurunegala	7
 Palitha	7
@@ -343,9 +345,9 @@ State Government of Tamil Nadu	7
 Harsha De Silva	7
 SAFA	6
 Maithripala Sirisena	6
-CEB	6
 Mirihana	6
 Verite Research	6
+Mexico	6
 BBC	6
 Lions	6
 Thomson	6
@@ -396,7 +398,6 @@ Sathosa	6
 Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
-Coimbatore	6
 Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
@@ -422,6 +423,7 @@ Senthil Thondaman	6
 Mahinda Yapa Abeywardena	6
 Jinarathana Thero	6
 Public Property Act	6
+Christians	6
 Kiul Oya	6
 The Criminal Investigations Department	6
 Cauvery Basin	6
@@ -429,6 +431,7 @@ United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
 Senegal	5
 Kelaniya	5
+Trinco	5
 Ceylonese	5
 Tamil Progressive Alliance	5
 South	5
@@ -440,7 +443,6 @@ Lotus Tower	5
 Janaka Ratnayake	5
 Kuwait	5
 Jaffna Teaching Hospital	5
-Mexico	5
 Specialist	5
 Jayawardena	5
 Sampath	5
@@ -507,6 +509,7 @@ Heenatigala	5
 Bribery and Corruption Commission	5
 North Macedonia	5
 Bosnia and Herzegovina	5
+Hindu	5
 democratic	5
 Subramaniam Satyavani	5
 Power and Energy Minister	5
@@ -514,7 +517,6 @@ Matara General Hospital	5
 Masahiro Nozaki	5
 GL Peiris	5
 Monetary Board of Central Bank of Sri Lanka	5
-Christian	5
 SLT-Mobitel AkazaLMS	5
 Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
@@ -529,6 +531,8 @@ Vladimir Putin	4
 Boris Johnson	4
 Paris	4
 Pattiya Junction	4
+Mannar	4
+Kilinochchi	4
 Svastika	4
 Kangaroos	4
 Yellow	4
@@ -646,9 +650,9 @@ Tibetan	4
 Government	4
 The IEEE TCSVC Research Innovation Award	4
 European Council	4
+Dushyanthi	4
 Commission	4
 Nihal Taltuwa	4
-Hindu	4
 Ben Ali	4
 Nanu Oya to Colombo Fort	4
 Sri Lanka People's Alliance	4
@@ -709,7 +713,6 @@ SSP Nihal Thalduwa	3
 Peliyagoda	3
 Florida	3
 England	3
-Mannar	3
 Siyambalanduwa	3
 National Transport Commission	3
 Vadivel Suresh	3
@@ -788,7 +791,6 @@ Libya	3
 Yemen	3
 Nivard Cabraal	3
 Saravanapavan	3
-Kilinochchi	3
 Makumbura Expressway	3
 Afghan	3
 www.dfe.lk	3
@@ -963,6 +965,11 @@ new heights	2
 Foreign Direct Investment	2
 The Financial Crimes Investigation Division	2
 National Development Bank	2
+Open University	2
+Indran	2
+Thiriyai	2
+Konesapuri	2
+Solai	2
 Pro-Ukrainian	2
 Kherson- Image	2
 Sergei A.	2
@@ -1340,7 +1347,6 @@ Kandyan	2
 California	2
 Power & Energy Kanchana Wijesekara	2
 Coordinating	2
-Trinco	2
 Wijerama Mawatha	2
 National Film Corporation	2
 Rukmani Devi Memorial Fund	2
@@ -1681,6 +1687,47 @@ Provincial Directors of Education and Principals	1
 National Hospital in Colombo	1
 Minuwangoda	1
 Kelaniya Division	1
+Natural Death of our	1
+Guardian	1
+Roshan Ragel	1
+Harappa	1
+Dushyanthi Hoole	1
+Associate Professor of Chemical Engineering	1
+Michigan State University	1
+Barrack Obama	1
+Michigan	1
+Amalendran Jesudasan	1
+Oliver Twist	1
+Oliver	1
+BSA	1
+Lumala	1
+Bicycling	1
+Nallur Kandasamy Temple	1
+My van	1
+Invokana	1
+Engineer Jesudasan	1
+Kiruba Sivasubramaniam	1
+Murugesu Sivapalan	1
+S. Jayakumaran	1
+S. Srimahilkanthan	1
+Wiji Asirwatham	1
+Michael Jeyabalan	1
+Pilendran Kumar	1
+Mohan Nagarajah	1
+V. Yogeswaran’s	1
+Rajavarothayam Sampanthan	1
+Saravanas Stores	1
+Anchor	1
+Muruhesu	1
+Sithalebbe	1
+Thunukkai	1
+Shanthi Sriskantharajah	1
+MP	1
+Mankulam	1
+N. Lohathayalan	1
+Nadu/Pulungal	1
+Padman	1
+Green Chemist	1
 Child’s Guide To Debt Restructuring	1
 Mahesh Kadulantha	1
 Mano MP	1
@@ -2610,7 +2657,6 @@ Pagoda	1
 Wijerama	1
 Mile Post	1
 Highlevel	1
-Open University	1
 Nawala	1
 Senior Economist	1
 Fiscal Affairs Department of International Monetary Fund	1
