@@ -1,26 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 20:10:01 (LK time)*
+*As of 2022-06-26 20:18:28 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** lankadeepa-lk ([පානදුර  සිව්මහල් ගොඩනැගිල්ලක ගින්නක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13df5e6d.json))
 
 * **1** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
 
-## Last Hour (3 Articles)
+## Last 3 Hours (38 Articles)
 
-* **1** lankadeepa-lk ([පානදුර  සිව්මහල් ගොඩනැගිල්ලක ගින්නක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13df5e6d.json))
-
-* **1** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
-
-* **1** virakesari-lk ([70 சதவீத எரிபொருள் நிரப்பு நிலையங்களை மூட நடவடிக்கை - எரிபொருள் நிரப்பும் நிலைய உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/379f9248.json))
-
-## Last 3 Hours (39 Articles)
-
-* **18** virakesari-lk ([ஹோமாகமயில் தீ விபத்து : தாய், தந்தை உயிரிழப்பு - பிள்ளைகள் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40ad7707.json))
+* **17** virakesari-lk ([தெல்லிப்பளை ஆதார வைத்தியசாலையின் மருந்துக் களஞ்சியத்தில் தீ விபத்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b400718b.json))
 
 * **9** lankadeepa-lk ([ස්කැවේටර් රියදුරාගේ සිරුර වැසිකිලිවළක](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/228da02a.json))
 
@@ -32,13 +24,13 @@
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (242 Articles)
 
-* **74** lankadeepa-lk ([මස්කෙළියට දින නවයකින් පෙට්‍රල් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75191cfe.json))
+* **72** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
 
 * **44** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
 
-* **43** virakesari-lk ([ஊழல்மோசடிகள் நிறைந்த அரசாங்கத்துடன் இணைந்து செயற்பட பிரதமர் ரணில் இணங்கியமை தவறு - சுமந்திரன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce94b6c8.json))
+* **42** virakesari-lk ([பொலிஸ் தலைமையகம்  பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982466f5.json))
 
 * **25** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
