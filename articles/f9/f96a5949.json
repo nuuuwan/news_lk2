@@ -1,0 +1,198 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0-\u0db6\u0dd9\u0dbd\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u0dbd\u0dd4/3-394835",
+  "time_ut": 1656229739,
+  "original_lang": "si",
+  "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db6\u0dd9\u0dbd\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0daf\u0dd9\u0db1\u0dc0\u0dcf\u0dbd\u0dd4",
+  "text_idx": {
+    "en": {
+      "title": "Russia to supply missile systems to Belarus",
+      "author": "unknown",
+      "body_lines": [
+        "Russia will supply Belarus with Iskander-M missile systems, Russian President Vladimir Putin has said during talks with Belarusian President Alexander Lukashenko.",
+        "He added that the distribution will take place within a few months.",
+        "The Iskander-M is a mobile guided missile system with a range of up to 500 km (300 miles). Missiles can carry conventional or nuclear warheads."
+      ],
+      "title_ents": [
+        {
+          "text": "Russia",
+          "label": "GPE"
+        },
+        {
+          "text": "Belarus",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Belarus",
+            "label": "GPE"
+          },
+          {
+            "text": "Russian",
+            "label": "NORP"
+          },
+          {
+            "text": "Vladimir Putin",
+            "label": "PERSON"
+          },
+          {
+            "text": "Belarusian",
+            "label": "NORP"
+          },
+          {
+            "text": "Alexander Lukashenko",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "a few months",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "up to 500 km",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "300 miles",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db6\u0dd9\u0dbd\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0daf\u0dd9\u0db1\u0dc0\u0dcf\u0dbd\u0dd4",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db6\u0dd9\u0dbd\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 Iskander-M \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0dc3\u0db4\u0dba\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc0\u0dca\u0dbd\u0dd0\u0daf\u0dd2\u0db8\u0dd3\u0dbb\u0dca \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca \u0db6\u0dd9\u0dbd\u0dcf\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca \u0dbd\u0dd4\u0d9a\u0dc2\u0dd9\u0db1\u0dca\u0d9a\u0ddd \u0dc3\u0db8\u0d9c \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc3\u0d82\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0daf\u0dd3\u00a0\u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dd9\u0dbb\u0dd9\u0db1 \u0db6\u0dc0\u0daf \u0d94\u0dc4\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "Iskander-M \u0dba\u0db1\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dca 500 (\u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 300) \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dbb\u0dcf\u0dc3\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0da2\u0d82\u0d9c\u0db8 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1 \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dd2. \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd\u0dc0\u0dbd\u0da7 \u0dc3\u0db8\u0dca\u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0dba\u0dd2\u0d9a \u0dc4\u0ddd \u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a \u0dba\u0dd4\u0db0 \u0dc4\u0dd2\u0dc3\u0dca \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dba\u0dcf \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0daf \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dd9\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db6\u0dd9\u0dbd\u0dcf\u0dbb\u0dd4\u0dc3\u0dca",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd9\u0dbd\u0dcf\u0dbb\u0dd4\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc0\u0dca\u0dbd\u0dd0\u0da9\u0dd2\u0db8\u0dd3\u0dbb\u0dca \u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dd9\u0dbd\u0dcf\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d87\u0dbd\u0dd9\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca \u0dbd\u0dd4\u0d9a\u0dc2\u0dd9\u0db1\u0dca\u0d9a\u0ddd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb 500 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 300 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0bb8\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0bb2\u0bc1\u0b95\u0bbe\u0bb7\u0bc6\u0ba9\u0bcd\u0b95\u0bcb\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b87\u0bb8\u0bcd\u0b95\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd-\u0b8e\u0bae\u0bcd \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0bb8\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0bb3\u0bbe\u0b9f\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb8\u0bcd\u0b95\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd-\u0b8e\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 500 \u0b95\u0bbf\u0bae\u0bc0 (300 \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd) \u0bb5\u0bb0\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b92\u0bb0\u0bc1 \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0b95\u0bc1\u0bae\u0bcd. \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b85\u0ba3\u0bc1 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0bb8\u0bcd",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb3\u0bbe\u0b9f\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb2\u0bbe\u0bb0\u0b9a\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0bb2\u0bc1\u0b95\u0bbe\u0bb7\u0bc6\u0ba9\u0bcd\u0b95\u0bcb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbf\u0bb2 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "500 \u0b95\u0bbf\u0bae\u0bc0 \u0bb5\u0bb0\u0bc8",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "300 \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    }
+  }
+}
