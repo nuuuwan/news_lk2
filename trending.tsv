@@ -1,6 +1,6 @@
 ent_group	n
-Sri Lanka	1316
-India	212
+Sri Lanka	1322
+India	221
 US	188
 Parliament	132
 Australia	111
@@ -31,15 +31,15 @@ U.S.	35
 CSE	33
 EU	32
 the Central Bank of Sri Lanka	32
+CPC	30
 UN	30
 UNDP	30
 Johnston Fernando	29
 Asia	28
 The Bribery Commission	28
+the Ceylon Petroleum Corporation	28
 Japan	27
 Kumara Welgama	27
-the Ceylon Petroleum Corporation	27
-CPC	26
 CID	26
 Argentina	26
 Japanese	25
@@ -181,6 +181,7 @@ South Asia	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
+Daily Mirror	9
 COPE	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
@@ -217,7 +218,6 @@ CAG	8
 the Finance Ministry	8
 Eric Lavertu	8
 Gotabhaya	8
-Daily Mirror	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
 MA Sumanthiran	8
@@ -225,6 +225,7 @@ Eurasia	8
 Easter	8
 Lanka	8
 Rathindu Senaratne	8
+Chaturanga Samarawickrama	7
 RBIO	7
 Hitler	7
 Independence	7
@@ -278,7 +279,6 @@ the Presidential Palace	6
 Wellawaya	6
 Canada	6
 Sinhalese	6
-Chaturanga Samarawickrama	6
 MLF	6
 Uduwaragedara	6
 Geneva	6
@@ -546,6 +546,7 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+the Dambulla Economic Center	3
 Leader	3
 Auto Diesel	3
 the United States Mahinda Samarasinghe	3
@@ -729,6 +730,8 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Darshana Sanjeewa Balasuriya	2
+Rs.100	2
 Kahathuduwa Police	2
 the Borella Children's Hospital	2
 the Matara Pradeshiya Sabha	2
@@ -1155,6 +1158,8 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+the Power and Energy Minister	2
+The All Ceylon Restaurant Owners Association	2
 the National People's Power Conference	2
 Board of Investment	2
 the Sri Lankan People's Alliance	2
@@ -1180,7 +1185,6 @@ Asia Pacific Department	2
 Anne-Marie Gulde	2
 Monetary and Capital Market Department of the IMF	2
 the Public Service Day	2
-the All Ceylon Bakery Owners' Association	2
 WikiFord	2
 the Ministry of Ports	2
 SampathCards UltraRewards	2
@@ -1229,11 +1233,18 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Lalith Dharmasekera	1
+Rs.80	1
+Dambulla	1
+the Adani Group	1
+Mannar	1
+the Western Container Terminal	1
+Kahatuduwa	1
+kottu	1
 Paranthan-Poonakary	1
 the Jaffna District Conference of	1
 Paranthan	1
 Poonakary	1
-Rs.100	1
 the U.S. Department of the Treasury	1
 int’l	1
 Petrol Octane	1
@@ -1297,7 +1308,6 @@ Kota	1
 Marcos	1
 Kottayam	1
 Conte	1
-Power and Energy Minister	1
 Andakai	1
 Ragamai Hospital -	1
 the National Freedom Front	1
@@ -1645,6 +1655,7 @@ António Guterres	1
 United Nations Public Service Day	1
 Winkle Thera	1
 GA Colvin	1
+the All Ceylon Bakery Owners' Association	1
 the Upper Province	1
 the Supreme Court of Sri Lanka	1
 Opposition Samagi Jana Balavegaya’s	1
@@ -1886,7 +1897,6 @@ the Commonwealth Telecom Organization London	1
 Sol Trumbo Vila	1
 Matthijs PetersTransnational Institute	1
 Quad Humanitarian	1
-Darshana Sanjeewa Balasuriya	1
 Ashanthi Warunasuriya	1
 Second World War	1
 Nationalist	1
