@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 11:27:41 (LK time)*
+*As of 2022-06-26 11:35:43 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** tamil-mirror-lk ([ரயில் கட்டணங்களை  அதிகரிக்க கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0eb8365.json))
 
 * **1** daily-mirror-lk ([US delegation arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dae95824.json))
 
-* **1** ada-lk ([නැගෙනහිර පර්යන්තය පෞද්ගලික අංශයට දෙන්නෙ නැහැ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d81a7ed2.json))
-
-* **1** lankadeepa-lk ([බිරිය මරා සැමියා පොලීසියට බාර වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c220ac8b.json))
-
-* **1** economy-next-com ([Sri Lanka removes ban on open account food imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d47799.json))
-
-* **1** news-first-lk ([Family of four injured in fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af78c4c.json))
-
 ## Last Hour (11 Articles)
 
-* **4** tamil-mirror-lk ([ஐ.ஓ.சியும் அதேயளவில் அதிகரித்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35cc6bb9.json))
+* **4** tamil-mirror-lk ([கோடரியால் மனைவியை கொத்தினார் கணவன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98ebef65.json))
 
 * **2** ada-lk ([බත් පැකට් ඇතුළු සියලුම ආහාර සියයට 10කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95eb9e43.json))
 
@@ -30,9 +24,9 @@
 
 * **1** news-first-lk ([Family of four injured in fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af78c4c.json))
 
-## Last 3 Hours (34 Articles)
+## Last 3 Hours (33 Articles)
 
-* **11** tamil-mirror-lk ([அமெரிக்காவின் உயர்மட்ட அதிகாரிகள் இலங்கை வந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53b002fa.json))
+* **11** tamil-mirror-lk ([சிகிச்சைக்காக சென்ற அதிகாரி சிறை பிடிக்கப்பட்டார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ecd7ff5.json))
 
 * **8** lankadeepa-lk ([නිවසේ ගින්නෙන් පියා මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63332b71.json))
 
@@ -40,9 +34,9 @@
 
 * **3** news-first-lk ([Price of food items up by 10%](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4ac9b46.json))
 
-* **3** virakesari-lk ([அமெரிக்க இராஜாங்கத்திணைக்களம், திறைசேரியை பிரதிநிதித்துவப்படுத்திய 3 பிரதிநிதிகள் நாட்டை வந்தடைந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/5054c1d0.json))
-
 * **2** ada-lk ([බත් පැකට් ඇතුළු සියලුම ආහාර සියයට 10කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95eb9e43.json))
+
+* **2** virakesari-lk ([கடனுதவிக்கு பதில் தனது அபிவிருத்தி திட்டங்களை துரிதப்படுத்தவேண்டும் என வலியுறுத்தியது இந்தியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aeae9dc.json))
 
 * **2** ada-derana-lk ([Four injured after fire breaks out at a house](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/080afcff.json))
 
@@ -54,7 +48,7 @@
 
 * **30** virakesari-lk ([வெளிநாட்டு நாணய கையிருப்பு குறித்து இலங்கை மத்திய வங்கியின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/008154ea.json))
 
-* **27** tamil-mirror-lk ([வெல்கமவை தாக்கிய குற்றச்சாட்டில் மேலும் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d651af1c.json))
+* **27** tamil-mirror-lk ([இலங்கை மத்திய வங்கியின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eac985a3.json))
 
 * **17** daily-mirror-lk ([Mahinda Samarasinghe meets Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b5bbe90.json))
 
@@ -70,7 +64,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
-## Last Week (1,649 Articles)
+## Last Week (1,650 Articles)
 
 * **378** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67678474.json))
 
@@ -84,7 +78,7 @@
 
 * **127** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
-* **107** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **108** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **106** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7e78235.json))
 
@@ -98,7 +92,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,360 Articles)
+## All Time (16,361 Articles)
 
 * **5,879** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -120,7 +114,7 @@
 
 * **122** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **107** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **108** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **27** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
