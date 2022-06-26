@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1408
+Sri Lanka	1410
 India	278
 US	209
 Parliament	139
@@ -46,18 +46,18 @@ Japanese	26
 CID	26
 Argentina	26
 Tamil Nadu	25
+Matara	24
 SPP	24
 Premadasa	24
 Chinese	23
 France	23
 SriLankan Airlines	23
 Wickremesinghe	23
-Matara	22
 Welgama	22
 Singapore	22
+Hambantota	21
+Magammana	21
 the Ministry of Education	21
-Magammana	20
-Hambantota	20
 Romania	20
 Kelly Keiderling	20
 Navy	19
@@ -73,12 +73,12 @@ Perera	18
 Mullaitivu	18
 Ramamurthy	18
 Mahinda Rajapaksa	18
+Nimal Siripala de Silva	18
+the Colombo National Hospital	18
 Dudley Sirisena	18
+Homagama	17
 Order	17
-Nimal Siripala de Silva	17
-the Colombo National Hospital	17
 Wijayadasa Rajapaksa	17
-Homagama	16
 Diesel	16
 Army	16
 UK	16
@@ -113,6 +113,8 @@ Jehan Appuhamy	14
 the Northern Province	14
 Julie Chung	14
 Jagath Manuwarna	14
+The Public Utilities Commission	14
+Kadawatha	13
 the Middle East	13
 Hatton	13
 Spain	13
@@ -131,6 +133,7 @@ Shane	12
 MSV	12
 FE	12
 NL	12
+Ports	12
 the Government of Sri Lanka	12
 the Soviet Union	12
 South Asia	12
@@ -142,20 +145,18 @@ Temple Trees	12
 Naseer Ahmed	12
 Latin America	12
 EU Ambassadors	12
-The Public Utilities Commission	12
 Shane Warne’s	12
 Middeniya	11
 IOC	11
 Morocco	11
 Gulf	11
 French	11
-Ports	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
+Kahathuduwa	11
 COPE	11
 the U.S. Embassy	11
 Daily Mirror	11
-Kadawatha	10
 Kandy	10
 Ranil	10
 COVID	10
@@ -178,7 +179,6 @@ Fernando	10
 Arab	10
 US Treasury	10
 Johnston	10
-Kahathuduwa	10
 Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
@@ -210,12 +210,16 @@ the Presidential Secretariat	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
+the Ceylon Electricity Board	9
+the Homagama Base Hospital	9
 the Government Medical Officers' Association	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+Ratnapura	8
+the Eastern Terminal of the Colombo Port	8
 the National People's Force	8
 South Korea	8
 Haritha Aluthge	8
@@ -248,7 +252,6 @@ the Katunayake Airport	8
 Gotabhaya	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
-the Homagama Base Hospital	8
 Kankesanthurai	8
 the Ministry of Health	8
 Eurasia	8
@@ -286,6 +289,7 @@ Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
 Sirisena	7
+the Ports Authority	7
 Venezuela	7
 Tunisia	7
 Manipay	7
@@ -293,7 +297,6 @@ the Board of Directors	7
 the Western Province	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
-the Ceylon Electricity Board	7
 the United People's Power	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
@@ -304,7 +307,6 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
-the Eastern Terminal of the Colombo Port	6
 Ceypetco	6
 Palaly	6
 Abeywardena	6
@@ -315,7 +317,6 @@ the Dambulla Economic Center	6
 Western	6
 Super Diesel	6
 & CPC	6
-Ratnapura	6
 the Presidential Palace	6
 Wellawaya	6
 UPFA	6
@@ -355,8 +356,8 @@ Lionel Messi	6
 the Godakawela Police	6
 Lithuania	6
 Coimbatore	6
-the Ports Authority	6
 the Lotus Tower	6
+the Southern Expressway	6
 Cuba	6
 Buddhist	6
 Jayanath Colombage	6
@@ -364,6 +365,7 @@ Green	6
 The Colombo High Court	6
 John Greenwood	6
 the Eastern Terminal	6
+the Borella Children's Hospital	6
 Pivithuru Hela Urumaya	6
 Dilshan Weerasekera	6
 the Cabinet Ministers	6
@@ -381,6 +383,10 @@ the United Nations Office for the Coordination of Humanitarian Affairs	6
 the World Health Organization	6
 Hamilton Reserve Bank Ltd.	6
 Article 83 of the Constitution	6
+Godakawela	5
+Maharagama Police	5
+Maharagama	5
+ECT	5
 Janaka Ratnayake	5
 Kuwait	5
 the Jaffna Teaching Hospital	5
@@ -439,13 +445,11 @@ Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
 New Delhi	5
-the Southern Expressway	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
 the Ceylon Indian Oil Company	5
 Cipetco	5
 Department	5
-the Borella Children's Hospital	5
 the National List	5
 Mark Meloch-Brown	5
 Roe	5
@@ -482,10 +486,14 @@ the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
-ECT	4
+the Navinna Holiday Resort	4
+CEB	4
 Quad	4
+Kavindi Ranasinghe	4
 Perro	4
 Corona	4
+the Matara Road	4
+Kumara	4
 the Sri Lanka Freedom Party	4
 Douglas Devananda	4
 Ministry	4
@@ -501,8 +509,6 @@ the Katunayake International Airport	4
 Ada Derana	4
 the White House Oval Office	4
 Moroccan	4
-Maharagama Police	4
-Maharagama	4
 Harantota	4
 the Tamil National Alliance	4
 Royal Ceramics	4
@@ -568,7 +574,6 @@ Private Sector	4
 UNHRC	4
 Sanur	4
 Rahula Vidyalaya	4
-Godakawela	4
 Athuraliye Rathana	4
 Menem	4
 Alan Walters	4
@@ -600,6 +605,9 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+the Kottalawala Expressway	4
+the Expressway Traffic Police CSP Chinthaka Gunaratne	4
+Anurutha Chandasekara	4
 Defense	4
 the Ministry of Defense	4
 the Office for National Unity and Reconciliation	4
@@ -615,16 +623,15 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Horana	3
 the Tellippalai Base Hospital	3
+the Colombo Port	3
 Ananda Palitha	3
 MT	3
 New Zealand	3
-Kavindi Ranasinghe	3
 Chennai	3
 Katunayake	3
 Diaspora	3
-the Matara Road	3
-Kumara	3
 Colombo Fort	3
 Roman	3
 OIC	3
@@ -645,7 +652,6 @@ Kanchana	3
 Ecuador	3
 the Nuwara Eliya Police Station Crime Prevention Unit	3
 Cope	3
-CEB	3
 Wariyapola	3
 the Colombo-Katunayake Road	3
 the Central Expressway	3
@@ -664,7 +670,6 @@ North African	3
 Rabat	3
 Legislature	3
 Wellampitiya, Colombo	3
-the Navinna Holiday Resort	3
 H. Ravindra 37	3
 Dubai	3
 Mississippi	3
@@ -767,9 +772,6 @@ the Solomon Islands	3
 Mattala	3
 General Elections	3
 the National Freedom Front	3
-the Kotelawala Expressway	3
-the Expressway Traffic Police SSP Chinthaka Gunaratne	3
-Anuruddha Chandasekara	3
 Group CC	3
 Dharmasekera	3
 the Provincial Secretaries	3
@@ -838,7 +840,8 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
-the Colombo Port	2
+Uhana	2
+Aviation Nimal Siripala de Silva	2
 Minteniya	2
 Embilipitiya	2
 the Port of Colombo on the 25th	2
@@ -854,6 +857,8 @@ Hernandez	2
 The Central Committee of the Government Medical Officers' Association	2
 Karaikal	2
 Tamils ​​in	2
+the Athurugiriya Traffic Control Station	2
+Kaduwatta	2
 Vajira	2
 Vajira Abeywardena	2
 Polpithigama	2
@@ -1068,7 +1073,6 @@ FDI	2
 Lankan	2
 the Phase II	2
 Keells Supermarkets	2
-Horana	2
 Galaxy	2
 Singer	2
 Ajith Nivard	2
@@ -1328,6 +1332,8 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Kantale	2
+Wavinna	2
 Karthik Pandey	2
 Ministry of External Affairs	2
 the Korean War	2
@@ -1412,11 +1418,17 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+the Army and Police	1
+Ampara	1
+Koraleima	1
+Haran Thota	1
+the Kalubowila Base Hospital	1
+M	1
+N	1
 The Southern Expressway Traffic Police	1
 Sapugaskanda Police	1
 Police Constable	1
 the Bemmulla Police Station	1
-Aviation Nimal Siripala de Silva	1
 Homagama: Mother	1
 the Seematti Children's Hospital in Colombo	1
 TUs	1
@@ -1459,8 +1471,6 @@ Nallur	1
 Diaspora Tamils	1
 Palali	1
 Sri Lanka Television	1
-the Athurugiriya Traffic Control Station	1
-Kaduwatta	1
 Nanu Oya to Colombo Fort	1
 Colombo Fort Railway Station	1
 The Ministry of Petroleum	1
@@ -1574,7 +1584,6 @@ Brahim Ghali	1
 Polisario Front	1
 the Canary Islands	1
 Paco	1
-Navinna	1
 Ravindra	1
 Katugasthota	1
 Vijayatha	1
@@ -2917,7 +2926,6 @@ Sevanagala	1
 Science and Technology	1
 the Dry Zone	1
 The Bio Energy Association of Sri Lanka	1
-Kanthale	1
 Bibile	1
 green gram	1
 Agricultural Development Chamal Rajapaksa	1
