@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 22:50:10 (LK time)*
+*As of 2022-06-26 23:03:48 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (2 Articles)
-
-* **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
-
-* **1** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
 ## Last Hour (2 Articles)
 
@@ -30,11 +24,11 @@
 
 * **1** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (253 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **45** tamil-mirror-lk ([திருச்சியில் இலங்கை தமிழர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f08d0f.json))
+* **44** tamil-mirror-lk ([ஒட்டுமொத்த நாடும் ஸ்தம்பிதம் அடையும் நிலை: அனுரகுமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2a595af.json))
 
 * **39** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
