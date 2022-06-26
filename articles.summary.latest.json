@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83264/funeral-parlour-owner-shot-dead-in-middeniya",
+    "time_ut": 1656223200,
+    "original_lang": "en",
+    "original_title": "Funeral parlour owner shot dead in Middeniya",
+    "file_name": "/tmp/news_lk2/articles/3a/3a188b32.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299223",
     "time_ut": 1656222524,
     "original_lang": "ta",
     "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8  \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/b0/b0eb8365.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/filling-stations-facing-closure-due-to-fuel-crisis/",
+    "time_ut": 1656222060,
+    "original_lang": "en",
+    "original_title": "Filling stations facing closure due to fuel crisis",
+    "file_name": "/tmp/news_lk2/articles/49/4911ddec.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -30,6 +46,22 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dd2\u0dbb\u0dd2\u0dba \u0db8\u0dbb\u0dcf \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0db6\u0dcf\u0dbb \u0dc0\u0dd9\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/c2/c220ac8b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/railways-want-50-fare-hike/",
+    "time_ut": 1656221640,
+    "original_lang": "en",
+    "original_title": "Railways want 50% fare hike",
+    "file_name": "/tmp/news_lk2/articles/90/90522ba9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/florist-shot-dead-in-middeniya/",
+    "time_ut": 1656221580,
+    "original_lang": "en",
+    "original_title": "Florist shot dead in Middeniya",
+    "file_name": "/tmp/news_lk2/articles/1d/1d86419c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -766,37 +798,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka facing virtual standstill after indefinite delay of fuel shipment",
     "file_name": "/tmp/news_lk2/articles/6c/6ce61805.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc0\u0dbb\u0dca\u0d9c-10\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d86\u0db1\u0dba\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc3\u0dbb/11-394820",
-    "time_ut": 1656162685,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dbb\u0dca\u0d9c 10\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba \u0dba\u0da7\u0dad\u0dda \u0d86\u0db1\u0dba\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc3\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/ae/aead02ef.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d85\u0daf\u0dd2\u0dba\u0dbb-\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0dc4\u0dd9\u0dc5\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/11-394819",
-    "time_ut": 1656162224,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0dc3\u0da2\u0dd2\u0dad\u0dca \u0dc4\u0dd9\u0dc5\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/cd/cde60c1f.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/govt-responsible-for-delayed-surgeries/",
-    "time_ut": 1656162060,
-    "original_lang": "en",
-    "original_title": "Govt responsible for delayed surgeries",
-    "file_name": "/tmp/news_lk2/articles/58/58ace41d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0b95\u0bbf\u0ba3\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-299183",
-    "time_ut": 1656161732,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/13/134b9fd7.json"
   }
 ]
