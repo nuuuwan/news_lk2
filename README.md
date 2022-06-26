@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 23:35:07 (LK time)*
+*As of 2022-06-26 23:49:24 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,21 +8,19 @@
 
 * **1** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
 
-## Last 3 Hours (14 Articles)
-
-* **5** lankadeepa-lk ([හිටපු ඇමැතිගේ ඉන්ධන පිරවුම්හල මැර කල්ලියකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd73887b.json))
+## Last 3 Hours (7 Articles)
 
 * **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
 * **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
-* **2** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
-
-* **2** tamil-mirror-lk ([சியம்பலாண்டுவ ஆதார வைத்தியசாலைக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba74d3f.json))
-
 * **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
 
-## Last 24 Hours (256 Articles)
+* **1** lankadeepa-lk ([කැලණියේදී වෙඩි තැබීමක්:අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe28f1bc.json))
+
+* **1** virakesari-lk ([பேலியகொட பகுதியில் துப்பாக்கி சூடு : ஆணொருவர் பலி - பெண் ஒருவர் படுகாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6366ccc3.json))
+
+## Last 24 Hours (255 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -36,13 +34,13 @@
 
 * **19** news-first-lk ([Sri Lanka: CEYPETCO & Lanka IOC Fuel Prices Increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3f59cef.json))
 
-* **16** ada-derana-lk ([Sri Lankan ambassador to U.S. meets President Joe Biden](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f00906e7.json))
+* **15** ada-derana-lk ([Ceypetco & LIOC hike fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd87343.json))
 
 * **6** economy-next-com ([Sri Lanka petrol price hiked to Rs470 a litre, diesel Rs460](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e22f8993.json))
 
 * **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,786 Articles)
+## Last Week (1,785 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e00a3ca.json))
 
@@ -54,7 +52,7 @@
 
 * **150** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
-* **145** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c680d1ae.json))
+* **144** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d16e0a8.json))
 
 * **135** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
