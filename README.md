@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 21:39:10 (LK time)*
+*As of 2022-06-26 21:50:11 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
+
+## Last Hour (3 Articles)
 
 * **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
 * **1** virakesari-lk ([பேலியகொட பகுதியில் துப்பாக்கி சூடு : ஆணொருவர் பலி - பெண் ஒருவர் படுகாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6366ccc3.json))
 
-## Last Hour (9 Articles)
+## Last 3 Hours (23 Articles)
 
-* **4** lankadeepa-lk ([හිටපු ඇමැතිගේ ඉන්ධන පිරවුම්හල මැර කල්ලියකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd73887b.json))
+* **11** lankadeepa-lk ([ඉන්ධන අර්බුදය උග්‍ර වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1572fe43.json))
 
-* **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
-
-* **2** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
-
-* **1** tamil-mirror-lk ([சியம்பலாண்டுவ ஆதார வைத்தியசாலைக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba74d3f.json))
-
-## Last 3 Hours (35 Articles)
-
-* **14** virakesari-lk ([புரட்சியால் மாற்றம் தேடி  சிதைந்து போன தேசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6651c156.json))
-
-* **13** lankadeepa-lk ([නාගරික පාසල් මේ සතියෙත් නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abc11c9.json))
+* **4** virakesari-lk ([பாடசாலைகளுக்கு விடுமுறை - கல்வியமைச்சு புதிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62fd6907.json))
 
 * **4** tamil-mirror-lk ([அவுஸ்திரேலியா செல்ல  முயன்ற 399 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd64bfb8.json))
 
