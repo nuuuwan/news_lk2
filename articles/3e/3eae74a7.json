@@ -11,7 +11,7 @@
       "body_lines": [
         "The 11 independent political parties that are moving away from the Sri Lanka People's Alliance-led government are set to form a new political alliance next month.",
         "Weerasinghe Weerasumana, Member of Parliament for the Communist Party of Sri Lanka (CPL) has stated that the people of the country will no longer form a government led by the PA.",
-        "Eleven political parties, including the National Freedom Front, the Lanka Sama Samaja Party, the Pivithuru Hela Urumaya, the Left Democratic Front, the Sri Lanka Freedom Party and the Communist Party, are set to form a new coalition in the first week of next month, moving away from the Sri Lanka People's Alliance government.",
+        "Eleven political parties, including the National Freedom Front, the Lanka Sama Samaja Party, the Pivithuru Hela Urumaya, the Left Democratic Front, the Sri Lanka Freedom Party and the Communist Party, are set to form a new coalition in parliament in the first week of next month.",
         "Ideas from many quarters have been solicited for the name and leadership of the new coalition. National Freedom Front leader Wimal Weerawansa and Left Democratic Front leader Vasudeva Nanayakkara have been nominated for the leadership of the alliance.",
         "However, no decision has been taken so far. We expect to form a coalition in the first week of next month. We will run in the upcoming elections through the coalition.",
         "The people of the country will no longer be able to form a government led by the Sri Lanka People's Alliance.",
@@ -84,10 +84,6 @@
           {
             "text": "the first week of next month",
             "label": "DATE"
-          },
-          {
-            "text": "the Sri Lanka People's Alliance",
-            "label": "LOC"
           }
         ],
         [
@@ -207,10 +203,6 @@
           {
             "text": "\u0dbd\u0db6\u0db1 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0dc3\u0dad\u0dd2\u0dba\u0dda",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
-            "label": "LOC"
           }
         ],
         [
@@ -286,7 +278,7 @@
         ],
         [
           {
-            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0bb5\u0bc0\u0bb0\u0b9a\u0bc1\u0bae\u0ba9",
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0bb5\u0bc0\u0bb0\u0b9a\u0bc1\u0bae\u0ba3",
             "label": "PERSON"
           },
           {
@@ -330,10 +322,6 @@
           {
             "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf",
-            "label": "LOC"
           }
         ],
         [

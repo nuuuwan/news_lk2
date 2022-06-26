@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1375
+Sri Lanka	1376
 India	240
 US	195
 Parliament	139
@@ -75,6 +75,7 @@ Mahinda Rajapaksa	18
 Dudley Sirisena	18
 Order	17
 Wijayadasa Rajapaksa	17
+Army	16
 UK	16
 SL	16
 Bulgaria	16
@@ -85,7 +86,6 @@ the European Union	16
 Korean	16
 Harin Fernando	16
 the U.S. Department of State	16
-Army	15
 Diesel	15
 Galle	15
 London	15
@@ -132,6 +132,7 @@ Bangladesh	12
 Section 8 of	12
 Nimal Siripala de Silva	12
 Bell Geospace	12
+the Ministry of Public Administration	12
 Temple Trees	12
 Naseer Ahmed	12
 EU Ambassadors	12
@@ -144,7 +145,6 @@ the Government of Sri Lanka	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
 COPE	11
-the Ministry of Public Administration	11
 the U.S. Embassy	11
 Daily Mirror	11
 Latin America	11
@@ -170,9 +170,12 @@ Arab	10
 US Treasury	10
 Johnston	10
 Hatton-Colombo	10
+Wijesekera	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+Home Affairs	9
+Provincial Councils and Local Government	9
 Middeniya	9
 Norwegian	9
 IOC	9
@@ -200,14 +203,11 @@ Dhammika Munasinghe	9
 Kahathuduwa	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
-Wijesekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
 Wimal Weerawansa	8
 Justice	8
-Home Affairs	8
-Provincial Councils and Local Government	8
 the Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
@@ -242,6 +242,7 @@ the Ministry of Health	8
 Eurasia	8
 Easter	8
 Lanka	8
+The Public Utilities Commission	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
@@ -420,7 +421,7 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
-the Sri Lanka People's Alliance	5
+Shavendra Silva	5
 Lalith Dharmasekera	5
 Cipetco	5
 Department	5
@@ -440,7 +441,6 @@ the Government Medical Officers' Association	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
 the Railway Department	5
-The Public Utilities Commission	5
 South Africa	5
 Subramaniam Satyavani	5
 the Outer Circular Highway	5
@@ -561,8 +561,8 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
-Shavendra Silva	4
 Narendra Modi	4
 the Southern Expressway	4
 Washington	4
@@ -597,8 +597,11 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Janaka Ratnayake	3
 Roman	3
 OIC	3
+Defense Staff	3
+Security Council	3
 Select Committee	3
 Romesh de Silva	3
 Kankesanthurai - An	3
@@ -734,6 +737,7 @@ NC	3
 Ceylonese	3
 Grandpa	3
 the National Freedom Front	3
+Group CC	3
 Dharmasekera	3
 the Ceylon Indian Oil Company	3
 the Provincial Secretaries	3
@@ -815,10 +819,8 @@ the Expressway Traffic Police SSP Chinthaka Gunaratne	2
 Kapila Abeynayake	2
 Kumara	2
 Anuruddha Chandasekara	2
-Defense Staff	2
-Security Council	2
+Tokens	2
 Gamini Seneviratne	2
-Group CC	2
 MNOXYZ	2
 Bandaragama	2
 the Colombo District	2
@@ -1364,6 +1366,10 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Groups MNOXYZ -	1
+PUC	1
+Ratnayake	1
+MNO	1
 Weerasinghe Weerasumana	1
 the Communist Party	1
 Walkers Tea Brokers	1
@@ -1375,7 +1381,6 @@ The Ministry of Public Administration Home Affairs	1
 Secretaries	1
 State Personnel	1
 Thw Public Administration Circulars	1
-Tokens	1
 the Ministerial Sub-Committee	1
 the Expert Committee	1
 the Ministry of Finance Mahinda Siriwardena	1
@@ -3125,7 +3130,6 @@ Axiata	1
 Rohan Pethiyagoda	1
 the Linnean Medal	1
 Majanahata	1
-Janaka Ratnayake	1
 the Dehiwala Animal Hospital	1
 Veterinarians	1
 the Dehiwala National Zoo	1

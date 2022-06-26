@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83268/3-hour-power-cuts-from-june-27-july-3",
+    "time_ut": 1656237960,
+    "original_lang": "en",
+    "original_title": "3-hour power cuts from June 27 - July 3",
+    "file_name": "/tmp/news_lk2/articles/ff/ff168c30.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd0\u0dba-\u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dda/1-615418",
+    "time_ut": 1656237500,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd0\u0dba \u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/12/122bd707.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130212",
     "time_ut": 1656237397,
@@ -73,6 +89,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019/1-615416",
+    "time_ut": 1656235540,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019",
+    "file_name": "/tmp/news_lk2/articles/b7/b72a7a02.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019/101-615416",
     "time_ut": 1656235540,
     "original_lang": "si",
@@ -142,6 +166,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7 \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dd0\u0daf\u0dc0\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/65/657e923f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dd0\u0daf\u0dc0\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba\u0d9a\u0dca/1-615414",
+    "time_ut": 1656234919,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1\u0dc0\u0dbd\u0da7 \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dd0\u0daf\u0dc0\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0da0\u0d9a\u0dca\u200d\u0dbb\u0dbd\u0dda\u0d9b\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/0b/0bc1db40.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -766,37 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/2c/2cd79940.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b93-\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-299219",
-    "time_ut": 1656219729,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0b93.\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/35/35cc6bb9.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130190",
-    "time_ut": 1656219456,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd- \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/85/8538a1cc.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8-35-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299218",
-    "time_ut": 1656219248,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 35 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/2a/2aca9f42.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83263/price-of-rice-packet-and-other-food-items-increase-by-10",
-    "time_ut": 1656219060,
-    "original_lang": "en",
-    "original_title": "Price of rice packet and other food items increase by 10%",
-    "file_name": "/tmp/news_lk2/articles/1b/1ba8628e.json"
   }
 ]
