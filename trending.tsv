@@ -1,14 +1,14 @@
 ent_group	n
-Sri Lanka	1371
+Sri Lanka	1375
 India	240
 US	195
-Parliament	138
+Parliament	139
 Australia	117
 IMF	98
 Russia	96
 Gotabhaya Rajapaksa	93
 the International Monetary Fund	79
-Ranil Wickremesinghe	74
+Ranil Wickremesinghe	75
 the Central Bank	73
 China	66
 the 21st Amendment	64
@@ -94,25 +94,26 @@ British	15
 the Sri Lanka People's Front	15
 Theekshana	15
 Karunaratne	15
+Central Asia	15
 SLTB	15
 Estonia	15
 ISB	15
 Sajith Premadasa	15
 the Colombo National Hospital	15
+USA	14
 Homagama	14
 SJB	14
 CHS	14
 Cooray	14
 Athukorala	14
-Central Asia	14
 the World Bank	14
 Jehan Appuhamy	14
 the Northern Province	14
 Julie Chung	14
 Jagath Manuwarna	14
+the Middle East	13
 Hatton	13
 Spain	13
-USA	13
 Nepal	13
 Basil Rajapaksa	13
 the Sri Lanka Transport Board	13
@@ -121,7 +122,6 @@ The Consumer Affairs Authority	13
 Afghanistan	12
 National Savings Bank	12
 House	12
-the Middle East	12
 Pat Cummins	12
 Shane	12
 MSV	12
@@ -144,6 +144,7 @@ the Government of Sri Lanka	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
 COPE	11
+the Ministry of Public Administration	11
 the U.S. Embassy	11
 Daily Mirror	11
 Latin America	11
@@ -168,7 +169,6 @@ Fernando	10
 Arab	10
 US Treasury	10
 Johnston	10
-the Ministry of Public Administration	10
 Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
@@ -204,6 +204,7 @@ Wijesekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+Wimal Weerawansa	8
 Justice	8
 Home Affairs	8
 Provincial Councils and Local Government	8
@@ -244,11 +245,11 @@ Lanka	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+Vasudeva Nanayakkara	7
 the Paddy Marketing Board	7
 CWE	7
 Energy	7
 Twitter	7
-Wimal Weerawansa	7
 Board	7
 TNA	7
 RBIO	7
@@ -284,6 +285,7 @@ the R. Premadasa Stadium	7
 Nanayakkara	7
 Kankesanthurai	7
 the Homagama Base Hospital	7
+Lanka Sama Samaja Party	7
 Galle Face Green	7
 Expolanka Holdings	7
 The Education Ministry	7
@@ -299,7 +301,6 @@ Western	6
 Super Diesel	6
 the Katunayake Airport	6
 & CPC	6
-Vasudeva Nanayakkara	6
 Trichy	6
 Ratnapura	6
 the Presidential Palace	6
@@ -347,7 +348,7 @@ Jayanath Colombage	6
 Green	6
 The Colombo High Court	6
 John Greenwood	6
-Lanka Sama Samaja Party	6
+Pivithuru Hela Urumaya	6
 Dilshan Weerasekera	6
 the Cabinet Ministers	6
 Gopal Baglay	6
@@ -419,12 +420,12 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+the Sri Lanka People's Alliance	5
 Lalith Dharmasekera	5
 Cipetco	5
 Department	5
 the National List	5
 Mark Meloch-Brown	5
-Pivithuru Hela Urumaya	5
 Roe	5
 the Lady Ridgeway Children's Hospital in Colombo	5
 New York	5
@@ -435,6 +436,7 @@ Heenatigala	5
 the Bribery and Corruption Commission	5
 Colombo Fort Magistrate	5
 North Macedonia	5
+the Government Medical Officers' Association	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
 the Railway Department	5
@@ -460,6 +462,7 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
+the Sri Lanka Freedom Party	4
 Douglas Devananda	4
 Ministry	4
 BRICS	4
@@ -539,7 +542,6 @@ Zoysa	4
 Palma	4
 Lakmal Sooriyagoda	4
 Haritha Aluthge	4
-the Government Medical Officers' Association	4
 Verite Research	4
 North America	4
 Private Sector	4
@@ -559,6 +561,7 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+the Left Democratic Front	4
 Shavendra Silva	4
 Narendra Modi	4
 the Southern Expressway	4
@@ -594,6 +597,7 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Roman	3
 OIC	3
 Select Committee	3
 Romesh de Silva	3
@@ -649,7 +653,6 @@ Boris Johnson	3
 Paris	3
 www.dfe.lk	3
 LSSP	3
-the Sri Lanka Freedom Party	3
 the Janatha Vimukthi Peramuna	3
 Madiwela	3
 Fed	3
@@ -730,6 +733,7 @@ the Ceylon Chamber	3
 NC	3
 Ceylonese	3
 Grandpa	3
+the National Freedom Front	3
 Dharmasekera	3
 the Ceylon Indian Oil Company	3
 the Provincial Secretaries	3
@@ -792,13 +796,16 @@ Central Planning	3
 Ceylon Chamber of Commerce	3
 the Foreign Service	3
 Central Bank	3
+Gemunu Wijeratne	3
 The Department of Meteorology	3
 the Foreign Secretaries of India	3
 Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+the Communist Party of Sri Lanka	2
 Kerosene	2
+Gemunu	2
 Ministry Secretaries	2
 the Southern Expressway Athurugiriya Traffic Control Center	2
 Kaduwela	2
@@ -875,7 +882,6 @@ Katunayake	2
 Central	2
 North-Central	2
 Galle via Colombo	2
-the Left Democratic Front	2
 Melkum Ranjith	2
 Kota	2
 the Center for Policy Alternatives	2
@@ -891,7 +897,6 @@ the White House	2
 PRC	2
 the Brzezinskian Project	2
 Adolf Hitler	2
-Roman	2
 John Maynard Keynes	2
 Keynesianism	2
 CCC	2
@@ -1278,18 +1283,18 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+the Car Owners' Association	2
+Wijeratne	2
 the All Ceylon Bakery Owners Association	2
 Chitran Hathurusinghe	2
 the Compensation Office	2
 Jaffna District	2
-Gemunu Wijerathne	2
 the Santipura Olympus Upper Estate	2
 The All Ceylon Private Bus Owners' Association	2
 Jaffna Magistrate's Court	2
 South India	2
 the National People's Power Conference	2
 Board of Investment	2
-the Sri Lankan People's Alliance	2
 the National Council of Intellectuals	2
 the District Secretaries	2
 the U.S. Constitution	2
@@ -1359,6 +1364,10 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Weerasinghe Weerasumana	1
+the Communist Party	1
+Walkers Tea Brokers	1
+Pliny the Elder	1
 the Eelam People's Democratic Party	1
 210	1
 Shipping Nimal Siripala de Silva	1
@@ -1376,7 +1385,6 @@ Ceylon Indian Oil	1
 Wang Yi	1
 Wang	1
 Emerging Market Group	1
-the Bakery Owners' Association	1
 Belarusian	1
 Alexander Lukashenko	1
 Petrol & Diesel	1
@@ -1401,9 +1409,7 @@ the Intensive Care Unit	1
 Highway Operations (Maintenance and Management	1
 Direcor Nihal Ludowyke	1
 AG Special Trial	1
-Gemunu	1
 LPBOA	1
-Wijerathne	1
 Spokesperson SSP Nihal	1
 AICOA	1
 Kottu	1
@@ -1511,7 +1517,6 @@ Kottayam	1
 Conte	1
 Andakai	1
 Ragamai Hospital -	1
-the National Freedom Front	1
 the Colombo Port	1
 Watana	1
 Media Secretaries	1
@@ -1801,7 +1806,6 @@ Monaragala District Hospital	1
 The Wellawaya Police	1
 the Galle Face Presidential Secretariat	1
 Gazi	1
-the Communist Party of Sri Lanka	1
 the Lanka Sama Samaja Party	1
 the People's Front	1
 Edul Fort	1
