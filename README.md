@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 04:36:47 (LK time)*
+*As of 2022-06-27 04:47:11 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,13 +10,13 @@
 
 * **3** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
-## Last 24 Hours (282 Articles)
+## Last 24 Hours (283 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
 * **47** tamil-mirror-lk ([ஒட்டுமொத்த நாடும் ஸ்தம்பிதம் அடையும் நிலை: அனுரகுமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2a595af.json))
 
-* **40** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
+* **41** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
 * **30** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
@@ -32,7 +32,7 @@
 
 * **4** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,787 Articles)
+## Last Week (1,788 Articles)
 
 * **370** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16898e47.json))
 
@@ -40,7 +40,7 @@
 
 * **188** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/976c653d.json))
 
-* **176** virakesari-lk ([இனப்பிரச்சினையை தீர்க்காது மீண்டெழுதல் சாத்தியமில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a9b8995.json))
+* **177** virakesari-lk ([இனப்பிரச்சினையை தீர்க்காது மீண்டெழுதல் சாத்தியமில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a9b8995.json))
 
 * **150** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -60,7 +60,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,587 Articles)
+## All Time (16,588 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -78,7 +78,7 @@
 
 * **206** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **178** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **179** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **138** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 

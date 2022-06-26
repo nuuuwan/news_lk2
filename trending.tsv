@@ -1,13 +1,13 @@
 ent_group	n
-Sri Lanka	1621
+Sri Lanka	1622
 India	313
 US	227
 Australia	187
 Russia	169
-Parliament	157
+Parliament	158
 IMF	109
 Gotabhaya Rajapaksa	100
-International Monetary Fund	96
+International Monetary Fund	98
 Central Bank	96
 China	91
 Ranil Wickremesinghe	84
@@ -30,8 +30,8 @@ Aragalaya	42
 European	42
 Viswanathan	41
 Buddhist	39
+Japan	38
 U.S.	38
-Japan	37
 Central Bank of Sri Lanka	36
 Kanchana Wijesekera	34
 Ministry of Education	34
@@ -40,12 +40,12 @@ Mullaitivu	33
 EU	33
 CSE	33
 Wickremesinghe	31
+Asia	31
 Argentina	30
-Asia	30
 UNDP	30
 Johnston Fernando	29
+Middle East	29
 Tamil Nadu	28
-Middle East	28
 Muslims	28
 Puttalam	27
 Kumara Welgama	27
@@ -240,6 +240,7 @@ SLT-MOBITEL	9
 CRA	9
 United National Party	9
 Ministry of Health	9
+United People's Power	9
 Ministry of Agriculture	9
 Luminex	9
 Weerawarana	9
@@ -289,7 +290,6 @@ Power and Energy	8
 Canada	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
-United People's Power	8
 Colombo Stock Exchange	8
 Eric Lavertu	8
 Mahinda Yapa Abeywardena	8
@@ -1534,6 +1534,7 @@ Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 Divisional Secretariat	2
+Imtiaz Bakeer Markar	2
 The South Asian Federation of Accountants	2
 SME Development	2
 Indrajit Coomaraswamy	2
@@ -1617,7 +1618,6 @@ Committee by Elections Commission	1
 Election Tribunal	1
 Provincial Councils	1
 Provincial	1
-Imtiaz Bakeer Markar	1
 Amartya Sen	1
 Social Security Contribution	1
 Levy Bill	1
@@ -1831,6 +1831,8 @@ Gripen Wewa'	1
 Emergency Finance Board	1
 Fuel Lack - Rail Service	1
 Upcoming Days - Railway Station Officers Association	1
+Imtiaz	1
+Markar	1
 Mullaitivu Police Station	1
 Selvavuram	1
 Chilaw	1
