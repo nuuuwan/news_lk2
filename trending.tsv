@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1407
+Sri Lanka	1408
 India	278
 US	209
 Parliament	139
@@ -9,7 +9,7 @@ IMF	98
 Gotabhaya Rajapaksa	94
 China	81
 the International Monetary Fund	80
-Ranil Wickremesinghe	76
+Ranil Wickremesinghe	77
 the Central Bank	74
 Rajapaksas	65
 the 21st Amendment	64
@@ -27,15 +27,15 @@ CPC	44
 Ukraine	44
 Aragalaya	43
 Viswanathan	41
-the Ceylon Petroleum Corporation	39
+the Ceylon Petroleum Corporation	41
 European	38
 U.S.	35
 CSE	33
 EU	32
+Kanchana Wijesekera	32
 the Central Bank of Sri Lanka	32
+UNDP	32
 Japan	31
-Kanchana Wijesekera	31
-UNDP	31
 UN	30
 Johnston Fernando	29
 Asia	29
@@ -76,6 +76,7 @@ Mahinda Rajapaksa	18
 Dudley Sirisena	18
 Order	17
 Wijayadasa Rajapaksa	17
+Diesel	16
 Army	16
 UK	16
 SL	16
@@ -89,7 +90,6 @@ Korean	16
 Harin Fernando	16
 the U.S. Department of State	16
 Homagama	15
-Diesel	15
 Galle	15
 London	15
 Joe Biden	15
@@ -110,6 +110,7 @@ Athukorala	14
 the World Bank	14
 Jehan Appuhamy	14
 the Northern Province	14
+Nimal Siripala de Silva	14
 Julie Chung	14
 Jagath Manuwarna	14
 the Middle East	13
@@ -121,6 +122,7 @@ the Sri Lanka Transport Board	13
 the Ministry of Public Administration	13
 National Authority on Tobacco and Alcohol	13
 The Consumer Affairs Authority	13
+Petrol	12
 Afghanistan	12
 National Savings Bank	12
 House	12
@@ -134,14 +136,14 @@ the Soviet Union	12
 South Asia	12
 Bangladesh	12
 Section 8 of	12
-Nimal Siripala de Silva	12
 Bell Geospace	12
+Wijesekera	12
 Temple Trees	12
 Naseer Ahmed	12
 Latin America	12
 EU Ambassadors	12
+The Public Utilities Commission	12
 Shane Warne’s	12
-Petrol	11
 IOC	11
 Morocco	11
 Gulf	11
@@ -149,9 +151,9 @@ French	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
 COPE	11
-Wijesekera	11
 the U.S. Embassy	11
 Daily Mirror	11
+Middeniya	10
 Kandy	10
 Ranil	10
 COVID	10
@@ -176,7 +178,6 @@ US Treasury	10
 Johnston	10
 Kahathuduwa	10
 Hatton-Colombo	10
-The Public Utilities Commission	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
@@ -186,7 +187,6 @@ North	9
 Kadawatha	9
 Home Affairs	9
 Provincial Councils and Local Government	9
-Middeniya	9
 Norwegian	9
 Trincomalee	9
 WHO	9
@@ -198,6 +198,7 @@ FTG	9
 Manusha Nanayakkara	9
 SLT-MOBITEL	9
 CRA	9
+Ports	9
 the Ministry of Agriculture	9
 Chaturanga Samarawickrama	9
 the Foreign Exchange Act	9
@@ -208,12 +209,14 @@ the Presidential Secretariat	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
+the Government Medical Officers' Association	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
 South Korea	8
+Haritha Aluthge	8
 Wimal Weerawansa	8
 Justice	8
 Energy	8
@@ -238,7 +241,6 @@ M.S.	8
 Nasheed	8
 CAG	8
 the Palaly Airport	8
-Ports	8
 the Finance Ministry	8
 Eric Lavertu	8
 the Katunayake Airport	8
@@ -254,6 +256,7 @@ Lanka	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+Palitha	7
 Brazil	7
 Trichy	7
 Vasudeva Nanayakkara	7
@@ -289,7 +292,6 @@ the Board of Directors	7
 the Western Province	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
-the Government Medical Officers' Association	7
 the Ceylon Electricity Board	7
 the United People's Power	7
 the R. Premadasa Stadium	7
@@ -302,8 +304,9 @@ The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
 the National People's Force	6
-Haritha Aluthge	6
+Ceypetco	6
 Palaly	6
+Abeywardena	6
 Yucatan	6
 Norway	6
 Colombo	6
@@ -375,6 +378,7 @@ the United Nations Office for the Coordination of Humanitarian Affairs	6
 the World Health Organization	6
 Hamilton Reserve Bank Ltd.	6
 Article 83 of the Constitution	6
+Janaka Ratnayake	5
 Kuwait	5
 the Jaffna Teaching Hospital	5
 Mexico	5
@@ -453,6 +457,7 @@ Colombo Fort Magistrate	5
 North Macedonia	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+the United National Party	5
 the Railway Department	5
 South Africa	5
 Subramaniam Satyavani	5
@@ -475,7 +480,6 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 Quad	4
-Ceypetco	4
 Perro	4
 Corona	4
 the Sri Lanka Freedom Party	4
@@ -565,7 +569,6 @@ Athuraliye Rathana	4
 Menem	4
 Alan Walters	4
 MT of Petrol 92	4
-Palitha	4
 A-PAD SL	4
 Recommendations	4
 Maldivian	4
@@ -573,6 +576,8 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+the Eastern Terminal	4
+the Ports Authority	4
 the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
 Narendra Modi	4
@@ -593,7 +598,6 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
-the United National Party	4
 Defense	4
 the Ministry of Defense	4
 the Office for National Unity and Reconciliation	4
@@ -609,6 +613,8 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Ananda Palitha	3
+MT	3
 New Zealand	3
 Kavindi Ranasinghe	3
 Chennai	3
@@ -616,9 +622,7 @@ Katunayake	3
 Diaspora	3
 the Matara Road	3
 Kumara	3
-Abeywardena	3
 Colombo Fort	3
-Janaka Ratnayake	3
 Roman	3
 OIC	3
 Defense Staff	3
@@ -758,6 +762,7 @@ Ceylonese	3
 Grandpa	3
 the Solomon Islands	3
 Mattala	3
+General Elections	3
 the National Freedom Front	3
 the Kotelawala Expressway	3
 the Expressway Traffic Police SSP Chinthaka Gunaratne	3
@@ -766,8 +771,6 @@ Group CC	3
 Dharmasekera	3
 the Provincial Secretaries	3
 Sri Lanka Navy	3
-the Ports Authority	3
-the Eastern Terminal	3
 Agriculture	3
 the Nuwara Eliya District Hospital	3
 the Power and Energy Minister	3
@@ -810,6 +813,7 @@ the European Commission	3
 the Colombo Crimes Division	3
 MN Ranasinghe	3
 K. Mayadunne	3
+Samagi United Trade Union Force	3
 Humanitarian	3
 the University of Moratuwa	3
 Yvette Fernando	3
@@ -831,14 +835,26 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+the Eastern Terminal of the Colombo Port	2
+ECT	2
 Vinay Quadra	2
 Djibouti	2
 Pacific	2
+Indian Oil	2
 South American	2
 Khusrau Perro	2
 Hernandez	2
+The Central Committee of the Government Medical Officers' Association	2
 Karaikal	2
 Tamils ​​in	2
+Vajira	2
+Vajira Abeywardena	2
+Polpithigama	2
+the Polpithigama Base Hospital	2
+the Polpithigama Co-operative	2
+PUC	2
+Ratnayake	2
+MNO	2
 the Communist Party of Sri Lanka	2
 Kerosene	2
 Gemunu	2
@@ -1220,9 +1236,7 @@ Friedman	2
 10 Downing Street	2
 Thatcher	2
 Executive	2
-Samagi United Trade Union Force	2
 SUTUF	2
-Ananda Palitha	2
 The Auto Diesel	2
 Tamil diaspora	2
 Murdoch Business School	2
@@ -1312,7 +1326,6 @@ Ministry of External Affairs	2
 the Korean War	2
 the Jaffna International Airport	2
 the Telecommunications Regulatory Commission	2
-General Elections	2
 the Car Owners' Association	2
 Wijeratne	2
 the All Ceylon Bakery Owners Association	2
@@ -1392,6 +1405,12 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Minteniya	1
+Embilipitiya	1
+the Port of Colombo on the 25th	1
+TUs	1
+TU	1
+Kelanitissa	1
 Jabez	1
 Fort Railway Station	1
 Ajay Seth	1
@@ -1412,7 +1431,6 @@ Benny Wong	1
 Richard Marles	1
 Rajnath Singh	1
 Fujian	1
-Indian Oil	1
 George Elson Kieran	1
 Evan Duke	1
 Rodolfo Hernandez	1
@@ -1422,7 +1440,6 @@ Nicolas Maduro	1
 Juan Quito	1
 NATO North Atlantic Treaty Parties	1
 Perto	1
-The Central Committee of the Government Medical Officers' Association	1
 Palali Airport	1
 Alliance Air	1
 Palali and Chennai	1
@@ -1435,20 +1452,12 @@ Palali	1
 Sri Lanka Television	1
 the Athurugiriya Traffic Control Station	1
 Kaduwatta	1
-Vajira	1
-Vajira Abeywardena	1
 Nanu Oya to Colombo Fort	1
 Colombo Fort Railway Station	1
-Polpithigama	1
-the Polpithigama Base Hospital	1
-the Polpithigama Co-operative	1
 The Ministry of Petroleum	1
 Indian Oil Corporation	1
 PUCSL	1
 Groups MNOXYZ -	1
-PUC	1
-Ratnayake	1
-MNO	1
 Weerasinghe Weerasumana	1
 the Communist Party	1
 Walkers Tea Brokers	1
@@ -1504,7 +1513,6 @@ SLAF Trade Training School Ekala	1
 The All Ceylon Filling Station Owners’ Association	1
 Hon	1
 the Port of Colombo East Terminal	1
-ECT	1
 SLPA	1
 the Port of Colombo	1
 the Ports Trade Unions	1
@@ -2781,7 +2789,6 @@ the Disaster Management Centre	1
 National Planning	1
 Disaster Management	1
 the OCHA-UNDP Connecting Business	1
-MT	1
 the Department of Transport and Logistics Management	1
 the Chartered Institute of Logistics and Transport	1
 the Sri Lanka Society for Transport and Logistics	1
