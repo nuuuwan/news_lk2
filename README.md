@@ -1,24 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 02:41:23 (LK time)*
+*As of 2022-06-27 02:49:55 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
+
 ## Last Hour (8 Articles)
 
-* **8** daily-ft-lk ([American Ambassador meets with American Alumni Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb440470.json))
+* **7** daily-ft-lk ([SAFA SME Development Conference 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90249f33.json))
 
-## Last 3 Hours (13 Articles)
+* **1** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
+
+## Last 3 Hours (14 Articles)
 
 * **12** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
+* **1** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
+
 * **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
-## Last 24 Hours (277 Articles)
+## Last 24 Hours (278 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **44** tamil-mirror-lk ([ஒட்டுமொத்த நாடும் ஸ்தம்பிதம் அடையும் நிலை: அனுரகுமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2a595af.json))
+* **45** tamil-mirror-lk ([ஒட்டுமொத்த நாடும் ஸ்தம்பிதம் அடையும் நிலை: அனுரகுமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2a595af.json))
 
 * **39** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -50,11 +58,11 @@
 
 * **145** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d16e0a8.json))
 
-* **135** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **136** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **103** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/641f2b67.json))
 
-* **96** daily-ft-lk ([JVP leader says country cannot move forward politically or economically by ignoring India](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64c65d6f.json))
+* **95** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b16362a.json))
 
 * **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
@@ -64,7 +72,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,582 Articles)
+## All Time (16,583 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -84,7 +92,7 @@
 
 * **177** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **135** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
+* **136** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
 * **122** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
