@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 04:47:11 (LK time)*
+*As of 2022-06-27 05:01:27 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
-* **8** daily-ft-lk ([American Ambassador meets with American Alumni Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb440470.json))
+* **6** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
 
 * **3** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
-## Last 24 Hours (283 Articles)
+## Last 24 Hours (282 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **47** tamil-mirror-lk ([ஒட்டுமொத்த நாடும் ஸ்தம்பிதம் அடையும் நிலை: அனுரகுமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2a595af.json))
+* **46** tamil-mirror-lk ([7, 8 பில்லியன் கையிருப்பு எவ்வாறு பூச்சியமானது?](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afcef874.json))
 
 * **41** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -32,9 +32,9 @@
 
 * **4** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,788 Articles)
+## Last Week (1,786 Articles)
 
-* **370** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16898e47.json))
+* **368** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94f34060.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
