@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83273/one-dead-one-injured-in-shooting-at-kelaniya",
+    "time_ut": 1656259020,
+    "original_lang": "en",
+    "original_title": "One dead, one injured in shooting at Kelaniya",
+    "file_name": "/tmp/news_lk2/articles/8a/8af3f080.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83272/petrol-stored-in-container-caused-kahatuduwa-house-fire",
     "time_ut": 1656258720,
     "original_lang": "en",
@@ -790,13 +798,5 @@
     "original_lang": "en",
     "original_title": "Two ministers to visit Russia tomorrow",
     "file_name": "/tmp/news_lk2/articles/68/6831e635.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019/1-615416",
-    "time_ut": 1656235540,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/b7/b72a7a02.json"
   }
 ]

@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 21:32:46 (LK time)*
+*As of 2022-06-26 21:39:10 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **1** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
+* **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
 * **1** virakesari-lk ([பேலியகொட பகுதியில் துப்பாக்கி சூடு : ஆணொருவர் பலி - பெண் ஒருவர் படுகாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6366ccc3.json))
 
-## Last Hour (8 Articles)
+## Last Hour (9 Articles)
 
 * **4** lankadeepa-lk ([හිටපු ඇමැතිගේ ඉන්ධන පිරවුම්හල මැර කල්ලියකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd73887b.json))
 
-* **2** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
+* **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
-* **1** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
+* **2** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
 
 * **1** tamil-mirror-lk ([சியம்பலாண்டுவ ஆதார வைத்தியசாலைக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba74d3f.json))
 
-## Last 3 Hours (34 Articles)
+## Last 3 Hours (35 Articles)
 
 * **14** virakesari-lk ([புரட்சியால் மாற்றம் தேடி  சிதைந்து போன தேசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6651c156.json))
 
@@ -28,11 +28,11 @@
 
 * **4** tamil-mirror-lk ([அவுஸ்திரேலியா செல்ல  முயன்ற 399 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd64bfb8.json))
 
-* **2** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
+* **3** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
-## Last 24 Hours (246 Articles)
+## Last 24 Hours (247 Articles)
 
 * **80** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -44,9 +44,9 @@
 
 * **19** news-first-lk ([Sri Lanka: CEYPETCO & Lanka IOC Fuel Prices Increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3f59cef.json))
 
-* **17** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
+* **17** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
 
-* **16** ada-derana-lk ([At least 18 migrants die attempting to enter Spain’s Melilla from Morocco](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d27fc.json))
+* **17** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
 * **6** economy-next-com ([Sri Lanka petrol price hiked to Rs470 a litre, diesel Rs460](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e22f8993.json))
 
@@ -64,7 +64,7 @@
 
 * **148** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
-* **144** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c680d1ae.json))
+* **145** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c680d1ae.json))
 
 * **134** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
@@ -76,17 +76,17 @@
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
-* **14** colombo-telegraph-com ([A Child’s Guide To Prema-Chandra Athukorala Chinthana On Import Substitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdcc7904.json))
+* **13** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,548 Articles)
+## All Time (16,549 Articles)
 
 * **5,891** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,092** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 
-* **2,444** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
+* **2,445** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5097f40.json))
 
 * **1,606** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/638b9440.json))
 
