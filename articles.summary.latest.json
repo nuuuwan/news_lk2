@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83270/drunk-police-constable-rides-motorcycle-on-expressway-causes-accident",
+    "time_ut": 1656245460,
+    "original_lang": "en",
+    "original_title": "Drunk police constable rides motorcycle on expressway, causes accident",
+    "file_name": "/tmp/news_lk2/articles/5a/5af8e2e1.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130225",
+    "time_ut": 1656245334,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bb3\u0bc8 \u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bb3\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b4/b400718b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/95-299244",
     "time_ut": 1656244272,
@@ -30,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0bc2\u0b95\u0bcd\u0b95\u0b9f\u0bc8 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/ba/bafb64db.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db1\u0dd0\u2018\u0dc4\u0dd2\u0dbb-\u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0dda-\u0dc0\u0dd0\u0da9-\u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u2018\u2018/1-615426",
+    "time_ut": 1656243137,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0db1\u0dd0\u2018\u0dc4\u0dd2\u0dbb \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0dda \u0dc0\u0dd0\u0da9 \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/22/224d1299.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -774,29 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0da7 \u0d9c\u0dd2\u0db1\u0dd2",
     "file_name": "/tmp/news_lk2/articles/03/033062bd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/26/kahathuduwa-fire-two-dead-two-hospitalized/",
-    "time_ut": 1656225480,
-    "original_lang": "en",
-    "original_title": "Kahathuduwa fire: two dead, two hospitalized",
-    "file_name": "/tmp/news_lk2/articles/77/77d187df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Expressway-revenue-declined-due-to-fuel-scarcity/108-239809",
-    "time_ut": 1656225324,
-    "original_lang": "en",
-    "original_title": "Expressway revenue declined due to fuel scarcity",
-    "file_name": "/tmp/news_lk2/articles/93/9376badb.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dbd\u0db6\u0db1-1-\u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0d89\u0dc4\u0dc5\u0da7/101-615404",
-    "time_ut": 1656225076,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dbd\u0db6\u0db1 1 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/9a/9a8aac6d.json"
   }
 ]
