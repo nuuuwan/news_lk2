@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1622
+Sri Lanka	1624
 India	313
 US	227
 Australia	187
@@ -11,10 +11,10 @@ International Monetary Fund	98
 Central Bank	96
 China	91
 Ranil Wickremesinghe	84
+Tamil	70
 21st Amendment	69
 Rajapaksas	69
 Ukraine	65
-Tamil	63
 Jaffna	60
 Constitution	58
 Cabinet	57
@@ -24,19 +24,19 @@ United States	51
 Messi	50
 Treasury	50
 Opposition	49
+Buddhist	47
 State	46
 Ceylon Petroleum Corporation	46
 Aragalaya	42
 European	42
 Viswanathan	41
-Buddhist	39
 Japan	38
 U.S.	38
 Central Bank of Sri Lanka	36
+Mullaitivu	35
 Kanchana Wijesekera	34
 Ministry of Education	34
 UN	33
-Mullaitivu	33
 EU	33
 CSE	33
 Wickremesinghe	31
@@ -71,6 +71,7 @@ US State Department	22
 USA	21
 Magammana	21
 United Nations	21
+Army	20
 Monetary Board	20
 Romania	20
 Ukrainian	20
@@ -83,7 +84,6 @@ Tunisia	19
 American	19
 Colombia	19
 Robert Kaproth	19
-Army	18
 UK	18
 Galle	18
 Nandalal Weerasinghe	18
@@ -133,6 +133,7 @@ Jehan Appuhamy	14
 Bangladesh	14
 Basil Rajapaksa	14
 Jagath Manuwarna	14
+Department of Archeology	14
 National Savings Bank	13
 Daily Mirror	13
 Trincomalee	13
@@ -210,7 +211,6 @@ Fernando	10
 Galle Face Green	10
 Johnston	10
 Education Ministry	10
-Department of Archeology	10
 Government Medical Officers' Association	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
@@ -354,6 +354,7 @@ Mexico	6
 BBC	6
 Lions	6
 Thomson	6
+Buddha	6
 Corona	6
 Ceylon	6
 Maharagama Police	6
@@ -545,7 +546,6 @@ Dav Whatmore	4
 Jeff	4
 Sunil	4
 Wettimuny	4
-Buddha	4
 FDI	4
 Ven	4
 Manhattan	4
@@ -662,6 +662,7 @@ Nanu Oya to Colombo Fort	4
 Sri Lanka People's Alliance	4
 Ministry of Defense	4
 Security Council	4
+Sri Lanka Army	4
 Narendra Modi	4
 Washington	4
 Gota Go Home	4
@@ -752,7 +753,6 @@ Select Committee	3
 Romesh de Silva	3
 Kankesanthurai - An	3
 Kollangalatti	3
-Sri Lanka Army	3
 The Sri Lanka Tamil Teachers' Association	3
 Belarus	3
 Air Force	3
@@ -880,6 +880,7 @@ NC	3
 Bank of Ceylon	3
 OPEC+	3
 Yahapalanaya	3
+Kurundur Hill	3
 Jeevan Thondaman	3
 Bush Rajapakse	3
 Iraqi National Oil Company	3
@@ -1062,7 +1063,6 @@ Scott Morrison	2
 Canberra	2
 Prasanna Ranatunga	2
 Tamils ​​but	2
-Kurundur Hill	2
 Tamils ​​are	2
 Indo-Sri Lankan	2
 Palestinian	2
@@ -1181,6 +1181,9 @@ Central	2
 North-Central	2
 Galle via Colombo	2
 Melkum Ranjith	2
+Kurundumale Archaeological Reserve	2
+Raviharan	2
+University of Jaffna	2
 Bandaranaike	2
 Emphasis	2
 Dayan Jayatilleke	2
@@ -1995,6 +1998,20 @@ Ragama	1
 Anurakumara	1
 Mavai Senathirajah	1
 Dharmalingam Siddharthan	1
+Kurundhu Malai Hill	1
+Mullaitheevu Court	1
+Cultural Appropriation of Ancient Saivaie Shrine	1
+Mullaitivu Magistrate Court	1
+temple administration	1
+Lingam	1
+Sivasubramaniam Pathmanathan	1
+Kurundumale Aadi Sivan Aiyanar Kovil Society	1
+Weerasingham Kaleichelwan	1
+Athi Ayan Temple	1
+Kumulamunai	1
+Antiquities Ordinance	1
+Anura Manathunga	1
+Manathunga	1
 Tamil Nadu Trichy Central Jail	1
 MAP	1
 The Moroccan Human Rights Association	1
@@ -2261,7 +2278,6 @@ Kilinochchi Regional Health Services	1
 Nada Saravanapavan	1
 Rupavathi Ketheeswaran	1
 Jaffna University Media Department Head	1
-University of Jaffna	1
 C. Raghuram	1
 C. Sirisarkunaraja	1
 University Grants Commission Circulars	1

@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 05:01:27 (LK time)*
+*As of 2022-06-27 05:11:06 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 3 Hours (9 Articles)
-
-* **6** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
+## Last 3 Hours (4 Articles)
 
 * **3** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
-## Last 24 Hours (282 Articles)
+* **1** daily-ft-lk ([PSC on electoral reform recommends control of election expenses, code of conduct for candidates](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f661dcbb.json))
+
+## Last 24 Hours (281 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **46** tamil-mirror-lk ([7, 8 பில்லியன் கையிருப்பு எவ்வாறு பூச்சியமானது?](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afcef874.json))
+* **45** tamil-mirror-lk ([’மக்கள் போராட்டமே சிறந்த வழி’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1ddf1b3.json))
 
 * **41** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -32,7 +32,7 @@
 
 * **4** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,786 Articles)
+## Last Week (1,787 Articles)
 
 * **368** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94f34060.json))
 
@@ -54,13 +54,13 @@
 
 * **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
-* **27** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
+* **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
 
 * **16** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,588 Articles)
+## All Time (16,589 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -82,7 +82,7 @@
 
 * **138** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
-* **122** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
+* **123** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
 * **30** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
