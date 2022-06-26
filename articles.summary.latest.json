@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bus-operators-want-tariff-hike-to-account-for-central-bank-actions-96467/",
+    "time_ut": 1656250740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bus operators want tariff hike to account for central bank actions",
+    "file_name": "/tmp/news_lk2/articles/d1/d1daa224.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1-399-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299260",
+    "time_ut": 1656250504,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2  \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 399 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/dd/dd64bfb8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130228",
+    "time_ut": 1656249716,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 - \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/62/62fd6907.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83271/schools-in-colombo-and-other-major-cities-to-remain-closed-next-week",
     "time_ut": 1656249660,
@@ -126,6 +150,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/41/41ea77c6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/colombo-and-city-schools-closed-from-27th-to-1st/",
+    "time_ut": 1656247860,
+    "original_lang": "en",
+    "original_title": "Colombo, and City schools closed from 27th to 1st",
+    "file_name": "/tmp/news_lk2/articles/cc/ccc059df.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -766,37 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/4e/4eef90e9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/LIOC-\u0dad\u0dc0\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-394840",
-    "time_ut": 1656231055,
-    "original_lang": "si",
-    "original_title": "LIOC \u0dad\u0dc0\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6a/6ade98e4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca/11-394838",
-    "time_ut": 1656230462,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7e/7ef47a24.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0baf\u0bbe\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/71-299227",
-    "time_ut": 1656230270,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0baf\u0bbe\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/87/87ce4002.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/71-299227",
-    "time_ut": 1656230270,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c3/c32ffbf9.json"
   }
 ]

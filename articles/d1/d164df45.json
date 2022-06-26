@@ -15,7 +15,7 @@
         "Domestically, there was a shortage of fuel, medicine, and essential commodities, and inflation rose to 45 percent last month and food inflation to 58 percent.",
         "The United States is facing a lawsuit alleging non-repayment of collateral securities invested in Sri Lankan banks.",
         "The lawsuit was filed by Hamilton Reserve Bank in Manhattan District Court in New York.",
-        "The lawsuit was filed seeking an injunction to pay the full amount of the $ 250 million in sovereign bonds invested at 5.875 percent by July 25 with interest.",
+        "The lawsuit seeks to have the full amount of $ 250 million invested in sovereign securities matured by July 25 at 5.875 percent interest payable by July 25 with interest.",
         "The case alone has not been filed seeking an order to repay the loan and interest.",
         "Beyond that, the Hamilton Reserve Bank points out that senior Sri Lankan government officials, including the Rajapakse family, have deliberately arranged for the loan not to be repaid.",
         "It said the failure to pay attention to the sovereignty of local banks during the debt restructuring talks was a deliberate move by top Sri Lankan government officials.",
@@ -108,6 +108,10 @@
           {
             "text": "$ 250 million",
             "label": "MONEY"
+          },
+          {
+            "text": "July 25",
+            "label": "DATE"
           },
           {
             "text": "5.875 percent",
@@ -365,6 +369,10 @@
             "label": "MONEY"
           },
           {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 25",
+            "label": "DATE"
+          },
+          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 5.875 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
@@ -620,6 +628,10 @@
             "label": "MONEY"
           },
           {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 25",
+            "label": "DATE"
+          },
+          {
             "text": "5.875 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
@@ -639,7 +651,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+            "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
             "label": "PERSON"
           }
         ],
