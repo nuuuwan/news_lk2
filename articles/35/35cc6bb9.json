@@ -1,0 +1,228 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b93-\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-299219",
+  "time_ut": 1656219729,
+  "original_lang": "ta",
+  "original_title": "\u0b90.\u0b93.\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "The IOC increased similarly",
+      "author": "unknown",
+      "body_lines": [
+        "Ceylon Petroleum Corporation has increased fuel prices as follows. Similarly, the IOC has similarly increased fuel prices.",
+        "Accordingly, the price of a liter of 92 octane petrol will be increased by 50 rupees and the new price will be 470 rupees.",
+        "The price of 95 octane petrol has been increased by Rs 100 per liter to Rs 550 per liter.",
+        "Meanwhile, the price of a liter of auto diesel has been increased by 60 rupees to 460 rupees.",
+        "The price of Lanka Super Diesel will be increased by 75 rupees and the new price will be revised to 520 rupees."
+      ],
+      "title_ents": [
+        {
+          "text": "IOC",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Ceylon Petroleum Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "IOC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "470",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "95",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "460",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Lanka Super Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "520",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "IOC \u0daf \u0d91\u0dbd\u0dd9\u0dc3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dad \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0d87\u0dad. \u0d91\u0dbd\u0dd9\u0dc3\u0db8 IOC \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0daf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 50 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0db1\u0dc0 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 470 \u0d9a\u0dd2.",
+        "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 95 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 550 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 100\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb \u0d94\u0da7\u0ddd \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 460 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 60\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0daf\u0db8\u0dcf \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd4\u0db4\u0dbb\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 75\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0db1\u0dc0 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 520 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d9a\u0dd9\u0dbb\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d85\u0dba\u0dd2.\u0d95.\u0dc3\u0dd3",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0d95.\u0dc3\u0dd3",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "470",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "95",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "460",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd4\u0db4\u0dbb\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "520",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b90.\u0b93.\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b95\u0bc0\u0bb4\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb5\u0bbe\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b85\u0ba4\u0bc7\u200b\u0baa\u0bcb\u0bb2 \u0b90.\u0b93.\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf 92 \u0b92\u0b95\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 50 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 470 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "95 \u0b92\u0b95\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 100 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 550 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8 \u0b92\u0b9f\u0bcd\u0b9f\u0bcb \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 60 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 460 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 75 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 520 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b90\u0b93\u0b9a\u0bbf",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0b93\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "470",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "95",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "60",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "460",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "520",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}

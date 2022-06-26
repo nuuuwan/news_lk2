@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0b9f\u0bb0\u0bbf-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0baa\u0bb2\u0bbf/76-299220",
+    "time_ut": 1656220008,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bb0\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/cb/cbdacbe3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b93-\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-299219",
+    "time_ut": 1656219729,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0b93.\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc7\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/35/35cc6bb9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130190",
+    "time_ut": 1656219456,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd- \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/85/8538a1cc.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8-35-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299218",
     "time_ut": 1656219248,
     "original_lang": "ta",
@@ -192,6 +216,14 @@
     "file_name": "/tmp/news_lk2/articles/b5/b5cd4179.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0d89\u0dc4\u0dc5\u0da7/11-394824",
+    "time_ut": 1656208644,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/c5/c5482a5e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0db1\u0db4\u0daf-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0db8\u0dd9\u0dbb\u0da7\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dad\u0dd2/101-615392",
     "time_ut": 1656208320,
@@ -350,6 +382,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0dd0\u0d82\u0d9a\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca \u0db1\u0ddc\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca",
     "file_name": "/tmp/news_lk2/articles/f7/f726d269.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130183",
+    "time_ut": 1656170742,
+    "original_lang": "ta",
+    "original_title": "21 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1 - \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c9/c92bc2e1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -758,45 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bb8\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/30/304f81ca.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/permission-to-import-10-essentials-via-open-accounts/",
-    "time_ut": 1656150780,
-    "original_lang": "en",
-    "original_title": "Permission to import 10 essentials via open accounts",
-    "file_name": "/tmp/news_lk2/articles/82/82495b1d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130172",
-    "time_ut": 1656150335,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 64,000 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e8/e8764ff3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83253/one-dead-several-injured-after-bus-topples-down-precipice",
-    "time_ut": 1656150240,
-    "original_lang": "en",
-    "original_title": "One dead, several injured after bus topples down precipice",
-    "file_name": "/tmp/news_lk2/articles/70/702d9f9d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-novice-mps-apply-for-personal-firearm-report-96440/",
-    "time_ut": 1656149640,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s novice MPs apply for personal firearm: report",
-    "file_name": "/tmp/news_lk2/articles/90/90ac50b8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/25/slc-selects-squad-for-slvsaus-test-series/",
-    "time_ut": 1656149400,
-    "original_lang": "en",
-    "original_title": "SLC selects squad for SLvsAUS test series",
-    "file_name": "/tmp/news_lk2/articles/46/46bc6ceb.json"
   }
 ]
