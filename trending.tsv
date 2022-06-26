@@ -1,21 +1,21 @@
 ent_group	n
-Sri Lanka	1618
-India	319
+Sri Lanka	1614
+India	307
 US	227
 Australia	187
 Russia	169
-Parliament	154
+Parliament	152
 IMF	106
-Gotabaya Rajapaksa	105
+Gotabhaya Rajapaksa	100
 Central Bank	96
 International Monetary Fund	91
 China	90
-Ranil Wickremesinghe	84
-21st Amendment	70
-Rajapaksas	70
+Ranil Wickremesinghe	77
+21st Amendment	69
+Rajapaksas	68
 Ukraine	65
-Tamil	65
-Constitution	60
+Tamil	63
+Constitution	58
 Cabinet	57
 Jaffna	56
 CPC	54
@@ -24,9 +24,9 @@ Messi	50
 United States	50
 Opposition	49
 Treasury	49
-State	47
+State	46
 Ceylon Petroleum Corporation	46
-Aragalaya	44
+Aragalaya	42
 Viswanathan	41
 European	41
 Buddhist	39
@@ -39,10 +39,10 @@ UN	33
 Mullaitivu	33
 EU	33
 CSE	33
-UNDP	32
 Wickremesinghe	31
 Argentina	30
 Asia	30
+UNDP	30
 Johnston Fernando	29
 Tamil Nadu	28
 Middle East	28
@@ -59,12 +59,12 @@ ISB	25
 France	24
 Chinese	24
 SPP	24
-Mahinda Rajapaksa	23
 Nimal Siripala de Silva	23
 World Bank	22
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
+Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
 US State Department	22
@@ -121,7 +121,6 @@ Karunaratne	15
 Ports	15
 Central Asia	15
 Estonia	15
-Basil Rajapaksa	15
 Julie Chung	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
@@ -130,6 +129,7 @@ SJB	14
 CHS	14
 Cooray	14
 Jehan Appuhamy	14
+Basil Rajapaksa	14
 Jagath Manuwarna	14
 National Savings Bank	13
 Ministry of Finance	13
@@ -151,8 +151,6 @@ Government of Sri Lanka	12
 Ranil	12
 Petrol	12
 Afghanistan	12
-Galle Face	12
-Temple Trees	12
 STF	12
 House	12
 Pat Cummins	12
@@ -179,6 +177,8 @@ Middeniya	11
 IOC	11
 Morocco	11
 Gulf	11
+Galle Face	11
+Temple Trees	11
 Western Province	11
 Foreign Exchange Act	11
 Palaly Airport	11
@@ -194,7 +194,6 @@ Kandy	10
 COVID	10
 Spanish	10
 COVID-19	10
-JVP	10
 Rangita De Silva De Alwis	10
 CEDAW	10
 Gunawardena	10
@@ -243,7 +242,6 @@ Ministry of Agriculture	9
 Luminex	9
 Weerawarana	9
 Aussies	9
-Anura Kumara Dissanayake	9
 Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
@@ -293,6 +291,7 @@ United People's Power	8
 Colombo Stock Exchange	8
 Eric Lavertu	8
 Sarath Weerasekara	8
+Anura Kumara Dissanayake	8
 International Transaction Reporting System	8
 Kankesanthurai	8
 Eurasia	8
@@ -368,13 +367,13 @@ Super Diesel	6
 Presidential Palace	6
 Wellawaya	6
 UPFA	6
+JVP	6
 MLF	6
 Uduwaragedara	6
 Geneva	6
 Hutton	6
 Batticaloa	6
 SLTDA	6
-SLFP	6
 Vinay Kwatra	6
 Koko	6
 Ministry of Tourism and Lands	6
@@ -411,7 +410,6 @@ The Colombo High Court	6
 Hong Kong	6
 John Greenwood	6
 South Africa	6
-democratic	6
 Railway Department	6
 Eastern Terminal	6
 Puttalam Base Hospital	6
@@ -449,9 +447,7 @@ Sampath	5
 Mahinda Amaraweera	5
 Northern	5
 Melilla	5
-Podujana Peramuna	5
 Netherlands	5
-FSP	5
 Convention	5
 Business Foreign Currency Account	5
 an Authorized Dealer	5
@@ -460,6 +456,7 @@ United Kingdom	5
 Lazard	5
 Lanka	5
 Wintermoon Geophysics	5
+SLFP	5
 SAGAR	5
 LKR	5
 Rita Mannella	5
@@ -492,7 +489,6 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
-Government	5
 New Delhi	5
 General Assembly	5
 Shavendra Silva	5
@@ -511,6 +507,7 @@ Heenatigala	5
 Bribery and Corruption Commission	5
 North Macedonia	5
 Bosnia and Herzegovina	5
+democratic	5
 Subramaniam Satyavani	5
 Power and Energy Minister	5
 Matara General Hospital	5
@@ -575,6 +572,7 @@ Ada Derana	4
 White House Oval Office	4
 Moroccan	4
 Harantota	4
+Podujana Peramuna	4
 Royal Ceramics	4
 Philippines	4
 Sama Party	4
@@ -645,6 +643,7 @@ Maldivian	4
 Sher Bahadur	4
 MCC	4
 Tibetan	4
+Government	4
 The IEEE TCSVC Research Innovation Award	4
 European Council	4
 Commission	4
@@ -720,7 +719,6 @@ Rajapaksa	3
 Maithri	3
 Saudi Arabia	3
 Mahinda	3
-Chandrika Kumaratunga	3
 Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
@@ -785,6 +783,7 @@ WWII	3
 Vietnam	3
 Public Transport	3
 SP	3
+FSP	3
 Libya	3
 Yemen	3
 Nivard Cabraal	3
@@ -1065,6 +1064,7 @@ District Court	2
 Chandrika	2
 Ranjith Madhuma Bandara	2
 High Court	2
+Chandrika Kumaratunga	2
 Bernard Shaw	2
 Department of Defense	2
 Mahawali-L'	2
@@ -1260,7 +1260,6 @@ The Mount Lavinia CID	2
 Thelawala	2
 Mt.	2
 Nihal Ranasingha	2
-Frontline Socialist Party	2
 Kelani River	2
 Dengue Control Unit	2
 southwest monsoon	2
@@ -1529,7 +1528,6 @@ Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 Divisional Secretariat	2
-Party	2
 The South Asian Federation of Accountants	2
 SME Development	2
 Indrajit Coomaraswamy	2
@@ -1555,7 +1553,6 @@ Chitran Hathurusinghe	2
 Compensation Office	2
 Santipura Olympus Upper Estate	2
 The All Ceylon Private Bus Owners' Association	2
-South India	2
 National People's Power Conference	2
 National Council of Intellectuals	2
 District Secretaries	2
@@ -1938,6 +1935,7 @@ The Sri Lankan Ministry of Health	1
 World Health Organization South East Asian Regional Office	1
 Epidemiological Unit	1
 Economic Times	1
+South India	1
 Murali Vallipuranathan	1
 Section of Epidemiology	1
 King’s College	1
@@ -2285,6 +2283,7 @@ Monaragala District Hospital	1
 The Wellawaya Police	1
 Galle Face Presidential Secretariat	1
 Gazi	1
+Frontline Socialist Party	1
 People's Front	1
 Edul Fort	1
 Purakkottai	1
@@ -3567,9 +3566,3 @@ Majanahata	1
 Dehiwala Animal Hospital	1
 Veterinarians	1
 Dehiwala National Zoo	1
-Daily FT	1
-Bar Association of Sri Lanka	1
-Police and Army	1
-NPP	1
-Jathika Jana Balawegaya	1
-National People’s Power	1

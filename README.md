@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 02:49:55 (LK time)*
+*As of 2022-06-27 02:59:05 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,9 +8,9 @@
 
 * **1** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
-* **7** daily-ft-lk ([SAFA SME Development Conference 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90249f33.json))
+* **6** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
 
 * **1** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
