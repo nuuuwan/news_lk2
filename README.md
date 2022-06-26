@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 03:35:53 (LK time)*
+*As of 2022-06-27 03:48:14 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last Hour (1 Articles)
-
-* **1** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களில் 70% ஐ  மூட முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa9575c5.json))
 
 ## Last 3 Hours (13 Articles)
 
