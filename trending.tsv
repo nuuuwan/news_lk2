@@ -1,13 +1,13 @@
 ent_group	n
-Sri Lanka	1237
+Sri Lanka	1250
 India	207
-US	166
+US	171
 Parliament	127
 Australia	111
 IMF	98
 Gotabaya Rajapaksa	81
 Russia	73
-the International Monetary Fund	71
+the International Monetary Fund	72
 the Central Bank	69
 Ranil Wickremesinghe	68
 Rajapaksas	63
@@ -22,10 +22,10 @@ Aragalaya	43
 Constitution	42
 Cabinet	42
 Viswanathan	41
+State	36
 European	36
+the United States	36
 Jaffna	35
-State	34
-the United States	34
 CSE	33
 Treasury	33
 EU	32
@@ -43,15 +43,16 @@ Japanese	25
 Tamil Nadu	24
 SPP	24
 Premadasa	24
+Asia	24
 France	23
 Wickremesinghe	23
-Asia	23
 Welgama	22
 Singapore	22
 CPC	21
 SriLankan Airlines	21
 Chinese	20
 Romania	20
+the Ceylon Petroleum Corporation	20
 Dhammika Perera	19
 the Monetary Board	19
 the United Nations	19
@@ -67,7 +68,6 @@ Nandalal Weerasinghe	17
 Puttalam	17
 Order	17
 the Ministry of Education	17
-the Ceylon Petroleum Corporation	17
 UK	16
 SL	16
 Bulgaria	16
@@ -120,6 +120,7 @@ Section 8 of	12
 Bell Geospace	12
 Temple Trees	12
 Naseer Ahmed	12
+Robert Kaproth	12
 Wijayadasa Rajapaksa	12
 EU Ambassadors	12
 Shane Warne’s	12
@@ -131,7 +132,6 @@ House	11
 the Government of Sri Lanka	11
 the Department of Foreign Exchange	11
 Nimal Siripala de Silva	11
-Robert Kaproth	11
 Latin America	11
 the U.S. Department of the	11
 Spanish	10
@@ -148,6 +148,7 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
+the US State Department	10
 Arab	10
 Johnston	10
 Hatton-Colombo	10
@@ -166,11 +167,11 @@ FTG	9
 Manusha Nanayakkara	9
 SLT-MOBITEL	9
 CRA	9
-the US State Department	9
 the Foreign Exchange Act	9
 Luminex	9
 Hong Kong	9
 the Presidential Secretariat	9
+Julie Chung	9
 South Asia	9
 European Ambassadors	9
 Magistrate	9
@@ -182,6 +183,7 @@ the Ministry of Public Administration	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+Petrol	8
 NATO	8
 Italy	8
 Pakistan	8
@@ -206,7 +208,6 @@ M.S.	8
 Nasheed	8
 CAG	8
 the Finance Ministry	8
-Julie Chung	8
 Eric Lavertu	8
 Daily Mirror	8
 the Colombo Stock Exchange	8
@@ -243,6 +244,7 @@ Home Affairs	7
 Provincial Councils and Local Government	7
 Sirisena	7
 Tunisia	7
+the US Treasury Department	7
 Manipay	7
 the Board of Directors	7
 the Western Province	7
@@ -257,13 +259,11 @@ the Special Task Force	7
 Harsha De Silva	7
 Trichy	6
 Wellawaya	6
-Petrol	6
 Canada	6
 Sinhalese	6
 Chaturanga Samarawickrama	6
 MLF	6
 Uduwaragedara	6
-the US Treasury Department	6
 Geneva	6
 Committee	6
 Hutton	6
@@ -526,6 +526,7 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Super Diesel	3
 the United States Mahinda Samarasinghe	3
 North African	3
 Rabat	3
@@ -1040,7 +1041,6 @@ Samagi United Trade Union Force	2
 SUTUF	2
 Ananda Palitha	2
 The Auto Diesel	2
-Super Diesel	2
 Tamil diaspora	2
 Murdoch Business School	2
 Murdoch University	2
@@ -1202,6 +1202,10 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Ceypetco & LIOC	1
+CEYPETCO	1
+Auto Diesel	1
+the Ceylon IOC	1
 Ragama	1
 Anurakumara	1
 Mavai Senathirajah	1
@@ -1254,6 +1258,7 @@ Hatton Nortonbridge	1
 Power and Energy Minister	1
 Katunayake	1
 the Left Democratic Front	1
+the US Treasury	1
 the National Freedom Front	1
 the Colombo Port	1
 Watana	1
