@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1507
+Sri Lanka	1508
 India	309
 US	217
 Australia	154
@@ -32,6 +32,7 @@ European	39
 Buddhist	38
 U.S.	35
 CSE	33
+the Ministry of Education	33
 Japan	32
 Mullaitivu	32
 EU	32
@@ -39,7 +40,6 @@ Kanchana Wijesekera	32
 the Central Bank of Sri Lanka	32
 UNDP	32
 UN	31
-the Ministry of Education	30
 Johnston Fernando	29
 Asia	29
 Tamil Nadu	28
@@ -113,6 +113,7 @@ Central Asia	15
 Estonia	15
 ISB	15
 Sajith Premadasa	15
+The Public Utilities Commission	15
 Sinhalese	14
 USA	14
 SJB	14
@@ -122,7 +123,6 @@ Athukorala	14
 Jehan Appuhamy	14
 Julie Chung	14
 Jagath Manuwarna	14
-The Public Utilities Commission	14
 North	13
 Kadawatha	13
 Hatton	13
@@ -191,14 +191,17 @@ the Ministry of Finance	10
 Fernando	10
 US Treasury	10
 Johnston	10
+the Ceylon Electricity Board	10
 the Department of Archeology	10
 Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Vavuniya	9
+Ratnapura	9
 Kottawa	9
 NATO	9
+Colombo Fort	9
 Provincial Councils and Local Government	9
 Norwegian	9
 WHO	9
@@ -209,6 +212,7 @@ FTG	9
 Manusha Nanayakkara	9
 SLT-MOBITEL	9
 CRA	9
+the Western Province	9
 the Ministry of Agriculture	9
 Chaturanga Samarawickrama	9
 the Foreign Exchange Act	9
@@ -220,7 +224,6 @@ European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
 the Ministry of Health	9
-the Ceylon Electricity Board	9
 the Homagama Base Hospital	9
 the Government Medical Officers' Association	9
 Lahiru Weerasekera	9
@@ -231,7 +234,6 @@ Islam	8
 CWC	8
 East	8
 Egypt	8
-Ratnapura	8
 the National People's Force	8
 South Korea	8
 Haritha Aluthge	8
@@ -257,7 +259,6 @@ M.S.	8
 Nasheed	8
 CAG	8
 Wijeratne	8
-the Western Province	8
 the Ports Authority	8
 the Palaly Airport	8
 the Finance Ministry	8
@@ -280,7 +281,6 @@ Taiwan	7
 Palitha	7
 Brazil	7
 Trichy	7
-Colombo Fort	7
 Vasudeva Nanayakkara	7
 the Paddy Marketing Board	7
 CWE	7
@@ -322,9 +322,12 @@ Expolanka Holdings	7
 the Special Task Force	7
 Harsha De Silva	7
 Hamilton Reserve Bank Ltd.	7
+Panadura	6
 Sinhala	6
 Corona	6
 Ceylon	6
+Maharagama Police	6
+Maharagama	6
 ECT	6
 Ceypetco	6
 Palaly	6
@@ -394,6 +397,7 @@ Gopal Baglay	6
 Senthil Thondaman	6
 Mahinda Yapa Abeywardena	6
 Jinarathana Thero	6
+the Nuwara Eliya	6
 the Indian High Commission	6
 Power and Energy	6
 the Puttalam Base Hospital	6
@@ -408,8 +412,7 @@ Buddha	5
 Nigeria	5
 Ministry	5
 Godakawela	5
-Maharagama Police	5
-Maharagama	5
+the Navinna Holiday Resort	5
 Janaka Ratnayake	5
 Kuwait	5
 the Jaffna Teaching Hospital	5
@@ -485,7 +488,6 @@ Colombo Fort Magistrate	5
 North Macedonia	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
-the Nuwara Eliya	5
 the United National Party	5
 South Africa	5
 Subramaniam Satyavani	5
@@ -510,7 +512,6 @@ Manhattan	4
 Anuradhapura	4
 Kota	4
 R. Saravanaraja	4
-the Navinna Holiday Resort	4
 CEB	4
 the Colombo Port	4
 Quad	4
@@ -608,9 +609,11 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+Commission	4
 Nihal Taltuwa	4
 Hindu	4
 Ben Ali	4
+Nanu Oya to Colombo Fort	4
 the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
 Narendra Modi	4
@@ -659,6 +662,10 @@ Saudi Arabia	3
 Mahinda	3
 Chandrika Kumaratunga	3
 Ukrainian	3
+Urban	3
+the Railway Station Masters' Association	3
+Kasun Chamara	3
+Chamaran	3
 Horana	3
 the Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
@@ -668,7 +675,6 @@ New Zealand	3
 Chennai	3
 Katunayake	3
 Diaspora	3
-Nanu Oya to Colombo Fort	3
 Colombo Fort Railway Station	3
 Roman	3
 OIC	3
@@ -701,7 +707,7 @@ Rs.100	3
 Leader	3
 Kaushalya Kumari	3
 Auto Diesel	3
-Nuwara-Eliya	3
+Nuwara Eliya	3
 the United States Mahinda Samarasinghe	3
 North African	3
 Rabat	3
@@ -783,7 +789,6 @@ Misukoshi Hideki	3
 Bosnia	3
 Nadu	3
 Thambuththegama	3
-Panadura	3
 Saudi	3
 Greenwood	3
 Mundell	3
@@ -867,7 +872,6 @@ W.D. Lakshman	3
 US Senate Foreign Relations Committee	3
 the Human Rights Council	3
 the Viswanathan-Ramamurthy	3
-Commission	3
 the Parliament Elections Act	3
 Central Planning	3
 Ceylon Chamber of Commerce	3
@@ -881,6 +885,8 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+CC	2
+N	2
 the Colombo Zone	2
 Claire O'Neill	2
 Neil	2
@@ -902,16 +908,14 @@ Ranjith Madhuma Bandara	2
 Bernard Shaw	2
 Islamic	2
 the Department of Defense	2
-Urban	2
 Mahawali-L'	2
 Kokkulai	2
 Vedivaithakal	2
 Kanjiramottai	2
 the Mullaitivu District Magistrate's Court	2
-the Railway Station Masters' Association	2
-Kasun Chamara	2
-Chamaran	2
 Uhana	2
+Haran Thota	2
+the Kalubowila Base Hospital	2
 Minteniya	2
 Embilipitiya	2
 the Port of Colombo on the 25th	2
@@ -964,6 +968,7 @@ Lasso	2
 Highway Operations (Maintenance and Management	2
 ICU	2
 the National Hospital	2
+Nanu Oya	2
 the Ceylon Electricity Board MA Ferdinando	2
 the Cope Group	2
 Mannar	2
@@ -1480,6 +1485,10 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Panadura South Police	1
+Arthur We Dias Mawatha	1
+the Moratuwa Municipal Council	1
+the Moratuwa Fire Brigade	1
 the Federal Reserve	1
 Jerome Powell	1
 Soliyan Kudumi	1
@@ -1578,10 +1587,7 @@ the Jaffna Media Center	1
 the Army and Police	1
 Ampara	1
 Koraleima	1
-Haran Thota	1
-the Kalubowila Base Hospital	1
 M	1
-N	1
 The Southern Expressway Traffic Police	1
 Sapugaskanda Police	1
 Police Constable	1
@@ -1663,6 +1669,10 @@ LGBT festival	1
 Guillermo Lasso	1
 Quito	1
 the Santipura Oliphant Estate	1
+the Nanu Oya Railway Station	1
+Watagoda, Gravat Western	1
+Radella	1
+Talawakele to Nanu Oya	1
 the Missing Persons' Office	1
 Kalviyangad	1
 The Office of Compensation and the Office of Missing Persons	1
@@ -2114,7 +2124,6 @@ Einstein	1
 19th Amendment Bill	1
 Determinations	1
 Basic Structure	1
-CC	1
 contra	1
 the Pohottuwa Parliament	1
 Commonwealth Foreign Affairs	1
