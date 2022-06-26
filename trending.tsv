@@ -1,42 +1,42 @@
 ent_group	n
-Sri Lanka	1509
-India	309
-US	217
-Australia	154
-Parliament	148
-Russia	105
-Gotabhaya Rajapaksa	100
+Sri Lanka	1536
+India	312
+US	218
+Australia	170
+Parliament	149
+Russia	143
+Gotabhaya Rajapaksa	103
 IMF	99
-International Monetary Fund	89
+International Monetary Fund	90
 China	88
 Ranil Wickremesinghe	80
 Central Bank	76
 21st Amendment	69
-Rajapaksas	67
+Rajapaksas	68
 Tamil	66
-Constitution	58
+Ukraine	59
+Constitution	59
 Jaffna	56
 Cabinet	55
+German	52
 CPC	50
 Messi	50
+United States	50
 Opposition	49
-United States	49
-Ukraine	46
 State	46
 Ceylon Petroleum Corporation	46
 Treasury	45
-German	45
 Aragalaya	43
 Viswanathan	41
 Buddhist	40
-European	39
-U.S.	35
+European	40
+U.S.	38
 Ministry of Education	34
+Japan	33
+EU	33
 CSE	33
 Kanchana Wijesekera	33
-Japan	32
 Mullaitivu	32
-EU	32
 Central Bank of Sri Lanka	32
 UNDP	32
 UN	31
@@ -44,18 +44,18 @@ Johnston Fernando	29
 Asia	29
 Tamil Nadu	28
 Puttalam	27
+Argentina	27
 Kumara Welgama	27
 Middle East	27
 Muslims	27
 The Bribery Commission	27
 Japanese	26
 CID	26
-Argentina	26
 Matara	25
 Premadasa	25
+France	24
 Chinese	24
 SPP	24
-France	23
 SriLankan Airlines	23
 Wickremesinghe	23
 Nimal Siripala de Silva	23
@@ -66,14 +66,14 @@ Welgama	22
 Singapore	22
 US State Department	22
 Magammana	21
+Mahinda Rajapaksa	21
 Monetary Board	20
+United Nations	20
 Dhammika Perera	20
 Romania	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
 World Bank	19
-Mahinda Rajapaksa	19
-United Nations	19
 Tunisia	19
 American	19
 Colombia	19
@@ -84,6 +84,8 @@ Ramamurthy	18
 Sri Lanka Transport Board	18
 Dudley Sirisena	18
 Wijayadasa Rajapaksa	18
+British	17
+Galle	17
 Army	17
 Homagama	17
 Order	17
@@ -92,8 +94,8 @@ SLTB	17
 Arab	17
 Wijesekera	17
 South Asia	17
+Joe Biden	16
 Diesel	16
-Galle	16
 UK	16
 SL	16
 Bulgaria	16
@@ -107,8 +109,6 @@ Sinhala-Buddhist	16
 U.S. Department of State	16
 North	15
 London	15
-Joe Biden	15
-British	15
 Theekshana	15
 Karunaratne	15
 Ports	15
@@ -117,6 +117,7 @@ Estonia	15
 ISB	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
+Shane	14
 Sinhalese	14
 USA	14
 SJB	14
@@ -126,6 +127,7 @@ Athukorala	14
 Jehan Appuhamy	14
 Julie Chung	14
 Jagath Manuwarna	14
+Shane Warne’s	14
 Trincomalee	13
 Kadawatha	13
 Hatton	13
@@ -137,6 +139,8 @@ Basil Rajapaksa	13
 Kahathuduwa	13
 Colombo Fort	13
 Ministry of Public Administration	13
+French	12
+Daily Mirror	12
 Government of Sri Lanka	12
 Ranil	12
 Petrol	12
@@ -147,30 +151,30 @@ National Savings Bank	12
 STF	12
 House	12
 Pat Cummins	12
-Shane	12
 MSV	12
 FE	12
 NL	12
 Soviet Union	12
 Bangladesh	12
 Section 8 of	12
+Ukrainian	12
 Bell Geospace	12
 Naseer Ahmed	12
 Latin America	12
 EU Ambassadors	12
 The Consumer Affairs Authority	12
-Shane Warne’s	12
+Biden	11
+Britain	11
 Justice	11
 Middeniya	11
 IOC	11
-Daily Mirror	11
 Morocco	11
 Gulf	11
-French	11
 Palaly Airport	11
 US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
+NATO	10
 Home Affairs	10
 West	10
 Finance	10
@@ -198,22 +202,23 @@ Johnston	10
 Department of Archeology	10
 Government Medical Officers' Association	10
 MA Sumanthiran	10
+Gotabhaya	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Samagi Jana Balawega	10
 Hamilton Reserve Bank	10
+Italy	9
+Pakistan	9
+Sinhala	9
 East	9
 Panadura	9
 Vavuniya	9
 Ratnapura	9
 Kottawa	9
-NATO	9
 Board of Directors	9
 Provincial Councils and Local Government	9
 Norwegian	9
 WHO	9
-Biden	9
-Britain	9
 RW	9
 Presidential Secretariat	9
 Department of Foreign Exchange	9
@@ -231,6 +236,7 @@ Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
 Education Ministry	9
+Lankans	9
 Nuwara Eliya	9
 Homagama Base Hospital	9
 Lahiru Weerasekera	9
@@ -238,7 +244,10 @@ Eranga Gunasekera	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
-Sinhala	8
+G7	8
+Board	8
+LTTE	8
+Tsunami	8
 Ceylon Electricity Board	8
 Islam	8
 CWC	8
@@ -253,8 +262,6 @@ Energy	8
 Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
-Italy	8
-Pakistan	8
 Maldives	8
 Finance Ministry	8
 Chamika Karunaratne	8
@@ -270,23 +277,26 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
+Canada	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 United People's Power	8
 Colombo Stock Exchange	8
+Galle Face Green	8
 Eric Lavertu	8
+World Cup	8
 Sarath Weerasekara	8
-Gotabhaya	8
 Committee	8
 International Transaction Reporting System	8
+Sri Lankan Cricket	8
 Kankesanthurai	8
 Eurasia	8
 Easter	8
-Lanka	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
-LTTE	7
+Western	7
+Indonesia	7
 Kurunegala	7
 Colombo	7
 Taiwan	7
@@ -298,7 +308,6 @@ Vasudeva Nanayakkara	7
 Paddy Marketing Board	7
 CWE	7
 Twitter	7
-Board	7
 U.S. Embassy	7
 TNA	7
 RBIO	7
@@ -308,23 +317,21 @@ Lebanon	7
 Jagath Kumara	7
 IGP	7
 Iran	7
-Galle Face Green	7
 Peiris	7
 Court	7
 Victor Chiujdea	7
 Samsung	7
 Keheliya Rambukwella	7
-Tsunami	7
 Gota	7
 Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
 Sirisena	7
+Aussies	7
 Venezuela	7
 Power and Energy	7
 Manipay	7
 Mitchell Marsh	7
-Sri Lankan Cricket	7
 Mano Ganesan	7
 R. Premadasa Stadium	7
 Nanayakkara	7
@@ -333,6 +340,7 @@ National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 Harsha De Silva	7
+Mendis	6
 Corona	6
 Ceylon	6
 Maharagama Police	6
@@ -345,20 +353,17 @@ Pivithuru Hela Urumaya	6
 Yucatan	6
 Norway	6
 Dambulla Economic Center	6
-Western	6
 Super Diesel	6
 & CPC	6
 Presidential Palace	6
 Wellawaya	6
 UPFA	6
-Canada	6
 MLF	6
 Uduwaragedara	6
 Geneva	6
 Hutton	6
 Batticaloa	6
 SLTDA	6
-Indonesia	6
 SLFP	6
 Vinay Kwatra	6
 Koko	6
@@ -383,6 +388,7 @@ Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
 Coimbatore	6
+Bill	6
 Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
@@ -394,6 +400,7 @@ Green	6
 World Health Organization	6
 The Colombo High Court	6
 John Greenwood	6
+South Africa	6
 democratic	6
 Railway Department	6
 Eastern Terminal	6
@@ -414,6 +421,9 @@ Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
 Kelaniya	5
+Mirihana	5
+Verite Research	5
+BBC	5
 Tamil Progressive Alliance	5
 South	5
 Buddha	5
@@ -443,12 +453,12 @@ dfe@cbsl.lk	5
 United Kingdom	5
 Lazard	5
 Maithripala Sirisena	5
+Lanka	5
 Wintermoon Geophysics	5
 SAGAR	5
 LKR	5
 Rita Mannella	5
 Swiss	5
-Aussies	5
 Cameron Green	5
 Aaron Finch	5
 David Warner	5
@@ -459,7 +469,6 @@ Glenn Maxwell	5
 Carey	5
 Chandimal	5
 Charith Asalanka	5
-Mendis	5
 Matt Kuhnemann	5
 Bombay	5
 Maharagama Cancer Hospital	5
@@ -496,7 +505,6 @@ Heenatigala	5
 Bribery and Corruption Commission	5
 North Macedonia	5
 Bosnia and Herzegovina	5
-South Africa	5
 Subramaniam Satyavani	5
 Power and Energy Minister	5
 Matara General Hospital	5
@@ -509,7 +517,11 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
+Vladimir Putin	4
+Boris Johnson	4
+Paris	4
 Pattiya Junction	4
+Ceylonese	4
 FDI	4
 Ven	4
 Manhattan	4
@@ -550,10 +562,8 @@ Left Front	4
 CrudeOil Shipments	4
 Brzezinski	4
 Keynes	4
-BBC	4
 League of Nations	4
 Portugal	4
-Mirihana	4
 Chi Chenhong	4
 Deepal Perera	4
 Computer Crime Investigation Division of CID	4
@@ -600,7 +610,6 @@ HNB	4
 Zoysa	4
 Palma	4
 Lakmal Sooriyagoda	4
-Verite Research	4
 North America	4
 Private Sector	4
 UNHRC	4
@@ -617,6 +626,7 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+European Council	4
 Commission	4
 Nihal Taltuwa	4
 Hindu	4
@@ -633,11 +643,9 @@ Prime Minister's Office	4
 LSSP	4
 The National Water Supply and Drainage Board	4
 Peter Breuer	4
-Bill	4
 Aruni Wijewardane	4
 KMM Siriwardena	4
 MSS Saman Fernando	4
-World Cup	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
@@ -661,8 +669,16 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Reuters	3
+Moscow	3
+Charles Michel	3
+Scholz	3
 SSP Nihal Thalduwa	3
 Peliyagoda	3
+Lions	3
+Yellow	3
+Thomson	3
+Sunil	3
 Mannar	3
 Siyambalanduwa	3
 National Transport Commission	3
@@ -674,7 +690,6 @@ Ranasinghe Premadasa	3
 Saudi Arabia	3
 Mahinda	3
 Chandrika Kumaratunga	3
-Ukrainian	3
 Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
@@ -705,7 +720,6 @@ Kollangalatti	3
 Sri Lanka Army	3
 The Sri Lanka Tamil Teachers' Association	3
 Belarus	3
-Vladimir Putin	3
 Air Force	3
 Embilipitiya Hospital	3
 Bowser Assn	3
@@ -747,8 +761,6 @@ Saravanapavan	3
 Kilinochchi	3
 Makumbura Expressway	3
 Afghan	3
-Boris Johnson	3
-Paris	3
 www.dfe.lk	3
 Janatha Vimukthi Peramuna	3
 Madiwela	3
@@ -832,8 +844,8 @@ Aravinda Perera	3
 Ceylon Chamber	3
 Foreign Service	3
 NC	3
-Ceylonese	3
 Grandpa	3
+OPEC+	3
 Jeevan Thondaman	3
 Bush Rajapakse	3
 Iraqi National Oil Company	3
@@ -879,7 +891,6 @@ Lak Sathosa	3
 Eraj Fernando	3
 Sunil Gunaratne	3
 Mannar Regional Health Services	3
-European Council	3
 Colombo Crimes Division	3
 MN Ranasinghe	3
 K. Mayadunne	3
@@ -897,7 +908,20 @@ The Department of Meteorology	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Group of Seven	2
+Putin	2
+Senegal	2
 Veyangoda	2
+Svastika	2
+Kangaroos	2
+Tampa	2
+Florida	2
+Queensland	2
+England	2
+Gamini Dissanayake	2
+Dav Whatmore	2
+Jeff	2
+Wettimuny	2
 Galle Harbor	2
 Nimal Siripala	2
 Kotagala	2
@@ -1157,7 +1181,6 @@ Debt Capital Markets Division	2
 SEAPEX	2
 Priantha Fernando	2
 Mirror Business	2
-Reuters	2
 UN Public Service Awards	2
 Kalutara	2
 Subramaniam Jaisankar	2
@@ -1166,7 +1189,6 @@ Constitutional Council	2
 Bench	2
 CHOGM	2
 Beijing	2
-Lankan	2
 Ministry of Ports	2
 Keells Supermarkets	2
 Galaxy	2
@@ -1189,14 +1211,12 @@ Southern	2
 FAO	2
 English	2
 Wehrmacht	2
-Moscow	2
 Chamika Karunathma	2
 Imperial Monarch Hotel	2
 Kota-ko-home	2
 Sri Lanka Parliamentary College	2
 Narendra	2
 Sri Lanka Unique Digital Identity Project	2
-Yellow	2
 Thushara Indunil Amarasena	2
 Kalutara District	2
 Transport Act	2
@@ -1309,8 +1329,6 @@ Embassy of Japan	2
 Hoshiai	2
 Ministry KDS Ruwanchandra	2
 ​​and	2
-Charles Michel	2
-Scholz	2
 European Parliament	2
 Samaraweera	2
 CCD	2
@@ -1321,7 +1339,6 @@ Ceylon Service Agents Association	2
 P. Released	2
 Eranga Rukshan Madushanka	2
 Grade	2
-Sunil	2
 TG Parakrama	2
 The United Nations Human Rights Council	2
 National Child Protection Authority	2
@@ -1418,6 +1435,10 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Organization of Petroleum Exporting Countries	2
+Yahapalanaya	2
+Bundaberg	2
+Punchihewa	2
 Sri Lanka Bar Association	2
 Southern Sri Lanka	2
 democrats	2
@@ -1483,18 +1504,99 @@ R. Vinothan	2
 Steve Hanke	2
 Washington, DC	2
 The Russian Ruble	2
-OPEC	2
 Asia-Pacific Alliance for Disaster Management Sri Lanka	2
 Shankar	2
 Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+SCHLOSS	1
+Bavarian Alps	1
+Bavarian	1
+Schloss Elmau	1
+Wetterstein	1
+Michel	1
+Dmytro Kuleba	1
+Oxfam	1
 Provincial Secretaries of Education	1
 Provincial Directors of Education and Principals	1
 National Hospital in Colombo	1
 Minuwangoda	1
 Kelaniya Division	1
+new heights	1
+Foreign Direct Investment	1
+The Financial Crimes Investigation Division	1
+National Development Bank	1
+Pro-Ukrainian	1
+Kherson- Image	1
+Sergei A.	1
+Sergei	1
+Crimea	1
+Cruise	1
+Nazi Reich	1
+Gamini Akmeemana	1
+Dear Sergei	1
+Kherson	1
+Berdyansk	1
+Melitopol	1
+WhatsApp	1
+Facebook Messenger	1
+Kushan Pathiraja	1
+Coldplay	1
+-2000	1
+The ‘Tampa Bay Lightning’	1
+Amalie Arena	1
+RPS	1
+Bat	1
+Ball	1
+Lillie & Thomson	1
+Trent Bridge	1
+Jack Ryder	1
+Victoria Park’s	1
+Bill Lawry	1
+The Colombo Journal	1
+Ceylon Cricket Association	1
+Board of Control for Cricket	1
+John R. Rockwood	1
+Saravanamuttus	1
+Robert Senanayake	1
+Ana Punchihewa	1
+Neil Perera	1
+Dissanayake	1
+Alex Kontouri	1
+Ian Botham	1
+Alan Border	1
+Bob Woolmer	1
+Australian Cricket Board	1
+Alex	1
+West Indies	1
+Notably	1
+Kadirgamar	1
+WC	1
+Muralitharan	1
+Gaddafi Stadium	1
+Lahore	1
+D/L	1
+Gilchrist	1
+Skipper	1
+Lillee	1
+Dennis	1
+Ranjit Fernando	1
+Sunil Wettimuny	1
+Ian Chappell	1
+Chappell	1
+Mackay	1
+invasion--	1
+ACL	1
+Anti-Cooley League	1
+ran helter-skelter	1
+--https://www.dailymirror.lk/95573/australian-town-badagini-named-by-sinhala-migrant-labour-in-1880s	1
+Muttiah Muralitharan	1
+Darrell Hair	1
+Melbourne	1
+ABC	1
+Jim Maxwell	1
+Jason	1
 Mahesh Kadulantha	1
 Mano MP	1
 Office Bearer Mahesh	1
@@ -1914,12 +2016,10 @@ Gamage	1
 Mynah	1
 Arab Spring	1
 The World Bank	1
-Senegal	1
 Lamiaceae	1
 An Historical Relation of Island Ceylon	1
 Robert Knox	1
 Kandyan Kingdom	1
-Yahapalana	1
 Nodealgama	1
 Sarath Fonseka (SF	1
 Keith Noir	1
@@ -2294,7 +2394,6 @@ SriLankan Airlines’ Cares	1
 Pfizer	1
 Pre Putin	1
 Swedish	1
-Florida	1
 Algorithms	1
 Groundhog Day	1
 Huxley	1
@@ -2547,7 +2646,6 @@ Kattankudy	1
 Vietnamese	1
 Muhith	1
 Kanatte	1
-England	1
 Manu Ginige	1
 Air Ceylon	1
 Manu	1
@@ -2919,7 +3017,7 @@ CGSL	1
 Time	1
 Jens Laerke	1
 Coordination of Humanitarian Affairs	1
-Organization of Arab Petroleum Exporting Countries	1
+OPEC	1
 JR’s	1
 Hameed	1
 Gadhafi	1

@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83274/biden-urges-g7-to-stay-together-as-leaders-target-russian-gold",
+    "time_ut": 1656269280,
+    "original_lang": "en",
+    "original_title": "Biden urges G7 to stay together as leaders target Russian gold",
+    "file_name": "/tmp/news_lk2/articles/eb/eb1c01a9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Revised-notice-on-conducting-schools-from-June-27-to-July-1-issued/342-239820",
     "time_ut": 1656264683,
@@ -32,12 +40,28 @@
     "file_name": "/tmp/news_lk2/articles/fe/fe28f1bc.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Growing-disillusion-among-young-Lankans-EDITORIAL/172-239818",
+    "time_ut": 1656259036,
+    "original_lang": "en",
+    "original_title": "Growing disillusion among young Lankans - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/ae/ae2c0f85.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83273/one-dead-one-injured-in-shooting-at-kelaniya",
     "time_ut": 1656259020,
     "original_lang": "en",
     "original_title": "One dead, one injured in shooting at Kelaniya",
     "file_name": "/tmp/news_lk2/articles/8a/8af3f080.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/A-just-tax-system/172-239817",
+    "time_ut": 1656258977,
+    "original_lang": "en",
+    "original_title": "A just tax system",
+    "file_name": "/tmp/news_lk2/articles/55/557c79d0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -48,12 +72,28 @@
     "file_name": "/tmp/news_lk2/articles/b0/b089687f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/A-firsthand-account-of-Life-in-war-torn-Ukraine/172-239816",
+    "time_ut": 1656258655,
+    "original_lang": "en",
+    "original_title": "A firsthand account of Life in war-torn Ukraine",
+    "file_name": "/tmp/news_lk2/articles/6d/6dedb1cf.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130232",
     "time_ut": 1656258451,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 : \u0b86\u0ba3\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf - \u0baa\u0bc6\u0ba3\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/63/6366ccc3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Kangaroo-Vs-Lions-140-Yr-Sticks-Stones-Rivalry-Reconciled-with-All-Yellow-Bat-Ball-Game/172-239815",
+    "time_ut": 1656258316,
+    "original_lang": "en",
+    "original_title": "Kangaroo Vs Lions ; 140-Yr Sticks & Stones Rivalry Reconciled  with All-Yellow Bat & Ball Game",
+    "file_name": "/tmp/news_lk2/articles/8b/8b1b31e2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -758,45 +798,5 @@
     "original_lang": "en",
     "original_title": "3-hour power cuts approved by PUCSL",
     "file_name": "/tmp/news_lk2/articles/bd/bd40e55a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83268/3-hour-power-cuts-from-june-27-july-3",
-    "time_ut": 1656237960,
-    "original_lang": "en",
-    "original_title": "3-hour power cuts from June 27 - July 3",
-    "file_name": "/tmp/news_lk2/articles/ff/ff168c30.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd0\u0dba-\u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dda/1-615418",
-    "time_ut": 1656237500,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd0\u0dba \u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/12/122bd707.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd0\u0dba-\u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dda/101-615418",
-    "time_ut": 1656237500,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd0\u0dba \u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/47/47aa1533.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130212",
-    "time_ut": 1656237397,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 11 \u0b9a\u0bc1\u0baf\u0bbe\u0ba4\u0bc0\u0ba9\u0bae\u0bbe\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/3e/3eae74a7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-ceylon-tea-output-down-16-3-pct-in-may-2022-96462/",
-    "time_ut": 1656237300,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Ceylon tea output down 16.3-pct in May 2022",
-    "file_name": "/tmp/news_lk2/articles/93/93f747ec.json"
   }
 ]
