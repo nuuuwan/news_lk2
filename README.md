@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 21:12:53 (LK time)*
+*As of 2022-06-26 21:22:16 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (3 Articles)
-
-* **2** lankadeepa-lk ([මැති - ඇමැතීන්ටත් ඉන්ධන රස්නේ දැනෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8260b5.json))
-
-* **1** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
 
 ## Last Hour (9 Articles)
 
@@ -18,11 +12,11 @@
 
 * **1** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
 
-## Last 3 Hours (41 Articles)
+## Last 3 Hours (36 Articles)
 
-* **16** lankadeepa-lk ([දුම්රියත් නවතිණ ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aa63b40.json))
+* **15** virakesari-lk ([எரிபொருள் பற்றாக்குறை - எதிர்வரும் நாட்களில் ரயில் சேவை பாதிக்கப்படும் நிலை - ரயில் நிலைய பொறுப்பதிகாரிகள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75da8b39.json))
 
-* **16** virakesari-lk ([இலங்கை போக்குவரத்து சபையின் வட பிராந்திய ஊழியர்கள் பணிப்பகிஷ்கரிப்பில் ஈடுபடப்போவதாக அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f7c1a67.json))
+* **13** lankadeepa-lk ([නාගරික පාසල් මේ සතියෙත් නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abc11c9.json))
 
 * **6** tamil-mirror-lk ([துஷ்பிரயோகம் செய்த மாணவர்களுக்கு வலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41ea77c6.json))
 
@@ -30,13 +24,11 @@
 
 * **1** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
 
-* **1** news-first-lk ([Colombo, and City schools closed from 27th to 1st](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccc059df.json))
-
-## Last 24 Hours (246 Articles)
+## Last 24 Hours (245 Articles)
 
 * **80** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **45** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
+* **44** tamil-mirror-lk ([திருச்சியில் இலங்கை தமிழர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f08d0f.json))
 
 * **38** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
