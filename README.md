@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 03:28:27 (LK time)*
+*As of 2022-06-27 03:35:53 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
-* **2** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
+* **1** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களில் 70% ஐ  மூட முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa9575c5.json))
 
 ## Last 3 Hours (13 Articles)
 
@@ -36,7 +36,7 @@
 
 * **4** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,786 Articles)
+## Last Week (1,785 Articles)
 
 * **370** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16898e47.json))
 
@@ -54,7 +54,7 @@
 
 * **103** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/641f2b67.json))
 
-* **93** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd943d30.json))
+* **92** daily-ft-lk ([Open letter to Sajith: Lead or leave](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a41ace3.json))
 
 * **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
