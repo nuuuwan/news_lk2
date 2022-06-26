@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Financial-literacy-A-closer-look-at-Sri-Lanka-Part-1/4-736698",
+    "time_ut": 1656269648,
+    "original_lang": "en",
+    "original_title": "Financial literacy: A closer look at Sri Lanka \u2013 Part 1",
+    "file_name": "/tmp/news_lk2/articles/a5/a57b94ef.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83274/biden-urges-g7-to-stay-together-as-leaders-target-russian-gold",
     "time_ut": 1656269280,
@@ -790,13 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/1d/1da7ecff.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/26/3-hour-power-cuts-approved-by-pucsl/",
-    "time_ut": 1656238200,
-    "original_lang": "en",
-    "original_title": "3-hour power cuts approved by PUCSL",
-    "file_name": "/tmp/news_lk2/articles/bd/bd40e55a.json"
   }
 ]

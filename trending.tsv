@@ -1,8 +1,8 @@
 ent_group	n
-Sri Lanka	1536
+Sri Lanka	1545
 India	312
 US	218
-Australia	170
+Australia	171
 Parliament	149
 Russia	143
 Gotabhaya Rajapaksa	103
@@ -10,7 +10,7 @@ IMF	99
 International Monetary Fund	90
 China	88
 Ranil Wickremesinghe	80
-Central Bank	76
+Central Bank	77
 21st Amendment	69
 Rajapaksas	68
 Tamil	66
@@ -28,16 +28,16 @@ Ceylon Petroleum Corporation	46
 Treasury	45
 Aragalaya	43
 Viswanathan	41
+European	41
 Buddhist	40
-European	40
 U.S.	38
 Ministry of Education	34
 Japan	33
 EU	33
 CSE	33
+Central Bank of Sri Lanka	33
 Kanchana Wijesekera	33
 Mullaitivu	32
-Central Bank of Sri Lanka	32
 UNDP	32
 UN	31
 Johnston Fernando	29
@@ -67,13 +67,13 @@ Singapore	22
 US State Department	22
 Magammana	21
 Mahinda Rajapaksa	21
+World Bank	20
 Monetary Board	20
 United Nations	20
 Dhammika Perera	20
 Romania	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
-World Bank	19
 Tunisia	19
 American	19
 Colombia	19
@@ -83,6 +83,7 @@ Perera	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
 Dudley Sirisena	18
+South Asia	18
 Wijayadasa Rajapaksa	18
 British	17
 Galle	17
@@ -93,7 +94,6 @@ Northern Province	17
 SLTB	17
 Arab	17
 Wijesekera	17
-South Asia	17
 Joe Biden	16
 Diesel	16
 UK	16
@@ -107,6 +107,7 @@ Korean	16
 Harin Fernando	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
+USA	15
 North	15
 London	15
 Theekshana	15
@@ -119,7 +120,6 @@ Sajith Premadasa	15
 The Public Utilities Commission	15
 Shane	14
 Sinhalese	14
-USA	14
 SJB	14
 CHS	14
 Cooray	14
@@ -170,6 +170,7 @@ Middeniya	11
 IOC	11
 Morocco	11
 Gulf	11
+Western Province	11
 Palaly Airport	11
 US Treasury Department	11
 COPE	11
@@ -194,7 +195,6 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
-Western Province	10
 Chaturanga Samarawickrama	10
 Fernando	10
 Foreign Exchange Act	10
@@ -227,6 +227,7 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
+Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
 Luminex	9
@@ -277,7 +278,6 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
-Canada	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 United People's Power	8
@@ -1510,6 +1510,8 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+United States Treasury’s	1
+Financial Literacy and Education Commission	1
 SCHLOSS	1
 Bavarian Alps	1
 Bavarian	1
