@@ -1,32 +1,32 @@
 ent_group	n
-Sri Lanka	1351
-India	231
+Sri Lanka	1353
+India	234
 US	194
-Parliament	133
-Australia	111
+Parliament	135
+Australia	112
 IMF	98
-Gotabaya Rajapaksa	90
+Gotabhaya Rajapaksa	92
+Russia	84
 the International Monetary Fund	78
-Russia	74
-Ranil Wickremesinghe	72
+Ranil Wickremesinghe	73
 the Central Bank	70
-the 21st Amendment	63
+the 21st Amendment	64
+China	63
 Rajapaksas	63
-China	62
 Messi	50
+Constitution	49
 Opposition	49
 Cabinet	48
-Constitution	48
+Jaffna	46
 Tamil	46
 German	45
+Ukraine	44
 State	44
-Ukraine	43
+Treasury	44
 Aragalaya	43
 the United States	43
-Treasury	42
 Viswanathan	41
-Jaffna	40
-European	36
+European	37
 U.S.	35
 CSE	33
 CPC	32
@@ -68,10 +68,10 @@ Mullaitivu	18
 Ramamurthy	18
 Mahinda Rajapaksa	18
 Dudley Sirisena	18
+Kanchana Wijesekera	18
 Nandalal Weerasinghe	17
 Order	17
 the Ministry of Education	17
-Kanchana Wijesekera	17
 Matara	16
 UK	16
 SL	16
@@ -93,6 +93,8 @@ Karunaratne	15
 SLTB	15
 Estonia	15
 ISB	15
+Sajith Premadasa	15
+Wijayadasa Rajapaksa	15
 Army	14
 Diesel	14
 SJB	14
@@ -102,12 +104,13 @@ Athukorala	14
 Central Asia	14
 the World Bank	14
 Jehan Appuhamy	14
+the Northern Province	14
 Julie Chung	14
 Jagath Manuwarna	14
+Hatton	13
 Spain	13
 USA	13
 Nepal	13
-the Northern Province	13
 Basil Rajapaksa	13
 the Sri Lanka Transport Board	13
 National Authority on Tobacco and Alcohol	13
@@ -121,7 +124,6 @@ Shane	12
 MSV	12
 FE	12
 NL	12
-Sajith Premadasa	12
 the Soviet Union	12
 Bangladesh	12
 Section 8 of	12
@@ -129,16 +131,15 @@ Nimal Siripala de Silva	12
 Bell Geospace	12
 Temple Trees	12
 Naseer Ahmed	12
-Wijayadasa Rajapaksa	12
 EU Ambassadors	12
 Shane Warne’s	12
-Hatton	11
 Morocco	11
 Gulf	11
 French	11
 the Government of Sri Lanka	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
+COPE	11
 the U.S. Embassy	11
 the Colombo National Hospital	11
 Daily Mirror	11
@@ -162,6 +163,7 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
+Fernando	10
 Arab	10
 US Treasury	10
 Johnston	10
@@ -169,7 +171,7 @@ Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
-Fernando	9
+IOC	9
 Trincomalee	9
 WHO	9
 Biden	9
@@ -190,14 +192,14 @@ South Asia	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
-COPE	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
 the Ministry of Public Administration	9
 Muslim	9
+the Office on Missing Persons	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
-IOC	8
+the Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
 NATO	8
@@ -231,7 +233,10 @@ the Ministry of Health	8
 Eurasia	8
 Easter	8
 Lanka	8
+the COPE Committee	8
 Rathindu Senaratne	8
+Twitter	7
+Wimal Weerawansa	7
 Board	7
 TNA	7
 RBIO	7
@@ -264,6 +269,7 @@ the Board of Directors	7
 the Western Province	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
+the Ceylon Electricity Board	7
 the United People's Power	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
@@ -272,6 +278,7 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
+Justice	6
 the Dambulla Economic Center	6
 Homagama	6
 Western	6
@@ -279,7 +286,6 @@ Super Diesel	6
 the Katunayake Airport	6
 & CPC	6
 Vasudeva Nanayakkara	6
-Twitter	6
 Trichy	6
 Ratnapura	6
 the Presidential Palace	6
@@ -343,11 +349,13 @@ Kankesanthurai	6
 Hamilton Reserve Bank Ltd.	6
 African	6
 Article 83 of the Constitution	6
+Energy	5
+Sampath	5
 Middeniya	5
+Mahinda Amaraweera	5
 Colombo	5
 Northern	5
 Melilla	5
-Justice	5
 Podujana Peramuna	5
 Ceylon	5
 World Bank	5
@@ -364,7 +372,6 @@ Maithripala Sirisena	5
 Wintermoon Geophysics	5
 Sinhala	5
 SAGAR	5
-Wimal Weerawansa	5
 LKR	5
 Rita Mannella	5
 Swiss	5
@@ -409,12 +416,14 @@ New York	5
 Clifford Chance	5
 Sudath Samaraweera	5
 External Affairs	5
+Mahinda Yapa Abeywardena	5
 Heenatigala	5
 Colombo Fort Magistrate	5
 North Macedonia	5
 the Ministry of Agriculture	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+Charitha Herath	5
 the Matara General Hospital	5
 Nuwara-Eliya	5
 Government	5
@@ -431,10 +440,12 @@ SLT-Mobitel AkazaLMS	5
 the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
+the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
 Power and Energy	5
-Sampath	4
-the Dehiwala Zoo	4
+Thilan Miranda	4
+the Nuwara Eliya Police	4
+the Nuwara Eliya Police Division	4
 the National People's Force	4
 the Matara Pradeshiya Sabha	4
 the Katunayake International Airport	4
@@ -497,7 +508,6 @@ the Bribery Act	4
 Media Division	4
 Taliban	4
 North Indian	4
-Mahinda Yapa Abeywardena	4
 Streamline Services	4
 UoC	4
 Capital Goods	4
@@ -528,6 +538,8 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
+Narendra Modi	4
+the Southern Expressway	4
 Washington	4
 the League of Nations	4
 Gota Go Home	4
@@ -545,24 +557,29 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+the Office for National Unity and Reconciliation	4
+Subramaniam Sathyawani	4
 the Homagama Base Hospital	4
 the Sabaragamuwa Province	4
 the Wellawaya Hospital	4
 CBSL	4
-The Office of the Missing Persons	4
 Sunday Times	4
 The Parliamentary Committee on Public Enterprises	4
-the COPE committee	4
 Amarasekera	4
 LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
-the All Ceylon Restaurant Owners' Association	4
 Archbishop of Colombo	4
+Cope	3
+CEB	3
+the Outer Circular Highway	3
+the Colombo-Katunayake Road	3
+the Central Expressway	3
+Asela Sampath	3
+kottu	3
 the US Treasury	3
-the Nuwara Eliya Police Division	3
 Customs	3
-Mahinda Amaraweera	3
+Cipetco	3
 State for Central and South Asian Affairs	3
 the Jaffna Teaching Hospital	3
 Rs.100	3
@@ -613,7 +630,6 @@ Oil and Gas	3
 Gravity	3
 Magnetics	3
 the Lady Ridgeway Hospital for Children	3
-Energy	3
 Indian External Affairs	3
 Referendum	3
 the Commonwealth Heads of Government Meeting	3
@@ -679,10 +695,11 @@ the Ceylon Chamber	3
 NC	3
 Ceylonese	3
 Grandpa	3
-the Southern Expressway	3
+The Compensation Office	3
+Sri Lanka Navy	3
 the Ports Authority	3
 the Eastern Terminal	3
-Subramaniam Satyavani	3
+Agriculture	3
 Lalith Dharmasekera	3
 North Western	3
 Western Sahara	3
@@ -690,6 +707,7 @@ Article	3
 Western Europe	3
 Defence	3
 Shavendra Silva	3
+Amarakeerthi Athukorala	3
 section 14	3
 the Ministry of Justice	3
 the Meteorological Department	3
@@ -704,7 +722,6 @@ the Sri Lankan Rupee	3
 the Monetary Law Act	3
 Asia Pacific	3
 Angajan Ramanthan	3
-Narendra Modi	3
 Ceylon Daily News	3
 South America	3
 Marie	3
@@ -733,6 +750,7 @@ Humanitarian	3
 the University of Moratuwa	3
 Yvette Fernando	3
 W.D. Lakshman	3
+Core Group	3
 the Human Rights Council	3
 the Viswanathan-Ramamurthy	3
 Commission	3
@@ -740,7 +758,6 @@ Venezuela	3
 the Parliament Elections Act	3
 Central Planning	3
 Ceylon Chamber of Commerce	3
-the Ceylon Electricity Board	3
 the Foreign Service	3
 Central Bank	3
 The Department of Meteorology	3
@@ -750,18 +767,23 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
-the Outer Circular Highway	2
-the Colombo-Katunayake Road	2
-the Central Expressway	2
-Thilan Miranda	2
+the Ceylon Electricity Board MA Ferdinando	2
+the Cope Group	2
+Mannar	2
+Dambade	2
+Wariyapola	2
+the National Transport Commission	2
 Samarawickrema	2
-Asela Sampath	2
+Sri Lanka Police	2
 Air Marshal	2
-kottu	2
-the Nuwara Eliya Police	2
+Nihal Lodivick	2
+Lodwick	2
+Primalal Jayasekara	2
+the Oliphant Estate	2
+the Nuwara Eliya Magistrate's Court	2
 Seneviratne	2
 Hawala	2
-Cipetco	2
+Dehiwala	2
 the Nuwara Eliya Police Station Crime Prevention Unit	2
 the Nuwara Eliya District Hospital	2
 Palaviya Salt Company	2
@@ -831,7 +853,6 @@ Gender	2
 Mahinda	2
 Sri Lanka Chi Chenhong	2
 Nihal Taltuwa	2
-Amarakeerthi Athukorala	2
 Health Services	2
 Society	2
 the Computer Crime Investigation Division of the Criminal Investigation Department	2
@@ -970,7 +991,6 @@ section 70	2
 L.A. Wimalaratne	2
 Haqqani	2
 Islamist	2
-Charitha Herath	2
 the Department of Management Services	2
 the Ceylon Transport Board	2
 the Management Services Department	2
@@ -1131,7 +1151,6 @@ Abbett	2
 JPMorgan	2
 PIMCO	2
 Neuberger Berman	2
-Core Group	2
 US Senate Foreign Relations Committee	2
 Sivaji Ganesan	2
 Subburaman	2
@@ -1197,9 +1216,10 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Jaffna District	2
+Doon	2
 Gemunu Wijerathne	2
 the Railway Department	2
-Agriculture	2
 the Santipura Olympus Upper Estate	2
 The All Ceylon Private Bus Owners' Association	2
 Jaffna Magistrate's Court	2
@@ -1261,7 +1281,6 @@ Maina Ko Gama'	2
 the Hindu Buddhist Cultural Council	2
 R. Vinothan	2
 the European Parliament	2
-The Sri Lanka Navy	2
 Steve Hanke	2
 Washington, DC	2
 The Russian Ruble	2
@@ -1278,20 +1297,32 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+the Missing Persons' Office	1
+Kalviyangad	1
+Ferdinando Cobb's	1
+Adani of	1
+Udaya Kamanpila	1
+the National Sumanthira Front	1
+Hunnasgiriya-Meemure	1
+Medamahanuwara	1
+Teldeniya	1
+Udadumbara Police	1
 Highway Operations (Maintenance and Management	1
 Direcor Nihal Ludowyke	1
-the National Transport Commission	1
+AG Special Trial	1
+Black Monday	1
+Parliamentarian Amarakeerthi Athukorala	1
+Parliamentarians	1
 Gemunu	1
 LPBOA	1
 Wijerathne	1
+Spokesperson SSP Nihal	1
 AICOA	1
 Kottu	1
 SLAF	1
 the Air Force	1
 the Sri Lanka Air Force War Heroes Monument	1
 SLAF Trade Training School Ekala	1
-Nihal Lodivick	1
-Lodwick	1
 Gamini Seneviratne	1
 The All Ceylon Filling Station Owners’ Association	1
 Hon	1
@@ -1300,15 +1331,11 @@ ECT	1
 SLPA	1
 the Port of Colombo	1
 the Ports Trade Unions	1
-Primalal Jayasekara	1
-the Oliphant Estate	1
-the Nuwara Eliya Magistrate's Court	1
 Railways Gamini Seneviratne	1
 the Embilipitiya Hospital	1
 US Mercantilists	1
 Massor	1
 Dolekade	1
-Dehiwala	1
 The All Ceylon Auto Drivers' Association	1
 Lanka Super Diesel	1
 The Three Wheeler Owners' Association	1
@@ -1324,7 +1351,6 @@ Jaffna Magistrate AA Anandarajah	1
 Anjana Priyanjith	1
 Lanka Private Bus Owners Association	1
 the Adani Group	1
-Mannar	1
 the Western Container Terminal	1
 Paranthan-Poonakary	1
 the Jaffna District Conference of	1
@@ -1569,7 +1595,6 @@ State Intelligence Service Major	1
 Suresh Salley	1
 the Defence Ministry	1
 the Medamahanuwara Hospital	1
-Wariyapola	1
 Kurunegala	1
 the Teldeniya Base Hospital	1
 United Nations Biodiversity Draft	1
@@ -1690,10 +1715,7 @@ Angela Nieto	1
 the Police Media Division	1
 the Police Media Unit	1
 Oval	1
-the Jaffna District	1
 the Sinhala Hindu Friendship Association	1
-The Office of National Unity and Reconciliation	1
-The Compensation Office	1
 the Office of the Disappeared	1
 Malliweppu	1
 Monaragala District Hospital	1
@@ -2409,7 +2431,6 @@ Kalmadurai	1
 Agaralpetta	1
 Morson	1
 Avin Palma	1
-CEB	1
 Economy Next	1
 Manjula Balasuriya	1
 Senthil	1
@@ -2424,7 +2445,6 @@ the Agrarian Centers	1
 Agrarian Services Department	1
 Vasudeva	1
 Lahiru, &	1
-Sri Lanka Police	1
 the Police Headquarters in Colombo	1
 the Maradana Police	1
 Siridhamma Thera	1
@@ -3059,7 +3079,6 @@ Oprah Winfrey	1
 the Postgraduate Institute of Management	1
 ajantha@pim.sjp.ac.lk	1
 ajantha@ou.edu	1
-Don	1
 the Australian National University	1
 Advocata Institute	1
 Zoom	1
