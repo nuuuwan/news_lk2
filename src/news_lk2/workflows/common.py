@@ -44,7 +44,7 @@ def build_trending_summary():
     for ent in ents:
         if ent['label'] not in THING_ENTS:
             continue
-        k = ent['text']
+        k = ent['text'].replace('the ', '').strip()
 
         if k not in ent_text_to_n:
             ent_text_to_n[k] = 0
