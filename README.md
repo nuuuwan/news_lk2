@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 13:19:35 (LK time)*
+*As of 2022-06-26 13:25:41 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (9 Articles)
+## Last 30 Minutes (6 Articles)
 
-* **3** virakesari-lk ([மனைவியை கோடரியால் தாக்கிக் கொன்ற கணவன் - நுவரெலியாவில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/186767a5.json))
-
-* **2** lankadeepa-lk ([‘බේකරි නිෂ්පාදන මිල ඉහළ දාන්නෙ නෑ‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bed847d.json))
+* **2** virakesari-lk ([எரிபொருள் வரிசையில் காத்திருப்பதால் சத்திரசிகிச்சைகளை இரத்து செய்ய வேண்டிய நிலை - இலங்கை மருத்துவர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b7b358b.json))
 
 * **2** daily-mirror-lk ([Long fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0ba0e597.json))
 
-* **2** ada-lk ([විරෝධතාකරුවන් සමග ජනපති සාකච්ඡාවට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b21950a.json))
+* **1** lankadeepa-lk ([මිද්දෙණියේ වෙඩි තැබීමකින් මල්ශාලා හිමිකරු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/308650e3.json))
 
-## Last Hour (15 Articles)
+* **1** ada-lk ([නොර්වේ වෙඩි තැබීමක් නිසා ත්‍රස්ත අවදානම ඉහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/470e09a8.json))
 
-* **6** virakesari-lk ([பெர்டினான்டோ கோப் குழுவிற்கு தெரிவித்த விடயங்கள்  நாளை ஊடகங்களுக்கு வெளியிடப்படும் -  பேராசிரியர் சரித ஹேரத்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fcacb1a.json))
+## Last Hour (13 Articles)
 
 * **4** lankadeepa-lk ([පුත්තලම කළු කඩේ තෙල් ලීටරයක් 1000යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a2d19e4.json))
+
+* **4** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64 ஆயிரம் லீற்றருக்கும் அதிகமான எரிபொருட்கள் மீட்பு  - பொலிஸ் பேச்சாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d102e65a.json))
 
 * **2** daily-mirror-lk ([Long fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0ba0e597.json))
 
@@ -26,7 +26,7 @@
 
 * **1** ada-derana-lk ([Kahatuduwa house fire: father and mother succumb to injuries](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e345711e.json))
 
-## Last 3 Hours (58 Articles)
+## Last 3 Hours (56 Articles)
 
 * **18** lankadeepa-lk ([හැටන් ඉන්ධන පිරවුම්හල් තාවකාලිකව වහයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8437f828.json))
 
@@ -38,9 +38,9 @@
 
 * **7** ada-lk ([ඇමෙරිකානු නියෝජිත පිරිස පැමිණෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cd79940.json))
 
-* **6** tamil-mirror-lk ([பஸ் கட்டணத்தை 35 சதவீதத்தால் அதிகரிக்க கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aca9f42.json))
+* **5** tamil-mirror-lk ([ஐ.ஓ.சியும் அதேயளவில் அதிகரித்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35cc6bb9.json))
 
-* **3** ada-derana-lk ([Price of rice packet and other food items increase by 10%](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba8628e.json))
+* **2** ada-derana-lk ([Funeral parlour owner shot dead in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a188b32.json))
 
 * **1** economy-next-com ([Sri Lanka removes ban on open account food imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d47799.json))
 
@@ -66,7 +66,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
-## Last Week (1,681 Articles)
+## Last Week (1,679 Articles)
 
 * **384** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/339a206e.json))
 
@@ -76,7 +76,7 @@
 
 * **149** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **148** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c0f8e15.json))
+* **146** ada-derana-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55f9eca9.json))
 
 * **132** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
