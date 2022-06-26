@@ -1,16 +1,16 @@
 ent_group	n
-Sri Lanka	1545
-India	312
-US	218
+Sri Lanka	1572
+India	313
+US	222
 Australia	171
 Parliament	149
 Russia	143
+IMF	103
 Gotabhaya Rajapaksa	103
-IMF	99
 International Monetary Fund	90
-China	88
-Ranil Wickremesinghe	80
-Central Bank	77
+China	89
+Central Bank	86
+Ranil Wickremesinghe	81
 21st Amendment	69
 Rajapaksas	68
 Tamil	66
@@ -18,33 +18,33 @@ Ukraine	59
 Constitution	59
 Jaffna	56
 Cabinet	55
+CPC	52
 German	52
-CPC	50
 Messi	50
 United States	50
 Opposition	49
+Treasury	47
 State	46
 Ceylon Petroleum Corporation	46
-Treasury	45
 Aragalaya	43
 Viswanathan	41
 European	41
 Buddhist	40
 U.S.	38
+Japan	34
+Central Bank of Sri Lanka	34
 Ministry of Education	34
-Japan	33
 EU	33
 CSE	33
-Central Bank of Sri Lanka	33
 Kanchana Wijesekera	33
 Mullaitivu	32
 UNDP	32
 UN	31
+Argentina	29
 Johnston Fernando	29
 Asia	29
 Tamil Nadu	28
 Puttalam	27
-Argentina	27
 Kumara Welgama	27
 Middle East	27
 Muslims	27
@@ -56,7 +56,7 @@ Premadasa	25
 France	24
 Chinese	24
 SPP	24
-SriLankan Airlines	23
+SriLankan Airlines	24
 Wickremesinghe	23
 Nimal Siripala de Silva	23
 Navy	22
@@ -65,15 +65,17 @@ Colombo National Hospital	22
 Welgama	22
 Singapore	22
 US State Department	22
+World Bank	21
 Magammana	21
 Mahinda Rajapaksa	21
-World Bank	20
 Monetary Board	20
 United Nations	20
 Dhammika Perera	20
+ISB	20
 Romania	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
+USA	19
 Tunisia	19
 American	19
 Colombia	19
@@ -85,6 +87,7 @@ Sri Lanka Transport Board	18
 Dudley Sirisena	18
 South Asia	18
 Wijayadasa Rajapaksa	18
+UK	17
 British	17
 Galle	17
 Army	17
@@ -96,7 +99,6 @@ Arab	17
 Wijesekera	17
 Joe Biden	16
 Diesel	16
-UK	16
 SL	16
 Bulgaria	16
 Sri Lanka People's Front	16
@@ -107,7 +109,6 @@ Korean	16
 Harin Fernando	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
-USA	15
 North	15
 London	15
 Theekshana	15
@@ -115,7 +116,6 @@ Karunaratne	15
 Ports	15
 Central Asia	15
 Estonia	15
-ISB	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
 Shane	14
@@ -128,6 +128,7 @@ Jehan Appuhamy	14
 Julie Chung	14
 Jagath Manuwarna	14
 Shane Warne’s	14
+Hamilton Reserve Bank	14
 Trincomalee	13
 Kadawatha	13
 Hatton	13
@@ -139,6 +140,7 @@ Basil Rajapaksa	13
 Kahathuduwa	13
 Colombo Fort	13
 Ministry of Public Administration	13
+Ministry of Finance	12
 French	12
 Daily Mirror	12
 Government of Sri Lanka	12
@@ -180,7 +182,6 @@ Home Affairs	10
 West	10
 Finance	10
 Eastern Terminal of Colombo Port	10
-Ministry of Finance	10
 Kandy	10
 COVID	10
 Spanish	10
@@ -206,7 +207,6 @@ Gotabhaya	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Samagi Jana Balawega	10
-Hamilton Reserve Bank	10
 Italy	9
 Pakistan	9
 Sinhala	9
@@ -295,6 +295,7 @@ Easter	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
+Bank	7
 Western	7
 Indonesia	7
 Kurunegala	7
@@ -340,6 +341,7 @@ National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 Harsha De Silva	7
+New York Federal Court	6
 Mendis	6
 Corona	6
 Ceylon	6
@@ -420,6 +422,8 @@ The Criminal Investigations Department	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
+Grandpa	5
+CEB	5
 Kelaniya	5
 Mirihana	5
 Verite Research	5
@@ -528,7 +532,6 @@ Manhattan	4
 Anuradhapura	4
 Kota	4
 R. Saravanaraja	4
-CEB	4
 Quad	4
 Kavindi Ranasinghe	4
 Perro	4
@@ -666,9 +669,11 @@ Archbishop of Colombo	4
 Wellawaya Hospital	4
 CBSL	4
 The Parliamentary Committee on Public Enterprises	4
+Sri Lankan Government	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Ghana	3
 Reuters	3
 Moscow	3
 Charles Michel	3
@@ -812,7 +817,6 @@ Dilmah Ceylon Tea Company	3
 Brandix Apparel Limited	3
 Daraz Sri Lanka	3
 Seylan Cards	3
-Bank	3
 Diri Savi Board	3
 Litro Gas	3
 Upul Kumarapperuma	3
@@ -844,7 +848,6 @@ Aravinda Perera	3
 Ceylon Chamber	3
 Foreign Service	3
 NC	3
-Grandpa	3
 OPEC+	3
 Jeevan Thondaman	3
 Bush Rajapakse	3
@@ -877,7 +880,6 @@ Sri Lankan Rupee	3
 Monetary Law Act	3
 Islamic Republic of Iran	3
 Angajan Ramanthan	3
-Sri Lankan Government	3
 Marie	3
 Tourist Guide Lecturer	3
 978-624-97686-5-9	3
@@ -908,6 +910,11 @@ The Department of Meteorology	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+International Sovereign Bonds	2
+Water Board	2
+CAC	2
+RD	2
+Fitch Ratings	2
 Group of Seven	2
 Putin	2
 Senegal	2
@@ -1405,7 +1412,6 @@ Colombo Central	2
 Rotary	2
 Lenin	2
 Godwin	2
-Ghana	2
 Charles A. Flynn	2
 Millennium Challenge Corporation	2
 Kathmandu	2
@@ -1435,6 +1441,7 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Bank of Ceylon	2
 Organization of Petroleum Exporting Countries	2
 Yahapalanaya	2
 Bundaberg	2
@@ -1510,6 +1517,16 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+St. Kitts and Nevis	1
+British Commonwealth	1
+Caribbean	1
+ADB	1
+International Fund for Agriculture Development	1
+Sri Lanka Development Bonds	1
+Collective Action Clause	1
+SWAP	1
+Central Bank’s Treasury	1
+Aseni	1
 United States Treasury’s	1
 Financial Literacy and Education Commission	1
 SCHLOSS	1
@@ -2168,7 +2185,7 @@ John McDaniel	1
 Catherine Reynolds	1
 State Antony Blinken	1
 Section 08 of Foreign Exchange Act No	1
-The Central Bank's	1
+The Central Bank	1
 The Monitoring Unit of International Transaction Reporting System	1
 Banking Act No	1
 UNESCO Award	1
@@ -2552,9 +2569,6 @@ Kariyapperuma	1
 General Administration	1
 Acting Area	1
 Southeastern Naval Area	1
-RD	1
-Fitch Ratings	1
-Bank of Ceylon’s	1
 Short-Term Foreign Currency	1
 Viability Rating	1
 Rating Watch Negative	1
@@ -3337,7 +3351,6 @@ Independents	1
 Global Financial Integrity	1
 Arun Kumar	1
 Jawaharlal Nehru University	1
-International Sovereign Bonds	1
 Gamini Wijesinghe	1
 GFI	1
 Wijewardene	1

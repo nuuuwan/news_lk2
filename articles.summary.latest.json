@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Child-s-guide-to-debt-restructuring-Not-a-cakewalk-but-a-task-entailing-hard-work/4-736706",
+    "time_ut": 1656271519,
+    "original_lang": "en",
+    "original_title": "Child\u2019s guide to debt restructuring: Not a cakewalk but a task entailing hard work",
+    "file_name": "/tmp/news_lk2/articles/60/60352613.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Financial-literacy-A-closer-look-at-Sri-Lanka-Part-1/4-736698",
     "time_ut": 1656269648,
     "original_lang": "en",
@@ -790,13 +798,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka invites capable companies to supply aviation fuel",
     "file_name": "/tmp/news_lk2/articles/78/78828374.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd-\u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1/175-299235",
-    "time_ut": 1656238330,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/1d/1da7ecff.json"
   }
 ]
