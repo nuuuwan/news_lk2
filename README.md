@@ -1,12 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 19:17:16 (LK time)*
+*As of 2022-06-26 19:25:58 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (9 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **6** virakesari-lk ([மக்கள் இன்னும் தியாகங்கள் செய்ய வேண்டும் என்பதன் அர்த்தமென்ன ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586748ba.json))
+* **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
+
+* **1** tamil-mirror-lk ([அவுஸ்திரேலியா செல்ல  முயன்ற 399 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd64bfb8.json))
+
+## Last Hour (16 Articles)
+
+* **12** virakesari-lk ([ஆபத்துக்கள் நிறைந்த  கிவுல் ஓயா திட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6be6a97.json))
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
@@ -14,35 +20,21 @@
 
 * **1** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
 
-## Last Hour (22 Articles)
+* **1** lankadeepa-lk ([නාගරික පාසල් මේ සතියෙත් නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abc11c9.json))
 
-* **13** virakesari-lk ([எரிபொருள் பற்றாக்குறை - எதிர்வரும் நாட்களில் ரயில் சேவை பாதிக்கப்படும் நிலை - ரயில் நிலைய பொறுப்பதிகாரிகள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75da8b39.json))
+## Last 3 Hours (49 Articles)
 
-* **3** tamil-mirror-lk ([துஷ்பிரயோகம் செய்த மாணவர்களுக்கு வலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41ea77c6.json))
+* **21** virakesari-lk ([நாட்டிற்கு பயனற்று போயுள்ள தாமரை கோபுரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f6695d6.json))
 
-* **3** lankadeepa-lk ([දුම්රියත් නවතිණ ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aa63b40.json))
+* **12** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d810571.json))
 
-* **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
-
-* **1** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
-
-* **1** news-first-lk ([Colombo, and City schools closed from 27th to 1st](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccc059df.json))
-
-## Last 3 Hours (55 Articles)
-
-* **22** virakesari-lk ([அரச ஊழியர்களை பணிக்கு அழைப்பது தொடர்பில் புதிய சுற்றறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a6f2f19.json))
-
-* **14** lankadeepa-lk ([වජිරගෙන් තව අනාවැකියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ce23605.json))
-
-* **12** tamil-mirror-lk ([விபத்து; பொலிஸ் கான்ஸ்டபிள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c50c9bac.json))
+* **10** tamil-mirror-lk ([வீட்டில் ஏற்பட்ட தீ விபத்தில் தம்பதியினர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdc87c90.json))
 
 * **3** news-first-lk ([TUs concerned about fuel availability](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d37bab20.json))
 
 * **2** ada-derana-lk ([Drunk police constable rides motorcycle on expressway, causes accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5af8e2e1.json))
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
-
-* **1** ada-lk ([විදුලි කප්පාදුව පැය භාගයකින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d4e4c2.json))
 
 ## Last 24 Hours (250 Articles)
 
@@ -66,7 +58,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
-## Last Week (1,760 Articles)
+## Last Week (1,759 Articles)
 
 * **377** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68675a7c.json))
 
@@ -82,7 +74,7 @@
 
 * **131** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
-* **104** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de16c504.json))
+* **103** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/641f2b67.json))
 
 * **87** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
