@@ -1,34 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 19:37:34 (LK time)*
+*As of 2022-06-26 19:47:22 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (10 Articles)
 
-* **1** virakesari-lk ([70 சதவீத எரிபொருள் நிரப்பு நிலையங்களை மூட நடவடிக்கை - எரிபொருள் நிரப்பும் நிலைய உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/379f9248.json))
-
-* **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
-
-## Last Hour (17 Articles)
-
-* **12** virakesari-lk ([புரட்சியால் மாற்றம் தேடி  சிதைந்து போன தேசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6651c156.json))
-
-* **2** lankadeepa-lk ([නාගරික පාසල් මේ සතියෙත් නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9abc11c9.json))
+* **6** virakesari-lk ([இந்தியா - இலங்கை இடையே புதியதோர் ஒப்பந்தமா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53b22358.json))
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
 * **1** tamil-mirror-lk ([அவுஸ்திரேலியா செல்ல  முயன்ற 399 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd64bfb8.json))
 
+* **1** lankadeepa-lk ([ඉන්ධන අර්බුදය උග්‍ර වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1572fe43.json))
+
 * **1** ada-derana-lk ([Schools in Colombo and other major cities to remain closed next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a40373af.json))
 
-## Last 3 Hours (49 Articles)
+## Last 3 Hours (41 Articles)
 
-* **20** virakesari-lk ([கொலம்பிய தேர்தல் முடிவுகள் : நிஜமான மாற்றம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7c7132e.json))
+* **18** virakesari-lk ([ஹோமாகமயில் தீ விபத்து : தாய், தந்தை உயிரிழப்பு - பிள்ளைகள் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40ad7707.json))
 
-* **13** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d810571.json))
+* **9** lankadeepa-lk ([ජාජබේ විරෝධයක් කොටුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35219784.json))
 
-* **10** tamil-mirror-lk ([வீட்டில் ஏற்பட்ட தீ விபத்தில் தம்பதியினர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdc87c90.json))
+* **8** tamil-mirror-lk ([துப்பாக்கிச் சூட்டில் பூக்கடை உரிமையாளர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafb64db.json))
 
 * **3** news-first-lk ([TUs concerned about fuel availability](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d37bab20.json))
 
@@ -36,15 +30,15 @@
 
 * **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (246 Articles)
 
 * **75** lankadeepa-lk ([එකට බීලා මරා වැසිකිළිවළේ දාලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2cfb51.json))
 
-* **48** virakesari-lk ([கால்நடை உணவு உற்பத்திக்காக அரிசி, நெல் ஆகியவற்றை பயன்படுத்தத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d72b58f.json))
+* **44** virakesari-lk ([எரிபொருள் கப்பல்களின் வருகை மேலும் தாமதமாகும் : வரிசைகளில் காத்திருக்க வேண்டாம் - காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec402cc0.json))
 
 * **43** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
 
-* **25** ada-lk ([ලක්ෂ 110 රන් සමග ව්‍යාපාරික කාන්තාවක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/922b03c1.json))
+* **24** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
 * **19** news-first-lk ([Sri Lanka: CEYPETCO & Lanka IOC Fuel Prices Increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3f59cef.json))
 
