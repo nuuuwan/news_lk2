@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1367
+Sri Lanka	1368
 India	236
 US	195
 Parliament	137
@@ -41,9 +41,9 @@ The Bribery Commission	28
 Puttalam	27
 Japan	27
 Kumara Welgama	27
+Kanchana Wijesekera	27
 CID	26
 Argentina	26
-Kanchana Wijesekera	26
 Japanese	25
 Tamil Nadu	25
 SPP	24
@@ -168,6 +168,7 @@ Fernando	10
 Arab	10
 US Treasury	10
 Johnston	10
+the Ministry of Public Administration	10
 Hatton-Colombo	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
@@ -198,10 +199,11 @@ Dhammika Munasinghe	9
 Kahathuduwa	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
-the Ministry of Public Administration	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+Home Affairs	8
+Provincial Councils and Local Government	8
 the Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
@@ -240,6 +242,7 @@ Wijesekera	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+Energy	7
 Twitter	7
 Wimal Weerawansa	7
 Board	7
@@ -264,8 +267,6 @@ Gota	7
 Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
-Home Affairs	7
-Provincial Councils and Local Government	7
 Sirisena	7
 the Ministry of Agriculture	7
 Tunisia	7
@@ -286,7 +287,6 @@ The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
 CWE	6
-Energy	6
 Brazil	6
 Yucatan	6
 Norway	6
@@ -571,6 +571,7 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+The Public Utilities Commission	4
 the Office for National Unity and Reconciliation	4
 Charita Herath	4
 Amarakirthi Athukorala	4
@@ -739,7 +740,6 @@ section 14	3
 the Ministry of Justice	3
 the Meteorological Department	3
 a Great Depression	3
-the Public Utilities Commission	3
 Fund	3
 United National Party	3
 the UN Public Service Awards	3
@@ -1337,11 +1337,15 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Group CC	1
+MNOXYZ	1
+Bandaragama	1
 the Colombo District	1
 the Food Promotion Board	1
 Neil de Alwis	1
 Thavamani	1
 Octane 95	1
+Security Council	1
 Ceylon Indian Oil	1
 Wang Yi	1
 Wang	1
