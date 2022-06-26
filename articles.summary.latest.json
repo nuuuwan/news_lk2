@@ -32,6 +32,14 @@
     "file_name": "/tmp/news_lk2/articles/1d/1da7ecff.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/26/3-hour-power-cuts-approved-by-pucsl/",
+    "time_ut": 1656238200,
+    "original_lang": "en",
+    "original_title": "3-hour power cuts approved by PUCSL",
+    "file_name": "/tmp/news_lk2/articles/bd/bd40e55a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83268/3-hour-power-cuts-from-june-27-july-3",
     "time_ut": 1656237960,
@@ -790,13 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0 \u0dc0\u0dc4\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/94/9452a9cf.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd0\u0da7\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-\u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0-\u0dc0\u0dc4\u0dba\u0dd2/1-615399",
-    "time_ut": 1656220191,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0 \u0dc0\u0dc4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/84/8437f828.json"
   }
 ]
