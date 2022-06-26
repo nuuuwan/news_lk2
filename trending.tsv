@@ -1,12 +1,12 @@
 ent_group	n
-Sri Lanka	1307
-India	209
+Sri Lanka	1312
+India	212
 US	184
 Parliament	131
 Australia	111
 IMF	98
-Gotabaya Rajapaksa	85
-the International Monetary Fund	75
+Gotabaya Rajapaksa	87
+the International Monetary Fund	77
 Russia	73
 Ranil Wickremesinghe	71
 the Central Bank	69
@@ -21,8 +21,8 @@ German	45
 Cabinet	44
 Ukraine	43
 Aragalaya	43
+the United States	43
 State	42
-the United States	42
 Viswanathan	41
 Treasury	38
 European	36
@@ -90,6 +90,7 @@ ISB	15
 Harin Fernando	15
 Galle	14
 Matara	14
+Army	14
 SJB	14
 London	14
 CHS	14
@@ -101,7 +102,6 @@ SLTB	14
 Jehan Appuhamy	14
 Jagath Manuwarna	14
 Spain	13
-Army	13
 USA	13
 Nepal	13
 the US State Department	13
@@ -215,6 +215,7 @@ Nasheed	8
 CAG	8
 the Finance Ministry	8
 Eric Lavertu	8
+Gotabhaya	8
 Daily Mirror	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
@@ -255,7 +256,6 @@ Mitchell Marsh	7
 Sri Lankan Cricket	7
 Anura Kumara Dissanayake	7
 the United People's Power	7
-Gotabhaya	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
 Galle Face Green	7
@@ -313,6 +313,7 @@ Cuba	6
 Buddhist	6
 Jayanath Colombage	6
 Green	6
+Colombo National Hospital	6
 The Colombo High Court	6
 John Greenwood	6
 Wijesekara	6
@@ -330,6 +331,7 @@ Kankesanthurai	6
 Hamilton Reserve Bank Ltd.	6
 African	6
 Article 83 of the Constitution	6
+Western	5
 Super Diesel	5
 the Katunayake Airport	5
 Colombo	5
@@ -338,6 +340,7 @@ IOC	5
 Melilla	5
 Podujana Peramuna	5
 Ceylon	5
+World Bank	5
 Netherlands	5
 FSP	5
 Convention	5
@@ -371,7 +374,6 @@ Matt Kuhnemann	5
 Board	5
 Bombay	5
 CWE	5
-Colombo National Hospital	5
 Maharagama Cancer Hospital	5
 Barcelona	5
 Ratta	5
@@ -417,7 +419,8 @@ Jude Shramantha Anthony Jayamaha	5
 the Lanka Sama Samaja Party	5
 the Indian High Commission	5
 Power and Energy	5
-Western	4
+Magammana	4
+Homagama	4
 Ada Derana	4
 the White House Oval Office	4
 Moroccan	4
@@ -463,7 +466,6 @@ Lands	4
 Health	4
 South	4
 BlackRock	4
-World Bank	4
 OCHA	4
 Tamil Progressive Alliance	4
 Sri Lanka Denis Chaibi	4
@@ -519,6 +521,7 @@ The National Water Supply and Drainage Board	4
 Peter Breuer	4
 the Monetary Board of the Central Bank of Sri Lanka	4
 Bill	4
+Aruni Wijewardane	4
 KMM Siriwardena	4
 MSS Saman Fernando	4
 Department of Economic Research	4
@@ -595,7 +598,6 @@ Sampath	3
 Sampath Bank	3
 ComBank	3
 Board Paper	3
-Aruni Wijewardane	3
 Iranian	3
 IRCS	3
 V. Radhakrishnan	3
@@ -735,6 +737,7 @@ the National People's Force	2
 the Center for Policy Alternatives	2
 Bandaranaike	2
 Emphasis	2
+Dayan Jayatilleke	2
 Hatton-Maskeliya	2
 Hatton Nortonbridge	2
 Customs	2
@@ -811,8 +814,6 @@ Police	2
 Kandaketiya	2
 distributor shall import	2
 LTTE	2
-Magammana	2
-Homagama	2
 Paktika	2
 Pradeshiya Sabha	2
 Makumbura	2
@@ -1145,6 +1146,7 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+the Homagama Base Hospital	2
 North Western	2
 Department	2
 the National People's Power Conference	2
@@ -1221,6 +1223,8 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Kahathuduwa Police	1
+the Borella Children's Hospital	1
 the Met Department	1
 Rs.100	1
 State for Central and South Asian Affairs	1
@@ -1277,8 +1281,15 @@ Sick Matara	1
 the Matara Co-operative	1
 Hospital	1
 Divisional	1
+Quota	1
+Dayan	1
+Diplomat	1
+Kristalina Giorgieva	1
+Rupav	1
+Nobel	1
+Joseph	1
+the Ministry of External Affairs	1
 Kota	1
-Dayan Jayatilleke	1
 Marcos	1
 Kottayam	1
 Conte	1
@@ -2223,7 +2234,6 @@ W. Dharmapala	1
 the Economic Affairs Division	1
 Batagoda in Anguruwatota	1
 the Horana Police	1
-the Horana Base Hospital	1
 Yapa Abeywardena	1
 the Chairmen of Labour Tribunals	1
 Douglas	1
