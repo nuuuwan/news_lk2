@@ -408,6 +408,14 @@
     "file_name": "/tmp/news_lk2/articles/95/951c5b5d.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/my-dear-sinhalese-friend/",
+    "time_ut": 1656246249,
+    "original_lang": "en",
+    "original_title": "My Dear Sinhalese Friend",
+    "file_name": "/tmp/news_lk2/articles/83/83a3f1f3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dca\u0d9a\u0dd0\u0dc0\u0dda\u0da7\u0dbb\u0dca-\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dcf\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0dc0\u0dd0\u0dc3\u0dd2\u0d9a\u0dd2\u0dbd\u0dd2\u0dc0\u0dc5\u0d9a/1-615427",
     "time_ut": 1656246215,
@@ -790,13 +798,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Ceylon tea output down 16.3-pct in May 2022",
     "file_name": "/tmp/news_lk2/articles/93/93f747ec.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bb1\u0bbf\u0b95\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-299234",
-    "time_ut": 1656237144,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bb1\u0bbf\u0b95\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e9/e9afb82d.json"
   }
 ]

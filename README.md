@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 23:25:07 (LK time)*
+*As of 2022-06-26 23:35:07 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
 
-## Last Hour (3 Articles)
+## Last 3 Hours (14 Articles)
 
-* **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
-
-* **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
-
-## Last 3 Hours (17 Articles)
-
-* **7** lankadeepa-lk ([සියඹලාණ්ඩුව රෝහලත් වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/645d224b.json))
-
-* **3** tamil-mirror-lk ([சிகிச்சை வழங்குவதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d7f5f2d.json))
+* **5** lankadeepa-lk ([හිටපු ඇමැතිගේ ඉන්ධන පිරවුම්හල මැර කල්ලියකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd73887b.json))
 
 * **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
@@ -26,9 +18,11 @@
 
 * **2** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
 
+* **2** tamil-mirror-lk ([சியம்பலாண்டுவ ஆதார வைத்தியசாலைக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba74d3f.json))
+
 * **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (256 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -46,9 +40,9 @@
 
 * **6** economy-next-com ([Sri Lanka petrol price hiked to Rs470 a litre, diesel Rs460](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e22f8993.json))
 
-* **1** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
+* **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,785 Articles)
+## Last Week (1,786 Articles)
 
 * **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e00a3ca.json))
 
@@ -72,11 +66,11 @@
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
-* **13** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
+* **14** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,559 Articles)
+## All Time (16,560 Articles)
 
 * **5,896** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -100,7 +94,7 @@
 
 * **122** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **27** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
+* **28** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
