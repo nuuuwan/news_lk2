@@ -1,12 +1,12 @@
 ent_group	n
-Sri Lanka	1358
+Sri Lanka	1367
 India	236
-US	194
+US	195
 Parliament	137
 Australia	117
 IMF	98
+Russia	94
 Gotabhaya Rajapaksa	92
-Russia	91
 the International Monetary Fund	79
 Ranil Wickremesinghe	73
 the Central Bank	71
@@ -26,11 +26,11 @@ Treasury	44
 Aragalaya	43
 the United States	43
 Viswanathan	41
+CPC	40
 European	37
 U.S.	35
-CPC	34
+the Ceylon Petroleum Corporation	34
 CSE	33
-the Ceylon Petroleum Corporation	33
 EU	32
 the Central Bank of Sri Lanka	32
 UN	30
@@ -45,6 +45,7 @@ CID	26
 Argentina	26
 Japanese	25
 Tamil Nadu	25
+Kanchana Wijesekera	25
 SPP	24
 Premadasa	24
 Chinese	23
@@ -53,19 +54,18 @@ Wickremesinghe	23
 Welgama	22
 Singapore	22
 SriLankan Airlines	21
-Kanchana Wijesekera	21
+the Ministry of Education	21
 Hambantota	20
 Romania	20
 Kelly Keiderling	20
+Navy	19
 Dhammika Perera	19
 the Monetary Board	19
-the Ministry of Education	19
 American	19
 the United Nations	19
 Robert Kaproth	19
 Colombo/Jun24/2022	19
 Perera	18
-Navy	18
 Mullaitivu	18
 Ramamurthy	18
 Mahinda Rajapaksa	18
@@ -83,6 +83,7 @@ the European Union	16
 Korean	16
 Harin Fernando	16
 the U.S. Department of State	16
+Diesel	15
 Galle	15
 London	15
 Joe Biden	15
@@ -96,7 +97,6 @@ ISB	15
 Sajith Premadasa	15
 Wijayadasa Rajapaksa	15
 Army	14
-Diesel	14
 SJB	14
 CHS	14
 Cooray	14
@@ -134,6 +134,7 @@ Temple Trees	12
 Naseer Ahmed	12
 EU Ambassadors	12
 Shane Warne’s	12
+Petrol	11
 Morocco	11
 Gulf	11
 French	11
@@ -146,7 +147,6 @@ Daily Mirror	11
 Latin America	11
 Magammana	10
 Kandy	10
-Petrol	10
 Ranil	10
 COVID	10
 Spanish	10
@@ -235,6 +235,7 @@ the Ministry of Health	8
 Eurasia	8
 Easter	8
 Lanka	8
+Wijesekera	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
@@ -281,6 +282,7 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
+Energy	6
 Brazil	6
 Yucatan	6
 Norway	6
@@ -341,13 +343,13 @@ Green	6
 The Colombo High Court	6
 John Greenwood	6
 Lanka Sama Samaja Party	6
-Wijesekara	6
 Dilshan Weerasekera	6
 the Cabinet Ministers	6
 Gopal Baglay	6
 Senthil Thondaman	6
 Mahinda Yapa Abeywardena	6
 Jinarathana Thero	6
+Power and Energy	6
 the Puttalam Base Hospital	6
 The Criminal Investigations Department	6
 the Cauvery Basin	6
@@ -360,7 +362,6 @@ Article 83 of the Constitution	6
 Mexico	5
 Specialist	5
 Jayawardena	5
-Energy	5
 Sampath	5
 Mahinda Amaraweera	5
 Northern	5
@@ -449,7 +450,6 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
-Power and Energy	5
 Cipetco	4
 BRICS	4
 the Jaffna Teaching Hospital	4
@@ -581,6 +581,7 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+The Sri Lanka Tamil Teachers' Association	3
 Belarus	3
 Vladimir Putin	3
 the Embilipitiya Hospital	3
@@ -782,9 +783,13 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
-The Sri Lanka Tamil Teachers' Association	2
+Sri Lanka Army	2
+the Secretaries of the Ministries of Education	2
+the Provincial Secretaries	2
+Provincial Directors	2
 Mexican	2
 Quintana Roo	2
+Air Force	2
 Mindeniya Police	2
 Kankesanthurai - An	2
 Kollangalatti	2
@@ -1325,16 +1330,16 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Octane 95	1
 Ceylon Indian Oil	1
-the Secretaries of the Ministries of Education	1
-the Provincial Secretaries	1
-Provincial Directors	1
 Wang Yi	1
 Wang	1
 Emerging Market Group	1
 the Bakery Owners' Association	1
 Belarusian	1
 Alexander Lukashenko	1
+Petrol & Diesel	1
+Jet Fuel	1
 Bowser Assn	1
 The Ceylon Petroleum Private Bowser Owners Association	1
 Obstetricians	1
@@ -1623,7 +1628,6 @@ Lucienne Manton	1
 Several Australian High Commission	1
 Amanda Jewell	1
 Nishantha Ulugetenne	1
-Air Force	1
 Sudarshana Pathirana	1
 Sri Lanka Coast Guard Rear	1
 Anura Ekanayake	1
