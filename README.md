@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 01:26:05 (LK time)*
+*As of 2022-06-27 01:38:46 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-ft-lk ([Sri Lanka struggles sans immediate solutions to dollar crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde5c64.json))
+* **1** daily-ft-lk ([Unleash economic value in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80ef5ab.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([Child’s guide to debt restructuring: Not a cakewalk but a task entailing hard work](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60352613.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (6 Articles)
 
 * **4** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
-* **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
-
 * **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
-* **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
+* **1** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (268 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -30,7 +28,7 @@
 
 * **39** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
-* **26** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
+* **30** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
 * **26** ada-lk ([තෙල් මිල ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5482a5e.json))
 
@@ -44,9 +42,9 @@
 
 * **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,779 Articles)
+## Last Week (1,782 Articles)
 
-* **369** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0132a857.json))
+* **373** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0132a857.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -62,7 +60,7 @@
 
 * **103** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/641f2b67.json))
 
-* **91** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **90** daily-ft-lk ([A child’s guide to Prema-chandra Athukorala chinthana on import substitution](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/904009a6.json))
 
 * **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
@@ -72,9 +70,9 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,569 Articles)
+## All Time (16,573 Articles)
 
-* **5,900** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
+* **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,092** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 

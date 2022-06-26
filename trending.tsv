@@ -1,25 +1,25 @@
 ent_group	n
-Sri Lanka	1585
-India	313
-US	222
-Australia	171
-Parliament	149
-Russia	143
+Sri Lanka	1612
+India	315
+US	223
+Australia	187
+Russia	165
+Parliament	150
+Gotabaya Rajapaksa	106
 IMF	103
-Gotabhaya Rajapaksa	103
-International Monetary Fund	90
+International Monetary Fund	91
 China	89
 Central Bank	87
 Ranil Wickremesinghe	83
+Rajapaksas	70
 21st Amendment	69
-Rajapaksas	69
 Tamil	66
-Ukraine	59
-Constitution	59
+Ukraine	65
+Constitution	60
 Cabinet	56
 Jaffna	56
+German	53
 CPC	52
-German	52
 Messi	50
 United States	50
 Opposition	49
@@ -58,6 +58,7 @@ France	24
 Chinese	24
 SPP	24
 SriLankan Airlines	24
+Mahinda Rajapaksa	23
 Nimal Siripala de Silva	23
 Navy	22
 Hambantota	22
@@ -68,11 +69,11 @@ Dhammika Perera	22
 US State Department	22
 World Bank	21
 Magammana	21
-Mahinda Rajapaksa	21
 Monetary Board	20
 United Nations	20
 ISB	20
 Romania	20
+Ukrainian	20
 South Asia	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
@@ -83,6 +84,8 @@ American	19
 Colombia	19
 Robert Kaproth	19
 Army	18
+British	18
+Galle	18
 Nandalal Weerasinghe	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
@@ -90,8 +93,6 @@ Supreme Court	18
 Dudley Sirisena	18
 Wijayadasa Rajapaksa	18
 UK	17
-British	17
-Galle	17
 Homagama	17
 Order	17
 Northern Province	17
@@ -99,6 +100,7 @@ SLTB	17
 Arab	17
 Wijesekera	17
 Joe Biden	16
+Shane	16
 Diesel	16
 SL	16
 Bulgaria	16
@@ -107,6 +109,7 @@ SriLankan Cares	16
 European Union	16
 Korean	16
 Harin Fernando	16
+Shane Warne’s	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
 North	15
@@ -119,7 +122,6 @@ Estonia	15
 Basil Rajapaksa	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
-Shane	14
 Sinhalese	14
 SJB	14
 CHS	14
@@ -128,8 +130,8 @@ Athukorala	14
 Jehan Appuhamy	14
 Julie Chung	14
 Jagath Manuwarna	14
-Shane Warne’s	14
 Hamilton Reserve Bank	14
+Daily Mirror	13
 Trincomalee	13
 Kadawatha	13
 Hatton	13
@@ -137,12 +139,12 @@ Spain	13
 Nepal	13
 US Treasury	13
 National Authority on Tobacco and Alcohol	13
+Lankans	13
 Kahathuduwa	13
 Colombo Fort	13
 Ministry of Public Administration	13
 Ministry of Finance	12
 French	12
-Daily Mirror	12
 Government of Sri Lanka	12
 Ranil	12
 Petrol	12
@@ -159,11 +161,12 @@ NL	12
 Soviet Union	12
 Bangladesh	12
 Section 8 of	12
-Ukrainian	12
+World Cup	12
 Bell Geospace	12
 Naseer Ahmed	12
 Latin America	12
 EU Ambassadors	12
+Gotabaya	12
 The Consumer Affairs Authority	12
 Biden	11
 Britain	11
@@ -178,6 +181,8 @@ US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
 NATO	10
+Pakistan	10
+Sinhala	10
 Home Affairs	10
 West	10
 Finance	10
@@ -198,18 +203,19 @@ Madushan	10
 TKR	10
 Chaturanga Samarawickrama	10
 Fernando	10
+Galle Face Green	10
 Foreign Exchange Act	10
 Johnston	10
 Department of Archeology	10
 Government Medical Officers' Association	10
 MA Sumanthiran	10
-Gotabhaya	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Samagi Jana Balawega	10
 Italy	9
-Pakistan	9
-Sinhala	9
+Board	9
+LTTE	9
+Tsunami	9
 East	9
 Panadura	9
 Vavuniya	9
@@ -227,20 +233,20 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
-Galle Face Green	9
 Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
 Luminex	9
 Hong Kong	9
+Aussies	9
 Anura Kumara Dissanayake	9
 Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
 Education Ministry	9
-Lankans	9
 Nuwara Eliya	9
 Homagama Base Hospital	9
+Sri Lankan Cricket	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
 Africa	9
@@ -249,9 +255,6 @@ Office on Missing Persons	9
 Mannar Basin	9
 Colombo	8
 G7	8
-Board	8
-LTTE	8
-Tsunami	8
 Ceylon Electricity Board	8
 Islam	8
 CWC	8
@@ -281,16 +284,15 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
+Bill	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 United People's Power	8
 Colombo Stock Exchange	8
 Eric Lavertu	8
-World Cup	8
 Sarath Weerasekara	8
 Committee	8
 International Transaction Reporting System	8
-Sri Lankan Cricket	8
 Kankesanthurai	8
 Eurasia	8
 Easter	8
@@ -301,6 +303,7 @@ United National Party	7
 Bank	7
 Western	7
 Indonesia	7
+Mendis	7
 Kurunegala	7
 Taiwan	7
 Palitha	7
@@ -330,7 +333,6 @@ Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
 Sirisena	7
-Aussies	7
 Venezuela	7
 Power and Energy	7
 Manipay	7
@@ -344,7 +346,11 @@ State Government of Tamil Nadu	7
 Harsha De Silva	7
 Maithripala Sirisena	6
 New York Federal Court	6
-Mendis	6
+Mirihana	6
+Verite Research	6
+BBC	6
+Lions	6
+Thomson	6
 Corona	6
 Ceylon	6
 Maharagama Police	6
@@ -392,7 +398,6 @@ Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
 Coimbatore	6
-Bill	6
 Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
@@ -428,9 +433,7 @@ Senegal	5
 Grandpa	5
 CEB	5
 Kelaniya	5
-Mirihana	5
-Verite Research	5
-BBC	5
+Ceylonese	5
 Tamil Progressive Alliance	5
 South	5
 Buddha	5
@@ -526,7 +529,16 @@ Vladimir Putin	4
 Boris Johnson	4
 Paris	4
 Pattiya Junction	4
-Ceylonese	4
+Svastika	4
+Kangaroos	4
+Yellow	4
+Tampa	4
+Queensland	4
+Gamini Dissanayake	4
+Dav Whatmore	4
+Jeff	4
+Sunil	4
+Wettimuny	4
 FDI	4
 Ven	4
 Manhattan	4
@@ -653,6 +665,8 @@ MSS Saman Fernando	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+Bundaberg	4
+Punchihewa	4
 Saliya Peiris	4
 Gemunu Wijeratne	4
 Sri Lankan Navy	4
@@ -682,10 +696,8 @@ Charles Michel	3
 Scholz	3
 SSP Nihal Thalduwa	3
 Peliyagoda	3
-Lions	3
-Yellow	3
-Thomson	3
-Sunil	3
+Florida	3
+England	3
 Mannar	3
 Siyambalanduwa	3
 National Transport Commission	3
@@ -851,6 +863,7 @@ Ceylon Chamber	3
 Foreign Service	3
 NC	3
 OPEC+	3
+Yahapalanaya	3
 Jeevan Thondaman	3
 Bush Rajapakse	3
 Iraqi National Oil Company	3
@@ -921,16 +934,80 @@ Fitch Ratings	2
 Group of Seven	2
 Putin	2
 Veyangoda	2
-Svastika	2
-Kangaroos	2
-Tampa	2
-Florida	2
-Queensland	2
-England	2
-Gamini Dissanayake	2
-Dav Whatmore	2
-Jeff	2
-Wettimuny	2
+new heights	2
+Foreign Direct Investment	2
+The Financial Crimes Investigation Division	2
+National Development Bank	2
+Pro-Ukrainian	2
+Kherson- Image	2
+Sergei A.	2
+Sergei	2
+Crimea	2
+Cruise	2
+Nazi Reich	2
+Gamini Akmeemana	2
+Dear Sergei	2
+Kherson	2
+Berdyansk	2
+Melitopol	2
+WhatsApp	2
+Facebook Messenger	2
+Kushan Pathiraja	2
+Coldplay	2
+-2000	2
+The ‘Tampa Bay Lightning’	2
+Amalie Arena	2
+RPS	2
+Bat	2
+Ball	2
+Lillie & Thomson	2
+Trent Bridge	2
+Jack Ryder	2
+Victoria Park’s	2
+Bill Lawry	2
+The Colombo Journal	2
+Ceylon Cricket Association	2
+Board of Control for Cricket	2
+John R. Rockwood	2
+Saravanamuttus	2
+Robert Senanayake	2
+Ana Punchihewa	2
+Neil Perera	2
+Dissanayake	2
+Alex Kontouri	2
+Ian Botham	2
+Alan Border	2
+Bob Woolmer	2
+Australian Cricket Board	2
+Alex	2
+West Indies	2
+Notably	2
+Kadirgamar	2
+WC	2
+Muralitharan	2
+Gaddafi Stadium	2
+Lahore	2
+D/L	2
+Gilchrist	2
+Skipper	2
+Lillee	2
+Dennis	2
+Ranjit Fernando	2
+Sunil Wettimuny	2
+Ian Chappell	2
+Chappell	2
+Mackay	2
+invasion--	2
+ACL	2
+Anti-Cooley League	2
+ran helter-skelter	2
+--https://www.dailymirror.lk/95573/australian-town-badagini-named-by-sinhala-migrant-labour-in-1880s	2
+Muttiah Muralitharan	2
+Darrell Hair	2
+Melbourne	2
+ABC	2
+Jim Maxwell	2
+Jason	2
 Galle Harbor	2
 Nimal Siripala	2
 Kotagala	2
@@ -1444,9 +1521,6 @@ Prebisch	2
 Indrajit Coomaraswamy	2
 Bank of Ceylon	2
 Organization of Petroleum Exporting Countries	2
-Yahapalanaya	2
-Bundaberg	2
-Punchihewa	2
 Sri Lanka Bar Association	2
 Southern Sri Lanka	2
 democrats	2
@@ -1557,80 +1631,6 @@ Provincial Directors of Education and Principals	1
 National Hospital in Colombo	1
 Minuwangoda	1
 Kelaniya Division	1
-new heights	1
-Foreign Direct Investment	1
-The Financial Crimes Investigation Division	1
-National Development Bank	1
-Pro-Ukrainian	1
-Kherson- Image	1
-Sergei A.	1
-Sergei	1
-Crimea	1
-Cruise	1
-Nazi Reich	1
-Gamini Akmeemana	1
-Dear Sergei	1
-Kherson	1
-Berdyansk	1
-Melitopol	1
-WhatsApp	1
-Facebook Messenger	1
-Kushan Pathiraja	1
-Coldplay	1
--2000	1
-The ‘Tampa Bay Lightning’	1
-Amalie Arena	1
-RPS	1
-Bat	1
-Ball	1
-Lillie & Thomson	1
-Trent Bridge	1
-Jack Ryder	1
-Victoria Park’s	1
-Bill Lawry	1
-The Colombo Journal	1
-Ceylon Cricket Association	1
-Board of Control for Cricket	1
-John R. Rockwood	1
-Saravanamuttus	1
-Robert Senanayake	1
-Ana Punchihewa	1
-Neil Perera	1
-Dissanayake	1
-Alex Kontouri	1
-Ian Botham	1
-Alan Border	1
-Bob Woolmer	1
-Australian Cricket Board	1
-Alex	1
-West Indies	1
-Notably	1
-Kadirgamar	1
-WC	1
-Muralitharan	1
-Gaddafi Stadium	1
-Lahore	1
-D/L	1
-Gilchrist	1
-Skipper	1
-Lillee	1
-Dennis	1
-Ranjit Fernando	1
-Sunil Wettimuny	1
-Ian Chappell	1
-Chappell	1
-Mackay	1
-invasion--	1
-ACL	1
-Anti-Cooley League	1
-ran helter-skelter	1
---https://www.dailymirror.lk/95573/australian-town-badagini-named-by-sinhala-migrant-labour-in-1880s	1
-Muttiah Muralitharan	1
-Darrell Hair	1
-Melbourne	1
-ABC	1
-Jim Maxwell	1
-Jason	1
 Mahesh Kadulantha	1
 Mano MP	1
 Office Bearer Mahesh	1
