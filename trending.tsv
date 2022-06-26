@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1380
+Sri Lanka	1381
 India	241
 US	195
 Parliament	139
@@ -8,7 +8,7 @@ IMF	98
 Russia	96
 Gotabhaya Rajapaksa	93
 the International Monetary Fund	79
-Ranil Wickremesinghe	75
+Ranil Wickremesinghe	76
 the Central Bank	73
 China	66
 the 21st Amendment	64
@@ -33,8 +33,8 @@ the Ceylon Petroleum Corporation	35
 CSE	33
 EU	32
 the Central Bank of Sri Lanka	32
+UNDP	31
 UN	30
-UNDP	30
 Johnston Fernando	29
 Asia	29
 Kanchana Wijesekera	29
@@ -52,10 +52,10 @@ Chinese	23
 France	23
 SriLankan Airlines	23
 Wickremesinghe	23
+Matara	22
 Welgama	22
 Singapore	22
 the Ministry of Education	21
-Matara	20
 Hambantota	20
 Romania	20
 Kelly Keiderling	20
@@ -174,6 +174,7 @@ Wijesekera	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+Kadawatha	9
 Home Affairs	9
 Provincial Councils and Local Government	9
 Middeniya	9
@@ -292,7 +293,6 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
-Kadawatha	6
 Brazil	6
 Yucatan	6
 Norway	6
@@ -421,6 +421,7 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+the Southern Expressway	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
 Cipetco	5
@@ -564,7 +565,6 @@ Prema	4
 the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
 Narendra Modi	4
-the Southern Expressway	4
 Washington	4
 the League of Nations	4
 Gota Go Home	4
@@ -582,6 +582,7 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+the United National Party	4
 Defense	4
 the Ministry of Defense	4
 the Office for National Unity and Reconciliation	4
@@ -597,6 +598,9 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+the Matara Road	3
+Kumara	3
+Abeywardena	3
 Colombo Fort	3
 Janaka Ratnayake	3
 Roman	3
@@ -738,6 +742,9 @@ NC	3
 Ceylonese	3
 Grandpa	3
 the National Freedom Front	3
+the Kotelawala Expressway	3
+the Expressway Traffic Police SSP Chinthaka Gunaratne	3
+Anuruddha Chandasekara	3
 Group CC	3
 Dharmasekera	3
 the Ceylon Indian Oil Company	3
@@ -758,7 +765,6 @@ the Ministry of Justice	3
 the Meteorological Department	3
 a Great Depression	3
 Fund	3
-United National Party	3
 the UN Public Service Awards	3
 the National Dengue Control Unit	3
 New Delhi	3
@@ -814,12 +820,7 @@ Gemunu	2
 Ministry Secretaries	2
 the Southern Expressway Athurugiriya Traffic Control Center	2
 Kaduwela	2
-the Kotelawala Expressway	2
-the Matara Road	2
-the Expressway Traffic Police SSP Chinthaka Gunaratne	2
 Kapila Abeynayake	2
-Kumara	2
-Anuruddha Chandasekara	2
 Tokens	2
 Gamini Seneviratne	2
 MNOXYZ	2
@@ -1286,6 +1287,7 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+General Elections	2
 the Car Owners' Association	2
 Wijeratne	2
 the All Ceylon Bakery Owners Association	2
@@ -1367,6 +1369,10 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+the Athurugiriya Traffic Control Station	1
+Kaduwatta	1
+Vajira	1
+Vajira Abeywardena	1
 Nanu Oya to Colombo Fort	1
 Colombo Fort Railway Station	1
 Polpithigama	1
@@ -2992,7 +2998,6 @@ Krishantha Prasad Cooray	1
 Vistas	1
 Armageddon	1
 the Presidential Election	1
-the General Election	1
 SJB MPs	1
 Mahinda Rajapaksa’s Opposition	1
 Independents	1
