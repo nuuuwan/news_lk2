@@ -1,25 +1,25 @@
 ent_group	n
-Sri Lanka	1624
+Sri Lanka	1636
 India	313
 US	227
-Australia	187
-Russia	169
-Parliament	158
+Australia	188
+Russia	174
+Parliament	159
 IMF	109
 Gotabhaya Rajapaksa	100
 International Monetary Fund	98
 Central Bank	96
 China	91
-Ranil Wickremesinghe	84
+Ranil Wickremesinghe	85
 Tamil	70
+Ukraine	69
 21st Amendment	69
 Rajapaksas	69
-Ukraine	65
 Jaffna	60
 Constitution	58
 Cabinet	57
+German	55
 CPC	54
-German	53
 United States	51
 Messi	50
 Treasury	50
@@ -32,19 +32,19 @@ European	42
 Viswanathan	41
 Japan	38
 U.S.	38
-Central Bank of Sri Lanka	36
+Central Bank of Sri Lanka	37
+UN	36
 Mullaitivu	35
+EU	34
 Kanchana Wijesekera	34
 Ministry of Education	34
-UN	33
-EU	33
 CSE	33
+Asia	32
 Wickremesinghe	31
-Asia	31
 Argentina	30
+Middle East	30
 UNDP	30
 Johnston Fernando	29
-Middle East	29
 Tamil Nadu	28
 Muslims	28
 Puttalam	27
@@ -52,6 +52,7 @@ Kumara Welgama	27
 The Bribery Commission	27
 Japanese	26
 CID	26
+World Bank	25
 Matara	25
 SriLankan Airlines	25
 Premadasa	25
@@ -59,8 +60,8 @@ ISB	25
 France	24
 Chinese	24
 SPP	24
-World Bank	23
 Nimal Siripala de Silva	23
+USA	22
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
@@ -68,23 +69,24 @@ Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
 US State Department	22
-USA	21
 Magammana	21
 United Nations	21
+South Asia	21
 Army	20
+UK	20
 Monetary Board	20
 Romania	20
 Ukrainian	20
-South Asia	20
+American	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
 Perera	19
+Order	19
 Wijesekera	19
 Tunisia	19
-American	19
+Dudley Sirisena	19
 Colombia	19
 Robert Kaproth	19
-UK	18
 Galle	18
 Nandalal Weerasinghe	18
 Ramamurthy	18
@@ -92,13 +94,12 @@ Northern Province	18
 Sri Lanka Transport Board	18
 Singapore	18
 Supreme Court	18
-Dudley Sirisena	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 Homagama	17
-Order	17
 SLTB	17
 Arab	17
+Central Asia	17
 Joe Biden	16
 British	16
 Shane	16
@@ -114,16 +115,17 @@ Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
+National Savings Bank	15
 Sinhalese	15
 North	15
 London	15
 Theekshana	15
 Karunaratne	15
 Ports	15
-Central Asia	15
 Estonia	15
 Julie Chung	15
 Sajith Premadasa	15
+Ministry of Public Administration	15
 The Public Utilities Commission	15
 Ministry of Finance	14
 SJB	14
@@ -134,7 +136,6 @@ Bangladesh	14
 Basil Rajapaksa	14
 Jagath Manuwarna	14
 Department of Archeology	14
-National Savings Bank	13
 Daily Mirror	13
 Trincomalee	13
 Kadawatha	13
@@ -143,10 +144,13 @@ Spain	13
 Nepal	13
 US Treasury	13
 National Authority on Tobacco and Alcohol	13
+Section 8 of	13
 Lankans	13
 Kahathuduwa	13
 Colombo Fort	13
-Ministry of Public Administration	13
+The Consumer Affairs Authority	13
+Home Affairs	12
+Finance	12
 French	12
 Government of Sri Lanka	12
 Ranil	12
@@ -159,15 +163,14 @@ MSV	12
 FE	12
 NL	12
 Soviet Union	12
-Section 8 of	12
+Foreign Exchange Act	12
 World Cup	12
 Bell Geospace	12
+Latin America	12
 Naseer Ahmed	12
 EU Ambassadors	12
 Gotabaya	12
-The Consumer Affairs Authority	12
-Home Affairs	11
-Finance	11
+Provincial Councils and Local Government	11
 Pakistan	11
 New York Federal Court	11
 Bank	11
@@ -180,17 +183,16 @@ Morocco	11
 Gulf	11
 Galle Face	11
 Temple Trees	11
+Dudley	11
 Western Province	11
-Foreign Exchange Act	11
 Palaly Airport	11
 US Treasury Department	11
 COPE	11
-Latin America	11
 Hatton-Colombo	11
-Provincial Councils and Local Government	10
 CEB	10
 Sinhala	10
 West	10
+Department of Foreign Exchange	10
 Eastern Terminal of Colombo Port	10
 Kandy	10
 COVID	10
@@ -225,6 +227,7 @@ LTTE	9
 East	9
 Panadura	9
 Vavuniya	9
+Commercial Bank	9
 Ratnapura	9
 Kottawa	9
 Board of Directors	9
@@ -232,7 +235,6 @@ Norwegian	9
 WHO	9
 RW	9
 Presidential Secretariat	9
-Department of Foreign Exchange	9
 FTG	9
 Manusha Nanayakkara	9
 European Ambassadors	9
@@ -253,6 +255,7 @@ Homagama Base Hospital	9
 Sri Lankan Cricket	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
+African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
@@ -278,7 +281,6 @@ Law Forum	8
 Kovid	8
 CBI	8
 Barista	8
-Commercial Bank	8
 Anura Dissanayake	8
 Mickey	8
 Expolanka	8
@@ -292,6 +294,7 @@ Wijeratne	8
 Lanka Sama Samaja Party	8
 Colombo Stock Exchange	8
 Eric Lavertu	8
+Sirisena	8
 Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
 Anura Kumara Dissanayake	8
@@ -299,10 +302,10 @@ International Transaction Reporting System	8
 Kankesanthurai	8
 Eurasia	8
 Easter	8
-Africa	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
+Maithripala Sirisena	7
 Western	7
 Indonesia	7
 Coimbatore	7
@@ -334,7 +337,6 @@ Gota	7
 Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
-Sirisena	7
 Manipay	7
 Mitchell Marsh	7
 Mano Ganesan	7
@@ -347,7 +349,6 @@ The Criminal Investigations Department	7
 Harsha De Silva	7
 Article 83 of Constitution	7
 SAFA	6
-Maithripala Sirisena	6
 Mirihana	6
 Verite Research	6
 Mexico	6
@@ -357,6 +358,10 @@ Thomson	6
 Buddha	6
 Corona	6
 Ceylon	6
+FDI	6
+Business Foreign Currency Account	6
+an Authorized Dealer	6
+dfe@cbsl.lk	6
 Maharagama Police	6
 Maharagama	6
 ECT	6
@@ -406,6 +411,7 @@ Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
 Indian High Commission	6
+DBA	6
 Ministry of Foreign Affairs	6
 Cuba	6
 Jayanath Colombage	6
@@ -418,6 +424,7 @@ South Africa	6
 Railway Department	6
 Eastern Terminal	6
 Puttalam Base Hospital	6
+Department	6
 Borella Children's Hospital	6
 Tamil National Alliance	6
 Special Task Force	6
@@ -442,6 +449,7 @@ Godakawela	5
 Navinna Holiday Resort	5
 South Korea	5
 Lotus Tower	5
+Fimco Estate	5
 Janaka Ratnayake	5
 Kuwait	5
 Jaffna Teaching Hospital	5
@@ -453,9 +461,6 @@ Northern	5
 Melilla	5
 Netherlands	5
 Convention	5
-Business Foreign Currency Account	5
-an Authorized Dealer	5
-dfe@cbsl.lk	5
 United Kingdom	5
 Lazard	5
 Lanka	5
@@ -498,7 +503,6 @@ General Assembly	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
 Cipetco	5
-Department	5
 Mark Meloch-Brown	5
 Roe	5
 University of Colombo	5
@@ -510,6 +514,7 @@ Government of Japan	5
 Heenatigala	5
 Bribery and Corruption Commission	5
 North Macedonia	5
+North America	5
 Bosnia and Herzegovina	5
 Hindu	5
 democratic	5
@@ -546,13 +551,13 @@ Dav Whatmore	4
 Jeff	4
 Sunil	4
 Wettimuny	4
-FDI	4
 Ven	4
 Manhattan	4
 Anuradhapura	4
 Kota	4
 Vajira Abeywardena	4
 R. Saravanaraja	4
+University of Kelaniya	4
 Quad	4
 Kavindi Ranasinghe	4
 Perro	4
@@ -635,7 +640,6 @@ HNB	4
 Zoysa	4
 Palma	4
 Lakmal Sooriyagoda	4
-North America	4
 Private Sector	4
 UNHRC	4
 Sanur	4
@@ -646,6 +650,7 @@ Alan Walters	4
 MT of Petrol 92	4
 A-PAD SL	4
 Recommendations	4
+Rice Mafia	4
 Maldivian	4
 Sher Bahadur	4
 MCC	4
@@ -682,6 +687,7 @@ Punchihewa	4
 Saliya Peiris	4
 Gemunu Wijeratne	4
 Sri Lankan Navy	4
+Asia Pacific Property Awards	4
 Kottalawala Expressway	4
 Expressway Traffic Police CSP Chinthaka Gunaratne	4
 Anurutha Chandasekara	4
@@ -706,6 +712,7 @@ SAFA International Relations Committee	3
 CA	3
 Bench	3
 International Sovereign Bonds	3
+Caribbean	3
 Ghana	3
 RD	3
 Fitch Ratings	3
@@ -730,6 +737,7 @@ Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
 Chamaran	3
+DBA Alumni	3
 Horana	3
 Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
@@ -742,6 +750,11 @@ US Senate Foreign Relations Committee	3
 Chennai	3
 Katunayake	3
 Diaspora	3
+Lanka Hospitals Academy	3
+NSBM	3
+Best Real Estate Marketing Company	3
+KNOMAD	3
+Azerbaijan	3
 Jana Balawegaya	3
 Colombo Fort Railway Station	3
 National Freedom Front	3
@@ -877,6 +890,7 @@ Aravinda Perera	3
 Ceylon Chamber	3
 Foreign Service	3
 NC	3
+International Fund for Agriculture Development	3
 Bank of Ceylon	3
 OPEC+	3
 Yahapalanaya	3
@@ -942,6 +956,7 @@ The Department of Meteorology	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Berlin	2
 Sanjiva Weerawarana	2
 API	2
 Choreo	2
@@ -953,9 +968,7 @@ SME Development Committee	2
 American Alumni Association	2
 St. Kitts and Nevis	2
 British Commonwealth	2
-Caribbean	2
 ADB	2
-International Fund for Agriculture Development	2
 Sri Lanka Development Bonds	2
 Collective Action Clause	2
 SWAP	2
@@ -1081,6 +1094,7 @@ Kokkulai	2
 Vedivaithakal	2
 Kanjiramottai	2
 Mullaitivu District Magistrate's Court	2
+NCE	2
 Uhana	2
 Haran Thota	2
 Kalubowila Base Hospital	2
@@ -1098,9 +1112,19 @@ South American	2
 Khusrau Perro	2
 Hernandez	2
 The Central Committee of Government Medical Officers' Association	2
+Panama	2
 Jaffna International Airport	2
 Karaikal	2
 Tamils ​​in	2
+NSBM Green University	2
+UAE	2
+Hatch MakerStudio	2
+Vocational Training Authority	2
+Kyrgyzstan	2
+Tajikistan	2
+Uzbekistan	2
+Armenia	2
+Treasurer	2
 Athurugiriya Traffic Control Station	2
 Kaduwatta	2
 Vajira	2
@@ -1234,7 +1258,6 @@ Elimination of All Forms of Discrimination Against Women	2
 De Silva-De Alwis	2
 Committee of Convention	2
 Uganda	2
-Azerbaijan	2
 Trinidad	2
 Tobago	2
 a State Party	2
@@ -1492,6 +1515,7 @@ Hindustani	2
 P. Susheela	2
 T.M. Soundararajan	2
 metre	2
+Araliya Rice	2
 Table 1	2
 GI	2
 Thailand	2
@@ -1537,6 +1561,7 @@ Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 Divisional Secretariat	2
+Antonio Guterres	2
 Imtiaz Bakeer Markar	2
 The South Asian Federation of Accountants	2
 SME Development	2
@@ -1557,7 +1582,9 @@ Kantale	2
 Wavinna	2
 Karthik Pandey	2
 Korean War	2
+UN Sustainable Development Goals	2
 Telecommunications Regulatory Commission	2
+an Executive Committee	2
 Car Owners' Association	2
 Chitran Hathurusinghe	2
 Compensation Office	2
@@ -1846,6 +1873,12 @@ Mullaitivu District Hospital Legal	1
 Northern Regional Employees of Sri Lanka Transport Board	1
 Northern Regional	1
 Jaffna Media Center	1
+National Chamber of Exporters of Sri Lanka	1
+Chamber	1
+a “Temporary Labour Contract	1
+Gratuity	1
+The Export Sector	1
+i. To	1
 Army and Police	1
 Ampara	1
 Koraleima	1
@@ -1886,6 +1919,11 @@ Nicolas Maduro	1
 Juan Quito	1
 NATO North Atlantic Treaty Parties	1
 Perto	1
+Ranjith Pandithage	1
+‘Panama Project’	1
+Okanda	1
+Wildlife & Ocean Resource Conservation	1
+WORC	1
 Alliance Air	1
 Palali and Chennai	1
 Palali-Chennai	1
@@ -1895,6 +1933,42 @@ Diaspora Tamils	1
 Palali	1
 The Lotus Tower	1
 Sri Lanka Television	1
+Development, Real Estate Agency	1
+Architecture	1
+Interior Design	1
+Hospitality	1
+Waverley	1
+House of Lords	1
+Raj Kaleel	1
+Founder of Fimco Estate	1
+World Bank’s Global Knowledge Partnership on Migration and Development	1
+Kazakhstan	1
+Kelaniya University	1
+University Dignitaries	1
+Fellow	1
+AGM	1
+Dean of Faculty of Graduate Studies	1
+Kapila Seneviratne	1
+Faculty of Commerce and Management Studies	1
+Narada Fernando	1
+DBA Program	1
+C. Pathirawasam	1
+Advisory Committee	1
+Nuwan Wimalana	1
+Lecturer	1
+Dinesh Hamangoda	1
+Tharaka Punchibandara	1
+SAARC Region	1
+Mylan Pharmaceuticals	1
+Chandi Wijayasinghe	1
+Monitoring, Central Environment Authority	1
+Ranjan Dissabandara	1
+Finex Engineering	1
+Damith Gangodawilage	1
+MD	1
+Taxperts	1
+University	1
+Sri Lanka Qualification Framework	1
 Lajwala Co-op	1
 Upper Lale Multipurpose Co-operative	1
 Localities	1
@@ -2142,7 +2216,6 @@ United States Holocaust Museum	1
 Adolph Hitler’s	1
 The Geneva Disarmament Conference	1
 another European War	1
-Berlin	1
 USSR	1
 William Kristol	1
 Robert Kagan	1
@@ -2387,11 +2460,9 @@ New Year	1
 Samurdhi	1
 Yala and Maha seasons	1
 GotaGoGama	1
-Sustainable Development Goals	1
 2030 Sustainable Development Agenda	1
 SDG 16	1
 UNPSA	1
-António Guterres	1
 United Nations Public Service Day	1
 Winkle Thera	1
 GA Colvin	1
@@ -2538,7 +2609,6 @@ Later Sri Lanka	1
 The America-Australia	1
 Vietnam War	1
 John Winston Howard	1
-Treasurer	1
 Department of Examination Commissioner General L.M.D. Dharmasena	1
 National Institute of Education	1
 Sunil Nawarathne	1
@@ -2855,7 +2925,6 @@ Pacific Asia Travel Association	1
 Pannel Kerr Forster Consulting	1
 Dean of Faculty of Arts	1
 Bertram Bastianpillai	1
-EDBA	1
 CHSGA	1
 James Peries	1
 Willie Blake	1
@@ -3154,7 +3223,6 @@ Study of Business Enterprise	1
 Johns Hopkins	1
 financial advisory council	1
 Lehman Brothers	1
-UAE	1
 Aragalaya For Creating A Classless Sri Lanka	1
 Galle Face Green, Colombo	1
 Supreme Assembly of Sri Lanka	1
@@ -3324,6 +3392,17 @@ Hayleys PLC	1
 Vallibel One PLC	1
 Gift	1
 Text of Press Release Issued	1
+Araliya Rice Mills	1
+Ebenezer Scrooge	1
+A Christmas Carol	1
+George Eliot’s	1
+Silas Marner	1
+Scrooge	1
+Marner	1
+Louis Stevenson’s	1
+Strange Case of Dr. Jekyll	1
+Hyde	1
+Saki’s Gabriel-Ernest	1
 Foreign Exchange Crisis	1
 Rubber	1
 Cinnamon	1
@@ -3385,7 +3464,6 @@ JKH Rs	1
 LOLC Holdings Rs	1
 Non-Financial Reporting Guideline	1
 Pandora	1
-Panama	1
 Paradise Papers	1
 The Bar Association	1
 Wijesiri	1
@@ -3618,7 +3696,6 @@ Press, Police, Penal, Accountable	1
 BOP	1
 SME	1
 Mother Lanka	1
-Executive Committee	1
 George Patton	1
 Eran Wickramaratne	1
 Harini Amarasuriya	1
