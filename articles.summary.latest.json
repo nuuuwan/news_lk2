@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bc7\u0b9a\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/175-299228",
+    "time_ut": 1656231678,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/4e/4eef90e9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca/11-394838",
+    "time_ut": 1656230462,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7e/7ef47a24.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0baf\u0bbe\u0bb0\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/71-299227",
     "time_ut": 1656230270,
     "original_lang": "ta",
@@ -782,21 +798,5 @@
     "original_lang": "en",
     "original_title": "High-level US delegation arrives in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/be/be08f8e5.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-petrol-price-hiked-to-rs470-a-litre-diesel-rs460-96454/",
-    "time_ut": 1656207360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka petrol price hiked to Rs470 a litre, diesel Rs460",
-    "file_name": "/tmp/news_lk2/articles/e2/e22f8993.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83260/several-spells-of-showers-expected-parts-of-the-country",
-    "time_ut": 1656207240,
-    "original_lang": "en",
-    "original_title": "Several spells of showers expected parts of the country",
-    "file_name": "/tmp/news_lk2/articles/2d/2d4a46ab.json"
   }
 ]
