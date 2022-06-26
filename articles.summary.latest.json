@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7-\u0d85\u0dc0\u0dd4--2\u0d9a-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-394850",
+    "time_ut": 1656262737,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7 \u0d85\u0dc0\u0dd4. 2\u0d9a \u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "file_name": "/tmp/news_lk2/articles/89/891c7e8e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-killed-two-year-old-child-and-woman-injured-in-shooting-in-Peliyagoda/108-239819",
+    "time_ut": 1656262627,
+    "original_lang": "en",
+    "original_title": "Man killed, two year old child and woman injured in shooting in Peliyagoda",
+    "file_name": "/tmp/news_lk2/articles/51/51dbac62.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba\u0dda\u0daf\u0dd3\u00a0\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-615436",
     "time_ut": 1656260205,
@@ -640,6 +656,14 @@
     "file_name": "/tmp/news_lk2/articles/2c/2ce23605.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0dd9\u0dbd\u0dca\u0dc0\u0dbd-\u0dc3\u0db8\u0dd6\u0db4-\u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0da2\u0db6\u0da7-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8-\u0da2\u0dba\u0d9a\u0dca/11-394847",
+    "time_ut": 1656239849,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd9\u0dbd\u0dca\u0dc0\u0dbd \u0dc3\u0db8\u0dd6\u0db4 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0da2\u0db6\u0da7 \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8 \u0da2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/76/76e1e54a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-2\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b93\u0b9f\u0bbe\u0ba4\u0bc1/76-299238",
     "time_ut": 1656239587,
@@ -774,29 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd",
     "file_name": "/tmp/news_lk2/articles/33/337a862f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dc3\u0dca-\u0d9c\u0dd0\u0db8\u0dd4\u0dab\u0dd4-\u0dc4\u0dd9\u0da7-\u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca-\u0d9a\u0dbd\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-394845",
-    "time_ut": 1656236164,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dd0\u0db8\u0dd4\u0dab\u0dd4 \u0dc4\u0dd9\u0da7 \u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca \u0d9a\u0dbd\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/98/9887e48e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/26/work-from-home-circular-for-public-sector-extended/",
-    "time_ut": 1656235800,
-    "original_lang": "en",
-    "original_title": "Work from Home circular for public sector extended",
-    "file_name": "/tmp/news_lk2/articles/c6/c6b12f3e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dbb\u0dd4--10\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-394844",
-    "time_ut": 1656235692,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dbb\u0dd4. 10\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/51/5120fe76.json"
   }
 ]
