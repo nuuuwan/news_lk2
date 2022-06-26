@@ -1,50 +1,50 @@
 ent_group	n
-Sri Lanka	1390
-India	255
-US	197
+Sri Lanka	1407
+India	278
+US	209
 Parliament	139
-Australia	117
+Australia	127
+Russia	99
 IMF	98
-Russia	98
 Gotabhaya Rajapaksa	94
-the International Monetary Fund	79
+China	81
+the International Monetary Fund	80
 Ranil Wickremesinghe	76
-the Central Bank	73
-China	69
+the Central Bank	74
+Rajapaksas	65
 the 21st Amendment	64
-Rajapaksas	64
 Cabinet	53
 Constitution	50
 Messi	50
 Jaffna	49
 Opposition	49
+the United States	48
+State	46
 Tamil	46
-State	45
+Treasury	45
 German	45
 CPC	44
 Ukraine	44
-Treasury	44
 Aragalaya	43
-the United States	43
 Viswanathan	41
-European	37
-the Ceylon Petroleum Corporation	36
+the Ceylon Petroleum Corporation	39
+European	38
 U.S.	35
 CSE	33
 EU	32
 the Central Bank of Sri Lanka	32
+Japan	31
+Kanchana Wijesekera	31
 UNDP	31
 UN	30
-Kanchana Wijesekera	30
 Johnston Fernando	29
 Asia	29
 The Bribery Commission	28
 Puttalam	27
-Japan	27
 Kumara Welgama	27
+Japanese	26
 CID	26
 Argentina	26
-Japanese	25
 Tamil Nadu	25
 SPP	24
 Premadasa	24
@@ -65,6 +65,7 @@ Dhammika Perera	19
 the Monetary Board	19
 American	19
 the United Nations	19
+Colombia	19
 Robert Kaproth	19
 Colombo/Jun24/2022	19
 Nandalal Weerasinghe	18
@@ -137,19 +138,20 @@ Nimal Siripala de Silva	12
 Bell Geospace	12
 Temple Trees	12
 Naseer Ahmed	12
+Latin America	12
 EU Ambassadors	12
 Shane Warne’s	12
 Petrol	11
+IOC	11
 Morocco	11
 Gulf	11
 French	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
 COPE	11
+Wijesekera	11
 the U.S. Embassy	11
 Daily Mirror	11
-Latin America	11
-IOC	10
 Kandy	10
 Ranil	10
 COVID	10
@@ -167,6 +169,7 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
+the Ministry of Finance	10
 Fernando	10
 Arab	10
 US Treasury	10
@@ -174,10 +177,11 @@ Johnston	10
 Kahathuduwa	10
 Hatton-Colombo	10
 The Public Utilities Commission	10
-Wijesekera	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+West	9
+NATO	9
 North	9
 Kadawatha	9
 Home Affairs	9
@@ -209,13 +213,13 @@ Eranga Gunasekera	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
+South Korea	8
 Wimal Weerawansa	8
 Justice	8
 Energy	8
 the Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
-NATO	8
 Italy	8
 Pakistan	8
 Maldives	8
@@ -224,8 +228,6 @@ Law Forum	8
 Kottawa	8
 Kovid	8
 CBI	8
-the Ministry of Finance	8
-West	8
 Barista	8
 Commercial Bank	8
 Anura Dissanayake	8
@@ -239,6 +241,7 @@ the Palaly Airport	8
 Ports	8
 the Finance Ministry	8
 Eric Lavertu	8
+the Katunayake Airport	8
 Gotabhaya	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
@@ -251,6 +254,7 @@ Lanka	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+Brazil	7
 Trichy	7
 Vasudeva Nanayakkara	7
 the Paddy Marketing Board	7
@@ -272,14 +276,13 @@ Victor Chiujdea	7
 Samsung	7
 the Land Reforms Commission	7
 Keheliya Rambukwella	7
-South Korea	7
 Tsunami	7
 Gota	7
 Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
 Sirisena	7
-the Katunayake Airport	7
+Venezuela	7
 Tunisia	7
 Manipay	7
 the Board of Directors	7
@@ -291,6 +294,7 @@ the Ceylon Electricity Board	7
 the United People's Power	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
+African	7
 Lanka Sama Samaja Party	7
 Galle Face Green	7
 Expolanka Holdings	7
@@ -299,7 +303,6 @@ the Special Task Force	7
 Harsha De Silva	7
 Haritha Aluthge	6
 Palaly	6
-Brazil	6
 Yucatan	6
 Norway	6
 Colombo	6
@@ -361,6 +364,7 @@ Gopal Baglay	6
 Senthil Thondaman	6
 Mahinda Yapa Abeywardena	6
 Jinarathana Thero	6
+the Indian High Commission	6
 Power and Energy	6
 the Puttalam Base Hospital	6
 The Criminal Investigations Department	6
@@ -369,7 +373,6 @@ Mannar Basin M1	6
 the United Nations Office for the Coordination of Humanitarian Affairs	6
 the World Health Organization	6
 Hamilton Reserve Bank Ltd.	6
-African	6
 Article 83 of the Constitution	6
 Kuwait	5
 the Jaffna Teaching Hospital	5
@@ -427,9 +430,11 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+New Delhi	5
 the Southern Expressway	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
+the Ceylon Indian Oil Company	5
 Cipetco	5
 Department	5
 the Borella Children's Hospital	5
@@ -468,7 +473,9 @@ the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
-the Indian High Commission	5
+Quad	4
+Ceypetco	4
+Perro	4
 Corona	4
 the Sri Lanka Freedom Party	4
 Douglas Devananda	4
@@ -568,7 +575,6 @@ Tibetan	4
 Prema	4
 the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
-the Ceylon Indian Oil Company	4
 Narendra Modi	4
 Washington	4
 the League of Nations	4
@@ -603,6 +609,7 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+New Zealand	3
 Kavindi Ranasinghe	3
 Chennai	3
 Katunayake	3
@@ -749,6 +756,7 @@ the Ceylon Chamber	3
 NC	3
 Ceylonese	3
 Grandpa	3
+the Solomon Islands	3
 Mattala	3
 the National Freedom Front	3
 the Kotelawala Expressway	3
@@ -775,7 +783,7 @@ a Great Depression	3
 Fund	3
 the UN Public Service Awards	3
 the National Dengue Control Unit	3
-New Delhi	3
+S. Jaishankar	3
 the Sri Lankan Rupee	3
 the Monetary Law Act	3
 Asia Pacific	3
@@ -806,15 +814,16 @@ Humanitarian	3
 the University of Moratuwa	3
 Yvette Fernando	3
 W.D. Lakshman	3
+US Senate Foreign Relations Committee	3
 the Human Rights Council	3
 the Viswanathan-Ramamurthy	3
 Commission	3
-Venezuela	3
 the Parliament Elections Act	3
 Central Planning	3
 Ceylon Chamber of Commerce	3
 the Foreign Service	3
 Central Bank	3
+Anthony Blinken	3
 Gemunu Wijeratne	3
 The Department of Meteorology	3
 the Foreign Secretaries of India	3
@@ -822,6 +831,12 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Vinay Quadra	2
+Djibouti	2
+Pacific	2
+South American	2
+Khusrau Perro	2
+Hernandez	2
 Karaikal	2
 Tamils ​​in	2
 the Communist Party of Sri Lanka	2
@@ -988,7 +1003,6 @@ Sagara Kariyawasam	2
 Ajith Rajapaksa	2
 Golden Shakehand	2
 the Manipay Police	2
-Ceypetco	2
 Hatton Police	2
 The Mount Lavinia CID	2
 Thelawala	2
@@ -1028,7 +1042,6 @@ Bench	2
 CHOGM	2
 Beijing	2
 FDI	2
-S. Jaishankar	2
 Lankan	2
 the Phase II	2
 Keells Supermarkets	2
@@ -1230,7 +1243,6 @@ JPMorgan	2
 PIMCO	2
 Neuberger Berman	2
 Core Group	2
-US Senate Foreign Relations Committee	2
 Sivaji Ganesan	2
 Subburaman	2
 Hindustani	2
@@ -1295,6 +1307,9 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Karthik Pandey	2
+Ministry of External Affairs	2
+the Korean War	2
 the Jaffna International Airport	2
 the Telecommunications Regulatory Commission	2
 General Elections	2
@@ -1316,7 +1331,6 @@ the U.S. Constitution	2
 the “Forever War	2
 Capitalism	2
 the International Law Regime	2
-Antony J. Blinken	2
 Scandinavian	2
 a European Empire	2
 Neoconservatives	2
@@ -1378,6 +1392,34 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Ajay Seth	1
+Economic Affairs,	1
+Anantha Nageswaran	1
+Economic Adviser	1
+Indian Ocean Region	1
+the Indo-Sri Lanka Accord	1
+Menon	1
+JN Dixit	1
+Indian External Affairs Ministry	1
+Arindam Bakshi	1
+Quartet	1
+the Pacific Ocean	1
+Robert Menendez	1
+Hayashi Yoshimasa	1
+Benny Wong	1
+Richard Marles	1
+Rajnath Singh	1
+Fujian	1
+Indian Oil	1
+George Elson Kieran	1
+Evan Duke	1
+Rodolfo Hernandez	1
+Patta	1
+Pervo	1
+Nicolas Maduro	1
+Juan Quito	1
+NATO North Atlantic Treaty Parties	1
+Perto	1
 The Central Committee of the Government Medical Officers' Association	1
 Palali Airport	1
 Alliance Air	1
@@ -1551,7 +1593,6 @@ Kristalina Giorgieva	1
 Rupav	1
 Nobel	1
 Joseph	1
-the Ministry of External Affairs	1
 Marcos	1
 Kottayam	1
 Conte	1
@@ -1575,7 +1616,6 @@ Samuel Alito	1
 Brett Kavanaugh	1
 the U.S. Food and Drug Administration	1
 Vatican	1
-New Zealand	1
 Jacinda Ardern	1
 the Peoples Republic of China	1
 The Russian Federation	1
@@ -1986,7 +2026,6 @@ Daraz.lk	1
 Dammika Nanayakkara & Mrs Yvette Fernando	1
 Rs.355.00/Rs.365.00 per USD	1
 Ministry of External Affairs of India Joint	1
-Kartik Pande	1
 Ministry of Foreign Affairs of Sri Lanka Additional	1
 South Asia B. Kandeepan	1
 South Asia W. Dharmapala	1
@@ -2305,7 +2344,6 @@ Ja-ela	1
 Pacific Islands	1
 the Bretton Woods	1
 Reliance	1
-Pacific	1
 the UN Drug Control Programme	1
 the Securities and Exchange Commission	1
 Esmond Wickremesinghe	1
@@ -2761,7 +2799,6 @@ Chandra Wickremasinghe	1
 Core	1
 Quad countries(Australia	1
 Body	1
-Quad	1
 International Humanitarian Laws	1
 Tamil Guardian	1
 the UN Human Rights	1
@@ -2950,7 +2987,6 @@ the Daily News	1
 People’s Participation in Government	1
 Kumar Gunaratnam	1
 The Impending Catastrophe & How to	1
-Colombia	1
 Gustavo Petro	1
 Trumpian	1
 JVP-NPP	1
