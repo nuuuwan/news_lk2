@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 00:38:35 (LK time)*
+*As of 2022-06-27 00:47:06 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -16,7 +16,7 @@
 
 * **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
@@ -25,8 +25,6 @@
 * **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
 * **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
-
-* **1** lankadeepa-lk ([කැලණියේදී වෙඩි තැබීමක්:අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe28f1bc.json))
 
 ## Last 24 Hours (261 Articles)
 
@@ -50,9 +48,9 @@
 
 * **1** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
-## Last Week (1,782 Articles)
+## Last Week (1,779 Articles)
 
-* **374** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe88041.json))
+* **371** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e0df746.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 

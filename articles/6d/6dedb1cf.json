@@ -452,7 +452,7 @@
         ],
         [
           {
-            "text": "5 \u0da7 \u0db4\u0db8\u0dab",
+            "text": "5 AM \u0db4\u0db8\u0dab",
             "label": "TIME"
           },
           {
@@ -1019,7 +1019,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0baa\u0bc7\u0bb8\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0bae\u0bc6\u0b9a\u0b9e\u0bcd\u0b9a\u0bb0\u0bcd",
+            "text": "Facebook Messenger",
             "label": "PERSON"
           }
         ],
