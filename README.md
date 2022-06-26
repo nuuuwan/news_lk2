@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 00:47:06 (LK time)*
+*As of 2022-06-27 00:58:18 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (2 Articles)
-
-* **1** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
-
-* **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
 ## Last Hour (2 Articles)
 
