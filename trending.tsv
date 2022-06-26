@@ -1,12 +1,12 @@
 ent_group	n
-Sri Lanka	1348
-India	230
-US	192
+Sri Lanka	1351
+India	231
+US	194
 Parliament	133
 Australia	111
 IMF	98
 Gotabaya Rajapaksa	90
-the International Monetary Fund	77
+the International Monetary Fund	78
 Russia	74
 Ranil Wickremesinghe	72
 the Central Bank	70
@@ -19,13 +19,13 @@ Cabinet	48
 Constitution	48
 Tamil	46
 German	45
-State	43
+State	44
 Ukraine	43
 Aragalaya	43
 the United States	43
+Treasury	42
 Viswanathan	41
 Jaffna	40
-Treasury	40
 European	36
 U.S.	35
 CSE	33
@@ -36,7 +36,7 @@ the Ceylon Petroleum Corporation	31
 UN	30
 UNDP	30
 Johnston Fernando	29
-Asia	28
+Asia	29
 The Bribery Commission	28
 Japan	27
 Kumara Welgama	27
@@ -55,10 +55,12 @@ SriLankan Airlines	21
 Hambantota	20
 Chinese	20
 Romania	20
+Kelly Keiderling	20
 Dhammika Perera	19
 the Monetary Board	19
+American	19
 the United Nations	19
-Kelly Keiderling	19
+Robert Kaproth	19
 Colombo/Jun24/2022	19
 Perera	18
 Navy	18
@@ -66,8 +68,6 @@ Mullaitivu	18
 Ramamurthy	18
 Mahinda Rajapaksa	18
 Dudley Sirisena	18
-American	18
-Robert Kaproth	18
 Nandalal Weerasinghe	17
 Order	17
 the Ministry of Education	17
@@ -77,6 +77,7 @@ UK	16
 SL	16
 Bulgaria	16
 SriLankan Cares	16
+the US State Department	16
 the Supreme Court	16
 the European Union	16
 Korean	16
@@ -92,7 +93,6 @@ Karunaratne	15
 SLTB	15
 Estonia	15
 ISB	15
-the US State Department	15
 Army	14
 Diesel	14
 SJB	14
@@ -137,8 +137,10 @@ Morocco	11
 Gulf	11
 French	11
 the Government of Sri Lanka	11
+the US Treasury Department	11
 the Department of Foreign Exchange	11
 the U.S. Embassy	11
+Daily Mirror	11
 Latin America	11
 Kandy	10
 Petrol	10
@@ -160,11 +162,9 @@ Madushan	10
 TKR	10
 Arab	10
 US Treasury	10
-the US Treasury Department	10
 Johnston	10
 Hatton-Colombo	10
 MA Sumanthiran	10
-Daily Mirror	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Fernando	9
@@ -196,6 +196,7 @@ Colombo National Hospital	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
 IOC	8
+Chaturanga Samarawickrama	8
 Maskeliya	8
 Fort	8
 NATO	8
@@ -232,7 +233,6 @@ Lanka	8
 Rathindu Senaratne	8
 Board	7
 Magammana	7
-Chaturanga Samarawickrama	7
 TNA	7
 RBIO	7
 Hitler	7
@@ -431,6 +431,8 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the Indian High Commission	5
 Power and Energy	5
+Sampath	4
+the Dehiwala Zoo	4
 the National People's Force	4
 the Matara Pradeshiya Sabha	4
 the Katunayake International Airport	4
@@ -553,11 +555,15 @@ Amarasekera	4
 LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
+the All Ceylon Restaurant Owners' Association	4
 Archbishop of Colombo	4
 the US Treasury	3
 the Nuwara Eliya Police Division	3
 Customs	3
+Mahinda Amaraweera	3
+State for Central and South Asian Affairs	3
 the Jaffna Teaching Hospital	3
+Rs.100	3
 Leader	3
 Kaushalya Kumari	3
 Auto Diesel	3
@@ -610,7 +616,6 @@ Indian External Affairs	3
 Referendum	3
 the Commonwealth Heads of Government Meeting	3
 Indian	3
-Sampath	3
 Sampath Bank	3
 ComBank	3
 Board Paper	3
@@ -676,6 +681,7 @@ the Ports Authority	3
 the Eastern Terminal	3
 Kahathuduwa	3
 Subramaniam Satyavani	3
+Lalith Dharmasekera	3
 the Homagama Base Hospital	3
 North Western	3
 Western Sahara	3
@@ -743,6 +749,10 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Samarawickrema	2
+Asela Sampath	2
+Air Marshal	2
+kottu	2
 the Nuwara Eliya Police	2
 Seneviratne	2
 Hawala	2
@@ -757,13 +767,12 @@ the Puttalam Labor Office	2
 the Salt Company	2
 CCTV	2
 Darshana Sanjeewa Balasuriya	2
-Rs.100	2
+Rs.80	2
 Dambulla	2
 Kahathuduwa Police	2
 the Borella Children's Hospital	2
 Asia Robert Cabrot	2
 the Met Department	2
-State for Central and South Asian Affairs	2
 the Sri Lankan Ministry of External Affairs	2
 the Special Guest Room	2
 the Bandaranaike International Airport	2
@@ -1182,11 +1191,11 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Gemunu Wijerathne	2
 the Railway Department	2
+Agriculture	2
 the Santipura Olympus Upper Estate	2
-Lalith Dharmasekara	2
 The All Ceylon Private Bus Owners' Association	2
-the All Ceylon Restaurant Owners’ Association	2
 Jaffna Magistrate's Court	2
 the Power and Energy Minister	2
 South India	2
@@ -1263,6 +1272,15 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+Gemunu	1
+LPBOA	1
+Wijerathne	1
+AICOA	1
+Kottu	1
+SLAF	1
+the Air Force	1
+the Sri Lanka Air Force War Heroes Monument	1
+SLAF Trade Training School Ekala	1
 Gamini Seneviratne	1
 The All Ceylon Filling Station Owners’ Association	1
 Hon	1
@@ -1279,6 +1297,7 @@ the Embilipitiya Hospital	1
 US Mercantilists	1
 Massor	1
 Dolekade	1
+Dehiwala	1
 The All Ceylon Auto Drivers' Association	1
 Lanka Super Diesel	1
 The Three Wheeler Owners' Association	1
@@ -1292,12 +1311,9 @@ Nicole Francis	1
 Jaffna Magistrate AA Anandarajah	1
 Anjana Priyanjith	1
 Lanka Private Bus Owners Association	1
-Gamunu Wijeratne	1
-Rs.80	1
 the Adani Group	1
 Mannar	1
 the Western Container Terminal	1
-kottu	1
 Paranthan-Poonakary	1
 the Jaffna District Conference of	1
 Paranthan	1
@@ -1532,7 +1548,6 @@ Several Australian High Commission	1
 Amanda Jewell	1
 Nishantha Ulugetenne	1
 Air Force	1
-Air Marshal	1
 Sudarshana Pathirana	1
 Sri Lanka Coast Guard Rear	1
 Anura Ekanayake	1
@@ -1719,7 +1734,6 @@ António Guterres	1
 United Nations Public Service Day	1
 Winkle Thera	1
 GA Colvin	1
-the All Ceylon Bakery Owners' Association	1
 the Upper Province	1
 the Supreme Court of Sri Lanka	1
 Opposition Samagi Jana Balavegaya’s	1
@@ -2019,7 +2033,6 @@ Municipalities	1
 the Inland Revenue Services	1
 Inland	1
 the Matara Divisional Crime Investigation Division	1
-Agricultural	1
 Elakanda - Hendala	1
 Aluwatta	1
 Batticaloa, Colombo 15	1
@@ -2395,7 +2408,6 @@ Bank of India	1
 the Yala Season	1
 Butt Cummins	1
 Agri Ministry	1
-Mahinda Amaraweera	1
 the Agrarian Centers	1
 Agrarian Services Department	1
 Vasudeva	1
