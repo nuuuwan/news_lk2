@@ -1,8 +1,8 @@
 ent_group	n
-Sri Lanka	1312
+Sri Lanka	1316
 India	212
-US	184
-Parliament	131
+US	188
+Parliament	132
 Australia	111
 IMF	98
 Gotabaya Rajapaksa	87
@@ -19,25 +19,25 @@ Constitution	47
 Tamil	45
 German	45
 Cabinet	44
+State	43
 Ukraine	43
 Aragalaya	43
 the United States	43
-State	42
 Viswanathan	41
 Treasury	38
+Jaffna	36
 European	36
-Jaffna	35
 U.S.	35
 CSE	33
 EU	32
-the Central Bank of Sri Lanka	31
+the Central Bank of Sri Lanka	32
 UN	30
 UNDP	30
 Johnston Fernando	29
+Asia	28
 The Bribery Commission	28
 Japan	27
 Kumara Welgama	27
-Asia	27
 the Ceylon Petroleum Corporation	27
 CPC	26
 CID	26
@@ -52,12 +52,13 @@ Wickremesinghe	23
 Welgama	22
 Singapore	22
 SriLankan Airlines	21
+Hambantota	20
 Chinese	20
 Romania	20
-Hambantota	19
 Dhammika Perera	19
 the Monetary Board	19
 the United Nations	19
+Kelly Keiderling	19
 Colombo/Jun24/2022	19
 Perera	18
 Navy	18
@@ -66,11 +67,10 @@ Ramamurthy	18
 Mahinda Rajapaksa	18
 Dudley Sirisena	18
 American	18
-Kelly Keiderling	18
+Robert Kaproth	18
 Nandalal Weerasinghe	17
 Order	17
 the Ministry of Education	17
-Robert Kaproth	17
 UK	16
 SL	16
 Bulgaria	16
@@ -80,6 +80,8 @@ the European Union	16
 Kanchana Wijesekera	16
 Korean	16
 the U.S. Department of State	16
+Galle	15
+Matara	15
 Joe Biden	15
 British	15
 the Sri Lanka People's Front	15
@@ -88,8 +90,6 @@ Karunaratne	15
 Estonia	15
 ISB	15
 Harin Fernando	15
-Galle	14
-Matara	14
 Army	14
 SJB	14
 London	14
@@ -100,11 +100,11 @@ Central Asia	14
 the World Bank	14
 SLTB	14
 Jehan Appuhamy	14
+the US State Department	14
 Jagath Manuwarna	14
 Spain	13
 USA	13
 Nepal	13
-the US State Department	13
 Basil Rajapaksa	13
 the Sri Lanka Transport Board	13
 Julie Chung	13
@@ -139,6 +139,7 @@ the Department of Foreign Exchange	11
 Nimal Siripala de Silva	11
 the U.S. Embassy	11
 Latin America	11
+Kandy	10
 Ranil	10
 Spanish	10
 COVID-19	10
@@ -156,11 +157,12 @@ Madushan	10
 TKR	10
 Arab	10
 US Treasury	10
+the US Treasury Department	10
 Johnston	10
 Hatton-Colombo	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
-Kandy	9
+Trincomalee	9
 Biden	9
 Britain	9
 RW	9
@@ -173,7 +175,7 @@ CRA	9
 the Foreign Exchange Act	9
 Luminex	9
 Hong Kong	9
-the US Treasury Department	9
+Anura Kumara Dissanayake	9
 the Presidential Secretariat	9
 South Asia	9
 European Ambassadors	9
@@ -186,7 +188,6 @@ the Ministry of Public Administration	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
-Trincomalee	8
 Petrol	8
 Maskeliya	8
 Fort	8
@@ -254,15 +255,19 @@ the Board of Directors	7
 the Western Province	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
-Anura Kumara Dissanayake	7
 the United People's Power	7
 the R. Premadasa Stadium	7
+Colombo National Hospital	7
 Nanayakkara	7
 Galle Face Green	7
 Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
+Magammana	6
+Homagama	6
+Western	6
+the Katunayake Airport	6
 & CPC	6
 TNA	6
 Vasudeva Nanayakkara	6
@@ -313,7 +318,6 @@ Cuba	6
 Buddhist	6
 Jayanath Colombage	6
 Green	6
-Colombo National Hospital	6
 The Colombo High Court	6
 John Greenwood	6
 Wijesekara	6
@@ -331,9 +335,7 @@ Kankesanthurai	6
 Hamilton Reserve Bank Ltd.	6
 African	6
 Article 83 of the Constitution	6
-Western	5
 Super Diesel	5
-the Katunayake Airport	5
 Colombo	5
 Northern	5
 IOC	5
@@ -341,6 +343,7 @@ Melilla	5
 Podujana Peramuna	5
 Ceylon	5
 World Bank	5
+UPFA	5
 Netherlands	5
 FSP	5
 Convention	5
@@ -402,12 +405,15 @@ North Macedonia	5
 the Ministry of Agriculture	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+Nuwara-Eliya	5
+Lanka Sama Samaja Party	5
 Government	5
 the Ministry of Health	5
 the University of Colombo	5
 Middle Eastern	5
 Masahiro Nozaki	5
 GL Peiris	5
+the Monetary Board of the Central Bank of Sri Lanka	5
 the Ministry of Foreign Affairs	5
 Christian	5
 Mano Ganesan	5
@@ -416,11 +422,10 @@ SLT-Mobitel AkazaLMS	5
 the Fort Magistrate's Court	5
 the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
-the Lanka Sama Samaja Party	5
 the Indian High Commission	5
 Power and Energy	5
-Magammana	4
-Homagama	4
+the National People's Force	4
+the Katunayake International Airport	4
 Ada Derana	4
 the White House Oval Office	4
 Moroccan	4
@@ -430,7 +435,6 @@ Harantota	4
 Justice	4
 Royal Ceramics	4
 Philippines	4
-UPFA	4
 Specialist	4
 Brzezinski	4
 Keynes	4
@@ -511,7 +515,7 @@ Sher Bahadur	4
 MCC	4
 Tibetan	4
 Prema	4
-Nuwara-Eliya	4
+Pivithuru Hela Urumaya	4
 Washington	4
 the League of Nations	4
 Gota Go Home	4
@@ -519,7 +523,6 @@ the Galle International Stadium	4
 the Prime Minister's Office	4
 The National Water Supply and Drainage Board	4
 Peter Breuer	4
-the Monetary Board of the Central Bank of Sri Lanka	4
 Bill	4
 Aruni Wijewardane	4
 KMM Siriwardena	4
@@ -531,6 +534,7 @@ Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
 the Matara General Hospital	4
+the Sabaragamuwa Province	4
 the Wellawaya Hospital	4
 CBSL	4
 The Office of the Missing Persons	4
@@ -542,8 +546,8 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Leader	3
 Auto Diesel	3
-the Katunayake International Airport	3
 the United States Mahinda Samarasinghe	3
 North African	3
 Rabat	3
@@ -553,6 +557,8 @@ Wellampitiya, Colombo	3
 the Navinna Holiday Resort	3
 H. Ravindra 37	3
 Dubai	3
+Sama Party	3
+Left Front	3
 CrudeOil Shipments	3
 Mississippi	3
 WWII	3
@@ -656,10 +662,11 @@ the Ceylon Chamber	3
 NC	3
 Ceylonese	3
 Grandpa	3
-Sabaragamuwa province	3
+the Homagama Base Hospital	3
+North Western	3
+Department	3
 Western Sahara	3
 Article	3
-Pivithuru Hela Urumaya	3
 Western Europe	3
 Defence	3
 Shavendra Silva	3
@@ -722,10 +729,16 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Kahathuduwa Police	2
+the Borella Children's Hospital	2
 the Matara Pradeshiya Sabha	2
 Kaushalya Kumari	2
 the US Treasury	2
 Asia Robert Cabrot	2
+the Met Department	2
+State for Central and South Asian Affairs	2
+the Sri Lankan Ministry of External Affairs	2
+the Special Guest Room	2
 the Bandaranaike International Airport	2
 Katunayake	2
 Central	2
@@ -733,7 +746,6 @@ North-Central	2
 Galle via Colombo	2
 the Left Democratic Front	2
 Melkum Ranjith	2
-the National People's Force	2
 the Center for Policy Alternatives	2
 Bandaranaike	2
 Emphasis	2
@@ -742,8 +754,6 @@ Hatton-Maskeliya	2
 Hatton Nortonbridge	2
 Customs	2
 Gazette	2
-Sama Party	2
-Left Front	2
 Govt	2
 Congress	2
 the White House	2
@@ -1126,7 +1136,6 @@ Moody’s	2
 Beliatta	2
 Mangalore	2
 the United People's Freedom Alliance	2
-Leader	2
 Jana Balawegaya	2
 the Anura Jana Balamukha	2
 the Jathika Nidahas Peramuna	2
@@ -1146,9 +1155,6 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
-the Homagama Base Hospital	2
-North Western	2
-Department	2
 the National People's Power Conference	2
 Board of Investment	2
 the Sri Lankan People's Alliance	2
@@ -1223,13 +1229,11 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
-Kahathuduwa Police	1
-the Borella Children's Hospital	1
-the Met Department	1
+Paranthan-Poonakary	1
+the Jaffna District Conference of	1
+Paranthan	1
+Poonakary	1
 Rs.100	1
-State for Central and South Asian Affairs	1
-the Sri Lankan Ministry of External Affairs	1
-the Special Guest Room	1
 the U.S. Department of the Treasury	1
 int’l	1
 Petrol Octane	1
@@ -1597,6 +1601,7 @@ Oslo	1
 the Galle Face Presidential Secretariat	1
 Gazi	1
 the Communist Party of Sri Lanka	1
+the Lanka Sama Samaja Party	1
 the People's Front	1
 Edul Fort	1
 Purakkottai	1
