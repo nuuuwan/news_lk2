@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1572
+Sri Lanka	1585
 India	313
 US	222
 Australia	171
@@ -9,15 +9,15 @@ IMF	103
 Gotabhaya Rajapaksa	103
 International Monetary Fund	90
 China	89
-Central Bank	86
-Ranil Wickremesinghe	81
+Central Bank	87
+Ranil Wickremesinghe	83
 21st Amendment	69
-Rajapaksas	68
+Rajapaksas	69
 Tamil	66
 Ukraine	59
 Constitution	59
+Cabinet	56
 Jaffna	56
-Cabinet	55
 CPC	52
 German	52
 Messi	50
@@ -31,15 +31,16 @@ Viswanathan	41
 European	41
 Buddhist	40
 U.S.	38
+Central Bank of Sri Lanka	35
 Japan	34
-Central Bank of Sri Lanka	34
 Ministry of Education	34
+Mullaitivu	33
 EU	33
 CSE	33
 Kanchana Wijesekera	33
-Mullaitivu	32
 UNDP	32
 UN	31
+Wickremesinghe	31
 Argentina	29
 Johnston Fernando	29
 Asia	29
@@ -57,40 +58,40 @@ France	24
 Chinese	24
 SPP	24
 SriLankan Airlines	24
-Wickremesinghe	23
 Nimal Siripala de Silva	23
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
 Welgama	22
 Singapore	22
+Dhammika Perera	22
 US State Department	22
 World Bank	21
 Magammana	21
 Mahinda Rajapaksa	21
 Monetary Board	20
 United Nations	20
-Dhammika Perera	20
 ISB	20
 Romania	20
+South Asia	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
+Perera	19
 USA	19
 Tunisia	19
 American	19
 Colombia	19
 Robert Kaproth	19
+Army	18
 Nandalal Weerasinghe	18
-Perera	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
+Supreme Court	18
 Dudley Sirisena	18
-South Asia	18
 Wijayadasa Rajapaksa	18
 UK	17
 British	17
 Galle	17
-Army	17
 Homagama	17
 Order	17
 Northern Province	17
@@ -103,7 +104,6 @@ SL	16
 Bulgaria	16
 Sri Lanka People's Front	16
 SriLankan Cares	16
-Supreme Court	16
 European Union	16
 Korean	16
 Harin Fernando	16
@@ -116,6 +116,7 @@ Karunaratne	15
 Ports	15
 Central Asia	15
 Estonia	15
+Basil Rajapaksa	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
 Shane	14
@@ -136,7 +137,6 @@ Spain	13
 Nepal	13
 US Treasury	13
 National Authority on Tobacco and Alcohol	13
-Basil Rajapaksa	13
 Kahathuduwa	13
 Colombo Fort	13
 Ministry of Public Administration	13
@@ -227,6 +227,7 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
+Galle Face Green	9
 Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
@@ -242,9 +243,11 @@ Nuwara Eliya	9
 Homagama Base Hospital	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
+Africa	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
+Colombo	8
 G7	8
 Board	8
 LTTE	8
@@ -282,7 +285,6 @@ Wijeratne	8
 Lanka Sama Samaja Party	8
 United People's Power	8
 Colombo Stock Exchange	8
-Galle Face Green	8
 Eric Lavertu	8
 World Cup	8
 Sarath Weerasekara	8
@@ -295,11 +297,11 @@ Easter	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
+United National Party	7
 Bank	7
 Western	7
 Indonesia	7
 Kurunegala	7
-Colombo	7
 Taiwan	7
 Palitha	7
 Brazil	7
@@ -336,11 +338,11 @@ Mitchell Marsh	7
 Mano Ganesan	7
 R. Premadasa Stadium	7
 Nanayakkara	7
-African	7
 National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 Harsha De Silva	7
+Maithripala Sirisena	6
 New York Federal Court	6
 Mendis	6
 Corona	6
@@ -422,6 +424,7 @@ The Criminal Investigations Department	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
+Senegal	5
 Grandpa	5
 CEB	5
 Kelaniya	5
@@ -436,7 +439,6 @@ Ministry	5
 Godakawela	5
 Navinna Holiday Resort	5
 Lotus Tower	5
-United National Party	5
 Janaka Ratnayake	5
 Kuwait	5
 Jaffna Teaching Hospital	5
@@ -456,7 +458,6 @@ an Authorized Dealer	5
 dfe@cbsl.lk	5
 United Kingdom	5
 Lazard	5
-Maithripala Sirisena	5
 Lanka	5
 Wintermoon Geophysics	5
 SAGAR	5
@@ -673,6 +674,7 @@ Sri Lankan Government	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Bench	3
 Ghana	3
 Reuters	3
 Moscow	3
@@ -866,6 +868,7 @@ Agriculture	3
 Nuwara Eliya District Hospital	3
 North Western	3
 Western Sahara	3
+Center for Policy Alternatives	3
 Article	3
 Western Europe	3
 section 14	3
@@ -917,7 +920,6 @@ RD	2
 Fitch Ratings	2
 Group of Seven	2
 Putin	2
-Senegal	2
 Veyangoda	2
 Svastika	2
 Kangaroos	2
@@ -1071,7 +1073,6 @@ Central	2
 North-Central	2
 Galle via Colombo	2
 Melkum Ranjith	2
-Center for Policy Alternatives	2
 Board of Investment	2
 Bandaranaike	2
 Emphasis	2
@@ -1193,7 +1194,6 @@ Kalutara	2
 Subramaniam Jaisankar	2
 Commonwealth Summit	2
 Constitutional Council	2
-Bench	2
 CHOGM	2
 Beijing	2
 Ministry of Ports	2
@@ -1441,6 +1441,7 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Indrajit Coomaraswamy	2
 Bank of Ceylon	2
 Organization of Petroleum Exporting Countries	2
 Yahapalanaya	2
@@ -1517,6 +1518,20 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Chathura	1
+Mahiyangana	1
+Moratuwa University	1
+Senegalese	1
+Start	1
+Digital Senegal	1
+West Africa	1
+Kaleidoscope Ltd.	1
+Charles Atlas	1
+Kumaratunga	1
+Main Story	1
+Investment Promotion Ministry	1
+Pakiasothy Saravanamutthu	1
+Newsline Live TV1	1
 St. Kitts and Nevis	1
 British Commonwealth	1
 Caribbean	1
@@ -3040,7 +3055,6 @@ Gadhafi	1
 Sirimavo’s Leftist Coalition Government	1
 Mahmud	1
 aadi karakkanum	1
-Indrajith Coomaraswamy	1
 People’s Movement for Reforms	1
 Biodiesel	1
 kasippu	1
