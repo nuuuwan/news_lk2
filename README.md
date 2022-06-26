@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 20:00:56 (LK time)*
+*As of 2022-06-26 20:10:01 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,23 +10,21 @@
 
 * **1** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
 
-## Last Hour (5 Articles)
-
-* **2** tamil-mirror-lk ([அவுஸ்திரேலியா செல்ல  முயன்ற 399 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd64bfb8.json))
+## Last Hour (3 Articles)
 
 * **1** lankadeepa-lk ([පානදුර  සිව්මහල් ගොඩනැගිල්ලක ගින්නක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13df5e6d.json))
 
+* **1** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
+
 * **1** virakesari-lk ([70 சதவீத எரிபொருள் நிரப்பு நிலையங்களை மூட நடவடிக்கை - எரிபொருள் நிரப்பும் நிலைய உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/379f9248.json))
 
-* **1** economy-next-com ([Sri Lanka bus operators want tariff hike to account for central bank actions](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1daa224.json))
-
-## Last 3 Hours (43 Articles)
+## Last 3 Hours (39 Articles)
 
 * **18** virakesari-lk ([ஹோமாகமயில் தீ விபத்து : தாய், தந்தை உயிரிழப்பு - பிள்ளைகள் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40ad7707.json))
 
-* **11** lankadeepa-lk ([‘‘නැ‘හිර පර්යන්තයේ වැඩ කඩිනම් කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11c8e6a0.json))
+* **9** lankadeepa-lk ([ස්කැවේටර් රියදුරාගේ සිරුර වැසිකිලිවළක](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/228da02a.json))
 
-* **9** tamil-mirror-lk ([துப்பாக்கிச் சூட்டில் பூக்கடை உரிமையாளர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafb64db.json))
+* **7** tamil-mirror-lk ([’’கிழக்கு முனையத்தில் பணிகளை விரைவுபடுத்துங்கள்’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a76693.json))
 
 * **2** ada-derana-lk ([Drunk police constable rides motorcycle on expressway, causes accident](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5af8e2e1.json))
 
