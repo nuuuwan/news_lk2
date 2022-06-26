@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/American-Ambassador-meets-with-American-Alumni-Association/34-736725",
+    "time_ut": 1656274722,
+    "original_lang": "en",
+    "original_title": "American Ambassador meets with American Alumni Association",
+    "file_name": "/tmp/news_lk2/articles/bb/bb440470.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Unleash-economic-value-in-Sri-Lanka/4-736709",
     "time_ut": 1656272399,
     "original_lang": "en",
@@ -790,13 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 2\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b93\u0b9f\u0bbe\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/53/534b31b8.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-2-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b93\u0b9f\u0bbe\u0ba4\u0bc1/76-299238",
-    "time_ut": 1656239587,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 2 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b93\u0b9f\u0bbe\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/47/47ef4155.json"
   }
 ]
