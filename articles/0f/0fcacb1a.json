@@ -9,7 +9,7 @@
       "title": "Ferdinando Cobb's report to the media will be released tomorrow - Professor Charita Herath",
       "author": "Vishnu",
       "body_lines": [
-        "There is no need to hide the issues mentioned in the Cope group. Former Chairman of the Ceylon Electricity Board MA Ferdinando will be the second member of the Cope Group to present a video on specific issues to the media on Monday (27), said Cope Group Chairman Prof. Charitha Herath.",
+        "There is no need to hide the issues mentioned in the Cope group. Former Chairman of the Ceylon Electricity Board MA Ferdinando will make his second appearance for the Cope Group.",
         "MA Ferdinando, former chairman of the Ceylon Electricity Board, appeared before the COPE committee for the second time.",
         "Top officials of the Ceylon Electricity Board (CEB), including former Chairman of the Ceylon Electricity Board (CEB) Ferdinando, were present at the COPE meeting on the 10th.",
         "On this occasion, President Gotabhaya Rajapaksa told the COPE that Indian Prime Minister Narendra Modi was pressuring former Adani Chairman of the Ceylon Electricity Board MA Ferdinando to give Adani of India the opportunity to generate power in the Mannar district.",
@@ -18,7 +18,7 @@
         "The COPE Committee has decided to take the oath of office in connection with the testimony to be presented to the COPE Committee.",
         "This is Ferdinando's second time in the Cope group. Opposition leader Sajid Premadasa had expressed his displeasure over the issue.",
         "Opposition leader Sajid Premadasa has no formal contact with the Cope group on issues being discussed.",
-        "Doon will never hide the issues raised by the Cope Group, of which he is the chairman."
+        "Doon is never going to cover up the issues raised by the Cope Group, of which he is the chairman."
       ],
       "title_ents": [
         {
@@ -51,22 +51,6 @@
           {
             "text": "the Cope Group",
             "label": "ORG"
-          },
-          {
-            "text": "Monday",
-            "label": "DATE"
-          },
-          {
-            "text": "27",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "Cope Group",
-            "label": "ORG"
-          },
-          {
-            "text": "Charitha Herath",
-            "label": "PERSON"
           }
         ],
         [
@@ -219,10 +203,6 @@
         ],
         [
           {
-            "text": "Doon",
-            "label": "ORG"
-          },
-          {
             "text": "the Cope Group",
             "label": "ORG"
           }
@@ -275,22 +255,6 @@
           {
             "text": "\u0d9a\u0ddd\u0db4\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8",
             "label": "ORG"
-          },
-          {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "27",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0d9a\u0ddd\u0db4\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0da0\u0dbb\u0dd2\u0dad \u0dc4\u0dda\u0dbb\u0dad\u0dca",
-            "label": "PERSON"
           }
         ],
         [
@@ -443,10 +407,6 @@
         ],
         [
           {
-            "text": "\u0da9\u0dd6\u0db1\u0dca",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d9a\u0ddd\u0db4\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8",
             "label": "ORG"
           }
@@ -499,22 +459,6 @@
           {
             "text": "\u0b95\u0bcb\u0baa\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
             "label": "ORG"
-          },
-          {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
-          },
-          {
-            "text": "27",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0b95\u0bcb\u0baa\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b9a\u0bb0\u0bbf\u0ba4 \u0bb9\u0bc7\u0bb0\u0ba4\u0bcd",
-            "label": "PERSON"
           }
         ],
         [
@@ -666,10 +610,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b9f\u0bc2\u0ba9\u0bcd",
-            "label": "ORG"
-          },
           {
             "text": "\u0b95\u0bcb\u0baa\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
             "label": "ORG"

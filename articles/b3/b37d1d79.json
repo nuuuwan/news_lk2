@@ -18,7 +18,7 @@
         "Speaking at a press conference in Jaffna, the Minister of Justice said, \"After approving the 21st Amendment to the Constitution, we must take steps to ratify the new constitution and pass it in a manner that will lead to national unity and safeguard the rule of law to establish democracy.\" He also pointed out.",
         "The Minister of Justice said that as he embarked on the Jaffna tour, unity and brotherhood among all races should be promoted and equality should be achieved in services including public services.",
         "Northern Province by the Office on Missing Persons, the Compensation Office and the Office for National Unity and Reconciliation. The Minister said that some welfare programs have been organized for the people of Jaffna District and the purpose of this tour is to further enhance the services rendered to the people of Jaffna through that office.",
-        "The Office of National Unity and Reconciliation has been established in the post-war environment of the country to foster inter-ethnic friendship, unity and reconciliation. The Compensation Office and the Office on Missing Persons have been set up to carry out welfare activities for the families of war missing persons, pay compensation to them and take appropriate action on war-damaged property."
+        "The Office of National Unity and Reconciliation has been established in the post-war environment of the country to foster inter-ethnic friendship, unity and reconciliation. The Office of Compensation and the Office of Missing Persons have been established to carry out welfare activities for the families of people who have gone missing due to war, to provide compensation to them and to take appropriate action in relation to properties damaged by war."
       ],
       "title_ents": [
         {
@@ -142,11 +142,7 @@
             "label": "ORG"
           },
           {
-            "text": "The Compensation Office",
-            "label": "ORG"
-          },
-          {
-            "text": "the Office on Missing Persons",
+            "text": "The Office of Compensation and the Office of Missing Persons",
             "label": "ORG"
           }
         ]
@@ -289,11 +285,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc0\u0db1\u0dca\u0daf\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dc4\u0db1\u0dca \u0dc0\u0dd6\u0dc0\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "text": "\u0dc0\u0db1\u0dca\u0daf\u0dd2 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc3\u0dc4 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dc4\u0db1\u0dca \u0dc0\u0dd6\u0dc0\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           }
         ]
@@ -320,7 +312,7 @@
           "label": "ORG"
         },
         {
-          "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+          "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
           "label": "PERSON"
         },
         {
@@ -331,7 +323,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
           {
@@ -341,7 +333,7 @@
         ],
         [
           {
-            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
           {
@@ -436,11 +428,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcb\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+            "text": "\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcb\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
             "label": "ORG"
           }
         ]
