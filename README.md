@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 01:38:46 (LK time)*
+*As of 2022-06-27 01:47:20 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-ft-lk ([Unleash economic value in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80ef5ab.json))
 
 ## Last Hour (3 Articles)
 
