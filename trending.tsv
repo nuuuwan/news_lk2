@@ -1,13 +1,13 @@
 ent_group	n
-Sri Lanka	1322
-India	221
+Sri Lanka	1335
+India	229
 US	188
 Parliament	132
 Australia	111
 IMF	98
 Gotabaya Rajapaksa	90
 the International Monetary Fund	77
-Russia	73
+Russia	74
 Ranil Wickremesinghe	71
 the Central Bank	69
 the 21st Amendment	63
@@ -24,7 +24,7 @@ Ukraine	43
 Aragalaya	43
 the United States	43
 Viswanathan	41
-Jaffna	39
+Jaffna	40
 Treasury	38
 European	36
 U.S.	35
@@ -43,7 +43,7 @@ Kumara Welgama	27
 CID	26
 Argentina	26
 Japanese	25
-Tamil Nadu	24
+Tamil Nadu	25
 SPP	24
 Premadasa	24
 Puttalam	23
@@ -82,30 +82,31 @@ Korean	16
 the U.S. Department of State	16
 Galle	15
 Matara	15
+London	15
 Joe Biden	15
 British	15
 the Sri Lanka People's Front	15
 Theekshana	15
 Karunaratne	15
+SLTB	15
 Estonia	15
 ISB	15
 Harin Fernando	15
 Army	14
 Diesel	14
 SJB	14
-London	14
 CHS	14
 Cooray	14
 Athukorala	14
 Central Asia	14
 the World Bank	14
-SLTB	14
 Jehan Appuhamy	14
 the US State Department	14
 Jagath Manuwarna	14
 Spain	13
 USA	13
 Nepal	13
+the Northern Province	13
 Basil Rajapaksa	13
 the Sri Lanka Transport Board	13
 Julie Chung	13
@@ -121,7 +122,6 @@ MSV	12
 FE	12
 NL	12
 Sajith Premadasa	12
-the Northern Province	12
 the Soviet Union	12
 Bangladesh	12
 Section 8 of	12
@@ -142,6 +142,7 @@ Latin America	11
 Kandy	10
 Petrol	10
 Ranil	10
+COVID	10
 Spanish	10
 COVID-19	10
 Galle Face	10
@@ -166,6 +167,7 @@ Daily Mirror	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Trincomalee	9
+WHO	9
 Biden	9
 Britain	9
 RW	9
@@ -211,7 +213,6 @@ Commercial Bank	8
 Anura Dissanayake	8
 Mickey	8
 Expolanka	8
-WHO	8
 Moldova	8
 M.S.	8
 Nasheed	8
@@ -221,12 +222,14 @@ Eric Lavertu	8
 Gotabhaya	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
+the Ministry of Health	8
 Eurasia	8
 Easter	8
 Lanka	8
 Colombo National Hospital	8
 Rathindu Senaratne	8
 IOC	7
+Board	7
 Magammana	7
 Chaturanga Samarawickrama	7
 TNA	7
@@ -268,7 +271,6 @@ Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
-Board	6
 the Dambulla Economic Center	6
 Homagama	6
 Western	6
@@ -409,9 +411,9 @@ North Macedonia	5
 the Ministry of Agriculture	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
+the Matara General Hospital	5
 Nuwara-Eliya	5
 Government	5
-the Ministry of Health	5
 the University of Colombo	5
 Middle Eastern	5
 Masahiro Nozaki	5
@@ -428,6 +430,7 @@ Jude Shramantha Anthony Jayamaha	5
 the Indian High Commission	5
 Power and Energy	5
 the National People's Force	4
+the Matara Pradeshiya Sabha	4
 the Katunayake International Airport	4
 Ada Derana	4
 the White House Oval Office	4
@@ -513,7 +516,6 @@ Menem	4
 Alan Walters	4
 MT of Petrol 92	4
 Palitha	4
-COVID	4
 A-PAD SL	4
 Recommendations	4
 Maldivian	4
@@ -538,7 +540,6 @@ Sirimavo Bandaranaike	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
-the Matara General Hospital	4
 the Sabaragamuwa Province	4
 the Wellawaya Hospital	4
 CBSL	4
@@ -553,6 +554,7 @@ The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
 the Jaffna Teaching Hospital	3
 Leader	3
+Kaushalya Kumari	3
 Auto Diesel	3
 the United States Mahinda Samarasinghe	3
 North African	3
@@ -733,14 +735,22 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+the Nuwara Eliya Police Division	2
+the Nuwara Eliya Police Station Crime Prevention Unit	2
+Subramaniam Satyavani	2
+the Nuwara Eliya District Hospital	2
+Palaviya Salt Company	2
+Puttalam - The Palaviya Salt Company	2
+Puttalam Police	2
+Puttalam - Employees of the Palaviya Salt Company	2
+the Puttalam Labor Office	2
+the Salt Company	2
 CCTV	2
 Darshana Sanjeewa Balasuriya	2
 Rs.100	2
 Dambulla	2
 Kahathuduwa Police	2
 the Borella Children's Hospital	2
-the Matara Pradeshiya Sabha	2
-Kaushalya Kumari	2
 the US Treasury	2
 Asia Robert Cabrot	2
 the Met Department	2
@@ -1164,11 +1174,14 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+the Santipura Olympus Upper Estate	2
 Lalith Dharmasekara	2
+The All Ceylon Private Bus Owners' Association	2
 the All Ceylon Restaurant Owners’ Association	2
 Kahathuduwa	2
 Jaffna Magistrate's Court	2
 the Power and Energy Minister	2
+South India	2
 the National People's Power Conference	2
 Board of Investment	2
 the Sri Lankan People's Alliance	2
@@ -1242,21 +1255,9 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
-the Santipura Olympus Upper Estate	1
-the Nuwara Eliya Police Division	1
-the Nuwara Eliya Police Station Crime Prevention Unit	1
-Subramaniam Satyavani	1
-the Nuwara Eliya District Hospital	1
 Lanka Super Diesel	1
 The Three Wheeler Owners' Association	1
 Dharmasekara	1
-The All Ceylon Private Bus Owners' Association	1
-Palaviya Salt Company	1
-Puttalam - The Palaviya Salt Company	1
-Puttalam Police	1
-Puttalam - Employees of the Palaviya Salt Company	1
-the Puttalam Labor Office	1
-the Salt Company	1
 the Lady Ridgeway Hospital	1
 Mahatma Gandhi	1
 Clock Road	1
@@ -1264,6 +1265,9 @@ Chepamalai Koviladi	1
 The District Crime Prevention Police	1
 Nicole Francis	1
 Jaffna Magistrate AA Anandarajah	1
+Anjana Priyanjith	1
+Lanka Private Bus Owners Association	1
+Gamunu Wijeratne	1
 Rs.80	1
 the Adani Group	1
 Mannar	1
@@ -1281,6 +1285,13 @@ Ceypetco & LIOC	1
 CEYPETCO	1
 the Ceylon IOC	1
 CEYPETCO & Lanka IOC Fuel Prices Increased	1
+The Sri Lankan Ministry of Health	1
+the World Health Organization South East Asian Regional Office	1
+the Epidemiological Unit	1
+Economic Times	1
+Murali Vallipuranathan	1
+the Section of Epidemiology	1
+the King’s College	1
 Ragama	1
 Anurakumara	1
 Mavai Senathirajah	1
@@ -2988,7 +2999,6 @@ the Police and Army	1
 NPP	1
 Jathika Jana Balawegaya	1
 National People’s Power	1
-South Indian	1
 Peter Drucker	1
 Managing in Turbulent Times	1
 Anna Salter	1
