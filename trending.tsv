@@ -3,7 +3,7 @@ Sri Lanka	1509
 India	309
 US	217
 Australia	154
-Parliament	147
+Parliament	148
 Russia	103
 Gotabhaya Rajapaksa	100
 IMF	99
@@ -12,10 +12,10 @@ China	88
 Ranil Wickremesinghe	80
 Central Bank	76
 21st Amendment	69
+Rajapaksas	67
 Tamil	66
-Rajapaksas	66
 Constitution	58
-Jaffna	55
+Jaffna	56
 Cabinet	55
 Messi	50
 Opposition	49
@@ -28,8 +28,8 @@ German	45
 Ceylon Petroleum Corporation	44
 Aragalaya	43
 Viswanathan	41
+Buddhist	40
 European	39
-Buddhist	38
 U.S.	35
 CSE	33
 Ministry of Education	33
@@ -51,9 +51,9 @@ The Bribery Commission	27
 Japanese	26
 CID	26
 Argentina	26
+Matara	25
 Premadasa	25
 Chinese	24
-Matara	24
 SPP	24
 France	23
 SriLankan Airlines	23
@@ -66,6 +66,7 @@ Singapore	22
 US State Department	22
 Magammana	21
 Monetary Board	20
+Colombo National Hospital	20
 Dhammika Perera	20
 Romania	20
 Kelly Keiderling	20
@@ -81,7 +82,6 @@ Nandalal Weerasinghe	18
 Perera	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
-Colombo National Hospital	18
 Dudley Sirisena	18
 Wijayadasa Rajapaksa	18
 Army	17
@@ -99,10 +99,12 @@ Sri Lanka People's Front	16
 SriLankan Cares	16
 Supreme Court	16
 European Union	16
+Wijesekera	16
 Korean	16
 Harin Fernando	16
 Sinhala-Buddhist	16
 U.S. Department of State	16
+North	15
 Galle	15
 London	15
 Joe Biden	15
@@ -113,7 +115,6 @@ Ports	15
 Central Asia	15
 Estonia	15
 ISB	15
-Wijesekera	15
 Sajith Premadasa	15
 The Public Utilities Commission	15
 Sinhalese	14
@@ -126,7 +127,6 @@ Jehan Appuhamy	14
 Julie Chung	14
 Jagath Manuwarna	14
 Trincomalee	13
-North	13
 Kadawatha	13
 Hatton	13
 Spain	13
@@ -160,6 +160,7 @@ Latin America	12
 EU Ambassadors	12
 The Consumer Affairs Authority	12
 Shane Warne’s	12
+Justice	11
 Middeniya	11
 IOC	11
 Daily Mirror	11
@@ -173,7 +174,6 @@ Hatton-Colombo	11
 Home Affairs	10
 West	10
 Finance	10
-Justice	10
 Eastern Terminal of Colombo Port	10
 Ministry of Finance	10
 Kandy	10
@@ -199,6 +199,7 @@ MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Hamilton Reserve Bank	10
+East	9
 Panadura	9
 Vavuniya	9
 Ratnapura	9
@@ -233,11 +234,12 @@ Lahiru Weerasekera	9
 Eranga Gunasekera	9
 Sri Lankan Tamils ​​in	9
 Samagi Jana Balawega	9
+Office on Missing Persons	9
 Mannar Basin	9
+Sinhala	8
 Ceylon Electricity Board	8
 Islam	8
 CWC	8
-East	8
 Egypt	8
 Ports Authority	8
 National People's Force	8
@@ -282,7 +284,7 @@ Easter	8
 Lanka	8
 COPE Committee	8
 Rathindu Senaratne	8
-Office on Missing Persons	8
+LTTE	7
 Kurunegala	7
 Colombo	7
 Taiwan	7
@@ -321,6 +323,7 @@ Venezuela	7
 Manipay	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
+Mano Ganesan	7
 R. Premadasa Stadium	7
 Nanayakkara	7
 African	7
@@ -328,7 +331,6 @@ National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 Harsha De Silva	7
-Sinhala	6
 Corona	6
 Ceylon	6
 Maharagama Police	6
@@ -379,6 +381,7 @@ Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
 Coimbatore	6
+Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
 Indian High Commission	6
@@ -390,13 +393,13 @@ Green	6
 World Health Organization	6
 The Colombo High Court	6
 John Greenwood	6
-Mano Ganesan	6
 democratic	6
 Railway Department	6
 Eastern Terminal	6
 Puttalam Base Hospital	6
 Borella Children's Hospital	6
 Tamil National Alliance	6
+Lady Ridgeway Children's Hospital in Colombo	6
 Special Task Force	6
 Dilshan Weerasekera	6
 Gopal Baglay	6
@@ -410,6 +413,8 @@ The Criminal Investigations Department	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
+Tamil Progressive Alliance	5
+South	5
 Buddha	5
 Nigeria	5
 Ministry	5
@@ -472,7 +477,6 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
-Wijetasa Rajapaksa	5
 New Delhi	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
@@ -480,7 +484,6 @@ Cipetco	5
 Department	5
 Mark Meloch-Brown	5
 Roe	5
-Lady Ridgeway Children's Hospital in Colombo	5
 University of Colombo	5
 Cabinet Ministers	5
 Clifford Chance	5
@@ -503,7 +506,6 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
-LTTE	4
 FDI	4
 Ven	4
 Manhattan	4
@@ -571,10 +573,8 @@ Ajith Nivard Cabraal	4
 Cabraal	4
 Lands	4
 Health	4
-South	4
 BlackRock	4
 OCHA	4
-Tamil Progressive Alliance	4
 Sri Lanka Denis Chaibi	4
 Sri Lanka Trine Jøranli Eskedal	4
 Tanja Gonggrijp	4
@@ -636,6 +636,7 @@ World Cup	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+Saliya Peiris	4
 Gemunu Wijeratne	4
 Sri Lankan Navy	4
 Kottalawala Expressway	4
@@ -655,6 +656,8 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Kelaniya	3
+Mannar	3
 Siyambalanduwa	3
 National Transport Commission	3
 Vadivel Suresh	3
@@ -861,7 +864,6 @@ Vasantha Mudalike	3
 Kota Ko Gama'	3
 Asian Development Bank	3
 Colombo Fort Magistrate Thilina Gamage	3
-Saliya Pieris	3
 Darshana Kuruppu	3
 Buddhika Tillekeratne	3
 Lak Sathosa	3
@@ -886,6 +888,8 @@ The Department of Meteorology	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Pattiya Junction	2
+SSP Nihal Thalduwa	2
 Peliyagoda	2
 Galle Harbor	2
 Nimal Siripala	2
@@ -988,7 +992,6 @@ National Hospital	2
 Nanu Oya	2
 Jaffna District	2
 Ceylon Electricity Board MA Ferdinando	2
-Mannar	2
 Hunnasgiriya-Meemure	2
 Medamahanuwara	2
 Teldeniya	2
@@ -1410,6 +1413,9 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+Sri Lanka Bar Association	2
+Southern Sri Lanka	2
+democrats	2
 Lanka Private Bus Owner’s Association	2
 Indica de Silva	2
 Rameshwaran	2
@@ -1480,9 +1486,15 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
-Mother Lanka	2
-Kelaniya	1
-Pattiya Junction	1
+Veyangoda	1
+Mahesh Kadulantha	1
+Mano MP	1
+Office Bearer Mahesh	1
+Nimalka Fernando	1
+Independent Commission	1
+Resolution 30/1 of Human Rights Commission	1
+this Missing Persons Office Bill	1
+People's Monitoring Committee	1
 Hatton Court	1
 Central Committee of	1
 Association	1
@@ -1679,7 +1691,6 @@ Ferdinando Cobb's	1
 Adani of	1
 Udaya Kamanpila	1
 National Sumanthira Front	1
-SSP Nihal Thalduwa	1
 Intensive Care Unit	1
 Direcor Nihal Ludowyke	1
 AG Special Trial	1
@@ -1798,7 +1809,6 @@ The Supreme Court	1
 Roe v. Wade	1
 Republican	1
 John Roberts	1
-Democrats	1
 Clarence	1
 Samuel Alito	1
 U.S. Constitution	1
@@ -3298,7 +3308,6 @@ Wanindu	1
 Russell Arnold	1
 Maldives Retd	1
 Managing Partner Reyaz Mihular	1
-Sri Lanka Banks’ Association	1
 Kapila Ariyaratne - Pix	1
 Duminda Hulangamuwa	1
 Ernst & Young Head	1
@@ -3344,6 +3353,7 @@ SLRs	1
 Press, Police, Penal, Accountable	1
 BOP	1
 SME	1
+Mother Lanka	1
 Executive Committee	1
 George Patton	1
 Eran Wickramaratne	1
