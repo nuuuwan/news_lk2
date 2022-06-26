@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 03:59:36 (LK time)*
+*As of 2022-06-27 04:11:31 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (10 Articles)
 
-* **10** daily-ft-lk ([Sri Lanka struggles sans immediate solutions to dollar crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde5c64.json))
+* **8** daily-ft-lk ([American Ambassador meets with American Alumni Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb440470.json))
 
 * **2** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
 
