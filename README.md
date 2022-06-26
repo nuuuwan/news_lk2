@@ -1,20 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 23:03:48 (LK time)*
+*As of 2022-06-26 23:15:47 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last Hour (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
+
+## Last Hour (3 Articles)
+
+* **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
 * **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
 
-* **1** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
-
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (17 Articles)
 
 * **7** lankadeepa-lk ([සියඹලාණ්ඩුව රෝහලත් වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/645d224b.json))
 
 * **3** tamil-mirror-lk ([சிகிச்சை வழங்குவதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d7f5f2d.json))
+
+* **2** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
 * **2** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
@@ -22,9 +28,7 @@
 
 * **1** ada-lk ([කැළණියේ වෙඩි තැබීමකින් පියා මරුට අවු. 2ක දරුවාට තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891c7e8e.json))
 
-* **1** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
-
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (255 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -34,7 +38,7 @@
 
 * **26** ada-lk ([තෙල් මිල ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5482a5e.json))
 
-* **20** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
+* **22** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
 * **19** news-first-lk ([Sri Lanka: CEYPETCO & Lanka IOC Fuel Prices Increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3f59cef.json))
 
@@ -46,7 +50,7 @@
 
 ## Last Week (1,785 Articles)
 
-* **378** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a31764b.json))
+* **379** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e00a3ca.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -64,7 +68,7 @@
 
 * **87** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **52** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c91c6d26.json))
+* **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca22874f.json))
 
@@ -72,9 +76,9 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,557 Articles)
+## All Time (16,559 Articles)
 
-* **5,894** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
+* **5,896** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
 * **3,092** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa92535.json))
 

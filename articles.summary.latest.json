@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Revised-notice-on-conducting-schools-from-June-27-to-July-1-issued/342-239820",
+    "time_ut": 1656264683,
+    "original_lang": "en",
+    "original_title": "Revised notice on conducting schools from June 27 to July 1 issued",
+    "file_name": "/tmp/news_lk2/articles/dc/dc28963c.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7-\u0d85\u0dc0\u0dd4--2\u0d9a-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-394850",
     "time_ut": 1656262737,
@@ -790,13 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb5\u0b9a\u0bb0 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bb1\u0bbf\u0b95\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/e9/e9afb82d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd/71-299233",
-    "time_ut": 1656236457,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba3\u0bcd\u0ba3\u0bc6\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/33/337a862f.json"
   }
 ]
