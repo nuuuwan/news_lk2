@@ -224,6 +224,14 @@
     "file_name": "/tmp/news_lk2/articles/8b/8b1b31e2.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/childs-guide-to-debt-restructuring-not-a-cakewalk-but-a-task-entailing-hard-work/",
+    "time_ut": 1656257158,
+    "original_lang": "en",
+    "original_title": "Child\u2019s Guide To Debt Restructuring: Not A Cakewalk But A Task Entailing Hard Work",
+    "file_name": "/tmp/news_lk2/articles/e8/e8965a93.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9/175-299266",
     "time_ut": 1656256693,
@@ -790,13 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0baf\u0ba9\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bcb\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbe\u0bae\u0bb0\u0bc8 \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/9f/9f6695d6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba-\u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-394848",
-    "time_ut": 1656240812,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba \u0db7\u0dcf\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/39/39d4e4c2.json"
   }
 ]

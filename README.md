@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 02:28:36 (LK time)*
+*As of 2022-06-27 02:41:23 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 30 Minutes (6 Articles)
-
-* **6** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
 
 ## Last Hour (8 Articles)
 
@@ -18,7 +14,7 @@
 
 * **1** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
-## Last 24 Hours (276 Articles)
+## Last 24 Hours (277 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
@@ -38,11 +34,11 @@
 
 * **6** economy-next-com ([Sri Lanka petrol price hiked to Rs470 a litre, diesel Rs460](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e22f8993.json))
 
-* **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
+* **3** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,788 Articles)
+## Last Week (1,786 Articles)
 
-* **373** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0132a857.json))
+* **370** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16898e47.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -64,11 +60,11 @@
 
 * **27** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
 
-* **14** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
+* **15** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,581 Articles)
+## All Time (16,582 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -92,7 +88,7 @@
 
 * **122** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
-* **28** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
+* **29** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
 * **25** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 

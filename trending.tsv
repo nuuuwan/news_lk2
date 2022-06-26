@@ -1,38 +1,38 @@
 ent_group	n
-Sri Lanka	1597
-India	318
-US	222
+Sri Lanka	1616
+India	319
+US	226
 Australia	187
 Russia	169
 Parliament	154
+IMF	106
 Gotabaya Rajapaksa	105
-IMF	103
+Central Bank	95
 International Monetary Fund	91
-China	89
-Central Bank	86
-Ranil Wickremesinghe	83
+China	90
+Ranil Wickremesinghe	84
 21st Amendment	70
 Rajapaksas	70
-Tamil	66
 Ukraine	65
+Tamil	65
 Constitution	60
 Cabinet	57
 Jaffna	56
+CPC	54
 German	53
-CPC	52
 Messi	50
 United States	50
 Opposition	49
+Treasury	49
 State	47
-Treasury	47
 Ceylon Petroleum Corporation	46
 Aragalaya	44
 Viswanathan	41
 European	41
 Buddhist	39
 U.S.	38
-Japan	35
-Central Bank of Sri Lanka	34
+Japan	36
+Central Bank of Sri Lanka	35
 Kanchana Wijesekera	34
 Ministry of Education	34
 UN	33
@@ -41,9 +41,9 @@ EU	33
 CSE	33
 UNDP	32
 Wickremesinghe	31
+Argentina	30
 Asia	30
 Johnston Fernando	29
-Argentina	28
 Tamil Nadu	28
 Middle East	28
 Muslims	28
@@ -53,36 +53,38 @@ The Bribery Commission	27
 Japanese	26
 CID	26
 Matara	25
+SriLankan Airlines	25
 Premadasa	25
+ISB	25
 France	24
 Chinese	24
 SPP	24
-SriLankan Airlines	24
 Mahinda Rajapaksa	23
 Nimal Siripala de Silva	23
+World Bank	22
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
 Welgama	22
 Dhammika Perera	22
 US State Department	22
-World Bank	21
+USA	21
 Magammana	21
 United Nations	21
 Monetary Board	20
-ISB	20
 Romania	20
 Ukrainian	20
-American	20
 South Asia	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
 Perera	19
 Wijesekera	19
 Tunisia	19
+American	19
 Colombia	19
 Robert Kaproth	19
 Army	18
+UK	18
 Galle	18
 Nandalal Weerasinghe	18
 Ramamurthy	18
@@ -90,9 +92,8 @@ Sri Lanka Transport Board	18
 Singapore	18
 Supreme Court	18
 Dudley Sirisena	18
+Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
-USA	17
-UK	17
 Homagama	17
 Order	17
 Northern Province	17
@@ -130,7 +131,7 @@ CHS	14
 Cooray	14
 Jehan Appuhamy	14
 Jagath Manuwarna	14
-Hamilton Reserve Bank	14
+Ministry of Finance	13
 Daily Mirror	13
 Trincomalee	13
 Kadawatha	13
@@ -169,7 +170,8 @@ The Consumer Affairs Authority	12
 Home Affairs	11
 Finance	11
 Pakistan	11
-Ministry of Finance	11
+New York Federal Court	11
+Bank	11
 Biden	11
 Britain	11
 Justice	11
@@ -220,7 +222,6 @@ NATO	9
 Italy	9
 Board	9
 LTTE	9
-Tsunami	9
 East	9
 Panadura	9
 Vavuniya	9
@@ -257,6 +258,7 @@ Mannar Basin	9
 Ministry	8
 Colombo	8
 G7	8
+Tsunami	8
 Ceylon Electricity Board	8
 Islam	8
 CWC	8
@@ -300,7 +302,6 @@ Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
 United National Party	7
-Bank	7
 Western	7
 Indonesia	7
 Mendis	7
@@ -343,7 +344,7 @@ State Government of Tamil Nadu	7
 Harsha De Silva	7
 SAFA	6
 Maithripala Sirisena	6
-New York Federal Court	6
+CEB	6
 Mirihana	6
 Verite Research	6
 BBC	6
@@ -429,12 +430,10 @@ Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Article 83 of Constitution	6
 Senegal	5
-CEB	5
 Kelaniya	5
 Ceylonese	5
 Tamil Progressive Alliance	5
 South	5
-Buddha	5
 Nigeria	5
 Godakawela	5
 Navinna Holiday Resort	5
@@ -524,7 +523,11 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
+Sri Lanka Government	5
 Ranasinghe Premadasa	4
+Water Board	4
+CAC	4
+Grandpa	4
 Vladimir Putin	4
 Boris Johnson	4
 Paris	4
@@ -539,6 +542,7 @@ Dav Whatmore	4
 Jeff	4
 Sunil	4
 Wettimuny	4
+Buddha	4
 FDI	4
 Ven	4
 Manhattan	4
@@ -684,7 +688,6 @@ Archbishop of Colombo	4
 Wellawaya Hospital	4
 CBSL	4
 The Parliamentary Committee on Public Enterprises	4
-Sri Lankan Government	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
@@ -695,6 +698,10 @@ Ballerina	3
 SAFA International Relations Committee	3
 CA	3
 Bench	3
+International Sovereign Bonds	3
+Ghana	3
+RD	3
+Fitch Ratings	3
 Reuters	3
 Moscow	3
 Charles Michel	3
@@ -866,6 +873,7 @@ Aravinda Perera	3
 Ceylon Chamber	3
 Foreign Service	3
 NC	3
+Bank of Ceylon	3
 OPEC+	3
 Yahapalanaya	3
 Jeevan Thondaman	3
@@ -939,13 +947,16 @@ ILO	2
 Simrin Singh	2
 SME Development Committee	2
 American Alumni Association	2
-International Sovereign Bonds	2
-Water Board	2
-Ghana	2
-CAC	2
-Grandpa	2
-RD	2
-Fitch Ratings	2
+St. Kitts and Nevis	2
+British Commonwealth	2
+Caribbean	2
+ADB	2
+International Fund for Agriculture Development	2
+Sri Lanka Development Bonds	2
+Collective Action Clause	2
+SWAP	2
+Central Bank’s Treasury	2
+Aseni	2
 Group of Seven	2
 Putin	2
 Veyangoda	2
@@ -1055,7 +1066,6 @@ Chandrika	2
 Ranjith Madhuma Bandara	2
 High Court	2
 Bernard Shaw	2
-Islamic	2
 Department of Defense	2
 Mahawali-L'	2
 Kokkulai	2
@@ -1520,14 +1530,11 @@ The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 Divisional Secretariat	2
 Party	2
-Stephen Covey	2
 The South Asian Federation of Accountants	2
 SME Development	2
 Indrajit Coomaraswamy	2
-Bank of Ceylon	2
 Organization of Petroleum Exporting Countries	2
 Sri Lanka Bar Association	2
-Southern Sri Lanka	2
 democrats	2
 Lanka Private Bus Owner’s Association	2
 Indica de Silva	2
@@ -1662,16 +1669,6 @@ Main Story	1
 Investment Promotion Ministry	1
 Pakiasothy Saravanamutthu	1
 Newsline Live TV1	1
-St. Kitts and Nevis	1
-British Commonwealth	1
-Caribbean	1
-ADB	1
-International Fund for Agriculture Development	1
-Sri Lanka Development Bonds	1
-Collective Action Clause	1
-SWAP	1
-Central Bank’s Treasury	1
-Aseni	1
 United States Treasury’s	1
 Financial Literacy and Education Commission	1
 SCHLOSS	1
@@ -1687,11 +1684,13 @@ Provincial Directors of Education and Principals	1
 National Hospital in Colombo	1
 Minuwangoda	1
 Kelaniya Division	1
+Child’s Guide To Debt Restructuring	1
 Mahesh Kadulantha	1
 Mano MP	1
 Office Bearer Mahesh	1
 Nimalka Fernando	1
 Independent Commission	1
+Southern Sri Lanka	1
 Resolution 30/1 of Human Rights Commission	1
 this Missing Persons Office Bill	1
 People's Monitoring Committee	1
@@ -1754,6 +1753,7 @@ The High Court	1
 'Fourth Amendment	1
 ‘Orange Revolution’	1
 Shine al-Abdin	1
+Islamic	1
 Ennahda	1
 Guiz Syed	1
 Ennahta Islamic Revolutionary Movement	1
@@ -3573,16 +3573,3 @@ Police and Army	1
 NPP	1
 Jathika Jana Balawegaya	1
 National People’s Power	1
-Peter Drucker	1
-Managing in Turbulent Times	1
-Anna Salter	1
-Roman Krznaric	1
-Studs Terkel	1
-Nandasena Rathanpala	1
-Native American	1
-Atlantic	1
-Preston C. Ni	1
-Oprah Winfrey	1
-Postgraduate Institute of Management	1
-ajantha@pim.sjp.ac.lk	1
-ajantha@ou.edu	1
