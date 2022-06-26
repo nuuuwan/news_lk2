@@ -1,23 +1,23 @@
 ent_group	n
-Sri Lanka	1381
-India	241
-US	195
+Sri Lanka	1390
+India	255
+US	197
 Parliament	139
 Australia	117
 IMF	98
 Russia	98
-Gotabhaya Rajapaksa	93
+Gotabhaya Rajapaksa	94
 the International Monetary Fund	79
 Ranil Wickremesinghe	76
 the Central Bank	73
-China	66
+China	69
 the 21st Amendment	64
-Rajapaksas	63
+Rajapaksas	64
 Cabinet	53
 Constitution	50
 Messi	50
+Jaffna	49
 Opposition	49
-Jaffna	46
 Tamil	46
 State	45
 German	45
@@ -28,8 +28,8 @@ Aragalaya	43
 the United States	43
 Viswanathan	41
 European	37
+the Ceylon Petroleum Corporation	36
 U.S.	35
-the Ceylon Petroleum Corporation	35
 CSE	33
 EU	32
 the Central Bank of Sri Lanka	32
@@ -59,6 +59,7 @@ the Ministry of Education	21
 Hambantota	20
 Romania	20
 Kelly Keiderling	20
+Magammana	19
 Navy	19
 Dhammika Perera	19
 the Monetary Board	19
@@ -67,7 +68,6 @@ the United Nations	19
 Robert Kaproth	19
 Colombo/Jun24/2022	19
 Nandalal Weerasinghe	18
-Magammana	18
 Perera	18
 Mullaitivu	18
 Ramamurthy	18
@@ -83,9 +83,11 @@ SriLankan Cares	16
 the US State Department	16
 the Supreme Court	16
 the European Union	16
+the Colombo National Hospital	16
 Korean	16
 Harin Fernando	16
 the U.S. Department of State	16
+Homagama	15
 Diesel	15
 Galle	15
 London	15
@@ -99,9 +101,7 @@ SLTB	15
 Estonia	15
 ISB	15
 Sajith Premadasa	15
-the Colombo National Hospital	15
 USA	14
-Homagama	14
 SJB	14
 CHS	14
 Cooray	14
@@ -128,7 +128,9 @@ Shane	12
 MSV	12
 FE	12
 NL	12
+the Government of Sri Lanka	12
 the Soviet Union	12
+South Asia	12
 Bangladesh	12
 Section 8 of	12
 Nimal Siripala de Silva	12
@@ -141,13 +143,13 @@ Petrol	11
 Morocco	11
 Gulf	11
 French	11
-the Government of Sri Lanka	11
 the US Treasury Department	11
 the Department of Foreign Exchange	11
 COPE	11
 the U.S. Embassy	11
 Daily Mirror	11
 Latin America	11
+IOC	10
 Kandy	10
 Ranil	10
 COVID	10
@@ -169,17 +171,19 @@ Fernando	10
 Arab	10
 US Treasury	10
 Johnston	10
+Kahathuduwa	10
 Hatton-Colombo	10
+The Public Utilities Commission	10
 Wijesekera	10
 MA Sumanthiran	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+North	9
 Kadawatha	9
 Home Affairs	9
 Provincial Councils and Local Government	9
 Middeniya	9
 Norwegian	9
-IOC	9
 Trincomalee	9
 WHO	9
 Biden	9
@@ -197,14 +201,11 @@ Luminex	9
 Hong Kong	9
 Anura Kumara Dissanayake	9
 the Presidential Secretariat	9
-South Asia	9
 European Ambassadors	9
 Magistrate	9
 Dhammika Munasinghe	9
-Kahathuduwa	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
-The Public Utilities Commission	9
 Muslim	9
 Sri Lankan Tamils ​​in	9
 the Samagi Jana Balawega	9
@@ -219,7 +220,6 @@ Italy	8
 Pakistan	8
 Maldives	8
 Chamika Karunaratne	8
-North	8
 Law Forum	8
 Kottawa	8
 Kovid	8
@@ -235,12 +235,15 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
+the Palaly Airport	8
 Ports	8
 the Finance Ministry	8
 Eric Lavertu	8
 Gotabhaya	8
 the Colombo Stock Exchange	8
 the International Transaction Reporting System	8
+the Homagama Base Hospital	8
+Kankesanthurai	8
 the Ministry of Health	8
 Eurasia	8
 Easter	8
@@ -248,6 +251,7 @@ Lanka	8
 the COPE Committee	8
 Rathindu Senaratne	8
 the Office on Missing Persons	8
+Trichy	7
 Vasudeva Nanayakkara	7
 the Paddy Marketing Board	7
 CWE	7
@@ -275,24 +279,26 @@ Sajith	7
 Luminex Limited	7
 Sapugaskanda	7
 Sirisena	7
+the Katunayake Airport	7
 Tunisia	7
 Manipay	7
 the Board of Directors	7
 the Western Province	7
 Mitchell Marsh	7
 Sri Lankan Cricket	7
+the Government Medical Officers' Association	7
 the Ceylon Electricity Board	7
 the United People's Power	7
 the R. Premadasa Stadium	7
 Nanayakkara	7
-Kankesanthurai	7
-the Homagama Base Hospital	7
 Lanka Sama Samaja Party	7
 Galle Face Green	7
 Expolanka Holdings	7
 The Education Ministry	7
 the Special Task Force	7
 Harsha De Silva	7
+Haritha Aluthge	6
+Palaly	6
 Brazil	6
 Yucatan	6
 Norway	6
@@ -300,9 +306,7 @@ Colombo	6
 the Dambulla Economic Center	6
 Western	6
 Super Diesel	6
-the Katunayake Airport	6
 & CPC	6
-Trichy	6
 Ratnapura	6
 the Presidential Palace	6
 Wellawaya	6
@@ -343,6 +347,7 @@ Lionel Messi	6
 the Godakawela Police	6
 Lithuania	6
 Coimbatore	6
+the Lotus Tower	6
 Cuba	6
 Buddhist	6
 Jayanath Colombage	6
@@ -427,6 +432,7 @@ Shavendra Silva	5
 Lalith Dharmasekera	5
 Cipetco	5
 Department	5
+the Borella Children's Hospital	5
 the National List	5
 Mark Meloch-Brown	5
 Roe	5
@@ -439,7 +445,6 @@ Heenatigala	5
 the Bribery and Corruption Commission	5
 Colombo Fort Magistrate	5
 North Macedonia	5
-the Government Medical Officers' Association	5
 the State Government of Tamil Nadu	5
 Bosnia and Herzegovina	5
 the Railway Department	5
@@ -464,6 +469,7 @@ the Sapugaskanda Oil Refinery	5
 Jude Shramantha Anthony Jayamaha	5
 the All Ceylon Restaurant Owners' Association	5
 the Indian High Commission	5
+Corona	4
 the Sri Lanka Freedom Party	4
 Douglas Devananda	4
 Ministry	4
@@ -475,7 +481,6 @@ the Nuwara Eliya Police	4
 the Nuwara Eliya Police Division	4
 the National People's Force	4
 Kahathuduwa Police	4
-the Borella Children's Hospital	4
 the Matara Pradeshiya Sabha	4
 the Katunayake International Airport	4
 Ada Derana	4
@@ -542,7 +547,6 @@ HNB	4
 Zoysa	4
 Palma	4
 Lakmal Sooriyagoda	4
-Haritha Aluthge	4
 Verite Research	4
 North America	4
 Private Sector	4
@@ -564,6 +568,7 @@ Tibetan	4
 Prema	4
 the Sri Lanka People's Alliance	4
 the Left Democratic Front	4
+the Ceylon Indian Oil Company	4
 Narendra Modi	4
 Washington	4
 the League of Nations	4
@@ -598,6 +603,10 @@ LOLC	4
 the Public Property Act	4
 The Bonn Climate Change Conference	4
 Archbishop of Colombo	4
+Kavindi Ranasinghe	3
+Chennai	3
+Katunayake	3
+Diaspora	3
 the Matara Road	3
 Kumara	3
 Abeywardena	3
@@ -648,7 +657,6 @@ Mississippi	3
 WWII	3
 Vietnam	3
 Public Transport	3
-Corona	3
 SP	3
 Libya	3
 Yemen	3
@@ -741,13 +749,13 @@ the Ceylon Chamber	3
 NC	3
 Ceylonese	3
 Grandpa	3
+Mattala	3
 the National Freedom Front	3
 the Kotelawala Expressway	3
 the Expressway Traffic Police SSP Chinthaka Gunaratne	3
 Anuruddha Chandasekara	3
 Group CC	3
 Dharmasekera	3
-the Ceylon Indian Oil Company	3
 the Provincial Secretaries	3
 Sri Lanka Navy	3
 the Ports Authority	3
@@ -814,6 +822,8 @@ Islamic Republic of Iran	3
 Matt Godwin	3
 Mellisai Mannargal	3
 State Partnership Program	3
+Karaikal	2
+Tamils ​​in	2
 the Communist Party of Sri Lanka	2
 Kerosene	2
 Gemunu	2
@@ -875,7 +885,6 @@ CCTV	2
 Rs.80	2
 Dambulla	2
 Homagama house	2
-Kavindi Ranasinghe	2
 Lasantha Buddhika	2
 Nalika Devi	2
 Asia Robert Cabrot	2
@@ -883,7 +892,6 @@ the Met Department	2
 the Sri Lankan Ministry of External Affairs	2
 the Special Guest Room	2
 the Bandaranaike International Airport	2
-Katunayake	2
 Central	2
 North-Central	2
 Galle via Colombo	2
@@ -1140,7 +1148,6 @@ the Department of Agriculture	2
 National Fertilizer Secretariat	2
 Ceylon Fertilizer Company	2
 Commercial Fertilizer Company	2
-Chennai	2
 Tuticorin	2
 Waruna Wanniarachchi	2
 Public Property	2
@@ -1288,6 +1295,8 @@ Jinasena Ltd.	2
 Prebisch-Singer Hypothesis	2
 Hans Singer	2
 Prebisch	2
+the Jaffna International Airport	2
+the Telecommunications Regulatory Commission	2
 General Elections	2
 the Car Owners' Association	2
 Wijeratne	2
@@ -1332,7 +1341,6 @@ Coalition for Economic Democracy	2
 Indian Ocean	2
 Michael Roberts	2
 The Army Group Center	2
-Wattala	2
 the Sri Lankan Government	2
 Southeastern Naval Command	2
 The Labour Ministry	2
@@ -1370,6 +1378,17 @@ the Cold War years	2
 the US National Guard	2
 Association of Professional Bankers of Sri Lanka	2
 Mother Lanka	2
+The Central Committee of the Government Medical Officers' Association	1
+Palali Airport	1
+Alliance Air	1
+Palali and Chennai	1
+Palali-Chennai	1
+Rajapaksa	1
+Kankesanthurai-Karaikal	1
+Nallur	1
+Diaspora Tamils	1
+Palali	1
+Sri Lanka Television	1
 the Athurugiriya Traffic Control Station	1
 Kaduwatta	1
 Vajira	1
@@ -2463,7 +2482,6 @@ the Horana Police	1
 Yapa Abeywardena	1
 the Chairmen of Labour Tribunals	1
 Douglas	1
-Karaikal	1
 Palali-Trichy and Chennai	1
 the Association Sara Bhuvaneswaran	1
 the International Federation of Football Associations	1
