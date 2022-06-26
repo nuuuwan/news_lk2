@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 02:23:01 (LK time)*
+*As of 2022-06-27 02:28:36 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (6 Articles)
 
-* **7** daily-ft-lk ([SAFA SME Development Conference 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90249f33.json))
+* **6** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
 
 ## Last Hour (8 Articles)
 
@@ -40,7 +40,7 @@
 
 * **2** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
-## Last Week (1,789 Articles)
+## Last Week (1,788 Articles)
 
 * **373** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0132a857.json))
 
@@ -58,7 +58,7 @@
 
 * **103** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/641f2b67.json))
 
-* **97** daily-ft-lk ([Empathy and psychopathy in turbulent times: Leaders and laggards in action](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea44256a.json))
+* **96** daily-ft-lk ([JVP leader says country cannot move forward politically or economically by ignoring India](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64c65d6f.json))
 
 * **51** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
