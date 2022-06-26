@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-26 14:27:36 (LK time)*
+*As of 2022-06-26 14:35:14 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **2** tamil-mirror-lk ([நாளை முதல் டோக்கன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/061bcffb.json))
 
-* **1** daily-mirror-lk ([Govt. implements token system for fuel distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/becdff04.json))
+## Last Hour (6 Articles)
 
-## Last Hour (9 Articles)
-
-* **5** tamil-mirror-lk ([யாரும் பாடசாலைக்குச் செல்ல மாட்டார்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32ffbf9.json))
-
-* **2** ada-lk ([ඉන්ධන වෙළඳපොළ විවෘත කිරීමට තීරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ef47a24.json))
+* **3** tamil-mirror-lk ([ரஷ்யாவுடன் பேசுகிறது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4eef90e9.json))
 
 * **1** daily-mirror-lk ([Govt. implements token system for fuel distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/becdff04.json))
 
 * **1** economy-next-com ([Sri Lanka plans to allow more fuel distributors](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2689974d.json))
 
-## Last 3 Hours (53 Articles)
+* **1** ada-lk ([LIOC තවත් ඉන්ධන හල් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6ade98e4.json))
+
+## Last 3 Hours (52 Articles)
 
 * **14** lankadeepa-lk ([කොත්තු-බත්-රයිස් මිල සියයට 10 කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c732659e.json))
 
@@ -34,11 +32,11 @@
 
 * **5** news-first-lk ([399 illegal migrants arrested so far in 2022: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b987b118.json))
 
-* **2** ada-derana-lk ([Funeral parlour owner shot dead in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a188b32.json))
-
 * **1** economy-next-com ([Sri Lanka plans to allow more fuel distributors](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2689974d.json))
 
-## Last 24 Hours (187 Articles)
+* **1** ada-derana-lk ([Kahatuduwa house fire: father and mother succumb to injuries](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e345711e.json))
+
+## Last 24 Hours (186 Articles)
 
 * **51** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2bd5fff.json))
 
@@ -46,7 +44,7 @@
 
 * **26** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
 
-* **21** ada-lk ([රතු පන්දුවේ සටනට සංචිතය නම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb1da6f8.json))
+* **20** ada-lk ([මහ බැංකු වංචාවේ දෙවැනි අදියර සජිත් හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde60c1f.json))
 
 * **19** daily-mirror-lk ([Schools will function for three days next week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdbd2ec0.json))
 
