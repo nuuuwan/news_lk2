@@ -9,7 +9,7 @@
       "title": "New rice to hit the market tomorrow",
       "author": "unknown",
       "body_lines": [
-        "The launch of the \"PMB RICE\" prepared by the Paddy Marketing Board using the existing paddy stocks of the Paddy Marketing Board with the intention of controlling the increase in the price of rice in the market and providing high quality rice to the consumers will take place tomorrow (27) with the participation of the Minister of Agriculture Mahinda Amaraweera.",
+        "The 'PMB RICE' prepared by the Paddy Marketing Board will be launched tomorrow (27) with the participation of the Minister of Agriculture Mahinda Amaraweera with the aim of controlling the increase in the price of rice in the market and providing high quality rice to the consumers.",
         "Also open for sale are 05 and 10 kg bags of \"PMB RICE\" bags prepared within the premises of the Ministry of Agriculture, Battaramulla for sale and coconut products obtained from NLDB dairy products and related coconut lands. An egg and a stall will be opened tomorrow, the Ministry of Agriculture said.",
         "The Ministry also states that these rice packets will be sold in the Colombo District through three outlets owned by the Food Promotion Board.",
         "The CWE outlets are expected to issue 10,000 metric tons of rice per month based on the market demand using all the stocks of paddy owned by the Paddy Marketing Board.",
@@ -23,10 +23,6 @@
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "the Paddy Marketing Board",
-            "label": "ORG"
-          },
           {
             "text": "the Paddy Marketing Board",
             "label": "ORG"
@@ -125,10 +121,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc4\u0dd9\u0da7",
             "label": "DATE"
           },
@@ -217,10 +209,6 @@
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0ba8\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b9a\u0baa\u0bc8",
-            "label": "ORG"
-          },
           {
             "text": "\u0ba8\u0bc6\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b9a\u0baa\u0bc8",
             "label": "ORG"
