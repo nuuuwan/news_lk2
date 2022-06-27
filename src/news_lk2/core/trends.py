@@ -1,3 +1,4 @@
+import math
 import os
 import re
 
@@ -8,9 +9,8 @@ from news_lk2._utils import log
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
 
-MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.DAY
 MIN_FUZZ_RATIO_FOR_GROUP = 85
-
+HALF_LIFE_DAYS = 1
 
 def sort_by_value(_dict):
     sorted_items = list(
@@ -22,13 +22,8 @@ def sort_by_value(_dict):
     return dict(sorted_items)
 
 
-def filter_articles(articles, max_age):
-    current_time = timex.get_unixtime()
-
+def filter_articles(articles):
     def filter_article(article):
-        if article.time_ut < current_time - max_age:
-            return False
-
         if (
             not article.text_idx
             or 'en' not in article.text_idx
@@ -77,13 +72,19 @@ def get_thing_ent_set(article):
 
 
 def get_ent_to_n(articles):
+    current_time = timex.get_unixtime()
     ent_to_n = {}
     for article in articles:
+        time_ut = article.time_ut
+        age_days = (current_time - time_ut) / timex.SECONDS_IN.DAY
+        w = 1 if age_days < 1 else 1 / (math.pow(2, age_days / HALF_LIFE_DAYS))
+        print(age_days, w)
+
         ent_set = get_thing_ent_set(article)
         for ent in ent_set:
             if ent not in ent_to_n:
                 ent_to_n[ent] = 0
-            ent_to_n[ent] += 1
+            ent_to_n[ent] += w
 
     return sort_by_value(ent_to_n)
 
@@ -114,7 +115,7 @@ def get_group_to_n(ent_to_n):
 
 
 def build_trending_summary(articles):
-    recent_articles = filter_articles(articles, MAX_ARTICLE_AGE_FOR_TRENDS)
+    recent_articles = filter_articles(articles)
     ent_to_n = get_ent_to_n(recent_articles)
     ent_to_n_file = os.path.join(DIR_REPO, 'ent_to_n.json')
     JSONFile(ent_to_n_file).write(ent_to_n)
