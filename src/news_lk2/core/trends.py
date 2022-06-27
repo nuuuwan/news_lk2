@@ -132,7 +132,7 @@ def build_trending_summary():
     JSONFile(group_to_n_file).write(group_to_n)
     log.debug(f'Wrote {group_to_n_file}')
 
-    return group_to_n
+    return ent_to_group, group_to_n
 
 
 if __name__ == '__main__':
