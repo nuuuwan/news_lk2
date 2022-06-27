@@ -1,0 +1,1347 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/news/G7-aims-to-raise-600-b-to-counter-China-s-Belt-and-Road/56-736762",
+  "time_ut": 1656360986,
+  "original_lang": "en",
+  "original_title": "G7 aims to raise $ 600 b to counter China\u2019s Belt and Road",
+  "text_idx": {
+    "en": {
+      "title": "G7 aims to raise $ 600 b to counter China\u2019s Belt and Road",
+      "author": "unknown",
+      "body_lines": [
+        "From left: Italian Prime Minister Mario Draghi, European Commission President Ursula von der Leyen, US President Joe Biden, German Chancellor Olaf Scholz, British Prime Minister Boris Johnson, Canadian Prime Minister Justin Trudeau, Japanese Prime Minister Fumio Kishida, French President Emmanuel Macron and European Council President Charles Michel pose for a photo during the G7 summit in Schloss Elmau, near Garmisch-Partenkirchen, Germany 26 June 2022 \u2013 Reuters",
+        "SCHLOSS ELMAU, GERMANY (Reuters) - Group of Seven leaders on Sunday pledged to raise $ 600 billion in private and public funds over five years to finance needed infrastructure in developing countries and counter China\u2019s older, multitrillion-dollar Belt and Road project.",
+        "US President Joe Biden and other G7 leaders relaunched the newly renamed \u201cPartnership for Global Infrastructure and Investment,\u201d at their annual gathering being held this year at Schloss Elmau in southern Germany.",
+        "Biden said the United States would mobilise $ 200 billion in grants, federal funds and private investment over five years to support projects in low- and middle-income countries that help tackle climate change as well as improve global health, gender equity and digital infrastructure.",
+        "\u201cI want to be clear. This isn\u2019t aid or charity. It\u2019s an investment that will deliver returns for everyone,\u201d Biden said, adding that it would allow countries to \u201csee the concrete benefits of partnering with democracies.\u201d",
+        "Biden said hundreds of billions of additional dollars could come from multilateral development banks, development finance institutions, sovereign wealth funds and others. Europe will mobilise \u20ac 300 billion for the initiative over the same period to build up a sustainable alternative to China\u2019s Belt and Road Initiative scheme, which Chinese President Xi Jinping launched in 2013, European Commission President Ursula von der Leyen told the gathering.",
+        "The leaders of Italy, Canada and Japan also spoke about their plans, some of which have already been announced separately. French President Emmanuel Macron and British Prime Minister Boris Johnson were not present, but their countries are also participating.",
+        "China\u2019s investment scheme involves development and programs in over 100 countries aimed at creating a modern version of the ancient Silk Road trade route from Asia to Europe.",
+        "White House officials said the plan has provided little tangible benefit for many developing countries.",
+        "Biden highlighted several flagship projects, including a $ 2 billion solar development project in Angola with support from the Commerce Department, the US Export-Import Bank, US firm AfricaGlobal Schaffer and US project developer Sun Africa.",
+        "Together with G7 members and the EU, Washington will also provide $ 3.3 million in technical assistance to Institut Pasteur de Dakar in Senegal as it develops an industrial-scale flexible multi-vaccine manufacturing facility in that country that can eventually produce COVID-19 and other vaccines, a project that also involves the EU.",
+        "The US Agency for International Development (USAID) will also commit up to $ 50 million over five years to the World Bank\u2019s global Childcare Incentive Fund.",
+        "Global Citizen non-profit group Vice President Friederike Roder said the pledges of investment could be \u201ca good start\u201d toward greater engagement by G7 countries in developing nations and could underpin stronger global growth for all.",
+        "G7 countries on average provide only 0.32% of their gross national income, less than half of the 0.7% promised, in development assistance, she said.",
+        "\u201cBut without developing countries, there will be no sustainable recovery of the world economy,\u201d she said."
+      ],
+      "title_ents": [
+        {
+          "text": "600",
+          "label": "MONEY"
+        },
+        {
+          "text": "China",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Italian",
+            "label": "NORP"
+          },
+          {
+            "text": "Mario Draghi",
+            "label": "PERSON"
+          },
+          {
+            "text": "European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Ursula von",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leyen",
+            "label": "GPE"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "German",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "PERSON"
+          },
+          {
+            "text": "British",
+            "label": "NORP"
+          },
+          {
+            "text": "Boris Johnson",
+            "label": "PERSON"
+          },
+          {
+            "text": "Canadian",
+            "label": "NORP"
+          },
+          {
+            "text": "Justin Trudeau",
+            "label": "PERSON"
+          },
+          {
+            "text": "Japanese",
+            "label": "NORP"
+          },
+          {
+            "text": "Fumio Kishida",
+            "label": "PERSON"
+          },
+          {
+            "text": "French",
+            "label": "NORP"
+          },
+          {
+            "text": "Emmanuel Macron",
+            "label": "PERSON"
+          },
+          {
+            "text": "European Council",
+            "label": "ORG"
+          },
+          {
+            "text": "Charles Michel",
+            "label": "PERSON"
+          },
+          {
+            "text": "Schloss Elmau",
+            "label": "GPE"
+          },
+          {
+            "text": "Garmisch-Partenkirchen",
+            "label": "ORG"
+          },
+          {
+            "text": "Germany",
+            "label": "GPE"
+          },
+          {
+            "text": "26 June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SCHLOSS",
+            "label": "ORG"
+          },
+          {
+            "text": "GERMANY",
+            "label": "GPE"
+          },
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "Seven",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sunday",
+            "label": "DATE"
+          },
+          {
+            "text": "$ 600 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "five years",
+            "label": "DATE"
+          },
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "Road",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "Partnership for Global Infrastructure and Investment",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          },
+          {
+            "text": "Schloss Elmau",
+            "label": "FAC"
+          },
+          {
+            "text": "Germany",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "the United States",
+            "label": "GPE"
+          },
+          {
+            "text": "$ 200 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "five years",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Biden",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "hundreds of billions of additional dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u20ac 300 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Xi Jinping",
+            "label": "PERSON"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          },
+          {
+            "text": "European Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "Ursula von der",
+            "label": "PERSON"
+          },
+          {
+            "text": "Leyen",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Italy",
+            "label": "GPE"
+          },
+          {
+            "text": "Canada",
+            "label": "GPE"
+          },
+          {
+            "text": "Japan",
+            "label": "GPE"
+          },
+          {
+            "text": "French",
+            "label": "NORP"
+          },
+          {
+            "text": "Emmanuel Macron",
+            "label": "PERSON"
+          },
+          {
+            "text": "British",
+            "label": "NORP"
+          },
+          {
+            "text": "Boris Johnson",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "over 100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Silk Road",
+            "label": "FAC"
+          },
+          {
+            "text": "Asia",
+            "label": "LOC"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "White House",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "$ 2 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "Angola",
+            "label": "GPE"
+          },
+          {
+            "text": "the Commerce Department",
+            "label": "ORG"
+          },
+          {
+            "text": "the US Export-Import Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "AfricaGlobal Schaffer",
+            "label": "ORG"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "Sun Africa",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          },
+          {
+            "text": "Washington",
+            "label": "GPE"
+          },
+          {
+            "text": "$ 3.3 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "Senegal",
+            "label": "GPE"
+          },
+          {
+            "text": "COVID-19",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "The US Agency for International Development",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
+            "label": "ORG"
+          },
+          {
+            "text": "up to $ 50 million",
+            "label": "MONEY"
+          },
+          {
+            "text": "five years",
+            "label": "DATE"
+          },
+          {
+            "text": "the World Bank\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "Childcare Incentive Fund",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Friederike Roder",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "only 0.32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "less than half",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.7%",
+            "label": "PERCENT"
+          }
+        ],
+        []
+      ]
+    },
+    "si": {
+      "title": "G7 \u0da0\u0dd3\u0db1\u0dba\u0dda \u0dad\u0dd3\u0dbb\u0dba \u0dc3\u0dc4 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600 \u0d9a\u0dca \u0dbb\u0dd0\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc0\u0db8\u0dda \u0dc3\u0dd2\u0da7: \u0d89\u0dad\u0dcf\u0dbd\u0dd2 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dcf\u0dbb\u0dd2\u0dba\u0ddd \u0da9\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dd2, \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0da9\u0dbb\u0dca \u0dbd\u0dda\u0db1\u0dca, \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca, \u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4 \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dbd\u0dbb\u0dca \u0d94\u0dbd\u0dcf\u0dc6\u0dca \u0dc2\u0ddd\u0dbd\u0dca\u0dc3\u0dca, \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db6\u0ddc\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca, \u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0da2\u0dc3\u0dca\u0da7\u0dd2\u0db1\u0dca \u0da7\u0dd8\u0da9\u0ddd, \u0da2\u0db4\u0dcf\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc6\u0dd4\u0db8\u0dd2\u0dba\u0ddd \u0d9a\u0dd2\u0dc2\u0dd2\u0da9\u0dcf, \u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d91\u0db8\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dd0\u0d9a\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dca \u0dc3\u0dc4 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca 2022 \u0da2\u0dd4\u0db1\u0dd2 26 \u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba\u0dda \u0d9c\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0dc2\u0dca-\u0db4\u0dcf\u0dbb\u0dca\u0da7\u0dd9\u0db1\u0dca\u0d9a\u0dbb\u0dca\u0da0\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dbd Schloss Elmau \u0dc4\u0dd2 G7 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0d85\u0dad\u0dbb\u0dad\u0dd4\u0dbb \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4\u0dba\u0d9a\u0da7 \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba - \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+        "SCHLOSS ELMAU, GERMANY (Routers) - \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0da0\u0dd3\u0db1\u0dba\u0dda \u0db4\u0dd0\u0dbb\u0dab\u0dd2, \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0d9c\u0dab\u0db1\u0d9a \u0db6\u0dd9\u0dbd\u0dca\u0da7\u0dca \u0d87\u0db1\u0dca\u0da9\u0dca \u0dbb\u0ddd\u0da9\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dc3\u0dc4 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600 \u0d9a\u0dca \u0dbb\u0dd0\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc4\u0dad\u0dca \u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0d89\u0dbb\u0dd2\u0daf\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da5\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0dba.",
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca G7 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd9\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba\u0dda Schloss Elmau \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0db1\u0db8\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \"\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba\" \u0db1\u0dd0\u0dc0\u0dad \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0daf\u0dda\u0dc1\u0d9c\u0dd4\u0dab\u0dd2\u0d9a \u0dc0\u0dd2\u0db4\u0dbb\u0dca\u0dba\u0dcf\u0dc3\u0dc0\u0dbd\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd3\u0db8\u0da7 \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba, \u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db4\u0dd4\u0dbb\u0dd4\u0dc2 \u0dc3\u0db8\u0dcf\u0db1\u0dcf\u0dad\u0dca\u0db8\u0dad\u0dcf\u0dc0\u0dba \u0dc3\u0dc4 \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0db1 \u0d85\u0da9\u0dd4 \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0dbd\u0db6\u0db1 \u0dbb\u0da7\u0dc0\u0dbd \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc3\u0db3\u0dc4\u0dcf \u0d86\u0db0\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1, \u0dc6\u0dd9\u0da9\u0dbb\u0dbd\u0dca \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0dc4 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200 \u0d9a\u0dca \u0db6\u0dbd\u0db8\u0dd4\u0dbd\u0dd4 \u0d9c\u0db1\u0dca\u0dc0\u0db1 \u0db6\u0dc0 Biden \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u201c\u0db8\u0da7 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d95\u0db1. \u0db8\u0dd9\u0dba \u0d86\u0db0\u0dcf\u0dbb \u0dc4\u0ddd \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dca\u0dad\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dda. \u0d91\u0dba \u0dc3\u0dd1\u0db8 \u0d9a\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0da7\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1 \u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba\u0d9a\u0dca, \u201d\u0db6\u0dd2\u0da9\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda, \u201c\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dd3 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc3\u0db8\u0d9f \u0dc4\u0dc0\u0dd4\u0dbd\u0dca \u0dc0\u0dd3\u0db8\u0dda \u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0da7\u201d \u0d91\u0dba \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0db6\u0dc4\u0dd4\u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0dd2\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4, \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1, \u0dc3\u0dca\u0dc0\u0ddb\u0dbb\u0dd3 \u0db0\u0db1 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0dc4 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0d85\u0dba\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0db8\u0dad\u0dbb \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0dc3\u0dd2\u0dba \u0d9c\u0dab\u0db1\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0 Biden \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. 2013 \u0daf\u0dd3 \u0da0\u0dd3\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc2\u0dd3 \u0da2\u0dd2\u0db1\u0dca\u0db4\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0da0\u0dd3\u0db1\u0dba\u0dda \u0dad\u0dd3\u0dbb\u0dba \u0dc3\u0dc4 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0dad\u0dd2\u0dbb\u0dc3\u0dcf\u0dbb \u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0dad\u0dd4\u0dc5 \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 300 \u0d9a\u0dca \u0d8b\u0db4\u0dba\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0da9\u0dbb\u0dca \u0dbd\u0dda\u0db1\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba\u0dda, \u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0\u0dda \u0dc3\u0dc4 \u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0daf \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9c\u0dd0\u0db1 \u0d9a\u0dad\u0dcf \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d92\u0dc0\u0dcf\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0dc4\u0dbb\u0d9a\u0dca \u0daf\u0dd0\u0db1\u0da7\u0db8\u0dad\u0dca \u0dc0\u0dd9\u0db1 \u0dc0\u0dd9\u0db1\u0db8 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d91\u0db8\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dd0\u0d9a\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dca \u0dc3\u0dc4 \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db6\u0ddc\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0db1\u0ddc\u0dc3\u0dd2\u0da7\u0dd2 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0daf \u0d8a\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dad\u0dd2.",
+        "\u0da0\u0dd3\u0db1\u0dba\u0dda \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7 \u0dbb\u0da7\u0dc0\u0dbd\u0dca 100\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc4\u0dcf \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd0\u0dbb\u0dab\u0dd2 \u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dc0\u0dad\u0dda \u0dc0\u0dd9\u0dc5\u0db3 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0db1\u0dc0\u0dd3\u0db1 \u0d85\u0db1\u0dd4\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0db0\u0dc0\u0dbd \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0db8 \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8 \u0db6\u0ddc\u0dc4\u0ddd \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d89\u0dad\u0dcf \u0dc3\u0dd4\u0dc5\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0, \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0db1\u0dba\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0, \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0d9a\u0dca \u0dc0\u0db1 AfricaGlobal Schaffer \u0dc3\u0dc4 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0d9a Sun Africa \u0dc4\u0dd2 \u0dc3\u0dc4\u0dcf\u0dba \u0d87\u0dad\u0dd2\u0dc0 \u0d87\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0dcf\u0dc0\u0dda \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2 \u0d9a \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca Biden \u0d89\u0dc3\u0dca\u0db8\u0dad\u0dd4 \u0d9a\u0dc5\u0dda\u0dba.",
+        "G7 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0dc4 EU \u0dc3\u0db8\u0d9f \u0d91\u0d9a\u0dca\u0dc0, \u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba, \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0dda COVID-19 \u0dc3\u0dc4 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab\u0dba\u0dda \u0db1\u0db8\u0dca\u200d\u0dba\u0dc1\u0dd3\u0dbd\u0dd3 \u0db6\u0dc4\u0dd4-\u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0d9a\u0dca \u0d91\u0db8 \u0dbb\u0da7 \u0dad\u0dd4\u0dc5 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca, \u0dc3\u0dd9\u0db1\u0d9c\u0dbd\u0dca\u0dc4\u0dd2 Institut Pasteur de Dakar \u0dc0\u0dd9\u0dad \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0d86\u0db0\u0dcf\u0dbb \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.3\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1\u0dd4 \u0d87\u0dad. \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca, EU \u0daf \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0db1 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dd2.",
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba (USAID) \u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc5\u0db8\u0dcf \u0dc3\u0dd4\u0dbb\u0dd0\u0d9a\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dd0\u0db4 \u0d9a\u0dbb\u0db1\u0dd4 \u0d87\u0dad.",
+        "Global Citizen \u0dbd\u0dcf\u0db7 \u0db1\u0ddc\u0dbd\u0db6\u0db1 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0d8b\u0db4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 Friederike Roder \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda, \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd G7 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4 \u201c\u0dc4\u0ddc\u0db3 \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0d9a\u0dca\u201d \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0dad\u0dca, \u0dc3\u0dd0\u0db8\u0da7 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0daf\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0\u0dad\u0dca\u0dba.",
+        "G7 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0daf\u0dc5 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dd9\u0db1\u0dca 0.32%\u0d9a\u0dca \u0db4\u0db8\u0dab\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4 \u0dc0\u0dd6 0.7% \u0db1\u0dca \u0d85\u0da9\u0d9a\u0da7\u0dad\u0dca \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d86\u0db0\u0dcf\u0dbb \u0dbd\u0dd9\u0dc3 \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba.",
+        "\u201c\u0db1\u0db8\u0dd4\u0dad\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0 \u0dbd\u0ddd\u0d9a \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0dad\u0dd2\u0dbb\u0dc3\u0dcf\u0dbb \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db1\u0ddc\u0dc0\u0db1\u0dd4 \u0d87\u0dad,\u201d \u0d87\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dcf\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "600",
+          "label": "MONEY"
+        },
+        {
+          "text": "\u0da0\u0dd3\u0db1\u0dba",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dd2\u0dba\u0ddd \u0da9\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dda\u0dba\u0db1\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "Olaf Scholz",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db6\u0ddc\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0dc3\u0dca\u0da7\u0dd2\u0db1\u0dca \u0da7\u0df2\u0da9\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0db4\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "Fumio Kishida",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0d82\u0dc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dd0\u0d9a\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dd2\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dcf\u0dbd\u0dca\u0dc3\u0dca \u0db8\u0dd2\u0dc2\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Schloss Elmau",
+            "label": "GPE"
+          },
+          {
+            "text": "Garmisch-Partenkirchen",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 26",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SCHLOSS",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dad",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 600 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "Schloss Elmau",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dba\u0dd2\u0da9\u0dd9\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dba\u0dd2\u0da9\u0dd9\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dba\u0dd2\u0da9\u0dd9\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0dc3\u0dd2\u0dba \u0d9c\u0dab\u0db1\u0d9a\u0dca",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 300 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "Xi Jinping",
+            "label": "PERSON"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d8b\u0dbb\u0dca\u0dc3\u0dd4\u0dbd\u0dcf \u0dc0\u0ddc\u0db1\u0dca \u0da9\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbd\u0dda\u0dba\u0db1\u0dca",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0d82\u0dc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dcf\u0db1\u0dd4\u0dc0\u0dd9\u0dbd\u0dca \u0db8\u0dd0\u0d9a\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db6\u0ddc\u0dbb\u0dd2\u0dc3\u0dca \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "100 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dc0\u0dad",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "\u0db0\u0dc0\u0dbd \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dba\u0dd2\u0da9\u0dd9\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d87\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0db1\u0dba\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0d9c\u0dca\u0dbd\u0ddd\u0db6\u0dbd\u0dca \u0dc2\u0dcf\u0dc6\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc4\u0dd2\u0dbb\u0dd4 \u0d85\u0db4\u0dca\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.3 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0d9c\u0dbd\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "COVID-19",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0db4\u0dc4\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc5\u0db8\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc6\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dca\u0dbb\u0dd2\u0d9a\u0dca \u0dbb\u0ddc\u0da9\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "0.32% \u0db4\u0db8\u0dab\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d85\u0da9\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.7%",
+            "label": "PERCENT"
+          }
+        ],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0bb0\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 G7 $600 b \u0b90 \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1: \u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bb0\u0bbf\u0baf\u0bcb \u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bbf, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd \u0bb2\u0bc7\u0baf\u0ba9\u0bcd, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bcd, \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd, \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd, \u0b95\u0ba9\u0bc7\u0b9f\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b9c\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b9f\u0bcd\u0bb0\u0bc2\u0b9f\u0bcb, \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b83\u0baa\u0bc1\u0bae\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0bb7\u0bbf\u0b9f\u0bbe, \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bc7\u0bb2\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bae\u0bbf\u0bb7\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb0\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0bb8\u0bcd\u0b95\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd \u0b8e\u0bb2\u0bcd\u0bae\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd G7 \u0b89\u0b9a\u0bcd\u0b9a\u0bbf\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0bb8\u0bcd 26 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u2013 \u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+        "SCHLOSS ELMAU, \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf (\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd) - \u0bb5\u0bb3\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bb4\u0bc8\u0baf, \u0baa\u0bb2 \u0b9f\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0bb0\u0bcb\u0b9f\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb5\u0bc1\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 600 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f \u0b8f\u0bb4\u0bc1 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1 G7 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe\u0b95 \u0bae\u0bb1\u0bc1\u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \"\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bcd\u0bae\u0bc8\" \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 Schloss Elmau \u0b87\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd, \u0baa\u0bbe\u0bb2\u0bbf\u0ba9 \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 200 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0bae\u0bbe\u0ba9\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0ba8\u0bbe\u0ba9\u0bcd \u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd. \u0b87\u0ba4\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2. \u0b87\u0ba4\u0bc1 \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bbe\u0b95\u0bc1\u0bae\u0bcd,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd, \"\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bc7\u0bb0\u0bcd\u0bb5\u0ba4\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0ba8\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\" \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0ba8\u0bc2\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bcd, \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b87\u0bb1\u0bc8\u0baf\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0b9f\u0bc6\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. 2013 \u0b87\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9c\u0bbf \u0b9c\u0bbf\u0ba9\u0bcd\u0baa\u0bbf\u0b99\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0bb0\u0bcb\u0b9f\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe 300 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd \u0bb2\u0bc7\u0baf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf, \u0b95\u0ba9\u0b9f\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc7\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd, \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2 \u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bc7\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0ba3\u0bcd\u0b9f\u0bc8\u0baf \u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bb5\u0bc0\u0ba9 \u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f 100 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0baa\u0bb2 \u0bb5\u0bb3\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bb2\u0ba9\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0b99\u0bcd\u0b95\u0bbf, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 \u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bb2\u0bcd \u0bb7\u0bbe\u0b83\u0baa\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0ba9\u0bcd \u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bcb\u0bb2\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd $ 2 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0baa\u0bb2 \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 Biden \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "G7 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd EU \u0b89\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1, \u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd, \u0b9a\u0bc6\u0ba9\u0b95\u0bb2\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 Institut Pasteur de Dakar \u0b95\u0bcd\u0b95\u0bc1 $3.3 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc1 \u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0ba8\u0bc6\u0b95\u0bbf\u0bb4\u0bcd\u0bb5\u0bbe\u0ba9 \u0baa\u0bb2-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf\u0b95\u0bb3\u0bcd, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b92\u0bb0\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.",
+        "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd (USAID) \u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b8a\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 50 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bbe\u0baa \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bb1\u0bcd\u0bb1 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9f\u0bc6\u0bb0\u0bbf\u0b95\u0bcd \u0bb0\u0bcb\u0b9f\u0bb0\u0bcd, \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0bae\u0bca\u0bb4\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bb3\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd G7 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0b88\u0b9f\u0bc1\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \"\u0b92\u0bb0\u0bc1 \u0ba8\u0bb2\u0bcd\u0bb2 \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95\" \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bb3\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "G7 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd 0.32% \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9, \u0b87\u0ba4\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 0.7% \u0b87\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9\u0ba4\u0bc1, \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0bb5\u0bb3\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd, \u0b89\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1,\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "600",
+          "label": "MONEY"
+        },
+        {
+          "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bb0\u0bbf\u0baf\u0bcb \u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc7\u0baf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b93\u0bb2\u0bbe\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0b95\u0bcb\u0bb2\u0bcd\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0baa\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b9f\u0bcd\u0bb0\u0bc2\u0b9f\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0baf\u0bb0\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "Fumio Kishida",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bc7\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd \u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd \u0b8e\u0bb2\u0bcd\u0bae\u0bbe\u0bb5\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb0\u0bcd\u0bae\u0bbf\u0bb7\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb0\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "26 \u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SCHLOSS",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8f\u0bb4\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "$ 600 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bb2\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "Joe Biden",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bcd\u0bb2\u0bcb\u0bb8\u0bcd \u0b8e\u0bb2\u0bcd\u0bae\u0bbe\u0bb5\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "$ 200 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bc2\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u20ac 300 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "Xi Jinping",
+            "label": "PERSON"
+          },
+          {
+            "text": "2013",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bc7\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0bb0\u0bcd\u0b9a\u0bc1\u0bb2\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd \u0b9f\u0bc6\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb2\u0bc7\u0baf\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0b9f\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba9\u0bc1\u0bb5\u0bc7\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0baa\u0bcb\u0bb0\u0bbf\u0bb8\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "100\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb4\u0bbf",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0b9f\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "$ 2 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bcb\u0bb2\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bb2\u0bcd \u0bb7\u0bbe\u0b83\u0baa\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bcd \u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "G7",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "$ 3.3 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0ba9\u0b95\u0bb2\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "COVID-19",
+            "label": "PERSON"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
+            "label": "ORG"
+          },
+          {
+            "text": "$ 50 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b8a\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0ba4\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b83\u0baa\u0bcd\u0bb0\u0bc0\u0b9f\u0bc6\u0bb0\u0bbf\u0b95\u0bcd \u0bb0\u0bcb\u0b9f\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "G7",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "0.32% \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "0.7%",
+            "label": "PERCENT"
+          }
+        ],
+        []
+      ]
+    }
+  }
+}
