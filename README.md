@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 23:31:04 (LK time)*
+*As of 2022-06-27 23:43:27 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,23 +10,21 @@
 
 * **1** ada-derana-lk ([Cabinet approval to gazette 22nd Amendment and table in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db90e775.json))
 
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (23 Articles)
 
-* **10** daily-mirror-lk ([No fuel for private vehicles, only essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1b381f4.json))
+* **8** daily-mirror-lk ([Kanchana leaves for Qatar to discuss fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1f3b52a.json))
 
 * **6** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
 
 * **4** ada-derana-lk ([Schools in Colombo, WP suburbs & other major cities to remain closed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c562e12d.json))
 
-* **3** virakesari-lk ([அத்தியாவசிய சேவைகளுக்கு மாத்திரமே எரிபொருள் - விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6cf1b9.json))
+* **2** virakesari-lk ([நகர்ப்புற பாடசாலைகளுக்கு பூட்டு ; சுயமாக முடங்கும் நிலையில் நாடு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28701798.json))
 
 * **1** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
 
 * **1** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
 
 * **1** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
-
-* **1** tamil-mirror-lk ([முடக்கப்படுகிறதா இலங்கை?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9722a79.json))
 
 ## Last 24 Hours (270 Articles)
 
