@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0daf\u0dbb\u0dd4-\u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda-\u0d9c\u0dd9\u0dbd-\u0d9a\u0db4\u0dcf-\u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf-\u0d9c\u0d9f\u0da7-\u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dbb\u0dba\u0dd2/101-615485",
+    "time_ut": 1656324702,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0daf\u0dbb\u0dd4 \u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0d9c\u0dd9\u0dbd \u0d9a\u0db4\u0dcf \u0db1\u0dd2\u0dbd\u0dca\u0dc0\u0dbd\u0dcf \u0d9c\u0d9f\u0da7 \u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d5/d52d088c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Gankanda-Colleges-PPA/110-239880",
     "time_ut": 1656324444,
@@ -3190,13 +3198,5 @@
     "original_lang": "en",
     "original_title": "US delegation arrives in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/da/dae95824.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d85\u0d82\u0dc1\u0dba\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9-\u0db1\u0dd0\u0dc4\u0dd0/11-394827",
-    "time_ut": 1656221667,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd0\u0dc4\u0dd0",
-    "file_name": "/tmp/news_lk2/articles/d8/d81a7ed2.json"
   }
 ]
