@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1722
+Sri Lanka	1728
 India	322
 US	250
 Russia	213
@@ -200,6 +200,7 @@ Palaly Airport	11
 US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
+Ven	10
 Kottawa	10
 Twitter	10
 Kovid	10
@@ -260,7 +261,6 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
-Power and Energy	9
 Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
@@ -279,8 +279,8 @@ African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
+University of Kelaniya	8
 Southern Expressway	8
-Ven	8
 Mexico	8
 Colombo	8
 Maithripala Sirisena	8
@@ -311,6 +311,7 @@ M.S.	8
 Nasheed	8
 CAG	8
 National Transport Commission	8
+Power and Energy	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 Colombo Stock Exchange	8
@@ -368,7 +369,6 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
-University of Kelaniya	6
 Tamil Progressive Alliance	6
 Lanka	6
 Kuwait	6
@@ -491,6 +491,7 @@ Godakawela	5
 Navinna Holiday Resort	5
 South Korea	5
 Lotus Tower	5
+Hatch MakerStudio	5
 Fimco Estate	5
 Jaffna Teaching Hospital	5
 Specialist	5
@@ -608,6 +609,7 @@ Anuradhapura	4
 Kota	4
 Vajira Abeywardena	4
 R. Saravanaraja	4
+DBA Alumni	4
 Quad	4
 Kavindi Ranasinghe	4
 Perro	4
@@ -714,6 +716,7 @@ European Council	4
 Dushyanthi	4
 Commission	4
 Nihal Taltuwa	4
+Prasanna Ranatunga	4
 Ben Ali	4
 Nanu Oya to Colombo Fort	4
 Sri Lanka People's Alliance	4
@@ -760,6 +763,9 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Sri Lanka Tea Board	3
+Gampaha Magistrate's Court	3
+Dhammajinna Thero	3
 Kushan Pathiraja	3
 Sri Lanka Police	3
 Wall Street Journal	3
@@ -788,7 +794,6 @@ Florida	3
 England	3
 Dissanayake	3
 Siyambalanduwa	3
-Prasanna Ranatunga	3
 Vadivel Suresh	3
 Taiwan	3
 Rulers	3
@@ -800,7 +805,6 @@ Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
 Chamaran	3
-DBA Alumni	3
 Horana	3
 Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
@@ -815,6 +819,7 @@ Katunayake	3
 Diaspora	3
 Lanka Hospitals Academy	3
 NSBM	3
+Vocational Training Authority	3
 Best Real Estate Marketing Company	3
 KNOMAD	3
 Colombo Fort Railway Station	3
@@ -1016,8 +1021,6 @@ Omicron	2
 George W. Bush	2
 Thero	2
 Prasanna	2
-Dhammajinna Thero	2
-Gampaha Magistrate's Court	2
 The United Ceylon Container Car Owners' Association	2
 Velu Kumar	2
 Petrol & Diesel	2
@@ -1211,8 +1214,6 @@ Karaikal	2
 Tamils ​​in	2
 NSBM Green University	2
 UAE	2
-Hatch MakerStudio	2
-Vocational Training Authority	2
 Kyrgyzstan	2
 Uzbekistan	2
 Armenia	2
@@ -1732,7 +1733,15 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Niraj de Mel	1
+Tea Exporter’s Association	1
+Colombo Brokers Association	1
+Colombo Tea Traders Association	1
+Tea	1
+de Mel	1
+De Me	1
 Batticaloa Hospital	1
+Nayaka Thera	1
 460	1
 Export Promotion Zones	1
 Oorani	1
@@ -2172,6 +2181,8 @@ Diaspora Tamils	1
 Palali	1
 The Lotus Tower	1
 Sri Lanka Television	1
+Technical and Vocational Education	1
+Vocational Training Authority and Hatch MakerStudio	1
 Development, Real Estate Agency	1
 Architecture	1
 Interior Design	1
