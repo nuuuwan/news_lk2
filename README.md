@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 05:23:59 (LK time)*
+*As of 2022-06-27 05:32:54 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
-* **4** tamil-mirror-lk ([வெளிநாட்டு நாணங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/375827d9.json))
+* **3** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களில் 70% ஐ  மூட முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa9575c5.json))
 
 ## Last 24 Hours (287 Articles)
 
@@ -32,9 +32,9 @@
 
 * **3** colombo-telegraph-com ([My Dear Sinhalese Friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83a3f1f3.json))
 
-## Last Week (1,796 Articles)
+## Last Week (1,797 Articles)
 
-* **368** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94f34060.json))
+* **366** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac405840.json))
 
 * **320** lankadeepa-lk ([කෝටි ගණන් පාඩු ලබන මත්තල ගුවන් තොටුපොළ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2b825e6.json))
 
@@ -52,7 +52,7 @@
 
 * **92** daily-ft-lk ([Open letter to Sajith: Lead or leave](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a41ace3.json))
 
-* **59** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
+* **62** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
 * **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
 
@@ -60,7 +60,7 @@
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,598 Articles)
+## All Time (16,601 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -72,7 +72,7 @@
 
 * **1,260** daily-ft-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01373e30.json))
 
-* **1,146** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
+* **1,149** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
 * **432** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 

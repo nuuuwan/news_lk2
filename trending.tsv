@@ -1,46 +1,46 @@
 ent_group	n
-Sri Lanka	1636
+Sri Lanka	1651
 India	313
-US	227
-Australia	188
+US	229
+Australia	189
 Russia	174
 Parliament	159
-IMF	109
-Gotabhaya Rajapaksa	100
+IMF	110
+Gotabaya Rajapaksa	102
 International Monetary Fund	98
-Central Bank	96
+Central Bank	97
 China	91
 Ranil Wickremesinghe	85
+Rajapaksas	72
 Tamil	70
 Ukraine	69
 21st Amendment	69
-Rajapaksas	69
 Jaffna	60
 Constitution	58
 Cabinet	57
+CPC	55
 German	55
-CPC	54
+Treasury	52
 United States	51
+Opposition	50
 Messi	50
-Treasury	50
-Opposition	49
+State	48
 Buddhist	47
-State	46
 Ceylon Petroleum Corporation	46
-Aragalaya	42
+Aragalaya	43
+Wickremesinghe	42
 European	42
 Viswanathan	41
 Japan	38
 U.S.	38
+UN	37
 Central Bank of Sri Lanka	37
-UN	36
 Mullaitivu	35
 EU	34
 Kanchana Wijesekera	34
 Ministry of Education	34
 CSE	33
 Asia	32
-Wickremesinghe	31
 Argentina	30
 Middle East	30
 UNDP	30
@@ -50,11 +50,12 @@ Muslims	28
 Puttalam	27
 Kumara Welgama	27
 The Bribery Commission	27
+World Bank	26
 Japanese	26
 CID	26
-World Bank	25
 Matara	25
 SriLankan Airlines	25
+United Nations	25
 Premadasa	25
 ISB	25
 France	24
@@ -70,7 +71,6 @@ Welgama	22
 Dhammika Perera	22
 US State Department	22
 Magammana	21
-United Nations	21
 South Asia	21
 Army	20
 UK	20
@@ -82,18 +82,18 @@ Kelly Keiderling	20
 Colombo/Jun24/2022	20
 Perera	19
 Order	19
+Nandalal Weerasinghe	19
+Supreme Court	19
 Wijesekera	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
 Robert Kaproth	19
 Galle	18
-Nandalal Weerasinghe	18
 Ramamurthy	18
 Northern Province	18
 Sri Lanka Transport Board	18
 Singapore	18
-Supreme Court	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 Homagama	17
@@ -138,6 +138,8 @@ Jagath Manuwarna	14
 Department of Archeology	14
 Daily Mirror	13
 Trincomalee	13
+Government of Sri Lanka	13
+Ranil	13
 Kadawatha	13
 Hatton	13
 Spain	13
@@ -152,8 +154,6 @@ The Consumer Affairs Authority	13
 Home Affairs	12
 Finance	12
 French	12
-Government of Sri Lanka	12
-Ranil	12
 Petrol	12
 Afghanistan	12
 STF	12
@@ -241,12 +241,14 @@ European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
 United National Party	9
+Canada	9
 Ministry of Health	9
 United People's Power	9
 Ministry of Agriculture	9
 Luminex	9
 Weerawarana	9
 Aussies	9
+Anura Kumara Dissanayake	9
 Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
@@ -261,6 +263,7 @@ Office on Missing Persons	9
 Mannar Basin	9
 Ministry	8
 Colombo	8
+Maithripala Sirisena	8
 G7	8
 Tsunami	8
 Ceylon Electricity Board	8
@@ -275,9 +278,11 @@ Wimal Weerawansa	8
 Dehiwala Zoo	8
 Maskeliya	8
 Fort	8
+JVP	8
 Finance Ministry	8
 Chamika Karunaratne	8
 Law Forum	8
+Iran	8
 Kovid	8
 CBI	8
 Barista	8
@@ -289,7 +294,6 @@ M.S.	8
 Nasheed	8
 CAG	8
 Power and Energy	8
-Canada	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 Colombo Stock Exchange	8
@@ -297,7 +301,6 @@ Eric Lavertu	8
 Sirisena	8
 Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
-Anura Kumara Dissanayake	8
 International Transaction Reporting System	8
 Kankesanthurai	8
 Eurasia	8
@@ -305,7 +308,6 @@ Easter	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
-Maithripala Sirisena	7
 Western	7
 Indonesia	7
 Coimbatore	7
@@ -327,7 +329,6 @@ Independence	7
 Lebanon	7
 Jagath Kumara	7
 IGP	7
-Iran	7
 Peiris	7
 Court	7
 Victor Chiujdea	7
@@ -378,7 +379,6 @@ Super Diesel	6
 Presidential Palace	6
 Wellawaya	6
 UPFA	6
-JVP	6
 MLF	6
 Uduwaragedara	6
 Geneva	6
@@ -481,6 +481,7 @@ Carey	5
 Chandimal	5
 Charith Asalanka	5
 Matt Kuhnemann	5
+University of Moratuwa	5
 Bombay	5
 Maharagama Cancer Hospital	5
 Barcelona	5
@@ -498,6 +499,7 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+Asian Development Bank	5
 New Delhi	5
 General Assembly	5
 Shavendra Silva	5
@@ -662,7 +664,6 @@ Dushyanthi	4
 Commission	4
 Nihal Taltuwa	4
 Ben Ali	4
-Asian Development Bank	4
 Nanu Oya to Colombo Fort	4
 Sri Lanka People's Alliance	4
 Ministry of Defense	4
@@ -724,6 +725,7 @@ SSP Nihal Thalduwa	3
 Peliyagoda	3
 Florida	3
 England	3
+Dissanayake	3
 Siyambalanduwa	3
 National Transport Commission	3
 Vadivel Suresh	3
@@ -843,6 +845,7 @@ Greece	3
 Paris Club	3
 Global South	3
 WB	3
+FAO	3
 High Commission	3
 House in Colombo	3
 United Arab Emirates	3
@@ -852,6 +855,7 @@ TMJYP	3
 PKG Fernando	3
 President’s Office	3
 Denis Chaibi	3
+Faculties of Agriculture of State Universities of Sri Lanka	3
 Anton Wickremesinghe	3
 Ceylon Daily News	3
 JR	3
@@ -875,7 +879,6 @@ Thambuththegama	3
 Saudi	3
 Greenwood	3
 Mundell	3
-University of Moratuwa	3
 Jayalalithaa	3
 C.R. Subburaman	3
 Viswanathan-Ramamurthy	3
@@ -1021,7 +1024,6 @@ Saravanamuttus	2
 Robert Senanayake	2
 Ana Punchihewa	2
 Neil Perera	2
-Dissanayake	2
 Alex Kontouri	2
 Ian Botham	2
 Alan Border	2
@@ -1344,7 +1346,6 @@ Trade	2
 HIPC	2
 Indian Ocean	2
 Southern	2
-FAO	2
 English	2
 Wehrmacht	2
 Chamika Karunathma	2
@@ -1372,6 +1373,11 @@ Peter Bower	2
 Kandyan	2
 California	2
 Power & Energy Kanchana Wijesekara	2
+Chartered Institute of Logistics and Transport	2
+Civil Engineering	2
+PhD	2
+University of Calgary	2
+Savitri Goonesekere	2
 Coordinating	2
 Wijerama Mawatha	2
 National Film Corporation	2
@@ -1591,6 +1597,7 @@ Compensation Office	2
 Santipura Olympus Upper Estate	2
 The All Ceylon Private Bus Owners' Association	2
 National People's Power Conference	2
+Elections Commission	2
 National Council of Intellectuals	2
 District Secretaries	2
 “Forever War	2
@@ -1607,6 +1614,7 @@ Marxists	2
 Asia Pacific Department	2
 Anne-Marie Gulde	2
 Monetary and Capital Market Department of IMF	2
+19th Amendment Bill	2
 WikiFord	2
 SampathCards UltraRewards	2
 Remittance Card	2
@@ -1614,6 +1622,9 @@ Wijewardane	2
 Coalition for Economic Democracy	2
 Michael Roberts	2
 The Army Group Center	2
+Eran Wickremaratne	2
+Department of Transport & Logistics Management	2
+Sri Lanka Society for Transport & Logistics	2
 The Labour Ministry	2
 PB Jayasundera	2
 Lanka IOC	2
@@ -2109,7 +2120,6 @@ Hayleys	1
 Lanka Tiles	1
 Vallibel Group	1
 Chandra Jayaratne	1
-Elections Commission	1
 Ministry of Technology and Investment Promotion	1
 Board of Investment	1
 NewsWire	1
@@ -2471,7 +2481,6 @@ Supreme Court of Sri Lanka	1
 Opposition Samagi Jana Balavegaya’s	1
 1978	1
 Einstein	1
-19th Amendment Bill	1
 Determinations	1
 Basic Structure	1
 contra	1
@@ -2820,6 +2829,20 @@ The Fund's Alternative Executive	1
 Norway Trine Jøranli Eskedal	1
 Holger Seubert	1
 Rakibe Şekercioğlu	1
+Deans	1
+EXIM Bank of India and Food and Agriculture Organization	1
+A Strategy for Restoration and Rebuilding Agri-Food Sector of Sri Lanka	1
+NGOS	1
+Faculties of Agriculture	1
+CitiBank	1
+Monaragala	1
+Amal Kumarage	1
+Leader of Opposition	1
+Yahapalana	1
+Arjuna Mahendran	1
+Wijeyadasa Rajapakshe’s	1
+Nihal Jayawickrama	1
+Colvin R de Silva	1
 General Elections of 1977	1
 Air Force or Police	1
 Service Commanders	1
@@ -3285,12 +3308,6 @@ Disaster Management Centre	1
 National Planning	1
 Disaster Management	1
 OCHA-UNDP Connecting Business	1
-Department of Transport and Logistics Management	1
-Chartered Institute of Logistics and Transport	1
-Sri Lanka Society for Transport and Logistics	1
-Civil Engineering	1
-PhD	1
-University of Calgary	1
 Lazard Ltd.	1
 Prem Watsa	1
 Dammika Nanayakkara	1
@@ -3697,7 +3714,6 @@ BOP	1
 SME	1
 Mother Lanka	1
 George Patton	1
-Eran Wickramaratne	1
 Harini Amarasuriya	1
 Shanakiyan Rasamanickam	1
 Diana Gamage	1
