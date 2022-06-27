@@ -100,4 +100,14 @@ class Article:
                 get_article_files(),
             )
         )
-        return list(reversed(sorted(articles)))
+        deduped_articles = list(
+            dict(
+                list(
+                    map(
+                        lambda article: [article.original_title, article],
+                        articles,
+                    )
+                )
+            ).values()
+        )
+        return list(reversed(sorted(deduped_articles)))
