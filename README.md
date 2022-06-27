@@ -1,40 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 21:33:37 (LK time)*
+*As of 2022-06-27 21:43:06 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **3** lankadeepa-lk ([නගරබද පාසල් ජූලි 10 තෙක් වහයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b10bf46.json))
+* **3** lankadeepa-lk ([මේ ඝාතන රැල්ලේ අවසානයක් නැද්ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4924f816.json))
 
 * **1** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
 
 * **1** daily-mirror-lk ([It’s not lockdown, but working from home until July 10: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e38a9d6.json))
 
-* **1** ada-derana-lk ([Schools in Colombo, WP suburbs & other major cities to remain closed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c562e12d.json))
-
-* **1** virakesari-lk ([படகு மூலம் தனுஷ்கோடி சென்ற  மன்னாரைச் சேர்ந்த வயோதிப தம்பதிகளின்  நிலை கவலைக்கிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f7427d0.json))
-
 ## Last Hour (13 Articles)
 
-* **4** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
+* **6** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
 
 * **3** daily-mirror-lk ([Kanchana leaves for Qatar to discuss fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1f3b52a.json))
 
-* **3** virakesari-lk ([அத்தியாவசிய சேவைகளுக்கு மாத்திரமே எரிபொருள் - விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6cf1b9.json))
+* **2** virakesari-lk ([நகர்ப்புற பாடசாலைகளுக்கு பூட்டு ; சுயமாக முடங்கும் நிலையில் நாடு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28701798.json))
 
 * **1** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
 
 * **1** ada-derana-lk ([Schools in Colombo, WP suburbs & other major cities to remain closed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c562e12d.json))
 
-* **1** tamil-mirror-lk ([முடக்கப்படுகிறதா இலங்கை?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9722a79.json))
+## Last 3 Hours (43 Articles)
 
-## Last 3 Hours (41 Articles)
-
-* **11** lankadeepa-lk ([රජයේ සමස්ත ණය ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b594992.json))
+* **13** lankadeepa-lk ([රජයේ සමස්ත ණය ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b594992.json))
 
 * **6** daily-mirror-lk ([Not possible to purchase fuel from any nation: Champika](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c927765a.json))
 
@@ -48,9 +42,9 @@
 
 * **3** ada-derana-lk ([President instructs officials to use available funds to import fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ff2475.json))
 
-## Last 24 Hours (261 Articles)
+## Last 24 Hours (263 Articles)
 
-* **48** lankadeepa-lk ([කැලණියේදී වෙඩි තැබීමක්:අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1311e3a1.json))
+* **50** lankadeepa-lk ([කැලණියේදී වෙඩි තැබීමක්:අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1311e3a1.json))
 
 * **45** ada-lk ([කොළඹ පාසල් හා අනෙකුත් නගරබද පාසල්වලට නිවාඩු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f5a04a4.json))
 
@@ -72,11 +66,11 @@
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,033 Articles)
+## Last Week (1,035 Articles)
 
 * **167** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
-* **160** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
+* **162** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
 
 * **123** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -100,9 +94,9 @@
 
 * **11** b-b-c-com-sinhala ([ඕස්ට්‍රේලියාවට එරෙහි අද තරගයෙන් ශ්‍රී ලංකාවේ පැතුම ඉටුවෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ea68c9.json))
 
-## All Time (1,200 Articles)
+## All Time (1,202 Articles)
 
-* **223** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **179** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
