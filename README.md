@@ -1,54 +1,48 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 00:13:05 (LK time)*
+*As of 2022-06-28 00:26:39 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (16 Articles)
 
-* **1** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
-
-## Last 3 Hours (15 Articles)
-
-* **6** daily-mirror-lk ([It’s not lockdown, but working from home until July 10: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a0fe54f.json))
+* **9** daily-mirror-lk ([President directs officials to import fuel using funds in hand](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0bfae517.json))
 
 * **3** ada-derana-lk ([Train services to operate under normal schedules tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dea6103d.json))
 
-* **3** lankadeepa-lk ([මේ ඝාතන රැල්ලේ අවසානයක් නැද්ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4924f816.json))
+* **2** lankadeepa-lk ([‘‘අර්බුදය දඩමීමා කරගෙන ආයතනවලට අත තබනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c87e3bd.json))
 
 * **1** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
 
 * **1** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
 
-* **1** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
-
-## Last 24 Hours (272 Articles)
+## Last 24 Hours (274 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
 * **45** ada-lk ([පෙබරවාරියෙන් පසු පූටින් යළිත් විදෙස් සංචාර අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/314c9102.json))
 
-* **37** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
+* **37** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
 
-* **33** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
+* **37** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
 * **28** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
 * **26** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
-* **20** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
+* **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
 * **19** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **12** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
+* **11** daily-ft-lk ([Child’s guide to debt restructuring: Not a cakewalk but a task entailing hard work](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60352613.json))
 
 * **2** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,051 Articles)
+## Last Week (1,055 Articles)
 
 * **169** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
@@ -58,7 +52,7 @@
 
 * **119** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **114** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
+* **118** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
 * **93** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -76,7 +70,7 @@
 
 * **11** b-b-c-com-sinhala ([ඕස්ට්‍රේලියාවට එරෙහි අද තරගයෙන් ශ්‍රී ලංකාවේ පැතුම ඉටුවෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ea68c9.json))
 
-## All Time (1,218 Articles)
+## All Time (1,222 Articles)
 
 * **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,9 +78,9 @@
 
 * **175** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **119** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
+* **119** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **115** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **119** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
 * **93** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
