@@ -1,4 +1,5 @@
 from news_lk2._utils import log
+from news_lk2.core import Article
 from news_lk2.core.articles_summary import build_articles_summary
 from news_lk2.core.filesys import git_checkout
 from news_lk2.core.news_wordcloud import (build_wordcloud,
@@ -16,15 +17,15 @@ def main(is_test_mode=False):
     git_checkout(force=not is_test_mode)
     upload_data(is_test_mode)
 
-    group_to_n = build_trending_summary()
+    articles = Article.load_articles()
+
+    ent_to_group, group_to_n = build_trending_summary(articles)
     build_wordcloud(group_to_n)
     build_wordcloud_animation()
 
-    build_articles_summary()
+    build_articles_summary(articles)
 
-    build_readme_summary()
-
-
+    build_readme_summary(articles)
 
 
 if __name__ == '__main__':
