@@ -9,11 +9,6 @@ from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
 from news_lk2.core.wordcloud import build_wordcloud
 
-DELIM_MD = '\n' * 2
-N_LATEST = 100
-GITHUB_BASE = 'https://github.com/nuuuwan/news_lk2/blob/data'
-TMP_BASE = '/tmp/news_lk2'
-DELIM = ':'
 MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.WEEK
 MIN_FUZZ_RATIO_FOR_GROUP = 85
 
