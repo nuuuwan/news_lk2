@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-comtrust-rebrands-to-ct-clsa-asset-management-96512/",
+    "time_ut": 1656318780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Comtrust rebrands to CT CLSA Asset Management",
+    "file_name": "/tmp/news_lk2/articles/31/31af2be5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspect-arrested-over-killing-of-funeral-parlour-owner/108-239878",
+    "time_ut": 1656318669,
+    "original_lang": "en",
+    "original_title": "Suspect arrested over killing of funeral parlour owner",
+    "file_name": "/tmp/news_lk2/articles/b7/b721d326.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Release-GotaGoGama-protesters/342-239877",
+    "time_ut": 1656318668,
+    "original_lang": "en",
+    "original_title": "Release GotaGoGama protesters...",
+    "file_name": "/tmp/news_lk2/articles/d8/d864ed10.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-exports-up-9-pct-in-may-2022-us-up-25-pct-india-49-pct-96513/",
+    "time_ut": 1656318480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka exports up 9-pct in May 2022, US up 25-pct, India 49-pct",
+    "file_name": "/tmp/news_lk2/articles/7d/7d9e3edd.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130261",
+    "time_ut": 1656318363,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3b/3b145938.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Visiting-high-level-US-officials-meet-President/108-239876",
     "time_ut": 1656318227,
     "original_lang": "en",
     "original_title": "Visiting high-level US officials meet President",
     "file_name": "/tmp/news_lk2/articles/3e/3e76f4ca.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/container-cargo-transport-charges-increased/",
+    "time_ut": 1656317700,
+    "original_lang": "en",
+    "original_title": "Container Cargo Transport Charges increased",
+    "file_name": "/tmp/news_lk2/articles/c6/c675a592.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dbd\u0ddd\u0d9a-5\u0d9a\u0dca-\u0d91\u0d9a\u0db8-\u0dbb\u0dda\u0d9b\u0dcf\u0dc0\u0d9a/10-394877",
+    "time_ut": 1656317692,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dbd\u0ddd\u0d9a 5\u0d9a\u0dca \u0d91\u0d9a\u0db8 \u0dbb\u0dda\u0d9b\u0dcf\u0dc0\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/ae/ae46a76a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -16,12 +72,36 @@
     "file_name": "/tmp/news_lk2/articles/66/66667c01.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/six-men-nabbed-for-hoarding-fuel/",
+    "time_ut": 1656317100,
+    "original_lang": "en",
+    "original_title": "Six men nabbed for hoarding fuel",
+    "file_name": "/tmp/news_lk2/articles/0f/0f1abb3c.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dda-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0dad\u0dcf-\u0db8\u0dad\u0dcf-\u0dc3\u0dd2\u0daf\u0dd4-\u0db1\u0ddc\u0d9a\u0dc5-\u0d85\u0dad\u0db4\u0dc3\u0dd4-\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-394876",
     "time_ut": 1656317042,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0dad\u0dcf \u0db8\u0dad\u0dcf \u0dc3\u0dd2\u0daf\u0dd4 \u0db1\u0ddc\u0d9a\u0dc5 \u0d85\u0dad\u0db4\u0dc3\u0dd4 \u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/4c/4cf8551b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/fuel-crisis-leading-to-deterioration-of-law-and-order-basl/",
+    "time_ut": 1656316800,
+    "original_lang": "en",
+    "original_title": "Fuel Crisis leading to deterioration of Law and Order \u2013 BASL",
+    "file_name": "/tmp/news_lk2/articles/8f/8ff1057c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/high-level-us-delegation-meets-president-to-discuss-economic-crisis/",
+    "time_ut": 1656316680,
+    "original_lang": "en",
+    "original_title": "High-Level US delegation meets President to discuss economic crisis",
+    "file_name": "/tmp/news_lk2/articles/48/48c92214.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -80,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/f7/f728597e.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/g7-aims-to-raise-600-billion-to-counter-chinas-belt-and-road/",
+    "time_ut": 1656316020,
+    "original_lang": "en",
+    "original_title": "G7 aims to raise $600 billion to counter China\u2019s Belt and Road",
+    "file_name": "/tmp/news_lk2/articles/8a/8a26802f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d9c\u0dd0\u0db1-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca/1-615473",
     "time_ut": 1656315339,
@@ -102,6 +190,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0d91\u0db1\u0dad\u0dd4\u0dbb\u0dd4",
     "file_name": "/tmp/news_lk2/articles/03/038b96c7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-54\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0daf\u0dd0\u0dbd\u0dda/1-615472",
+    "time_ut": 1656314875,
+    "original_lang": "si",
+    "original_title": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf \u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba 54\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0daf\u0dd0\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/d7/d7862b56.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -214,6 +310,14 @@
     "original_lang": "en",
     "original_title": "Green Light from Defence Ministry for Cargo Ferry Service between KKS and Tamil Nadu",
     "file_name": "/tmp/news_lk2/articles/2d/2d63811b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc3\u0dd9\u0db6\u0dc5\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615469",
+    "time_ut": 1656313674,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7,\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd9\u0db6\u0dc5\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/eb/ebe3bd1d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -694,109 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b9c\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/08/0887fa6e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-54-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299281",
-    "time_ut": 1656303102,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 54 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/15/150db50c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/work-from-home-for-public-sector-extended/",
-    "time_ut": 1656302820,
-    "original_lang": "en",
-    "original_title": "Work from Home for Public Sector, Extended",
-    "file_name": "/tmp/news_lk2/articles/c3/c308ca44.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-runs-out-of-fuel-and-no-new-shipments-ordered/155-239863",
-    "time_ut": 1656302518,
-    "original_lang": "en",
-    "original_title": "SL runs out of fuel and no new shipments ordered",
-    "file_name": "/tmp/news_lk2/articles/03/0336de0f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/China-offers-SL-to-establish-sales-galleries-to-showcase-export-products/108-239862",
-    "time_ut": 1656302049,
-    "original_lang": "en",
-    "original_title": "China offers SL to establish sales galleries to showcase export products",
-    "file_name": "/tmp/news_lk2/articles/49/49be03b9.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130238",
-    "time_ut": 1656301974,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ce/ce289b98.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130235",
-    "time_ut": 1656301809,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/ed/edcc06ea.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0d9a\u0dca\u0d9a\u0db4\u0da7\u0dc3\u0dca-\u0db4\u0dd4\u0db4\u0dd4\u0dbb\u0dcf-\u0d91\u0d9a\u0dca\u0daf\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/1-615445",
-    "time_ut": 1656301629,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0d9a\u0dca\u0d9a\u0db4\u0da7\u0dc3\u0dca \u0db4\u0dd4\u0db4\u0dd4\u0dbb\u0dcf \u0d91\u0d9a\u0dca\u0daf\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/4c/4c03283f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0d9a\u0dca\u0d9a\u0db4\u0da7\u0dc3\u0dca-\u0db4\u0dd4\u0db4\u0dd4\u0dbb\u0dcf-\u0d91\u0d9a\u0dca\u0daf\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-615445",
-    "time_ut": 1656301629,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0d9a\u0dca\u0d9a\u0db4\u0da7\u0dc3\u0dca \u0db4\u0dd4\u0db4\u0dd4\u0dbb\u0dcf \u0d91\u0d9a\u0dca\u0daf\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/2b/2b73d6a6.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130236",
-    "time_ut": 1656300860,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/84/84beaeeb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/colombo-city-schools-closed-this-week/",
-    "time_ut": 1656300480,
-    "original_lang": "en",
-    "original_title": "Colombo & City schools closed this week",
-    "file_name": "/tmp/news_lk2/articles/2a/2a5199f4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda-\u0db1\u0db8\u0dca\u200d\u0dba\u0dc1\u0dd3\u0dbd\u0dd3-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dda/7-394854",
-    "time_ut": 1656299568,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0db1\u0db8\u0dca\u200d\u0dba\u0dc1\u0dd3\u0dbd\u0dd3 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc4\u0dd4\u0daf\u0d9a\u0dbd\u0dcf \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/8e/8e96e960.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83276/final-decision-on-bus-fare-revision-expected-tomorrow-",
-    "time_ut": 1656298560,
-    "original_lang": "en",
-    "original_title": "Final decision on bus fare revision expected tomorrow",
-    "file_name": "/tmp/news_lk2/articles/5f/5f8cfaf4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd/175-299277",
-    "time_ut": 1656298518,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/49/491994a0.json"
   }
 ]
