@@ -1,7 +1,8 @@
 import os
+import re
 
 from fuzzywuzzy import fuzz
-from utils import TSVFile, timex
+from utils import JSONFile, timex
 
 from news_lk2._utils import log
 from news_lk2.core import Article
@@ -9,8 +10,20 @@ from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
 from news_lk2.core.news_wordcloud import build_wordcloud
 
-MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.WEEK
+MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.DAY
 MIN_FUZZ_RATIO_FOR_GROUP = 85
+
+
+def sort_by_value(_dict, limit=None):
+    sorted_items = list(
+        sorted(
+            _dict.items(),
+            key=lambda x: -x[1],
+        )
+    )
+    if limit:
+        sorted_items = sorted_items[:limit]
+    return dict(sorted_items)
 
 
 def filter_articles(max_age):
@@ -30,41 +43,52 @@ def filter_articles(max_age):
 
         return True
 
-    return list(filter(filter_article, articles))
+    filtered_articles = list(filter(filter_article, articles))
+    n_filtered_articles = len(filtered_articles)
+    log.debug(f'{n_filtered_articles=}')
+    return filtered_articles
 
 
-def build_trending_summary():
-    recent_articles = filter_articles(MAX_ARTICLE_AGE_FOR_TRENDS)
-    n_recent_articles = len(recent_articles)
-    log.debug(f'{n_recent_articles=}')
-    ents = []
-    for article in recent_articles:
-        text_idx = article.text_idx['en']
-        ents += text_idx['title_ents']
-        for ents0 in text_idx['body_line_ents_list']:
-            ents += ents0
+def get_thing_ent_set(article):
+    text_idx = article.text_idx['en']
+    ents = text_idx['title_ents']
+    for ents0 in text_idx['body_line_ents_list']:
+        ents += ents0
 
-    ent_text_to_n = {}
-    for ent in ents:
-        if ent['label'] not in THING_ENTS:
-            continue
-        k = ent['text'].replace('the ', '').strip()
-
-        if k not in ent_text_to_n:
-            ent_text_to_n[k] = 0
-        ent_text_to_n[k] += 1
-
-    sorted_ent_and_n = sorted(
-        ent_text_to_n.items(),
-        key=lambda x: -x[1],
-    )
-
-    sorted_ents = list(
-        map(
-            lambda x: x[0],
-            sorted_ent_and_n,
+    return list(
+        set(
+            list(
+                map(
+                    lambda ent: re.sub(
+                        "the ", "", ent['text'], flags=re.IGNORECASE
+                    ),
+                    list(
+                        filter(
+                            lambda ent: ent['label'] in THING_ENTS,
+                            ents,
+                        )
+                    ),
+                )
+            )
         )
     )
+
+
+def get_ent_to_n(articles):
+    ent_to_n = {}
+    for article in articles:
+        ent_set = get_thing_ent_set(article)
+        for ent in ent_set:
+            if ent not in ent_to_n:
+                ent_to_n[ent] = 0
+            ent_to_n[ent] += 1
+
+    log.debug(f'len(ent_to_n) = {len(ent_to_n)}')
+    return sort_by_value(ent_to_n, limit=100)
+
+
+def get_group_to_n(ent_to_n):
+    sorted_ents = list(ent_to_n.keys())
 
     ent_to_group = {}
     n = len(sorted_ents)
@@ -78,33 +102,36 @@ def build_trending_summary():
             ):
                 ent_to_group[sorted_ents[i]] = sorted_ents[j]
                 break
+    log.debug(f'len(ent_to_group) = {len(ent_to_group)}')
 
     group_to_n = {}
-    for ent, n in sorted_ent_and_n:
+    for ent, n in ent_to_n.items():
         group = ent_to_group[ent]
         if group not in group_to_n:
             group_to_n[group] = 0
         group_to_n[group] += n
 
-    sorted_group_and_n = sorted(
-        group_to_n.items(),
-        key=lambda x: -x[1],
-    )
+    log.debug(f'len(group_to_n) = {len(group_to_n)}')
+    return ent_to_group, sort_by_value(group_to_n)
 
-    data_list = list(
-        map(
-            lambda x: dict(
-                ent_group=x[0],
-                n=x[1],
-            ),
-            sorted_group_and_n,
-        )
-    )
 
-    trending_file = os.path.join(DIR_REPO, 'trending.tsv')
-    TSVFile(trending_file).write(data_list)
-    n_data_list = len(data_list)
-    log.info(f'Wrote {n_data_list} ents to {trending_file}')
+def build_trending_summary():
+    recent_articles = filter_articles(MAX_ARTICLE_AGE_FOR_TRENDS)
+    ent_to_n = get_ent_to_n(recent_articles)
+    ent_to_n_file = os.path.join(DIR_REPO, 'ent_to_n.json')
+    JSONFile(ent_to_n_file).write(ent_to_n)
+    log.debug(f'Wrote {ent_to_n_file}')
+
+    ent_to_group, group_to_n = get_group_to_n(ent_to_n)
+    print('get_group_to_n Done')
+
+    ent_to_group_file = os.path.join(DIR_REPO, 'ent_to_group.json')
+    JSONFile(ent_to_group_file).write(ent_to_group)
+    log.debug(f'Wrote {ent_to_group_file}')
+
+    group_to_n_file = os.path.join(DIR_REPO, 'group_to_n.json')
+    JSONFile(group_to_n_file).write(group_to_n)
+    log.debug(f'Wrote {group_to_n_file}')
 
     build_wordcloud(group_to_n)
 
