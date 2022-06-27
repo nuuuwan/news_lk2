@@ -14,15 +14,13 @@ MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.DAY
 MIN_FUZZ_RATIO_FOR_GROUP = 85
 
 
-def sort_by_value(_dict, limit=None):
+def sort_by_value(_dict):
     sorted_items = list(
         sorted(
             _dict.items(),
             key=lambda x: -x[1],
         )
     )
-    if limit:
-        sorted_items = sorted_items[:limit]
     return dict(sorted_items)
 
 
@@ -90,7 +88,7 @@ def get_ent_to_n(articles):
                 ent_to_n[ent] = 0
             ent_to_n[ent] += 1
 
-    return sort_by_value(ent_to_n, limit=100)
+    return sort_by_value(ent_to_n)
 
 
 def get_group_to_n(ent_to_n):
