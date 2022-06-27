@@ -1,9 +1,9 @@
 ent_group	n
-Sri Lanka	1698
-India	320
-US	243
-Australia	191
-Russia	188
+Sri Lanka	1701
+India	322
+US	244
+Russia	213
+Australia	195
 Parliament	164
 IMF	110
 Gotabhaya Rajapaksa	107
@@ -14,16 +14,16 @@ Constitution	91
 Ranil Wickremesinghe	89
 Rajapaksas	73
 21st Amendment	72
-Ukraine	70
+Ukraine	71
 Tamil	70
 Cabinet	69
+CPC	61
 Jaffna	61
-CPC	60
 Treasury	55
 German	55
 United States	54
+Ceylon Petroleum Corporation	54
 State	52
-Ceylon Petroleum Corporation	52
 Opposition	50
 Messi	50
 Buddhist	47
@@ -64,8 +64,8 @@ SriLankan Airlines	25
 United Nations	25
 Wijesekera	25
 ISB	25
+Navy	24
 France	24
-Navy	23
 Galle	23
 Nimal Siripala de Silva	23
 US State Department	23
@@ -101,10 +101,12 @@ Singapore	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 U.S. Department of State	18
+Trincomalee	17
 Homagama	17
 SJB	17
+European Union	17
 Arab	17
-Trincomalee	16
+US Treasury	17
 BOC	16
 Joe Biden	16
 British	16
@@ -115,8 +117,6 @@ Bulgaria	16
 Sri Lanka People's Front	16
 SriLankan Cares	16
 Committee	16
-European Union	16
-US Treasury	16
 Sajith Premadasa	16
 Korean	16
 Harin Fernando	16
@@ -273,6 +273,7 @@ African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
+IOC	8
 Western	8
 Mexico	8
 Colombo	8
@@ -304,6 +305,7 @@ Moldova	8
 M.S.	8
 Nasheed	8
 CAG	8
+National Transport Commission	8
 Power and Energy	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
@@ -319,7 +321,6 @@ Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
 Ajith Nivard Cabraal	7
-National Transport Commission	7
 Swiss	7
 Indonesia	7
 Coimbatore	7
@@ -334,7 +335,6 @@ Vasudeva Nanayakkara	7
 Paddy Marketing Board	7
 CWE	7
 Twitter	7
-IOC	7
 U.S. Embassy	7
 TNA	7
 RBIO	7
@@ -445,6 +445,7 @@ Railway Department	6
 Eastern Terminal	6
 General Elections	6
 Puttalam Base Hospital	6
+Thilan Miranda	6
 Department	6
 Borella Children's Hospital	6
 Tamil National Alliance	6
@@ -460,6 +461,8 @@ Kiul Oya	6
 Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
+Moscow	5
+NTC	5
 Sabaragamuwa	5
 Ministry of Power and Energy	5
 Vladimir Putin	5
@@ -529,7 +532,6 @@ Asian Development Bank	5
 New Delhi	5
 General Assembly	5
 Lalith Dharmasekera	5
-Thilan Miranda	5
 1978 Constitution	5
 Mark Meloch-Brown	5
 Roe	5
@@ -543,6 +545,7 @@ Bribery and Corruption Commission	5
 North Macedonia	5
 North America	5
 Bosnia and Herzegovina	5
+Gemunu Wijeratne	5
 The Department of Meteorology	5
 Defense	5
 Hindu	5
@@ -556,9 +559,10 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Reuters	4
+Provincial Secretaries	4
 Beijing	4
 Qatar	4
-Moscow	4
 Azerbaijan	4
 Black Monday	4
 Mirror Business	4
@@ -711,6 +715,7 @@ Prime Minister's Office	4
 LSSP	4
 The National Water Supply and Drainage Board	4
 Peter Breuer	4
+West coast	4
 Aruni Wijewardane	4
 KMM Siriwardena	4
 MSS Saman Fernando	4
@@ -720,7 +725,6 @@ Bada Khana	4
 Bundaberg	4
 Punchihewa	4
 Saliya Peiris	4
-Gemunu Wijeratne	4
 Sri Lankan Navy	4
 JR Jayewardene	4
 Asia Pacific Property Awards	4
@@ -741,7 +745,9 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Kremlin	3
 Kotagala	3
+Ministry Secretaries	3
 Kerosene	3
 Central	3
 North-Central	3
@@ -760,7 +766,6 @@ CA	3
 International Sovereign Bonds	3
 Caribbean	3
 Ghana	3
-Reuters	3
 Charles Michel	3
 Scholz	3
 SSP Nihal Thalduwa	3
@@ -800,7 +805,6 @@ Best Real Estate Marketing Company	3
 KNOMAD	3
 Colombo Fort Railway Station	3
 Roman	3
-Provincial Secretaries	3
 OIC	3
 Defense Staff	3
 Select Committee	3
@@ -858,7 +862,6 @@ South East Asia Petroleum Exploration Society	3
 Asia Pacific Conference	3
 Airborne	3
 Gravity Gradiometry	3
-West coast	3
 M2	3
 Cairn India	3
 Mannar M2	3
@@ -988,15 +991,22 @@ Human Rights Council	3
 Parliament Elections Act	3
 State Partnership Program	3
 National Guard	3
+Lanka Private Bus Owners’ Association	3
 Anthony Blinken	3
 All Ceylon Bakery Owners Association	3
 Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Bloomberg News	2
+Vladimir Lenin	2
+Russian Empire	2
+Batticaloa-Palameenmadu	2
+Ministry of Transport	2
+Secretaries	2
+State Personnel	2
 Dilip Chamara	2
 Samarakoonwewa	2
-NTC	2
 Italian	2
 Kazakhstan	2
 People’s Bank	2
@@ -1191,7 +1201,6 @@ Ratnayake	2
 MNO	2
 Communist Party of Sri Lanka	2
 Gemunu	2
-Ministry Secretaries	2
 Colombo Outer Circular Highway	2
 Southern Expressway Athurugiriya Traffic Control Center	2
 Kaduwela	2
@@ -1610,6 +1619,7 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+The Public Administration Circulars	2
 Dhammika Nanayakkara	2
 Antonio Guterres	2
 Imtiaz Bakeer Markar	2
@@ -1619,7 +1629,6 @@ Indrajit Coomaraswamy	2
 Organization of Petroleum Exporting Countries	2
 Sri Lanka Bar Association	2
 democrats	2
-Lanka Private Bus Owner’s Association	2
 Indica de Silva	2
 Rameshwaran	2
 Akkarapathana	2
@@ -1695,11 +1704,26 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Euroclear	1
+Taiwanese	1
+Bolshevik Revolution	1
+Boris Yeltsin’s	1
+National Settlements Depository	1
+Anton Siluanov	1
+RIA Novosti	1
+Siluanov	1
+Gothandramar	1
+Coast Guard	1
+Coast Guard Station	1
+Bolshevik Revolution of 1918	1
+EuroClear Bank	1
 Modhu Mawdiwem	1
 Mavadivembu	1
 Batticaloa Junction	1
 BSP	1
 Junction Police	1
+All-Island United Container Transport Owners’ Association	1
+National Policy	1
 The Container Owners Association	1
 Hatton Magistrate's Court	1
 Dimbula-Pathana Police	1
@@ -1708,7 +1732,8 @@ Colombo-Batticaloa	1
 Chengaladi	1
 Arayambathi	1
 Modhu Teaching Hospital	1
-Batticaloa-Palameenmadu	1
+Home for Public Sector	1
+a Work From Home	1
 Trade Union	1
 Yunnan	1
 Sichuan	1
@@ -1736,7 +1761,6 @@ Reference - https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/press/
 Monetary Board & Flexible * Exchange Rate Policy	1
 365.00	1
 Lakshman	1
-Ministry of Transport	1
 Mario Duragi	1
 G7 Group Leaders'	1
 Duragi	1
@@ -2122,9 +2146,6 @@ Eelam People's Democratic Party	1
 210	1
 Shipping Nimal Siripala de Silva	1
 The Ministry of Public Administration Home Affairs	1
-Secretaries	1
-State Personnel	1
-Thw Public Administration Circulars	1
 Ministerial Sub-Committee	1
 Expert Committee	1
 Ministry of Finance Mahinda Siriwardena	1
