@@ -4,6 +4,7 @@ from utils import JSONFile
 
 from news_lk2._utils import log
 from news_lk2.core.filesys import DIR_REPO
+from news_lk2.core.trends import filter_articles, get_thing_ent_set
 
 N_LATEST = 400
 
@@ -43,10 +44,28 @@ def build_articles_summary_latest(articles_summary):
     )
 
 
-def build_articles_summary(articles):
+def get_group_to_articles(articles, ent_to_group):
+    group_to_articles = {}
+    recent_articles = filter_articles(articles)
+    for article in recent_articles:
+        file_name = article.file_name
+        ent_set = get_thing_ent_set(article)
+        for ent in ent_set:
+            group = ent_to_group[ent]
+            if group not in group_to_articles:
+                group_to_articles[group] = []
+            group_to_articles[group].append(file_name)
+    return group_to_articles
+
+
+def build_group_to_articles(articles, ent_to_group):
+    group_to_articles = get_group_to_articles(articles, ent_to_group)
+    group_to_articles_file = os.path.join(DIR_REPO, 'group_to_articles.json')
+    JSONFile(group_to_articles_file).write(group_to_articles)
+    log.info(f'Wrote {group_to_articles_file}')
+
+
+def build_articles_summary(articles, ent_to_group):
     articles_summary = build_articles_summary_only(articles)
     build_articles_summary_latest(articles_summary)
-
-
-if __name__ == '__main__':
-    build_articles_summary()
+    build_group_to_articles(articles, ent_to_group)
