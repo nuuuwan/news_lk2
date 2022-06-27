@@ -1,14 +1,14 @@
 ent_group	n
-Sri Lanka	1752
-India	326
+Sri Lanka	1777
+India	328
 US	254
 Russia	213
-Australia	195
+Australia	196
 Parliament	165
 Central Bank	119
 IMF	116
 Gotabhaya Rajapaksa	107
-International Monetary Fund	100
+International Monetary Fund	101
 China	96
 Constitution	93
 Ranil Wickremesinghe	93
@@ -19,25 +19,26 @@ Ukraine	71
 Tamil	70
 Jaffna	67
 CPC	63
-Treasury	55
+Treasury	56
+United States	56
 Ceylon Petroleum Corporation	55
 German	55
-United States	54
-State	52
+State	53
 Opposition	50
 Messi	50
 Buddhist	47
+Matara	45
 Aragalaya	43
+U.S.	43
 Wickremesinghe	43
-Matara	42
-European	42
+European	43
+Central Bank of Sri Lanka	42
 Japan	41
 Viswanathan	41
-Central Bank of Sri Lanka	41
 House	40
-U.S.	40
 Ministry of Education	40
 Hambantota	39
+Tamil Nadu	38
 UNP	38
 UN	37
 Kanchana Wijesekera	37
@@ -46,7 +47,6 @@ EU	34
 Puttalam	33
 CSE	33
 Asia	33
-Tamil Nadu	32
 Monetary Board	31
 Argentina	30
 Middle East	30
@@ -70,6 +70,7 @@ France	24
 Colombo National Hospital	24
 Nimal Siripala de Silva	24
 US State Department	24
+Army	23
 Nandalal Weerasinghe	22
 USA	22
 UK	22
@@ -77,31 +78,32 @@ Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
 American	22
+Kelly Keiderling	22
 Magammana	21
 Supreme Court	21
 South Asia	21
-Kelly Keiderling	21
-Army	20
+Robert Kaproth	21
+Singapore	20
+Northern Province	20
 Bill	20
+Central Asia	20
 Romania	20
 Ukrainian	20
-Robert Kaproth	20
 Colombo/Jun24/2022	20
 Trincomalee	19
 Perera	19
 Order	19
 JVP	19
-Northern Province	19
-Central Asia	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
+U.S. Department of State	19
+British	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
-Singapore	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
-U.S. Department of State	18
+Ministry of Finance	17
 Diesel	17
 Homagama	17
 SJB	17
@@ -109,11 +111,9 @@ European Union	17
 Arab	17
 US Treasury	17
 North	16
-Ministry of Finance	16
 Kandy	16
 BOC	16
 Joe Biden	16
-British	16
 Shane	16
 SL	16
 Ports	16
@@ -164,6 +164,7 @@ Kahathuduwa	13
 Colombo Fort	13
 Gotabhaya	13
 The Consumer Affairs Authority	13
+Vavuniya	12
 Spanish	12
 Home Affairs	12
 French	12
@@ -231,6 +232,7 @@ Canada	10
 Johnston	10
 Bank of Ceylon	10
 Easter	10
+Kankesanthurai	10
 Government Medical Officers' Association	10
 MA Sumanthiran	10
 Cabinet of Ministers	10
@@ -238,6 +240,8 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+Colombo	9
+U.S. Embassy	9
 Expolanka	9
 IOC	9
 Ministry	9
@@ -249,7 +253,6 @@ Board	9
 LTTE	9
 East	9
 Panadura	9
-Vavuniya	9
 Commercial Bank	9
 Ratnapura	9
 Board of Directors	9
@@ -272,7 +275,6 @@ Aussies	9
 Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
-Kankesanthurai	9
 Homagama Base Hospital	9
 Sri Lankan Cricket	9
 Lahiru Weerasekera	9
@@ -282,10 +284,10 @@ African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
+Douglas Devananda	8
 University of Kelaniya	8
 Southern Expressway	8
 Mexico	8
-Colombo	8
 Maithripala Sirisena	8
 Tsunami	8
 Islam	8
@@ -318,6 +320,7 @@ Wijeratne	8
 Lanka Sama Samaja Party	8
 Eric Lavertu	8
 Sirisena	8
+Matara General Hospital	8
 Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
 International Transaction Reporting System	8
@@ -325,7 +328,6 @@ North Western	8
 Eurasia	8
 COPE Committee	8
 Rathindu Senaratne	8
-Douglas Devananda	7
 Palaly	7
 Fed	7
 Sabaragamuwa	7
@@ -344,7 +346,6 @@ Trichy	7
 Vasudeva Nanayakkara	7
 Paddy Marketing Board	7
 CWE	7
-U.S. Embassy	7
 TNA	7
 RBIO	7
 Hitler	7
@@ -361,7 +362,6 @@ Sajith	7
 Luminex Limited	7
 Manipay	7
 Mitchell Marsh	7
-Matara General Hospital	7
 Mano Ganesan	7
 Second Amendment	7
 R. Premadasa Stadium	7
@@ -372,6 +372,7 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
+Kaushalya Kumari	6
 Tamil Progressive Alliance	6
 Lanka	6
 Kuwait	6
@@ -435,6 +436,7 @@ Sathosa	6
 Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
+Sri Lanka Army	6
 Shavendra Silva	6
 Wijetasa Rajapaksa	6
 Iraq	6
@@ -476,8 +478,9 @@ Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 The Central Bank Annual Report	6
+KKS	5
+Kilinochchi	5
 Air Force	5
-Kaushalya Kumari	5
 Ada Derana	5
 Kerosene	5
 Moscow	5
@@ -545,7 +548,6 @@ Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
 Ministry of Defense	5
-Sri Lanka Army	5
 Asian Development Bank	5
 New Delhi	5
 General Assembly	5
@@ -574,7 +576,11 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Urea	4
+MT	4
+Defence Ministry for Cargo Ferry Service	4
 Chennai	4
+Secretariat	4
 Leader	4
 Port of Colombo	4
 Central	4
@@ -599,7 +605,6 @@ Provincial Secretaries of Education	4
 Kanchana	4
 SSP Nihal Thalduwa	4
 Mannar	4
-Kilinochchi	4
 Svastika	4
 Kangaroos	4
 Yellow	4
@@ -767,9 +772,10 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Denmark	3
 Pondicherry	3
 Karaikal	3
-Secretariat	3
+Y. Wickramarasiri	3
 Embilipitiya	3
 Sri Lanka Tea Board	3
 Gampaha Magistrate's Court	3
@@ -818,7 +824,6 @@ Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
 Samagi United Trade Union Force	3
 Ananda Palitha	3
-MT	3
 Solomon Islands	3
 New Zealand	3
 US Senate Foreign Relations Committee	3
@@ -1020,17 +1025,22 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+BJP	2
 Medirigiriya	2
+Kilinochchi Hospital	2
 Nisal Baduge	2
+U.S. Department of Treasury	2
 The Chinese Embassy	2
 Hambantota Port	2
 Exim Bank of China	2
+Defence Ministry	2
+Daily Exchange Rate	2
 210	2
 Sri Jayewardenepura University	2
 Kovit	2
 Prasad	2
 Montessori	2
-Y. Wickramarasiri	2
+Divisional Secretariat	2
 Economy Next	2
 Anura	2
 Dharmalingam Siddharthan	2
@@ -1533,7 +1543,6 @@ Kavinda Zoysa	2
 Lahiru	2
 European Countries	2
 Ja-Ela	2
-Denmark	2
 Jayashankar	2
 Gotabhaya Gotabhaya	2
 Republic of Italy Rita Mannella	2
@@ -1665,6 +1674,7 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+Division	2
 Arayambadi	2
 Modular Teaching Hospital	2
 All Share Price Index	2
@@ -1757,12 +1767,19 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Sri Lanka Transport Board Vavuniya	1
+Senior Office	1
+Indian Credit Line	1
+National Fertilizer	1
+Sri Lanka Standard Institute	1
 Sirimavo Bandaranaike Primary School	1
 Navanagaraya	1
 Chaityapara	1
 Diyasenpura	1
 Parakumpura	1
 Track 9	1
+Security Force Headquarters –Mullaittivu	1
+Mas Intimates	1
 Union Place	1
 Kankesanthurai and Tamil Nadu	1
 PM’s Office	1
@@ -1772,7 +1789,9 @@ The Shinji Shenzhen Group	1
 Ceylon Tire Manufacturing Company	1
 Hose Yachts	1
 Lanwa Cement	1
-Urea	1
+Karaikal Port	1
+Port of Pondicherry in	1
+a Cargo Boat Service	1
 Colombo Commercial Fertilizer	1
 Department of Immunology	1
 Molecular Biology	1
@@ -1782,7 +1801,6 @@ Kokuvil	1
 Ruwan Prazad	1
 Corona .It's	1
 Ruwan Preethi Kumara	1
-Divisional Secretariat	1
 Elderly	1
 Jaffna - A	1
 Ilavalai	1
@@ -2111,7 +2129,6 @@ Allari House	1
 Premadasa Dhanwasam	1
 Bashra	1
 RSS	1
-BJP	1
 Center for Buddhist Studies	1
 Arab League	1
 Mullaitivu - Thanni Murippu	1
@@ -2350,7 +2367,6 @@ Paranthan-Poonakary	1
 Jaffna District Conference of	1
 Paranthan	1
 Poonakary	1
-U.S. Department of Treasury	1
 int’l	1
 Petrol Octane	1
 Ceypetco & LIOC	1
@@ -2458,7 +2474,6 @@ Sarath Silva Supreme Court	1
 Sick Matara	1
 Matara Co-operative	1
 Hospital	1
-Divisional	1
 Quota	1
 Dayan	1
 Diplomat	1
@@ -2629,7 +2644,6 @@ National Intelligence Major	1
 Ruwan Kulathunga	1
 State Intelligence Service Major	1
 Suresh Salley	1
-Defence Ministry	1
 Medamahanuwara Hospital	1
 Teldeniya Base Hospital	1
 United Nations Biodiversity Draft	1
@@ -3451,7 +3465,6 @@ Jaffna Railway Station	1
 MDS Ramachandran	1
 Nandana Amarasinghe	1
 Temmeria Estate	1
-Daily Exchange Rate	1
 Florist	1
 Kahawe	1
 Ambalangoda	1

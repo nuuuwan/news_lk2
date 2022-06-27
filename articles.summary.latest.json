@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130249",
+    "time_ut": 1656314818,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc6\u0bbe\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0bc7\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1  \u0b85\u0b95\u0bcd\u0b95\u0bb1\u0bc8 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1 \u0b8f\u0ba9\u0bcd?",
+    "file_name": "/tmp/news_lk2/articles/fb/fbaa83f6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130245",
+    "time_ut": 1656314728,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b4/b42add0e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/urea-fertilizer-shipment-delayed-by-another-two-days/",
+    "time_ut": 1656314580,
+    "original_lang": "en",
+    "original_title": "Urea fertilizer shipment delayed by another two days",
+    "file_name": "/tmp/news_lk2/articles/a0/a0a911ce.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dda\u0dc0\u0dd0\u0dbd-\u0db4\u0dc3\u0d9a-\u0daf\u0db8\u0dcf-\u0dc3\u0dd4\u0d9a\u0dca\u0d9a\u0dcf\u0db1\u0db8-\u0d85\u0dad\u0da7-\u0d9c\u0dad\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2/1-615471",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dda\u0dc0\u0dd0\u0dbd-\u0db4\u0dc3\u0d9a-\u0daf\u0db8\u0dcf-\u0dc3\u0dd4\u0d9a\u0dca\u0d9a\u0dcf\u0db1\u0db8-\u0d85\u0dad\u0da7-\u0d9c\u0dad\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2/101-615471",
     "time_ut": 1656314566,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dda\u0dc0\u0dd0\u0dbd \u0db4\u0dc3\u0d9a \u0daf\u0db8\u0dcf \u0dc3\u0dd4\u0d9a\u0dca\u0d9a\u0dcf\u0db1\u0db8 \u0d85\u0dad\u0da7 \u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dca\u0db4\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/99/99ba66f6.json"
+    "file_name": "/tmp/news_lk2/articles/18/18c614fb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/army-troops-donate-blood-to-kilinochchi-hospital/",
+    "time_ut": 1656314280,
+    "original_lang": "en",
+    "original_title": "Army troops donate blood to Kilinochchi Hospital",
+    "file_name": "/tmp/news_lk2/articles/3d/3da77a8b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -38,6 +70,22 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0db6\u0daf\u0dd4 \u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9a\u0dbb\u0db4\u0dd4 \u0daf\u0dda \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc4\u0dd9\u0dc5\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/9e/9efcce90.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/green-light-from-defence-ministry-for-cargo-ferry-service-between-kks-and-tamil-nadu/",
+    "time_ut": 1656313860,
+    "original_lang": "en",
+    "original_title": "Green Light from Defence Ministry for Cargo Ferry Service between KKS and Tamil Nadu",
+    "file_name": "/tmp/news_lk2/articles/2d/2d63811b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/daily-exchange-rate-from-cbsl-6/",
+    "time_ut": 1656313560,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/8d/8d3d433d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -102,6 +150,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc3\u0dd2\u0dbb \u0d9a\u0dc5\u0dcf\u0da7 \u0db4\u0dca\u200d\u0dbb.\u0dbd\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dcf\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d4/d4cdc86e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0dc3\u0dd2\u0dbb-\u0d9a\u0dc5\u0dcf\u0da7-\u0db4\u0dca\u200d\u0dbb-\u0dbd\u0dda-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba-\u0db4\u0dcf\u0dad\u0dd2/101-615465",
+    "time_ut": 1656311346,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc3\u0dd2\u0dbb \u0d9a\u0dc5\u0dcf\u0da7 \u0db4\u0dca\u200d\u0dbb.\u0dbd\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dcf\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/03/034539c8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -742,61 +798,5 @@
     "original_lang": "en",
     "original_title": "Banking body urges decisive wave of global rate hikes to stem inflation",
     "file_name": "/tmp/news_lk2/articles/4c/4cfb5a29.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Banking-body-urges-decisive-wave-of-global-rate-hikes-to-stem-inflation/273-239836",
-    "time_ut": 1656276392,
-    "original_lang": "en",
-    "original_title": "Banking body urges decisive wave of global rate hikes to stem inflation",
-    "file_name": "/tmp/news_lk2/articles/50/509819cc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Credit-card-spend-weakens-further-in-May-as-rates-go-into-restrictive-territory/108-239833",
-    "time_ut": 1656276180,
-    "original_lang": "en",
-    "original_title": "Credit card spend weakens further in May as rates go into restrictive territory",
-    "file_name": "/tmp/news_lk2/articles/9b/9b2f0492.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Credit-card-spend-weakens-further-in-May-as-rates-go-into-restrictive-territory/273-239833",
-    "time_ut": 1656276180,
-    "original_lang": "en",
-    "original_title": "Credit card spend weakens further in May as rates go into restrictive territory",
-    "file_name": "/tmp/news_lk2/articles/35/351b7cb2.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/PSC-on-electoral-reform-recommends-control-of-election-expenses-code-of-conduct-for-candidates/56-736732",
-    "time_ut": 1656276079,
-    "original_lang": "en",
-    "original_title": "PSC on electoral reform recommends control of election expenses, code of conduct for candidates",
-    "file_name": "/tmp/news_lk2/articles/f6/f661dcbb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Support-cannot-be-gained-when-leadership-does-not-reflect-will-of-people-SJB/56-736731",
-    "time_ut": 1656275960,
-    "original_lang": "en",
-    "original_title": "Support cannot be gained when leadership does not reflect will of people: SJB",
-    "file_name": "/tmp/news_lk2/articles/39/39f394eb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Social-Security-Contribution-Levy-Bill-to-Parliament-shortly/56-736730",
-    "time_ut": 1656275915,
-    "original_lang": "en",
-    "original_title": "Social Security Contribution Levy Bill to Parliament shortly",
-    "file_name": "/tmp/news_lk2/articles/41/410cfe58.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Colombo-and-city-schools-closed-till-1-July/56-736729",
-    "time_ut": 1656275877,
-    "original_lang": "en",
-    "original_title": "Colombo and city schools closed till 1 July",
-    "file_name": "/tmp/news_lk2/articles/28/28050bee.json"
   }
 ]
