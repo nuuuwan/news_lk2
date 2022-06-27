@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 23:43:27 (LK time)*
+*As of 2022-06-27 23:57:04 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,9 +10,9 @@
 
 * **1** ada-derana-lk ([Cabinet approval to gazette 22nd Amendment and table in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db90e775.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (21 Articles)
 
-* **8** daily-mirror-lk ([Kanchana leaves for Qatar to discuss fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1f3b52a.json))
+* **7** daily-mirror-lk ([Wanted Nigerian national fleeing with forged passport nabbed at BIA](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f6a52e.json))
 
 * **6** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
 
@@ -24,9 +24,7 @@
 
 * **1** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
 
-* **1** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
-
-## Last 24 Hours (270 Articles)
+## Last 24 Hours (271 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -34,7 +32,7 @@
 
 * **37** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
-* **32** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
+* **33** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
 
 * **28** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
@@ -50,7 +48,7 @@
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,049 Articles)
+## Last Week (1,050 Articles)
 
 * **169** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
@@ -60,7 +58,7 @@
 
 * **119** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **113** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
+* **114** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
 * **93** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -78,7 +76,7 @@
 
 * **11** b-b-c-com-sinhala ([ඕස්ට්‍රේලියාවට එරෙහි අද තරගයෙන් ශ්‍රී ලංකාවේ පැතුම ඉටුවෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ea68c9.json))
 
-## All Time (1,216 Articles)
+## All Time (1,217 Articles)
 
 * **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +86,7 @@
 
 * **119** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **114** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **115** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **93** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
