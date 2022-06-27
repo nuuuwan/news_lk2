@@ -7,7 +7,7 @@ from news_lk2._utils import log
 from news_lk2.core import Article
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
-from news_lk2.workflows.build_wordcloud import build_wordcloud
+from news_lk2.core.wordcloud import build_wordcloud
 
 DELIM_MD = '\n' * 2
 N_LATEST = 100

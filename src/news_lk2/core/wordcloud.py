@@ -3,10 +3,10 @@ import shutil
 
 import matplotlib.pyplot as plt
 from utils import timex
+from wordcloud import WordCloud
 
 from news_lk2._utils import log
 from news_lk2.core.filesys import DIR_REPO
-from wordcloud import WordCloud
 
 
 def build_wordcloud(group_to_n):
