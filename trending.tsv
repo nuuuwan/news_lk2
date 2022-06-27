@@ -1,59 +1,59 @@
 ent_group	n
-Sri Lanka	1797
-India	336
-US	257
+Sri Lanka	1807
+India	338
+US	263
 Russia	213
-Australia	201
+Australia	203
 Parliament	167
 Central Bank	119
 IMF	116
-Gotabhaya Rajapaksa	109
+Gotabhaya Rajapaksa	111
 International Monetary Fund	100
 China	97
-Ranil Wickremesinghe	94
+Ranil Wickremesinghe	95
 Constitution	93
 21st Amendment	76
 Rajapaksas	73
 Tamil	72
 Cabinet	71
 Ukraine	71
-Jaffna	67
+Jaffna	70
 CPC	63
+Treasury	59
 Muslim	58
-Treasury	56
 Ceylon Petroleum Corporation	56
+United States	55
 German	55
-United States	54
+State	53
 Buddhist	53
-State	52
 Opposition	50
 Messi	50
 Matara	45
 Aragalaya	44
 European	44
+Japan	43
 Wickremesinghe	43
 Central Bank of Sri Lanka	42
-Japan	41
+House	41
 Viswanathan	41
-House	40
 U.S.	40
 Ministry of Education	40
 Hambantota	39
 Tamil Nadu	38
 UNP	38
+Mullaitivu	37
 UN	37
 Kanchana Wijesekera	37
-Mullaitivu	36
 Asia	36
 EU	34
 Puttalam	33
 CSE	33
+Navy	31
 Monetary Board	31
 Middle East	31
 Argentina	30
 Johnston Fernando	29
 Arab	29
-Navy	28
 Chinese	28
 Premadasa	28
 CID	27
@@ -67,29 +67,30 @@ SPP	26
 Galle	25
 United Nations	25
 ISB	25
+US State Department	25
 France	24
 Colombo National Hospital	24
 Nimal Siripala de Silva	24
-US State Department	24
 Army	23
 Mahinda Rajapaksa	23
+American	23
+Kelly Keiderling	23
 Nandalal Weerasinghe	22
 USA	22
 UK	22
 Welgama	22
 Dhammika Perera	22
-American	22
-Kelly Keiderling	22
+Robert Kaproth	22
 Magammana	21
+Northern Province	21
+Central Asia	21
 Supreme Court	21
 South Asia	21
-Robert Kaproth	21
 Singapore	20
-Northern Province	20
 Bill	20
-Central Asia	20
 Romania	20
 Ukrainian	20
+Ferdinando	20
 Sinhala-Buddhist	20
 Colombo/Jun24/2022	20
 North	19
@@ -97,6 +98,7 @@ Trincomalee	19
 Perera	19
 Order	19
 JVP	19
+Committee	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
@@ -105,6 +107,8 @@ Kandy	18
 Sinhalese	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
+Julie Chung	18
+COPE Committee	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 U.S. Department of State	18
@@ -122,8 +126,6 @@ Ports	16
 Bulgaria	16
 Sri Lanka People's Front	16
 SriLankan Cares	16
-Committee	16
-Julie Chung	16
 Sajith Premadasa	16
 Korean	16
 Harin Fernando	16
@@ -137,6 +139,8 @@ Theekshana	15
 Karunaratne	15
 Estonia	15
 Ministry of Public Administration	15
+Vavuniya	14
+STF	14
 Finance	14
 Kadawatha	14
 Daily Mirror	14
@@ -151,10 +155,10 @@ Basil Rajapaksa	14
 Jagath Manuwarna	14
 Lankans	14
 Nuwara Eliya	14
+Government Medical Officers' Association	14
 The Public Utilities Commission	14
 Department of Archeology	14
-Vavuniya	13
-STF	13
+National People's Force	13
 NATO	13
 Government of Sri Lanka	13
 Hatton	13
@@ -162,10 +166,15 @@ Nepal	13
 Western Province	13
 National Authority on Tobacco and Alcohol	13
 Section 8 of	13
+COPE	13
+Anura Kumara Dissanayake	13
 Kahathuduwa	13
 Colombo Fort	13
+US Treasury Department	13
 Gotabhaya	13
 The Consumer Affairs Authority	13
+CEB	12
+Twitter	12
 Spanish	12
 Home Affairs	12
 French	12
@@ -178,16 +187,11 @@ NL	12
 Soviet Union	12
 Foreign Exchange Act	12
 Education Ministry	12
-Anura Kumara Dissanayake	12
 World Cup	12
-US Treasury Department	12
 Bell Geospace	12
 Latin America	12
 Naseer Ahmed	12
-Government Medical Officers' Association	12
 EU Ambassadors	12
-Twitter	11
-National People's Force	11
 COVID-19	11
 Egypt	11
 LTTE	11
@@ -203,16 +207,15 @@ Gulf	11
 Galle Face	11
 Temple Trees	11
 Dudley	11
+Ministry of Agriculture	11
 Chaturanga Samarawickrama	11
 Palaly Airport	11
-COPE	11
 Hatton-Colombo	11
 Maldives	10
 Ven	10
 Kottawa	10
 Kovid	10
 Energy	10
-CEB	10
 Sinhala	10
 West	10
 Department of Foreign Exchange	10
@@ -228,11 +231,9 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
-Ministry of Agriculture	10
 United People's Power	10
 Indonesia	10
 United National Party	10
-Fernando	10
 Galle Face Green	10
 Canada	10
 Johnston	10
@@ -245,6 +246,7 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+Paddy Marketing Board	9
 Colombo	9
 Expolanka	9
 IOC	9
@@ -269,6 +271,7 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
+Ceylon Electricity Board	9
 Colombo Stock Exchange	9
 Ministry of Health	9
 Luminex	9
@@ -286,7 +289,7 @@ African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
-Paddy Marketing Board	8
+Batticaloa	8
 Douglas Devananda	8
 University of Kelaniya	8
 Southern Expressway	8
@@ -327,9 +330,9 @@ Sarath Weerasekara	8
 International Transaction Reporting System	8
 North Western	8
 Eurasia	8
-COPE Committee	8
 Rathindu Senaratne	8
-Batticaloa	7
+Mannar	7
+Mahinda Amaraweera	7
 Palaly	7
 Fed	7
 Sabaragamuwa	7
@@ -341,7 +344,6 @@ Kelaniya	7
 Coimbatore	7
 Mendis	7
 Kurunegala	7
-Ceylon Electricity Board	7
 Palitha	7
 Brazil	7
 Trichy	7
@@ -364,6 +366,7 @@ Sajith	7
 Luminex Limited	7
 Manipay	7
 Mitchell Marsh	7
+Special Task Force	7
 Defense	7
 Mano Ganesan	7
 Second Amendment	7
@@ -375,10 +378,10 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
+Electricity Board	6
+Ministry of Power and Energy	6
 Sammanthurai	6
 South	6
-Mannar	6
-Mahinda Amaraweera	6
 Kaushalya Kumari	6
 Tamil Progressive Alliance	6
 Lanka	6
@@ -470,13 +473,13 @@ Thilan Miranda	6
 Department	6
 Borella Children's Hospital	6
 Tamil National Alliance	6
-Special Task Force	6
 Dilshan Weerasekera	6
 Gopal Baglay	6
 Senthil Thondaman	6
 Jinarathana Thero	6
 Public Property Act	6
 Amarakeerthi Athukorala	6
+Government	6
 Christians	6
 Kiul Oya	6
 Power and Energy Minister	6
@@ -486,11 +489,11 @@ The Central Bank Annual Report	6
 KKS	5
 Kilinochchi	5
 Air Force	5
+Leader	5
 Ada Derana	5
 Kerosene	5
 Moscow	5
 NTC	5
-Ministry of Power and Energy	5
 Vladimir Putin	5
 Fitch Ratings	5
 OE	5
@@ -555,6 +558,7 @@ Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
 Sri Lanka People's Alliance	5
+Agriculture	5
 Ministry of Defense	5
 Asian Development Bank	5
 New Delhi	5
@@ -572,6 +576,7 @@ Heenatigala	5
 Bribery and Corruption Commission	5
 North Macedonia	5
 Bosnia and Herzegovina	5
+Charitha Herath	5
 Gemunu Wijeratne	5
 Hindu	5
 democratic	5
@@ -583,13 +588,14 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Ampara	4
 Urea	4
 MT	4
 Defence Ministry for Cargo Ferry Service	4
 Medirigiriya	4
+Embilipitiya	4
 Chennai	4
 Secretariat	4
-Leader	4
 Port of Colombo	4
 Central	4
 North-Central	4
@@ -725,11 +731,9 @@ Maldivian	4
 Sher Bahadur	4
 MCC	4
 Tibetan	4
-Agriculture	4
 Monaragala	4
 Yvette Fernando	4
 Monetary Law Act	4
-Government	4
 The IEEE TCSVC Research Innovation Award	4
 European Council	4
 Dushyanthi	4
@@ -758,6 +762,8 @@ MSS Saman Fernando	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
+Media Committee of Government Medical Officers' Association	4
+Ministry of Agriculture Rohana Pushpakumara	4
 Bundaberg	4
 Punchihewa	4
 Saliya Peiris	4
@@ -768,7 +774,6 @@ Kottalawala Expressway	4
 Expressway Traffic Police CSP Chinthaka Gunaratne	4
 Anurutha Chandasekara	4
 Office for National Unity and Reconciliation	4
-Charita Herath	4
 Cope Group	4
 All Ceylon Restaurant Owners' Association	4
 Sabaragamuwa Province	4
@@ -782,12 +787,14 @@ Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
 Nalaka Godahewa	3
-Ampara	3
 Denmark	3
 Pondicherry	3
 Karaikal	3
 Y. Wickramarasiri	3
-Embilipitiya	3
+Anura	3
+Dharmalingam Siddharthan	3
+Hiroshima	3
+Nagasaki	3
 Sri Lanka Tea Board	3
 Gampaha Magistrate's Court	3
 Dhammajinna Thero	3
@@ -969,6 +976,8 @@ Ceylon Chamber	3
 Foreign Service	3
 NC	3
 Adani Group	3
+Anura Kumara	3
+Provincial Council	3
 National-Long Term Rating	3
 International Fund for Agriculture Development	3
 OPEC+	3
@@ -981,7 +990,6 @@ Hamilton Bank	3
 Kivul Oya Irrigation Project	3
 The Environmental Impact Assessment Report	3
 Fort Railway Station	3
-The Central Committee of Government Medical Officers' Association	3
 Mattala	3
 Group CC	3
 Dharmasekera	3
@@ -1011,7 +1019,6 @@ Kota Ko Gama'	3
 Colombo Fort Magistrate Thilina Gamage	3
 Darshana Kuruppu	3
 Buddhika Tillekeratne	3
-Ministry of Agriculture Rohana Pushkumara	3
 Lak Sathosa	3
 Eraj Fernando	3
 Sunil Gunaratne	3
@@ -1036,7 +1043,14 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+MP	2
+Annexure	2
 Export Development Board	2
+Prasanna Colombage	2
+Milco	2
+National Livestock Development Board's	2
+Paddy Marketing Board Neil de Alwis	2
+Milco Renuka Perera	2
 BJP	2
 Sirimavo Bandaranaike Primary School	2
 Navanagaraya	2
@@ -1044,12 +1058,14 @@ Chaityapara	2
 Diyasenpura	2
 Parakumpura	2
 Track 9	2
+Railway Trade Union Alliance	2
 Kilinochchi Hospital	2
 Nisal Baduge	2
 The Chinese Embassy	2
 Hambantota Port	2
 Exim Bank of China	2
 Defence Ministry	2
+flower shop	2
 Daily Exchange Rate	2
 210	2
 Sri Jayewardenepura University	2
@@ -1058,10 +1074,13 @@ Prasad	2
 Montessori	2
 Divisional Secretariat	2
 Economy Next	2
-Anura	2
-Dharmalingam Siddharthan	2
-Hiroshima	2
-Nagasaki	2
+National People's Force District Conference	2
+Leader of PLOTE	2
+Suresh Premachandran	2
+EPRLF	2
+CVK	2
+Sivagnanam	2
+District National People's Force	2
 Uraniya	2
 Export Promotion Zones	2
 Pallewela Police	2
@@ -1252,7 +1271,6 @@ NCE	2
 Uhana	2
 Haran Thota	2
 Kalubowila Base Hospital	2
-Electricity Board	2
 Minteniya	2
 Port of Colombo on 25th	2
 Jabez	2
@@ -1693,12 +1711,12 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+MMC Ferdinando	2
 Division	2
+Prabhath Manjula	2
 Arayambadi	2
 Modular Teaching Hospital	2
 All Share Price Index	2
-Anura Kumara	2
-Provincial Council	2
 The Expressway Traffic Police	2
 Monaragala Hospital	2
 NGO	2
@@ -1787,20 +1805,30 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+MMC	1
+CEB / CH	1
+M. Mr. C. Ferdinando	1
+Attygalle	1
+m. M. C.	1
+Poonaryn	1
+The Committee	1
+Chapter 2 of Annexure	1
+Committee inquired	1
+Chapter III	1
+MM	1
+C. Fernando	1
+Adani Green Energy Project	1
 Mohammad Alam	1
 Export Development Board of Sri Lanka	1
 Export ICT / BPM, Construction, Financial Services and Transport and Logistics	1
-Prasanna Colombage	1
-Milco	1
-National Livestock Development Board's	1
-Paddy Marketing Board Neil de Alwis	1
-Milco Renuka Perera	1
 Badulla Litro Gas Agency	1
 Sri Lanka Transport Board Vavuniya	1
 Senior Office	1
 Indian Credit Line	1
 National Fertilizer	1
 Sri Lanka Standard Institute	1
+Dematagoda	1
+Gota-Ranil	1
 Security Force Headquarters –Mullaittivu	1
 Mas Intimates	1
 Union Place	1
@@ -1815,6 +1843,9 @@ Lanwa Cement	1
 Karaikal Port	1
 Port of Pondicherry in	1
 a Cargo Boat Service	1
+Thorakola Yaya	1
+Middeniya Road	1
+Murungasyaya	1
 Colombo Commercial Fertilizer	1
 Department of Immunology	1
 Molecular Biology	1
@@ -1829,14 +1860,6 @@ Jaffna - A	1
 Ilavalai	1
 Jaffna Juvenile Magistrate's Court	1
 STF Southern Province Special Operations Unit	1
-Prabath Manjula	1
-National People's Force District Conference	1
-Leader of PLOTE	1
-Suresh Premachandran	1
-EPRLF	1
-CVK	1
-Sivagnanam	1
-District National People's Force	1
 Niraj de Mel	1
 Tea Exporter’s Association	1
 Colombo Brokers Association	1
@@ -2121,7 +2144,6 @@ Muruhesu	1
 Sithalebbe	1
 Thunukkai	1
 Shanthi Sriskantharajah	1
-MP	1
 Mankulam	1
 N. Lohathayalan	1
 Nadu/Pulungal	1
@@ -3511,7 +3533,6 @@ Florist	1
 Kahawe	1
 Ambalangoda	1
 Ambalangoda Police	1
-flower shop	1
 British Parliament	1
 International Credit Forum	1
 Hon'ble Ministers	1

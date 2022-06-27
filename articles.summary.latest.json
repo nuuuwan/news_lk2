@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Visiting-high-level-US-officials-meet-President/108-239876",
+    "time_ut": 1656318227,
+    "original_lang": "en",
+    "original_title": "Visiting high-level US officials meet President",
+    "file_name": "/tmp/news_lk2/articles/3e/3e76f4ca.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130257",
+    "time_ut": 1656317239,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/66/66667c01.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dda-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0dad\u0dcf-\u0db8\u0dad\u0dcf-\u0dc3\u0dd2\u0daf\u0dd4-\u0db1\u0ddc\u0d9a\u0dc5-\u0d85\u0dad\u0db4\u0dc3\u0dd4-\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-394876",
+    "time_ut": 1656317042,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0dad\u0dcf \u0db8\u0dad\u0dcf \u0dc3\u0dd2\u0daf\u0dd4 \u0db1\u0ddc\u0d9a\u0dc5 \u0d85\u0dad\u0db4\u0dc3\u0dd4 \u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4c/4cf8551b.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130254",
     "time_ut": 1656316674,
@@ -41,6 +65,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca-\u0db1\u0dd1-\u0db4\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u2018\u2018/101-615474",
+    "time_ut": 1656316023,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca \u0db1\u0dd1 \u0db4\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/ec/ec27f21d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca-\u0db1\u0dd1-\u0db4\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u2018\u2018/1-615474",
     "time_ut": 1656316023,
     "original_lang": "si",
@@ -56,12 +88,28 @@
     "file_name": "/tmp/news_lk2/articles/34/34b3a4a1.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dc4\u0dbd\u0dca-\u0d9c\u0dd0\u0db1-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca/101-615473",
+    "time_ut": 1656315339,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dc4\u0dbd\u0dca \u0d9c\u0dd0\u0db1 \u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/62/62c10bee.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-\u0d91\u0db1\u0dad\u0dd4\u0dbb\u0dd4/11-394873",
     "time_ut": 1656315066,
     "original_lang": "si",
     "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0d91\u0db1\u0dad\u0dd4\u0dbb\u0dd4",
     "file_name": "/tmp/news_lk2/articles/03/038b96c7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-54\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0daf\u0dd0\u0dbd\u0dda/101-615472",
+    "time_ut": 1656314875,
+    "original_lang": "si",
+    "original_title": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf \u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba 54\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0daf\u0dd0\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/4c/4c9992d8.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -112,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/18/18c614fb.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba/101-615470",
+    "time_ut": 1656314440,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/d6/d6494747.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/27/army-troops-donate-blood-to-kilinochchi-hospital/",
     "time_ut": 1656314280,
@@ -158,6 +214,14 @@
     "original_lang": "en",
     "original_title": "Green Light from Defence Ministry for Cargo Ferry Service between KKS and Tamil Nadu",
     "file_name": "/tmp/news_lk2/articles/2d/2d63811b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc3\u0dd9\u0db6\u0dc5\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-615469",
+    "time_ut": 1656313674,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7,\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd9\u0db6\u0dc5\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/e6/e64881b3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -262,6 +326,14 @@
     "original_lang": "en",
     "original_title": "Suspect arrested over killing of funeral parlour owner in Middeniya",
     "file_name": "/tmp/news_lk2/articles/c5/c5958b3d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda-\u0dba\u0dcf\u0db4\u0db1-\u0dc3\u0db8\u0dc5\u0dd4\u0dc0\u0da7-\u0da7\u0dd3-\u0d91\u0db1\u0dca-\u0d92--\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddc\u0dad\u0dca-\u0d91\u0dba\u0dd2/1-394868",
+    "time_ut": 1656310482,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda \u0dba\u0dcf\u0db4\u0db1 \u0dc3\u0db8\u0dc5\u0dd4\u0dc0\u0da7 \u0da7\u0dd3.\u0d91\u0db1\u0dca.\u0d92. \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddc\u0dad\u0dca \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b8/b88f12ac.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -726,77 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/49/491994a0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dc0\u0dad\u0dd2\u0db1-\u0dbb\u0da7\u0dc0\u0dbd\u0da7-\u0d9c\u0dd1\u0dc3\u0dca-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d95\u0db1\u0dd1/3-394853",
-    "time_ut": 1656298472,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d9c\u0dd1\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/0d/0d7e7435.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/us-delegation-to-meet-pm-today/",
-    "time_ut": 1656298380,
-    "original_lang": "en",
-    "original_title": "US delegation to meet PM today",
-    "file_name": "/tmp/news_lk2/articles/05/05183caf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83275/several-spells-of-showers-expected-in-parts-of-the-island",
-    "time_ut": 1656297900,
-    "original_lang": "en",
-    "original_title": "Several spells of showers expected in parts of the island",
-    "file_name": "/tmp/news_lk2/articles/32/3294c236.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db1\u0dda\u0da7\u0ddd\u0dc0\u0dda-\u0dba\u0dd4\u0daf-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf/3-394852",
-    "time_ut": 1656297780,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dda\u0da7\u0ddd\u0dc0\u0dda \u0dba\u0dd4\u0daf \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/38/3805ca35.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95-\u0ba8\u0bbe\u0bb3\u0bc8-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-299276",
-    "time_ut": 1656297637,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/cb/cbf9ac4b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb-\u0d85\u0dbb\u0db9\u0dba\u0dd2/3-394851",
-    "time_ut": 1656297306,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/31/314c9102.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/foreign-banks-refuse-to-confirm-sri-lanka-state-bank-letters-of-credit-minister-96474/",
-    "time_ut": 1656296820,
-    "original_lang": "en",
-    "original_title": "Foreign banks refuse to confirm Sri Lanka state bank letters of credit: Minister",
-    "file_name": "/tmp/news_lk2/articles/37/371f0ce2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-bank-of-ceylon-downgraded-to-rd-96472/",
-    "time_ut": 1656296220,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Bank of Ceylon downgraded to RD",
-    "file_name": "/tmp/news_lk2/articles/3c/3c6e479d.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/lanka-arab-relations/",
-    "time_ut": 1656296181,
-    "original_lang": "en",
-    "original_title": "Lanka-Arab Relations",
-    "file_name": "/tmp/news_lk2/articles/6a/6a8b7a11.json"
   }
 ]
