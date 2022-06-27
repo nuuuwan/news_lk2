@@ -1,15 +1,15 @@
 ent_group	n
-Sri Lanka	1755
+Sri Lanka	1752
 India	326
-US	252
+US	254
 Russia	213
 Australia	195
 Parliament	165
 Central Bank	119
 IMF	116
 Gotabhaya Rajapaksa	107
-International Monetary Fund	101
-China	95
+International Monetary Fund	100
+China	96
 Constitution	93
 Ranil Wickremesinghe	93
 21st Amendment	76
@@ -19,16 +19,15 @@ Ukraine	71
 Tamil	70
 Jaffna	67
 CPC	63
-Treasury	56
-United States	56
+Treasury	55
 Ceylon Petroleum Corporation	55
 German	55
-State	53
+United States	54
+State	52
 Opposition	50
 Messi	50
 Buddhist	47
 Aragalaya	43
-U.S.	43
 Wickremesinghe	43
 Matara	42
 European	42
@@ -36,9 +35,10 @@ Japan	41
 Viswanathan	41
 Central Bank of Sri Lanka	41
 House	40
+U.S.	40
 Ministry of Education	40
+Hambantota	39
 UNP	38
-Hambantota	37
 UN	37
 Kanchana Wijesekera	37
 Mullaitivu	35
@@ -51,10 +51,10 @@ Monetary Board	31
 Argentina	30
 Middle East	30
 Johnston Fernando	29
+Chinese	28
 Premadasa	28
 Muslims	28
 CID	27
-Chinese	27
 Kumara Welgama	27
 Wijesekera	27
 The Bribery Commission	27
@@ -77,31 +77,31 @@ Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
 American	22
-Kelly Keiderling	22
 Magammana	21
 Supreme Court	21
 South Asia	21
-Robert Kaproth	21
+Kelly Keiderling	21
 Army	20
 Bill	20
-Central Asia	20
 Romania	20
 Ukrainian	20
+Robert Kaproth	20
 Colombo/Jun24/2022	20
 Trincomalee	19
 Perera	19
 Order	19
 JVP	19
 Northern Province	19
+Central Asia	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
-U.S. Department of State	19
 Ramamurthy	18
 Sri Lanka Transport Board	18
 Singapore	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
+U.S. Department of State	18
 Diesel	17
 Homagama	17
 SJB	17
@@ -183,6 +183,7 @@ Bell Geospace	12
 Latin America	12
 Naseer Ahmed	12
 EU Ambassadors	12
+Twitter	11
 National People's Force	11
 COVID-19	11
 Provincial Councils and Local Government	11
@@ -201,9 +202,9 @@ Chaturanga Samarawickrama	11
 Palaly Airport	11
 COPE	11
 Hatton-Colombo	11
+Maldives	10
 Ven	10
 Kottawa	10
-Twitter	10
 Kovid	10
 Energy	10
 CEB	10
@@ -226,6 +227,7 @@ United People's Power	10
 United National Party	10
 Fernando	10
 Galle Face Green	10
+Canada	10
 Johnston	10
 Bank of Ceylon	10
 Easter	10
@@ -236,14 +238,12 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
-U.S. Embassy	9
 Expolanka	9
 IOC	9
 Ministry	9
 G7	9
 Iran	9
 Western	9
-Maldives	9
 Italy	9
 Board	9
 LTTE	9
@@ -264,7 +264,6 @@ European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
 Colombo Stock Exchange	9
-Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
 Luminex	9
@@ -345,6 +344,7 @@ Trichy	7
 Vasudeva Nanayakkara	7
 Paddy Marketing Board	7
 CWE	7
+U.S. Embassy	7
 TNA	7
 RBIO	7
 Hitler	7
@@ -1020,8 +1020,11 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Medirigiriya	2
 Nisal Baduge	2
-U.S. Department of Treasury	2
+The Chinese Embassy	2
+Hambantota Port	2
+Exim Bank of China	2
 210	2
 Sri Jayewardenepura University	2
 Kovit	2
@@ -1754,9 +1757,21 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Sirimavo Bandaranaike Primary School	1
+Navanagaraya	1
+Chaityapara	1
+Diyasenpura	1
+Parakumpura	1
+Track 9	1
 Union Place	1
 Kankesanthurai and Tamil Nadu	1
 PM’s Office	1
+China Merchant Company	1
+Danish	1
+The Shinji Shenzhen Group	1
+Ceylon Tire Manufacturing Company	1
+Hose Yachts	1
+Lanwa Cement	1
 Urea	1
 Colombo Commercial Fertilizer	1
 Department of Immunology	1
@@ -2335,6 +2350,7 @@ Paranthan-Poonakary	1
 Jaffna District Conference of	1
 Paranthan	1
 Poonakary	1
+U.S. Department of Treasury	1
 int’l	1
 Petrol Octane	1
 Ceypetco & LIOC	1
