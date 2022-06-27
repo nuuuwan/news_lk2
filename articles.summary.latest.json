@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Issuing-token-begins/110-239875",
+    "time_ut": 1656314264,
+    "original_lang": "en",
+    "original_title": "Issuing token begins",
+    "file_name": "/tmp/news_lk2/articles/a1/a12bfbb3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0b9f\u0b95\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8-\u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd/175-299291",
     "time_ut": 1656313953,
@@ -790,13 +798,5 @@
     "original_lang": "en",
     "original_title": "Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award",
     "file_name": "/tmp/news_lk2/articles/25/256a3f52.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SAFA-SME-Development-Conference-2022/34-736726",
-    "time_ut": 1656275233,
-    "original_lang": "en",
-    "original_title": "SAFA SME Development Conference 2022",
-    "file_name": "/tmp/news_lk2/articles/90/90249f33.json"
   }
 ]

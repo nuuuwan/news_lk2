@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1746
+Sri Lanka	1755
 India	326
 US	252
 Russia	213
@@ -8,7 +8,7 @@ Parliament	165
 Central Bank	119
 IMF	116
 Gotabhaya Rajapaksa	107
-International Monetary Fund	100
+International Monetary Fund	101
 China	95
 Constitution	93
 Ranil Wickremesinghe	93
@@ -19,15 +19,16 @@ Ukraine	71
 Tamil	70
 Jaffna	67
 CPC	63
-Treasury	55
+Treasury	56
+United States	56
 Ceylon Petroleum Corporation	55
 German	55
-United States	54
-State	52
+State	53
 Opposition	50
 Messi	50
 Buddhist	47
 Aragalaya	43
+U.S.	43
 Wickremesinghe	43
 Matara	42
 European	42
@@ -35,7 +36,6 @@ Japan	41
 Viswanathan	41
 Central Bank of Sri Lanka	41
 House	40
-U.S.	40
 Ministry of Education	40
 UNP	38
 Hambantota	37
@@ -77,31 +77,31 @@ Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
 American	22
+Kelly Keiderling	22
 Magammana	21
 Supreme Court	21
 South Asia	21
-Kelly Keiderling	21
+Robert Kaproth	21
 Army	20
 Bill	20
+Central Asia	20
 Romania	20
 Ukrainian	20
-Robert Kaproth	20
 Colombo/Jun24/2022	20
 Trincomalee	19
 Perera	19
 Order	19
 JVP	19
 Northern Province	19
-Central Asia	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
+U.S. Department of State	19
 Ramamurthy	18
 Sri Lanka Transport Board	18
 Singapore	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
-U.S. Department of State	18
 Diesel	17
 Homagama	17
 SJB	17
@@ -236,6 +236,7 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+U.S. Embassy	9
 Expolanka	9
 IOC	9
 Ministry	9
@@ -344,7 +345,6 @@ Trichy	7
 Vasudeva Nanayakkara	7
 Paddy Marketing Board	7
 CWE	7
-U.S. Embassy	7
 TNA	7
 RBIO	7
 Hitler	7
@@ -476,6 +476,7 @@ Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 The Central Bank Annual Report	6
+Air Force	5
 Kaushalya Kumari	5
 Ada Derana	5
 Kerosene	5
@@ -576,7 +577,6 @@ Sri Lanka Government	5
 Chennai	4
 Leader	4
 Port of Colombo	4
-Air Force	4
 Central	4
 North-Central	4
 Reuters	4
@@ -1020,6 +1020,8 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Nisal Baduge	2
+U.S. Department of Treasury	2
 210	2
 Sri Jayewardenepura University	2
 Kovit	2
@@ -1752,6 +1754,7 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Union Place	1
 Kankesanthurai and Tamil Nadu	1
 PM’s Office	1
 Urea	1
@@ -2282,7 +2285,6 @@ Belarusian	1
 Alexander Lukashenko	1
 Jet Fuel	1
 Obstetricians	1
-Nisal Baduge	1
 LGBT festival	1
 Guillermo Lasso	1
 Quito	1
@@ -2333,7 +2335,6 @@ Paranthan-Poonakary	1
 Jaffna District Conference of	1
 Paranthan	1
 Poonakary	1
-U.S. Department of Treasury	1
 int’l	1
 Petrol Octane	1
 Ceypetco & LIOC	1
