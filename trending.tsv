@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1718
+Sri Lanka	1722
 India	322
 US	249
 Russia	213
@@ -37,12 +37,12 @@ U.S.	40
 Ministry of Education	40
 Japan	39
 UNP	38
+Hambantota	37
 UN	37
-Kanchana Wijesekera	36
-Matara	35
+Kanchana Wijesekera	37
+Matara	36
 Mullaitivu	35
 EU	34
-Hambantota	33
 Puttalam	33
 CSE	33
 Asia	33
@@ -56,22 +56,22 @@ Muslims	28
 CID	27
 Chinese	27
 Kumara Welgama	27
+Wijesekera	27
 The Bribery Commission	27
 World Bank	26
 Japanese	26
 SPP	26
-Wijesekera	26
 Navy	25
+Galle	25
 SriLankan Airlines	25
 United Nations	25
 ISB	25
-Galle	24
 France	24
+Colombo National Hospital	24
 Nimal Siripala de Silva	23
 US State Department	23
 USA	22
 UK	22
-Colombo National Hospital	22
 Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
@@ -87,6 +87,7 @@ Romania	20
 Ukrainian	20
 Robert Kaproth	20
 Colombo/Jun24/2022	20
+Trincomalee	19
 Perera	19
 Order	19
 JVP	19
@@ -94,7 +95,6 @@ Central Asia	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
-Trincomalee	18
 Ramamurthy	18
 Northern Province	18
 Sri Lanka Transport Board	18
@@ -102,16 +102,17 @@ Singapore	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
 U.S. Department of State	18
+Diesel	17
 Homagama	17
 SJB	17
 European Union	17
 Arab	17
 US Treasury	17
+Kandy	16
 BOC	16
 Joe Biden	16
 British	16
 Shane	16
-Diesel	16
 SL	16
 Bulgaria	16
 Sri Lanka People's Front	16
@@ -123,7 +124,7 @@ Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
 Ministry of Finance	15
-Kandy	15
+Ranil	15
 National Savings Bank	15
 Sinhalese	15
 North	15
@@ -137,7 +138,6 @@ Ministry of Public Administration	15
 Kadawatha	14
 Daily Mirror	14
 Spain	14
-Ranil	14
 BIS	14
 CHS	14
 Cooray	14
@@ -146,6 +146,7 @@ Jehan Appuhamy	14
 Bangladesh	14
 Basil Rajapaksa	14
 Jagath Manuwarna	14
+Nuwara Eliya	14
 The Public Utilities Commission	14
 Department of Archeology	14
 Finance	13
@@ -159,7 +160,6 @@ Section 8 of	13
 Lankans	13
 Kahathuduwa	13
 Colombo Fort	13
-Nuwara Eliya	13
 Gotabhaya	13
 The Consumer Affairs Authority	13
 Spanish	12
@@ -201,6 +201,8 @@ US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
 Kottawa	10
+Twitter	10
+Kovid	10
 Energy	10
 CEB	10
 Sinhala	10
@@ -232,11 +234,11 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
-Twitter	9
 IOC	9
 Ministry	9
 G7	9
 Iran	9
+Western	9
 Maldives	9
 Italy	9
 National People's Force	9
@@ -271,12 +273,12 @@ Homagama Base Hospital	9
 Sri Lankan Cricket	9
 Lahiru Weerasekera	9
 Eranga Gunasekera	9
+Lady Ridgeway Children's Hospital	9
 African	9
 Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
 Southern Expressway	8
-Western	8
 Mexico	8
 Colombo	8
 Maithripala Sirisena	8
@@ -297,7 +299,6 @@ Fort	8
 Finance Ministry	8
 Chamika Karunaratne	8
 Law Forum	8
-Kovid	8
 CBI	8
 Barista	8
 Anura Dissanayake	8
@@ -317,16 +318,18 @@ Sirisena	8
 Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
 International Transaction Reporting System	8
+North Western	8
 Kankesanthurai	8
 Eurasia	8
-Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
 Fed	7
+Sabaragamuwa	7
 Northern	7
 Ajith Nivard Cabraal	7
 Swiss	7
 Indonesia	7
+Kelaniya	7
 Coimbatore	7
 Mendis	7
 Kurunegala	7
@@ -359,19 +362,19 @@ Second Amendment	7
 R. Premadasa Stadium	7
 World Health Organization	7
 Nanayakkara	7
-North Western	7
 National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
 Ven	6
+University of Kelaniya	6
 Tamil Progressive Alliance	6
 Lanka	6
-Sabaragamuwa	6
 Kuwait	6
 Putin	6
 RD	6
+Jana Balawegaya	6
 SAFA	6
 Mirihana	6
 Verite Research	6
@@ -468,17 +471,16 @@ Kiul Oya	6
 Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
-University of Kelaniya	5
+Kerosene	5
 Moscow	5
 NTC	5
 Ministry of Power and Energy	5
 Vladimir Putin	5
 Fitch Ratings	5
 OE	5
-Jana Balawegaya	5
 Senegal	5
 Bench	5
-Kelaniya	5
+Pattiya Junction	5
 Trinco	5
 Ceylonese	5
 South	5
@@ -488,6 +490,7 @@ Godakawela	5
 Navinna Holiday Resort	5
 South Korea	5
 Lotus Tower	5
+Hatch MakerStudio	5
 Fimco Estate	5
 Jaffna Teaching Hospital	5
 Specialist	5
@@ -551,6 +554,7 @@ Bribery and Corruption Commission	5
 North Macedonia	5
 North America	5
 Bosnia and Herzegovina	5
+Chandima Jeewandara	5
 Gemunu Wijeratne	5
 Defense	5
 Hindu	5
@@ -570,8 +574,11 @@ North-Central	4
 Reuters	4
 Provincial Secretaries	4
 Beijing	4
+Dilip Chamara	4
+Samarakoonwewa	4
 Qatar	4
 Azerbaijan	4
+Met Department	4
 Black Monday	4
 Mirror Business	4
 Ranasinghe Premadasa	4
@@ -582,7 +589,7 @@ Boris Johnson	4
 Paris	4
 Provincial Secretaries of Education	4
 Kanchana	4
-Pattiya Junction	4
+SSP Nihal Thalduwa	4
 Mannar	4
 Kilinochchi	4
 Svastika	4
@@ -600,6 +607,7 @@ Anuradhapura	4
 Kota	4
 Vajira Abeywardena	4
 R. Saravanaraja	4
+DBA Alumni	4
 Quad	4
 Kavindi Ranasinghe	4
 Perro	4
@@ -730,7 +738,6 @@ MSS Saman Fernando	4
 Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
-Chandima Jeewandara	4
 Bundaberg	4
 Punchihewa	4
 Saliya Peiris	4
@@ -761,13 +768,11 @@ Wall Street Journal	3
 Kremlin	3
 Kotagala	3
 Ministry Secretaries	3
-Kerosene	3
 Madrid	3
 Turkmenistan	3
 Tajikistan	3
 Tajik	3
 Xi Jinping	3
-Met Department	3
 Bakeer Markar	3
 Gazette	3
 Colombo Zone	3
@@ -779,7 +784,7 @@ Caribbean	3
 Ghana	3
 Charles Michel	3
 Scholz	3
-SSP Nihal Thalduwa	3
+Veyangoda	3
 Peliyagoda	3
 Florida	3
 England	3
@@ -797,7 +802,6 @@ Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
 Chamaran	3
-DBA Alumni	3
 Horana	3
 Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
@@ -812,6 +816,7 @@ Katunayake	3
 Diaspora	3
 Lanka Hospitals Academy	3
 NSBM	3
+Vocational Training Authority	3
 Best Real Estate Marketing Company	3
 KNOMAD	3
 Colombo Fort Railway Station	3
@@ -1021,8 +1026,8 @@ Batticaloa-Palameenmadu	2
 Ministry of Transport	2
 Secretaries	2
 State Personnel	2
-Dilip Chamara	2
-Samarakoonwewa	2
+Hakkapatas	2
+Samarakoon Lake	2
 Italian	2
 Kazakhstan	2
 People’s Bank	2
@@ -1033,6 +1038,9 @@ Rating Watch Negative	2
 IDR	2
 ST IDR	2
 Fitch Ratings Lanka Ltd.	2
+Gampaha	2
+Kavinda Jayawardena	2
+Crow Crow Group	2
 Berlin	2
 Hiran Cooray	2
 Jetwing Symphony PLC	2
@@ -1058,7 +1066,6 @@ Central Bank’s Treasury	2
 Aseni	2
 Group of Seven	2
 Provincial Directors of Education and Principals	2
-Veyangoda	2
 GCE	2
 new heights	2
 Foreign Direct Investment	2
@@ -1198,8 +1205,6 @@ Karaikal	2
 Tamils ​​in	2
 NSBM Green University	2
 UAE	2
-Hatch MakerStudio	2
-Vocational Training Authority	2
 Kyrgyzstan	2
 Uzbekistan	2
 Armenia	2
@@ -1719,6 +1724,7 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+460	1
 Export Promotion Zones	1
 Oorani	1
 Eravur-Batticaloa Main Road	1
@@ -1732,6 +1738,7 @@ COVID-19 Omicron	1
 Beth Israel Deaconess Medical Centre	1
 Harvard Medical School	1
 New England Journal of Medicine	1
+University of Sri Jayewardenepura	1
 Jathika Jana Balawegaya	1
 Fort Railway	1
 George W. Bush	1
@@ -1818,8 +1825,6 @@ Upper	1
 Central Highlands	1
 North Central Provinces	1
 km	1
-Hakkapatas	1
-Samarakoon Lake	1
 Energy Kanzana Wijesekera	1
 I.O.C. The	1
 Sambukaskanda	1
@@ -1859,9 +1864,6 @@ Fitch, Inc.	1
 Financial Institutions and Covered Bond	1
 https://www.fitchratings.com/site/re/10111579	1
 Applicable Criteria	1
-Gampaha	1
-Kavinda Jayawardena	1
-Crow Crow Group	1
 Trial	1
 The Gas Station Owners' Association	1
 Electoral System	1
@@ -2168,6 +2170,8 @@ Diaspora Tamils	1
 Palali	1
 The Lotus Tower	1
 Sri Lanka Television	1
+Technical and Vocational Education	1
+Vocational Training Authority and Hatch MakerStudio	1
 Development, Real Estate Agency	1
 Architecture	1
 Interior Design	1
