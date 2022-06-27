@@ -34,5 +34,6 @@ setuptools.setup(
         'fuzzywuzzy',
         'matplotlib',
         'wordcloud',
+        'python-Levenshtein',
     ],
 )
