@@ -1,14 +1,14 @@
 ent_group	n
-Sri Lanka	1806
+Sri Lanka	1797
 India	336
 US	257
 Russia	213
-Australia	199
+Australia	201
 Parliament	167
 Central Bank	119
 IMF	116
 Gotabhaya Rajapaksa	109
-International Monetary Fund	101
+International Monetary Fund	100
 China	97
 Ranil Wickremesinghe	94
 Constitution	93
@@ -20,23 +20,23 @@ Ukraine	71
 Jaffna	67
 CPC	63
 Muslim	58
-Treasury	57
-United States	56
+Treasury	56
 Ceylon Petroleum Corporation	56
 German	55
-State	53
+United States	54
 Buddhist	53
+State	52
 Opposition	50
 Messi	50
 Matara	45
 Aragalaya	44
 European	44
-U.S.	43
 Wickremesinghe	43
 Central Bank of Sri Lanka	42
 Japan	41
 Viswanathan	41
 House	40
+U.S.	40
 Ministry of Education	40
 Hambantota	39
 Tamil Nadu	38
@@ -53,6 +53,7 @@ Middle East	31
 Argentina	30
 Johnston Fernando	29
 Arab	29
+Navy	28
 Chinese	28
 Premadasa	28
 CID	27
@@ -63,7 +64,6 @@ World Bank	26
 Japanese	26
 SriLankan Airlines	26
 SPP	26
-Navy	25
 Galle	25
 United Nations	25
 ISB	25
@@ -73,21 +73,21 @@ Nimal Siripala de Silva	24
 US State Department	24
 Army	23
 Mahinda Rajapaksa	23
-Kelly Keiderling	23
 Nandalal Weerasinghe	22
 USA	22
 UK	22
 Welgama	22
 Dhammika Perera	22
 American	22
-Robert Kaproth	22
+Kelly Keiderling	22
 Magammana	21
-Central Asia	21
 Supreme Court	21
 South Asia	21
+Robert Kaproth	21
 Singapore	20
 Northern Province	20
 Bill	20
+Central Asia	20
 Romania	20
 Ukrainian	20
 Sinhala-Buddhist	20
@@ -100,7 +100,6 @@ JVP	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
-U.S. Department of State	19
 British	18
 Kandy	18
 Sinhalese	18
@@ -108,6 +107,7 @@ Ramamurthy	18
 Sri Lanka Transport Board	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
+U.S. Department of State	18
 Ministry of Finance	17
 Diesel	17
 Homagama	17
@@ -246,7 +246,6 @@ Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
 Colombo	9
-U.S. Embassy	9
 Expolanka	9
 IOC	9
 Ministry	9
@@ -330,6 +329,7 @@ North Western	8
 Eurasia	8
 COPE Committee	8
 Rathindu Senaratne	8
+Batticaloa	7
 Palaly	7
 Fed	7
 Sabaragamuwa	7
@@ -347,6 +347,7 @@ Brazil	7
 Trichy	7
 Vasudeva Nanayakkara	7
 CWE	7
+U.S. Embassy	7
 TNA	7
 RBIO	7
 Hitler	7
@@ -417,7 +418,6 @@ UPFA	6
 MLF	6
 Uduwaragedara	6
 Hutton	6
-Batticaloa	6
 SLTDA	6
 Vinay Kwatra	6
 Koko	6
@@ -1046,7 +1046,6 @@ Parakumpura	2
 Track 9	2
 Kilinochchi Hospital	2
 Nisal Baduge	2
-U.S. Department of Treasury	2
 The Chinese Embassy	2
 Hambantota Port	2
 Exim Bank of China	2
@@ -1796,6 +1795,7 @@ Milco	1
 National Livestock Development Board's	1
 Paddy Marketing Board Neil de Alwis	1
 Milco Renuka Perera	1
+Badulla Litro Gas Agency	1
 Sri Lanka Transport Board Vavuniya	1
 Senior Office	1
 Indian Credit Line	1
@@ -2411,6 +2411,7 @@ Paranthan-Poonakary	1
 Jaffna District Conference of	1
 Paranthan	1
 Poonakary	1
+U.S. Department of Treasury	1
 int’l	1
 Petrol Octane	1
 Ceypetco & LIOC	1
