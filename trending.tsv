@@ -1,13 +1,13 @@
 ent_group	n
-Sri Lanka	1847
-India	345
-US	277
+Sri Lanka	1854
+India	346
+US	280
 Russia	225
-Australia	205
+Australia	207
 Parliament	176
 Central Bank	120
 IMF	118
-Gotabhaya Rajapaksa	112
+Gotabhaya Rajapaksa	113
 China	106
 International Monetary Fund	100
 Ranil Wickremesinghe	99
@@ -19,11 +19,11 @@ Cabinet	71
 Ukraine	71
 Jaffna	70
 CPC	67
+United States	60
 Treasury	59
-United States	59
 Ceylon Petroleum Corporation	59
+State	58
 Muslim	58
-State	57
 Germany	56
 Buddhist	53
 Opposition	51
@@ -37,9 +37,9 @@ Central Bank of Sri Lanka	42
 House	41
 Viswanathan	41
 U.S.	41
+Tamil Nadu	40
 Ministry of Education	40
 Hambantota	39
-Tamil Nadu	39
 Kanchana Wijesekera	39
 UNP	38
 Mullaitivu	37
@@ -62,12 +62,13 @@ Kumara Welgama	27
 SriLankan Airlines	27
 US State Department	27
 The Bribery Commission	27
+Kelly Keiderling	27
+Galle	26
 World Bank	26
 Japanese	26
 SPP	26
-Kelly Keiderling	26
-Galle	25
 United Nations	25
+Northern Province	25
 ISB	25
 Robert Kaproth	25
 France	24
@@ -75,15 +76,14 @@ Colombo National Hospital	24
 Nimal Siripala de Silva	24
 Army	23
 Mahinda Rajapaksa	23
-Northern Province	23
 American	23
 Nandalal Weerasinghe	22
 USA	22
 UK	22
 Welgama	22
 Dhammika Perera	22
+Central Asia	22
 Magammana	21
-Central Asia	21
 Supreme Court	21
 South Asia	21
 COPE Committee	21
@@ -101,21 +101,21 @@ Perera	19
 Order	19
 JVP	19
 Committee	19
+Julie Chung	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
 U.S. Department of State	19
+STF	18
 Diesel	18
 Kandy	18
 Sinhalese	18
 Ramamurthy	18
 Sri Lanka Transport Board	18
 US Treasury	18
-Julie Chung	18
 Sajith Premadasa	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
-STF	17
 Middeniya	17
 SL	17
 Joe Biden	17
@@ -212,6 +212,7 @@ Chaturanga Samarawickrama	11
 Canada	11
 Palaly Airport	11
 Hatton-Colombo	11
+Kankesanthurai	11
 Batticaloa	10
 G7	10
 Italy	10
@@ -239,18 +240,20 @@ Colombo Stock Exchange	10
 United People's Power	10
 Indonesia	10
 United National Party	10
+Special Task Force	10
 Galle Face Green	10
 Johnston	10
 Bank of Ceylon	10
 Easter	10
 Railway Department	10
-Kankesanthurai	10
 MA Sumanthiran	10
 Cabinet of Ministers	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+KKS	9
+Douglas Devananda	9
 Paddy Marketing Board	9
 Colombo	9
 Expolanka	9
@@ -277,7 +280,6 @@ CRA	9
 Ceylon Electricity Board	9
 Ministry of Health	9
 Luminex	9
-Special Task Force	9
 Weerawarana	9
 Aussies	9
 Land Reforms Commission	9
@@ -293,7 +295,6 @@ Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
 Fed	8
-Douglas Devananda	8
 University of Kelaniya	8
 Southern Expressway	8
 Mexico	8
@@ -339,6 +340,7 @@ Ministry of Power and Energy	7
 Specialist	7
 Mannar	7
 Mahinda Amaraweera	7
+Embilipitiya	7
 Palaly	7
 Sabaragamuwa	7
 Northern	7
@@ -388,10 +390,8 @@ State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
 Ministry of Energy	6
-KKS	6
 Sammanthurai	6
 South	6
-Embilipitiya	6
 Kaushalya Kumari	6
 Tamil Progressive Alliance	6
 Lanka	6
@@ -468,6 +468,7 @@ Green	6
 The Colombo High Court	6
 John Greenwood	6
 The Parliamentary Committee on Public Accounts	6
+Ministry of Defense	6
 Chandima Jeewandara	6
 The Department of Meteorology	6
 Monetary Board of Central Bank of Sri Lanka	6
@@ -500,6 +501,7 @@ Reuters	5
 Boris Johnson	5
 Kilinochchi	5
 Air Force	5
+flower shop	5
 Leader	5
 Ada Derana	5
 Kerosene	5
@@ -569,7 +571,7 @@ Hulangamuwa	5
 MoFA	5
 Sri Lanka People's Alliance	5
 Agriculture	5
-Ministry of Defense	5
+Prabhath Manjula	5
 Asian Development Bank	5
 New Delhi	5
 General Assembly	5
@@ -602,6 +604,10 @@ Export Development Board	4
 Ecuador	4
 Susil Premajayantha	4
 Prime Minister's Office in Colombo	4
+Mercury	4
+Venus	4
+Jupiter	4
+Saturn	4
 Kotagala	4
 BASL	4
 Xi Jinping	4
@@ -611,7 +617,9 @@ Urea	4
 MT	4
 Medirigiriya	4
 Railway Trade Union Alliance	4
-flower shop	4
+Thorakola Yaya	4
+Middeniya Road	4
+Murungasyaya	4
 Chennai	4
 Secretariat	4
 Port of Colombo	4
@@ -747,7 +755,6 @@ Maldivian	4
 Sher Bahadur	4
 MCC	4
 Tibetan	4
-Prabhath Manjula	4
 Monaragala	4
 Yvette Fernando	4
 Monetary Law Act	4
@@ -804,8 +811,10 @@ CBSL	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Defence Ministry	3
 Tea	3
 Rubber	3
+Treasurer	3
 Hatton Police	3
 CT CLSA Holdings	3
 Natural Gas Mining Projects	3
@@ -813,9 +822,6 @@ LNG	3
 Sanath Manjula	3
 Nalaka Godahewa	3
 Denmark	3
-Thorakola Yaya	3
-Middeniya Road	3
-Murungasyaya	3
 Pondicherry	3
 Karaikal	3
 Y. Wickramarasiri	3
@@ -1016,10 +1022,12 @@ Hamilton Bank	3
 Kivul Oya Irrigation Project	3
 The Environmental Impact Assessment Report	3
 Fort Railway Station	3
+Jaffna International Airport	3
 Mattala	3
 Group CC	3
 Dharmasekera	3
 Nuwara Eliya District Hospital	3
+Asia Robert Cabrot	3
 Republican Constitution	3
 Western Sahara	3
 Center for Policy Alternatives	3
@@ -1070,6 +1078,10 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Karaikal Port	2
+Devananda	2
+Karametiya	2
+Badulla	2
 Spices & Concentrates	2
 Ornamental	2
 Exports of Apparel & Textiles	2
@@ -1090,10 +1102,8 @@ Payagala	2
 Susil	2
 STF Southern Province Special Operations Unit	2
 GotaGoGama	2
-Mercury	2
-Venus	2
-Jupiter	2
-Saturn	2
+Mars	2
+Sun	2
 Complex	2
 Tissa Attanayake	2
 Lasantha Alagiyawanna	2
@@ -1129,7 +1139,6 @@ Nisal Baduge	2
 The Chinese Embassy	2
 Hambantota Port	2
 Exim Bank of China	2
-Defence Ministry	2
 Daily Exchange Rate	2
 210	2
 Sri Jayewardenepura University	2
@@ -1346,14 +1355,12 @@ South American	2
 Khusrau Perro	2
 Hernandez	2
 Panama	2
-Jaffna International Airport	2
 Tamils ​​in	2
 NSBM Green University	2
 UAE	2
 Kyrgyzstan	2
 Uzbekistan	2
 Armenia	2
-Treasurer	2
 Athurugiriya Traffic Control Station	2
 Kaduwatta	2
 Vajira	2
@@ -1420,7 +1427,6 @@ Dambulla	2
 Homagama house	2
 Lasantha Buddhika	2
 Nalika Devi	2
-Asia Robert Cabrot	2
 Sri Lankan Ministry of External Affairs	2
 Special Guest Room	2
 Bandaranaike International Airport	2
@@ -1772,6 +1778,7 @@ Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 Akkaraipattuwa	2
+Meegahakiula	2
 Galle Face Green in Colombo –	2
 Kota Daya'	2
 Daya	2
@@ -1868,9 +1875,17 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+TN	1
+Puducheri	1
+Sri Lanka - Gas	1
 Kalmunai Magistrate	1
 Kalmunai	1
 Chandrapala	1
+Malo	1
+The Kandaketiya Police	1
+Lihiniyamandiya	1
+Wewpitiya	1
+Kandaketiya Police Intelligence Bureau	1
 Sri Lanka Customs	1
 Electrical & Electronic	1
 Food & Beverages, Seafood	1
@@ -1920,8 +1935,6 @@ Woven	1
 Shrimps	1
 Container Cargo Transport Charges	1
 The All Ceylon Container Transport Owners Association	1
-Mars	1
-Sun	1
 Mawathagama	1
 Paragahadeniya	1
 Maswewa	1
@@ -1965,7 +1978,6 @@ The Shinji Shenzhen Group	1
 Ceylon Tire Manufacturing Company	1
 Hose Yachts	1
 Lanwa Cement	1
-Karaikal Port	1
 Port of Pondicherry in	1
 a Cargo Boat Service	1
 Colombo Commercial Fertilizer	1
@@ -2891,7 +2903,6 @@ Spokesperson SSP Nihal Thalduwa	1
 Pallewela	1
 Badulu Oya	1
 Pussakanda	1
-Meegahakiwula	1
 CAA	1
 Principals of Urban	1
 Sri Lankan Tamils	1
@@ -3574,7 +3585,6 @@ Messi Foundation	1
 Sathosa Main Market	1
 Vauxhall Street	1
 Fisheries	1
-Devananda	1
 Indu Ratnayake	1
 Chathuranga Udawatte	1
 Nissan de Mel	1
@@ -3609,7 +3619,6 @@ Bee	1
 Ministry of Agriculture, Department of Agrarian Services	1
 Badulla Police	1
 Pahalawatta	1
-Badulla	1
 Mission	1
 Hollyy Shudia	1
 Holly	1
