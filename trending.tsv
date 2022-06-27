@@ -1,16 +1,16 @@
 ent_group	n
-Sri Lanka	1827
+Sri Lanka	1837
 India	341
-US	270
-Russia	218
+US	273
+Russia	223
 Australia	205
-Parliament	170
+Parliament	176
 Central Bank	119
-IMF	117
+IMF	118
 Gotabhaya Rajapaksa	112
 China	106
 International Monetary Fund	100
-Ranil Wickremesinghe	97
+Ranil Wickremesinghe	99
 Constitution	93
 21st Amendment	76
 Rajapaksas	73
@@ -21,14 +21,14 @@ Jaffna	70
 CPC	63
 Treasury	59
 Muslim	58
+State	57
 United States	57
 Ceylon Petroleum Corporation	56
 Germany	56
-State	55
 Buddhist	53
 Opposition	50
 Messi	50
-Matara	45
+Matara	47
 European	45
 Japan	44
 Aragalaya	44
@@ -59,20 +59,20 @@ Premadasa	28
 Wijesekera	28
 CID	27
 Kumara Welgama	27
+US State Department	27
 The Bribery Commission	27
 World Bank	26
 Japanese	26
 SriLankan Airlines	26
 SPP	26
-US State Department	26
+Kelly Keiderling	26
 Galle	25
 United Nations	25
 ISB	25
-Kelly Keiderling	25
+Robert Kaproth	25
 France	24
 Colombo National Hospital	24
 Nimal Siripala de Silva	24
-Robert Kaproth	24
 Army	23
 Mahinda Rajapaksa	23
 American	23
@@ -86,6 +86,7 @@ Magammana	21
 Central Asia	21
 Supreme Court	21
 South Asia	21
+COPE Committee	21
 Singapore	20
 Bill	20
 Romania	20
@@ -101,7 +102,6 @@ Order	19
 JVP	19
 Committee	19
 Tunisia	19
-COPE Committee	19
 Dudley Sirisena	19
 Colombia	19
 U.S. Department of State	19
@@ -140,7 +140,9 @@ London	15
 Theekshana	15
 Karunaratne	15
 Estonia	15
+US Treasury Department	15
 Ministry of Public Administration	15
+Hatton	14
 Biden	14
 Vavuniya	14
 Finance	14
@@ -155,7 +157,6 @@ Jehan Appuhamy	14
 Bangladesh	14
 Basil Rajapaksa	14
 Jagath Manuwarna	14
-US Treasury Department	14
 Lankans	14
 Nuwara Eliya	14
 Government Medical Officers' Association	14
@@ -164,7 +165,6 @@ Department of Archeology	14
 French	13
 National People's Force	13
 NATO	13
-Hatton	13
 Nepal	13
 Western Province	13
 National Authority on Tobacco and Alcohol	13
@@ -329,9 +329,12 @@ Matara General Hospital	8
 Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
 International Transaction Reporting System	8
+Railway Department	8
 North Western	8
 Eurasia	8
 Rathindu Senaratne	8
+Ministry of Power and Energy	7
+Specialist	7
 Mannar	7
 Mahinda Amaraweera	7
 Palaly	7
@@ -379,9 +382,8 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
-Specialist	6
+Ministry of Energy	6
 Electricity Board	6
-Ministry of Power and Energy	6
 KKS	6
 Sammanthurai	6
 South	6
@@ -462,12 +464,12 @@ Jayanath Colombage	6
 Green	6
 The Colombo High Court	6
 John Greenwood	6
+The Parliamentary Committee on Public Accounts	6
 Chandima Jeewandara	6
 Federal Reserve	6
 The Department of Meteorology	6
 Monetary Board of Central Bank of Sri Lanka	6
 South Africa	6
-Railway Department	6
 Eastern Terminal	6
 General Elections	6
 Puttalam Base Hospital	6
@@ -489,6 +491,7 @@ Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 The Central Bank Annual Report	6
 CT CLSA Asset Management	5
+Dissanayake	5
 Defence Ministry for Cargo Ferry Service	5
 Reuters	5
 Boris Johnson	5
@@ -593,8 +596,8 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
-Ministry of Energy	4
-Dissanayake	4
+Susil Premajayantha	4
+Prime Minister's Office in Colombo	4
 Kotagala	4
 BASL	4
 Xi Jinping	4
@@ -771,7 +774,7 @@ Sri Lanka Gopal Bhagle	4
 Pandulagama	4
 Bada Khana	4
 Middeniya Police	4
-The Parliamentary Committee on Public Accounts	4
+Tissa Vitarana	4
 Media Committee of Government Medical Officers' Association	4
 Ministry of Agriculture Rohana Pushpakumara	4
 Bundaberg	4
@@ -795,9 +798,10 @@ CBSL	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
-Susil Premajayantha	3
-Prime Minister's Office in Colombo	3
+Hatton Police	3
 CT CLSA Holdings	3
+Natural Gas Mining Projects	3
+LNG	3
 Export Development Board	3
 Sanath Manjula	3
 Nalaka Godahewa	3
@@ -986,6 +990,7 @@ Aravinda Perera	3
 Ceylon Chamber	3
 Foreign Service	3
 NC	3
+Udaya Gammanpila	3
 Bar Association of Sri Lanka	3
 Adani Group	3
 Prabhath Manjula	3
@@ -1046,7 +1051,6 @@ Human Rights Council	3
 Parliament Elections Act	3
 State Partnership Program	3
 National Guard	3
-Tissa Vitarana	3
 Browns Investment	3
 LOLC Holdings	3
 Lanka Private Bus Owners’ Association	3
@@ -1056,12 +1060,25 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Susil	2
 STF Southern Province Special Operations Unit	2
 GotaGoGama	2
 Mercury	2
 Venus	2
 Jupiter	2
 Saturn	2
+Complex	2
+Tissa Attanayake	2
+Lasantha Alagiyawanna	2
+Dayasiri Jayasekara	2
+Sudarshani Fernandopulle	2
+Hesha Vithanage	2
+Ranjith Bandara	2
+Niroshan Perera	2
+Mohamed Muzammil	2
+Weerasumana Weerasinghe	2
+Ashok Abeysinghe	2
+Prasanna Ranaweera	2
 MP	2
 Annexure	2
 Prasanna Colombage	2
@@ -1472,7 +1489,6 @@ Sagara Kariyawasam	2
 Ajith Rajapaksa	2
 Golden Shakehand	2
 Manipay Police	2
-Hatton Police	2
 The Mount Lavinia CID	2
 Thelawala	2
 Mt.	2
@@ -1732,7 +1748,6 @@ Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
 CT CLSA Holdings Group	2
-Udaya Gammanpila	2
 MMC Ferdinando	2
 Emmanuel Macron	2
 Division	2
@@ -1826,7 +1841,13 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
-Susil	1
+Coastal	1
+Moratuwa-Panadura-Wadduwa	1
+HMKW Bandara	1
+Wadduwa	1
+Colombo-Matara	1
+Matara to Colombo	1
+Payagala	1
 Comtrust Asset Management	1
 Company	1
 CT CLSA	1
@@ -1843,6 +1864,8 @@ Special Task Force of Police	1
 Middeniya in Embilipitiya	1
 Viharamahadevi Park	1
 Kithsiri De Mel	1
+COPA Committee	1
+Ministry of Power and Energy when Committee on Public Accounts	1
 Coconut	1
 Woven	1
 Exports of Apparel & Textiles	1
@@ -1852,20 +1875,6 @@ Container Cargo Transport Charges	1
 The All Ceylon Container Transport Owners Association	1
 Mars	1
 Sun	1
-Complex	1
-Natural Gas Mining Projects	1
-LNG	1
-Tissa Attanayake	1
-Lasantha Alagiyawanna	1
-Dayasiri Jayasekara	1
-Sudarshani Fernandopulle	1
-Hesha Vithanage	1
-Ranjith Bandara	1
-Niroshan Perera	1
-Mohamed Muzammil	1
-Weerasumana Weerasinghe	1
-Ashok Abeysinghe	1
-Prasanna Ranaweera	1
 Mawathagama	1
 Paragahadeniya	1
 Maswewa	1
