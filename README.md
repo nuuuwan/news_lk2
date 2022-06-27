@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 01:20:17 (LK time)*
+*As of 2022-06-28 01:30:01 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (6 Articles)
 
-* **5** daily-mirror-lk ([Power Ministry Secy held hostage](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38f6c0b.json))
-
-* **2** ada-derana-lk ([SLTB says adequate buses will be operated](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca626504.json))
+* **4** daily-mirror-lk ([IMPROVING PUBLIC TRANSPORT](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4888d16e.json))
 
 * **1** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
+
+* **1** ada-derana-lk ([Cabinet approval to gazette 22nd Amendment and table in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db90e775.json))
 
 ## Last 24 Hours (272 Articles)
 
@@ -38,7 +38,7 @@
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,056 Articles)
+## Last Week (1,055 Articles)
 
 * **170** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
@@ -54,7 +54,7 @@
 
 * **73** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **66** daily-ft-lk ([Open letter to Sajith: Lead or leave](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a41ace3.json))
+* **65** daily-ft-lk ([Sri Lanka needs 30-year master plan for economic prosperity and sustainable development](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58724150.json))
 
 * **50** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
