@@ -7,29 +7,38 @@ from news_lk2._utils import log
 from news_lk2.core import Article
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
-from news_lk2.core.wordcloud import build_wordcloud
+from news_lk2.core.news_wordcloud import build_wordcloud
 
 MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.WEEK
 MIN_FUZZ_RATIO_FOR_GROUP = 85
 
 
-def build_trending_summary():
+def filter_articles(max_age):
     current_time = timex.get_unixtime()
     articles = Article.load_articles()
-    ents = []
-    for article in articles:
-        time_ut = article.time_ut
-        article_age = current_time - time_ut
 
-        if article_age > MAX_ARTICLE_AGE_FOR_TRENDS:
-            continue
+    def filter_article(article):
+        if article.time_ut < current_time - max_age:
+            return False
 
         if (
             not article.text_idx
             or 'en' not in article.text_idx
             or 'title_ents' not in article.text_idx['en']
         ):
-            continue
+            return False
+
+        return True
+
+    return list(filter(filter_article, articles))
+
+
+def build_trending_summary():
+    recent_articles = filter_articles(MAX_ARTICLE_AGE_FOR_TRENDS)
+    n_recent_articles = len(recent_articles)
+    log.debug(f'{n_recent_articles=}')
+    ents = []
+    for article in recent_articles:
         text_idx = article.text_idx['en']
         ents += text_idx['title_ents']
         for ents0 in text_idx['body_line_ents_list']:
@@ -98,3 +107,7 @@ def build_trending_summary():
     log.info(f'Wrote {n_data_list} ents to {trending_file}')
 
     build_wordcloud(group_to_n)
+
+
+if __name__ == '__main__':
+    build_trending_summary()
