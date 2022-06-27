@@ -1,7 +1,7 @@
 ent_group	n
-Sri Lanka	1742
-India	323
-US	251
+Sri Lanka	1746
+India	326
+US	252
 Russia	213
 Australia	195
 Parliament	165
@@ -11,13 +11,13 @@ Gotabhaya Rajapaksa	107
 International Monetary Fund	100
 China	95
 Constitution	93
-Ranil Wickremesinghe	92
+Ranil Wickremesinghe	93
 21st Amendment	76
 Rajapaksas	73
 Cabinet	71
 Ukraine	71
 Tamil	70
-Jaffna	66
+Jaffna	67
 CPC	63
 Treasury	55
 Ceylon Petroleum Corporation	55
@@ -29,6 +29,7 @@ Messi	50
 Buddhist	47
 Aragalaya	43
 Wickremesinghe	43
+Matara	42
 European	42
 Japan	41
 Viswanathan	41
@@ -36,7 +37,6 @@ Central Bank of Sri Lanka	41
 House	40
 U.S.	40
 Ministry of Education	40
-Matara	39
 UNP	38
 Hambantota	37
 UN	37
@@ -46,10 +46,10 @@ EU	34
 Puttalam	33
 CSE	33
 Asia	33
+Tamil Nadu	32
 Monetary Board	31
 Argentina	30
 Middle East	30
-Tamil Nadu	29
 Johnston Fernando	29
 Premadasa	28
 Muslims	28
@@ -68,8 +68,8 @@ United Nations	25
 ISB	25
 France	24
 Colombo National Hospital	24
-Nimal Siripala de Silva	23
-US State Department	23
+Nimal Siripala de Silva	24
+US State Department	24
 Nandalal Weerasinghe	22
 USA	22
 UK	22
@@ -116,6 +116,7 @@ Joe Biden	16
 British	16
 Shane	16
 SL	16
+Ports	16
 Bulgaria	16
 Sri Lanka People's Front	16
 SriLankan Cares	16
@@ -132,7 +133,6 @@ Sinhalese	15
 London	15
 Theekshana	15
 Karunaratne	15
-Ports	15
 Estonia	15
 Julie Chung	15
 Ministry of Public Administration	15
@@ -178,6 +178,7 @@ Foreign Exchange Act	12
 Education Ministry	12
 Anura Kumara Dissanayake	12
 World Cup	12
+US Treasury Department	12
 Bell Geospace	12
 Latin America	12
 Naseer Ahmed	12
@@ -198,7 +199,6 @@ Temple Trees	11
 Dudley	11
 Chaturanga Samarawickrama	11
 Palaly Airport	11
-US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
 Ven	10
@@ -272,6 +272,7 @@ Aussies	9
 Land Reforms Commission	9
 Magistrate	9
 Dhammika Munasinghe	9
+Kankesanthurai	9
 Homagama Base Hospital	9
 Sri Lankan Cricket	9
 Lahiru Weerasekera	9
@@ -321,10 +322,11 @@ Mahinda Yapa Abeywardena	8
 Sarath Weerasekara	8
 International Transaction Reporting System	8
 North Western	8
-Kankesanthurai	8
 Eurasia	8
 COPE Committee	8
 Rathindu Senaratne	8
+Douglas Devananda	7
+Palaly	7
 Fed	7
 Sabaragamuwa	7
 Northern	7
@@ -359,6 +361,7 @@ Sajith	7
 Luminex Limited	7
 Manipay	7
 Mitchell Marsh	7
+Matara General Hospital	7
 Mano Ganesan	7
 Second Amendment	7
 R. Premadasa Stadium	7
@@ -393,7 +396,6 @@ Maharagama	6
 ECT	6
 Ceypetco	6
 Venezuela	6
-Palaly	6
 Abeywardena	6
 Pivithuru Hela Urumaya	6
 Yucatan	6
@@ -447,8 +449,8 @@ Green	6
 The Colombo High Court	6
 Hong Kong	6
 John Greenwood	6
+Defense	6
 Chandima Jeewandara	6
-Matara General Hospital	6
 Federal Reserve	6
 The Department of Meteorology	6
 Monetary Board of Central Bank of Sri Lanka	6
@@ -474,6 +476,7 @@ Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 The Central Bank Annual Report	6
+Kaushalya Kumari	5
 Ada Derana	5
 Kerosene	5
 Moscow	5
@@ -540,6 +543,7 @@ Carnatic	5
 Naypyidaw	5
 Hulangamuwa	5
 MoFA	5
+Ministry of Defense	5
 Sri Lanka Army	5
 Asian Development Bank	5
 New Delhi	5
@@ -559,7 +563,6 @@ North Macedonia	5
 North America	5
 Bosnia and Herzegovina	5
 Gemunu Wijeratne	5
-Defense	5
 Hindu	5
 democratic	5
 Subramaniam Satyavani	5
@@ -570,7 +573,7 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
-Kaushalya Kumari	4
+Chennai	4
 Leader	4
 Port of Colombo	4
 Air Force	4
@@ -622,7 +625,6 @@ Society	4
 Janaka Ratnayake	4
 Left Democratic Front	4
 Sri Lanka Freedom Party	4
-Douglas Devananda	4
 Ceylon Indian Oil Company	4
 BRICS	4
 Bowser Assn	4
@@ -723,7 +725,6 @@ Prasanna Ranatunga	4
 Ben Ali	4
 Nanu Oya to Colombo Fort	4
 Sri Lanka People's Alliance	4
-Ministry of Defense	4
 Security Council	4
 Cipetco	4
 Ceylon Petroleum Private Bowser Owners Association	4
@@ -766,6 +767,9 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Pondicherry	3
+Karaikal	3
+Secretariat	3
 Embilipitiya	3
 Sri Lanka Tea Board	3
 Gampaha Magistrate's Court	3
@@ -818,7 +822,6 @@ MT	3
 Solomon Islands	3
 New Zealand	3
 US Senate Foreign Relations Committee	3
-Chennai	3
 Katunayake	3
 Diaspora	3
 Lanka Hospitals Academy	3
@@ -1017,11 +1020,12 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+210	2
 Sri Jayewardenepura University	2
 Kovit	2
 Prasad	2
 Montessori	2
-Secretariat	2
+Y. Wickramarasiri	2
 Economy Next	2
 Anura	2
 Dharmalingam Siddharthan	2
@@ -1224,7 +1228,6 @@ Hernandez	2
 The Central Committee of Government Medical Officers' Association	2
 Panama	2
 Jaffna International Airport	2
-Karaikal	2
 Tamils ​​in	2
 NSBM Green University	2
 UAE	2
@@ -1482,7 +1485,6 @@ Prime Minister's Office in Colombo	2
 Lands Harin Fernando	2
 Industrial Disputes (Special Provisions	2
 Passikudah	2
-Pondicherry	2
 Kigali	2
 Spokesperson	2
 Cornel Perera	2
@@ -1750,6 +1752,10 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Kankesanthurai and Tamil Nadu	1
+PM’s Office	1
+Urea	1
+Colombo Commercial Fertilizer	1
 Department of Immunology	1
 Molecular Biology	1
 Batticaloa-Colombo	1
@@ -1758,7 +1764,7 @@ Kokuvil	1
 Ruwan Prazad	1
 Corona .It's	1
 Ruwan Preethi Kumara	1
-Y. Wickramarasiri	1
+Divisional Secretariat	1
 Elderly	1
 Jaffna - A	1
 Ilavalai	1
@@ -2261,7 +2267,6 @@ Communist Party	1
 Walkers Tea Brokers	1
 Pliny Elder	1
 Eelam People's Democratic Party	1
-210	1
 Shipping Nimal Siripala de Silva	1
 The Ministry of Public Administration Home Affairs	1
 Ministerial Sub-Committee	1
