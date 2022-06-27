@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 00:26:39 (LK time)*
+*As of 2022-06-28 00:39:19 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (14 Articles)
 
 * **9** daily-mirror-lk ([President directs officials to import fuel using funds in hand](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0bfae517.json))
 
 * **3** ada-derana-lk ([Train services to operate under normal schedules tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dea6103d.json))
-
-* **2** lankadeepa-lk ([‘‘අර්බුදය දඩමීමා කරගෙන ආයතනවලට අත තබනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c87e3bd.json))
 
 * **1** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
 
