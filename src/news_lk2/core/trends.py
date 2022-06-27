@@ -83,7 +83,6 @@ def get_ent_to_n(articles):
                 ent_to_n[ent] = 0
             ent_to_n[ent] += 1
 
-    log.debug(f'len(ent_to_n) = {len(ent_to_n)}')
     return sort_by_value(ent_to_n, limit=100)
 
 
@@ -102,8 +101,6 @@ def get_group_to_n(ent_to_n):
             ):
                 ent_to_group[sorted_ents[i]] = sorted_ents[j]
                 break
-    log.debug(f'len(ent_to_group) = {len(ent_to_group)}')
-
     group_to_n = {}
     for ent, n in ent_to_n.items():
         group = ent_to_group[ent]
@@ -111,7 +108,6 @@ def get_group_to_n(ent_to_n):
             group_to_n[group] = 0
         group_to_n[group] += n
 
-    log.debug(f'len(group_to_n) = {len(group_to_n)}')
     return ent_to_group, sort_by_value(group_to_n)
 
 
