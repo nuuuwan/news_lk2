@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 02:57:19 (LK time)*
+*As of 2022-06-28 03:11:07 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,7 +10,7 @@
 
 * **7** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
-## Last 24 Hours (266 Articles)
+## Last 24 Hours (265 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -22,7 +22,7 @@
 
 * **26** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
-* **24** tamil-mirror-lk ([’எந்த நாடும் தப்ப முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8013c3d4.json))
+* **23** tamil-mirror-lk ([பஸ் கட்டணம் குறித்து முடிவெடுக்க நாளை பேச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf9ac4b.json))
 
 * **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
