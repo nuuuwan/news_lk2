@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/27/copa-calls-for-road-map-on-gas-exploration-in-sri-lanka/",
+    "time_ut": 1656329400,
+    "original_lang": "en",
+    "original_title": "COPA calls for Road-Map on Gas Exploration in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/8d/8d71218f.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0dc0\u0dd2\u0db4\u0dd9-\u0dc3\u0db8\u0d9c-\u0dc0\u0dd0\u0da9-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad/11-394892",
     "time_ut": 1656329343,
@@ -3190,13 +3198,5 @@
     "original_lang": "si",
     "original_title": "\u2018\u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0daf\u0dcf\u0db1\u0dca\u0db1\u0dd9 \u0db1\u0dd1\u2018",
     "file_name": "/tmp/news_lk2/articles/5f/5fc0ff60.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0db8\u0d9c-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0da7-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/3-394832",
-    "time_ut": 1656228188,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0d9c \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0da7 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/2b/2b21950a.json"
   }
 ]
