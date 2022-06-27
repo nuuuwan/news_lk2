@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-complaints-of-daughters-affair-with-Indian-woman/108-239879",
+    "time_ut": 1656322000,
+    "original_lang": "en",
+    "original_title": "Man complaints of daughter\u2019s affair with Indian woman",
+    "file_name": "/tmp/news_lk2/articles/d8/d8c2328e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83282/sri-lankas-exports-record-usd-5-billion-mark-in-five-months",
     "time_ut": 1656321480,
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s exports record USD 5 billion mark in five months",
     "file_name": "/tmp/news_lk2/articles/e2/e23a4cdf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0d9a\u0d82\u0da0\u0db1\u0dad\u0dca-\u0dc3\u0db8\u0d9c-\u0dc0\u0dcf\u0da9\u0dd2\u0dc0\u0dda\u0daf\u0dca\u0daf\u0dd3\u0db8-\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dca\u0dc0\u0dbd\u0da7-\u0dc0\u0dd9\u0db1-\u0d86\u0db1\u0dd2\u0dc3\u0d82\u0dc3\u0dba-\u0daf\u0dd0\u0db1-\u0d9c\u0dad\u0dca\u0dad\u0dcf/11-394881",
+    "time_ut": 1656321176,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0d9a\u0d82\u0da0\u0db1\u0dad\u0dca \u0dc3\u0db8\u0d9c \u0dc0\u0dcf\u0da9\u0dd2\u0dc0\u0dda\u0daf\u0dca\u0daf\u0dd3\u0db8 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dca\u0dc0\u0dbd\u0da7 \u0dc0\u0dd9\u0db1 \u0d86\u0db1\u0dd2\u0dc3\u0d82\u0dc3\u0dba \u0daf\u0dd0\u0db1 \u0d9c\u0dad\u0dca\u0dad\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/f4/f4d18765.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -782,21 +798,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b87\u0bb8\u0bcd\u0ba4\u0bc0\u0bb0\u0bae\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0b95\u0bbf\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0baa\u0bc7\u0b9a\u0bc1\u0bb5\u0ba4\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; \u0bb5\u0bc7\u0bb2\u0bc1 \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/5f/5f0da0a6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/WHO-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-394862",
-    "time_ut": 1656306377,
-    "original_lang": "si",
-    "original_title": "WHO \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/86/866a7cbd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/fuel-token-system-from-monday-27/",
-    "time_ut": 1656306180,
-    "original_lang": "en",
-    "original_title": "Fuel Token System from Monday (27)",
-    "file_name": "/tmp/news_lk2/articles/7d/7dbac6dd.json"
   }
 ]

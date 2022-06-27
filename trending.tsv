@@ -1,8 +1,8 @@
 ent_group	n
-Sri Lanka	1844
-India	341
+Sri Lanka	1847
+India	345
 US	277
-Russia	223
+Russia	225
 Australia	205
 Parliament	176
 Central Bank	120
@@ -12,21 +12,21 @@ China	106
 International Monetary Fund	100
 Ranil Wickremesinghe	99
 Constitution	93
+Rajapaksas	77
 21st Amendment	76
-Rajapaksas	73
 Tamil	72
 Cabinet	71
 Ukraine	71
 Jaffna	70
-CPC	65
+CPC	67
 Treasury	59
-United States	58
+United States	59
+Ceylon Petroleum Corporation	59
 Muslim	58
 State	57
-Ceylon Petroleum Corporation	57
 Germany	56
 Buddhist	53
-Opposition	50
+Opposition	51
 Messi	50
 Matara	49
 European	45
@@ -162,6 +162,7 @@ Lankans	14
 Nuwara Eliya	14
 The Public Utilities Commission	14
 Department of Archeology	14
+CEB	13
 French	13
 National People's Force	13
 NATO	13
@@ -176,7 +177,6 @@ Colombo Fort	13
 Gotabhaya	13
 The Consumer Affairs Authority	13
 Pakistan	12
-CEB	12
 Twitter	12
 Spanish	12
 Home Affairs	12
@@ -371,6 +371,7 @@ Sajith	7
 Luminex Limited	7
 Cuba	7
 Hong Kong	7
+Electricity Board	7
 Manipay	7
 Mitchell Marsh	7
 Federal Reserve	7
@@ -387,7 +388,6 @@ State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
 Ministry of Energy	6
-Electricity Board	6
 KKS	6
 Sammanthurai	6
 South	6
@@ -831,6 +831,7 @@ Sri Lanka Police	3
 Wall Street Journal	3
 Kremlin	3
 Ministry Secretaries	3
+LGBTQI	3
 Madrid	3
 Turkmenistan	3
 Tajikistan	3
@@ -1074,6 +1075,8 @@ Ornamental	2
 Exports of Apparel & Textiles	2
 Mn	2
 United States of America	2
+Namal Rajapaksa	2
+Siberia	2
 Oddamavadi	2
 Batticaloa-Colombo	2
 Undiyal	2
@@ -1768,6 +1771,7 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+Akkaraipattuwa	2
 Galle Face Green in Colombo –	2
 Kota Daya'	2
 Daya	2
@@ -1864,6 +1868,9 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Kalmunai Magistrate	1
+Kalmunai	1
+Chandrapala	1
 Sri Lanka Customs	1
 Electrical & Electronic	1
 Food & Beverages, Seafood	1
@@ -1871,6 +1878,7 @@ Food & Beverages	1
 Mitts & Mittens of Textile	1
 Yarn	1
 Strong Export Growth	1
+Namal Kanchanath	1
 Dayananda	1
 storey house	1
 Ratna Mawatha	1
@@ -2064,6 +2072,8 @@ Sichuan	1
 Palitha Kohona	1
 Kohona	1
 Bandara	1
+LGBTQI Community	1
+Liberty Roundabout in	1
 Upper	1
 Central Highlands	1
 North Central Provinces	1
@@ -4005,7 +4015,6 @@ https://www.washingtonpost.com/world/2022/06/18/cuba-coronavirus-vaccine-abdala-
 NEP	1
 European revolution	1
 Kronstadt	1
-Siberia	1
 Program Lead	1
 Tony Blair Institute for Global Change	1
 Tamil Tigers	1
