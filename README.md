@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 06:07:30 (LK time)*
+*As of 2022-06-27 06:31:43 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 24 Hours (287 Articles)
+## Last 24 Hours (286 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **44** tamil-mirror-lk ([’அரசாங்கத்துடன் இணைந்து செயற்பட பிரதமர் ரணில் இணங்கியமை தவறு’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ae143ac.json))
+* **43** tamil-mirror-lk ([அமெரிக்காவின் உயர்மட்ட அதிகாரிகள் இலங்கை வந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53b002fa.json))
 
 * **42** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
