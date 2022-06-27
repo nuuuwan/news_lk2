@@ -8,8 +8,6 @@ from news_lk2._utils import log
 from news_lk2.core import Article
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
-from news_lk2.core.news_wordcloud import (build_wordcloud,
-                                          build_wordcloud_animation)
 
 MAX_ARTICLE_AGE_FOR_TRENDS = timex.SECONDS_IN.DAY
 MIN_FUZZ_RATIO_FOR_GROUP = 85
@@ -134,8 +132,7 @@ def build_trending_summary():
     JSONFile(group_to_n_file).write(group_to_n)
     log.debug(f'Wrote {group_to_n_file}')
 
-    build_wordcloud(group_to_n)
-    build_wordcloud_animation()
+    return group_to_n
 
 
 if __name__ == '__main__':
