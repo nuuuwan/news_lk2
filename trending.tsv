@@ -1,18 +1,18 @@
 ent_group	n
 Sri Lanka	1722
 India	322
-US	249
+US	250
 Russia	213
 Australia	195
 Parliament	165
 IMF	116
-Central Bank	112
+Central Bank	113
 Gotabhaya Rajapaksa	107
 International Monetary Fund	100
 China	95
-Constitution	92
+Constitution	93
 Ranil Wickremesinghe	91
-21st Amendment	74
+21st Amendment	76
 Rajapaksas	73
 Cabinet	71
 Ukraine	71
@@ -108,6 +108,7 @@ SJB	17
 European Union	17
 Arab	17
 US Treasury	17
+Ministry of Finance	16
 Kandy	16
 BOC	16
 Joe Biden	16
@@ -123,7 +124,6 @@ Korean	16
 Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
-Ministry of Finance	15
 Ranil	15
 National Savings Bank	15
 Sinhalese	15
@@ -260,6 +260,7 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
+Power and Energy	9
 Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
@@ -279,6 +280,7 @@ Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
 Southern Expressway	8
+Ven	8
 Mexico	8
 Colombo	8
 Maithripala Sirisena	8
@@ -309,7 +311,6 @@ M.S.	8
 Nasheed	8
 CAG	8
 National Transport Commission	8
-Power and Energy	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
 Colombo Stock Exchange	8
@@ -367,7 +368,6 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
-Ven	6
 University of Kelaniya	6
 Tamil Progressive Alliance	6
 Lanka	6
@@ -471,6 +471,7 @@ Kiul Oya	6
 Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
+Ada Derana	5
 Kerosene	5
 Moscow	5
 NTC	5
@@ -490,7 +491,6 @@ Godakawela	5
 Navinna Holiday Resort	5
 South Korea	5
 Lotus Tower	5
-Hatch MakerStudio	5
 Fimco Estate	5
 Jaffna Teaching Hospital	5
 Specialist	5
@@ -568,6 +568,7 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Port of Colombo	4
 Air Force	4
 Central	4
 North-Central	4
@@ -607,7 +608,6 @@ Anuradhapura	4
 Kota	4
 Vajira Abeywardena	4
 R. Saravanaraja	4
-DBA Alumni	4
 Quad	4
 Kavindi Ranasinghe	4
 Perro	4
@@ -631,7 +631,6 @@ Nuwara Eliya Police Division	4
 Kahathuduwa Police	4
 Matara Pradeshiya Sabha	4
 Katunayake International Airport	4
-Ada Derana	4
 Legislature	4
 White House Oval Office	4
 Moroccan	4
@@ -762,7 +761,6 @@ Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
 Kushan Pathiraja	3
-Port of Colombo	3
 Sri Lanka Police	3
 Wall Street Journal	3
 Kremlin	3
@@ -802,6 +800,7 @@ Urban	3
 Railway Station Masters' Association	3
 Kasun Chamara	3
 Chamaran	3
+DBA Alumni	3
 Horana	3
 Tellippalai Base Hospital	3
 Aviation Nimal Siripala de Silva	3
@@ -816,7 +815,6 @@ Katunayake	3
 Diaspora	3
 Lanka Hospitals Academy	3
 NSBM	3
-Vocational Training Authority	3
 Best Real Estate Marketing Company	3
 KNOMAD	3
 Colombo Fort Railway Station	3
@@ -1010,9 +1008,17 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Uraniya	2
+Pallewela Police	2
 Dhanushkodi	2
 Coast Guard	2
 Omicron	2
+George W. Bush	2
+Thero	2
+Prasanna	2
+Dhammajinna Thero	2
+Gampaha Magistrate's Court	2
+The United Ceylon Container Car Owners' Association	2
 Velu Kumar	2
 Petrol & Diesel	2
 Jerome Powell	2
@@ -1205,6 +1211,8 @@ Karaikal	2
 Tamils ​​in	2
 NSBM Green University	2
 UAE	2
+Hatch MakerStudio	2
+Vocational Training Authority	2
 Kyrgyzstan	2
 Uzbekistan	2
 Armenia	2
@@ -1724,11 +1732,11 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Batticaloa Hospital	1
 460	1
 Export Promotion Zones	1
 Oorani	1
 Eravur-Batticaloa Main Road	1
-Pallewela Police	1
 Discovery	1
 Department of Immunology and Molecular Medicine, University of Sri Jayewardenepura	1
 Kovit	1
@@ -1741,13 +1749,7 @@ New England Journal of Medicine	1
 University of Sri Jayewardenepura	1
 Jathika Jana Balawegaya	1
 Fort Railway	1
-George W. Bush	1
-Thero	1
-Prasanna	1
-Dhammajinna Thero	1
-Gampaha Magistrate's Court	1
 Nalaka Godahewa	1
-The United Ceylon Container Car Owners' Association	1
 Kalapoda Estate	1
 Del Thottai Estate	1
 Bohil Estate	1
@@ -2170,8 +2172,6 @@ Diaspora Tamils	1
 Palali	1
 The Lotus Tower	1
 Sri Lanka Television	1
-Technical and Vocational Education	1
-Vocational Training Authority and Hatch MakerStudio	1
 Development, Real Estate Agency	1
 Architecture	1
 Interior Design	1
