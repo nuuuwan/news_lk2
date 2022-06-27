@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 14:26:47 (LK time)*
+*As of 2022-06-27 14:37:10 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **2** economy-next-com ([Sri Lanka exports up 9-pct in May 2022, US up 25-pct, India 49-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9e3edd.json))
+* **2** lankadeepa-lk ([ඇමෙරිකා දූත පිරිස අගමැති හමුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b588cae4.json))
 
-* **2** daily-mirror-lk ([Release GotaGoGama protesters...](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d864ed10.json))
+## Last Hour (12 Articles)
 
-## Last Hour (15 Articles)
-
-* **4** news-first-lk ([High-Level US delegation meets President to discuss economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c92214.json))
+* **3** lankadeepa-lk ([ගෑස්, බොරතෙල් කැණීමට මාර්ග සිතියමක් හදන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bebe992.json))
 
 * **3** daily-mirror-lk ([Visiting high-level US officials meet President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e76f4ca.json))
 
-* **3** virakesari-lk ([சம்மாந்துறையில் டீசல் ஏற்றிச் சென்ற படி ரக வாகனம் பொதுமக்களால் மடக்கிப் பிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33bd20a4.json))
-
 * **2** economy-next-com ([Sri Lanka exports up 9-pct in May 2022, US up 25-pct, India 49-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9e3edd.json))
 
-* **2** ada-lk ([විදුලියේ හිටපු සභාපති සිතා මතා සිදු නොකළ අතපසු වීමක් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cf8551b.json))
+* **2** virakesari-lk ([ஜனாதிபதியை சந்தித்தனர் அமெரிக்க உயர்மட்ட இராஜதந்திர குழுவினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66667c01.json))
 
-* **1** tamil-mirror-lk ([ஜனாதிபதியுடன் அமெரிக்க தூதுக்குழு சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32ec0d41.json))
+* **1** news-first-lk ([Container Cargo Transport Charges increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c675a592.json))
 
-## Last 3 Hours (58 Articles)
+* **1** ada-lk ([ග්‍රහලෝක 5ක් එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae46a76a.json))
 
-* **15** lankadeepa-lk ([ප්‍රාදේශීය ලේකම් සිර කළාට ප්‍ර.ලේ සේවකයෝ විරෝධය පාති](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/034539c8.json))
+## Last 3 Hours (61 Articles)
 
-* **11** ada-lk ([ප්‍රවාහන සේවා සඳහා කරත්ත නැවතත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01f17417.json))
+* **19** lankadeepa-lk ([ප්‍රාදේශීය ලේකම් සිර කළාට ප්‍ර.ලේ සේවකයෝ විරෝධය පාති](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/034539c8.json))
+
+* **10** ada-lk ([අනුරගේ යාපන සමළුවට ටී.එන්.ඒ. නායකයොත් එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f203030.json))
 
 * **9** news-first-lk ([Daily Exchange Rate from CBSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3d433d.json))
 
@@ -44,13 +42,13 @@
 
 ## Last 24 Hours (300 Articles)
 
-* **77** lankadeepa-lk ([ත්‍රිවීල් ගාස්තුත් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24c06a52.json))
+* **79** lankadeepa-lk ([රාජ්‍ය ආයතනවලට සේවකයින් කැදවීම ගැන චක්‍රලේඛයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0bc1db40.json))
 
 * **49** virakesari-lk ([ரயில் கட்டணங்களை 50 சதவீதமாக அதிகரிக்குமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/eccc88fc.json))
 
 * **39** tamil-mirror-lk ([இந்தியாவில் இருந்து வருகின்றது மண்ணெண்ணெய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337a862f.json))
 
-* **34** ada-lk ([ඇමතිවරු දෙදෙනෙක් ඇතුළු දූත පිරිසක් රුසියාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71f519f5.json))
+* **32** ada-lk ([ත්‍රිරෝද රථ ගාස්තු රු. 10කින් ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5120fe76.json))
 
 * **29** daily-mirror-lk ([3-hour power cuts from 27th June - 03rd July](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7444da82.json))
 
@@ -66,15 +64,15 @@
 
 * **4** colombo-telegraph-com ([My Dear Sinhalese Friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83a3f1f3.json))
 
-## Last Week (1,868 Articles)
+## Last Week (1,869 Articles)
 
-* **361** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e574416.json))
+* **359** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c135be7c.json))
 
-* **349** lankadeepa-lk ([පෝර ගැන සුබ පණිවිඩයක් එහෙත් බෙදීම ක්‍රමයකට ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc62e0a0.json))
+* **353** lankadeepa-lk ([පෝර ගැන සුබ පණිවිඩයක් එහෙත් බෙදීම ක්‍රමයකට ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc62e0a0.json))
 
 * **196** virakesari-lk ([புலிகளின் முன்னுதாரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f098681.json))
 
-* **182** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12a3cfb5.json))
+* **181** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b18aaae7.json))
 
 * **176** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -94,7 +92,7 @@
 
 * **9** b-b-c-com-sinhala ([ඕස්ට්‍රේලියාවට එරෙහි අද තරගයෙන් ශ්‍රී ලංකාවේ පැතුම ඉටුවෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ea68c9.json))
 
-## All Time (16,745 Articles)
+## All Time (16,749 Articles)
 
 * **5,922** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -108,7 +106,7 @@
 
 * **1,150** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d1439a.json))
 
-* **465** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **469** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **232** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
