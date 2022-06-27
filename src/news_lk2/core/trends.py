@@ -55,16 +55,23 @@ def get_thing_ent_set(article):
     for ents0 in text_idx['body_line_ents_list']:
         ents += ents0
 
+    def filter_thing_ent(ent):
+        return ent['label'] in THING_ENTS
+
+    def map_ent_text(ent):
+        ent_text = ent['text']
+        ent_text = ent_text.replace('.', "")
+        ent_text = re.sub("the ", "", ent_text, flags=re.IGNORECASE)
+        return ent_text
+
     return list(
         set(
             list(
                 map(
-                    lambda ent: re.sub(
-                        "the ", "", ent['text'], flags=re.IGNORECASE
-                    ),
+                    map_ent_text,
                     list(
                         filter(
-                            lambda ent: ent['label'] in THING_ENTS,
+                            filter_thing_ent,
                             ents,
                         )
                     ),
