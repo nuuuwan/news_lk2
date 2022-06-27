@@ -3,15 +3,13 @@ import os
 from utils import JSONFile
 
 from news_lk2._utils import log
-from news_lk2.core import Article
 from news_lk2.core.filesys import DIR_REPO
 
 N_LATEST = 400
 
 
-def build_articles_summary():
+def build_articles_summary(articles):
     log.info('Building articles.summary.json')
-    articles = Article.load_articles()
     data_list = []
     for article in articles:
         data_list.append(

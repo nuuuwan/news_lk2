@@ -5,7 +5,6 @@ from fuzzywuzzy import fuzz
 from utils import JSONFile, timex
 
 from news_lk2._utils import log
-from news_lk2.core import Article
 from news_lk2.core.ents import THING_ENTS
 from news_lk2.core.filesys import DIR_REPO
 
@@ -23,9 +22,8 @@ def sort_by_value(_dict):
     return dict(sorted_items)
 
 
-def filter_articles(max_age):
+def filter_articles(articles, max_age):
     current_time = timex.get_unixtime()
-    articles = Article.load_articles()
 
     def filter_article(article):
         if article.time_ut < current_time - max_age:
@@ -115,8 +113,8 @@ def get_group_to_n(ent_to_n):
     return ent_to_group, sort_by_value(group_to_n)
 
 
-def build_trending_summary():
-    recent_articles = filter_articles(MAX_ARTICLE_AGE_FOR_TRENDS)
+def build_trending_summary(articles):
+    recent_articles = filter_articles(articles, MAX_ARTICLE_AGE_FOR_TRENDS)
     ent_to_n = get_ent_to_n(recent_articles)
     ent_to_n_file = os.path.join(DIR_REPO, 'ent_to_n.json')
     JSONFile(ent_to_n_file).write(ent_to_n)

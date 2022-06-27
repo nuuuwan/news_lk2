@@ -4,12 +4,10 @@ from utils import File, timex
 
 from news_lk2._constants import DELIM_MD, DIR_TMP_BASE, URL_GITHUB_BASE
 from news_lk2._utils import log
-from news_lk2.core import Article
 from news_lk2.core.filesys import DIR_REPO
 
 
-def group_by_time_and_newspaper(current_time):
-    articles = Article.load_articles()
+def group_by_time_and_newspaper(articles, current_time):
     idx = {}
     for article in articles:
         time_ut = article.time_ut
@@ -34,9 +32,9 @@ def group_by_time_and_newspaper(current_time):
     return idx
 
 
-def build_readme_summary():
+def build_readme_summary(articles):
     current_time = timex.get_unixtime()
-    idx = group_by_time_and_newspaper(current_time)
+    idx = group_by_time_and_newspaper(articles, current_time)
 
     log.info('Building README.md')
     lines = []
