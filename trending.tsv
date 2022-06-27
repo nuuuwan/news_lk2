@@ -1,24 +1,24 @@
 ent_group	n
-Sri Lanka	1729
-India	322
-US	250
+Sri Lanka	1742
+India	323
+US	251
 Russia	213
 Australia	195
 Parliament	165
+Central Bank	119
 IMF	116
-Central Bank	113
 Gotabhaya Rajapaksa	107
 International Monetary Fund	100
 China	95
 Constitution	93
-Ranil Wickremesinghe	91
+Ranil Wickremesinghe	92
 21st Amendment	76
 Rajapaksas	73
 Cabinet	71
 Ukraine	71
 Tamil	70
+Jaffna	66
 CPC	63
-Jaffna	62
 Treasury	55
 Ceylon Petroleum Corporation	55
 German	55
@@ -30,17 +30,17 @@ Buddhist	47
 Aragalaya	43
 Wickremesinghe	43
 European	42
+Japan	41
 Viswanathan	41
 Central Bank of Sri Lanka	41
 House	40
 U.S.	40
 Ministry of Education	40
-Japan	39
+Matara	39
 UNP	38
 Hambantota	37
 UN	37
 Kanchana Wijesekera	37
-Matara	36
 Mullaitivu	35
 EU	34
 Puttalam	33
@@ -70,16 +70,16 @@ France	24
 Colombo National Hospital	24
 Nimal Siripala de Silva	23
 US State Department	23
+Nandalal Weerasinghe	22
 USA	22
 UK	22
 Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
-Nandalal Weerasinghe	21
+American	22
 Magammana	21
 Supreme Court	21
 South Asia	21
-American	21
 Kelly Keiderling	21
 Army	20
 Bill	20
@@ -136,6 +136,7 @@ Ports	15
 Estonia	15
 Julie Chung	15
 Ministry of Public Administration	15
+Finance	14
 Kadawatha	14
 Daily Mirror	14
 Spain	14
@@ -151,7 +152,6 @@ Nuwara Eliya	14
 The Public Utilities Commission	14
 Department of Archeology	14
 STF	13
-Finance	13
 NATO	13
 Government of Sri Lanka	13
 Hatton	13
@@ -176,11 +176,13 @@ NL	12
 Soviet Union	12
 Foreign Exchange Act	12
 Education Ministry	12
+Anura Kumara Dissanayake	12
 World Cup	12
 Bell Geospace	12
 Latin America	12
 Naseer Ahmed	12
 EU Ambassadors	12
+National People's Force	11
 COVID-19	11
 Provincial Councils and Local Government	11
 Pakistan	11
@@ -195,7 +197,6 @@ Galle Face	11
 Temple Trees	11
 Dudley	11
 Chaturanga Samarawickrama	11
-Anura Kumara Dissanayake	11
 Palaly Airport	11
 US Treasury Department	11
 COPE	11
@@ -243,7 +244,6 @@ Iran	9
 Western	9
 Maldives	9
 Italy	9
-National People's Force	9
 Board	9
 LTTE	9
 East	9
@@ -447,6 +447,7 @@ Green	6
 The Colombo High Court	6
 Hong Kong	6
 John Greenwood	6
+Matara General Hospital	6
 Federal Reserve	6
 The Department of Meteorology	6
 Monetary Board of Central Bank of Sri Lanka	6
@@ -471,6 +472,7 @@ Kiul Oya	6
 Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
+The Central Bank Annual Report	6
 Ada Derana	5
 Kerosene	5
 Moscow	5
@@ -561,7 +563,6 @@ Defense	5
 Hindu	5
 democratic	5
 Subramaniam Satyavani	5
-Matara General Hospital	5
 Masahiro Nozaki	5
 GL Peiris	5
 SLT-Mobitel AkazaLMS	5
@@ -569,6 +570,8 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Kaushalya Kumari	4
+Leader	4
 Port of Colombo	4
 Air Force	4
 Central	4
@@ -848,8 +851,6 @@ Customs	3
 State for Central and South Asian Affairs	3
 Darshana Sanjeewa Balasuriya	3
 Rs.100	3
-Leader	3
-Kaushalya Kumari	3
 Auto Diesel	3
 Suren Fernando	3
 United States Mahinda Samarasinghe	3
@@ -1009,7 +1010,6 @@ State Partnership Program	3
 National Guard	3
 Browns Investment	3
 LOLC Holdings	3
-The Central Bank Annual Report	3
 Lanka Private Bus Owners’ Association	3
 Anthony Blinken	3
 All Ceylon Bakery Owners Association	3
@@ -1017,8 +1017,14 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Secretariat	2
 Economy Next	2
+Anura	2
+Dharmalingam Siddharthan	2
+Hiroshima	2
+Nagasaki	2
 Uraniya	2
+Export Promotion Zones	2
 Pallewela Police	2
 Dhanushkodi	2
 Coast Guard	2
@@ -1648,7 +1654,11 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+Arayambadi	2
+Modular Teaching Hospital	2
 All Share Price Index	2
+Anura Kumara	2
+Provincial Council	2
 The Expressway Traffic Police	2
 Monaragala Hospital	2
 NGO	2
@@ -1736,8 +1746,23 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Batticaloa-Colombo	1
+Urani	1
+Kokuvil	1
+Y. Wickramarasiri	1
+Elderly	1
+Jaffna - A	1
+Ilavalai	1
+Jaffna Juvenile Magistrate's Court	1
 STF Southern Province Special Operations Unit	1
 Prabath Manjula	1
+National People's Force District Conference	1
+Leader of PLOTE	1
+Suresh Premachandran	1
+EPRLF	1
+CVK	1
+Sivagnanam	1
+District National People's Force	1
 Niraj de Mel	1
 Tea Exporter’s Association	1
 Colombo Brokers Association	1
@@ -1748,7 +1773,6 @@ De Me	1
 Batticaloa Hospital	1
 Nayaka Thera	1
 460	1
-Export Promotion Zones	1
 Oorani	1
 Eravur-Batticaloa Main Road	1
 Discovery	1
@@ -1827,8 +1851,6 @@ Dimbula-Pathana Police	1
 Batticaloa Urani	1
 Colombo-Batticaloa	1
 Chengaladi	1
-Arayambathi	1
-Modhu Teaching Hospital	1
 Home for Public Sector	1
 a Work From Home	1
 Trade Union	1
@@ -1889,7 +1911,6 @@ Dinesh Gunawardena	1
 Provincial Council Elections	1
 Committee by Elections Commission	1
 Election Tribunal	1
-Provincial Councils	1
 Provincial	1
 Amartya Sen	1
 Social Security Contribution	1
@@ -1961,8 +1982,6 @@ Krishnapatnam	1
 Mediterranean	1
 The US Reserve Bank	1
 Seychelles	1
-Hiroshima	1
-Nagasaki	1
 Farmers	1
 Otto	1
 National Hospital in Colombo	1
@@ -2318,9 +2337,7 @@ Murali Vallipuranathan	1
 Section of Epidemiology	1
 King’s College	1
 Ragama	1
-Anurakumara	1
 Mavai Senathirajah	1
-Dharmalingam Siddharthan	1
 Kurundhu Malai Hill	1
 Mullaitheevu Court	1
 Cultural Appropriation of Ancient Saivaie Shrine	1
@@ -3085,7 +3102,6 @@ Sunday Island	1
 Clan	1
 Administration	1
 SJP	1
-Anura	1
 Ceylon Tamil	1
 Upcountry Tamil	1
 Catholic	1
@@ -3702,7 +3718,6 @@ Hindi	1
 Boatswain	1
 Dessert	1
 Wattalappam	1
-Secretariat	1
 Pakistan Navy	1
 Heads of State	1
 FAC	1
