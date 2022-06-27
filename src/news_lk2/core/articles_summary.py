@@ -6,7 +6,7 @@ from news_lk2._utils import log
 from news_lk2.core import Article
 from news_lk2.core.filesys import DIR_REPO
 
-N_LATEST = 100
+N_LATEST = 400
 
 
 def build_articles_summary():
