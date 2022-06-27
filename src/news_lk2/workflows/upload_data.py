@@ -1,4 +1,3 @@
-
 from news_lk2._utils import log
 from news_lk2.core.articles_summary import build_articles_summary
 from news_lk2.core.filesys import git_checkout
