@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83282/sri-lankas-exports-record-usd-5-billion-mark-in-five-months",
+    "time_ut": 1656321480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s exports record USD 5 billion mark in five months",
+    "file_name": "/tmp/news_lk2/articles/e2/e23a4cdf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-leader-visits-remanded-protesters-96511/",
+    "time_ut": 1656321120,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition leader visits remanded protesters",
+    "file_name": "/tmp/news_lk2/articles/2f/2fcae45b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dad\u0dcf\u0dbd-\u0dc3\u0db8\u0dcf\u0da2\u0dd2\u0d9a-\u2019\u0d9a\u0ddc\u0da7-\u0daf\u0dba\u0dcf\u2019-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/11-394880",
+    "time_ut": 1656321030,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dad\u0dcf\u0dbd \u0dc3\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u2019\u0d9a\u0ddc\u0da7 \u0daf\u0dba\u0dcf\u2019 \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c0/c02d69c9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130256",
+    "time_ut": 1656321011,
+    "original_lang": "ta",
+    "original_title": "\u0b93\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0bb5\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1  \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/b2/b2cb9df3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-central-bank-blocked-retail-fuel-sales-for-dollars-minister-96519/",
+    "time_ut": 1656320580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka central bank blocked retail fuel sales for dollars: Minister",
+    "file_name": "/tmp/news_lk2/articles/af/afde1177.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130255",
     "time_ut": 1656320565,
@@ -14,6 +54,22 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4\u0db6\u0da9 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0d9c\u0db8\u0db1 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dda",
     "file_name": "/tmp/news_lk2/articles/df/df8c03eb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4\u0db6\u0da9-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0d9c\u0db8\u0db1-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dda/1-615481",
+    "time_ut": 1656320312,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4\u0db6\u0da9 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0d9c\u0db8\u0db1 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dda",
+    "file_name": "/tmp/news_lk2/articles/3e/3ea104f2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d96\u0dc2\u0db0-\u0dc4\u0dd2\u0d9f\u0dba-\u0dc3\u0dc4-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf-\u0db1\u0dd2\u0dc3\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1/11-394879",
+    "time_ut": 1656320105,
+    "original_lang": "si",
+    "original_title": "\u0d96\u0dc2\u0db0 \u0dc4\u0dd2\u0d9f\u0dba \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/61/61ea2963.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -408,6 +464,14 @@
     "file_name": "/tmp/news_lk2/articles/e6/e64881b3.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dba\u0dd4\u0daf-\u0dc3\u0dd9\u0db6\u0dc5\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615469",
+    "time_ut": 1656313674,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbd\u0dca\u0dc1\u0dcf\u0dbd\u0dcf \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0da7,\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dba\u0dd4\u0daf \u0dc3\u0dd9\u0db6\u0dc5\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/a4/a4742ac7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/06/27/daily-exchange-rate-from-cbsl-6/",
     "time_ut": 1656313560,
@@ -734,69 +798,5 @@
     "original_lang": "en",
     "original_title": "Fuel Token System from Monday (27)",
     "file_name": "/tmp/news_lk2/articles/7d/7dbac6dd.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d85\u0dc0\u0db4\u0dcf\u0dad\u0dba-\u0db8\u0d9c\u0dc4\u0dd0\u0dbb\u0dd3\u0db8-\u0db4\u0dc4\u0dc3\u0dd4-\u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4--IMF/3-394861",
-    "time_ut": 1656305960,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dc0\u0db4\u0dcf\u0dad\u0dba \u0db8\u0d9c\u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0db4\u0dc4\u0dc3\u0dd4 \u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4 -IMF",
-    "file_name": "/tmp/news_lk2/articles/08/08fc8625.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0dc0\u0dbd\u0da7-\u0d9c\u0d82\u0da2\u0dcf--\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca-\u0dc3\u0dc4-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0dd4-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6/11-394860",
-    "time_ut": 1656305791,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0dc0\u0dbd\u0da7 \u0d9c\u0d82\u0da2\u0dcf ,\u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0dd4 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd6",
-    "file_name": "/tmp/news_lk2/articles/12/12b6f64b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130242",
-    "time_ut": 1656305727,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d8/d8bf2a25.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/rainfall-expected-today-27/",
-    "time_ut": 1656305400,
-    "original_lang": "en",
-    "original_title": "Rainfall expected today (27)",
-    "file_name": "/tmp/news_lk2/articles/f8/f8ff0685.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83278/russia-defaults-on-foreign-debt-for-first-time-in-a-century",
-    "time_ut": 1656305280,
-    "original_lang": "en",
-    "original_title": "Russia defaults on foreign debt for first time in a century",
-    "file_name": "/tmp/news_lk2/articles/60/608adb68.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130243",
-    "time_ut": 1656305042,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/69/69a3a324.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/fuel-was-not-distributed-on-sunday-26-tanker-owners/",
-    "time_ut": 1656305040,
-    "original_lang": "en",
-    "original_title": "Fuel was NOT distributed on Sunday (26) \u2013 Tanker Owners",
-    "file_name": "/tmp/news_lk2/articles/f7/f79c4f62.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-100\u0d9a\u0da7-\u0db4\u0dc3\u0dd4\u0dc0-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0dab\u0dba-\u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0da7-\u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/11-394859",
-    "time_ut": 1656304805,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 100\u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dab\u0dba \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1f/1f4ae7f0.json"
   }
 ]
