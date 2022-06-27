@@ -1,17 +1,17 @@
 ent_group	n
 Sri Lanka	1701
 India	322
-US	244
+US	248
 Russia	213
 Australia	195
-Parliament	164
-IMF	110
+Parliament	165
+IMF	116
 Gotabhaya Rajapaksa	107
 Central Bank	105
-International Monetary Fund	99
+International Monetary Fund	100
 China	95
 Constitution	91
-Ranil Wickremesinghe	89
+Ranil Wickremesinghe	90
 Rajapaksas	73
 21st Amendment	72
 Ukraine	71
@@ -33,9 +33,9 @@ European	42
 Viswanathan	41
 Central Bank of Sri Lanka	41
 House	40
+U.S.	40
 Ministry of Education	40
 Japan	39
-U.S.	38
 UNP	38
 UN	37
 Kanchana Wijesekera	36
@@ -132,6 +132,7 @@ Ports	15
 Estonia	15
 Julie Chung	15
 Ministry of Public Administration	15
+Kandy	14
 Daily Mirror	14
 Spain	14
 Ranil	14
@@ -146,7 +147,6 @@ Basil Rajapaksa	14
 Jagath Manuwarna	14
 The Public Utilities Commission	14
 Department of Archeology	14
-Kandy	13
 NATO	13
 Government of Sri Lanka	13
 Kadawatha	13
@@ -320,6 +320,7 @@ Eurasia	8
 Lady Ridgeway Children's Hospital	8
 COPE Committee	8
 Rathindu Senaratne	8
+Fed	7
 Ajith Nivard Cabraal	7
 Swiss	7
 Indonesia	7
@@ -355,12 +356,14 @@ Mitchell Marsh	7
 Mano Ganesan	7
 Second Amendment	7
 R. Premadasa Stadium	7
+World Health Organization	7
 Nanayakkara	7
 National List	7
 Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
+Tamil Progressive Alliance	6
 Kuwait	6
 Northern	6
 Putin	6
@@ -434,10 +437,10 @@ Ministry of Foreign Affairs	6
 Cuba	6
 Jayanath Colombage	6
 Green	6
-World Health Organization	6
 The Colombo High Court	6
 Hong Kong	6
 John Greenwood	6
+Federal Reserve	6
 North Western	6
 Monetary Board of Central Bank of Sri Lanka	6
 South Africa	6
@@ -474,7 +477,6 @@ Bench	5
 Kelaniya	5
 Trinco	5
 Ceylonese	5
-Tamil Progressive Alliance	5
 South	5
 Nigeria	5
 National Freedom Front	5
@@ -691,6 +693,7 @@ Maldivian	4
 Sher Bahadur	4
 MCC	4
 Tibetan	4
+Monaragala	4
 Yvette Fernando	4
 Monetary Law Act	4
 Government	4
@@ -745,6 +748,7 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Wall Street Journal	3
 Kremlin	3
 Kotagala	3
 Ministry Secretaries	3
@@ -856,7 +860,6 @@ Afghan	3
 www.dfe.lk	3
 Janatha Vimukthi Peramuna	3
 Madiwela	3
-Fed	3
 Thoothukudi	3
 South East Asia Petroleum Exploration Society	3
 Asia Pacific Conference	3
@@ -934,7 +937,6 @@ Ceylon Chamber	3
 Foreign Service	3
 NC	3
 National-Long Term Rating	3
-U.S. Federal Reserve	3
 International Fund for Agriculture Development	3
 OPEC+	3
 Yahapalanaya	3
@@ -998,6 +1000,9 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Velu Kumar	2
+Jerome Powell	2
+Sanath Manjula	2
 Bloomberg News	2
 Vladimir Lenin	2
 Russian Empire	2
@@ -1545,7 +1550,6 @@ Johns Hopkins University	2
 Montenegro	2
 Hanke	2
 Chile	2
-Wall Street Journal	2
 Modern Monetary Theory	2
 Friedberg Mercantile Group	2
 Friedman	2
@@ -1619,6 +1623,8 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+Monaragala Hospital	2
+NGO	2
 The Public Administration Circulars	2
 Dhammika Nanayakkara	2
 Antonio Guterres	2
@@ -1704,6 +1710,29 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Kalapoda Estate	1
+Del Thottai Estate	1
+Bohil Estate	1
+Great Outer Estate	1
+Kandy District	1
+Woodside Gardens	1
+Calduria Gardens	1
+Monkeypox	1
+United Nations Observatory for Human Rights	1
+Tedros Gabrias	1
+The International Health Regulations Emergency Committee	1
+Federal Open Market Committee	1
+Crystalina Georgieva	1
+Fed Fund	1
+Georgieva	1
+Powell	1
+Bill Dudley	1
+Federal Reserve Bank of New York	1
+Bloomberg	1
+Nigel Choke	1
+Western Hemisphere Department	1
+All Ceylon Container Transport Union	1
+Sri Lanka Container Transport Union	1
 Euroclear	1
 Taiwanese	1
 Bolshevik Revolution	1
@@ -1717,6 +1746,12 @@ Coast Guard	1
 Coast Guard Station	1
 Bolshevik Revolution of 1918	1
 EuroClear Bank	1
+Monaragala Police Division	1
+Hindikiula	1
+Dombagahawela	1
+Buttala	1
+Bodhiyapara Pillawela	1
+Kumbukkana Galwala Road	1
 Modhu Mawdiwem	1
 Mavadivembu	1
 Batticaloa Junction	1
@@ -1933,7 +1968,6 @@ People's Monitoring Committee	1
 Hatton Court	1
 Central Committee of	1
 Association	1
-Jerome Powell	1
 Soliyan Kudumi	1
 World Food Program	1
 Liberal	1
@@ -2571,7 +2605,6 @@ PKG	1
 Yogarasa Sathees	1
 Malliyappu	1
 United States of America	1
-Moneragala Hospital	1
 Samadhi Rajapksa	1
 Tobacco Leaves	1
 Cannabis	1
@@ -3011,10 +3044,8 @@ Rakibe Şekercioğlu	1
 Deans	1
 EXIM Bank of India and Food and Agriculture Organization	1
 A Strategy for Restoration and Rebuilding Agri-Food Sector of Sri Lanka	1
-NGOS	1
 Faculties of Agriculture	1
 CitiBank	1
-Monaragala	1
 Amal Kumarage	1
 Leader of Opposition	1
 Yahapalana	1
