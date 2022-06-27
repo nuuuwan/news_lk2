@@ -35,3 +35,5 @@ def build_articles_summary():
         f'Wrote {n_latest_data_list} articles '
         + f'to {articles_summary_latest_file}',
     )
+if __name__ == '__main__':
+    build_articles_summary()
