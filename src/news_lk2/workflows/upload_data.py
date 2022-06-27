@@ -1,9 +1,10 @@
-import random
 
 from news_lk2._utils import log
+from news_lk2.core.articles_summary import build_articles_summary
 from news_lk2.core.filesys import git_checkout
-from news_lk2.custom_newspapers import newspaper_class_list
-from news_lk2.workflows import common
+from news_lk2.core.readme import build_readme_summary
+from news_lk2.core.trends import build_trending_summary
+from news_lk2.core.upload_data import upload_data
 
 DELIM_MD = '\n' * 2
 MAX_ARTICLES_TO_UPLOAD = 200
@@ -12,31 +13,10 @@ MAX_ARTICLES_TO_UPLOAD = 200
 def main(is_test_mode=False):
     log.debug(f'{is_test_mode=}')
     git_checkout(force=not is_test_mode)
-
-    random.shuffle(newspaper_class_list)
-    n = len(newspaper_class_list)
-    n_total = 0
-    for i, newspaper_class in enumerate(newspaper_class_list):
-        newspaper_name = newspaper_class.__name__
-        log.info(f'{i + 1}/{n}) Scraping {newspaper_name}...')
-        article_list = newspaper_class.scrape()
-        n_paper = len(article_list)
-        log.info(
-            f'{i + 1}/{n}) Scraped {n_paper} articles from {newspaper_name}'
-        )
-
-        n_total += n_paper
-
-        if is_test_mode:
-            if n_total > 5:
-                break
-
-        if n_total > MAX_ARTICLES_TO_UPLOAD:
-            break
-
-    log.info(f'Scraped {n_total} articles in total.')
-
-    common.build_all_summaries()
+    upload_data(is_test_mode)
+    build_trending_summary()
+    build_articles_summary()
+    build_readme_summary()
 
 
 if __name__ == '__main__':
