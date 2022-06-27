@@ -46,6 +46,7 @@ def build_readme_summary():
     )
     lines.append(f'*As of {time_last_run} (LK time)*')
     lines.append('![wordcloud](wordcloud.png)')
+    lines.append('![wordcloud animation](wordcloud_animation.gif)')
 
     for label, idx_for_label in idx.items():
         total_n_articles = sum(
