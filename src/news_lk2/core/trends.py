@@ -12,6 +12,7 @@ from news_lk2.core.filesys import DIR_REPO
 MIN_FUZZ_RATIO_FOR_GROUP = 85
 HALF_LIFE_DAYS = 1
 
+
 def sort_by_value(_dict):
     sorted_items = list(
         sorted(
@@ -77,8 +78,11 @@ def get_ent_to_n(articles):
     for article in articles:
         time_ut = article.time_ut
         age_days = (current_time - time_ut) / timex.SECONDS_IN.DAY
-        w = 1 if age_days < 1 else 1 / (math.pow(2, age_days / HALF_LIFE_DAYS))
-        print(age_days, w)
+        w = (
+            1
+            if age_days < 1
+            else 1 / (math.pow(2, age_days / HALF_LIFE_DAYS))
+        )
 
         ent_set = get_thing_ent_set(article)
         for ent in ent_set:
