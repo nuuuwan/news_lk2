@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 01:03:02 (LK time)*
+*As of 2022-06-28 01:20:17 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (8 Articles)
 
-* **8** daily-mirror-lk ([Train, bus services will be smooth tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9cab252.json))
+* **5** daily-mirror-lk ([Power Ministry Secy held hostage](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38f6c0b.json))
 
 * **2** ada-derana-lk ([SLTB says adequate buses will be operated](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca626504.json))
 
 * **1** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
 
-* **1** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
-
-## Last 24 Hours (274 Articles)
+## Last 24 Hours (272 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -34,7 +32,7 @@
 
 * **19** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **10** daily-ft-lk ([Sri Lanka struggles sans immediate solutions to dollar crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde5c64.json))
+* **8** daily-ft-lk ([American Ambassador meets with American Alumni Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb440470.json))
 
 * **2** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
