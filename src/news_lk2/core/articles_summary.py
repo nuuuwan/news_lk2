@@ -14,7 +14,6 @@ def build_articles_summary():
     articles = Article.load_articles()
     data_list = []
     for article in articles:
-        # ArticleSummary = Article - "text_idx" + "file_name"
         data_list.append(
             dict(
                 newspaper_id=article.newspaper_id,
