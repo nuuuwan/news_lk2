@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb8\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd-\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-299288",
+    "time_ut": 1656313041,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b0/b08926d3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bb8\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/73-299287",
     "time_ut": 1656312067,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bb8\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/af/afa7b453.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dc3\u0dd2\u0dba\u0dba\u0da7-20\u0dad\u0dca-30\u0dad\u0dca-\u0d85\u0dad\u0dbb-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-394869",
+    "time_ut": 1656311382,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 20\u0dad\u0dca 30\u0dad\u0dca \u0d85\u0dad\u0dbb \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/bd/bd62a065.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -782,21 +798,5 @@
     "original_lang": "en",
     "original_title": "Biden urges G7 to stay together as leaders target Russian gold",
     "file_name": "/tmp/news_lk2/articles/eb/eb1c01a9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Revised-notice-on-conducting-schools-from-June-27-to-July-1-issued/342-239820",
-    "time_ut": 1656264683,
-    "original_lang": "en",
-    "original_title": "Revised notice on conducting schools from June 27 to July 1 issued",
-    "file_name": "/tmp/news_lk2/articles/dc/dc28963c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Revised-notice-on-conducting-schools-from-June-27-to-July-1-issued/108-239820",
-    "time_ut": 1656264683,
-    "original_lang": "en",
-    "original_title": "Revised notice on conducting schools from June 27 to July 1 issued",
-    "file_name": "/tmp/news_lk2/articles/6e/6e6f5f37.json"
   }
 ]
