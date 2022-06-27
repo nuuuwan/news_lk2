@@ -16,11 +16,15 @@ def main(is_test_mode=False):
     git_checkout(force=not is_test_mode)
     upload_data(is_test_mode)
 
-    build_articles_summary()
     group_to_n = build_trending_summary()
-    build_readme_summary()
     build_wordcloud(group_to_n)
     build_wordcloud_animation()
+
+    build_articles_summary()
+
+    build_readme_summary()
+
+
 
 
 if __name__ == '__main__':
