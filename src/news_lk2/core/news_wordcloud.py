@@ -17,7 +17,6 @@ def build_wordcloud(group_to_n):
         width=1600,
         height=900,
         background_color='white',
-        max_words=50,
         random_state=1,
     ).generate_from_frequencies(group_to_n)
 
