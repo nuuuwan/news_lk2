@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 02:45:13 (LK time)*
+*As of 2022-06-28 02:57:19 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
-
-* **4** daily-ft-lk ([Milinda meets India’s Minister of Petroleum and Natural Gas](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fadbdac.json))
-
 ## Last 3 Hours (7 Articles)
 
 * **7** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
-## Last 24 Hours (267 Articles)
+## Last 24 Hours (266 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -26,7 +22,7 @@
 
 * **26** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
-* **25** tamil-mirror-lk ([கறுப்புத் திங்களுக்கு ட்ரயல் அட் பார்: சபாநாயகர் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e396f97.json))
+* **24** tamil-mirror-lk ([’எந்த நாடும் தப்ப முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8013c3d4.json))
 
 * **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
