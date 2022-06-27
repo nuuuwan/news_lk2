@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-27 05:38:26 (LK time)*
+*As of 2022-06-27 06:07:30 (LK time)*
 
 ![wordcloud](wordcloud.png)
-
-## Last 3 Hours (3 Articles)
-
-* **3** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களில் 70% ஐ  மூட முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa9575c5.json))
 
 ## Last 24 Hours (287 Articles)
 
 * **82** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57114d6a.json))
 
-* **45** tamil-mirror-lk ([’மக்களுடன் இணைந்து அரசாங்கத்திற்கு எதிராக வீதிக்கு இறங்குவோம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc065f10.json))
+* **44** tamil-mirror-lk ([’அரசாங்கத்துடன் இணைந்து செயற்பட பிரதமர் ரணில் இணங்கியமை தவறு’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ae143ac.json))
 
-* **41** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
+* **42** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
 * **30** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
@@ -32,7 +28,7 @@
 
 * **3** colombo-telegraph-com ([My Dear Sinhalese Friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83a3f1f3.json))
 
-## Last Week (1,797 Articles)
+## Last Week (1,799 Articles)
 
 * **366** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac405840.json))
 
@@ -40,7 +36,7 @@
 
 * **188** news-first-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/976c653d.json))
 
-* **177** virakesari-lk ([இனப்பிரச்சினையை தீர்க்காது மீண்டெழுதல் சாத்தியமில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a9b8995.json))
+* **178** virakesari-lk ([இனப்பிரச்சினையை தீர்க்காது மீண்டெழுதல் சாத்தியமில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a9b8995.json))
 
 * **150** ada-lk ([ඇමෙරිකාවෙන් ඩො.මිලියන  5.75ක අතිරේක ආධාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd2485fb.json))
 
@@ -54,13 +50,13 @@
 
 * **62** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0090d8a.json))
 
-* **28** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
+* **29** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ff4682.json))
 
 * **16** colombo-telegraph-com ([Short Term Plan, Long Term Communication](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/682a8b4c.json))
 
 * **11** b-b-c-com-sinhala ([දෙහිවල සත්ත්ව රෝහලේ ප්‍රතිකාර කෙරෙන හැටි ඔබ දැක තිබේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4f13f8.json))
 
-## All Time (16,601 Articles)
+## All Time (16,603 Articles)
 
 * **5,904** daily-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb441c3.json))
 
@@ -78,11 +74,11 @@
 
 * **206** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **179** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **180** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **139** tamil-mirror-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf2c0f8.json))
 
-* **123** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
+* **124** d-b-s-jeyaraj-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aec9eac.json))
 
 * **30** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 

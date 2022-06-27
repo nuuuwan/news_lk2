@@ -1,30 +1,30 @@
 ent_group	n
-Sri Lanka	1651
-India	313
-US	229
+Sri Lanka	1657
+India	316
+US	230
 Australia	189
-Russia	174
-Parliament	159
+Russia	176
+Parliament	164
 IMF	110
 Gotabaya Rajapaksa	102
 International Monetary Fund	98
 Central Bank	97
 China	91
-Ranil Wickremesinghe	85
+Constitution	91
+Ranil Wickremesinghe	86
+21st Amendment	72
 Rajapaksas	72
 Tamil	70
 Ukraine	69
-21st Amendment	69
+Cabinet	67
 Jaffna	60
-Constitution	58
-Cabinet	57
 CPC	55
 German	55
+United States	53
 Treasury	52
-United States	51
+State	51
 Opposition	50
 Messi	50
-State	48
 Buddhist	47
 Ceylon Petroleum Corporation	46
 Aragalaya	43
@@ -32,10 +32,12 @@ Wickremesinghe	42
 European	42
 Viswanathan	41
 Japan	38
+House	38
 U.S.	38
 UN	37
 Central Bank of Sri Lanka	37
 Mullaitivu	35
+UNDP	35
 EU	34
 Kanchana Wijesekera	34
 Ministry of Education	34
@@ -43,7 +45,6 @@ CSE	33
 Asia	32
 Argentina	30
 Middle East	30
-UNDP	30
 Johnston Fernando	29
 Tamil Nadu	28
 Muslims	28
@@ -63,6 +64,7 @@ Chinese	24
 SPP	24
 Nimal Siripala de Silva	23
 USA	22
+UK	22
 Navy	22
 Hambantota	22
 Colombo National Hospital	22
@@ -71,20 +73,20 @@ Welgama	22
 Dhammika Perera	22
 US State Department	22
 Magammana	21
+Supreme Court	21
 South Asia	21
+American	21
 Army	20
-UK	20
 Monetary Board	20
+Bill	20
+Wijesekera	20
 Romania	20
 Ukrainian	20
-American	20
 Kelly Keiderling	20
 Colombo/Jun24/2022	20
 Perera	19
 Order	19
 Nandalal Weerasinghe	19
-Supreme Court	19
-Wijesekera	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
@@ -157,7 +159,6 @@ French	12
 Petrol	12
 Afghanistan	12
 STF	12
-House	12
 Pat Cummins	12
 MSV	12
 FE	12
@@ -189,6 +190,7 @@ Palaly Airport	11
 US Treasury Department	11
 COPE	11
 Hatton-Colombo	11
+Energy	10
 CEB	10
 Sinhala	10
 West	10
@@ -196,6 +198,7 @@ Department of Foreign Exchange	10
 Eastern Terminal of Colombo Port	10
 Kandy	10
 COVID	10
+National State Assembly	10
 Spanish	10
 COVID-19	10
 Rangita De Silva De Alwis	10
@@ -207,7 +210,7 @@ Alex Carey	10
 Labuschagne	10
 Madushan	10
 TKR	10
-Bill	10
+United National Party	10
 Chaturanga Samarawickrama	10
 Fernando	10
 Galle Face Green	10
@@ -215,10 +218,11 @@ Johnston	10
 Education Ministry	10
 Government Medical Officers' Association	10
 MA Sumanthiran	10
+Cabinet of Ministers	10
 Danushka Gunathilaka	10
 Pramod Madushan’s	10
+Article 83 of Constitution	10
 Samagi Jana Balawega	10
-Energy	9
 Maldives	9
 NATO	9
 Italy	9
@@ -233,6 +237,7 @@ Kottawa	9
 Board of Directors	9
 Norwegian	9
 WHO	9
+Court	9
 RW	9
 Presidential Secretariat	9
 FTG	9
@@ -240,7 +245,6 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
-United National Party	9
 Canada	9
 Ministry of Health	9
 United People's Power	9
@@ -276,6 +280,8 @@ Katunayake Airport	8
 Haritha Aluthge	8
 Wimal Weerawansa	8
 Dehiwala Zoo	8
+SC	8
+Executive	8
 Maskeliya	8
 Fort	8
 JVP	8
@@ -330,7 +336,6 @@ Lebanon	7
 Jagath Kumara	7
 IGP	7
 Peiris	7
-Court	7
 Victor Chiujdea	7
 Samsung	7
 Keheliya Rambukwella	7
@@ -341,6 +346,7 @@ Sapugaskanda	7
 Manipay	7
 Mitchell Marsh	7
 Mano Ganesan	7
+Second Amendment	7
 R. Premadasa Stadium	7
 Nanayakkara	7
 National List	7
@@ -348,7 +354,6 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
-Article 83 of Constitution	7
 SAFA	6
 Mirihana	6
 Verite Research	6
@@ -412,6 +417,7 @@ Iraq	6
 New York	6
 Indian High Commission	6
 DBA	6
+Jayawardena	6
 Ministry of Foreign Affairs	6
 Cuba	6
 Jayanath Colombage	6
@@ -423,6 +429,7 @@ John Greenwood	6
 South Africa	6
 Railway Department	6
 Eastern Terminal	6
+General Elections	6
 Puttalam Base Hospital	6
 Department	6
 Borella Children's Hospital	6
@@ -439,12 +446,14 @@ Kiul Oya	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
 Senegal	5
+Bench	5
 Kelaniya	5
 Trinco	5
 Ceylonese	5
 Tamil Progressive Alliance	5
 South	5
 Nigeria	5
+National Freedom Front	5
 Godakawela	5
 Navinna Holiday Resort	5
 South Korea	5
@@ -454,10 +463,10 @@ Janaka Ratnayake	5
 Kuwait	5
 Jaffna Teaching Hospital	5
 Specialist	5
-Jayawardena	5
 Sampath	5
 Mahinda Amaraweera	5
 Northern	5
+Referendum	5
 Melilla	5
 Netherlands	5
 Convention	5
@@ -505,10 +514,10 @@ General Assembly	5
 Shavendra Silva	5
 Lalith Dharmasekera	5
 Cipetco	5
+1978 Constitution	5
 Mark Meloch-Brown	5
 Roe	5
 University of Colombo	5
-Cabinet Ministers	5
 Clifford Chance	5
 Sudath Samaraweera	5
 External Affairs	5
@@ -566,6 +575,7 @@ Perro	4
 Matara Road	4
 Kumara	4
 Society	4
+Jana Balawegaya	4
 Left Democratic Front	4
 Sri Lanka Freedom Party	4
 Douglas Devananda	4
@@ -583,6 +593,7 @@ Kahathuduwa Police	4
 Matara Pradeshiya Sabha	4
 Katunayake International Airport	4
 Ada Derana	4
+Legislature	4
 White House Oval Office	4
 Moroccan	4
 Harantota	4
@@ -688,6 +699,7 @@ Punchihewa	4
 Saliya Peiris	4
 Gemunu Wijeratne	4
 Sri Lankan Navy	4
+JR Jayewardene	4
 Asia Pacific Property Awards	4
 Kottalawala Expressway	4
 Expressway Traffic Police CSP Chinthaka Gunaratne	4
@@ -699,6 +711,8 @@ Cope Group	4
 All Ceylon Restaurant Owners' Association	4
 Sabaragamuwa Province	4
 Archbishop of Colombo	4
+Constitutional Court	4
+Article	4
 Wellawaya Hospital	4
 CBSL	4
 The Parliamentary Committee on Public Enterprises	4
@@ -711,7 +725,6 @@ Colombo Zone	3
 Ballerina	3
 SAFA International Relations Committee	3
 CA	3
-Bench	3
 International Sovereign Bonds	3
 Caribbean	3
 Ghana	3
@@ -757,9 +770,7 @@ NSBM	3
 Best Real Estate Marketing Company	3
 KNOMAD	3
 Azerbaijan	3
-Jana Balawegaya	3
 Colombo Fort Railway Station	3
-National Freedom Front	3
 Roman	3
 Provincial Secretaries	3
 OIC	3
@@ -791,11 +802,11 @@ Rs.100	3
 Leader	3
 Kaushalya Kumari	3
 Auto Diesel	3
+Suren Fernando	3
 United States Mahinda Samarasinghe	3
 North African	3
 Rabat	3
 Ceylon Chamber of Commerce	3
-Legislature	3
 Wellampitiya, Colombo	3
 H. Ravindra 37	3
 Dubai	3
@@ -828,7 +839,6 @@ Oil and Gas	3
 Gravity	3
 Magnetics	3
 Indian External Affairs	3
-Referendum	3
 Commonwealth Heads of Government Meeting	3
 Indian	3
 Phase II	3
@@ -902,21 +912,19 @@ Jeevan Thondaman	3
 Bush Rajapakse	3
 Iraqi National Oil Company	3
 Hamilton Bank	3
-JR Jayewardene	3
 Kivul Oya Irrigation Project	3
 The Environmental Impact Assessment Report	3
 Fort Railway Station	3
 Mattala	3
-General Elections	3
 Group CC	3
 Dharmasekera	3
 Ceylon Petroleum Private Bowser Owners Association	3
 Agriculture	3
 Nuwara Eliya District Hospital	3
 North Western	3
+Republican Constitution	3
 Western Sahara	3
 Center for Policy Alternatives	3
-Article	3
 Western Europe	3
 section 14	3
 Israel	3
@@ -956,6 +964,7 @@ National Guard	3
 Anthony Blinken	3
 All Ceylon Bakery Owners Association	3
 The Department of Meteorology	3
+Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
@@ -1096,6 +1105,7 @@ Kokkulai	2
 Vedivaithakal	2
 Kanjiramottai	2
 Mullaitivu District Magistrate's Court	2
+Indian Loan Scheme	2
 NCE	2
 Uhana	2
 Haran Thota	2
@@ -1210,6 +1220,10 @@ Melkum Ranjith	2
 Kurundumale Archaeological Reserve	2
 Raviharan	2
 University of Jaffna	2
+AG	2
+Armed Forces	2
+Revision of Constitution	2
+Executive Presidency	2
 Bandaranaike	2
 Emphasis	2
 Dayan Jayatilleke	2
@@ -1324,7 +1338,6 @@ UN Public Service Awards	2
 Kalutara	2
 Subramaniam Jaisankar	2
 Commonwealth Summit	2
-Constitutional Council	2
 CHOGM	2
 Beijing	2
 Ministry of Ports	2
@@ -1496,7 +1509,6 @@ Friedberg Mercantile Group	2
 Friedman	2
 10 Downing Street	2
 Thatcher	2
-Executive	2
 SUTUF	2
 The Auto Diesel	2
 Murdoch Business School	2
@@ -1538,7 +1550,6 @@ Commonwealth	2
 pro-Western	2
 a Sri Lankan Opposition MP	2
 pro-Middle Eastern Sri Lankan	2
-Suren Fernando	2
 Field Marshal Sarath Fonseka	2
 SJB Sandanaya Alliance	2
 Colombo Central	2
@@ -1584,6 +1595,7 @@ Kamal Abdul Nasser	2
 Mahaweli Authority	2
 Kiwl Oya Project	2
 Department of Wildlife Conservation	2
+Hindu-Pacific	2
 Kantale	2
 Wavinna	2
 Karthik Pandey	2
@@ -1597,6 +1609,8 @@ Compensation Office	2
 Santipura Olympus Upper Estate	2
 The All Ceylon Private Bus Owners' Association	2
 National People's Power Conference	2
+Section 55(2	2
+Article 83	2
 Elections Commission	2
 National Council of Intellectuals	2
 District Secretaries	2
@@ -1633,7 +1647,6 @@ Ratkarave Jinaratne Thera	2
 Siritamma Thera	2
 Keshalya Navaratna	2
 Talangama	2
-Section 442	2
 Tissa Vitharana	2
 Colombo Fort Magistrate’s Court	2
 Maina Ko Gama'	2
@@ -1881,6 +1894,8 @@ Kallapadu	1
 Kallappadu South	1
 The Mullaitivu Police	1
 Mullaitivu District Hospital Legal	1
+United States - National Freedom Front	1
+Mohammad Musammil	1
 Northern Regional Employees of Sri Lanka Transport Board	1
 Northern Regional	1
 Jaffna Media Center	1
@@ -2097,6 +2112,31 @@ Kumulamunai	1
 Antiquities Ordinance	1
 Anura Manathunga	1
 Manathunga	1
+Ranjith Madduma	1
+Jayantha Jayasuriya	1
+Janak de Silva	1
+Arjuna Obeysekere	1
+The 1972 Constitution	1
+Section 5 of 1972 Constitution	1
+supreme instrument of	1
+Vision	1
+Naufel Abdul-Rahman	1
+1975 Party Sessions	1
+All-Party Conference	1
+Constitution Bill (Decisions of Constitutional Court of Sri Lanka	1
+Draft Constitution	1
+Article 171	1
+Article 4	1
+Constitution Bill	1
+Select Committee of National State Assembly	1
+Second Reading of Second Amendment	1
+Hansard	1
+another General Election	1
+Government of Sirimavo Bandaranaike	1
+Bandaranaike’s Government	1
+Constitution of France	1
+French Constitution Ministers	1
+Standing Committees	1
 Tamil Nadu Trichy Central Jail	1
 MAP	1
 The Moroccan Human Rights Association	1
@@ -2321,7 +2361,6 @@ Surani Pathirana	1
 Ministry of Environment	1
 Final Session	1
 Kandy - A	1
-The Cabinet of Ministers	1
 Dhal	1
 Sunday Lankadeepa	1
 Members’ Service Office	1
@@ -3535,7 +3574,6 @@ Tamil Tigers	1
 Becoming South Asia’s	1
 ABC TV	1
 Bolsheviks	1
-Armed Forces	1
 Juan Velasco	1
 Alvarado	1
 Peru	1
