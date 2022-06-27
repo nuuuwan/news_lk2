@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-plunge-over-2-pct-in-mid-day-trade-on-fuel-crisis-96498/",
+    "time_ut": 1656310680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks plunge over 2-pct in mid-day trade on fuel crisis",
+    "file_name": "/tmp/news_lk2/articles/1c/1c984810.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83280/suspect-arrested-over-killing-of-funeral-parlour-owner-in-middeniya",
+    "time_ut": 1656310560,
+    "original_lang": "en",
+    "original_title": "Suspect arrested over killing of funeral parlour owner in Middeniya",
+    "file_name": "/tmp/news_lk2/articles/c5/c5958b3d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/niraj-de-mel-made-chairman-of-sri-lanka-tea-board-96497/",
     "time_ut": 1656310320,
     "original_lang": "en",
     "original_title": "Niraj de Mel made Chairman of Sri Lanka Tea Board",
     "file_name": "/tmp/news_lk2/articles/02/02fb19d4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0dc3\u0dda\u0dc0\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0d9a\u0dbb\u0dad\u0dca\u0dad-\u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca/11-394867",
+    "time_ut": 1656309745,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dbb\u0dad\u0dca\u0dad \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/01/01f17417.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -774,29 +798,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc4\u0dcf \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0db1\u0d9c\u0dbb\u0db6\u0daf \u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/1f/1f5a04a4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba\u0dda\u0daf\u0dd3\u00a0\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-615436",
-    "time_ut": 1656260205,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba\u0dda\u0daf\u0dd3\u00a0\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/13/1311e3a1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba\u0dda\u0daf\u0dd3\u00a0\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-615436",
-    "time_ut": 1656260205,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0dbd\u0dab\u0dd2\u0dba\u0dda\u0daf\u0dd3\u00a0\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca:\u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/fe/fe28f1bc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Growing-disillusion-among-young-Lankans-EDITORIAL/172-239818",
-    "time_ut": 1656259036,
-    "original_lang": "en",
-    "original_title": "Growing disillusion among young Lankans - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/ae/ae2c0f85.json"
   }
 ]

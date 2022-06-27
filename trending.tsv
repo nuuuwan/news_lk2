@@ -1,5 +1,5 @@
 ent_group	n
-Sri Lanka	1728
+Sri Lanka	1729
 India	322
 US	250
 Russia	213
@@ -18,7 +18,7 @@ Cabinet	71
 Ukraine	71
 Tamil	70
 CPC	63
-Jaffna	61
+Jaffna	62
 Treasury	55
 Ceylon Petroleum Corporation	55
 German	55
@@ -91,12 +91,12 @@ Trincomalee	19
 Perera	19
 Order	19
 JVP	19
+Northern Province	19
 Central Asia	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
 Ramamurthy	18
-Northern Province	18
 Sri Lanka Transport Board	18
 Singapore	18
 Hamilton Reserve Bank	18
@@ -108,6 +108,7 @@ SJB	17
 European Union	17
 Arab	17
 US Treasury	17
+North	16
 Ministry of Finance	16
 Kandy	16
 BOC	16
@@ -124,10 +125,10 @@ Korean	16
 Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
+Middeniya	15
 Ranil	15
 National Savings Bank	15
 Sinhalese	15
-North	15
 London	15
 Theekshana	15
 Karunaratne	15
@@ -149,6 +150,7 @@ Jagath Manuwarna	14
 Nuwara Eliya	14
 The Public Utilities Commission	14
 Department of Archeology	14
+STF	13
 Finance	13
 NATO	13
 Government of Sri Lanka	13
@@ -167,7 +169,6 @@ Home Affairs	12
 French	12
 Petrol	12
 Afghanistan	12
-STF	12
 Pat Cummins	12
 MSV	12
 FE	12
@@ -188,7 +189,6 @@ Bank	11
 Biden	11
 Britain	11
 Justice	11
-Middeniya	11
 Morocco	11
 Gulf	11
 Galle Face	11
@@ -235,6 +235,7 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+Expolanka	9
 IOC	9
 Ministry	9
 G7	9
@@ -261,6 +262,7 @@ Manusha Nanayakkara	9
 European Ambassadors	9
 SLT-MOBITEL	9
 CRA	9
+Colombo Stock Exchange	9
 Canada	9
 Ministry of Health	9
 Ministry of Agriculture	9
@@ -305,7 +307,6 @@ CBI	8
 Barista	8
 Anura Dissanayake	8
 Mickey	8
-Expolanka	8
 Moldova	8
 M.S.	8
 Nasheed	8
@@ -314,7 +315,6 @@ National Transport Commission	8
 Power and Energy	8
 Wijeratne	8
 Lanka Sama Samaja Party	8
-Colombo Stock Exchange	8
 Eric Lavertu	8
 Sirisena	8
 Mahinda Yapa Abeywardena	8
@@ -763,6 +763,7 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Embilipitiya	3
 Sri Lanka Tea Board	3
 Gampaha Magistrate's Court	3
 Dhammajinna Thero	3
@@ -964,6 +965,7 @@ Fort Railway Station	3
 Mattala	3
 Group CC	3
 Dharmasekera	3
+Mindeniya Police	3
 Agriculture	3
 Nuwara Eliya District Hospital	3
 Republican Constitution	3
@@ -1005,6 +1007,8 @@ Human Rights Council	3
 Parliament Elections Act	3
 State Partnership Program	3
 National Guard	3
+Browns Investment	3
+LOLC Holdings	3
 The Central Bank Annual Report	3
 Lanka Private Bus Owners’ Association	3
 Anthony Blinken	3
@@ -1013,6 +1017,7 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Economy Next	2
 Uraniya	2
 Pallewela Police	2
 Dhanushkodi	2
@@ -1196,7 +1201,6 @@ Haran Thota	2
 Kalubowila Base Hospital	2
 Electricity Board	2
 Minteniya	2
-Embilipitiya	2
 Port of Colombo on 25th	2
 Jabez	2
 Vinay Quadra	2
@@ -1245,7 +1249,6 @@ Secretaries of Ministries of Education	2
 Provincial Directors	2
 Mexican	2
 Quintana Roo	2
-Mindeniya Police	2
 All Ceylon Bakery Owners'	2
 N.S. K. Mr.	2
 Lasso	2
@@ -1645,6 +1648,7 @@ Kapila Ariyaratne	2
 Mihular	2
 The Sri Lanka Ministry of Foreign Affairs	2
 WDL	2
+All Share Price Index	2
 The Expressway Traffic Police	2
 Monaragala Hospital	2
 NGO	2
@@ -1714,7 +1718,6 @@ Sri Lanka Society for Transport & Logistics	2
 The Labour Ministry	2
 PB Jayasundera	2
 Lanka IOC	2
-Browns Investments	2
 Ratkarave Jinaratne Thera	2
 Siritamma Thera	2
 Keshalya Navaratna	2
@@ -1733,6 +1736,8 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+STF Southern Province Special Operations Unit	1
+Prabath Manjula	1
 Niraj de Mel	1
 Tea Exporter’s Association	1
 Colombo Brokers Association	1
@@ -3044,8 +3049,6 @@ United Kingdom Parliament	1
 Commonwealth and Development Affairs	1
 Vicky Ford	1
 Colburn	1
-All Share Price Index (	1
-LOLC Holdings Plc	1
 National	1
 ICT	1
 Learning Management System	1
@@ -3381,7 +3384,6 @@ Kalmadurai	1
 Agaralpetta	1
 Morson	1
 Avin Palma	1
-Economy Next	1
 Manjula Balasuriya	1
 Senthil	1
 Sushil Prema	1
@@ -3735,7 +3737,6 @@ S and P SL20	1
 Royal Ceramic Rs 93.8 million	1
 IOC Rs 39.9 million	1
 JKH Rs	1
-LOLC Holdings Rs	1
 Non-Financial Reporting Guideline	1
 Pandora	1
 Paradise Papers	1
