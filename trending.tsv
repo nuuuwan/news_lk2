@@ -1,17 +1,17 @@
 ent_group	n
-Sri Lanka	1682
-India	319
-US	236
+Sri Lanka	1690
+India	320
+US	242
 Australia	189
-Russia	178
+Russia	184
 Parliament	164
 IMF	110
 Gotabhaya Rajapaksa	107
 Central Bank	103
 International Monetary Fund	99
-China	91
+China	94
 Constitution	91
-Ranil Wickremesinghe	87
+Ranil Wickremesinghe	88
 Rajapaksas	73
 21st Amendment	72
 Tamil	70
@@ -19,13 +19,13 @@ Ukraine	69
 Cabinet	68
 Jaffna	61
 CPC	58
+Treasury	55
 German	55
 United States	54
-Treasury	52
-State	51
+State	52
+Ceylon Petroleum Corporation	51
 Opposition	50
 Messi	50
-Ceylon Petroleum Corporation	50
 Buddhist	47
 Aragalaya	43
 Wickremesinghe	43
@@ -33,28 +33,29 @@ European	42
 Viswanathan	41
 Central Bank of Sri Lanka	41
 House	40
+Ministry of Education	40
 Japan	39
 U.S.	38
 UNP	38
 UN	37
-Ministry of Education	37
 Mullaitivu	35
+Kanchana Wijesekera	35
 EU	34
-Kanchana Wijesekera	34
 CSE	33
-Asia	32
+Asia	33
 Monetary Board	31
 Matara	30
 Puttalam	30
 Argentina	30
 Middle East	30
+Hambantota	29
 Johnston Fernando	29
 Tamil Nadu	28
 Premadasa	28
 Muslims	28
 Kumara Welgama	27
 The Bribery Commission	27
-Hambantota	26
+Chinese	26
 World Bank	26
 Japanese	26
 CID	26
@@ -63,8 +64,9 @@ SriLankan Airlines	25
 United Nations	25
 ISB	25
 France	24
-Chinese	24
 Nimal Siripala de Silva	23
+Wijesekera	23
+US State Department	23
 USA	22
 UK	22
 Navy	22
@@ -72,19 +74,18 @@ Colombo National Hospital	22
 Mahinda Rajapaksa	22
 Welgama	22
 Dhammika Perera	22
-Wijesekera	22
-US State Department	22
 Galle	21
 Magammana	21
 Supreme Court	21
 South Asia	21
 American	21
+Kelly Keiderling	21
 Nandalal Weerasinghe	20
 Army	20
 Bill	20
 Romania	20
 Ukrainian	20
-Kelly Keiderling	20
+Robert Kaproth	20
 Colombo/Jun24/2022	20
 Perera	19
 Order	19
@@ -92,17 +93,17 @@ JVP	19
 Tunisia	19
 Dudley Sirisena	19
 Colombia	19
-Robert Kaproth	19
 Ramamurthy	18
 Northern Province	18
 Sri Lanka Transport Board	18
 Singapore	18
+Central Asia	18
 Hamilton Reserve Bank	18
 Wijayadasa Rajapaksa	18
+U.S. Department of State	18
 Homagama	17
 SJB	17
 Arab	17
-Central Asia	17
 BOC	16
 Joe Biden	16
 British	16
@@ -118,7 +119,6 @@ Korean	16
 Harin Fernando	16
 Shane Warne’s	16
 Sinhala-Buddhist	16
-U.S. Department of State	16
 National Savings Bank	15
 Sinhalese	15
 North	15
@@ -127,6 +127,7 @@ Theekshana	15
 Karunaratne	15
 Ports	15
 Estonia	15
+US Treasury	15
 Julie Chung	15
 Sajith Premadasa	15
 Ministry of Public Administration	15
@@ -140,8 +141,8 @@ SLTB	14
 Jehan Appuhamy	14
 Bangladesh	14
 Basil Rajapaksa	14
-US Treasury	14
 Jagath Manuwarna	14
+The Public Utilities Commission	14
 Department of Archeology	14
 NATO	13
 Daily Mirror	13
@@ -149,12 +150,12 @@ Government of Sri Lanka	13
 Kadawatha	13
 Hatton	13
 Nepal	13
+Western Province	13
 National Authority on Tobacco and Alcohol	13
 Section 8 of	13
 Lankans	13
 Kahathuduwa	13
 Colombo Fort	13
-The Public Utilities Commission	13
 Gotabhaya	13
 The Consumer Affairs Authority	13
 Kandy	12
@@ -169,9 +170,9 @@ Pat Cummins	12
 MSV	12
 FE	12
 NL	12
-Western Province	12
 Soviet Union	12
 Foreign Exchange Act	12
+Education Ministry	12
 World Cup	12
 Bell Geospace	12
 Latin America	12
@@ -194,7 +195,6 @@ Chaturanga Samarawickrama	11
 Anura Kumara Dissanayake	11
 Palaly Airport	11
 US Treasury Department	11
-Education Ministry	11
 COPE	11
 Nuwara Eliya	11
 Hatton-Colombo	11
@@ -228,6 +228,7 @@ Danushka Gunathilaka	10
 Pramod Madushan’s	10
 Article 83 of Constitution	10
 Samagi Jana Balawega	10
+Ministry	9
 G7	9
 Maldives	9
 Italy	9
@@ -271,7 +272,6 @@ Sri Lankan Tamils ​​in	9
 Office on Missing Persons	9
 Mannar Basin	9
 Western	8
-Ministry	8
 Colombo	8
 Maithripala Sirisena	8
 Tsunami	8
@@ -360,6 +360,7 @@ Expolanka Holdings	7
 State Government of Tamil Nadu	7
 The Criminal Investigations Department	7
 Harsha De Silva	7
+Kuwait	6
 Northern	6
 RD	6
 Swiss	6
@@ -421,6 +422,7 @@ Sathosa	6
 Lionel Messi	6
 Godakawela Police	6
 Lithuania	6
+Shavendra Silva	6
 Wijetasa Rajapaksa	6
 Iraq	6
 New York	6
@@ -456,6 +458,7 @@ Kiul Oya	6
 Power and Energy Minister	6
 Cauvery Basin	6
 United Nations Office for Coordination of Humanitarian Affairs	6
+Ministry of Power and Energy	5
 Fitch Ratings	5
 OE	5
 Jana Balawegaya	5
@@ -473,7 +476,6 @@ Navinna Holiday Resort	5
 South Korea	5
 Lotus Tower	5
 Fimco Estate	5
-Kuwait	5
 Jaffna Teaching Hospital	5
 Specialist	5
 Sampath	5
@@ -522,7 +524,6 @@ MoFA	5
 Asian Development Bank	5
 New Delhi	5
 General Assembly	5
-Shavendra Silva	5
 Lalith Dharmasekera	5
 Thilan Miranda	5
 1978 Constitution	5
@@ -538,6 +539,7 @@ Bribery and Corruption Commission	5
 North Macedonia	5
 North America	5
 Bosnia and Herzegovina	5
+Defense	5
 North Western	5
 Hindu	5
 democratic	5
@@ -550,6 +552,8 @@ Sirimavo Bandaranaike	5
 Fort Magistrate's Court	5
 Jude Shramantha Anthony Jayamaha	5
 Sri Lanka Government	5
+Beijing	4
+Qatar	4
 Sabaragamuwa	4
 Black Monday	4
 Ranasinghe Premadasa	4
@@ -719,7 +723,6 @@ Asia Pacific Property Awards	4
 Kottalawala Expressway	4
 Expressway Traffic Police CSP Chinthaka Gunaratne	4
 Anurutha Chandasekara	4
-Defense	4
 Office for National Unity and Reconciliation	4
 Charita Herath	4
 Cope Group	4
@@ -734,6 +737,7 @@ The Parliamentary Committee on Public Enterprises	4
 Amarasekera	4
 LOLC	4
 The Bonn Climate Change Conference	4
+Kerosene	3
 Central	3
 North-Central	3
 Madrid	3
@@ -754,7 +758,6 @@ Charles Michel	3
 Scholz	3
 SSP Nihal Thalduwa	3
 Peliyagoda	3
-Ministry of Power and Energy	3
 Florida	3
 England	3
 Dissanayake	3
@@ -984,6 +987,8 @@ Section 49	3
 Foreign Secretaries of India	3
 Matt Godwin	3
 Mellisai Mannargal	3
+Dilip Chamara	2
+Samarakoonwewa	2
 NTC	2
 Italian	2
 People’s Bank	2
@@ -1175,7 +1180,6 @@ PUC	2
 Ratnayake	2
 MNO	2
 Communist Party of Sri Lanka	2
-Kerosene	2
 Gemunu	2
 Ministry Secretaries	2
 Colombo Outer Circular Highway	2
@@ -1186,7 +1190,6 @@ Tokens	2
 Gamini Seneviratne	2
 MNOXYZ	2
 Bandaragama	2
-Qatar	2
 Colombo District	2
 Food Promotion Board	2
 Neil de Alwis	2
@@ -1363,7 +1366,6 @@ Kalutara	2
 Subramaniam Jaisankar	2
 Commonwealth Summit	2
 CHOGM	2
-Beijing	2
 Ministry of Ports	2
 Keells Supermarkets	2
 Galaxy	2
@@ -1685,6 +1687,19 @@ Aayirathil Oruvan	2
 Engirundho Vanthaan	2
 Cold War years	2
 Parliamentary Election Act No 1 of 1981	2
+Yunnan	1
+Sichuan	1
+Palitha Kohona	1
+Kohona	1
+Bandara	1
+Hakkapatas	1
+Samarakoon Lake	1
+Energy Kanzana Wijesekera	1
+I.O.C. The	1
+Sambukaskanda	1
+I.O.C.	1
+Investigation Division	1
+Colombo & City	1
 Central Bank of Sri Lanka Ajith Nivard Cabraal	1
 Mahinda Siriwardena	1
 Additional Research Department	1
