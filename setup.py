@@ -35,5 +35,6 @@ setuptools.setup(
         'matplotlib',
         'wordcloud',
         'python-Levenshtein',
+        'imageio',
     ],
 )

@@ -9,3 +9,4 @@ fuzzywuzzy
 matplotlib
 wordcloud
 python-Levenshtein
+imageio
