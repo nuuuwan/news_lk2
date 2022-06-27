@@ -126,7 +126,6 @@ def build_trending_summary():
     log.debug(f'Wrote {ent_to_n_file}')
 
     ent_to_group, group_to_n = get_group_to_n(ent_to_n)
-    print('get_group_to_n Done')
 
     ent_to_group_file = os.path.join(DIR_REPO, 'ent_to_group.json')
     JSONFile(ent_to_group_file).write(ent_to_group)
