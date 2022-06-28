@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 16:26:12 (LK time)*
+*As of 2022-06-28 16:33:07 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
 * **2** daily-mirror-lk ([Present crisis turns Colombo a lonely city](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e557e742.json))
 
-* **2** lankadeepa-lk ([බස් ගාස්තුව සියයට 30 කින් නගී](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9fb803c.json))
-
 * **1** news-first-lk ([US President Biden announces $20 M in additional assistance to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c46c4966.json))
 
-* **1** virakesari-lk ([பஸ் கட்டணத்தை அதிகரிக்க தீர்மானம் - அகில இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a7a889.json))
+* **1** lankadeepa-lk ([පෞද්ගලික බස් හිමියන්ගෙන් ඇමැතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad40245b.json))
 
-## Last Hour (15 Articles)
+## Last Hour (16 Articles)
 
-* **4** daily-mirror-lk ([30% bus fare increase, Minimum fare increased to Rs.40 from July 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88106582.json))
+* **5** daily-mirror-lk ([30% bus fare increase, Minimum fare increased to Rs.40 from July 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88106582.json))
 
 * **3** news-first-lk ([Lanka IOC issuing fuel to all customers](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0179b69c.json))
 
@@ -38,9 +36,9 @@
 
 * **9** virakesari-lk ([கோத்தபாய ஜனாதிபதி பதவியில்  நீடிக்கும் வரை எந்த நாடும் இலங்கைக்கு உதவ முன்வராது- லக்ஸ்மன் கிரியல்ல](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b9d9ff0.json))
 
-* **8** news-first-lk ([Cabinet nod to revise railway transport charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d59ce78e.json))
+* **7** daily-mirror-lk ([BASL accuses authorities of misleading the public on fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b59e3ff4.json))
 
-* **6** daily-mirror-lk ([BASL accuses authorities of misleading the public on fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b59e3ff4.json))
+* **7** news-first-lk ([Cabinet approval to publish Child Right’s Bill](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62c3097f.json))
 
 * **6** ada-lk ([LIOC ඉන්ධනහල් 116ට ඉන්ධන ලැබෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07dd9309.json))
 
@@ -50,9 +48,9 @@
 
 * **3** economy-next-com ([Sri Lanka railway tariff hike gets cabinet nod](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4768ee9.json))
 
-## Last 24 Hours (261 Articles)
+## Last 24 Hours (262 Articles)
 
-* **40** daily-mirror-lk ([No scientific approach or formula followed during recent fuel price revision](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90bc990a.json))
+* **41** daily-mirror-lk ([No scientific approach or formula followed during recent fuel price revision](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90bc990a.json))
 
 * **40** virakesari-lk ([எரிவாயு விநியோகம் குறித்து லாஃப் எரிவாயு நிறுவனம் விடுத்துள்ள வேண்டுகோள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/864d72d0.json))
 
@@ -74,7 +72,7 @@
 
 * **1** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
-## Last Week (1,228 Articles)
+## Last Week (1,229 Articles)
 
 * **204** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -82,7 +80,7 @@
 
 * **146** ada-lk ([ශ්‍රී ලංකා බැඳුම්කර හිමියෙකු ඇමෙරිකාවේදී නඩු පවරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e0ca084.json))
 
-* **137** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
+* **138** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
 * **132** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
@@ -102,7 +100,7 @@
 
 * **8** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,410 Articles)
+## All Time (1,411 Articles)
 
 * **246** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -110,7 +108,7 @@
 
 * **203** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **138** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **139** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **132** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
