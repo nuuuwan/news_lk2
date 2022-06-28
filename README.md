@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 20:12:33 (LK time)*
+*As of 2022-06-28 20:20:56 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,51 +8,53 @@
 
 ## Last 30 Minutes (4 Articles)
 
-* **3** lankadeepa-lk ([දින නියමයක් නැතිව  ඌව වෙල්ලස්ස සරසවිය වැසේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/179f104d.json))
+* **2** tamil-mirror-lk ([கட்டாரிடம் கடன் வசதி  கேட்டது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d057a3e4.json))
 
-* **1** tamil-mirror-lk ([’காட்டுச் சட்டத்தால்  நாட்டை ஆள முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/441cac4f.json))
+* **2** lankadeepa-lk ([තැපැල් කාර්යාල සතියට දින 3 යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6211ea3.json))
 
-## Last Hour (7 Articles)
+## Last Hour (11 Articles)
+
+* **4** tamil-mirror-lk ([சட்டமா அதிபர் விடுத்துள்ள கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3ad1574c.json))
 
 * **4** lankadeepa-lk ([ග්‍රහලෝක පහක් හෙට අලුයම එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c43ff6ed.json))
 
-* **2** tamil-mirror-lk ([சட்டமா அதிபர் விடுத்துள்ள கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3ad1574c.json))
+* **2** news-first-lk ([Russia, UAE & India to assist; Minister explains way out of fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/037466b7.json))
 
 * **1** ada-derana-lk ([Registrar General’s Dept, post offices to provide limited services](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89bf3e9a.json))
 
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (31 Articles)
+
+* **8** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
 
 * **7** lankadeepa-lk ([ඇමැති කංචන කාටාර් බලශක්ති ඇමැති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb5e8a2.json))
 
-* **6** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
+* **5** news-first-lk ([Couple arrested over Akuressa beheading](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9071a787.json))
 
 * **5** ada-derana-lk ([Energy Minister in talks with Qatari officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdf718d3.json))
 
 * **3** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
-* **3** news-first-lk ([Couple arrested over Akuressa beheading](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9071a787.json))
-
-* **3** virakesari-lk ([இலங்கையின் எரிபொருள் நெருக்கடி - கட்டார் எரிசக்தி துறை அதிகாரிகளுடன் காஞ்சன விஜேசேகர கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a88f4708.json))
+* **2** virakesari-lk ([சுற்றுலாத்துறையில் பதிவு செய்யப்பட்ட வாகனங்கள் அத்தியாவசிய சேவையாக பிரகடனம் -  ஹரின்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25688ee7.json))
 
 * **1** economy-next-com ([Sri Lanka to re-open Jaffna airport for international flights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5682072.json))
 
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (252 Articles)
 
 * **40** daily-mirror-lk ([No fuel for private vehicles, only essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1b381f4.json))
 
-* **37** virakesari-lk ([இலங்கை மாணவர்களுக்கு இந்தியாவில் புலமைப்பரிசில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db7306df.json))
+* **36** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
+
+* **36** virakesari-lk ([அத்தியாவசிய சேவைகளுக்கு மாத்திரமே எரிபொருள் - விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa6cf1b9.json))
 
 * **35** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
-
-* **34** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
 
 * **28** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
 
 * **25** ada-derana-lk ([Fuel to be supplied only for essential services until July 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceb6ad94.json))
 
-* **21** tamil-mirror-lk ([பாடசாலை விடுமுறை குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec7cd54.json))
+* **23** tamil-mirror-lk ([பாடசாலை விடுமுறை குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec7cd54.json))
 
-* **14** economy-next-com ([Sri Lanka to release fuel for essential services only: cabinet](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99f566b4.json))
+* **13** economy-next-com ([Sri Lanka to order exporters, embassies, hotels to pay electricity bills in dollars](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/8344b2bf.json))
 
 * **11** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
@@ -60,7 +62,7 @@
 
 * **1** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
-## Last Week (1,273 Articles)
+## Last Week (1,277 Articles)
 
 * **211** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -70,9 +72,9 @@
 
 * **143** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
-* **138** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
+* **140** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **126** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **128** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **93** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
@@ -88,7 +90,7 @@
 
 * **8** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,456 Articles)
+## All Time (1,460 Articles)
 
 * **254** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -98,9 +100,9 @@
 
 * **144** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **138** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
+* **140** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **126** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **128** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **93** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
