@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 03:44:32 (LK time)*
+*As of 2022-06-29 03:55:10 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,19 +8,19 @@
 
 ## Last 30 Minutes (2 Articles)
 
-* **2** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
+* **2** daily-mirror-lk ([The need for a reset](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bed989f.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
 
-* **2** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
+* **3** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (17 Articles)
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
-* **2** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
+* **3** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
 
-## Last 24 Hours (265 Articles)
+## Last 24 Hours (266 Articles)
 
 * **48** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -28,7 +28,7 @@
 
 * **35** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **29** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
+* **30** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
 
 * **28** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
@@ -44,7 +44,7 @@
 
 * **1** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## Last Week (1,340 Articles)
+## Last Week (1,341 Articles)
 
 * **226** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -52,7 +52,7 @@
 
 * **153** ada-lk ([ශ්‍රී ලංකා බැඳුම්කර හිමියෙකු ඇමෙරිකාවේදී නඩු පවරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e0ca084.json))
 
-* **149** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
+* **150** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
 * **142** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
@@ -72,7 +72,7 @@
 
 * **9** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,524 Articles)
+## All Time (1,525 Articles)
 
 * **260** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +80,7 @@
 
 * **210** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **150** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **151** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **142** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
