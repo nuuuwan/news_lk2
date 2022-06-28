@@ -1,36 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 19:59:25 (LK time)*
+*As of 2022-06-28 20:12:33 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** lankadeepa-lk ([දින නියමයක් නැතිව  ඌව වෙල්ලස්ස සරසවිය වැසේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/179f104d.json))
+* **3** lankadeepa-lk ([දින නියමයක් නැතිව  ඌව වෙල්ලස්ස සරසවිය වැසේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/179f104d.json))
 
 * **1** tamil-mirror-lk ([’காட்டுச் சட்டத்தால்  நாட்டை ஆள முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/441cac4f.json))
 
-## Last Hour (9 Articles)
+## Last Hour (7 Articles)
 
-* **3** lankadeepa-lk ([ග්‍රහලෝක පහක් හෙට අලුයම එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2998c043.json))
+* **4** lankadeepa-lk ([ග්‍රහලෝක පහක් හෙට අලුයම එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c43ff6ed.json))
 
 * **2** tamil-mirror-lk ([சட்டமா அதிபர் விடுத்துள்ள கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3ad1574c.json))
 
-* **2** daily-mirror-lk ([Tourism vehicles registered with SLTDA declared essential service: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d715ba1.json))
-
 * **1** ada-derana-lk ([Registrar General’s Dept, post offices to provide limited services](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89bf3e9a.json))
 
-* **1** news-first-lk ([Sri Lanka seeks Fuel Credit Line from Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f679fa1.json))
+## Last 3 Hours (28 Articles)
 
-## Last 3 Hours (31 Articles)
-
-* **6** lankadeepa-lk ([ඇමැති කංචන කාටාර් බලශක්ති ඇමැති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb5e8a2.json))
+* **7** lankadeepa-lk ([ඇමැති කංචන කාටාර් බලශක්ති ඇමැති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb5e8a2.json))
 
 * **6** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
-
-* **6** virakesari-lk ([இலங்கையிலிருந்து வெளியேறும் எண்ணமில்லை - ஊபர்ஈட்ஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e669b7.json))
 
 * **5** ada-derana-lk ([Energy Minister in talks with Qatari officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdf718d3.json))
 
@@ -38,19 +32,19 @@
 
 * **3** news-first-lk ([Couple arrested over Akuressa beheading](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9071a787.json))
 
+* **3** virakesari-lk ([இலங்கையின் எரிபொருள் நெருக்கடி - கட்டார் எரிசக்தி துறை அதிகாரிகளுடன் காஞ்சன விஜேசேகர கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a88f4708.json))
+
 * **1** economy-next-com ([Sri Lanka to re-open Jaffna airport for international flights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5682072.json))
 
-* **1** ada-lk ([කටාරයේ බලශක්ති රාජ්‍ය ඇමති හා කංචන අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53a613f8.json))
+## Last 24 Hours (250 Articles)
 
-## Last 24 Hours (254 Articles)
+* **40** daily-mirror-lk ([No fuel for private vehicles, only essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1b381f4.json))
 
-* **41** daily-mirror-lk ([Train disruptions possible if SMs, junior staff don’t report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a1434d2.json))
+* **37** virakesari-lk ([இலங்கை மாணவர்களுக்கு இந்தியாவில் புலமைப்பரிசில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db7306df.json))
 
-* **39** virakesari-lk ([மாந்திரீகர் கழுத்தறுத்துக் கொலை : தலைப் பகுதி நில்வலா கங்கைக்குள் ? : சந்தேக நபர் தலைமறைவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41fd11a6.json))
+* **35** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
 
-* **35** news-first-lk ([BREAKING: Only essential services to operate from midnight (27); CPC will only issue fuel for essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7015497.json))
-
-* **34** lankadeepa-lk ([මාස 5ට ඩොලර් බිලියන 5ක ආදායමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ea6b4d8.json))
+* **34** news-first-lk ([How will transport services operate from Tuesday (28)?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84be99b.json))
 
 * **28** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
 
@@ -58,7 +52,7 @@
 
 * **21** tamil-mirror-lk ([பாடசாலை விடுமுறை குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec7cd54.json))
 
-* **15** economy-next-com ([Sri Lanka’s private buses en route to grinding halt as fuel crisis deepens](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d1c8cf1.json))
+* **14** economy-next-com ([Sri Lanka to release fuel for essential services only: cabinet](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99f566b4.json))
 
 * **11** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
@@ -66,11 +60,11 @@
 
 * **1** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
-## Last Week (1,272 Articles)
+## Last Week (1,273 Articles)
 
 * **211** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
-* **190** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
+* **191** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
 
 * **150** ada-lk ([ශ්‍රී ලංකා බැඳුම්කර හිමියෙකු ඇමෙරිකාවේදී නඩු පවරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e0ca084.json))
 
@@ -94,9 +88,9 @@
 
 * **8** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,455 Articles)
+## All Time (1,456 Articles)
 
-* **253** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **254** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **218** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
