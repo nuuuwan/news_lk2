@@ -1,26 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 01:19:42 (LK time)*
+*As of 2022-06-29 01:33:24 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **3** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
+
+## Last Hour (4 Articles)
+
+* **3** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
 * **1** ada-derana-lk ([1,000 MT of rice under Chinese grant reaches Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3897f4a.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (15 Articles)
 
 * **5** virakesari-lk ([பொதுநலவாய நாடுகளின் வெளிவிவகார அமைச்சர்களிடம் நாட்டின் நிலைகுறித்து அமைச்சர் ஜீ.எல்.பீரிஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347c57f1.json))
 
 * **4** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
 
+* **3** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
+
 * **3** ada-derana-lk ([HRCSL starts independent probes on Rambukkana shooting and violence on May 9, 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcf4a30.json))
 
-* **1** lankadeepa-lk ([විදුලි ඇමැති කටාර් නියෝජිතයන් හමු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28fa6fb0.json))
-
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (256 Articles)
 
 * **45** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -38,13 +44,13 @@
 
 * **15** economy-next-com ([Sri Lanka central bank to give payment plan for oil supplier arrears: Presidents office](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df1da04.json))
 
-* **11** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
+* **14** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
 * **2** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
 * **1** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## Last Week (1,321 Articles)
+## Last Week (1,324 Articles)
 
 * **223** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -60,7 +66,7 @@
 
 * **97** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **69** daily-ft-lk ([Why has PM Wickremesinghe not broached Gulf States  to help solve fuel crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eafd1b76.json))
+* **72** daily-ft-lk ([Why has PM Wickremesinghe not broached Gulf States  to help solve fuel crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eafd1b76.json))
 
 * **65** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
@@ -72,7 +78,7 @@
 
 * **9** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,505 Articles)
+## All Time (1,508 Articles)
 
 * **260** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +94,7 @@
 
 * **97** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **81** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **84** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **66** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
