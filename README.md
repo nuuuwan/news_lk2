@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 23:24:03 (LK time)*
+*As of 2022-06-28 23:31:38 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **2** virakesari-lk ([எரிபொருள் நெருக்கடிக்கு தீர்வு காண கட்டார் வலுச்சக்தி துறை அதிகாரிகளுடன் அமைச்சர் காஞ்சன முக்கிய பேச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efedac06.json))
+## Last 30 Minutes (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka bond yields up over 100 bps as govt debt office borrows more](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77aebe01.json))
 
-## Last Hour (9 Articles)
+## Last Hour (8 Articles)
 
 * **5** virakesari-lk ([பொதுநலவாய நாடுகளின் வெளிவிவகார அமைச்சர்களிடம் நாட்டின் நிலைகுறித்து அமைச்சர் ஜீ.எல்.பீரிஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347c57f1.json))
 
@@ -20,15 +18,13 @@
 
 * **1** ada-derana-lk ([HRCSL starts independent probes on Rambukkana shooting and violence on May 9, 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcf4a30.json))
 
-* **1** lankadeepa-lk ([විදුලි ඇමැති කටාර් නියෝජිතයන් හමු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28fa6fb0.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (30 Articles)
 
 * **8** virakesari-lk ([ஜப்பான் தூதுவருடன் தமிழ் தேசிய கூட்டமைப்பு யாழில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff5e61f0.json))
 
-* **8** news-first-lk ([Lanka IOC restricts fuel sales](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a84bbe83.json))
+* **7** news-first-lk ([Postal Services limited to three-days a week](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18400ab4.json))
 
-* **6** lankadeepa-lk ([අයි.ඕ.සී. ඉන්ධන සීමාව තවත් අඩුකරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab00517.json))
+* **5** lankadeepa-lk ([බස්නාහිර වාහනවල ආදායම් බලපත්‍රවලට සහන කාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9008e64.json))
 
 * **4** daily-mirror-lk ([Champika Ranawaka teams up with some SLPP MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f6dcbe.json))
 
@@ -38,7 +34,7 @@
 
 * **2** tamil-mirror-lk ([இ.போ.ச டிப்போக்களில் எரிபொருள் பிரச்சினை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c790c467.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (250 Articles)
 
 * **44** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -48,7 +44,7 @@
 
 * **29** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
 
-* **29** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
+* **28** ada-lk ([අතේ තියෙන මුදලින් තෙල් ‌ගේන්න අවධානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87fb83c0.json))
 
 * **22** ada-derana-lk ([Energy Minister off to Qatar for talks on fuel imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40567bc.json))
 
