@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 02:41:59 (LK time)*
+*As of 2022-06-29 02:54:35 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (10 Articles)
+## Last Hour (5 Articles)
 
-* **10** daily-ft-lk ([Cabinet nod to revise train fares as per fuel hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d20c45b3.json))
+* **5** daily-ft-lk ([Hayleys Fabric natural mahogany dye listed on Top 10 innovations for ISPO Textrends 2024](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9421a27b.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
 * **2** ada-derana-lk ([Kahatuduwa house fire: death toll climbs to three](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/316e9498.json))
 
-* **2** economy-next-com ([Sri Lanka cabinet eases family background report for potential women expatriates](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94e79d4d.json))
+* **1** economy-next-com ([Crisis-hit Sri Lanka cabinet okays US grant after rejecting $480 mln MCC deal in 2020](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efc50d1.json))
 
 ## Last 24 Hours (262 Articles)
 
