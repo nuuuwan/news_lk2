@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 03:04:16 (LK time)*
+*As of 2022-06-29 03:15:02 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (15 Articles)
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
-* **2** ada-derana-lk ([Kahatuduwa house fire: death toll climbs to three](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/316e9498.json))
-
-* **1** economy-next-com ([Crisis-hit Sri Lanka cabinet okays US grant after rejecting $480 mln MCC deal in 2020](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efc50d1.json))
+* **1** ada-derana-lk ([1,000 MT of rice under Chinese grant reaches Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3897f4a.json))
 
 ## Last 24 Hours (262 Articles)
 
