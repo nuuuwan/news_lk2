@@ -1,0 +1,255 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/06/28/sltb-says-cpc-provided-sufficient-fuel-stocks/",
+  "time_ut": 1656393600,
+  "original_lang": "en",
+  "original_title": "SLTB says CPC provided sufficient fuel stocks",
+  "text_idx": {
+    "en": {
+      "title": "SLTB says CPC provided sufficient fuel stocks",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); The Sri Lanka Transport Board (SLTB) says that the Ceylon Petroleum Corporation (CPC) has provided sufficient fuel stocks to maintain public transport including school transport services.",
+        "The Chairman of the SLTB Kingsley Ranawaka said that buses were operating as usual on Tuesday (28) as well.",
+        "Meanwhile, the All Ceylon Private Bus Owners\u2019 Association says that the number of private buses operating on Tuesday (28) could be further reduced compared to the previous days.",
+        "Cabinet green light to open Sri Lanka\u2019s Fuel Import & Retail sales market to Companies from Oil producing Nations."
+      ],
+      "title_ents": [
+        {
+          "text": "SLTB",
+          "label": "ORG"
+        },
+        {
+          "text": "CPC",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Sri Lanka Transport Board",
+            "label": "ORG"
+          },
+          {
+            "text": "SLTB",
+            "label": "ORG"
+          },
+          {
+            "text": "the Ceylon Petroleum Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the SLTB Kingsley Ranawaka",
+            "label": "ORG"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the All Ceylon Private Bus Owners\u2019 Association",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the previous days",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Fuel Import & Retail",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dad\u0ddc\u0d9c \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca \u0db6\u0dc0 \u0dbd\u0d82\u0d9c\u0db8 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0ddc\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dad\u0ddc\u0d9c \u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0db4\u0dba\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0db8\u0db1\u0dcf\u0d9c\u0db8\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dbd\u0d82\u0d9c\u0db8 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dd2\u0d82\u0dc3\u0dca\u0dbd\u0dd2 \u0dbb\u0dab\u0dc0\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf (28) \u0daf\u0dd2\u0db1\u0dba\u0dda \u0daf \u0db6\u0dc3\u0dca \u0dbb\u0dae \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0dd6 \u0db6\u0dc0 \u0dba.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf (28) \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0db1 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca \u0dbb\u0dae \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d85\u0da9\u0dd4 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db6\u0dc0 \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d86\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dc4 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb \u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0db4\u0ddc\u0dc5 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbb\u0da7\u0dc0\u0dbd \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc4\u0dbb\u0dd2\u0dad \u0d91\u0dc5\u0dd2\u0dba\u0d9a\u0dca."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbd\u0d82\u0d9c\u0db8",
+          "label": "ORG"
+        },
+        {
+          "text": "CPC",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0db8\u0db1\u0dcf\u0d9c\u0db8\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0d9c\u0dad \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9c\u0db8 \u0d9a\u0dd2\u0d82\u0dc3\u0dca\u0dbd\u0dd2 \u0dbb\u0dab\u0dc0\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d86\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dc4 \u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dbb",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "CPC \u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8 \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc7\u0ba3\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd (CPC) \u0baa\u0bcb\u0ba4\u0bbf\u0baf \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8 (SLTB) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd (28) \u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0bae\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0bb2\u0bbf \u0bb0\u0ba3\u0bb5\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (28) \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0baa\u0b9a\u0bcd\u0b9a\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "SLTB",
+          "label": "ORG"
+        },
+        {
+          "text": "CPC",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "SLTB",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "CPC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "SLTB \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0bb2\u0bbf \u0bb0\u0ba3\u0bb5\u0b95\u0bcd\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf & \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
