@@ -1,22 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 06:29:18 (LK time)*
+*As of 2022-06-28 07:14:45 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (4 Articles)
-
-* **3** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4890f8e4.json))
-
-* **1** daily-mirror-lk ([Cabinet nod for freight service between KKS and Tamil Nadu soon: Devananda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51d1738e.json))
-
-## Last Hour (7 Articles)
-
-* **4** daily-ft-lk ([Five investments to look out for in Sri Lanka post-IMF bailout](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/706dbe1b.json))
-
-* **3** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cdb1e21.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -24,13 +12,13 @@
 
 * **3** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cdb1e21.json))
 
-## Last 24 Hours (280 Articles)
+## Last 24 Hours (281 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
 * **45** ada-lk ([පෙබරවාරියෙන් පසු පූටින් යළිත් විදෙස් සංචාර අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/314c9102.json))
 
-* **44** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
+* **45** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
 * **37** daily-mirror-lk ([China offers SL to establish sales galleries to showcase export products](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49be03b9.json))
 
@@ -50,9 +38,9 @@
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,082 Articles)
+## Last Week (1,084 Articles)
 
-* **176** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
+* **177** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
 * **162** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
 
@@ -72,17 +60,17 @@
 
 * **50** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
-* **18** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **19** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **12** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
 * **10** b-b-c-com-sinhala ([GOTAGOHOME ; විපක්ෂයේ පක්ෂ කිහිපයක් සතියක් පාර්ලිමේන්තුව වර්ජනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd33667.json))
 
-## All Time (1,258 Articles)
+## All Time (1,260 Articles)
 
 * **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **182** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **183** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **181** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -104,4 +92,4 @@
 
 * **27** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
-* **18** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **19** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
