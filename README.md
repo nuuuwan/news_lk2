@@ -1,30 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 23:42:43 (LK time)*
+*As of 2022-06-28 23:56:12 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last Hour (2 Articles)
 
-* **4** virakesari-lk ([ரஷ்ய ஏரோபுளொட்  விமானத்துக்கு எதிரான வழக்கை தள்ளுபடி செய்யுமாறு சட்ட மா அதிபர் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9799ba71.json))
+* **1** economy-next-com ([Sri Lanka bond yields up over 100 bps as govt debt office borrows more](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77aebe01.json))
 
-* **2** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
+* **1** virakesari-lk ([ஊடகவியலாளர் தரிந்துவிடம் 4 மணி நேரம் சி.ஐ.டி. விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06e73b14.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (19 Articles)
 
-* **7** virakesari-lk ([அரசாங்கம் உள்நாட்டிலும் சர்வதேச அளவிலும் நம்பகதன்மையை இழந்துவிட்டது – சனத்](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13587689.json))
+* **6** virakesari-lk ([இலங்கை மின்சார சபை  835 வீத கட்டண அதிகரிப்பை கோரியுள்ளது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49e16fca.json))
 
 * **6** news-first-lk ([Information on MPs erased from P’ment site?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcbad309.json))
 
-* **5** lankadeepa-lk ([බස්නාහිර වාහනවල ආදායම් බලපත්‍රවලට සහන කාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9008e64.json))
-
-* **4** daily-mirror-lk ([Champika Ranawaka teams up with some SLPP MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f6dcbe.json))
+* **3** lankadeepa-lk ([අගමැතිට කාලය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b6e3bf8.json))
 
 * **2** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
 
 * **1** ada-derana-lk ([HRCSL starts independent probes on Rambukkana shooting and violence on May 9, 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcf4a30.json))
+
+* **1** daily-mirror-lk ([Postal services limited for three days due to fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d52d0c7.json))
 
 ## Last 24 Hours (250 Articles)
 
