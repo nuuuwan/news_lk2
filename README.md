@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 16:09:38 (LK time)*
+*As of 2022-06-28 16:26:12 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -8,9 +8,23 @@
 
 ## Last 30 Minutes (6 Articles)
 
-* **2** virakesari-lk ([மென்இராஜதந்திர நிகழ்ச்சி நிரலை முன்னெடுப்பதற்காக சீனா  இலத்தீன் அமெரிக்காவில் கல்வி ஸ்தாபனங்களை பயன்படுத்துகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bde154ae.json))
+* **2** daily-mirror-lk ([Present crisis turns Colombo a lonely city](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e557e742.json))
 
-* **1** lankadeepa-lk ([බස් ගාස්තුව සියයට 30 කින් නගී](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9fb803c.json))
+* **2** lankadeepa-lk ([බස් ගාස්තුව සියයට 30 කින් නගී](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9fb803c.json))
+
+* **1** news-first-lk ([US President Biden announces $20 M in additional assistance to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c46c4966.json))
+
+* **1** virakesari-lk ([பஸ் கட்டணத்தை அதிகரிக்க தீர்மானம் - அகில இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a7a889.json))
+
+## Last Hour (15 Articles)
+
+* **4** daily-mirror-lk ([30% bus fare increase, Minimum fare increased to Rs.40 from July 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88106582.json))
+
+* **3** news-first-lk ([Lanka IOC issuing fuel to all customers](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0179b69c.json))
+
+* **3** lankadeepa-lk ([තෙල් ටෝකන් හොරට විකුණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5989c7d.json))
+
+* **2** virakesari-lk ([மென்இராஜதந்திர நிகழ்ச்சி நிரலை முன்னெடுப்பதற்காக சீனா  இலத்தீன் அமெரிக்காவில் கல்வி ஸ்தாபனங்களை பயன்படுத்துகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bde154ae.json))
 
 * **1** tamil-mirror-lk ([வௌ்ளி முதல் சல்லி கூடும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6ab25930.json))
 
@@ -18,51 +32,35 @@
 
 * **1** economy-next-com ([Sri Lanka faces risk of international airlines pullout after fuel notice](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5e09dba.json))
 
-## Last Hour (12 Articles)
-
-* **3** virakesari-lk ([ஜனாதிபதிக்கு இல்லத்துக்கு அருகில் ஹிருணிகாவிற்கு பயணிக்க தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93cbddb8.json))
-
-* **3** lankadeepa-lk ([විපක්ෂය  අගමැතිට කාලය නොදෙන්නේ ඇයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/395c2cd7.json))
-
-* **2** tamil-mirror-lk ([ஆபத்தை பொருட்படுத்தாத மாணவர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f07d4e6.json))
-
-* **1** ada-derana-lk ([Bus fares increased from July; minimum fare at Rs. 40](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c68f505.json))
-
-* **1** economy-next-com ([Sri Lanka faces risk of international airlines pullout after fuel notice](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5e09dba.json))
-
-* **1** daily-mirror-lk ([30% bus fare increase, Minimum fare increased to Rs.40 from July 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88106582.json))
-
-* **1** ada-lk ([වව්නියාවේ හාඩ්වෙයාර් එකකින් ඩීසල් ලීටර් 3000 ක් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a239372.json))
-
 ## Last 3 Hours (49 Articles)
+
+* **10** lankadeepa-lk ([පොහොර බෙදන්න කෘෂි ඇමති ඩීසල් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f1b8b20.json))
 
 * **9** virakesari-lk ([கோத்தபாய ஜனாதிபதி பதவியில்  நீடிக்கும் வரை எந்த நாடும் இலங்கைக்கு உதவ முன்வராது- லக்ஸ்மன் கிரியல்ல](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b9d9ff0.json))
 
-* **9** lankadeepa-lk ([පොහොර බෙදන්න කෘෂි ඇමති ඩීසල් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f1b8b20.json))
+* **8** news-first-lk ([Cabinet nod to revise railway transport charges](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d59ce78e.json))
 
-* **9** news-first-lk ([Many filling stations closed due to shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a349bc6.json))
+* **6** daily-mirror-lk ([BASL accuses authorities of misleading the public on fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b59e3ff4.json))
 
 * **6** ada-lk ([LIOC ඉන්ධනහල් 116ට ඉන්ධන ලැබෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07dd9309.json))
 
-* **5** ada-derana-lk ([Central Bank to liquidate five failed finance companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de4b76a0.json))
-
-* **5** daily-mirror-lk ([Apply for visa soon; UK tells students](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c3f06de.json))
+* **4** ada-derana-lk ([Health trade unions to launch two-day strike](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfde0d6f.json))
 
 * **3** tamil-mirror-lk ([8 தொழிற்சங்கங்கள் இருநாள் வேலைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76ba7ddd.json))
 
 * **3** economy-next-com ([Sri Lanka railway tariff hike gets cabinet nod](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4768ee9.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (261 Articles)
 
-* **44** virakesari-lk ([நாட்டின் நெருக்கடிகள் பலம்வாய்ந்த நாடுகளின் ஆக்கிரமிப்பிற்கு சாதகமாக அமையக் கூடாது - விமல் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4e8b9bd.json))
+* **40** daily-mirror-lk ([No scientific approach or formula followed during recent fuel price revision](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90bc990a.json))
 
-* **41** lankadeepa-lk ([පිරිසක් ඉන්ධන ‘ටෝකන්’ එකට විරුද්ධයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01d6ceff.json))
+* **40** virakesari-lk ([எரிவாயு விநியோகம் குறித்து லாஃப் எரிவாயு நிறுவனம் விடுத்துள்ள வேண்டுகோள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/864d72d0.json))
 
-* **37** daily-mirror-lk ([No scientific approach or formula followed during recent fuel price revision](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90bc990a.json))
+* **38** lankadeepa-lk ([අධ්‍යාපනයේ වැඩ බලන්න  බන්දුලට පවරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d78a1b5.json))
 
-* **32** ada-lk ([යුද හමුදාවෙන් අක්කර 500 ක බඩ ඉරිඟු වගාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02d34ae1.json))
+* **35** news-first-lk ([COPA calls for Road-Map on Gas Exploration in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d71218f.json))
 
-* **32** news-first-lk ([COPA calls for Road-Map on Gas Exploration in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d71218f.json))
+* **30** ada-lk ([ඉන්ධන පෝලිමේ බසයක් ගැටී 03කට බරපතල තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2320175.json))
 
 * **23** ada-derana-lk ([PUCSL to begin public consultation on proposed revision of electricity tariffs](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beef903f.json))
 
@@ -76,19 +74,19 @@
 
 * **1** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
-## Last Week (1,221 Articles)
+## Last Week (1,228 Articles)
 
 * **204** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
-* **182** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
+* **183** lankadeepa-lk ([අරගලයේ අරමුණුවලින් පිට පනින්න දෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c32908c.json))
 
 * **146** ada-lk ([ශ්‍රී ලංකා බැඳුම්කර හිමියෙකු ඇමෙරිකාවේදී නඩු පවරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e0ca084.json))
 
-* **134** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
+* **137** daily-mirror-lk ([Fuel prices to increase tomorrow?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4c02be5.json))
 
 * **132** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **117** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **120** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **87** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
@@ -104,19 +102,19 @@
 
 * **8** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,403 Articles)
+## All Time (1,410 Articles)
 
-* **245** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **246** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **211** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **203** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **135** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **138** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **132** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **117** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **120** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **87** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
