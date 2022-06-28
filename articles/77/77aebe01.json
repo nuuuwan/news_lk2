@@ -1,0 +1,675 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-bond-yields-up-over-100-bps-as-govt-debt-office-borrows-more-96597/",
+  "time_ut": 1656437760,
+  "original_lang": "en",
+  "original_title": "Sri Lanka bond yields up over 100 bps as govt debt office borrows more",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka bond yields up over 100 bps as govt debt office borrows more",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka\u2019s bond yields rose over 100 basis points across maturities at this week\u2019s auction, data from the state debt office showed, as the government borrowed 142.3 billion rupees via treasury bonds.",
+        "The debt office offered 60 billion rupees of\u00a0bonds\u00a0maturing on 01 June 2025, a 30 billion rupees of bond maturing on 15 January 2028 and a 60 billion rupees of\u00a0bonds\u00a0maturing on 15 May 2031.",
+        "The debt office raised 52.3 billion rupees from 2025 bonds at an average yield of 23.7 percent after 75.6 billion rupees in bids received.",
+        "A 30 billion rupees was raised through 2028 bonds at an average yield of 21.18 percent with 60.6 billion rupees in bids received and was fully subscribed.",
+        "Another 60 billion rupees was raised via 2031 bonds at an average yield of 20.74 percent with 147.1 billion rupees in bids received.\u00a0The debt office offered 150 billion rupees of bonds.",
+        "A \u2018guidance rate\u2019 at which interbank transactions are pegged was announced\u00a0by the central bank closed 359.90 on Tuesday, edging up 40 cents from the previous day\u2019s 360.30.",
+        "Commercial banks offer for US dollars for telegraphic transfer closed at around 368 to 370 dollars for small transactions steady from the previous day\u2019s rates.",
+        "\u201cIn the secondary bond market, the overall marker was dull,\u201d a dealer said.",
+        "\u201cThe market has no time to recover with the bond auction today and the bill auction tomorrow.\u201d",
+        "A bond maturing\u00a0on 01.06.2025\u00a0closed at 23.70/80 per cent, up from 21.00/15 at Monday (27) close.",
+        "A bond maturing on 15.01.2028 closed at 21.00/60 per cent, up from 20.30/21.00 at Monday (27) close. \u00a0(Colombo/June 28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "over 100",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "over 100",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "week",
+            "label": "DATE"
+          },
+          {
+            "text": "142.3 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "treasury",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "60 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "01 June 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "30 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 January 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "60 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 May 2031",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "52.3 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "23.7 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "75.6 billion",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "2028",
+            "label": "DATE"
+          },
+          {
+            "text": "21.18 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "60.6 billion",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "60 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2031",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20.74 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "147.1 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "150 billion",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "359.90",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "40 cents",
+            "label": "MONEY"
+          },
+          {
+            "text": "the previous day",
+            "label": "DATE"
+          },
+          {
+            "text": "360.30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "around 368",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "370 dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "the previous day\u2019s",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "23.70/80 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.00/15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "21.00/60 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "20.30/21.00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Colombo/June 28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0da2\u0dba\u0dda \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dad\u0dc0\u0dad\u0dca \u0dab\u0dba \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb 100 bps \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0db8\u0dd9\u0db8 \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0db5\u0dbd\u0daf\u0dcf\u0dc0 \u0db4\u0dbb\u0dd2\u0dab\u0dad \u0d9a\u0dcf\u0dbd\u0dba\u0db1\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0db4\u0daf\u0db1\u0db8\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 100 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0dbb\u0da2\u0dba \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dbb\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 142.3 \u0d9a\u0dca \u0dab\u0dba\u0da7 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dd2.",
+        "\u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2025 \u0da2\u0dd6\u0db1\u0dd2 01 \u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb, 2028 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 15 \u200b\u200b\u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 30\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0dc4 2031 \u0db8\u0dd0\u0dba\u0dd2 15 \u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 75.6 \u0d9a \u0dbd\u0d82\u0dc3\u0dd4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba 2025 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 52.3 \u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 23.7 \u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 30\u0d9a\u0dca 2028 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 21.18 \u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60.6 \u0d9a \u0dbd\u0d82\u0dc3\u0dd4 \u0dbd\u0dd0\u0db6\u0dd3 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0daf\u0dcf\u0dba\u0d9a \u0dc0\u0dd2\u0dba.",
+        "\u0dad\u0dc0\u0dad\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60\u0d9a\u0dca 2031 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 20.74\u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 147.1\u0d9a \u0dbd\u0d82\u0dc3\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd3 \u0d87\u0dad. \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5\u0dcf.",
+        "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dab\u0dd4\u0daf\u0dd9\u0dab\u0dd4 \u0db1\u0dd2\u0dba\u0db8 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 '\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0d9a\u0dca' \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3\u00a0\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf 359.90 \u0dc0\u0dc3\u0dcf \u0daf\u0dd0\u0db8\u0dd6 \u0d85\u0dad\u0dbb, \u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 360.30 \u0da7 \u0dc0\u0da9\u0dcf \u0dc1\u0dad 40 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9 \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf US \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0db1\u0dd4 \u0dbd\u0db6\u0db1\u0dca\u0db1\u0dda \u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dbd\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d9a\u0dd4\u0da9\u0dcf \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf \u0da9\u0ddc\u0dbd\u0dbb\u0dca 368 \u0dc3\u0dd2\u0da7 370 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0db8\u0dab\u0dd2.",
+        "\"\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dd2\u0dba\u0dd2\u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc0\u0dd9\u0dbd\u0db3\u0db4\u0ddc\u0dbd\u0dda, \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dc3\u0dbd\u0d9a\u0dd4\u0dab \u0d85\u0db3\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd2\u0dba,\" \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0d85\u0daf \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0dc4\u0dd9\u0da7 \u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dc5\u0da7 \u0dba\u0dae\u0dcf \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad.\"",
+        "2025.06.01 \u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dd4\u0daf\u0dcf (27) \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 21.00/15 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 23.70/80 \u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd2\u0dba.",
+        "2028.01.15 \u0daf\u0dd2\u0db1 \u0d9a\u0dbd\u0dca \u0db4\u0dd2\u0dbb\u0dd9\u0db1 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dd4\u0daf\u0dcf (27) \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 20.30/21.00 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 21.00/60\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd2\u0dba. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd4\u0db1\u0dd2 28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "100 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "100 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 142.3 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2025 \u0da2\u0dd6\u0db1\u0dd2 01",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 30 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2028 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2031 \u0db8\u0dd0\u0dba\u0dd2 15",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 52.3 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 23.7 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 75.6 \u0d9a\u0dd2",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "2028",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 21.18 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60.6 \u0d9a\u0dd2",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2031",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 20.74 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 147.1 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150 \u0d9a\u0dd2",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "359.90 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dad 40 \u0dba\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "360.30 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "368 \u0db4\u0db8\u0dab",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca 370 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 23.70/80",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.00/15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "21.00/60 \u0dc3\u0dd2\u0dba\u0dba\u0da7",
+            "label": "MONEY"
+          },
+          {
+            "text": "20.30/21.00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd4\u0db1\u0dd2 28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd 100 bps \u0b90 \u0bb5\u0bbf\u0b9f \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b88\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd 100 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb0\u0b9a \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9, \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0baa\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd 142.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 \u0b95\u0b9f\u0ba9\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd 01, 2025 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd, \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 15, 2028 \u0b87\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd 30 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd, 15 \u0bae\u0bc7 2031 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd 2025 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 52.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 75.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0b95 23.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2028 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0b95 21.18 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0bae\u0b95\u0b9a\u0bc2\u0bb2\u0bbf\u0bb2\u0bcd 30 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, 60.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b8f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bcd 2031 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0b95 20.74 \u0b9a\u0ba4\u0bb5\u0bbf\u0b95\u0bbf\u0ba4 \u0bae\u0b95\u0b9a\u0bc2\u0bb2\u0bbf\u0bb2\u0bcd 147.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd 150 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bc7\u0baf\u0bbe\u0ba9 \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u2018\u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd\u2019 \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0ba9\u0bcd\u0bb1\u0bc1 359.90 \u0b8e\u0ba9 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bbf\u0ba9\u0bcd 360.30 \u0b87\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 40 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bb5\u0ba3\u0bbf\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0ba8\u0bcd\u0ba4\u0bbf \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 368 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 370 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\"\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb0\u0bcd \u0bae\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0b8f\u0bb2\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bbf\u0bb2\u0bcd \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0bb3 \u0ba8\u0bc7\u0bb0\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8.\"",
+        "01.06.2025 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd 23.70/80 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (27) \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd 21.00/15 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "15.01.2028 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd 21.00/60 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (27) \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd 20.30/21.00 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0ba9\u0bcd 28/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "100\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "100\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "142.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b95\u0bb0\u0bc1\u0bb5\u0bc2\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "01 \u0b9c\u0bc2\u0ba9\u0bcd 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "30 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 \u0bae\u0bc7 2031",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "52.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2025",
+            "label": "DATE"
+          },
+          {
+            "text": "23.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "75.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "2028",
+            "label": "DATE"
+          },
+          {
+            "text": "21.18 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "60.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2031",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20.74 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "147.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "150 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "359.90",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "40 \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "360.30",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 368",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "370 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "23.70/80 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "21.00/15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "21.00/60 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "20.30/21.00",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "27",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0ba9\u0bcd 28/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

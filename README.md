@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 23:08:38 (LK time)*
+*As of 2022-06-28 23:24:03 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** virakesari-lk ([எரிபொருள் நெருக்கடிக்கு தீர்வு காண கட்டார் வலுச்சக்தி துறை அதிகாரிகளுடன் அமைச்சர் காஞ்சன முக்கிய பேச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efedac06.json))
+
+* **1** economy-next-com ([Sri Lanka bond yields up over 100 bps as govt debt office borrows more](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77aebe01.json))
+
+## Last Hour (9 Articles)
 
 * **5** virakesari-lk ([பொதுநலவாய நாடுகளின் வெளிவிவகார அமைச்சர்களிடம் நாட்டின் நிலைகுறித்து அமைச்சர் ஜீ.எல்.பீரிஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347c57f1.json))
 
-* **1** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
-
-## Last Hour (8 Articles)
-
-* **5** virakesari-lk ([பொதுநலவாய நாடுகளின் வெளிவிவகார அமைச்சர்களிடம் நாட்டின் நிலைகுறித்து அமைச்சர் ஜீ.எல்.பீரிஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347c57f1.json))
-
-* **1** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
+* **2** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
 
 * **1** ada-derana-lk ([HRCSL starts independent probes on Rambukkana shooting and violence on May 9, 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcf4a30.json))
 
 * **1** lankadeepa-lk ([විදුලි ඇමැති කටාර් නියෝජිතයන් හමු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28fa6fb0.json))
 
-## Last 3 Hours (33 Articles)
+## Last 3 Hours (32 Articles)
 
 * **8** virakesari-lk ([ஜப்பான் தூதுவருடன் தமிழ் தேசிய கூட்டமைப்பு யாழில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff5e61f0.json))
 
@@ -32,13 +32,13 @@
 
 * **4** daily-mirror-lk ([Champika Ranawaka teams up with some SLPP MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7f6dcbe.json))
 
-* **4** tamil-mirror-lk ([கட்டாரிடம் கடன் வசதி  கேட்டது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d057a3e4.json))
+* **2** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
 
 * **2** ada-derana-lk ([Lanka IOC restricts sale of petrol](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba47327a.json))
 
-* **1** economy-next-com ([Sri Lanka shares hit 2-month low as economy gradually comes to standstill](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b03719.json))
+* **2** tamil-mirror-lk ([இ.போ.ச டிப்போக்களில் எரிபொருள் பிரச்சினை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c790c467.json))
 
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (251 Articles)
 
 * **44** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -54,7 +54,7 @@
 
 * **22** tamil-mirror-lk ([இன்றைய மின்வெட்டு நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19bbe239.json))
 
-* **12** economy-next-com ([Sri Lanka central bank to give payment plan for oil supplier arrears: Presidents office](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df1da04.json))
+* **13** economy-next-com ([Sri Lanka central bank to give payment plan for oil supplier arrears: Presidents office](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df1da04.json))
 
 * **11** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
@@ -62,7 +62,7 @@
 
 * **1** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## Last Week (1,315 Articles)
+## Last Week (1,316 Articles)
 
 * **222** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -80,7 +80,7 @@
 
 * **70** daily-ft-lk ([Dollars or brains: What will solve Lanka’s debt puzzle?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7933216.json))
 
-* **62** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
+* **63** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
 * **50** island-lk ([Beauty pageants… when we are in dire straits!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d10a516a.json))
 
@@ -90,7 +90,7 @@
 
 * **9** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
-## All Time (1,498 Articles)
+## All Time (1,499 Articles)
 
 * **260** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -108,7 +108,7 @@
 
 * **81** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **63** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **64** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **55** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
