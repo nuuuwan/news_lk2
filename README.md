@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 00:58:14 (LK time)*
+*As of 2022-06-29 01:10:11 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([1,000 MT of rice under Chinese grant reaches Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3897f4a.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** ada-derana-lk ([Kahatuduwa house fire: death toll climbs to three](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/316e9498.json))
-
-* **1** economy-next-com ([Crisis-hit Sri Lanka cabinet okays US grant after rejecting $480 mln MCC deal in 2020](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efc50d1.json))
 
 ## Last 3 Hours (13 Articles)
 
@@ -26,7 +20,7 @@
 
 * **1** lankadeepa-lk ([විදුලි ඇමැති කටාර් නියෝජිතයන් හමු වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28fa6fb0.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (253 Articles)
 
 * **45** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -34,9 +28,9 @@
 
 * **35** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **29** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
-
 * **28** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
+
+* **27** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
 
 * **24** ada-derana-lk ([Energy Minister off to Qatar for talks on fuel imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40567bc.json))
 
