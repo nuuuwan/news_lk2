@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 19:37:06 (LK time)*
+*As of 2022-06-28 19:46:08 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -14,19 +14,19 @@
 
 * **1** ada-derana-lk ([Registrar General’s Dept, post offices to provide limited services](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89bf3e9a.json))
 
-## Last Hour (11 Articles)
-
-* **3** tamil-mirror-lk ([’எம்.பிக்களை கொல்வதே மக்களின் விருப்பம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d96b35a7.json))
+## Last Hour (9 Articles)
 
 * **3** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
-* **2** ada-derana-lk ([CBSL raises over Rs. 142 Bn through Treasury Bond auction today](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/291a6bfa.json))
+* **2** tamil-mirror-lk ([திணைக்கள சேவைகள் மட்டுப்படுத்தப்பட்டன](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c95553f.json))
 
 * **2** news-first-lk ([US Ambassador meets CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b83b1302.json))
 
 * **1** lankadeepa-lk ([ග්‍රහලෝක පහක් හෙට අලුයම එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2998c043.json))
 
-## Last 3 Hours (33 Articles)
+* **1** ada-derana-lk ([Registrar General’s Dept, post offices to provide limited services](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89bf3e9a.json))
+
+## Last 3 Hours (31 Articles)
 
 * **7** virakesari-lk ([சுகாதாரத்துறை தொழிற்சங்கங்கள் வேலைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95690fc4.json))
 
@@ -40,19 +40,19 @@
 
 * **3** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
-* **3** economy-next-com ([Sri Lanka GDP shrinks 1.6-pct in 1Q 2022 in soft-peg collapse](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01260c09.json))
+* **1** economy-next-com ([Sri Lanka to re-open Jaffna airport for international flights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5682072.json))
 
 * **1** ada-lk ([ලංකාවට තවත් ඩොලර් මිලියන 20ක් දෙන බව ඇමෙරිකානු ජනපති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c2fc040.json))
 
-## Last 24 Hours (257 Articles)
+## Last 24 Hours (253 Articles)
 
 * **41** daily-mirror-lk ([Train disruptions possible if SMs, junior staff don’t report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a1434d2.json))
 
-* **41** virakesari-lk ([மின்கட்டண திருத்தம் தொடர்பில் மக்களின் யோசனைகளை பெற்றுக்கொள்வது அத்தியாவசியம் - இலங்கை பொதுப்பயன்பாட்டு ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7211e033.json))
+* **39** virakesari-lk ([மாந்திரீகர் கழுத்தறுத்துக் கொலை : தலைப் பகுதி நில்வலா கங்கைக்குள் ? : சந்தேக நபர் தலைமறைவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41fd11a6.json))
 
-* **37** news-first-lk ([President & Russian Ambassador discuss Fuel, Gas, Coal, etc.](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/857aef37.json))
+* **36** news-first-lk ([CBSL agrees to release money for due payments for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64abd4d0.json))
 
-* **34** lankadeepa-lk ([අඹ කඩන්න ගිය සාජන් මේජර් විදුලි සැරෙන් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3ee4c9.json))
+* **33** lankadeepa-lk ([නඩු කටයුතුත් සීමා වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c958f3fa.json))
 
 * **27** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
 
