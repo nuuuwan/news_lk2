@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 04:43:05 (LK time)*
+*As of 2022-06-29 04:55:09 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** lankadeepa-lk ([ඉන්ධන නැතිව කොළඹ පාළුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/628d7bb8.json))
+
+## Last Hour (2 Articles)
 
 * **2** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d555e56.json))
 
-## Last Hour (3 Articles)
+## Last 3 Hours (10 Articles)
 
-* **2** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d555e56.json))
-
-* **1** daily-mirror-lk ([Spotlight on losses associated with so called development projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b567ccd5.json))
-
-## Last 3 Hours (15 Articles)
-
-* **10** daily-ft-lk ([Cabinet nod to revise train fares as per fuel hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d20c45b3.json))
+* **5** daily-ft-lk ([Hayleys Fabric natural mahogany dye listed on Top 10 innovations for ISPO Textrends 2024](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9421a27b.json))
 
 * **3** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
 
