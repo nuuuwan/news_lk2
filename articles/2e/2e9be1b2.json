@@ -1,0 +1,417 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-sells-rs142bn-in-2025-2028-2031-bonds-96603/",
+  "time_ut": 1656458760,
+  "original_lang": "en",
+  "original_title": "Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka has sold 142 billion rupees of 2025, 2028 and 2031 bonds after offering 160 billion with the yield curve inverting, data from the state debt office shows.",
+        "The debt office sold 52.25 billion rupees of 01 June 2025 bonds after offering 60 billion rupees at a weighted average yield of 23.77 percent, at an auction of June 28 slightly up from the last auction.",
+        "At a May 30 auction, 01 June 2025 bonds were sold at 22.38 percent.",
+        "The debt office sold all offered 60 billion rupees of 15 January 2028 bonds at 21.18 percent down from 21.86 percent on May 30.",
+        "All offered 60 billion rupees of 15 May 2031 bond were sold at 20.74 percent, showing an inversion of the yield curve.",
+        "The debt office is offering 2035 bonds on tap until June 30. (Colombo/June29/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "2025",
+          "label": "DATE"
+        },
+        {
+          "text": "2028",
+          "label": "DATE"
+        },
+        {
+          "text": "2031",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "142 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "2025, 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "2031",
+            "label": "DATE"
+          },
+          {
+            "text": "160 billion",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "52.25 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "01 June 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "60 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "23.77 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June 28",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "May 30",
+            "label": "DATE"
+          },
+          {
+            "text": "01 June 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "22.38 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "60 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 January 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "21.18 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "21.86 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "May 30",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "60 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "May 2031",
+            "label": "DATE"
+          },
+          {
+            "text": "20.74 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2035",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 2025, 2028, 2031 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 142\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2.",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 2025, 2028 \u0dc3\u0dc4 2031 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dc0\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 142 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0dc0\u0d9a\u0dca\u200d\u0dbb\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba \u0dc3\u0db8\u0d9f \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 160 \u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4, \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0da7 \u0dc0\u0da9\u0dcf \u0db8\u0daf\u0d9a\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0da2\u0dd6\u0db1\u0dd2 28 \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 23.77\u0d9a \u0db6\u0dbb\u0dd2\u0dad \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60\u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba 2025 \u0da2\u0dd6\u0db1\u0dd2 01 \u0daf\u0dd2\u0db1 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 52.25\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad.",
+        "\u0db8\u0dd0\u0dba\u0dd2 30 \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0d9a\u0daf\u0dd3, 2025 \u0da2\u0dd6\u0db1\u0dd2 01 \u0daf\u0dd2\u0db1 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0dd2\u0dba\u0dba\u0da7 22.38 \u0d9a\u0da7 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2028 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 15 \u200b\u200b\u0daf\u0dd2\u0db1 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd \u0db8\u0dd0\u0dba\u0dd2 30 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0dba\u0dba\u0da7 21.86 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 21.18 \u0da7 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad.",
+        "2031 \u0db8\u0dd0\u0dba\u0dd2 15 \u0daf\u0dd2\u0db1 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0dc0\u0d9a\u0dca\u200d\u0dbb\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0ddd\u0db8\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 20.74 \u0da7 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dcf \u0d87\u0dad.",
+        "\u0dab\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0da2\u0dd4\u0db1\u0dd2 30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf 2035 \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0db1\u0dd229/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "2025",
+          "label": "DATE"
+        },
+        {
+          "text": "2028",
+          "label": "DATE"
+        },
+        {
+          "text": "2031",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 142 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2025, 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "2031",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 160 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 52.25 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2025 \u0da2\u0dd6\u0db1\u0dd2 01",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 23.77 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2 28",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2 30",
+            "label": "DATE"
+          },
+          {
+            "text": "2025 \u0da2\u0dd6\u0db1\u0dd2 01",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 22.38 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2028 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 21.18 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 21.86 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2 30",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 60 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2031 \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 20.74 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2035",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 2025, 2028, 2031 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 142 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0bb5\u0bb3\u0bc8\u0bb5\u0bc1 \u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd 160 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, 2025, 2028 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2031 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 142 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd 01, 2025 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 52.25 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1, 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 23.77 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0bae\u0b95\u0b9a\u0bc2\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0b9c\u0bc2\u0ba9\u0bcd 28 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0bae\u0bc7 30 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, 01 \u0b9c\u0bc2\u0ba9\u0bcd 2025 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd 22.38 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9.",
+        "\u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd 2028 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 15 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc7 30 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 21.86 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 21.18 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "2031 \u0bae\u0bc7 15 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd 20.74 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9, \u0b87\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0bb5\u0bb3\u0bc8\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd 30 \u0bb5\u0bb0\u0bc8 \u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd 2035 \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0ba9\u0bcd29/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "2025",
+          "label": "DATE"
+        },
+        {
+          "text": "2028",
+          "label": "DATE"
+        },
+        {
+          "text": "2031",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "142 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "2025, 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "2031",
+            "label": "DATE"
+          },
+          {
+            "text": "160 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "52.25 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "01 \u0b9c\u0bc2\u0ba9\u0bcd 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "23.77 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 28",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc7 30",
+            "label": "DATE"
+          },
+          {
+            "text": "01 \u0b9c\u0bc2\u0ba9\u0bcd 2025",
+            "label": "DATE"
+          },
+          {
+            "text": "22.38 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "15 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2028",
+            "label": "DATE"
+          },
+          {
+            "text": "21.18 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "21.86 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc7 30",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc7 2031",
+            "label": "DATE"
+          },
+          {
+            "text": "20.74 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "2035",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
