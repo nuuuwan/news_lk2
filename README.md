@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 20:20:56 (LK time)*
+*As of 2022-06-28 20:30:49 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **2** tamil-mirror-lk ([கட்டாரிடம் கடன் வசதி  கேட்டது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d057a3e4.json))
 
-* **2** lankadeepa-lk ([තැපැල් කාර්යාල සතියට දින 3 යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6211ea3.json))
+## Last Hour (7 Articles)
 
-## Last Hour (11 Articles)
+* **3** tamil-mirror-lk ([’காட்டுச் சட்டத்தால்  நாட்டை ஆள முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/441cac4f.json))
 
-* **4** tamil-mirror-lk ([சட்டமா அதிபர் விடுத்துள்ள கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3ad1574c.json))
+* **3** lankadeepa-lk ([දින නියමයක් නැතිව  ඌව වෙල්ලස්ස සරසවිය වැසේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/179f104d.json))
 
-* **4** lankadeepa-lk ([ග්‍රහලෝක පහක් හෙට අලුයම එකම රේඛාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c43ff6ed.json))
+* **1** news-first-lk ([Bus & Train fare hike, soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c1ba970.json))
 
-* **2** news-first-lk ([Russia, UAE & India to assist; Minister explains way out of fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/037466b7.json))
-
-* **1** ada-derana-lk ([Registrar General’s Dept, post offices to provide limited services](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89bf3e9a.json))
-
-## Last 3 Hours (31 Articles)
+## Last 3 Hours (27 Articles)
 
 * **8** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
 
@@ -30,15 +26,15 @@
 
 * **5** news-first-lk ([Couple arrested over Akuressa beheading](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9071a787.json))
 
-* **5** ada-derana-lk ([Energy Minister in talks with Qatari officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdf718d3.json))
-
 * **3** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
-* **2** virakesari-lk ([சுற்றுலாத்துறையில் பதிவு செய்யப்பட்ட வாகனங்கள் அத்தியாவசிய சேவையாக பிரகடனம் -  ஹரின்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25688ee7.json))
+* **2** ada-derana-lk ([CBSL raises over Rs. 142 Bn through Treasury Bond auction today](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/291a6bfa.json))
 
 * **1** economy-next-com ([Sri Lanka to re-open Jaffna airport for international flights](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5682072.json))
 
-## Last 24 Hours (252 Articles)
+* **1** virakesari-lk ([காலி மைதானத்திற்கு முன் அணிவகுத்திருந்த  எரிவாயு சிலிண்டர்கள் : லாஃப் விநியோகம் - லிட்ரோ சிலிண்டர்கள் வரிசையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccd6d60d.json))
+
+## Last 24 Hours (245 Articles)
 
 * **40** daily-mirror-lk ([No fuel for private vehicles, only essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1b381f4.json))
 
@@ -50,17 +46,17 @@
 
 * **28** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
 
-* **25** ada-derana-lk ([Fuel to be supplied only for essential services until July 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceb6ad94.json))
+* **24** ada-derana-lk ([Schools in Colombo, WP suburbs & other major cities to remain closed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c562e12d.json))
 
-* **23** tamil-mirror-lk ([பாடசாலை விடுமுறை குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec7cd54.json))
+* **21** tamil-mirror-lk ([முடக்கப்படுகிறதா இலங்கை?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9722a79.json))
 
-* **13** economy-next-com ([Sri Lanka to order exporters, embassies, hotels to pay electricity bills in dollars](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/8344b2bf.json))
+* **12** economy-next-com ([Sri Lankans asked to stay at home as country runs out of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d397132.json))
 
 * **11** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
-* **4** island-lk ([Another crowd-puller coming up!](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/258dee99.json))
-
 * **1** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
+
+* **1** island-lk ([Lessons for Colombo from Manila, Bangkok and Hong Kong](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebd1a93.json))
 
 ## Last Week (1,277 Articles)
 
