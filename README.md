@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 11:22:47 (LK time)*
+*As of 2022-06-28 11:30:44 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -16,21 +16,19 @@
 
 * **1** lankadeepa-lk ([ලක්ෂ පහක තෙල් මාරවිලින් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ab8db4c.json))
 
-## Last Hour (18 Articles)
+## Last Hour (14 Articles)
 
 * **5** news-first-lk ([Cabinet green light to open Sri Lanka’s Fuel Import & Retail sales market to Companies from Oil producing Nations.](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/416e373b.json))
 
-* **5** ada-lk ([යුක්රේන වෙළඳ සංකීර්ණ වෙත මිසයිල ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/685b99d9.json))
+* **3** ada-lk ([පූටින් G20 සමුළුවට සහභාගී වන බව කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/837f33a4.json))
 
 * **2** ada-derana-lk ([Navy apprehends 47 people attempting to illegally migrate from island](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d02478f8.json))
 
 * **2** lankadeepa-lk ([සංස්ථාව සතු ඉන්ධනහල් විකුණනවාට දැඩි ලෙස විරුද්දයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37742297.json))
 
-* **2** virakesari-lk ([எரிபொருள் கொள்வனவிற்கு நிதியை ஒதுக்கீடு செய்வதற்கு மத்திய வங்கி இணக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c07e5f9.json))
-
 * **1** economy-next-com ([Sri Lanka President meets Russian envoy amid oil talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a3268f3.json))
 
-* **1** daily-mirror-lk ([Seven institutions incl. BOI, Port City under Dhammika Perera’s ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e13f7e.json))
+* **1** virakesari-lk ([இது முடக்கல்நிலையில்லை- ஹரீன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/863b92b0.json))
 
 ## Last 3 Hours (38 Articles)
 
@@ -50,7 +48,7 @@
 
 * **1** economy-next-com ([Sri Lanka President meets Russian envoy amid oil talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a3268f3.json))
 
-## Last 24 Hours (275 Articles)
+## Last 24 Hours (274 Articles)
 
 * **45** lankadeepa-lk ([ප්‍රාදේශීය ලේකම් සිර කළාට ප්‍ර.ලේ සේවකයෝ විරෝධය පාති](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4cdc86e.json))
 
@@ -64,7 +62,7 @@
 
 * **22** tamil-mirror-lk ([6 வயதுச் சிறுமி துஷ்பிரயோகம்; யாழில் முதியவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/704d19e6.json))
 
-* **21** ada-derana-lk ([Five hospitalized after bus collides with people in fuel queue](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ac99b9d.json))
+* **20** ada-derana-lk ([Suspect arrested over killing of funeral parlour owner in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5958b3d.json))
 
 * **18** economy-next-com ([Niraj de Mel made Chairman of Sri Lanka Tea Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02fb19d4.json))
 
@@ -74,7 +72,7 @@
 
 * **1** b-b-c-com-sinhala ([බලශක්ති ඇමති එනබව කියූ ඉන්ධන නැව්වලට මොකද වුණේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d55b1912.json))
 
-## Last Week (1,136 Articles)
+## Last Week (1,135 Articles)
 
 * **186** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
@@ -100,7 +98,7 @@
 
 * **12** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
-* **9** b-b-c-com-sinhala ([විපක්ෂයේ පක්ෂ කිහිපයක් පර්ලිමේන්තුව වර්ජනය කළේ ඇයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/876f4823.json))
+* **8** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
 
 ## All Time (1,314 Articles)
 
