@@ -1,0 +1,756 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83310/1000-mt-of-rice-under-chinese-grant-reaches-sri-lanka",
+  "time_ut": 1656443220,
+  "original_lang": "en",
+  "original_title": "1,000 MT of rice under Chinese grant reaches Sri Lanka",
+  "text_idx": {
+    "en": {
+      "title": "1,000 MT of rice under Chinese grant reaches Sri Lanka",
+      "author": "unknown",
+      "body_lines": [
+        "Forty-four containers of 1,000 metric tonnes of rice donated by the Chinese people to Sri Lankan students have arrived and was handed over to Sri Lanka\u2019s Ministry of Education on Tuesday (28).",
+        "China is gifting a total of 10,000 MT of rice to 7,900 schools across Sri Lanka and supports its School Meal Program for 6 months, the Chinese Embassy in Colombo said.",
+        "Ambassador Qi Zhenhong stated that the vulnerable population, especially children from low-income families suffer the most in the current economic crisis in Sri Lanka.",
+        "He said China supports the School Meal Program of Sri Lanka to provide daily nutritious meals to 1.1 million children in 7,900 schools across Sri Lanka.",
+        "The Ambassador further stated that another two shipments of rice donations will arrive respectively in the next week and the following week while more are in the pipeline.",
+        "He said China will try all-out efforts to sustain the Sri Lanka School Meal Program for at least 6 months.",
+        "In addition to this, he said the Chinese Embassy is discussing with Sri Lanka\u2019s Ministry of Education to provide school uniform for Sri Lankan students across the island in the new school year.",
+        "Chinese Ambassador Qi Zhenhong announced this at the hand-over ceremony on Tuesday at the CICT, Colombo Port.",
+        "44 containers of 1,000 metric tonnes rice donated by #Chinese people to #SriLankan students have arrived and been handed over to \ud83c\uddf1\ud83c\uddf0 Ministry of Education today.\ud83c\udde8\ud83c\uddf3 gifts a total of 10,000 MT of rice to 7900 schools across #lka and supports its School Meal Program for 6 months. pic.twitter.com/EGnYHMnpt6\u2014 Chinese Embassy in Sri Lanka (@ChinaEmbSL) June 28, 2022"
+      ],
+      "title_ents": [
+        {
+          "text": "1,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Chinese",
+          "label": "NORP"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Forty-four",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 metric tonnes",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Ministry of Education",
+            "label": "ORG"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "10,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "School Meal Program",
+            "label": "ORG"
+          },
+          {
+            "text": "6 months",
+            "label": "DATE"
+          },
+          {
+            "text": "the Chinese Embassy in Colombo",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "the School Meal Program of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "daily",
+            "label": "DATE"
+          },
+          {
+            "text": "1.1 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the next week",
+            "label": "DATE"
+          },
+          {
+            "text": "the following week",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "China",
+            "label": "GPE"
+          },
+          {
+            "text": "the Sri Lanka School Meal Program",
+            "label": "ORG"
+          },
+          {
+            "text": "at least 6 months",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Ministry of Education",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "the new school year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "Tuesday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 metric tonnes",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Chinese",
+            "label": "NORP"
+          },
+          {
+            "text": "\ud83c\uddf1\ud83c\uddf0 Ministry of Education",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "10,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "#",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "School Meal Program",
+            "label": "ORG"
+          },
+          {
+            "text": "6 months",
+            "label": "DATE"
+          },
+          {
+            "text": "pic.twitter.com/EGnYHMnpt6",
+            "label": "ORG"
+          },
+          {
+            "text": "Chinese Embassy",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "June 28, 2022",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0da0\u0dd3\u0db1 \u0d86\u0db0\u0dcf\u0dbb \u0dba\u0da7\u0dad\u0dda \u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 1000\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0da0\u0dd3\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 1000 \u0d9a \u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dca \u0dc4\u0dad\u0dc5\u0dd2\u0dc3\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf (28) \u0daf\u0dd2\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0da0\u0dd3\u0db1\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0db4\u0dcf\u0dc3\u0dbd\u0dca 7,900\u0d9a\u0da7 \u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 10,000\u0d9a\u0dca \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0d9a\u0dbb\u0db1 \u0d85\u0dad\u0dbb \u0db8\u0dcf\u0dc3 6\u0d9a \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0db6\u0dc0 \u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0dad\u0db1\u0dcf\u0db4\u0dad\u0dd2 Qi Zhenhong \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0da7 \u0dbd\u0d9a\u0dca\u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0da2\u0db1\u0d9c\u0dc4\u0db1\u0dba, \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0d85\u0da9\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3 \u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dcf\u0dc3\u0dbd\u0dca 7,900 \u0d9a \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.1 \u0d9a\u0da7 \u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf \u0db4\u0ddd\u0dc2\u0dca\u200d\u0dba\u0daf\u0dcf\u0dba\u0dd3 \u0d86\u0dc4\u0dcf\u0dbb \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0da7 \u0da0\u0dd3\u0db1\u0dba \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dc4\u0dbd\u0dca \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dc5\u0dd2\u0db1\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dc4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0d85\u0dad\u0dbb \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dc4\u0dbd\u0dca \u0dad\u0ddc\u0d9c \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1 \u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0dc3 6\u0d9a\u0dca\u0dc0\u0dad\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1\u0dba \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4\u0dba\u0d9a\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0db8\u0dd3\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0, \u0db1\u0dc0 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dba\u0dda\u0daf\u0dd3 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1 \u0db4\u0dd4\u0dbb\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0dbd \u0d87\u0db3\u0dd4\u0db8\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc3\u0db8\u0d9f \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 Qi Zhenhong \u0db8\u0dc4\u0dad\u0dcf \u0db8\u0dda \u0db6\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0dda CICT \u0dc4\u0dd2 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0db7\u0dcf\u0dbb\u0daf\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dba.",
+        "#\u0da0\u0dd3\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca #\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dd2\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0da7 \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0dc4\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 1000 \u0d9a \u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dca 44 \u0d9a\u0dca \u0d85\u0daf \u0db4\u0dd0\u0db8\u0dd2\u0dab \ud83c\uddf1\ud83c\uddf0 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb\u0daf\u0dd3 \u0d87\u0dad. \u0db8\u0dcf\u0dc3 6 \u0d9a \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1. pic.twitter.com/EGnYHMnpt6\u2014 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba (@ChinaEmbSL) 2022 \u0da2\u0dd6\u0db1\u0dd2 28"
+      ],
+      "title_ents": [
+        {
+          "text": "1,000 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0da0\u0dd3\u0db1",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc4\u0dad\u0dbd\u0dd2\u0dc3\u0dca \u0dc4\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 1000\u0d9a\u0dca",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "10,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3 6 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.1 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d8a\u0dc5\u0d9f \u0dc3\u0dad\u0dd2\u0dba\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dcf\u0dc3 6 \u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0db0\u0dca\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db1\u0dc0 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 1000\u0d9a\u0dca",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1",
+            "label": "NORP"
+          },
+          {
+            "text": "\ud83c\uddf1\ud83c\uddf0 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "10,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": null,
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3 6 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "pic.twitter.com/EGnYHMnpt6",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 28",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9a\u0bc0\u0ba9 \u0bae\u0bbe\u0ba9\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd 1,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0b9f\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9a\u0bc0\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 1,000 \u0bae\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0b85\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (28) \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 7,900 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 10,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0b9f\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bc8 \u0b85\u0ba9\u0bcd\u0baa\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd Qi Zhenhong \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 7,900 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 1.1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0baa\u0bcb\u0bb7\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0ba3\u0bb5\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b89\u0ba3\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bb2 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baa\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc0\u0ba9\u0bbe \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95, \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bbf \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd Qi Zhenhong \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 CICT \u0b87\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0ba9\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 #\u0b9a\u0bc0\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 1,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0b95\u0bca\u0ba3\u0bcd\u0b9f 44 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \ud83c\uddf1\ud83c\uddf0 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd. pic.twitter.com/EGnYHMnpt6\u2014 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd (@ChinaEmbSL) \u0b9c\u0bc2\u0ba9\u0bcd 28, 2022"
+      ],
+      "title_ents": [
+        {
+          "text": "1,000",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9a\u0bc0\u0ba9",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "28",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "10,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "1.1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "Qi Zhenhong",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "44",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9",
+            "label": "NORP"
+          },
+          {
+            "text": "\ud83c\uddf1\ud83c\uddf0 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "10,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": null,
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "pic.twitter.com/EGnYHMnpt6",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc0\u0ba9 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 28, 2022",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
