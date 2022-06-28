@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 03:55:10 (LK time)*
+*As of 2022-06-29 04:07:13 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-mirror-lk ([The need for a reset](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bed989f.json))
+* **1** daily-mirror-lk ([Spotlight on losses associated with so called development projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b567ccd5.json))
 
 ## Last Hour (3 Articles)
 
