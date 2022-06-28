@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 05:15:47 (LK time)*
+*As of 2022-06-29 05:25:32 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,11 +10,11 @@
 
 * **1** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
 
-## Last Hour (3 Articles)
-
-* **2** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d555e56.json))
+## Last Hour (2 Articles)
 
 * **1** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
+
+* **1** lankadeepa-lk ([ඉන්ධන නැතිව කොළඹ පාළුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/628d7bb8.json))
 
 ## Last 3 Hours (6 Articles)
 
