@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-28 05:25:46 (LK time)*
+*As of 2022-06-28 05:35:21 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (268 Articles)
+## Last 24 Hours (272 Articles)
 
 * **49** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -26,11 +26,13 @@
 
 * **7** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
+* **4** island-lk ([Another crowd-puller coming up!](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/258dee99.json))
+
 * **2** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
 * **1** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
-## Last Week (1,066 Articles)
+## Last Week (1,072 Articles)
 
 * **175** virakesari-lk ([இயங்காநிலை நோக்கி நகரும் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74c51d5d.json))
 
@@ -48,17 +50,17 @@
 
 * **66** daily-ft-lk ([Dollars or brains: What will solve Lanka’s debt puzzle?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7933216.json))
 
-* **50** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
+* **53** island-lk ([Way to go, Prez, but …](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b62bf38.json))
 
-* **46** island-lk ([Way to go, Prez, but …](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b62bf38.json))
+* **50** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
 * **15** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **13** colombo-telegraph-com ([Lanka’s Quest For Stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a8cea9e.json))
 
-* **11** b-b-c-com-sinhala ([ඕස්ට්‍රේලියාවට එරෙහි අද තරගයෙන් ශ්‍රී ලංකාවේ පැතුම ඉටුවෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ea68c9.json))
+* **10** b-b-c-com-sinhala ([GOTAGOHOME ; විපක්ෂයේ පක්ෂ කිහිපයක් සතියක් පාර්ලිමේන්තුව වර්ජනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd33667.json))
 
-## All Time (1,240 Articles)
+## All Time (1,247 Articles)
 
 * **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,9 +78,9 @@
 
 * **73** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **51** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **55** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **48** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **51** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **31** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
