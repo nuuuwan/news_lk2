@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 03:16:39 (LK time)*
+*As of 2022-06-30 03:23:57 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
 ## Last 3 Hours (10 Articles)
 
