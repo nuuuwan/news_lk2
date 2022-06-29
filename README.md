@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 03:43:45 (LK time)*
+*As of 2022-06-30 03:54:41 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -14,13 +14,13 @@
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-## Last 24 Hours (236 Articles)
+## Last 24 Hours (235 Articles)
 
 * **47** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
-* **32** daily-mirror-lk ([Spotlight on losses associated with so called development projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b567ccd5.json))
+* **31** daily-mirror-lk ([Sri Lanka to purchase four fuel shipments from India on cash payment terms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e054ebe1.json))
 
 * **26** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
