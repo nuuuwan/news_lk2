@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 23:39:21 (LK time)*
+*As of 2022-06-29 23:58:47 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
-
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **4** daily-mirror-lk ([Around 250 Kandakadu detainees arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bcfce6e.json))
 
 * **2** virakesari-lk ([மீண்டும் முல்லைத்தீவு கடலை ஆக்கிரமிக்கும் இந்திய இழுவைப்படகுகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8af4b592.json))
 
-* **2** lankadeepa-lk ([හක්මන ඉන්ධන හලක තෙල් මඟඩියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5887e47.json))
-
 * **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
+
+* **1** lankadeepa-lk ([‘‘ජාත්‍යන්තර මට්ටමේ රෝහල් සහ ප්‍රමාණවත් මානව සම්පත් රට තුළ තිබෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0b4fcb7.json))
 
 * **1** ada-derana-lk ([World Bank to redesign 17 ongoing projects in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bc87b78.json))
 
 * **1** economy-next-com ([Sri Lanka stocks recover from 2-month low on hopes of IMF deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5beefa13.json))
 
-## Last 24 Hours (237 Articles)
+## Last 24 Hours (235 Articles)
 
 * **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
@@ -32,7 +28,7 @@
 
 * **32** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4552324d.json))
 
-* **26** ada-lk ([ජුලි 10 දා සිට ඉන්ධන අඛණ්ඩව දෙනවා - රුසියාව සමග සාකච්ඡාවට ජනපති සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fcf1c1.json))
+* **25** ada-lk ([ඉන්දියාවෙන් අත්පිට මුදලට තෙල් ගන්න යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/719ab299.json))
 
 * **25** ada-derana-lk ([Kahatuduwa house fire: death toll climbs to three](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/316e9498.json))
 
@@ -40,9 +36,9 @@
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
-* **13** economy-next-com ([Sri Lanka cabinet eases family background report for potential women expatriates](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94e79d4d.json))
-
 * **13** news-first-lk ([Cabinet Paper for Food Security Committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16314ba6.json))
+
+* **12** economy-next-com ([Crisis-hit Sri Lanka cabinet okays US grant after rejecting $480 mln MCC deal in 2020](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9efc50d1.json))
 
 * **2** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
