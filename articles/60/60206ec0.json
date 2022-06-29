@@ -1,0 +1,315 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83312/sri-lankas-economy-contracts-by-16-in-first-quarter-of-2022",
+  "time_ut": 1656472560,
+  "original_lang": "en",
+  "original_title": "Sri Lanka\u2019s economy contracts by 1.6% in first quarter of 2022",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka\u2019s economy contracts by 1.6% in first quarter of 2022",
+      "author": "unknown",
+      "body_lines": [
+        "The economy of Sri Lanka contracted by 1.6 percent in the first quarter of the year 2022, the Department of Census and Statistics (DCS) says.",
+        "In a press release, the DCS said \u201cthe year-on-year Gross Domestic Product (GDP) growth rate for the first quarter of the year 2022 is estimated as negative 1.6 percent which indicated a considerable contraction of the economy compared to the first quarter of 2021.\u201d",
+        "At the beginning of 2022, the Sri Lankan economy began to improve slowly, following a difficult period of time due to the Covid-19 pandemic in the 2020 and 2021, with new expectations of economic recovery, the statement read further.",
+        "However, unfortunately, within the first quarter of 2022, the economic growth rate was reported to slow down compared to the first quarters of 2021, as a result of the adverse effects of some factors such as inflation, foreign exchange devaluation and dollar deficit, the DCS explained."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka\u2019s",
+          "label": "GPE"
+        },
+        {
+          "text": "1.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "first quarter",
+          "label": "DATE"
+        },
+        {
+          "text": "2022",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "1.6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the first quarter of the year 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "the Department of Census and Statistics",
+            "label": "ORG"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "the first quarter of the year 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "negative 1.6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the first quarter of 2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the beginning of 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the first quarter of 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "the first quarters of 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba 1.6% \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0dd0\u0d9a\u0dd2\u0dbd\u0dd3 \u0dba\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "2022 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 1.6 \u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0dd0\u0d9a\u0dd2\u0dbd\u0dd3 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0da2\u0db1\u0dbd\u0dda\u0d9b\u0db1 \u0dc4\u0dcf \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 (DCS) \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca DCS \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u201c2022 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dc3\u0dbb\u0dd2\u0db1\u0dca \u0dc0\u0dc3\u0dbb \u0daf\u0dc5 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0dda (GDP) \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dda\u0d9c\u0dba \u0dc3\u0dd8\u0dab \u0dc3\u0dd2\u0dba\u0dba\u0da7 1.6\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d87\u0dc3\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dc4\u0dd0\u0d9a\u0dd2\u0dbd\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2. 2021 \u0daf\u0dd3.\"",
+        "2022 \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba\u0dda\u0daf\u0dd3, 2020 \u0dc3\u0dc4 2021 \u0dc0\u0dc3\u0dbb\u0dc0\u0dbd \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dc0\u0dc3\u0d82\u0d9c\u0dad\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb \u0d9a\u0dcf\u0dbd \u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4, \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dd8\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dc0 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0dc3\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0da7\u0db1\u0dca \u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0d91\u0db8 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dda.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0d85\u0dc0\u0dcf\u0dc3\u0db1\u0dcf\u0dc0\u0d9a\u0da7 \u0db8\u0dd9\u0db1\u0dca, \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba, \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0dc0\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc4\u0dd2\u0d9f\u0dba \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0db8\u0dc4\u0dbb \u0dc3\u0dcf\u0db0\u0d9a\u0dc0\u0dbd \u0d85\u0dc4\u0dd2\u0dad\u0d9a\u0dbb \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca 2022 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dda\u0d9c\u0dba 2021 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dbd\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0db8\u0db1\u0dca\u0daf\u0d9c\u0dcf\u0db8\u0dd3 \u0dc0\u0db1 \u0db6\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba. DCS \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+          "label": "GPE"
+        },
+        {
+          "text": "1.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+          "label": "DATE"
+        },
+        {
+          "text": "2022",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1.6 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dbd\u0dda\u0d9b\u0db1 \u0dc4\u0dcf \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd8\u0dab \u0dc3\u0dd2\u0dba\u0dba\u0da7 1.6",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2021 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "2021 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd 1.6% \u0b9a\u0bc1\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd 1.6 \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bc1\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbf\u0baa\u0bb0\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd (DCS) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd, DCS \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, \"2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd (\u0b9c\u0bbf\u0b9f\u0bbf\u0baa\u0bbf) \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 1.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0ba3\u0bbf\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 2021 \u0b87\u0ba9\u0bcd.\"",
+        "2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bc6\u0ba4\u0bc1\u0bb5\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1, 2020 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2021 \u0b87\u0bb2\u0bcd \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b92\u0bb0\u0bc1 \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b95\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1, \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd, \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0ba4\u0bc1\u0bb0\u0ba4\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0b9f\u0bb5\u0b9a\u0bae\u0bbe\u0b95, 2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd, \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0b9a\u0bbf\u0bb2 \u0b95\u0bbe\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95, 2021 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. DCS \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+          "label": "GPE"
+        },
+        {
+          "text": "1.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "DATE"
+        },
+        {
+          "text": "2022",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "1.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bae\u0bb1\u0bc8 1.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2021 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "2020",
+            "label": "DATE"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "2021 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "DCS",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
