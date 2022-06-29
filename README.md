@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 02:09:07 (LK time)*
+*As of 2022-06-30 02:24:14 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
-
-* **3** daily-ft-lk ([Chamber of Industries says high time Govt. presented economic recovery plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bec286d.json))
+## Last Hour (3 Articles)
 
 * **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
-* **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
+* **1** daily-ft-lk ([Task Force for “One Country, One Law” report to be submitted to Cabinet, P’ment](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6449176.json))
 
 ## Last 3 Hours (13 Articles)
 
