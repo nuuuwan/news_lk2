@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 02:55:38 (LK time)*
+*As of 2022-06-30 03:05:53 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,11 +10,9 @@
 
 * **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (10 Articles)
 
 * **7** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
-
-* **3** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
 * **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
