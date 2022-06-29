@@ -1,26 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 01:57:22 (LK time)*
+*As of 2022-06-30 02:09:07 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (6 Articles)
 
-* **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
-
-## Last Hour (9 Articles)
-
-* **6** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
+* **3** daily-ft-lk ([Chamber of Industries says high time Govt. presented economic recovery plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bec286d.json))
 
 * **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
-* **8** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
+* **7** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
 * **3** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
@@ -28,11 +24,9 @@
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **1** ada-lk ([සංස්ථාව සතු ඉන්ධන සංචිත හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f816a550.json))
+## Last 24 Hours (235 Articles)
 
-## Last 24 Hours (238 Articles)
-
-* **44** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
+* **45** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
@@ -46,17 +40,17 @@
 
 * **13** news-first-lk ([Cabinet Paper for Food Security Committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16314ba6.json))
 
-* **12** daily-ft-lk ([Human Rights Council appoints Radhika Coomaraswamy to serve on Ethiopia rights body](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e3ebaa.json))
-
 * **12** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
+
+* **8** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
 * **2** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,572 Articles)
+## Last Week (1,573 Articles)
 
-* **273** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
+* **274** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
 * **237** lankadeepa-lk ([එක්නැළිගොඩ නඩුව: යුද හමුදා කර්නල්වරුන් ඇතුඵ බුද්ධි නිලධාරීන්ට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/985bd6d2.json))
 
@@ -82,11 +76,11 @@
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,780 Articles)
+## All Time (1,781 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **282** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **283** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **237** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
