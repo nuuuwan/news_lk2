@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 02:32:07 (LK time)*
+*As of 2022-06-30 02:43:52 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,9 +10,7 @@
 
 * **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
+## Last Hour (1 Articles)
 
 * **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
