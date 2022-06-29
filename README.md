@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 17:25:33 (LK time)*
+*As of 2022-06-29 17:31:46 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -12,23 +12,23 @@
 
 * **1** news-first-lk ([‘List from higher-up’ to issue fuel for luxury SUVs from Kolonnawa Terminal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec96424.json))
 
-## Last Hour (19 Articles)
+## Last Hour (15 Articles)
 
 * **8** virakesari-lk ([கொழும்பில் ஆர்ப்பாட்டத்தில் ஈடுபட்ட நால்வர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae70b4cc.json))
 
-* **4** lankadeepa-lk ([ක්‍රිකට් ටීම් එකෙන්වත් පාඩම් ඉගෙන නොගතොත් දේශපාලනය රනවුට්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bb49ebf.json))
-
 * **2** daily-mirror-lk ([No petrol shipments for CPC until July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e9b8b11.json))
-
-* **2** tamil-mirror-lk ([ஏன் தேசபந்துவை இடமாற்றம் செய்யவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f91c6be5.json))
 
 * **1** news-first-lk ([‘List from higher-up’ to issue fuel for luxury SUVs from Kolonnawa Terminal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec96424.json))
 
 * **1** ada-lk ([දුම්රිය ධාවනයටත් බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66632876.json))
 
+* **1** lankadeepa-lk ([යෝධ මඩුවා ගිනස් වාර්තා පොතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61759624.json))
+
 * **1** ada-derana-lk ([Diesel shipment expected in second week of July](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db1c7b53.json))
 
-## Last 3 Hours (58 Articles)
+* **1** tamil-mirror-lk ([இரண்டு கோடுகளால் மாறிய நாட்டின்  நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d3578d.json))
+
+## Last 3 Hours (57 Articles)
 
 * **17** virakesari-lk ([இலங்கைக்கான ஜப்பான் தூதுவர் மிசுகோஷி ஹிடேகி யாழ் மாநகர முதல்வருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77e02a07.json))
 
@@ -44,23 +44,23 @@
 
 * **3** tamil-mirror-lk ([கோட்டாவுக்கு ரணில் அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e3a293.json))
 
-* **2** economy-next-com ([Sri Lanka public health officials launch two-day protest over fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6787332.json))
+* **1** economy-next-com ([Sri Lanka’s business mogul Dhammika Perera attempts to bring hope after govt failures](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a5d9630.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (248 Articles)
 
 * **50** lankadeepa-lk ([ඇමැති කංචන කාටාර් බලශක්ති ඇමැති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb5e8a2.json))
 
-* **41** virakesari-lk ([அரசியல் கைதிகளின் பெற்றோரின் நிலை பேரினவாத சமூக சித்திரவதையையே வெளிக்காட்டுகின்றது - அருட்தந்தை மா.சத்திவேல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdb76e41.json))
+* **40** virakesari-lk ([காலி மைதானத்திற்கு முன் அணிவகுத்திருந்த  எரிவாயு சிலிண்டர்கள் : லாஃப் விநியோகம் - லிட்ரோ சிலிண்டர்கள் வரிசையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccd6d60d.json))
 
 * **32** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
-
-* **26** ada-derana-lk ([Energy Minister in talks with Qatari officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdf718d3.json))
 
 * **25** news-first-lk ([Couple arrested over Akuressa beheading](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9071a787.json))
 
 * **24** ada-lk ([ජුලි 10 දා සිට ඉන්ධන අඛණ්ඩව දෙනවා - රුසියාව සමග සාකච්ඡාවට ජනපති සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fcf1c1.json))
 
-* **23** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
+* **23** ada-derana-lk ([CBSL raises over Rs. 142 Bn through Treasury Bond auction today](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/291a6bfa.json))
+
+* **21** tamil-mirror-lk ([’எம்.பிக்களை கொல்வதே மக்களின் விருப்பம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d96b35a7.json))
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
