@@ -1,34 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 20:05:26 (LK time)*
+*As of 2022-06-29 20:25:55 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** virakesari-lk ([கைதி உயிரிழந்தமையால் கந்தக்காடு புனர்வாழ்வு நிலையத்தில் அமைதியின்மை : தடுப்பிலிருந்து தப்பியோடிய 600 பேரில் 250 பேர் பொலிஸில் சரண்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce50e613.json))
+
+* **1** ada-derana-lk ([Foreign Ministry restricts consular services to only 3 days a week](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd80ccb1.json))
+
+## Last Hour (4 Articles)
+
+* **2** virakesari-lk ([மத்திய வங்கி ஆளுனர் பதவி குறித்து பிரதமர் ஜனாதிபதிக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf706db7.json))
 
 * **1** ada-derana-lk ([Foreign Ministry restricts consular services to only 3 days a week](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd80ccb1.json))
 
 * **1** tamil-mirror-lk ([தப்பியோடிய கைதிகளில் 233 பேர் சிக்கினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1060d185.json))
 
-* **1** virakesari-lk ([மத்திய வங்கி ஆளுனர் பதவி குறித்து பிரதமர் ஜனாதிபதிக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf706db7.json))
-
-## Last Hour (7 Articles)
-
-* **2** ada-derana-lk ([NTMI to remain closed on Fridays and Saturdays](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58a78c73.json))
-
-* **2** tamil-mirror-lk ([அமீரகம் செல்கிறார் ஜனாதிபதி கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdfb6913.json))
-
-* **2** lankadeepa-lk ([තෙන්නකෝන් මාරු නොකිරීම නීතිපතිගේ දෝෂ දර්ශනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b5eddd.json))
-
-* **1** virakesari-lk ([மத்திய வங்கி ஆளுனர் பதவி குறித்து பிரதமர் ஜனாதிபதிக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf706db7.json))
-
-## Last 3 Hours (29 Articles)
-
-* **9** virakesari-lk ([நல்லூர் கந்தசுவாமி ஆலய வருடாந்த மஹோற்சவம் வழமை போன்று நடைபெறும் -  யாழ் மாநகர முதல்வர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41331a75.json))
+## Last 3 Hours (24 Articles)
 
 * **7** tamil-mirror-lk ([கு​திரைப்படை பின்வாங்கியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fef3d3c.json))
+
+* **5** virakesari-lk ([வவுனியாவில் மூன்று பிள்ளைகளின் தந்தை சடலமாக மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aaf25bd.json))
 
 * **5** ada-derana-lk ([New Vice-Chancellor appointed to Wayamba University](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd1768c.json))
 
@@ -38,21 +34,19 @@
 
 * **1** economy-next-com ([Sri Lanka central bank raps two finance companies over due diligence](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d3b1bf9.json))
 
-* **1** news-first-lk ([‘List from higher-up’ to issue fuel for luxury SUVs from Kolonnawa Terminal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec96424.json))
-
 ## Last 24 Hours (247 Articles)
 
 * **47** lankadeepa-lk ([අයි.ඕ.සී. ඉන්ධන සීමාව තවත් අඩුකරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab00517.json))
 
-* **42** virakesari-lk ([ஜப்பான் தூதுவருடன் தமிழ் தேசிய கூட்டமைப்பு யாழில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff5e61f0.json))
+* **44** virakesari-lk ([ஜப்பான் தூதுவருடன் தமிழ் தேசிய கூட்டமைப்பு யாழில் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff5e61f0.json))
 
 * **31** daily-mirror-lk ([Champika Ranawaka teams up with some SLPP MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4eeec37b.json))
 
 * **26** ada-derana-lk ([Lanka IOC restricts sale of petrol](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba47327a.json))
 
-* **24** tamil-mirror-lk ([கட்டாரிடம் கடன் வசதி  கேட்டது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d057a3e4.json))
-
 * **24** ada-lk ([ජුලි 10 දා සිට ඉන්ධන අඛණ්ඩව දෙනවා - රුසියාව සමග සාකච්ඡාවට ජනපති සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fcf1c1.json))
+
+* **22** tamil-mirror-lk ([இ.போ.ச டிப்போக்களில் எரிபொருள் பிரச்சினை](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c790c467.json))
 
 * **20** news-first-lk ([Lanka IOC restricts fuel sales](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a84bbe83.json))
 
@@ -66,9 +60,9 @@
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,532 Articles)
+## Last Week (1,534 Articles)
 
-* **262** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
+* **264** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
 * **236** lankadeepa-lk ([කැන්ගරුන් පැරදවූ ශ්‍රී ලංකා සිංහ පැටව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05acef60.json))
 
@@ -94,11 +88,11 @@
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,735 Articles)
+## All Time (1,737 Articles)
 
 * **301** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **271** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **273** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **234** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

@@ -1,5 +1,8 @@
 [
   {
+    "file_name": "/tmp/news_lk2/articles/ce/ce50e613.json"
+  },
+  {
     "file_name": "/tmp/news_lk2/articles/dd/dd80ccb1.json"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "file_name": "/tmp/news_lk2/articles/b6/b6c20946.json"
+  },
+  {
+    "file_name": "/tmp/news_lk2/articles/47/47fca5ae.json"
   },
   {
     "file_name": "/tmp/news_lk2/articles/d3/d3c68fc3.json"
@@ -1192,11 +1198,5 @@
   },
   {
     "file_name": "/tmp/news_lk2/articles/e7/e75c1869.json"
-  },
-  {
-    "file_name": "/tmp/news_lk2/articles/8e/8ee2f914.json"
-  },
-  {
-    "file_name": "/tmp/news_lk2/articles/3b/3b540c7d.json"
   }
 ]
