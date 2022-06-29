@@ -1,28 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 17:06:18 (LK time)*
+*As of 2022-06-29 17:18:54 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (3 Articles)
 
 * **2** daily-mirror-lk ([No petrol shipments for CPC until July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e9b8b11.json))
 
-* **2** virakesari-lk ([கொழும்பில் ஆர்ப்பாட்டத்தில் ஈடுபட்ட நால்வர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae70b4cc.json))
-
 * **1** lankadeepa-lk ([යෝධ මඩුවා ගිනස් වාර්තා පොතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61759624.json))
 
-* **1** ada-derana-lk ([Diesel shipment expected in second week of July](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db1c7b53.json))
-
-* **1** tamil-mirror-lk ([இரண்டு கோடுகளால் மாறிய நாட்டின்  நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d3578d.json))
-
-## Last Hour (15 Articles)
+## Last Hour (14 Articles)
 
 * **5** lankadeepa-lk ([එක් දින පාස්පෝට් සේවය තවත් දිස්ත්‍රික්ක තුනකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63a4444.json))
 
-* **4** virakesari-lk ([அரிசி ஆலையில் இடம்பெற்ற கத்திக்குத்தில் ஒருவர் படுகாயம் : ஒருவர் கைது - அக்கரைப்பற்றில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfcf0fc5.json))
+* **3** virakesari-lk ([எரிபொருள் தட்டுப்பாட்டால் நீதிமன்றில் ஆஜராகாத ஞானசார தேரர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efd3620d.json))
 
 * **2** daily-mirror-lk ([No petrol shipments for CPC until July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e9b8b11.json))
 
@@ -32,9 +26,9 @@
 
 * **1** ada-lk ([නන්දලාල් නැවතත් මහ බැංකු අධිපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d7dd457.json))
 
-## Last 3 Hours (53 Articles)
+## Last 3 Hours (50 Articles)
 
-* **14** lankadeepa-lk ([ගැමියන්ට වෙන් කළ අක්කර 35 තනි පුද්ගයකුට දිලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97b2fee5.json))
+* **13** lankadeepa-lk ([ආර්ථික වර්ධන වේගය බහී](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c70fcf5.json))
 
 * **11** virakesari-lk ([இலங்கைக்கான ஜப்பான் தூதுவர் மிசுகோஷி ஹிடேகி யாழ் மாநகர முதல்வருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77e02a07.json))
 
@@ -42,19 +36,19 @@
 
 * **7** ada-derana-lk ([Four arrested during protest in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f86c97bf.json))
 
-* **5** tamil-mirror-lk ([மற்றுமொரு துப்பாக்கிச் சூட்டில் இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abe3f44c.json))
+* **4** tamil-mirror-lk ([வட்ஸ்அப்பில்   மாதவிடாய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a49fe3.json))
 
-* **5** ada-lk ([වයඹ උප කුලපති මහාචාර්ය ජයසිංහ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57aecac.json))
+* **4** ada-lk ([ලෝක බැංකුවේ අධ්‍යක්ෂ ජනපති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebef3285.json))
 
 * **2** news-first-lk ([‘One Country, One Law’ Task Force submits report to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0828d5e6.json))
 
 * **2** economy-next-com ([Sri Lanka public health officials launch two-day protest over fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6787332.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (248 Articles)
 
 * **50** lankadeepa-lk ([ඇමැති කංචන කාටාර් බලශක්ති ඇමැති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cb5e8a2.json))
 
-* **43** virakesari-lk ([சிறார்கள், கர்ப்பிணிப் பெண்களை நோக்காகக்கொண்டு 20 மில்லியன் டொலர் நிதி உதவியை இலங்கைக்கு வழங்குவதாக பைடன் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa139e40.json))
+* **38** virakesari-lk ([ராதிகா குமாரசுவாமி எத்தியோப்பியா தொடர்பான சர்வதேச மனித உரிமைகள் நிபுணர் குழுவின் உறுப்பினராக நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cd47ff7.json))
 
 * **32** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
