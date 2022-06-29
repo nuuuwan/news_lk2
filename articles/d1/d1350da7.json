@@ -1,0 +1,453 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/All-time-record-prices-of-tea-Siyaka-Catalogues/34-736865",
+  "time_ut": 1656531370,
+  "original_lang": "en",
+  "original_title": "All-time record prices of tea \u2013 Siyaka Catalogues",
+  "text_idx": {
+    "en": {
+      "title": "All-time record prices of tea \u2013 Siyaka Catalogues",
+      "author": "unknown",
+      "body_lines": [
+        "In the Uva Medium category, Dickwella Estate of Malwatte Valley Plantations PLC improved on its own record by selling an Invoice of BOPFSP at Rs. 2,350 per kg to Inter Tea Ltd. Similarly, this Estate\u2019s FBOP sold at a new all-time high of Rs. 2,900 per kg to Sunshine Teas Ltd.",
+        "This estate is in the capable care of Regional Manager Chaminda Perera and under the supervision of veteran A.M. Shajahan. Asia Siyaka Commodities PLC was the auctioneer of these teas.",
+        "Oodoowerre Estate, owned by Hapugastenne Plantations PLC, a member of the LOLC Group and managed by Shammi Upendra, achieved a record price of Rs. 2,150 per kg for BOPSP grade this week.",
+        "This tea was purchased by Akbar Brother Ltd., and marketed by Asia Siyaka Commodities PLC.",
+        "In the Premium Flowery catalogues, Balangoda Estate under the selling mark of Maratenne FBOPFEXSP improved its own record for this type of tea by achieving Rs. 9,800 per kg. This tea was purchased by Divine Nature Teas Ltd.",
+        "This Estate belongs to Balangoda Plantations PLC, a member of Melsta Corp. with the supervision of the Manager Lal Ekanayake. This tea was sold by Asia Siyaka Commodities PLC."
+      ],
+      "title_ents": [
+        {
+          "text": "Siyaka Catalogues",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Uva Medium",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Dickwella Estate of Malwatte Valley Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "Invoice of BOPFSP",
+            "label": "ORG"
+          },
+          {
+            "text": "2,350",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Inter Tea Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "Estate\u2019s FBOP",
+            "label": "ORG"
+          },
+          {
+            "text": "2,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sunshine Teas Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Chaminda Perera",
+            "label": "PERSON"
+          },
+          {
+            "text": "A.M. Shajahan",
+            "label": "PERSON"
+          },
+          {
+            "text": "Commodities PLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Oodoowerre Estate",
+            "label": "ORG"
+          },
+          {
+            "text": "Hapugastenne Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "the LOLC Group",
+            "label": "ORG"
+          },
+          {
+            "text": "Shammi Upendra",
+            "label": "ORG"
+          },
+          {
+            "text": "2,150",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "BOPSP",
+            "label": "ORG"
+          },
+          {
+            "text": "this week",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Akbar Brother Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "Asia Siyaka Commodities PLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Premium Flowery",
+            "label": "GPE"
+          },
+          {
+            "text": "Balangoda Estate",
+            "label": "ORG"
+          },
+          {
+            "text": "Maratenne",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Divine Nature Teas Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Balangoda Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "Melsta Corp.",
+            "label": "ORG"
+          },
+          {
+            "text": "Lal Ekanayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "Asia Siyaka Commodities PLC",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0dda\u0dc0\u0dbd \u0dc3\u0dbb\u0dca\u0dc0\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0db8\u0dd2\u0dbd - \u0dc3\u0dd2\u0dba\u0d9a\u0dcf \u0db1\u0dcf\u0db8\u0dcf\u0dc0\u0dbd\u0dd2\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d8c\u0dc0 \u0db8\u0db0\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda, \u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad \u0dc0\u0dd0\u0dbd\u0dd2 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0db4\u0dca\u0dbd\u0dcf\u0db1\u0dca\u0da7\u0dda\u0dc2\u0db1\u0dca \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3 \u0dc4\u0dd2 \u0daf\u0dd2\u0d9a\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba, BOPFSP \u0dc4\u0dd2 \u0d89\u0db1\u0dca\u0dc0\u0ddc\u0dba\u0dd2\u0dc3\u0dd2\u0dba\u0d9a\u0dca \u0dbb\u0dd4. \u0d89\u0db1\u0dca\u0da7\u0dbb\u0dca \u0da7\u0dd3 \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca \u0dc0\u0dd9\u0dad \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2,350 \u0d9a\u0dd2. \u0d92 \u0dc4\u0dcf \u0dc3\u0db8\u0dcf\u0db1\u0dc0, \u0db8\u0dd9\u0db8 \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba\u0dda FBOP \u0db1\u0dc0 \u0dc3\u0dbb\u0dca\u0dc0\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0d89\u0dc4\u0dc5\u0db8 \u0dbb\u0dd4. Sunshine Teas Ltd \u0dc0\u0dd9\u0dad \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0d91\u0d9a\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2,900 \u0d9a\u0dd2.",
+        "\u0db8\u0dd9\u0db8 \u0dc0\u0dad\u0dca\u0dad \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0daf\u0d9a\u0dca\u200d\u0dc2 \u0dbb\u0dd0\u0d9a\u0dc0\u0dbb\u0dab\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd3\u0dab \u0d92.\u0d91\u0db8\u0dca. \u0dc2\u0dcf\u0da2\u0dc4\u0dcf\u0db1\u0dca. Asia Siyaka Commodities PLC \u0db8\u0dd9\u0db8 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf \u0dc0\u0dd2\u0dba.",
+        "LOLC \u0dc3\u0db8\u0dd6\u0dc4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0db1 \u0dc4\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0d85\u0dba\u0dad\u0dca, \u0dc1\u0db8\u0dca\u0db8\u0dd2 \u0d8b\u0db4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0db6\u0db1 Oodoowerre Estate, \u0dbb\u0dd4. \u0db8\u0dd9\u0db8 \u0dc3\u0dad\u0dd2\u0dba\u0dda BOPSP \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0da7 2,150.",
+        "\u0db8\u0dd9\u0db8 \u0dad\u0dda \u0d85\u0d9a\u0dca\u0db6\u0dcf\u0dbb\u0dca \u0db6\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dd3 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd4\u0dc0\u0dda Asia Siyaka Commodities PLC \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2.",
+        "\u0db4\u0dca\u200d\u0dbb\u0dd2\u0db8\u0dd2\u0dba\u0db8\u0dca \u0db8\u0dbd\u0dca \u0db1\u0dcf\u0db8\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dd9\u0dc4\u0dd2, \u0db8\u0dcf\u0dbb\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda FBOPFEXSP \u0dc4\u0dd2 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0dbd\u0d9a\u0dd4\u0dab \u0dba\u0da7\u0dad\u0dda \u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0db8\u0dd9\u0db8 \u0dad\u0dda \u0dc0\u0dbb\u0dca\u0d9c\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4. 9,800 \u0d9a\u0dd2. \u0db8\u0dd9\u0db8 \u0dad\u0dda Divine Nature Teas Ltd \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "\u0db8\u0dd9\u0db8 \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dd4 \u0dbd\u0dcf\u0dbd\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0d85\u0db0\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0dba\u0da7\u0dad\u0dda \u0db8\u0dd9\u0dbd\u0dca\u0dc3\u0dca\u0da7\u0dcf \u0d9a\u0ddd\u0db4\u0dbb\u0dda\u0dc2\u0db1\u0dca \u0dc4\u0dd2 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a \u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0dda. \u0db8\u0dda \u0dad\u0dda \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dc5\u0dda Asia Siyaka Commodities PLC \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0dd2\u0dba\u0d9a\u0dcf \u0db1\u0dcf\u0db8\u0dcf\u0dc0\u0dbd\u0dd2",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d8c\u0dc0 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad \u0dc0\u0dd0\u0dbd\u0dd2 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 PLC \u0dc4\u0dd2 \u0daf\u0dd2\u0d9a\u0dca\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "BOPFSP \u0dc4\u0dd2 \u0d89\u0db1\u0dca\u0dc0\u0ddc\u0dba\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2,350 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0da7\u0dbb\u0dca \u0da7\u0dd3 \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba\u0dda FBOP",
+            "label": "ORG"
+          },
+          {
+            "text": "2,900 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sunshine Teas Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d92.\u0d91\u0db8\u0dca. \u0dc2\u0dcf\u0da2\u0dc4\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Oodoowerre \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "LOLC \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc2\u0db8\u0dca\u0db8\u0dd2 \u0d8b\u0db4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb",
+            "label": "ORG"
+          },
+          {
+            "text": "2,150 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "BOPSP",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0db8 \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0d9a\u0dca\u0db6\u0dcf\u0dbb\u0dca \u0db6\u0dca\u200d\u0dbb\u0daf\u0dbb\u0dca \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Asia Siyaka Commodities PLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dd2\u0d9a \u0db8\u0dbd\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,800 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Divine Nature Teas Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0db4\u0dd3\u0d91\u0dbd\u0dca\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "Melsta Corp.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0dcf\u0dbd\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "Asia Siyaka Commodities PLC",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc7\u0bb0 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd - \u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b8a\u0bb5\u0bbe \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd, \u0bae\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc7\u0bb2\u0bbf \u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2 \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd, BOPFSP\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bc8 \u0bb0\u0bc2. \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd \u0b9f\u0bc0 \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 2,350 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd. \u0b85\u0ba4\u0bc7\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1, \u0b87\u0ba8\u0bcd\u0ba4 \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd FBOP \u0b86\u0ba9\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0b85\u0bb3\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb0\u0bc2. \u0b9a\u0ba9\u0bcd\u0bb7\u0bc8\u0ba9\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 2,900.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0b8f.\u0b8e\u0bae\u0bcd. \u0bb7\u0bbe\u0b9c\u0bb9\u0bbe\u0ba9\u0bcd. \u0b8f\u0b9a\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bae\u0bbe\u0b9f\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "LOLC \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bc1\u0bae\u0bcd, \u0bb7\u0bae\u0bcd\u0bae\u0bbf \u0b89\u0baa\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb9\u0baa\u0bc1\u0b95\u0bb8\u0bcd\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9 \u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0b8a\u0b9f\u0bc2\u0bb5\u0bc6\u0bb0\u0bcd\u0bb0\u0bc7 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \u0bb0\u0bc2. \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b8e\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd BOPSP \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 2,150 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bcd \u0b85\u0b95\u0bcd\u0baa\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bb0\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bae\u0bbe\u0b9f\u0bbf\u0b9f\u0bc0\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd \u0b83\u0baa\u0bcd\u0bb3\u0bb5\u0bb0\u0bcd\u0bb0\u0bbf \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0bae\u0bb0\u0ba4\u0ba9\u0bcd\u0ba9\u0bc7 FBOPFEXSP \u0b87\u0ba9\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0b95\u0bc8 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bb0\u0bc2. \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb 9,800. \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bc8 \u0b9f\u0bbf\u0bb5\u0bc8\u0ba9\u0bcd \u0ba8\u0bc7\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0bb2\u0bbe\u0bb2\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0ba9 \u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1. \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bc8 Asia Siyaka Commodities PLC \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b8a\u0bb5\u0bbe \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Malwatte Valley Plantations PLC \u0b87\u0ba9\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "BOPFSP \u0b87\u0ba9\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "2,350",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0b9f\u0bc0 \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd FBOP",
+            "label": "ORG"
+          },
+          {
+            "text": "2,900",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0ba9\u0bcd\u0bb7\u0bc8\u0ba9\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd. \u0bb7\u0bbe\u0b9c\u0bb9\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8a\u0b9f\u0bc2\u0bb5\u0bc6\u0bb0\u0bcd\u0bb0\u0bc7 \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "Hapugastenne Plantations PLC",
+            "label": "ORG"
+          },
+          {
+            "text": "LOLC \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb7\u0bae\u0bcd\u0bae\u0bbf \u0b89\u0baa\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "2,150",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "BOPSP",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0b95\u0bcd\u0baa\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bb0\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bae\u0bbe\u0b9f\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bc2\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bb0\u0ba4\u0ba9\u0bcd\u0ba9\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "9,800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9f\u0bbf\u0bb5\u0bc8\u0ba9\u0bcd \u0ba8\u0bc7\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0baa\u0bbf\u0bb3\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0bbe\u0bb2\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe \u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bae\u0bbe\u0b9f\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
