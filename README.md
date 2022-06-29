@@ -1,36 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 16:13:31 (LK time)*
+*As of 2022-06-29 16:25:46 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (5 Articles)
+
+* **3** virakesari-lk ([ஜப்பான் தூதுவர் யாழ் மாநகர சபை முதல்வருடன் சமகால நிலைமைகள் தொடர்பில் கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ea83b3.json))
+
+* **1** lankadeepa-lk ([‘‘අපේ අනුශාසනා පිළිගත්තා නම් මෙහෙම වෙන්නේ නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1ba5257.json))
+
+* **1** news-first-lk ([NO Petrol Shipment until 22nd July; 100,000 MT LP Gas available for next four months – Sagala Ratnayake](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec12b70.json))
+
+## Last Hour (16 Articles)
+
+* **5** lankadeepa-lk ([ලෝක බැංකුවේ ශ්‍රී ලංකා අධ්‍යක්ෂ ජනපති හමුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/835cd447.json))
 
 * **4** virakesari-lk ([பொருளாதார சவால்களை எதிர்கொள்வதில் அமெரிக்காவின் ஆதரவு குறித்து இரு தரப்பு கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36d50215.json))
 
-* **2** lankadeepa-lk ([ආර්ථික මධ්‍යස්ථානවල එළව‍‍ළු ගොඩගැසේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b89ab31.json))
+* **3** ada-derana-lk ([PM recommends extending Dr. Nandalal Weerasinghe’s term as CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d304007.json))
+
+* **2** news-first-lk ([‘One Country, One Law’ Task Force submits report to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0828d5e6.json))
 
 * **1** economy-next-com ([Sri Lanka’s business mogul Dhammika Perera attempts to bring hope after govt failures](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a5d9630.json))
 
 * **1** daily-mirror-lk ([Resolve burning issues...](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6c9cdb9.json))
 
-## Last Hour (15 Articles)
+## Last 3 Hours (45 Articles)
 
-* **5** ada-derana-lk ([One day service for Passports to commence in 3 more districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72fe3e1a.json))
-
-* **4** lankadeepa-lk ([ලෝක බැංකුවේ ශ්‍රී ලංකා අධ්‍යක්ෂ ජනපති හමුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/835cd447.json))
-
-* **4** virakesari-lk ([பொருளாதார சவால்களை எதிர்கொள்வதில் அமெரிக்காவின் ஆதரவு குறித்து இரு தரப்பு கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36d50215.json))
-
-* **1** economy-next-com ([Sri Lanka’s business mogul Dhammika Perera attempts to bring hope after govt failures](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a5d9630.json))
-
-* **1** daily-mirror-lk ([Resolve burning issues...](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6c9cdb9.json))
-
-## Last 3 Hours (44 Articles)
-
-* **11** lankadeepa-lk ([දුම්රිය ඉදිරි දිනවල තවත් අවලංගු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f34fac4.json))
+* **10** lankadeepa-lk ([ආණ්ඩුවට එරෙහි උද්ඝෝෂණයක් පිටකොටුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2c6fb50.json))
 
 * **9** ada-derana-lk ([Two people shot dead in Moratuwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0dd3153.json))
 
@@ -42,21 +42,23 @@
 
 * **3** tamil-mirror-lk ([மற்றுமொரு துப்பாக்கிச் சூட்டில் இருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abe3f44c.json))
 
+* **2** news-first-lk ([‘One Country, One Law’ Task Force submits report to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0828d5e6.json))
+
 * **2** economy-next-com ([Sri Lanka public health officials launch two-day protest over fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6787332.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (249 Articles)
 
 * **45** virakesari-lk ([சுகாதாரத்துறை தொழிற்சங்கங்கள் வேலைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95690fc4.json))
 
-* **43** lankadeepa-lk ([මාගම්මන නිවසේ ගින්නෙන් තුවාල ලද දියණියත් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d2532b5.json))
+* **44** lankadeepa-lk ([මාගම්මන නිවසේ ගින්නෙන් තුවාල ලද දියණියත් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d2532b5.json))
 
-* **31** daily-mirror-lk ([Present crisis turns Colombo a lonely city](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e557e742.json))
+* **29** daily-mirror-lk ([Kanchana met Qatar’s Energy Affairs State Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eda73cc.json))
 
 * **26** ada-derana-lk ([President Biden announces $20 million to strengthen food security in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f4693de.json))
 
-* **25** ada-lk ([තවත් 188ක් අද කොරියාවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/945d2aa3.json))
+* **25** news-first-lk ([Public questions Police, leading to overnight queue being dispersed](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/602a823e.json))
 
-* **25** news-first-lk ([US President Biden announces $20 M in additional assistance to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c46c4966.json))
+* **24** ada-lk ([අතුරු වෛද්‍ය සේවා දෙදිනක වර්ජනයකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/2367a9cc.json))
 
 * **21** tamil-mirror-lk ([இலங்கைக்கு 20 மில். டொலர் உதவி: ஜோ பைடன் அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c9e00e4.json))
 
@@ -70,11 +72,11 @@
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,483 Articles)
+## Last Week (1,486 Articles)
 
 * **248** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
-* **224** lankadeepa-lk ([කැන්ගරුන් පැරදවූ ශ්‍රී ලංකා සිංහ පැටව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05acef60.json))
+* **225** lankadeepa-lk ([කැන්ගරුන් පැරදවූ ශ්‍රී ලංකා සිංහ පැටව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05acef60.json))
 
 * **173** ada-lk ([චීන තානාපති මහජන ආරක්ෂක ඇමති හා විදේශ රැකියා ඇමති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb0123fc.json))
 
@@ -82,7 +84,7 @@
 
 * **154** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **144** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **146** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **113** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
@@ -98,9 +100,9 @@
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,680 Articles)
+## All Time (1,683 Articles)
 
-* **289** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **290** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **257** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -110,7 +112,7 @@
 
 * **154** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
-* **144** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **146** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **113** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
