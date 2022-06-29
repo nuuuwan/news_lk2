@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 23:06:20 (LK time)*
+*As of 2022-06-29 23:27:36 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
-## Last Hour (2 Articles)
-
-* **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
-
-* **1** daily-mirror-lk ([Consular Services for public only on Monday, Wednesday, Friday](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c1e541.json))
-
-## Last 3 Hours (19 Articles)
-
-* **6** virakesari-lk ([அமெரிக்க உயர்மட்ட அதிகாரிகள் மற்றும் சர்வதேச நாணய நிதிய அதிகாரிகளை சந்தித்தது பிரதான எதிரணி - பொருளாதார மீட்சிக்கான நடவடிக்கைகள் குறித்து ஆராய்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/190ede34.json))
+## Last 3 Hours (14 Articles)
 
 * **4** daily-mirror-lk ([Around 250 Kandakadu detainees arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bcfce6e.json))
 
-* **3** economy-next-com ([Fearing another attack, Sri Lanka parliament removes details of MPs on request – official](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87d17578.json))
+* **2** virakesari-lk ([மீண்டும் முல்லைத்தீவு கடலை ஆக்கிரமிக்கும் இந்திய இழுவைப்படகுகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8af4b592.json))
 
 * **2** lankadeepa-lk ([හක්මන ඉන්ධන හලක තෙල් මඟඩියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5887e47.json))
+
+* **2** economy-next-com ([Sri Lanka guidance peg edge up despite dollar shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da47c317.json))
 
 * **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
