@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 15:26:30 (LK time)*
+*As of 2022-06-29 15:32:53 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** virakesari-lk ([இலங்கைக்கான ஜப்பான் தூதுவர் மிசுகோஷி ஹிடேகி யாழ் மாநகர முதல்வருடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77e02a07.json))
+* **1** ada-derana-lk ([One day service for passports extended to 3 more districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c726a70.json))
 
-* **1** ada-derana-lk ([One day service for Passports to commence in 3 more districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72fe3e1a.json))
+* **1** virakesari-lk ([பெருங்கூற்றுக்களை வெளியிடுகின்ற போதிலும் சீனா ரஸ்யாவின் அரசியல் பொருளாதார நலன்களை புறக்கணிக்கின்றது.](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f1e5a4.json))
 
 * **1** tamil-mirror-lk ([கோட்டாவுக்கு ரணில் அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e3a293.json))
 
@@ -24,29 +24,29 @@
 
 * **1** tamil-mirror-lk ([கோட்டாவுக்கு ரணில் அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60e3a293.json))
 
-* **1** lankadeepa-lk ([ආර්ථික වර්ධන වේගය බහී](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48119b5d.json))
+* **1** lankadeepa-lk ([ආර්ථික වර්ධන වේගය බහී](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c70fcf5.json))
 
 * **1** ada-lk ([ලෝක බැංකුවේ අධ්‍යක්ෂ ජනපති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebef3285.json))
 
-## Last 3 Hours (42 Articles)
+## Last 3 Hours (38 Articles)
 
-* **9** lankadeepa-lk ([ගුවන්යානා ඉන්ධන ගෙන්වීම පෞද්ගලික අංශයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7737b8d2.json))
+* **8** lankadeepa-lk ([මහාචාර්ය උදිත් කේ.ජයසිංහ යළි වයඹ සරසවියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dde367e.json))
 
-* **8** daily-mirror-lk ([Tense situ at Kandakadu Rehab Centre: One inmate killed](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/393bcde6.json))
+* **7** daily-mirror-lk ([One Country - One Law’ report handed over to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b56e5c2d.json))
 
 * **6** ada-derana-lk ([Around 600 inmates escape Kandakadu rehabilitation centre](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef6cae13.json))
 
-* **6** ada-lk ([රටින් පැන යාමට තැත් කළ 500ක් ගතවූ මාස 06 තුල අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31265e90.json))
-
 * **5** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் இருந்து 600 கைதிகள் தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/481c3d64.json))
 
-* **5** tamil-mirror-lk ([முன்னிலையில் அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c89f1d1a.json))
+* **5** ada-lk ([ඉන්දියාවට පැන ගිය යුවලක් සිහිනැතිව රාමනාදපුරම් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/015bb559.json))
+
+* **4** tamil-mirror-lk ([இலங்கை இஸ்லாமிய ஆசிரியர் சங்கம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/844c8c1d.json))
 
 * **2** economy-next-com ([Sri Lanka President calls Russia’s Putin, to visit UAE to seek fuel – Aluthgamage](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731c3429.json))
 
 * **1** news-first-lk ([Private Sector to import Jet Fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/407d99a2.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (253 Articles)
 
 * **44** virakesari-lk ([மென்இராஜதந்திர நிகழ்ச்சி நிரலை முன்னெடுப்பதற்காக சீனா  இலத்தீன் அமெரிக்காவில் கல்வி ஸ்தாபனங்களை பயன்படுத்துகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bde154ae.json))
 
@@ -54,9 +54,9 @@
 
 * **35** daily-mirror-lk ([30% bus fare increase, Minimum fare increased to Rs.40 from July 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88106582.json))
 
-* **27** ada-lk ([ආර්ථික අර්බුදය නිසා ලිංගික වෙළඳාමට කාන්තාවන් යොමුවීම වැඩිවෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f0140d0.json))
-
 * **27** news-first-lk ([Lanka IOC issuing fuel to all customers](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0179b69c.json))
+
+* **26** ada-lk ([ජනතා කැරැල්ලක් නිර්මාණය කරන බව සජිත් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43e7eb01.json))
 
 * **23** ada-derana-lk ([Bus fares increased from July; minimum fare at Rs. 40](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c68f505.json))
 
@@ -66,11 +66,11 @@
 
 * **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
-* **3** colombo-telegraph-com ([Schizophrenia In The Political Mind Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e59e611.json))
-
 * **3** island-lk ([Lassana Flora’s New Bicycle Delivery Team Beats Fuel Queues to Make Ontime Deliveries](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4dc190c.json))
 
 * **2** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
+
+* **2** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
 ## Last Week (1,467 Articles)
 
