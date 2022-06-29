@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 03:54:41 (LK time)*
+*As of 2022-06-30 04:07:33 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (7 Articles)
 
-* **7** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
+* **4** daily-ft-lk ([Chamber of Industries says high time Govt. presented economic recovery plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bec286d.json))
 
 * **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
