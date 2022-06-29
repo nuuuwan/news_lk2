@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 04:17:05 (LK time)*
+*As of 2022-06-30 04:25:47 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
-
-* **4** daily-ft-lk ([Chamber of Industries says high time Govt. presented economic recovery plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bec286d.json))
+## Last 3 Hours (3 Articles)
 
 * **2** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
-* **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
+* **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (234 Articles)
 
 * **47** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
-* **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
+* **43** lankadeepa-lk ([ඉන්ධන නැතිව කොළඹ පාළුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c76a0d2.json))
 
 * **31** daily-mirror-lk ([Sri Lanka to purchase four fuel shipments from India on cash payment terms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e054ebe1.json))
 
