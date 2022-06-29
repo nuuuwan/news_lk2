@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 23:27:36 (LK time)*
+*As of 2022-06-29 23:39:21 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
@@ -10,7 +10,7 @@
 
 * **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (11 Articles)
 
 * **4** daily-mirror-lk ([Around 250 Kandakadu detainees arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bcfce6e.json))
 
@@ -18,15 +18,11 @@
 
 * **2** lankadeepa-lk ([හක්මන ඉන්ධන හලක තෙල් මඟඩියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5887e47.json))
 
-* **2** economy-next-com ([Sri Lanka guidance peg edge up despite dollar shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da47c317.json))
-
 * **1** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
 * **1** ada-derana-lk ([World Bank to redesign 17 ongoing projects in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bc87b78.json))
 
-* **1** news-first-lk ([Quick Passports for Foreign Employment: Dhammika makes first move as Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1f702cc.json))
-
-* **1** tamil-mirror-lk ([சொந்த நிதியில் யாழில்  கடவுச்சீட்டு அலுவலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd89d4ed.json))
+* **1** economy-next-com ([Sri Lanka stocks recover from 2-month low on hopes of IMF deal](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5beefa13.json))
 
 ## Last 24 Hours (237 Articles)
 
