@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 00:52:25 (LK time)*
+*As of 2022-06-30 00:59:42 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **3** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
 ## Last 3 Hours (8 Articles)
 
@@ -20,11 +16,11 @@
 
 * **1** daily-mirror-lk ([Consular Services for public only on Monday, Wednesday, Friday](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c1e541.json))
 
-## Last 24 Hours (238 Articles)
+## Last 24 Hours (239 Articles)
+
+* **44** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
-
-* **43** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **32** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4552324d.json))
 
@@ -46,7 +42,7 @@
 
 ## Last Week (1,564 Articles)
 
-* **272** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
+* **273** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
 * **237** lankadeepa-lk ([එක්නැළිගොඩ නඩුව: යුද හමුදා කර්නල්වරුන් ඇතුඵ බුද්ධි නිලධාරීන්ට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/985bd6d2.json))
 
@@ -66,17 +62,17 @@
 
 * **52** island-lk ([Expolanka Holdings’ dividend payment peps share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949a9.json))
 
-* **26** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **25** d-b-s-jeyaraj-com ([Second  Ship Carrying Humanitarian Aid  Donated  as a Gift  by the Govt and People of Tamil Nadu  arrived in Sri Lanka on 24 June 2022; Consignment  consisting of 14,700 MT of rice, 250 MT of milk powder and 38 MT of medicines is valued at more than  3 billion Sri Lankan Rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db36770f.json))
 
 * **16** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,770 Articles)
+## All Time (1,771 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **281** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **282** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **237** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
