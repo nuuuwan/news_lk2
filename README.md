@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 00:12:58 (LK time)*
+*As of 2022-06-30 00:27:31 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([President Gotabaya calls Putin, plans to visit UAE for talks on fuel supply](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4c36c6b.json))
-
-* **1** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
 ## Last Hour (2 Articles)
 
@@ -18,13 +16,13 @@
 
 * **1** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (8 Articles)
 
-* **4** daily-mirror-lk ([Around 250 Kandakadu detainees arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bcfce6e.json))
-
-* **2** ada-derana-lk ([World Bank to redesign 17 ongoing projects in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bc87b78.json))
+* **2** daily-mirror-lk ([Mobilise the entire nation to oust the present ruler: Anura](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f633780.json))
 
 * **2** virakesari-lk ([மீண்டும் முல்லைத்தீவு கடலை ஆக்கிரமிக்கும் இந்திய இழுவைப்படகுகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8af4b592.json))
+
+* **1** ada-derana-lk ([President Gotabaya calls Putin, plans to visit UAE for talks on fuel supply](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4c36c6b.json))
 
 * **1** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
@@ -32,7 +30,7 @@
 
 * **1** lankadeepa-lk ([‘‘ජාත්‍යන්තර මට්ටමේ රෝහල් සහ ප්‍රමාණවත් මානව සම්පත් රට තුළ තිබෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0b4fcb7.json))
 
-## Last 24 Hours (236 Articles)
+## Last 24 Hours (235 Articles)
 
 * **44** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
@@ -40,7 +38,7 @@
 
 * **32** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4552324d.json))
 
-* **26** ada-derana-lk ([Kahatuduwa house fire: death toll climbs to three](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/316e9498.json))
+* **25** ada-derana-lk ([1,000 MT of rice under Chinese grant reaches Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3897f4a.json))
 
 * **25** ada-lk ([ඉන්දියාවෙන් අත්පිට මුදලට තෙල් ගන්න යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/719ab299.json))
 
