@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-29 06:02:13 (LK time)*
+*As of 2022-06-29 06:26:01 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
-
-* **3** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8c1e480.json))
+## Last 3 Hours (5 Articles)
 
 * **2** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d555e56.json))
 
+* **2** daily-mirror-lk ([The need for a reset](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bed989f.json))
+
 * **1** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
 
-## Last 24 Hours (272 Articles)
+## Last 24 Hours (269 Articles)
 
 * **51** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -22,9 +22,9 @@
 
 * **37** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **28** daily-mirror-lk ([Cabinet nod for freight service between KKS and Tamil Nadu soon: Devananda](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/440905f0.json))
-
 * **28** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
+
+* **27** daily-mirror-lk ([SJB instigates street protests to topple Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04af430f.json))
 
 * **24** ada-derana-lk ([Energy Minister off to Qatar for talks on fuel imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40567bc.json))
 
@@ -32,7 +32,7 @@
 
 * **17** economy-next-com ([Sri Lanka central bank to give payment plan for oil supplier arrears: Presidents office](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3df1da04.json))
 
-* **16** daily-ft-lk ([Economic crisis, public outcry, foreign reserves and remittances](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2da557e6.json))
+* **14** daily-ft-lk ([Country in a mess: Recovery possible, but not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ac9529.json))
 
 * **3** island-lk ([Lassana Flora’s New Bicycle Delivery Team Beats Fuel Queues to Make Ontime Deliveries](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4dc190c.json))
 
@@ -40,7 +40,7 @@
 
 * **1** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## Last Week (1,354 Articles)
+## Last Week (1,350 Articles)
 
 * **229** virakesari-lk ([நெருக்கடிக்குள்ளாகியுள்ள பொருளாதாரத்தை மீட்டெடுக்க இலங்கை கசினோமையங்களின் உரிமையாளர் மீது பந்தயம் கட்டுகின்றது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0571af36.json))
 
@@ -56,7 +56,7 @@
 
 * **97** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **81** daily-ft-lk ([Rise of black economy for foreign exchange and Sri Lanka’s economic collapse – Part II](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/626ce8e9.json))
+* **78** daily-ft-lk ([Sri Lanka’s crisis of survival: What the Opposition shouldn’t do](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/114f4613.json))
 
 * **67** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
@@ -66,7 +66,7 @@
 
 * **14** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
-* **9** b-b-c-com-sinhala ([ජාත්‍යන්තර බැදුම්කර ණය ගෙවීම් පැහර හැරීම නිසා ශ්‍රී ලංකාවට එරෙහිව අමෙරිකාවේ නඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a739f7c.json))
+* **8** b-b-c-com-sinhala ([ආර්ථික අර්බුදය ; දැවෙන ප්‍රශ්න වලට විසඳුම් ඉල්ලා කාන්තාවෝ රනිල්ගේ නිවසට යති](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0636111.json))
 
 ## All Time (1,540 Articles)
 
