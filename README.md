@@ -1,28 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 01:20:45 (LK time)*
+*As of 2022-06-30 01:33:11 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (6 Articles)
 
-* **3** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
+* **5** daily-ft-lk ([Cee Tee Hills Tea Factory in record-breaking spell](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d060228.json))
 
-## Last Hour (3 Articles)
+* **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **3** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
+## Last Hour (7 Articles)
 
-## Last 3 Hours (10 Articles)
+* **6** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
 
-* **5** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
+* **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
+
+## Last 3 Hours (14 Articles)
+
+* **8** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
 * **3** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
 * **2** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
-## Last 24 Hours (241 Articles)
+* **1** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
+
+## Last 24 Hours (242 Articles)
 
 * **44** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -36,17 +42,17 @@
 
 * **24** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
-* **18** daily-ft-lk ([The outcome of Sri Lankan education system: Quality or quantity?](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69073951.json))
+* **18** daily-ft-lk ([Cabinet nod to revise train fares as per fuel hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d20c45b3.json))
 
 * **13** news-first-lk ([Cabinet Paper for Food Security Committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16314ba6.json))
 
-* **11** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
+* **12** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
 
 * **2** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,567 Articles)
+## Last Week (1,571 Articles)
 
 * **273** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
@@ -62,9 +68,9 @@
 
 * **123** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **82** daily-ft-lk ([A foreign policy for transforming Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f1ec21.json))
+* **85** daily-ft-lk ([A foreign policy for transforming Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f1ec21.json))
 
-* **77** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
+* **78** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
 * **52** island-lk ([Expolanka Holdings’ dividend payment peps share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949a9.json))
 
@@ -74,7 +80,7 @@
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,774 Articles)
+## All Time (1,778 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,9 +96,9 @@
 
 * **123** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **100** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **103** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **78** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **79** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **63** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
