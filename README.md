@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 05:08:10 (LK time)*
+*As of 2022-07-01 05:16:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (237 Articles)
+## Last 24 Hours (238 Articles)
 
 * **44** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
-* **34** tamil-mirror-lk ([பாராளுமன்ற விவகாரங்களுக்கான விசேட குழுக்கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9496dbd7.json))
+* **35** tamil-mirror-lk ([பாராளுமன்ற விவகாரங்களுக்கான விசேட குழுக்கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9496dbd7.json))
 
 * **30** daily-mirror-lk ([New bus fares to be announced today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0b0f1d3.json))
 
@@ -24,7 +24,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,803 Articles)
+## Last Week (1,804 Articles)
 
 * **321** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -34,7 +34,7 @@
 
 * **208** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
-* **197** tamil-mirror-lk ([ஜூலை 6 வரை எரிவாயு விநியோகம் இல்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c434abb.json))
+* **198** tamil-mirror-lk ([ஜூலை 6 வரை எரிவாயு விநியோகம் இல்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c434abb.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -52,7 +52,7 @@
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (2,053 Articles)
+## All Time (2,054 Articles)
 
 * **335** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -62,7 +62,7 @@
 
 * **217** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **205** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **206** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
