@@ -40,6 +40,14 @@
     "file_name": "/tmp/news_lk2/articles/5a/5a74653f.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf-\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/175-299524",
+    "time_ut": 1656609322,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b95\u0bc1\u0bb1\u0bc1\u0b95\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/1a/1af74021.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83355/us-ambassador-assures-support-to-find-solutions-to-sri-lankas-economic-issues",
     "time_ut": 1656608700,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bb8\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/af/afa7b453.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc5\u0db8\u0dd4\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dc3\u0dd2\u0dba\u0dba\u0da7-20\u0dad\u0dca-30\u0dad\u0dca-\u0d85\u0dad\u0dbb-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-394869",
-    "time_ut": 1656311382,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 20\u0dad\u0dca 30\u0dad\u0dca \u0d85\u0dad\u0dbb \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/bd/bd62a065.json"
   }
 ]
