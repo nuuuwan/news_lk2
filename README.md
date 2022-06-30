@@ -1,8 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 07:08:26 (LK time)*
-
-![wordcloud](wordcloud.png)
+*As of 2022-06-30 07:39:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,9 +8,9 @@
 
 * **50** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
-* **42** lankadeepa-lk ([බයිඩන් බිරිඳට-දියණියට රුසියාව තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c20aab.json))
+* **42** lankadeepa-lk ([බයිඩන් බිරිඳට-දියණියට රුසියාව තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f91b09b.json))
 
-* **34** daily-mirror-lk ([Would not get support from Security council: UK](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9911d1b0.json))
+* **34** daily-mirror-lk ([Would not get support from Security council: UK](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a2c913.json))
 
 * **27** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
@@ -30,7 +28,7 @@
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,596 Articles)
+## Last Week (1,595 Articles)
 
 * **279** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
@@ -48,7 +46,7 @@
 
 * **85** daily-ft-lk ([President meets envoys of Southeast Asian countries seeking to boost trade, investment](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/551c8c28.json))
 
-* **78** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
+* **78** economy-next-com ([Sri Lanka economic crisis: Steve Hanke on currency board and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb5cce88.json))
 
 * **59** island-lk ([Expolanka Holdings’ dividend payment peps share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949a9.json))
 
@@ -56,7 +54,7 @@
 
 * **16** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
-* **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
+* **6** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
 ## All Time (1,804 Articles)
 
@@ -76,9 +74,9 @@
 
 * **104** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **79** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **78** economy-next-com ([Sri Lanka economic crisis: Steve Hanke on currency board and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb5cce88.json))
 
-* **70** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **71** island-lk ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25db9849.json))
 
 * **35** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
