@@ -43,7 +43,6 @@ def build_readme_summary(articles):
         current_time, timezone=timex.TIMEZONE_OFFSET_LK
     )
     lines.append(f'*As of {time_last_run} (LK time)*')
-    lines.append('![wordcloud](wordcloud.png)')
     lines.append('![wordcloud animation](wordcloud.gif)')
 
     for label, idx_for_label in idx.items():
