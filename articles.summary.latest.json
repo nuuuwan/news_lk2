@@ -1960,6 +1960,14 @@
     "file_name": "/tmp/news_lk2/articles/1e/1ee12e16.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78290",
+    "time_ut": 1656529560,
+    "original_lang": "en",
+    "original_title": "Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.",
+    "file_name": "/tmp/news_lk2/articles/a5/a57fdc35.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db8\u0dda-\u0d9c\u0dd9\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0d9a\u0dd3-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0db8-\u0dc3\u0dad\u0dd2-\u0dad\u0dd4\u0db1\u0dba\u0dd2/11-394960",
     "time_ut": 1656529556,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "6 \u0bb5\u0baf\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd; \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/70/704d19e6.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-plunge-over-2-pct-in-mid-day-trade-on-fuel-crisis-96498/",
-    "time_ut": 1656310680,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks plunge over 2-pct in mid-day trade on fuel crisis",
-    "file_name": "/tmp/news_lk2/articles/1c/1c984810.json"
   }
 ]

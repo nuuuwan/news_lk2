@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 01:48:23 (LK time)*
+*As of 2022-07-01 01:55:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -44,7 +44,7 @@
 
 * **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
 
-## Last Week (1,798 Articles)
+## Last Week (1,799 Articles)
 
 * **319** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -66,13 +66,13 @@
 
 * **51** island-lk ([Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8d44a4.json))
 
-* **25** d-b-s-jeyaraj-com ([The decision to allow the Sri Lankan Rupee (LKR) to be “flexible” from March 7, 2022 onwards was not a  “unilateral” decision of then   Central Bank  :Governor Ajith Nivard Cabraal.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbdecf3d.json))
+* **26** d-b-s-jeyaraj-com ([The decision to allow the Sri Lankan Rupee (LKR) to be “flexible” from March 7, 2022 onwards was not a  “unilateral” decision of then   Central Bank  :Governor Ajith Nivard Cabraal.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbdecf3d.json))
 
 * **15** colombo-telegraph-com ([Discarded & Ignored Human Rights Council’s Resolutions By Defiant Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a71d08.json))
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (2,047 Articles)
+## All Time (2,048 Articles)
 
 * **334** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -96,6 +96,6 @@
 
 * **35** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
-* **30** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
+* **31** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
-* **30** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **30** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
