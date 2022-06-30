@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da7\u0dcf\u0dbb\u0dca-\u0da0\u0dd0\u0dbb\u0dd2\u0da7\u0dd2-\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7-\u0db4\u0db1\u0dc0\u0dcf-\u0dad\u0dd2\u0db6\u0dd6-\u0dad\u0dc4\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/1-615650",
+    "time_ut": 1656586322,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0da0\u0dd0\u0dbb\u0dd2\u0da7\u0dd2 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0db4\u0db1\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0dad\u0dc4\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0da7",
+    "file_name": "/tmp/news_lk2/articles/48/48538ac4.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130497",
     "time_ut": 1656586103,
@@ -70,6 +78,14 @@
     "original_lang": "en",
     "original_title": "LIOC fuel bowsers called for fuel distribution from tomorrow",
     "file_name": "/tmp/news_lk2/articles/21/21361327.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0db0\u0dd4\u0db1\u0dd2\u0d9a-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dd9\u0db6\u0dc5\u0dcf\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0dc5\u0dd2\u0db3\u0d9a\u0dd2\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-394985",
+    "time_ut": 1656583811,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0db0\u0dd4\u0db1\u0dd2\u0d9a \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd9\u0db6\u0dc5\u0dcf\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0dc5\u0dd2\u0db3\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/09/09437a55.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

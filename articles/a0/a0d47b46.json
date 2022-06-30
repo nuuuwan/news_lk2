@@ -9,7 +9,7 @@
       "title": "One person was arrested with 1,900 liters of fuel",
       "author": "Vishnu",
       "body_lines": [
-        "A person has been arrested with 1,900 liters of fuel hidden in the backyard of a trade center in Badulla - Granthurukottai.",
+        "A person has been arrested with 1,900 liters of fuel hidden at the back of a commercial station in Padulai-Granthurukottai.",
         "The suspect was arrested on Wednesday the 29th, according to the Kiranthurukottai police.",
         "The suspect was arrested during a raid carried out on a tip-off received by the Kiranthurakottai Special Task Force.",
         "The arrested person is a 42 year old man and 1,900 liters of diesel and 19 liters of petrol worth about nine lakh rupees have been recovered."
@@ -31,8 +31,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Badulla - Granthurukottai",
-            "label": "GPE"
+            "text": "Padulai-Granthurukottai",
+            "label": "ORG"
           }
         ],
         [
@@ -68,7 +68,7 @@
       ]
     },
     "si": {
-      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1900\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1900\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0d91\u0d9a\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
       "author": "\u0dc0\u0dd2\u0dc2\u0dca\u0dab\u0dd4",
       "body_lines": [
         "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd - \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dd4\u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dcf\u0dba\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dc0\u0dd9\u0dc5\u0db3 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3 \u0dc3\u0d9f\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1900\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
@@ -93,13 +93,13 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd - \u0d9c\u0dca\u200d\u0dbb\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dd4\u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dd9\u0dba\u0dd2",
-            "label": "GPE"
+            "text": "\u0db4\u0dcf\u0daf\u0dd4\u0dbd\u0dd9\u0dba\u0dd2-\u0d9c\u0dca\u200d\u0dbb\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dd4\u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dd9\u0dba\u0dd2",
+            "label": "ORG"
           }
         ],
         [
           {
-            "text": "29 \u0db6\u0daf\u0dcf\u0daf\u0dcf",
+            "text": "29 \u0dc0\u0dd0\u0db1\u0dd2 \u0db6\u0daf\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
           {
@@ -155,8 +155,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 - \u0b95\u0bbf\u0bb0\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
-            "label": "GPE"
+            "text": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8-\u0b95\u0bbf\u0bb0\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+            "label": "ORG"
           }
         ],
         [

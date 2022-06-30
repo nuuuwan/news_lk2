@@ -9,7 +9,7 @@
       "title": "Jayantha de Silva appointed Secretary to the Ministry of Technology",
       "author": "T. Saranya",
       "body_lines": [
-        "Jayantha de Silva received the letter of appointment from Secretary to the President Gamini Senaratne at the Presidential Palace today (30).",
+        "Today (30) Jayantha de Silva received the letter of appointment from the President's Secretary Kamini Senaratne at the Presidential Palace.",
         "He is the former CEO and Chairman of IFS Sri Lanka, having previously served as Chairman of the Information and Communication Technology Agency of Sri Lanka (ICTA), Secretary to the Ministry of Technology and Chairman of the Telecommunications Regulatory Commission of Sri Lanka (TRCSL)."
       ],
       "title_ents": [
@@ -25,24 +25,24 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Jayantha de Silva",
-            "label": "PERSON"
-          },
-          {
-            "text": "Gamini Senaratne",
-            "label": "PERSON"
-          },
-          {
-            "text": "the Presidential Palace",
-            "label": "FAC"
-          },
-          {
-            "text": "today",
+            "text": "Today",
             "label": "DATE"
           },
           {
             "text": "30",
             "label": "CARDINAL"
+          },
+          {
+            "text": "Jayantha de Silva",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kamini Senaratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Presidential Palace",
+            "label": "FAC"
           }
         ],
         [
@@ -93,24 +93,24 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0da2\u0dba\u0db1\u0dca\u0dad \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3 \u0dc3\u0dda\u0db1\u0dcf\u0dbb\u0dad\u0dca\u0db1",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
-            "label": "FAC"
-          },
-          {
             "text": "\u0d85\u0daf",
             "label": "DATE"
           },
           {
             "text": "30",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dba\u0db1\u0dca\u0dad \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0db8\u0dd2\u0dab\u0dd3 \u0dc3\u0dda\u0db1\u0dcf\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
+            "label": "FAC"
           }
         ],
         [
@@ -161,6 +161,14 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "30",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
             "label": "PERSON"
           },
@@ -171,14 +179,6 @@
           {
             "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8",
             "label": "FAC"
-          },
-          {
-            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
-            "label": "DATE"
-          },
-          {
-            "text": "30",
-            "label": "CARDINAL"
           }
         ],
         [
