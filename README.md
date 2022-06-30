@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 00:54:22 (LK time)*
+*As of 2022-07-01 01:03:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **2** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-## Last 24 Hours (238 Articles)
+## Last 24 Hours (236 Articles)
 
 * **41** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -26,17 +26,17 @@
 
 * **19** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **7** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
+* **5** daily-ft-lk ([All-time record prices of tea – Siyaka Catalogues](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1350da7.json))
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,796 Articles)
+## Last Week (1,793 Articles)
 
 * **318** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
 * **258** lankadeepa-lk ([වැස්ස පොඩ්ඩක් වැඩි වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f67fcac.json))
 
-* **212** daily-mirror-lk ([Credit card interest rates flirt with 40% as banks respond to ward off pressure on asset quality](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a390e413.json))
+* **209** daily-mirror-lk ([Consumption of Illicit liquor trending: Excise warns](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5aaa59b3.json))
 
 * **206** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
