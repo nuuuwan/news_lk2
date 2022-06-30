@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 01:55:23 (LK time)*
+*As of 2022-07-01 02:09:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Schoolchildren need a hug and not a lecture! - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd5b284d.json))
+
+## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
-
-## Last Hour (4 Articles)
-
-* **3** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
-
-* **1** ada-lk ([මංකොල්ල කෑ සියලු මුදල් අත්කර ගැනීමේ මෙහෙයුම් අරඹනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aebd4efa.json))
 
 ## Last 3 Hours (5 Articles)
 
