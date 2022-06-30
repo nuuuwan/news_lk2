@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 22:35:59 (LK time)*
+*As of 2022-06-30 23:10:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last Hour (1 Articles)
 
-* **1** lankadeepa-lk ([විදුලි පාඩු උපත කොහේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314e3b3.json))
+* **1** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-## Last 3 Hours (22 Articles)
-
-* **6** virakesari-lk ([கொலன்னாவை சந்தியில் துப்பாக்கி சூடு ஒருவர் பலி - ஒரு மாதத்தில் 21 பேர் சுட்டுக்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc254685.json))
-
-* **5** news-first-lk ([Nandalal Weerasinghe appointed CBSL Governor for Six more years](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67bffbe6.json))
+## Last 3 Hours (15 Articles)
 
 * **4** lankadeepa-lk ([මහබැංකු අධිපතිට වසර හයක සේවා දිගුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50771910.json))
 
-* **4** ada-derana-lk ([Sri Lankan Muslims to celebrate Hajj festival on July 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb0643cf.json))
+* **4** news-first-lk ([US Ambassador meets President](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfbb828.json))
 
-* **2** daily-mirror-lk ([Sudharma Nethicumara acquitted in cheating case](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/295bf558.json))
+* **3** ada-derana-lk ([CCPI-based headline inflation soars to 54.6% in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab6346e1.json))
 
-* **1** tamil-mirror-lk ([நோர்வூட்டில்  தங்கக் குழி](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/803bfcf8.json))
+* **3** virakesari-lk ([நந்தலால் வீரசிங்க மேலும் 6 வருடங்களுக்கு மத்திய வங்கியின் ஆளுநராக நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f8b3559.json))
 
-## Last 24 Hours (247 Articles)
+* **1** daily-mirror-lk ([Dr.Nandalal Weerasinghe appointed as CB Governor for another six years](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90d97f35.json))
+
+## Last 24 Hours (245 Articles)
 
 * **40** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -30,21 +28,21 @@
 
 * **33** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
-* **30** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
-
-* **29** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
+* **31** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
 * **27** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
+
+* **27** ada-lk ([මේ ගෙවමින් තිබෙන්නේ කලින් කී අමාරුම සති තුනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6924bbd0.json))
 
 * **26** news-first-lk ([Party Leaders to meet today (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd45659.json))
 
 * **19** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **9** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
+* **8** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,805 Articles)
+## Last Week (1,804 Articles)
 
 * **321** virakesari-lk ([இந்திய குழுவின் வருகையின் பின்னணியின் கச்சதீவை தாரை வார்க்கும் திட்டமா ? - ஐக்கிய மக்கள் சக்தி கேள்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83012155.json))
 
@@ -54,11 +52,11 @@
 
 * **206** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
-* **199** tamil-mirror-lk ([இந்திய குழுவின் வருகை கச்சத்தீவை மீள பெறுவதற்காகவா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eb5ea64.json))
+* **197** tamil-mirror-lk ([அரச ஊழியர்களுக்கு விடுமுறை:  7 பேர் கொண்ட குழு நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01841b39.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **150** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **151** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **97** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
@@ -72,7 +70,7 @@
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (2,037 Articles)
+## All Time (2,038 Articles)
 
 * **334** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +84,7 @@
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **150** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **151** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **104** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
