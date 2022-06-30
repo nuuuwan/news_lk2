@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 15:13:49 (LK time)*
+*As of 2022-06-30 15:22:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
 * **1** tamil-mirror-lk ([புலம்பெயர் தமிழர்களாலேயே  இலங்கையர்களுக்கு விடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09e0bf3b.json))
 
@@ -12,9 +12,7 @@
 
 * **1** economy-next-com ([Sri Lanka’s gazetted 22nd amendment bill is a diluted version of itself: CPA](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e477803.json))
 
-* **1** virakesari-lk ([மகிந்த வைத்தியசாலையில் என்ற தகவல்களை நிராகரித்தது அவரது அலுவலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9336b466.json))
-
-## Last Hour (12 Articles)
+## Last Hour (11 Articles)
 
 * **3** virakesari-lk ([ஒரு இலட்சம் மெட்ரிக் தொன் எரிவாயுவை கொள்முதல் செய்துள்ள லிட்ரோ நிறுவனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b1d2ae.json))
 
@@ -22,7 +20,7 @@
 
 * **2** daily-mirror-lk ([Buses in queues for refueling...](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b840900b.json))
 
-* **2** economy-next-com ([Sri Lanka foreign ministry’s consular affairs division limits services to three days](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c355fa88.json))
+* **1** economy-next-com ([Sri Lanka’s gazetted 22nd amendment bill is a diluted version of itself: CPA](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e477803.json))
 
 * **1** lankadeepa-lk ([ඉන්ධන නැතිව ගිලන්රථ ගිලන්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd683195.json))
 
@@ -30,25 +28,25 @@
 
 * **1** ada-lk ([ගාලු කොටුපවුර මත විරෝධතාකරුවන්ට බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24747bb5.json))
 
-## Last 3 Hours (45 Articles)
+## Last 3 Hours (39 Articles)
 
-* **9** daily-mirror-lk ([22nd Amendment to the Constitution gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8fb50a6.json))
+* **8** daily-mirror-lk ([Discussions with SL authorities constructive and productive: IMF team](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8ef113f.json))
 
-* **7** virakesari-lk ([பதுளையில் சில்லரை கடைகள் தீக்கிரை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6348810.json))
+* **6** virakesari-lk ([இலங்கைக்கு உதவுவதாக உலக வங்கி உறுதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f161fb78.json))
 
-* **7** lankadeepa-lk ([තාක්ෂණ අමාත්‍යාංශයේ ලේකම් ධුරයට ජයන්ත ද සිල්වා](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc9a2dfc.json))
+* **6** lankadeepa-lk ([ධීවරයන්ට අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ece700b.json))
 
-* **6** tamil-mirror-lk ([நோயாளர் காவு வண்டிகளுக்கு ஏற்பட்டுள்ள நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18065015.json))
+* **5** tamil-mirror-lk ([காலியில் காற்றால் பறந்த கூரைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdb0d8ab.json))
 
-* **6** economy-next-com ([IMF says talks with Sri Lanka make significant policy progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/274ea891.json))
+* **5** economy-next-com ([A second Sri Lankan police officer shoots himself in under a month](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15d57391.json))
 
-* **5** ada-derana-lk ([Philippines begins new era of Marcos rule, decades after overthrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a00ec73.json))
+* **4** ada-derana-lk ([Talks with Sri Lanka made significant progress, IMF mission team says](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff7835fe.json))
 
 * **4** ada-lk ([පාර්ලිමේන්තු වෙබ් අඩවියෙන් මන්ත්‍රී දත්ත ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fec1408e.json))
 
 * **1** news-first-lk ([IMF Staff Concludes Visit to Sri Lanka; discussions will continue towards reaching a staff-level agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8e474c4.json))
 
-## Last 24 Hours (271 Articles)
+## Last 24 Hours (269 Articles)
 
 * **56** virakesari-lk ([வெளிநாடுகளில் தொழில்புரியும் இலங்கையர்கள் நாட்டை மீட்பார்கள் - நம்பிக்கையில் மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e34cf566.json))
 
@@ -58,9 +56,9 @@
 
 * **37** daily-mirror-lk ([Resolve burning issues...](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6c9cdb9.json))
 
-* **27** ada-derana-lk ([One day service for Passports to commence in 3 more districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72fe3e1a.json))
-
 * **26** ada-lk ([නීතිවිරෝධී මත්පැන් ස්කාගාරයක් වටලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63dbe3c6.json))
+
+* **25** ada-derana-lk ([PM recommends extending Dr. Nandalal Weerasinghe’s term as CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d304007.json))
 
 * **20** news-first-lk ([‘One Country, One Law’ Task Force submits report to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0828d5e6.json))
 
