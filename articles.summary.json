@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0da7-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-615642",
+    "time_ut": 1656572300,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0da7 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9e/9ece700b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130471",
+    "time_ut": 1656571796,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bc8 \u0b95\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/f6/f6348810.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/22nd-Amendment-to-the-Constitution-gazetted/108-240104",
     "time_ut": 1656571711,
@@ -96,6 +112,14 @@
     "file_name": "/tmp/news_lk2/articles/3b/3bd45084.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/22a-published-via-gazette/",
+    "time_ut": 1656570360,
+    "original_lang": "en",
+    "original_title": "22A published via Gazette",
+    "file_name": "/tmp/news_lk2/articles/ff/ff9c16d9.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-slip-in-mid-day-trade-96691/",
     "time_ut": 1656570000,
@@ -118,6 +142,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/bf/bfdcb4f7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/261-kandakadu-escapees-remanded/",
+    "time_ut": 1656569760,
+    "original_lang": "en",
+    "original_title": "261 Kandakadu escapees remanded",
+    "file_name": "/tmp/news_lk2/articles/69/6915c9ef.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
