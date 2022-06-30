@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0baa\u0bb2-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/72-299498",
+    "time_ut": 1656590616,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1:   \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/2c/2c5a2d8f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Court-order-against-holding-protest-in-Fort-area/108-240112",
     "time_ut": 1656589703,
@@ -38,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9",
     "file_name": "/tmp/news_lk2/articles/09/098778b4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/six-people-sentenced-to-death-22-years-after-five-people-were-shot-dead-in-2000/",
+    "time_ut": 1656589020,
+    "original_lang": "en",
+    "original_title": "Six people sentenced to death 22 years after five people were shot dead in 2000",
+    "file_name": "/tmp/news_lk2/articles/39/39d54c6b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Several spells of showers expected in parts of the island",
     "file_name": "/tmp/news_lk2/articles/32/3294c236.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db1\u0dda\u0da7\u0ddd\u0dc0\u0dda-\u0dba\u0dd4\u0daf-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf/3-394852",
-    "time_ut": 1656297780,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dda\u0da7\u0ddd\u0dc0\u0dda \u0dba\u0dd4\u0daf \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc3\u0dca\u0db4\u0dcf\u0da4\u0dca\u0da4 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/38/3805ca35.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95-\u0ba8\u0bbe\u0bb3\u0bc8-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/175-299276",
-    "time_ut": 1656297637,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/cb/cbf9ac4b.json"
   }
 ]
