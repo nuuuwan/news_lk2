@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Schoolchildren-need-a-hug-and-not-a-lecture-EDITORIAL/172-240125",
+    "time_ut": 1656619763,
+    "original_lang": "en",
+    "original_title": "Schoolchildren need a hug and not a lecture! - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/cd/cd5b284d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Lesson-for-Lanka-from-Ecuadors-crises-its-relations-with-US-and-China/172-240124",
+    "time_ut": 1656619693,
+    "original_lang": "en",
+    "original_title": "Lesson for Lanka from Ecuador\u2019s crises, its relations with US and China",
+    "file_name": "/tmp/news_lk2/articles/2e/2e3328f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Some-mill-owners-sell-imported-rice-under-local-brands-Dudley-Sirisena/172-240123",
+    "time_ut": 1656619447,
+    "original_lang": "en",
+    "original_title": "Some mill owners sell imported rice under local brands - Dudley Sirisena",
+    "file_name": "/tmp/news_lk2/articles/19/19b131bf.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/uncategorized/\u0db8\u0d82\u0d9a\u0ddc\u0dbd\u0dca\u0dbd-\u0d9a\u0dd1-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d9a\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca-\u0d85\u0dbb\u0db9\u0db1\u0dc0\u0dcf/1-394991",
     "time_ut": 1656617917,
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka stocks plunge over 2-pct in mid-day trade on fuel crisis",
     "file_name": "/tmp/news_lk2/articles/1c/1c984810.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83280/suspect-arrested-over-killing-of-funeral-parlour-owner-in-middeniya",
-    "time_ut": 1656310560,
-    "original_lang": "en",
-    "original_title": "Suspect arrested over killing of funeral parlour owner in Middeniya",
-    "file_name": "/tmp/news_lk2/articles/c5/c5958b3d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda-\u0dba\u0dcf\u0db4\u0db1-\u0dc3\u0db8\u0dc5\u0dd4\u0dc0\u0da7-\u0da7\u0dd3-\u0d91\u0db1\u0dca-\u0d92--\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddc\u0dad\u0dca-\u0d91\u0dba\u0dd2/1-394868",
-    "time_ut": 1656310482,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda \u0dba\u0dcf\u0db4\u0db1 \u0dc3\u0db8\u0dc5\u0dd4\u0dc0\u0da7 \u0da7\u0dd3.\u0d91\u0db1\u0dca.\u0d92. \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddc\u0dad\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b8/b88f12ac.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/niraj-de-mel-made-chairman-of-sri-lanka-tea-board-96497/",
-    "time_ut": 1656310320,
-    "original_lang": "en",
-    "original_title": "Niraj de Mel made Chairman of Sri Lanka Tea Board",
-    "file_name": "/tmp/news_lk2/articles/02/02fb19d4.json"
   }
 ]
