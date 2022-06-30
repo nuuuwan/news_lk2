@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/uncategorized/\u0db8\u0d82\u0d9a\u0ddc\u0dbd\u0dca\u0dbd-\u0d9a\u0dd1-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d9a\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca-\u0d85\u0dbb\u0db9\u0db1\u0dc0\u0dcf/1-394991",
+    "time_ut": 1656617917,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0d82\u0d9a\u0ddc\u0dbd\u0dca\u0dbd \u0d9a\u0dd1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d85\u0dbb\u0db9\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/ae/aebd4efa.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83356/parliament-to-convene-on-three-days-next-week",
     "time_ut": 1656612600,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dbb\u0dad\u0dca\u0dad \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca",
     "file_name": "/tmp/news_lk2/articles/01/01f17417.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83279/five-hospitalized-after-bus-collides-with-people-in-fuel-queue",
-    "time_ut": 1656309240,
-    "original_lang": "en",
-    "original_title": "Five hospitalized after bus collides with people in fuel queue",
-    "file_name": "/tmp/news_lk2/articles/1a/1ac99b9d.json"
   }
 ]
