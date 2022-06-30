@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 02:09:08 (LK time)*
+*As of 2022-07-01 02:22:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Schoolchildren need a hug and not a lecture! - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd5b284d.json))
 
 ## Last Hour (3 Articles)
 
@@ -20,11 +16,11 @@
 
 * **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (233 Articles)
 
 * **42** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
-* **32** tamil-mirror-lk ([விவசாயிகளுக்கு உரத்தை பகிர்ந்தளிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c11adbf.json))
+* **32** tamil-mirror-lk ([பாராளுமன்ற விவகாரங்களுக்கான விசேட குழுக்கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9496dbd7.json))
 
 * **30** daily-mirror-lk ([New bus fares to be announced today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0b0f1d3.json))
 
@@ -40,9 +36,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-* **1** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
-
-## Last Week (1,799 Articles)
+## Last Week (1,800 Articles)
 
 * **319** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -52,7 +46,7 @@
 
 * **208** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
-* **194** tamil-mirror-lk ([ஜூலை 6 வரை எரிவாயு விநியோகம் இல்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c434abb.json))
+* **195** tamil-mirror-lk ([ஜூலை 6 வரை எரிவாயு விநியோகம் இல்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c434abb.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -70,7 +64,7 @@
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (2,048 Articles)
+## All Time (2,049 Articles)
 
 * **334** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +74,7 @@
 
 * **217** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **202** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **203** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
