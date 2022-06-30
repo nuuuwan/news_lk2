@@ -688,6 +688,14 @@
     "file_name": "/tmp/news_lk2/articles/6b/6b7168f8.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130487",
+    "time_ut": 1656583217,
+    "original_lang": "ta",
+    "original_title": "22 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 : \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf \u0baa\u0bc6\u0bbe\u0baf\u0bcd\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0baa\u0bc8\u0b9a\u0bb0\u0bcd \u0bae\u0bc1\u0bb8\u0bcd\u0ba4\u0baa\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/05/0525f611.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83342/jayantha-de-silva-appointed-secretary-to-ministry-of-technology",
     "time_ut": 1656582540,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc5\u0db8\u0dd4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 20\u0dad\u0dca 30\u0dad\u0dca \u0d85\u0dad\u0dbb \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/bd/bd62a065.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd2\u0dba-\u0dc3\u0dd2\u0dbb-\u0d9a\u0dc5\u0dcf\u0da7-\u0db4\u0dca\u200d\u0dbb-\u0dbd\u0dda-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba-\u0db4\u0dcf\u0dad\u0dd2/101-615465",
-    "time_ut": 1656311346,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd2\u0dba \u0dc3\u0dd2\u0dbb \u0d9a\u0dc5\u0dcf\u0da7 \u0db4\u0dca\u200d\u0dbb.\u0dbd\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0db4\u0dcf\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6c/6c5bb8bb.json"
   }
 ]
