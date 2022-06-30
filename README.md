@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 22:26:43 (LK time)*
+*As of 2022-06-30 22:35:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
-* **2** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
+* **1** lankadeepa-lk ([විදුලි පාඩු උපත කොහේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314e3b3.json))
 
 ## Last 3 Hours (22 Articles)
 
