@@ -1,0 +1,57 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0d87\u0db8\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-394986",
+  "time_ut": 1656585487,
+  "original_lang": "si",
+  "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Russian Ambassador Meets Foreign Minister",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "Russian",
+          "label": "NORP"
+        },
+        {
+          "text": "Meets Foreign",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": []
+    }
+  }
+}
