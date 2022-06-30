@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299470",
+    "time_ut": 1656567248,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/37/37bcdd9b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0db4\u0dbd\u0dc0\u0dcf-\u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1/11-394975",
+    "time_ut": 1656566683,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0 \u0db4\u0dbd\u0dc0\u0dcf \u0dc4\u0dbb\u0dd2\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/0a/0aefd4cd.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130463",
+    "time_ut": 1656566637,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd : \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd 40 \u0bb0\u0bc2\u0baa\u0bbe !",
+    "file_name": "/tmp/news_lk2/articles/91/911419d8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bus-fare-hike-by-22from-tonight-min-fare-Rs-40/108-240099",
+    "time_ut": 1656566525,
+    "original_lang": "en",
+    "original_title": "Bus fare hike by 22%from tonight; min. fare Rs.40",
+    "file_name": "/tmp/news_lk2/articles/af/af03e4ab.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc3\u0dd2\u0da7-\u0d89\u0dc4\u0dc5\u0da7/101-615636",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0db1\u0dda\u0db8\u0dd4\u0dbd\u0dca\u0dbd-\u0d85\u0dc0\u0dd2\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0dd9-\u0db7\u0dcf\u0dbb\u0d9a\u0dbb\u0dd4-\u200c\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/1-615637",
+    "time_ut": 1656566431,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0db1\u0dda\u0db8\u0dd4\u0dbd\u0dca\u0dbd \u0d85\u0dc0\u0dd2\u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0dd9 \u0db7\u0dcf\u0dbb\u0d9a\u0dbb\u0dd4 \u200c\u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6b/6bb79805.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc3\u0dd2\u0da7-\u0d89\u0dc4\u0dc5\u0da7/1-615636",
     "time_ut": 1656565731,
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d85\u0daf \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc3\u0dd2\u0da7 \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/4c/4c0e208b.json"
+    "file_name": "/tmp/news_lk2/articles/39/392bbbc0.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -89,11 +129,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc0\u0dd0\u0da9\u0db6\u0dd0\u0dbb\u0dd2-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0dc0\u0db1\u0dc0\u0dcf\u2019\u2019/101-615635",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc0\u0dd0\u0da9\u0db6\u0dd0\u0dbb\u0dd2-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0dc0\u0db1\u0dc0\u0dcf\u2019\u2019/1-615635",
     "time_ut": 1656564249,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc0\u0dd0\u0da9\u0db6\u0dd0\u0dbb\u0dd2 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0 \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0dc0\u0db1\u0dc0\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/fe/feb76eb9.json"
+    "file_name": "/tmp/news_lk2/articles/8f/8f30cd80.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -184,6 +224,14 @@
     "file_name": "/tmp/news_lk2/articles/df/df89c05b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/22-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-394966",
+    "time_ut": 1656562610,
+    "original_lang": "si",
+    "original_title": "22 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d9/d93e0e08.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/22-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/101-615634",
     "time_ut": 1656562482,
@@ -249,11 +297,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db1\u0dc0\u0dba\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d91\u0dc3\u0dca-\u0da7\u0dd3-\u0d91\u0dc6\u0dca-\u0daf\u0dd0\u0dbd\u0dda/101-615633",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db1\u0dc0\u0dba\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d91\u0dc3\u0dca-\u0da7\u0dd3-\u0d91\u0dc6\u0dca-\u0daf\u0dd0\u0dbd\u0dda/1-615633",
     "time_ut": 1656561423,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db1\u0dc0\u0dba\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d91\u0dc3\u0dca.\u0da7\u0dd3.\u0d91\u0dc6\u0dca \u0daf\u0dd0\u0dbd\u0dda",
-    "file_name": "/tmp/news_lk2/articles/8a/8a79eae0.json"
+    "file_name": "/tmp/news_lk2/articles/b7/b74b43a9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
