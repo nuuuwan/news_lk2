@@ -1,0 +1,684 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83353/ccpi-based-headline-inflation-soars-to-546-in-june",
+  "time_ut": 1656600600,
+  "original_lang": "en",
+  "original_title": "CCPI-based headline inflation soars to 54.6% in June",
+  "text_idx": {
+    "en": {
+      "title": "CCPI-based headline inflation soars to 54.6% in June",
+      "author": "unknown",
+      "body_lines": [
+        "Sri Lanka\u2019s headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index, soared to 54.6 percent in June from 39.1 percent in May this year, the Department of Census and Statistics (DCS) said today in a press release.",
+        "This increase in Y-o-Y inflation is driven by the monthly increases of both Food and Non-Food categories.",
+        "Food inflation (Y-o-Y) increased to 80.1 percent in June from 57.4 percent in May, while Non-Food inflation (Y-o-Y) increased to 42.4 percent in June from 30.6 percent in May.",
+        "The monthly change of CCPI was recorded at 12.8 percent in June. The month-on-month change was contributed by the increases of Food items by 6.81 percent and Non-Food items by 5.99 percent, respectively.",
+        "Accordingly, prices of items in the Non-Food category recorded increases mainly due to price increases observed in the transport (petrol, diesel and bus fare), restaurant & hotels, education, housing, water, electricity, gas and other fuels (LP gas, materials for maintenance/reconstruction, firewood purchasing), miscellaneous goods and services (car, insurance), and several other groups.",
+        "Further, within the Food category, increases were mainly observed in the prices of sea fish, vegetables, bread, rice, milk powder, chicken, dried fish, Mysoor dhal, sugar, buns, eggs, potatoes, coconuts, chilli powder, biscuits, canned fish, red onions, ice-cream, infant milk powder, and big onions during the month.",
+        "Meanwhile, moving average inflation rose to 18.4 percent in June from 14.2 percent in May.",
+        "According to the DCS, the core inflation (Y-o-Y), which reflects the underlying inflation in the economy increased to 39.9 percent in June from 28.4 per cent in May.",
+        "Sri Lanka CCPI-based Headline Inflation in June by Adaderana Online on Scribd"
+      ],
+      "title_ents": [
+        {
+          "text": "54.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "June",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "54.6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "39.1 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "May this year",
+            "label": "DATE"
+          },
+          {
+            "text": "the Department of Census and Statistics",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "monthly",
+            "label": "DATE"
+          },
+          {
+            "text": "Food and Non-Food",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "80.1 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "57.4 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "May",
+            "label": "DATE"
+          },
+          {
+            "text": "Non-Food",
+            "label": "ORG"
+          },
+          {
+            "text": "42.4 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "30.6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "May",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "monthly",
+            "label": "DATE"
+          },
+          {
+            "text": "CCPI",
+            "label": "ORG"
+          },
+          {
+            "text": "12.8 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "month",
+            "label": "DATE"
+          },
+          {
+            "text": "6.81 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Non-Food",
+            "label": "ORG"
+          },
+          {
+            "text": "5.99 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "the Non-Food",
+            "label": "ORG"
+          },
+          {
+            "text": "restaurant & hotels",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Food",
+            "label": "ORG"
+          },
+          {
+            "text": "chilli powder",
+            "label": "PERSON"
+          },
+          {
+            "text": "the month",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "18.4 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "14.2 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "May",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "39.9 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "28.4 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "May",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Headline Inflation",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "Adaderana Online",
+            "label": "ORG"
+          },
+          {
+            "text": "Scribd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "CCPI \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca \u0dc0\u0dd6 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 54.6% \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0dba\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba\u0dda \u0dc0\u0dc3\u0dbb\u0dd2\u0db1\u0dca \u0dc0\u0dc3\u0dbb (Y-o-Y) \u0dc0\u0dd9\u0db1\u0dc3 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db8\u0db1\u0dd2\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba, \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc3\u0dd2\u0dba\u0dba\u0da7 39.1 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 54.6 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba \u0db6\u0dc0 \u0da2\u0db1\u0dbd\u0dda\u0d9b\u0db1 \u0dc4\u0dcf \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 (DCS) \u0d85\u0daf \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba. \u0db8\u0dcf\u0db0\u0dca\u0dba \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a.",
+        "Y-o-Y \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0dda \u0db8\u0dd9\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0d86\u0dc4\u0dcf\u0dbb \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0d9a\u0dcf\u0dab\u0dca\u0da9 \u0daf\u0dd9\u0d9a\u0dd9\u0dc4\u0dd2\u0db8 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dc0\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dda.",
+        "\u0d86\u0dc4\u0dcf\u0dbb \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba (Y-o-Y) \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 57.4 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 80.1 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba \u0d85\u0dad\u0dbb \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba (Y-o-Y) \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 30.6 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 42.4 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "CCPI \u0dc4\u0dd2 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0dc0\u0dd9\u0db1\u0dc3 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 12.8 \u0dc4\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba. \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0dc0\u0dd9\u0db1\u0dc3\u0da7 \u0d86\u0dc4\u0dcf\u0dbb \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 6.81 \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 5.99 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8 \u0daf\u0dcf\u0dba\u0d9a \u0dc0\u0dd2\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0, \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 (\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca, \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0dc4 \u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4), \u0d86\u0db4\u0db1\u0dc1\u0dcf\u0dbd\u0dcf \u0dc3\u0dc4 \u0dc4\u0ddd\u0da7\u0dbd\u0dca, \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba, \u0db1\u0dd2\u0dc0\u0dcf\u0dc3, \u0da2\u0dbd\u0dba, \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba, \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dc4 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 (LP \u0d9c\u0dd1\u0dc3\u0dca) \u0dba\u0db1 \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0db8\u0dd2\u0dbd \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dc0\u0dbd \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba. , \u0db1\u0da9\u0dad\u0dca\u0dad\u0dd4/\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba, \u0daf\u0dbb \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8), \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0dc3\u0dc4 \u0dc3\u0dda\u0dc0\u0dcf (\u0d9a\u0dcf\u0dbb\u0dca, \u0dbb\u0d9a\u0dca\u0dc2\u0dab) \u0dc3\u0dc4 \u0dad\u0dc0\u0dad\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca.",
+        "\u0dad\u0dc0\u0daf, \u0d86\u0dc4\u0dcf\u0dbb \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0dad\u0dd4\u0dc5, \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db8\u0dcf\u0dc5\u0dd4, \u0d91\u0dc5\u0dc0\u0dc5\u0dd4, \u0db4\u0dcf\u0db1\u0dca, \u0dc3\u0dc4\u0dbd\u0dca, \u0d9a\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7\u0dd2, \u0d9a\u0dd4\u0d9a\u0dd4\u0dbd\u0dca \u0db8\u0dc3\u0dca, \u0d9a\u0dbb\u0dc0\u0dbd, \u0db8\u0dba\u0dd2\u0dc3\u0dd6\u0dbb\u0dca \u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4, \u0dc3\u0dd3\u0db1\u0dd2, \u0db6\u0db1\u0dd2\u0dc3\u0dca, \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb, \u0d85\u0dbb\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca, \u0db4\u0ddc\u0dbd\u0dca, \u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dd4\u0da9\u0dd4, \u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca, \u0db8\u0dd2\u0dbd \u0d9c\u0dab\u0db1\u0dca\u0dc0\u0dbd \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd2. \u0db8\u0dcf\u0dc3\u0dba \u0dad\u0dd4\u0dc5 \u0da7\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0dc5\u0dd4, \u0dbb\u0dad\u0dd4 \u0dc5\u0dd6\u0dab\u0dd4, \u0d85\u0dba\u0dd2\u0dc3\u0dca\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dca, \u0dc5\u0daf\u0dbb\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7\u0dd2 \u0dc3\u0dc4 \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc5\u0dd6\u0dab\u0dd4.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0da0\u0dbd\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 14.2 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 18.4 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "DCS \u0da7 \u0d85\u0db1\u0dd4\u0dc0, \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0dba\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0dd2\u0db9\u0dd4 \u0d9a\u0dbb\u0db1 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba (Y-o-Y) \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 28.4 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 39.9 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd3\u0dc3\u0dd3\u0db4\u0dd3\u0d85\u0dba\u0dd2 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca \u0dc0\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dc3 Scribd \u0dc4\u0dd2 Adaderana Online \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "54.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0da2\u0dd6\u0db1\u0dd2",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 54.6 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 39.1 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dbd\u0dda\u0d9b\u0db1 \u0dc4\u0dcf \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dda\u0d9b\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d86\u0dc4\u0dcf\u0dbb \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 80.1 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 57.4 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 42.4 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 30.6 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "CCPI",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 12.8 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dc3",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 6.81 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 5.99 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0db4\u0db1\u0dc1\u0dcf\u0dbd\u0dcf \u0dc3\u0dc4 \u0dc4\u0ddd\u0da7\u0dbd\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd1\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dd4\u0da9\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 18.4 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 14.2 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 39.9 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 28.4 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dd3\u0dbb\u0dca\u0dc2\u0dba \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf\u0daf\u0dd9\u0dbb\u0dab \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Scribd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "CCPI \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 54.6% \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd (Y-o-Y) \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 39.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 39.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbf\u0baa\u0bb0\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd (DCS) \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b92\u0bb0\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd.",
+        "Y-o-Y \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd (Y-o-Y) \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 57.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 80.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b85\u0ba4\u0bc7 \u0b9a\u0bae\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd (Y-o-Y) \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 30.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 42.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "CCPI \u0b87\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 12.8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd 6.81 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd 5.99 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0ba8\u0bcd\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 (\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd, \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd), \u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0bb2\u0bcd\u0bb5\u0bbf, \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0b9a\u0ba4\u0bbf, \u0ba8\u0bc0\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd, \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd\u0b95\u0bb3\u0bcd (LP \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1) \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. , \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/\u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bbf\u0bb1\u0b95\u0bc1 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd), \u0b87\u0ba4\u0bb0 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd (\u0b95\u0bbe\u0bb0\u0bcd, \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bb2 \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b89\u0ba3\u0bb5\u0bc1 \u0bb5\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd, \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc0\u0ba9\u0bcd, \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bcd, \u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf, \u0b85\u0bb0\u0bbf\u0b9a\u0bbf, \u0baa\u0bbe\u0bb2\u0bcd \u0baa\u0bb5\u0bc1\u0b9f\u0bb0\u0bcd, \u0b95\u0bcb\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bb1\u0bbf, \u0b89\u0bb2\u0bb0\u0bcd \u0bae\u0bc0\u0ba9\u0bcd, \u0bae\u0bc8\u0b9a\u0bc2\u0bb0\u0bcd \u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0b9a\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb0\u0bc8, \u0baa\u0ba9\u0bcd\u0b95\u0bb3\u0bcd, \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8, \u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1, \u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd, \u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd \u0ba4\u0bc2\u0bb3\u0bcd, \u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd, \u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0b9f\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc0\u0ba9\u0bcd, \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bae\u0bcd, \u0b90\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bc0\u0bae\u0bcd, \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0bb2\u0bcd \u0baa\u0bb5\u0bc1\u0b9f\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd.",
+        "\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0ba8\u0b95\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 14.2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 18.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "DCS \u0b87\u0ba9\u0bcd \u0baa\u0b9f\u0bbf, \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd (Y-o-Y), \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 28.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 39.9 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 CCPI \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0bb9\u0bc6\u0b9f\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd Adaderana \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd Scribd"
+      ],
+      "title_ents": [
+        {
+          "text": "54.6%",
+          "label": "PERCENT"
+        },
+        {
+          "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "39.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0bb5\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "80.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "57.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4",
+            "label": "ORG"
+          },
+          {
+            "text": "42.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "30.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0",
+            "label": "DATE"
+          },
+          {
+            "text": "CCPI",
+            "label": "ORG"
+          },
+          {
+            "text": "12.8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "6.81 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4",
+            "label": "ORG"
+          },
+          {
+            "text": "5.99 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd & \u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0ba3\u0bb5\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd \u0ba4\u0bc2\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "18.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "14.2 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "DCS",
+            "label": "ORG"
+          },
+          {
+            "text": "39.9 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "28.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0b9f\u0bc6\u0bb0\u0ba9\u0bbe \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0b9f\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
