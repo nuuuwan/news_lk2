@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 23:10:01 (LK time)*
+*As of 2022-06-30 23:26:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,17 +8,15 @@
 
 * **1** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-## Last 3 Hours (15 Articles)
-
-* **4** lankadeepa-lk ([මහබැංකු අධිපතිට වසර හයක සේවා දිගුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50771910.json))
+## Last 3 Hours (10 Articles)
 
 * **4** news-first-lk ([US Ambassador meets President](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfbb828.json))
 
-* **3** ada-derana-lk ([CCPI-based headline inflation soars to 54.6% in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab6346e1.json))
+* **2** ada-derana-lk ([5-year work visa for foreigners employed at BOI-registered Sri Lankan firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e745393.json))
 
-* **3** virakesari-lk ([நந்தலால் வீரசிங்க மேலும் 6 வருடங்களுக்கு மத்திய வங்கியின் ஆளுநராக நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f8b3559.json))
+* **2** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
 
-* **1** daily-mirror-lk ([Dr.Nandalal Weerasinghe appointed as CB Governor for another six years](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90d97f35.json))
+* **2** virakesari-lk ([ஐவரை சுட்டுக் கொன்ற குற்றம் அறுவருக்கு மரண தண்டனை ! - 22 வருட வழக்கு விசாரணையின் பின் தீர்ப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16825364.json))
 
 ## Last 24 Hours (245 Articles)
 
