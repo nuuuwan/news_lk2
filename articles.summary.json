@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83341/road-closed-in-colombo-fort-due-to-protest",
+    "time_ut": 1656579300,
+    "original_lang": "en",
+    "original_title": "Road closed in Colombo Fort due to protest",
+    "file_name": "/tmp/news_lk2/articles/b8/b83f749b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130481",
+    "time_ut": 1656579148,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0bb5\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/33/33b1d2ae.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-foreign-ministrys-consular-affairs-division-limits-services-to-three-days-96701/",
     "time_ut": 1656578820,
@@ -22,6 +38,14 @@
     "original_lang": "en",
     "original_title": "Paediatricians propose online education as solution to present challenges",
     "file_name": "/tmp/news_lk2/articles/7f/7fb38953.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf-\u0d9c\u0dd2\u0dba-46\u0d9a\u0dca-\u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0dc4\u0dbd\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-394981",
+    "time_ut": 1656578079,
+    "original_lang": "si",
+    "original_title": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf \u0d9c\u0dd2\u0dba 46\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0dc4\u0dbd\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/38/3859d3e3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
