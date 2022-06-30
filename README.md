@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 16:54:26 (LK time)*
+*As of 2022-06-30 17:05:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka to raise bus fares by 22 percent from midnight June 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21227d6.json))
-
-* **1** news-first-lk ([Litro procures 100,000 MT of LP Gas](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ffab10.json))
 
 ## Last Hour (11 Articles)
 
@@ -20,25 +18,25 @@
 
 * **2** ada-derana-lk ([Oil seen rising past US$200 a barrel on Russian crude price cap](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/184aad08.json))
 
-* **1** lankadeepa-lk ([කටාර් චැරිටි අරමුදලට පනවා තිබූ තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48538ac4.json))
+* **1** lankadeepa-lk ([කටාර් චැරිටි අරමුදලට පනවා තිබූ තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49cfae21.json))
 
-## Last 3 Hours (43 Articles)
+## Last 3 Hours (38 Articles)
 
 * **10** virakesari-lk ([ஒரு இலட்சம் மெட்ரிக் தொன் எரிவாயுவை கொள்முதல் செய்துள்ள லிட்ரோ நிறுவனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b1d2ae.json))
 
-* **8** ada-derana-lk ([Litro Gas inks agreement with World Bank](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af103bf.json))
+* **6** ada-derana-lk ([Road closed in Colombo Fort due to protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b83f749b.json))
 
-* **6** daily-mirror-lk ([Litro procures 100,000MT LP Gas for next 4 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce96dd5d.json))
-
-* **5** ada-lk ([ඕස්ට්‍රේලියා ගිය 46ක් පිටුවහල් කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3859d3e3.json))
+* **5** daily-mirror-lk ([Paediatricians propose online education as solution to present challenges](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fb38953.json))
 
 * **4** economy-next-com ([Sri Lanka foreign ministry’s consular affairs division limits services to three days](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c355fa88.json))
+
+* **4** ada-lk ([ගාලු කොටුපවුර මත විරෝධතාකරුවන්ට බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24747bb5.json))
 
 * **4** tamil-mirror-lk ([இன்றும் 46 பேர் நாடு கடத்தப்பட்டனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf65a5bc.json))
 
 * **3** news-first-lk ([Lanka IOC Tankers to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03188235.json))
 
-* **3** lankadeepa-lk ([ගෑස් මෙට්‍රික්ටොන් 100,000ක් ගන්න ගිවිසුම් අත්සන් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/226845f0.json))
+* **2** lankadeepa-lk ([ඉන්ධන නැතිව ගිලන්රථ ගිලන්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/394c1a1f.json))
 
 ## Last 24 Hours (251 Articles)
 
