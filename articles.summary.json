@@ -1,11 +1,83 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da7\u0dd2\u0db1\u0dcf-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-615632",
+    "url": "https://www.lankadeepa.lk/latest_news/22-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/1-615634",
+    "time_ut": 1656562482,
+    "original_lang": "si",
+    "original_title": "22 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/aa/aa4b0e92.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-writes-to-Putin/108-240097",
+    "time_ut": 1656562336,
+    "original_lang": "en",
+    "original_title": "President writes to Putin",
+    "file_name": "/tmp/news_lk2/articles/a9/a90fc91a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-G7-\u0dc3\u0db8\u0dca\u0db6\u0dcf\u0db0\u0d9a-\u0db4\u0dd9\u0dbb\u0dc5\u0dcf-\u0d92\u0dc0\u0dd2\u0daf-/3-394965",
+    "time_ut": 1656562227,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 G7 \u0dc3\u0db8\u0dca\u0db6\u0dcf\u0db0\u0d9a \u0db4\u0dd9\u0dbb\u0dc5\u0dcf \u0d92\u0dc0\u0dd2\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/c8/c8117d33.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130455",
+    "time_ut": 1656562064,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0bb1\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a3/a3c0a735.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0db1\u0dda\u0da7\u0ddd\u0dc0\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0d89\u0d9f\u0dd2\u0dba\u0da7-\u0da0\u0dd3\u0db1\u0dba-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/3-394964",
+    "time_ut": 1656561864,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db1\u0dda\u0da7\u0ddd\u0dc0\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0d89\u0d9f\u0dd2\u0dba\u0da7 \u0da0\u0dd3\u0db1\u0dba \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f9011197.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/DMT-closed-on-Thursdays-Fridays-due-to-fuel-transport-crisis/108-240096",
+    "time_ut": 1656561606,
+    "original_lang": "en",
+    "original_title": "DMT closed on Thursdays, Fridays due to fuel, transport crisis",
+    "file_name": "/tmp/news_lk2/articles/5d/5dcde5cd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db1\u0dc0\u0dba-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d91\u0dc3\u0dca-\u0da7\u0dd3-\u0d91\u0dc6\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615633",
+    "time_ut": 1656561423,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db1\u0dc0\u0dba \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d91\u0dc3\u0dca.\u0da7\u0dd3.\u0d91\u0dc6\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/45/451c4801.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-Parliament-discusses-Sri-Lankas-Samurdhi-programme/108-240095",
+    "time_ut": 1656561373,
+    "original_lang": "en",
+    "original_title": "UK Parliament discusses Sri Lanka\u2019s Samurdhi programme",
+    "file_name": "/tmp/news_lk2/articles/df/df466f2d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-pm-must-present-fiscal-consolidation-plan-go-for-soe-reform-opposition-mp-96684/",
+    "time_ut": 1656561180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka PM must present fiscal consolidation plan, go for SOE reform: opposition MP",
+    "file_name": "/tmp/news_lk2/articles/0f/0f54dbf8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da7\u0dd2\u0db1\u0dcf-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615632",
     "time_ut": 1656561068,
     "original_lang": "si",
     "original_title": "\u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/23/23f03f23.json"
+    "file_name": "/tmp/news_lk2/articles/24/246fdc6b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -14,6 +86,14 @@
     "original_lang": "en",
     "original_title": "CAA issues new directive on traders, importers and manufacturers",
     "file_name": "/tmp/news_lk2/articles/46/460b060b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83333/caa-issues-new-directive-to-traders-importers-and-manufacturers",
+    "time_ut": 1656561060,
+    "original_lang": "en",
+    "original_title": "CAA issues new directive to traders, importers and manufacturers",
+    "file_name": "/tmp/news_lk2/articles/d2/d2117767.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -25,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gazette-to-display-details-of-commercial-goods-retail-price-issued/342-240094",
+    "url": "https://www.dailymirror.lk/breaking_news/Gazette-to-display-details-of-commercial-goods-retail-price-issued/108-240094",
     "time_ut": 1656560711,
     "original_lang": "en",
     "original_title": "Gazette to display details of commercial goods, retail price issued",
-    "file_name": "/tmp/news_lk2/articles/3e/3e15a3fc.json"
+    "file_name": "/tmp/news_lk2/articles/04/046c7f85.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -40,12 +120,28 @@
     "file_name": "/tmp/news_lk2/articles/52/5278dace.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/showers-for-several-areas-on-thursday-30/",
+    "time_ut": 1656559500,
+    "original_lang": "en",
+    "original_title": "Showers for several areas on Thursday (30)",
+    "file_name": "/tmp/news_lk2/articles/fa/fa7725c3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-299460",
     "time_ut": 1656559427,
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/56/567e55e3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/party-leaders-to-meet-today-30/",
+    "time_ut": 1656558960,
+    "original_lang": "en",
+    "original_title": "Party Leaders to meet today (30)",
+    "file_name": "/tmp/news_lk2/articles/2d/2dd45659.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -297,11 +393,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Banks-see-deceleration-in-deposits-amid-hyperinflation/273-240060",
+    "url": "https://www.dailymirror.lk/latest_news/Banks-see-deceleration-in-deposits-amid-hyperinflation/342-240060",
     "time_ut": 1656527413,
     "original_lang": "en",
     "original_title": "Banks see deceleration in deposits amid hyperinflation",
-    "file_name": "/tmp/news_lk2/articles/3b/3bd21223.json"
+    "file_name": "/tmp/news_lk2/articles/ff/ff7f4109.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -961,11 +1057,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd-\u0dc3\u0da2\u0db6-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/101-615613",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd-\u0dc3\u0da2\u0db6-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/1-615613",
     "time_ut": 1656500469,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0ddd \u0dc3\u0da2\u0db6 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a7/a7c1214e.json"
+    "file_name": "/tmp/news_lk2/articles/a2/a2689d74.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
