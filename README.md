@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 00:22:24 (LK time)*
+*As of 2022-07-01 00:34:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,11 +8,11 @@
 
 * **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **2** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-* **2** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
+* **1** lankadeepa-lk ([විදුලි පාඩු උපත කොහේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314e3b3.json))
 
 ## Last 24 Hours (239 Articles)
 
@@ -36,7 +36,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,800 Articles)
+## Last Week (1,798 Articles)
 
 * **318** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -46,7 +46,7 @@
 
 * **206** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
-* **195** tamil-mirror-lk ([பொதி சேவை ஊடாக அனுப்பப்பட்ட எரிவாயு கொள்கலன்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/526c5727.json))
+* **194** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையத்தில் தாக்குதல்: யாழில் இளைஞன் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/812fd0a0.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -58,7 +58,7 @@
 
 * **51** island-lk ([Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8d44a4.json))
 
-* **29** d-b-s-jeyaraj-com ([Second  Ship Carrying Humanitarian Aid  Donated  as a Gift  by the Govt and People of Tamil Nadu  arrived in Sri Lanka on 24 June 2022; Consignment  consisting of 14,700 MT of rice, 250 MT of milk powder and 38 MT of medicines is valued at more than  3 billion Sri Lankan Rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db36770f.json))
+* **28** d-b-s-jeyaraj-com ([New SLPP National List MP Dhammika Perera sworn in as Investment Promotion Minister by President Gotabaya Rajapaksa](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d847e9a3.json))
 
 * **15** colombo-telegraph-com ([Discarded & Ignored Human Rights Council’s Resolutions By Defiant Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a71d08.json))
 
