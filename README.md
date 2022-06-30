@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 16:43:58 (LK time)*
+*As of 2022-06-30 16:54:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** economy-next-com ([Sri Lanka to raise bus fares by 22 percent from midnight June 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21227d6.json))
+
+* **1** news-first-lk ([Litro procures 100,000 MT of LP Gas](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ffab10.json))
+
+## Last Hour (11 Articles)
 
 * **3** news-first-lk ([Lanka IOC Tankers to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03188235.json))
 
-* **2** virakesari-lk ([தொழில்நுட்ப அமைச்சின் செயலாளராக ஜயந்த டி சில்வா  நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8967c7d9.json))
+* **3** virakesari-lk ([கத்தார் தொண்டு நிறுவனத்தின் மீதான தடை நீக்கம் - காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7ef023d.json))
+
+* **2** economy-next-com ([Crisis-hit Sri Lanka lifts ban on Qatar Charity as it tries to secure fuel supply from Doha](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4380f67.json))
+
+* **2** ada-derana-lk ([Oil seen rising past US$200 a barrel on Russian crude price cap](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/184aad08.json))
 
 * **1** lankadeepa-lk ([කටාර් චැරිටි අරමුදලට පනවා තිබූ තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48538ac4.json))
-
-* **1** ada-derana-lk ([Court order against organising protest in Colombo Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b125f4ee.json))
-
-## Last Hour (13 Articles)
-
-* **4** virakesari-lk ([வவுனியா எரிபொருள் நிரப்பு நிலையத்தில் இராணுவ அதிகாரி மீது தாக்குதல் நடத்த முயற்சித்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/366ac8b1.json))
-
-* **4** ada-derana-lk ([LIOC fuel bowsers called for fuel distribution from tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21361327.json))
-
-* **3** news-first-lk ([Lanka IOC Tankers to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03188235.json))
-
-* **1** lankadeepa-lk ([කටාර් චැරිටි අරමුදලට පනවා තිබූ තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48538ac4.json))
-
-* **1** economy-next-com ([Crisis-hit Sri Lanka lifts ban on Qatar Charity as it tries to secure fuel supply from Doha](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4380f67.json))
 
 ## Last 3 Hours (43 Articles)
 
@@ -32,9 +28,11 @@
 
 * **8** ada-derana-lk ([Litro Gas inks agreement with World Bank](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3af103bf.json))
 
-* **6** ada-lk ([ජයන්ත ද සිල්වා තාක්ෂණ අමාත්‍යාංශයේ ලේකම් ධුරයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9ff1e3c.json))
-
 * **6** daily-mirror-lk ([Litro procures 100,000MT LP Gas for next 4 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce96dd5d.json))
+
+* **5** ada-lk ([ඕස්ට්‍රේලියා ගිය 46ක් පිටුවහල් කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3859d3e3.json))
+
+* **4** economy-next-com ([Sri Lanka foreign ministry’s consular affairs division limits services to three days](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c355fa88.json))
 
 * **4** tamil-mirror-lk ([இன்றும் 46 பேர் நாடு கடத்தப்பட்டனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf65a5bc.json))
 
@@ -42,25 +40,23 @@
 
 * **3** lankadeepa-lk ([ගෑස් මෙට්‍රික්ටොන් 100,000ක් ගන්න ගිවිසුම් අත්සන් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/226845f0.json))
 
-* **3** economy-next-com ([Sri Lanka foreign ministry’s consular affairs division limits services to three days](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c355fa88.json))
+## Last 24 Hours (251 Articles)
 
-## Last 24 Hours (258 Articles)
-
-* **53** virakesari-lk ([எரிப்பொருள் நெருக்கடி : முழு நாடும் முடங்கும் நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bcd7cc7f.json))
+* **51** virakesari-lk ([ஜனாதிபதி கோட்டபய ராஜபக்ஷ பதவியில் இருக்கும் வரை எப்பிரச்சினைகளுக்கும் தீர்வுகாண முடியாது - சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a3e8962.json))
 
 * **37** tamil-mirror-lk ([கு​திரைப்படை பின்வாங்கியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fef3d3c.json))
 
-* **37** daily-mirror-lk ([No petrol shipments for CPC until July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e9b8b11.json))
+* **34** daily-mirror-lk ([26 train services cancelled as railway guards unable to report to work due to lack of fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b940cc.json))
 
-* **28** lankadeepa-lk ([යෝධ මඩුවා ගිනස් වාර්තා පොතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6e9dfd9.json))
+* **27** lankadeepa-lk ([ගෑස් සහ පොහොර ගන්න ලෝක බැංකුවෙන් ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d1dc68b.json))
 
-* **27** ada-derana-lk ([Diesel shipment expected in second week of July](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db1c7b53.json))
+* **26** ada-derana-lk ([New Vice-Chancellor appointed to Wayamba University](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd1768c.json))
 
-* **27** ada-lk ([දුම්රිය ධාවනයටත් බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66632876.json))
+* **26** ada-lk ([මහා සංඝරත්නය දුන් අවවාද පාලකයන් පිළිපැද්දේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/857ef8e3.json))
 
 * **20** news-first-lk ([‘List from higher-up’ to issue fuel for luxury SUVs from Kolonnawa Terminal](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec96424.json))
 
-* **18** economy-next-com ([Sri Lanka central bank raps two finance companies over due diligence](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d3b1bf9.json))
+* **19** economy-next-com ([Sri Lanka central bank raps two finance companies over due diligence](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d3b1bf9.json))
 
 * **9** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
@@ -68,7 +64,7 @@
 
 * **1** island-lk ([SLT-MOBITEL requests all Home customers to register for the eBill Service without delay](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/012c0833.json))
 
-## Last Week (1,764 Articles)
+## Last Week (1,765 Articles)
 
 * **309** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
@@ -84,7 +80,7 @@
 
 * **140** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **92** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
+* **93** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
 * **85** daily-ft-lk ([President meets envoys of Southeast Asian countries seeking to boost trade, investment](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/551c8c28.json))
 
@@ -96,7 +92,7 @@
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (1,977 Articles)
+## All Time (1,978 Articles)
 
 * **327** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -114,7 +110,7 @@
 
 * **104** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **93** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **94** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **70** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
