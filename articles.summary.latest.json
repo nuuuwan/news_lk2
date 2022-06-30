@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130497",
+    "time_ut": 1656586103,
+    "original_lang": "ta",
+    "original_title": "1,900 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a0/a0d47b46.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83345/court-order-against-organising-protest-in-colombo-fort",
+    "time_ut": 1656586080,
+    "original_lang": "en",
+    "original_title": "Court order against organising protest in Colombo Fort",
+    "file_name": "/tmp/news_lk2/articles/b1/b125f4ee.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130496",
+    "time_ut": 1656586027,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe  \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/89/8967c7d9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130499",
+    "time_ut": 1656585746,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd - \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/b7/b7ef023d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83344/oil-seen-rising-past-us200-a-barrel-on-russian-crude-price-cap",
+    "time_ut": 1656585720,
+    "original_lang": "en",
+    "original_title": "Oil seen rising past US$200 a barrel on Russian crude price cap",
+    "file_name": "/tmp/news_lk2/articles/18/184aad08.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-lifts-ban-on-qatar-charity-as-it-tries-to-secure-fuel-supply-from-doha-96705/",
+    "time_ut": 1656585360,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka lifts ban on Qatar Charity as it tries to secure fuel supply from Doha",
+    "file_name": "/tmp/news_lk2/articles/d4/d4380f67.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130495",
     "time_ut": 1656584472,
     "original_lang": "ta",
@@ -14,6 +62,14 @@
     "original_lang": "en",
     "original_title": "LIOC-registered fuel tankers called for fuel distribution",
     "file_name": "/tmp/news_lk2/articles/ae/ae0da73a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83343/lioc-fuel-bowsers-called-for-fuel-distribution-from-tomorrow",
+    "time_ut": 1656584460,
+    "original_lang": "en",
+    "original_title": "LIOC fuel bowsers called for fuel distribution from tomorrow",
+    "file_name": "/tmp/news_lk2/articles/21/21361327.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Support cannot be gained when leadership does not reflect will of people: SJB",
     "file_name": "/tmp/news_lk2/articles/39/39f394eb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Social-Security-Contribution-Levy-Bill-to-Parliament-shortly/56-736730",
-    "time_ut": 1656275915,
-    "original_lang": "en",
-    "original_title": "Social Security Contribution Levy Bill to Parliament shortly",
-    "file_name": "/tmp/news_lk2/articles/41/410cfe58.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Colombo-and-city-schools-closed-till-1-July/56-736729",
-    "time_ut": 1656275877,
-    "original_lang": "en",
-    "original_title": "Colombo and city schools closed till 1 July",
-    "file_name": "/tmp/news_lk2/articles/28/28050bee.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Three-ministers-on-diplomatic-missions-to-seek-support-amidst-crisis/56-736728",
-    "time_ut": 1656275841,
-    "original_lang": "en",
-    "original_title": "Three ministers on diplomatic missions to seek support amidst crisis",
-    "file_name": "/tmp/news_lk2/articles/13/135d54fb.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Dr-Sanjiva-Weerawarana-receives-2022-IEEE-TCSVC-Research-Innovation-Award/34-736727",
-    "time_ut": 1656275619,
-    "original_lang": "en",
-    "original_title": "Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award",
-    "file_name": "/tmp/news_lk2/articles/25/256a3f52.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SAFA-SME-Development-Conference-2022/34-736726",
-    "time_ut": 1656275233,
-    "original_lang": "en",
-    "original_title": "SAFA SME Development Conference 2022",
-    "file_name": "/tmp/news_lk2/articles/90/90249f33.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/American-Ambassador-meets-with-American-Alumni-Association/34-736725",
-    "time_ut": 1656274722,
-    "original_lang": "en",
-    "original_title": "American Ambassador meets with American Alumni Association",
-    "file_name": "/tmp/news_lk2/articles/bb/bb440470.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78245",
-    "time_ut": 1656272460,
-    "original_lang": "en",
-    "original_title": "Tamil residents of Thennamaravaadi Village in Trincomalee District   Allege that Over 200 Acres of their Lands have been taken over by Sinhalese outsiders and that Govt officials are not taking action to  help them get back the lands",
-    "file_name": "/tmp/news_lk2/articles/e1/e1b3fcd6.json"
   }
 ]
