@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Reports-of-MR-in-hospital-is-false/342-240106",
+    "time_ut": 1656575239,
+    "original_lang": "en",
+    "original_title": "Reports of MR in hospital is false",
+    "file_name": "/tmp/news_lk2/articles/ba/ba4bbc04.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0da2\u0dd2\u0dad\u0dca--\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0d9a\u0da7-\u0dbd\u0ddc\u0d9a\u0dd4-\u0dc0\u0dd0\u0da9\u0d9a\u0dca-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/101-615643",
+    "time_ut": 1656574938,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca, \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0d9a\u0da7 \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc0\u0dd0\u0da9\u0d9a\u0dca \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/0c/0c7f88ab.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Discussions-with-SL-authorities-constructive-and-productive-IMF-team/108-240105",
     "time_ut": 1656574361,
     "original_lang": "en",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/22nd-Amendment-to-the-Constitution-gazetted/108-240104",
+    "url": "https://www.dailymirror.lk/latest_news/22nd-Amendment-to-the-Constitution-gazetted/342-240104",
     "time_ut": 1656571711,
     "original_lang": "en",
     "original_title": "22nd Amendment to the Constitution gazetted",
-    "file_name": "/tmp/news_lk2/articles/e8/e84803cf.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d8fb50a6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -113,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ferdinand-Marcos-Jr-sworn-in-as-Philippines-president-replacing-Duterte/108-240102",
+    "url": "https://www.dailymirror.lk/latest_news/Ferdinand-Marcos-Jr-sworn-in-as-Philippines-president-replacing-Duterte/342-240102",
     "time_ut": 1656570771,
     "original_lang": "en",
     "original_title": "Ferdinand Marcos Jr sworn in as Philippines president, replacing Duterte",
-    "file_name": "/tmp/news_lk2/articles/cf/cf6992d2.json"
+    "file_name": "/tmp/news_lk2/articles/0c/0c501976.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
