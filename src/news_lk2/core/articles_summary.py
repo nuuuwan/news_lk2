@@ -16,6 +16,7 @@ def get_article_summary_item(article):
         time_ut=article.time_ut,
         original_lang=article.original_lang,
         original_title=article.original_title,
+        file_name=article.file_name,
     )
 
 
