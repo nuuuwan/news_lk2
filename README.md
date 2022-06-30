@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 00:34:06 (LK time)*
+*As of 2022-07-01 00:43:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
-
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (2 Articles)
 
 * **2** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-* **1** lankadeepa-lk ([විදුලි පාඩු උපත කොහේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314e3b3.json))
-
-## Last 24 Hours (239 Articles)
+## Last 24 Hours (238 Articles)
 
 * **41** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -26,9 +20,9 @@
 
 * **27** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
-* **27** ada-lk ([මේ ගෙවමින් තිබෙන්නේ කලින් කී අමාරුම සති තුනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6924bbd0.json))
-
 * **26** news-first-lk ([Party Leaders to meet today (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd45659.json))
+
+* **26** ada-lk ([ඇමති ධම්මික හා චීන තානාපති අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b65a23af.json))
 
 * **19** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
@@ -36,7 +30,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,798 Articles)
+## Last Week (1,797 Articles)
 
 * **318** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -58,7 +52,7 @@
 
 * **51** island-lk ([Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8d44a4.json))
 
-* **28** d-b-s-jeyaraj-com ([New SLPP National List MP Dhammika Perera sworn in as Investment Promotion Minister by President Gotabaya Rajapaksa](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d847e9a3.json))
+* **27** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Launches ‘Land for All’ program  to hand over land ownership to landless families at the Prime Minister’s Office.](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd0d571.json))
 
 * **15** colombo-telegraph-com ([Discarded & Ignored Human Rights Council’s Resolutions By Defiant Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a71d08.json))
 
