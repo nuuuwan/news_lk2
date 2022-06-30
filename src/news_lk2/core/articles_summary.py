@@ -10,14 +10,21 @@ N_LATEST = 1_000
 
 
 def get_article_summary(articles):
-    articles_summary = []
+    articles_summary_idx = {}
     for article in articles:
-        articles_summary.append(
-            dict(
-                file_name=article.file_name,
-            )
+        articles_summary_idx[article.original_title] = dict(
+            newspaper_id=article.newspaper_id,
+            url=article.url,
+            time_ut=article.time_ut,
+            original_lang=article.original_lang,
+            original_title=article.original_title,
         )
-    return articles_summary
+
+    unsorted_articles_summary = list(articles_summary_idx.values())
+    return sorted(
+        unsorted_articles_summary,
+        key=lambda x: -x['time_ut'],
+    )
 
 
 def build_articles_summary_only(articles):
