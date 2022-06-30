@@ -14,7 +14,7 @@ MAX_ARTICLES_TO_UPLOAD = 200
 
 def main(is_test_mode=False):
     log.debug(f'{is_test_mode=}')
-    git_checkout(force=not is_test_mode)
+    git_checkout(force=True)
     upload_data(is_test_mode)
 
     articles = Article.load_articles()
