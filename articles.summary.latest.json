@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/06/30/video-diesel-should-be-supplied-to-people-in-all-parts-of-sri-lanka-army-intervenes-to-clear-protest/",
+    "time_ut": 1656593100,
+    "original_lang": "en",
+    "original_title": "(Video) \u2018Diesel should be supplied to people in all parts of Sri Lanka\u2019 \u2013 Army intervenes to clear protest",
+    "file_name": "/tmp/news_lk2/articles/61/61671249.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-goes-to-Court-seeking-order-to-implement-PCOI-recommendations-against-Deshabandu-Tennakoon/108-240113",
+    "time_ut": 1656592966,
+    "original_lang": "en",
+    "original_title": "Cardinal goes to Court seeking order to implement PCOI recommendations against Deshabandu Tennakoon",
+    "file_name": "/tmp/news_lk2/articles/fa/fad15a6b.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130507",
     "time_ut": 1656591799,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Final decision on bus fare revision expected tomorrow",
     "file_name": "/tmp/news_lk2/articles/5f/5f8cfaf4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd/175-299277",
-    "time_ut": 1656298518,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/49/491994a0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dc0\u0dad\u0dd2\u0db1-\u0dbb\u0da7\u0dc0\u0dbd\u0da7-\u0d9c\u0dd1\u0dc3\u0dca-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d95\u0db1\u0dd1/3-394853",
-    "time_ut": 1656298472,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d9c\u0dd1\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/0d/0d7e7435.json"
   }
 ]
