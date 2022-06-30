@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83356/parliament-to-convene-on-three-days-next-week",
+    "time_ut": 1656612600,
+    "original_lang": "en",
+    "original_title": "Parliament to convene on three days next week",
+    "file_name": "/tmp/news_lk2/articles/5a/5a74653f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83355/us-ambassador-assures-support-to-find-solutions-to-sri-lankas-economic-issues",
     "time_ut": 1656608700,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka to market price kerosene, give cash grant to needy: Minister",
     "file_name": "/tmp/news_lk2/articles/8a/8aefff47.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda-\u0d87\u0dad\u0dca\u0dad-\u0dc4\u0d82\u0d9c\u0db1-\u0d85\u0d82\u0d9a-\u0dc0\u0dd2\u0da2\u0dca\u0da2\u0dcf/2-615462",
-    "time_ut": 1656308379,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dda \u0d87\u0dad\u0dca\u0dad \u0dc4\u0d82\u0d9c\u0db1 \u0d85\u0d82\u0d9a \u0dc0\u0dd2\u0da2\u0dca\u0da2\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/c9/c9289fc7.json"
   }
 ]
