@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83342/jayantha-de-silva-appointed-secretary-to-ministry-of-technology",
+    "time_ut": 1656582540,
+    "original_lang": "en",
+    "original_title": "Jayantha de Silva appointed Secretary to Ministry of Technology",
+    "file_name": "/tmp/news_lk2/articles/9f/9fedff24.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130489",
+    "time_ut": 1656582473,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b4/b4a85240.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130469",
+    "time_ut": 1656582234,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/92/92321b53.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130488",
+    "time_ut": 1656582045,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0ba9\u0bc8 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd : \u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd  \u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bcd\u0b9a\u0b95\u0bb0\u0bbf\u0ba9\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd \u0bae\u0ba9\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/2a/2ad985df.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bc7\u0baf\u0bc7-\u0bb5\u0bbf\u0b9f\u0bbf\u0bb5\u0bc1/175-299491",
+    "time_ut": 1656582034,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bc7\u0baf\u0bc7   \u0bb5\u0bbf\u0b9f\u0bbf\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bf/bfe9dcf5.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bc7\u0baf\u0bc7-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9f\u0bbf\u0bb5\u0bc1/175-299491",
     "time_ut": 1656582034,
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lankan Govt Suspends  selling of fuel for 2 weeks until July 10th except for essential sectors like health, defence, power ,export and ports, airports, , food distribution and agriculture.",
     "file_name": "/tmp/news_lk2/articles/9d/9d750171.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78233",
-    "time_ut": 1656269820,
-    "original_lang": "en",
-    "original_title": "Bar Association of Sri Lanka(BASL) calls upon the President, tGovt as well as all other political parties and actors to understand the sheer gravity of the present situation and the grave consequences which may threaten the social and economic stability in Sri Lanka.",
-    "file_name": "/tmp/news_lk2/articles/aa/aa15a907.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Financial-literacy-A-closer-look-at-Sri-Lanka-Part-1/4-736698",
-    "time_ut": 1656269648,
-    "original_lang": "en",
-    "original_title": "Financial literacy: A closer look at Sri Lanka \u2013 Part 1",
-    "file_name": "/tmp/news_lk2/articles/a5/a57b94ef.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83274/biden-urges-g7-to-stay-together-as-leaders-target-russian-gold",
-    "time_ut": 1656269280,
-    "original_lang": "en",
-    "original_title": "Biden urges G7 to stay together as leaders target Russian gold",
-    "file_name": "/tmp/news_lk2/articles/eb/eb1c01a9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78229",
-    "time_ut": 1656269280,
-    "original_lang": "en",
-    "original_title": "Opposition parties are aiming at the next elections while the Government and the people are struggling; Even that call for an election is a hollow one, when the whole country knows that electioneering and the logistics for an election are an impossibility in the midst of the current crisis.",
-    "file_name": "/tmp/news_lk2/articles/f4/f48f0fc9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78237",
-    "time_ut": 1656268740,
-    "original_lang": "en",
-    "original_title": "Visiting US State Department Deputy Secretary of State for South and Central Asia Kelly Keiderling Assures  Prime Minister Ranil Wickremesinghe that the US supports the ongoing talks between the Govt of Sri Lanka and the International Monetary Fund(IMF); US agrees to provide technical assistance for fiscal management in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/e1/e19bda6c.json"
   }
 ]
