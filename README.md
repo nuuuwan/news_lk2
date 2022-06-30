@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 04:55:46 (LK time)*
+*As of 2022-07-01 05:08:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -24,7 +24,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,804 Articles)
+## Last Week (1,803 Articles)
 
 * **321** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -48,7 +48,7 @@
 
 * **26** d-b-s-jeyaraj-com ([The decision to allow the Sri Lankan Rupee (LKR) to be “flexible” from March 7, 2022 onwards was not a  “unilateral” decision of then   Central Bank  :Governor Ajith Nivard Cabraal.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbdecf3d.json))
 
-* **15** colombo-telegraph-com ([Discarded & Ignored Human Rights Council’s Resolutions By Defiant Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a71d08.json))
+* **14** colombo-telegraph-com ([Aragalaya For Creating A Classless Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/630d8fb9.json))
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
