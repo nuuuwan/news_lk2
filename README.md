@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 00:43:21 (LK time)*
+*As of 2022-07-01 00:54:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -30,7 +30,7 @@
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,797 Articles)
+## Last Week (1,796 Articles)
 
 * **318** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -52,7 +52,7 @@
 
 * **51** island-lk ([Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8d44a4.json))
 
-* **27** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Launches ‘Land for All’ program  to hand over land ownership to landless families at the Prime Minister’s Office.](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd0d571.json))
+* **26** d-b-s-jeyaraj-com ([“Mellisai Mannargal” M.S. Viswanathan and T.K. Ramamurthy, the ‘Monarchs of Light Music’ in Tamil cinema](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15ce8ccf.json))
 
 * **15** colombo-telegraph-com ([Discarded & Ignored Human Rights Council’s Resolutions By Defiant Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a71d08.json))
 
