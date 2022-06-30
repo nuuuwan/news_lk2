@@ -1,34 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 23:58:43 (LK time)*
+*As of 2022-07-01 00:22:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (4 Articles)
 
-* **3** ada-derana-lk ([5-year work visa for foreigners employed at BOI-registered Sri Lankan firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e745393.json))
+* **2** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
 * **2** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
 
-* **1** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு மத்திய நிலைய அமைதியின்மை : தப்பிச்சென்ற 599 பேர் சரண் 123 பேரை தேடி வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9b1aa51.json))
-
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (239 Articles)
 
 * **41** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
 * **33** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
-* **32** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
+* **29** ada-derana-lk ([Advisory issued for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fe52c8.json))
 
-* **32** daily-mirror-lk ([Banks see deceleration in deposits amid hyperinflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff7f4109.json))
+* **29** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
 * **27** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
