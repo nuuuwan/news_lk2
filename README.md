@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 06:03:57 (LK time)*
+*As of 2022-06-30 06:28:16 (LK time)*
 
 ![wordcloud](wordcloud.png)
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (237 Articles)
+## Last 24 Hours (238 Articles)
 
 * **49** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -14,7 +14,7 @@
 
 * **31** daily-mirror-lk ([Sri Lanka to purchase four fuel shipments from India on cash payment terms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e054ebe1.json))
 
-* **26** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
+* **27** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
 * **26** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
@@ -32,7 +32,7 @@
 
 * **1** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## Last Week (1,587 Articles)
+## Last Week (1,589 Articles)
 
 * **278** virakesari-lk ([ஆப்கான் நிலநடுக்கம் - திரும்பும் திசைகளில் எல்லாம் அழுகுரல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74857a3f.json))
 
@@ -42,7 +42,7 @@
 
 * **179** ada-lk ([චීන තානාපති මහජන ආරක්ෂක ඇමති හා විදේශ රැකියා ඇමති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb0123fc.json))
 
-* **169** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
+* **170** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
 * **149** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -54,13 +54,13 @@
 
 * **59** island-lk ([Expolanka Holdings’ dividend payment peps share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949a9.json))
 
-* **25** d-b-s-jeyaraj-com ([Second  Ship Carrying Humanitarian Aid  Donated  as a Gift  by the Govt and People of Tamil Nadu  arrived in Sri Lanka on 24 June 2022; Consignment  consisting of 14,700 MT of rice, 250 MT of milk powder and 38 MT of medicines is valued at more than  3 billion Sri Lankan Rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db36770f.json))
+* **26** d-b-s-jeyaraj-com ([Second  Ship Carrying Humanitarian Aid  Donated  as a Gift  by the Govt and People of Tamil Nadu  arrived in Sri Lanka on 24 June 2022; Consignment  consisting of 14,700 MT of rice, 250 MT of milk powder and 38 MT of medicines is valued at more than  3 billion Sri Lankan Rupees](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db36770f.json))
 
 * **16** colombo-telegraph-com ([Revisiting, Reforming & Reordering Our Agriculture](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7789a8ff.json))
 
 * **7** b-b-c-com-sinhala ([මෙරටින් සොරාගත් වත්කම් ආපසු ලබා ගන්නේ කෙසේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573ce691.json))
 
-## All Time (1,795 Articles)
+## All Time (1,797 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -70,7 +70,7 @@
 
 * **183** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **169** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
+* **170** tamil-mirror-lk ([’தமிழர் பிரச்சினையை தீர்த்தால் நாடு நெருக்கடியில் இருந்து விடுபடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52a1734c.json))
 
 * **149** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -86,4 +86,4 @@
 
 * **29** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
 
-* **26** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **27** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
