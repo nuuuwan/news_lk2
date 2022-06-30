@@ -6,7 +6,7 @@ from news_lk2._utils import log
 from news_lk2.core.filesys import DIR_REPO
 from news_lk2.core.trends import filter_articles, get_thing_ent_set
 
-N_LATEST = 400
+N_LATEST = 1_000
 
 
 def get_article_summary(articles):
