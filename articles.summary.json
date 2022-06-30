@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Paediatricians-proposes-online-education-as-solution-to-present-challenges/342-240108",
+    "time_ut": 1656578217,
+    "original_lang": "en",
+    "original_title": "Paediatricians proposes online education as solution to present challenges",
+    "file_name": "/tmp/news_lk2/articles/c9/c97f2a0a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Litro-procures-100-000MT-LP-Gas-for-next-4-months/108-240107",
+    "time_ut": 1656577965,
+    "original_lang": "en",
+    "original_title": "Litro procures 100,000MT LP Gas for next 4 months",
+    "file_name": "/tmp/news_lk2/articles/ce/ce96dd5d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-100-000\u0d9a\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca-\u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-615646",
+    "time_ut": 1656577697,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 100,000\u0d9a\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/22/226845f0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83340/litro-gas-inks-agreement-with-world-bank",
+    "time_ut": 1656577680,
+    "original_lang": "en",
+    "original_title": "Litro Gas inks agreement with World Bank",
+    "file_name": "/tmp/news_lk2/articles/3a/3af103bf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dba\u0db1\u0dca\u0dad-\u0daf-\u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db0\u0dd4\u0dbb\u0dba\u0da7/11-394980",
+    "time_ut": 1656577158,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dba\u0db1\u0dca\u0dad \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db0\u0dd4\u0dbb\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d9/d9ff1e3c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-litro-gas-acquires-100000mt-of-lp-gas-using-world-bank-funds-96700/",
+    "time_ut": 1656576720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Litro Gas acquires 100,000MT of LP gas using World Bank funds",
+    "file_name": "/tmp/news_lk2/articles/17/17ce5ac2.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-state-litro-gas-acquires-100000mt-of-lp-gas-using-world-bank-funds-96700/",
     "time_ut": 1656576720,
@@ -73,11 +121,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/MR-s-office-denies-reports-of-hospitalization/108-240106",
+    "url": "https://www.dailymirror.lk/latest_news/MR-s-office-denies-reports-of-hospitalization/342-240106",
     "time_ut": 1656575239,
     "original_lang": "en",
     "original_title": "MR's office denies reports of hospitalization",
-    "file_name": "/tmp/news_lk2/articles/69/69729ec9.json"
+    "file_name": "/tmp/news_lk2/articles/18/18220791.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
