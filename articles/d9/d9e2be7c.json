@@ -1,0 +1,30 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83335/policeman-at-gonahena-stf-camp-commits-suicide",
+  "time_ut": 0,
+  "original_lang": "en",
+  "original_title": "",
+  "text_idx": {
+    "en": {
+      "title": "",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    }
+  }
+}
