@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-06-30 23:46:54 (LK time)*
+*As of 2022-06-30 23:58:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,25 +12,23 @@
 
 * **1** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (6 Articles)
 
 * **3** ada-derana-lk ([5-year work visa for foreigners employed at BOI-registered Sri Lankan firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e745393.json))
 
 * **2** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
 
-* **2** news-first-lk ([Kandakadu Escape: Justice Minister calls for report](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486f26a8.json))
-
 * **1** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு மத்திய நிலைய அமைதியின்மை : தப்பிச்சென்ற 599 பேர் சரண் 123 பேரை தேடி வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9b1aa51.json))
 
-## Last 24 Hours (247 Articles)
+## Last 24 Hours (245 Articles)
 
 * **41** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
-
-* **33** daily-mirror-lk ([Bunker licence holders agree to import and supply jet fuel on urgent basis](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9c46058.json))
 
 * **33** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
 * **32** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
+
+* **32** daily-mirror-lk ([Banks see deceleration in deposits amid hyperinflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff7f4109.json))
 
 * **27** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
@@ -40,11 +38,11 @@
 
 * **19** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **8** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
+* **7** daily-ft-lk ([Kirklees Estate amongst record books at Colombo Tea Auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ee12e16.json))
 
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,801 Articles)
+## Last Week (1,800 Articles)
 
 * **318** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -54,7 +52,7 @@
 
 * **206** ada-lk ([අද කොන්සියුලර් සේවා 400කට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb878c13.json))
 
-* **196** tamil-mirror-lk ([தூதரக சேவைகளில் இன்று வரையறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de034605.json))
+* **195** tamil-mirror-lk ([பொதி சேவை ஊடாக அனுப்பப்பட்ட எரிவாயு கொள்கலன்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/526c5727.json))
 
 * **175** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
