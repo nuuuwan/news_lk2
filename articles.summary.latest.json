@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca--\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba\u0da7-\u0d9a\u0dbb\u0db1\u0db8\u0d9a\u0dca-\u0d9c\u0dc4\u0dba\u0dd2/101-615689",
+    "time_ut": 1656658248,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dbb\u0dca\u0dc0\u0dd2\u0db1\u0dca  \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba\u0da7 \u0d9a\u0dbb\u0db1\u0db8\u0d9a\u0dca \u0d9c\u0dc4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2e/2eefa20b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83362/lawyers-stage-protest-march-in-colombo-fort",
     "time_ut": 1656656580,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/c4/c43d080c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbd\u0dd9\u0dbd\u0dca\u0dbd\u0da7\u0db8-\u0dc4\u0dd2\u0daf\u0dd9\u0dba\u0dd2/101-615491",
-    "time_ut": 1656327092,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd9\u0dbd\u0dca\u0dbd\u0da7\u0db8 \u0dc4\u0dd2\u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6d/6d8bfbb7.json"
   }
 ]
