@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0ba4\u0bbe\u0baf\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0baa\u0bb2\u0bbf/175-299547",
+    "time_ut": 1656674500,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbe\u0baf\u0bcd; \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/e6/e64ae298.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83366/mother-jumps-into-chandrika-wewa-with-two-kids-daughter-dies",
     "time_ut": 1656674460,
     "original_lang": "en",
     "original_title": "Mother jumps into Chandrika Wewa with two kids; daughter dies",
     "file_name": "/tmp/news_lk2/articles/88/88ce1582.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/01/fuel-crisis-ceb-warns-of-delays-in-restoring-power/",
+    "time_ut": 1656674460,
+    "original_lang": "en",
+    "original_title": "Fuel Crisis: CEB warns of delays in restoring power",
+    "file_name": "/tmp/news_lk2/articles/64/64da8d4d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -40,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/e6/e676012e.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/01/woman-jumps-into-embilipitiya-lake-with-two-sons/",
+    "time_ut": 1656672120,
+    "original_lang": "en",
+    "original_title": "Woman jumps into Embilipitiya Lake with two sons",
+    "file_name": "/tmp/news_lk2/articles/b5/b5210603.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130562",
     "time_ut": 1656671876,
@@ -54,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8",
     "file_name": "/tmp/news_lk2/articles/9c/9c2358d4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/01/man-arrested-for-hoarding-diesel/",
+    "time_ut": 1656671340,
+    "original_lang": "en",
+    "original_title": "Man arrested for hoarding Diesel",
+    "file_name": "/tmp/news_lk2/articles/4c/4ce81f22.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Insights into Sri Lanka Cauvery and Mannar Basins from FTG and Aeromagnetic DATA",
     "file_name": "/tmp/news_lk2/articles/6b/6b404777.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-order-exporters-embassies-hotels-to-pay-electricity-bills-in-dollars-96545/",
-    "time_ut": 1656341880,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to order exporters, embassies, hotels to pay electricity bills in dollars",
-    "file_name": "/tmp/news_lk2/articles/83/8344b2bf.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/new-scene-for-ruwini/",
-    "time_ut": 1656341880,
-    "original_lang": "en",
-    "original_title": "New scene for Ruwini?",
-    "file_name": "/tmp/news_lk2/articles/a2/a2f2ef2c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299316",
-    "time_ut": 1656341624,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/0e/0ec7cd54.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130293",
-    "time_ut": 1656341207,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/db/db7306df.json"
   }
 ]
