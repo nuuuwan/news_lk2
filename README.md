@@ -1,24 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 19:29:07 (LK time)*
+*As of 2022-07-01 19:36:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **1** virakesari-lk ([நாட்டின் தற்போதைய நிலைமை குறித்து தமது அதிருப்தியை வெளிப்படுத்தி ஜனாதிபதிக்கு மகாநாக்க தேரர்கள் அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3e1979b.json))
 
 * **1** lankadeepa-lk ([විදේශ අමාත්‍යාංශයේ කොන්සියුලරය සතියේ දින 5ම ඇරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0df38c5.json))
 
 * **1** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a88200.json))
 
-* **1** ada-derana-lk ([Chief incumbents of four Buddhist chapters write to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3cb4bb.json))
+## Last Hour (10 Articles)
 
-* **1** news-first-lk ([Pass 22A & form All-Party Government; Mahanayake Theros send 10 point letter to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/307aae86.json))
-
-## Last Hour (9 Articles)
+* **3** virakesari-lk ([தனது இரண்டு பிள்ளைகளுடன் எம்பிலிபிட்டிய வாவியில் குதித்த தாய் - தாயும் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eacaee5.json))
 
 * **2** ada-derana-lk ([Indian HC issues notice on accepting visa applications](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e305a51c.json))
-
-* **2** virakesari-lk ([தனது இரண்டு பிள்ளைகளுடன் எம்பிலிபிட்டிய வாவியில் குதித்த தாய் - தாயும் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eacaee5.json))
 
 * **2** economy-next-com ([Sri Lanka’s guidance peg raises 55 cents despite dollar shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22f0168f.json))
 
@@ -30,9 +28,9 @@
 
 ## Last 3 Hours (35 Articles)
 
-* **10** lankadeepa-lk ([සෞඛ්‍ය දෙන තෙල් ගන්න ටෝකන් දුන් අයත් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72eac14b.json))
+* **11** virakesari-lk ([22 ஆயிரம் சுற்றுலாப்பயணிகளே நாட்டில் தற்போது தங்கியுள்ளனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b359613.json))
 
-* **10** virakesari-lk ([22 ஆயிரம் சுற்றுலாப்பயணிகளே நாட்டில் தற்போது தங்கியுள்ளனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b359613.json))
+* **9** lankadeepa-lk ([නේවාසික රෝගීන්ට ආහාර සැපයුමත් සීමා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6cb1d71.json))
 
 * **5** ada-derana-lk ([Mother jumps into Chandrika Wewa with two kids; daughter dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88ce1582.json))
 
@@ -44,9 +42,9 @@
 
 * **1** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a88200.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (216 Articles)
 
-* **47** virakesari-lk ([கொலன்னாவை சந்தியில் துப்பாக்கி சூடு ஒருவர் பலி - ஒரு மாதத்தில் 21 பேர் சுட்டுக்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc254685.json))
+* **48** virakesari-lk ([கொலன்னாவை சந்தியில் துப்பாக்கி சூடு ஒருவர் பலி - ஒரு மாதத்தில் 21 பேர் சுட்டுக்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc254685.json))
 
 * **38** lankadeepa-lk ([මහබැංකු අධිපතිට වසර හයක සේවා දිගුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6a0840b.json))
 
@@ -68,7 +66,7 @@
 
 ## Last Week (1,768 Articles)
 
-* **326** virakesari-lk ([வத்தளை துப்பாக்கிச் சூடு :உளவு பார்த்த இருவர் கைது - தடுப்புக் காவலில் வைத்து விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/539f2054.json))
+* **327** virakesari-lk ([வத்தளை துப்பாக்கிச் சூடு :உளவு பார்த்த இருவர் கைது - தடுப்புக் காவலில் வைத்து விசாரணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/539f2054.json))
 
 * **261** lankadeepa-lk ([ලංගමට දහස් ගණනක්  හොරපාරෙන් අරන් වැටුප් ගෙවලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc9088f.json))
 
@@ -86,7 +84,7 @@
 
 * **73** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
-* **38** island-lk ([National List: convenient for political parties, gravy for those appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d35027b5.json))
+* **37** island-lk ([Failure feeds fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eab68e4c.json))
 
 * **26** d-b-s-jeyaraj-com ([The decision to allow the Sri Lankan Rupee (LKR) to be “flexible” from March 7, 2022 onwards was not a  “unilateral” decision of then   Central Bank  :Governor Ajith Nivard Cabraal.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbdecf3d.json))
 
@@ -94,9 +92,9 @@
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,248 Articles)
+## All Time (2,249 Articles)
 
-* **382** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **383** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **369** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
