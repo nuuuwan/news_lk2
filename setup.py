@@ -36,5 +36,6 @@ setuptools.setup(
         'wordcloud',
         'python-Levenshtein',
         'imageio',
+        'moviepy',
     ],
 )

@@ -10,3 +10,4 @@ matplotlib
 wordcloud
 python-Levenshtein
 imageio
+moviepy
