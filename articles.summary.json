@@ -4376,6 +4376,14 @@
     "file_name": "/tmp/news_lk2/articles/05/05b5eddd.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/at-80-now-serving-humanity/",
+    "time_ut": 1656509340,
+    "original_lang": "en",
+    "original_title": "At 80, now serving humanity",
+    "file_name": "/tmp/news_lk2/articles/d3/d32faadb.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db8\u0dda-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0d85\u0dc3\u0dd3\u0dbb\u0dd4\u0dad\u0db8-\u0d9a\u0dcf\u0dbd\u0dba\u0dba\u0dd2\u2018\u2018/101-615617",
     "time_ut": 1656509184,
@@ -6230,6 +6238,14 @@
     "original_lang": "en",
     "original_title": "Health services face imminent collapse due to fuel crisis",
     "file_name": "/tmp/news_lk2/articles/8d/8dc97ab8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/when-incompetence-fuels-crisis/",
+    "time_ut": 1656434760,
+    "original_lang": "en",
+    "original_title": "When incompetence fuels crisis",
+    "file_name": "/tmp/news_lk2/articles/81/81f6a9f3.json"
   },
   {
     "newspaper_id": "island-lk",

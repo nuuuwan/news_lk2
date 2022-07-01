@@ -4376,6 +4376,14 @@
     "file_name": "/tmp/news_lk2/articles/05/05b5eddd.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/at-80-now-serving-humanity/",
+    "time_ut": 1656509340,
+    "original_lang": "en",
+    "original_title": "At 80, now serving humanity",
+    "file_name": "/tmp/news_lk2/articles/d3/d32faadb.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db8\u0dda-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0d85\u0dc3\u0dd3\u0dbb\u0dd4\u0dad\u0db8-\u0d9a\u0dcf\u0dbd\u0dba\u0dba\u0dd2\u2018\u2018/101-615617",
     "time_ut": 1656509184,
@@ -6233,6 +6241,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/when-incompetence-fuels-crisis/",
+    "time_ut": 1656434760,
+    "original_lang": "en",
+    "original_title": "When incompetence fuels crisis",
+    "file_name": "/tmp/news_lk2/articles/81/81f6a9f3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/miss-sri-lanka-2021-sade-greenwood-is-cjs-first-youth-ambassador/",
     "time_ut": 1656434640,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Kanchana off to Qatar to discuss fuel needs",
     "file_name": "/tmp/news_lk2/articles/70/70110bb4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Discussion-on-bus-fare-revision-today/108-239948",
-    "time_ut": 1656388981,
-    "original_lang": "en",
-    "original_title": "Discussion on bus fare revision today",
-    "file_name": "/tmp/news_lk2/articles/95/953ad27a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130301",
-    "time_ut": 1656388539,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 !",
-    "file_name": "/tmp/news_lk2/articles/51/519ada79.json"
   }
 ]
