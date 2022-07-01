@@ -1,28 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 02:52:08 (LK time)*
+*As of 2022-07-02 03:00:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Kamal Haasan returns to cinema  with blockbuster ‘Vikram’](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90de507b.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (14 Articles)
 
-* **12** daily-ft-lk ([Time for a fighting chance](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91980d5c.json))
+* **11** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
-* **1** ada-derana-lk ([Japan ready to provide continuous support to Sri Lanka, envoy says](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf79ccbe.json))
+## Last 24 Hours (223 Articles)
 
-## Last 24 Hours (222 Articles)
-
-* **49** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
+* **50** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
 * **38** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
@@ -42,9 +36,9 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,747 Articles)
+## Last Week (1,748 Articles)
 
-* **327** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
+* **328** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
 * **264** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c0af924.json))
 
@@ -70,9 +64,9 @@
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,296 Articles)
+## All Time (2,297 Articles)
 
-* **390** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **391** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **373** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
