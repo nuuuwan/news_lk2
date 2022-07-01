@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 03:00:16 (LK time)*
+*As of 2022-07-02 03:08:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (11 Articles)
 
-* **11** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
+* **8** daily-ft-lk ([GL attends Commonwealth Heads of Government Meeting 2022 in Kigali, Rwanda](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/884383ff.json))
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
