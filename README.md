@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 22:53:09 (LK time)*
+*As of 2022-07-01 23:08:55 (LK time)*
 
-![wordcloud animation](wordcloud.150.gif)
+![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([Extensive talks between President & advisory group on multilateral engagement, debt sustainability](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52959c88.json))
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Extensive talks between President & advisory group on multilateral engagement, debt sustainability](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52959c88.json))
 
-* **1** lankadeepa-lk ([ඉන්ධන හිඟයෙන් තේ කම්හල් ටිකත් කොට උඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb40fa0d.json))
-
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (14 Articles)
 
 * **4** lankadeepa-lk ([’’තෙල් ප්‍රශ්නය ඉල්ලාගෙන කෑමක්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58f56d97.json))
-
-* **4** virakesari-lk ([காலி கோட்டை ஆர்ப்பாட்டம் மீதான அத்துமீறல் : இராணுவ தலையீட்டுக்கு எதிராக மனு தாக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8e4d9a8.json))
 
 * **3** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
 
@@ -28,9 +24,9 @@
 
 * **2** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
 
-* **1** ada-lk ([ශ්‍රී ලංකාවට අඛණ්ඩව සහාය දෙනවා - ජපාන තානාපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/088b441f.json))
+* **1** virakesari-lk ([மே 9 வன்முறைகள் - மேலும் 14 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44af6858.json))
 
-## Last 24 Hours (212 Articles)
+## Last 24 Hours (211 Articles)
 
 * **46** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -42,7 +38,7 @@
 
 * **22** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-* **18** tamil-mirror-lk ([குறுகிய காலத்திற்குள் நெருக்கடி நிலைமைகள் குறையும்: பிரதமர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/206afb3d.json))
+* **17** tamil-mirror-lk ([’பிச்சை எடுத்து உண்ணும் நிலையில் நாடு’](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7864dbe.json))
 
 * **15** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
@@ -52,7 +48,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,758 Articles)
+## Last Week (1,757 Articles)
 
 * **324** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -70,7 +66,7 @@
 
 * **97** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
-* **73** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
+* **72** daily-ft-lk ([A call for debt justice, debt cancellation and transparency in IMF negotiations](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8042763.json))
 
 * **37** island-lk ([Failure feeds fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eab68e4c.json))
 
