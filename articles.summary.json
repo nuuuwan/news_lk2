@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Are-we-learning-anything-from-the-crisis/172-240219",
+    "time_ut": 1656708368,
+    "original_lang": "en",
+    "original_title": "Are we learning anything from the crisis?",
+    "file_name": "/tmp/news_lk2/articles/43/43cc9161.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Revive-the-co-operative-movement-in-Sri-Lanka/172-240218",
+    "time_ut": 1656708217,
+    "original_lang": "en",
+    "original_title": "Revive the co-operative movement in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b6/b63fe2cc.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/BOI-realigns-confidence-of-investors-through-webinar-series/34-736953",
     "time_ut": 1656703074,
