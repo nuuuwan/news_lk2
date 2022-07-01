@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Woman-jumps-into-Chandrika-Wewa-with-two-sons/108-240182",
+    "time_ut": 1656691262,
+    "original_lang": "en",
+    "original_title": "Woman jumps into Chandrika Wewa with two sons",
+    "file_name": "/tmp/news_lk2/articles/b2/b2bd83e8.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-sees-more-people-seeking-risky-boat-journey-to-australia-despite-deterrents-96770/",
     "time_ut": 1656690300,
@@ -73,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/342-240179",
+    "url": "https://www.dailymirror.lk/breaking_news/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/108-240179",
     "time_ut": 1656684854,
     "original_lang": "en",
     "original_title": "Japan says closely paying attention to SL\u2019s difficult economic situation, ready to assist",
-    "file_name": "/tmp/news_lk2/articles/98/983d6ef4.json"
+    "file_name": "/tmp/news_lk2/articles/9d/9d10d3d3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -374,6 +382,14 @@
     "original_lang": "en",
     "original_title": "Fuel Crisis: CEB warns of delays in restoring power",
     "file_name": "/tmp/news_lk2/articles/64/64da8d4d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83366/mother-jumps-into-chandrika-wewa-with-two-kids",
+    "time_ut": 1656674460,
+    "original_lang": "en",
+    "original_title": "Mother jumps into Chandrika Wewa with two kids",
+    "file_name": "/tmp/news_lk2/articles/62/62135f7e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The 22nd Amendment to the Constitution will be published in the Gazette of June 29 and  presented to Parliament after seven days, Says Justice Minister Wijeyadasa Rajapakshe; Cabinet Approved Draft Bill on June 27",
     "file_name": "/tmp/news_lk2/articles/2c/2c4b2794.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78267",
-    "time_ut": 1656357300,
-    "original_lang": "en",
-    "original_title": "Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks \u2018urgent\u2019 supply from India, Russia, Qatar",
-    "file_name": "/tmp/news_lk2/articles/5c/5cb9b1ad.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78271",
-    "time_ut": 1656356760,
-    "original_lang": "en",
-    "original_title": "South Asians for Human Rights (SAHR), a regional network of human rights defenders, vehemently condemns the arrest of Indian rights activist and Journalist Teesta Setalvad on 25 June 2022.",
-    "file_name": "/tmp/news_lk2/articles/cc/cc7271e7.json"
   }
 ]
