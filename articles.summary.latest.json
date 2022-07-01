@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-sees-more-people-seeking-risky-boat-journey-to-australia-despite-deterrents-96770/",
+    "time_ut": 1656690300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents",
+    "file_name": "/tmp/news_lk2/articles/dc/dc59e8cf.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-299550",
     "time_ut": 1656689657,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "South Asians for Human Rights (SAHR), a regional network of human rights defenders, vehemently condemns the arrest of Indian rights activist and Journalist Teesta Setalvad on 25 June 2022.",
     "file_name": "/tmp/news_lk2/articles/cc/cc7271e7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78264",
-    "time_ut": 1656356220,
-    "original_lang": "en",
-    "original_title": "US Commitment  in Economic and Humanitarian Assistance to Sri Lanka Since June 16 Goes up to  $ 32 Million After President Joe Biden\u2019s  Announcement of $ 20 Million Additional  Aid",
-    "file_name": "/tmp/news_lk2/articles/9e/9ecd3542.json"
   }
 ]
