@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 01:22:11 (LK time)*
+*As of 2022-07-02 01:34:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,7 +16,7 @@
 
 * **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
 
-## Last 24 Hours (221 Articles)
+## Last 24 Hours (220 Articles)
 
 * **48** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -26,7 +26,7 @@
 
 * **23** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
-* **23** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
+* **22** daily-mirror-lk ([Lesson for Lanka from Ecuador’s crises, its relations with US and China](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04cee260.json))
 
 * **21** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
@@ -38,7 +38,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,748 Articles)
+## Last Week (1,746 Articles)
 
 * **326** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -46,9 +46,9 @@
 
 * **205** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
-* **199** tamil-mirror-lk ([’இந்தியாவின் ஒத்துழைப்புக்கு நன்றி’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7f8782.json))
-
 * **198** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
+
+* **197** tamil-mirror-lk ([விசேட வர்த்தமானி அறிவித்தல் வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5316e33.json))
 
 * **162** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
