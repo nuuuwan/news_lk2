@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 02:00:40 (LK time)*
+*As of 2022-07-02 02:11:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -34,7 +34,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,747 Articles)
+## Last Week (1,746 Articles)
 
 * **327** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -44,7 +44,7 @@
 
 * **198** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
 
-* **197** tamil-mirror-lk ([விசேட வர்த்தமானி அறிவித்தல் வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5316e33.json))
+* **196** tamil-mirror-lk ([மன்னிப்பு கோரினார் கஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/676871ae.json))
 
 * **162** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
