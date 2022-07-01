@@ -113,6 +113,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130596",
+    "time_ut": 1656685885,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd : \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b9/b9ab26e5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130595",
     "time_ut": 1656685745,
     "original_lang": "ta",
@@ -145,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/108-240179",
+    "url": "https://www.dailymirror.lk/top_story/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/155-240179",
     "time_ut": 1656684854,
     "original_lang": "en",
     "original_title": "Japan says closely paying attention to SL\u2019s difficult economic situation, ready to assist",
-    "file_name": "/tmp/news_lk2/articles/9d/9d10d3d3.json"
+    "file_name": "/tmp/news_lk2/articles/9a/9a3101a2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -185,11 +193,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Deployment-of-army-personnel-to-disperse-Galle-Fort-protest-Two-lawyers-file-FR-petition/342-240177",
+    "url": "https://www.dailymirror.lk/breaking_news/Deployment-of-army-personnel-to-disperse-Galle-Fort-protest-Two-lawyers-file-FR-petition/108-240177",
     "time_ut": 1656682644,
     "original_lang": "en",
     "original_title": "Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition",
-    "file_name": "/tmp/news_lk2/articles/96/96a88200.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3bc5b18f.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
