@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dc0\u0dcf---\u0da2\u0db4\u0dcf\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2/11-395019",
+    "time_ut": 1656685730,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dc0\u0dcf - \u0da2\u0db4\u0dcf\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/08/088b441f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/342-240179",
     "time_ut": 1656684854,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "IMPROVING PUBLIC TRANSPORT",
     "file_name": "/tmp/news_lk2/articles/48/4888d16e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83291/sltb-says-adequate-buses-will-be-operated",
-    "time_ut": 1656348720,
-    "original_lang": "en",
-    "original_title": "SLTB says adequate buses will be operated",
-    "file_name": "/tmp/news_lk2/articles/ca/ca626504.json"
   }
 ]
