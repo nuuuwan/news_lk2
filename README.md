@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 00:21:52 (LK time)*
+*As of 2022-07-02 00:31:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (8 Articles)
 
-* **7** daily-ft-lk ([Time for a fighting chance](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91980d5c.json))
+* **8** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
 
-* **1** ada-derana-lk ([Japan ready to provide continuous support to Sri Lanka, envoy says](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf79ccbe.json))
+## Last Hour (13 Articles)
 
-## Last Hour (11 Articles)
-
-* **8** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
+* **10** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
 * **2** ada-derana-lk ([Laugfs says LP gas distribution process expanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73dee560.json))
 
@@ -20,19 +18,17 @@
 
 ## Last 3 Hours (18 Articles)
 
-* **8** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
+* **10** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
 * **4** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
 
 * **2** lankadeepa-lk ([පාතාල තර්ජන එල්ල වූ පොලිස් නිලධාරීන්ට ආරක්‍ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b25548f.json))
 
-* **2** economy-next-com ([Sri Lanka CEB warns of likely increase in power cut duration over lack of diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5deff8ea.json))
-
 * **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
 
-* **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
+* **1** economy-next-com ([Sri Lanka shares up amid renewed interest on LIOC shares; concerns remain](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e4aacc.json))
 
-## Last 24 Hours (219 Articles)
+## Last 24 Hours (221 Articles)
 
 * **47** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -44,7 +40,7 @@
 
 * **23** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
 
-* **16** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+* **18** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
 * **15** tamil-mirror-lk ([நந்தலால் வீரசிங்கவுக்கு நியமனக் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a908f91.json))
 
@@ -54,7 +50,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,755 Articles)
+## Last Week (1,754 Articles)
 
 * **325** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -72,17 +68,17 @@
 
 * **97** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
-* **69** daily-ft-lk ([Ranil kicks off ‘Land for All’ program](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/752dbbe2.json))
+* **69** daily-ft-lk ([ComBank remittance customers win Rs. 5 m in four months](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17da359f.json))
 
 * **36** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **26** d-b-s-jeyaraj-com ([The decision to allow the Sri Lankan Rupee (LKR) to be “flexible” from March 7, 2022 onwards was not a  “unilateral” decision of then   Central Bank  :Governor Ajith Nivard Cabraal.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbdecf3d.json))
+* **25** d-b-s-jeyaraj-com ([India Strengthens Its Position in Sri Lanka Vis-à-Vis Rival China; Will China remain a bystander, watching India and the West displacing it in Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/5323ce1e.json))
 
 * **11** colombo-telegraph-com ([Why I Don’t Support The Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf71fc70.json))
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,286 Articles)
+## All Time (2,288 Articles)
 
 * **388** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -98,7 +94,7 @@
 
 * **175** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **120** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **122** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **112** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 

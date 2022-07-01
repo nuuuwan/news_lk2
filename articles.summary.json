@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/More-days-to-submit-Indian-visa-applications/56-736940",
+    "time_ut": 1656701130,
+    "original_lang": "en",
+    "original_title": "More days to submit Indian visa applications",
+    "file_name": "/tmp/news_lk2/articles/92/92f11c04.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Oman-assures-support-for-SL-with-energy-jobs-and-investments/56-736939",
+    "time_ut": 1656701123,
+    "original_lang": "en",
+    "original_title": "Oman assures support for SL with energy, jobs and investments",
+    "file_name": "/tmp/news_lk2/articles/2f/2f463aff.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Army-evicted-protesters-at-Galle-cricket-match-file-FR/56-736938",
     "time_ut": 1656701077,
     "original_lang": "en",

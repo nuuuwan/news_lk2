@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/More-days-to-submit-Indian-visa-applications/56-736940",
+    "time_ut": 1656701130,
+    "original_lang": "en",
+    "original_title": "More days to submit Indian visa applications",
+    "file_name": "/tmp/news_lk2/articles/92/92f11c04.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Oman-assures-support-for-SL-with-energy-jobs-and-investments/56-736939",
+    "time_ut": 1656701123,
+    "original_lang": "en",
+    "original_title": "Oman assures support for SL with energy, jobs and investments",
+    "file_name": "/tmp/news_lk2/articles/2f/2f463aff.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Army-evicted-protesters-at-Galle-cricket-match-file-FR/56-736938",
     "time_ut": 1656701077,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/19/19bbe239.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0dc3\u0ddc\u0dba\u0dcf-\u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad-\u0dc0\u0dd9\u0dad\u0dd2/11-394901",
-    "time_ut": 1656382737,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dc3\u0ddc\u0dba\u0dcf \u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca\u0d9c\u0dad \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/55/55e2cbea.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83293/two-ministers-leave-for-qatar-for-talks-on-fuel-imports",
-    "time_ut": 1656382320,
-    "original_lang": "en",
-    "original_title": "Two ministers leave for Qatar for talks on fuel imports",
-    "file_name": "/tmp/news_lk2/articles/eb/eb9f91a7.json"
   }
 ]
