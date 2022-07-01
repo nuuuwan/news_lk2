@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83362/lawyers-stage-protest-march-in-colombo-fort",
+    "time_ut": 1656656580,
+    "original_lang": "en",
+    "original_title": "Lawyers stage protest march in Colombo Fort",
+    "file_name": "/tmp/news_lk2/articles/d9/d97edbbb.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130542",
+    "time_ut": 1656656155,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0bae\u0bb2\u0bc7\u0bb7\u0bbf\u0baf \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/44/44957e39.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7-\u0dad\u0dd9\u0dbd\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db1\u0ddc\u0daf\u0dd3-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca/101-615687",
+    "time_ut": 1656656042,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0dba\u0da7 \u0dad\u0dd9\u0dbd\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db1\u0ddc\u0daf\u0dd3 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b1/b14d8a01.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130541",
+    "time_ut": 1656656032,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3 \u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ac/ac06ec80.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-edge-up-in-mid-day-trade-96753/",
+    "time_ut": 1656655920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks edge up in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/45/45c365a5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0dc0\u0dd9\u0db1\u0dd2-\u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0dda-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca/101-615686",
+    "time_ut": 1656654915,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0dc0\u0dd9\u0db1\u0dd2 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba\u0dda \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/33/332f7bed.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0ddd\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0ddd-\u0d85\u0db4\u0dcf\u0dba\u0dda-\u0daf\u0ddc\u0dbb-\u0daf\u0dd0\u0d9a-\u0d9a\u0dd1-\u0d9c\u0dc4\u0db1\u0dc0\u0dcf/101-615685",
     "time_ut": 1656654899,
@@ -4072,14 +4120,6 @@
     "file_name": "/tmp/news_lk2/articles/90/907b100b.json"
   },
   {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-edge-up-in-mid-day-trade-96629/",
-    "time_ut": 1656484500,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks edge up in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/61/6187cca1.json"
-  },
-  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dca-\u0d89\u0dc4\u0dc5\u0db8-\u0d85\u0d9c\u0dba\u0da7-\u0d91\u0dba\u0dd2/3-394944",
     "time_ut": 1656484442,
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019 \u0d91\u0d9a\u0da7 \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0db0\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/01/01d6ceff.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d8b\u0db4\u0dba\u0db1-\u0d85\u0dba\u0d9c\u0dda-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-394890",
-    "time_ut": 1656326720,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d8b\u0db4\u0dba\u0db1 \u0d85\u0dba\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/37/37244d62.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130275",
-    "time_ut": 1656326690,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0ba9\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd : \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bcd\u0b9a\u0b95\u0bb0\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f \u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/bf/bf92c01a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130277",
-    "time_ut": 1656326497,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 3 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8b/8b15ae2f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0d9a\u0dca\u0d9a\u0dbb-500-\u0d9a-\u0db6\u0da9-\u0d89\u0dbb\u0dd2\u0d9f\u0dd4-\u0dc0\u0d9c\u0dcf\u0dc0\u0d9a\u0dca/11-394889",
-    "time_ut": 1656326482,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0d9a\u0dca\u0d9a\u0dbb 500 \u0d9a \u0db6\u0da9 \u0d89\u0dbb\u0dd2\u0d9f\u0dd4 \u0dc0\u0d9c\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/02/02d34ae1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130276",
-    "time_ut": 1656326399,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bae\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bbe\u0ba4\u0bc1 - \u0bb5\u0bbf\u0bae\u0bb2\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/d4/d4e8b9bd.json"
   }
 ]

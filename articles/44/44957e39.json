@@ -1,0 +1,306 @@
+{
+  "newspaper_id": "virakesari-lk",
+  "url": "http://www.virakesari.lk/article/130542",
+  "time_ut": 1656656155,
+  "original_lang": "ta",
+  "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0bae\u0bb2\u0bc7\u0bb7\u0bbf\u0baf \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Medicines were supplied to Sri Lanka by Malaysian Buddhist organizations",
+      "author": "T. Saranya",
+      "body_lines": [
+        "Many Buddhist organizations in Malaysia have donated emergency medicine and medical supplies to Sri Lanka to alleviate the shortage of medicines in Sri Lanka.",
+        "On 14th June, Karin Keong representing Chi Hui Tang - Kuala Lumpur, Siu Niok Cho representing Yayasan Chin Chew & Best Wishes Foundation Malaysia and Chief Abbot Wen Ju Seng of PLIA & Pho Kuang Shan Malaysia received US$54046.26 worth of pharmaceuticals from the Sri Lankan High Commissioner to Malaysia A They handed over to Chief Marshal Sumangala Dias.",
+        "The Deputy High Commissioner was present at the handing over ceremony. Ms. Dilani Weerakoon and Second Secretary (Commerce). Meghalaya Abeykoon was also present."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "Malaysian",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Buddhist",
+            "label": "NORP"
+          },
+          {
+            "text": "Malaysia",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "14th June",
+            "label": "DATE"
+          },
+          {
+            "text": "Karin Keong",
+            "label": "PERSON"
+          },
+          {
+            "text": "Chi Hui Tang - Kuala Lumpur",
+            "label": "PERSON"
+          },
+          {
+            "text": "Yayasan Chin Chew & Best Wishes Foundation",
+            "label": "PERSON"
+          },
+          {
+            "text": "Malaysia",
+            "label": "GPE"
+          },
+          {
+            "text": "Abbot Wen Ju Seng",
+            "label": "PERSON"
+          },
+          {
+            "text": "Malaysia",
+            "label": "GPE"
+          },
+          {
+            "text": "54046.26",
+            "label": "MONEY"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "LOC"
+          },
+          {
+            "text": "Malaysia",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Dilani Weerakoon",
+            "label": "PERSON"
+          },
+          {
+            "text": "Second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Commerce",
+            "label": "ORG"
+          },
+          {
+            "text": "Meghalaya Abeykoon",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db6\u0dde\u0daf\u0dca\u0db0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db6\u0dd9\u0dc4\u0dd9\u0dad\u0dca \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf",
+      "author": "T. Saranya",
+      "body_lines": [
+        "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db6\u0ddc\u0dc4\u0ddd \u0db6\u0dde\u0daf\u0dca\u0db0 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d96\u0dc2\u0db0 \u0dc4\u0dd2\u0d9f\u0dba \u0db8\u0d9f\u0dc4\u0dbb\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0d96\u0dc2\u0db0 \u0dc3\u0dc4 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0da2\u0dd6\u0db1\u0dd2 14 \u0dc0\u0db1 \u0daf\u0dd2\u0db1, Chi Hui Tang - Kuala Lumpur \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca Karin Keong, \u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca Yayasan Chin Chew & Best Wishes \u0db4\u0daf\u0db1\u0db8 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca Siu Niok Cho \u0dc3\u0dc4 PLIA \u0dc3\u0dc4 Pho Kuang Shan \u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d87\u0db6\u0da7\u0dca Wen Ju Seng \u0dc0\u0dd9\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d8b\u0dc3\u0dc3\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca 54046.26 \u0d9a\u0dca \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0d96\u0dc2\u0db0 \u0dbd\u0dd0\u0db6\u0dd2\u0dab\u0dd2. \u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0d92 \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0da0\u0dd3\u0dc6\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0dc3\u0dd4\u0db8\u0d82\u0d9c\u0dbd \u0da9\u0dba\u0dc3\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0db8\u0dd9\u0db8 \u0db7\u0dcf\u0dbb\u0daf\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba \u0db8\u0dc4 \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0db8\u0dc4\u0dad\u0dca\u0db8\u0dd2\u0dba. \u0da9\u0dd2\u0dbd\u0dcf\u0db1\u0dd2 \u0dc0\u0dd3\u0dbb\u0d9a\u0ddd\u0db1\u0dca \u0dc3\u0dc4 \u0daf\u0dd9\u0dc0\u0db1 \u0dbd\u0dda\u0d9a\u0db8\u0dca (\u0dc0\u0dcf\u0dab\u0dd2\u0da2\u0dca\u200d\u0dba) \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dcf. \u0db8\u0dd9\u0d9c\u0dcf\u0dbd\u0dcf \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca \u0daf \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db6\u0dde\u0daf\u0dca\u0db0",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd4\u0db1\u0dd2 14",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dbb\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0ddd\u0d82",
+            "label": "PERSON"
+          },
+          {
+            "text": "Chi Hui Tang - Kuala Lumpur",
+            "label": "PERSON"
+          },
+          {
+            "text": "Yayasan Chin Chew \u0dc3\u0dc4 Best Wishes \u0db4\u0daf\u0db1\u0db8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "Abbot Wen Ju Seng",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "54046.26 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da9\u0dd2\u0dbd\u0dcf\u0db1\u0dd2 \u0dc0\u0dd3\u0dbb\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dab\u0dd2\u0da2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dda\u0d9d\u0dbd\u0dba\u0dcf \u0d85\u0db6\u0dda\u0d9a\u0ddd\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0bae\u0bb2\u0bc7\u0bb7\u0bbf\u0baf \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
+      "author": "T. Saranya",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf, \u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bb2 \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd k\u0bbe\u0ba4\u0bae\u0bcd 14 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf \u0bb9\u0bc1\u0baf\u0bcd \u0b9f\u0bbe\u0b99\u0bcd - \u0b95\u0bcb\u0bb2\u0bbe\u0bb2\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0bc0\u0ba9\u0bcd \u0b95\u0bbf\u0baf\u0bcb\u0b99\u0bcd, \u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baf\u0baf\u0bbe\u0b9a\u0ba9\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0bb5\u0bcd & \u0baa\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0bb7\u0bcd\u0bb8\u0bcd \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0baf\u0bc2 \u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bcd \u0b9a\u0bcb \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b90\u0b8f & \u0b83\u0baa\u0bcb \u0b95\u0bc1\u0bb5\u0bbe\u0b99\u0bcd \u0bb7\u0bbe\u0ba9\u0bcd \u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0bae\u0b9f\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bc6\u0ba9\u0bcd \u0b9c\u0bc2 \u0b9a\u0bc6\u0b99\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd 54046.26 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd \u0b8e\u0baf\u0bbe\u0bb0\u0bcd \u0b9a\u0bc0\u0b83\u0baa\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0b99\u0bcd\u0b95\u0bb2 \u0b9f\u0baf\u0bb8\u0bbf\u0b9f\u0bae\u0bcd\u00a0\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0b95\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf. \u0b9f\u0bbf\u0bb2\u0bbe\u0ba9\u0bbf \u0bb5\u0bc0\u0bb0\u0b95\u0bcb\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd (\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd) \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbf. \u0bae\u0bc7\u0b95\u0bb2\u0bbe \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0ba9\u0bcd",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bcc\u0ba4\u0bcd\u0ba4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 14",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0baf\u0bcb\u0b99\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Chi Hui Tang - Kuala Lumpur",
+            "label": "PERSON"
+          },
+          {
+            "text": "Yayasan Chin Chew & Best Wishes Foundation",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "Abbot Wen Ju Seng",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "54046.26",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bbf\u0bb2\u0bbe\u0ba9\u0bbf \u0bb5\u0bc0\u0bb0\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0b95\u0bb2\u0bbe \u0b85\u0baa\u0bc7\u0b95\u0bcb\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
