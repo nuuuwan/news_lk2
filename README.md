@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 00:57:21 (LK time)*
+*As of 2022-07-02 01:06:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,11 @@
 
 * **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
 
-## Last Hour (12 Articles)
+## Last Hour (10 Articles)
 
-* **11** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
+* **10** daily-ft-lk ([Prof. Mohan Munasinghe delivers keynote speech at Hegra Nobel Laureates Summit in Saudi Arabia](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84209076.json))
 
-* **1** ada-derana-lk ([Japan ready to provide continuous support to Sri Lanka, envoy says](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf79ccbe.json))
-
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
 * **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
@@ -22,9 +20,7 @@
 
 * **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
 
-* **1** lankadeepa-lk ([ඉන්ධන හිඟයෙන් තේ කම්හල් ටිකත් කොට උඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb40fa0d.json))
-
-## Last 24 Hours (224 Articles)
+## Last 24 Hours (223 Articles)
 
 * **48** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -42,7 +38,7 @@
 
 * **15** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
-* **14** tamil-mirror-lk ([இன்று முதல் 5 ஆண்டுகால இலவச தொழில் விசா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c91473e7.json))
+* **13** tamil-mirror-lk ([கந்தக்காடு விரையும் மனித உரிமைகள் ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b621ae2d.json))
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
