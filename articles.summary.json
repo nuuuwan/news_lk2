@@ -88,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/68/68fab144.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130595",
+    "time_ut": 1656685745,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb2\u0bbe\u0baa\u0bcd \u0b95\u0bbe\u0bb8\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0b9f\u0bb5\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/eb/eb9cf17e.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dc0\u0dcf---\u0da2\u0db4\u0dcf\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2/11-395019",
     "time_ut": 1656685730,
