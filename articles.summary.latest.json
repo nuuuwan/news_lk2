@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130601",
+    "time_ut": 1656688406,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7 9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd - \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 14 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/44/44af6858.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bca\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd/175-299549",
     "time_ut": 1656688187,
     "original_lang": "ta",
     "original_title": "\u0bb2\u0bca\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/ac/acdad47f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba:-\u0dba\u0dd4\u0daf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4-4-\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-615718",
+    "time_ut": 1656687893,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4 \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba: \u0dba\u0dd4\u0daf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd9\u0db6\u0dc5\u0dd4 4 \u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/52/5220f028.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Radhika Coomaraswamy Appointed by the UN Human Rights Council  to serve as a member of the International Commission of Human Rights Experts on Ethiopia.",
     "file_name": "/tmp/news_lk2/articles/1d/1dac36db.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78251",
-    "time_ut": 1656355140,
-    "original_lang": "en",
-    "original_title": "Name of Dhammika Perera\u2019s Ministry  Changed from  Tecnology and Investment Promotion to  Investment Promotion; New Gazette Issued  Listing  Institutions  and Functions  Allocated to Ministry",
-    "file_name": "/tmp/news_lk2/articles/1b/1bf81fea.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dda-\u0dad\u0dd2\u0dba\u0dd9\u0db1-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca-\u200c\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-394899",
-    "time_ut": 1656354544,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dad\u0dda \u0dad\u0dd2\u0dba\u0dd9\u0db1 \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0db1\u0dca \u0dad\u0dd9\u0dbd\u0dca \u200c\u0d9c\u0dda\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
-    "file_name": "/tmp/news_lk2/articles/87/87fb83c0.json"
   }
 ]
