@@ -6,23 +6,39 @@
   "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca \u0db1\u0dd1",
   "text_idx": {
     "en": {
-      "title": "There are no tickets from Colombo Fort railway station",
+      "title": "No tickets at Colombo Fort Railway Station",
       "author": "unknown",
       "body_lines": [
-        "The OICs will not be called to work at the Colombo Fort Railway Station until the railway authorities provide the correct information regarding the delayed trains and the canceled trains.",
+        "Mr. Kasun Chamara, Secretary of Station Master's Association, said today (1) afternoon that station masters will not be called to duty at Colombo Fort railway station until the railway authorities provide correct information about delayed trains and canceled trains and thus people have the opportunity to go by train without buying a ticket.",
         "Mr. Chamara said that the OIC had been evacuated yesterday afternoon for the safety of the people during the riots at the railway station and that in order to return to work, the public should be able to provide information when asked.",
-        "Mr. Kasun Chamara said that even though the authorities told the media that the train was running normally, it was not normal."
+        "Although the authorities told the media that the train was running normally, it was not normal, he said, adding that the person who bought the tickets was justified in his anger at not having a train."
       ],
       "title_ents": [
         {
-          "text": "Colombo Fort",
+          "text": "Colombo Fort Railway",
           "label": "FAC"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "the Colombo Fort Railway Station",
+            "text": "Kasun Chamara",
+            "label": "PERSON"
+          },
+          {
+            "text": "Station Master's Association",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "1) afternoon",
+            "label": "TIME"
+          },
+          {
+            "text": "Colombo Fort",
             "label": "FAC"
           }
         ],
@@ -44,12 +60,7 @@
             "label": "TIME"
           }
         ],
-        [
-          {
-            "text": "Kasun Chamara",
-            "label": "PERSON"
-          }
-        ]
+        []
       ]
     },
     "si": {
@@ -62,14 +73,30 @@
       ],
       "title_ents": [
         {
-          "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
+          "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba",
           "label": "FAC"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "text": "\u0d9a\u0dc3\u0dd4\u0db1\u0dca \u0da0\u0dcf\u0db8\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "1) \u0daf\u0dc4\u0dc0\u0dbd\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
             "label": "FAC"
           }
         ],
@@ -91,12 +118,7 @@
             "label": "TIME"
           }
         ],
-        [
-          {
-            "text": "\u0d9a\u0dc3\u0dd4\u0db1\u0dca \u0da0\u0dcf\u0db8\u0dbb",
-            "label": "PERSON"
-          }
-        ]
+        []
       ]
     },
     "ta": {
@@ -104,19 +126,35 @@
       "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
       "body_lines": [
         "\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0bb5\u0bc7 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bc1\u0bb0\u0bbf\u0baf OIC\u0b95\u0bb3\u0bcd \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
-        "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc0\u0ba9\u0bae\u0bbe\u0b95 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0b95\u0b9a\u0bc1\u0ba9\u0bcd \u0b9a\u0bbe\u0bae\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bb2\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 OIC \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0b9a\u0bbe\u0bae\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
         "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc1 \u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd, \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0b95\u0bcb\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0ba8\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc7 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd."
       ],
       "title_ents": [
         {
-          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd",
           "label": "FAC"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "text": "\u0b95\u0b9a\u0bc1\u0ba9\u0bcd \u0b9a\u0bbe\u0bae\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0b9f\u0bc7\u0bb7\u0ba9\u0bcd \u0bae\u0bbe\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "1) \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
             "label": "FAC"
           }
         ],
@@ -138,12 +176,7 @@
             "label": "TIME"
           }
         ],
-        [
-          {
-            "text": "\u0b95\u0b9a\u0bc1\u0ba9\u0bcd \u0b9a\u0bbe\u0bae\u0bb0",
-            "label": "PERSON"
-          }
-        ]
+        []
       ]
     }
   }

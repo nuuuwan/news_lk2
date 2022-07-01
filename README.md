@@ -1,46 +1,46 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 20:26:53 (LK time)*
+*As of 2022-07-01 20:34:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** lankadeepa-lk ([’’තෙල් ප්‍රශ්නය ඉල්ලාගෙන කෑමක්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58f56d97.json))
 
 * **1** daily-mirror-lk ([CEB warns over delays in restoring power outages due to fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68fab144.json))
 
-* **1** ada-lk ([ශ්‍රී ලංකාවට අඛණ්ඩව සහාය දෙනවා - ජපාන තානාපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/088b441f.json))
-
 ## Last Hour (6 Articles)
 
 * **3** daily-mirror-lk ([Consular Affairs Division to be open on all weekdays from Monday](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f627c.json))
 
-* **2** ada-lk ([දරු දෙදෙනා සමග චන්ද්‍රිකා වැවට පැන්න මවත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d21dd79.json))
-
 * **1** lankadeepa-lk ([’’තෙල් ප්‍රශ්නය ඉල්ලාගෙන කෑමක්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58f56d97.json))
 
-## Last 3 Hours (32 Articles)
+* **1** ada-lk ([ශ්‍රී ලංකාවට අඛණ්ඩව සහාය දෙනවා - ජපාන තානාපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/088b441f.json))
 
-* **8** virakesari-lk ([மட்டக்களப்பு வலையிறவு ஆற்றுக்குள் பாய்ந்த லொறி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a0422f.json))
+* **1** virakesari-lk ([ஞானசார தேரருக்கு எதிரான வழக்கு ஆகஸ்ட்  26 ஆம் திகதிக்கு ஒத்திவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c79bd18.json))
 
-* **7** lankadeepa-lk ([විදුලියට ඩීසල් ගන්න අයි.ඕ.සී එක්ක සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70634dd1.json))
+## Last 3 Hours (28 Articles)
 
-* **5** ada-derana-lk ([Japanese Embassy denies media reports on Japan refusing to support Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e3ca5f5.json))
+* **7** virakesari-lk ([அரசாங்கத்துக்கு எதிராக வீதியில் இறங்கிய சட்டத்தரணிகள் : 'ரணில், கோட்டா சூழ்ச்சியை தோற்கடிப்போம்“ எனக் கோஷம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7598ab2d.json))
+
+* **6** lankadeepa-lk ([ශ්‍රී ලංකාවට සහය දෙන්න ජපානයත් පොරොන්දු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8094e90.json))
 
 * **4** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a88200.json))
+
+* **4** ada-derana-lk ([Railway Dept issues notice on train services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d587663.json))
 
 * **3** economy-next-com ([Sri Lanka Human Rights Commission probing rehabilitation centre mass escape](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79fc0cfe.json))
 
 * **2** ada-lk ([දරු දෙදෙනා සමග චන්ද්‍රිකා වැවට පැන්න මවත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d21dd79.json))
 
-* **2** news-first-lk ([FR against Army intervention at Galle Protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93d14788.json))
+* **1** news-first-lk ([Pass 22A & form All-Party Government; Mahanayake Theros send 10 point letter to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/307aae86.json))
 
 * **1** tamil-mirror-lk ([புகையிரத சேவைகள் வழமை போல் இடம்பெறும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a2e331c.json))
 
-## Last 24 Hours (211 Articles)
+## Last 24 Hours (210 Articles)
 
-* **44** virakesari-lk ([ஐவரை சுட்டுக் கொன்ற குற்றம் அறுவருக்கு மரண தண்டனை ! - 22 வருட வழக்கு விசாரணையின் பின் தீர்ப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16825364.json))
+* **44** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு மத்திய நிலைய அமைதியின்மை : தப்பிச்சென்ற 599 பேர் சரண் 123 பேரை தேடி வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9b1aa51.json))
 
 * **37** lankadeepa-lk ([විදුලිබල මණ්ඩලේ විහිළු මවන දීමනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47bf5fb.json))
 
@@ -52,7 +52,7 @@
 
 * **20** tamil-mirror-lk ([’14 நாட்களில் சுகாதாரம் முற்றாக வீழ்ந்துவிடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22268687.json))
 
-* **19** news-first-lk ([US Ambassador meets President](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfbb828.json))
+* **18** news-first-lk ([Three-wheeler driver gunned down in Kolonnawa](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ad5451.json))
 
 * **12** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
@@ -60,9 +60,9 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,769 Articles)
+## Last Week (1,770 Articles)
 
-* **326** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
+* **327** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
 
 * **262** lankadeepa-lk ([ලංගමට දහස් ගණනක්  හොරපාරෙන් අරන් වැටුප් ගෙවලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9dc9088f.json))
 
@@ -88,9 +88,9 @@
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,257 Articles)
+## All Time (2,258 Articles)
 
-* **383** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **384** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **370** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
