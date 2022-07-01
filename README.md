@@ -2,7 +2,7 @@
 
 *As of 2022-07-01 22:53:09 (LK time)*
 
-![wordcloud animation](wordcloud.gif)
+![wordcloud animation](wordcloud.150.gif)
 
 ## Last 30 Minutes (1 Articles)
 
