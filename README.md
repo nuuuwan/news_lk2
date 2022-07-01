@@ -1,40 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 21:33:55 (LK time)*
+*As of 2022-07-01 21:45:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
 
-* **1** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
+* **1** economy-next-com ([Sri Lanka CEB warns of likely increase in power cut duration over lack of diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5deff8ea.json))
+
+## Last Hour (4 Articles)
+
+* **2** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
+
+* **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
 
 * **1** tamil-mirror-lk ([ஜனாதிபதிக்கு அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dddcd502.json))
 
-## Last Hour (6 Articles)
-
-* **2** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
-
-* **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
-
-* **1** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
-
-* **1** virakesari-lk ([மே 9 வன்முறைகள் - மேலும் 14 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44af6858.json))
-
-* **1** lankadeepa-lk ([කන්දකාඩු සිද්ධිය: යුද-ගුවන් සෙබළු 4 ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5220f028.json))
-
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (24 Articles)
 
 * **5** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96a88200.json))
 
-* **5** virakesari-lk ([தனது இரண்டு பிள்ளைகளுடன் எம்பிலிபிட்டிய வாவியில் குதித்த தாய் - தாயும் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1eacaee5.json))
+* **5** virakesari-lk ([ரயில் சேவை வழமை போன்று இடம்பெறும் : ஒரு சில ரயில் சேவைகள் மாத்திரமே தாமதமடையும் - ரயில்வே திணைக்கள பொது முகாமையாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cc4f525.json))
 
 * **4** ada-derana-lk ([Indian HC issues notice on accepting visa applications](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e305a51c.json))
 
-* **3** economy-next-com ([Sri Lanka’s guidance peg raises 55 cents despite dollar shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22f0168f.json))
-
 * **3** lankadeepa-lk ([විදේශ අමාත්‍යාංශයේ කොන්සියුලරය සතියේ දින 5ම ඇරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0df38c5.json))
+
+* **2** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
 
 * **2** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
 
@@ -44,13 +38,13 @@
 
 ## Last 24 Hours (211 Articles)
 
-* **44** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
+* **45** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
-* **37** lankadeepa-lk ([විදුලි පාඩු උපත කොහේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314e3b3.json))
+* **36** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
 * **26** ada-lk ([මංකොල්ල කෑ සියලු මුදල් අත්කර ගැනීමේ මෙහෙයුම් අරඹනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aebd4efa.json))
 
-* **24** daily-mirror-lk ([Where is the solution for the suffering...?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573a4d8c.json))
+* **23** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
 
 * **22** tamil-mirror-lk ([’14 நாட்களில் சுகாதாரம் முற்றாக வீழ்ந்துவிடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22268687.json))
 
@@ -58,7 +52,7 @@
 
 * **15** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
-* **13** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
+* **14** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
 * **8** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
@@ -66,7 +60,7 @@
 
 ## Last Week (1,771 Articles)
 
-* **328** virakesari-lk ([எரிபொருள் சரக்கு கப்பல் வருவதில் மேலும் தாமதம் - மன்னிப்பு கோருகிறார் எரிசக்தி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/585d9127.json))
+* **328** virakesari-lk ([600 லீற்றர் டீசலை பதுக்கி வைத்திருந்த ஒருவர் கைது - மானிப்பாயில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80719abe.json))
 
 * **262** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c0af924.json))
 
@@ -74,13 +68,13 @@
 
 * **205** daily-mirror-lk ([Middle order steers Aussies home in tense chase](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18c0e874.json))
 
-* **205** tamil-mirror-lk ([நெருக்கடி நிலைமையிலும் இலங்கைக்கு தொடர்ச்சியாக ஆதரவளிப்போம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8be234b.json))
+* **204** tamil-mirror-lk ([பாற்சோறு உண்டு மகிழ்கையில் ; நாங்கள் போராடியவர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f84e64d2.json))
 
 * **162** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
 * **153** ada-derana-lk ([Afghanistan ends search for survivors of devastating earthquake](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73e5e855.json))
 
-* **95** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
+* **96** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
 * **73** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
@@ -92,9 +86,9 @@
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,266 Articles)
+## All Time (2,268 Articles)
 
-* **385** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **386** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **371** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -110,7 +104,7 @@
 
 * **112** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **110** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **111** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **75** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
