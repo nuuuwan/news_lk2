@@ -21,7 +21,8 @@ def main(is_test_mode=False):
 
     ent_to_group, group_to_n = build_trending_summary(articles)
     build_wordcloud(group_to_n)
-    build_wordcloud_animation()
+    build_wordcloud_animation(10, 1)
+    build_wordcloud_animation(100, 0.1)
 
     build_articles_summary(articles, ent_to_group)
 
