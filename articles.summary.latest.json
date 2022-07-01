@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83357/strong-winds-to-continue-in-western-and-southern-sea-areas",
+    "time_ut": 1656642300,
+    "original_lang": "en",
+    "original_title": "Strong winds to continue in western and southern sea areas",
+    "file_name": "/tmp/news_lk2/articles/42/42b41f10.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0dbb\u0dd2\u0dad\u0daf\u0dd2\u0d9c-\u0db8\u0ddd\u0dc3\u0db8\u0dca-\u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba-\u0dc0\u0dda/1-615662",
+    "time_ut": 1656641708,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0dbb\u0dd2\u0dad\u0daf\u0dd2\u0d9c \u0db8\u0ddd\u0dc3\u0db8\u0dca \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/cb/cb949cda.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-inflation-hits-54-6-pct-in-june-2022-after-money-printing-96722/",
     "time_ut": 1656637320,
@@ -118,6 +134,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0d82\u0d9a\u0ddc\u0dbd\u0dca\u0dbd \u0d9a\u0dd1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dad\u0dca\u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d85\u0dbb\u0db9\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/ae/aebd4efa.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0b95\u0bcd-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-299530",
+    "time_ut": 1656616702,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0b95\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/8a/8a908f91.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -785,11 +809,27 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130480",
+    "time_ut": 1656585282,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/c5/c5380b35.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130491",
     "time_ut": 1656584962,
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc8 \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u00a0\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0baf\u0bbe\u0ba4\u0bc0\u0ba9\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u00a0\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd - \u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
     "file_name": "/tmp/news_lk2/articles/c3/c3da73c1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0daf\u0dd2\u0db1\u0dbd\u0dca\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0da7-\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0db6\u0dda-\u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dcf\u0dba\u0dd2/1-615648",
+    "time_ut": 1656584863,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0daf\u0dd2\u0db1\u0dbd\u0dca\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0da7 \u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dda \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dcf\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d3/d3e6343a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "High-Level US delegation meets President to discuss economic crisis",
     "file_name": "/tmp/news_lk2/articles/48/48c92214.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130254",
-    "time_ut": 1656316674,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bae\u0bcd\u0bae\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0baa\u0b9f\u0bbf \u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bae\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/33/33bd20a4.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/46-299293",
-    "time_ut": 1656316665,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/32/32ec0d41.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0b9f\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc8-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb1\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf/71-299292",
-    "time_ut": 1656316515,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0b9f\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf?",
-    "file_name": "/tmp/news_lk2/articles/5e/5e3cd1ce.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d87\u0db8\u0dad\u0dd2-\u0d9a\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/7-394875",
-    "time_ut": 1656316488,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2 \u0d9a\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/db/db5d42fc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4-\u0db8\u0dcf\u0dc3-5\u0d9a-\u0d9a\u0dcf\u0dbd\u0dba\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0da9\u0ddc-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-5\u0d9a\u0dca/7-394874",
-    "time_ut": 1656316187,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4 \u0db8\u0dcf\u0dc3 5\u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1 \u0da9\u0ddc.\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7b/7b261fba.json"
   }
 ]
