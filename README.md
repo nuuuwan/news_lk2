@@ -1,70 +1,62 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 12:13:06 (LK time)*
+*As of 2022-07-01 12:25:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last Hour (6 Articles)
 
 * **2** virakesari-lk ([சாதாரண தரப் பரீட்சையின் விடைத்தாள் மதிப்பீட்டுப் பணிகள் இடைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac06ec80.json))
 
+* **2** lankadeepa-lk ([දෙවෙනි පර්යන්තයේ ඉදිකිරීමට ඉන්ධන ඇමතිගෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/332f7bed.json))
+
 * **1** ada-derana-lk ([Lawyers stage protest march in Colombo Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d97edbbb.json))
-
-* **1** lankadeepa-lk ([සෞඛ්‍යයට තෙල් දෙන්න නොදී විරෝධයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b14d8a01.json))
-
-## Last Hour (11 Articles)
-
-* **5** lankadeepa-lk ([නීතිඥයෝ අලුත්කඩේ සත්‍යග්‍රහයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/813f1952.json))
-
-* **3** virakesari-lk ([யானை தாக்கி இராணுவ வீரர் பரிதாபமாக உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/700d0b90.json))
-
-* **2** ada-derana-lk ([World Bank creates fund to better prevent, respond to pandemics](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e57d244.json))
 
 * **1** economy-next-com ([Sri Lanka stocks edge up in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45c365a5.json))
 
-## Last 3 Hours (46 Articles)
+## Last 3 Hours (42 Articles)
 
 * **11** virakesari-lk ([22 ரயில் சேவைகள் இன்று இரத்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/913cf622.json))
 
-* **11** ada-lk ([වන අලියෙකුගේ පහර කෑමෙන් SF සෙබලෙක් ජීවිතක්ෂයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9e4d19b.json))
+* **9** ada-lk ([රජයේ වැඩ වලට තවමත් සියයට 3කගේ අනුමැතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21d5d920.json))
 
 * **8** lankadeepa-lk ([දුම්රිය 26 ක් අවලංගු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3e3ffd5.json))
 
 * **4** ada-derana-lk ([GL briefs Russian envoy on Sri Lanka’s crisis situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac1be3d9.json))
 
-* **4** news-first-lk ([Unidentified body found inside partially built house in Wellampitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/419f6aa8.json))
+* **3** news-first-lk ([Parliament to convene on 4th, 5th, & 6th next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a959c177.json))
 
-* **4** tamil-mirror-lk ([22 ரயில் பயணங்கள் ரத்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83a27ad3.json))
+* **3** tamil-mirror-lk ([வடமாகாண பாடசாலைகள் தொடர்ந்து நடத்தப்படுமா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15b7eb1e.json))
 
 * **2** economy-next-com ([Sri Lanka economic recovery, a common minimum program](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7654e2c.json))
 
 * **2** daily-mirror-lk ([Mathews subbed out after positive COVID test](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97594004.json))
 
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (227 Articles)
 
-* **49** virakesari-lk ([பதுளையில் சில்லரை கடைகள் தீக்கிரை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6348810.json))
+* **48** virakesari-lk ([இலங்கைக்கு உதவுவதாக உலக வங்கி உறுதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f161fb78.json))
 
-* **32** tamil-mirror-lk ([நோயாளர் காவு வண்டிகளுக்கு ஏற்பட்டுள்ள நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18065015.json))
+* **31** tamil-mirror-lk ([காலியில் காற்றால் பறந்த கூரைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdb0d8ab.json))
 
-* **30** ada-derana-lk ([Philippines begins new era of Marcos rule, decades after overthrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a00ec73.json))
+* **29** ada-derana-lk ([Talks with Sri Lanka made significant progress, IMF mission team says](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff7835fe.json))
 
-* **30** daily-mirror-lk ([22nd Amendment to the Constitution gazetted](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8fb50a6.json))
+* **29** daily-mirror-lk ([Discussions with SL authorities constructive and productive: IMF team](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8ef113f.json))
 
 * **27** ada-lk ([පාර්ලිමේන්තු වෙබ් අඩවියෙන් මන්ත්‍රී දත්ත ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fec1408e.json))
 
-* **25** lankadeepa-lk ([තාක්ෂණ අමාත්‍යාංශයේ ලේකම් ධුරයට ජයන්ත ද සිල්වා](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc9a2dfc.json))
+* **24** lankadeepa-lk ([ධීවරයන්ට අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ece700b.json))
 
 * **17** news-first-lk ([IMF Staff Concludes Visit to Sri Lanka; discussions will continue towards reaching a staff-level agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8e474c4.json))
 
-* **16** economy-next-com ([IMF says talks with Sri Lanka make significant policy progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/274ea891.json))
+* **14** economy-next-com ([A second Sri Lankan police officer shoots himself in under a month](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15d57391.json))
 
 * **8** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
-## Last Week (1,811 Articles)
+## Last Week (1,809 Articles)
 
 * **332** virakesari-lk ([யாழில் பத்திரிகைகள் முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0f69762.json))
 
-* **261** lankadeepa-lk ([ඉන්ධන නැතැයි සෞඛ්‍ය සේවකයෝ පාර වසති](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a2bec5b.json))
+* **260** lankadeepa-lk ([සහල් මාෆියාව නතර කරන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/657cb90c.json))
 
 * **208** ada-lk ([ගමන් බලපත්‍රය ගැනීමට ගිය තරුණයා පෙට්‍රල් පෝලිමේදී කන්ටේනරයකට බිලි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca0baf18.json))
 
@@ -76,7 +68,7 @@
 
 * **153** ada-derana-lk ([European Union grants candidate status to Ukraine and Moldova](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2034c54b.json))
 
-* **97** economy-next-com ([Sri Lanka stock index gains over 1.6 pct in mid-day](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95b3ec50.json))
+* **96** economy-next-com ([Indian shipment of rice, milk powder, medicines worth 3bn arrive in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a4ca8c6.json))
 
 * **73** daily-ft-lk ([22 June 1941: When the world held its breath](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6192802.json))
 
