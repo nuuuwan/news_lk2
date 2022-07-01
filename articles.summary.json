@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca-\u0dad\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/101-615691",
+    "time_ut": 1656662044,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dad\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/3a/3a4b9066.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-colombo-port-says-has-fuel-to-continue-operations-96757/",
     "time_ut": 1656661500,
