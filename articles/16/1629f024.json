@@ -1,0 +1,1011 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/slt-mobitel-and-samsung-enable-5g-on-selected-samsung-smart-devices/",
+  "time_ut": 1656600480,
+  "original_lang": "en",
+  "original_title": "SLT-MOBITEL and Samsung enable 5G on selected Samsung smart devices",
+  "text_idx": {
+    "en": {
+      "title": "SLT-MOBITEL and Samsung enable 5G on selected Samsung smart devices",
+      "author": "Dilshan Nadeera",
+      "body_lines": [
+        "Samsung, Sri Lanka\u2019s premier smartphone brand, recently announced its partnership with SLT-Mobitel, to enable 5G technology on selected Samsung devices starting from the first week of June. Samsung users are now equipped with the capability of using their 5G compatible device on SLT-Mobitel\u2019s network to experience the transformative power of 5G at SLT-Mobitel 5G trial zones.",
+        "Enabling every Sri Lankan to experience the state-of-the-art 5G technology, SLT-Mobitel\u2019s pioneer 5G technology empowers Samsung users to utilize their products to the full potential with superior broadband connectivity and myriad of benefits that come with the trailblazing next gen connectivity.",
+        "\u201cAs the National ICT Solutions Provider, we are committed to leading Sri Lanka towards the next phase of technological revolution and the continuation of our partnership with Samsung is a step towards establishing that goal. Being the fastest Mobile network that has been recognized for three consecutive years by Ookla, the global leader in internet testing speeds, SLT-Mobitel Mobile is geared to transform Sri Lanka with our future ready infrastructure and next generation connectivity experience. By enabling 5G for select Samsung Smartphone devices, we are empowering Samsung users to utilize their 5G compatible device to its maximum potential. At SLT-Mobitel, we are continuously looking for innovative ways to deliver exceptional experiences to our customers as we have the technology and infrastructure that can make lives smarter and more efficient with the power of 5G,\u201d said Chief Executive Officer of Mobitel (Pvt) Ltd. Chandika Vitharena.",
+        "\u201cWe are pumped to be the first smartphone brand to introduce 5G to many of our wide array of smartphones, along with the immense support by SLT-Mobitel. Bringing convenience, style and premium technology to your hand, Samsung is now Future Ready as it is equipped with the latest benefits brought to you by 5G. 5G is the latest introduced to Samsung Galaxy devices to ensure that it gets utilized to the maximum capacity. With 5G starting to roll out across Sri Lanka, it won\u2019t be long before the whole country is connected to a better mobile network. Samsung has always been committed to ensuring that consumers get the best out of their smartphones, and that is why our 5G rollout is happening at a vast scale. Consumers can now achieve their dream potential through their Galaxy smartphones with 5G,\u201d said Mr. Kevin SungSu YOU, Managing Director, Samsung Sri Lanka.",
+        "Samsung Galaxy smartphones are 5G devices that come with support for nos.12, 5G bands. This means as the 5G network is rolled out in Sri Lanka by SLT-Mobitel, they will support the premium 5G technology. Even before commercialization of 5G network in Sri Lanka, Samsung has leaped ahead to ensure that its consumers are future ready by offering smartphones with up to 12 5G bands support \u2013 N1, N3, N5, N7, N8, N20, N28, N38, N40, N41, N66 and N78.",
+        "With Galaxy 5G, users will get assured 5G connectivity no matter what the 5G band in Sri Lanka is and will get access to uninterrupted nationwide access to any 5G network (subject to operator network availability). The seamless 5G support will help download, share and stream content at blazing fast speeds.",
+        "Reported progress at IMF staff level agreement talks peps share market",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [
+        {
+          "text": "SLT-MOBITEL",
+          "label": "ORG"
+        },
+        {
+          "text": "Samsung",
+          "label": "ORG"
+        },
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Samsung",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "the first week of June",
+            "label": "DATE"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel 5G",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankan",
+            "label": "NORP"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel\u2019s",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the National ICT Solutions Provider",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Mobile",
+            "label": "PERSON"
+          },
+          {
+            "text": "three consecutive years",
+            "label": "DATE"
+          },
+          {
+            "text": "Ookla",
+            "label": "PERSON"
+          },
+          {
+            "text": "SLT-Mobitel Mobile",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Samsung Smartphone",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "Chandika Vitharena",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Kevin",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "nos.12",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "up to 12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "N1",
+            "label": "GPE"
+          },
+          {
+            "text": "N3",
+            "label": "GPE"
+          },
+          {
+            "text": "N5",
+            "label": "GPE"
+          },
+          {
+            "text": "N7",
+            "label": "GPE"
+          },
+          {
+            "text": "N8",
+            "label": "GPE"
+          },
+          {
+            "text": "N20",
+            "label": "ORG"
+          },
+          {
+            "text": "N28",
+            "label": "ORG"
+          },
+          {
+            "text": "N38",
+            "label": "ORG"
+          },
+          {
+            "text": "N66",
+            "label": "ORG"
+          },
+          {
+            "text": "N78",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "SLT-MOBITEL \u0dc3\u0dc4 Samsung \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dad\u0dca Samsung \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0db8\u0dad 5G \u0dc3\u0db6\u0dbd \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0db1\u0daf\u0dd3\u0dbb",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc0\u0db1 Samsung, \u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dc3 \u0db8\u0dd4\u0dbd\u0dca \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dad\u0dca Samsung \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf 5G \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf SLT-Mobitel \u0dc3\u0db8\u0d9f \u0d87\u0dad\u0dd2 \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dc5\u0dda\u0dba. Samsung \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a\u0dba\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dca SLT-Mobitel 5G \u0d85\u0dad\u0dca\u0dc4\u0daf\u0dcf \u0db6\u0dd0\u0dbd\u0dd3\u0db8\u0dda \u0d9a\u0dbd\u0dcf\u0db4\u0dc0\u0dbd 5G \u0dc4\u0dd2 \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dd3\u0dba \u0db6\u0dbd\u0dba \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd3\u0db8\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda 5G \u0d85\u0db1\u0dd4\u0d9a\u0dd6\u0dbd \u0d8b\u0db4\u0dcf\u0d82\u0d9c\u0dba SLT-Mobitel \u0da2\u0dcf\u0dbd\u0dba\u0dda \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad\u0dba.",
+        "\u0dc3\u0dd1\u0db8 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7\u0db8 \u0d85\u0dad\u0dd2 \u0db1\u0dc0\u0dd3\u0db1 5G \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0d85\u0dad\u0dca\u0dc0\u0dd2\u0db3\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf\u0daf\u0dd9\u0db8\u0dd2\u0db1\u0dca, SLT-Mobitel \u0dc4\u0dd2 \u0db4\u0dd4\u0dbb\u0ddd\u0d9c\u0dcf\u0db8\u0dd3 5G \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba Samsung \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc4\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0d8b\u0db4\u0dbb\u0dd2\u0db8\u0dba\u0dd9\u0db1\u0dca \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0db6\u0dca\u200d\u0dbb\u0ddd\u0da9\u0dca\u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db6\u0dbd\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0dba\u0dd2. .",
+        "\u201c\u0da2\u0dcf\u0dad\u0dd2\u0d9a ICT \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dc3\u0db4\u0dba\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0dd9\u0dc3 \u0d85\u0db4\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0dc0\u0dd2\u0db4\u0dca\u0dbd\u0dc0\u0dba\u0dda \u0db8\u0dd3\u0dc5\u0d9f \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0d9a\u0dbb\u0dcf \u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8\u0da7 \u0d9a\u0dd0\u0db4\u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb Samsung \u0dc3\u0db8\u0d9f \u0d85\u0db4\u0d9c\u0dda \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8 \u0d91\u0db8 \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0dd2\u0dba\u0dc0\u0dbb\u0d9a\u0dd2. \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc0\u0dda\u0d9c\u0dba\u0dda \u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc0\u0db1 Ookla \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0dda \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca\u0db8 \u0da2\u0d82\u0d9c\u0db8 \u0da2\u0dcf\u0dbd\u0dba \u0dc0\u0db1 SLT-Mobitel Mobile \u0d85\u0db4\u0d9c\u0dda \u0d85\u0db1\u0dcf\u0d9c\u0dad \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dc4 \u0d8a\u0dc5\u0d9f \u0db4\u0dbb\u0db8\u0dca\u0db4\u0dbb\u0dcf\u0dc0\u0dda \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8 \u0dc3\u0db8\u0d9f \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc0\u0dda. \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dad\u0dca Samsung Smartphone \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf 5G \u0dc3\u0db6\u0dbd \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca, \u0d85\u0db4\u0dd2 Samsung \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda 5G \u0d9c\u0dd0\u0dc5\u0db4\u0dd9\u0db1 \u0d8b\u0db4\u0dcf\u0d82\u0d9c\u0dba \u0d91\u0dc4\u0dd2 \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0dc0\u0dd2\u0db7\u0dc0\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db6\u0dbd \u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd9\u0db8\u0dd4. SLT-Mobitel \u0dc4\u0dd2, 5G \u0db6\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0daf\u0d9a\u0dca\u0dc2 \u0dc4\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca\u0dc2\u0db8 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0dc3\u0dc4 \u0dba\u0da7\u0dd2\u0dad\u0dbd \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0d85\u0db4 \u0dc3\u0dad\u0dd4\u0dc0 \u0d87\u0dad\u0dd2 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca, \u0d85\u0db4\u0d9c\u0dda \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd3 \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db1\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dca\u200d\u0dbb\u0db8 \u0d85\u0db4\u0dd2 \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc3\u0ddc\u0dba\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db8\u0dd4\u201d \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca Mobitel (Pvt) \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba. \u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0da0\u0db1\u0dca\u0daf\u0dd2\u0d9a \u0dc0\u0dd2\u0dad\u0dcf\u0dbb\u0dab.",
+        "\u201cSLT-Mobitel \u0dc4\u0dd2 \u0d85\u0dad\u0dd2\u0db8\u0dc4\u0dad\u0dca \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0db4\u0dbb\u0dcf\u0dc3\u0dba\u0d9a \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dbb\u0dcf\u0dc1\u0dd2\u0dba\u0d9a\u0da7 5G \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca \u0db4\u0dc5\u0db8\u0dd4 \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0dd2 \u0d8b\u0dad\u0dca\u0dc3\u0dd4\u0d9a \u0dc0\u0dd9\u0db8\u0dd4. \u0db4\u0dc4\u0dc3\u0dd4\u0dc0, \u0dc0\u0dd2\u0dbd\u0dcf\u0dc3\u0dba \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db8\u0dd2\u0dba\u0db8\u0dca \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0d94\u0db6\u0dda \u0d85\u0dad\u0da7 \u0d9c\u0dd9\u0db1 \u0daf\u0dd9\u0db8\u0dd2\u0db1\u0dca Samsung \u0daf\u0dd0\u0db1\u0dca Future Ready, \u0d91\u0dba 5G \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d94\u0db6 \u0dc0\u0dd9\u0dad \u0d9c\u0dd9\u0db1 \u0d91\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad\u0dba\u0dd2. 5G \u0dba\u0db1\u0dd4 Samsung Galaxy \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dc0\u0dad\u0db8 \u0d91\u0d9a \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0dc0\u0db1 \u0db6\u0dc0 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dbb\u0dba\u0dd2. 5G \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dd4\u0dbb\u0dcf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dca\u0dad \u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0da7\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f \u0db8\u0dd4\u0dc5\u0dd4 \u0dbb\u0da7\u0db8 \u0dc0\u0da9\u0dcf \u0dc4\u0ddc\u0db3 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd3\u0db8\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbd\u0d9a\u0dca \u0d9c\u0dad \u0db1\u0ddc\u0dc0\u0db1\u0dd4 \u0d87\u0dad. Samsung \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0d9a\u0dd0\u0db4\u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d85\u0db4\u0d9c\u0dda 5G \u0db4\u0dd9\u0dbb\u0dc5\u0dd3\u0db8 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0db1\u0dca\u0db1\u0dda \u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dd2. \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0db1\u0dca 5G \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda Galaxy \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd2\u0dc4\u0dd2\u0db1 \u0dc0\u0dd2\u0db7\u0dc0\u0dba \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dcf\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba,\u201d Samsung \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc4\u0dd2 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Kevin SungSu YOU \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "Samsung Galaxy \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0dba\u0db1\u0dd4 \u0d85\u0d82\u0d9a 12, 5G \u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dc4\u0dba \u0d87\u0dad\u0dd2 5G \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc0\u0dda. \u0db8\u0dd9\u0dba\u0dd2\u0db1\u0dca \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda SLT-Mobitel \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 5G \u0da2\u0dcf\u0dbd\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dad\u0dd4\u0dc5 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca, \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db8\u0dd2\u0dba\u0db8\u0dca 5G \u0dad\u0dcf\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0da7 \u0dc3\u0dc4\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0db6\u0dc0\u0dba\u0dd2. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda 5G \u0da2\u0dcf\u0dbd\u0dba \u0dc0\u0dcf\u0dab\u0dd2\u0da2\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0db4\u0dd9\u0dbb \u0dc3\u0dd2\u0da7\u0db8, Samsung \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0dd2\u0dba \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca \u0db6\u0dc0 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 5G \u0db6\u0dd1\u0db1\u0dca\u0da9\u0dca 12\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dc4\u0dba \u0dc3\u0dc4\u0dd2\u0dad \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0dc6\u0ddd\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0d87\u0dad - N1, N3, N5, N7, N8, N20, N28, N38, N40. , N41, N66 \u0dc3\u0dc4 N78.",
+        "Galaxy 5G \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda 5G \u0dc3\u0d82\u0d9c\u0dd3\u0dad \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0d9a\u0dd4\u0db8\u0d9a\u0dca \u0dc0\u0dd4\u0dc0\u0dad\u0dca, \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a 5G \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd9\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d95\u0db1\u0dd1\u0db8 5G \u0da2\u0dcf\u0dbd\u0dba\u0d9a\u0da7 (\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dbb\u0dd4 \u0da2\u0dcf\u0dbd\u0dba\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0) \u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf \u0d85\u0d9b\u0dab\u0dca\u0da9 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0dba \u0dbd\u0dd0\u0db6\u0dd9\u0db1\u0dd4 \u0d87\u0dad. \u0db6\u0dcf\u0db0\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 5G \u0dc3\u0dc4\u0dba \u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0dc0\u0dda\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dad\u0dba \u0db6\u0dcf\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7, \u0db6\u0dd9\u0daf\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0dda.",
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba peps \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dbd\u0db3\u0db4\u0ddc\u0dbd \u0dc3\u0db8\u0d9f \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [
+        {
+          "text": "SLT-MOBITEL",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd4\u0db1\u0dd2 \u0db4\u0dc5\u0db8\u0dd4 \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel's",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel 5G",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "NORP"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel's",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a ICT \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dc3\u0db4\u0dba\u0db1\u0dca\u0db1\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0d82\u0d9c\u0db8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d95\u0d9a\u0dca\u0dbd\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "SLT-Mobitel \u0da2\u0d82\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Samsung Smartphone",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0db6\u0dd2\u0da7\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da0\u0db1\u0dca\u0daf\u0dd2\u0d9a \u0dc0\u0dd2\u0dad\u0dcf\u0dbb\u0dab",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0dc0\u0dd2\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Galaxy",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0d82\u0d9a 12",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "12 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "N1",
+            "label": "GPE"
+          },
+          {
+            "text": "N3",
+            "label": "GPE"
+          },
+          {
+            "text": "N5",
+            "label": "GPE"
+          },
+          {
+            "text": "N7",
+            "label": "GPE"
+          },
+          {
+            "text": "N8",
+            "label": "GPE"
+          },
+          {
+            "text": "N20",
+            "label": "ORG"
+          },
+          {
+            "text": "N28",
+            "label": "ORG"
+          },
+          {
+            "text": "N38",
+            "label": "ORG"
+          },
+          {
+            "text": "N66",
+            "label": "ORG"
+          },
+          {
+            "text": "N78",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "SLT-MOBITEL \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Samsung \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f Samsung \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 5G \u0b90 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0ba8\u0ba4\u0bc0\u0bb0\u0bbe",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0ba9 Samsung, SLT-Mobitel \u0b89\u0b9f\u0ba9\u0bbe\u0ba9 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8, \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f Samsung \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 5G \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd SLT-Mobitel 5G \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 5G \u0b87\u0ba9\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 SLT-Mobitel \u0b87\u0ba9\u0bcd \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd 5G \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0ba8\u0bb5\u0bc0\u0ba9 5G \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, SLT-Mobitel \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf 5G \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0bae\u0bcd Samsung \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0bbe\u0b9f\u0bcd\u0baa\u0bc7\u0ba3\u0bcd\u0b9f\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc1\u0bb4\u0bc1 \u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. .",
+        "\u201c\u0ba4\u0bc7\u0b9a\u0bbf\u0baf ICT \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0b9f\u0bcd\u0b9f \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b87\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd Samsung \u0b89\u0b9f\u0ba9\u0bbe\u0ba9 \u0b8e\u0bae\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bb5\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0bb5\u0ba4\u0bc1 \u0b85\u0ba8\u0bcd\u0ba4 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b92\u0bb0\u0bc1 \u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0ba3\u0bc8\u0baf \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 Ookla \u0b86\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0bb5\u0bb2\u0bc8\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bc1\u0bae\u0bcd, SLT-Mobitel Mobile, \u0b8e\u0bae\u0ba4\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0b86\u0baf\u0ba4\u0bcd\u0ba4 \u0b89\u0b9f\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 5\u0b9c\u0bbf\u0baf\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd 5\u0b9c\u0bbf \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. SLT-Mobitel \u0b87\u0bb2\u0bcd, 5G \u0b87\u0ba9\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0bae\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb2\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0ba4\u0bc1 \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 Mobitel (Pvt) \u0b87\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0b9a\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bbe \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0bc7\u0ba9.",
+        "\u201cSLT-Mobitel \u0b87\u0ba9\u0bcd \u0b85\u0baa\u0bb0\u0bbf\u0bae\u0bbf\u0ba4\u0bae\u0bbe\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd, \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 5G \u0b90 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0b95 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. \u0b9a\u0bcc\u0b95\u0bb0\u0bbf\u0baf\u0bae\u0bcd, \u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd \u200b\u200b\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1, Samsung \u0b86\u0ba9\u0ba4\u0bc1 5G \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 5G \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0bb8\u0bbf \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd \u0ba4\u0bbf\u0bb1\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd 5G \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bb0\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1. \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b85\u0ba4\u0ba9\u0bbe\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd 5G \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 \u0baa\u0bb0\u0ba8\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 5G \u0b89\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf Galaxy \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0ba9\u0bb5\u0bc1 \u0ba4\u0bbf\u0bb1\u0ba9\u0bc8 \u0b85\u0b9f\u0bc8\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd\u201d \u0b8e\u0ba9 Samsung \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1. Kevin SungSu YOU \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "Samsung Galaxy \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba3\u0bcd.12, 5G \u0baa\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bcd 5G \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0ba4\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd SLT-Mobitel \u0b86\u0bb2\u0bcd 5G \u0bb5\u0bb2\u0bc8\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd, \u0b85\u0bb5\u0bc8 \u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd 5G \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 5G \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc7, Samsung \u0b86\u0ba9\u0ba4\u0bc1 12 5G \u0baa\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b83\u0baa\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 - N1, N3, N5, N7, N8, N20, N28, N38, N40. , N41, N66 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd N78.",
+        "Galaxy 5G \u0b89\u0b9f\u0ba9\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 5G \u0b87\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b8e\u0ba4\u0bc1\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 5G \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4\u0bb5\u0bca\u0bb0\u0bc1 5G \u0bb5\u0bb2\u0bc8\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd (\u0b86\u0baa\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1) \u0ba4\u0b9f\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bb4\u0bc1\u0bb5\u0bbf\u0baf \u0b85\u0ba3\u0bc1\u0b95\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. \u0ba4\u0b9f\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 5G \u0b86\u0ba4\u0bb0\u0bb5\u0bc1, \u0b85\u0b9f\u0bb0\u0bcd \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0b95\u0bbf\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bb5\u0bc1\u0bae\u0bcd.",
+        "IMF \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0baa\u0bc6\u0baa\u0bcd\u0bb8\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd *",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "SLT-MOBITEL",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "5",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel \u0b87\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel 5G",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel \u0b87\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf ICT \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc8\u0baa\u0bc7\u0b9a\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b93\u0b95\u0bcd\u0bb2\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "SLT-Mobitel \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0baa\u0bcb\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bca\u0baa\u0bbf\u0b9f\u0bc6\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bbe \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0bc7\u0ba3",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b95\u0bc7\u0bb2\u0b95\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8e\u0ba3\u0bcd.12",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "SLT-Mobitel",
+            "label": "ORG"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "12 \u0bb5\u0bb0\u0bc8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "N1",
+            "label": "GPE"
+          },
+          {
+            "text": "N3",
+            "label": "GPE"
+          },
+          {
+            "text": "N5",
+            "label": "GPE"
+          },
+          {
+            "text": "N7",
+            "label": "GPE"
+          },
+          {
+            "text": "N8",
+            "label": "GPE"
+          },
+          {
+            "text": "N20",
+            "label": "ORG"
+          },
+          {
+            "text": "N28",
+            "label": "ORG"
+          },
+          {
+            "text": "N38",
+            "label": "ORG"
+          },
+          {
+            "text": "N66",
+            "label": "ORG"
+          },
+          {
+            "text": "N78",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    }
+  }
+}

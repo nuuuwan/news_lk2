@@ -112,6 +112,14 @@
     "file_name": "/tmp/news_lk2/articles/a5/a517d7cd.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9a\u0bbe-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299570",
+    "time_ut": 1656700223,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/7d/7dabe0c2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83374/japan-ready-to-provide-continuous-support-to-sri-lanka-envoy-says",
     "time_ut": 1656700080,
@@ -454,6 +462,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Human Rights Commission probing rehabilitation centre mass escape",
     "file_name": "/tmp/news_lk2/articles/79/79fc0cfe.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lanka-ioc-stocks-elevate-bourse-to-positive-territory/",
+    "time_ut": 1656680100,
+    "original_lang": "en",
+    "original_title": "Lanka IOC stocks elevate bourse to positive territory",
+    "file_name": "/tmp/news_lk2/articles/03/03a48102.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2054,6 +2070,30 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 6 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/8f/8f8b3559.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-and-samsung-enable-5g-on-selected-samsung-smart-devices/",
+    "time_ut": 1656600480,
+    "original_lang": "en",
+    "original_title": "SLT-MOBITEL and Samsung enable 5G on selected Samsung smart devices",
+    "file_name": "/tmp/news_lk2/articles/16/1629f024.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tourism-stakeholders-voice-concern-over-non-implementation-of-debt-moratorium-extension/",
+    "time_ut": 1656600420,
+    "original_lang": "en",
+    "original_title": "Tourism stakeholders voice concern over non-implementation of debt moratorium extension",
+    "file_name": "/tmp/news_lk2/articles/02/02914a0a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/reported-progress-at-imf-staff-level-agreement-talks-peps-share-market/",
+    "time_ut": 1656600360,
+    "original_lang": "en",
+    "original_title": "Reported progress at IMF staff level agreement talks peps share market",
+    "file_name": "/tmp/news_lk2/articles/d9/d9e89733.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 !",
     "file_name": "/tmp/news_lk2/articles/51/519ada79.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/71-299323",
-    "time_ut": 1656388087,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/7a/7a264b9b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/rainfall-expected-for-several-areas/",
-    "time_ut": 1656388020,
-    "original_lang": "en",
-    "original_title": "Rainfall expected for several areas",
-    "file_name": "/tmp/news_lk2/articles/c6/c69a2279.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/defence-secretary-at-pcoi-on-may-9th-violence/",
-    "time_ut": 1656387720,
-    "original_lang": "en",
-    "original_title": "Defence Secretary at PCOI on May 9th Violence",
-    "file_name": "/tmp/news_lk2/articles/95/951d9b2a.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83295/more-than-40-people-found-dead-inside-abandoned-lorry-in-texas",
-    "time_ut": 1656387300,
-    "original_lang": "en",
-    "original_title": "More than 40 people found dead inside abandoned lorry in Texas",
-    "file_name": "/tmp/news_lk2/articles/b1/b142c363.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130300",
-    "time_ut": 1656386723,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0bbf 7 \u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bcb\u0b9f\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/b6/b644a61b.json"
   }
 ]
