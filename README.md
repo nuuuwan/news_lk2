@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 17:06:00 (LK time)*
+*As of 2022-07-01 17:13:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,29 +12,29 @@
 
 * **1** news-first-lk ([Fuel Crisis: CEB warns of delays in restoring power](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64da8d4d.json))
 
-## Last Hour (9 Articles)
+## Last Hour (6 Articles)
 
-* **4** virakesari-lk ([இறுதி யுத்தத்தில் காணமல் ஆக்கப்பட்டோரின் ஆட்கொணர்வு மனுவிற்கான தீர்ப்பு செப்டம்பர் 15 இல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/703010fb.json))
-
-* **2** news-first-lk ([Woman jumps into Embilipitiya Lake with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5210603.json))
+* **2** virakesari-lk ([இலங்கை ஆபத்தான நிலையில் - சர்வதேச நாணயநிதியத்துடன் விரைவில் ஒப்பந்தம்-சாந்த தேவராஜன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6246b7c.json))
 
 * **1** tamil-mirror-lk ([பிள்ளைகளுடன் ஆற்றில் குதித்த தாய்; சிறுவன் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e64ae298.json))
 
 * **1** ada-derana-lk ([Mother jumps into Chandrika Wewa with two kids; daughter dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88ce1582.json))
 
+* **1** news-first-lk ([Fuel Crisis: CEB warns of delays in restoring power](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64da8d4d.json))
+
 * **1** lankadeepa-lk ([සෞඛ්‍ය දෙන තෙල් ගන්න ටෝකන් දුන් අයත් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72eac14b.json))
 
-## Last 3 Hours (37 Articles)
+## Last 3 Hours (35 Articles)
 
-* **14** virakesari-lk ([காலிகோட்டையில் ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் இலங்கையின் எந்த சட்டத்தை மீறினார்கள் - கனடா தூதுவர் கேள்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/033bde1d.json))
+* **13** virakesari-lk ([சீனாவின் அந்நியசெலவாணி சந்தை மே மாதத்தில் வீழ்ச்சியடைந்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbd13e20.json))
 
 * **9** lankadeepa-lk ([‘‘බොහෝ පිරිසක් කෑම බලලා වතුර බීල යනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90a7bc52.json))
 
 * **5** news-first-lk ([NO NTMI service on Friday & Saturday](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/817d7feb.json))
 
-* **3** ada-derana-lk ([Three anti-govt activists including “Ratta” and Lahiru granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/4105ecc4.json))
-
 * **3** ada-lk ([මර්වින් සිල්වා ශ්‍රීලනිපයට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04c509ad.json))
+
+* **2** ada-derana-lk ([Delays expected in restoring sudden breakdowns - CEB](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e377faa6.json))
 
 * **1** tamil-mirror-lk ([பிள்ளைகளுடன் ஆற்றில் குதித்த தாய்; சிறுவன் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e64ae298.json))
 
@@ -42,21 +42,21 @@
 
 * **1** economy-next-com ([Sri Lanka can avoid food shortages by relaxing open account imports: Trade Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ca9f627.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (210 Articles)
 
 * **44** virakesari-lk ([கிளிநொச்சி அம்பாள்குளத்திலிருந்து இளைஞர் ஒருவரின் சடலம் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/436a0b13.json))
 
-* **32** lankadeepa-lk ([ඇමෙරිකානු තානාපතිනියගෙන් ජනපතිට තවත් පොරොන්දුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e95ce69.json))
-
-* **26** tamil-mirror-lk ([எம்.பிக்களின் முகவரிகள் நீக்கப்பட்டன](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/098778b4.json))
+* **31** lankadeepa-lk ([කට පුංචා කොලොන්නාවට බසී](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5714bcd9.json))
 
 * **26** daily-mirror-lk ([Court order against holding protest in Fort area](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b77b3394.json))
 
 * **25** ada-lk ([මහින්ද රෝහල්ගත කර ඇති කථාව අසත්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23846327.json))
 
+* **23** tamil-mirror-lk ([பல மாணவிகள் மீது பாலியல் வன்புணர்வு:   ஆசிரியருக்கு விளக்கமறியல் நீடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a2d8f.json))
+
 * **22** ada-derana-lk ([Six sentenced to death over murder of five people in Devinuwara](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a48da46.json))
 
-* **20** news-first-lk ([Six people sentenced to death 22 years after five people were shot dead in 2000](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d54c6b.json))
+* **19** news-first-lk ([(Video) ‘Diesel should be supplied to people in all parts of Sri Lanka’ – Army intervenes to clear protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61671249.json))
 
 * **12** economy-next-com ([Sri Lanka BASL urges police, army chiefs to ensure freedom of expression after arrest, disruptions](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b106f60.json))
 
