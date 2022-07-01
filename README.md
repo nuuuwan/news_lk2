@@ -1,32 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 23:08:55 (LK time)*
+*As of 2022-07-01 23:22:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Extensive talks between President & advisory group on multilateral engagement, debt sustainability](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52959c88.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Extensive talks between President & advisory group on multilateral engagement, debt sustainability](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52959c88.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (12 Articles)
 
-* **4** lankadeepa-lk ([’’තෙල් ප්‍රශ්නය ඉල්ලාගෙන කෑමක්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58f56d97.json))
+* **3** lankadeepa-lk ([කන්දකාඩු සිද්ධිය: යුද-ගුවන් සෙබළු 4 ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04c21a4a.json))
 
 * **3** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
 
 * **2** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
 
-* **2** daily-mirror-lk ([CEB warns over delays in restoring power outages due to fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68fab144.json))
-
 * **2** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
+
+* **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
 
 * **1** virakesari-lk ([மே 9 வன்முறைகள் - மேலும் 14 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44af6858.json))
 
-## Last 24 Hours (211 Articles)
+## Last 24 Hours (209 Articles)
 
 * **46** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -38,9 +34,9 @@
 
 * **22** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-* **17** tamil-mirror-lk ([’பிச்சை எடுத்து உண்ணும் நிலையில் நாடு’](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7864dbe.json))
-
 * **15** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
+
+* **15** tamil-mirror-lk ([நீண்டகால திட்டங்கள் அவசியம்: குவைட் தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ed4030e.json))
 
 * **15** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
@@ -48,7 +44,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,757 Articles)
+## Last Week (1,756 Articles)
 
 * **324** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -58,7 +54,7 @@
 
 * **201** tamil-mirror-lk ([’மனித உரிமை மீறல்கள் குறித்தும் ஐ.எம்.எப் கவனம் செலுத்த வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c8d5d1a.json))
 
-* **200** daily-mirror-lk ([Sri Lanka facing fullblown humanitarian emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6de73e5c.json))
+* **199** daily-mirror-lk ([Police told not to intercede checking underground storage tanks at filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7234aeb.json))
 
 * **162** news-first-lk ([NO paddy for animal feed: CAA](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcee02e6.json))
 
