@@ -86,4 +86,4 @@ def build_wordcloud_animation(n_images, duration_per_image):
 
 if __name__ == '__main__':
     build_wordcloud_animation(10, 1)
-    build_wordcloud_animation(100, 0.1)
+    build_wordcloud_animation(150, 0.16)
