@@ -1,28 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 00:46:39 (LK time)*
+*As of 2022-07-02 00:57:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (13 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **10** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
+* **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
 
-* **2** ada-derana-lk ([Laugfs says LP gas distribution process expanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73dee560.json))
+## Last Hour (12 Articles)
+
+* **11** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
+
+* **1** ada-derana-lk ([Japan ready to provide continuous support to Sri Lanka, envoy says](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf79ccbe.json))
+
+## Last 3 Hours (18 Articles)
+
+* **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
+
+* **3** ada-derana-lk ([Extensive talks between President & advisory group on multilateral engagement, debt sustainability](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52959c88.json))
 
 * **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
 
-## Last 3 Hours (17 Articles)
+* **1** lankadeepa-lk ([ඉන්ධන හිඟයෙන් තේ කම්හල් ටිකත් කොට උඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb40fa0d.json))
 
-* **10** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
-
-* **4** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
-
-* **2** lankadeepa-lk ([පාතාල තර්ජන එල්ල වූ පොලිස් නිලධාරීන්ට ආරක්‍ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b25548f.json))
-
-* **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
-
-## Last 24 Hours (222 Articles)
+## Last 24 Hours (224 Articles)
 
 * **48** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -34,17 +36,17 @@
 
 * **23** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
 
-* **18** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
-
-* **15** tamil-mirror-lk ([நந்தலால் வீரசிங்கவுக்கு நியமனக் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a908f91.json))
+* **21** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
 * **15** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
 * **15** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
+* **14** tamil-mirror-lk ([இன்று முதல் 5 ஆண்டுகால இலவச தொழில் விசா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c91473e7.json))
+
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,750 Articles)
+## Last Week (1,752 Articles)
 
 * **326** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -62,17 +64,17 @@
 
 * **97** economy-next-com ([Sri Lanka President meets high powered IMF mission](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c1b355e.json))
 
-* **64** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
+* **67** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
 * **36** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **25** d-b-s-jeyaraj-com ([India Strengthens Its Position in Sri Lanka Vis-à-Vis Rival China; Will China remain a bystander, watching India and the West displacing it in Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/5323ce1e.json))
+* **24** d-b-s-jeyaraj-com ([The cry ‘Gota must Go’ is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76a02725.json))
 
 * **11** colombo-telegraph-com ([Why I Don’t Support The Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf71fc70.json))
 
 * **7** b-b-c-com-sinhala ([ඉන්ධන අර්බුදය ; ''බයිසිකල් මලකඩ කාපුව සේරම අරගෙන එනවා දැන් හදන්න. නිදහසක් නෑ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce22f45.json))
 
-## All Time (2,289 Articles)
+## All Time (2,292 Articles)
 
 * **389** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -88,7 +90,7 @@
 
 * **175** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **122** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **125** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **112** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
