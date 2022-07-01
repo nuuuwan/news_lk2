@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-guidance-peg-raises-55-cents-despite-dollar-shortage-96766/",
+    "time_ut": 1656680880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s guidance peg raises 55 cents despite dollar shortage",
+    "file_name": "/tmp/news_lk2/articles/22/22f0168f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-human-rights-commission-probing-rehabilitation-centre-mass-escape-96767/",
+    "time_ut": 1656680160,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Human Rights Commission probing rehabilitation centre mass escape",
+    "file_name": "/tmp/news_lk2/articles/79/79fc0cfe.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130589",
+    "time_ut": 1656679989,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bb3\u0bcd\u0bb3\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 2500 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ba/ba7b4cae.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca-\u0db1\u0dd1/1-615715",
     "time_ut": 1656679659,
@@ -14,6 +38,14 @@
     "original_lang": "si",
     "original_title": "\u0d95\u0db8\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dd4\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/2b/2b6872aa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0\u0dcf-\u0dc4\u0dd0\u0dbb\u0dd2\u0dba\u0dd0\u0dba\u0dd2-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/1-615713",
+    "time_ut": 1656678776,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0\u0dcf \u0dc4\u0dd0\u0dbb\u0dd2\u0dba\u0dd0\u0dba\u0dd2 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/56/5614e2dc.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Schools in Colombo, WP suburbs & other major cities to remain closed",
     "file_name": "/tmp/news_lk2/articles/c5/c562e12d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Wanted-Nigerian-national-fleeing-with-forged-passport-nabbed-at-BIA/342-239895",
-    "time_ut": 1656344468,
-    "original_lang": "en",
-    "original_title": "Wanted Nigerian national fleeing with forged passport nabbed at BIA",
-    "file_name": "/tmp/news_lk2/articles/77/77f6a52e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130296",
-    "time_ut": 1656344466,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0b9f\u0b95\u0bc1 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0ba9\u0bc1\u0bb7\u0bcd\u0b95\u0bcb\u0b9f\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u00a0 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0bcb\u0ba4\u0bbf\u0baa \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd\u00a0 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6f/6f7427d0.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd2\u0daf\u0dd2/101-615514",
-    "time_ut": 1656344120,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0daf\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/54/54335c4b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0d9c\u0dbb\u0db6\u0daf-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0da2\u0dd6\u0dbd\u0dd2-10-\u0dad\u0dd9\u0d9a\u0dca-\u0dc0\u0dc4\u0dba\u0dd2/1-615513",
-    "time_ut": 1656344089,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0d9c\u0dbb\u0db6\u0daf \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0da2\u0dd6\u0dbd\u0dd2 10 \u0dad\u0dd9\u0d9a\u0dca \u0dc0\u0dc4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4b/4b10bf46.json"
   }
 ]
