@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 04:40:12 (LK time)*
+*As of 2022-07-02 04:45:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
-## Last 24 Hours (224 Articles)
+## Last 24 Hours (225 Articles)
 
-* **51** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
+* **52** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
 * **38** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
@@ -30,9 +30,9 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,744 Articles)
+## Last Week (1,745 Articles)
 
-* **329** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
+* **330** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
 * **264** lankadeepa-lk ([ඩෙංගු මාරයාත් ඇවිත් පරෙස්සමින් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c0af924.json))
 
@@ -58,9 +58,9 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,298 Articles)
+## All Time (2,299 Articles)
 
-* **392** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **393** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **373** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
