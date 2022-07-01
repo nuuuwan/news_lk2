@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Kamal-Haasan-returns-to-cinema-with-blockbuster-Vikram/277-240221",
+    "time_ut": 1656709100,
+    "original_lang": "en",
+    "original_title": "Kamal Haasan returns to cinema  with blockbuster \u2018Vikram\u2019",
+    "file_name": "/tmp/news_lk2/articles/90/90de507b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Are-we-learning-anything-from-the-crisis/172-240219",
     "time_ut": 1656708368,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "GMOA wants proper program for health service",
     "file_name": "/tmp/news_lk2/articles/d3/d39d18c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83294/cabinet-approval-given-to-revise-train-fares",
-    "time_ut": 1656384600,
-    "original_lang": "en",
-    "original_title": "Cabinet approval given to revise train fares",
-    "file_name": "/tmp/news_lk2/articles/a0/a000df00.json"
   }
 ]
