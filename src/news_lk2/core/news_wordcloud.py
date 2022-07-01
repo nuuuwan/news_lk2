@@ -50,7 +50,7 @@ def get_wordcloud_image_files():
 def build_wordcloud_animation():
     N_IMAGES = 10
     image_files = get_wordcloud_image_files()
-    image_files = image_files[:N_IMAGES]
+    image_files = image_files[-N_IMAGES:]
 
     images = []
     for image_file in image_files:
