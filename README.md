@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 03:58:22 (LK time)*
+*As of 2022-07-02 04:11:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -30,7 +30,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,748 Articles)
+## Last Week (1,745 Articles)
 
 * **329** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -38,7 +38,7 @@
 
 * **205** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
-* **201** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
+* **198** daily-mirror-lk ([New political formation under Dullas in the offing?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2a31238.json))
 
 * **194** tamil-mirror-lk ([திருச்சி சிறப்பு முகாமில் தற்கொலைக்கு முயன்ற 30 தமிழர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f508ae55.json))
 
