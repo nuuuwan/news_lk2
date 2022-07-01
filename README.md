@@ -1,40 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 22:08:19 (LK time)*
+*As of 2022-07-01 22:20:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (4 Articles)
 
-* **1** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
-
-* **1** economy-next-com ([Sri Lanka shares up amid renewed interest on LIOC shares; concerns remain](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e4aacc.json))
-
-## Last Hour (5 Articles)
-
-* **3** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
+* **2** economy-next-com ([Sri Lanka CEB warns of likely increase in power cut duration over lack of diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5deff8ea.json))
 
 * **1** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
 
 * **1** daily-mirror-lk ([Woman jumps into Chandrika Wewa with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2bd83e8.json))
 
-## Last 3 Hours (20 Articles)
-
-* **5** virakesari-lk ([நாட்டின் தற்போதைய நிலைமை குறித்து தமது அதிருப்தியை வெளிப்படுத்தி ஜனாதிபதிக்கு மகாநாக்க தேரர்கள் அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3e1979b.json))
+## Last 3 Hours (18 Articles)
 
 * **4** daily-mirror-lk ([Consular Affairs Division to be open on all weekdays from Monday](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/328f627c.json))
 
+* **4** virakesari-lk ([காலி கோட்டை ஆர்ப்பாட்டம் மீதான அத்துமீறல் : இராணுவ தலையீட்டுக்கு எதிராக மனு தாக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8e4d9a8.json))
+
 * **3** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
 
-* **3** lankadeepa-lk ([විදේශ අමාත්‍යාංශයේ කොන්සියුලරය සතියේ දින 5ම ඇරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0df38c5.json))
-
 * **2** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
+
+* **2** lankadeepa-lk ([’’තෙල් ප්‍රශ්නය ඉල්ලාගෙන කෑමක්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58f56d97.json))
 
 * **2** ada-lk ([දරු දෙදෙනා සමග චන්ද්‍රිකා වැවට පැන්න මවත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d21dd79.json))
 
 * **1** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
 
-## Last 24 Hours (213 Articles)
+## Last 24 Hours (212 Articles)
 
 * **46** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -46,7 +40,7 @@
 
 * **22** ada-derana-lk ([US Ambassador assures support to find solutions to Sri Lanka’s economic issues](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9503d300.json))
 
-* **21** tamil-mirror-lk ([சர்வக்கட்சி அரசாங்கமே அத்தியாவசியமானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b33ff315.json))
+* **20** tamil-mirror-lk ([கணிசமான முன்னேற்றம் ஏற்பட்டுள்ளது: ஐ.எம்.எப். அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18011367.json))
 
 * **15** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
@@ -56,7 +50,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,767 Articles)
+## Last Week (1,766 Articles)
 
 * **328** virakesari-lk ([உண்மையான நட்பு நாட்டை அரசாங்கம் அடையாளப்படுத்திக்கொள்ள வேண்டும் - ரஷ்யாவிற்கான முன்னாள் இலங்கை தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6cc323.json))
 
@@ -64,7 +58,7 @@
 
 * **207** ada-lk ([පස්වැනි එක්දින තරගයේ ජය ශ්‍රී ලංකාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f4797cb.json))
 
-* **203** daily-mirror-lk ([Kumara Welgama released from corruption case](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150ef60e.json))
+* **202** daily-mirror-lk ([Yellow is our colour -SJB](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dc630fa.json))
 
 * **201** tamil-mirror-lk ([’மனித உரிமை மீறல்கள் குறித்தும் ஐ.எம்.எப் கவனம் செலுத்த வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c8d5d1a.json))
 
