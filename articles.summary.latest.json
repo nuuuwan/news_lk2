@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130578",
+    "time_ut": 1656672195,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0ba8\u0b95\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e6/e676012e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130562",
+    "time_ut": 1656671876,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0baf\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bae\u0bb2\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b95\u0bca\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1 \u0bae\u0ba9\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 15 \u0b87\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/70/703010fb.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130577",
     "time_ut": 1656671675,
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc0\u0ba9\u0ba4\u0bcd\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8",
     "file_name": "/tmp/news_lk2/articles/9c/9c2358d4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd1\u0db8-\u0db6\u0dbd\u0dcf-\u0dc0\u0dad\u0dd4\u0dbb-\u0db6\u0ddc\u0db1-\u0d85\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dbd\u0dcf/11-395014",
+    "time_ut": 1656670560,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd1\u0db8 \u0db6\u0dbd\u0dcf \u0dc0\u0dad\u0dd4\u0dbb \u0db6\u0ddc\u0db1 \u0d85\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/36/36809dd0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc0\u0b95\u0bb0\u0bcd \u0b95\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8 : \u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bcd\u0bb5\u0bb2\u0bbe \u0b95\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd ? : \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bb1\u0bc8\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/41/41fd11a6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/",
-    "time_ut": 1656340440,
-    "original_lang": "en",
-    "original_title": "BREAKING: Only essential services to operate from midnight (27); CPC will only issue fuel for essential services",
-    "file_name": "/tmp/news_lk2/articles/d7/d7015497.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-private-buses-en-route-to-grinding-halt-as-fuel-crisis-deepens-96537/",
-    "time_ut": 1656340380,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s private buses en route to grinding halt as fuel crisis deepens",
-    "file_name": "/tmp/news_lk2/articles/0d/0d1c8cf1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0da9\u0dd4-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dad\u0dca-\u0dc3\u0dd3\u0db8\u0dcf-\u0dc0\u0dda/101-615511",
-    "time_ut": 1656339958,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0da9\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dad\u0dca \u0dc3\u0dd3\u0db8\u0dcf \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/c9/c958f3fa.json"
   }
 ]
