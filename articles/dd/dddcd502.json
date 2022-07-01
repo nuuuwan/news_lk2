@@ -1,0 +1,138 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-299550",
+  "time_ut": 1656689657,
+  "original_lang": "ta",
+  "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Urgent letter to the President",
+      "author": "unknown",
+      "body_lines": [
+        "The Mahanayake Theras of the four Buddhist sects have written a letter to President Gotabhaya Rajapaksa.",
+        "The letter emphasizes the 10 points, including the implementation of the 22nd Amendment to the Constitution, the creation of economic stability and the provision of relief to the people. (R)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Mahanayake Theras",
+            "label": "PERSON"
+          },
+          {
+            "text": "four",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Buddhist",
+            "label": "NORP"
+          },
+          {
+            "text": "Gotabhaya Rajapaksa",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the 22nd Amendment",
+            "label": "LAW"
+          },
+          {
+            "text": "Constitution",
+            "label": "LAW"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dad\u0dd4\u0db8\u0dcf\u0da7 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db6\u0dde\u0daf\u0dca\u0db0 \u0db1\u0dd2\u0d9a\u0dcf\u0dba\u0dd2\u0d9a \u0dc3\u0dad\u0dbb \u0db8\u0dc4\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd9\u0dad \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca \u0dba\u0ddc\u0db8\u0dd4\u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u200d\u0dbb\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0\u0dba \u0d87\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 10\u0d9a\u0dca \u0d91\u0db8 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0db0\u0dcf\u0dbb\u0dab\u0dba \u0d9a\u0dbb \u0d87\u0dad. (\u0d86)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db8\u0dc4\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dbb\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc4\u0dad\u0dbb",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dde\u0daf\u0dca\u0db0",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "LAW"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0baa\u0bc0\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc8 \u0b8e\u0bb4\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd 22 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f 10 \u0bb5\u0bbf\u0b9f\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0bb4\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. (R)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bcc\u0ba4\u0bcd\u0ba4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "22 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "LAW"
+          }
+        ]
+      ]
+    }
+  }
+}
