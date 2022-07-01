@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-299569",
+    "time_ut": 1656699691,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/40/405dea07.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83373/laugfs-says-lp-gas-distribution-process-expanded",
+    "time_ut": 1656699660,
+    "original_lang": "en",
+    "original_title": "Laugfs says LP gas distribution process expanded",
+    "file_name": "/tmp/news_lk2/articles/73/73dee560.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83372/extensive-talks-between-president-advisory-group-on-multilateral-engagement-debt-sustainability",
     "time_ut": 1656695700,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Queues at fuel stations",
     "file_name": "/tmp/news_lk2/articles/8d/8de26de1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/US-technical-assistance-for-fiscal-management/56-736764",
-    "time_ut": 1656361076,
-    "original_lang": "en",
-    "original_title": "US technical assistance for fiscal management",
-    "file_name": "/tmp/news_lk2/articles/81/81b5de2c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Power-cuts-to-remain-for-1-5-2-years-PUCSL-Chief/56-736763",
-    "time_ut": 1656361038,
-    "original_lang": "en",
-    "original_title": "Power cuts to remain for 1.5 - 2 years: PUCSL Chief",
-    "file_name": "/tmp/news_lk2/articles/78/78bdfee1.json"
   }
 ]
