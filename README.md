@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 03:08:41 (LK time)*
+*As of 2022-07-02 03:17:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
+
+* **1** daily-mirror-lk ([Kamal Haasan returns to cinema  with blockbuster ‘Vikram’](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90de507b.json))
+
+## Last 3 Hours (6 Articles)
 
 * **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
 
-## Last 3 Hours (11 Articles)
-
-* **8** daily-ft-lk ([GL attends Commonwealth Heads of Government Meeting 2022 in Kigali, Rwanda](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/884383ff.json))
-
-* **3** daily-mirror-lk ([Revive the co-operative movement in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b63fe2cc.json))
+* **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
 
 ## Last 24 Hours (223 Articles)
 
