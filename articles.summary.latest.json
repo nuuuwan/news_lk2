@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83371/foreign-ministrys-consular-affairs-division-to-resume-regular-services",
+    "time_ut": 1656692220,
+    "original_lang": "en",
+    "original_title": "Foreign Ministry\u2019s Consular Affairs Division to resume regular services",
+    "file_name": "/tmp/news_lk2/articles/9b/9bdc6d1c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-up-amid-renewed-interest-on-lioc-shares-concerns-remain-96773/",
+    "time_ut": 1656692100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares up amid renewed interest on LIOC shares; concerns remain",
+    "file_name": "/tmp/news_lk2/articles/c4/c4e4aacc.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Woman-jumps-into-Chandrika-Wewa-with-two-sons/108-240182",
     "time_ut": 1656691262,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Hayleys Solar launches \u201cEnergynet\u201d to combat power outages, non-availability of fossil fuels",
     "file_name": "/tmp/news_lk2/articles/cb/cb083a37.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78274",
-    "time_ut": 1656358860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to purchase four shipments of fuel from India for Cash  instead of on credit; Deal Expected to materialise in One week  will result in  Initial shipment Followed by Petrol Shipments  When Required.",
-    "file_name": "/tmp/news_lk2/articles/1e/1e7b153c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Exports-to-major-markets-record-strong-growth/108-239937",
-    "time_ut": 1656358417,
-    "original_lang": "en",
-    "original_title": "Exports to major markets record strong growth",
-    "file_name": "/tmp/news_lk2/articles/d6/d61a450e.json"
   }
 ]
