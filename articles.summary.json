@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dcf\u0d9a\u0ddd\u0dc3\u0dca-\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba\u0dda-\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/3-395002",
+    "time_ut": 1656651784,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0d9a\u0ddd\u0dc3\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba\u0dda \u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6c/6c1d3e91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/22-trains-cancelled-No-fuel-for-railway-guards-to-report-for-duty/108-240167",
+    "time_ut": 1656651500,
+    "original_lang": "en",
+    "original_title": "22 trains cancelled; No fuel for railway guards to report for duty",
+    "file_name": "/tmp/news_lk2/articles/5a/5a1910ba.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd-\u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0db1\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/3-395001",
+    "time_ut": 1656651259,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/52/52deafba.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130529",
+    "time_ut": 1656651130,
+    "original_lang": "ta",
+    "original_title": "177 \u0baa\u0bb5\u0bc1\u0ba3\u0bcd \u0ba4\u0b99\u0bcd\u0b95 \u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f 4 \u0baa\u0bc7\u0bb0\u0bcd 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a3/a3ea89ec.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc6\u0ddd\u0db8\u0dd2\u0dba\u0dd4\u0dbd\u0dcf-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf-\u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dc0\u0dd2-\u0daf\u0dbb\u0dba\u0dd2/3-395000",
+    "time_ut": 1656650689,
+    "original_lang": "si",
+    "original_title": "\u0dc6\u0ddd\u0db8\u0dd2\u0dba\u0dd4\u0dbd\u0dcf \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dcf \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dd2 \u0daf\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fa/fafaea25.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b85\u0ba3\u0bbf-\u0bb5\u0bc0\u0bb0\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe/44-299538",
+    "time_ut": 1656650531,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0ba3\u0bbf \u0bb5\u0bc0\u0bb0\u0bb0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/6e/6ed1d50f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf-\u0d9c\u0dd1\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-\u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0dc3\u0dd2\u0da7-\u0d89\u0dc4\u0dc5\u0da7\u0db8/3-394999",
     "time_ut": 1656650146,
     "original_lang": "si",
@@ -9,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Mathews-subbed-out-after-positive-COVID-test/342-240160",
+    "url": "https://www.dailymirror.lk/breaking_news/Mathews-subbed-out-after-positive-COVID-test/108-240160",
     "time_ut": 1656650093,
     "original_lang": "en",
     "original_title": "Mathews subbed out after positive COVID test",
-    "file_name": "/tmp/news_lk2/articles/08/0821a1fe.json"
+    "file_name": "/tmp/news_lk2/articles/97/97594004.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -22,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dca\u0dc3\u0dca\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0db1\u0dba \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/0d/0dff58a3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d8b\u0d9a\u0dc3\u0dca-\u0d86\u0dba\u0dad\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-03\u0d9a\u0da7-\u0d85\u0db0\u0dd2\u0d9a-\u0dbb\u0db1\u0dca-\u0d89\u0dc3\u0dca\u0dc3\u0dd4-04\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/11-394998",
+    "time_ut": 1656649440,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0d9a\u0dc3\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 03\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dbb\u0db1\u0dca \u0d89\u0dc3\u0dca\u0dc3\u0dd4 04\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/dd/dd876753.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -161,11 +217,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Colombo-inflation-gallops-to-55-in-June-food-inflation-reaches-80/342-240154",
+    "url": "https://www.dailymirror.lk/breaking_news/Colombo-inflation-gallops-to-55-in-June-food-inflation-reaches-80/108-240154",
     "time_ut": 1656645973,
     "original_lang": "en",
     "original_title": "Colombo inflation gallops to 55% in June; food inflation reaches 80%",
-    "file_name": "/tmp/news_lk2/articles/87/87e749a7.json"
+    "file_name": "/tmp/news_lk2/articles/b3/b327dbca.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
