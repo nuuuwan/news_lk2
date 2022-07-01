@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 01:06:59 (LK time)*
+*As of 2022-07-02 01:17:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
-
-## Last Hour (10 Articles)
-
-* **10** daily-ft-lk ([Prof. Mohan Munasinghe delivers keynote speech at Hegra Nobel Laureates Summit in Saudi Arabia](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84209076.json))
 
 ## Last 3 Hours (17 Articles)
 
@@ -20,13 +16,13 @@
 
 * **1** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
 
-## Last 24 Hours (223 Articles)
+## Last 24 Hours (221 Articles)
 
 * **48** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
 * **38** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
-* **26** ada-lk ([මංකොල්ල කෑ සියලු මුදල් අත්කර ගැනීමේ මෙහෙයුම් අරඹනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aebd4efa.json))
+* **24** ada-lk ([ජුනි මස කොළඹ උද්ධමනය සියයට 54.6ක් දක්වා ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b08b1d1.json))
 
 * **23** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
@@ -42,7 +38,7 @@
 
 * **1** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
-## Last Week (1,752 Articles)
+## Last Week (1,749 Articles)
 
 * **326** virakesari-lk ([கொழும்பில் சில பகுதிகளில் 10 மணிநேர நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dbdf2ff.json))
 
@@ -50,7 +46,7 @@
 
 * **205** ada-lk ([ඇමෙරිකාවේ ඉහළ මට්ටමේ දූත පිරිස හෙට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8078cbd1.json))
 
-* **202** tamil-mirror-lk ([’மனித உரிமை மீறல்கள் குறித்தும் ஐ.எம்.எப் கவனம் செலுத்த வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c8d5d1a.json))
+* **200** tamil-mirror-lk ([ஜூனில் 8,179 டெங்கு நோயாளர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/6644d54f.json))
 
 * **198** daily-mirror-lk ([For public servants, there is no higher calling than serving others](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7c4e0ef.json))
 
@@ -64,7 +60,7 @@
 
 * **36** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **24** d-b-s-jeyaraj-com ([The cry ‘Gota must Go’ is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76a02725.json))
+* **23** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
 
 * **11** colombo-telegraph-com ([Why I Don’t Support The Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf71fc70.json))
 
