@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Japan-says-closely-paying-attention-to-SLs-difficult-economic-situation-ready-to-assist/342-240179",
+    "time_ut": 1656684854,
+    "original_lang": "en",
+    "original_title": "Japan says closely paying attention to SL\u2019s difficult economic situation, ready to assist",
+    "file_name": "/tmp/news_lk2/articles/98/983d6ef4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Consular-Affairs-Division-to-be-open-on-all-weekdays-from-Monday/108-240178",
     "time_ut": 1656684411,
     "original_lang": "en",
     "original_title": "Consular Affairs Division to be open on all weekdays from Monday",
     "file_name": "/tmp/news_lk2/articles/32/328f627c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dbb\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0dc3\u0db8\u0d9c-\u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0db8\u0dc0\u0dad\u0dca-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/11-395017",
+    "time_ut": 1656684177,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0dc3\u0db8\u0d9c \u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0db8\u0dc0\u0dad\u0dca \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8d/8d21dd79.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLTB says adequate buses will be operated",
     "file_name": "/tmp/news_lk2/articles/ca/ca626504.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Power-Ministry-Secy-held-hostage/110-239901",
-    "time_ut": 1656348643,
-    "original_lang": "en",
-    "original_title": "Power Ministry Secy held hostage",
-    "file_name": "/tmp/news_lk2/articles/d3/d38f6c0b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protest-demanding-GR-Ranil-step-down/110-239900",
-    "time_ut": 1656348186,
-    "original_lang": "en",
-    "original_title": "Protest demanding GR, Ranil step down",
-    "file_name": "/tmp/news_lk2/articles/cc/cc11dafc.json"
   }
 ]
