@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Army-evicted-protesters-at-Galle-cricket-match-file-FR/56-736938",
+    "time_ut": 1656701077,
+    "original_lang": "en",
+    "original_title": "Army-evicted protesters at Galle cricket match file FR",
+    "file_name": "/tmp/news_lk2/articles/15/15aa88ad.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Japanese-Ambassador-makes-first-visit-to-Northern-Province/56-736937",
+    "time_ut": 1656700961,
+    "original_lang": "en",
+    "original_title": "Japanese Ambassador makes first visit to Northern Province",
+    "file_name": "/tmp/news_lk2/articles/bc/bc580aae.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/GL-attends-Commonwealth-Heads-of-Government-Meeting-2022-in-Kigali-Rwanda/56-736936",
+    "time_ut": 1656700831,
+    "original_lang": "en",
+    "original_title": "GL attends Commonwealth Heads of Government Meeting 2022 in Kigali, Rwanda",
+    "file_name": "/tmp/news_lk2/articles/88/884383ff.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Foreign-Secretary-meets-visiting-US-Treasury-and-State-Dept-delegation/56-736935",
+    "time_ut": 1656700700,
+    "original_lang": "en",
+    "original_title": "Foreign Secretary meets visiting US Treasury and State Dept. delegation",
+    "file_name": "/tmp/news_lk2/articles/64/64bbc6e0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Prof-Mohan-Munasinghe-delivers-keynote-speech-at-Hegra-Nobel-Laureates-Summit-in-Saudi-Arabia/56-736934",
+    "time_ut": 1656700661,
+    "original_lang": "en",
+    "original_title": "Prof. Mohan Munasinghe delivers keynote speech at Hegra Nobel Laureates Summit in Saudi Arabia",
+    "file_name": "/tmp/news_lk2/articles/84/84209076.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Jaffna-College-in-crisis-National-Christian-Council-s-intervention-sought/14-736931",
+    "time_ut": 1656700335,
+    "original_lang": "en",
+    "original_title": "Jaffna College in crisis: National Christian Council\u2019s intervention sought",
+    "file_name": "/tmp/news_lk2/articles/a5/a517d7cd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83374/japan-ready-to-provide-continuous-support-to-sri-lanka-envoy-says",
+    "time_ut": 1656700080,
+    "original_lang": "en",
+    "original_title": "Japan ready to provide continuous support to Sri Lanka, envoy says",
+    "file_name": "/tmp/news_lk2/articles/bf/bf79ccbe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Time-for-a-fighting-chance/4-736928",
+    "time_ut": 1656699928,
+    "original_lang": "en",
+    "original_title": "Time for a fighting chance",
+    "file_name": "/tmp/news_lk2/articles/91/91980d5c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-299569",
     "time_ut": 1656699691,
@@ -14,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Laugfs says LP gas distribution process expanded",
     "file_name": "/tmp/news_lk2/articles/73/73dee560.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Common-good-constitutionalism-for-Sri-Lanka-The-impossible-dream/4-736923",
+    "time_ut": 1656699400,
+    "original_lang": "en",
+    "original_title": "Common good constitutionalism for Sri Lanka: The impossible dream?",
+    "file_name": "/tmp/news_lk2/articles/f3/f3ba2d4a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Two ministers leave for Qatar for talks on fuel imports",
     "file_name": "/tmp/news_lk2/articles/eb/eb9f91a7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83293/energy-minister-off-to-qatar-for-talks-on-fuel-imports",
-    "time_ut": 1656382320,
-    "original_lang": "en",
-    "original_title": "Energy Minister off to Qatar for talks on fuel imports",
-    "file_name": "/tmp/news_lk2/articles/b4/b40567bc.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/an-essential-lesson-in-essentiality/",
-    "time_ut": 1656379193,
-    "original_lang": "en",
-    "original_title": "An \u2018Essential\u2019 Lesson In \u2018Essentiality\u2019",
-    "file_name": "/tmp/news_lk2/articles/00/00edb43e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Universal-social-security-If-not-now-when/14-736777",
-    "time_ut": 1656376596,
-    "original_lang": "en",
-    "original_title": "Universal social security: If not now, when?",
-    "file_name": "/tmp/news_lk2/articles/c8/c8a1757e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Economic-crisis-public-outcry-foreign-reserves-and-remittances/4-736776",
-    "time_ut": 1656376480,
-    "original_lang": "en",
-    "original_title": "Economic crisis, public outcry, foreign reserves and remittances",
-    "file_name": "/tmp/news_lk2/articles/2d/2da557e6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Cabinet-nod-for-freight-service-between-KKS-and-Tamil-Nadu-soon-Devananda/342-239945",
-    "time_ut": 1656376387,
-    "original_lang": "en",
-    "original_title": "Cabinet nod for freight service between KKS and Tamil Nadu soon: Devananda",
-    "file_name": "/tmp/news_lk2/articles/44/440905f0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Financial-literacy-A-closer-look-at-Sri-Lanka-Part-2/4-736775",
-    "time_ut": 1656376242,
-    "original_lang": "en",
-    "original_title": "Financial literacy: A closer look at Sri Lanka \u2013 Part 2",
-    "file_name": "/tmp/news_lk2/articles/48/4890f8e4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Horse-carriages-in-Jaffna/108-239944",
-    "time_ut": 1656376132,
-    "original_lang": "en",
-    "original_title": "Horse carriages in Jaffna",
-    "file_name": "/tmp/news_lk2/articles/66/6690b7f2.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Five-investments-to-look-out-for-in-Sri-Lanka-post-IMF-bailout/4-736774",
-    "time_ut": 1656375972,
-    "original_lang": "en",
-    "original_title": "Five investments to look out for in Sri Lanka post-IMF bailout",
-    "file_name": "/tmp/news_lk2/articles/70/706dbe1b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Queues-at-fuel-stations/110-239943",
-    "time_ut": 1656375802,
-    "original_lang": "en",
-    "original_title": "Queues at fuel stations",
-    "file_name": "/tmp/news_lk2/articles/8d/8de26de1.json"
   }
 ]
