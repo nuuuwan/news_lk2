@@ -1,0 +1,654 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/07/01/parliament-to-convene-on-4th-5th-6th-next-week/",
+  "time_ut": 1656648840,
+  "original_lang": "en",
+  "original_title": "Parliament to convene on 4th, 5th, & 6th next week",
+  "text_idx": {
+    "en": {
+      "title": "Parliament to convene on 4th, 5th, & 6th next week",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); The Secretary General of Parliament Dhammika Dasanayake said that the Parliament is scheduled to meet on the 4th, 5th and 6th of next week.",
+        "This was decided at the Committee on Parliamentary Business held under the chairmanship of Mahinda Yapa Abeywardana, Speaker of Parliament.",
+        "On the 4th, from 10.00 am to 3.30 pm, the entire period is allotted for 50 Questions for Oral Answers that could not be taken up in Parliament previously due to various reasons.",
+        "Furthermore, Parliament is scheduled to convene on the 5th of July at 10.00 am.",
+        "Accordingly, Regulations under the Foreign Exchange Act, no. 12 of 2017, Two Orders under the Sri Lanka Export Development Act No. 40 of 1979 published under the Gazette Extraordinary No. 2270/20 and 2280/32, Resolution under the Custom ordinance, Resolutions under Section 8 of the Appropriation Act No. 7 of 2020 are scheduled to be approved following debate.",
+        "Furthermore, Six Orders under Special Commodity Levy Act, No. 48 of 2007 and Two Regulations under the Imports and Exports Control Act, No. 01 of 1969 published under the Gazette Extraordinary Nos. 2282/21 and 2282/22 are also scheduled to be approved following debate on the same day.",
+        "Thereafter, time has been allotted from 4.30 pm to 4.50 pm for Questions at the Adjournment Time and from 4.50 pm to 5.30 pm it has been decided to debate the Motion at the Adjournment Time brough by the Government.",
+        "Furthermore, on July 6th from 10.00 am to 10.30 am, time has been allotted to take up Prime Minister\u2019s Questions. It was then decided to debate the Adjournment Motion brough by the Opposition until 4.30 pm on the \u201cprevailing situation in the country\u201d, Secretary General of Parliament Dhammika Dasanayake said.",
+        "Furthermore, due to the existing challenges, attention has been drawn at holding committee meetings online on days when the Parliament is not in session, and thus, it was decided to take necessary further actions.",
+        "Fuel Crisis: Train operations cancelled as workers unable to report to work"
+      ],
+      "title_ents": [
+        {
+          "text": "Parliament",
+          "label": "ORG"
+        },
+        {
+          "text": "4th",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "5th",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "6th next week",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "4th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "6th of next week",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Committee on Parliamentary Business",
+            "label": "ORG"
+          },
+          {
+            "text": "Mahinda Yapa Abeywardana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "4th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "10.00 am to",
+            "label": "TIME"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "10.00 am",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "the Foreign Exchange Act",
+            "label": "LAW"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Sri Lanka Export Development Act No",
+            "label": "ORG"
+          },
+          {
+            "text": "40 of 1979",
+            "label": "DATE"
+          },
+          {
+            "text": "2270/20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2280/32",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Resolution",
+            "label": "ORG"
+          },
+          {
+            "text": "Custom",
+            "label": "ORG"
+          },
+          {
+            "text": "Section 8 of the Appropriation Act No",
+            "label": "LAW"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Six Orders",
+            "label": "ORG"
+          },
+          {
+            "text": "Levy Act",
+            "label": "PERSON"
+          },
+          {
+            "text": "48 of 2007",
+            "label": "DATE"
+          },
+          {
+            "text": "01",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the same day",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4.30 pm",
+            "label": "TIME"
+          },
+          {
+            "text": "4.50 pm",
+            "label": "TIME"
+          },
+          {
+            "text": "4.50 pm",
+            "label": "TIME"
+          },
+          {
+            "text": "5.30 pm",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "July 6th",
+            "label": "DATE"
+          },
+          {
+            "text": "10.00 am",
+            "label": "TIME"
+          },
+          {
+            "text": "4.30 pm",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "days",
+            "label": "DATE"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          }
+        ],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda 4, 5 \u0dc3\u0dc4 6 \u0dba\u0db1 \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0dc4\u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0daf\u0dc3\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda 4, 5 \u0dc3\u0dc4 6 \u0dba\u0db1 \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dba\u0dcf\u0db4\u0dcf \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dad\u0dca\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db8\u0dd9\u0db8 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "04 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10.00 \u0dc3\u0dd2\u0da7 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 3.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0dc4\u0dda\u0dad\u0dd6\u0db1\u0dca \u0db8\u0dad \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6 \u0dc0\u0dcf\u0da0\u0dd2\u0d9a \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 50\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd4\u0dc5\u0dd4 \u0d9a\u0dcf\u0dbd\u0dba\u0db8 \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dd9\u0dbb\u0dda.",
+        "\u0dad\u0dc0\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dc3 05 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10.00\u0da7 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2, \u0db1\u0ddc. 2017 \u0d85\u0d82\u0d9a 12, \u0d85\u0d82\u0d9a 2270/20 \u0dc3\u0dc4 2280/32 \u0daf\u0dbb\u0db1 \u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf 1979 \u0d85\u0d82\u0d9a 40 \u0daf\u0dbb\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0daf\u0dd9\u0d9a\u0d9a\u0dca, \u0dbb\u0dda\u0d9c\u0dd4 \u0d86\u0da5\u0dcf\u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0, \u0d85\u0d82\u0d9a 7 \u0daf\u0dbb\u0db1 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dda 8 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba \u0dba\u0da7\u0dad\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf 2020 \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba.",
+        "\u0dad\u0dc0\u0daf, \u0d85\u0d82\u0d9a 2282/21 \u0dc3\u0dc4 2282/22 \u0daf\u0dbb\u0db1 \u0d85\u0dad\u0dd2\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf 2007 \u0d85\u0d82\u0d9a 48 \u0daf\u0dbb\u0db1 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dc0\u0dd9\u0dc5\u0db3 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db6\u0daf\u0dca\u0daf \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0dc4\u0dba\u0d9a\u0dca \u0dc3\u0dc4 1969 \u0d85\u0d82\u0d9a 01 \u0daf\u0dbb\u0db1 \u0d86\u0db1\u0dba\u0db1 \u0dc4\u0dcf \u0d85\u0db4\u0db1\u0dba\u0db1 \u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0db1\u0dad \u0dba\u0da7\u0dad\u0dda \u0dbb\u0dd9\u0d9c\u0dd4\u0dbd\u0dcf\u0dc3\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca\u0daf \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0d91\u0daf\u0dd2\u0db1\u0db8 \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0d85\u0db1\u0dd4\u0db8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d89\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0 \u0dc3\u0db7\u0dcf\u0dc0 \u0d9a\u0dbd\u0dca \u0dad\u0db6\u0db1 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 4.30 \u0dc3\u0dd2\u0da7 4.50 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 4.50 \u0dc3\u0dd2\u0da7 5.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0db7\u0dcf\u0dc0 \u0d9a\u0dbd\u0dca \u0dad\u0db6\u0db1 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dbb\u0da2\u0dba \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dad\u0dc0\u0daf, \u0da2\u0dd4\u0dbd\u0dd2 6 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0dd2\u0db1 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10.00 \u0dc3\u0dd2\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d87\u0dc3\u0dd3\u0db8\u0da7 \u0d9a\u0dcf\u0dbd\u0dba \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0d89\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0, \u201c\u0dbb\u0da7\u0dda \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u201d \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d9a\u0dbd\u0dca \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dda \u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 4.30 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dc5 \u0db6\u0dc0 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0dc4\u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0daf\u0dc3\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dad\u0dc0\u0daf \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db1\u0ddc\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd9\u0db1 \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0d9a\u0db8\u0dd2\u0da7\u0dd4 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0da2\u0dcf\u0dbd\u0dba \u0d94\u0dc3\u0dca\u0dc3\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4\u0dc0 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba: \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb \u0d87\u0dad"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+          "label": "ORG"
+        },
+        {
+          "text": "4 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "5 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda 6 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "4 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda 6 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dba\u0dcf\u0db4\u0dcf \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "4 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "10.00 \u0dc3\u0dd2\u0da7",
+            "label": "TIME"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "10.00 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0db4\u0db1\u0dad",
+            "label": "LAW"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db4\u0db1\u0dad \u0d85\u0d82\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "1979 40",
+            "label": "DATE"
+          },
+          {
+            "text": "2270/20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2280/32",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dda\u0daf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0db7\u0dd2\u0dbb\u0dd4\u0da0\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0d82\u0d9a \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dda 8 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba",
+            "label": "LAW"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0dc4\u0dba\u0d9a\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dd4 \u0db4\u0db1\u0dad",
+            "label": "PERSON"
+          },
+          {
+            "text": "2007 48",
+            "label": "DATE"
+          },
+          {
+            "text": "01",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d91\u0daf\u0dd2\u0db1\u0db8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "4.30 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "4.50 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "4.50 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "5.30 \u0db4.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 6 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "10.00 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "4.30 \u0db4.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd2\u0db1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          }
+        ],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 4, 5, 6 \u0b86\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd 4, 5 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 6 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0b9a\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0baf\u0bbe\u0baa\u0bcd\u0baa\u0bbe \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "4\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd 3.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0baa\u0bb2\u0bcd\u0bb5\u0bc7\u0bb1\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0bae\u0bc2\u0bb2 \u0bb5\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 50 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9c\u0bc2\u0bb2\u0bc8 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 5\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc2\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd, \u0b8e\u0ba3\u0bcd. 2017 \u0b87\u0ba9\u0bcd 12, 1979 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 40 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0b95\u0bb3\u0bcd, 2270/20 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2280/32 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b9a\u0bc1\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd, \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 8 \u0b86\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 2020 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bc6\u0bb1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, 2007 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 48 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b86\u0bb1\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2282/21 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 2282/22 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 1969 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd 01 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. \u0b85\u0ba4\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0bbf\u0ba9\u0bcd, \u0b9a\u0baa\u0bc8 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8 4.30 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 4.50 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1, \u0bae\u0bbe\u0bb2\u0bc8 4.50 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 5.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0baa\u0bbf\u0bb0\u0bc7\u0bb0\u0ba3\u0bc8\u0baf\u0bc8 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0b8e\u0ba9 \u0b85\u0bb0\u0b9a\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0b9c\u0bc2\u0bb2\u0bc8 6\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 10.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0b95\u0bcd\u0b95 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0bc7\u0bb0\u0ba3\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb2\u0bc8 4.30 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0b9a\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95, \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbe\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1, \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf: \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "4\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "5\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 6\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "4\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "5\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 6\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0baf\u0bbe\u0baa\u0bcd\u0baa\u0bbe \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "4\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "50",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0bb2",
+            "label": "ORG"
+          },
+          {
+            "text": "1979 \u0b87\u0ba9\u0bcd 40",
+            "label": "DATE"
+          },
+          {
+            "text": "2270/20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2280/32",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0baf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 8 \u0b8e\u0ba3\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b86\u0bb1\u0bc1 \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb2\u0bc6\u0bb5\u0bbf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "48 \u0b87\u0ba9\u0bcd 2007",
+            "label": "DATE"
+          },
+          {
+            "text": "01",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/21",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2282/22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b85\u0ba4\u0bc7 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.30 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.50 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.50 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 5.30 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 6",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.30 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        []
+      ]
+    }
+  }
+}
