@@ -1,6 +1,110 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc4\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-200\u0d9a\u0dca-\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-615701",
+    "time_ut": 1656668967,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dc4\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200\u0d9a\u0dca \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ab/ab2da0f8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6-\u0dbd\u0dcf\u0dc6\u0dca-\u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dca-50\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-615700",
+    "time_ut": 1656668708,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd0\u0d9f\u0dc0\u0dd6 \u0dbd\u0dcf\u0dc6\u0dca \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb\u0dca 50\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2d/2dfbe660.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Mervyn-Silva-joins-SLFP/342-240175",
+    "time_ut": 1656668370,
+    "original_lang": "en",
+    "original_title": "Mervyn Silva joins SLFP",
+    "file_name": "/tmp/news_lk2/articles/ff/ff8d28de.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130569",
+    "time_ut": 1656668180,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9  \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf  - \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9b/9bca734d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca-\u0dc4\u0daf\u0db1\u0dca\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf-\u0dc0\u0dd9\u0dba\u0dd2/1-615699",
+    "time_ut": 1656668175,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/bd/bd87eeab.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc0-\u0daf\u0dbb\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0dc3\u0db8\u0d9c-\u0dc0\u0dd0\u0dc0\u0da7-\u0db4\u0db1\u0dd3/1-615698",
+    "time_ut": 1656668095,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc0 \u0daf\u0dbb\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0dc3\u0db8\u0d9c \u0dc0\u0dd0\u0dc0\u0da7 \u0db4\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/d6/d64b6d9d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130568",
+    "time_ut": 1656668081,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/93/93695466.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83365/delays-expected-in-restoring-sudden-breakdowns-ceb",
+    "time_ut": 1656667860,
+    "original_lang": "en",
+    "original_title": "Delays expected in restoring sudden breakdowns - CEB",
+    "file_name": "/tmp/news_lk2/articles/e3/e377faa6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130558",
+    "time_ut": 1656667639,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 -\u00a0\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f5/f53821fd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-can-avoid-food-shortages-by-relaxing-open-account-imports-trade-minister-96764/",
+    "time_ut": 1656667620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka can avoid food shortages by relaxing open account imports: Trade Minister",
+    "file_name": "/tmp/news_lk2/articles/7c/7ca9f627.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130554",
+    "time_ut": 1656667388,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0ba3\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/96/9630f3c6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130565",
+    "time_ut": 1656667257,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0b9f\u0bcd\u0b9f\u0bbe, \u0bb2\u0bb9\u0bbf\u0bb0\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/dc/dcc1adc3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130551",
+    "time_ut": 1656666956,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd, \u0b95\u0b9f\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 2.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/33/3365985e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8-\u0dba\u0dba\u0dd2/1-615696",
     "time_ut": 1656666210,
     "original_lang": "si",
@@ -32,6 +136,14 @@
     "file_name": "/tmp/news_lk2/articles/90/90a7bc52.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/01/no-ntmi-service-on-friday-saturday/",
+    "time_ut": 1656665220,
+    "original_lang": "en",
+    "original_title": "NO NTMI service on Friday & Saturday",
+    "file_name": "/tmp/news_lk2/articles/81/817d7feb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83364/three-anti-govt-activists-including-ratta-and-lahiru-granted-bail",
     "time_ut": 1656664920,
@@ -46,6 +158,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
     "file_name": "/tmp/news_lk2/articles/03/033bde1d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/01/postal-service-crippled-by-trade-union-action/",
+    "time_ut": 1656664500,
+    "original_lang": "en",
+    "original_title": "Postal service crippled by trade union action",
+    "file_name": "/tmp/news_lk2/articles/5e/5ee49812.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -118,6 +238,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka former president claims \u201czero\u201d national security, criticises militarisation",
     "file_name": "/tmp/news_lk2/articles/34/34d7f045.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd9\u0ddf\u0d9b\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd-\u0d85\u0daf\u0dad\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd/1-615692",
+    "time_ut": 1656662276,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd9\u0ddf\u0d9b\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd \u0d85\u0daf\u0dad\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd",
+    "file_name": "/tmp/news_lk2/articles/5c/5c3b1f3c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -233,11 +361,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Overcrowded-trains/342-240170",
+    "url": "https://www.dailymirror.lk/caption_story/Overcrowded-trains/110-240170",
     "time_ut": 1656659211,
     "original_lang": "en",
     "original_title": "Overcrowded trains...",
-    "file_name": "/tmp/news_lk2/articles/78/789aa5b1.json"
+    "file_name": "/tmp/news_lk2/articles/ff/ffb7b5f7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
