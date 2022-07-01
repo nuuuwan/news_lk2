@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0ddd\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0ddd-\u0d85\u0db4\u0dcf\u0dba\u0dda-\u0daf\u0ddc\u0dbb-\u0daf\u0dd0\u0d9a-\u0d9a\u0dd1-\u0d9c\u0dc4\u0db1\u0dc0\u0dcf/101-615685",
+    "time_ut": 1656654899,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0ddd\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0ddd \u0d85\u0db4\u0dcf\u0dba\u0dda \u0daf\u0ddc\u0dbb \u0daf\u0dd0\u0d9a \u0d9a\u0dd1 \u0d9c\u0dc4\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/7a/7a576710.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc0\u0dad\u0dd4-\u0dc3\u0dda\u0dc0\u0d9a-\u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad/1-615684",
+    "time_ut": 1656654855,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dad\u0dd4 \u0dc3\u0dda\u0dc0\u0d9a \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad",
+    "file_name": "/tmp/news_lk2/articles/86/86cd888f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83361/world-bank-creates-fund-to-better-prevent-respond-to-pandemics",
+    "time_ut": 1656654720,
+    "original_lang": "en",
+    "original_title": "World Bank creates fund to better prevent, respond to pandemics",
+    "file_name": "/tmp/news_lk2/articles/0e/0e57d244.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130540",
     "time_ut": 1656653592,
@@ -406,6 +430,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka inflation hits 54.6-pct in June 2022 after money printing",
     "file_name": "/tmp/news_lk2/articles/8c/8c1763e3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-central-bank-governor-weerasinghe-re-appointed-96751/",
+    "time_ut": 1656637080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka central bank Governor Weerasinghe re-appointed",
+    "file_name": "/tmp/news_lk2/articles/20/20d93573.json"
   },
   {
     "newspaper_id": "ada-lk",
