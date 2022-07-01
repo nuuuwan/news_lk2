@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-partners-OnMobile-to-launch-mobile-cloud-gaming-platform-ONMO/34-736904",
+    "time_ut": 1656633392,
+    "original_lang": "en",
+    "original_title": "Dialog partners OnMobile to launch mobile cloud gaming platform ONMO",
+    "file_name": "/tmp/news_lk2/articles/e7/e729c8c8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Ceylon-Chamber-re-elects-leadership-at-183rd-AGM/34-736903",
+    "time_ut": 1656633377,
+    "original_lang": "en",
+    "original_title": "Ceylon Chamber re-elects leadership at 183rd AGM",
+    "file_name": "/tmp/news_lk2/articles/bd/bd73db8a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Parliament-talks-on-prevailing-crisis-on-6-July/56-736902",
+    "time_ut": 1656633295,
+    "original_lang": "en",
+    "original_title": "Parliament talks on prevailing crisis on 6 July",
+    "file_name": "/tmp/news_lk2/articles/0b/0be5b51e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Schoolchildren-need-a-hug-and-not-a-lecture-EDITORIAL/172-240125",
     "time_ut": 1656619763,
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0ba3\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/ed/edb20424.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7-\u0dc4\u0dcf-\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca/11-394871",
-    "time_ut": 1656313368,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0dc4\u0dcf \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca",
-    "file_name": "/tmp/news_lk2/articles/68/680a711d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb8\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd-\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-299288",
-    "time_ut": 1656313041,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/b0/b08926d3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4-\u0dc3\u0dd2\u0da7-\u0d8b\u0dad\u0dd4\u0dbb\u0da7-\u0db1\u0dd0\u0dc0\u0dca-\u0dc3\u0dc4-\u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4-\u0dc3\u0dda\u0dc0\u0dcf/11-394870",
-    "time_ut": 1656312454,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4 \u0dc3\u0dd2\u0da7 \u0d8b\u0dad\u0dd4\u0dbb\u0da7 \u0db1\u0dd0\u0dc0\u0dca \u0dc3\u0dc4 \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4 \u0dc3\u0dda\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/0b/0b0288bd.json"
   }
 ]

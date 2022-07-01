@@ -1,10 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-01 05:24:32 (LK time)*
+*As of 2022-07-01 05:34:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (238 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **3** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+
+## Last Hour (3 Articles)
+
+* **3** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+
+## Last 3 Hours (3 Articles)
+
+* **3** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+
+## Last 24 Hours (241 Articles)
 
 * **44** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -22,9 +34,11 @@
 
 * **18** economy-next-com ([Sri Lanka in worst crisis in modern times, differing views on rupee: Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52f05cb5.json))
 
+* **3** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+
 * **1** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## Last Week (1,804 Articles)
+## Last Week (1,800 Articles)
 
 * **321** virakesari-lk ([உயிர்த்த ஞாயிறு தாக்குதல் உட்பட முக்கிய சம்பவங்கள் குறித்த இரகசிய தகவல்களை இராஜதந்திர வட்டாரங்களிடம் தெரிவித்தார் தமிழ் மக்கள் விடுதலைப்புலிகள் கட்சி உறுப்பினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/340fdf25.json))
 
@@ -42,7 +56,7 @@
 
 * **97** economy-next-com ([Sri Lanka monetary meltdown: Steve Hanke on currency boards and flawed pegs](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27930c2e.json))
 
-* **85** daily-ft-lk ([President meets envoys of Southeast Asian countries seeking to boost trade, investment](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/551c8c28.json))
+* **81** daily-ft-lk ([Why the country went broke. How do we fix it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/849153a5.json))
 
 * **51** island-lk ([Abans Finance donates emergency medicines and equipment to National Hospital of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8d44a4.json))
 
@@ -52,7 +66,7 @@
 
 * **7** b-b-c-com-sinhala ([ගෑස් අර්බුදය ; දකුණු ලකේ අග නගරය 'නෝ ගෑස් ගම'](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/391ffa5e.json))
 
-## All Time (2,054 Articles)
+## All Time (2,057 Articles)
 
 * **335** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -68,7 +82,7 @@
 
 * **152** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **104** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **107** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **98** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
