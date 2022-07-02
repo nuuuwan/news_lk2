@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/red-alert-issued-for-rough-seas-amber-alert-for-strong-winds/",
+    "time_ut": 1656754380,
+    "original_lang": "en",
+    "original_title": "Red alert issued for rough seas, amber alert for strong winds",
+    "file_name": "/tmp/news_lk2/articles/44/448b7847.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130635",
+    "time_ut": 1656754332,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1  ; \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9f/9fced8d8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83382/no-positive-proposals-in-22a-paffrel-executive-director-says",
+    "time_ut": 1656754140,
+    "original_lang": "en",
+    "original_title": "No positive proposals in 22A, PAFFREL executive director says",
+    "file_name": "/tmp/news_lk2/articles/b5/b5904ec9.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130634",
     "time_ut": 1656752435,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0da7 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0dba\u0ddc\u0db8\u0dd4\u0dc0\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/2f/2f0140d0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/schizophrenia-in-the-political-mind-of-sri-lanka/",
-    "time_ut": 1656410270,
-    "original_lang": "en",
-    "original_title": "Schizophrenia In The Political Mind Of Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/8e/8e59e611.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba4-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-299355",
-    "time_ut": 1656410105,
-    "original_lang": "ta",
-    "original_title": "\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/4f/4f07d4e6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dc0\u0dca\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dc4\u0dcf\u0da9\u0dca\u0dc0\u0dd9\u0dba\u0dcf\u0dbb\u0dca-\u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dca-3000-\u0d9a\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-394922",
-    "time_ut": 1656409870,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dc0\u0dca\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc4\u0dcf\u0da9\u0dca\u0dc0\u0dd9\u0dba\u0dcf\u0dbb\u0dca \u0d91\u0d9a\u0d9a\u0dd2\u0db1\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dca 3000 \u0d9a\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4a/4a239372.json"
   }
 ]
