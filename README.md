@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 02:37:51 (LK time)*
+*As of 2022-07-03 02:49:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (2 Articles)
 
-* **2** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
+* **1** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdde3c76.json))
 
 * **1** ada-derana-lk ([Sri Lankan national held with gold in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9184df.json))
 
