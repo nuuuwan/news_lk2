@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 23:49:14 (LK time)*
+*As of 2022-07-02 23:57:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,15 +26,15 @@
 
 * **1** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
 
-## Last 24 Hours (164 Articles)
+## Last 24 Hours (161 Articles)
 
 * **30** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
-* **23** tamil-mirror-lk ([கொழும்பு கோட்டை வன்முறை சம்பவம்: மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/405dea07.json))
+* **22** tamil-mirror-lk ([விசா விண்ணப்பங்கள் தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabe0c2.json))
 
 * **21** lankadeepa-lk ([ලක්ෂ පහක ඉන්ධන දොම්පෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65cd4403.json))
 
-* **20** ada-derana-lk ([Laugfs says LP gas distribution process expanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73dee560.json))
+* **19** ada-derana-lk ([Japan ready to provide continuous support to Sri Lanka, envoy says](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf79ccbe.json))
 
 * **18** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
 
@@ -42,7 +42,7 @@
 
 * **14** daily-mirror-lk ([Govt. to offer Rs.7,500 allowance to worst-hit citizens from WB, ADB fund](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41d208f6.json))
 
-* **12** daily-ft-lk ([Time for a fighting chance](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91980d5c.json))
+* **11** daily-ft-lk ([Jaffna College in crisis: National Christian Council’s intervention sought](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a517d7cd.json))
 
 * **7** economy-next-com ([Sri Lanka starts 5-year residence visas for investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72ea5362.json))
 
