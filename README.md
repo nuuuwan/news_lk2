@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 23:15:39 (LK time)*
+*As of 2022-07-02 23:23:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,11 @@
 
 * **1** ada-derana-lk ([Jackson Anthony and 2 others injured after vehicle hits elephant](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66b14f9.json))
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
 
 * **1** ada-derana-lk ([Jackson Anthony and 2 others injured after vehicle hits elephant](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66b14f9.json))
-
-* **1** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
 ## Last 3 Hours (11 Articles)
 
@@ -28,7 +26,7 @@
 
 * **1** virakesari-lk ([கோட்டா கோ கமவை அகற்றக்கோரும் மனு : விஷேட கோரிக்கைக்காக வெள்ளியன்று விசாரணைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7fdbabb.json))
 
-## Last 24 Hours (165 Articles)
+## Last 24 Hours (163 Articles)
 
 * **29** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -42,15 +40,13 @@
 
 * **15** ada-lk ([අභියෝග ජය ගැනීම ගැන ජනපති සූම් සාකච්ඡාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca079f68.json))
 
-* **14** daily-mirror-lk ([Sri Lanka seeks assistance from Kerala in India](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c6f9b33.json))
+* **13** daily-mirror-lk ([Govt. to offer Rs.7,500 allowance to worst-hit citizens from WB, ADB fund](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41d208f6.json))
 
 * **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
 * **7** economy-next-com ([Sri Lanka starts 5-year residence visas for investors](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72ea5362.json))
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
-
-* **1** d-b-s-jeyaraj-com ([Gazetted draft of the 22nd Constitutional  Amendment (22A)  is a compromise between the interests of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe.Will it get the Necessary two-thirds majority in Parliament?](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01bbe14d.json))
 
 ## Last Week (1,749 Articles)
 
