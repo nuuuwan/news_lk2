@@ -1,16 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 23:23:40 (LK time)*
+*As of 2022-07-02 23:36:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Jackson Anthony and 2 others injured after vehicle hits elephant](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66b14f9.json))
-
-## Last Hour (3 Articles)
-
-* **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Jackson Anthony and 2 others injured after vehicle hits elephant](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66b14f9.json))
 
