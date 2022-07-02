@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 20:49:07 (LK time)*
+*As of 2022-07-02 21:01:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **1** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
+* **2** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
 
 * **1** ada-derana-lk ([Galle Road obstructed between Ambalangoda and Hikkaduwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07af4165.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
 
-* **1** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
+* **2** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
 
 * **1** ada-derana-lk ([Galle Road obstructed between Ambalangoda and Hikkaduwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07af4165.json))
 
 ## Last 3 Hours (13 Articles)
 
-* **4** ada-derana-lk ([Naval and fishing communities advised not to venture into sea](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4613727a.json))
+* **3** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
+
+* **3** ada-derana-lk ([IMG agreement with Sri Lanka must be contingent on critical reforms: US senate committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9991b85.json))
 
 * **3** tamil-mirror-lk ([அவசரமாக வெளிநாடு செல்வோருக்கான முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e693f5f5.json))
-
-* **2** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
 
 * **2** virakesari-lk ([எரிபொருள் நிரப்பும் நிலையங்களிற்கு அருகில் குழப்பங்களை கட்டுப்படுத்த விசேட அதிரடிப்படையை பயன்படுத்த தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/debd8dc0.json))
 
@@ -30,15 +30,15 @@
 
 * **1** ada-lk ([පාස්පෝට් ප්‍රා දේශීය කාර්යාල මගින් දිනකට 100කට එක්දින සේවාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bab87ee.json))
 
-## Last 24 Hours (165 Articles)
+## Last 24 Hours (166 Articles)
 
 * **27** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
 * **24** tamil-mirror-lk ([ஜனாதிபதிக்கு அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dddcd502.json))
 
-* **20** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
+* **20** lankadeepa-lk ([පාතාල තර්ජන එල්ල වූ පොලිස් නිලධාරීන්ට ආරක්‍ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b25548f.json))
 
-* **19** lankadeepa-lk ([පාතාල තර්ජන එල්ල වූ පොලිස් නිලධාරීන්ට ආරක්‍ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b25548f.json))
+* **20** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
 
 * **16** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
 
@@ -54,11 +54,11 @@
 
 * **4** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
-## Last Week (1,746 Articles)
+## Last Week (1,743 Articles)
 
-* **333** virakesari-lk ([மீண்டும் புதிய அரசியலமைப்பு தெரிவுக்குழுவை அமைப்பதற்கு அமைச்சரவை அனுமதியும் உள்ளதாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7779799b.json))
+* **331** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
-* **257** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
+* **257** lankadeepa-lk ([එක්සත් ජනපද නියෝජිත පිරිස මෙරටට පැමිණෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc2aef5.json))
 
 * **201** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
 
@@ -76,17 +76,17 @@
 
 * **42** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **27** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba5cabe9.json))
+* **26** d-b-s-jeyaraj-com ([Even amidst the prevailing instability, abolition of the Executive Presidency remains an important topic, which some deem essential to the reformation of Sri Lanka’s political culture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c62ea6b.json))
 
 * **14** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,449 Articles)
+## All Time (2,450 Articles)
 
 * **424** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **390** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **391** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **308** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
