@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 13:18:33 (LK time)*
+*As of 2022-07-02 13:26:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** lankadeepa-lk ([ඉන්ධන නෞකා තුනක් එන ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae69ebeb.json))
 
-* **1** virakesari-lk ([அவுஸ்திரேலியாவிற்கு படகுகள் மூலம் மக்கள் செல்வதை தடுப்பதற்கான நடவடிக்கைள் எடுக்கப்பட்டுள்ளபோதிலும் பலர் ஆபத்தான படகு பயணங்களை மேற்கொள்ள முயல்கின்றனர்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e35bbc5.json))
-
-## Last Hour (10 Articles)
+## Last Hour (9 Articles)
 
 * **5** news-first-lk ([Customs arrests suspect with gold biscuits over Rs.47Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/791bd96d.json))
 
@@ -22,15 +20,13 @@
 
 * **1** tamil-mirror-lk ([தாய் கண்டித்ததால் ஈழத்தமிழ் இளைஞன் தற்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d52a4fc.json))
 
-* **1** economy-next-com ([Three shipments of fuel to arrive in Sri Lanka by mid, end July, August: Lanka IOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/642c1e41.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (30 Articles)
 
 * **9** lankadeepa-lk ([මෝටර් රථ දෙපාර්තමේන්තුවේ ප්‍රධානියෙක් ටෙන්ඩර් මගඩියක](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e57f03c6.json))
 
-* **8** news-first-lk ([Consular Affairs division to resume services from 04th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb8a2d92.json))
+* **7** news-first-lk ([Senior lawyer Gomin Dayasri passes away](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9c4f53.json))
 
-* **7** virakesari-lk ([4 கோடி ரூபா பெறுமதியான தங்க பாலங்களுடன் விமான நிலையத்தில் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85110600.json))
+* **6** virakesari-lk ([இன்று லங்கா ஐ.ஓ.சி மூலம் எரிபொருள் கிடைக்கும் நிலையங்கள் விபரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba8f0cc.json))
 
 * **3** ada-derana-lk ([Sri Lanka seeks greater cooperation with India in food processing & dairy sectors](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c2a801e.json))
 
@@ -38,23 +34,23 @@
 
 * **2** tamil-mirror-lk ([இலங்கையில் சுற்றுலாப்பயணிகளின் நிலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa69fb42.json))
 
-## Last 24 Hours (223 Articles)
+## Last 24 Hours (220 Articles)
 
 * **52** virakesari-lk ([ரயில்வே ஊழியர்கள் பணிப்பகிஷ்கரிப்பில் : பெரும் திண்டாட்டத்தில் மக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0997fcc.json))
 
-* **38** lankadeepa-lk ([කොටුව දුම්රිය ස්ථානයේ නොසන්සුන් තත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fc8523d.json))
-
-* **21** news-first-lk ([Fuel Crisis: Paper Marking Affected](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ce3b076.json))
+* **37** lankadeepa-lk ([සෞඛ්‍ය කාර්ය මණ්ඩල අදත් පෝලිම්වල](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c3b1f3c.json))
 
 * **21** ada-derana-lk ([Three anti-govt activists including “Ratta” and Lahiru granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/4105ecc4.json))
 
 * **21** daily-mirror-lk ([Australia beat Sri Lanka by 10 wickets in Galle](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a532352b.json))
 
+* **20** news-first-lk ([Postal service crippled by trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee49812.json))
+
 * **18** ada-lk ([සෞඛ්‍ය නිලධාරීගේ නාස් පොල්ල කැඩෙන්න ගහලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06e2c825.json))
 
 * **17** tamil-mirror-lk ([பிள்ளைகளுடன் ஆற்றில் குதித்த தாய்; சிறுவன் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e64ae298.json))
 
-* **15** economy-next-com ([Sri Lanka government approval rating 3-pct, economic confidence minus: poll](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d03ac4b.json))
+* **14** economy-next-com ([Sri Lanka former president claims “zero” national security, criticises militarisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d7f045.json))
 
 * **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
