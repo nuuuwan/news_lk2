@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 15:13:08 (LK time)*
+*As of 2022-07-02 15:19:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -40,11 +40,11 @@
 
 * **1** lankadeepa-lk ([ඉන්ධන නෞකා තුනක් එන ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae69ebeb.json))
 
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (205 Articles)
 
 * **47** virakesari-lk ([தற்கொலைக்கு முயன்ற தாயால் பரிபோன 5 வயது மகளின் உயிர் - இரத்தினபுரியில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea06696b.json))
 
-* **30** lankadeepa-lk ([සැඟවූ ලාෆ් සිලින්ඩර් 50ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2cefad4.json))
+* **28** lankadeepa-lk ([‘‘21 බලාපොරොත්තු වූ ආකාරයේ එකක් නොවෙයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be1f71d4.json))
 
 * **22** ada-derana-lk ([Mother jumps into Chandrika Wewa with two kids](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62135f7e.json))
 
@@ -54,7 +54,7 @@
 
 * **18** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc5b18f.json))
 
-* **17** ada-lk ([ඕමාන තානාපති ජනපති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e480d693.json))
+* **16** ada-lk ([කෑම බලා වතුර බොන අය වැඩි වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36809dd0.json))
 
 * **13** economy-next-com ([Sri Lanka Human Rights Commission probing rehabilitation centre mass escape](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79fc0cfe.json))
 
@@ -66,9 +66,9 @@
 
 * **1** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
-## Last Week (1,754 Articles)
+## Last Week (1,752 Articles)
 
-* **336** virakesari-lk ([பதுக்கி வைக்கப்பட்டிருந்த 64,000 லீற்றருக்கும் அதிக எரிபொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8764ff3.json))
+* **335** virakesari-lk ([பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து ; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/304f81ca.json))
 
 * **262** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc361c39.json))
 
@@ -80,7 +80,7 @@
 
 * **159** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
 
-* **153** ada-derana-lk ([One dead, several injured after bus topples down precipice](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/702d9f9d.json))
+* **152** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
 * **96** economy-next-com ([Sri Lanka facing virtual standstill after indefinite delay of fuel shipment](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6ce61805.json))
 
