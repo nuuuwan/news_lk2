@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 01:28:20 (LK time)*
+*As of 2022-07-03 01:35:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,13 +12,11 @@
 
 * **1** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdde3c76.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (4 Articles)
 
 * **2** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
 
 * **2** ada-derana-lk ([Jackson Anthony and 2 others injured after vehicle hits elephant](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66b14f9.json))
-
-* **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
 
 ## Last 24 Hours (144 Articles)
 
