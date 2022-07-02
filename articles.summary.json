@@ -56,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/ab/aba4bf53.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130653",
+    "time_ut": 1656769596,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bc1 \u0baa\u0bc1\u0ba9\u0bb0\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u00a0 \u0b95\u0bc8\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bc8 : \u0bb5\u0baf\u0bb0\u0bcd, \u0bae\u0bc2\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1 : \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u00a0 4\u00a0 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/82/828ecea2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83386/imf-agreement-with-sri-lanka-must-be-contingent-on-critical-reforms-us-senate-committee",
     "time_ut": 1656768540,
@@ -78,6 +86,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bb2\u0bcd \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ; \u0b95\u0bbe\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0baa\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0baa\u0bc1\u0b95\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bb2\u0bcd\u0ba8\u0bc0\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/bf/bfbe5573.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dbb\u0dc5-\u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7-\u0d91\u0dba\u0dd2/10-395035",
+    "time_ut": 1656768073,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dbb\u0dc5 \u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5e/5e728f42.json"
   },
   {
     "newspaper_id": "virakesari-lk",
