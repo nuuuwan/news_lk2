@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 00:39:27 (LK time)*
+*As of 2022-07-03 00:47:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Sri Lankan national held with gold in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9184df.json))
-
-* **1** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -18,7 +16,7 @@
 
 * **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
 
-## Last 24 Hours (149 Articles)
+## Last 24 Hours (147 Articles)
 
 * **30** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -38,7 +36,7 @@
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-* **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
+* **1** daily-ft-lk ([BOI realigns confidence of investors through webinar series](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53224b69.json))
 
 ## Last Week (1,749 Articles)
 
