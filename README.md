@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 21:14:08 (LK time)*
+*As of 2022-07-02 21:21:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** lankadeepa-lk ([‘‘මහින්ද මැරෙනකම් පිරිසක් රතිඤ්ඤා තියාගෙන ඉන්නවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91f8acd4.json))
 
 ## Last Hour (3 Articles)
 
@@ -28,7 +24,7 @@
 
 * **1** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
 
-## Last 24 Hours (167 Articles)
+## Last 24 Hours (166 Articles)
 
 * **28** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -46,13 +42,13 @@
 
 * **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
-* **10** economy-next-com ([Sri Lanka sees more people seeking risky boat journey to Australia despite deterrents](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc59e8cf.json))
+* **9** economy-next-com ([Sri Lanka CEB warns of likely increase in power cut duration over lack of diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5deff8ea.json))
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
 * **4** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
-## Last Week (1,744 Articles)
+## Last Week (1,743 Articles)
 
 * **332** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -60,7 +56,7 @@
 
 * **201** ada-lk ([ඉන්ධන අර්බුදය උග්‍ර වෙයි - නැවක් එන දිනයක්වත් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693547b5.json))
 
-* **200** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
+* **199** tamil-mirror-lk ([திருச்சியில் இலங்கை தமிழர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77f08d0f.json))
 
 * **192** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
