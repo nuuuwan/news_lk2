@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 21:21:51 (LK time)*
+*As of 2022-07-02 21:29:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -24,7 +24,7 @@
 
 * **1** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
 
-## Last 24 Hours (166 Articles)
+## Last 24 Hours (165 Articles)
 
 * **28** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -42,7 +42,7 @@
 
 * **13** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
-* **9** economy-next-com ([Sri Lanka CEB warns of likely increase in power cut duration over lack of diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5deff8ea.json))
+* **8** economy-next-com ([Sri Lanka shares up amid renewed interest on LIOC shares; concerns remain](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4e4aacc.json))
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
