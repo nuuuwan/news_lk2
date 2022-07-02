@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130610",
+    "time_ut": 1656739460,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0ba9\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/34/34e9234b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130608",
+    "time_ut": 1656739219,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bba8f0cc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/lioc-update-on-fuel-shipments/",
+    "time_ut": 1656739140,
+    "original_lang": "en",
+    "original_title": "LIOC update on fuel shipments",
+    "file_name": "/tmp/news_lk2/articles/27/276d378a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8/74-299582",
     "time_ut": 1656738479,
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/fa/fa69fb42.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/senior-lawyer-gomin-dayasri-passes-away/",
+    "time_ut": 1656738300,
+    "original_lang": "en",
+    "original_title": "Senior lawyer Gomin Dayasri passes away",
+    "file_name": "/tmp/news_lk2/articles/ee/ee9c4f53.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -24,12 +56,44 @@
     "file_name": "/tmp/news_lk2/articles/85/85110600.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/consular-affairs-division-to-resume-services-from-04th-july/",
+    "time_ut": 1656737340,
+    "original_lang": "en",
+    "original_title": "Consular Affairs division to resume services from 04th July",
+    "file_name": "/tmp/news_lk2/articles/eb/eb8a2d92.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130606",
     "time_ut": 1656737158,
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/72/7241026b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/90-of-filling-stations-inactive-due-to-shortage/",
+    "time_ut": 1656736920,
+    "original_lang": "en",
+    "original_title": "90% of filling stations inactive due to shortage",
+    "file_name": "/tmp/news_lk2/articles/53/53bf7360.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/private-bus-operations-limited/",
+    "time_ut": 1656736620,
+    "original_lang": "en",
+    "original_title": "Private bus operations limited",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf543cd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/kandakadu-unrest-four-arrested-for-inmate-death/",
+    "time_ut": 1656736560,
+    "original_lang": "en",
+    "original_title": "Kandakadu Unrest : Four arrested for inmate death",
+    "file_name": "/tmp/news_lk2/articles/1d/1dddf37f.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb0\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/07/07074230.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/cabinet-nod-to-resume-jaffna-airport-operations/",
-    "time_ut": 1656401220,
-    "original_lang": "en",
-    "original_title": "Cabinet nod to resume Jaffna Airport operations",
-    "file_name": "/tmp/news_lk2/articles/ff/ff946867.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130327",
-    "time_ut": 1656401178,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc2\u0bb0 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0bb5\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b87\u0bb0\u0bbe\u0ba4\u0bbe\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/55/55e89e97.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/rambukkana-shooting-human-rights-comm-wants-action-against-ssp-keerthiratne/",
-    "time_ut": 1656400980,
-    "original_lang": "en",
-    "original_title": "#Rambukkana Shooting: Human Rights Comm. wants action against SSP Keerthiratne",
-    "file_name": "/tmp/news_lk2/articles/bb/bbfd7d99.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d87\u0dad\u0dd2\u0db8\u0dbd\u0dda-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dc3\u0dda-\u0dad\u0dd2\u0db6\u0dd6-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dca-1-220-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-394916",
-    "time_ut": 1656400729,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0dad\u0dd2\u0db8\u0dbd\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dc3\u0dda \u0dad\u0dd2\u0db6\u0dd6 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1,220 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/b9/b92f8c50.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130321",
-    "time_ut": 1656400662,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/7d/7d3f1ca8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca:\u0da7\u0ddd\u0d9a\u0db1\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0dc0\u0dda/101-615539",
-    "time_ut": 1656400285,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca:\u0da7\u0ddd\u0d9a\u0db1\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/ff/ffecdd02.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0ddd-\u0d85\u0dc3\u0dbb\u0dab\u0dc0\u0dd9\u0dad\u0dd2/10-394915",
-    "time_ut": 1656399893,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0ddd \u0d85\u0dc3\u0dbb\u0dab\u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/70/706ce92a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130320",
-    "time_ut": 1656399797,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bcd\u0ba3\u0bbf\u0bb5\u0bc6\u0b9f\u0bbf \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd 244 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/dd/ddd8a46d.json"
   }
 ]
