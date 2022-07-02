@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLTDA-Chairman-complains-to-IGP-over-incident-involving-a-Police-Officer-and-a-tourist/108-240231",
+    "time_ut": 1656791002,
+    "original_lang": "en",
+    "original_title": "SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist",
+    "file_name": "/tmp/news_lk2/articles/cd/cdde3c76.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83391/sri-lankan-national-held-with-gold-in-chennai-airport",
     "time_ut": 1656786300,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Energy Minister in talks with Qatari counterpart",
     "file_name": "/tmp/news_lk2/articles/be/bef9391d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83304/energy-minister-in-talks-with-qatari-officials-seeks-possible-credit-line",
-    "time_ut": 1656417360,
-    "original_lang": "en",
-    "original_title": "Energy Minister in talks with Qatari officials, seeks possible credit line",
-    "file_name": "/tmp/news_lk2/articles/cd/cd4ce441.json"
   }
 ]
