@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 20:18:34 (LK time)*
+*As of 2022-07-02 20:26:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,17 +12,17 @@
 
 * **1** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (12 Articles)
 
 * **4** tamil-mirror-lk ([காலியில் கரைபுரண்ட கடல் அலைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/662ea8fc.json))
 
 * **3** ada-derana-lk ([Naval and fishing communities advised not to venture into sea](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4613727a.json))
 
-* **2** lankadeepa-lk ([ගාල්ල සමුද්‍ර මාවතට මුහුද ගොඩ ගලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c5a2784.json))
-
-* **2** news-first-lk ([Kandakadu unrest: Four arrested personnel, remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb66d679.json))
-
 * **2** virakesari-lk ([எரிபொருள் நிரப்பும் நிலையங்களிற்கு அருகில் குழப்பங்களை கட்டுப்படுத்த விசேட அதிரடிப்படையை பயன்படுத்த தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/debd8dc0.json))
+
+* **1** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
+
+* **1** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
 
 * **1** ada-lk ([පාස්පෝට් ප්‍රා දේශීය කාර්යාල මගින් දිනකට 100කට එක්දින සේවාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bab87ee.json))
 
@@ -50,15 +50,15 @@
 
 * **4** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
-## Last Week (1,748 Articles)
+## Last Week (1,746 Articles)
 
-* **336** virakesari-lk ([பொலிஸ் தலைமையகம்  பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982466f5.json))
+* **335** virakesari-lk ([கோட்டாவை வீட்டுக்கு அனுப்புவதற்கு இரு தெரிவுகளைக் கூறும் தாயான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc00175f.json))
 
 * **256** lankadeepa-lk ([ලෙඩ වූ මාතර ප්‍රා.ලේ. රෝහලේ සිරකරලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3532b0d.json))
 
-* **201** tamil-mirror-lk ([பதவிகள் கோரி மாஜி  மந்திரிகள் மன்றாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee8b4ea.json))
-
 * **201** ada-lk ([ඉන්ධන ටැංකි විවෘත කිරීමට මැදිහත් නොවන්නැයි පොලීසියට උපදෙස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f726d269.json))
+
+* **200** tamil-mirror-lk ([மதுபோதை சண்டை:  மலக்குழிக்குள் சடலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57d5767.json))
 
 * **192** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
