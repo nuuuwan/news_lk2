@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83380/sri-lanka-to-get-emergency-grant-aid-of-usd-3-mn-from-japan",
+    "time_ut": 1656745740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to get emergency grant aid of USD 3 Mn from Japan",
+    "file_name": "/tmp/news_lk2/articles/9e/9ea3d98b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-299583",
     "time_ut": 1656745011,
@@ -422,6 +430,14 @@
     "original_lang": "en",
     "original_title": "Strong winds to continue, naval & fishing communities warned of rough seas",
     "file_name": "/tmp/news_lk2/articles/54/543a7a3c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/open-letter-to-the-president-mr-president-its-not-too-late/",
+    "time_ut": 1656725852,
+    "original_lang": "en",
+    "original_title": "Open Letter To The President: Mr. President, It\u2019s Not Too Late!",
+    "file_name": "/tmp/news_lk2/articles/c3/c3e36a4d.json"
   },
   {
     "newspaper_id": "economy-next-com",

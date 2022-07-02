@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83380/sri-lanka-to-get-emergency-grant-aid-of-usd-3-mn-from-japan",
+    "time_ut": 1656745740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to get emergency grant aid of USD 3 Mn from Japan",
+    "file_name": "/tmp/news_lk2/articles/9e/9ea3d98b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-299583",
     "time_ut": 1656745011,
@@ -422,6 +430,14 @@
     "original_lang": "en",
     "original_title": "Strong winds to continue, naval & fishing communities warned of rough seas",
     "file_name": "/tmp/news_lk2/articles/54/543a7a3c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/open-letter-to-the-president-mr-president-its-not-too-late/",
+    "time_ut": 1656725852,
+    "original_lang": "en",
+    "original_title": "Open Letter To The President: Mr. President, It\u2019s Not Too Late!",
+    "file_name": "/tmp/news_lk2/articles/c3/c3e36a4d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka railway tariff hike gets cabinet nod",
     "file_name": "/tmp/news_lk2/articles/e4/e4768ee9.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/8-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd-\u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-299345",
-    "time_ut": 1656404202,
-    "original_lang": "ta",
-    "original_title": "8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/76/76ba7ddd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2\u0dba-\u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dd9\u0db1-\u0daf\u0dd2\u0dba\u0dc0\u0db1\u0dca\u0db1\u0dcf\u0dc0\u0da7-\u0db4\u0dd0\u0db1\u0dbd\u0dcf/1-615544",
-    "time_ut": 1656403846,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2\u0dba \u0dc3\u0ddc\u0dbb\u0dcf\u0d9c\u0dd9\u0db1 \u0daf\u0dd2\u0dba\u0dc0\u0db1\u0dca\u0db1\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0db1\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/8d/8d209622.json"
   }
 ]
