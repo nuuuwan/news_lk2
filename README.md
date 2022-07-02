@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 00:17:34 (LK time)*
+*As of 2022-07-03 00:28:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Sri Lankan national held with gold in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9184df.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,7 +10,7 @@
 
 * **1** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **3** ada-derana-lk ([Energy Minister briefs CPC and CPSTL unions on Cabinet decision](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8735ec3d.json))
 
@@ -22,19 +18,19 @@
 
 * **2** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
-* **2** virakesari-lk ([அமெரிக்க இராஜாங்க செயலர் இலங்கை வருகிறார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f9a31d3.json))
-
 * **1** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
 
-## Last 24 Hours (151 Articles)
+* **1** virakesari-lk ([கோட்டா கோ கமவை அகற்றக்கோரும் மனு : விஷேட கோரிக்கைக்காக வெள்ளியன்று விசாரணைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7fdbabb.json))
+
+## Last 24 Hours (150 Articles)
 
 * **30** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
 * **21** lankadeepa-lk ([ලක්ෂ පහක ඉන්ධන දොම්පෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65cd4403.json))
 
-* **20** tamil-mirror-lk ([மிரிஹானை சம்பவம்: பேருந்துக்கு தீ மூட்டியவருக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6faed122.json))
-
 * **19** ada-derana-lk ([Strong winds to continue, naval & fishing communities warned of rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/543a7a3c.json))
+
+* **19** tamil-mirror-lk ([சர்வதேச நாணய நிதியம் தொடர்பில் ஜனாதிபதி கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4613499c.json))
 
 * **18** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
 
@@ -48,7 +44,7 @@
 
 * **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
 
-## Last Week (1,751 Articles)
+## Last Week (1,750 Articles)
 
 * **334** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -70,7 +66,7 @@
 
 * **42** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **26** d-b-s-jeyaraj-com ([Even amidst the prevailing instability, abolition of the Executive Presidency remains an important topic, which some deem essential to the reformation of Sri Lanka’s political culture.](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c62ea6b.json))
+* **25** d-b-s-jeyaraj-com ([SLPP Rakes up the Past About  Rohana  Wijeweera’s “Execution” to Politically Embarrass JVP and Premadasa -led SJB  and Create Tensions Between Both Parties’but Blowback may Affect Ranil also](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae175430.json))
 
 * **14** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
