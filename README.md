@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 05:04:42 (LK time)*
+*As of 2022-07-03 05:11:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -24,7 +24,7 @@
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## Last Week (1,754 Articles)
+## Last Week (1,753 Articles)
 
 * **339** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -32,7 +32,7 @@
 
 * **200** ada-lk ([තෙල් මිල ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5482a5e.json))
 
-* **197** tamil-mirror-lk ([7, 8 பில்லியன் கையிருப்பு எவ்வாறு பூச்சியமானது?](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afcef874.json))
+* **196** tamil-mirror-lk ([’மக்கள் போராட்டமே சிறந்த வழி’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1ddf1b3.json))
 
 * **195** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
 
