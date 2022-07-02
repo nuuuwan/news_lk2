@@ -48,6 +48,14 @@
     "file_name": "/tmp/news_lk2/articles/d4/d4565fcd.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0bb0\u0bbf\u0bb9\u0bbe\u0ba9\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc0-\u0bae\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-299572",
+    "time_ut": 1656701802,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0bb0\u0bbf\u0bb9\u0bbe\u0ba9\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bae\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6f/6faed122.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/More-days-to-submit-Indian-visa-applications/56-736940",
     "time_ut": 1656701130,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b92\u0bb0\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0ba9 \u0b89\u0bb1\u0bb5\u0bc1:   \u0bae\u0bc1\u0bb8\u0bcd\u0bb2\u0bbf\u0bae\u0bcd  \u0ba8\u0ba3\u0bcd\u0baa\u0bbf\u0baf\u0bc8 \u0ba8\u0bbe\u0b9f\u0bbf\u0bb5\u0ba8\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bc6\u0ba3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/06/06a54c15.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/govt-to-gazette-22nd-amendment/",
-    "time_ut": 1656390480,
-    "original_lang": "en",
-    "original_title": "Govt. to Gazette 22nd Amendment",
-    "file_name": "/tmp/news_lk2/articles/39/391e77c0.json"
   }
 ]
