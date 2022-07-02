@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/water-board-engineers-cry-out-for-fuel-to-continue-service-to-public/",
+    "time_ut": 1656761400,
+    "original_lang": "en",
+    "original_title": "Water Board Engineers cry out for fuel, to continue service to public",
+    "file_name": "/tmp/news_lk2/articles/4b/4bd8e39a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/02/stf-to-quell-unrest-at-filling-stations/",
     "time_ut": 1656760200,
     "original_lang": "en",
@@ -318,6 +326,14 @@
     "original_lang": "en",
     "original_title": "IMF agreement with Sri Lanka must depend on key conditions: US senate committee",
     "file_name": "/tmp/news_lk2/articles/21/218461e3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130615",
+    "time_ut": 1656742203,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd 15 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba4\u0baf \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bc1\u0bb5\u0bc8 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/de/dea8a54a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Exam. Dept. to conduct A/L Eng. Tech. Practical test from tomorrow",
     "file_name": "/tmp/news_lk2/articles/d6/d61aab30.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Health-professionals-announce-a-two-day-strike/108-239962",
-    "time_ut": 1656412054,
-    "original_lang": "en",
-    "original_title": "Health professionals announce a two-day strike",
-    "file_name": "/tmp/news_lk2/articles/07/07623d6c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dc3\u0dd2\u0dba\u0dba\u0da7-30-\u0d9a\u0dd2\u0db1\u0dca-\u0db1\u0d9c\u0dd3/1-615551",
-    "time_ut": 1656412010,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dd2\u0dba\u0dba\u0da7 30 \u0d9a\u0dd2\u0db1\u0dca \u0db1\u0d9c\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/37/3712bf3a.json"
   }
 ]
