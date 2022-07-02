@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 01:07:39 (LK time)*
+*As of 2022-07-03 01:16:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
 
-## Last 24 Hours (146 Articles)
+## Last 24 Hours (145 Articles)
 
 * **31** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -22,7 +22,7 @@
 
 * **18** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
 
-* **17** tamil-mirror-lk ([மே 9 சம்பவம்: இதுவரையில் 3,056 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/149960be.json))
+* **16** tamil-mirror-lk ([ஐ.எம்.எப். வேலைத்திட்டத்துக்கு ஜப்பான் ஒத்துழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d78e0c2f.json))
 
 * **15** ada-lk ([අභියෝග ජය ගැනීම ගැන ජනපති සූම් සාකච්ඡාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca079f68.json))
 
