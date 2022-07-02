@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130625",
+    "time_ut": 1656747754,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb2\u0bcd\u00a0\u0b85\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd\u00a0\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/47/4739934d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dde\u0d9a\u0dcf-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0d91\u0db1-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4/1-615742",
     "time_ut": 1656747535,
@@ -3062,6 +3070,14 @@
     "original_lang": "en",
     "original_title": "Six sentenced to death over murder of five people in Devinuwara",
     "file_name": "/tmp/news_lk2/articles/9a/9a48da46.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lanka-wont-be-the-last-nation-to-need-friends/",
+    "time_ut": 1656591372,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Won\u2019t Be The Last Nation To Need Friends",
+    "file_name": "/tmp/news_lk2/articles/26/26055dae.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/bb/bba7f01e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7-\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0dc3\u0dbb/1-615546",
-    "time_ut": 1656406515,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0dc3\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/35/35e7b387.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130333",
-    "time_ut": 1656406165,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd  \u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b8e\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bb0\u0bbe\u0ba4\u0bc1- \u0bb2\u0b95\u0bcd\u0bb8\u0bcd\u0bae\u0ba9\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0bb2\u0bcd\u0bb2",
-    "file_name": "/tmp/news_lk2/articles/1b/1b9d9ff0.json"
   }
 ]
