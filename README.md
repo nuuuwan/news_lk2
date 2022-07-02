@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 13:49:45 (LK time)*
+*As of 2022-07-02 13:57:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **4** virakesari-lk ([6 மில்லியன் பைசர் தடுப்பூசிகளை மியான்மருக்கு வழங்குகிறது இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a5e6f51.json))
+* **3** virakesari-lk ([விறகு சேகரிக்கச் சென்றவர்கள் மீது குளவி கொட்டு : ஒருவர் பலி , 3 பேர் வைத்தியசாலையில் - பொகவந்தலாவையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309207a9.json))
 
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
-* **6** virakesari-lk ([அவுஸ்திரேலியாவிற்கு படகுகள் மூலம் மக்கள் செல்வதை தடுப்பதற்கான நடவடிக்கைள் எடுக்கப்பட்டுள்ளபோதிலும் பலர் ஆபத்தான படகு பயணங்களை மேற்கொள்ள முயல்கின்றனர்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e35bbc5.json))
+* **5** virakesari-lk ([சுகாதாரத்துறை ஊழியர்களுக்கு எரிபொருள் வழங்கப்படாமையால் அட்டனில் அமைதியின்மை](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/4739934d.json))
 
 * **1** lankadeepa-lk ([ඉන්ධන නෞකා තුනක් එන ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae69ebeb.json))
 
-## Last 3 Hours (31 Articles)
+## Last 3 Hours (28 Articles)
 
-* **11** virakesari-lk ([இன்று லங்கா ஐ.ஓ.சி மூலம் எரிபொருள் கிடைக்கும் நிலையங்கள் விபரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba8f0cc.json))
+* **9** virakesari-lk ([இலங்கைக்குத் தேவையான சகல உதவிகளை வழங்க தயார் - இலங்கைக்கான ஓமான் தூதுவர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/897a6019.json))
 
-* **9** lankadeepa-lk ([මෝටර් රථ දෙපාර්තමේන්තුවේ ප්‍රධානියෙක් ටෙන්ඩර් මගඩියක](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e57f03c6.json))
+* **8** lankadeepa-lk ([කෝටි 5ක රත්තරන් රේගුවේදී අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e10c4a29.json))
 
 * **5** news-first-lk ([Customs arrests suspect with gold biscuits over Rs.47Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/791bd96d.json))
 
@@ -28,9 +28,9 @@
 
 * **1** tamil-mirror-lk ([தாய் கண்டித்ததால் ஈழத்தமிழ் இளைஞன் தற்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d52a4fc.json))
 
-## Last 24 Hours (218 Articles)
+## Last 24 Hours (217 Articles)
 
-* **55** virakesari-lk ([மேர்வின் சில்வா ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்புரிமையை பெற்றார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d9801e5.json))
+* **54** virakesari-lk ([200 ஆடைத் தொழிற்சாலைகள் செயல் இழக்கும் நிலை : ஆடை உற்பத்தி வாய்ப்புகள் வேறு நாடுகளுக்கு செல்லும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9b92655.json))
 
 * **36** lankadeepa-lk ([දෙවිනුවර පංච පුද්ගල ඝාතනයට හයක් පෝරකයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4c6565c.json))
 
