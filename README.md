@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 15:19:50 (LK time)*
+*As of 2022-07-02 15:27:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **1** ada-derana-lk ([No positive proposals in 22A, PAFFREL executive director says](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5904ec9.json))
 
-## Last Hour (6 Articles)
+## Last Hour (4 Articles)
 
 * **2** virakesari-lk ([தெல்லிப்பளை ஆதார வைத்தியசாலைக்கு ஐந்து இலட்சம் ரூபாய் பெறுமதியான மருந்துப் பொருட்கள் வழங்கி வைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e9bc444.json))
 
@@ -20,11 +20,7 @@
 
 * **1** ada-derana-lk ([No positive proposals in 22A, PAFFREL executive director says](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5904ec9.json))
 
-* **1** economy-next-com ([Strong winds, rough seas: Sri Lanka Met Department issues red alerts](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3239b83b.json))
-
-* **1** tamil-mirror-lk ([கப்பல் வரும் நாட்களை அறிவித்தது ஐ.ஓ.சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12f3638f.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (25 Articles)
 
 * **9** virakesari-lk ([அவுஸ்திரேலியாவிற்கு படகுகள் மூலம் மக்கள் செல்வதை தடுப்பதற்கான நடவடிக்கைள் எடுக்கப்பட்டுள்ளபோதிலும் பலர் ஆபத்தான படகு பயணங்களை மேற்கொள்ள முயல்கின்றனர்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e35bbc5.json))
 
@@ -32,9 +28,9 @@
 
 * **4** ada-derana-lk ([Sri Lanka to get emergency grant aid of USD 3 Mn from Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ea3d98b.json))
 
-* **3** economy-next-com ([Three shipments of fuel to arrive in Sri Lanka by mid, end July, August: Lanka IOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/642c1e41.json))
+* **2** economy-next-com ([Sri Lanka’s 22nd constitutional amendment bill is not a restoration of 19A’s essence: experts](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec79fdb.json))
 
-* **3** tamil-mirror-lk ([தாய் கண்டித்ததால் ஈழத்தமிழ் இளைஞன் தற்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d52a4fc.json))
+* **2** tamil-mirror-lk ([எரிவாயு தொடர்பில்  லிட்ரோவின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e6cd36.json))
 
 * **1** daily-mirror-lk ([LIOC says three ships carrying fuel due here](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b221e501.json))
 
@@ -66,11 +62,11 @@
 
 * **1** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
-## Last Week (1,752 Articles)
+## Last Week (1,749 Articles)
 
-* **335** virakesari-lk ([பஸ் பள்ளத்தில் கவிழ்ந்து விபத்து ; ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/304f81ca.json))
+* **334** virakesari-lk ([ஐக்கிய நாடுகள் சபையின் உயிரியல் பன்முகத்தன்மை வரைபும் பெருந்தோட்ட பெண்களும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbee7789.json))
 
-* **262** lankadeepa-lk ([චීන තානාපති මහින්ද මහතා අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc361c39.json))
+* **261** lankadeepa-lk ([නව දේශපාලන පක්ෂයක් ලඟදීම කරලියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77efb77.json))
 
 * **200** ada-lk ([මහ බැංකු වංචාවේ දෙවැනි අදියර සජිත් හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde60c1f.json))
 
@@ -78,7 +74,7 @@
 
 * **193** daily-mirror-lk ([Further delay in Petrol, Diesel and CrudeOil Shipments: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4485b5a.json))
 
-* **159** news-first-lk ([Permission to import 10 essentials via open accounts](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82495b1d.json))
+* **158** news-first-lk ([One dead, 5 injured in Meemure tragedy](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa0552fc.json))
 
 * **152** ada-derana-lk ([High-level Sri Lankan, Australian delegates discuss prevention of transnational crimes](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2183d639.json))
 
