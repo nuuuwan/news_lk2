@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 00:28:15 (LK time)*
+*As of 2022-07-03 00:39:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,19 +10,15 @@
 
 * **1** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (7 Articles)
 
 * **3** ada-derana-lk ([Energy Minister briefs CPC and CPSTL unions on Cabinet decision](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8735ec3d.json))
 
-* **3** lankadeepa-lk ([කාලගුණයෙන් රතු නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0bf77b8.json))
-
 * **2** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
-* **1** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
+* **2** lankadeepa-lk ([ජැක්සන් ඇන්තනී ගමන් ගත් මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19c0abfc.json))
 
-* **1** virakesari-lk ([கோட்டா கோ கமவை அகற்றக்கோரும் மனு : விஷேட கோரிக்கைக்காக வெள்ளியன்று விசாரணைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7fdbabb.json))
-
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (149 Articles)
 
 * **30** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -30,9 +26,9 @@
 
 * **19** ada-derana-lk ([Strong winds to continue, naval & fishing communities warned of rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/543a7a3c.json))
 
-* **19** tamil-mirror-lk ([சர்வதேச நாணய நிதியம் தொடர்பில் ஜனாதிபதி கலந்துரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4613499c.json))
-
 * **18** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
+
+* **18** tamil-mirror-lk ([’அரசாங்கம் வாக்குறுதிகளை நிறைவேற்ற தவறியது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81cc8899.json))
 
 * **15** ada-lk ([අභියෝග ජය ගැනීම ගැන ජනපති සූම් සාකච්ඡාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca079f68.json))
 
@@ -44,7 +40,7 @@
 
 * **3** daily-ft-lk ([SLT-Mobitel introduces all-new non-stop unlimited TikTok plans](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4565fcd.json))
 
-## Last Week (1,750 Articles)
+## Last Week (1,749 Articles)
 
 * **334** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -66,7 +62,7 @@
 
 * **42** island-lk ([University of Kelaniya holds AGM of first-ever DBA Alumni in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17026286.json))
 
-* **25** d-b-s-jeyaraj-com ([SLPP Rakes up the Past About  Rohana  Wijeweera’s “Execution” to Politically Embarrass JVP and Premadasa -led SJB  and Create Tensions Between Both Parties’but Blowback may Affect Ranil also](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae175430.json))
+* **24** d-b-s-jeyaraj-com ([Army and  Buddhist Monks    Accused of Constructing Buddhist Structures on Kurundhu Malai Hill In Violation of Mullaitheevu Court Order; Cultural Appropriation of Ancient Saivaie Shrine by “Political Buddhism” with Connivance of Archaeology Dept?](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcf18951.json))
 
 * **14** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
 
