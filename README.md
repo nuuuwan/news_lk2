@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 05:11:24 (LK time)*
+*As of 2022-07-03 05:22:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -24,7 +24,7 @@
 
 * **4** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## Last Week (1,753 Articles)
+## Last Week (1,751 Articles)
 
 * **339** virakesari-lk ([எரிபொருள் விலைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc970d05.json))
 
@@ -32,9 +32,9 @@
 
 * **200** ada-lk ([තෙල් මිල ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5482a5e.json))
 
-* **196** tamil-mirror-lk ([’மக்கள் போராட்டமே சிறந்த வழி’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1ddf1b3.json))
-
 * **195** daily-mirror-lk ([CPC, LIOC increased fuel prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5cd4179.json))
+
+* **195** tamil-mirror-lk ([’மக்களுடன் இணைந்து அரசாங்கத்திற்கு எதிராக வீதிக்கு இறங்குவோம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc065f10.json))
 
 * **160** news-first-lk ([Sri Lanka: CEYPETCO & Lanka IOC Fuel Prices Increased](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3f59cef.json))
 
@@ -48,7 +48,7 @@
 
 * **24** d-b-s-jeyaraj-com ([Visiting US State Department Deputy Secretary of State for South and Central Asia Kelly Keiderling Assures  Prime Minister Ranil Wickremesinghe that the US supports the ongoing talks between the Govt of Sri Lanka and the International Monetary Fund(IMF); US agrees to provide technical assistance for fiscal management in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19bda6c.json))
 
-* **14** colombo-telegraph-com ([Is Sri Lanka On The Brink Of Another Covid Wave?](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f2426d.json))
+* **13** colombo-telegraph-com ([My Dear Sinhalese Friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83a3f1f3.json))
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
