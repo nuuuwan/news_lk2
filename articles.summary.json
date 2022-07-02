@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-299583",
+    "time_ut": 1656745011,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/2d/2d52a4fc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/three-shipments-of-fuel-to-arrive-in-sri-lanka-by-mid-end-july-august-lanka-ioc-96783/",
+    "time_ut": 1656744600,
+    "original_lang": "en",
+    "original_title": "Three shipments of fuel to arrive in Sri Lanka by mid, end July, August: Lanka IOC",
+    "file_name": "/tmp/news_lk2/articles/64/642c1e41.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dc4\u0dcf\u0dbd\u0dca-\u0d9c\u0dda\u0db1-\u0dc0\u0dd2\u0daf\u0dd2\u0dba-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615741",
     "time_ut": 1656743571,
