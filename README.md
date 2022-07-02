@@ -1,10 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 12:12:14 (LK time)*
+*As of 2022-07-02 12:29:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** lankadeepa-lk ([රටින් හාල් ගේන විදිය ඇමැති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/8194a578.json))
+
+## Last Hour (5 Articles)
+
+* **2** virakesari-lk ([டீசல், பெற்றோலை ஏற்றிய 3 கப்பல்களின் வருகை குறித்து ஐ.ஓ.சி. விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b154c2.json))
 
 * **1** lankadeepa-lk ([රටින් හාල් ගේන විදිය ඇමැති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/8194a578.json))
 
@@ -12,17 +18,7 @@
 
 * **1** economy-next-com ([IMF agreement with Sri Lanka must depend on key conditions: US senate committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/218461e3.json))
 
-## Last Hour (6 Articles)
-
-* **2** lankadeepa-lk ([ලොකු ලූනු ගොවියාගෙන් ඇමතිට පණිවිඩයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/caed3fc7.json))
-
-* **2** virakesari-lk ([டீசல், பெற்றோலை ஏற்றிய 3 கப்பல்களின் வருகை குறித்து ஐ.ஓ.சி. விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b154c2.json))
-
-* **1** ada-derana-lk ([Lanka IOC’s update on fuel shipment arrival](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39e4d7ba.json))
-
-* **1** economy-next-com ([IMF agreement with Sri Lanka must depend on key conditions: US senate committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/218461e3.json))
-
-## Last 3 Hours (39 Articles)
+## Last 3 Hours (38 Articles)
 
 * **9** lankadeepa-lk ([හිටපු ලොක්කෙක් පාපන්දුවේ කෝටි 5 කට  විදලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed916c1a.json))
 
@@ -32,19 +28,19 @@
 
 * **5** ada-lk ([මන්කිපොක්ස් යුරෝපයේ සහ අප්‍රිකාවේ තෙගුණ වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/905b979d.json))
 
-* **4** daily-mirror-lk ([Vatican paying close attention to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/216b82db.json))
-
 * **3** ada-derana-lk ([Postal workers on strike urged to report for work](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/faed1c37.json))
+
+* **3** daily-mirror-lk ([Customs seize Rs.60mn worth booze, fags, cosmetics sent from abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c2264b6.json))
 
 * **2** economy-next-com ([Sri Lankan mother of two jumps into lake with children; only one survives](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23325260.json))
 
 * **2** tamil-mirror-lk ([இராணுவப் படையினரும், விமானப்படை அலுவலர்களும் அதிரடி கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fed278e.json))
 
-## Last 24 Hours (222 Articles)
+## Last 24 Hours (221 Articles)
 
 * **53** virakesari-lk ([பணவீக்கம் ஜுனில் 54.6 சதவீதமாக சடுதியாக உயர்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1c4792.json))
 
-* **40** lankadeepa-lk ([මර්වින්  ශ්‍රීලනිපයට කරනමක් ගහයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2eefa20b.json))
+* **39** lankadeepa-lk ([ඉන්ධන අවුලකින් දුම්රිය සේවා අඩපණ වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd77ee30.json))
 
 * **23** daily-mirror-lk ([Overcrowded trains...](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffb7b5f7.json))
 
@@ -64,23 +60,23 @@
 
 * **1** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
-## Last Week (1,757 Articles)
+## Last Week (1,749 Articles)
 
-* **335** virakesari-lk ([திருச்சி முகாமில் இலங்கை தமிழர் தீக்குளிப்பு : உயிரை மாய்த்துக்கொள்ள முயன்ற 30 இலங்கைத் தமிழர்கள் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/509ca848.json))
+* **334** virakesari-lk ([நகர்ப்புற பாடசாலைகளின் செயற்பாடு குறித்து கல்வி அமைச்சின் விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8efb6bbe.json))
 
-* **264** lankadeepa-lk ([ඇමෙරිකානු නියෝජිත පිරිසේ ශ්‍රී ලංකා සංචාරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58bb08dc.json))
+* **263** lankadeepa-lk ([ලබන සතියේ පාසල් පවත්වන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e6bb5de.json))
 
 * **201** ada-lk ([සහල් හා වී සත්ත්ව ආහාර වෙනුවෙන් ගැනීම තහනම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2ece67aa.json))
 
-* **199** daily-mirror-lk ([Our hands are clean – Pillayan](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe3d920.json))
+* **197** daily-mirror-lk ([Refrain interfering in duties of new media activists - MLF to IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783daf2e.json))
 
-* **197** tamil-mirror-lk ([இலங்கை மத்திய வங்கியின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eac985a3.json))
+* **195** tamil-mirror-lk ([மீண்டும் ஆரம்பிக்கப்படும் பாடசாலைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2301911.json))
 
-* **160** news-first-lk ([City schools to reopen on selected days](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c67c1a68.json))
+* **159** news-first-lk ([675 people arrested for fuel hoarding](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75f956ee.json))
 
 * **152** ada-derana-lk ([Latest announcement on functioning of schools next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b7f033b.json))
 
-* **96** economy-next-com ([Sri Lanka prohibits use of paddy, rice in animal feed](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dfcfea1.json))
+* **95** economy-next-com ([Schools in Sri Lanka to open for three days as fuel crisis continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2a3814a.json))
 
 * **67** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
