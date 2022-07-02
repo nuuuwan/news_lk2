@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 04:11:13 (LK time)*
+*As of 2022-07-03 04:20:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdde3c76.json))
 
 ## Last 24 Hours (140 Articles)
 
