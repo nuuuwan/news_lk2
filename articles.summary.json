@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/sri-lanka-to-donate-6mn-pfizer-doses-to-myanmar/",
+    "time_ut": 1656746280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to donate 6Mn Pfizer doses to Myanmar",
+    "file_name": "/tmp/news_lk2/articles/7d/7d83eb83.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/litro-to-supply-gas-only-for-essential-services/",
+    "time_ut": 1656746280,
+    "original_lang": "en",
+    "original_title": "Litro to supply gas only for essential services",
+    "file_name": "/tmp/news_lk2/articles/15/153ceeac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/one-day-passport-service-extended-to-three-districts/",
+    "time_ut": 1656746100,
+    "original_lang": "en",
+    "original_title": "One-day passport service extended to three Districts",
+    "file_name": "/tmp/news_lk2/articles/1f/1f7d11e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/doctors-allowed-to-obtain-fuel-from-army-bases/",
+    "time_ut": 1656745980,
+    "original_lang": "en",
+    "original_title": "Doctors allowed to obtain fuel from Army bases",
+    "file_name": "/tmp/news_lk2/articles/5e/5eaef255.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/customs-arrests-suspect-with-gold-biscuits-over-rs-47mn/",
+    "time_ut": 1656745800,
+    "original_lang": "en",
+    "original_title": "Customs arrests suspect with gold biscuits over Rs.47Mn",
+    "file_name": "/tmp/news_lk2/articles/79/791bd96d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83380/sri-lanka-to-get-emergency-grant-aid-of-usd-3-mn-from-japan",
     "time_ut": 1656745740,
@@ -430,6 +470,14 @@
     "original_lang": "en",
     "original_title": "Strong winds to continue, naval & fishing communities warned of rough seas",
     "file_name": "/tmp/news_lk2/articles/54/543a7a3c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/can-the-cope-cope/",
+    "time_ut": 1656726375,
+    "original_lang": "en",
+    "original_title": "Can The \u201cCOPE\u201d Cope?",
+    "file_name": "/tmp/news_lk2/articles/82/823e245b.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",

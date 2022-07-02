@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/sri-lanka-to-donate-6mn-pfizer-doses-to-myanmar/",
+    "time_ut": 1656746280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to donate 6Mn Pfizer doses to Myanmar",
+    "file_name": "/tmp/news_lk2/articles/7d/7d83eb83.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/litro-to-supply-gas-only-for-essential-services/",
+    "time_ut": 1656746280,
+    "original_lang": "en",
+    "original_title": "Litro to supply gas only for essential services",
+    "file_name": "/tmp/news_lk2/articles/15/153ceeac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/one-day-passport-service-extended-to-three-districts/",
+    "time_ut": 1656746100,
+    "original_lang": "en",
+    "original_title": "One-day passport service extended to three Districts",
+    "file_name": "/tmp/news_lk2/articles/1f/1f7d11e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/doctors-allowed-to-obtain-fuel-from-army-bases/",
+    "time_ut": 1656745980,
+    "original_lang": "en",
+    "original_title": "Doctors allowed to obtain fuel from Army bases",
+    "file_name": "/tmp/news_lk2/articles/5e/5eaef255.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/customs-arrests-suspect-with-gold-biscuits-over-rs-47mn/",
+    "time_ut": 1656745800,
+    "original_lang": "en",
+    "original_title": "Customs arrests suspect with gold biscuits over Rs.47Mn",
+    "file_name": "/tmp/news_lk2/articles/79/791bd96d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83380/sri-lanka-to-get-emergency-grant-aid-of-usd-3-mn-from-japan",
     "time_ut": 1656745740,
@@ -430,6 +470,14 @@
     "original_lang": "en",
     "original_title": "Strong winds to continue, naval & fishing communities warned of rough seas",
     "file_name": "/tmp/news_lk2/articles/54/543a7a3c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/can-the-cope-cope/",
+    "time_ut": 1656726375,
+    "original_lang": "en",
+    "original_title": "Can The \u201cCOPE\u201d Cope?",
+    "file_name": "/tmp/news_lk2/articles/82/823e245b.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0db4\u0dc4\u0d9a\u0dca \u0d88\u0dc0\u0dbb \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/81/8171eac7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/pucsl-to-seek-public-opinion-on-tariff-revision/",
-    "time_ut": 1656405420,
-    "original_lang": "en",
-    "original_title": "PUCSL to seek public opinion on tariff revision",
-    "file_name": "/tmp/news_lk2/articles/89/89b2c078.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/BASL-accuses-authorities-of-misleading-the-public-on-fuel/108-239957",
-    "time_ut": 1656404878,
-    "original_lang": "en",
-    "original_title": "BASL accuses authorities of misleading the public on fuel",
-    "file_name": "/tmp/news_lk2/articles/b5/b59e3ff4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/cabinet-approval-to-publish-child-rights-bill/",
-    "time_ut": 1656404520,
-    "original_lang": "en",
-    "original_title": "Cabinet approval to publish Child Right\u2019s Bill",
-    "file_name": "/tmp/news_lk2/articles/62/62c3097f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca-\u0db6\u0dd9\u0daf\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd3/1-615545",
-    "time_ut": 1656404510,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dd9\u0dbd\u0dca \u0db6\u0dd9\u0daf\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/71/717dc210.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-rupee-guidance-rate-up-40-cents-despite-dollar-shortage-96583/",
-    "time_ut": 1656404460,
-    "original_lang": "en",
-    "original_title": "Sri Lanka rupee guidance rate up 40 cents despite dollar shortage",
-    "file_name": "/tmp/news_lk2/articles/dd/dda9b967.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-railway-tariff-hike-gets-cabinet-nod-96582/",
-    "time_ut": 1656404280,
-    "original_lang": "en",
-    "original_title": "Sri Lanka railway tariff hike gets cabinet nod",
-    "file_name": "/tmp/news_lk2/articles/e4/e4768ee9.json"
   }
 ]
