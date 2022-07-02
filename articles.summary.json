@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-starts-5-year-residence-visas-for-investors-96774/",
+    "time_ut": 1656725220,
+    "original_lang": "en",
+    "original_title": "Sri Lanka starts 5-year residence visas for investors",
+    "file_name": "/tmp/news_lk2/articles/72/72ea5362.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/recomended-news/Kamal-Haasan-returns-to-cinema-with-blockbuster-Vikram/277-240221",
     "time_ut": 1656709100,
@@ -24,6 +32,30 @@
     "file_name": "/tmp/news_lk2/articles/b6/b63fe2cc.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd-\u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-299576",
+    "time_ut": 1656704852,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd. \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d7/d78e0c2f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7-9-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-3-056-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299575",
+    "time_ut": 1656704377,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7 9 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 3,056 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/14/149960be.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1-\u0ba4\u0bb5\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-299574",
+    "time_ut": 1656703209,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1 \u0ba4\u0bb5\u0bb1\u0bbf\u0baf\u0ba4\u0bc1\u2019",
+    "file_name": "/tmp/news_lk2/articles/81/81cc8899.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/BOI-realigns-confidence-of-investors-through-webinar-series/34-736953",
     "time_ut": 1656703074,
@@ -46,6 +78,14 @@
     "original_lang": "en",
     "original_title": "SLT-Mobitel introduces all-new non-stop unlimited TikTok plans",
     "file_name": "/tmp/news_lk2/articles/d4/d4565fcd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0ba8\u0bbe\u0ba3\u0baf-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-299573",
+    "time_ut": 1656702546,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/46/4613499c.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -878,6 +918,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/93/93695466.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130559",
+    "time_ut": 1656668007,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bc2\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 :\u00a0\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8, \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/5d/5dde76c2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
