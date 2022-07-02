@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd9\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-3-\u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba-\u0d86\u0db0\u0dcf\u0dbb/101-615746",
+    "time_ut": 1656771225,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3 \u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba \u0d86\u0db0\u0dcf\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/1f/1fb07195.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/02/lankan-energy-in-hands-of-foreign-countries-is-national-security-threat-mp-velukumar/",
+    "time_ut": 1656771000,
+    "original_lang": "en",
+    "original_title": "Lankan energy in hands of foreign countries is National security threat: MP Velukumar",
+    "file_name": "/tmp/news_lk2/articles/9a/9acee648.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-299605",
     "time_ut": 1656770890,
@@ -54,6 +70,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/e6/e693f5f5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dcf-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0db8\u0d9c\u0dd2\u0db1\u0dca-\u0daf\u0dd2\u0db1\u0d9a\u0da7-100\u0d9a\u0da7-\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0/11-395034",
+    "time_ut": 1656766787,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0db1\u0d9a\u0da7 100\u0d9a\u0da7 \u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dc3\u0dda\u0dc0\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/7b/7bab87ee.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 20\u0d9a\u0dca \u0daf\u0dd9\u0db1 \u0db6\u0dc0 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/6c/6c2fc040.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130350",
-    "time_ut": 1656415092,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/95/95690fc4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-gdp-shrinks-1-6-pct-in-1q-2022-96587/",
-    "time_ut": 1656414540,
-    "original_lang": "en",
-    "original_title": "Sri Lanka GDP shrinks 1.6-pct in 1Q 2022",
-    "file_name": "/tmp/news_lk2/articles/da/daa64b94.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-gdp-shrinks-1-6-pct-in-1q-2022-in-soft-peg-collapse-96587/",
-    "time_ut": 1656414540,
-    "original_lang": "en",
-    "original_title": "Sri Lanka GDP shrinks 1.6-pct in 1Q 2022 in soft-peg collapse",
-    "file_name": "/tmp/news_lk2/articles/01/01260c09.json"
   }
 ]
