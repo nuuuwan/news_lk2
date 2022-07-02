@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 16:10:42 (LK time)*
+*As of 2022-07-02 16:25:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** virakesari-lk ([கிளிநொச்சியில் சட்டவிரோதமாக மண்ணெண்ணெய் டிசல் பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8045ab5.json))
+* **1** virakesari-lk ([வெளிநாட்டு சுற்றுலாப்பயணிகளுக்கு எரிபொருள் வழங்க மறுத்த பொலிஸ் உத்தியோகத்தர் ; சுற்றுலா அபிவிருத்தி அதிகாரசபை பொலிஸ்மா அதிபருக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5055467.json))
 
-## Last Hour (6 Articles)
+## Last Hour (5 Articles)
 
 * **3** virakesari-lk ([கிளிநொச்சியில் சட்டவிரோதமாக மண்ணெண்ணெய் டிசல் பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8045ab5.json))
 
@@ -16,11 +16,9 @@
 
 * **1** tamil-mirror-lk ([உலை எண்ணெய் குறைகின்றதாக அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e175ccc.json))
 
-* **1** ada-derana-lk ([Libyan protesters storm, set fire to parliament building](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0b38abb.json))
+## Last 3 Hours (21 Articles)
 
-## Last 3 Hours (23 Articles)
-
-* **11** virakesari-lk ([சுகாதாரத்துறை ஊழியர்களுக்கு எரிபொருள் வழங்கப்படாமையால் அட்டனில் அமைதியின்மை](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/4739934d.json))
+* **9** virakesari-lk ([விறகு சேகரிக்கச் சென்றவர்கள் மீது குளவி கொட்டு : ஒருவர் பலி , 3 பேர் வைத்தியசாலையில் - பொகவந்தலாவையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309207a9.json))
 
 * **4** ada-derana-lk ([Second phase of O/L paper marking temporarily halted](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2698fa66.json))
 
@@ -34,9 +32,9 @@
 
 * **1** daily-mirror-lk ([LIOC says three ships carrying fuel due here](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b221e501.json))
 
-## Last 24 Hours (201 Articles)
+## Last 24 Hours (196 Articles)
 
-* **44** virakesari-lk ([வவுனியா நகரப் பகுதியில் இருந்து முதியவர் ஒருவரின் சடலம் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e676012e.json))
+* **41** virakesari-lk ([22 ஆயிரம் சுற்றுலாப்பயணிகளே நாட்டில் தற்போது தங்கியுள்ளனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b359613.json))
 
 * **28** lankadeepa-lk ([සෞඛ්‍ය දෙන තෙල් ගන්න ටෝකන් දුන් අයත් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72eac14b.json))
 
@@ -46,9 +44,9 @@
 
 * **18** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc5b18f.json))
 
-* **17** news-first-lk ([Woman jumps into Embilipitiya Lake with two sons](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5210603.json))
+* **16** news-first-lk ([Fuel Crisis: CEB warns of delays in restoring power](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64da8d4d.json))
 
-* **15** ada-lk ([අඩු ආදායම්ලාභීන් සඳහා බිලියන 200ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb79eb29.json))
+* **14** ada-lk ([දරු දෙදෙනා සමග චන්ද්‍රිකා වැවට පැන්න මවත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d21dd79.json))
 
 * **13** economy-next-com ([Sri Lanka Human Rights Commission probing rehabilitation centre mass escape](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79fc0cfe.json))
 
