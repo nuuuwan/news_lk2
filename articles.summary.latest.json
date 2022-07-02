@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d9c\u0dd2\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-13\u0d9a\u0dca-\u0dad\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd3-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-615730",
+    "time_ut": 1656732253,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 13\u0d9a\u0dca \u0dad\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3 \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cd/cd167cc7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/japan-to-support-sri-lanka-along-with-imf-deal-96778/",
+    "time_ut": 1656732240,
+    "original_lang": "en",
+    "original_title": "Japan to support Sri Lanka along with IMF deal",
+    "file_name": "/tmp/news_lk2/articles/2d/2d41efdd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-quizzed-why-fuel-shipment-not-ordered-before-July-22-as-fuel-runs-out/342-240222",
+    "time_ut": 1656731337,
+    "original_lang": "en",
+    "original_title": "CPC quizzed why fuel shipment not ordered before July 22 as fuel runs out",
+    "file_name": "/tmp/news_lk2/articles/40/40cfa2a3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0ddc\u0db8\u0dca\u0db4\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615729",
+    "time_ut": 1656731070,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db4\u0dc4\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0ddc\u0db8\u0dca\u0db4\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a4/a4bb7ca7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83376/four-military-personnel-arrested-over-kandakadu-inmates-death",
+    "time_ut": 1656729900,
+    "original_lang": "en",
+    "original_title": "Four military personnel arrested over Kandakadu inmate\u2019s death",
+    "file_name": "/tmp/news_lk2/articles/a4/a4212d50.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83375/string-winds-to-continue-naval-fishing-communities-cautioned",
     "time_ut": 1656727980,
     "original_lang": "en",
     "original_title": "String winds to continue, naval & fishing communities cautioned",
     "file_name": "/tmp/news_lk2/articles/92/9203c3ce.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83375/strong-winds-to-continue-naval-fishing-communities-warned-of-rough-seas",
+    "time_ut": 1656727980,
+    "original_lang": "en",
+    "original_title": "Strong winds to continue, naval & fishing communities warned of rough seas",
+    "file_name": "/tmp/news_lk2/articles/54/543a7a3c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -38,6 +86,38 @@
     "original_lang": "en",
     "original_title": "Revive the co-operative movement in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/b6/b63fe2cc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business__main/BOI-launches-five-year-residence-visa-to-entice-foreign-investors/245-240217",
+    "time_ut": 1656707994,
+    "original_lang": "en",
+    "original_title": "BOI launches five-year residence visa to  entice foreign investors",
+    "file_name": "/tmp/news_lk2/articles/6a/6aba39ee.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Litro-gas-denies-statements-regarding-salary-scale/273-240212",
+    "time_ut": 1656707660,
+    "original_lang": "en",
+    "original_title": "Litro gas denies statements regarding salary scale",
+    "file_name": "/tmp/news_lk2/articles/e5/e584b11c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Govt-to-offer-Rs-7-500-allowance-to-worst-hit-citizens-from-WB-ADB-fund/273-240210",
+    "time_ut": 1656707520,
+    "original_lang": "en",
+    "original_title": "Govt. to offer Rs.7,500 allowance to worst-hit citizens from WB, ADB fund",
+    "file_name": "/tmp/news_lk2/articles/41/41d208f6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0bae\u0bbe\u0ba9\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299577",
+    "time_ut": 1656705291,
+    "original_lang": "ta",
+    "original_title": "\u0b93\u0bae\u0bbe\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a9/a9745338.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -224,6 +304,30 @@
     "file_name": "/tmp/news_lk2/articles/f3/f3ba2d4a.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Sri-Lanka-seeks-assistance-from-Kerala-in-India/238-240193",
+    "time_ut": 1656697886,
+    "original_lang": "en",
+    "original_title": "Sri Lanka seeks assistance from Kerala in India",
+    "file_name": "/tmp/news_lk2/articles/14/1451ede9.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78306",
+    "time_ut": 1656697680,
+    "original_lang": "en",
+    "original_title": "Gazetted draft of the 22nd Constitutional  Amendment (22A)  is a compromise between the interests of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe.Will it get the Necessary two-thirds majority in Parliament?",
+    "file_name": "/tmp/news_lk2/articles/01/01bbe14d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78303",
+    "time_ut": 1656696300,
+    "original_lang": "en",
+    "original_title": "22nd Constitutional Amendment  is nothing but a self-serving step taken by the Prime Minister and Justice Minister to suit the narrow interest of President Rajapaksa, who is bent on continuing to be Executive President till the end of his term.",
+    "file_name": "/tmp/news_lk2/articles/16/16961a93.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83372/extensive-talks-between-president-advisory-group-on-multilateral-engagement-debt-sustainability",
     "time_ut": 1656695700,
@@ -350,6 +454,14 @@
     "original_lang": "en",
     "original_title": "CEB warns over delays in restoring power outages due to fuel crisis",
     "file_name": "/tmp/news_lk2/articles/68/68fab144.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130598",
+    "time_ut": 1656685979,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0ba8\u0bcd\u0ba4\u0bb5\u0bca\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0ba4\u0bc1 : \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8 - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/86/8625d0be.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7886,117 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka to open fuel import, retail sales market to oil-producing nations",
     "file_name": "/tmp/news_lk2/articles/a4/a435673f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-meets-russian-envoy-amid-oil-talks-96574/",
-    "time_ut": 1656394860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President meets Russian envoy amid oil talks",
-    "file_name": "/tmp/news_lk2/articles/0a/0a3268f3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/47-people-detained-for-illegal-migration-attempt/",
-    "time_ut": 1656394740,
-    "original_lang": "en",
-    "original_title": "47 people detained for Illegal Migration attempt",
-    "file_name": "/tmp/news_lk2/articles/c3/c3988f3e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4\u0d9a-\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615533",
-    "time_ut": 1656394436,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db4\u0dc4\u0d9a \u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/05/053c5c82.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0d9c\u0dda-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db0\u0db1\u0dba-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-50-\u0d9c\u0dcf\u0db1\u0dda-\u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0da7-\u0daf\u0dcf\u0db1\u0dc0\u0dcf/11-394911",
-    "time_ut": 1656394349,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0d9c\u0dda \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db0\u0db1\u0dba \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 50 \u0d9c\u0dcf\u0db1\u0dda \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0da7 \u0daf\u0dcf\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/93/93ee1213.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/education-minister-off-to-france-for-unesco-meet/",
-    "time_ut": 1656394320,
-    "original_lang": "en",
-    "original_title": "Education Minister off to France for UNESCO meet",
-    "file_name": "/tmp/news_lk2/articles/48/48a2e453.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0-\u0dc3\u0dad\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dc0\u0dcf\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dba\u0dd2/1-615532",
-    "time_ut": 1656393668,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dc3\u0dad\u0dd4 \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dc0\u0dcf\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dc0\u0dd2\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/43/434179f2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/sltb-says-cpc-provided-sufficient-fuel-stocks/",
-    "time_ut": 1656393600,
-    "original_lang": "en",
-    "original_title": "SLTB says CPC provided sufficient fuel stocks",
-    "file_name": "/tmp/news_lk2/articles/bc/bc3909e1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130306",
-    "time_ut": 1656393209,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95\u0bb2\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8- \u0bb9\u0bb0\u0bc0\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/86/863b92b0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca-\u0dc0\u0dd9\u0dad-\u0dad\u0dc0\u0dad\u0dca-\u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba-\u0d86\u0db0\u0dcf\u0dbb-\u0daf\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/3-394909",
-    "time_ut": 1656393083,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba \u0d86\u0db0\u0dcf\u0dbb \u0daf\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/07/07d19084.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd9\u0dbd\u0dd4\u0db8\u0dca-\u0d9a\u0dd4\u0dbd\u0dd4\u0dab--\u0dc0\u0dbb\u0dcf\u0dba-\u0db1\u0d9c\u0dbb\u0dba--\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7/11-394908",
-    "time_ut": 1656392864,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd9\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0dd4\u0dbd\u0dd4\u0dab, \u0dc0\u0dbb\u0dcf\u0dba \u0db1\u0d9c\u0dbb\u0dba, \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7",
-    "file_name": "/tmp/news_lk2/articles/15/15814dcb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/bus-fares-will-be-revised-from-1st-july/",
-    "time_ut": 1656392820,
-    "original_lang": "en",
-    "original_title": "Bus Fares will be revised from 1st July",
-    "file_name": "/tmp/news_lk2/articles/1f/1f95f18e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca-G20-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7-\u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3-\u0dc0\u0db1-\u0db6\u0dc0-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/3-394907",
-    "time_ut": 1656392718,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca G20 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0db1 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/83/837f33a4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/cabinet-green-light-to-open-sri-lankas-fuel-import-retail-sales-market-to-companies-from-oil-producing-nations/",
-    "time_ut": 1656392640,
-    "original_lang": "en",
-    "original_title": "Cabinet green light to open Sri Lanka\u2019s Fuel Import & Retail sales market to Companies from Oil producing Nations.",
-    "file_name": "/tmp/news_lk2/articles/41/416e373b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83296/navy-apprehends-47-people-attempting-to-illegally-migrate-from-island",
-    "time_ut": 1656392520,
-    "original_lang": "en",
-    "original_title": "Navy apprehends 47 people attempting to illegally migrate from island",
-    "file_name": "/tmp/news_lk2/articles/d0/d02478f8.json"
   }
 ]
