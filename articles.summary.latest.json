@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0baa\u0bcd-\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-299580",
+    "time_ut": 1656734647,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0bae\u0bcd, \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/3f/3fed278e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Customs-seize-Rs-60mn-worth-booze-fags-cosmetics-sent-from-abroad/342-240224",
+    "time_ut": 1656734603,
+    "original_lang": "en",
+    "original_title": "Customs seize Rs.60mn worth booze, fags, cosmetics sent from abroad",
+    "file_name": "/tmp/news_lk2/articles/8c/8c2264b6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Vatican-paying-close-attention-to-Sri-Lanka/108-240223",
     "time_ut": 1656733630,
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d9c\u0dd2\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-13\u0d9a\u0dca-\u0dad\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd3-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-615730",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d9c\u0dd2\u0dba-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-13\u0d9a\u0dca-\u0dad\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd3-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-615730",
     "time_ut": 1656732253,
     "original_lang": "si",
     "original_title": "\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 13\u0d9a\u0dca \u0dad\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3 \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/cd/cd167cc7.json"
+    "file_name": "/tmp/news_lk2/articles/89/8900ea91.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0ddc\u0db8\u0dca\u0db4\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615729",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a\u0dca\u0dc2-\u0db4\u0dc4\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0ddc\u0db8\u0dca\u0db4\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-615729",
     "time_ut": 1656731070,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d9a\u0dca\u0dc2 \u0db4\u0dc4\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0ddc\u0db8\u0dca\u0db4\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a4/a4bb7ca7.json"
+    "file_name": "/tmp/news_lk2/articles/65/65cd4403.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/8e/8ee2f914.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-cabinet-clears-plan-for-foreign-firms-to-distribute-fuel-96577/",
-    "time_ut": 1656396540,
-    "original_lang": "en",
-    "original_title": "Sri Lanka cabinet clears plan for foreign firms to distribute fuel",
-    "file_name": "/tmp/news_lk2/articles/3b/3b540c7d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-cabinet-clears-plan-allow-new-foreign-fuel-distributors-96577/",
-    "time_ut": 1656396540,
-    "original_lang": "en",
-    "original_title": "Sri Lanka cabinet clears plan allow new foreign fuel distributors",
-    "file_name": "/tmp/news_lk2/articles/80/80f265ce.json"
   }
 ]
