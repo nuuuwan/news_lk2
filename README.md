@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-02 20:26:10 (LK time)*
+*As of 2022-07-02 20:35:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
-
-* **2** tamil-mirror-lk ([ரூ.4.7 கோடி பெறுமதியான தங்கம் சிக்கியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/aba4bf53.json))
+## Last Hour (3 Articles)
 
 * **1** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
 
 * **1** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
+
+* **1** tamil-mirror-lk ([வானிலை குறித்து சிவப்பு அறிவித்தல் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c0fb7f7.json))
 
 ## Last 3 Hours (12 Articles)
 
@@ -26,15 +26,15 @@
 
 * **1** ada-lk ([පාස්පෝට් ප්‍රා දේශීය කාර්යාල මගින් දිනකට 100කට එක්දින සේවාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bab87ee.json))
 
-## Last 24 Hours (166 Articles)
+## Last 24 Hours (165 Articles)
 
 * **28** virakesari-lk ([மே 9 வன்முறைகள் - மேலும் 14 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44af6858.json))
 
 * **25** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
 
-* **19** lankadeepa-lk ([කන්දකාඩු සිද්ධිය: යුද-ගුවන් සෙබළු 4 ක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04c21a4a.json))
-
 * **19** ada-derana-lk ([Foreign Ministry’s Consular Affairs Division to resume regular services](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bdc6d1c.json))
+
+* **18** lankadeepa-lk ([පාතාල තර්ජන එල්ල වූ පොලිස් නිලධාරීන්ට ආරක්‍ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b25548f.json))
 
 * **16** news-first-lk ([Kandakadu Unrest : Four arrested for inmate death](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dddf37f.json))
 
