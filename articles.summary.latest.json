@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd/175-299609",
+    "time_ut": 1656808560,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9f\u0bb2\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f    \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cc/ccce56bf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb0\u0bbf\u0bae\u0bc8/76-299607",
+    "time_ut": 1656804926,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb0\u0bbf\u0bae\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/54/54ca0815.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SLTDA-Chairman-complains-to-IGP-over-incident-involving-a-Police-Officer-and-a-tourist/108-240231",
     "time_ut": 1656791002,
@@ -1334,6 +1350,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbf\u0bb0\u0bbf\u0bb9\u0bbe\u0ba9\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bae\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/6f/6faed122.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78312",
+    "time_ut": 1656701280,
+    "original_lang": "en",
+    "original_title": "Bar Association of Sri Lanka(BASL) Files   Fundamental Rights Petition  On Behalf of Citizens Suffering Shortages of Essentials Including Fuel,Gas and Medicine  Citing 43 Respondents Comprising Prime Minister,Ministers and Secretaries; pleads for  Supreme Court to take up case Speedily  for Interim Relief on July 4",
+    "file_name": "/tmp/news_lk2/articles/66/6641faa7.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Bus & Train fare hike, soon",
     "file_name": "/tmp/news_lk2/articles/5c/5c1ba970.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299377",
-    "time_ut": 1656424696,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/3a/3ad1574c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dbd\u0ddd\u0d9a-\u0db4\u0dc4\u0d9a\u0dca-\u0dc4\u0dd9\u0da7-\u0d85\u0dbd\u0dd4\u0dba\u0db8-\u0d91\u0d9a\u0db8-\u0dbb\u0dda\u0d9b\u0dcf\u0dc0\u0d9a/1-615559",
-    "time_ut": 1656424573,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dbd\u0ddd\u0d9a \u0db4\u0dc4\u0d9a\u0dca \u0dc4\u0dd9\u0da7 \u0d85\u0dbd\u0dd4\u0dba\u0db8 \u0d91\u0d9a\u0db8 \u0dbb\u0dda\u0d9b\u0dcf\u0dc0\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/c4/c43ff6ed.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83306/registrar-generals-dept-post-offices-to-provide-limited-services",
-    "time_ut": 1656424560,
-    "original_lang": "en",
-    "original_title": "Registrar General\u2019s Dept, post offices to provide limited services",
-    "file_name": "/tmp/news_lk2/articles/89/89bf3e9a.json"
   }
 ]
