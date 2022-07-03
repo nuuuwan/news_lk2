@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sajith-repeats-call-to-President-to-resign/56-737016",
+    "time_ut": 1656880614,
+    "original_lang": "en",
+    "original_title": "Sajith repeats call to President to resign",
+    "file_name": "/tmp/news_lk2/articles/dd/dd68834d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Japan-assures-President-of-support-to-SL/56-737015",
+    "time_ut": 1656880472,
+    "original_lang": "en",
+    "original_title": "Japan assures President of support to SL",
+    "file_name": "/tmp/news_lk2/articles/55/55c2224a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Sri-Lanka-seeks-greater-cooperation-in-food-processing-and-dairy-sectors-with-India/56-737014",
     "time_ut": 1656880372,
     "original_lang": "en",
