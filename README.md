@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 01:18:12 (LK time)*
+*As of 2022-07-04 01:30:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-ft-lk ([Child’s guide to true cost of activities: Concept of opportunity cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/520b02f3.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
 * **3** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
 
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
-
-* **1** virakesari-lk ([22 ஐ நிறைவேற்ற ஒத்துழைக்காவிட்டால் நாடு மேலும் அராஜக நிலைக்குச் செல்லும் - அமைச்சர் விஜேதாச ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8910c1d7.json))
 
 ## Last 24 Hours (196 Articles)
 
