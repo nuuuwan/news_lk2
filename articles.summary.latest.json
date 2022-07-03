@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc3\u0dc4-\u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0dad\u0dca-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/1-615800",
+    "time_ut": 1656864604,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0db8\u0db1 \u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda \u0dc3\u0dc4 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0dad\u0dca \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f2/f252dbb6.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-for-june-04-and-june-05-96825/",
     "time_ut": 1656863700,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/eb/ebef3285.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-public-health-officials-launch-two-day-protest-over-fuel-shortage-96620/",
-    "time_ut": 1656492960,
-    "original_lang": "en",
-    "original_title": "Sri Lanka public health\u00a0officials launch two-day protest over fuel shortage",
-    "file_name": "/tmp/news_lk2/articles/e6/e6787332.json"
   }
 ]
