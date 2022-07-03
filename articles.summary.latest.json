@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83397/sri-lanka-expecting-4-fuel-shipments-this-month-kanchana",
+    "time_ut": 1656833340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expecting 4 fuel shipments this month - Kanchana",
+    "file_name": "/tmp/news_lk2/articles/d9/d9697403.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/CEYPETCO-\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-299627",
+    "time_ut": 1656833162,
+    "original_lang": "ta",
+    "original_title": "CEYPETCO \u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8e/8e97339f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130674",
     "time_ut": 1656832845,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The need for a reset",
     "file_name": "/tmp/news_lk2/articles/4b/4bed989f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/The-Biblical-seven-lean-years-EDITORIAL/172-239975",
-    "time_ut": 1656453247,
-    "original_lang": "en",
-    "original_title": "The Biblical seven lean years - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/45/4552324d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/US-assures-Rajapaksa-continuous-support-to-strengthen-relationship-with-IMF/56-736838",
-    "time_ut": 1656448147,
-    "original_lang": "en",
-    "original_title": "US assures Rajapaksa continuous support to strengthen relationship with IMF",
-    "file_name": "/tmp/news_lk2/articles/1b/1b26098a.json"
   }
 ]
