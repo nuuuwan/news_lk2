@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-51-persons-attempting-to-migrate-to-Australia-illegally-arrested/108-240236",
+    "time_ut": 1656832413,
+    "original_lang": "en",
+    "original_title": "Another 51 persons attempting to migrate to Australia illegally arrested",
+    "file_name": "/tmp/news_lk2/articles/93/9311cfb1.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130671",
+    "time_ut": 1656831756,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd \u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0ba3\u0bae\u0bcd\u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd - \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/44/44bbdd20.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-one-day-passport-service-to-take-60-days-96801/",
+    "time_ut": 1656831720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka one-day passport service to take 60 days",
+    "file_name": "/tmp/news_lk2/articles/73/73cc2c76.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0db8\u0dcf\u0dc0\u0dad\u0dda-\u0dc3\u0dd4\u0db1\u0dca\u0db6\u0dd4\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-615773",
     "time_ut": 1656831191,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0db8\u0dcf\u0dc0\u0dad\u0dda \u0dc3\u0dd4\u0db1\u0dca\u0db6\u0dd4\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/5c/5caaadeb.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130668",
+    "time_ut": 1656831161,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bc1\u0b95\u0bc2\u0bb1\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0b89\u0bb2\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/04/040b4898.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -86,6 +118,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dba \u0dbd\u0dd0\u0db6\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/89/896cb2a9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dbd-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0dc0\u0dd2-\u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0da7-\u0dbb\u0dd4--150\u0d9a\u0dca/11-395043",
+    "time_ut": 1656829317,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dbd \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0dc0\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0da7 \u0dbb\u0dd4. 150\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/98/9889bc39.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Human Rights Council appoints Radhika Coomaraswamy to serve on Ethiopia rights body",
     "file_name": "/tmp/news_lk2/articles/f0/f0e3ebaa.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Hayleys-Fabric-natural-mahogany-dye-listed-on-Top-10-innovations-for-ISPO-Textrends-2024/34-736834",
-    "time_ut": 1656447959,
-    "original_lang": "en",
-    "original_title": "Hayleys Fabric natural mahogany dye listed on Top 10 innovations for ISPO Textrends 2024",
-    "file_name": "/tmp/news_lk2/articles/94/9421a27b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Kanchana-holds-talks-with-Qatar-s-Energy-Minister/56-736828",
-    "time_ut": 1656447465,
-    "original_lang": "en",
-    "original_title": "Kanchana holds talks with Qatar\u2019s Energy Minister",
-    "file_name": "/tmp/news_lk2/articles/e6/e6c854b6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Govt-to-resume-Jaffna-Airport-operations-from-Friday/56-736827",
-    "time_ut": 1656447403,
-    "original_lang": "en",
-    "original_title": "Govt. to resume Jaffna Airport operations from Friday",
-    "file_name": "/tmp/news_lk2/articles/e7/e7aeed07.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/LIOC-announces-new-restrictions/56-736826",
-    "time_ut": 1656447390,
-    "original_lang": "en",
-    "original_title": "LIOC announces new restrictions",
-    "file_name": "/tmp/news_lk2/articles/ef/ef95e9c4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Bus-fares-up-by-30/56-736825",
-    "time_ut": 1656447375,
-    "original_lang": "en",
-    "original_title": "Bus fares up by 30%",
-    "file_name": "/tmp/news_lk2/articles/ff/ff0a7125.json"
   }
 ]
