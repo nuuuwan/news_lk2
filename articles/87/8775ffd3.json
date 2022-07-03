@@ -1,0 +1,657 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dcf\u0db8-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0da9\u0dd0\u0dc4\u0dd0-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/3-395045",
+  "time_ut": 1656836085,
+  "original_lang": "si",
+  "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dcf\u0db8 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0da9\u0dd0\u0dc4\u0dd0 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Russian gas trade catches the US",
+      "author": "unknown",
+      "body_lines": [
+        "According to the latest data released by the International Energy Agency (IEA), for the first time the United States has supplied more liquefied natural gas (LNG) to Europe than Russia sends through pipelines.",
+        "Russia ships about 150 billion cubic meters of gas to Europe through pipelines each year, and in 2021 Russia will meet more than a third of the European Union's (EU) gas demand, the IEA said.",
+        "However, in response to Western sanctions amid the Russia-Ukraine conflict, Russia in June cut off natural gas shipments to Europe via Nord Stream, halting gas supplies to Finland, Poland, Bulgaria and other European countries.",
+        "Russia also said it plans to cut gas supplies to Germany in mid-July due to annual maintenance.",
+        "By providing military aid to Ukraine, the US has taken advantage of this opportunity to further fuel the war against Russia and increase its LNG supply to Russian suppliers, with Europe cutting off shipments to countries that do not comply with the new payment terms.",
+        "IEA Executive Director Fathi Birol tweeted, \"Given Russia's recent natural gas flow to the EU, this is the first month in history that the EU imported more gas from the US via LNG than it received from Russia by pipeline.\" Namely."
+      ],
+      "title_ents": [
+        {
+          "text": "Russian",
+          "label": "NORP"
+        },
+        {
+          "text": "US",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the International Energy Agency",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "the United States",
+            "label": "GPE"
+          },
+          {
+            "text": "LNG",
+            "label": "ORG"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "about 150 billion cubic meters",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "more than a third",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the European Union's",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "IEA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Western",
+            "label": "NORP"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          },
+          {
+            "text": "Nord Stream",
+            "label": "ORG"
+          },
+          {
+            "text": "Finland",
+            "label": "GPE"
+          },
+          {
+            "text": "Poland",
+            "label": "GPE"
+          },
+          {
+            "text": "Bulgaria",
+            "label": "GPE"
+          },
+          {
+            "text": "European",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "Germany",
+            "label": "GPE"
+          },
+          {
+            "text": "mid-July",
+            "label": "DATE"
+          },
+          {
+            "text": "annual",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "LNG",
+            "label": "ORG"
+          },
+          {
+            "text": "Russian",
+            "label": "NORP"
+          },
+          {
+            "text": "Europe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "IEA",
+            "label": "ORG"
+          },
+          {
+            "text": "Fathi Birol",
+            "label": "PERSON"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "the first month",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "LNG",
+            "label": "ORG"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0dcf\u0db8 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0da9\u0dd0\u0dc4\u0dd0 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2\u0dba (IEA) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0db1\u0dc0\u0dad\u0db8 \u0daf\u0dad\u0dca\u0dad\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0dc0, \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db1\u0dbd \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dba\u0dc0\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0da7 \u0dc0\u0da9\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dbb\u0da7 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba\u0da7 \u0daf\u0dca\u200d\u0dbb\u0dc0 \u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dcf\u0dba\u0dd4 (LNG) \u0dc3\u0db4\u0dba\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0d85\u0db1\u0dcf\u0dc0\u0dbb\u0dab\u0dba \u0dc0\u0dd9\u0dba\u0dd2.",
+        "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dd1\u0db8 \u0dc0\u0dc3\u0dbb\u0d9a\u0db8 \u0db1\u0dbd \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc4\u0dbb\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba\u0da7 \u0d9c\u0dd1\u0dc3\u0dca \u0d9d\u0db1 \u0db8\u0dd3\u0da7\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150\u0d9a\u0dca \u0db4\u0db8\u0dab \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dc5\u00a0\u0d85\u0dad\u0dbb, 2021 \u0daf\u0dd3 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda (EU) \u0d9c\u0dd1\u0dc3\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0dad\u0dd4\u0db1\u0dd9\u0db1\u0dca \u0d91\u0d9a\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0dc3\u0db4\u0dd4\u0dbb\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 IEA \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0d9c\u0dd0\u0da7\u0dd4\u0db8 \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0db1\u0dc0\u0db1 \u0dbd\u0daf \u0dc3\u0db8\u0dca\u0db6\u0dcf\u0db0\u0d9a\u0dc0\u0dbd\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da0\u0dcf\u0dbb \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca, \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0db1\u0ddd\u0dbb\u0dca\u0da9\u0dca \u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dca \u0dc4\u0dbb\u0dc4\u0dcf \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba\u0da7 \u0dc3\u0dca\u0dc0\u0dcf\u0db7\u0dcf\u0dc0\u0dd2\u0d9a \u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9a\u0db4\u0dcf \u0dc4\u0dbb\u0db8\u0dd2\u0db1\u0dca, \u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba, \u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad\u0dba, \u0db6\u0dbd\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0dc4 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8 \u0db1\u0dad\u0dbb \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0db1\u0da9\u0dad\u0dca\u0dad\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dc3 \u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda\u0daf\u0dd3 \u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba\u0da7 \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8\u0da7\u0daf \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0da7 \u0dba\u0dd4\u0db0 \u0d86\u0db0\u0dcf\u0dbb\u0dcf \u0dc3\u0db4\u0dba\u0db8\u0dd2\u0db1\u0dca,\u00a0\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d85\u0dc0\u0dd4\u0dbd\u0dd4\u0dc0\u0dcf\u0dbd\u0db1 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1 \u0d9c\u0dd9\u0db1, \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba \u0db1\u0dc0 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0db1\u0dd2\u0dba\u0db8\u0dba\u0db1\u0dca\u0da7 \u0d85\u0db1\u0dd4\u0d9a\u0dd6\u0dbd \u0db1\u0ddc\u0dc0\u0db1 \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0db4\u0dcf \u0dc4\u0dbb\u0dd2\u0db1 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0db8\u0db1\u0dca\u0d9c\u0dda LNG \u0dc3\u0dd0\u0db4\u0dba\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0d9a\u0dbb \u0d87\u0dad.",
+        "IEA \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0dc6\u0dcf\u0dad\u0dd2 \u0db6\u0dd2\u0dbb\u0ddd\u0dbd\u0dca \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda, \"\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db8\u0dd1\u0dad \u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dd2\u0d9a \u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0dba \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0da7 \u0d9c\u0dbd\u0dcf \u0dba\u0dcf\u0db8 \u0dc3\u0dbd\u0d9a\u0dcf \u0db6\u0dd0\u0dbd\u0dd3\u0db8\u0dda\u0daf\u0dd3, \u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dbd \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf\u0da7 \u0dc0\u0da9\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dd9\u0db1\u0dca LNG \u0dc4\u0dbb\u0dc4\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dc5 \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3\u0dba \u0db8\u0dd9\u0dba \u0db6\u0dc0\u0dba\u0dd2.\" \u0dba\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0dbd\u0dca\u0d91\u0db1\u0dca\u0da2\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9d\u0db1 \u0db8\u0dd3\u0da7\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 150 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dda",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dd9\u0db1\u0dca \u0d91\u0d9a\u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "IEA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "Nord Stream",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dbd\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0dbb\u0dca\u0db8\u0db1\u0dd2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 \u0db8\u0dd0\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0dbd\u0dca\u0d91\u0db1\u0dca\u0da2\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dba",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "IEA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc6\u0dcf\u0dad\u0dd2 \u0db6\u0dd2\u0dbb\u0ddd\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0dbd\u0dca\u0d91\u0db1\u0dca\u0da2\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb0\u0bb7\u0bcd\u0baf \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf (IEA) \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b95\u0bc1\u0bb4\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0ba4\u0bbf\u0bb0\u0bb5\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0bb5\u0bc8 (LNG) \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 150 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0ba9 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0bb5\u0bc8 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb4\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd (EU) \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 IEA \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba8\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bae\u0bcd \u0bb5\u0bb4\u0bbf\u0baf\u0bbe\u0b95 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bbf\u0ba9\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1, \u0baa\u0bcb\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1, \u0baa\u0bb2\u0bcd\u0b95\u0bc7\u0bb0\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b9c\u0bc2\u0bb2\u0bc8 \u0ba8\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0b95\u0bcd\u0bb0\u0bc7\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0baa\u0bcb\u0bb0\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baf\u0bc2\u0b9f\u0bcd\u0b9f\u0bb5\u0bc1\u0bae\u0bcd, \u0bb0\u0bb7\u0bcd\u0baf \u0b9a\u0baa\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd LNG \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba3\u0b99\u0bcd\u0b95\u0bbe\u0ba4 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "IEA \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd Fathi Birol \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd, \"\u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd, \u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bbe\u0baf\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f LNG \u0bb5\u0bb4\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0bb5\u0bc8 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc1\u0bb5\u0bc7 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd.\" \u0b85\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0bcd\u0b8e\u0ba9\u0bcd\u0b9c\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 150 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0ba9 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "IEA",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0ba9\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc7\u0bbe\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bb2\u0bcd\u0b95\u0bc7\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 \u0ba8\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0bcd\u0b8e\u0ba9\u0bcd\u0b9c\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "IEA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b83\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc0\u0bb0\u0bcb\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "EU",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0bcd\u0b8e\u0ba9\u0bcd\u0b9c\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
