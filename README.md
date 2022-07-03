@@ -1,40 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 12:28:40 (LK time)*
+*As of 2022-07-03 12:37:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** virakesari-lk ([கட்டுத்துப்பாக்கியினால் மானை வேட்டையாடியவர் புத்தளத்தில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa2779b5.json))
+
+* **1** lankadeepa-lk ([ගාල්ලේ සමුද්‍ර මාවතේ සුන්බුන් ඉවත් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5caaadeb.json))
+
+## Last Hour (11 Articles)
+
+* **4** lankadeepa-lk ([ජාත්‍යන්තර සහය ලැබෙමින් තිබෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/896cb2a9.json))
+
+* **3** virakesari-lk ([இலங்கையிலிருந்து தமிழ்நாட்டின் தனுஸ்கோடிக்கு அகதியாக சென்ற வயோதிபப் பெண் பரிதாப மரணம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ceaacd3.json))
 
 * **2** tamil-mirror-lk ([கடற்படை சீருடையில் விளையாட்டுக் காட்டியவர்  பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e63bd80e.json))
 
 * **1** news-first-lk ([Amber alert for heavy rains issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e2f308d.json))
 
-* **1** lankadeepa-lk ([කඳුකරයේ මාර්ග රැසකට ගල් කඩා වැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e10c33a3.json))
-
 * **1** ada-derana-lk ([Navy nabs 51 people attempting to illegally migrate from island](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230afc06.json))
 
-## Last Hour (9 Articles)
+## Last 3 Hours (35 Articles)
 
-* **3** tamil-mirror-lk ([வெளிநாட்டு பிரஜை மீது தாக்குதல்; சந்தேகநபர் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a93da7c.json))
-
-* **3** lankadeepa-lk ([ජාත්‍යන්තර සහය ලැබෙමින් තිබෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/896cb2a9.json))
-
-* **1** news-first-lk ([Amber alert for heavy rains issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e2f308d.json))
-
-* **1** ada-derana-lk ([Navy nabs 51 people attempting to illegally migrate from island](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230afc06.json))
-
-* **1** virakesari-lk ([இலங்கையிலிருந்து தமிழ்நாட்டின் தனுஸ்கோடிக்கு அகதியாக சென்ற வயோதிபப் பெண் பரிதாப மரணம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ceaacd3.json))
-
-## Last 3 Hours (33 Articles)
+* **7** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **7** tamil-mirror-lk ([மலையகத்தில் கடும் மழை;  பல வீடுகள் நீரில் மூழ்கின](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7eec1efc.json))
 
-* **6** lankadeepa-lk ([ලබන සතියේ රට වැසෙයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e17eb39.json))
+* **6** lankadeepa-lk ([දෙමටගොඩ වාහන තදබදයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7503a4bb.json))
 
 * **5** news-first-lk ([25 people arrested for illegal migration attempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94851b5d.json))
-
-* **5** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **4** ada-lk ([පීඩාවට පත් පවුල්වලට මාසිකව රු 7500ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/335353f9.json))
 
@@ -44,11 +40,11 @@
 
 * **1** daily-mirror-lk ([Low-lying area residents of Gin Ganga warned of possible floods](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6f38f4c.json))
 
-## Last 24 Hours (135 Articles)
+## Last 24 Hours (138 Articles)
 
-* **36** virakesari-lk ([அவுஸ்திரேலியாவிற்கு படகுகள் மூலம் மக்கள் செல்வதை தடுப்பதற்கான நடவடிக்கைள் எடுக்கப்பட்டுள்ளபோதிலும் பலர் ஆபத்தான படகு பயணங்களை மேற்கொள்ள முயல்கின்றனர்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e35bbc5.json))
+* **38** virakesari-lk ([அவுஸ்திரேலியாவிற்கு படகுகள் மூலம் மக்கள் செல்வதை தடுப்பதற்கான நடவடிக்கைள் எடுக்கப்பட்டுள்ளபோதிலும் பலர் ஆபத்தான படகு பயணங்களை மேற்கொள்ள முயல்கின்றனர்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e35bbc5.json))
 
-* **21** lankadeepa-lk ([ඉන්ධන නෞකා තුනක් එන ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae69ebeb.json))
+* **22** lankadeepa-lk ([ඉන්ධන නෞකා තුනක් එන ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae69ebeb.json))
 
 * **19** tamil-mirror-lk ([எரிவாயு தொடர்பில்  லிட்ரோவின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e6cd36.json))
 
@@ -62,13 +58,13 @@
 
 * **4** economy-next-com ([Sri Lanka’s 22nd constitutional amendment bill is not a restoration of 19A’s essence: experts](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec79fdb.json))
 
-## Last Week (1,757 Articles)
+## Last Week (1,759 Articles)
 
-* **343** virakesari-lk ([மனைவியை கோடரியால் தாக்கிக் கொன்ற கணவன் - நுவரெலியாவில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/186767a5.json))
+* **345** virakesari-lk ([மனைவியை கோடரியால் தாக்கிக் கொன்ற கணவன் - நுவரெலியாவில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/186767a5.json))
 
-* **258** lankadeepa-lk ([පුත්තලම කළු කඩේ තෙල් ලීටරයක් 1000යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba9dab4e.json))
+* **259** lankadeepa-lk ([පුත්තලම කළු කඩේ තෙල් ලීටරයක් 1000යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba9dab4e.json))
 
-* **200** ada-lk ([කොළඹ - නානුඔය දුම්රිය ධාවනයෙන් ඉවත් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9754a591.json))
+* **199** ada-lk ([අධිවේගයේ ආදායමත් අධිවේගයෙන් පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c01b5736.json))
 
 * **191** tamil-mirror-lk ([யாரும் பாடசாலைக்குச் செல்ல மாட்டார்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32ffbf9.json))
 
@@ -90,11 +86,11 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,552 Articles)
+## All Time (2,555 Articles)
 
-* **444** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **446** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **407** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **408** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **315** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
