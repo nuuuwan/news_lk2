@@ -1,16 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 19:37:01 (LK time)*
+*As of 2022-07-03 19:48:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **1** ada-derana-lk ([Met. Dept. issues ‘Red’ alert for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa07507.json))
-
-* **1** lankadeepa-lk ([දෙපා අහිමි මවට බෙහෙත් ගන්න යන්න හිටපු රණවිරුවාට තෙල් දී  නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4ba8f0bb.json))
-
-* **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
 
 ## Last Hour (3 Articles)
 
@@ -20,9 +12,9 @@
 
 * **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (22 Articles)
 
-* **5** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
+* **4** tamil-mirror-lk ([ஜூலை 4, 5 க்கான மின் வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fe6cab5.json))
 
 * **4** news-first-lk ([System needed to maintain essential services: SLAS](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc4fcdb.json))
 
@@ -38,35 +30,35 @@
 
 * **1** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
 
-## Last 24 Hours (183 Articles)
+## Last 24 Hours (180 Articles)
 
 * **42** virakesari-lk ([நாட்டில் ஸ்திரத்தன்மையை நிலைநாட்ட கொள்கைச்சீராக்கங்களை ஆராயத் தயார் - இலங்கை வர்த்தகப்பேரவையின் தலைவர் விஷ் கோவிந்தசாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4fd6a78.json))
 
-* **39** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
-
-* **20** tamil-mirror-lk ([வானிலை குறித்து சிவப்பு அறிவித்தல் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c0fb7f7.json))
-
-* **20** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
+* **38** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
 
 * **20** ada-lk ([ජැක්සන් ඇන්තනි කොළඹ ජාතික රෝහලට ඇතුළත් කරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b58ddb0.json))
 
 * **19** ada-derana-lk ([Galle Road obstructed between Ambalangoda and Hikkaduwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07af4165.json))
 
+* **19** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
+
+* **19** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
+
 * **14** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
 * **9** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,734 Articles)
+## Last Week (1,732 Articles)
 
 * **338** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
 
-* **258** lankadeepa-lk ([පානදුර  සිව්මහල් ගොඩනැගිල්ලක ගින්නක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13df5e6d.json))
+* **257** lankadeepa-lk ([සියඹලාණ්ඩුව රෝහලත් වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82ee35b2.json))
 
 * **195** ada-lk ([කොළඹ පාසල් හා අනෙකුත් නගරබද පාසල්වලට නිවාඩු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f5a04a4.json))
 
 * **190** daily-mirror-lk ([Kangaroo Vs Lions ; 140-Yr Sticks & Stones Rivalry Reconciled  with All-Yellow Bat & Ball Game](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b44721b8.json))
 
-* **177** tamil-mirror-lk ([அடுத்த வாரத்துக்கான மின்வெட்டு விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec3c2946.json))
+* **176** tamil-mirror-lk ([சிகிச்சை வழங்குவதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d7f5f2d.json))
 
 * **159** ada-derana-lk ([Petrol stored in container caused Kahatuduwa house fire?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b089687f.json))
 
