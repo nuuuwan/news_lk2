@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 03:01:06 (LK time)*
+*As of 2022-07-04 03:11:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **3** daily-ft-lk ([Sri Lanka seeks greater cooperation in food processing and dairy sectors with India](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f95f0a0.json))
 
 ## Last 3 Hours (10 Articles)
 
@@ -32,7 +28,7 @@
 
 * **11** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,727 Articles)
+## Last Week (1,726 Articles)
 
 * **347** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -42,7 +38,7 @@
 
 * **189** daily-mirror-lk ([China offers SL to establish sales galleries to showcase export products](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49be03b9.json))
 
-* **169** tamil-mirror-lk ([’எந்த நாடும் தப்ப முடியாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8013c3d4.json))
+* **168** tamil-mirror-lk ([பஸ் கட்டணம் குறித்து முடிவெடுக்க நாளை பேச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbf9ac4b.json))
 
 * **161** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
