@@ -656,6 +656,14 @@
     "file_name": "/tmp/news_lk2/articles/2d/2d52a4fc.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130617",
+    "time_ut": 1656744749,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0bb0\u0bc1\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bcb \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bcb \u0bb5\u0bb0 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0ba3",
+    "file_name": "/tmp/news_lk2/articles/18/1885853e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/three-shipments-of-fuel-to-arrive-in-sri-lanka-by-mid-end-july-august-lanka-ioc-96783/",
     "time_ut": 1656744600,
@@ -1342,6 +1350,22 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/46/4613499c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78318",
+    "time_ut": 1656702360,
+    "original_lang": "en",
+    "original_title": "IMF team in Colombo  Recommends  Taxes on  those earning  above Rs. 40,000 per month  but Prime Minister  Wickremesinghe immediately expressed concern saying it could not be done as it would further increase the socio-economic crisis faced by the people",
+    "file_name": "/tmp/news_lk2/articles/46/462b1ccf.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78316",
+    "time_ut": 1656701820,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa Initiates Moves to Seek Procure Fuel and Fertilizer at Cheap Rates from Russia Despite Misgivings by Prime Minister Wickremesinghe that Moving Towards Russia Could Impact the Negotiations with IMF",
+    "file_name": "/tmp/news_lk2/articles/96/96a1f273.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
