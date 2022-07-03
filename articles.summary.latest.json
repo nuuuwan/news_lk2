@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspect-arrested-for-illegal-possession-of-fuel-including-6-400-litres-of-diesel-in-Kilinochchi/108-240244",
+    "time_ut": 1656850210,
+    "original_lang": "en",
+    "original_title": "Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi",
+    "file_name": "/tmp/news_lk2/articles/3c/3c94f8a9.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc2\u0bb2\u0bc8-4-5-\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0bae\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8/175-299641",
     "time_ut": 1656849517,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0bc2\u0bb2\u0bc8 4, 5 \u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/0f/0fe6cab5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/system-needed-to-maintain-essential-services-slas/",
+    "time_ut": 1656849060,
+    "original_lang": "en",
+    "original_title": "System needed to maintain essential services: SLAS",
+    "file_name": "/tmp/news_lk2/articles/8c/8cc4fcdb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe",
     "file_name": "/tmp/news_lk2/articles/c8/c89f1d1a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0db1-\u0dba\u0dcf\u0db8\u0da7-\u0dad\u0dd0\u0dad\u0dca-\u0d9a\u0dc5-500\u0d9a\u0dca-\u0d9c\u0dad\u0dc0\u0dd6-\u0db8\u0dcf\u0dc3-06-\u0dad\u0dd4\u0dbd-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-394946",
-    "time_ut": 1656485881,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db1 \u0dba\u0dcf\u0db8\u0da7 \u0dad\u0dd0\u0dad\u0dca \u0d9a\u0dc5 500\u0d9a\u0dca \u0d9c\u0dad\u0dc0\u0dd6 \u0db8\u0dcf\u0dc3 06 \u0dad\u0dd4\u0dbd \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/31/31265e90.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tense-situ-at-Kandakadu-Rehab-Centre-One-inmate-killed/108-240029",
-    "time_ut": 1656485808,
-    "original_lang": "en",
-    "original_title": "Tense situ at Kandakadu Rehab Centre: One inmate killed",
-    "file_name": "/tmp/news_lk2/articles/39/393bcde6.json"
   }
 ]
