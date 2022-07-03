@@ -1,28 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 00:47:39 (LK time)*
+*As of 2022-07-04 01:01:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **1** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
+* **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
-## Last 3 Hours (13 Articles)
+## Last Hour (3 Articles)
+
+* **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
+
+## Last 3 Hours (14 Articles)
+
+* **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
 * **4** economy-next-com ([Sri Lanka’s Tea exports to Ukraine drops 55-pct from Jan-May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e1cb38a.json))
 
 * **3** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
 
-* **3** virakesari-lk ([பொதியை தொலைத்தவர்களுக்கு எதிராக யாழ்ப்பாண பொலிஸில் முறைப்பாடு!](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ef733ab.json))
-
-* **1** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **2** virakesari-lk ([யாழில் டீசலை பதுக்கி வைத்து அதிக விலைக்கு விற்பனை செய்த ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f2d62f.json))
 
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
-* **1** ada-lk ([යුපුන් තත්ත්පර 10 බාධකය බිඳියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ede7e46f.json))
-
-## Last 24 Hours (194 Articles)
+## Last 24 Hours (197 Articles)
 
 * **44** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -40,9 +42,9 @@
 
 * **16** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-* **1** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,733 Articles)
+## Last Week (1,734 Articles)
 
 * **345** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -60,17 +62,17 @@
 
 * **104** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **67** daily-ft-lk ([Child’s guide to debt restructuring: Not a cakewalk but a task entailing hard work](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60352613.json))
+* **69** daily-ft-lk ([Sri Lanka struggles sans immediate solutions to dollar crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde5c64.json))
 
 * **42** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
-* **25** d-b-s-jeyaraj-com ([The main opposition, SJB pends its energy on media conferences and press releases to chide the govt. Sajith Premadasa excels at eloquent speeches but shows little interest in assuming responsibility.](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b8081a1.json))
+* **24** d-b-s-jeyaraj-com ([Tamil residents of Thennamaravaadi Village in Trincomalee District   Allege that Over 200 Acres of their Lands have been taken over by Sinhalese outsiders and that Govt officials are not taking action to  help them get back the lands](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1b3fcd6.json))
 
 * **10** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,696 Articles)
+## All Time (2,699 Articles)
 
 * **483** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -88,7 +90,7 @@
 
 * **136** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **126** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **129** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **97** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
