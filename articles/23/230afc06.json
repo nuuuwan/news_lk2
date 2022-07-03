@@ -1,0 +1,120 @@
+{
+  "newspaper_id": "ada-derana-lk",
+  "url": "http://www.adaderana.lk/news/83396/navy-nabs-51-people-attempting-to-illegally-migrate-from-island",
+  "time_ut": 1656829740,
+  "original_lang": "en",
+  "original_title": "Navy nabs 51 people attempting to illegally migrate from island",
+  "text_idx": {
+    "en": {
+      "title": "Navy nabs 51 people attempting to illegally migrate from island",
+      "author": "unknown",
+      "body_lines": [
+        "A search operation in the eastern seas this morning (July 03) led to the seizure of a local multiday fishing trawler carrying 51 persons, who are suspected to be on an illegal migration attempt to a foreign country via sea, Sri Lanka Navy says."
+      ],
+      "title_ents": [
+        {
+          "text": "Navy",
+          "label": "ORG"
+        },
+        {
+          "text": "51",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "this morning",
+            "label": "TIME"
+          },
+          {
+            "text": "July 03",
+            "label": "DATE"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sri Lanka Navy",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0dbd\u0dd9\u0dc3 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dc5 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca 51 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db7\u0dcf\u0dbb\u0dba\u0da7",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0daf (\u0da2\u0dd6\u0dbd\u0dd2 03) \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0dc3\u0ddd\u0daf\u0dd2\u0dc3\u0dd2 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0daf\u0dd3 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca 51 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db6\u0dc4\u0dd4\u0daf\u0dd2\u0db1 \u0db0\u0dd3\u0dc0\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db7\u0dcf\u0dbb\u0dba\u0da7 \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbb\u0da7\u0d9a\u0da7 \u0db1\u0dd3\u0dad\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0dbd\u0dd9\u0dc3 \u0dc3\u0d82\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dc5 \u0db6\u0dc0\u0da7 \u0dc3\u0dd0\u0d9a \u0d9a\u0dd9\u0dbb\u0dd9\u0db1 \u0db6\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+          "label": "ORG"
+        },
+        {
+          "text": "51",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 03",
+            "label": "DATE"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 51 \u0baa\u0bc7\u0bb0\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (\u0b9c\u0bc2\u0bb2\u0bc8 03) \u0b95\u0bbe\u0bb2\u0bc8 \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc7\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0b9f\u0bb2\u0bcd \u0bb5\u0bb4\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd 51 \u0baa\u0bc7\u0bb0\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0baa\u0bb2 \u0ba8\u0bbe\u0bb3\u0bcd \u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf \u0b87\u0bb4\u0bc1\u0bb5\u0bc8 \u0baa\u0b9f\u0b95\u0bc1 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+          "label": "ORG"
+        },
+        {
+          "text": "51",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 03",
+            "label": "DATE"
+          },
+          {
+            "text": "51",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
