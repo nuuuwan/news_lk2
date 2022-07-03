@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 02:38:51 (LK time)*
+*As of 2022-07-04 02:52:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
-* **7** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
+* **6** daily-ft-lk ([Almas Group appoints two new directors](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b95b00.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
-* **11** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **10** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
 * **2** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
 
-## Last 24 Hours (206 Articles)
+## Last 24 Hours (207 Articles)
 
-* **45** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
+* **46** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **35** lankadeepa-lk ([සිපෙට්කෝ හල් වැඩි හරියක් වැහිලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/811ac392.json))
 
@@ -36,7 +36,7 @@
 
 ## Last Week (1,728 Articles)
 
-* **346** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
+* **347** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
 * **254** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -44,7 +44,7 @@
 
 * **189** daily-mirror-lk ([China offers SL to establish sales galleries to showcase export products](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49be03b9.json))
 
-* **171** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களில் 70% ஐ  மூட முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa9575c5.json))
+* **170** tamil-mirror-lk ([கறுப்புத் திங்களுக்கு ட்ரயல் அட் பார்: சபாநாயகர் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e396f97.json))
 
 * **161** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
@@ -62,9 +62,9 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,709 Articles)
+## All Time (2,710 Articles)
 
-* **484** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **485** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **430** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
