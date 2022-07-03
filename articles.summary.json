@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Parliament-sessions-limited-to-3-days-due-to-fuel-crisis/108-240237",
+    "time_ut": 1656834035,
+    "original_lang": "en",
+    "original_title": "Parliament sessions limited to 3-days due to fuel crisis",
+    "file_name": "/tmp/news_lk2/articles/69/69b2ef56.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/101-615776",
+    "time_ut": 1656833791,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c1/c1d01c05.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83397/sri-lanka-expecting-4-fuel-shipments-this-month-minister-kanchana",
+    "time_ut": 1656833340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expecting 4 fuel shipments this month - Minister Kanchana",
+    "file_name": "/tmp/news_lk2/articles/ff/ffd750bb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83397/sri-lanka-expecting-4-fuel-shipments-this-month-kanchana",
     "time_ut": 1656833340,
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dda\u0dc0\u0d9a-\u0dc3\u0dda\u0dc0\u0dd2\u0d9a\u0dcf\u0dc0\u0ddd-\u0d85\u0dc3\u0db1\u0dd3\u0db4-\u0dc0\u0dd9\u0dbd\u0dcf:-\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dbb\u0ddd\u0dc4\u0dbd-\u0dc4\u0ddc\u0db3\u0da7\u0db8-\u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dba\u0dd2/1-615775",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dda\u0dc0\u0d9a-\u0dc3\u0dda\u0dc0\u0dd2\u0d9a\u0dcf\u0dc0\u0ddd-\u0d85\u0dc3\u0db1\u0dd3\u0db4-\u0dc0\u0dd9\u0dbd\u0dcf:-\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dbb\u0ddd\u0dc4\u0dbd-\u0dc4\u0ddc\u0db3\u0da7\u0db8-\u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dba\u0dd2/101-615775",
     "time_ut": 1656832793,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dda\u0dc0\u0d9a \u0dc3\u0dda\u0dc0\u0dd2\u0d9a\u0dcf\u0dc0\u0ddd \u0d85\u0dc3\u0db1\u0dd3\u0db4 \u0dc0\u0dd9\u0dbd\u0dcf: \u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd \u0dc4\u0ddc\u0db3\u0da7\u0db8 \u0dbd\u0dd9\u0da9\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2c/2cb9aa1d.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d60ffc89.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -57,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0db8\u0dcf\u0dc0\u0dad\u0dda-\u0dc3\u0dd4\u0db1\u0dca\u0db6\u0dd4\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-615773",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0db8\u0dcf\u0dc0\u0dad\u0dda-\u0dc3\u0dd4\u0db1\u0dca\u0db6\u0dd4\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-615773",
     "time_ut": 1656831191,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0db8\u0dcf\u0dc0\u0dad\u0dda \u0dc3\u0dd4\u0db1\u0dca\u0db6\u0dd4\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5c/5caaadeb.json"
+    "file_name": "/tmp/news_lk2/articles/65/6512a6d8.json"
   },
   {
     "newspaper_id": "virakesari-lk",
