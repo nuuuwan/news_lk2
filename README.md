@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 21:23:44 (LK time)*
+*As of 2022-07-03 21:32:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** virakesari-lk ([எரிபொருள் கையிருப்பு தீர்ந்துபோவதால்  இலங்கை நகரமுடியாமல் முடங்குகின்றது –ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c154dc.json))
 
 ## Last Hour (4 Articles)
 
@@ -14,29 +10,29 @@
 
 * **2** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (15 Articles)
 
-* **6** virakesari-lk ([நாட்டை தற்காலிகமாக முடக்குவது குறித்து ஆராய்கின்றது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7360c91c.json))
+* **5** virakesari-lk ([எரிபொருள் கையிருப்பு குறித்து எரிசக்தி அமைச்சர் காஞ்சன வெளியிட்டுள்ள தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f50b1d21.json))
 
 * **3** daily-mirror-lk ([Yupun first Sri Lankan to run 100m under 10 seconds](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cc6bca.json))
 
-* **3** news-first-lk ([Suspect nabbed with 6,400l Diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08bdf9c6.json))
-
 * **2** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
 
-* **2** lankadeepa-lk ([ඉන්ධන ගන්න ‘ටෝකන්’ ක්‍රමය ඉවරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2de6a1a.json))
+* **2** news-first-lk ([Voice Teens Grand Finale tonight (3)](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3dc83af.json))
 
 * **1** ada-derana-lk ([Met. Dept. issues ‘Red’ alert for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa07507.json))
 
+* **1** lankadeepa-lk ([දෙපා අහිමි මවට බෙහෙත් ගන්න යන්න හිටපු රණවිරුවාට තෙල් දී  නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4ba8f0bb.json))
+
 * **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
 
-## Last 24 Hours (182 Articles)
+## Last 24 Hours (179 Articles)
 
-* **40** virakesari-lk ([அமெரிக்க இராஜாங்க செயலர் இலங்கை வருகிறார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f9a31d3.json))
+* **38** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **36** lankadeepa-lk ([රංගන ශිල්පී ජැක්සන්ගේ මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e5bf422.json))
 
-* **21** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
+* **20** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
 
 * **20** ada-lk ([ජැක්සන් ඇන්තනි කොළඹ ජාතික රෝහලට ඇතුළත් කරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b58ddb0.json))
 
@@ -48,7 +44,7 @@
 
 * **11** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,731 Articles)
+## Last Week (1,728 Articles)
 
 * **341** virakesari-lk ([கப்பல் வரும் தினத்தைக் கூற முடியாது : வரிசைகளில் காத்திருக்க வேண்டாம் : அமைச்சர் காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd56ae23.json))
 
@@ -56,13 +52,13 @@
 
 * **195** ada-lk ([කොළඹ පාසල් හා අනෙකුත් නගරබද පාසල්වලට නිවාඩු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f5a04a4.json))
 
-* **191** daily-mirror-lk ([A just tax system](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2e759ee.json))
+* **189** daily-mirror-lk ([Man killed, two year old child and woman injured in shooting in Peliyagoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51dbac62.json))
 
 * **173** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
 * **161** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
-* **158** ada-derana-lk ([One dead, one injured in shooting at Kelaniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8af3f080.json))
+* **157** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
 * **99** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
