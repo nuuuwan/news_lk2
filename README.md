@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 22:51:23 (LK time)*
+*As of 2022-07-03 23:03:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,29 +8,27 @@
 
 * **1** ada-derana-lk ([Australia lifts COVID-19 border restrictions, scraps vaccine requirement](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b78937c.json))
 
-## Last Hour (7 Articles)
+## Last Hour (5 Articles)
 
 * **3** economy-next-com ([Sri Lanka’s Tea exports to Ukraine drops 55-pct from Jan-May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e1cb38a.json))
 
-* **2** virakesari-lk ([பொதியை தொலைத்தவர்களுக்கு எதிராக யாழ்ப்பாண பொலிஸில் முறைப்பாடு!](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ef733ab.json))
-
 * **1** ada-derana-lk ([Australia lifts COVID-19 border restrictions, scraps vaccine requirement](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b78937c.json))
 
-* **1** ada-lk ([යුපුන් තත්ත්පර 10 බාධකය බිඳියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ede7e46f.json))
+* **1** virakesari-lk ([யாழில் டீசலை பதுக்கி வைத்து அதிக விலைக்கு விற்பனை செய்த ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f2d62f.json))
 
-## Last 3 Hours (18 Articles)
-
-* **7** virakesari-lk ([அறிவிக்கப்படாத  முடக்கத்தில்  இலங்கை…!](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d237b16.json))
+## Last 3 Hours (15 Articles)
 
 * **6** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
 
-* **2** daily-mirror-lk ([Vidyartha shock fancied St. Peter’s 11-07](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c84f0a61.json))
+* **5** virakesari-lk ([குறைவடையும் திருமணங்கள் - பதிவுகள் 85 சதவீதத்தால் வீழ்ச்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/741ab915.json))
 
 * **1** ada-derana-lk ([Australia lifts COVID-19 border restrictions, scraps vaccine requirement](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b78937c.json))
 
 * **1** ada-lk ([යුපුන් තත්ත්පර 10 බාධකය බිඳියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ede7e46f.json))
 
 * **1** lankadeepa-lk ([මාගම්මන ගින්නේ සහ හැවිරිදි දියණියත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f252dbb6.json))
+
+* **1** daily-mirror-lk ([Yupun Abeykoon sets South Asian record to win men’s 100m in 9.96sec](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28670c9b.json))
 
 ## Last 24 Hours (187 Articles)
 
@@ -50,7 +48,7 @@
 
 * **15** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,732 Articles)
+## Last Week (1,731 Articles)
 
 * **343** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -58,7 +56,7 @@
 
 * **195** ada-lk ([පෙබරවාරියෙන් පසු පූටින් යළිත් විදෙස් සංචාර අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/314c9102.json))
 
-* **188** daily-mirror-lk ([Revised notice on conducting schools from June 27 to July 1 issued](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc28963c.json))
+* **187** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
 
 * **173** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
