@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130707",
+    "time_ut": 1656852655,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/9b/9bc75064.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-allows-companies-to-pay-in-dollar-to-obtain-weekly-fuel-supply-96807/",
+    "time_ut": 1656852180,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka allows companies to pay in dollar to obtain weekly fuel supply",
+    "file_name": "/tmp/news_lk2/articles/e0/e0a5d7b2.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-worst-crisis-could-be-biggest-blessing-96812/",
+    "time_ut": 1656852060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka worst crisis could be biggest blessing",
+    "file_name": "/tmp/news_lk2/articles/76/76f2ff5e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bae\u0bb2\u0bbf\u0ba9\u0bcd-\u0baf\u0bcb\u0b9a\u0ba9\u0bc8\u0baf\u0bc8-\u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4-\u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd/175-299643",
+    "time_ut": 1656851943,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bae\u0bb2\u0bbf\u0ba9\u0bcd \u0baf\u0bcb\u0b9a\u0ba9\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/98/9880f1d7.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd-\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf/\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/94-299642",
+    "time_ut": 1656851092,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e9/e96d5f96.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83403/companies-to-get-weekly-guaranteed-fuel-quota-if-paying-in-usd",
     "time_ut": 1656851040,
@@ -30,6 +70,22 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0bc2\u0bb2\u0bc8 4, 5 \u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/0f/0fe6cab5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/fuel-crisis-will-trains-operate-next-week/",
+    "time_ut": 1656849420,
+    "original_lang": "en",
+    "original_title": "Fuel Crisis: Will Trains Operate next week?",
+    "file_name": "/tmp/news_lk2/articles/0c/0c254356.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/donation-program-at-dehiwala-zoo/",
+    "time_ut": 1656849120,
+    "original_lang": "en",
+    "original_title": "Donation program at Dehiwala Zoo",
+    "file_name": "/tmp/news_lk2/articles/b5/b5850db4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1401,11 +1457,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dbb\u0dc5-\u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7-\u0d91\u0dba\u0dd2/10-395035",
+    "url": "https://www.ada.lk/uncategorized/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dbb\u0dc5-\u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7-\u0d91\u0dba\u0dd2/1-395035",
     "time_ut": 1656768073,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dbb\u0dc5 \u0d9c\u0ddc\u0da9\u0db6\u0dd2\u0db8\u0da7 \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5e/5e728f42.json"
+    "file_name": "/tmp/news_lk2/articles/04/041f6230.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Waiting for trains...",
     "file_name": "/tmp/news_lk2/articles/8f/8f1fbc66.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/29/private-sector-to-import-jet-fuel/",
-    "time_ut": 1656486960,
-    "original_lang": "en",
-    "original_title": "Private Sector to import Jet Fuel",
-    "file_name": "/tmp/news_lk2/articles/40/407d99a2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dbb\u0da2\u0dba-\u0dc0\u0dc4\u0dcf\u0db8-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/1-615594",
-    "time_ut": 1656486824,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dbb\u0da2\u0dba \u0dc0\u0dc4\u0dcf\u0db8 \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f0/f0667d65.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf-\u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299403",
-    "time_ut": 1656486521,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/84/844c8c1d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4-\u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dca/101-615592",
-    "time_ut": 1656486349,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4 \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/42/423d90e8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130381",
-    "time_ut": 1656486316,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u00a0 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bcd - \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f4/f4865829.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/One-Country-One-Law-report-handed-over-to-President/110-240030",
-    "time_ut": 1656486257,
-    "original_lang": "en",
-    "original_title": "One Country - One Law\u2019 report handed over to President",
-    "file_name": "/tmp/news_lk2/articles/b5/b56e5c2d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba-\u0d8b\u0daf\u0dd2\u0dad\u0dca-\u0d9a\u0dda-\u0da2\u0dba\u0dc3\u0dd2\u0d82\u0dc4-\u0dba\u0dc5\u0dd2-\u0dc0\u0dba\u0db9-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7/1-615591",
-    "time_ut": 1656486228,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0d8b\u0daf\u0dd2\u0dad\u0dca \u0d9a\u0dda.\u0da2\u0dba\u0dc3\u0dd2\u0d82\u0dc4 \u0dba\u0dc5\u0dd2 \u0dc0\u0dba\u0db9 \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/8d/8dde367e.json"
   }
 ]
