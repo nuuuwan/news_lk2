@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 16:33:18 (LK time)*
+*As of 2022-07-03 16:37:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,23 +10,21 @@
 
 * **1** economy-next-com ([Sri Lanka arrests four military personnel in connection with a rehab centre death](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34b58fe8.json))
 
-## Last Hour (20 Articles)
-
-* **8** virakesari-lk ([இராணுவமயமாக்கல் சவால்](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38046342.json))
+## Last Hour (17 Articles)
 
 * **7** lankadeepa-lk ([ඉන්ධන 10 වැනිදා සිට දෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5c936af.json))
 
-* **2** ada-derana-lk ([Irrigation Dept. issues minor flood warning for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86c69310.json))
+* **7** virakesari-lk ([மீள்திறப்பு சவால்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7c157d9.json))
+
+* **1** ada-derana-lk ([Bus falls into deep ravine in southwest Pakistan, killing 19](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f7a8181.json))
 
 * **1** economy-next-com ([Sri Lanka arrests four military personnel in connection with a rehab centre death](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34b58fe8.json))
 
 * **1** daily-mirror-lk ([Any company or industry can pay in US Dollars to obtain weekly guaranteed fuel quota](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/790674d5.json))
 
-* **1** news-first-lk ([Companies allowed to pay in USD to get weekly fuel quota](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66a3afa8.json))
+## Last 3 Hours (54 Articles)
 
-## Last 3 Hours (53 Articles)
-
-* **15** lankadeepa-lk ([රාජකාරියට යන්න බැරිව පොලිස් නිලධාරීහුත් අමාරුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e82bce0.json))
+* **16** lankadeepa-lk ([රාජකාරියට යන්න බැරිව පොලිස් නිලධාරීහුත් අමාරුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e82bce0.json))
 
 * **13** virakesari-lk ([கோதுமை மாவை ஏற்றிவந்த லொறி விபத்து](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a5582df.json))
 
@@ -42,11 +40,11 @@
 
 * **1** tamil-mirror-lk ([பாடசாலைகளுக்கு மீண்டும்  விடுமுறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cae41c9.json))
 
-## Last 24 Hours (174 Articles)
+## Last 24 Hours (175 Articles)
 
 * **42** virakesari-lk ([எரிபொருள் நிரப்பும் நிலையங்களிற்கு அருகில் குழப்பங்களை கட்டுப்படுத்த விசேட அதிரடிப்படையை பயன்படுத்த தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/debd8dc0.json))
 
-* **36** lankadeepa-lk ([ගාල්ල සමුද්‍ර මාවතට මුහුද ගොඩ ගලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c5a2784.json))
+* **37** lankadeepa-lk ([ගාල්ල සමුද්‍ර මාවතට මුහුද ගොඩ ගලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c5a2784.json))
 
 * **20** ada-derana-lk ([Naval and fishing communities advised not to venture into sea](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4613727a.json))
 
@@ -60,11 +58,11 @@
 
 * **5** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,767 Articles)
+## Last Week (1,764 Articles)
 
-* **360** virakesari-lk ([நாட்டிற்கு பயனற்று போயுள்ள தாமரை கோபுரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f6695d6.json))
+* **358** virakesari-lk ([கொலம்பிய தேர்தல் முடிவுகள் : நிஜமான மாற்றம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7c7132e.json))
 
-* **264** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/956e1712.json))
+* **265** lankadeepa-lk ([රටපුරා රෝහල් අත්‍යාවශ්‍ය සේවාවලට සීමා වේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/956e1712.json))
 
 * **193** ada-lk ([කොළඹ පාසල් හා අනෙකුත් නගරබද පාසල්වලට නිවාඩු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f5a04a4.json))
 
@@ -80,7 +78,7 @@
 
 * **67** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
-* **53** island-lk ([Apprenticeship programme in partnership with Hatch MakerStudio and Vocational Training Authority](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/473e1130.json))
+* **51** island-lk ([DIMO continues commitment to environmental sustainability and protecting marine life](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/624355db.json))
 
 * **30** d-b-s-jeyaraj-com ([Visiting US State Department Deputy Secretary of State for South and Central Asia Kelly Keiderling Assures  Prime Minister Ranil Wickremesinghe that the US supports the ongoing talks between the Govt of Sri Lanka and the International Monetary Fund(IMF); US agrees to provide technical assistance for fiscal management in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19bda6c.json))
 
@@ -88,11 +86,11 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,634 Articles)
+## All Time (2,635 Articles)
 
 * **468** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **425** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **426** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **327** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
