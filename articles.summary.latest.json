@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-recieve-9-fuel-ships-between-july-august-96808/",
+    "time_ut": 1656861360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to recieve 9 fuel ships between July-August",
+    "file_name": "/tmp/news_lk2/articles/9d/9d3d09ea.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/two-cruise-ships-laid-up-in-sri-lankas-china-backed-hambantota-port-96822/",
+    "time_ut": 1656861360,
+    "original_lang": "en",
+    "original_title": "Two cruise ships laid up in Sri Lanka\u2019s China-backed Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/5b/5b3281b9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Yupun-Abeykoon-sets-South-Asian-record-to-win-mens-100m-in-9-96sec/108-240256",
     "time_ut": 1656859773,
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/ab/abe3f44c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd0\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7-\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dc5-\u0d85\u0d9a\u0dca\u0d9a\u0dbb-35-\u0dad\u0db1\u0dd2-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dba\u0d9a\u0dd4\u0da7-\u0daf\u0dd2\u0dbd\u0dcf/101-615600",
-    "time_ut": 1656492143,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd0\u0db8\u0dd2\u0dba\u0db1\u0dca\u0da7 \u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0d85\u0d9a\u0dca\u0d9a\u0dbb 35 \u0dad\u0db1\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dba\u0d9a\u0dd4\u0da7 \u0daf\u0dd2\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/97/97b2fee5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83318/flower-road-chatham-street-closed-for-traffic",
-    "time_ut": 1656491520,
-    "original_lang": "en",
-    "original_title": "Flower Road, Chatham Street closed for traffic",
-    "file_name": "/tmp/news_lk2/articles/0e/0ee647aa.json"
   }
 ]
