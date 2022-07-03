@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130683",
+    "time_ut": 1656838050,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/22/22dbe223.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/3-hours-power-cuts-for-next-two-days/108-240240",
+    "time_ut": 1656837854,
+    "original_lang": "en",
+    "original_title": "3 hours power cuts for next two days",
+    "file_name": "/tmp/news_lk2/articles/1c/1c3f6bc4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0d9c\u0dd0\u0db1-\u0d85\u0dbd\u0dd4\u0dad\u0dca\u0db8-\u0d86\u0dbb\u0d82\u0da0\u0dd2\u0dba-\u0db8\u0dd9\u0db1\u0dca\u0db1/11-395050",
+    "time_ut": 1656837264,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d9c\u0dd0\u0db1 \u0d85\u0dbd\u0dd4\u0dad\u0dca\u0db8 \u0d86\u0dbb\u0d82\u0da0\u0dd2\u0dba \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/c8/c88e0985.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d9a\u0dbb\u0d9a\u0dbd\u0dca\u0db4\u0d9a\u0dca\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dbb\u0dba\u0dd2/3-395049",
     "time_ut": 1656837197,
@@ -24,6 +48,14 @@
     "file_name": "/tmp/news_lk2/articles/3d/3d75b033.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130682",
+    "time_ut": 1656837035,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/03/032843f2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83398/schools-to-remain-closed-this-week",
     "time_ut": 1656836880,
@@ -32,12 +64,20 @@
     "file_name": "/tmp/news_lk2/articles/3f/3ffd2ee7.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Deepening-fuel-crisis-No-schools-next-week-too/108-240239",
+    "time_ut": 1656836878,
+    "original_lang": "en",
+    "original_title": "Deepening fuel crisis; No schools next week too",
+    "file_name": "/tmp/news_lk2/articles/a9/a9e4c665.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dc0\u0dad\u0dca-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0ddd-6-\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615779",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dc0\u0dad\u0dca-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0ddd-6-\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-615779",
     "time_ut": 1656836833,
     "original_lang": "si",
     "original_title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0dad\u0dc0\u0dad\u0dca \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0ddd 6 \u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/a5/a5a78437.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d6275c76.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Tourism industry renews call for moratorium extension",
     "file_name": "/tmp/news_lk2/articles/ad/ad249a98.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130376",
-    "time_ut": 1656476929,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0baa\u0bb2 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/cf/cf8394bc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Economy-contracts-1-6-in-first-quarter/108-240022",
-    "time_ut": 1656476841,
-    "original_lang": "en",
-    "original_title": "Economy contracts 1.6% in first quarter",
-    "file_name": "/tmp/news_lk2/articles/22/225127a2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Lands-belonging-to-religious-establishments-to-be-utilised-to-cultivate-food-crops/273-240021",
-    "time_ut": 1656476770,
-    "original_lang": "en",
-    "original_title": "Lands belonging to religious establishments to be utilised to cultivate food crops",
-    "file_name": "/tmp/news_lk2/articles/0e/0ee55ea7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-299391",
-    "time_ut": 1656476727,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/43/434754dd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/29/gl-meets-commonwealth-foreign-ministers/",
-    "time_ut": 1656476640,
-    "original_lang": "en",
-    "original_title": "GL meets Commonwealth Foreign Ministers",
-    "file_name": "/tmp/news_lk2/articles/79/795edaab.json"
   }
 ]
