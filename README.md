@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 19:28:16 (LK time)*
+*As of 2022-07-03 19:37:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,15 +12,13 @@
 
 * **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **1** ada-derana-lk ([Met. Dept. issues ‘Red’ alert for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa07507.json))
 
 * **1** lankadeepa-lk ([දෙපා අහිමි මවට බෙහෙත් ගන්න යන්න හිටපු රණවිරුවාට තෙල් දී  නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4ba8f0bb.json))
 
 * **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
-
-* **1** virakesari-lk ([நாட்டை தற்காலிகமாக முடக்குவது குறித்து ஆராய்கின்றது அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7360c91c.json))
 
 ## Last 3 Hours (23 Articles)
 
@@ -40,13 +38,13 @@
 
 * **1** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
 
-## Last 24 Hours (184 Articles)
+## Last 24 Hours (183 Articles)
 
 * **42** virakesari-lk ([நாட்டில் ஸ்திரத்தன்மையை நிலைநாட்ட கொள்கைச்சீராக்கங்களை ஆராயத் தயார் - இலங்கை வர்த்தகப்பேரவையின் தலைவர் விஷ் கோவிந்தசாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4fd6a78.json))
 
 * **39** lankadeepa-lk ([ජපානයෙන් මෙරටට ඩොලර් මිලියන 3 මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb07195.json))
 
-* **21** tamil-mirror-lk ([ரூ.4.7 கோடி பெறுமதியான தங்கம் சிக்கியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/aba4bf53.json))
+* **20** tamil-mirror-lk ([வானிலை குறித்து சிவப்பு அறிவித்தல் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c0fb7f7.json))
 
 * **20** news-first-lk ([Lankan energy in hands of foreign countries is National security threat: MP Velukumar](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9acee648.json))
 
