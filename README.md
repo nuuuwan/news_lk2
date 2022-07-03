@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 00:38:23 (LK time)*
+*As of 2022-07-04 00:47:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
 
-* **1** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** economy-next-com ([Sri Lanka’s Tea exports to Ukraine drops 55-pct from Jan-May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e1cb38a.json))
 
@@ -23,8 +21,6 @@
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
 * **1** ada-lk ([යුපුන් තත්ත්පර 10 බාධකය බිඳියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ede7e46f.json))
-
-* **1** lankadeepa-lk ([මාගම්මන ගින්නේ සහ හැවිරිදි දියණියත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f252dbb6.json))
 
 ## Last 24 Hours (194 Articles)
 
@@ -46,7 +42,7 @@
 
 * **1** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,734 Articles)
+## Last Week (1,733 Articles)
 
 * **345** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -68,7 +64,7 @@
 
 * **42** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
-* **26** d-b-s-jeyaraj-com ([We have a crisis with regards to a serious lack of foreign exchange. We cannot enjoy the luxury of having petrol, diesel and domestic gas like we did because we cannot afford to pay for them.  This message has not been clearly communicated to the public.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc987fd.json))
+* **25** d-b-s-jeyaraj-com ([The main opposition, SJB pends its energy on media conferences and press releases to chide the govt. Sajith Premadasa excels at eloquent speeches but shows little interest in assuming responsibility.](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b8081a1.json))
 
 * **10** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
