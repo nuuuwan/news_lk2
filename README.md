@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 04:52:33 (LK time)*
+*As of 2022-07-04 05:04:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (1 Articles)
 
-* **6** daily-ft-lk ([Almas Group appoints two new directors](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b95b00.json))
+* **1** daily-ft-lk ([Sajith repeats call to President to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd68834d.json))
 
 ## Last 24 Hours (209 Articles)
 
