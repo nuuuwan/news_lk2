@@ -169,6 +169,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130699",
+    "time_ut": 1656861283,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7 \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u00a0\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u00a0\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/84/842a0bbf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130700",
     "time_ut": 1656861143,
     "original_lang": "ta",
@@ -233,11 +241,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Yupun-first-Sri-Lankan-to-run-100m-under-10-seconds/324-240251",
+    "url": "https://www.dailymirror.lk/breaking_news/Yupun-first-Sri-Lankan-to-run-100m-under-10-seconds/108-240251",
     "time_ut": 1656857777,
     "original_lang": "en",
     "original_title": "Yupun first Sri Lankan to run 100m under 10 seconds",
-    "file_name": "/tmp/news_lk2/articles/88/88cc6bca.json"
+    "file_name": "/tmp/news_lk2/articles/d0/d0111fab.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2  \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0d85\u0dc3\u0dc5\u0da7 \u0dba\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/23/235535be.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130402",
-    "time_ut": 1656497997,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd\u0baa\u0bc1\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u00a0- \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0ba9\u0bc1\u0bb7",
-    "file_name": "/tmp/news_lk2/articles/e3/e34cf566.json"
   }
 ]
