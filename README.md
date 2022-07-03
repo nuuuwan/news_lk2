@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 20:38:50 (LK time)*
+*As of 2022-07-03 20:50:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (4 Articles)
 
-* **1** daily-mirror-lk ([Yupun Abeykoon sets South Asian record to win men’s 100m in 9.96sec](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28670c9b.json))
+* **2** daily-mirror-lk ([Vidyartha shock fancied St. Peter’s 11-07](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c84f0a61.json))
 
-## Last Hour (6 Articles)
+* **2** virakesari-lk ([அறிவிக்கப்படாத  முடக்கத்தில்  இலங்கை…!](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d237b16.json))
+
+## Last 3 Hours (22 Articles)
+
+* **5** virakesari-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு சென்று டோக்கன்களை கேட்காதீர்கள் - அமைச்சர் காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bc75064.json))
 
 * **3** daily-mirror-lk ([Yupun first Sri Lankan to run 100m under 10 seconds](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cc6bca.json))
-
-* **3** virakesari-lk ([எரிபொருள் கையிருப்பு குறித்து எரிசக்தி அமைச்சர் காஞ்சன வெளியிட்டுள்ள தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f50b1d21.json))
-
-## Last 3 Hours (25 Articles)
-
-* **6** virakesari-lk ([பாதாள உலக குழுவினரால் அச்சுறுத்தல் - பொலிஸாருக்கு பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18e1404a.json))
-
-* **4** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
 
 * **3** news-first-lk ([Suspect nabbed with 6,400l Diesel](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08bdf9c6.json))
 
@@ -30,13 +26,11 @@
 
 * **2** ada-derana-lk ([Companies to get weekly guaranteed fuel quota if paying in USD](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e430022e.json))
 
-* **1** ada-lk ([කාලගුණයෙන් රතු නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d551fe.json))
-
-## Last 24 Hours (187 Articles)
+## Last 24 Hours (185 Articles)
 
 * **45** virakesari-lk ([நாட்டில் ஸ்திரத்தன்மையை நிலைநாட்ட கொள்கைச்சீராக்கங்களை ஆராயத் தயார் - இலங்கை வர்த்தகப்பேரவையின் தலைவர் விஷ் கோவிந்தசாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4fd6a78.json))
 
-* **38** lankadeepa-lk ([සුනාමි රැල්ලක් ගැන අනුර කුමාර කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0153a08.json))
+* **36** lankadeepa-lk ([රංගන ශිල්පී ජැක්සන්ගේ මෝටර් රථයට වල් අලියකු ගැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e5bf422.json))
 
 * **21** news-first-lk ([Waves wash up section of Galle Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8982da81.json))
 
@@ -50,17 +44,17 @@
 
 * **9** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,738 Articles)
+## Last Week (1,733 Articles)
 
-* **341** virakesari-lk ([கொட்டகலையில் பதுக்கி வைக்கப்பட்டதாகக் கூறப்படும் ஆயிரம் லீற்றர் டீசல் மீட்பு  - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03244b0f.json))
+* **340** virakesari-lk ([பேலியகொட பகுதியில் துப்பாக்கி சூடு : ஆணொருவர் பலி - பெண் ஒருவர் படுகாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6366ccc3.json))
 
-* **256** lankadeepa-lk ([හිටපු ඇමැතිගේ ඉන්ධන පිරවුම්හල මැර කල්ලියකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/800b9b99.json))
+* **254** lankadeepa-lk ([කැලණියේදී වෙඩි තැබීමක්:අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1311e3a1.json))
 
 * **195** ada-lk ([කොළඹ පාසල් හා අනෙකුත් නගරබද පාසල්වලට නිවාඩු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f5a04a4.json))
 
 * **193** daily-mirror-lk ([Kangaroo Vs Lions ; 140-Yr Sticks & Stones Rivalry Reconciled  with All-Yellow Bat & Ball Game](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b44721b8.json))
 
-* **175** tamil-mirror-lk ([சியம்பலாண்டுவ ஆதார வைத்தியசாலைக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bba74d3f.json))
+* **173** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
 * **161** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
