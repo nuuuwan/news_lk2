@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/e1/e1435cbb.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Making-the-22nd-Amendment-true-to-the-President-s-11-May-commitment/4-736979",
+    "time_ut": 1656872233,
+    "original_lang": "en",
+    "original_title": "Making the 22nd Amendment true to the President\u2019s  11 May commitment",
+    "file_name": "/tmp/news_lk2/articles/74/742cfc42.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Elephant-reportedly-not-seriously-injured-officials/108-240257",
     "time_ut": 1656871563,
@@ -216,12 +224,44 @@
     "file_name": "/tmp/news_lk2/articles/43/437994ec.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Japans-Altruism-Bombed-us-on-Easter-42-we-Recompensed-in-51/231-240248",
+    "time_ut": 1656856593,
+    "original_lang": "en",
+    "original_title": "Japan\u2019s Altruism: Bombed us on Easter \u201842; we \u2018Recompensed\u2019 in \u201851",
+    "file_name": "/tmp/news_lk2/articles/2b/2b60aa63.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Its-time-to-reconcile-energy-policy-with-long-term-generation-plan/231-240247",
+    "time_ut": 1656856358,
+    "original_lang": "en",
+    "original_title": "It\u2019s time to reconcile energy policy with long term generation plan",
+    "file_name": "/tmp/news_lk2/articles/e8/e89bee22.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Fuel-shortages-spiraling-costs-falling-wages-and-corruption-EDITORIAL/231-240246",
+    "time_ut": 1656855966,
+    "original_lang": "en",
+    "original_title": "Fuel shortages, spiraling costs, falling wages and corruption - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/c7/c7eaf601.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83404/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
     "time_ut": 1656855840,
     "original_lang": "en",
     "original_title": "Met. Dept. issues \u2018Red\u2019 alert for strong winds and rough seas",
     "file_name": "/tmp/news_lk2/articles/3f/3fa07507.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/When-they-cant-govern-they-must-Go-Home/231-240245",
+    "time_ut": 1656855821,
+    "original_lang": "en",
+    "original_title": "When they can\u2019t govern, they must Go Home",
+    "file_name": "/tmp/news_lk2/articles/23/231cc25d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Resolve burning issues...",
     "file_name": "/tmp/news_lk2/articles/d6/d6c9cdb9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd-\u0d91\u0dc5\u0dc0\u200d\u200d\u0dc5\u0dd4-\u0d9c\u0ddc\u0da9\u0d9c\u0dd0\u0dc3\u0dda/1-615605",
-    "time_ut": 1656497627,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd \u0d91\u0dc5\u0dc0\u200d\u200d\u0dc5\u0dd4 \u0d9c\u0ddc\u0da9\u0d9c\u0dd0\u0dc3\u0dda",
-    "file_name": "/tmp/news_lk2/articles/1d/1d88c893.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83322/impartial-probe-into-death-of-inmate-at-kandakadu-rehab-centre",
-    "time_ut": 1656497520,
-    "original_lang": "en",
-    "original_title": "Impartial probe into death of inmate at Kandakadu rehab centre",
-    "file_name": "/tmp/news_lk2/articles/88/88f38899.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83322/probe-launched-into-death-of-inmate-at-kandakadu-rehab-centre",
-    "time_ut": 1656497520,
-    "original_lang": "en",
-    "original_title": "Probe launched into death of inmate at Kandakadu rehab centre",
-    "file_name": "/tmp/news_lk2/articles/93/93f0ce98.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca-\u0dba\u0dc5\u0dd2-\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba/1-615604",
-    "time_ut": 1656497171,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0db1\u0dca\u0daf\u0dbd\u0dcf\u0dbd\u0dca \u0dba\u0dc5\u0dd2 \u0db4\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba",
-    "file_name": "/tmp/news_lk2/articles/b7/b727b1b8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83321/pm-recommends-extending-dr-nandalal-weerasinghes-term-as-cbsl-governor",
-    "time_ut": 1656496980,
-    "original_lang": "en",
-    "original_title": "PM recommends extending Dr. Nandalal Weerasinghe\u2019s term as CBSL Governor",
-    "file_name": "/tmp/news_lk2/articles/2d/2d304007.json"
   }
 ]
