@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/sri-lanka-update-on-fuel-shipments/",
+    "time_ut": 1656841080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka : Update on Fuel Shipments",
+    "file_name": "/tmp/news_lk2/articles/df/df713577.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130690",
+    "time_ut": 1656840917,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 31 \u0baa\u0bb0\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1 - \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ee/ee738332.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db8-\u0db4\u0dcf\u0dc3\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4/11-395055",
     "time_ut": 1656839741,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Govt. designates media non-essential: Ananda Palitha",
     "file_name": "/tmp/news_lk2/articles/6a/6a7b4c2c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/2022-\u0db4\u0dc5\u0db8\u0dd4-\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0dc3\u0dd8\u0dab-\u0dc0\u0dd9\u0dba\u0dd2/11-394935",
-    "time_ut": 1656478657,
-    "original_lang": "si",
-    "original_title": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0dc3\u0dd8\u0dab \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e1/e1558b05.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0da7\u0dd2\u0db4\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a-\u0d9c\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/11-394934",
-    "time_ut": 1656478645,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0da7\u0dd2\u0db4\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a \u0d9c\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f4/f4ea9ffb.json"
   }
 ]
