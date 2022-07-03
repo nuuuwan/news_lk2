@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/48/48a84ded.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/suspect-nabbed-with-6400l-diesel/",
+    "time_ut": 1656852900,
+    "original_lang": "en",
+    "original_title": "Suspect nabbed with 6,400l Diesel",
+    "file_name": "/tmp/news_lk2/articles/08/08bdf9c6.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db8\u0dda-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0-\u0db4\u0db1\u0dca\u0db1\u0db1\u0dc0\u0dcf-\u0dc4\u0dd0\u0dbb-\u0dc0\u0dd9\u0db1-\u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca-\u0db1\u0dd1\u2018\u2018/1-615795",
     "time_ut": 1656852781,
@@ -30,6 +38,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
     "file_name": "/tmp/news_lk2/articles/9b/9bc75064.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-allows-companies-to-pay-in-dollars-to-obtain-weekly-fuel-supply-96807/",
+    "time_ut": 1656852180,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka allows companies to pay in dollars to obtain weekly fuel supply",
+    "file_name": "/tmp/news_lk2/articles/d0/d07a1525.json"
   },
   {
     "newspaper_id": "economy-next-com",
