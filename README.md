@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 15:04:56 (LK time)*
+*As of 2022-07-03 15:12:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **2** lankadeepa-lk ([සාමාන්‍ය පෙළ පිළිතුරු පත්‍ර පරීක්‍ෂාව අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e2e58bd.json))
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-lk ([ලබන සතියේ සියලු ම පාසල්වලට නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347a5488.json))
 
@@ -56,15 +54,15 @@
 
 * **4** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,762 Articles)
+## Last Week (1,760 Articles)
 
 * **352** virakesari-lk ([புதிய அரசியல் கூட்டணியை உருவாக்கவுள்ள 11 சுயாதீனமாக கட்சிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eae74a7.json))
 
 * **257** lankadeepa-lk ([විදුලි කප්පාදුව තවත් පැය භාගයකින් වැඩි වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/122bd707.json))
 
-* **195** ada-lk ([බස් ගැමුණු හෙට වෙනකම් කල් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/9887e48e.json))
+* **194** ada-lk ([පෙට්‍රල් හා සුපිරි ඩීසල්වලින් ලාභ ලබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f4f9c7a.json))
 
-* **190** tamil-mirror-lk ([இந்தியாவில் இருந்து வருகின்றது மண்ணெண்ணெய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337a862f.json))
+* **189** tamil-mirror-lk ([அவசர சுற்றறிகை வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9afb82d.json))
 
 * **187** daily-mirror-lk ([Kangaroo Vs Lions ; 140-Yr Sticks & Stones Rivalry Reconciled  with All-Yellow Bat & Ball Game](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b44721b8.json))
 
