@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-seeks-greater-cooperation-in-food-processing-and-dairy-sectors-with-India/56-737014",
+    "time_ut": 1656880372,
+    "original_lang": "en",
+    "original_title": "Sri Lanka seeks greater cooperation in food processing and dairy sectors with India",
+    "file_name": "/tmp/news_lk2/articles/1f/1f95f0a0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/One-day-passport-issuance-service-starts-in-3-regional-offices-today/56-737013",
+    "time_ut": 1656880234,
+    "original_lang": "en",
+    "original_title": "One-day passport issuance service starts in 3 regional offices today",
+    "file_name": "/tmp/news_lk2/articles/62/62e80d52.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CMG-future-focused-to-get-leadership-closer-to-the-ground/34-737012",
+    "time_ut": 1656880128,
+    "original_lang": "en",
+    "original_title": "CMG future-focused to get leadership closer to the ground",
+    "file_name": "/tmp/news_lk2/articles/6f/6f2512dc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Almas-Group-appoints-two-new-directors/34-737011",
+    "time_ut": 1656880020,
+    "original_lang": "en",
+    "original_title": "Almas Group appoints two new directors",
+    "file_name": "/tmp/news_lk2/articles/41/41b95b00.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Timothy-Speldewinde-appointed-to-The-Kingsbury-Board/34-737010",
     "time_ut": 1656879702,
     "original_lang": "en",
@@ -1070,6 +1102,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka expecting 4 fuel shipments this month - Kanchana",
     "file_name": "/tmp/news_lk2/articles/d9/d9697403.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83397/sri-lanka-expecting-ten-fuel-shipments-minister-kanchana",
+    "time_ut": 1656833340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expecting ten fuel shipments - Minister Kanchana",
+    "file_name": "/tmp/news_lk2/articles/fb/fb6ecf1e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

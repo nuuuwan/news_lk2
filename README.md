@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 02:00:35 (LK time)*
+*As of 2022-07-04 02:13:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **1** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
+* **5** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
 
-## Last Hour (1 Articles)
+## Last Hour (5 Articles)
 
-* **1** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
+* **5** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (12 Articles)
 
-* **5** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **9** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
 * **2** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
 
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
-## Last 24 Hours (199 Articles)
+## Last 24 Hours (204 Articles)
 
 * **45** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -28,9 +28,9 @@
 
 * **22** ada-lk ([ජැක්සන් ඇන්තනි කොළඹ ජාතික රෝහලට ඇතුළත් කරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b58ddb0.json))
 
-* **20** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
+* **20** ada-derana-lk ([Some areas to be hit by downpours above 100mm and gusty winds](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/595cf9ec.json))
 
-* **19** ada-derana-lk ([Some areas to be hit by downpours above 100mm and gusty winds](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/595cf9ec.json))
+* **20** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
 
 * **19** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
 
@@ -38,9 +38,9 @@
 
 * **16** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-* **5** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **9** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,732 Articles)
+## Last Week (1,730 Articles)
 
 * **346** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -48,17 +48,17 @@
 
 * **195** ada-lk ([පෙබරවාරියෙන් පසු පූටින් යළිත් විදෙස් සංචාර අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/314c9102.json))
 
-* **192** daily-mirror-lk ([Credit card spend weakens further in May as rates go into restrictive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2f0492.json))
+* **191** daily-mirror-lk ([Banking body urges decisive wave of global rate hikes to stem inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cfb5a29.json))
 
 * **173** tamil-mirror-lk ([வெளிநாட்டு நாணயங்கள் உங்களிடம் இருக்கின்றதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48707767.json))
 
-* **161** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
+* **161** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
 
-* **160** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3294c236.json))
+* **161** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
 * **104** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **66** daily-ft-lk ([Dr. Sanjiva Weerawarana receives 2022 IEEE TCSVC Research Innovation Award](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/256a3f52.json))
+* **64** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
 * **42** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
@@ -68,7 +68,7 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,702 Articles)
+## All Time (2,707 Articles)
 
 * **484** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -82,11 +82,11 @@
 
 * **228** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **214** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **215** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **136** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **130** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **134** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **97** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
