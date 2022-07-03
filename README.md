@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 23:53:36 (LK time)*
+*As of 2022-07-04 00:01:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,11 +16,11 @@
 
 * **5** economy-next-com ([Sri Lanka schedules power cuts of 3 hours for June 04 and June 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048804d1.json))
 
-* **3** virakesari-lk ([எரிபொருள் கையிருப்பு தீர்ந்துபோவதால்  இலங்கை நகரமுடியாமல் முடங்குகின்றது –ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c154dc.json))
+* **2** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
+
+* **2** virakesari-lk ([பொதியை தொலைத்தவர்களுக்கு எதிராக யாழ்ப்பாண பொலிஸில் முறைப்பாடு!](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ef733ab.json))
 
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
-
-* **1** ada-derana-lk ([Australia lifts COVID-19 border restrictions, scraps vaccine requirement](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b78937c.json))
 
 * **1** ada-lk ([යුපුන් තත්ත්පර 10 බාධකය බිඳියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ede7e46f.json))
 
@@ -38,13 +38,13 @@
 
 * **19** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
 
-* **17** ada-derana-lk ([Sri Lankan national held with gold in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9184df.json))
+* **17** ada-derana-lk ([Some areas to be hit by downpours above 100mm and gusty winds](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/595cf9ec.json))
 
 * **16** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
 * **15** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceccd267.json))
 
-## Last Week (1,731 Articles)
+## Last Week (1,732 Articles)
 
 * **343** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -58,7 +58,7 @@
 
 * **161** news-first-lk ([US delegation to meet PM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05183caf.json))
 
-* **158** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
+* **159** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
 * **104** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
@@ -72,7 +72,7 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,687 Articles)
+## All Time (2,688 Articles)
 
 * **481** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -86,7 +86,7 @@
 
 * **228** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **211** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **212** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **136** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 

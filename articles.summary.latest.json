@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/7b/7b78937c.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83405/australia-scraps-covid-19-vaccine-requirement-for-international-travellers",
+    "time_ut": 1656868320,
+    "original_lang": "en",
+    "original_title": "Australia scraps Covid-19 vaccine requirement for international travellers",
+    "file_name": "/tmp/news_lk2/articles/3a/3a68cf34.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-announces-a-week-long-school-holiday-in-face-of-fuel-crisis-96831/",
     "time_ut": 1656866820,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "One day service for passports extended to 3 more districts",
     "file_name": "/tmp/news_lk2/articles/5c/5c726a70.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83320/one-day-service-for-passports-to-commence-in-3-more-districts",
-    "time_ut": 1656496200,
-    "original_lang": "en",
-    "original_title": "One day service for Passports to commence in 3 more districts",
-    "file_name": "/tmp/news_lk2/articles/72/72fe3e1a.json"
   }
 ]
