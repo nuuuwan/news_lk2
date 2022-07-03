@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9a\u0dbb\u0d9a\u0dbd\u0dca\u0db4\u0d9a\u0dca\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dbb\u0dba\u0dd2/3-395049",
+    "time_ut": 1656837197,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dbb\u0d9a\u0dbd\u0dca\u0db4\u0d9a\u0dca\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4a/4a110885.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0d85\u0dbd\u0dca-\u0dc2\u0db6\u0dcf\u0db6\u0dca-\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dba\u0db1\u0dca-40\u0d9a\u0dca-\u0db8\u0dbb\u0dcf-\u0daf\u0db8\u0dbd\u0dcf/3-395048",
+    "time_ut": 1656837083,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d85\u0dbd\u0dca-\u0dc2\u0db6\u0dcf\u0db6\u0dca \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dba\u0db1\u0dca 40\u0d9a\u0dca \u0db8\u0dbb\u0dcf \u0daf\u0db8\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/44/44031852.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda-\u0db6\u0dc3\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0db4\u0dd9\u0dbb\u0dc5\u0dd3-19\u0d9a\u0dca-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/3-395047",
+    "time_ut": 1656837040,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0dda \u0db6\u0dc3\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0dbb\u0dc5\u0dd3 19\u0d9a\u0dca \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/3d/3d75b033.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83398/schools-to-remain-closed-this-week",
+    "time_ut": 1656836880,
+    "original_lang": "en",
+    "original_title": "Schools to remain closed this week",
+    "file_name": "/tmp/news_lk2/articles/3f/3ffd2ee7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0dad\u0dc0\u0dad\u0dca-\u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0ddd-6-\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615779",
+    "time_ut": 1656836833,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0db1\u0dca\u0db1 \u0dad\u0dc0\u0dad\u0dca \u0dbb\u0dd0\u0db3\u0dc0\u0dd2\u0dba\u0ddd 6 \u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/a5/a5a78437.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-reveals-low-fuel-stock-levels-96802/",
+    "time_ut": 1656836280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka reveals low fuel stock levels",
+    "file_name": "/tmp/news_lk2/articles/92/921b9132.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-\u0d91\u0dba\u0dcf\u0dbb\u0dca-\u0db6\u0dc3\u0dca-\u0dba\u0dcf\u0db1\u0dcf-292\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/3-395046",
     "time_ut": 1656836181,
     "original_lang": "si",
@@ -14,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd  \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
     "file_name": "/tmp/news_lk2/articles/0c/0cae41c9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130678",
+    "time_ut": 1656836139,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bae\u0bbe\u0bb5\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0ba8\u0bcd\u0ba4 \u0bb2\u0bca\u0bb1\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6a/6a5582df.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -64,6 +120,22 @@
     "file_name": "/tmp/news_lk2/articles/6f/6ff3d43f.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/power-cuts-approved-for-4th-5th-july/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Power cuts approved for 4th & 5th July",
+    "file_name": "/tmp/news_lk2/articles/3d/3d62620b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/woman-dead-after-swept-away-by-strong-current/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Woman dead after swept away by strong current",
+    "file_name": "/tmp/news_lk2/articles/76/76fc26c3.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130670",
     "time_ut": 1656834958,
@@ -102,6 +174,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka expecting 4 fuel shipments this month - Minister Kanchana",
     "file_name": "/tmp/news_lk2/articles/ff/ffd750bb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83397/sri-lanka-expecting-several-fuel-shipments-this-month",
+    "time_ut": 1656833340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expecting several fuel shipments this month",
+    "file_name": "/tmp/news_lk2/articles/97/97a79b63.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -166,6 +246,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka one-day passport service to take 60 days",
     "file_name": "/tmp/news_lk2/articles/73/73cc2c76.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0ddc\u0dbb\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd2-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dc5\u0dda-\u0d85\u0dc0\u0db8-\u0db6\u0dbd\u0dba\u0dba\u0dd2---\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0/11-395044",
+    "time_ut": 1656831676,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0ddc\u0dbb\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd2 \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dc5\u0dda \u0d85\u0dc0\u0db8 \u0db6\u0dbd\u0dba\u0dba\u0dd2 - \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/6e/6efe53ba.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -238,6 +326,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd  \u0baa\u0bbf\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/b9/b977f1e1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/litro-gas-summoned-to-cope-hearing/",
+    "time_ut": 1656829980,
+    "original_lang": "en",
+    "original_title": "Litro Gas summoned to COPE hearing",
+    "file_name": "/tmp/news_lk2/articles/53/530eb822.json"
   },
   {
     "newspaper_id": "news-first-lk",
