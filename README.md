@@ -1,20 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 11:29:19 (LK time)*
+*As of 2022-07-03 11:36:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (6 Articles)
 
-* **3** virakesari-lk ([தற்போதைய நிர்வாகத்தின் கீழ் எந்த பதவியையும் ஏற்கப்போவதில்லை- நாட்டில் கலவரம் உருவாகும் ஆபத்து - சிறிசேன](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8194936.json))
+* **2** virakesari-lk ([ஊடகவியலாளர் லசந்தவின் படுகொலை குறித்து பொலிஸ் பரிசோதகர் நிஷாந்த டி சில்வாவை மேற்கோள்காட்டி ஊடகவியலாளர்களைப் பாதுகாப்பதற்கான அமைப்பு வெளியிட்ட தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b4e1f72.json))
 
 * **2** tamil-mirror-lk ([கிழக்கு கடலில் 51 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71c93e1.json))
 
 * **1** lankadeepa-lk ([ගේ ළඟ නවතා තිබූ යතුරුපැදියෙනුත් පෙට්‍රල් අදින්න හදලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08b92936.json))
 
 * **1** daily-mirror-lk ([Low-lying area residents of Gin Ganga warned of possible floods](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6f38f4c.json))
-
-* **1** economy-next-com ([Sri Lanka low-grown tea prices gain in June third week sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ffc59eb.json))
 
 ## Last Hour (10 Articles)
 
@@ -48,9 +46,9 @@
 
 * **2** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last 24 Hours (131 Articles)
+## Last 24 Hours (130 Articles)
 
-* **38** virakesari-lk ([டீசல், பெற்றோலை ஏற்றிய 3 கப்பல்களின் வருகை குறித்து ஐ.ஓ.சி. விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b154c2.json))
+* **37** virakesari-lk ([ஒவ்வொரு நாளும் சாதாரண இலங்கையர்கள் அனுபவிக்கும் இன்னல்களைப் பார்ப்பது கவலையாகவுள்ளது - கனேடிய உயர்ஸ்தானிகர் டேவிட் மெக்கினொன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d575e65a.json))
 
 * **19** ada-derana-lk ([Lanka IOC’s update on fuel shipment arrival](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39e4d7ba.json))
 
@@ -66,7 +64,7 @@
 
 * **6** economy-next-com ([IMF agreement with Sri Lanka must depend on key conditions: US senate committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/218461e3.json))
 
-## Last Week (1,763 Articles)
+## Last Week (1,762 Articles)
 
 * **345** virakesari-lk ([அரசாங்கம் ரஷ்யாவின் உதவியை பெற்றுக்கொள்ளாமலிருப்பது மக்களுக்கு எதிராக இழைக்கப்படும் பாரிய குற்றமாகும் - கம்மன்பில](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071444ee.json))
 
@@ -80,7 +78,7 @@
 
 * **157** news-first-lk ([399 illegal migrants arrested so far in 2022: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b987b118.json))
 
-* **156** ada-derana-lk ([Funeral parlour owner shot dead in Middeniya](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a188b32.json))
+* **155** ada-derana-lk ([Kahatuduwa house fire: father and mother succumb to injuries](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e345711e.json))
 
 * **94** economy-next-com ([Sri Lanka plans to allow more fuel distributors](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2689974d.json))
 
