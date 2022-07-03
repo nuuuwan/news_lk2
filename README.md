@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 02:22:54 (LK time)*
+*As of 2022-07-04 02:29:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **6** daily-ft-lk ([Almas Group appoints two new directors](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b95b00.json))
+* **4** daily-ft-lk ([One-day passport issuance service starts in 3 regional offices today](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e80d52.json))
 
 ## Last Hour (7 Articles)
 
