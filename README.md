@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 05:04:45 (LK time)*
+*As of 2022-07-04 05:13:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
-
-* **1** daily-ft-lk ([Sajith repeats call to President to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd68834d.json))
-
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (208 Articles)
 
 * **48** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -20,9 +16,9 @@
 
 * **20** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
 
-* **19** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
-
 * **18** daily-mirror-lk ([US Senate says IMF agreement with SL must depend on key reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/754c9ede.json))
+
+* **18** tamil-mirror-lk ([கடலலையில் இழுத்துச் செல்லப்பட்ட    மாணவன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccce56bf.json))
 
 * **16** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
