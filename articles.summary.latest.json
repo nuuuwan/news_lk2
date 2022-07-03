@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-has-announces-a-week-long-school-holiday-in-face-of-a-fuel-crisis-96831/",
+    "time_ut": 1656866820,
+    "original_lang": "en",
+    "original_title": "Sri has announces a week-long school holiday in face of a fuel crisis",
+    "file_name": "/tmp/news_lk2/articles/e3/e398531d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130717",
     "time_ut": 1656866559,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Four arrested during protest in Colombo",
     "file_name": "/tmp/news_lk2/articles/f8/f86c97bf.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db8\u0dad\u0dbb-\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0dc4\u0dd2\u0d9f\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0dbd\u0d82\u0d9c\u0db8\u0dad\u0dca-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dda/1-615602",
-    "time_ut": 1656494608,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db8\u0dad\u0dbb \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc4\u0dd2\u0d9f\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dbd\u0d82\u0d9c\u0db8\u0dad\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dda",
-    "file_name": "/tmp/news_lk2/articles/f3/f38c44ae.json"
   }
 ]
