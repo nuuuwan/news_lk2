@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 03:28:42 (LK time)*
+*As of 2022-07-04 03:38:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (9 Articles)
 
-* **10** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
+* **9** daily-ft-lk ([Stranding sans strategy: State of suffering Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfa70c.json))
 
 ## Last 24 Hours (207 Articles)
 
