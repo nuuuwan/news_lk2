@@ -1,22 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 21:32:23 (LK time)*
+*As of 2022-07-03 21:45:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** economy-next-com ([Sri Lanka schedules power cuts of 3 hours for June 04 and June 05](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/048804d1.json))
+
 ## Last Hour (4 Articles)
 
-* **2** virakesari-lk ([குறைவடையும் திருமணங்கள் - பதிவுகள் 85 சதவீதத்தால் வீழ்ச்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/741ab915.json))
+* **3** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
 
-* **2** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
+* **1** virakesari-lk ([எரிபொருள் கையிருப்பு தீர்ந்துபோவதால்  இலங்கை நகரமுடியாமல் முடங்குகின்றது –ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c154dc.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (16 Articles)
 
 * **5** virakesari-lk ([எரிபொருள் கையிருப்பு குறித்து எரிசக்தி அமைச்சர் காஞ்சன வெளியிட்டுள்ள தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f50b1d21.json))
 
-* **3** daily-mirror-lk ([Yupun first Sri Lankan to run 100m under 10 seconds](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cc6bca.json))
+* **3** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
 
-* **2** economy-next-com ([Two cruise ships laid up in Sri Lanka’s China-backed Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b3281b9.json))
+* **3** daily-mirror-lk ([Yupun first Sri Lankan to run 100m under 10 seconds](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cc6bca.json))
 
 * **2** news-first-lk ([Voice Teens Grand Finale tonight (3)](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3dc83af.json))
 
@@ -26,7 +30,7 @@
 
 * **1** tamil-mirror-lk ([தனியார் பஸ் சேவை முடங்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae6236ae.json))
 
-## Last 24 Hours (179 Articles)
+## Last 24 Hours (180 Articles)
 
 * **38** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -42,9 +46,9 @@
 
 * **17** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
-* **11** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
+* **12** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
-## Last Week (1,728 Articles)
+## Last Week (1,729 Articles)
 
 * **341** virakesari-lk ([கப்பல் வரும் தினத்தைக் கூற முடியாது : வரிசைகளில் காத்திருக்க வேண்டாம் : அமைச்சர் காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd56ae23.json))
 
@@ -60,7 +64,7 @@
 
 * **157** ada-derana-lk ([Biden urges G7 to stay together as leaders target Russian gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb1c01a9.json))
 
-* **99** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
+* **100** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
 * **67** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
@@ -72,7 +76,7 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,673 Articles)
+## All Time (2,674 Articles)
 
 * **477** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -88,7 +92,7 @@
 
 * **210** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **131** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **132** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **125** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 

@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-for-june-04-and-june-05-96825/",
+    "time_ut": 1656863700,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of 3 hours for June 04 and June 05",
+    "file_name": "/tmp/news_lk2/articles/04/048804d1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130713",
     "time_ut": 1656861965,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka public health\u00a0officials launch two-day protest over fuel shortage",
     "file_name": "/tmp/news_lk2/articles/e6/e6787332.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/science-tech/\u0bb5\u0b9f\u0bcd\u0bb8\u0bcd\u0b85\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0ba4\u0bb5\u0bbf\u0b9f\u0bbe\u0baf\u0bcd/57-299411",
-    "time_ut": 1656492708,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0b9f\u0bcd\u0bb8\u0bcd\u0b85\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd   \u0bae\u0bbe\u0ba4\u0bb5\u0bbf\u0b9f\u0bbe\u0baf\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c9/c9a49fe3.json"
   }
 ]
