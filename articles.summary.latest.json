@@ -33,6 +33,14 @@
   },
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-arrests-four-military-personnel-in-connection-with-rehab-centre-death-96806/",
+    "time_ut": 1656844980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka arrests four military personnel in connection with rehab centre death",
+    "file_name": "/tmp/news_lk2/articles/ad/adb61617.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-arrests-four-military-personnel-in-connection-with-a-rehab-centre-death-96806/",
     "time_ut": 1656844980,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 500 \u0baa\u0bc7\u0bb0\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/e0/e0fe5a20.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bbe\u0b9f\u0bc1-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-600-\u0baa\u0bc7\u0bb0\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-299400",
-    "time_ut": 1656485546,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 600 \u0baa\u0bc7\u0bb0\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/3a/3a324242.json"
   }
 ]
