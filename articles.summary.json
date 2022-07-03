@@ -1,6 +1,78 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Four-fuel-shipments-to-reach-SL-this-month/155-240238",
+    "time_ut": 1656835907,
+    "original_lang": "en",
+    "original_title": "Four fuel shipments to reach SL this month",
+    "file_name": "/tmp/news_lk2/articles/cc/ccccd23a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0dc0-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4\u0dad\u0dca-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda/1-615777",
+    "time_ut": 1656835741,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4\u0dad\u0dca \u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/6e/6e82bce0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130675",
+    "time_ut": 1656835378,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc8 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bbe \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd ?",
+    "file_name": "/tmp/news_lk2/articles/5c/5c2d3c90.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130673",
+    "time_ut": 1656835349,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0bae\u0bcd  \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bc1 \u0baa\u0bb0\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fc/fcebd743.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130672",
+    "time_ut": 1656835264,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0bc0\u0baf\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff3d43f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/power-cuts-approved-for-4th-5th-july/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Power cuts approved for 4th & 5th July",
+    "file_name": "/tmp/news_lk2/articles/3d/3d62620b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/woman-dead-after-swept-away-by-strong-current/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Woman dead after swept away by strong current",
+    "file_name": "/tmp/news_lk2/articles/76/76fc26c3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130670",
+    "time_ut": 1656834958,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bc7\u0b9f\u0bae\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/66/66c6ba96.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130669",
+    "time_ut": 1656834899,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0ba9\u0bc8 \u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/33/334f6267.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Parliament-sessions-limited-to-3-days-due-to-fuel-crisis/108-240237",
     "time_ut": 1656834035,
     "original_lang": "en",
@@ -9,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/101-615776",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/1-615776",
     "time_ut": 1656833791,
     "original_lang": "si",
     "original_title": "\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c1/c1d01c05.json"
+    "file_name": "/tmp/news_lk2/articles/d0/d0d82cf6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

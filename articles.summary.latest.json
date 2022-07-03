@@ -1,6 +1,78 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Four-fuel-shipments-to-reach-SL-this-month/155-240238",
+    "time_ut": 1656835907,
+    "original_lang": "en",
+    "original_title": "Four fuel shipments to reach SL this month",
+    "file_name": "/tmp/news_lk2/articles/cc/ccccd23a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0dc0-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4\u0dad\u0dca-\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda/1-615777",
+    "time_ut": 1656835741,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4\u0dad\u0dca \u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/6e/6e82bce0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130675",
+    "time_ut": 1656835378,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc8 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bbe \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd ?",
+    "file_name": "/tmp/news_lk2/articles/5c/5c2d3c90.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130673",
+    "time_ut": 1656835349,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0bae\u0bcd  \u0baa\u0bc1\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bc1 \u0baa\u0bb0\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fc/fcebd743.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130672",
+    "time_ut": 1656835264,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0bc0\u0baf\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/6f/6ff3d43f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/power-cuts-approved-for-4th-5th-july/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Power cuts approved for 4th & 5th July",
+    "file_name": "/tmp/news_lk2/articles/3d/3d62620b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/woman-dead-after-swept-away-by-strong-current/",
+    "time_ut": 1656835020,
+    "original_lang": "en",
+    "original_title": "Woman dead after swept away by strong current",
+    "file_name": "/tmp/news_lk2/articles/76/76fc26c3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130670",
+    "time_ut": 1656834958,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bc7\u0b9f\u0bae\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/66/66c6ba96.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130669",
+    "time_ut": 1656834899,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0ba9\u0bc8 \u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/33/334f6267.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Parliament-sessions-limited-to-3-days-due-to-fuel-crisis/108-240237",
     "time_ut": 1656834035,
     "original_lang": "en",
@@ -9,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/101-615776",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca/1-615776",
     "time_ut": 1656833791,
     "original_lang": "si",
     "original_title": "\u0db6\u0dba\u0dd2\u0dc3\u0dd2\u0d9a\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c1/c1d01c05.json"
+    "file_name": "/tmp/news_lk2/articles/d0/d0d82cf6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0da7-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0da7 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dc4\u0db1\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/95/95c20aab.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83312/sri-lankas-economy-contracts-by-16-in-first-quarter-of-2022",
-    "time_ut": 1656472560,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s economy contracts by 1.6% in first quarter of 2022",
-    "file_name": "/tmp/news_lk2/articles/60/60206ec0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Would-not-get-support-from-Security-council-UK/342-239980",
-    "time_ut": 1656470756,
-    "original_lang": "en",
-    "original_title": "Would not get support from Security council: UK",
-    "file_name": "/tmp/news_lk2/articles/99/9911d1b0.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130372",
-    "time_ut": 1656469221,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bae\u0bcd\u0b9a\u0bbf\u0b9a\u0bbf \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bca\u0ba9\u0bcd\u0bb1\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1  \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bbe\u0bb0\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/77/771ef945.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83311/showers-expected-in-several-areas-including-western-province-",
-    "time_ut": 1656469200,
-    "original_lang": "en",
-    "original_title": "Showers expected in several areas including Western Province",
-    "file_name": "/tmp/news_lk2/articles/a5/a5ca44a6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-to-purchase-four-fuel-shipments-from-India-on-cash-payment-terms/342-239979",
-    "time_ut": 1656465956,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to purchase four fuel shipments from India on cash payment terms",
-    "file_name": "/tmp/news_lk2/articles/e0/e054ebe1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-seeks-loan-from-qatar-to-import-oil-amid-soft-peg-instability-96610/",
-    "time_ut": 1656465600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka seeks loan from Qatar to import oil amid soft-peg instability",
-    "file_name": "/tmp/news_lk2/articles/3c/3c610205.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/the-politics-of-history-mahindapalas-version/",
-    "time_ut": 1656464784,
-    "original_lang": "en",
-    "original_title": "The Politics Of History: Mahindapala\u2019s Version",
-    "file_name": "/tmp/news_lk2/articles/61/61abc614.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/should-aragalaya-consider-a-political-movement-led-by-nagananda-fonseka-hirunika/",
-    "time_ut": 1656464570,
-    "original_lang": "en",
-    "original_title": "Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?",
-    "file_name": "/tmp/news_lk2/articles/80/8023d625.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-sells-rs142bn-in-2025-2028-2031-bonds-96603/",
-    "time_ut": 1656458760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds",
-    "file_name": "/tmp/news_lk2/articles/2e/2e9be1b2.json"
   }
 ]
