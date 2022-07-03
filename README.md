@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 01:01:02 (LK time)*
+*As of 2022-07-04 01:08:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
+* **2** daily-ft-lk ([Stranding sans strategy: State of suffering Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfa70c.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-* **4** economy-next-com ([Sri Lanka’s Tea exports to Ukraine drops 55-pct from Jan-May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e1cb38a.json))
-
 * **3** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
+
+* **3** economy-next-com ([Sri has announces a week-long school holiday in face of a fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e398531d.json))
 
 * **2** virakesari-lk ([யாழில் டீசலை பதுக்கி வைத்து அதிக விலைக்கு விற்பனை செய்த ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f2d62f.json))
 
@@ -44,7 +44,7 @@
 
 * **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,734 Articles)
+## Last Week (1,733 Articles)
 
 * **345** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -62,7 +62,7 @@
 
 * **104** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **69** daily-ft-lk ([Sri Lanka struggles sans immediate solutions to dollar crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fcde5c64.json))
+* **68** daily-ft-lk ([Unleash economic value in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80ef5ab.json))
 
 * **42** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
