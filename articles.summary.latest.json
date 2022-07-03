@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bb5\u0ba9\u0bc8-\u0bae\u0ba3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0b95\u0bca\u0bb2\u0bc8-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/76-299613",
+    "time_ut": 1656823078,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba3\u0bb5\u0ba9\u0bc8 \u0bae\u0ba3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf   \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a8/a82763c2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/03/25-people-arrested-for-illegal-migration-attempt/",
+    "time_ut": 1656822660,
+    "original_lang": "en",
+    "original_title": "25 people arrested for illegal migration attempt",
+    "file_name": "/tmp/news_lk2/articles/94/94851b5d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83394/sudden-breakdown-reported-at-kolonnawa-pump-house",
     "time_ut": 1656822000,
     "original_lang": "en",
     "original_title": "Sudden breakdown reported at Kolonnawa Pump House",
     "file_name": "/tmp/news_lk2/articles/fc/fce72683.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7-\u0db4\u0dad\u0dca-\u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0-\u0dbb\u0dd4-7500\u0d9a\u0dca/11-395039",
+    "time_ut": 1656821814,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0 \u0dbb\u0dd4 7500\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/33/335353f9.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "SEC, CSE and the CFA Society SL aim to strengthen ESG focus in the Sri Lankan capital market",
     "file_name": "/tmp/news_lk2/articles/2e/2e3cbe43.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/fuel-crisis-combines-with-profit-takings-to-drag-down-share-market/",
-    "time_ut": 1656434580,
-    "original_lang": "en",
-    "original_title": "Fuel crisis combines with profit-takings to drag down share market",
-    "file_name": "/tmp/news_lk2/articles/e2/e21966c1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/28/1000-mt-of-chinese-rice-reach-sri-lanka/",
-    "time_ut": 1656432420,
-    "original_lang": "en",
-    "original_title": "1,000 MT of Chinese Rice reach Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/a9/a91dfbb5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0da7\u0dcf\u0dbb\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dab\u0dba\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1---\u0d9c\u0dd1\u0dc3\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf/101-615567",
-    "time_ut": 1656431495,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dab\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 - \u0d9c\u0dd1\u0dc3\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/0e/0e6fd1f4.json"
   }
 ]
