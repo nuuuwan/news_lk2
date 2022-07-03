@@ -1,30 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 01:08:52 (LK time)*
+*As of 2022-07-04 01:18:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-ft-lk ([Stranding sans strategy: State of suffering Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfa70c.json))
+* **1** daily-ft-lk ([Child’s guide to true cost of activities: Concept of opportunity cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/520b02f3.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (9 Articles)
 
 * **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
 * **3** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
 
-* **3** economy-next-com ([Sri has announces a week-long school holiday in face of a fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e398531d.json))
-
-* **2** virakesari-lk ([யாழில் டீசலை பதுக்கி வைத்து அதிக விலைக்கு விற்பனை செய்த ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f2d62f.json))
-
 * **1** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
-## Last 24 Hours (197 Articles)
+* **1** virakesari-lk ([22 ஐ நிறைவேற்ற ஒத்துழைக்காவிட்டால் நாடு மேலும் அராஜக நிலைக்குச் செல்லும் - அமைச்சர் விஜேதாச ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8910c1d7.json))
+
+## Last 24 Hours (196 Articles)
 
 * **44** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -34,17 +32,17 @@
 
 * **20** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
 
-* **19** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceccd267.json))
-
 * **19** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
 
 * **18** ada-derana-lk ([Some areas to be hit by downpours above 100mm and gusty winds](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/595cf9ec.json))
+
+* **18** daily-mirror-lk ([US Senate says IMF agreement with SL must depend on key reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/754c9ede.json))
 
 * **16** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
 * **4** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-## Last Week (1,733 Articles)
+## Last Week (1,731 Articles)
 
 * **345** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -62,11 +60,11 @@
 
 * **104** economy-next-com ([Sri Lanka’s Bank of Ceylon downgraded to RD](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6e479d.json))
 
-* **68** daily-ft-lk ([Unleash economic value in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c80ef5ab.json))
+* **67** daily-ft-lk ([American Ambassador meets with American Alumni Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb440470.json))
 
 * **42** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
-* **24** d-b-s-jeyaraj-com ([Tamil residents of Thennamaravaadi Village in Trincomalee District   Allege that Over 200 Acres of their Lands have been taken over by Sinhalese outsiders and that Govt officials are not taking action to  help them get back the lands](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1b3fcd6.json))
+* **23** d-b-s-jeyaraj-com ([Name of Dhammika Perera’s Ministry  Changed from  Tecnology and Investment Promotion to  Investment Promotion; New Gazette Issued  Listing  Institutions  and Functions  Allocated to Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bf81fea.json))
 
 * **10** colombo-telegraph-com ([Lanka-Arab Relations](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b7a11.json))
 
