@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-03 23:22:12 (LK time)*
+*As of 2022-07-03 23:26:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -38,7 +38,7 @@
 
 * **16** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
 
-## Last Week (1,732 Articles)
+## Last Week (1,731 Articles)
 
 * **343** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -58,7 +58,7 @@
 
 * **67** daily-ft-lk ([Financial literacy: A closer look at Sri Lanka – Part 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57b94ef.json))
 
-* **44** island-lk ([When Americans bear gifts](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f92db087.json))
+* **43** island-lk ([Can castor bean,rubber and tea seeds solve Sri Lanka’s diesel deficit?](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19d1e782.json))
 
 * **30** d-b-s-jeyaraj-com ([Visiting US State Department Deputy Secretary of State for South and Central Asia Kelly Keiderling Assures  Prime Minister Ranil Wickremesinghe that the US supports the ongoing talks between the Govt of Sri Lanka and the International Monetary Fund(IMF); US agrees to provide technical assistance for fiscal management in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19bda6c.json))
 
