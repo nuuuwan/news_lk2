@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Main-suspect-in-Bastian-Mawatha-shooting-killed-in-police-confrontation/108-240303",
+    "time_ut": 1656914186,
+    "original_lang": "en",
+    "original_title": "Main suspect in Bastian Mawatha shooting killed in police confrontation",
+    "file_name": "/tmp/news_lk2/articles/af/af51619b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83414/foreign-ministrys-consular-affairs-division-resumes-regular-services",
+    "time_ut": 1656914100,
+    "original_lang": "en",
+    "original_title": "Foreign Ministry\u2019s Consular Affairs Division resumes regular services",
+    "file_name": "/tmp/news_lk2/articles/e0/e01ad60d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-19-\u0d9a--\u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dab\u0dcf\u0db7\u0dbb\u0dab-\u0dbb\u0db1\u0dca-\u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca-\u0dc3\u0dc4-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd3-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395070",
+    "time_ut": 1656914031,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 19 \u0d9a  \u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dab\u0dcf\u0db7\u0dbb\u0dab,\u0dbb\u0db1\u0dca \u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd3 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e6/e643ef28.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Army-to-probe-after-Lt-Col-beating-civilian-at-fuel-shed-goes-viral/155-240302",
+    "time_ut": 1656913978,
+    "original_lang": "en",
+    "original_title": "Army to probe after Lt. Col. beating civilian at fuel shed goes viral",
+    "file_name": "/tmp/news_lk2/articles/91/912311a6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83413/daily-activities-further-disrupted-as-sri-lankas-fuel-shortage-drags-on",
+    "time_ut": 1656913620,
+    "original_lang": "en",
+    "original_title": "Daily activities further disrupted as Sri Lanka\u2019s fuel shortage drags on",
+    "file_name": "/tmp/news_lk2/articles/22/22bf1d38.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Prevent-a-tragedy-and-go-home-Kirella/108-240300",
     "time_ut": 1656912785,
     "original_lang": "en",
@@ -16,12 +56,36 @@
     "file_name": "/tmp/news_lk2/articles/1d/1d3f6ad4.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/gl-assures-support-for-one-china-policy/",
+    "time_ut": 1656912480,
+    "original_lang": "en",
+    "original_title": "GL assures support for \u2018One China policy",
+    "file_name": "/tmp/news_lk2/articles/82/82096ebf.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/500-buses-to-be-purchased-under-Indian-line-of-credit/108-240299",
     "time_ut": 1656912415,
     "original_lang": "en",
     "original_title": "500 buses to be purchased under Indian line of credit",
     "file_name": "/tmp/news_lk2/articles/ce/ce243419.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0dbd\u0dd2-\u0d9c\u0ddc\u0da9-\u0daf\u0dd0\u0db8\u0dd4-\u0d85\u0dba\u0dd9\u0d9a\u0dd4-\u0daf\u0dd2\u0dba\u0dda-\u0d9c\u0dd2\u0dbd\u0dd3-\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca/11-395068",
+    "time_ut": 1656912204,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0dbd\u0dd2 \u0d9c\u0ddc\u0da9 \u0daf\u0dd0\u0db8\u0dd4 \u0d85\u0dba\u0dd9\u0d9a\u0dd4 \u0daf\u0dd2\u0dba\u0dda \u0d9c\u0dd2\u0dbd\u0dd3 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6f/6f792af6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/normal-working-hours-for-consular-services/",
+    "time_ut": 1656912180,
+    "original_lang": "en",
+    "original_title": "Normal working hours for consular services",
+    "file_name": "/tmp/news_lk2/articles/e9/e98f1ba4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0b95\u0b9f\u0bb2\u0bc8 \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb4\u0bc1\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd !",
     "file_name": "/tmp/news_lk2/articles/8a/8af4b592.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Mobilise-the-entire-nation-to-oust-the-present-ruler-Anura/342-240049",
-    "time_ut": 1656518392,
-    "original_lang": "en",
-    "original_title": "Mobilise the entire nation to oust the present ruler: Anura",
-    "file_name": "/tmp/news_lk2/articles/8f/8f633780.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83329/world-bank-to-redesign-17-ongoing-projects-in-sri-lanka-",
-    "time_ut": 1656518220,
-    "original_lang": "en",
-    "original_title": "World Bank to redesign 17 ongoing projects in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/5b/5bc87b78.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Around-250-inmates-who-fled-Kandakadu-Rehab-Centre-arrested/342-240048",
-    "time_ut": 1656518112,
-    "original_lang": "en",
-    "original_title": "Around 250 inmates who fled Kandakadu Rehab. Centre arrested",
-    "file_name": "/tmp/news_lk2/articles/77/77403f69.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Around-250-Kandakadu-detainees-arrested/108-240048",
-    "time_ut": 1656518112,
-    "original_lang": "en",
-    "original_title": "Around 250 Kandakadu detainees arrested",
-    "file_name": "/tmp/news_lk2/articles/7e/7e550f58.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-recover-from-2-month-low-on-hopes-of-imf-deal-96661/",
-    "time_ut": 1656516600,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks recover from 2-month low on hopes of IMF deal",
-    "file_name": "/tmp/news_lk2/articles/5b/5beefa13.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0d9a\u0dca\u0db8\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0d9a-\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0d9f\u0da9\u0dd2\u0dba\u0d9a\u0dca/101-615620",
-    "time_ut": 1656516101,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0d9a\u0dca\u0db8\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0d9a \u0dad\u0dd9\u0dbd\u0dca \u0db8\u0d9f\u0da9\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/e5/e5887e47.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-guidance-peg-edge-up-despite-dollar-shortage-96660/",
-    "time_ut": 1656515160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka guidance peg edge up despite dollar shortage",
-    "file_name": "/tmp/news_lk2/articles/da/da47c317.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/29/quick-passports-for-foreign-employment-dhammika-makes-first-move-as-minister/",
-    "time_ut": 1656515100,
-    "original_lang": "en",
-    "original_title": "Quick Passports for Foreign Employment: Dhammika makes first move as Minister",
-    "file_name": "/tmp/news_lk2/articles/c1/c1f702cc.json"
   }
 ]
