@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 04:06:06 (LK time)*
+*As of 2022-07-05 04:18:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (11 Articles)
+## Last Hour (8 Articles)
 
-* **10** daily-ft-lk ([Let’s resolve to start the system change that we demand from within](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/546f99a7.json))
-
-* **1** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
+* **8** daily-ft-lk ([Ambassador Kohona calls for closer collaboration between tea industries of Fujian and Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ccf3edf.json))
 
 ## Last 3 Hours (13 Articles)
 
@@ -40,7 +38,7 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,709 Articles)
+## Last Week (1,710 Articles)
 
 * **356** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -62,13 +60,13 @@
 
 * **41** island-lk ([Fuel crisis combines with profit-takings to drag down share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21966c1.json))
 
-* **21** d-b-s-jeyaraj-com ([Investment Promotion Minister Dhammika Perera ,inculcating a private-sector approach to boost efficiency and streamline operations ,announces several measures to upgrade the Immigration and Emigration Department, following a special inspection visit to the Department](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b7d8be1.json))
+* **22** d-b-s-jeyaraj-com ([Investment Promotion Minister Dhammika Perera ,inculcating a private-sector approach to boost efficiency and streamline operations ,announces several measures to upgrade the Immigration and Emigration Department, following a special inspection visit to the Department](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b7d8be1.json))
 
 * **13** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
 * **6** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## All Time (2,989 Articles)
+## All Time (2,990 Articles)
 
 * **541** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -90,7 +88,7 @@
 
 * **107** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **47** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **48** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **44** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 

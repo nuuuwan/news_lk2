@@ -2112,6 +2112,14 @@
     "file_name": "/tmp/news_lk2/articles/ef/ef5882a7.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78370",
+    "time_ut": 1656874620,
+    "original_lang": "en",
+    "original_title": "Sri Lankan Sprinter Yupun Abeykoon Becomes the first in South Asia to break the 10-seconds barrier in a 100 metres race  by Clocking 9.96 seconds at the World Athletics Championship Meet",
+    "file_name": "/tmp/news_lk2/articles/08/089d6c42.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83407/22a-aims-to-achieve-political-stability-minister-wijeyadasa",
     "time_ut": 1656872940,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/49/49d11552.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/crisis-hit-sri-lanka-lifts-ban-on-qatar-charity-as-it-tries-to-secure-fuel-supply-from-doha-96705/",
-    "time_ut": 1656585360,
-    "original_lang": "en",
-    "original_title": "Crisis-hit Sri Lanka lifts ban on Qatar Charity as it tries to secure fuel supply from Doha",
-    "file_name": "/tmp/news_lk2/articles/d4/d4380f67.json"
   }
 ]
