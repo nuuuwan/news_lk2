@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 13:16:01 (LK time)*
+*As of 2022-07-04 13:23:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** virakesari-lk ([எரிபொருள் நிரப்பும் நிலையமொன்றில் நபர் ஒருவரை இராணுவ அதிகாரி தாக்கிய சம்பவம் - பொதுமக்கள் இருவர் கைது- விசாரணைகள் ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cac022f.json))
 
 * **1** lankadeepa-lk ([ගැබිණි මව සමග අතරමඟ නතර වූ ත්‍රිවිලයට පොලිසියෙන් ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce4f6996.json))
-
-* **1** tamil-mirror-lk ([12 இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/216e03d1.json))
 
 ## Last Hour (14 Articles)
 
@@ -24,13 +22,13 @@
 
 * **2** ada-lk ([කොන්දොස්තරට පහරදුන් අය අල්ලන්නැයි ලංගම සේවකයෝ විරෝධයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cb6541f.json))
 
-## Last 3 Hours (62 Articles)
+## Last 3 Hours (60 Articles)
 
 * **13** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **12** lankadeepa-lk ([කෝපන්හේගන් නුවර වෙඩි තැබීමකින් 3 ක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82d37313.json))
+* **11** lankadeepa-lk ([කන්දකාඩු ඛේදවාචකයේ වරද කොතැනද? කාගෙද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed86ff2.json))
 
-* **8** virakesari-lk ([பிரதேச சபையின் தலைமை நிர்வாக அதிகாரியான பெண் கூரிய ஆயுதத்தால் தாக்கி கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c1e8f51.json))
+* **7** virakesari-lk ([கட்டுநாயக்க விமான நிலையத்தில் வைத்து இரு இந்தியப் பிரஜைகள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebc654bb.json))
 
 * **7** tamil-mirror-lk ([இந்திய மீனவர்கள் 12 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d6b7cff.json))
 
@@ -68,21 +66,21 @@
 
 * **1** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
-## Last Week (1,755 Articles)
+## Last Week (1,751 Articles)
 
-* **353** virakesari-lk ([அரசாங்கத்திற்கு எதிராக மக்கள் மீண்டும் வீதிக்கிறங்குவார்கள் - நாலக கொடஹேவா எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/1970fca4.json))
+* **352** virakesari-lk ([சம்மாந்துறையில் டீசல் ஏற்றிச் சென்ற படி ரக வாகனம் பொதுமக்களால் மடக்கிப் பிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33bd20a4.json))
 
-* **256** lankadeepa-lk ([‘‘බෙහෙත් නෑ පරිස්සම් වෙන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec27f21d.json))
+* **255** lankadeepa-lk ([ගෑස්, බොරතෙල් කැණීමට මාර්ග සිතියමක් හදන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bebe992.json))
 
 * **192** daily-mirror-lk ([Visiting high-level US officials meet President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e76f4ca.json))
 
-* **188** ada-lk ([ගෙවුණු මාස 5ක කාලයේ අපනයන ඩො.බිලියන 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b261fba.json))
+* **187** ada-lk ([ආයෝජන ප්‍රවර්ධන ඇමති කලින්ම නිලධාරීන් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db5d42fc.json))
 
 * **170** tamil-mirror-lk ([இலங்கையின் வடபகுதியை இந்தியாவிற்கு விற்க முயற்சி?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e3cd1ce.json))
 
 * **165** ada-derana-lk ([Sri Lanka’s exports record USD 5 billion mark in five months](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e23a4cdf.json))
 
-* **165** news-first-lk ([G7 aims to raise $600 billion to counter China’s Belt and Road](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a26802f.json))
+* **164** news-first-lk ([High-Level US delegation meets President to discuss economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c92214.json))
 
 * **106** economy-next-com ([Sri Lanka exports up 9-pct in May 2022, US up 25-pct, India 49-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9e3edd.json))
 
