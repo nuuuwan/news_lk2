@@ -1,26 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 23:50:06 (LK time)*
+*As of 2022-07-05 00:04:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Australian HC assures to support Sri Lanka’s economic, social, and maritime sectors’ progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8ac8ef7.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (11 Articles)
 
 * **5** ada-derana-lk ([Army launches probe over officer who kicked civilian at fuel station](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c3bf90.json))
 
-* **4** daily-mirror-lk ([Excise earns Rs.93Mn as revenue from fines in first five months](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8875eb1f.json))
-
-* **4** virakesari-lk ([எரிபொருள் கொள்வனவு, விநியோகம் தொடர்பான அறிக்கையை சமர்ப்பிக்கவும் - உயர் நீதிமன்றம் சட்ட மா அதிபருக்கு உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07eacb8f.json))
-
-* **3** lankadeepa-lk ([රටට බරක් නොවිය යුතු පාඩු ලබන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09feb697.json))
+* **3** daily-mirror-lk ([Protest held at PM’s house demanding immediate resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f83cd829.json))
 
 * **1** news-first-lk ([Bastian Mawath shooter killed in police shootout : Detectives reveal criminal past](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa2e5f7.json))
 
-## Last 24 Hours (245 Articles)
+* **1** lankadeepa-lk ([කතකට කැත වැඩක් කළ තරුණයක් අරගල භූමියෙන් මතු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f28fd42b.json))
+
+* **1** virakesari-lk ([சர்வதேச நாணய நிதியத்துடனான பேச்சுவார்த்தை தோல்வியா ? சபையில் கிரியெல்ல கேள்வி - பிரதமர் சபைக்கு நாளை அறிவிப்பார்- அரசாங்கம் பதில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dedd7173.json))
+
+## Last 24 Hours (243 Articles)
 
 * **46** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -30,7 +26,7 @@
 
 * **32** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
 
-* **25** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
+* **23** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
 * **22** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
 
@@ -44,7 +40,7 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,705 Articles)
+## Last Week (1,704 Articles)
 
 * **352** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -52,7 +48,7 @@
 
 * **187** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
 
-* **185** ada-lk ([අතේ තියෙන මුදලින් තෙල් ‌ගේන්න අවධානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87fb83c0.json))
+* **184** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
 * **166** tamil-mirror-lk ([இன்றைய மின்வெட்டு நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19bbe239.json))
 
