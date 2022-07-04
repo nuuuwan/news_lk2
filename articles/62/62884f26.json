@@ -1295,7 +1295,7 @@
         ],
         [
           {
-            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0d85\u0dbd\u0dca \u0dc4\u0db8\u0da9\u0dca",
+            "text": "\u0db8\u0ddc\u0dc4\u0ddc\u0db8\u0da9\u0dca \u0d85\u0dbd\u0dca-\u0dc4\u0db8\u0dd9\u0da9\u0dca",
             "label": "PERSON"
           },
           {
@@ -2055,7 +2055,7 @@
         ],
         [
           {
-            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd \u0bb5\u0bc0\u0b95\u0bcd",
+            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0bb5\u0bc0\u0b95\u0bcd",
             "label": "ORG"
           },
           {
@@ -2121,7 +2121,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd \u0bb5\u0bc0\u0b95\u0bcd",
+            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0bb5\u0bc0\u0b95\u0bcd",
             "label": "ORG"
           },
           {
@@ -2139,7 +2139,7 @@
         ],
         [
           {
-            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd \u0bb5\u0bc0\u0b95\u0bcd",
+            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0bb5\u0bc0\u0b95\u0bcd",
             "label": "ORG"
           },
           {
