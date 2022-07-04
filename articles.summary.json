@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/BASL-shows-concern-on-deploying-military-at-filling-stations/108-240318",
+    "time_ut": 1656939276,
+    "original_lang": "en",
+    "original_title": "BASL shows concern on deploying military at filling stations",
+    "file_name": "/tmp/news_lk2/articles/f1/f1b2b136.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Bicycles-are-back/110-240317",
+    "time_ut": 1656938989,
+    "original_lang": "en",
+    "original_title": "Bicycles are back.....",
+    "file_name": "/tmp/news_lk2/articles/9d/9d44e3fe.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/skyrocketed-vegetable-prices/110-240316",
+    "time_ut": 1656938744,
+    "original_lang": "en",
+    "original_title": "skyrocketed vegetable prices...",
+    "file_name": "/tmp/news_lk2/articles/05/05241d4a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8-12\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd-\u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd/175-299703",
+    "time_ut": 1656938513,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8: 12\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/16/16374fd1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf-\u0dc4\u0daf\u0db4\u0dd4-\u0d9c\u0dd9\u0dc0\u0dbd\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0dc3\u0dcf\u0db0\u0dcf\u0dbb\u0dab\u0dba\u0dd2/101-615859",
+    "time_ut": 1656938460,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0dbd\u0dcf \u0dc4\u0daf\u0db4\u0dd4 \u0d9c\u0dd9\u0dc0\u0dbd\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8 \u0dc3\u0dcf\u0db0\u0dcf\u0dbb\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/42/42bfa0b5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130789",
+    "time_ut": 1656938177,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0baf\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd ; \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd - \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/50/50e15076.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-gce-advanced-level-exams-will-likely-be-delayed-by-one-month-minister-96907/",
+    "time_ut": 1656937980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s GCE Advanced Level exams will likely be delayed by one month: minister",
+    "file_name": "/tmp/news_lk2/articles/0b/0b8746df.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-local-government-official-stabbed-to-death-96906/",
     "time_ut": 1656937380,
     "original_lang": "en",
     "original_title": "Sri Lanka local government official stabbed to death",
     "file_name": "/tmp/news_lk2/articles/1c/1c1516d3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Lonely-Colombo-city/110-240315",
+    "time_ut": 1656937196,
+    "original_lang": "en",
+    "original_title": "Lonely Colombo city",
+    "file_name": "/tmp/news_lk2/articles/1d/1de68e81.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -49,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0da2\u0dd2\u0dad\u0dca---\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/1-615858",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0da2\u0dd2\u0dad\u0dca---\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/101-615858",
     "time_ut": 1656934386,
     "original_lang": "si",
     "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca - \u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/74/749abf64.json"
+    "file_name": "/tmp/news_lk2/articles/f4/f45591e1.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -70,6 +134,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bb2\u0bae\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4: \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/78/78a18cf2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc4\u0ddc\u0dbb\u0dd4-\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0d85\u0db4\u0dda-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba\u0dba\u0dd2/11-395098",
+    "time_ut": 1656934116,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc4\u0ddc\u0dbb\u0dd4 \u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0d85\u0db4\u0dda \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/39/3912d1d0.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -97,11 +169,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0d91\u0db1-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dad\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/1-615857",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0d91\u0db1-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dad\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-615857",
     "time_ut": 1656933800,
     "original_lang": "si",
     "original_title": "\u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0d91\u0db1 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dad\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c5/c52493f9.json"
+    "file_name": "/tmp/news_lk2/articles/4d/4df43f5f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -177,11 +249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Move-to-assign-para-military-for-MPs-security-at-SLPP-MPs-request-Anura/342-240313",
+    "url": "https://www.dailymirror.lk/breaking_news/Move-to-assign-para-military-for-MPs-security-at-SLPP-MPs-request-Anura/108-240313",
     "time_ut": 1656931252,
     "original_lang": "en",
     "original_title": "Move to assign para-military for MPs\u2019 security at SLPP MPs\u2019 request: Anura",
-    "file_name": "/tmp/news_lk2/articles/18/18ab40a7.json"
+    "file_name": "/tmp/news_lk2/articles/53/539b38db.json"
   },
   {
     "newspaper_id": "ada-lk",
