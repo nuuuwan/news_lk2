@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 00:37:25 (LK time)*
+*As of 2022-07-05 00:47:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **1** news-first-lk ([Bastian Mawath shooter killed in police shootout : Detectives reveal criminal past](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa2e5f7.json))
 
-## Last 24 Hours (244 Articles)
+## Last 24 Hours (243 Articles)
 
 * **46** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -30,13 +30,13 @@
 
 * **14** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
 
-* **9** daily-ft-lk ([Stranding sans strategy: State of suffering Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfa70c.json))
+* **8** daily-ft-lk ([Child’s guide to true cost of activities: Concept of opportunity cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/520b02f3.json))
 
 * **3** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,702 Articles)
+## Last Week (1,701 Articles)
 
 * **352** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -58,7 +58,7 @@
 
 * **41** island-lk ([Fuel crisis combines with profit-takings to drag down share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21966c1.json))
 
-* **24** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
+* **23** d-b-s-jeyaraj-com ([The 22nd Amendment to the Constitution will be published in the Gazette of June 29 and  presented to Parliament after seven days, Says Justice Minister Wijeyadasa Rajapakshe; Cabinet Approved Draft Bill on June 27](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c4b2794.json))
 
 * **13** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
