@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 01:04:16 (LK time)*
+*As of 2022-07-05 01:12:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -34,7 +34,7 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,699 Articles)
+## Last Week (1,698 Articles)
 
 * **353** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -56,7 +56,7 @@
 
 * **41** island-lk ([Fuel crisis combines with profit-takings to drag down share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21966c1.json))
 
-* **22** d-b-s-jeyaraj-com ([Sri Lanka to purchase four shipments of fuel from India for Cash  instead of on credit; Deal Expected to materialise in One week  will result in  Initial shipment Followed by Petrol Shipments  When Required.](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e7b153c.json))
+* **21** d-b-s-jeyaraj-com ([Investment Promotion Minister Dhammika Perera ,inculcating a private-sector approach to boost efficiency and streamline operations ,announces several measures to upgrade the Immigration and Emigration Department, following a special inspection visit to the Department](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b7d8be1.json))
 
 * **13** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
