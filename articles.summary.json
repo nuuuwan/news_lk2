@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0d87\u0d9a\u0dba\u0dda-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3-\u0db8\u0dc0\u0d9c\u0dda-\u0d9c\u0dd9\u0dbd-\u0d9a\u0db4\u0dcf-\u0dbb\u0db1\u0dca-\u0db8\u0dcf\u0dbd\u0dba-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb-\u0d9c\u0db1\u0dd3/101-615853",
+    "time_ut": 1656931756,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0d87\u0d9a\u0dba\u0dda \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0db8\u0dc0\u0d9c\u0dda \u0d9c\u0dd9\u0dbd \u0d9a\u0db4\u0dcf \u0dbb\u0db1\u0dca \u0db8\u0dcf\u0dbd\u0dba \u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/04/0491e564.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/basl-calls-for-immediate-de-escalation-of-tensions/",
+    "time_ut": 1656931380,
+    "original_lang": "en",
+    "original_title": "BASL calls for immediate de-escalation of tensions",
+    "file_name": "/tmp/news_lk2/articles/ab/ab3b6130.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Move-to-assign-para-military-for-MPs-security-at-SLPP-MPs-request-Anura/342-240313",
     "time_ut": 1656931252,
     "original_lang": "en",
     "original_title": "Move to assign para-military for MPs\u2019 security at SLPP MPs\u2019 request: Anura",
     "file_name": "/tmp/news_lk2/articles/18/18ab40a7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d92-\u2019\u0db1\u0dcf\u0db8\u0dbd\u0dca-\u0dbb\u0da2\u0db4\u0d9a\u0dca\u0dc2\u2019\u00a0\u0db8\u0db8-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-395093",
+    "time_ut": 1656931193,
+    "original_lang": "si",
+    "original_title": "\u0d92 \u2019\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0dbb\u0da2\u0db4\u0d9a\u0dca\u0dc2\u2019\u00a0\u0db8\u0db8 \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c0/c09c1308.json"
   },
   {
     "newspaper_id": "ada-lk",
