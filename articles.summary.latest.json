@@ -288,6 +288,14 @@
     "file_name": "/tmp/news_lk2/articles/28/28dccd1b.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130705",
+    "time_ut": 1656859950,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0ba8\u0bbe\u0bb2\u0b95 \u0b95\u0bca\u0b9f\u0bb9\u0bc7\u0bb5\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/0e/0e9969c8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Yupun-Abeykoon-sets-South-Asian-record-to-win-mens-100m-in-9-96sec/108-240256",
     "time_ut": 1656859773,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf : \u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/bc/bcd7cc7f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bcb\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bbf\u0baf-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8/76-299419",
-    "time_ut": 1656501216,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bcb\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd  \u0ba8\u0bbf\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/25/25d3578d.json"
   }
 ]

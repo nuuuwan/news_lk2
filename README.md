@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 05:35:25 (LK time)*
+*As of 2022-07-04 05:39:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (216 Articles)
 
-* **48** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
+* **49** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **35** lankadeepa-lk ([සිපෙට්කෝ හල් වැඩි හරියක් වැහිලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/811ac392.json))
 
@@ -26,9 +26,9 @@
 
 * **7** island-lk ([Iroshini Wijenayaka of Ideal Group represents Sri Lanka at World Women Leadership Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24a48463.json))
 
-## Last Week (1,738 Articles)
+## Last Week (1,739 Articles)
 
-* **349** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
+* **350** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
 * **254** lankadeepa-lk ([පළාත් කීපයක වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8deb0afd.json))
 
@@ -54,9 +54,9 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,722 Articles)
+## All Time (2,723 Articles)
 
-* **487** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **488** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **430** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
