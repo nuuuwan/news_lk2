@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 03:57:47 (LK time)*
+*As of 2022-07-05 04:06:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (13 Articles)
+## Last Hour (11 Articles)
 
-* **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
+* **10** daily-ft-lk ([Let’s resolve to start the system change that we demand from within](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/546f99a7.json))
 
 * **1** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
 
