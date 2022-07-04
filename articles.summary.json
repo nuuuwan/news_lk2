@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bae\u0bcb\u0ba4-\u0bb5\u0ba8\u0bcd\u0ba4-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/72-299692",
+    "time_ut": 1656922718,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0bcb\u0ba4 \u0bb5\u0ba8\u0bcd\u0ba4 \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1; \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/29/29f95c3a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83419/pucsl-recommends-probe-into-power-interruption-due-to-ceb-union-action-on-june-9",
+    "time_ut": 1656922680,
+    "original_lang": "en",
+    "original_title": "PUCSL recommends probe into power interruption due to CEB union action on June 9",
+    "file_name": "/tmp/news_lk2/articles/3b/3bdbfc32.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dc2\u0dca\u0da8\u0dcf\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dd9\u0dba\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-615843",
     "time_ut": 1656921947,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "President gone out of sight when country in serious crisis: Wimal",
     "file_name": "/tmp/news_lk2/articles/6b/6b34da56.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda-\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7-\u0dad\u0dd9\u0dbd\u0dca-\u0d91\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0db1\u0dd4\u0dbb-\u0dc4\u0dd9\u0dc5\u0dd2\u0d9a\u0dbb\u0dba\u0dd2/11-395078",
+    "time_ut": 1656921507,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0d9c\u0dda \u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7 \u0dad\u0dd9\u0dbd\u0dca \u0d91\u0db1 \u0dc4\u0dd0\u0da7\u0dd2 \u0d85\u0db1\u0dd4\u0dbb \u0dc4\u0dd9\u0dc5\u0dd2\u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7a/7ac4d9e2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -718,6 +742,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dcf.\u0dbd\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ac/acefcf8f.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/22a-gr-retains-powers-does-not-help-to-assuage-the-crisis/",
+    "time_ut": 1656903312,
+    "original_lang": "en",
+    "original_title": "22A: GR Retains Powers, Does Not Help To Assuage The Crisis",
+    "file_name": "/tmp/news_lk2/articles/6b/6bfafaef.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
