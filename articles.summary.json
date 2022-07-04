@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda--\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca\u200d-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca/11-395074",
+    "time_ut": 1656917026,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda  \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca\u200d \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d7/d751b58a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0bbf\u0b9a\u0bbe-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa-\u0b8f\u0bb1\u0bcd\u0baa\u0bc1-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-299681",
+    "time_ut": 1656916938,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa \u0b8f\u0bb1\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d2/d21e9d54.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-slip-over-1-pct-in-mid-day-trade-on-overall-uncertainity-in-the-market-96883/",
+    "time_ut": 1656916440,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks slip over 1-pct in mid-day trade on overall uncertainity in the market",
+    "file_name": "/tmp/news_lk2/articles/0e/0ef69fd6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/04/sc-orders-ag-to-prepare-report-on-fuel-purchasing-and-distribution/",
     "time_ut": 1656916380,
     "original_lang": "en",
     "original_title": "SC orders AG to prepare report on fuel purchasing and distribution",
     "file_name": "/tmp/news_lk2/articles/3a/3a505ebd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0ddc\u0dba\u0dcf-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca/101-615838",
+    "time_ut": 1656916342,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0ddc\u0dba\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/fd/fdedf4c8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -56,12 +88,20 @@
     "file_name": "/tmp/news_lk2/articles/91/91410c40.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0ddc\u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd\u0da7-\u0db6\u0dcf\u0db0\u0dcf/11-395072",
+    "time_ut": 1656915046,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0ddc\u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/64/64213b56.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/101-615834",
+    "url": "https://www.lankadeepa.lk/features/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/2-615834",
     "time_ut": 1656914854,
     "original_lang": "si",
     "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/32/32896a34.json"
+    "file_name": "/tmp/news_lk2/articles/e7/e75c7ea7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -73,19 +113,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/1-615832",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/101-615832",
     "time_ut": 1656914676,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1a/1ac64b87.json"
+    "file_name": "/tmp/news_lk2/articles/4b/4b1eff74.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0da0\u0dd2-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca/14-615831",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0da0\u0dd2-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca/101-615831",
     "time_ut": 1656914524,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0da0\u0dd2 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/21/214c3795.json"
+    "file_name": "/tmp/news_lk2/articles/c2/c2579749.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -425,11 +465,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc4\u0dac\u0db1\u0dc0\u0dcf--\u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dc4-\u0db4\u0dcf\u0dbb-\u0db8\u0dd0\u0daf-\u0dc4\u0dac\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018/11-615809",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc4\u0dac\u0db1\u0dc0\u0dcf--\u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dc4-\u0db4\u0dcf\u0dbb-\u0db8\u0dd0\u0daf-\u0dc4\u0dac\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018/101-615809",
     "time_ut": 1656907270,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda \u0dc4\u0dac\u0db1\u0dc0\u0dcf. \u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dc4 \u0db4\u0dcf\u0dbb \u0db8\u0dd0\u0daf \u0dc4\u0dac\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/39/398f0f6d.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a8e0bcc7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1033,11 +1073,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Japans-Altruism-Bombed-us-on-Easter-42-we-Recompensed-in-51/231-240248",
+    "url": "https://www.dailymirror.lk/recomended-news/Japans-Altruism-Bombed-us-on-Easter-42-we-Recompensed-in-51/277-240248",
     "time_ut": 1656856593,
     "original_lang": "en",
     "original_title": "Japan\u2019s Altruism: Bombed us on Easter \u201842; we \u2018Recompensed\u2019 in \u201851",
-    "file_name": "/tmp/news_lk2/articles/2b/2b60aa63.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c42c9ff3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1065,11 +1105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/When-they-cant-govern-they-must-Go-Home/231-240245",
+    "url": "https://www.dailymirror.lk/recomended-news/When-they-cant-govern-they-must-Go-Home/277-240245",
     "time_ut": 1656855821,
     "original_lang": "en",
     "original_title": "When they can\u2019t govern, they must Go Home",
-    "file_name": "/tmp/news_lk2/articles/23/231cc25d.json"
+    "file_name": "/tmp/news_lk2/articles/70/709b2e39.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
