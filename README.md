@@ -1,32 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 16:42:42 (LK time)*
+*As of 2022-07-04 16:49:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** virakesari-lk ([நாட்டை பிச்சைக்கார நாடாக மாற்றிய பெருமை தற்போதைய ஆட்சியாளர்களையே சேரும் - ஜஸ்டின் பேனாட் ஞானபிரகாசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4fa2d21.json))
 
 * **1** lankadeepa-lk ([දරුවා ඇකයේ සිටියදී මවගේ ගෙල කපා රන් මාලය පැහැර ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0491e564.json))
 
-* **1** ada-lk ([හමුදා පා පහර ගැන පරීක්ෂණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/622f24e9.json))
-
-* **1** news-first-lk ([BASL calls for immediate de-escalation of tensions](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab3b6130.json))
-
-## Last Hour (10 Articles)
+## Last Hour (9 Articles)
 
 * **4** ada-lk ([බෙලාරුස්, රුසියාව සමග න්‍යෂ්ටික සාකච්ඡාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46b68b72.json))
 
-* **2** virakesari-lk ([வவுனியா ரயில் விபத்தில் குடும்பஸ்தர் பரிதாபமாக உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/842aea07.json))
-
 * **2** daily-mirror-lk ([D.A. Rajapaksa Museum case: Documents held under court custody released to LRDC](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e5e797a.json))
+
+* **1** virakesari-lk ([நாட்டை பிச்சைக்கார நாடாக மாற்றிய பெருமை தற்போதைய ஆட்சியாளர்களையே சேரும் - ஜஸ்டின் பேனாட் ஞானபிரகாசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4fa2d21.json))
 
 * **1** lankadeepa-lk ([දරුවා ඇකයේ සිටියදී මවගේ ගෙල කපා රන් මාලය පැහැර ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0491e564.json))
 
 * **1** news-first-lk ([BASL calls for immediate de-escalation of tensions](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab3b6130.json))
 
-## Last 3 Hours (43 Articles)
+## Last 3 Hours (41 Articles)
 
 * **13** virakesari-lk ([இலங்கைக்கு அரபு நாடுகள் உதவத் தயார் ஆனால் இந்த அரசாங்கம் இருக்கும் வரை சாத்தியமாகாது - முன்னாள் கிழக்கு ஆளுநர் ஹிஸ்புல்லாஹ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab42188c.json))
 
@@ -38,13 +34,11 @@
 
 * **3** news-first-lk ([Sajith, Maithripala, civil activists unite to offer way forward](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aaf0c15.json))
 
-* **2** ada-derana-lk ([PUCSL recommends probe into power interruption due to CEB union action on June 9](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bdbfc32.json))
-
 * **2** economy-next-com ([Sri Lanka opposition JVP leader questions warnings of alleged terror plots](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d9dbfd2.json))
 
-* **1** tamil-mirror-lk ([மக்கள் மீது மோத வந்த பேருந்து; முல்லைத்தீவில் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29f95c3a.json))
+* **1** ada-derana-lk ([Sajith and Maithripala hold crucial talks on constitutional reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdbb4cd5.json))
 
-## Last 24 Hours (239 Articles)
+## Last 24 Hours (238 Articles)
 
 * **49** virakesari-lk ([பாதாள உலக குழுவினரால் அச்சுறுத்தல் - பொலிஸாருக்கு பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18e1404a.json))
 
@@ -60,7 +54,7 @@
 
 * **19** economy-next-com ([Sri Lanka worst crisis could be biggest blessing](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76f2ff5e.json))
 
-* **19** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
+* **18** tamil-mirror-lk ([ஜூலை 4, 5 க்கான மின் வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fe6cab5.json))
 
 * **11** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
@@ -70,7 +64,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
-## Last Week (1,735 Articles)
+## Last Week (1,732 Articles)
 
 * **347** virakesari-lk ([எரிவாயு விநியோகம் குறித்து லாஃப் எரிவாயு நிறுவனம் விடுத்துள்ள வேண்டுகோள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/864d72d0.json))
 
@@ -78,7 +72,7 @@
 
 * **195** daily-mirror-lk ([No scientific approach or formula followed during recent fuel price revision](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90bc990a.json))
 
-* **186** ada-lk ([ඉන්ධන පෝලිමේ බසයක් ගැටී 03කට බරපතල තුවාල](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2320175.json))
+* **185** ada-lk ([ජවිපෙ සමග වැඩ කරන්න විමල්ගේ කැමැත්ත](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5976511.json))
 
 * **168** tamil-mirror-lk ([தலையை துண்டாக்கிய  நீண்ட கால பகை](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1259bf0e.json))
 
@@ -86,7 +80,7 @@
 
 * **163** ada-derana-lk ([54 persons attempting to illegally migrate from island held in eastern seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46fd1908.json))
 
-* **103** economy-next-com ([Sri Lanka regulator proposes average power tariff hike to Rs32 a uni](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9faa8da8.json))
+* **101** economy-next-com ([India’s fresh $500 mln fuel credit to Sri Lanka delayed over routine administration – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bffcefc9.json))
 
 * **66** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
