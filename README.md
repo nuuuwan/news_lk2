@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 02:53:09 (LK time)*
+*As of 2022-07-05 03:09:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (236 Articles)
 
 * **49** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -12,7 +12,7 @@
 
 * **35** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **31** daily-mirror-lk ([Fuel shortage hits Suwa Seriya ambulance service](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d0fef8f.json))
+* **32** daily-mirror-lk ([Fuel shortage hits Suwa Seriya ambulance service](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d0fef8f.json))
 
 * **23** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
@@ -26,13 +26,13 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,693 Articles)
+## Last Week (1,694 Articles)
 
 * **355** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
 * **240** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **187** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
+* **188** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
 
 * **184** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
@@ -54,7 +54,7 @@
 
 * **6** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## All Time (2,973 Articles)
+## All Time (2,974 Articles)
 
 * **540** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -62,7 +62,7 @@
 
 * **367** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **308** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **309** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **287** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
