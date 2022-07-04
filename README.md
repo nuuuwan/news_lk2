@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 05:24:58 (LK time)*
+*As of 2022-07-04 05:35:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,7 +26,7 @@
 
 * **7** island-lk ([Iroshini Wijenayaka of Ideal Group represents Sri Lanka at World Women Leadership Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24a48463.json))
 
-## Last Week (1,737 Articles)
+## Last Week (1,738 Articles)
 
 * **349** virakesari-lk ([எரிபொருள் நெருக்கடி குறித்த பேச்சுவார்த்தைகளுக்காக அமைச்சர் இருவர் இன்று ரஷ்யா விஜயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84beaeeb.json))
 
@@ -46,7 +46,7 @@
 
 * **66** daily-ft-lk ([Hayleys Solar launches “Energynet” to combat power outages, non-availability of fossil fuels](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb083a37.json))
 
-* **51** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
+* **52** island-lk ([New scene for Ruwini?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2f2ef2c.json))
 
 * **23** d-b-s-jeyaraj-com ([Name of Dhammika Perera’s Ministry  Changed from  Tecnology and Investment Promotion to  Investment Promotion; New Gazette Issued  Listing  Institutions  and Functions  Allocated to Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bf81fea.json))
 
@@ -54,7 +54,7 @@
 
 * **6** b-b-c-com-sinhala ([LGBTQI ප්‍රජාව ; ''අපිට සැබෑ අයිතියක් තියෙනවා රටේ ප්‍රශ්න ගැන කතා කරන්න.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c73f35e.json))
 
-## All Time (2,721 Articles)
+## All Time (2,722 Articles)
 
 * **487** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -74,7 +74,7 @@
 
 * **136** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **106** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **107** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **42** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
