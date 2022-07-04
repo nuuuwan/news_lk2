@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/lanka-ioc-suspends-sri-lankas-fuel-token-system-96890/",
+    "time_ut": 1656926160,
+    "original_lang": "en",
+    "original_title": "Lanka IOC suspends Sri Lanka\u2019s fuel token system",
+    "file_name": "/tmp/news_lk2/articles/8d/8d7d7a23.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130751",
     "time_ut": 1656925893,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Urea fertilizer for all rice farmers",
     "file_name": "/tmp/news_lk2/articles/59/5934cca2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-hoteliers-urge-govt-to-extend-debt-moratorium-by-six-months-96686/",
-    "time_ut": 1656562620,
-    "original_lang": "en",
-    "original_title": "Sri Lanka hoteliers urge govt to extend debt moratorium by six months",
-    "file_name": "/tmp/news_lk2/articles/df/df89c05b.json"
   }
 ]
