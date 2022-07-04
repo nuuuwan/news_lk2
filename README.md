@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 23:21:44 (LK time)*
+*As of 2022-07-04 23:31:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -50,7 +50,7 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,705 Articles)
+## Last Week (1,704 Articles)
 
 * **351** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -58,7 +58,7 @@
 
 * **187** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
 
-* **186** ada-lk ([බලශක්තිය හා ගුවන් ගමන් ගැන රුසියා තානාපති සමග සාකච්ඡාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed0294c.json))
+* **185** ada-lk ([අතේ තියෙන මුදලින් තෙල් ‌ගේන්න අවධානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87fb83c0.json))
 
 * **166** tamil-mirror-lk ([இன்றைய மின்வெட்டு நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19bbe239.json))
 
