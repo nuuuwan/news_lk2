@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 05:04:22 (LK time)*
+*As of 2022-07-05 05:22:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
 
-## Last 24 Hours (252 Articles)
+## Last 24 Hours (253 Articles)
 
 * **50** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -20,7 +20,7 @@
 
 * **32** daily-mirror-lk ([Fuel shortage hits Suwa Seriya ambulance service](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d0fef8f.json))
 
-* **23** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
+* **24** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
 
 * **23** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
@@ -34,7 +34,7 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,711 Articles)
+## Last Week (1,712 Articles)
 
 * **356** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
@@ -44,7 +44,7 @@
 
 * **184** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
-* **167** tamil-mirror-lk ([இன்றைய மின்வெட்டு நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19bbe239.json))
+* **168** tamil-mirror-lk ([இன்றைய மின்வெட்டு நேர அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19bbe239.json))
 
 * **165** ada-derana-lk ([Energy Minister off to Qatar for talks on fuel imports](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40567bc.json))
 
@@ -62,7 +62,7 @@
 
 * **6** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## All Time (2,991 Articles)
+## All Time (2,992 Articles)
 
 * **541** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -72,7 +72,7 @@
 
 * **309** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **288** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **289** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **249** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
