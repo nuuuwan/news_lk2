@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130756",
+    "time_ut": 1656928308,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd - \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0baa\u0bb2\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6f/6f2a3e64.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Vital-to-determine-whether-Russian-crude-oil-meets-CPC-specs-Susil/342-240311",
     "time_ut": 1656927699,
@@ -14,6 +22,14 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0db4\u0dcf \u0db4\u0dc4\u0dbb \u0d9c\u0dd0\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/72/729b9338.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0db8\u0dca\u0db6-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0d9a\u0db8\u0dbd\u0dca\u0d9c\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0d87\u0dad\u0dca\u0dad\u0d9a\u0dca\u0daf-/11-395084",
+    "time_ut": 1656927458,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddd\u0db8\u0dca\u0db6 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0d9a\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0d87\u0dad\u0dca\u0dad\u0d9a\u0dca\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/9f/9f5d8a86.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -102,14 +118,6 @@
     "original_lang": "en",
     "original_title": "Sajith Premadasa meets Maithripala Sirisena for crucial talks",
     "file_name": "/tmp/news_lk2/articles/99/995eaf73.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/sajith-maithripala-civil-activists-unite-to-offer-way-forward/",
-    "time_ut": 1656925260,
-    "original_lang": "en",
-    "original_title": "Sajith, Maithripala, civil activists unite to offer way forward",
-    "file_name": "/tmp/news_lk2/articles/0a/0aaf0c15.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "BOI \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d85\u0dad\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dd6 \u0db1\u0dc0 \u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0db8\u0dca\u0dc4\u0dbd",
     "file_name": "/tmp/news_lk2/articles/fc/fcda145f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83334/policeman-at-gonahena-stf-camp-commits-suicide",
-    "time_ut": 1656563940,
-    "original_lang": "en",
-    "original_title": "Policeman at Gonahena STF camp commits suicide",
-    "file_name": "/tmp/news_lk2/articles/30/30f060c4.json"
   }
 ]
