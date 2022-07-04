@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/I-am-proud-to-have-won-this-for-my-motherland-at-this-difficult-time-Yupun/108-240309",
+    "time_ut": 1656923348,
+    "original_lang": "en",
+    "original_title": "\u2019\u2019I am proud to have won this for my motherland at this difficult time\u2019\u2019 - Yupun",
+    "file_name": "/tmp/news_lk2/articles/48/48ca901c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0dbb\u0dd2\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0dd9\u0dc0\u0dd3\u0db8\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbb\u0dc3\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-395080",
+    "time_ut": 1656923007,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dd2\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dd9\u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbb\u0dc3\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fb/fb807840.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bae\u0bcb\u0ba4-\u0bb5\u0ba8\u0bcd\u0ba4-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/72-299692",
     "time_ut": 1656922718,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "PUCSL recommends probe into power interruption due to CEB union action on June 9",
     "file_name": "/tmp/news_lk2/articles/3b/3bdbfc32.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tax-revenues-up-27-pct-with-galloping-inflation-one-off-levy-96885/",
+    "time_ut": 1656922320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tax revenues up 27-pct with galloping inflation, one off levy",
+    "file_name": "/tmp/news_lk2/articles/f2/f235504a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka PM must present fiscal consolidation plan, go for SOE reform: opposition MP",
     "file_name": "/tmp/news_lk2/articles/0f/0f54dbf8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da7\u0dd2\u0db1\u0dcf-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615632",
-    "time_ut": 1656561068,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/24/246fdc6b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83333/caa-issues-new-directive-on-traders-importers-and-manufacturers",
-    "time_ut": 1656561060,
-    "original_lang": "en",
-    "original_title": "CAA issues new directive on traders, importers and manufacturers",
-    "file_name": "/tmp/news_lk2/articles/46/460b060b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83333/caa-issues-new-directive-to-traders-importers-and-manufacturers",
-    "time_ut": 1656561060,
-    "original_lang": "en",
-    "original_title": "CAA issues new directive to traders, importers and manufacturers",
-    "file_name": "/tmp/news_lk2/articles/d2/d2117767.json"
   }
 ]
