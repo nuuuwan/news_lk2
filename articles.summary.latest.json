@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-gone-out-of-sight-when-country-in-serious-crisis-Wimal/342-240308",
+    "time_ut": 1656921871,
+    "original_lang": "en",
+    "original_title": "President gone out of sight when country in serious crisis: Wimal",
+    "file_name": "/tmp/news_lk2/articles/6b/6b34da56.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83418/extraordinary-gazette-issued-on-essential-services",
     "time_ut": 1656921420,
@@ -8,28 +16,44 @@
     "file_name": "/tmp/news_lk2/articles/bb/bb715996.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130749",
+    "time_ut": 1656921335,
+    "original_lang": "ta",
+    "original_title": "\u0b95.\u0baa\u0bca.\u0ba4. \u0b89\u0baf\u0bb0\u0bcd \u0ba4\u0bb0 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1  - \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/60/60490a1d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/AL-exam-could-be-delayed-by-one-month-Minister/342-240307",
+    "url": "https://www.dailymirror.lk/breaking_news/AL-exam-could-be-delayed-by-one-month-Minister/108-240307",
     "time_ut": 1656921293,
     "original_lang": "en",
     "original_title": "A/L exam could be delayed by one month: Minister",
-    "file_name": "/tmp/news_lk2/articles/39/393b0e63.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f2142b46.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130750",
+    "time_ut": 1656921231,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0baa\u0bbe\u0bb2\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/99/99db8d35.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/FR-filed-by-three-accademics-over-current-economic-crisis-fixed-for-support/342-240306",
+    "url": "https://www.dailymirror.lk/breaking_news/FR-filed-by-three-accademics-over-current-economic-crisis-fixed-for-support/108-240306",
     "time_ut": 1656921043,
     "original_lang": "en",
     "original_title": "FR filed by three accademics over current economic crisis fixed for support",
-    "file_name": "/tmp/news_lk2/articles/3e/3ee135f8.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7e0be67c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SC-calls-for-a-fuel-procurement-and-distribution-plan/342-240305",
+    "url": "https://www.dailymirror.lk/breaking_news/SC-calls-for-a-fuel-procurement-and-distribution-plan/108-240305",
     "time_ut": 1656920823,
     "original_lang": "en",
     "original_title": "SC calls for a fuel procurement and distribution plan",
-    "file_name": "/tmp/news_lk2/articles/af/af50ca60.json"
+    "file_name": "/tmp/news_lk2/articles/ee/ee63a924.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Party Leaders to meet today (30)",
     "file_name": "/tmp/news_lk2/articles/2d/2dd45659.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bbf-\u0b8a\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-299459",
-    "time_ut": 1656558472,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0b8a\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a8/a8027fc8.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b93-\u0b9a\u0bbf-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-299459",
-    "time_ut": 1656558472,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0b93.\u0b9a\u0bbf \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd  \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ac/acae4f18.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0baf\u0ba3\u0b95\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-299458",
-    "time_ut": 1656557849,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0baf\u0ba3\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e3/e3bb78ab.json"
   }
 ]
