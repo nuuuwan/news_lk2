@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 19:46:59 (LK time)*
+*As of 2022-07-04 19:51:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -60,7 +60,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
-## Last Week (1,729 Articles)
+## Last Week (1,727 Articles)
 
 * **348** virakesari-lk ([மாந்திரீகர் கழுத்தறுத்துக் கொலை : தலைப் பகுதி நில்வலா கங்கைக்குள் ? : சந்தேக நபர் தலைமறைவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41fd11a6.json))
 
@@ -70,11 +70,11 @@
 
 * **185** ada-lk ([අද මධ්‍යම රාත්‍රියේ සිට අත්‍යාවශ්‍ය සේවා  පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14b9b3fa.json))
 
-* **168** tamil-mirror-lk ([சுதந்திரமாக உலாவும் காரணகர்த்தாக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66ede44a.json))
+* **167** tamil-mirror-lk ([பாடசாலை விடுமுறை குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec7cd54.json))
 
 * **165** ada-derana-lk ([Fuel to be supplied only for essential services until July 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceb6ad94.json))
 
-* **158** news-first-lk ([CBSL agrees to release money for due payments for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64abd4d0.json))
+* **157** news-first-lk ([BREAKING: Only essential services to operate from midnight (27); CPC will only issue fuel for essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7015497.json))
 
 * **102** economy-next-com ([Sri Lanka’s private buses en route to grinding halt as fuel crisis deepens](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d1c8cf1.json))
 
