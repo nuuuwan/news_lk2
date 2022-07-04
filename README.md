@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 02:23:47 (LK time)*
+*As of 2022-07-05 02:37:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** daily-mirror-lk ([Mr. President, it’s not too late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/749d4dec.json))
 
 ## Last 24 Hours (234 Articles)
 
