@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 02:02:38 (LK time)*
+*As of 2022-07-05 02:18:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
+## Last 3 Hours (2 Articles)
 
 * **2** daily-mirror-lk ([Diplomacy depends on decency](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/599c0160.json))
 
-* **1** ada-derana-lk ([Australian HC assures to support Sri Lanka’s economic, social, and maritime sectors’ progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8ac8ef7.json))
-
-## Last 24 Hours (237 Articles)
+## Last 24 Hours (234 Articles)
 
 * **48** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -29,8 +27,6 @@
 * **14** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
 
 * **3** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
-
-* **3** daily-ft-lk ([Sri Lanka seeks greater cooperation in food processing and dairy sectors with India](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f95f0a0.json))
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
