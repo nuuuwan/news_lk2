@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/sc-orders-ag-to-prepare-report-on-fuel-purchasing-and-distribution/",
+    "time_ut": 1656916380,
+    "original_lang": "en",
+    "original_title": "SC orders AG to prepare report on fuel purchasing and distribution",
+    "file_name": "/tmp/news_lk2/articles/3a/3a505ebd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/76-299680",
+    "time_ut": 1656915990,
+    "original_lang": "ta",
+    "original_title": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b3/b3d9565a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankan-refugee-found-unconscious-on-Tamil-Nadu-shores-dies/108-240304",
+    "time_ut": 1656915705,
+    "original_lang": "en",
+    "original_title": "Sri Lankan refugee, found unconscious on Tamil Nadu shores, dies",
+    "file_name": "/tmp/news_lk2/articles/ad/adf924c4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db9\u0dd4\u0da7\u0db1\u0dca-\u0d87\u0da7\u0dba\u0d9a\u0dca-\u0dc3\u0dd2\u0dbb\u0dc0\u0dd3-\u0daf\u0dc3-\u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/1-615836",
+    "time_ut": 1656915638,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db9\u0dd4\u0da7\u0db1\u0dca \u0d87\u0da7\u0dba\u0d9a\u0dca \u0dc3\u0dd2\u0dbb\u0dc0\u0dd3 \u0daf\u0dc3 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/34/34019c8c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83415/kahatuduwa-house-fire-6-year-old-girl-succumbs-to-injuries",
     "time_ut": 1656915180,
@@ -16,28 +48,44 @@
     "file_name": "/tmp/news_lk2/articles/7d/7d6b7cff.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/army-launches-internal-probe-on-lt-col-who-kicked-a-man-at-a-filling-station/",
+    "time_ut": 1656915060,
+    "original_lang": "en",
+    "original_title": "Army launches internal probe on Lt. Col. who kicked a man at a filling station",
+    "file_name": "/tmp/news_lk2/articles/91/91410c40.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/2-615834",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/101-615834",
     "time_ut": 1656914854,
     "original_lang": "si",
     "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e75c7ea7.json"
+    "file_name": "/tmp/news_lk2/articles/32/32896a34.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/101-615832",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9a\u0db1\u0dca\u0daf-\u0d8b\u0da9-\u0da7\u0dd9\u0db1\u0dd2\u0dc3\u0dca-\u0db6\u0ddd\u0dbd-\u0d9c\u0dc4\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf\u2018\u2018/1-615833",
+    "time_ut": 1656914797,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9a\u0db1\u0dca\u0daf \u0d8b\u0da9 \u0da7\u0dd9\u0db1\u0dd2\u0dc3\u0dca \u0db6\u0ddd\u0dbd \u0d9c\u0dc4\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/e1/e1655553.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2/1-615832",
     "time_ut": 1656914676,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4b/4b1eff74.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1ac64b87.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0da0\u0dd2-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca/101-615831",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0da0\u0dd2-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca/14-615831",
     "time_ut": 1656914524,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0da0\u0dd2 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c2/c2579749.json"
+    "file_name": "/tmp/news_lk2/articles/21/214c3795.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -46,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Main suspect in Bastian Mawatha shooting killed in police confrontation",
     "file_name": "/tmp/news_lk2/articles/af/af51619b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-19\u0d9a-\u0dbb\u0db1\u0dca-\u0dc4\u0dcf-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395071",
+    "time_ut": 1656914112,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 19\u0d9a \u0dbb\u0db1\u0dca \u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/67/67234e51.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -105,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-19\u0d9a-\u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-615821",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddd\u0da7\u0dd2-19\u0d9a-\u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615821",
     "time_ut": 1656912818,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 19\u0d9a \u0dbb\u0dad\u0dca\u200d\u0dbb\u0d82 \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e4/e4fb449b.json"
+    "file_name": "/tmp/news_lk2/articles/0d/0d90d181.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -369,11 +425,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc4\u0dac\u0db1\u0dc0\u0dcf--\u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dc4-\u0db4\u0dcf\u0dbb-\u0db8\u0dd0\u0daf-\u0dc4\u0dac\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018/101-615809",
+    "url": "https://www.lankadeepa.lk/main_picture/\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc4\u0dac\u0db1\u0dc0\u0dcf--\u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dc4-\u0db4\u0dcf\u0dbb-\u0db8\u0dd0\u0daf-\u0dc4\u0dac\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018/11-615809",
     "time_ut": 1656907270,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda \u0dc4\u0dac\u0db1\u0dc0\u0dcf. \u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dc4 \u0db4\u0dcf\u0dbb \u0db8\u0dd0\u0daf \u0dc4\u0dac\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/a8/a8e0bcc7.json"
+    "file_name": "/tmp/news_lk2/articles/39/398f0f6d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -977,11 +1033,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/Japans-Altruism-Bombed-us-on-Easter-42-we-Recompensed-in-51/277-240248",
+    "url": "https://www.dailymirror.lk/opinion/Japans-Altruism-Bombed-us-on-Easter-42-we-Recompensed-in-51/231-240248",
     "time_ut": 1656856593,
     "original_lang": "en",
     "original_title": "Japan\u2019s Altruism: Bombed us on Easter \u201842; we \u2018Recompensed\u2019 in \u201851",
-    "file_name": "/tmp/news_lk2/articles/c4/c42c9ff3.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b60aa63.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1009,11 +1065,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/When-they-cant-govern-they-must-Go-Home/277-240245",
+    "url": "https://www.dailymirror.lk/opinion/When-they-cant-govern-they-must-Go-Home/231-240245",
     "time_ut": 1656855821,
     "original_lang": "en",
     "original_title": "When they can\u2019t govern, they must Go Home",
-    "file_name": "/tmp/news_lk2/articles/70/709b2e39.json"
+    "file_name": "/tmp/news_lk2/articles/23/231cc25d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

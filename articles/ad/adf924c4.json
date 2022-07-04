@@ -1,0 +1,480 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankan-refugee-found-unconscious-on-Tamil-Nadu-shores-dies/108-240304",
+  "time_ut": 1656915705,
+  "original_lang": "en",
+  "original_title": "Sri Lankan refugee, found unconscious on Tamil Nadu shores, dies",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lankan refugee, found unconscious on Tamil Nadu shores, dies",
+      "author": "unknown",
+      "body_lines": [
+        "A 71-year-old woman refugee, who had fled crisis-ridden Sri Lanka along with her 81-year-old husband on a boat and was found unconscious on the shore at Dhanushkodi on June 27, died at Government Rajaji Hospital in Madurai on Saturday night.",
+        "Of the 96 who have so far reached Indian shores on illegal ferries after the island nation plunged into an economic crisis, this is the first death, the Indian media reported.",
+        "The couple, Parameswari and her husband Periyannan Sivan, from Mannar, were admitted to Ramanathapuram Government Hospital as they suffered from dehydration and shock. They were subsequently referred to Government Rajaji Hospital the same night.",
+        "Doctors at GRH told Times of India that Parameswari had a blood clot in her brain and a craniotomy surgery was done to remove it. However, she continued to be in ICU and died without responding to treatment. They said the woman was diabetic and hypertensive.",
+        "The elderly couple had travelled to Tamil Nadu to reunite with their two sons Sahayaseelan and Raja and daughter Udhayarani who are residing at the Valavandankottai refugee camp in Thuvakudi, Trichy. It was around 7am on June 27 that local fishermen spotted the duo unconscious near Kothandaramar temple. Periyannan Sivan is being treated at GRH and is stable."
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lankan",
+          "label": "NORP"
+        },
+        {
+          "text": "Tamil Nadu",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "71-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "81-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Dhanushkodi",
+            "label": "ORG"
+          },
+          {
+            "text": "June 27",
+            "label": "DATE"
+          },
+          {
+            "text": "Government Rajaji Hospital",
+            "label": "ORG"
+          },
+          {
+            "text": "Madurai",
+            "label": "GPE"
+          },
+          {
+            "text": "Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "night",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Parameswari",
+            "label": "PERSON"
+          },
+          {
+            "text": "Periyannan Sivan",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mannar",
+            "label": "GPE"
+          },
+          {
+            "text": "Ramanathapuram Government Hospital",
+            "label": "ORG"
+          },
+          {
+            "text": "Government Rajaji Hospital",
+            "label": "ORG"
+          },
+          {
+            "text": "the same night",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "GRH",
+            "label": "ORG"
+          },
+          {
+            "text": "Times of India",
+            "label": "ORG"
+          },
+          {
+            "text": "Parameswari",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Tamil Nadu",
+            "label": "PERSON"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Valavandankottai",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Thuvakudi",
+            "label": "GPE"
+          },
+          {
+            "text": "Trichy",
+            "label": "PERSON"
+          },
+          {
+            "text": "7am",
+            "label": "TIME"
+          },
+          {
+            "text": "June 27",
+            "label": "DATE"
+          },
+          {
+            "text": "Kothandaramar",
+            "label": "ORG"
+          },
+          {
+            "text": "Periyannan Sivan",
+            "label": "PERSON"
+          },
+          {
+            "text": "GRH",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4 \u0dc0\u0dd9\u0dbb\u0dc5\u0dda \u0dc3\u0dd2\u0dc4\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0dc3\u0dbb\u0dab\u0dcf\u0d9c\u0dad\u0dba\u0dcf \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dbd\u0dcf \u0d9c\u0dd2\u0dba 81 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dc3\u0db8\u0d9f \u0db6\u0ddd\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dbd\u0dcf \u0d9c\u0dd2\u0dba 71 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0dc3\u0dbb\u0dab\u0dcf\u0d9c\u0dad \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca, \u0da2\u0dd4\u0db1\u0dd2 27 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0ddc\u0da9\u0dd2 \u0dc0\u0dd9\u0dbb\u0dc5\u0dda \u0dc3\u0dd2\u0dc4\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0db8\u0daf\u0dd4\u0dbb\u0dd9\u0dba\u0dd2\u0dc4\u0dd2 \u0dbb\u0da2\u0dba\u0dda \u0dbb\u0dcf\u0da2\u0dcf\u0da2\u0dd2 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda\u0daf\u0dd3 \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dba\u0dda\u0dba. \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dbb\u0dd1.",
+        "\u0daf\u0dd6\u0db4\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0dba \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0d9a\u0da7 \u0d87\u0daf \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dda \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd9\u0dbb\u0dc5\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0d87\u0dad\u0dd2 96 \u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dbb\u0dab\u0dba \u0db8\u0dd9\u0dba \u0db6\u0dc0 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0db4\u0dbb\u0db8\u0dda\u0dc1\u0dca\u0dc0\u0dbb\u0dd3 \u0dc3\u0dc4 \u0d87\u0d9c\u0dda \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dc0\u0db1 \u0db4\u0dd9\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc3\u0dd2\u0dc0\u0db1\u0dca \u0dba\u0dd4\u0dc0\u0dc5 \u0dc0\u0dd2\u0da2\u0dbd\u0db1\u0dba \u0dc4\u0dcf \u0d9a\u0db8\u0dca\u0db4\u0db1\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u0dc0 \u0dbb\u0dcf\u0db8\u0db1\u0dcf\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0dbb\u0da2\u0dba\u0dda \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0db4\u0dc3\u0dd4\u0dc0 \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0d91\u0daf\u0dd2\u0db1\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0dbb\u0da2\u0dba\u0dda \u0dbb\u0dcf\u0da2\u0dcf\u0da2\u0dd2 \u0dbb\u0ddd\u0dc4\u0dbd \u0dc0\u0dd9\u0dad \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "GRH \u0dc4\u0dd2 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4 \u0da7\u0dba\u0dd2\u0db8\u0dca\u0dc3\u0dca \u0d94\u0dc6\u0dca \u0d89\u0db1\u0dca\u0da9\u0dd2\u0dba\u0dcf \u0dc0\u0dd9\u0dad \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db4\u0dbb\u0db8\u0dda\u0dc1\u0dca\u0dc0\u0dbb\u0dd3\u0d9c\u0dda \u0db8\u0ddc\u0dc5\u0dba\u0dda \u0dbb\u0dd4\u0db0\u0dd2\u0dbb \u0d9a\u0dd0\u0da7\u0dd2\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0d91\u0dba \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0dd2\u0dc3\u0dca \u0d9a\u0db6\u0dbd\u0dda \u0dc3\u0dd0\u0dad\u0dca\u0d9a\u0db8\u0d9a\u0dca \u0d9a\u0dc5 \u0db6\u0dc0\u0dad\u0dca\u0dba. \u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0daf\u0dd0\u0da9\u0dd2 \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb \u0d92\u0d9a\u0d9a\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0dbd\u0db6\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2 \u0d87\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0db1\u0ddc\u0dbd\u0db6\u0dcf \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dba\u0dcf\u0dba. \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0db8 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0 \u0daf\u0dd2\u0dba\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dcf \u0dc3\u0dc4 \u0d85\u0db0\u0dd2 \u0dbb\u0dd4\u0db0\u0dd2\u0dbb \u0db4\u0dd3\u0da9\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0dc5\u0dd9\u0db1 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0da0\u0dd2, \u0dad\u0dd4\u0dc0\u0d9a\u0dd4\u0da9\u0dd2 \u0dc4\u0dd2 \u0dc0\u0dbd\u0dc0\u0db1\u0dca\u0daf\u0db1\u0dca\u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dd9\u0dba\u0dd2 \u0dc3\u0dbb\u0dab\u0dcf\u0d9c\u0dad \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dd4\u0dad\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0dc0\u0db1 \u0dc3\u0dc4\u0dba\u0dc3\u0dd3\u0dbd\u0db1\u0dca \u0dc3\u0dc4 \u0dbb\u0dcf\u0da2\u0dcf \u0dc3\u0dc4 \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0d8b\u0daf\u0dba\u0dbb\u0dcf\u0dab\u0dd2 \u0dc3\u0db8\u0d9f \u0db1\u0dd0\u0dc0\u0dad \u0d91\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db8\u0dd9\u0db8 \u0dc0\u0dba\u0ddd\u0dc0\u0dd8\u0daf\u0dca\u0db0 \u0dba\u0dd4\u0dc0\u0dc5 \u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4\u0dc0\u0da7 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad. \u0da2\u0dd6\u0db1\u0dd2 27 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d8b\u0daf\u0dda 7 \u0da7 \u0db4\u0db8\u0dab \u0d9a\u0ddc\u0dad\u0db1\u0dca\u0daf\u0dbb\u0dcf\u0db8\u0dbb\u0dca \u0d9a\u0ddd\u0dc0\u0dd2\u0dbd \u0d85\u0dc3\u0dbd\u0daf\u0dd3 \u0dc3\u0dd2\u0dc4\u0dd2\u0dc3\u0dd4\u0db1\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca \u0daf\u0dd0\u0d9a \u0dad\u0dd2\u0db6\u0dda. \u0db4\u0dd9\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc3\u0dd2\u0dc0\u0db1\u0dca GRH \u0dc4\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0dbd\u0db6\u0db1 \u0d85\u0dad\u0dbb \u0d94\u0dc4\u0dd4 \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4\u0dc0",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "71 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "81 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0ddc\u0da9\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2 27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0dbb\u0dcf\u0da2\u0dcf\u0da2\u0dd2 \u0dbb\u0ddd\u0dc4\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0daf\u0dd4\u0dbb\u0dd9\u0dba\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dbb\u0db8\u0dda\u0dc1\u0dca\u0dc0\u0dbb\u0dd3",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc3\u0dd2\u0dc0\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0db8\u0db1\u0dcf\u0dad\u0db4\u0dd4\u0dbb\u0db8\u0dca \u0dbb\u0da2\u0dba\u0dda \u0dbb\u0ddd\u0dc4\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0dbb\u0dcf\u0da2\u0dcf\u0da2\u0dd2 \u0dbb\u0ddd\u0dc4\u0dbd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba\u0dda\u0db8",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "GRH",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0dba\u0dd2\u0db8\u0dca\u0dc3\u0dca \u0d94\u0dc6\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dbb\u0db8\u0dda\u0dc1\u0dca\u0dc0\u0dbb\u0dd3",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4\u0dc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dbd\u0dc0\u0db1\u0dca\u0daf\u0db1\u0dca\u0d9a\u0ddd\u0da7\u0dca\u0da7\u0dd9\u0dba\u0dd2",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0dc0\u0d9a\u0dd4\u0da9\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0da0\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dd9.\u0dc0. 7",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2 27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dad\u0db1\u0dca\u0daf\u0dbb\u0dcf\u0db8\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0db1\u0db1\u0dca \u0dc3\u0dd2\u0dc0\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "GRH",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0b95\u0ba4\u0bbf \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 81 \u0bb5\u0baf\u0ba4\u0bc1 \u0b95\u0ba3\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 71 \u0bb5\u0baf\u0ba4\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd \u0b85\u0b95\u0ba4\u0bbf, \u0b9c\u0bc2\u0ba9\u0bcd 27 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0ba9\u0bc1\u0bb7\u0bcd\u0b95\u0bcb\u0b9f\u0bbf \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1 \u0bb0\u0bbe\u0b9c\u0bbe\u0b9c\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b87\u0bb0\u0bb5\u0bc1.",
+        "\u0ba4\u0bc0\u0bb5\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bb0\u0bc8\u0baf\u0bc8 \u0b85\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 96 \u0baa\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd, \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9.",
+        "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf \u0baa\u0bb0\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0b95\u0ba3\u0bb5\u0bb0\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb0\u0bbe\u0bae\u0ba8\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd. \u0b87\u0ba4\u0bc8\u0baf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bb5\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 \u0bb0\u0bbe\u0b9c\u0bbe\u0b9c\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0baa\u0bb0\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b89\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1 \u0b95\u0bbf\u0bb0\u0bbe\u0ba9\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bbf \u0b85\u0bb1\u0bc1\u0bb5\u0bc8 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9c\u0bbf\u0b86\u0bb0\u0bcd\u0bb9\u0bc6\u0b9a\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bc8\u0bae\u0bcd\u0bb8\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. \u0b86\u0ba9\u0bbe\u0bb2\u0bcd, \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b90\u0b9a\u0bbf\u0baf\u0bc2\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b85\u0bb5\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bb2\u0ba9\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b85\u0ba8\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0bb0\u0bbf\u0bb4\u0bbf\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4 \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf, \u0ba4\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb5\u0bb3\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0bb5\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bbe\u0baf\u0b9a\u0bc0\u0bb2\u0ba9\u0bcd, \u0bb0\u0bbe\u0b9c\u0bbe, \u0bae\u0b95\u0bb3\u0bcd \u0b89\u0ba4\u0baf\u0bb0\u0bbe\u0ba3\u0bbf \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf \u0bae\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0b9c\u0bc2\u0ba9\u0bcd 27\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0b95\u0bbe\u0bb2\u0bc8 7 \u0bae\u0ba3\u0bbf\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0ba4\u0ba3\u0bcd\u0b9f\u0bb0\u0bbe\u0bae\u0bb0\u0bcd \u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. \u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd \u0b9c\u0bbf\u0b86\u0bb0\u0bcd\u0b8e\u0b9a\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0b89\u0b9f\u0bb2\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8 \u0ba4\u0bc7\u0bb1\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "NORP"
+        },
+        {
+          "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "71 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "81 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0ba9\u0bc1\u0bb7\u0bcd\u0b95\u0bcb\u0b9f\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bc1 \u0bb0\u0bbe\u0b9c\u0bbe\u0b9c\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bb0\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0bae\u0ba8\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bc1 \u0bb0\u0bbe\u0b9c\u0bbe\u0b9c\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0ba4\u0bc7 \u0b87\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "GRH",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bc8\u0bae\u0bcd\u0bb8\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bb0\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbf",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bb3\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 7 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0ba4\u0ba3\u0bcd\u0b9f\u0bb0\u0bbe\u0bae\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "GRH",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
