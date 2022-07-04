@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 00:52:04 (LK time)*
+*As of 2022-07-05 01:04:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -34,13 +34,13 @@
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,702 Articles)
+## Last Week (1,699 Articles)
 
 * **353** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
 * **240** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **189** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
+* **187** daily-mirror-lk ([Queues at fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de26de1.json))
 
 * **184** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
@@ -56,7 +56,7 @@
 
 * **41** island-lk ([Fuel crisis combines with profit-takings to drag down share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21966c1.json))
 
-* **23** d-b-s-jeyaraj-com ([The 22nd Amendment to the Constitution will be published in the Gazette of June 29 and  presented to Parliament after seven days, Says Justice Minister Wijeyadasa Rajapakshe; Cabinet Approved Draft Bill on June 27](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c4b2794.json))
+* **22** d-b-s-jeyaraj-com ([Sri Lanka to purchase four shipments of fuel from India for Cash  instead of on credit; Deal Expected to materialise in One week  will result in  Initial shipment Followed by Petrol Shipments  When Required.](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e7b153c.json))
 
 * **13** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
