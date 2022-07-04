@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 23:31:17 (LK time)*
+*As of 2022-07-04 23:39:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Australian HC assures to support Sri Lanka’s economic, social, and maritime sectors’ progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8ac8ef7.json))
 
 ## Last Hour (1 Articles)
 
@@ -26,7 +22,7 @@
 
 * **1** economy-next-com ([Sri Lanka stocks down as economy comes to still amid fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91980829.json))
 
-## Last 24 Hours (246 Articles)
+## Last 24 Hours (245 Articles)
 
 * **45** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -34,7 +30,7 @@
 
 * **35** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **33** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
+* **32** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
 
 * **25** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
 
