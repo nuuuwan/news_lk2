@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 01:12:10 (LK time)*
+*As of 2022-07-05 01:22:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **2** daily-mirror-lk ([Diplomacy depends on decency](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/599c0160.json))
 
-* **2** ada-derana-lk ([Praveen Jayawickrama tests positive for Covid-19](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/790c8c17.json))
+* **1** ada-derana-lk ([Australian HC assures to support Sri Lanka’s economic, social, and maritime sectors’ progress](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8ac8ef7.json))
 
-## Last 24 Hours (243 Articles)
+## Last 24 Hours (240 Articles)
 
 * **47** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -18,7 +18,7 @@
 
 * **35** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **34** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
+* **31** daily-mirror-lk ([Fuel shortage hits Suwa Seriya ambulance service](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d0fef8f.json))
 
 * **23** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
