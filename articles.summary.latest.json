@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-local-government-official-stabbed-to-death-96906/",
+    "time_ut": 1656937380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka local government official stabbed to death",
+    "file_name": "/tmp/news_lk2/articles/1c/1c1516d3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83422/three-including-2-indians-arrested-with-gold-and-foreign-currency-worth-rs-190-million",
     "time_ut": 1656936720,
     "original_lang": "en",
     "original_title": "Three including 2 Indians arrested with gold and foreign currency worth Rs. 190 million",
     "file_name": "/tmp/news_lk2/articles/9f/9fd938cd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/trade-union-action-caused-125mwh-rs-320-mn-loss-sri-lanka-utility-regulator-96891/",
+    "time_ut": 1656936540,
+    "original_lang": "en",
+    "original_title": "Trade union action caused 125Mwh, Rs 320 mn loss: Sri Lanka utility regulator",
+    "file_name": "/tmp/news_lk2/articles/05/05b66956.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "22A published via Gazette",
     "file_name": "/tmp/news_lk2/articles/ff/ff9c16d9.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-slip-in-mid-day-trade-96691/",
-    "time_ut": 1656570000,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks slip in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/07/0722467e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd3-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd9\u0db1\u0dad\u0dca-\u0db6\u0ddc\u0dca\u0d9c-\u0dc0\u0dbd\u0da7\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-615639",
-    "time_ut": 1656569988,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd3 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0db6\u0ddc\u0dca\u0d9c \u0dc0\u0dbd\u0da7\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/4d/4dcdbc7a.json"
   }
 ]

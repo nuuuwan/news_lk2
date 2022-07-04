@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-local-government-official-stabbed-to-death-96906/",
+    "time_ut": 1656937380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka local government official stabbed to death",
+    "file_name": "/tmp/news_lk2/articles/1c/1c1516d3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83422/three-including-2-indians-arrested-with-gold-and-foreign-currency-worth-rs-190-million",
     "time_ut": 1656936720,
     "original_lang": "en",
     "original_title": "Three including 2 Indians arrested with gold and foreign currency worth Rs. 190 million",
     "file_name": "/tmp/news_lk2/articles/9f/9fd938cd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/trade-union-action-caused-125mwh-rs-320-mn-loss-sri-lanka-utility-regulator-96891/",
+    "time_ut": 1656936540,
+    "original_lang": "en",
+    "original_title": "Trade union action caused 125Mwh, Rs 320 mn loss: Sri Lanka utility regulator",
+    "file_name": "/tmp/news_lk2/articles/05/05b66956.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -8600,20 +8616,20 @@
     "file_name": "/tmp/news_lk2/articles/dc/dc815e73.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83331/advisory-issued-for-strong-winds-and-rough-seas",
-    "time_ut": 1656555960,
-    "original_lang": "en",
-    "original_title": "Advisory issued for strong winds and rough seas",
-    "file_name": "/tmp/news_lk2/articles/19/19fe52c8.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-will-have-to-stand-on-its-own-feet-pm-96663/",
     "time_ut": 1656555960,
     "original_lang": "en",
     "original_title": "Sri Lanka will have to stand on its own feet: PM",
     "file_name": "/tmp/news_lk2/articles/30/305dea62.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83331/advisory-issued-for-strong-winds-and-rough-seas",
+    "time_ut": 1656555960,
+    "original_lang": "en",
+    "original_title": "Advisory issued for strong winds and rough seas",
+    "file_name": "/tmp/news_lk2/articles/19/19fe52c8.json"
   },
   {
     "newspaper_id": "economy-next-com",
