@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 02:18:16 (LK time)*
+*As of 2022-07-05 02:23:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 3 Hours (1 Articles)
 
-* **2** daily-mirror-lk ([Diplomacy depends on decency](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/599c0160.json))
+* **1** daily-mirror-lk ([Mr. President, it’s not too late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/749d4dec.json))
 
 ## Last 24 Hours (234 Articles)
 
