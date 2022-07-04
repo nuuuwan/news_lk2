@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Defense-Ministry-probes-unconfirmed-intelligence-info-of-a-terrorist-attack/56-737068",
+    "time_ut": 1656971810,
+    "original_lang": "en",
+    "original_title": "Defense Ministry probes \u2018unconfirmed intelligence\u2019 info of a terrorist attack",
+    "file_name": "/tmp/news_lk2/articles/57/57965574.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Wijayadasa-receives-draft-new-constitution/56-737067",
+    "time_ut": 1656971797,
+    "original_lang": "en",
+    "original_title": "Wijayadasa receives draft new constitution",
+    "file_name": "/tmp/news_lk2/articles/f2/f275125f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Litro-Gas-PUCSL-among-entities-summoned-before-COPE/56-737066",
+    "time_ut": 1656971774,
+    "original_lang": "en",
+    "original_title": "Litro Gas, PUCSL among entities summoned before COPE",
+    "file_name": "/tmp/news_lk2/articles/28/288baa89.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Essential-service-order-before-P-ment-tomorrow/56-737065",
+    "time_ut": 1656971760,
+    "original_lang": "en",
+    "original_title": "Essential service order before P\u2019ment tomorrow",
+    "file_name": "/tmp/news_lk2/articles/b8/b8a7476e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/EFC-appoints-new-Council-and-Board-of-Trustees-for-2022-2023/34-737064",
     "time_ut": 1656971677,
     "original_lang": "en",
@@ -894,6 +926,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0ddd\u0db8\u0dca\u0db6 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0d9a\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0d87\u0dad\u0dca\u0dad\u0d9a\u0dca\u0daf?",
     "file_name": "/tmp/news_lk2/articles/9f/9f5d8a86.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130755",
+    "time_ut": 1656927318,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bb2\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf\u0ba4\u0bc1\u00a0- \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b9/b9e9b801.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
