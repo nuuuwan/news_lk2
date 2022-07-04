@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83425/presidents-resolution-on-essential-services-to-be-submitted-to-parliament-for-approval",
+    "time_ut": 1656942000,
+    "original_lang": "en",
+    "original_title": "President\u2019s resolution on essential services to be submitted to Parliament for approval",
+    "file_name": "/tmp/news_lk2/articles/f3/f36e39f0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130792",
+    "time_ut": 1656941159,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0b9f\u0bc8\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd - \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/86/865c5469.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0da9\u0d9a\u0db4\u0dca\u0db4\u0dbd\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/101-615862",
+    "time_ut": 1656941067,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0da9\u0d9a\u0db4\u0dca\u0db4\u0dbd\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/11/116777c1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83424/flower-road-in-colombo-closed-for-traffic-due-to-protest",
     "time_ut": 1656940920,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0baa\u0bb1\u0ba8\u0bcd\u0ba4 \u0b95\u0bc2\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/bd/bdb0d8ab.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/06/30/imf-staff-concludes-visit-to-sri-lanka-discussions-will-continue-towards-reaching-a-staff-level-agreement/",
-    "time_ut": 1656572520,
-    "original_lang": "en",
-    "original_title": "IMF Staff Concludes Visit to Sri Lanka; discussions will continue towards reaching a staff-level agreement",
-    "file_name": "/tmp/news_lk2/articles/b8/b8e474c4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0da7-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-615642",
-    "time_ut": 1656572300,
-    "original_lang": "si",
-    "original_title": "\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0db1\u0dca\u0da7 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9e/9ece700b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130471",
-    "time_ut": 1656571796,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bc8 \u0b95\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/f6/f6348810.json"
   }
 ]
