@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83418/extraordinary-gazette-issued-on-essential-services",
+    "time_ut": 1656921420,
+    "original_lang": "en",
+    "original_title": "Extraordinary gazette issued on essential services",
+    "file_name": "/tmp/news_lk2/articles/bb/bb715996.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/AL-exam-could-be-delayed-by-one-month-Minister/342-240307",
+    "time_ut": 1656921293,
+    "original_lang": "en",
+    "original_title": "A/L exam could be delayed by one month: Minister",
+    "file_name": "/tmp/news_lk2/articles/39/393b0e63.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/FR-filed-by-three-accademics-over-current-economic-crisis-fixed-for-support/342-240306",
+    "time_ut": 1656921043,
+    "original_lang": "en",
+    "original_title": "FR filed by three accademics over current economic crisis fixed for support",
+    "file_name": "/tmp/news_lk2/articles/3e/3ee135f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SC-calls-for-a-fuel-procurement-and-distribution-plan/342-240305",
+    "time_ut": 1656920823,
+    "original_lang": "en",
+    "original_title": "SC calls for a fuel procurement and distribution plan",
+    "file_name": "/tmp/news_lk2/articles/af/af50ca60.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/04/lanka-ioc-suspends-token-system-md/",
+    "time_ut": 1656920640,
+    "original_lang": "en",
+    "original_title": "Lanka IOC suspends token system \u2013 MD",
+    "file_name": "/tmp/news_lk2/articles/46/46844529.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0d82\u0dc1-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dad\u0dca-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca-\u0dc4\u0dbd\u0dda--\u0db8\u0dd0\u0dbb\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dd9\u0dca-\u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/11-395077",
+    "time_ut": 1656919885,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0d82\u0dc1 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dad\u0dca \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0dc4\u0dbd\u0dda  \u0db8\u0dd0\u0dbb\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dd9\u0dca \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/5a/5a229ac2.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130747",
     "time_ut": 1656919554,
@@ -1030,6 +1078,14 @@
     "original_lang": "en",
     "original_title": "Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster \u201cVikram\u201d",
     "file_name": "/tmp/news_lk2/articles/ac/ace24401.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/childs-guide-to-true-cost-of-activities-concept-of-opportunity-cost/",
+    "time_ut": 1656862071,
+    "original_lang": "en",
+    "original_title": "Child\u2019s Guide To True Cost Of Activities: Concept Of Opportunity Cost",
+    "file_name": "/tmp/news_lk2/articles/ad/add39706.json"
   },
   {
     "newspaper_id": "virakesari-lk",
