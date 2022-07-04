@@ -1,34 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-04 22:39:21 (LK time)*
+*As of 2022-07-04 22:52:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Praveen Jayawickrama tests positive for Covid-19](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/790c8c17.json))
 
-## Last Hour (2 Articles)
-
-* **1** ada-derana-lk ([Praveen Jayawickrama tests positive for Covid-19](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/790c8c17.json))
-
-* **1** news-first-lk ([Bastian Mawath shooter killed in police shootout : Detectives reveal criminal past](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa2e5f7.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (19 Articles)
 
 * **5** daily-mirror-lk ([Main suspect of a rape case arrested while hiding at Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e71ce8b.json))
 
-* **5** lankadeepa-lk ([අනුර, සජිත්, මෛත්‍රී එක වල්ලේ පොල්](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30d7afa8.json))
-
 * **4** ada-derana-lk ([Army launches probe over officer who kicked civilian at fuel station](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c3bf90.json))
 
-* **4** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் பாதாள உலக துப்பாக்கிதாரி பலி - கம்பஹா பெம்முல்லையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/335f8d7b.json))
+* **4** lankadeepa-lk ([අගමැති නිවස ඉදිරිපිට විරෝධතාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b446f066.json))
+
+* **3** virakesari-lk ([எரிபொருள் கொள்வனவு, விநியோகம் தொடர்பான அறிக்கையை சமர்ப்பிக்கவும் - உயர் நீதிமன்றம் சட்ட மா அதிபருக்கு உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07eacb8f.json))
 
 * **2** economy-next-com ([Sri Lanka central bank guidance peg falls 24 cents](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be2a5dc0.json))
 
 * **1** news-first-lk ([Bastian Mawath shooter killed in police shootout : Detectives reveal criminal past](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa2e5f7.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (243 Articles)
 
 * **44** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -38,7 +32,7 @@
 
 * **32** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
-* **26** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
+* **24** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
 
 * **22** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
 
