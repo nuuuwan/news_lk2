@@ -1,38 +1,6 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Defense-Ministry-probes-unconfirmed-intelligence-info-of-a-terrorist-attack/56-737068",
-    "time_ut": 1656971810,
-    "original_lang": "en",
-    "original_title": "Defense Ministry probes \u2018unconfirmed intelligence\u2019 info of a terrorist attack",
-    "file_name": "/tmp/news_lk2/articles/57/57965574.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Wijayadasa-receives-draft-new-constitution/56-737067",
-    "time_ut": 1656971797,
-    "original_lang": "en",
-    "original_title": "Wijayadasa receives draft new constitution",
-    "file_name": "/tmp/news_lk2/articles/f2/f275125f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Litro-Gas-PUCSL-among-entities-summoned-before-COPE/56-737066",
-    "time_ut": 1656971774,
-    "original_lang": "en",
-    "original_title": "Litro Gas, PUCSL among entities summoned before COPE",
-    "file_name": "/tmp/news_lk2/articles/28/288baa89.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Essential-service-order-before-P-ment-tomorrow/56-737065",
-    "time_ut": 1656971760,
-    "original_lang": "en",
-    "original_title": "Essential service order before P\u2019ment tomorrow",
-    "file_name": "/tmp/news_lk2/articles/b8/b8a7476e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/EFC-appoints-new-Council-and-Board-of-Trustees-for-2022-2023/34-737064",
     "time_ut": 1656971677,
     "original_lang": "en",
