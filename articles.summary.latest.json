@@ -257,6 +257,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Unending-queues-at-petrol-sheds/342-240320",
+    "time_ut": 1656940331,
+    "original_lang": "en",
+    "original_title": "Unending queues at petrol sheds",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e330ac.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Right-to-freedom-of-expression/342-240319",
     "time_ut": 1656940151,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d9c\u0dd2\u0dbd\u0db1\u0dca\u0dbb\u0dae \u0d9c\u0dd2\u0dbd\u0db1\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/39/394c1a1f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Buses-in-queues-for-refueling/110-240110",
-    "time_ut": 1656580255,
-    "original_lang": "en",
-    "original_title": "Buses in queues for refueling...",
-    "file_name": "/tmp/news_lk2/articles/b8/b840900b.json"
   }
 ]
