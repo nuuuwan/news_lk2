@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 00:18:53 (LK time)*
+*As of 2022-07-05 00:37:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (5 Articles)
 
-* **1** daily-mirror-lk ([Mr. President, it’s not too late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/749d4dec.json))
+* **2** daily-mirror-lk ([Diplomacy depends on decency](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/599c0160.json))
 
-## Last 3 Hours (9 Articles)
-
-* **4** daily-mirror-lk ([Protest held at PM’s house demanding immediate resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f83cd829.json))
-
-* **4** ada-derana-lk ([Postal workers call of trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c98e14.json))
+* **2** ada-derana-lk ([Praveen Jayawickrama tests positive for Covid-19](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/790c8c17.json))
 
 * **1** news-first-lk ([Bastian Mawath shooter killed in police shootout : Detectives reveal criminal past](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa2e5f7.json))
 
@@ -24,7 +20,7 @@
 
 * **35** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **33** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
+* **34** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
 
 * **23** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
@@ -34,19 +30,19 @@
 
 * **14** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
 
-* **10** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
+* **9** daily-ft-lk ([Stranding sans strategy: State of suffering Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ccfa70c.json))
 
 * **3** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
 * **2** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-## Last Week (1,703 Articles)
+## Last Week (1,702 Articles)
 
 * **352** virakesari-lk ([இந்தியாவிடமிருந்து அவசரமாக எரிபொருளை பெற முயற்சி - இந்திய அமைச்சருடன் தூதுவர் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5ee027.json))
 
 * **240** lankadeepa-lk ([පළාත් රැසකට වැසි රහිත කාලගුණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94936aa5.json))
 
-* **188** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
+* **189** daily-mirror-lk ([CB in green funding  push; asks banks to consider raising green bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f05d61de.json))
 
 * **184** ada-lk ([අර්බුදයට විසඳුම් සොයා ඇමතිවරු විදෙස්ගත වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55e2cbea.json))
 
@@ -62,13 +58,13 @@
 
 * **41** island-lk ([Fuel crisis combines with profit-takings to drag down share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21966c1.json))
 
-* **26** d-b-s-jeyaraj-com ([US Commitment  in Economic and Humanitarian Assistance to Sri Lanka Since June 16 Goes up to  $ 32 Million After President Joe Biden’s  Announcement of $ 20 Million Additional  Aid](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ecd3542.json))
+* **24** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
 * **13** colombo-telegraph-com ([An ‘Essential’ Lesson In ‘Essentiality’](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00edb43e.json))
 
 * **6** b-b-c-com-sinhala ([වෝන් - මුරලි පුරාවෘත්තය සිහිකරන ටෙස්ට් සටන හෙට ගාල්ලේදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c862df9.json))
 
-## All Time (2,969 Articles)
+## All Time (2,970 Articles)
 
 * **537** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -76,7 +72,7 @@
 
 * **367** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **307** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **308** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **287** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 

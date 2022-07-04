@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/74/749d4dec.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Diplomacy-depends-on-decency/172-240355",
+    "time_ut": 1656957163,
+    "original_lang": "en",
+    "original_title": "Diplomacy depends on decency",
+    "file_name": "/tmp/news_lk2/articles/59/599c0160.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83430/australian-hc-assures-to-support-sri-lankas-economic-social-and-maritime-sectors-progress",
     "time_ut": 1656956040,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bc7\u0baf\u0bc7  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bbf\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/09/09e0bf3b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SL-to-lift-ban-of-Qatar-Charity-Minister/108-240111",
-    "time_ut": 1656581487,
-    "original_lang": "en",
-    "original_title": "SL to lift ban of Qatar Charity: Minister",
-    "file_name": "/tmp/news_lk2/articles/ab/ab304e01.json"
   }
 ]
