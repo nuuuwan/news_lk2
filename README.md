@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 05:09:58 (LK time)*
+*As of 2022-07-06 05:21:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **1** economy-next-com ([Sri Lanka cabinet writes off over Rs.1.5 billion paddy farming loans](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f7479b.json))
 
-## Last 24 Hours (265 Articles)
+## Last 24 Hours (267 Articles)
 
-* **55** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
+* **56** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -24,15 +24,15 @@
 
 * **22** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c05a47d9.json))
 
-* **19** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
+* **20** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
 
 * **3** b-b-c-com-sinhala ([අද හෝ හෙට ත්‍රස්ත ප්‍රහාරයක් එල්ල වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/026e478e.json))
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,716 Articles)
+## Last Week (1,718 Articles)
 
-* **362** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
+* **363** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **258** lankadeepa-lk ([බයිඩන් බිරිඳට-දියණියට රුසියාව තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c20aab.json))
 
@@ -40,7 +40,7 @@
 
 * **188** daily-mirror-lk ([Sri Lanka to purchase four fuel shipments from India on cash payment terms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e054ebe1.json))
 
-* **167** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
+* **168** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
 * **163** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
@@ -58,9 +58,9 @@
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,286 Articles)
+## All Time (3,288 Articles)
 
-* **600** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **601** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **520** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -68,7 +68,7 @@
 
 * **340** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **311** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **312** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **271** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
