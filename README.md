@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 03:05:55 (LK time)*
+*As of 2022-07-06 03:16:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,7 +16,7 @@
 
 * **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (266 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -26,15 +26,15 @@
 
 * **30** daily-mirror-lk ([Request for well-wishers to join hands with NBTS](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39ad789f.json))
 
-* **23** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
-
 * **23** news-first-lk ([Showers and thundershowers likely on Tuesday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed9bcdc.json))
+
+* **22** economy-next-com ([Sri Lankan Airlines loses Rs248bn in four months after soft-peg collapse](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53589ce5.json))
 
 * **22** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c05a47d9.json))
 
 * **16** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
 
-* **10** daily-ft-lk ([Let’s resolve to start the system change that we demand from within](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/546f99a7.json))
+* **8** daily-ft-lk ([Ambassador Kohona calls for closer collaboration between tea industries of Fujian and Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ccf3edf.json))
 
 * **3** b-b-c-com-sinhala ([අද හෝ හෙට ත්‍රස්ත ප්‍රහාරයක් එල්ල වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/026e478e.json))
 
