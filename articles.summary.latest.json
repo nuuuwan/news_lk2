@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83452/uk-pm-boris-johnson-in-crisis-as-top-ministers-quit",
+    "time_ut": 1657045200,
+    "original_lang": "en",
+    "original_title": "UK PM Boris Johnson in crisis as top ministers quit",
+    "file_name": "/tmp/news_lk2/articles/6f/6f52d1f8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83451/i-can-turn-around-sri-lankas-economy-pm-ranil-wickremesinghe",
     "time_ut": 1657043400,
     "original_lang": "en",
@@ -70,6 +78,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7 \u0db4\u0dd9\u0dc5 \u0d9c\u0dd0\u0dc3\u0dd9\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/99/991672f4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/108-240403",
+    "time_ut": 1657036158,
+    "original_lang": "en",
+    "original_title": "Risk of new COVID variants emerging; advised to get 4th jab",
+    "file_name": "/tmp/news_lk2/articles/09/09dff012.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0bb5\u0bb4\u0bae\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd : \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb2 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc7 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd - \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0bb5\u0bc7 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3 \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/4c/4cc4f525.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83369/indian-hc-issues-notice-on-accepting-visa-applications",
-    "time_ut": 1656681480,
-    "original_lang": "en",
-    "original_title": "Indian HC issues notice on accepting visa applications",
-    "file_name": "/tmp/news_lk2/articles/e3/e305a51c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130591",
-    "time_ut": 1656681047,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0ba4\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbe\u0baf\u0bcd - \u0ba4\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/1e/1eacaee5.json"
   }
 ]
