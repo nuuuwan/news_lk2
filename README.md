@@ -1,26 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 00:41:05 (LK time)*
+*As of 2022-07-06 00:50:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
-
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (7 Articles)
 
 * **4** daily-mirror-lk ([Commuters stranded at Fort station due to protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee5655a8.json))
 
-* **3** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු පැය 24 ක් වර්ජනයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafc711c.json))
-
 * **2** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
+
+* **1** lankadeepa-lk ([දුම්රිය ස්ථානාධිපති වැඩවර්ජනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9627e90.json))
 
 ## Last 24 Hours (265 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
-* **48** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
+* **49** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
 
 * **36** ada-lk ([ත්‍රස්තවාදී ප්‍රහාරයක් පිළිබඳ ලිපිය ගැන කලබල වෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9f1b63.json))
 
@@ -32,7 +28,7 @@
 
 * **21** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
 
-* **16** tamil-mirror-lk ([வரைவு கையளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4a0ad69.json))
+* **15** tamil-mirror-lk ([மரணத்தின் விளிம்பில் இலங்கை: ஸ்டீவ் ஹான்கே தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/517c3463.json))
 
 * **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
 
@@ -42,7 +38,7 @@
 
 ## Last Week (1,720 Articles)
 
-* **355** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
+* **356** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **260** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
@@ -62,15 +58,15 @@
 
 * **45** island-lk ([At 80, now serving humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32faadb.json))
 
-* **22** d-b-s-jeyaraj-com ([The assigning subjects and functions to the new Minister of Investment Promotion  in 3 Steps By President Rajapaksa  has once Again proved that  Gotabaya  is incapable of rationally assigning subjects and functions to ministries.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e417ebc7.json))
+* **21** d-b-s-jeyaraj-com ([Was  Mass Escape of over 500 inmates  from Kandakadu Treatment and Rehabilitation Centre  Triggered off by the  Suspicious Death of an Inmate Allegedly Assaulted by an Army Officer? Committee for Protecting the Rights of Prisoners (CPRP) Raises Doubts.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bab67e29.json))
 
 * **14** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,267 Articles)
+## All Time (3,268 Articles)
 
-* **593** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **594** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **520** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
