@@ -1,0 +1,195 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/07/05/14th-death-in-fuel-queue-reported/",
+  "time_ut": 1657012440,
+  "original_lang": "en",
+  "original_title": "14th death in fuel queue reported",
+  "text_idx": {
+    "en": {
+      "title": "14th death in fuel queue reported",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st);\u00a0The 14th death in connection with fuel queues was reported today in Borella, \u200b\u200bColombo.",
+        "A 60-year-old man who was waiting in a queue to obtain fuel from an LIOC filling station in Borella, and was found dead in his car.",
+        "According to others who were present at the fuel queue, the deceased had joined the fuel queue in the morning, and had passed away after two hours of waiting in the queue.",
+        "The deceased was identified as a 60-year-old man named M.D.S.D. Gunaratne, whom our correspondent reported to be a resident of\u00a0Angoda, Gothatuwa."
+      ],
+      "title_ents": [
+        {
+          "text": "14th",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "14th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Borella",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "60-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Borella",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "two hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "60-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "M.D.S.D. Gunaratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "Gothatuwa",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda 14 \u0dc0\u0db1 \u0db8\u0dbb\u0dab\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dc0 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd6 14 \u0dc0\u0db1 \u0db8\u0dbb\u0dab\u0dba \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9 \u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba.",
+        "\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd LIOC \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0d9a \u0dc3\u0dd2\u0da7\u0dd2 60 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4 \u0dc3\u0dd2\u0dba \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba \u0dad\u0dd4\u0dc5 \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd4\u0dab\u0dcf.",
+        "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dba \u0db4\u0dc0\u0dc3\u0db1 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dcf \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd3 \u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dbb\u0dd0\u0db3\u0dd3 \u0dc3\u0dd2\u0da7\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dca\u0dad\u0dda 60 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0d91\u0db8\u0dca.\u0da9\u0dd3.\u0d91\u0dc3\u0dca.\u0da9\u0dd3. \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1, \u0d9c\u0ddc\u0dad\u0da7\u0dd4\u0dc0 \u0d85\u0d82\u0d9c\u0ddc\u0da9 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4 \u0db6\u0dc0\u0da7 \u0d85\u0db4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9a\u0dbb\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "14 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "14 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dca.\u0da9\u0dd3.\u0d91\u0dc3\u0dca.\u0da9\u0dd3. \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1 \u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9c\u0ddc\u0dad\u0da7\u0dd4\u0dc0",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 14\u0bb5\u0ba4\u0bc1 \u0bae\u0bb0\u0ba3\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bca\u0bb0\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd 14\u0bb5\u0ba4\u0bc1 \u0bae\u0bb0\u0ba3\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bca\u0bb0\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 LIOC \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bc6\u0bb1 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 60 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf \u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b8f\u0ba9\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bbf, \u0b87\u0bb1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b87\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd 60 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf \u0b8e\u0bae\u0bcd.\u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf. \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9, \u0b85\u0b99\u0bcd\u0b95\u0bca\u0b9f, \u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0b9f\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9 \u0b8e\u0bae\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "14\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "14\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb0\u0bb3\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb0\u0bb3\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "60 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd.\u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf. \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0ba4\u0b9f\u0bc1\u0bb5",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
