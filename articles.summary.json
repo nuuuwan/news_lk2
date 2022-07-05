@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83442/lp-gas-shipment-further-delayed",
+    "time_ut": 1657012200,
+    "original_lang": "en",
+    "original_title": "LP Gas shipment further delayed",
+    "file_name": "/tmp/news_lk2/articles/27/27cf709d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130835",
+    "time_ut": 1657011937,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd 3 \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 -\u00a0 3 \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bcd, 05 \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0baa\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1!",
+    "file_name": "/tmp/news_lk2/articles/eb/eb40343b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d95\u0db8\u0dcf\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-615902",
     "time_ut": 1657011869,
@@ -10,9 +26,9 @@
   {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130833",
-    "time_ut": 1657011468,
+    "time_ut": 1657011675,
     "original_lang": "ta",
-    "original_title": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd ; \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 51 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "original_title": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd ; \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 51 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/c6/c69ef0dc.json"
   },
   {
@@ -22,6 +38,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Cabinet in process to grant monetary incentives to discourage undiyal",
     "file_name": "/tmp/news_lk2/articles/eb/ebcbc9ab.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd3-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4-\u0db8\u0dbb\u0dd4\u0da7/11-395129",
+    "time_ut": 1657010778,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd3 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/cf/cfc32370.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -102,14 +126,6 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/79/79484914.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/05/armed-forces-to-be-removed-from-filling-stations/",
-    "time_ut": 1657007460,
-    "original_lang": "en",
-    "original_title": "Armed forces to be removed from filling stations?",
-    "file_name": "/tmp/news_lk2/articles/fa/fa6dbf3c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
