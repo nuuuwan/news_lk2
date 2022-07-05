@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb-\u0daf\u0dd9\u0d9a\u0da7-\u0d85\u0da9\u0dd4-\u0dc0\u0dd2-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca-\u0dbd\u0db6\u0dcf\u0d9c\u0dd9\u0db1-\u0d87\u0dad\u0dd2-\u0dab\u0dba-\u0d9a\u0db4\u0dcf-\u0dc4\u0dbb\u0dd2\u0dba\u0dd2/11-395117",
+    "time_ut": 1657004631,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb \u0daf\u0dd9\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0dc0\u0dd2 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd2 \u0dab\u0dba \u0d9a\u0db4\u0dcf \u0dc4\u0dbb\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/79/79780c03.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8-\u0dad\u0dc0\u0dad\u0dca-\u0db6\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca-\u0d9c\u0db1\u0dd3/1-615896",
+    "time_ut": 1657003978,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8 \u0dad\u0dc0\u0dad\u0dca \u0db6\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/31/3132bd69.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130818",
-    "time_ut": 1657003603,
+    "time_ut": 1657003952,
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0bcb\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/be/be142db3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-appoint-cost-of-living-committee-chaired-by-president-as-prices-soar-96939/",
+    "time_ut": 1657003620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to appoint cost of living committee chaired by president as prices soar",
+    "file_name": "/tmp/news_lk2/articles/08/089f5e07.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -24,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/83/83db0a6f.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/First-round-of-talks-with-IMF-successful-PM/342-240384",
+    "time_ut": 1657003262,
+    "original_lang": "en",
+    "original_title": "First round of talks with IMF successful: PM",
+    "file_name": "/tmp/news_lk2/articles/a0/a0f8c86e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0da7-\u0dc4\u0dd0\u0d9a\u0dd2\u0db1\u0db8\u0dca-\u0db8\u0db8-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dca/11-395116",
+    "time_ut": 1657003025,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0db1\u0db8\u0dca \u0db8\u0db8 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ed/edb07753.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd3-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6-\u0dab\u0dba-\u0d9a\u0db4\u0dcf-\u0dc4\u0dd0\u0dbb\u0dd9\u0dba\u0dd2/101-615894",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd3-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6-\u0dab\u0dba-\u0d9a\u0db4\u0dcf-\u0dc4\u0dd0\u0dbb\u0dd9\u0dba\u0dd2/1-615894",
     "time_ut": 1657003016,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd3 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6 \u0dab\u0dba \u0d9a\u0db4\u0dcf \u0dc4\u0dd0\u0dbb\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d4/d446ca7f.json"
+    "file_name": "/tmp/news_lk2/articles/5c/5c95fec5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -49,11 +89,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0dba\u0dc5\u0dd2-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/101-615892",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0dba\u0dc5\u0dd2-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-615892",
     "time_ut": 1657002566,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d85\u0db1\u0dd4\u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/25/25ff5ca7.json"
+    "file_name": "/tmp/news_lk2/articles/e7/e770495f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130817",
+    "time_ut": 1657002451,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/20/20b0a7fc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -62,14 +110,6 @@
     "original_lang": "en",
     "original_title": "Ready to step down if AKD could revive economy within six months: PM",
     "file_name": "/tmp/news_lk2/articles/67/676a00b0.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130817",
-    "time_ut": 1657002103,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/20/20b0a7fc.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -86,6 +126,14 @@
     "original_lang": "en",
     "original_title": "Man waiting in fuel queue in Borella dies",
     "file_name": "/tmp/news_lk2/articles/21/21ef5e11.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130815",
+    "time_ut": 1657001615,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -144,12 +192,12 @@
     "file_name": "/tmp/news_lk2/articles/29/29086123.json"
   },
   {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130815",
-    "time_ut": 1657000545,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/cabinet-sub-committee-appointed-to-mitigate-cost-of-living/",
+    "time_ut": 1657000200,
+    "original_lang": "en",
+    "original_title": "Cabinet sub-committee appointed to mitigate cost of living",
+    "file_name": "/tmp/news_lk2/articles/b8/b8658e8d.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -225,11 +273,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situ-Parliament-proceedings-suspended-for-ten-minutes/342-240378",
+    "url": "https://www.dailymirror.lk/breaking_news/Tense-situ-Parliament-proceedings-suspended-for-ten-minutes/108-240378",
     "time_ut": 1656999083,
     "original_lang": "en",
     "original_title": "Tense situ: Parliament proceedings suspended for ten minutes",
-    "file_name": "/tmp/news_lk2/articles/1d/1d57db5b.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d8a5c961.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -678,6 +726,14 @@
     "original_lang": "en",
     "original_title": "Sri Lankan Airlines loses Rs248bn in four months after soft-peg collapse",
     "file_name": "/tmp/news_lk2/articles/53/53589ce5.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62039908",
+    "time_ut": 1656984172,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0dc4\u0ddd \u0dc4\u0dd9\u0da7 \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d91\u0dbd\u0dca\u0dbd \u0dc0\u0dd9\u0dba\u0dd2\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/02/026e478e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bb2\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a8/a85540dd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83358/22-train-journeys-scheduled-for-today-cancelled",
-    "time_ut": 1656646080,
-    "original_lang": "en",
-    "original_title": "22 train journeys scheduled for today cancelled",
-    "file_name": "/tmp/news_lk2/articles/56/56de09b1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83358/22-scheduled-trains-cancelled-today",
-    "time_ut": 1656646080,
-    "original_lang": "en",
-    "original_title": "22 scheduled trains cancelled today",
-    "file_name": "/tmp/news_lk2/articles/02/0250ca4b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Colombo-inflation-gallops-to-55-in-June-food-inflation-reaches-80/273-240154",
-    "time_ut": 1656645973,
-    "original_lang": "en",
-    "original_title": "Colombo inflation gallops to 55% in June; food inflation reaches 80%",
-    "file_name": "/tmp/news_lk2/articles/82/821064d0.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Soldier-mauled-to-death-by-wild-elephant-during-training/108-240153",
-    "time_ut": 1656645911,
-    "original_lang": "en",
-    "original_title": "Soldier mauled to death by wild elephant during training",
-    "file_name": "/tmp/news_lk2/articles/fa/fa1dee2a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tourism-associations-told-to-discuss-directly-with-financial-institutions-for-moratorium-extension/342-240152",
-    "time_ut": 1656645899,
-    "original_lang": "en",
-    "original_title": "Tourism associations told to discuss directly with financial institutions for moratorium extension",
-    "file_name": "/tmp/news_lk2/articles/ce/ce4e1a00.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/01/fuel-crisis-train-operations-cancelled-as-workers-unable-to-report-to-work/",
-    "time_ut": 1656645420,
-    "original_lang": "en",
-    "original_title": "Fuel Crisis: Train operations cancelled as workers unable to report to work",
-    "file_name": "/tmp/news_lk2/articles/b4/b4e42e46.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd-54-6-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299534",
-    "time_ut": 1656645264,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/0e/0e2647ea.json"
   }
 ]
