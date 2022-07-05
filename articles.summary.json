@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83446/senior-army-officer-involved-in-yakgahapitiya-incident-relieved-of-duties",
+    "time_ut": 1657022100,
+    "original_lang": "en",
+    "original_title": "Senior army officer involved in Yakgahapitiya incident relieved of duties",
+    "file_name": "/tmp/news_lk2/articles/67/675351a1.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130866",
+    "time_ut": 1657022011,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/62/62b7c712.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83445/power-cut-schedule-for-next-three-days",
     "time_ut": 1657021380,
     "original_lang": "en",
@@ -86,6 +102,14 @@
     "original_lang": "en",
     "original_title": "Kandakadu inmate\u2019s cause of death revealed",
     "file_name": "/tmp/news_lk2/articles/5c/5c4f0195.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dc5\u0d9f\u0daf\u0dd3\u0db8-\u0d89\u0dc4\u0dc5\u0da7/11-395136",
+    "time_ut": 1657019585,
+    "original_lang": "si",
+    "original_title": "\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dc5\u0d9f\u0daf\u0dd3\u0db8 \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/8f/8fe65d99.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
