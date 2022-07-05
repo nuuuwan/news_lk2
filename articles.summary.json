@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0db8-\u0d9a\u0da9\u0dba\u0dd2\u0db8\u0dca-\u0dad\u0dd4\u0db1\u0da7-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/11-395141",
+    "time_ut": 1657048388,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0db8 \u0d9a\u0da9\u0dba\u0dd2\u0db8\u0dca \u0dad\u0dd4\u0db1\u0da7 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f2/f23c4522.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83452/uk-pm-boris-johnson-in-crisis-as-top-ministers-quit",
     "time_ut": 1657045200,
@@ -97,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/108-240403",
+    "url": "https://www.dailymirror.lk/latest_news/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/342-240403",
     "time_ut": 1657036158,
     "original_lang": "en",
     "original_title": "Risk of new COVID variants emerging; advised to get 4th jab",
-    "file_name": "/tmp/news_lk2/articles/09/09dff012.json"
+    "file_name": "/tmp/news_lk2/articles/05/051fe954.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
