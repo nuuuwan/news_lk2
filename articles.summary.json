@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130877",
+    "time_ut": 1657031617,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd? - \u0b86\u0bb0\u0bbe\u0baf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c6/c61098fc.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0db1\u0dca\u0da2\u0dd2\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0dd0\u0daf\u0dd4\u0dbb\u0ddd-\u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0dd4\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0da7-\u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0dad\u0dd2/1-615920",
+    "time_ut": 1657031307,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0db1\u0dca\u0da2\u0dd2\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0dd0\u0daf\u0dd4\u0dbb\u0ddd \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0dd4\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7a/7aba4e5b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-rupee-guidance-peg-steady-bonds-little-active-ahead-of-rates-decision-96976/",
+    "time_ut": 1657031280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s rupee guidance peg steady; bonds little active ahead of rates decision",
+    "file_name": "/tmp/news_lk2/articles/5c/5c1abc51.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-to-over-2-month-low-on-pms-speech-fuel-shortage-96975/",
+    "time_ut": 1657030440,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks fall to over 2-month low on PM\u2019s speech, fuel shortage",
+    "file_name": "/tmp/news_lk2/articles/f2/f2f09171.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bcd/175-299792",
     "time_ut": 1657029703,
@@ -22,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0baf\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/db/db213857.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/cabinet-approval-to-ratify-extradition-with-uae/",
+    "time_ut": 1657027560,
+    "original_lang": "en",
+    "original_title": "Cabinet approval to ratify extradition with UAE",
+    "file_name": "/tmp/news_lk2/articles/03/03c0ab98.json"
   },
   {
     "newspaper_id": "news-first-lk",
