@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83443/husband-arrested-over-murder-of-lankapura-ds-administrative-officer",
+    "time_ut": 1657018740,
+    "original_lang": "en",
+    "original_title": "Husband arrested over murder of Lankapura DS administrative officer",
+    "file_name": "/tmp/news_lk2/articles/80/803caa2c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf-\u0dc0\u0dd9\u0dba\u0dd2/1-615910",
     "time_ut": 1657018500,
@@ -16,20 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/c9/c989593e.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Verbal-battle-erupts-between-RW-and-SP/108-240392",
-    "time_ut": 1657018015,
-    "original_lang": "en",
-    "original_title": "Verbal battle erupts between RW and SP",
-    "file_name": "/tmp/news_lk2/articles/20/20a84373.json"
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130856",
+    "time_ut": 1657018084,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bbf.\u0b8f. \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0b9e\u0bbe\u0baa\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc2\u0ba4\u0ba9\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0ba3 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd : \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8d/8d1ebba2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Gas-shipment-delayed-until-July-9-LITRO/108-240391",
+    "url": "https://www.dailymirror.lk/latest_news/Verbal-battle-erupts-between-RW-and-SP/342-240392",
+    "time_ut": 1657018015,
+    "original_lang": "en",
+    "original_title": "Verbal battle erupts between RW and SP",
+    "file_name": "/tmp/news_lk2/articles/13/13969be0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gas-shipment-delayed-until-July-9-LITRO/342-240391",
     "time_ut": 1657017581,
     "original_lang": "en",
     "original_title": "Gas shipment delayed until July 9: LITRO",
-    "file_name": "/tmp/news_lk2/articles/e2/e288d605.json"
+    "file_name": "/tmp/news_lk2/articles/a0/a06f4542.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/1-615906",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/101-615906",
     "time_ut": 1657016557,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dd4\u0dbb \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/42/426a8340.json"
+    "file_name": "/tmp/news_lk2/articles/91/91b9a60f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
