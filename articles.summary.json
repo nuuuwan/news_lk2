@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/tourists-to-receive-on-request-fuel-in-crisis-hit-sri-lanka-96979/",
+    "time_ut": 1657050720,
+    "original_lang": "en",
+    "original_title": "Tourists to receive on request fuel in crisis-hit Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/74/743da915.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/Casino-Business-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-299798",
     "time_ut": 1657049767,
@@ -14,6 +22,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0db8 \u0d9a\u0da9\u0dba\u0dd2\u0db8\u0dca \u0dad\u0dd4\u0db1\u0da7 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/f2/f23c4522.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299797",
+    "time_ut": 1657045948,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a4/a47bc905.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
