@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 04:34:22 (LK time)*
+*As of 2022-07-06 04:42:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -32,11 +32,11 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,716 Articles)
+## Last Week (1,715 Articles)
 
 * **361** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
-* **259** lankadeepa-lk ([ඉන්ධන නැතිව කොළඹ පාළුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c76a0d2.json))
+* **258** lankadeepa-lk ([බයිඩන් බිරිඳට-දියණියට රුසියාව තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c20aab.json))
 
 * **194** ada-lk ([ඉන්දියාවෙන් අත්පිට මුදලට තෙල් ගන්න යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/719ab299.json))
 
