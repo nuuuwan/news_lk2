@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 21:37:38 (LK time)*
+*As of 2022-07-05 21:42:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,7 +18,7 @@
 
 * **1** ada-derana-lk ([Police bust fake gem racket](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/092fc4e8.json))
 
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (21 Articles)
 
 * **5** lankadeepa-lk ([විභාග කාලසටහන මැතිසබේදී ප්‍රකාශයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c7e37d2.json))
 
@@ -30,9 +30,9 @@
 
 * **2** economy-next-com ([Sri Lanka stocks fall to over 2-month low on PM’s speech, fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2f09171.json))
 
-* **2** tamil-mirror-lk ([பரீட்சைகளுக்கான திகதிகள் வெளியாகின](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763c6bac.json))
-
 * **2** news-first-lk ([Cabinet appoints Sub-Committee on Cost of Living](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/617b267b.json))
+
+* **1** tamil-mirror-lk ([கப்பல் வருகையில்  மீண்டும் தாமதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c85066ac.json))
 
 ## Last 24 Hours (256 Articles)
 
