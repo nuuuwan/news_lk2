@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 03:01:01 (LK time)*
+*As of 2022-07-06 03:05:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,15 @@
 
 * **1** economy-next-com ([Sri Lanka cabinet writes off over Rs.1.5 billion paddy farming loans](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f7479b.json))
 
-## Last 3 Hours (6 Articles)
-
-* **3** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
+## Last 3 Hours (5 Articles)
 
 * **2** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
 
+* **2** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
+
 * **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
-## Last 24 Hours (271 Articles)
+## Last 24 Hours (269 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -34,7 +34,7 @@
 
 * **16** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
 
-* **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
+* **10** daily-ft-lk ([Let’s resolve to start the system change that we demand from within](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/546f99a7.json))
 
 * **3** b-b-c-com-sinhala ([අද හෝ හෙට ත්‍රස්ත ප්‍රහාරයක් එල්ල වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/026e478e.json))
 
