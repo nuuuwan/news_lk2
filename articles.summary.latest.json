@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-calls-on-President-govt-to-resign-and-form-next-interim-govt/108-240389",
+    "time_ut": 1657014437,
+    "original_lang": "en",
+    "original_title": "Cardinal calls on President, govt. to resign and form next interim govt.",
+    "file_name": "/tmp/news_lk2/articles/85/856281e2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0daf\u0dd9\u0dc0\u0db1-\u0dc0\u0dbb-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d92\u0dc0\u0dd3\u0db8-\u0d85\u0db1\u0dd4\u0dc0\u0dba\u0dd2/11-395132",
+    "time_ut": 1657013732,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dd9\u0dc0\u0db1 \u0dc0\u0dbb \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d92\u0dc0\u0dd3\u0db8 \u0d85\u0db1\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f98232cf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130837",
+    "time_ut": 1657013521,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4d/4d56edd1.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0da2\u0dd2\u0db4\u0dca\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0dbd\u0dd9\u0dc3-\u0dc0\u0dbb\u0dca\u0dab-\u0d9c\u0db1\u0dca\u0dc0\u0dcf-\u0db8\u0dad\u0dca\u0d9a\u0dd4\u0da9\u0dd4-\u0d87\u0daf\u0dca\u0daf-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0daf\u0dd0\u0dbd\u0dda/101-615904",
     "time_ut": 1657013369,
@@ -9,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Trains-suspended-due-to-railway-station-workers-strike/342-240388",
+    "url": "https://www.dailymirror.lk/breaking_news/Trains-suspended-due-to-railway-station-workers-strike/108-240388",
     "time_ut": 1657012756,
     "original_lang": "en",
     "original_title": "Trains suspended due to railway station workers\u2019 strike",
-    "file_name": "/tmp/news_lk2/articles/a7/a78944d5.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f274e92e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -913,11 +937,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/headline/Sri-Lanka-add-Theekshana-Wellalage-and-Manasinghe-to-Test-squad-Mathews-available-for-selection/419-240362",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-add-Theekshana-Wellalage-and-Manasinghe-to-Test-squad-Mathews-available-for-selection/108-240362",
     "time_ut": 1656992060,
     "original_lang": "en",
     "original_title": "Sri Lanka add Theekshana, Wellalage and Manasinghe to Test squad, Mathews available for selection",
-    "file_name": "/tmp/news_lk2/articles/93/937f7353.json"
+    "file_name": "/tmp/news_lk2/articles/5e/5e7df11b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u2019GotaGoGama\u2019 protest continues",
     "file_name": "/tmp/news_lk2/articles/a5/a5ee05f8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dda/101-615690",
-    "time_ut": 1656659338,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dda",
-    "file_name": "/tmp/news_lk2/articles/38/382e872b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dc0\u0dd4\u0dbd\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dda\u0dc0\u0dcf-\u0d85\u0da9\u0db4\u0dab-\u0dc0\u0dd9\u0dba\u0dd2/1-615690",
-    "time_ut": 1656659338,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dc0\u0dd4\u0dbd\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0da9\u0db4\u0dab \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fd/fd77ee30.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Overcrowded-trains/110-240170",
-    "time_ut": 1656659211,
-    "original_lang": "en",
-    "original_title": "Overcrowded trains...",
-    "file_name": "/tmp/news_lk2/articles/ff/ffb7b5f7.json"
   }
 ]
