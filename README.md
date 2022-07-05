@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 00:29:12 (LK time)*
+*As of 2022-07-06 00:41:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32c87a35.json))
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
 * **4** daily-mirror-lk ([Commuters stranded at Fort station due to protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee5655a8.json))
 
-* **3** ada-derana-lk ([Parliament to focus on taking action against officials who fail to implement COPE decisions](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a62bd0b5.json))
-
 * **3** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු පැය 24 ක් වර්ජනයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafc711c.json))
 
-* **1** virakesari-lk ([ரயில் சேவைகள் முடங்கும் அபாயம் - ரயில் நிலைய அதிபர் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52973390.json))
+* **2** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
 
 ## Last 24 Hours (265 Articles)
 
@@ -44,7 +40,7 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,721 Articles)
+## Last Week (1,720 Articles)
 
 * **355** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -54,7 +50,7 @@
 
 * **191** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4552324d.json))
 
-* **164** ada-derana-lk ([1,000 MT of rice under Chinese grant reaches Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3897f4a.json))
+* **163** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
 * **161** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
