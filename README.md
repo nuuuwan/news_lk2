@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 01:55:38 (LK time)*
+*As of 2022-07-06 02:07:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
-
-* **1** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
 
 ## Last 3 Hours (8 Articles)
 
@@ -22,7 +20,7 @@
 
 * **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (268 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -42,11 +40,11 @@
 
 * **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
 
-* **4** b-b-c-com-sinhala ([අධ්‍යාපනය ; ''බස් එකේ ඉස්කෝලේ යන්න දවසකට රුපියල් 600ක් විතර ඕනා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8dffe57.json))
+* **3** b-b-c-com-sinhala ([අද හෝ හෙට ත්‍රස්ත ප්‍රහාරයක් එල්ල වෙයිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/026e478e.json))
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,715 Articles)
+## Last Week (1,711 Articles)
 
 * **357** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -64,17 +62,17 @@
 
 * **106** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
 
-* **58** daily-ft-lk ([Hayleys Fabric natural mahogany dye listed on Top 10 innovations for ISPO Textrends 2024](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9421a27b.json))
+* **53** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
 * **45** island-lk ([At 80, now serving humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32faadb.json))
 
-* **19** d-b-s-jeyaraj-com ([Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57fdc35.json))
+* **20** d-b-s-jeyaraj-com ([Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57fdc35.json))
 
 * **14** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,274 Articles)
+## All Time (3,275 Articles)
 
 * **595** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -96,7 +94,7 @@
 
 * **119** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **49** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **50** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **47** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
