@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 00:56:20 (LK time)*
+*As of 2022-07-06 01:04:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **1** lankadeepa-lk ([දුම්රිය ස්ථානාධිපති වැඩවර්ජනය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9627e90.json))
 
-## Last 24 Hours (266 Articles)
+## Last 24 Hours (265 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -28,7 +28,7 @@
 
 * **21** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
 
-* **15** tamil-mirror-lk ([மரணத்தின் விளிம்பில் இலங்கை: ஸ்டீவ் ஹான்கே தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/517c3463.json))
+* **14** tamil-mirror-lk ([கோப் குழுவில் இன்று முன்னிலையாகும் லிட்ரோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1b5804e.json))
 
 * **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
 
