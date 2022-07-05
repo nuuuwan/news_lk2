@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cabinet-in-process-to-grant-monetary-incentives-to-discourage-undiyal-96952/",
+    "time_ut": 1657011120,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Cabinet in process to grant monetary incentives to discourage undiyal",
+    "file_name": "/tmp/news_lk2/articles/eb/ebcbc9ab.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83441/private-bus-operators-block-battaramulla-kaduwela-road",
+    "time_ut": 1657010700,
+    "original_lang": "en",
+    "original_title": "Private bus operators block Battaramulla-Kaduwela road",
+    "file_name": "/tmp/news_lk2/articles/ed/ed81f0ae.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba/11-395128",
+    "time_ut": 1657010354,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba",
+    "file_name": "/tmp/news_lk2/articles/4b/4b2a0fcf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tt-dollar-at-rs366-79-370-guidance-peg-unchanged-96953/",
     "time_ut": 1657009920,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president forced to walk out of parliament amid opposition protest",
     "file_name": "/tmp/news_lk2/articles/dd/dd0763a8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/outgoing-omani-ambassador-vows-support-strengthening-of-bilateral-relations/",
+    "time_ut": 1657007760,
+    "original_lang": "en",
+    "original_title": "Outgoing Omani Ambassador vows support strengthening of bilateral relations",
+    "file_name": "/tmp/news_lk2/articles/ed/ed26bdc6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -390,6 +422,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dbd\u0dba \u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d91\u0db1\u0dca\u0db1 - \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e5/e539b113.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-debt-rises-to-140-pct-pm-says-after-currency-collapse-96947/",
+    "time_ut": 1657000560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka debt rises to 140-pct PM says after currency collapse",
+    "file_name": "/tmp/news_lk2/articles/7c/7cdbb45e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baf\u0bbe\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/70/700d0b90.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dba\u0ddd-\u0d85\u0dbd\u0dd4\u0dad\u0dca\u0d9a\u0da9\u0dda-\u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a/101-615682",
-    "time_ut": 1656654333,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dba\u0ddd \u0d85\u0dbd\u0dd4\u0dad\u0dca\u0d9a\u0da9\u0dda \u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/81/813f1952.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-26\u0d9a\u0dca-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2---\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd1/11-395006",
-    "time_ut": 1656654073,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba 26\u0d9a\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2 - \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/90/905dfb21.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130540",
-    "time_ut": 1656653592,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b8f\u0ba9\u0bcd - \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/9a/9a640273.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83360/mathews-out-of-1st-test-after-testing-covid-19-positive",
-    "time_ut": 1656653340,
-    "original_lang": "en",
-    "original_title": "Mathews out of 1st Test after testing Covid-19 positive",
-    "file_name": "/tmp/news_lk2/articles/6c/6c8932dd.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dca\u0dc3\u0dca\u0da7-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca/11-395005",
-    "time_ut": 1656653049,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dca\u0dc3\u0dca\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cd/cd6a217a.json"
   }
 ]

@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cabinet-in-process-to-grant-monetary-incentives-to-discourage-undiyal-96952/",
+    "time_ut": 1657011120,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Cabinet in process to grant monetary incentives to discourage undiyal",
+    "file_name": "/tmp/news_lk2/articles/eb/ebcbc9ab.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83441/private-bus-operators-block-battaramulla-kaduwela-road",
+    "time_ut": 1657010700,
+    "original_lang": "en",
+    "original_title": "Private bus operators block Battaramulla-Kaduwela road",
+    "file_name": "/tmp/news_lk2/articles/ed/ed81f0ae.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba/11-395128",
+    "time_ut": 1657010354,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba",
+    "file_name": "/tmp/news_lk2/articles/4b/4b2a0fcf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tt-dollar-at-rs366-79-370-guidance-peg-unchanged-96953/",
     "time_ut": 1657009920,
     "original_lang": "en",
@@ -46,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president forced to walk out of parliament amid opposition protest",
     "file_name": "/tmp/news_lk2/articles/dd/dd0763a8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/outgoing-omani-ambassador-vows-support-strengthening-of-bilateral-relations/",
+    "time_ut": 1657007760,
+    "original_lang": "en",
+    "original_title": "Outgoing Omani Ambassador vows support strengthening of bilateral relations",
+    "file_name": "/tmp/news_lk2/articles/ed/ed26bdc6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -390,6 +422,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dbd\u0dba \u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d91\u0db1\u0dca\u0db1 - \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e5/e539b113.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-debt-rises-to-140-pct-pm-says-after-currency-collapse-96947/",
+    "time_ut": 1657000560,
+    "original_lang": "en",
+    "original_title": "Sri Lanka debt rises to 140-pct PM says after currency collapse",
+    "file_name": "/tmp/news_lk2/articles/7c/7cdbb45e.json"
   },
   {
     "newspaper_id": "economy-next-com",
