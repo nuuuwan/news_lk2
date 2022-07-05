@@ -1,22 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 02:33:55 (LK time)*
+*As of 2022-07-06 02:43:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** economy-next-com ([Sri Lanka cabinet writes off over Rs.1.5 billion paddy farming loans](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f7479b.json))
+
+## Last Hour (1 Articles)
+
+* **1** economy-next-com ([Sri Lanka cabinet writes off over Rs.1.5 billion paddy farming loans](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00f7479b.json))
+
+## Last 3 Hours (7 Articles)
 
 * **3** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
 
-* **2** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32c87a35.json))
-
-* **1** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
+* **2** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
 
 * **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
 * **1** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (270 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -26,9 +32,9 @@
 
 * **30** daily-mirror-lk ([Request for well-wishers to join hands with NBTS](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39ad789f.json))
 
-* **23** news-first-lk ([Showers and thundershowers likely on Tuesday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed9bcdc.json))
+* **23** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
 
-* **22** economy-next-com ([To resume flights, Russia has sought SL assurance of not repeating Aeroflot action-Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fbe271.json))
+* **23** news-first-lk ([Showers and thundershowers likely on Tuesday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed9bcdc.json))
 
 * **22** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c05a47d9.json))
 
@@ -40,7 +46,7 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,712 Articles)
+## Last Week (1,713 Articles)
 
 * **357** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -56,7 +62,7 @@
 
 * **136** news-first-lk ([Cabinet Paper for Food Security Committee](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16314ba6.json))
 
-* **106** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
+* **107** economy-next-com ([Sri Lanka sells Rs142bn in 2025, 2028, 2031 bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9be1b2.json))
 
 * **53** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
@@ -68,7 +74,7 @@
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,276 Articles)
+## All Time (3,277 Articles)
 
 * **595** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -84,7 +90,7 @@
 
 * **260** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **175** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **176** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **148** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
