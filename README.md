@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 06:08:56 (LK time)*
+*As of 2022-07-05 06:36:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (1 Articles)
 
 * **1** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e7d79b6.json))
 
-## Last 3 Hours (11 Articles)
-
-* **10** daily-ft-lk ([Let’s resolve to start the system change that we demand from within](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/546f99a7.json))
-
-* **1** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e7d79b6.json))
-
-## Last 24 Hours (263 Articles)
+## Last 24 Hours (261 Articles)
 
 * **51** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -30,7 +24,7 @@
 
 * **21** news-first-lk ([Criminal gangster shot dead in shootout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0510874.json))
 
-* **16** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
+* **14** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
 * **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
 
