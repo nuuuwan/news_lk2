@@ -1,16 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-05 20:46:51 (LK time)*
+*As of 2022-07-05 20:57:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **1** lankadeepa-lk ([ආයෙත් කොරෝනා අවදානමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25df14e7.json))
-
-* **1** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! - மீண்டும் ஒரு பாதையை மறித்ததால் குழப்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b8ccd81.json))
-
-* **1** daily-mirror-lk ([Action Plan of the Citizens Struggle](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a2115d4.json))
 
 ## Last Hour (8 Articles)
 
@@ -42,15 +34,15 @@
 
 * **1** ada-lk ([දුම්රිය නියාමකයන් වර්ජනයකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fe0db6a.json))
 
-## Last 24 Hours (270 Articles)
+## Last 24 Hours (263 Articles)
 
-* **52** lankadeepa-lk ([රටට බරක් නොවිය යුතු පාඩු ලබන රාජ්‍ය ආයතන](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09feb697.json))
+* **50** lankadeepa-lk ([කතකට කැත වැඩක් කළ තරුණයක් අරගල භූමියෙන් මතු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f28fd42b.json))
 
-* **49** virakesari-lk ([35 வயதுக்கு மேற்பட்ட பட்டதாரிகளை ஆசிரியர்களாக நியமிக்க தொழிற்சங்கங்களில் இணக்கம் அவசியம் - கல்வியமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/0760112b.json))
+* **46** virakesari-lk ([பொதுமக்கள் சார்ந்த விடயங்களில் இராணுவ அதிகாரிகள் தலையிடக்கூடாது - அம்பிகா சற்குணநாதன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90094983.json))
 
 * **36** ada-lk ([ත්‍රස්තවාදී ප්‍රහාරයක් පිළිබඳ ලිපිය ගැන කලබල වෙන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee9f1b63.json))
 
-* **30** daily-mirror-lk ([Excise earns Rs.93Mn as revenue from fines in first five months](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8875eb1f.json))
+* **28** daily-mirror-lk ([Protest held at PM’s house demanding immediate resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f83cd829.json))
 
 * **23** ada-derana-lk ([Army launches probe over officer who kicked civilian at fuel station](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c3bf90.json))
 
@@ -66,15 +58,15 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,736 Articles)
+## Last Week (1,732 Articles)
 
-* **357** virakesari-lk ([அரசாங்கம் உள்நாட்டிலும் சர்வதேச அளவிலும் நம்பகதன்மையை இழந்துவிட்டது – சனத்](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13587689.json))
+* **356** virakesari-lk ([இலங்கை மின்சார சபை  835 வீத கட்டண அதிகரிப்பை கோரியுள்ளது- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49e16fca.json))
 
-* **259** lankadeepa-lk ([තෙල් ගන්න ජනපති එමීර් රාජ්‍යයේ සංචාරයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebabccd3.json))
+* **258** lankadeepa-lk ([අගමැතිට කාලය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b6e3bf8.json))
 
 * **193** ada-lk ([ජුලි 10 දා සිට ඉන්ධන අඛණ්ඩව දෙනවා - රුසියාව සමග සාකච්ඡාවට ජනපති සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35fcf1c1.json))
 
-* **186** daily-mirror-lk ([Services at Registrar General’s Dept. during next 10 days announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4fef93ff.json))
+* **184** daily-mirror-lk ([Postal services limited for three days due to fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d52d0c7.json))
 
 * **162** ada-derana-lk ([HRCSL starts independent probes on Rambukkana shooting and violence on May 9, 10](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcf4a30.json))
 
