@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130818",
+    "time_ut": 1657003603,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0bcb\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/be/be142db3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db0\u0dcf\u0dc0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dc3\u0dda\u0dc0\u0d9a-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0d85\u0da9\u0dcf\u0dbd-\u0dc0\u0dd9\u0dba\u0dd2/101-615895",
     "time_ut": 1657003506,
@@ -22,14 +30,6 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd3 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd6 \u0dab\u0dba \u0d9a\u0db4\u0dcf \u0dc4\u0dd0\u0dbb\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d4/d446ca7f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0da7-\u0dc4\u0dd0\u0d9a\u0dd2\u0db1\u0db8\u0dca-\u0db8\u0db8-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dca/11-395115",
-    "time_ut": 1657003010,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0db1\u0db8\u0dca \u0db8\u0db8 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1e/1e4fc2d9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -56,20 +56,20 @@
     "file_name": "/tmp/news_lk2/articles/25/25ff5ca7.json"
   },
   {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130817",
-    "time_ut": 1657002451,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/20/20b0a7fc.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ready-to-step-down-if-AKD-could-revive-economy-within-six-months-PM/108-240383",
+    "url": "https://www.dailymirror.lk/latest_news/Ready-to-step-down-if-AKD-could-revive-economy-within-six-months-PM/342-240383",
     "time_ut": 1657002320,
     "original_lang": "en",
     "original_title": "Ready to step down if AKD could revive economy within six months: PM",
-    "file_name": "/tmp/news_lk2/articles/46/46b0ab98.json"
+    "file_name": "/tmp/news_lk2/articles/67/676a00b0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130817",
+    "time_ut": 1657002103,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/20/20b0a7fc.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -86,14 +86,6 @@
     "original_lang": "en",
     "original_title": "Man waiting in fuel queue in Borella dies",
     "file_name": "/tmp/news_lk2/articles/21/21ef5e11.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130815",
-    "time_ut": 1657001615,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -152,12 +144,12 @@
     "file_name": "/tmp/news_lk2/articles/29/29086123.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/05/cabinet-sub-committee-appointed-to-mitigate-cost-of-living/",
-    "time_ut": 1657000200,
-    "original_lang": "en",
-    "original_title": "Cabinet sub-committee appointed to mitigate cost of living",
-    "file_name": "/tmp/news_lk2/articles/b8/b8658e8d.json"
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130815",
+    "time_ut": 1657000545,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -233,11 +225,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tense-situ-Parliament-proceedings-suspended-for-ten-minutes/108-240378",
+    "url": "https://www.dailymirror.lk/latest_news/Tense-situ-Parliament-proceedings-suspended-for-ten-minutes/342-240378",
     "time_ut": 1656999083,
     "original_lang": "en",
     "original_title": "Tense situ: Parliament proceedings suspended for ten minutes",
-    "file_name": "/tmp/news_lk2/articles/d8/d8a5c961.json"
+    "file_name": "/tmp/news_lk2/articles/1d/1d57db5b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
