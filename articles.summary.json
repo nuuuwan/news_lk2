@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0baa\u0bbe\u0baf\u0bcd\u0bae\u0bb0-\u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf/46-299762",
+    "time_ut": 1657009430,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0baf\u0bcd\u0bae\u0bb0 \u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/db/dbb5dcf6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dca-\u0dc4\u0dad\u0d9a\u0dca-\u0d91\u0db1\u0dc0\u0dcf\u2019\u2019/1-615901",
+    "time_ut": 1657009195,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dca \u0dc4\u0dad\u0d9a\u0dca \u0d91\u0db1\u0dc0\u0dcf\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/7a/7aa42530.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/CoL-committee-headed-by-President-re-appointed/342-240386",
     "time_ut": 1657008238,
@@ -1126,6 +1142,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0ba4\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/cd/cd5d4eaf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/plus/Economic-downfall-forces-students-to-quit-Uni/352-240357",
+    "time_ut": 1656958506,
+    "original_lang": "en",
+    "original_title": "Economic downfall forces students to quit Uni",
+    "file_name": "/tmp/news_lk2/articles/53/53b8e1c1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
