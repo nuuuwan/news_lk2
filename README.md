@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 02:18:25 (LK time)*
+*As of 2022-07-06 02:33:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
-
 ## Last 3 Hours (8 Articles)
 
-* **2** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
-
-* **2** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
+* **3** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
 
 * **2** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32c87a35.json))
 
@@ -20,7 +14,9 @@
 
 * **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
-## Last 24 Hours (268 Articles)
+* **1** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
+
+## Last 24 Hours (269 Articles)
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -36,7 +32,7 @@
 
 * **22** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c05a47d9.json))
 
-* **15** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
+* **16** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
 
 * **12** daily-ft-lk ([Moscow will have to choose either butter or guns](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2983e9e4.json))
 
@@ -44,7 +40,7 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,711 Articles)
+## Last Week (1,712 Articles)
 
 * **357** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
@@ -54,7 +50,7 @@
 
 * **191** daily-mirror-lk ([The Biblical seven lean years - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4552324d.json))
 
-* **163** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
+* **164** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
 * **163** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
@@ -72,7 +68,7 @@
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,275 Articles)
+## All Time (3,276 Articles)
 
 * **595** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -82,7 +78,7 @@
 
 * **340** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **307** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **308** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **271** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
