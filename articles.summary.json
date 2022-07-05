@@ -648,6 +648,14 @@
     "file_name": "/tmp/news_lk2/articles/16/16f2f1bd.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130849",
+    "time_ut": 1657018925,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bcb \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bcb \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 - \u0b85\u0ba9\u0bc1\u0bb0 \u0b95\u0bc1\u0bae\u0bbe\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/4e/4ed149f7.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/05/power-cuts-announced-for-6th7th8th-july/",
     "time_ut": 1657018920,
@@ -2190,6 +2198,14 @@
     "original_lang": "en",
     "original_title": "President Gotabaya  Rajapaksa Comes to Parliament after 3 Months and Leaves some minutes later with Opposition MP\u2019sCreate a Rumpus in the House by  Waving Placards and Chanting the Slogan\u201dGota Go Home\u201d Repeatedly",
     "file_name": "/tmp/news_lk2/articles/3b/3b4fb982.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78381",
+    "time_ut": 1656962100,
+    "original_lang": "en",
+    "original_title": "\u201cFinancial  Assistance from the International Monetary Fund  Depends on the plan on debt restructuring and sustainability being prepared by financial and legal experts Lazard and Clifford Chance. We hope to submit this  Planto the IMF by August,\u201d says Prime Minister Ranil Wickremesinghe in Parliament",
+    "file_name": "/tmp/news_lk2/articles/2d/2d8de9cb.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
