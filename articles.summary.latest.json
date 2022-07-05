@@ -280,6 +280,14 @@
     "file_name": "/tmp/news_lk2/articles/00/004cb947.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/defence-secretary-appears-before-hrcsl/",
+    "time_ut": 1657006680,
+    "original_lang": "en",
+    "original_title": "Defence Secretary appears before HRCSL",
+    "file_name": "/tmp/news_lk2/articles/dd/dd3048f2.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd-\u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-395120",
     "time_ut": 1657006235,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca \u0d9a\u0db8\u0dca\u0dc4\u0dbd\u0dca 200\u0d9a\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a",
     "file_name": "/tmp/news_lk2/articles/c6/c60e8aff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/GotaGoGama-protest-continues/110-240171",
-    "time_ut": 1656659401,
-    "original_lang": "en",
-    "original_title": "\u2019GotaGoGama\u2019 protest continues",
-    "file_name": "/tmp/news_lk2/articles/a5/a5ee05f8.json"
   }
 ]
