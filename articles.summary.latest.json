@@ -1,19 +1,35 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Verbal-battle-erupts-between-RW-and-SP/342-240392",
-    "time_ut": 1657018015,
-    "original_lang": "en",
-    "original_title": "Verbal battle erupts between RW and SP",
-    "file_name": "/tmp/news_lk2/articles/13/13969be0.json"
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf-\u0dc0\u0dd9\u0dba\u0dd2/1-615910",
+    "time_ut": 1657018500,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b8/b88a06ab.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gas-shipment-delayed-until-July-9-LITRO/342-240391",
+    "url": "https://www.dailymirror.lk/breaking_news/Summon-PUCSL-Chairman-before-COPE-over-his-statement-on-fuel-import-Wijeyadasa/108-240393",
+    "time_ut": 1657018478,
+    "original_lang": "en",
+    "original_title": "Summon PUCSL Chairman before COPE over his statement on fuel import: Wijeyadasa",
+    "file_name": "/tmp/news_lk2/articles/c9/c989593e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Verbal-battle-erupts-between-RW-and-SP/108-240392",
+    "time_ut": 1657018015,
+    "original_lang": "en",
+    "original_title": "Verbal battle erupts between RW and SP",
+    "file_name": "/tmp/news_lk2/articles/20/20a84373.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Gas-shipment-delayed-until-July-9-LITRO/108-240391",
     "time_ut": 1657017581,
     "original_lang": "en",
     "original_title": "Gas shipment delayed until July 9: LITRO",
-    "file_name": "/tmp/news_lk2/articles/a0/a06f4542.json"
+    "file_name": "/tmp/news_lk2/articles/e2/e288d605.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0db8\u0dbb\u0daf\u0dcf\u0db1-\u0d9a\u0ddc\u0db8\u0dca\u0db4\u0da4\u0dca\u0da4-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/101-615907",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0db8\u0dbb\u0daf\u0dcf\u0db1-\u0d9a\u0ddc\u0db8\u0dca\u0db4\u0da4\u0dca\u0da4-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/1-615907",
     "time_ut": 1657017203,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0db8\u0dbb\u0daf\u0dcf\u0db1-\u0d9a\u0ddc\u0db8\u0dca\u0db4\u0da4\u0dca\u0da4 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/70/7043e944.json"
+    "file_name": "/tmp/news_lk2/articles/b5/b50b5ad3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -41,19 +57,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/101-615906",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/1-615906",
     "time_ut": 1657016557,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dd4\u0dbb \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/91/91b9a60f.json"
+    "file_name": "/tmp/news_lk2/articles/42/426a8340.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Order-in-Russian-Aeroflot-flight-case-fixed-for-July-15/342-240390",
+    "url": "https://www.dailymirror.lk/breaking_news/Order-in-Russian-Aeroflot-flight-case-fixed-for-July-15/108-240390",
     "time_ut": 1657016517,
     "original_lang": "en",
     "original_title": "Order in Russian Aeroflot flight case fixed for July 15",
-    "file_name": "/tmp/news_lk2/articles/c0/c06593bc.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c8c3e1b8.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0baa\u0bc6\u0bb1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u00a0- \u0b9c\u0b95\u0ba4\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0",
     "file_name": "/tmp/news_lk2/articles/50/506de593.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situation-at-Fort-Railway-Station/342-240173",
-    "time_ut": 1656662976,
-    "original_lang": "en",
-    "original_title": "Tense situation at Fort Railway Station",
-    "file_name": "/tmp/news_lk2/articles/6e/6e7fe9be.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-state-run-litro-gas-to-distribute-cooking-gas-from-july-06-96762/",
-    "time_ut": 1656662820,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s state-run Litro Gas to distribute cooking gas from July 06",
-    "file_name": "/tmp/news_lk2/articles/79/791fdaa9.json"
   }
 ]
