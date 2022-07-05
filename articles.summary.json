@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/00/00f7479b.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0baa\u0bc2\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcb\u0bae\u0bcd/175-299802",
+    "time_ut": 1657051957,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0baa\u0bc2\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcb\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/98/98720985.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/tourists-to-receive-on-request-fuel-in-crisis-hit-sri-lanka-96979/",
     "time_ut": 1657050720,
@@ -774,6 +782,14 @@
     "original_lang": "en",
     "original_title": "Crisis-hit Sri Lanka to supply fertilizer at 25-pct cost amid looming food shortage",
     "file_name": "/tmp/news_lk2/articles/e2/e2738e88.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130843",
+    "time_ut": 1657016657,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd, \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd : \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0bb4\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd - \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/92/9217c2fd.json"
   },
   {
     "newspaper_id": "ada-lk",
