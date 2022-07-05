@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83444/kandakadu-inmates-cause-of-death-revealed",
+    "time_ut": 1657019640,
+    "original_lang": "en",
+    "original_title": "Kandakadu inmate\u2019s cause of death revealed",
+    "file_name": "/tmp/news_lk2/articles/5c/5c4f0195.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615911",
+    "time_ut": 1657019399,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a9/a932b714.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/senior-army-officer-involved-in-yaggapitiya-incident-relieved-of-all-duties/",
+    "time_ut": 1657018980,
+    "original_lang": "en",
+    "original_title": "Senior Army Officer involved in Yaggapitiya Incident Relieved of All Duties",
+    "file_name": "/tmp/news_lk2/articles/16/16f2f1bd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/power-cuts-announced-for-6th7th8th-july/",
+    "time_ut": 1657018920,
+    "original_lang": "en",
+    "original_title": "Power Cuts announced for 6th,7th,8th July",
+    "file_name": "/tmp/news_lk2/articles/61/61a48214.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83443/husband-arrested-over-murder-of-lankapura-ds-administrative-officer",
     "time_ut": 1657018740,
     "original_lang": "en",
@@ -41,11 +73,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gas-shipment-delayed-until-July-9-LITRO/342-240391",
+    "url": "https://www.dailymirror.lk/top_story/Gas-shipment-delayed-until-July-9-LITRO/155-240391",
     "time_ut": 1657017581,
     "original_lang": "en",
     "original_title": "Gas shipment delayed until July 9: LITRO",
-    "file_name": "/tmp/news_lk2/articles/a0/a06f4542.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a82917fd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-npp-will-support-short-term-programme-if-govt-doesnt-resign-96960/",
+    "time_ut": 1657017300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition NPP will support short term programme if govt doesn\u2019t resign",
+    "file_name": "/tmp/news_lk2/articles/92/9234fadb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -70,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Crisis-hit Sri Lanka to supply fertilizer at 25-pct cost amid looming food shortage",
     "file_name": "/tmp/news_lk2/articles/e2/e2738e88.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbb\u0dd4--250\u0da7-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2-\u0db1\u0db8\u0dca-PUC-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8-\u0db4\u0dc0\u0dbb\u0db1\u0dc0\u0dcf/11-395134",
+    "time_ut": 1657016643,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbb\u0dd4. 250\u0da7 \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db1\u0db8\u0dca PUC \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0db4\u0dc0\u0dbb\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e5fe78.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "NO NTMI service on Friday & Saturday",
     "file_name": "/tmp/news_lk2/articles/81/817d7feb.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83364/three-anti-govt-activists-including-ratta-and-lahiru-granted-bail",
-    "time_ut": 1656664920,
-    "original_lang": "en",
-    "original_title": "Three anti-govt activists including \u201cRatta\u201d and Lahiru granted bail",
-    "file_name": "/tmp/news_lk2/articles/41/4105ecc4.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130556",
-    "time_ut": 1656664756,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/03/033bde1d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/01/postal-service-crippled-by-trade-union-action/",
-    "time_ut": 1656664500,
-    "original_lang": "en",
-    "original_title": "Postal service crippled by trade union action",
-    "file_name": "/tmp/news_lk2/articles/5e/5ee49812.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Railway-workers-begin-lightning-strike/342-240174",
-    "time_ut": 1656664301,
-    "original_lang": "en",
-    "original_title": "Railway workers begin lightning strike",
-    "file_name": "/tmp/news_lk2/articles/cc/cc17a91e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb-\u0db4\u0d82\u0da0-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc4\u0dba\u0d9a\u0dca-\u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7/101-615693",
-    "time_ut": 1656664270,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd9\u0dc0\u0dd2\u0db1\u0dd4\u0dc0\u0dbb \u0db4\u0d82\u0da0 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc4\u0dba\u0d9a\u0dca \u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a4/a4c6565c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130547",
-    "time_ut": 1656664099,
-    "original_lang": "ta",
-    "original_title": "200 \u0b86\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0b87\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 : \u0b86\u0b9f\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e9/e9b92655.json"
   }
 ]

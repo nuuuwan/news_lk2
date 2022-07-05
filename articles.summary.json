@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83444/kandakadu-inmates-cause-of-death-revealed",
+    "time_ut": 1657019640,
+    "original_lang": "en",
+    "original_title": "Kandakadu inmate\u2019s cause of death revealed",
+    "file_name": "/tmp/news_lk2/articles/5c/5c4f0195.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615911",
+    "time_ut": 1657019399,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a9/a932b714.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/senior-army-officer-involved-in-yaggapitiya-incident-relieved-of-all-duties/",
+    "time_ut": 1657018980,
+    "original_lang": "en",
+    "original_title": "Senior Army Officer involved in Yaggapitiya Incident Relieved of All Duties",
+    "file_name": "/tmp/news_lk2/articles/16/16f2f1bd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/power-cuts-announced-for-6th7th8th-july/",
+    "time_ut": 1657018920,
+    "original_lang": "en",
+    "original_title": "Power Cuts announced for 6th,7th,8th July",
+    "file_name": "/tmp/news_lk2/articles/61/61a48214.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83443/husband-arrested-over-murder-of-lankapura-ds-administrative-officer",
     "time_ut": 1657018740,
     "original_lang": "en",
@@ -41,11 +73,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gas-shipment-delayed-until-July-9-LITRO/342-240391",
+    "url": "https://www.dailymirror.lk/top_story/Gas-shipment-delayed-until-July-9-LITRO/155-240391",
     "time_ut": 1657017581,
     "original_lang": "en",
     "original_title": "Gas shipment delayed until July 9: LITRO",
-    "file_name": "/tmp/news_lk2/articles/a0/a06f4542.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a82917fd.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-npp-will-support-short-term-programme-if-govt-doesnt-resign-96960/",
+    "time_ut": 1657017300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition NPP will support short term programme if govt doesn\u2019t resign",
+    "file_name": "/tmp/news_lk2/articles/92/9234fadb.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -70,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Crisis-hit Sri Lanka to supply fertilizer at 25-pct cost amid looming food shortage",
     "file_name": "/tmp/news_lk2/articles/e2/e2738e88.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbb\u0dd4--250\u0da7-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2-\u0db1\u0db8\u0dca-PUC-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7-\u0dc0\u0d9c\u0d9a\u0dd3\u0db8-\u0db4\u0dc0\u0dbb\u0db1\u0dc0\u0dcf/11-395134",
+    "time_ut": 1657016643,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbb\u0dd4. 250\u0da7 \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db1\u0db8\u0dca PUC \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0db4\u0dc0\u0dbb\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e5fe78.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
