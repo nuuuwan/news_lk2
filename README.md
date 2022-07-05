@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 04:03:43 (LK time)*
+*As of 2022-07-06 04:16:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
-
-* **4** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
+## Last 3 Hours (4 Articles)
 
 * **2** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
 
-## Last 24 Hours (261 Articles)
+* **2** tamil-mirror-lk ([கண்டிக்காது மத்திய அரசு வேடிக்கையே பார்க்கிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00b43.json))
 
-* **52** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
+## Last 24 Hours (263 Articles)
+
+* **54** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
 
 * **51** lankadeepa-lk ([ඇමෙරිකාවේ නිදහස් දින පෙළපාළියකට වෙඩි ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32f2741f.json))
 
@@ -32,9 +32,9 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,715 Articles)
+## Last Week (1,717 Articles)
 
-* **359** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
+* **361** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **260** lankadeepa-lk ([අපේ වැඩ බලා විදෙස් රටවල් උදව් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326053f8.json))
 
@@ -60,9 +60,9 @@
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,282 Articles)
+## All Time (3,284 Articles)
 
-* **597** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **599** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **520** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
