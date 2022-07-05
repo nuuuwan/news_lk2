@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Army-officer-seen-assaulting-civilian-at-fuel-shed-relieved-off-duties-till-probe-completed/108-240395",
+    "time_ut": 1657020440,
+    "original_lang": "en",
+    "original_title": "Army officer seen assaulting civilian at fuel shed, relieved off duties till probe completed",
+    "file_name": "/tmp/news_lk2/articles/fd/fd28902d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb-140-\u0d9a\u0dca-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4-\u0dc0\u0dd3\u0db8\u0dda-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca/1-615913",
+    "time_ut": 1657019965,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb 140 \u0d9a\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a7/a7bf7b5a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130860",
+    "time_ut": 1657019883,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bb7\u0bcd\u0baf \u0b8f\u0bb0\u0bcb\u0baa\u0bc1\u0bb3\u0bca\u0b9f\u0bcd  \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd : \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd 15 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/72/7264b6a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/ams-urges-president-pm-to-step-down/",
+    "time_ut": 1657019880,
+    "original_lang": "en",
+    "original_title": "AMS urges President & PM to step down",
+    "file_name": "/tmp/news_lk2/articles/3e/3e3dd197.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83444/kandakadu-inmates-cause-of-death-revealed",
     "time_ut": 1657019640,
     "original_lang": "en",
     "original_title": "Kandakadu inmate\u2019s cause of death revealed",
     "file_name": "/tmp/news_lk2/articles/5c/5c4f0195.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd0\u0dba-3\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0-\u0daf\u0dd2\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0dc0\u0dd9\u0dba\u0dd2/1-615912",
+    "time_ut": 1657019569,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0 \u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/67/67236fe4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
