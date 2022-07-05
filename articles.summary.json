@@ -201,6 +201,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd1\u0dc3\u0dca-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd--\u0dc4\u0dd9\u0da7-\u0d9a\u0ddd\u0db4\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0-\u0dc4\u0db8\u0dd4\u0dc0\u0da7/101-615869",
+    "time_ut": 1656949800,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd  \u0dc4\u0dd9\u0da7 \u0d9a\u0ddd\u0db4\u0dca \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0 \u0dc4\u0db8\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/38/384fb6f4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dad\u0d9a\u0da7-\u0d9a\u0dd0\u0dad-\u0dc0\u0dd0\u0da9\u0d9a\u0dca-\u0d9a\u0dc5-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0dbb\u0d9c\u0dbd-\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dad\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-615868",
     "time_ut": 1656949534,
     "original_lang": "si",
@@ -512,6 +520,30 @@
     "file_name": "/tmp/news_lk2/articles/ff/ffaf78af.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dentsu-creative-bengalaru-wins-cannes-lions-agency-of-the-year/",
+    "time_ut": 1656938340,
+    "original_lang": "en",
+    "original_title": "DENTSU CREATIVE Bengalaru wins Cannes Lions Agency of the Year",
+    "file_name": "/tmp/news_lk2/articles/72/7224965e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cdb-smb-friday-empowers-women-entrepreneurs-in-sri-lanka-in-collaboration-with-patpat-lk/",
+    "time_ut": 1656938280,
+    "original_lang": "en",
+    "original_title": "CDB SMB Friday empowers women entrepreneurs in Sri Lanka in collaboration with patpat.lk",
+    "file_name": "/tmp/news_lk2/articles/9c/9cdfdf3c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sampath-bank-scores-9th-consecutive-win-at-world-finance-banking-awards/",
+    "time_ut": 1656938220,
+    "original_lang": "en",
+    "original_title": "Sampath Bank scores 9th consecutive win at World Finance Banking Awards",
+    "file_name": "/tmp/news_lk2/articles/67/67dd1265.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130789",
     "time_ut": 1656938177,
@@ -608,12 +640,28 @@
     "file_name": "/tmp/news_lk2/articles/d7/d72da417.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sec-overhauls-regulations-governing-market-institutions-market-intermediaries-and-introduces-a-code-for-collective-investment-schemes/",
+    "time_ut": 1656934500,
+    "original_lang": "en",
+    "original_title": "SEC overhauls Regulations Governing Market Institutions, Market Intermediaries and introduces a Code for Collective Investment Schemes",
+    "file_name": "/tmp/news_lk2/articles/9f/9fca4a3c.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130763",
     "time_ut": 1656934471,
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0ba4\u0bc1\u0bb3\u0bbf\u0baf\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b9a\u0bbe\u0b95\u0bb0 \u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bb5\u0b9a\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/31/315cc6ff.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/active-in-germany/",
+    "time_ut": 1656934440,
+    "original_lang": "en",
+    "original_title": "Active in Germany",
+    "file_name": "/tmp/news_lk2/articles/cd/cda78dc0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -630,6 +678,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca - \u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/f4/f45591e1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/special-birthday-celebrations-on-july-13th/",
+    "time_ut": 1656934380,
+    "original_lang": "en",
+    "original_title": "Special birthday celebrations \u2026on July 13th",
+    "file_name": "/tmp/news_lk2/articles/d8/d8a4c2cc.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -2120,12 +2176,28 @@
     "file_name": "/tmp/news_lk2/articles/2c/2ccfa70c.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78373",
+    "time_ut": 1656875160,
+    "original_lang": "en",
+    "original_title": "Leader of the Opposition Sajith Premadasa and Ex-President Maithripala  Sirisena Meet with several Opposition political party leaders and  civil rights activists for discussions on the theme \u201cNational Reforms and Progress\u201d and moot a collective program to get the country out of the current crisis.",
+    "file_name": "/tmp/news_lk2/articles/b0/b0dc1865.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/A-digitalised-transparent-system-of-fuel-distribution-will-prevent-cities-becoming-ghost-towns/14-736992",
     "time_ut": 1656875123,
     "original_lang": "en",
     "original_title": "A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns",
     "file_name": "/tmp/news_lk2/articles/ef/ef5882a7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/airline-pilots-and-professionalism/",
+    "time_ut": 1656874800,
+    "original_lang": "en",
+    "original_title": "Airline Pilots and Professionalism",
+    "file_name": "/tmp/news_lk2/articles/6c/6c174302.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2190,6 +2262,14 @@
     "original_lang": "ta",
     "original_title": "22 \u0b90 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1 \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0bbe\u0b9c\u0b95 \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0bc7\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
     "file_name": "/tmp/news_lk2/articles/89/8910c1d7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/22a-is-19a-minus-and-does-not-help-alleviate-crisis/",
+    "time_ut": 1656867120,
+    "original_lang": "en",
+    "original_title": "22A is 19A Minus and does not help alleviate crisis",
+    "file_name": "/tmp/news_lk2/articles/a2/a2c600f0.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -2760,6 +2840,14 @@
     "file_name": "/tmp/news_lk2/articles/a9/a9c718af.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-enterprise-introduces-dialog-smartlife-app-for-three-sinha-roller-doors/",
+    "time_ut": 1656844260,
+    "original_lang": "en",
+    "original_title": "Dialog Enterprise introduces Dialog SmartLife App for Three Sinha roller doors",
+    "file_name": "/tmp/news_lk2/articles/85/852cda5b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0dc4\u0ddc\u0dbb\u0dd9\u0db1\u0dca-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-75-\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615794",
     "time_ut": 1656844195,
@@ -2814,6 +2902,22 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd9\u0da7 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d3/d3f4c2aa.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/peoples-bank-commemorates-its-61st-anniversary/",
+    "time_ut": 1656843600,
+    "original_lang": "en",
+    "original_title": "People\u2019s Bank commemorates its 61st anniversary",
+    "file_name": "/tmp/news_lk2/articles/5a/5a74412d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/boi-launches-long-term-residence-visa-programme-for-investors-2/",
+    "time_ut": 1656843540,
+    "original_lang": "en",
+    "original_title": "BOI launches long term residence visa programme for investors",
+    "file_name": "/tmp/news_lk2/articles/d0/d0a7350a.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -5454,6 +5558,14 @@
     "original_lang": "en",
     "original_title": "Time for a fighting chance",
     "file_name": "/tmp/news_lk2/articles/91/91980d5c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/rulers-and-unionists-from-hell/",
+    "time_ut": 1656699840,
+    "original_lang": "en",
+    "original_title": "Rulers and unionists from hell",
+    "file_name": "/tmp/news_lk2/articles/22/2227a4f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
