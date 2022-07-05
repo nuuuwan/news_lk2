@@ -32,12 +32,28 @@
     "file_name": "/tmp/news_lk2/articles/86/860a7d30.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/no-moral-right-for-president-to-stay-in-power-cardinal/",
+    "time_ut": 1657020600,
+    "original_lang": "en",
+    "original_title": "NO moral right for President to stay in power: Cardinal",
+    "file_name": "/tmp/news_lk2/articles/7f/7fa134b9.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Army-officer-seen-assaulting-civilian-at-fuel-shed-relieved-off-duties-till-probe-completed/342-240395",
     "time_ut": 1657020440,
     "original_lang": "en",
     "original_title": "Army officer seen assaulting civilian at fuel shed, relieved off duties till probe completed",
     "file_name": "/tmp/news_lk2/articles/3d/3da475fe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/daily-exchange-rate-from-cbsl-9/",
+    "time_ut": 1657020300,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/05/05a6724d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bc2\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 :\u00a0\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8, \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/5d/5dde76c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83365/delays-expected-in-restoring-sudden-breakdowns-ceb",
-    "time_ut": 1656667860,
-    "original_lang": "en",
-    "original_title": "Delays expected in restoring sudden breakdowns - CEB",
-    "file_name": "/tmp/news_lk2/articles/e3/e377faa6.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130558",
-    "time_ut": 1656667639,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 -\u00a0\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/f5/f53821fd.json"
   }
 ]
