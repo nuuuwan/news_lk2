@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db7\u0dcf\u0d9c-\u0d9a\u0dcf\u0dbd\u0dc3\u0da7\u0dc4\u0db1-\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda\u0daf\u0dd3-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7/101-615918",
+    "time_ut": 1657028087,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0d9a\u0dcf\u0dbd\u0dc3\u0da7\u0dc4\u0db1 \u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/3c/3c7e37d2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130875",
+    "time_ut": 1657027697,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0baf\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/db/db213857.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/05/cabinet-appoints-sub-committee-on-cost-of-living/",
     "time_ut": 1657026840,
@@ -8,12 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/61/617b267b.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9/175-299776",
+    "time_ut": 1657026703,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/76/763c6bac.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Cardinal-calls-for-resignation-of-President-and-Govt/108-240397",
     "time_ut": 1657026422,
     "original_lang": "en",
     "original_title": "Cardinal calls for resignation of President and Govt.",
     "file_name": "/tmp/news_lk2/articles/6b/6b10e5d5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130873",
+    "time_ut": 1657026078,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0, \u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3\u0ba4\u0bb0 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/de/dea83c38.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -65,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda--\u0dc0\u0dd2\u0dc4\u0dd2\u0dbd\u0dd4-\u0d9a\u0dad\u0dcf-\u0dc3\u0dd9\u0dbd\u0dca\u0dbd\u0db8-\u0daf\u0dd9\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dcf\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1/1-615917",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda--\u0dc0\u0dd2\u0dc4\u0dd2\u0dbd\u0dd4-\u0d9a\u0dad\u0dcf-\u0dc3\u0dd9\u0dbd\u0dca\u0dbd\u0db8-\u0daf\u0dd9\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0dcf\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1/101-615917",
     "time_ut": 1657024822,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda  \u0dc0\u0dd2\u0dc4\u0dd2\u0dbd\u0dd4 \u0d9a\u0dad\u0dcf \u0dc3\u0dd9\u0dbd\u0dca\u0dbd\u0db8 \u0daf\u0dd9\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dcf\u0db8\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/57/57a4ab3d.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7ff373e2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0da9\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 200\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/cb/cb79eb29.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130579",
-    "time_ut": 1656672814,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0b95\u0bb0\u0bcd \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd \u0b8a\u0bb0\u0bcd\u0b95\u0bbe\u0bb5\u0bb1\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d9/d9c457d1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130580",
-    "time_ut": 1656672378,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd - \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd-\u0b9a\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb5\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/f6/f6246b7c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130578",
-    "time_ut": 1656672195,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0ba8\u0b95\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e6/e676012e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/01/woman-jumps-into-embilipitiya-lake-with-two-sons/",
-    "time_ut": 1656672120,
-    "original_lang": "en",
-    "original_title": "Woman jumps into Embilipitiya Lake with two sons",
-    "file_name": "/tmp/news_lk2/articles/b5/b5210603.json"
   }
 ]
