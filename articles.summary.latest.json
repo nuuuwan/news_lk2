@@ -72,6 +72,14 @@
     "file_name": "/tmp/news_lk2/articles/87/87eb57fa.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/05/flight-training-academy-at-batti-airport/",
+    "time_ut": 1657034880,
+    "original_lang": "en",
+    "original_title": "Flight training academy at Batti airport ?",
+    "file_name": "/tmp/news_lk2/articles/ba/ba136253.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/C-W-Mackie-PLC-Scan-Product-Division-launches-Recycle-for-Future-Generation/108-240401",
     "time_ut": 1657034794,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Lanka IOC stocks elevate bourse to positive territory",
     "file_name": "/tmp/news_lk2/articles/03/03a48102.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130589",
-    "time_ut": 1656679989,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bb3\u0bcd\u0bb3\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 2500 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ba/ba7b4cae.json"
   }
 ]
