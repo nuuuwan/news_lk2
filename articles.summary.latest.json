@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-waiting-in-fuel-queue-in-Borella-dies/108-240382",
+    "time_ut": 1657001881,
+    "original_lang": "en",
+    "original_title": "Man waiting in fuel queue in Borella dies",
+    "file_name": "/tmp/news_lk2/articles/21/21ef5e11.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130815",
+    "time_ut": 1657001615,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1-\u0db1\u0db8\u0dca-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db6\u0dbd\u0dc0\u0dda\u0d9c-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dc0\u0dd2\u0dba\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/1-615890",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd-\u0d9a\u0db1-\u0d91\u0d9a-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca/1-615891",
+    "time_ut": 1657001459,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d9a\u0db1 \u0d91\u0d9a \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/63/63fbec4a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1-\u0db1\u0db8\u0dca-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db6\u0dbd\u0dc0\u0dda\u0d9c-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dc0\u0dd2\u0dba\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/101-615890",
     "time_ut": 1657001028,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7 \u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1 \u0db1\u0db8\u0dca \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd2\u0dba\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bd/bd1d87b0.json"
+    "file_name": "/tmp/news_lk2/articles/5e/5eb5cdfb.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -16,28 +40,12 @@
     "file_name": "/tmp/news_lk2/articles/5f/5f487065.json"
   },
   {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc8-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-299752",
-    "time_ut": 1657000800,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd: \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/29/29a9e76f.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-debt-rise-to-140-pct-pm-says-after-currency-collapse-96947/",
     "time_ut": 1657000560,
     "original_lang": "en",
     "original_title": "Sri Lanka debt rise to 140-pct PM says after currency collapse",
     "file_name": "/tmp/news_lk2/articles/29/29086123.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130815",
-    "time_ut": 1657000545,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a5/a5254419.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -49,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0da7-\u0dbd\u0d9a\u0dca-\u0d9a\u0dc5-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dad\u0dc0\u0db8-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd3-\u0db1\u0dd1\u2018\u2018/1-615888",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0da7-\u0dbd\u0d9a\u0dca-\u0d9a\u0dc5-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dad\u0dc0\u0db8-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd3-\u0db1\u0dd1\u2018\u2018/101-615888",
     "time_ut": 1657000067,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0da7 \u0dbd\u0d9a\u0dca \u0d9a\u0dc5 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dad\u0dc0\u0db8 \u0dc4\u0db8\u0dd4 \u0dc0\u0dd3 \u0db1\u0dd1\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/79/79713ef3.json"
+    "file_name": "/tmp/news_lk2/articles/eb/eb09b3e2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -321,19 +329,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/India-could-bail-out-SL-as-IMF-rescue-package-appears-to-take-time-economist/245-240376",
+    "url": "https://www.dailymirror.lk/breaking_news/India-could-bail-out-SL-as-IMF-rescue-package-appears-to-take-time-economist/108-240376",
     "time_ut": 1656995020,
     "original_lang": "en",
     "original_title": "India could bail out SL as IMF rescue package appears to take time- economist",
-    "file_name": "/tmp/news_lk2/articles/95/958128d5.json"
+    "file_name": "/tmp/news_lk2/articles/e8/e81f9f30.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Tourist-arrivals-stage-slight-recovery-in-June-thanks-to-Aussie-cricket-fans/273-240371",
+    "url": "https://www.dailymirror.lk/breaking_news/Tourist-arrivals-stage-slight-recovery-in-June-thanks-to-Aussie-cricket-fans/108-240371",
     "time_ut": 1656994682,
     "original_lang": "en",
     "original_title": "Tourist arrivals stage slight recovery in June thanks to Aussie cricket fans",
-    "file_name": "/tmp/news_lk2/articles/19/19bf769a.json"
+    "file_name": "/tmp/news_lk2/articles/a6/a66482a8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1054,6 +1062,14 @@
     "original_lang": "en",
     "original_title": "President\u2019s resolution on essential services to be submitted to Parliament for approval",
     "file_name": "/tmp/news_lk2/articles/f3/f36e39f0.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/overcoming-defeatist-lessons-from-guatemalan-aragalaya/",
+    "time_ut": 1656941532,
+    "original_lang": "en",
+    "original_title": "Overcoming \u2018Defeatist & Bystander\u2019 Mindsets; Lessons From Guatemalan \u2018Aragalaya\u2019",
+    "file_name": "/tmp/news_lk2/articles/49/490bddc5.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Missed opportunity at the people\u2019s protest: Seeking citizens\u2019 voice in constitutional reform process",
     "file_name": "/tmp/news_lk2/articles/28/2816642e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Choosing-destruction-instead-of-salvation/4-736916",
-    "time_ut": 1656635918,
-    "original_lang": "en",
-    "original_title": "Choosing destruction instead of salvation",
-    "file_name": "/tmp/news_lk2/articles/43/43ba6874.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Adapting-to-urban-heat-stress-and-rising-global-temperatures/4-736915",
-    "time_ut": 1656635751,
-    "original_lang": "en",
-    "original_title": "Adapting to urban heat stress and rising global temperatures",
-    "file_name": "/tmp/news_lk2/articles/3a/3af57a7b.json"
   }
 ]

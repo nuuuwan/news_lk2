@@ -1,0 +1,465 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd-\u0d9a\u0db1-\u0d91\u0d9a-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca/1-615891",
+  "time_ut": 1657001459,
+  "original_lang": "si",
+  "original_title": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d9a\u0db1 \u0d91\u0d9a \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "Eating three meals a day is a problem for Sri Lankans",
+      "author": "unknown",
+      "body_lines": [
+        "Reuters news agency stated that in view of the rapidly rising inflation in Sri Lanka, it has become a problem for the Sri Lankan people to get three meals a day.",
+        "According to Reuters news service, the livelihood of many people is also at risk due to the lack of fuel.",
+        "Reuters reports that due to the increase in food prices, family members have to reduce the number of meals they eat. Inflation in June in Sri Lanka was 54.6 percent, transport charges increased by 128 percent, and food inflation was 80.1 percent, according to Reuters, citing official data reports. The news service said.",
+        "Economist Rehana Tawfiq, an expert in calculating food inflation, has told Reuters that a Sri Lankan family should earn 93,675 to 148,868 rupees per month to eat a nutritious diet recommended by the World Health Organization.",
+        "But the average income of a Sri Lankan family is 76,414 rupees per month and the monthly income of a poor family, which is 20 percent of the Sri Lankan population, is 17,572 rupees, according to official data reports.",
+        "Reuters news agency said that due to the current crisis in Sri Lanka, the price of vegetables has doubled and the price of a kilo of rice, which was 145 rupees last year, has become 230 rupees today."
+      ],
+      "title_ents": [
+        {
+          "text": "three",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Sri Lankans",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "54.6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "128 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "80.1 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Rehana Tawfiq",
+            "label": "PERSON"
+          },
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "93,675",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "148,868",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the World Health Organization",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "76,414",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "monthly",
+            "label": "DATE"
+          },
+          {
+            "text": "20 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "17,572",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Reuters",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "145",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "last year",
+            "label": "DATE"
+          },
+          {
+            "text": "230",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d9a\u0db1 \u0d91\u0d9a \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc1\u0dd3\u0d9d\u0dca\u200d\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0db1 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dc4\u0db8\u0dd4\u0dc0\u0dda \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d86\u0dc4\u0dcf\u0dbb \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dd3 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0d9c\u0dda \u0da2\u0dd3\u0dc0\u0db1\u0ddd\u0db4\u0dcf\u0dba\u0daf \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0da7 \u0dbd\u0d9a\u0dca\u0dc0 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d86\u0dc4\u0dcf\u0dbb \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u00a0 \u0d86\u0dc4\u0dcf\u0dbb \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dc0\u0dda\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dc3 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 54.6 \u0d9a\u0dca \u0db6\u0dc0\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 128 \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0d86\u0dc4\u0dcf\u0dbb \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 80.1 \u0db6\u0dc0\u0dad\u0dca \u0db1\u0dd2\u0dbd \u0daf\u0dad\u0dca\u0dad \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1 \u0d9a\u0dbb\u0db1 \u0db4\u0ddd\u0dc2\u0dca\u200d\u0dba\u0daf\u0dcf\u0dba\u0dd2 \u0d86\u0dc4\u0dcf\u0dbb \u0dc0\u0dda\u0dbd\u0d9a\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0db4\u0dc0\u0dd4\u0dbd\u0d9a\u0dca \u0db8\u0dc3\u0d9a\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 93,675 \u0dc3\u0dd2\u0da7 148,868 \u0db8\u0dd4\u0daf\u0dbd\u0d9a\u0dca \u0d89\u0db4\u0dd0\u0dba\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u00a0 \u0db6\u0dc0 \u0d86\u0dc4\u0dcf\u0dbb \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0db1 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5 \u0dbb\u0dd9\u0dc4\u0dcf\u0db1\u0dcf \u0dad\u0dc0\u0dca\u0dc6\u0dd3\u0d9a\u0dca \u0db8\u0dc4\u0dad\u0dca\u0db8\u0dd2\u0dba \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0db1\u0db8\u0dd4\u0dad\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dd2\u0d9a \u0db4\u0dc0\u0dd4\u0dbd\u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0db8\u0dc3\u0d9a\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 76,414 \u0db6\u0dc0\u0dad\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0db1\u0d9c\u0dc4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 20 \u0d9a\u0dca \u0dc0\u0db1 \u0daf\u0dd4\u0db4\u0dca\u0db4\u0dad\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0d9a \u0db8\u0dcf\u0dc3\u0dd2\u0d9a \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 17,572 \u0d9a\u0dca \u0db6\u0dc0\u0dad\u0dca \u0db1\u0dd2\u0dbd \u0daf\u0dad\u0dca\u0dad \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0dc0\u0dd2\u0db3\u0dd2\u0db1 \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf \u0dad\u0dc0\u0dad\u0dca \u0d8b\u0d9c\u0dca\u200d\u0dbb \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0db8\u0dd2\u0dbd \u0daf\u0dd9\u0d9c\u0dd4\u0dab \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 145 \u0d9a\u0dca \u0dc0\u0dd6 \u0dc3\u0dc4\u0dbd\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a \u0db8\u0dd2\u0dbd \u0d85\u0daf \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 230 \u0d9a\u0dca \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca\u00a0 \u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dd4\u0dc0\u0dad\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dad\u0dd4\u0db1\u0dca",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 54.6 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 128 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 80.1 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dd9\u0dc4\u0dcf\u0db1\u0dcf \u0dad\u0dc0\u0dd4\u0dc6\u0dd2\u0d9a\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "93,675 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "148,868 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "76,414 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 20 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "17,572 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0ddc\u0dba\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "145",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "230",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc7\u0bb3\u0bc8 \u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0ba3\u0bcd\u0baa\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc7\u0bb3\u0bc8 \u0b89\u0ba3\u0bb5\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb0\u0bca\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bb2\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd 128 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 80.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. , \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0ba4\u0bb0\u0bb5\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb8\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b89\u0ba3\u0bb5\u0bc8 \u0b89\u0ba3\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 93,675 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 148,868 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bb5\u0bb0\u0bc8 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b88\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd \u0bb0\u0bc6\u0bb9\u0bbe\u0ba9\u0bbe \u0ba4\u0bb5\u0bcd\u0baa\u0bbf\u0b95\u0bcd \u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bae\u0bcd 76,414 \u0bb0\u0bc2\u0baa\u0bbe \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 20 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9 \u0bb5\u0bb1\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0ba4 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd 17,572 \u0bb0\u0bc2\u0baa\u0bbe \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0ba4\u0bb0\u0bb5\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bae\u0bb0\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0b9f\u0b99\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd 145 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 230 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb0\u0bca\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "128 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "80.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bc6\u0bb9\u0bbe\u0ba9\u0bbe \u0ba4\u0bb5\u0bcd\u0baa\u0bbf\u0b95\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "93,675",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "148,868",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "76,414",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0",
+            "label": "DATE"
+          },
+          {
+            "text": "20 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "17,572",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "145",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "230",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
