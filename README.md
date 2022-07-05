@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 03:37:27 (LK time)*
+*As of 2022-07-06 03:45:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **3** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
 
 * **2** economy-next-com ([Tourists to receive on request fuel in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743da915.json))
-
-* **1** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
 ## Last 24 Hours (259 Articles)
 
