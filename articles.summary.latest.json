@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/crisis-hit-sri-lanka-to-supply-fertilizer-at-25-pct-cost-amid-looming-food-shortage-96956/",
+    "time_ut": 1657016820,
+    "original_lang": "en",
+    "original_title": "Crisis-hit Sri Lanka to supply fertilizer at 25-pct cost amid looming food shortage",
+    "file_name": "/tmp/news_lk2/articles/e2/e2738e88.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Order-in-Russian-Aeroflot-flight-case-fixed-for-July-15/342-240390",
+    "time_ut": 1657016517,
+    "original_lang": "en",
+    "original_title": "Order in Russian Aeroflot flight case fixed for July 15",
+    "file_name": "/tmp/news_lk2/articles/c0/c06593bc.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130839",
     "time_ut": 1657015806,
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0bcd\u0b9c\u0bc1\u0ba9 \u0bae\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f 10 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 :\u00a0\u00a0\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0b86\u0b9f\u0bcd\u0b9a\u0bc7\u0baa\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b6/b68e9d71.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-looking-to-use-prisoners-rehabilitation-centre-inmates-for-agri-work-96957/",
+    "time_ut": 1657015620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka looking to use prisoners, rehabilitation centre \u201cinmates\u201d for agri work",
+    "file_name": "/tmp/news_lk2/articles/75/75889c8c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -38,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc7 \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0b9f\u0bc1 \u0b95\u0bc8\u0b95\u0bcb\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd - \u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/a0/a0c9a580.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0dc4\u0ddd-\u0dad\u0db8\u0dcf\u0da7-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba-\u0daf\u0dd0\u0dbb\u0dd3\u0db8\u0da7-\u0da2\u0db1-\u0dc0\u0dbb\u0db8\u0d9a\u0dca-\u0db1\u0dd1/11-395133",
+    "time_ut": 1657015139,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0dc4\u0ddd \u0dad\u0db8\u0dcf\u0da7 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba \u0daf\u0dd0\u0dbb\u0dd3\u0db8\u0da7 \u0da2\u0db1 \u0dc0\u0dbb\u0db8\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/79/79242fcf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -993,11 +1025,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-add-Theekshana-Wellalage-and-Manasinghe-to-Test-squad-Mathews-available-for-selection/108-240362",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Sri-Lanka-add-Theekshana-Wellalage-and-Manasinghe-to-Test-squad-Mathews-available-for-selection/326-240362",
     "time_ut": 1656992060,
     "original_lang": "en",
     "original_title": "Sri Lanka add Theekshana, Wellalage and Manasinghe to Test squad, Mathews available for selection",
-    "file_name": "/tmp/news_lk2/articles/5e/5e7df11b.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7e449894.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1393,11 +1425,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Economic-downfall-forces-students-to-quit-Uni/352-240357",
+    "url": "https://www.dailymirror.lk/news-features/Economic-downfall-forces-students-to-quit-Uni/131-240357",
     "time_ut": 1656958506,
     "original_lang": "en",
     "original_title": "Economic downfall forces students to quit Uni",
-    "file_name": "/tmp/news_lk2/articles/53/53b8e1c1.json"
+    "file_name": "/tmp/news_lk2/articles/45/45ecca94.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0bb5\u0bc7 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd : \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/e0/e0997fcc.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda-\u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca-\u0dad\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/1-615691",
-    "time_ut": 1656662044,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dad\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8f/8fc8523d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/01/fuel-crisis-paper-marking-affected/",
-    "time_ut": 1656661860,
-    "original_lang": "en",
-    "original_title": "Fuel Crisis: Paper Marking Affected",
-    "file_name": "/tmp/news_lk2/articles/8c/8ce3b076.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-government-approval-rating-3-pct-economic-confidence-minus-poll-96761/",
-    "time_ut": 1656661800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka government approval rating 3-pct, economic confidence minus: poll",
-    "file_name": "/tmp/news_lk2/articles/9d/9d03ac4b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-colombo-port-says-has-fuel-to-continue-operations-96757/",
-    "time_ut": 1656661500,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Colombo Port says has fuel to continue operations",
-    "file_name": "/tmp/news_lk2/articles/37/379ed708.json"
   }
 ]
