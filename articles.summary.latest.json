@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83459/hirunika-and-8-others-arrested-during-protest",
+    "time_ut": 1657090380,
+    "original_lang": "en",
+    "original_title": "Hirunika and 8 others arrested during protest",
+    "file_name": "/tmp/news_lk2/articles/8b/8bbfa698.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615938",
+    "time_ut": 1657089984,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/83/8376ae7a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-minister-dhammika-perera-wants-pm-to-resign-as-finance-minister-97012/",
+    "time_ut": 1657089840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Minister Dhammika Perera wants PM to resign as Finance Minister",
+    "file_name": "/tmp/news_lk2/articles/c4/c4b418ac.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130896",
+    "time_ut": 1657089627,
+    "original_lang": "ta",
+    "original_title": "\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b8/b8c23a14.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Hirunika-and-group-arrested-for-protesting-near-Presidential-residence/108-240461",
     "time_ut": 1657088970,
@@ -62,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Payment to be made today to bring down petrol shipment between July 13 and 15: Minister",
     "file_name": "/tmp/news_lk2/articles/ea/eaab082e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd2\u0dbb\u0dd2-\u0d91\u0dc5\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda/11-395160",
+    "time_ut": 1657088524,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0dbb\u0dd2 \u0d91\u0dc5\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda",
+    "file_name": "/tmp/news_lk2/articles/12/12db50c3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "REMEMBERING GEORGE TURNOUR SCHOLAR/ADMINISTRATOR EXTRAORDINAIRE",
     "file_name": "/tmp/news_lk2/articles/84/84f0857c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83378/sri-lanka-seeks-greater-cooperation-with-india-in-food-processing-dairy-sectors",
-    "time_ut": 1656737940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka seeks greater cooperation with India in food processing & dairy sectors",
-    "file_name": "/tmp/news_lk2/articles/0c/0c2a801e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/blasted-local-economy-and-us-suppression-of-a-womans-right/",
-    "time_ut": 1656737700,
-    "original_lang": "en",
-    "original_title": "Blasted local economy and US suppression of a woman\u2019s right",
-    "file_name": "/tmp/news_lk2/articles/d7/d7b2f3f8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130607",
-    "time_ut": 1656737673,
-    "original_lang": "ta",
-    "original_title": "4 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0b99\u0bcd\u0b95 \u0baa\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/85/85110600.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/when-will-the-gang-of-four-be-held-accountable-for-their-irresponsible-decisions/",
-    "time_ut": 1656737400,
-    "original_lang": "en",
-    "original_title": "When will the Gang of Four be held accountable for their irresponsible decisions?",
-    "file_name": "/tmp/news_lk2/articles/ea/ea3a91a5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/consular-affairs-division-to-resume-services-from-04th-july/",
-    "time_ut": 1656737340,
-    "original_lang": "en",
-    "original_title": "Consular Affairs division to resume services from 04th July",
-    "file_name": "/tmp/news_lk2/articles/eb/eb8a2d92.json"
   }
 ]
