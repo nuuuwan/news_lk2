@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 23:54:06 (LK time)*
+*As of 2022-07-07 00:15:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,7 +14,7 @@
 
 * **1** ada-lk ([සංචාරක පැමිණීම්වල සියයට 8.8ක වර්ධනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32de48be.json))
 
-## Last 24 Hours (225 Articles)
+## Last 24 Hours (224 Articles)
 
 * **37** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
@@ -22,7 +22,7 @@
 
 * **32** lankadeepa-lk ([බ්‍රිතාන්‍යයේ මුදල් ඇමැති සෞඛ්‍ය ඇමැති ඉල්ලා අස්වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73ab5f83.json))
 
-* **30** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
+* **29** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
 
 * **25** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
@@ -36,7 +36,7 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,725 Articles)
+## Last Week (1,718 Articles)
 
 * **354** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -44,11 +44,11 @@
 
 * **200** ada-lk ([මේ ගෙවමින් තිබෙන්නේ කලින් කී අමාරුම සති තුනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6924bbd0.json))
 
-* **186** daily-mirror-lk ([Bunker licence holders agree to import and supply jet fuel on urgent basis](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9c46058.json))
+* **182** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
 * **170** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
-* **159** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
+* **156** ada-derana-lk ([Advisory issued for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fe52c8.json))
 
 * **139** news-first-lk ([Party Leaders to meet today (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd45659.json))
 
