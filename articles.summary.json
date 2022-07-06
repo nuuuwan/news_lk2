@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130886",
+    "time_ut": 1657084930,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1b/1baed034.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da2\u0dd4\u0dbd\u0dd2-4-\u0db4\u0dd9\u0dc5\u0db4\u0dcf\u0dbd\u0dd2\u0dba\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dda-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0da7-\u0da0\u0ddd\u0daf\u0db1\u0dcf/3-395155",
+    "time_ut": 1657084267,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd4\u0dbd\u0dd2 4 \u0db4\u0dd9\u0dc5\u0db4\u0dcf\u0dbd\u0dd2\u0dba\u0da7 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dda \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0da7 \u0da0\u0ddd\u0daf\u0db1\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/8b/8bf4ac74.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/13-people-arrested-for-attacking-filling-station-in-wellawaya/",
+    "time_ut": 1657084260,
+    "original_lang": "en",
+    "original_title": "13 people arrested for attacking filling station in Wellawaya",
+    "file_name": "/tmp/news_lk2/articles/9d/9d0f4d72.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0d8b\u0db4-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0d87\u0db8\u0dad\u0dd2-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/3-395154",
+    "time_ut": 1657084219,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0d8b\u0db4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dad\u0dd2 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/80/8086b6bc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0daf\u0dd0\u0da9\u0dd2-\u0db8\u0ddd\u0dc3\u0db8\u0dca-\u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-29\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/3-395153",
+    "time_ut": 1657084178,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd0\u0da9\u0dd2 \u0db8\u0ddd\u0dc3\u0db8\u0dca \u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0da2\u0dd3\u0dc0\u0dd2\u0dad 29\u0d9a\u0dca \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f2/f2316252.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba-\u0dc4\u0dcf-\u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0ddd\u0da7\u0ddd\u0dc0\u0da7-\u0dc5\u0d82\u0dc0\u0dda/3-395152",
+    "time_ut": 1657084107,
+    "original_lang": "si",
+    "original_title": "\u0dc6\u0dd2\u0db1\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba \u0dc4\u0dcf \u0dc3\u0dca\u0dc0\u0dd3\u0da9\u0db1\u0dba \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0ddd\u0da7\u0ddd\u0dc0\u0da7 \u0dc5\u0d82\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/6d/6d0def37.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0dbd\u0dd4\u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dca-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda-\u0da2\u0dba-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2/3-395151",
+    "time_ut": 1657084015,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd4\u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda \u0da2\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3e/3ee49a98.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1-\u0d9c\u0dd9\u0db1\u0dcf-\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-03\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/11-395149",
+    "time_ut": 1657083348,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1 \u0d9c\u0dd9\u0db1\u0dcf \u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c 03\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/f1/f1c08795.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-halts-repayments-of-airline-bond-airport-agency-debt-97004/",
     "time_ut": 1657083240,
@@ -14,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 45 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/55/551a0a39.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0dc0\u0dd2\u0dc0\u0dda\u0da0\u0db1\u0dba\u0d9a\u0dca/11-395148",
+    "time_ut": 1657083095,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dc0\u0dda\u0da0\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/86/86322981.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -150,6 +222,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca 26 \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ac/ac70c159.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca-26\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/1-615932",
+    "time_ut": 1657075283,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca 26\u0d9a\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fa/faf91ffa.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2841,11 +2921,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/news-features/Economic-downfall-forces-students-to-quit-Uni/131-240357",
+    "url": "https://www.dailymirror.lk/recomended-news/Economic-downfall-forces-students-to-quit-Uni/277-240357",
     "time_ut": 1656958506,
     "original_lang": "en",
     "original_title": "Economic downfall forces students to quit Uni",
-    "file_name": "/tmp/news_lk2/articles/45/45ecca94.json"
+    "file_name": "/tmp/news_lk2/articles/9d/9d43fbd2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
