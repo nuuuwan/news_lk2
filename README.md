@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 20:04:52 (LK time)*
+*As of 2022-07-06 20:07:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
 * **2** ada-derana-lk ([Kerosene price also set to increase?](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfc8046.json))
-
-* **2** virakesari-lk ([யாழ். பண்ணை கடற்கரையில் இனந்தெரியாத முதியவரின் சடலமொன்று மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0952d821.json))
 
 * **1** economy-next-com ([Sri Lanka shares down on fuel shortage, political instability woes amid rate hike fears](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88d1f741.json))
 
 * **1** ada-lk ([දුම්රිය වර්ජනය අත්හරියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f90d1bdd.json))
+
+* **1** virakesari-lk ([கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4018c16c.json))
 
 * **1** tamil-mirror-lk ([வேலைநிறுத்தத்தை கைவிட தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b199da.json))
 
