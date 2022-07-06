@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83467/hirunika-and-11-others-arrested-during-protest-granted-police-bail",
+    "time_ut": 1657107960,
+    "original_lang": "en",
+    "original_title": "Hirunika and 11 others arrested during protest granted police bail",
+    "file_name": "/tmp/news_lk2/articles/4c/4cbc7ff9.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130933",
     "time_ut": 1657106859,
@@ -126,6 +134,14 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca \u0daf\u0db8\u0dbd \u0d9c\u0dc4\u0dbd \u0dba\u0dcf \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/a8/a8235cf1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/sri-lanka-seeks-credit-assistance-from-russia-to-import-fuel/",
+    "time_ut": 1657104000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka seeks Credit Assistance from Russia to import fuel",
+    "file_name": "/tmp/news_lk2/articles/27/277a96fc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Galle Road obstructed between Ambalangoda and Hikkaduwa",
     "file_name": "/tmp/news_lk2/articles/07/07af4165.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd9\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-3-\u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba-\u0d86\u0db0\u0dcf\u0dbb/101-615746",
-    "time_ut": 1656771225,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3 \u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba \u0d86\u0db0\u0dcf\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/1f/1fb07195.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/lankan-energy-in-hands-of-foreign-countries-is-national-security-threat-mp-velukumar/",
-    "time_ut": 1656771000,
-    "original_lang": "en",
-    "original_title": "Lankan energy in hands of foreign countries is National security threat: MP Velukumar",
-    "file_name": "/tmp/news_lk2/articles/9a/9acee648.json"
   }
 ]
