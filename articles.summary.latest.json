@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd-\u0d85\u0dc3\u0dbd-\u0d9a\u0dbd\u0db6\u0dbd-\u0d9a\u0dc5-13\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-615940",
+    "time_ut": 1657091173,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd \u0d85\u0dc3\u0dbd \u0d9a\u0dbd\u0db6\u0dbd \u0d9a\u0dc5 13\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/99/9964441d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0dc4-\u0dbd\u0d9a\u0dca\u0dc2-21\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0d9a\u0dad\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-615939",
+    "time_ut": 1657090633,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0dc4 \u0dbd\u0d9a\u0dca\u0dc2 21\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/73/73195ed7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83459/hirunika-and-8-others-arrested-during-protest",
     "time_ut": 1657090380,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-615938",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-615938",
     "time_ut": 1657089984,
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/83/8376ae7a.json"
+    "file_name": "/tmp/news_lk2/articles/37/37678bd3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Senior lawyer Gomin Dayasri passes away",
     "file_name": "/tmp/news_lk2/articles/ee/ee9c4f53.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/secretary-ministry-of-education-retirement-and-beyond/",
-    "time_ut": 1656738180,
-    "original_lang": "en",
-    "original_title": "SECRETARY MINISTRY OF EDUCATION, RETIREMENT AND BEYOND",
-    "file_name": "/tmp/news_lk2/articles/e9/e94fdab3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/remembering-george-turnour-scholar-administrator-extraordinaire/",
-    "time_ut": 1656738120,
-    "original_lang": "en",
-    "original_title": "REMEMBERING GEORGE TURNOUR SCHOLAR/ADMINISTRATOR EXTRAORDINAIRE",
-    "file_name": "/tmp/news_lk2/articles/84/84f0857c.json"
   }
 ]
