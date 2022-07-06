@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/32/327c8a51.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/far-from-ukraine-sri-lanka-is-the-epicenter-of-a-global-crisis/",
+    "time_ut": 1657120020,
+    "original_lang": "en",
+    "original_title": "Far from Ukraine, Sri Lanka is the epicenter of a global crisis",
+    "file_name": "/tmp/news_lk2/articles/39/39cdf1c8.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130939",
     "time_ut": 1657119846,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Only 50 trains operated today: Station Masters\u2019 Union",
     "file_name": "/tmp/news_lk2/articles/85/85c649e4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/strong-winds-likely-tonight-6/",
+    "time_ut": 1657119180,
+    "original_lang": "en",
+    "original_title": "Strong winds likely tonight (6)",
+    "file_name": "/tmp/news_lk2/articles/af/af220883.json"
   },
   {
     "newspaper_id": "virakesari-lk",
