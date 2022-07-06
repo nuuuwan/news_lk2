@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 01:36:44 (LK time)*
+*As of 2022-07-07 01:54:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,9 +10,9 @@
 
 * **1** ada-derana-lk ([Additional sum required for fuel shipment arriving on July 13 - Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b5daa35.json))
 
-## Last 24 Hours (219 Articles)
+## Last 24 Hours (218 Articles)
 
-* **38** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
+* **39** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
 * **32** lankadeepa-lk ([බ්‍රිතාන්‍යයේ මුදල් ඇමැති සෞඛ්‍ය ඇමැති ඉල්ලා අස්වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73ab5f83.json))
 
@@ -20,7 +20,7 @@
 
 * **26** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
-* **26** tamil-mirror-lk ([’ரணிலை பூச்சியமாக்கினோம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98720985.json))
+* **24** tamil-mirror-lk ([’நான் குற்றவாளி அல்ல’](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1abe8de0.json))
 
 * **20** ada-derana-lk ([Limited number of trains in operation today](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564e0737.json))
 
@@ -32,9 +32,9 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,709 Articles)
+## Last Week (1,710 Articles)
 
-* **355** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
+* **356** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
 * **245** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
@@ -60,9 +60,9 @@
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-## All Time (3,532 Articles)
+## All Time (3,533 Articles)
 
-* **646** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **647** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **552** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
