@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-down-on-fuel-shortage-political-instability-woes-amid-rate-hike-fears-97043/",
+    "time_ut": 1657115760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares down on fuel shortage, political instability woes amid rate hike fears",
+    "file_name": "/tmp/news_lk2/articles/88/88d1f741.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83470/railways-trade-unions-decide-to-call-off-union-action",
+    "time_ut": 1657115580,
+    "original_lang": "en",
+    "original_title": "Railways trade unions decide to call off union action",
+    "file_name": "/tmp/news_lk2/articles/c5/c52072a4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2/11-395174",
+    "time_ut": 1657115486,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f90d1bdd.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130946",
+    "time_ut": 1657115284,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bb0\u0ba3\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/40/4018c16c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc8\u0bb5\u0bbf\u0b9f-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-299859",
+    "time_ut": 1657115061,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc7\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0bb5\u0bbf\u0b9f \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/70/70b199da.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83469/kerosene-price-also-set-to-increase",
     "time_ut": 1657115040,
@@ -14,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca \u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019",
     "file_name": "/tmp/news_lk2/articles/12/1277ad33.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130945",
+    "time_ut": 1657114621,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0baa\u0ba3\u0bcd\u0ba3\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0ba8\u0bcd\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/09/0952d821.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -86,6 +134,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/45/45a5cc2a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-100\u0d9a-\u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca/11-395173",
+    "time_ut": 1657108807,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 100\u0d9a \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e0/e036e86e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist",
     "file_name": "/tmp/news_lk2/articles/ce/ceccd267.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78361",
-    "time_ut": 1656789840,
-    "original_lang": "en",
-    "original_title": "Blaming Wickremesinghe for these failures is hardly fair. But he is the Prime Minister of a collapsing economy. To be sure, Wickremesinghe\u2019s biggest impediment has been the ineptitude of those he has had to work with. This does not, however, exonerate him.",
-    "file_name": "/tmp/news_lk2/articles/ca/ca73fa88.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78352",
-    "time_ut": 1656788760,
-    "original_lang": "en",
-    "original_title": "Tamil Nadu Fishermen Resume Illegal  Fishing in Sri Lankan Territorial Waters Again after Two Month Lull;SL Navy Seizes Mechanized Boat off Point Pedro Coast and Arrest 12 Indian Nationals",
-    "file_name": "/tmp/news_lk2/articles/9e/9e195c2f.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78350",
-    "time_ut": 1656788220,
-    "original_lang": "en",
-    "original_title": "The Amendment approved by Cabinet on 27 June does not restore the content of the 19th Amendment ; it falls short of the President  Rajapaksa\u2019s commitment to the nation made on 11 May.",
-    "file_name": "/tmp/news_lk2/articles/f6/f6738703.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83391/sri-lankan-national-held-with-gold-in-chennai-airport",
-    "time_ut": 1656786300,
-    "original_lang": "en",
-    "original_title": "Sri Lankan national held with gold in Chennai airport",
-    "file_name": "/tmp/news_lk2/articles/0c/0c9184df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Update-Jackson-Anthony-hospitalised/108-240229",
-    "time_ut": 1656785519,
-    "original_lang": "en",
-    "original_title": "Update: Jackson Anthony hospitalised",
-    "file_name": "/tmp/news_lk2/articles/3a/3a84d681.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Jackson-Anthony-hospitalised/108-240229",
-    "time_ut": 1656785519,
-    "original_lang": "en",
-    "original_title": "Jackson Anthony hospitalised",
-    "file_name": "/tmp/news_lk2/articles/c6/c6c0268b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83389/jackson-anthony-and-2-others-injured-after-vehicle-hits-elephant",
-    "time_ut": 1656783300,
-    "original_lang": "en",
-    "original_title": "Jackson Anthony and 2 others injured after vehicle hits elephant",
-    "file_name": "/tmp/news_lk2/articles/a6/a66b14f9.json"
   }
 ]
