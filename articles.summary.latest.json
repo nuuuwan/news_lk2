@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Dalai-Lama-an-icon-who-advocates-democracy-and-freedom-Ven-Prof-Lenagala-Sirinivasa/108-240480",
+    "time_ut": 1657133497,
+    "original_lang": "en",
+    "original_title": "Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa",
+    "file_name": "/tmp/news_lk2/articles/55/55822524.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130951",
     "time_ut": 1657126962,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dd3\u0da9\u0dcf\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0db8\u0dcf\u0dc3\u0dd2\u0d9a\u0dc0 \u0dbb\u0dd4 7500\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/33/335353f9.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bb4\u0bc8-\u0baa\u0bb2-\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0ba9/76-299612",
-    "time_ut": 1656821753,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8;  \u0baa\u0bb2 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/7e/7eec1efc.json"
   }
 ]

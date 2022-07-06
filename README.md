@@ -1,16 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 00:28:58 (LK time)*
+*As of 2022-07-07 00:36:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
+
+## Last Hour (1 Articles)
+
+* **1** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
+
 ## Last 3 Hours (3 Articles)
 
-* **2** virakesari-lk ([எதிர்வரும் 13 ஆம் திகதி  எரிபொருள் கப்பல் நாட்டை வந்தடையும் - காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56cdfa41.json))
+* **1** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
+
+* **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
 
 * **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
-## Last 24 Hours (224 Articles)
+## Last 24 Hours (225 Articles)
 
 * **37** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
@@ -20,7 +30,7 @@
 
 * **29** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
 
-* **25** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
+* **26** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
 * **19** ada-derana-lk ([Limited number of trains in operation today](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564e0737.json))
 
@@ -32,15 +42,15 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,718 Articles)
+## Last Week (1,717 Articles)
 
 * **354** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
 * **245** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
-* **200** ada-lk ([මේ ගෙවමින් තිබෙන්නේ කලින් කී අමාරුම සති තුනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6924bbd0.json))
+* **199** ada-lk ([ඇමති ධම්මික හා චීන තානාපති අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b65a23af.json))
 
-* **182** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
+* **183** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
 * **170** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
@@ -54,13 +64,13 @@
 
 * **46** island-lk ([JVP’s call to arms](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3eb08fb.json))
 
-* **25** d-b-s-jeyaraj-com ([Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57fdc35.json))
+* **24** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
 * **12** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-## All Time (3,528 Articles)
+## All Time (3,529 Articles)
 
 * **645** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -68,7 +78,7 @@
 
 * **438** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **367** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **368** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **338** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
