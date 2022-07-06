@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dad\u0dd2\u0d9a\u0db8\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca/101-615946",
+    "time_ut": 1657096027,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dad\u0dd2\u0d9a\u0db8\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e4/e4799b32.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/53-people-arrested-for-illegal-migration-attempt-2-smugglers-also-arrested/",
+    "time_ut": 1657095720,
+    "original_lang": "en",
+    "original_title": "53 people arrested for illegal migration attempt; 2 smugglers also arrested",
+    "file_name": "/tmp/news_lk2/articles/73/73c23a54.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83462/india-to-supply-fuel-to-sri-lanka-only-after-advance-payment",
+    "time_ut": 1657095540,
+    "original_lang": "en",
+    "original_title": "India to supply fuel to Sri Lanka only after advance payment",
+    "file_name": "/tmp/news_lk2/articles/7c/7cf06037.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Dhammika-calls-on-Ranil-to-resign-as-Finance-Min/155-240467",
+    "time_ut": 1657094755,
+    "original_lang": "en",
+    "original_title": "Dhammika calls on Ranil to resign as Finance Min.",
+    "file_name": "/tmp/news_lk2/articles/13/1361d214.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SL-to-pay-colossal-prices-plus-commissions-for-40k-MT-of-fuel-Harsha/108-240466",
     "time_ut": 1657094454,
@@ -33,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0db8\u0dbd\u0dca-\u0dc0\u0dbb\u0dcf\u0dba-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/1-615944",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0db8\u0dbd\u0dca-\u0dc0\u0dbb\u0dcf\u0dba-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/101-615944",
     "time_ut": 1657092978,
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc0\u0dbb\u0dcf\u0dba \u0dc4\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1f/1fa0f8ed.json"
+    "file_name": "/tmp/news_lk2/articles/32/32049c36.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -536,6 +568,14 @@
     "file_name": "/tmp/news_lk2/articles/d8/d8646073.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Expats-who-remit-more-dollars-will-be-allowed-to-return-back-to-work-abroad-Manusha/342-240450",
+    "time_ut": 1657078922,
+    "original_lang": "en",
+    "original_title": "Expats who remit more dollars will be allowed to return back to work abroad: Manusha",
+    "file_name": "/tmp/news_lk2/articles/76/76c2efa9.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bb0\u0b9f\u0bbf-\u0baa\u0bb2\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/72-299812",
     "time_ut": 1657078533,
@@ -617,11 +657,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca-26\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/11-615932",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca-26\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/101-615932",
     "time_ut": 1657075283,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca 26\u0d9a\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/37/374b0476.json"
+    "file_name": "/tmp/news_lk2/articles/14/1497aa77.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Doctors allowed to obtain fuel from Army bases",
     "file_name": "/tmp/news_lk2/articles/5e/5eaef255.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/customs-arrests-suspect-with-gold-biscuits-over-rs-47mn/",
-    "time_ut": 1656745800,
-    "original_lang": "en",
-    "original_title": "Customs arrests suspect with gold biscuits over Rs.47Mn",
-    "file_name": "/tmp/news_lk2/articles/79/791bd96d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83380/sri-lanka-to-get-emergency-grant-aid-of-usd-3-mn-from-japan",
-    "time_ut": 1656745740,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to get emergency grant aid of USD 3 Mn from Japan",
-    "file_name": "/tmp/news_lk2/articles/9e/9ea3d98b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-299583",
-    "time_ut": 1656745011,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bbe\u0baf\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/2d/2d52a4fc.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130617",
-    "time_ut": 1656744749,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0bb0\u0bc1\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bcb \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bcb \u0bb5\u0bb0 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0ba3",
-    "file_name": "/tmp/news_lk2/articles/18/1885853e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/three-shipments-of-fuel-to-arrive-in-sri-lanka-by-mid-end-july-august-lanka-ioc-96783/",
-    "time_ut": 1656744600,
-    "original_lang": "en",
-    "original_title": "Three shipments of fuel to arrive in Sri Lanka by mid, end July, August: Lanka IOC",
-    "file_name": "/tmp/news_lk2/articles/64/642c1e41.json"
   }
 ]
