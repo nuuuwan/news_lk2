@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130921",
+    "time_ut": 1657098896,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb2\u0bbf\u0bae\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0bae\u0bb0\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/8b/8bee6a74.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83463/police-fire-tear-gas-at-protesters-near-parliament-entry-road",
+    "time_ut": 1657098780,
+    "original_lang": "en",
+    "original_title": "Police fire tear gas at protesters near parliament entry road",
+    "file_name": "/tmp/news_lk2/articles/eb/ebe4ba6e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0d9a\u0dbb\u0dd4\u0dab\u0d9a\u0da7-\u0dc4\u0dd0\u0dbb-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf\u2018\u2018/101-615950",
+    "time_ut": 1657098661,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0d85\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dbb\u0dd4\u0dab\u0d9a\u0da7 \u0dc4\u0dd0\u0dbb \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/9b/9b60a7a8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130914",
+    "time_ut": 1657098489,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bca\u0b95\u0bc1\u0b9a\u0bc1 \u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb0\u0bb3\u0bbe \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f4/f4360e16.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130919",
     "time_ut": 1657097999,
     "original_lang": "ta",
@@ -41,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dd4\u0dab-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0\u0d9c\u0dda-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba-\u0db7\u0d82\u0d9c-\u0dc0\u0dd9\u0dbd\u0dcf/101-615948",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dbb\u0dd4\u0dab-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0\u0d9c\u0dda-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba-\u0db7\u0d82\u0d9c-\u0dc0\u0dd9\u0dbd\u0dcf/1-615948",
     "time_ut": 1657097232,
     "original_lang": "si",
     "original_title": "\u0dad\u0dbb\u0dd4\u0dab \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0\u0d9c\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba \u0db7\u0d82\u0d9c \u0dc0\u0dd9\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/f4/f44ce84a.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4cbb1e18.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Second phase of O/L paper marking temporarily halted",
     "file_name": "/tmp/news_lk2/articles/26/2698fa66.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-22nd-constitutional-amendment-bill-is-not-a-restoration-of-19as-essence-experts-96784/",
-    "time_ut": 1656749880,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s 22nd constitutional amendment bill is not a restoration of 19A\u2019s essence: experts",
-    "file_name": "/tmp/news_lk2/articles/9e/9ec79fdb.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130628",
-    "time_ut": 1656749197,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 3 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/3f/3f763d53.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130627",
-    "time_ut": 1656748885,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/4b/4b435322.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130626",
-    "time_ut": 1656748767,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0bb1\u0b95\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bc1\u0bb3\u0bb5\u0bbf \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1 : \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf , 3 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd - \u0baa\u0bca\u0b95\u0bb5\u0ba8\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/30/309207a9.json"
   }
 ]
