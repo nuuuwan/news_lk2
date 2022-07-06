@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 02:55:53 (LK time)*
+*As of 2022-07-07 03:07:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Recipes for co-opting and subverting #peoplepower](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c7426e2.json))
 
 ## Last Hour (4 Articles)
 
