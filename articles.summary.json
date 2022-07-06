@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a/101-615937",
+    "time_ut": 1657088855,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/6e/6e83ee40.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd/175-299827",
+    "time_ut": 1657088762,
+    "original_lang": "ta",
+    "original_title": "\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1e/1e9a22c5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83458/pm-should-resign-as-finance-minister-dhammika-perera",
+    "time_ut": 1657088640,
+    "original_lang": "en",
+    "original_title": "PM should resign as finance minister - Dhammika Perera",
+    "file_name": "/tmp/news_lk2/articles/a2/a2a11617.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Payment-to-be-made-today-to-bring-down-petrol-shipment-between-July-13-and-15-Minister/342-240460",
+    "time_ut": 1657088551,
+    "original_lang": "en",
+    "original_title": "Payment to be made today to bring down petrol shipment between July 13 and 15: Minister",
+    "file_name": "/tmp/news_lk2/articles/a6/a6559f82.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d85\u0dad\u0dd3\u0dad\u0dba-\u0db4\u0dcf\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0dc0\u0dc5\u0dd9\u0db1\u0dca-\u0d9c\u0ddc\u0da9-\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0db8\u0dd4\u2018\u2018/101-615936",
     "time_ut": 1657087922,
     "original_lang": "si",
@@ -32,12 +64,28 @@
     "file_name": "/tmp/news_lk2/articles/75/75c08e21.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0da2\u0dcf-\u0d9a\u0dd2\u0dbd\u0ddd-212-\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395159",
+    "time_ut": 1657086864,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd 212 \u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/35/35d12eb7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bbe\u0b9f\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0ba4\u0bc1\u0bb1\u0bc8/76-299821",
     "time_ut": 1657086689,
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bbe\u0b9f\u0bbe\u0bb2\u0bcd  \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8",
     "file_name": "/tmp/news_lk2/articles/6d/6d56a646.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb1\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd/76-299821",
+    "time_ut": 1657086689,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb1\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/57/57e0458f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
