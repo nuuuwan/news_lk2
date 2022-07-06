@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Hirunika-and-group-arrested-for-protesting-near-Presidential-residence/108-240461",
+    "time_ut": 1657088970,
+    "original_lang": "en",
+    "original_title": "Hirunika and group arrested for protesting near Presidential residence",
+    "file_name": "/tmp/news_lk2/articles/dd/ddeadd1a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130895",
+    "time_ut": 1657088914,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba8\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0ba4\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/bf/bf5c4d20.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130894",
+    "time_ut": 1657088904,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4c/4c1c1a89.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a/101-615937",
     "time_ut": 1657088855,
@@ -24,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/a2/a2a11617.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-issue-casino-regulations-update-betting-law-97010/",
+    "time_ut": 1657088580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to issue casino regulations, update betting law",
+    "file_name": "/tmp/news_lk2/articles/9a/9a709213.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Payment-to-be-made-today-to-bring-down-petrol-shipment-between-July-13-and-15-Minister/342-240460",
+    "url": "https://www.dailymirror.lk/breaking_news/Payment-to-be-made-today-to-bring-down-petrol-shipment-between-July-13-and-15-Minister/108-240460",
     "time_ut": 1657088551,
     "original_lang": "en",
     "original_title": "Payment to be made today to bring down petrol shipment between July 13 and 15: Minister",
-    "file_name": "/tmp/news_lk2/articles/a6/a6559f82.json"
+    "file_name": "/tmp/news_lk2/articles/ea/eaab082e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-down-over-1-pct-in-mid-day-trade-97013/",
+    "time_ut": 1657088520,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks down over 1-pct in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/30/30500dbc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Consular Affairs division to resume services from 04th July",
     "file_name": "/tmp/news_lk2/articles/eb/eb8a2d92.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130606",
-    "time_ut": 1656737158,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/72/7241026b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/90-of-filling-stations-inactive-due-to-shortage/",
-    "time_ut": 1656736920,
-    "original_lang": "en",
-    "original_title": "90% of filling stations inactive due to shortage",
-    "file_name": "/tmp/news_lk2/articles/53/53bf7360.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/private-bus-operations-limited/",
-    "time_ut": 1656736620,
-    "original_lang": "en",
-    "original_title": "Private bus operations limited",
-    "file_name": "/tmp/news_lk2/articles/7b/7bf543cd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/kandakadu-unrest-four-arrested-for-inmate-death/",
-    "time_ut": 1656736560,
-    "original_lang": "en",
-    "original_title": "Kandakadu Unrest : Four arrested for inmate death",
-    "file_name": "/tmp/news_lk2/articles/1d/1dddf37f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dcf\u0d9c\u0dbb-\u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0-\u0db4\u0dd0\u0dc0\u0dad\u0dca\u0dc0\u0dda/3-395031",
-    "time_ut": 1656736280,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dcf\u0d9c\u0dbb \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0 \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0 \u0db4\u0dd0\u0dc0\u0dad\u0dca\u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/8c/8c08367b.json"
   }
 ]
