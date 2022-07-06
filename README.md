@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 15:32:07 (LK time)*
+*As of 2022-07-06 15:34:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** tamil-mirror-lk ([செம்மணி வீதியில் நள்ளிரவில் நடந்த திருட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58898fad.json))
 
 * **1** daily-mirror-lk ([Tear gas to disperse SJB protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10742bab.json))
-
-* **1** lankadeepa-lk ([ලංකාපුර පරිපාලන නිලධාරිනියගේ ඝාතනයට සැමියා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5728504d.json))
 
 ## Last Hour (13 Articles)
 
@@ -44,7 +42,7 @@
 
 * **3** economy-next-com ([Sri Lanka opposition politicians Hirunika Premachandra, Rehan Jayawickreme arrested at protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8099af8.json))
 
-## Last 24 Hours (266 Articles)
+## Last 24 Hours (267 Articles)
 
 * **56** virakesari-lk ([எரிபொருள் பிரச்சினையால் போக்குவரத்திற்காக பரிதவிக்கும் மக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36dd93e4.json))
 
@@ -66,7 +64,7 @@
 
 * **3** island-lk ([Learnings for Sri Lanka on SOE Reforms – Singapore’s Temasek Holdings](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef0a7097.json))
 
-* **1** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
+* **2** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
 ## Last Week (1,762 Articles)
 
@@ -80,7 +78,7 @@
 
 * **177** tamil-mirror-lk ([ஏன் தேசபந்துவை இடமாற்றம் செய்யவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f91c6be5.json))
 
-* **160** ada-derana-lk ([PM recommends extending Dr. Nandalal Weerasinghe’s term as CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d304007.json))
+* **159** ada-derana-lk ([Probe launched into death of inmate at Kandakadu rehab centre](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93f0ce98.json))
 
 * **137** news-first-lk ([‘One Country, One Law’ Task Force submits report to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0828d5e6.json))
 
@@ -94,9 +92,9 @@
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-* **9** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
+* **10** b-b-c-com-sinhala ([කන්දකාඩු නොසන්සුන්වුයේ බෙහෙත් හිඟය නිසාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/000f8b15.json))
 
-## All Time (3,452 Articles)
+## All Time (3,453 Articles)
 
 * **628** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -122,4 +120,4 @@
 
 * **47** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
-* **38** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
+* **39** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
