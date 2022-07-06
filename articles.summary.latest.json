@@ -1,11 +1,11 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7-\u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca/101-615967",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7-\u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca/1-615967",
     "time_ut": 1657122926,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7 \u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/aa/aaf2950f.json"
+    "file_name": "/tmp/news_lk2/articles/cb/cb82a3ba.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -166,6 +166,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0bb0 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/9c/9c559678.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dab-\u0d85\u0daf\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0da7\u0dd2-\u0d87\u0dad\u0dcf\u0d9c\u0dda-\u0daf\u0dc5-\u0d9a\u0db4\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-615964",
+    "time_ut": 1657114136,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dab \u0d85\u0daf\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2 \u0d87\u0dad\u0dcf\u0d9c\u0dda \u0daf\u0dc5 \u0d9a\u0db4\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/8c/8ca7e751.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca \u0d87\u0db1\u0dca\u0dad\u0db1\u0dd2 \u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0dba",
     "file_name": "/tmp/news_lk2/articles/0b/0b58ddb0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/03/actor-jackson-anthony-in-icu-following-apura-accident/",
-    "time_ut": 1656820020,
-    "original_lang": "en",
-    "original_title": "Actor Jackson Anthony in ICU following A\u2019pura accident",
-    "file_name": "/tmp/news_lk2/articles/f9/f96ff22b.json"
   }
 ]
