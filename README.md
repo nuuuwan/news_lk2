@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 00:48:16 (LK time)*
+*As of 2022-07-07 01:00:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
 
 ## Last Hour (1 Articles)
 
@@ -20,13 +16,13 @@
 
 * **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (225 Articles)
 
 * **38** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
 * **32** lankadeepa-lk ([බ්‍රිතාන්‍යයේ මුදල් ඇමැති සෞඛ්‍ය ඇමැති ඉල්ලා අස්වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73ab5f83.json))
 
-* **32** ada-lk ([රට මුදාගැනීමට ඇති බාධාව රාජපක්ෂ පවුල පාලනයේ සිටීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f091499a.json))
+* **31** ada-lk ([ඛනිජ තෙල් හෙට කෝප් කමිටුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c1c1ab.json))
 
 * **29** tamil-mirror-lk ([Casino Business சட்டத்தில் திருத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90db6c7c.json))
 
