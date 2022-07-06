@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 23:22:04 (LK time)*
+*As of 2022-07-06 23:42:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (7 Articles)
 
-* **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
-
-## Last 3 Hours (11 Articles)
-
-* **5** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
-
-* **2** news-first-lk ([Strong winds likely tonight (6)](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af220883.json))
+* **4** virakesari-lk ([இரு ஆர்ப்பாட்டங்கள் கண்ணீர் புகைக் குண்டுகள் வீசி கலைப்பு  - கோட்டை, பாராளுமன்ற சுற்றுவட்டமருகே நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/327c8a51.json))
 
 * **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
@@ -20,11 +14,9 @@
 
 * **1** ada-lk ([සංචාරක පැමිණීම්වල සියයට 8.8ක වර්ධනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32de48be.json))
 
-* **1** daily-mirror-lk ([Only 50 trains operated today: Station Masters’ Union](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c649e4.json))
+## Last 24 Hours (226 Articles)
 
-## Last 24 Hours (227 Articles)
-
-* **36** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
+* **37** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
 * **33** ada-lk ([ප්‍රධානම කඩයිම් තුනට දින නියම වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f23c4522.json))
 
@@ -32,7 +24,7 @@
 
 * **30** tamil-mirror-lk ([அனைத்து அரசியல் கட்சிகளுக்கும் விடுக்கப்பட்ட கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a47bc905.json))
 
-* **27** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32c87a35.json))
+* **25** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
 * **20** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
 
@@ -44,9 +36,9 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,725 Articles)
+## Last Week (1,726 Articles)
 
-* **353** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
+* **354** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
 * **245** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
@@ -72,9 +64,9 @@
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-## All Time (3,527 Articles)
+## All Time (3,528 Articles)
 
-* **644** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **645** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **552** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
