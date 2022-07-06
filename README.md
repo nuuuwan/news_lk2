@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 01:07:39 (LK time)*
+*As of 2022-07-07 01:17:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,15 +16,15 @@
 
 * **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
 
-## Last 24 Hours (224 Articles)
+## Last 24 Hours (222 Articles)
 
 * **38** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
 * **32** lankadeepa-lk ([බ්‍රිතාන්‍යයේ මුදල් ඇමැති සෞඛ්‍ය ඇමැති ඉල්ලා අස්වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73ab5f83.json))
 
-* **31** ada-lk ([ඛනිජ තෙල් හෙට කෝප් කමිටුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c1c1ab.json))
+* **30** ada-lk ([තවත් 198ක් කොරියාවට - මේ වසරේ 2105ක් කොරියාවට ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a9e144c.json))
 
-* **28** tamil-mirror-lk ([விவசாயக் கடன் தள்ளுபடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4967651.json))
+* **27** tamil-mirror-lk ([கண்டிக்காது மத்திய அரசு வேடிக்கையே பார்க்கிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00b43.json))
 
 * **26** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
@@ -38,7 +38,7 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,715 Articles)
+## Last Week (1,714 Articles)
 
 * **355** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -48,7 +48,7 @@
 
 * **183** daily-mirror-lk ([Sri Lanka in dire straits: Begging bowl not a long-term answer](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bff7ea57.json))
 
-* **169** tamil-mirror-lk ([’நாட்டில் அரிசி தட்டுப்பாடு ஏற்படாது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb946f4a.json))
+* **168** tamil-mirror-lk ([விவசாயிகளுக்கு உரத்தை பகிர்ந்தளிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c11adbf.json))
 
 * **157** ada-derana-lk ([Advisory issued for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fe52c8.json))
 
