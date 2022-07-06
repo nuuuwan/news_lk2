@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Can-Sri-Lanka-Arab-relations-resume-their-pre-Rajapaksa-normalcy/4-737108",
+    "time_ut": 1657068754,
+    "original_lang": "en",
+    "original_title": "Can Sri Lanka-Arab relations resume their pre-Rajapaksa normalcy",
+    "file_name": "/tmp/news_lk2/articles/fd/fd25f027.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-hour-of-nemesis/4-737107",
+    "time_ut": 1657068327,
+    "original_lang": "en",
+    "original_title": "The hour of nemesis",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f6a6f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Memories-of-Pro-China-communist-leader-Shan/4-737106",
+    "time_ut": 1657067719,
+    "original_lang": "en",
+    "original_title": "Memories of Pro-China communist leader \u2018Shan\u2019",
+    "file_name": "/tmp/news_lk2/articles/7b/7b8ee8f8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Ranil-outlines-roadmap-to-revive-collapsed-economy/14-737105",
+    "time_ut": 1657067300,
+    "original_lang": "en",
+    "original_title": "Ranil outlines roadmap to revive collapsed economy",
+    "file_name": "/tmp/news_lk2/articles/50/5027c91e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/C-W-Mackie-Scan-Products-Division-launches-Recycle-for-Future-Generation-EPR-initiative/34-737104",
     "time_ut": 1657066999,
     "original_lang": "en",
@@ -62,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Military officer involved in civilian assault relieved of all duties: Army",
     "file_name": "/tmp/news_lk2/articles/a8/a89c8b3f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe/175-299807",
+    "time_ut": 1657054945,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe ?",
+    "file_name": "/tmp/news_lk2/articles/85/85440464.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -249,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/342-240403",
+    "url": "https://www.dailymirror.lk/top_story/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/155-240403",
     "time_ut": 1657036158,
     "original_lang": "en",
     "original_title": "Risk of new COVID variants emerging; advised to get 4th jab",
-    "file_name": "/tmp/news_lk2/articles/05/051fe954.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d81a350a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -294,6 +334,14 @@
     "original_lang": "en",
     "original_title": "Husband arrested over murder of admin officer wife",
     "file_name": "/tmp/news_lk2/articles/87/87eb57fa.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130864",
+    "time_ut": 1657035130,
+    "original_lang": "ta",
+    "original_title": "4 \u0bb5\u0ba4\u0bc1 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf\u0baf\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd ! \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/01/01d3cf9d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2385,6 +2433,14 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78386",
+    "time_ut": 1656962100,
+    "original_lang": "en",
+    "original_title": "\u201cIf things do not change,the whole country will collapse. Therefore, we should strive to move forward on this path. It is not an easy journey. I have reminded you of that from time to time. This will be a difficult and bitter journey. But we can get relief at the end of this journey. Progress can be made,\u201d -Premier Ranil Wickremesinghe in Parliament",
+    "file_name": "/tmp/news_lk2/articles/4b/4b571cdb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78381",
     "time_ut": 1656962100,
     "original_lang": "en",
@@ -2398,6 +2454,22 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb0\u0bc8\u0bb5\u0bc1 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f4/f4a0ad69.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78384",
+    "time_ut": 1656960480,
+    "original_lang": "en",
+    "original_title": "If the 22nd Amendment  becomes law in its present form, no opposition party or even MPs who have opted to be independent would be inclined to join the government because of the powers that the President would continue to have during the term of this Parliament.",
+    "file_name": "/tmp/news_lk2/articles/f5/f563658b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd-\u0ba8\u0bbe\u0b9f\u0bc1-\u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd/175-299737",
+    "time_ut": 1656960100,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd: \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/73/73bcc9f3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 06:11:17 (LK time)*
+*As of 2022-07-06 06:41:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **8** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
+* **2** daily-ft-lk ([The hour of nemesis](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1f6a6f0.json))
 
-## Last Hour (8 Articles)
+## Last Hour (12 Articles)
 
-* **8** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
+* **12** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (12 Articles)
 
-* **8** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
+* **12** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
 
-## Last 24 Hours (280 Articles)
+## Last 24 Hours (285 Articles)
 
-* **57** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
+* **58** virakesari-lk ([வட்டுவாகல் சப்த கன்னிமார் ஆலய தீர்த்தம் எடுக்கும் வீதியை மறித்த  இராணுவம் ! பரந்தன் முல்லைத்தீவு வீதியை மறித்து  மக்கள் போராட்டம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f773a9.json))
 
 * **50** lankadeepa-lk ([ලුහාන්ස්ක් පළාත රුසියන් හමුදා ග්‍රහණයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4710df5.json))
 
@@ -26,15 +26,15 @@
 
 * **31** daily-mirror-lk ([Request for well-wishers to join hands with NBTS](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39ad789f.json))
 
-* **23** news-first-lk ([Showers and thundershowers likely on Tuesday (5)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed9bcdc.json))
+* **22** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
 
 * **22** economy-next-com ([Sri Lankan Airlines loses Rs248bn in four months after soft-peg collapse](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53589ce5.json))
 
 * **22** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c05a47d9.json))
 
-* **21** tamil-mirror-lk ([நீரில் தத்தளித்த இளைஞர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e20b7a6.json))
+* **22** news-first-lk ([Turkish Cargo Plane damaged on BIA tarmac](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b789f222.json))
 
-* **8** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
+* **12** daily-ft-lk ([Military officer involved in civilian assault relieved of all duties: Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a89c8b3f.json))
 
 * **3** island-lk ([Learnings for Sri Lanka on SOE Reforms – Singapore’s Temasek Holdings](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef0a7097.json))
 
@@ -42,9 +42,9 @@
 
 * **2** colombo-telegraph-com ([Wanted For Being Unwanted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74aa66fd.json))
 
-## Last Week (1,736 Articles)
+## Last Week (1,743 Articles)
 
-* **364** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
+* **365** virakesari-lk ([எம்சிசி உடன்படிக்கையை நிராகரித்து இரண்டு வருடங்களின் பின்னர் அமெரிக்காவிடமிருந்து உதவித்தொகையொன்றை பெறுவதற்கான உடன்படிக்கைக்கு  அமைச்சரவை அங்கீகாரமளித்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ef945.json))
 
 * **258** lankadeepa-lk ([බයිඩන් බිරිඳට-දියණියට රුසියාව තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c20aab.json))
 
@@ -52,7 +52,7 @@
 
 * **189** daily-mirror-lk ([Sri Lanka to purchase four fuel shipments from India on cash payment terms](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e054ebe1.json))
 
-* **169** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
+* **171** tamil-mirror-lk ([குளத்தில் விழுந்து  குழந்தை உயிரிழந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/326f3ddb.json))
 
 * **163** ada-derana-lk ([Showers expected in several areas including Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ca44a6.json))
 
@@ -60,19 +60,19 @@
 
 * **106** economy-next-com ([Sri Lanka seeks loan from Qatar to import oil amid soft-peg instability](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c610205.json))
 
-* **61** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
+* **65** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
 
 * **52** island-lk ([At 80, now serving humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32faadb.json))
 
-* **21** d-b-s-jeyaraj-com ([Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57fdc35.json))
+* **23** d-b-s-jeyaraj-com ([Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a57fdc35.json))
 
-* **14** colombo-telegraph-com ([Should Aragalaya Consider A Political Movement Led By Nagananda, Fonseka & Hirunika?](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8023d625.json))
+* **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
 * **9** b-b-c-com-sinhala ([පවුලේ ආර්ථික බර හමුවේ දරුවන්ගේ හා ගැබිණියන්ගේ බර අඩුවෙයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/927e5c89.json))
 
-## All Time (3,306 Articles)
+## All Time (3,315 Articles)
 
-* **602** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **603** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **520** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +80,7 @@
 
 * **341** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **313** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **315** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **271** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -88,11 +88,11 @@
 
 * **176** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **156** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **160** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **126** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **51** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **53** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **47** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 

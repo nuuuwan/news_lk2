@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Can-Sri-Lanka-Arab-relations-resume-their-pre-Rajapaksa-normalcy/4-737108",
+    "time_ut": 1657068754,
+    "original_lang": "en",
+    "original_title": "Can Sri Lanka-Arab relations resume their pre-Rajapaksa normalcy",
+    "file_name": "/tmp/news_lk2/articles/fd/fd25f027.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-hour-of-nemesis/4-737107",
+    "time_ut": 1657068327,
+    "original_lang": "en",
+    "original_title": "The hour of nemesis",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f6a6f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Memories-of-Pro-China-communist-leader-Shan/4-737106",
+    "time_ut": 1657067719,
+    "original_lang": "en",
+    "original_title": "Memories of Pro-China communist leader \u2018Shan\u2019",
+    "file_name": "/tmp/news_lk2/articles/7b/7b8ee8f8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Ranil-outlines-roadmap-to-revive-collapsed-economy/14-737105",
+    "time_ut": 1657067300,
+    "original_lang": "en",
+    "original_title": "Ranil outlines roadmap to revive collapsed economy",
+    "file_name": "/tmp/news_lk2/articles/50/5027c91e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/C-W-Mackie-Scan-Products-Division-launches-Recycle-for-Future-Generation-EPR-initiative/34-737104",
     "time_ut": 1657066999,
     "original_lang": "en",
@@ -62,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Military officer involved in civilian assault relieved of all duties: Army",
     "file_name": "/tmp/news_lk2/articles/a8/a89c8b3f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe/175-299807",
+    "time_ut": 1657054945,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe ?",
+    "file_name": "/tmp/news_lk2/articles/85/85440464.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -249,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/342-240403",
+    "url": "https://www.dailymirror.lk/top_story/Risk-of-new-COVID-variants-emerging-advised-to-get-4th-jab/155-240403",
     "time_ut": 1657036158,
     "original_lang": "en",
     "original_title": "Risk of new COVID variants emerging; advised to get 4th jab",
-    "file_name": "/tmp/news_lk2/articles/05/051fe954.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d81a350a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -294,6 +334,14 @@
     "original_lang": "en",
     "original_title": "Husband arrested over murder of admin officer wife",
     "file_name": "/tmp/news_lk2/articles/87/87eb57fa.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130864",
+    "time_ut": 1657035130,
+    "original_lang": "ta",
+    "original_title": "4 \u0bb5\u0ba4\u0bc1 \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf\u0baf\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd ! \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/01/01d3cf9d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2385,6 +2433,14 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78386",
+    "time_ut": 1656962100,
+    "original_lang": "en",
+    "original_title": "\u201cIf things do not change,the whole country will collapse. Therefore, we should strive to move forward on this path. It is not an easy journey. I have reminded you of that from time to time. This will be a difficult and bitter journey. But we can get relief at the end of this journey. Progress can be made,\u201d -Premier Ranil Wickremesinghe in Parliament",
+    "file_name": "/tmp/news_lk2/articles/4b/4b571cdb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78381",
     "time_ut": 1656962100,
     "original_lang": "en",
@@ -2398,6 +2454,22 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb0\u0bc8\u0bb5\u0bc1 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f4/f4a0ad69.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78384",
+    "time_ut": 1656960480,
+    "original_lang": "en",
+    "original_title": "If the 22nd Amendment  becomes law in its present form, no opposition party or even MPs who have opted to be independent would be inclined to join the government because of the powers that the President would continue to have during the term of this Parliament.",
+    "file_name": "/tmp/news_lk2/articles/f5/f563658b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd-\u0ba8\u0bbe\u0b9f\u0bc1-\u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd/175-299737",
+    "time_ut": 1656960100,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0baa\u0b9f\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd: \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/73/73bcc9f3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Foreign Secretary meets visiting US Treasury and State Dept. delegation",
     "file_name": "/tmp/news_lk2/articles/64/64bbc6e0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Prof-Mohan-Munasinghe-delivers-keynote-speech-at-Hegra-Nobel-Laureates-Summit-in-Saudi-Arabia/56-736934",
-    "time_ut": 1656700661,
-    "original_lang": "en",
-    "original_title": "Prof. Mohan Munasinghe delivers keynote speech at Hegra Nobel Laureates Summit in Saudi Arabia",
-    "file_name": "/tmp/news_lk2/articles/84/84209076.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Jaffna-College-in-crisis-National-Christian-Council-s-intervention-sought/14-736931",
-    "time_ut": 1656700335,
-    "original_lang": "en",
-    "original_title": "Jaffna College in crisis: National Christian Council\u2019s intervention sought",
-    "file_name": "/tmp/news_lk2/articles/a5/a517d7cd.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9a\u0bbe-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299570",
-    "time_ut": 1656700223,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/7d/7dabe0c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83374/japan-ready-to-provide-continuous-support-to-sri-lanka-envoy-says",
-    "time_ut": 1656700080,
-    "original_lang": "en",
-    "original_title": "Japan ready to provide continuous support to Sri Lanka, envoy says",
-    "file_name": "/tmp/news_lk2/articles/bf/bf79ccbe.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Time-for-a-fighting-chance/4-736928",
-    "time_ut": 1656699928,
-    "original_lang": "en",
-    "original_title": "Time for a fighting chance",
-    "file_name": "/tmp/news_lk2/articles/91/91980d5c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/rulers-and-unionists-from-hell/",
-    "time_ut": 1656699840,
-    "original_lang": "en",
-    "original_title": "Rulers and unionists from hell",
-    "file_name": "/tmp/news_lk2/articles/22/2227a4f2.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-299569",
-    "time_ut": 1656699691,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/40/405dea07.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83373/laugfs-says-lp-gas-distribution-process-expanded",
-    "time_ut": 1656699660,
-    "original_lang": "en",
-    "original_title": "Laugfs says LP gas distribution process expanded",
-    "file_name": "/tmp/news_lk2/articles/73/73dee560.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Common-good-constitutionalism-for-Sri-Lanka-The-impossible-dream/4-736923",
-    "time_ut": 1656699400,
-    "original_lang": "en",
-    "original_title": "Common good constitutionalism for Sri Lanka: The impossible dream?",
-    "file_name": "/tmp/news_lk2/articles/f3/f3ba2d4a.json"
   }
 ]
