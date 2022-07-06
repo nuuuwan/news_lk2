@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7-\u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca/101-615967",
+    "time_ut": 1657122926,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7 \u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/aa/aaf2950f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130947",
     "time_ut": 1657120851,
@@ -137,11 +145,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0db1\u0d82\u0da2\u0dba-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca-\u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019/1-615965",
+    "url": "https://www.lankadeepa.lk/news/\u0db0\u0db1\u0d82\u0da2\u0dba-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca-\u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019/101-615965",
     "time_ut": 1657114649,
     "original_lang": "si",
     "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca \u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/12/1277ad33.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c4552e51.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Actor Jackson Anthony in ICU following A\u2019pura accident",
     "file_name": "/tmp/news_lk2/articles/f9/f96ff22b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0dbb\u0dd2\u0dad-\u0daf\u0dd2\u0d9c-\u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dc0\u0dd2\u0db8-\u0db1\u0dd2\u0dc3\u0dcf-\u0dad\u0dd0\u0db1\u0dd2\u0db1\u0dca-\u0dad\u0dd0\u0db1\u0da7-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2/1-615763",
-    "time_ut": 1656819879,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd2\u0dbb\u0dd2\u0dad \u0daf\u0dd2\u0d9c \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dc0\u0dd2\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0dad\u0dd0\u0db1\u0dd2\u0db1\u0dca \u0dad\u0dd0\u0db1\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ffcc6c69.json"
   }
 ]
