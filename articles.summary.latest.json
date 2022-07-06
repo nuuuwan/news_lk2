@@ -1,19 +1,83 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bb0\u0b9f\u0bbf-\u0baa\u0bb2\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/72-299812",
+    "time_ut": 1657078533,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0b9f\u0bbf; \u0baa\u0bb2\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1a/1acd72f2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-45-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299810",
+    "time_ut": 1657077892,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 45 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/4f/4f9c4749.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/headline/Brathwaite-Lewis-among-the-overseas-players-selected-in-LPL-draft/419-240421",
-    "time_ut": 1657075133,
+    "url": "https://www.dailymirror.lk/latest_news/Ranil-has-no-powers-to-appoint-me-as-PM-even-if-he-resigns-Anura/342-240449",
+    "time_ut": 1657077667,
     "original_lang": "en",
-    "original_title": "Brathwaite, Lewis among the overseas players selected in LPL draft",
-    "file_name": "/tmp/news_lk2/articles/0f/0f55188a.json"
+    "original_title": "Ranil has no powers to appoint me as PM even if he resigns: Anura",
+    "file_name": "/tmp/news_lk2/articles/b0/b0978767.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/I-can-turn-around-Sri-Lankas-economy-Prime-Minister/155-240448",
+    "time_ut": 1657077613,
+    "original_lang": "en",
+    "original_title": "I can turn around Sri Lanka\u2019s economy- Prime Minister",
+    "file_name": "/tmp/news_lk2/articles/90/908aad15.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Opp-parties-Govt-factions-make-fresh-bid-for-all-party-government/342-240447",
+    "time_ut": 1657077402,
+    "original_lang": "en",
+    "original_title": "Opp. parties, Govt factions make fresh bid for all party government",
+    "file_name": "/tmp/news_lk2/articles/d5/d5f5a8cf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1-\u0baa\u0bb0\u0bb5\u0bc1\u0bae\u0bcd-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd/175-299809",
+    "time_ut": 1657076253,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1 \u0baa\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7f/7f347ab7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83455/high-swell-waves-strong-winds-expected-in-sea-areas",
+    "time_ut": 1657075740,
+    "original_lang": "en",
+    "original_title": "High swell waves, strong winds expected in sea areas",
+    "file_name": "/tmp/news_lk2/articles/8b/8bf34033.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf-\u0dad\u0dd0\u0db1-\u0dad\u0dd0\u0db1-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc0\u0dcf\u0dbb-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca/101-615931",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca-26-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2/1-615932",
+    "time_ut": 1657075283,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0db1\u0dca 26 \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ac/ac70c159.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Brathwaite-Lewis-among-the-overseas-players-selected-in-LPL-draft/342-240421",
+    "time_ut": 1657075133,
+    "original_lang": "en",
+    "original_title": "Brathwaite, Lewis among the overseas players selected in LPL draft",
+    "file_name": "/tmp/news_lk2/articles/d3/d301229d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf-\u0dad\u0dd0\u0db1-\u0dad\u0dd0\u0db1-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc0\u0dcf\u0dbb-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca/1-615931",
     "time_ut": 1657073575,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf \u0dad\u0dd0\u0db1 \u0dad\u0dd0\u0db1 \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc0\u0dcf\u0dbb \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c3/c372dbc2.json"
+    "file_name": "/tmp/news_lk2/articles/4b/4bc2a3ee.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -49,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dad\u0dd2/14-615927",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dda-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dad\u0dd2/1-615927",
     "time_ut": 1657071103,
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dda \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2f/2fa5db16.json"
+    "file_name": "/tmp/news_lk2/articles/73/73ab5f83.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -161,6 +225,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe/175-299807",
+    "time_ut": 1657054945,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe ?",
+    "file_name": "/tmp/news_lk2/articles/91/911b39c7.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbe/175-299807",
     "time_ut": 1657054945,
     "original_lang": "ta",
@@ -230,6 +302,14 @@
     "original_lang": "en",
     "original_title": "Tourists to receive on request fuel in crisis-hit Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/74/743da915.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/tourists-to-receive-fuel-on-request-in-crisis-hit-sri-lanka-96979/",
+    "time_ut": 1657050720,
+    "original_lang": "en",
+    "original_title": "Tourists to receive fuel on request in crisis-hit Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2f598b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -486,6 +566,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd  \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b99\u0bcd\u0b95\u0bb2\u0bbe\u0b95 \u0b8e\u0ba3\u0bcd\u0bae\u0bb0\u0bcd \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/48/488c0d43.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130872",
+    "time_ut": 1657034074,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0ba8\u0bbe\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0baf\u0bbe\u0ba4\u0ba4\u0bc1 - \u0b9c\u0bc1\u0bb2\u0bbf \u0b9a\u0b99\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7a/7a3c4e4a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2582,6 +2670,14 @@
     "original_lang": "ta",
     "original_title": "\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0b9f\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9\u0bbe \u0b86\u0b9a\u0bcd\u0b9a\u0bc1: \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
     "file_name": "/tmp/news_lk2/articles/5c/5cc764ea.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9\u0bbe-\u0b86\u0b9a\u0bcd\u0b9a\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf/175-299738",
+    "time_ut": 1656960591,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9\u0bbe \u0b86\u0b9a\u0bcd\u0b9a\u0bc1: \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/a7/a78cb53e.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -7902,101 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka starts 5-year residence visas for investors",
     "file_name": "/tmp/news_lk2/articles/72/72ea5362.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/Kamal-Haasan-returns-to-cinema-with-blockbuster-Vikram/277-240221",
-    "time_ut": 1656709100,
-    "original_lang": "en",
-    "original_title": "Kamal Haasan returns to cinema  with blockbuster \u2018Vikram\u2019",
-    "file_name": "/tmp/news_lk2/articles/90/90de507b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Are-we-learning-anything-from-the-crisis/172-240219",
-    "time_ut": 1656708368,
-    "original_lang": "en",
-    "original_title": "Are we learning anything from the crisis?",
-    "file_name": "/tmp/news_lk2/articles/43/43cc9161.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Revive-the-co-operative-movement-in-Sri-Lanka/172-240218",
-    "time_ut": 1656708217,
-    "original_lang": "en",
-    "original_title": "Revive the co-operative movement in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b6/b63fe2cc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/BOI-launches-five-year-residence-visa-to-entice-foreign-investors/245-240217",
-    "time_ut": 1656707994,
-    "original_lang": "en",
-    "original_title": "BOI launches five-year residence visa to  entice foreign investors",
-    "file_name": "/tmp/news_lk2/articles/6a/6aba39ee.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Litro-gas-denies-statements-regarding-salary-scale/273-240212",
-    "time_ut": 1656707660,
-    "original_lang": "en",
-    "original_title": "Litro gas denies statements regarding salary scale",
-    "file_name": "/tmp/news_lk2/articles/e5/e584b11c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Govt-to-offer-Rs-7-500-allowance-to-worst-hit-citizens-from-WB-ADB-fund/273-240210",
-    "time_ut": 1656707520,
-    "original_lang": "en",
-    "original_title": "Govt. to offer Rs.7,500 allowance to worst-hit citizens from WB, ADB fund",
-    "file_name": "/tmp/news_lk2/articles/41/41d208f6.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8-\u0b95\u0bc8\u0baf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299578",
-    "time_ut": 1656706559,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0baf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u2019",
-    "file_name": "/tmp/news_lk2/articles/0b/0b5a3364.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0bae\u0bbe\u0ba9\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299577",
-    "time_ut": 1656705291,
-    "original_lang": "ta",
-    "original_title": "\u0b93\u0bae\u0bbe\u0ba9\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a9/a9745338.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd-\u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-299576",
-    "time_ut": 1656704852,
-    "original_lang": "ta",
-    "original_title": "\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd. \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d7/d78e0c2f.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78308",
-    "time_ut": 1656704460,
-    "original_lang": "en",
-    "original_title": "As long as Sri Lanka has a weak and unstable govt, no foreign govt is going to assist Sri Lanka. And Sri Lanka will continue to have a weak and unstable govt as long as there is no political reform.",
-    "file_name": "/tmp/news_lk2/articles/f2/f2c1cdb3.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7-9-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-3-056-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299575",
-    "time_ut": 1656704377,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc7 9 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 3,056 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/14/149960be.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78321",
-    "time_ut": 1656703440,
-    "original_lang": "en",
-    "original_title": "This collapse has been gradual. The silence of professionals and academics during the time when systems were still capable of being saved and  the chicanery of politicians have contributed to the ruin of this country today.",
-    "file_name": "/tmp/news_lk2/articles/24/2471b025.json"
   }
 ]
