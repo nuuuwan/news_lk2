@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sajith-donates-scarce-medicine-worth-Rs-15-6-m-fulfilling-the-pledge/56-737145",
+    "time_ut": 1657148421,
+    "original_lang": "en",
+    "original_title": "Sajith donates scarce medicine worth Rs. 15.6 m fulfilling the pledge",
+    "file_name": "/tmp/news_lk2/articles/af/afabf5bd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Manusha-says-second-chance-for-foreign-jobs-only-for-those-who-legally-send-dollars/56-737144",
+    "time_ut": 1657148333,
+    "original_lang": "en",
+    "original_title": "Manusha says second chance for foreign jobs only for those who legally send dollars",
+    "file_name": "/tmp/news_lk2/articles/e0/e0bb20c3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Karu-says-all-political-forces-must-unite-to-save-SL-from-impending-disaster/56-737143",
+    "time_ut": 1657148181,
+    "original_lang": "en",
+    "original_title": "Karu says all political forces must unite to save SL from impending disaster",
+    "file_name": "/tmp/news_lk2/articles/0d/0d3b2c13.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/PM-says-LPG-shortage-will-be-eased-by-early-August/56-737141",
+    "time_ut": 1657148059,
+    "original_lang": "en",
+    "original_title": "PM says LPG shortage will be eased by early August",
+    "file_name": "/tmp/news_lk2/articles/aa/aa975779.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Hirunika-and-11-others-arrested-for-protesting-against-President-granted-bail/56-737140",
+    "time_ut": 1657147864,
+    "original_lang": "en",
+    "original_title": "Hirunika and 11 others arrested for protesting against President granted bail",
+    "file_name": "/tmp/news_lk2/articles/1a/1a603cc2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Recipes-for-co-opting-and-subverting-peoplepower/172-240484",
     "time_ut": 1657141054,
@@ -174,6 +214,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4 \u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/fc/fc530cbd.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130940",
+    "time_ut": 1657119694,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc7 \u0b9a\u0b95\u0bb2 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0bbe\u0ba3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd - \u0bb0\u0bbe\u0b9c\u0bbf\u0ba4",
+    "file_name": "/tmp/news_lk2/articles/a9/a9a17c75.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Low-lying area residents of Gin Ganga warned of possible floods",
     "file_name": "/tmp/news_lk2/articles/a6/a6f38f4c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130662",
-    "time_ut": 1656827283,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
-    "file_name": "/tmp/news_lk2/articles/5b/5bd425d0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bae\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bae\u0bcd-\u0b95\u0bcb\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/175-299618",
-    "time_ut": 1656827088,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0b9f\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/27/27f392e5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-51-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-299617",
-    "time_ut": 1656826827,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd 51 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d7/d71c93e1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130657",
-    "time_ut": 1656826624,
-    "original_lang": "ta",
-    "original_title": "\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0b95\u0bb0\u0bcd \u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe\u0bb5\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/3b/3b4e1f72.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0db8\u0dbd\u0dc3\u0dd4\u0dbb\u0dd9\u0dca\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb-\u0db4\u0dd2\u0da7\u0dcf\u0dbb-\u0daf\u0db8\u0dba\u0dd2/11-395042",
-    "time_ut": 1656826610,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0db8\u0dbd\u0dc3\u0dd4\u0dbb\u0dd9\u0dca\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0daf\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/42/4294fe1e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130660",
-    "time_ut": 1656826525,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8- \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 - \u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/b8/b8194936.json"
   }
 ]
