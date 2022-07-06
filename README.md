@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 21:50:13 (LK time)*
+*As of 2022-07-06 21:55:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,11 @@
 
 * **1** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaf2950f.json))
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aaf2950f.json))
 
-* **1** virakesari-lk ([இரு ஆர்ப்பாட்டங்கள் கண்ணீர் புகைக் குண்டுகள் வீசி கலைப்பு  - கோட்டை, பாராளுமன்ற சுற்றுவட்டமருகே நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/327c8a51.json))
-
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (23 Articles)
 
 * **6** virakesari-lk ([ஜனாதிபதி மாளிகையை முற்றுகையிட்டு போராட்டம் - ஹிருணிகா பிரேமச்சந்ர கைது செய்யப்பட்டு பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c559678.json))
 
@@ -28,9 +26,9 @@
 
 * **2** ada-derana-lk ([Kerosene price also set to increase?](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfc8046.json))
 
-* **2** tamil-mirror-lk ([ரணில், மஹிந்தவுக்கு எதிரான மனுக்கள் 27இல் பரிசீலனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a35c7343.json))
-
 * **1** economy-next-com ([Sri Lanka shares down on fuel shortage, political instability woes amid rate hike fears](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88d1f741.json))
+
+* **1** tamil-mirror-lk ([வேலைநிறுத்தத்தை கைவிட தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b199da.json))
 
 ## Last 24 Hours (226 Articles)
 
