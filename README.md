@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 00:15:21 (LK time)*
+*As of 2022-07-07 00:28:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (3 Articles)
 
-* **3** virakesari-lk ([மத்திய வங்கி பிணைமுறி மோசடியைப்போன்று எரிவாயு மோசடி இடம்பெற இடமளியோம் - ஐக்கிய மக்கள் சக்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b00993a.json))
+* **2** virakesari-lk ([எதிர்வரும் 13 ஆம் திகதி  எரிபொருள் கப்பல் நாட்டை வந்தடையும் - காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56cdfa41.json))
 
 * **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
-
-* **1** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
-
-* **1** ada-lk ([සංචාරක පැමිණීම්වල සියයට 8.8ක වර්ධනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32de48be.json))
 
 ## Last 24 Hours (224 Articles)
 
