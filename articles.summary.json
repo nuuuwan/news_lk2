@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/C-W-Mackie-Scan-Products-Division-launches-Recycle-for-Future-Generation-EPR-initiative/34-737104",
+    "time_ut": 1657066999,
+    "original_lang": "en",
+    "original_title": "C.W. Mackie Scan Products Division launches \u2018Recycle for Future Generation\u2019 EPR initiative",
+    "file_name": "/tmp/news_lk2/articles/b2/b2d7ddf6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Changes-at-the-top-at-Colombo-Fort-Land-Building/34-737103",
+    "time_ut": 1657066939,
+    "original_lang": "en",
+    "original_title": "Changes at the top at Colombo Fort Land & Building",
+    "file_name": "/tmp/news_lk2/articles/d3/d33cf865.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Ranil-Pathirana-appointed-Deputy-Chairman-at-Dankotuwa-Porcelain/34-737102",
+    "time_ut": 1657066913,
+    "original_lang": "en",
+    "original_title": "Ranil Pathirana appointed Deputy Chairman at Dankotuwa Porcelain",
+    "file_name": "/tmp/news_lk2/articles/76/768ba2a0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Selyn-Exporters-partners-global-blockchain-experts-PaperTale-for-radical-transparency-solutions/34-737101",
+    "time_ut": 1657066546,
+    "original_lang": "en",
+    "original_title": "Selyn Exporters partners global blockchain experts PaperTale for radical transparency solutions",
+    "file_name": "/tmp/news_lk2/articles/ce/ce221304.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Two-CEB-engineers-suspended-for-illegal-power-outages-last-month-Minister/34-737100",
+    "time_ut": 1657066499,
+    "original_lang": "en",
+    "original_title": "Two CEB engineers suspended for illegal power outages last month: Minister",
+    "file_name": "/tmp/news_lk2/articles/3f/3fa23400.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Health-authorities-warn-on-new-COVID-wave/56-737099",
+    "time_ut": 1657066404,
+    "original_lang": "en",
+    "original_title": "Health authorities warn on new COVID wave",
+    "file_name": "/tmp/news_lk2/articles/aa/aa43579f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/COPE-to-take-action-against-officials-who-fail-to-act-on-its-recommendations/56-737098",
+    "time_ut": 1657066340,
+    "original_lang": "en",
+    "original_title": "COPE to take action against officials who fail to act on its recommendations",
+    "file_name": "/tmp/news_lk2/articles/48/48ca115f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Military-officer-involved-in-civilian-assault-relieved-of-all-duties-Army/56-737097",
+    "time_ut": 1657066316,
+    "original_lang": "en",
+    "original_title": "Military officer involved in civilian assault relieved of all duties: Army",
+    "file_name": "/tmp/news_lk2/articles/a8/a89c8b3f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-cabinet-writes-off-over-rs-1-5-billion-paddy-farming-loans-96981/",
     "time_ut": 1657054560,
     "original_lang": "en",
     "original_title": "Sri Lanka cabinet writes off over Rs.1.5 billion paddy farming loans",
     "file_name": "/tmp/news_lk2/articles/00/00f7479b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd/175-299805",
+    "time_ut": 1657054019,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb0\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/45/45a59e64.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -238,6 +310,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bbe\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd\u00a0\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd\u00a0\u0ba8\u0bc7\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc6\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/05/053ddac7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/C-W-Mackie-PLC-Scan-Products-Division-launches-Recycle-for-Future-Generation/342-240401",
+    "time_ut": 1657034794,
+    "original_lang": "en",
+    "original_title": "C.W. Mackie PLC \u2013 Scan Products Division launches \u2018Recycle for Future Generation\u2019",
+    "file_name": "/tmp/news_lk2/articles/ba/ba4e1d47.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
