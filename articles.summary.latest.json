@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0db8\u0dbd-\u0d9c\u0dc4\u0dbd-\u0dba\u0dcf-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/1-615954",
+    "time_ut": 1657104243,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca \u0daf\u0db8\u0dbd \u0d9c\u0dc4\u0dbd \u0dba\u0dcf \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/fd/fd8da44d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d9a\u0dad\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0da7-\u0d9a\u0dc0\u0dd4\u0dbb\u0dd4\u0dad\u0dca-\u0db6\u0dcf\u0dbb-\u0db1\u0ddc\u0d9c\u0db1\u0dca\u0db1\u0dda-\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dc3\u0dba\u0dd2\u2018\u2018/101-615953",
     "time_ut": 1657103923,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d9a\u0dad\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0da7 \u0d9a\u0dc0\u0dd4\u0dbb\u0dd4\u0dad\u0dca \u0db6\u0dcf\u0dbb \u0db1\u0ddc\u0d9c\u0db1\u0dca\u0db1\u0dda \u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0db1\u0dd2\u0dc3\u0dba\u0dd2\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/48/48200e5b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83465/sl-president-calls-russian-counterpart-seeks-credit-support-to-import-fuel",
+    "time_ut": 1657103160,
+    "original_lang": "en",
+    "original_title": "SL President calls Russian counterpart, seeks credit support to import fuel",
+    "file_name": "/tmp/news_lk2/articles/36/36eb2ab1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -72,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/fd/fd4a5be5.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca-\u0dc4\u0dbd\u0dda-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0dc4\u0dcf--\u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dd4\u0da7-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0db8\u0dbb\u0dab\u0dd3\u0dba-\u0dad\u0dbb\u0dca\u0da2\u0db1/11-395168",
+    "time_ut": 1657101301,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca \u0dc4\u0dbd\u0dda \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0dc4\u0dcf  \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dd4\u0da7 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db8\u0dbb\u0dab\u0dd3\u0dba \u0dad\u0dbb\u0dca\u0da2\u0db1",
+    "file_name": "/tmp/news_lk2/articles/ba/ba71b7bf.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf-\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1/71-299837",
     "time_ut": 1657100848,
@@ -89,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-615951",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-615951",
     "time_ut": 1657099988,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/57/5728504d.json"
+    "file_name": "/tmp/news_lk2/articles/41/4127d856.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -209,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Want-en-end-to-this-economic-crisis/110-240468",
+    "url": "https://www.dailymirror.lk/latest_news/Want-en-end-to-this-economic-crisis/342-240468",
     "time_ut": 1657097427,
     "original_lang": "en",
     "original_title": "Want en end to this economic crisis",
-    "file_name": "/tmp/news_lk2/articles/b2/b27285d5.json"
+    "file_name": "/tmp/news_lk2/articles/7a/7a2f0d36.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -718,6 +742,14 @@
     "original_lang": "ta",
     "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/1b/1baed034.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62047700",
+    "time_ut": 1657084868,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba ; \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d87\u0db8\u0dad\u0dd2\u0d9a\u0db8 \u0d9c\u0dbd\u0dc0\u0db1\u0dca\u0db1 \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf \u0dc3\u0da7\u0db1 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/63/63c4727b.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Kandakadu unrest: Four arrested personnel, remanded",
     "file_name": "/tmp/news_lk2/articles/bb/bb66d679.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd-\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb-\u0db8\u0dcf\u0dc0\u0dad\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0daf-\u0d9c\u0ddc\u0da9-\u0d9c\u0dbd\u0dba\u0dd2/1-615745",
-    "time_ut": 1656762582,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0db8\u0dcf\u0dc0\u0dad\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0daf \u0d9c\u0ddc\u0da9 \u0d9c\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5c/5c5a2784.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc0-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0bb2\u0bbf\u0baa\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd/50-299588",
-    "time_ut": 1656761677,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbf\u0baa\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/43/437f568d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/water-board-engineers-cry-out-for-fuel-to-continue-service-to-public/",
-    "time_ut": 1656761400,
-    "original_lang": "en",
-    "original_title": "Water Board Engineers cry out for fuel, to continue service to public",
-    "file_name": "/tmp/news_lk2/articles/4b/4bd8e39a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/02/stf-to-quell-unrest-at-filling-stations/",
-    "time_ut": 1656760200,
-    "original_lang": "en",
-    "original_title": "STF to quell unrest at filling stations",
-    "file_name": "/tmp/news_lk2/articles/ef/efe1f12b.json"
   }
 ]
