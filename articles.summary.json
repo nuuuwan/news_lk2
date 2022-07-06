@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615944",
+    "time_ut": 1657092978,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0dc4\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/06/06de884a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7/101-615943",
+    "time_ut": 1657092615,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7",
+    "file_name": "/tmp/news_lk2/articles/84/845af15e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83461/nimal-siripala-temporarily-steps-down-from-minister-post",
     "time_ut": 1657092420,
@@ -17,11 +33,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-615942",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615942",
     "time_ut": 1657092003,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0db1 \u0dc4\u0dd0\u0da7\u0dd2 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/32/32786d1b.json"
+    "file_name": "/tmp/news_lk2/articles/88/8808139c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd-\u0baa\u0bc1\u0b95\u0bc8/175-299831",
+    "url": "https://www.tamilmirror.lk/video/\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd-\u0baa\u0bc1\u0b95\u0bc8/52-299831",
     "time_ut": 1657091625,
     "original_lang": "ta",
     "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0baa\u0bc1\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/65/65d75b7e.json"
+    "file_name": "/tmp/news_lk2/articles/30/30f63148.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -569,11 +585,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Brathwaite-Lewis-among-the-overseas-players-selected-in-LPL-draft/342-240421",
+    "url": "https://www.dailymirror.lk/sports/Brathwaite-Lewis-among-the-overseas-players-selected-in-LPL-draft/322-240421",
     "time_ut": 1657075133,
     "original_lang": "en",
     "original_title": "Brathwaite, Lewis among the overseas players selected in LPL draft",
-    "file_name": "/tmp/news_lk2/articles/d3/d301229d.json"
+    "file_name": "/tmp/news_lk2/articles/d5/d5b98e66.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
