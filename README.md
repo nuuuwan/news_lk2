@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 22:52:37 (LK time)*
+*As of 2022-07-06 23:09:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
 
-## Last Hour (2 Articles)
-
-* **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
-
-* **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (12 Articles)
 
 * **5** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
 
-* **4** daily-mirror-lk ([Some private bus operators indulge in diesel pilferage](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/692977a9.json))
-
-* **2** lankadeepa-lk ([දුම්රිය වර්ජනය අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bb470d3.json))
-
 * **2** news-first-lk ([Strong winds likely tonight (6)](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af220883.json))
 
+* **2** daily-mirror-lk ([India should allow star players to take part in T20 leagues overseas: Aravinda](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a80c76df.json))
+
 * **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
+
+* **1** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
 
 * **1** ada-lk ([සංචාරක පැමිණීම්වල සියයට 8.8ක වර්ධනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32de48be.json))
 
@@ -50,13 +44,13 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,727 Articles)
+## Last Week (1,725 Articles)
 
 * **353** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
 * **245** lankadeepa-lk ([’කොවිඩ් 19’ වෙනස් වෙලා: අවසන් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51a3aa5.json))
 
-* **201** ada-lk ([සංස්ථාව සතු ඉන්ධන සංචිත හෙළි කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f816a550.json))
+* **200** ada-lk ([මේ ගෙවමින් තිබෙන්නේ කලින් කී අමාරුම සති තුනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6924bbd0.json))
 
 * **186** daily-mirror-lk ([Bunker licence holders agree to import and supply jet fuel on urgent basis](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9c46058.json))
 
@@ -68,7 +62,7 @@
 
 * **114** economy-next-com ([Sri Lanka’s 3-month T-bills rise over 300-bps at weekly auction](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555aa8be.json))
 
-* **65** daily-ft-lk ([Split in the Opposition sustains Gotabaya rule and mass suffering](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6d4996f.json))
+* **64** daily-ft-lk ([Ministry allocation: President’s incompetence is shown again](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c6fcf3.json))
 
 * **46** island-lk ([JVP’s call to arms](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3eb08fb.json))
 
