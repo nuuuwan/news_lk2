@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 23:09:57 (LK time)*
+*As of 2022-07-06 23:22:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,11 @@
 
 * **1** virakesari-lk ([மட்டு, விமான நிலையத்தில் விமானப் பயிற்சி நிலையமொன்றை அமைக்க அமைச்சரவை அங்கீகாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdb1d30e.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
 * **5** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
 
 * **2** news-first-lk ([Strong winds likely tonight (6)](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af220883.json))
-
-* **2** daily-mirror-lk ([India should allow star players to take part in T20 leagues overseas: Aravinda](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a80c76df.json))
 
 * **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
@@ -22,7 +20,9 @@
 
 * **1** ada-lk ([සංචාරක පැමිණීම්වල සියයට 8.8ක වර්ධනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32de48be.json))
 
-## Last 24 Hours (228 Articles)
+* **1** daily-mirror-lk ([Only 50 trains operated today: Station Masters’ Union](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c649e4.json))
+
+## Last 24 Hours (227 Articles)
 
 * **36** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
@@ -34,7 +34,7 @@
 
 * **27** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32c87a35.json))
 
-* **21** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
+* **20** ada-derana-lk ([UK PM Boris Johnson in crisis as top ministers quit](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f52d1f8.json))
 
 * **18** economy-next-com ([Tourists to receive fuel on request in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2f598b.json))
 
