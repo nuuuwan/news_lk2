@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 02:06:56 (LK time)*
+*As of 2022-07-07 02:19:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,7 +18,7 @@
 
 * **26** daily-mirror-lk ([Brathwaite, Lewis among the overseas players selected in LPL draft](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5b98e66.json))
 
-* **23** tamil-mirror-lk ([யாழ்ப்பாணத்திலிருந்து காங்கேசன்துறைக்கு புதிய ரயில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45a59e64.json))
+* **23** tamil-mirror-lk ([’தாக்குதலுடன் அரசாங்கம் தொடர்பில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76836b19.json))
 
 * **21** ada-derana-lk ([Limited number of trains in operation today](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564e0737.json))
 
@@ -30,7 +30,7 @@
 
 * **4** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
-## Last Week (1,711 Articles)
+## Last Week (1,710 Articles)
 
 * **356** virakesari-lk ([பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5278dace.json))
 
@@ -40,7 +40,7 @@
 
 * **181** daily-mirror-lk ([New bus fares to be announced today](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0b0f1d3.json))
 
-* **169** tamil-mirror-lk ([விவசாயிகளுக்கு உரத்தை பகிர்ந்தளிக்க நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c11adbf.json))
+* **169** tamil-mirror-lk ([பாராளுமன்ற விவகாரங்களுக்கான விசேட குழுக்கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9496dbd7.json))
 
 * **158** ada-derana-lk ([Advisory issued for strong winds and rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fe52c8.json))
 
@@ -48,7 +48,7 @@
 
 * **113** economy-next-com ([Sri Lanka in worst crisis in modern times, differing views on rupee: Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52f05cb5.json))
 
-* **57** daily-ft-lk ([SLID webinar sheds key insights to Personal Data Protection Act of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62f6a1c5.json))
+* **56** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
 * **46** island-lk ([JVP’s call to arms](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3eb08fb.json))
 
@@ -58,7 +58,7 @@
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-## All Time (3,534 Articles)
+## All Time (3,535 Articles)
 
 * **647** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -68,7 +68,7 @@
 
 * **368** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **339** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **340** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **287** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
