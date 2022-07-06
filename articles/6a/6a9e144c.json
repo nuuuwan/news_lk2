@@ -1,0 +1,561 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0dad\u0dc0\u0dad\u0dca-198\u0d9a\u0dca-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7---\u0db8\u0dda-\u0dc0\u0dc3\u0dbb\u0dda-2105\u0d9a\u0dca-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/11-395145",
+  "time_ut": 1657080878,
+  "original_lang": "si",
+  "original_title": "\u0dad\u0dc0\u0dad\u0dca 198\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 - \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda 2105\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+  "text_idx": {
+    "en": {
+      "title": "Another 198 to Korea - 2105 have gone to Korea this year",
+      "author": "unknown",
+      "body_lines": [
+        "According to the Memorandum of Understanding between the Government of Sri Lanka and the Government of South Korea, under the program of providing jobs to Sri Lankan workers in South Korea, 2105 people have left this notice since January 2022, according to the Foreign Employment Bureau of Sri Lanka.",
+        "Most of them have passed the Korean Language Proficiency Test under the normal method and the number is 1611.",
+        "After working continuously in Korea for 04 years and 10 months, after returning to Sri Lanka and receiving a service contract from the previous company, 299 people have left for work in Korea.",
+        "195 people have left for jobs after passing the computer related exam. Meanwhile, the highest number of workers who have left for Korean jobs from January to now, 676 people, left in June.",
+        "As a result of the discussions held by the Minister of Labor and Foreign Employment Mr. Manusha Nanayakkara, the Korean Department of Human Resources and the higher officials of the Sri Lanka Foreign Employment Bureau in order to speed up the program of sending more Sri Lankan workers for Korean jobs, more employment contracts are being received.",
+        "Meanwhile, the 723rd group leaving for Korean work left the island yesterday, the group of 34 people who left yesterday afternoon on SriLankan Airlines flight UL 308 and the 164 people who left last night on SriLankan Airlines flight UL 470. left"
+      ],
+      "title_ents": [
+        {
+          "text": "Another 198",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Korea",
+          "label": "GPE"
+        },
+        {
+          "text": "this year",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "South Korea",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "South Korea",
+            "label": "GPE"
+          },
+          {
+            "text": "2105",
+            "label": "DATE"
+          },
+          {
+            "text": "January 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "the Foreign Employment Bureau of Sri Lanka",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the Korean Language Proficiency Test",
+            "label": "EVENT"
+          },
+          {
+            "text": "1611",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Korea",
+            "label": "GPE"
+          },
+          {
+            "text": "04 years and",
+            "label": "DATE"
+          },
+          {
+            "text": "10 months",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "299",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Korea",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "195",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Korean",
+            "label": "NORP"
+          },
+          {
+            "text": "January to now",
+            "label": "DATE"
+          },
+          {
+            "text": "676",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Manusha Nanayakkara",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Korean Department of Human Resources",
+            "label": "ORG"
+          },
+          {
+            "text": "the Sri Lanka Foreign Employment Bureau",
+            "label": "FAC"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "GPE"
+          },
+          {
+            "text": "Korean",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "723rd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Korean",
+            "label": "NORP"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "34",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "afternoon",
+            "label": "TIME"
+          },
+          {
+            "text": "SriLankan Airlines",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 308",
+            "label": "LAW"
+          },
+          {
+            "text": "164",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "last night",
+            "label": "TIME"
+          },
+          {
+            "text": "SriLankan Airlines",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 470",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0dc0\u0dad\u0dca 198\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 - \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda 2105\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba \u0dc4\u0dcf \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0da2\u0dba \u0d85\u0dad\u0dbb \u0d87\u0dad\u0dd2 \u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0d85\u0dc0\u0db6\u0ddd\u0db0\u0dad\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1 \u0dba\u0da7\u0dad\u0dda 2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0db8\u0dda \u0daf\u0db1\u0dca\u0dc0\u0dcf 2105 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0d89\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0db8 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dca\u0dad\u0dda \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db7\u0dcf\u0dc2\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd3\u0dab\u0dad\u0dcf \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dc3\u0db8\u0dad\u0dca\u0dc0 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba \u0dba\u0da7\u0dad\u0dda \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba 1611\u0d9a\u0dd2.",
+        "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc0\u0dc3\u0dbb 04\u0dba\u0dd2 \u0db8\u0dcf\u0dc3 10\u0d9a\u0dca \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb, \u0db1\u0dd0\u0dc0\u0dad \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd9\u0dbb \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbd \u0d86\u0dba\u0dad\u0db1\u0dba \u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0, \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba 299\u0d9a\u0dd2.",
+        "\u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba \u0dc3\u0db8\u0dad\u0dca\u0dc0 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf 195 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda. \u0db8\u0dda \u0d85\u0dad\u0dbb \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0db8 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd6 676 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd2 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dd3\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dd2.",
+        "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dd2\u0d9a \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dbd \u0d9a\u0da9\u0dd2\u0db1\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db8\u0db1\u0dd6\u0dc2 \u0db1\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0dca\u0d9a\u0dcf\u0dbb \u0db8\u0dc4\u0dad\u0dcf, \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db8\u0dcf\u0db1\u0dc0 \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0d8b\u0dc3\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd6 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da2\u0dcf\u0dc0\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb, \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0db1 723 \u0dc0\u0db1 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0d8a\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0dd2\u0dba \u0d85\u0dad\u0dbb, \u0d8a\u0dba\u0dda \u0daf\u0dc4\u0dc0\u0dbd\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0dd2\u0dba 34 \u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0d9c\u0dd9\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca UL 308 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0dcf \u0d8a\u0dba\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd6 \u0dc0\u0dd6 164\u0d9a \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 UL 470 \u0daf\u0dbb\u0dab \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0d9c\u0dd2\u0dba\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dad\u0dc0\u0dad\u0dca 198",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2105",
+            "label": "DATE"
+          },
+          {
+            "text": "2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db7\u0dcf\u0dc2\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd3\u0dab\u0dad\u0dcf \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba",
+            "label": "EVENT"
+          },
+          {
+            "text": "1611",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 04 \u0dc3\u0dc4",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc3 10 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "299",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "195",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "676",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0db1\u0dd6\u0dc2 \u0db1\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0dca\u0d9a\u0dcf\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db8\u0dcf\u0db1\u0dc0 \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0dda\u0dc0\u0dcf \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "723 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "34",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dc4\u0dc0\u0dbd\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 308",
+            "label": "LAW"
+          },
+          {
+            "text": "164",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 470",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 198 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 - 2105 \u0baa\u0bc7\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0ba9\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bbf, \u0ba4\u0bc6\u0ba9\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd, 2022 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2105 \u0baa\u0bc7\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8.",
+        "\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bcb\u0bb0\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0bca\u0bb4\u0bbf \u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 1611 \u0b86\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 04 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd 10 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc8\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 299 \u0baa\u0bc7\u0bb0\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0ba3\u0bbf\u0ba9\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 195 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bb5\u0bc7\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, 676 \u0baa\u0bc7\u0bb0\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0bae\u0ba9\u0bc1\u0bb7 \u0ba8\u0bbe\u0ba3\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0, \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0ba9\u0bbf\u0ba4\u0bb5\u0bb3\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb3\u0bb5\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bc1\u0bb0\u0bbf\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bb5\u0bc7\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1, \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0b95\u0bca\u0bb0\u0bbf\u0baf \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 723 \u0b86\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bc1\u0bae\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8e\u0baf\u0bbe\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bbe\u0ba9 UL 308 \u0b87\u0bb2\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 34 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1 \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8e\u0baf\u0bbe\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bbe\u0ba9 UL 470 \u0b87\u0bb2\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 164 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba9."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 198",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "2105",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0bca\u0bb4\u0bbf \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1",
+            "label": "EVENT"
+          },
+          {
+            "text": "1611",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "04 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "10 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "299",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "195",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "676",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0ba9\u0bc1\u0bb7 \u0ba8\u0bbe\u0ba3\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf \u0bae\u0ba9\u0bbf\u0ba4 \u0bb5\u0bb3\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "723\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "34",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 308",
+            "label": "LAW"
+          },
+          {
+            "text": "164",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "UL 470",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
