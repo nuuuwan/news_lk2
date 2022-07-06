@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83471/minister-gl-briefs-un-resident-coordinator-on-sri-lankas-situation",
+    "time_ut": 1657125360,
+    "original_lang": "en",
+    "original_title": "Minister GL briefs UN Resident Coordinator on Sri Lanka\u2019s situation",
+    "file_name": "/tmp/news_lk2/articles/3d/3dde2a75.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0da7-\u0d91\u0dc5\u0d9c\u0dc0\u0dba\u0dd9\u0d9a\u0dca/1-615967",
     "time_ut": 1657122926,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "US Senate says IMF agreement with SL must depend on key reforms",
     "file_name": "/tmp/news_lk2/articles/75/754c9ede.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca-\u0d87\u0db1\u0dca\u0dad\u0db1\u0dd2-\u0d9a\u0ddc\u0dc5\u0db9-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9a\u0dbb\u0dba/11-395038",
-    "time_ut": 1656820225,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca \u0d87\u0db1\u0dca\u0dad\u0db1\u0dd2 \u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dbb\u0dba",
-    "file_name": "/tmp/news_lk2/articles/0b/0b58ddb0.json"
   }
 ]

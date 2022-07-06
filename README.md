@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-06 22:10:22 (LK time)*
+*As of 2022-07-06 22:39:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last Hour (1 Articles)
 
-* **1** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
+* **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
-## Last 3 Hours (18 Articles)
-
-* **4** virakesari-lk ([கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4018c16c.json))
+## Last 3 Hours (12 Articles)
 
 * **4** daily-mirror-lk ([Some private bus operators indulge in diesel pilferage](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/692977a9.json))
+
+* **3** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
 
 * **2** lankadeepa-lk ([දුම්රිය වර්ජනය අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bb470d3.json))
 
 * **2** news-first-lk ([Strong winds likely tonight (6)](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af220883.json))
 
-* **2** ada-lk ([දුම්රිය වර්ජනය අත්හරියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f90d1bdd.json))
+* **1** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
-* **2** ada-derana-lk ([Kerosene price also set to increase?](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfc8046.json))
-
-* **1** economy-next-com ([Sri Lanka shares down on fuel shortage, political instability woes amid rate hike fears](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88d1f741.json))
-
-* **1** tamil-mirror-lk ([வேலைநிறுத்தத்தை கைவிட தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b199da.json))
-
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (227 Articles)
 
 * **34** virakesari-lk ([காற்றின் வேகம் அதிகரிப்பு - கடல் கொந்தளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79ea37af.json))
 
@@ -38,7 +32,7 @@
 
 * **28** daily-mirror-lk ([No train strike tonight](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95a8d936.json))
 
-* **20** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
+* **21** ada-derana-lk ([I can turn around Sri Lanka’s economy: PM Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa786935.json))
 
 * **18** economy-next-com ([Tourists to receive fuel on request in crisis-hit Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d2f598b.json))
 
@@ -56,11 +50,11 @@
 
 * **201** ada-lk ([ඩීසල් නැව ජුලි දෙවැනි සතියේ - පෙට්‍රල් නැව ජුලි අන්තිම සතියේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f869bbfa.json))
 
-* **187** daily-mirror-lk ([Consular Services for public only on Monday, Wednesday, Friday](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/674433e0.json))
+* **186** daily-mirror-lk ([Bunker licence holders agree to import and supply jet fuel on urgent basis](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9c46058.json))
 
 * **170** tamil-mirror-lk ([எரிபொருள் நிரப்பு நிலையங்களுக்கு பலத்த பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62014bed.json))
 
-* **158** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
+* **159** ada-derana-lk ([President Gotabaya calls Putin to secure fuel supplies from Russia](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbc9b15d.json))
 
 * **139** news-first-lk ([Party Leaders to meet today (30)](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2dd45659.json))
 
@@ -76,7 +70,7 @@
 
 * **12** colombo-telegraph-com ([Sri Lanka Won’t Be The Last Nation To Need Friends](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26055dae.json))
 
-## All Time (3,523 Articles)
+## All Time (3,524 Articles)
 
 * **642** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -90,7 +84,7 @@
 
 * **287** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **278** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **279** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **193** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
