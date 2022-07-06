@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-to-pay-colossal-prices-plus-commissions-for-40k-MT-of-fuel-Harsha/108-240466",
+    "time_ut": 1657094454,
+    "original_lang": "en",
+    "original_title": "SL to pay colossal prices plus commissions for 40k MT of fuel: Harsha",
+    "file_name": "/tmp/news_lk2/articles/de/de78d066.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/hirunika-several-others-arrested-for-protesting-outside-presidents-house/",
+    "time_ut": 1657094280,
+    "original_lang": "en",
+    "original_title": "Hirunika & several others arrested for protesting outside President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/ee/eea13735.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130908",
+    "time_ut": 1657093740,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bc8 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baa\u0bbe\u0bb2 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba8\u0bbe\u0bae\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/e9/e98953d6.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tourism-sector-debt-moratorium-doubtful-over-bank-stability-minister-97028/",
     "time_ut": 1657093200,
@@ -17,11 +41,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7/1-615943",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7-\u0dc0\u0dbb\u0dcf\u0dba-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc3\u0dda\u0dc0\u0dcf-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615944",
+    "time_ut": 1657092978,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0dc0\u0dbb\u0dcf\u0dba \u0dc4\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/06/06de884a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7/101-615943",
     "time_ut": 1657092615,
     "original_lang": "si",
     "original_title": "\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7",
-    "file_name": "/tmp/news_lk2/articles/e8/e8293c63.json"
+    "file_name": "/tmp/news_lk2/articles/84/845af15e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -33,19 +65,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-tells-Nimal-Siripala-to-step-down-temporarily/342-240465",
+    "url": "https://www.dailymirror.lk/breaking_news/President-tells-Nimal-Siripala-to-step-down-temporarily/108-240465",
     "time_ut": 1657092386,
     "original_lang": "en",
     "original_title": "President tells Nimal Siripala to step down temporarily",
-    "file_name": "/tmp/news_lk2/articles/75/75e1827f.json"
+    "file_name": "/tmp/news_lk2/articles/f5/f5a8d438.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-615942",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615942",
     "time_ut": 1657092003,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0db1 \u0dc4\u0dd0\u0da7\u0dd2 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/32/32786d1b.json"
+    "file_name": "/tmp/news_lk2/articles/88/8808139c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -57,11 +89,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/LITRO-Gas-distribution-to-resume-on-July-11-Prime-Minister/342-240464",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-Gas-distribution-to-resume-on-July-11-Prime-Minister/108-240464",
     "time_ut": 1657092000,
     "original_lang": "en",
     "original_title": "LITRO Gas distribution to resume on July 11: Prime Minister",
-    "file_name": "/tmp/news_lk2/articles/bb/bb167ac8.json"
+    "file_name": "/tmp/news_lk2/articles/3c/3c05df98.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -241,11 +273,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business/Disney-likely-to-lose-exclusive-rights-to-Mickey-Mouse/215-240459",
+    "url": "https://www.dailymirror.lk/mirror_business/Disney-likely-to-lose-exclusive-rights-to-Mickey-Mouse/241-240459",
     "time_ut": 1657087898,
     "original_lang": "en",
     "original_title": "Disney likely to lose exclusive rights to Mickey Mouse",
-    "file_name": "/tmp/news_lk2/articles/9e/9efeafe5.json"
+    "file_name": "/tmp/news_lk2/articles/4d/4d89df24.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Three shipments of fuel to arrive in Sri Lanka by mid, end July, August: Lanka IOC",
     "file_name": "/tmp/news_lk2/articles/64/642c1e41.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dc4\u0dcf\u0dbd\u0dca-\u0d9c\u0dda\u0db1-\u0dc0\u0dd2\u0daf\u0dd2\u0dba-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615741",
-    "time_ut": 1656743571,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dc4\u0dcf\u0dbd\u0dca \u0d9c\u0dda\u0db1 \u0dc0\u0dd2\u0daf\u0dd2\u0dba \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/81/8194a578.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83379/lanka-iocs-update-on-fuel-shipment-arrival",
-    "time_ut": 1656743100,
-    "original_lang": "en",
-    "original_title": "Lanka IOC\u2019s update on fuel shipment arrival",
-    "file_name": "/tmp/news_lk2/articles/39/39e4d7ba.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/imf-agreement-with-sri-lanka-must-depend-on-key-conditions-us-senate-committee-96782/",
-    "time_ut": 1656743100,
-    "original_lang": "en",
-    "original_title": "IMF agreement with Sri Lanka must depend on key conditions: US senate committee",
-    "file_name": "/tmp/news_lk2/articles/21/218461e3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130615",
-    "time_ut": 1656742203,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd 15 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba4\u0baf \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bc1\u0bb5\u0bc8 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/de/dea8a54a.json"
   }
 ]
