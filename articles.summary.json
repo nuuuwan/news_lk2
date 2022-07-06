@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83469/kerosene-price-also-set-to-increase",
+    "time_ut": 1657115040,
+    "original_lang": "en",
+    "original_title": "Kerosene price also set to increase?",
+    "file_name": "/tmp/news_lk2/articles/db/dbfc8046.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0db1\u0d82\u0da2\u0dba-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca-\u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019/1-615965",
+    "time_ut": 1657114649,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca \u0d9a\u0dd3\u0db4\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019",
+    "file_name": "/tmp/news_lk2/articles/12/1277ad33.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130944",
+    "time_ut": 1657114225,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bbe \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0bb0 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/9c/9c559678.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dab-\u0d85\u0daf\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0da7\u0dd2-\u0d87\u0dad\u0dcf\u0d9c\u0dda-\u0daf\u0dc5-\u0db4\u0ddc\u0dbb\u0dc0\u0d9a\u0dd2\u0db1\u0dca-\u0d9c\u0dc3\u0dcf-\u0d9a\u0db4\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-615964",
+    "time_ut": 1657114136,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dab \u0d85\u0daf\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2 \u0d87\u0dad\u0dcf\u0d9c\u0dda \u0daf\u0dc5 \u0db4\u0ddc\u0dbb\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0d9c\u0dc3\u0dcf \u0d9a\u0db4\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a7/a7323e09.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/06/gl-meets-un-resident-coordinator/",
+    "time_ut": 1657113960,
+    "original_lang": "en",
+    "original_title": "GL meets UN Resident Coordinator",
+    "file_name": "/tmp/news_lk2/articles/9d/9d9f2540.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd-27\u0b87\u0bb2\u0bcd-\u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0ba9\u0bc8/175-299858",
     "time_ut": 1657113805,
