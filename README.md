@@ -1,32 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 20:50:20 (LK time)*
+*As of 2022-07-07 20:54:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (5 Articles)
 
 * **1** virakesari-lk ([யாழில் 300 லீற்றர் டீசலை பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c8db4f.json))
 
 * **1** ada-lk ([කොවිඩ් ආසාදිතයන්ගේ තරමක වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20520bae.json))
 
-## Last Hour (6 Articles)
-
-* **2** lankadeepa-lk ([පොලිසියේ ඉල්ලීම අධිකරණය බැහැ කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf7c519.json))
-
-* **1** virakesari-lk ([யாழில் 300 லீற்றர் டீசலை பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c8db4f.json))
-
-* **1** ada-lk ([කොවිඩ් ආසාදිතයන්ගේ තරමක වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20520bae.json))
+* **1** lankadeepa-lk ([ඇමෙරිකාව රුසියාවට පනවා ඇති ඉන්ධන තහනම ශ්‍රී ලංකාවට අදාල නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b607cd09.json))
 
 * **1** ada-derana-lk ([COPE calls for audit on LP gas purchases by Litro](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a23ec716.json))
 
 * **1** daily-mirror-lk ([Its Rambutan season](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c607bf62.json))
 
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (20 Articles)
 
 * **8** lankadeepa-lk ([ඉන්ධන ලීටරයක් රුපියල් 200 කින් අඩුකරන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e627592.json))
-
-* **4** daily-mirror-lk ([No obstacles for peaceful protests: IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b45efd0.json))
 
 * **3** virakesari-lk ([ஆர்ப்பாட்டம் நடாத்தலாம் - பொலிஸ் மா அதிபர் அறிவிப்பு ; சட்டத்தை மீறினால் பார்த்துக்கொண்டிருக்கப் போவதில்லை எனவும் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd7df87.json))
 
@@ -34,15 +26,17 @@
 
 * **2** ada-lk ([ඉදිරියේදි උද්ධමනය සියයට 70ට යා හැකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12964993.json))
 
+* **2** daily-mirror-lk ([Korea to issue E-7 visas to Lankan workers](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7abf12f5.json))
+
 * **1** tamil-mirror-lk ([“கோட்டா நீ போப்பா” : மனோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/533dfddd.json))
 
 * **1** news-first-lk ([UL dismisses reports of flight cancellations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a903b63.json))
 
-## Last 24 Hours (233 Articles)
+## Last 24 Hours (232 Articles)
 
 * **42** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
 
-* **41** virakesari-lk ([இரு ஆர்ப்பாட்டங்கள் கண்ணீர் புகைக் குண்டுகள் வீசி கலைப்பு  - கோட்டை, பாராளுமன்ற சுற்றுவட்டமருகே நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/327c8a51.json))
+* **40** virakesari-lk ([எரிபொருள் வரிசையில் இடம்பெறும் மரணங்கள் மக்களை வலுவிழக்கச்செய்து மேற்கொள்ளப்படும் படுகொலைகளாகும் - துஷார இந்துனில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6474a7e0.json))
 
 * **30** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
 
@@ -62,7 +56,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,711 Articles)
+## Last Week (1,710 Articles)
 
 * **346** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு மத்திய நிலைய அமைதியின்மை : தப்பிச்சென்ற 599 பேர் சரண் 123 பேரை தேடி வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9b1aa51.json))
 
@@ -76,7 +70,7 @@
 
 * **155** ada-derana-lk ([5-year work visa for foreigners employed at BOI-registered Sri Lankan firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e745393.json))
 
-* **136** news-first-lk ([Kandakadu Escape: Justice Minister calls for report](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486f26a8.json))
+* **135** news-first-lk ([Inflation hits record high in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a164ff17.json))
 
 * **101** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
