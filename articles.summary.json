@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83488/new-covid-omicron-sub-variant-found-in-india-who",
+    "time_ut": 1657194240,
+    "original_lang": "en",
+    "original_title": "New Covid Omicron sub-variant found in India: WHO",
+    "file_name": "/tmp/news_lk2/articles/a0/a0510196.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/exercise-rights-responsibly-and-peacefully-police/",
+    "time_ut": 1657193640,
+    "original_lang": "en",
+    "original_title": "Exercise rights responsibly and peacefully \u2013 Police",
+    "file_name": "/tmp/news_lk2/articles/d5/d57a6cc5.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0--\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf-/117-616014",
     "time_ut": 1657193190,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0  \u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
     "file_name": "/tmp/news_lk2/articles/06/065b9e8e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/supplementary-estimate-not-for-urban-projects/",
+    "time_ut": 1657193160,
+    "original_lang": "en",
+    "original_title": "Supplementary Estimate NOT for Urban projects",
+    "file_name": "/tmp/news_lk2/articles/67/672046c8.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -126,14 +150,6 @@
     "original_lang": "en",
     "original_title": "103 Indian train compartments NOT in use \u2013 COPA",
     "file_name": "/tmp/news_lk2/articles/ae/aee5a307.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/court-rejects-police-request-on-protests-planned-for-8th-9th-july/",
-    "time_ut": 1657190940,
-    "original_lang": "en",
-    "original_title": "Court rejects police request on protests planned for 8th & 9th July",
-    "file_name": "/tmp/news_lk2/articles/39/399e6d88.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
