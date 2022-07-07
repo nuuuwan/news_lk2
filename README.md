@@ -1,40 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 00:00:41 (LK time)*
+*As of 2022-07-08 00:10:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **4** ada-lk ([යුක්රේනය මුල් කරගෙන සීතල යුද වෑයමක් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f62f5630.json))
+* **2** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2508e.json))
 
-## Last Hour (5 Articles)
+## Last Hour (7 Articles)
 
 * **5** ada-lk ([රුසියාව තවමත් සටන ආරම්භ කළේ නෑ - පූටින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa727784.json))
 
-## Last 3 Hours (24 Articles)
+* **2** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2508e.json))
 
-* **7** virakesari-lk ([குற்றம் நடந்தால் நிலைமை மோசமாகும் எனf; கூறி 9 ஆம் திகதி ஆர்ப்பாட்டங்களை தடை செய்ய கோரிக்கை ; நீதிமன்றம் மறுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f741af0d.json))
+## Last 3 Hours (22 Articles)
 
 * **6** ada-lk ([දේපළ හානි පිළිබඳ පැමිණිලි භාර ගැනීමේ කාලය දිගු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1888b18d.json))
+
+* **4** daily-mirror-lk ([Probe the huge profit margins CPC makes on imports, sales of fuel: PUCSL Head](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd804934.json))
+
+* **4** virakesari-lk ([சூதாட்ட விடுதிகள் தொடர்பில் நிதி அமைச்சு விசேட தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da816487.json))
 
 * **3** ada-derana-lk ([Duration for lodging complaints on property damage during unrest extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d29727bc.json))
 
 * **3** economy-next-com ([Sri Lanka central bank guidance peg down 1 rupee; CB raises rates by 100 bps](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc66a472.json))
 
-* **2** daily-mirror-lk ([Probe the huge profit margins CPC makes on imports, sales of fuel: PUCSL Head](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd804934.json))
-
-* **2** news-first-lk ([Former Bribery DG goes to court against Ex-Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86f9143b.json))
-
 * **1** lankadeepa-lk ([බම්බලපිටියේ තෙල් පෝලිම කොල්ලුපිටියටම](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6d0a59.json))
 
-## Last 24 Hours (242 Articles)
+* **1** news-first-lk ([PCoI probing recent violence extends duration to accept complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7d6629f.json))
+
+## Last 24 Hours (243 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
-* **35** virakesari-lk ([இன்று பல மாகாணங்களில் மழை  பெய்யலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef77ccd5.json))
+* **37** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
 
-* **35** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
+* **35** virakesari-lk ([இன்று பல மாகாணங்களில் மழை  பெய்யலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef77ccd5.json))
 
 * **30** ada-lk ([මහ බැංකු පොලී අනුපාත ඉහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1373d56f.json))
 
@@ -42,7 +44,7 @@
 
 * **23** news-first-lk ([Sri Lanka further tightens Monetary Policy Stance](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1328f2d.json))
 
-* **22** tamil-mirror-lk ([இரண்டு மாதங்களில் மருந்து தட்டுப்பாடு நீங்கும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4473a4.json))
+* **21** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
 
 * **11** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
@@ -52,7 +54,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,724 Articles)
+## Last Week (1,726 Articles)
 
 * **352** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -60,7 +62,7 @@
 
 * **202** ada-lk ([මංකොල්ල කෑ සියලු මුදල් අත්කර ගැනීමේ මෙහෙයුම් අරඹනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aebd4efa.json))
 
-* **186** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
+* **188** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
 
 * **155** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
@@ -80,7 +82,7 @@
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,800 Articles)
+## All Time (3,802 Articles)
 
 * **693** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -88,7 +90,7 @@
 
 * **469** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **402** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **404** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **362** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
