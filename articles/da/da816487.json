@@ -105,7 +105,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "text": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
             "label": "ORG"
           }
         ],
