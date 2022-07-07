@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/former-bribery-dg-goes-to-court-against-ex-minister/",
+    "time_ut": 1657207860,
+    "original_lang": "en",
+    "original_title": "Former Bribery DG goes to court against Ex-Minister",
+    "file_name": "/tmp/news_lk2/articles/86/86f9143b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Journos-protest-against-Rajapaksas/342-240550",
+    "time_ut": 1657207715,
+    "original_lang": "en",
+    "original_title": "Journos protest against Rajapaksas",
+    "file_name": "/tmp/news_lk2/articles/f3/f35d7a7b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616028",
+    "time_ut": 1657207398,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/21/213db802.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Implement-proposals-forwarded-by-Maha-Sangha/342-240548",
+    "time_ut": 1657207011,
+    "original_lang": "en",
+    "original_title": "Implement proposals forwarded by Maha Sangha",
+    "file_name": "/tmp/news_lk2/articles/c3/c348a42e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131018",
     "time_ut": 1657205507,
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bc8 \u0b95\u0bbe\u0bb2\u0bbe\u0bb2\u0bcd \u0b89\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf - \u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb",
     "file_name": "/tmp/news_lk2/articles/16/16f208c3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0dc0\u0dd4\u0dab\u0dd0\u0dba\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dc3\u0dd9\u0db6\u0dc5\u0dcf\u0d9c\u0dda-\u0d85\u0dad-\u0d9a\u0db4\u0dbd\u0dcf/1-615810",
-    "time_ut": 1656907733,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd4\u0dab\u0dd0\u0dba\u0dd2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc3\u0dd9\u0db6\u0dc5\u0dcf\u0d9c\u0dda \u0d85\u0dad \u0d9a\u0db4\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/54/54e01ae6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/dedicated-filling-stations-for-delivery-trucks/",
-    "time_ut": 1656907560,
-    "original_lang": "en",
-    "original_title": "Dedicated filling stations for delivery trucks",
-    "file_name": "/tmp/news_lk2/articles/19/19027f2d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0dc4\u0dac\u0db1\u0dc0\u0dcf--\u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0db6\u0dd1-\u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dc4-\u0db4\u0dcf\u0dbb-\u0db8\u0dd0\u0daf-\u0dc4\u0dac\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018/101-615809",
-    "time_ut": 1656907270,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0da9\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0dda \u0dc4\u0dac\u0db1\u0dc0\u0dcf. \u0daf\u0dbb\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0db6\u0dd1 \u0db4\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dc4 \u0db4\u0dcf\u0dbb \u0db8\u0dd0\u0daf \u0dc4\u0dac\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/a8/a8e0bcc7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/one-day-passport-service-in-three-more-districts/",
-    "time_ut": 1656906720,
-    "original_lang": "en",
-    "original_title": "One-Day Passport Service in three more districts",
-    "file_name": "/tmp/news_lk2/articles/0f/0fcdf38d.json"
   }
 ]
