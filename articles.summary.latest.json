@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130993",
+    "time_ut": 1657187712,
+    "original_lang": "ta",
+    "original_title": "9\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 - \u0bae\u0ba9\u0bcb \u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/91/91fe9dfb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/cope-concerned-over-litro-gas-tender/",
+    "time_ut": 1657187580,
+    "original_lang": "en",
+    "original_title": "COPE concerned over Litro Gas tender",
+    "file_name": "/tmp/news_lk2/articles/94/946916d9.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd-\u0dc4\u0dbd\u0dca-\u0d9c\u0dd0\u0db1-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca-\u0d9c\u0db1\u0dd3/101-616002",
     "time_ut": 1657186952,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd \u0dc4\u0dbd\u0dca \u0d9c\u0dd0\u0db1 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0d9c\u0db1\u0dd3",
     "file_name": "/tmp/news_lk2/articles/f8/f83e36f6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/navy-nabs-seven-for-illegal-migration-in-talaimannar/",
+    "time_ut": 1657186560,
+    "original_lang": "en",
+    "original_title": "Navy nabs seven for illegal migration in Talaimannar",
+    "file_name": "/tmp/news_lk2/articles/16/16d4901b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -22,6 +46,22 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d8/d88cb2ac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/water-supply-workers-protest-for-fuel/",
+    "time_ut": 1657185840,
+    "original_lang": "en",
+    "original_title": "Water Supply workers protest for fuel",
+    "file_name": "/tmp/news_lk2/articles/12/12e2ec9d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3\u0dba\u0dda-\u0db4\u0dd9\u0dbb\u0dc5\u0dd9\u0dba\u0dd2/11-395196",
+    "time_ut": 1657185823,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db1\u0dca\u0da7\u0dda\u0db1\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3\u0dba\u0dda \u0db4\u0dd9\u0dbb\u0dc5\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ea/eab5f594.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/a9/a9f15443.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130676",
-    "time_ut": 1656860180,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/99/99ec0089.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130705",
-    "time_ut": 1656859950,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0ba8\u0bbe\u0bb2\u0b95 \u0b95\u0bca\u0b9f\u0bb9\u0bc7\u0bb5\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/0e/0e9969c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Yupun-Abeykoon-sets-South-Asian-record-to-win-mens-100m-in-9-96sec/108-240256",
-    "time_ut": 1656859773,
-    "original_lang": "en",
-    "original_title": "Yupun Abeykoon sets South Asian record to win men\u2019s 100m in 9.96sec",
-    "file_name": "/tmp/news_lk2/articles/28/28670c9b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Vidyartha-shock-fancied-St-Peters-11-07/342-240255",
-    "time_ut": 1656858811,
-    "original_lang": "en",
-    "original_title": "Vidyartha shock fancied St. Peter\u2019s 11-07",
-    "file_name": "/tmp/news_lk2/articles/c8/c84f0a61.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130711",
-    "time_ut": 1656858354,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 12 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/50/50564a9a.json"
   }
 ]
