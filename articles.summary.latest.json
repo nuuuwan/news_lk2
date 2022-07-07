@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83486/court-rejects-police-request-against-protests-near-presidents-house",
+    "time_ut": 1657190700,
+    "original_lang": "en",
+    "original_title": "Court rejects police request against protests near President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/6f/6fdddd02.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/private-members-bills-on-elections/",
+    "time_ut": 1657190520,
+    "original_lang": "en",
+    "original_title": "Private Members Bills on Elections",
+    "file_name": "/tmp/news_lk2/articles/0d/0dda7f00.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/FUTA-invites-people-for-July-9-gathering/342-240537",
+    "time_ut": 1657190230,
+    "original_lang": "en",
+    "original_title": "FUTA invites people for July 9 gathering",
+    "file_name": "/tmp/news_lk2/articles/2a/2ac4d277.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc6\u0ba9\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8/175-299911",
+    "time_ut": 1657189915,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bc6\u0ba9\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/2e/2efd67d4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0dad\u0dca-\u0dc3\u0da7\u0db1\u0da7-\u0db6\u0dc3\u0dd2\u0dad\u0dd2/101-616005",
+    "time_ut": 1657189909,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0dad\u0dca \u0dc3\u0da7\u0db1\u0da7 \u0db6\u0dc3\u0dd2\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e8/e8b5d727.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130995",
+    "time_ut": 1657189723,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8 ; \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 14 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3a/3abec3d6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8\u0dd2\u0db1\u0dca-\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7-\u0db6\u0dcf\u0db0\u0dcf/11-395198",
+    "time_ut": 1657188874,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8\u0dd2\u0db1\u0dca \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/09/092dcbcf.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-7\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616003",
     "time_ut": 1657188241,
@@ -22,6 +78,14 @@
     "original_lang": "en",
     "original_title": "UK PM Johnson to resign on Today",
     "file_name": "/tmp/news_lk2/articles/54/54671c09.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-PM-Johnson-to-resign-today/108-240535",
+    "time_ut": 1657187998,
+    "original_lang": "en",
+    "original_title": "UK PM Johnson to resign today",
+    "file_name": "/tmp/news_lk2/articles/62/62d31107.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -536,20 +600,20 @@
     "file_name": "/tmp/news_lk2/articles/e2/e2fdf46b.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CBSL-further-tightens-its-Monetary-Policy-Stance/342-240528",
-    "time_ut": 1657172124,
-    "original_lang": "en",
-    "original_title": "CBSL further tightens its Monetary Policy Stance",
-    "file_name": "/tmp/news_lk2/articles/86/86d4f349.json"
-  },
-  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dad\u0dd0\u0dad\u0dca-\u0d9a\u0dc5-07\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395186",
     "time_ut": 1657172124,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd0\u0dad\u0dca \u0d9a\u0dc5 07\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/0a/0a0b0959.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CBSL-further-tightens-its-Monetary-Policy-Stance/342-240528",
+    "time_ut": 1657172124,
+    "original_lang": "en",
+    "original_title": "CBSL further tightens its Monetary Policy Stance",
+    "file_name": "/tmp/news_lk2/articles/86/86d4f349.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka schedules power cuts of 3 hours for June 04 and June 05",
     "file_name": "/tmp/news_lk2/articles/04/048804d1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130712",
-    "time_ut": 1656863646,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 111 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/d8/d8fa2403.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78324",
-    "time_ut": 1656862260,
-    "original_lang": "en",
-    "original_title": "Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster \u201cVikram\u201d",
-    "file_name": "/tmp/news_lk2/articles/ac/ace24401.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/childs-guide-to-true-cost-of-activities-concept-of-opportunity-cost/",
-    "time_ut": 1656862071,
-    "original_lang": "en",
-    "original_title": "Child\u2019s Guide To True Cost Of Activities: Concept Of Opportunity Cost",
-    "file_name": "/tmp/news_lk2/articles/ad/add39706.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130713",
-    "time_ut": 1656861965,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bcb\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0b95\u0bb0\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u2013\u0b8f\u0b8e\u0bb5\u0bcd\u0baa\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/56/56c154dc.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130697",
-    "time_ut": 1656861433,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b89\u0b9f\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc6\u0ba9\u0b9f\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/a8/a82f1b7b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-receive-9-fuel-ships-between-july-august-96808/",
-    "time_ut": 1656861360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to receive 9 fuel ships between July-August",
-    "file_name": "/tmp/news_lk2/articles/4b/4b5d1b53.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-recieve-9-fuel-ships-between-july-august-96808/",
-    "time_ut": 1656861360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to recieve 9 fuel ships between July-August",
-    "file_name": "/tmp/news_lk2/articles/9d/9d3d09ea.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/two-cruise-ships-laid-up-in-sri-lankas-china-backed-hambantota-port-96822/",
-    "time_ut": 1656861360,
-    "original_lang": "en",
-    "original_title": "Two cruise ships laid up in Sri Lanka\u2019s China-backed Hambantota Port",
-    "file_name": "/tmp/news_lk2/articles/5b/5b3281b9.json"
   }
 ]
