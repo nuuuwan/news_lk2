@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 19:57:34 (LK time)*
+*As of 2022-07-07 20:02:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** virakesari-lk ([ஐஸ் போதைப்பொருளை கடத்த முயன்றவர் யாழ். நகரில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b3b56a.json))
+* **1** lankadeepa-lk ([පොලිසියේ ඉල්ලීම අධිකරණය බැහැ කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa9bd69b.json))
 
-* **1** lankadeepa-lk ([සෞඛ්‍ය කාර්ය මණ්ඩලයට ඉන්ධනදීම දින 2 ක් කල්යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19a3dd25.json))
+* **1** virakesari-lk ([ஐஸ் போதைப்பொருளை கடத்த முயன்றவர் யாழ். நகரில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b3b56a.json))
 
 ## Last Hour (5 Articles)
 
-* **2** lankadeepa-lk ([එජාප සභාපති  ඇමරිකා තානාපතිනිය හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb4644a8.json))
+* **3** lankadeepa-lk ([එජාප සභාපති  ඇමරිකා තානාපතිනිය හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25be23ce.json))
 
 * **1** virakesari-lk ([ஐஸ் போதைப்பொருளை கடத்த முயன்றவர் யாழ். நகரில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b3b56a.json))
 
 * **1** ada-derana-lk ([SLC officially hands over US$ 2 million to Sri Lanka’s health sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc844c26.json))
 
-* **1** tamil-mirror-lk ([“கோட்டா நீ போப்பா” : மனோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/533dfddd.json))
+## Last 3 Hours (28 Articles)
 
-## Last 3 Hours (27 Articles)
-
-* **8** lankadeepa-lk ([61 දී ශ්‍රී ලංකාවට වැරදුණු තැනින් පටන්ගත් සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ab0cde9.json))
+* **9** lankadeepa-lk ([61 දී ශ්‍රී ලංකාවට වැරදුණු තැනින් පටන්ගත් සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ab0cde9.json))
 
 * **5** virakesari-lk ([ஜனாதிபதி, பிரதமர் மற்றும் அரசாங்கத்தை பதவிவிலகக் கோரி யாழில் துவிச்சக்கர வண்டி பேரணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e7e3f1.json))
 
@@ -40,7 +38,7 @@
 
 * **46** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
 
-* **40** lankadeepa-lk ([දුම්රිය වර්ජනය අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bb470d3.json))
+* **40** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
 
 * **31** daily-mirror-lk ([FR challenging presidential pardon given to Sunil Ratnayake fixed for support](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e758bcc5.json))
 
@@ -62,9 +60,9 @@
 
 ## Last Week (1,715 Articles)
 
-* **349** virakesari-lk ([குருந்தூர் மலையில் அமைக்கப்பட்ட  விகாரை கட்டுமான பணி : பொலிசாரிடம் விளக்கம் கோரிய வழக்கு ஒத்திவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3003a4a0.json))
+* **348** virakesari-lk ([தலைப்பிறை தென்பட்டது : ஜூலை​ 10 ஆம் திகதி ஹஜ் பெருநாளைக் கொண்டாட தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73ea4aa3.json))
 
-* **259** lankadeepa-lk ([මහබැංකු අධිපතිට වසර හයක සේවා දිගුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6a0840b.json))
+* **260** lankadeepa-lk ([මහබැංකු අධිපතිට වසර හයක සේවා දිගුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6a0840b.json))
 
 * **193** ada-lk ([මංකොල්ල කෑ සියලු මුදල් අත්කර ගැනීමේ මෙහෙයුම් අරඹනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aebd4efa.json))
 
@@ -88,11 +86,11 @@
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,761 Articles)
+## All Time (3,762 Articles)
 
 * **685** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **590** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **591** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **460** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
