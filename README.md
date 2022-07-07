@@ -1,44 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 16:05:59 (LK time)*
+*As of 2022-07-07 16:10:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
 * **2** lankadeepa-lk ([කැසිනෝ හල් ගැන අලුත් තීරණයක් ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f83e36f6.json))
 
 * **2** daily-mirror-lk ([UK PM Johnson to resign on Today](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54671c09.json))
 
-* **2** news-first-lk ([Navy nabs seven for illegal migration in Talaimannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d4901b.json))
-
 * **1** ada-lk ([හිරුණිකාගේ ඉල්ලීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd6fd9.json))
 
 * **1** virakesari-lk ([9ம் திகதி தோட்டங்கள், வர்த்தகங்கள், அலுவலகங்கள் பணிபகிஷ்கரிப்பு - மனோ கணேசன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91fe9dfb.json))
 
-## Last 3 Hours (37 Articles)
+* **1** news-first-lk ([COPE concerned over Litro Gas tender](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/946916d9.json))
+
+## Last 3 Hours (33 Articles)
 
 * **7** lankadeepa-lk ([ඩීසල් හිඟයෙන් බහාලුම් රථත් නවතින ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81f10c30.json))
 
-* **7** virakesari-lk ([கொழும்பு - பம்பலப்பிட்டியில் எரிபொருளுக்காக காத்திருந்தவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f26ed61a.json))
+* **6** virakesari-lk ([வெதுப்பக உற்பத்திகளை தொடர்ந்தும் உற்பத்தி செய்ய முடியாத நிலை  யாழ் மாவட்ட வெதுப்பக உற்பத்தியாளர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6e42e7c.json))
 
-* **6** ada-lk ([ගමන් බලපත්‍ර පෝලිමේ දරු ප්‍රසූතියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44dccf90.json))
+* **5** ada-lk ([මේ අවස්ථාවේදි MCC ගිවිසුමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb75e720.json))
 
-* **6** news-first-lk ([Inflation can rise to 70%, warns CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/007b5728.json))
+* **5** news-first-lk ([Railway services to return to normal](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/050149d8.json))
 
 * **5** ada-derana-lk ([Two representatives from Russian oil company arrive in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc796974.json))
 
 * **3** daily-mirror-lk ([Two representatives of Russian Oil Company arrive in SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc804b3.json))
 
-* **2** economy-next-com ([World Food Programme providing emergency nutritional needs of three million Sri Lankans: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/383958f6.json))
-
 * **1** tamil-mirror-lk ([பதவி விலகுகிறார் பிரிட்டன் பிரதமர் போரிஸ் ஜான்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae85088.json))
 
-## Last 24 Hours (224 Articles)
+* **1** economy-next-com ([UK PM Boris Johnson to resign as Tory leader but continue as PM till autumn: BBC](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b23d0af.json))
+
+## Last 24 Hours (222 Articles)
 
 * **45** virakesari-lk ([ஒலுவில் துறைமுகத்தினை வினைத் திறனாக மாற்றுவதே எதிர்பார்ப்பு - அமைச்சர் டக்ளஸ் தேவானந்தா](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52d394f4.json))
 
-* **30** lankadeepa-lk ([‘‘කතාවෙන් කිව්වට කවුරුත් බාර නොගන්නේ ක්ෂණික විසඳුම් නැති නිසයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48200e5b.json))
+* **29** lankadeepa-lk ([‘‘කරන්න බැරිනම් දමල ගහල යා යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8235cf1.json))
 
 * **28** ada-lk ([ශ්‍රී ලංකාවේ සංචාරයට යන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/816c7c47.json))
 
@@ -48,7 +48,7 @@
 
 * **24** ada-derana-lk ([Health services chief warns of Covid-19 re-emergence](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff87132d.json))
 
-* **19** news-first-lk ([Sri Lanka seeks Credit Assistance from Russia to import fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/277a96fc.json))
+* **18** news-first-lk ([COPE wants Audit on Litro Purchases](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cbaab88.json))
 
 * **11** economy-next-com ([Sri Lanka prime minister tables parliamentary framework for bipartisan governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/828a1e54.json))
 
@@ -60,13 +60,13 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,715 Articles)
+## Last Week (1,712 Articles)
 
-* **354** virakesari-lk ([6 மாத காலத்தில் 5 முறை பஸ் கட்டணங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6809762a.json))
+* **353** virakesari-lk ([கத்தார் தொண்டு நிறுவனத்தின் மீதான தடை நீக்கம் - காஞ்சன](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7ef023d.json))
 
 * **245** lankadeepa-lk ([කටාර් චැරිටි අරමුදලට පනවා තිබූ තහනම ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49cfae21.json))
 
-* **196** ada-lk ([රුසියානු තානාපති විදේශ ඇමති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49d11552.json))
+* **195** ada-lk ([පාර්ලිමේන්තු රැස්වීම් දින 3කට සීමා කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97a5e9c7.json))
 
 * **177** daily-mirror-lk ([Court order against holding protest in Fort area](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b77b3394.json))
 
@@ -76,7 +76,7 @@
 
 * **137** news-first-lk ([Lanka IOC Tankers to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03188235.json))
 
-* **105** economy-next-com ([Crisis-hit Sri Lanka lifts ban on Qatar Charity as it tries to secure fuel supply from Doha](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4380f67.json))
+* **104** economy-next-com ([Sri Lanka to raise bus fares by 22 percent from midnight June 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21227d6.json))
 
 * **67** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
