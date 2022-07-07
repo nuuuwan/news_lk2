@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83487/exclusive-fuel-arrangements-for-healthcare-workers-to-be-deferred",
+    "time_ut": 1657192500,
+    "original_lang": "en",
+    "original_title": "Exclusive fuel arrangements for healthcare workers to be deferred",
+    "file_name": "/tmp/news_lk2/articles/bb/bbc64376.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-arrangement-for-Healthcare-workers-suspended-for-48-hours/108-240539",
+    "time_ut": 1657192126,
+    "original_lang": "en",
+    "original_title": "Fuel arrangement for Healthcare workers suspended for 48 hours",
+    "file_name": "/tmp/news_lk2/articles/f2/f2dd3224.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dbd\u0dca\u0dbd\u0dd2-\u0d85\u0da0\u0dca\u0da0\u0dd4-\u0d9c\u0dc4\u0dbd-\u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7-\u0db1\u0ddc\u0daf\u0dd4\u0db1\u0dca\u0db1\u0ddc\u0dad\u0dca-\u0dbb\u0da7\u0da7\u0db8-\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/101-616008",
     "time_ut": 1657191898,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/US-envoy-AKD-bonhomie-to-alleviate-concerns-on-American-matters/342-240538",
+    "url": "https://www.dailymirror.lk/breaking_news/US-envoy-AKD-bonhomie-to-alleviate-concerns-on-American-matters/108-240538",
     "time_ut": 1657191809,
     "original_lang": "en",
     "original_title": "US envoy, AKD bonhomie to alleviate concerns on American matters",
-    "file_name": "/tmp/news_lk2/articles/3b/3b67ecea.json"
+    "file_name": "/tmp/news_lk2/articles/f1/f117e461.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -65,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/FUTA-invites-people-for-July-9-gathering/342-240537",
+    "url": "https://www.dailymirror.lk/caption_story/FUTA-invites-people-for-July-9-gathering/110-240537",
     "time_ut": 1657190230,
     "original_lang": "en",
     "original_title": "FUTA invites people for July 9 gathering",
-    "file_name": "/tmp/news_lk2/articles/2a/2ac4d277.json"
+    "file_name": "/tmp/news_lk2/articles/7a/7a7e6775.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri has announces a week-long school holiday in face of a fuel crisis",
     "file_name": "/tmp/news_lk2/articles/e3/e398531d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130717",
-    "time_ut": 1656866559,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bc8 \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/21/21f2d62f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd0\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0db4\u0dcf\u0dbd\u0db1\u0dba-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0db4\u0dcf\u0dad\u0dcf\u0dbd\u0dba\u0dba\u0dd2/11-395062",
-    "time_ut": 1656866226,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd0\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db4\u0dcf\u0dad\u0dcf\u0dbd\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/76/76bf1c8e.json"
   }
 ]
