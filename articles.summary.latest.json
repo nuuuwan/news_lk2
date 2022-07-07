@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Korea-to-issue-E-7-visas-to-Lankan-workers/108-240545",
+    "time_ut": 1657197304,
+    "original_lang": "en",
+    "original_title": "Korea to issue E-7 visas to Lankan workers",
+    "file_name": "/tmp/news_lk2/articles/7a/7abf12f5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83490/police-chief-urges-public-to-act-responsibly-when-exercising-rights",
     "time_ut": 1657197300,
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-obstacles-for-peaceful-protests-IGP/342-240543",
+    "url": "https://www.dailymirror.lk/breaking_news/No-obstacles-for-peaceful-protests-IGP/108-240543",
     "time_ut": 1657196421,
     "original_lang": "en",
     "original_title": "No obstacles for peaceful protests: IGP",
-    "file_name": "/tmp/news_lk2/articles/98/9897363a.json"
+    "file_name": "/tmp/news_lk2/articles/5b/5b45efd0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -97,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Guarantee-uninterrupted-education-for-students/342-240542",
+    "url": "https://www.dailymirror.lk/caption_story/Guarantee-uninterrupted-education-for-students/110-240542",
     "time_ut": 1657194680,
     "original_lang": "en",
     "original_title": "Guarantee uninterrupted education for students",
-    "file_name": "/tmp/news_lk2/articles/e5/e5edb0c7.json"
+    "file_name": "/tmp/news_lk2/articles/fd/fd6ccd9e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -169,11 +177,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Heavy-traffic-due-to-fuel-queues-at-Kiruapona/342-240541",
+    "url": "https://www.dailymirror.lk/caption_story/Heavy-traffic-due-to-fuel-queues-at-Kiruapona/110-240541",
     "time_ut": 1657192874,
     "original_lang": "en",
     "original_title": "Heavy traffic due to fuel queues at Kiruapona",
-    "file_name": "/tmp/news_lk2/articles/1a/1acbbbff.json"
+    "file_name": "/tmp/news_lk2/articles/07/07ed66b2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Main suspect in Bastian Mawatha twin murders killed in police shootout",
     "file_name": "/tmp/news_lk2/articles/6a/6a3c5178.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83408/prevailing-windy-condition-expected-to-enhance-further",
-    "time_ut": 1656898320,
-    "original_lang": "en",
-    "original_title": "Prevailing windy condition expected to enhance further",
-    "file_name": "/tmp/news_lk2/articles/1f/1fc73e91.json"
   }
 ]
