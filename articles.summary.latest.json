@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Virtual-session-to-explore-trade-opportunities-in-Russia/34-737208",
+    "time_ut": 1657233941,
+    "original_lang": "en",
+    "original_title": "Virtual session to explore trade opportunities in Russia",
+    "file_name": "/tmp/news_lk2/articles/33/331cce4b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SriLankan-Airlines-says-operating-close-to-100-efficiency/34-737207",
+    "time_ut": 1657233851,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines says operating close to 100% efficiency",
+    "file_name": "/tmp/news_lk2/articles/1f/1f9bb10c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Two-Russian-representatives-arrive-in-SL-to-discuss-fuel-supply/34-737206",
+    "time_ut": 1657233745,
+    "original_lang": "en",
+    "original_title": "Two Russian representatives arrive in SL to discuss fuel supply",
+    "file_name": "/tmp/news_lk2/articles/45/45ddbc16.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/A-few-ways-forward-for-failed-sir-state-system-and-society/4-737198",
     "time_ut": 1657230028,
     "original_lang": "en",
@@ -126,6 +150,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc3\u0da7\u0db1 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dda \u0db1\u0dd1 - \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/aa/aa727784.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0b9f\u0bc0\u0bb5\u0bcd-\u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bcd-\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf/175-299934",
+    "time_ut": 1657214052,
+    "original_lang": "ta",
+    "original_title": "\u0bb8\u0bcd\u0b9f\u0bc0\u0bb5\u0bcd \u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/86/86bef3b8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0ddc\u0dba\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/fe/feb5fa97.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/76-299680",
-    "time_ut": 1656915990,
-    "original_lang": "ta",
-    "original_title": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b3/b3d9565a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankan-refugee-found-unconscious-on-Tamil-Nadu-shores-dies/108-240304",
-    "time_ut": 1656915705,
-    "original_lang": "en",
-    "original_title": "Sri Lankan refugee, found unconscious on Tamil Nadu shores, dies",
-    "file_name": "/tmp/news_lk2/articles/ad/adf924c4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db9\u0dd4\u0da7\u0db1\u0dca-\u0d87\u0da7\u0dba\u0d9a\u0dca-\u0dc3\u0dd2\u0dbb\u0dc0\u0dd3-\u0daf\u0dc3-\u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/1-615836",
-    "time_ut": 1656915638,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db9\u0dd4\u0da7\u0db1\u0dca \u0d87\u0da7\u0dba\u0d9a\u0dca \u0dc3\u0dd2\u0dbb\u0dc0\u0dd3 \u0daf\u0dc3 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/34/34019c8c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83415/kahatuduwa-house-fire-6-year-old-girl-succumbs-to-injuries",
-    "time_ut": 1656915180,
-    "original_lang": "en",
-    "original_title": "Kahatuduwa house fire: 6-year-old girl succumbs to injuries",
-    "file_name": "/tmp/news_lk2/articles/85/8593bf84.json"
   }
 ]

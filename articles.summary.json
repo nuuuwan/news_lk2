@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Virtual-session-to-explore-trade-opportunities-in-Russia/34-737208",
+    "time_ut": 1657233941,
+    "original_lang": "en",
+    "original_title": "Virtual session to explore trade opportunities in Russia",
+    "file_name": "/tmp/news_lk2/articles/33/331cce4b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SriLankan-Airlines-says-operating-close-to-100-efficiency/34-737207",
+    "time_ut": 1657233851,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines says operating close to 100% efficiency",
+    "file_name": "/tmp/news_lk2/articles/1f/1f9bb10c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Two-Russian-representatives-arrive-in-SL-to-discuss-fuel-supply/34-737206",
+    "time_ut": 1657233745,
+    "original_lang": "en",
+    "original_title": "Two Russian representatives arrive in SL to discuss fuel supply",
+    "file_name": "/tmp/news_lk2/articles/45/45ddbc16.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/A-few-ways-forward-for-failed-sir-state-system-and-society/4-737198",
     "time_ut": 1657230028,
     "original_lang": "en",
@@ -126,6 +150,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc3\u0da7\u0db1 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dda \u0db1\u0dd1 - \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/aa/aa727784.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0b9f\u0bc0\u0bb5\u0bcd-\u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bcd-\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf/175-299934",
+    "time_ut": 1657214052,
+    "original_lang": "ta",
+    "original_title": "\u0bb8\u0bcd\u0b9f\u0bc0\u0bb5\u0bcd \u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/86/86bef3b8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
