@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-court-rejects-police-request-to-prevent-protest-amid-massive-agitation-plan-97086/",
+    "time_ut": 1657209960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka court rejects police request to prevent protest amid massive agitation plan",
+    "file_name": "/tmp/news_lk2/articles/17/17ec566b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda-\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7\u0db8/1-616029",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda-\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8-\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7\u0db8/101-616029",
     "time_ut": 1657208978,
     "original_lang": "si",
     "original_title": "\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8 \u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7\u0db8",
-    "file_name": "/tmp/news_lk2/articles/54/54f4eaad.json"
+    "file_name": "/tmp/news_lk2/articles/6f/6f6d0a59.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -41,6 +49,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131010",
+    "time_ut": 1657208539,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/da/da816487.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131014",
     "time_ut": 1657208395,
     "original_lang": "ta",
@@ -73,11 +89,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/1-616028",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616028",
     "time_ut": 1657207398,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/39/3931a14b.json"
+    "file_name": "/tmp/news_lk2/articles/21/213db802.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bc2\u0bb0\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b95\u0bca\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/0c/0c1e8f51.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/lg-polls-after-20th-september/",
-    "time_ut": 1656909900,
-    "original_lang": "en",
-    "original_title": "LG Polls after 20th September?",
-    "file_name": "/tmp/news_lk2/articles/a4/a44bf2d1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/video-yupun-slams-sri-lankan-officials-for-zero-support/",
-    "time_ut": 1656909600,
-    "original_lang": "en",
-    "original_title": "(VIDEO) Yupun slams Sri Lankan officials for Zero Support",
-    "file_name": "/tmp/news_lk2/articles/2d/2da2b5c4.json"
   }
 ]
