@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 20:46:21 (LK time)*
+*As of 2022-07-07 20:50:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -22,13 +22,13 @@
 
 * **1** daily-mirror-lk ([Its Rambutan season](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c607bf62.json))
 
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (22 Articles)
 
 * **8** lankadeepa-lk ([ඉන්ධන ලීටරයක් රුපියල් 200 කින් අඩුකරන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e627592.json))
 
-* **4** virakesari-lk ([இலங்கை ரஷ்யாவிடம் எரிபொருள் பெறலாம் : இலங்கையில் இராணுவத் தளம் அமைக்கும் நோக்கம் அமெரிக்காவுக்கு இல்லை - ஜூலி சங்](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72f88b89.json))
-
 * **4** daily-mirror-lk ([No obstacles for peaceful protests: IGP](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b45efd0.json))
+
+* **3** virakesari-lk ([ஆர்ப்பாட்டம் நடாத்தலாம் - பொலிஸ் மா அதிபர் அறிவிப்பு ; சட்டத்தை மீறினால் பார்த்துக்கொண்டிருக்கப் போவதில்லை எனவும் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd7df87.json))
 
 * **3** ada-derana-lk ([Police chief urges public to act responsibly when exercising rights](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f39bf6c.json))
 
@@ -37,8 +37,6 @@
 * **1** tamil-mirror-lk ([“கோட்டா நீ போப்பா” : மனோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/533dfddd.json))
 
 * **1** news-first-lk ([UL dismisses reports of flight cancellations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a903b63.json))
-
-* **1** economy-next-com ([Sri Lanka government suspends fuel for health workers ahead of protest to oust President, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94ca63fe.json))
 
 ## Last 24 Hours (233 Articles)
 
