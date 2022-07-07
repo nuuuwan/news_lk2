@@ -1,11 +1,11 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0dbb\u0dae\u0dad\u0dca-\u0db1\u0dc0\u0dad\u0dd2\u0db1-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4/101-615996",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0dbb\u0dae\u0dad\u0dca-\u0db1\u0dc0\u0dad\u0dd2\u0db1-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4/1-615996",
     "time_ut": 1657181568,
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0dbb\u0dae\u0dad\u0dca \u0db1\u0dc0\u0dad\u0dd2\u0db1 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/17/175d94c0.json"
+    "file_name": "/tmp/news_lk2/articles/81/81f10c30.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -14,14 +14,6 @@
     "original_lang": "en",
     "original_title": "Two representatives of Russian Oil Company arrive in SL",
     "file_name": "/tmp/news_lk2/articles/8c/8cc804b3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130985",
-    "time_ut": 1657181177,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a1/a103b68f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -137,11 +129,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0d9a\u0db1\u0dca\u0dad\u0ddd\u0dbb\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0daf\u0dbb\u0dd4-\u0d8b\u0db4\u0dad\u0d9a\u0dca/101-615993",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0d9a\u0db1\u0dca\u0dad\u0ddd\u0dbb\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0daf\u0dbb\u0dd4-\u0d8b\u0db4\u0dad\u0d9a\u0dca/1-615993",
     "time_ut": 1657177516,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca \u0d9a\u0db1\u0dca\u0dad\u0ddd\u0dbb\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0daf\u0dbb\u0dd4 \u0d8b\u0db4\u0dad\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/d4/d4d3995a.json"
+    "file_name": "/tmp/news_lk2/articles/a0/a084c0e8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7998,5 +7990,13 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db8\u0dda \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0 \u0db4\u0db1\u0dca\u0db1\u0db1\u0dc0\u0dcf \u0dc4\u0dd0\u0dbb \u0dc0\u0dd9\u0db1 \u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca \u0db1\u0dd1\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/c1/c12d3e26.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130707",
+    "time_ut": 1656852655,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc7\u0b9f\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/9b/9bc75064.json"
   }
 ]
