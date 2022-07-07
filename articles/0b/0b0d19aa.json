@@ -1,0 +1,306 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-shares-edge-down-in-mid-day-trade-97070/",
+  "time_ut": 1657175340,
+  "original_lang": "en",
+  "original_title": "Sri Lanka shares edge down in mid-day trade",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka shares edge down in mid-day trade",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka stocks were marginally down in the first hour of trade on Thursday (07) on some positive sentiments as the policy rates were not hiked to expected levels.",
+        "The main All Share Price Index 0.45 per cent or 32.08 points to 7,085 at 1130 hours.",
+        "\u201cWe see a little stability in the market because the policy rates were only hiked by 100bps whereas the market expected it to be more but because of the major adjustment in auction yields and market yields it was limited,\u201d a top market analyst said.",
+        "\u201cTherefore now the market believes that the other rates too will adjust at a lower level.\u201d",
+        "The most liquid index S&P SL20 fell 0.47 percent or 10.55 points to 2,236.49.",
+        "Top losers were Sampath Bank, Ceylon Tobacco Company and HNB. (Colombo/Jul07/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "mid-day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the first hour",
+            "label": "TIME"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "07",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "All Share Price Index 0.45 per cent",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "32.08",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,085",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 hours",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "100bps",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "S&P",
+            "label": "ORG"
+          },
+          {
+            "text": "0.47 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10.55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,236.49",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Sampath Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "Ceylon Tobacco Company",
+            "label": "ORG"
+          },
+          {
+            "text": "HNB",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo/Jul07/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0db0\u0dca\u200d\u0dba \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0daf\u0dd3 \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dda",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db8\u0da7\u0dca\u0da7\u0db8\u0da7 \u0d89\u0dc4\u0dc5 \u0db1\u0ddc\u0daf\u0dd0\u0db8\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf (07) \u0daf\u0dd2\u0db1 \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd0\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd2.",
+        "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 0.45\u0d9a\u0dca \u0dc4\u0dd9\u0dc0\u0dad\u0dca \u0d92\u0d9a\u0d9a 32.08\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0db4\u0dd0\u0dba 1130 \u0da7 7,085\u0d9a\u0dca \u0dc0\u0dd2\u0dba.",
+        "\"\u0d85\u0db4\u0dd2 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda \u0dc3\u0dd4\u0dc5\u0dd4 \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0daf\u0d9a\u0dd2\u0db1\u0dca\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad 100bps \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0db8\u0dab\u0d9a\u0dca \u0d89\u0dc4\u0dc5 \u0db1\u0d82\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0d91\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0db1\u0dd4 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dc5 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0dc3\u0dc4 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0dd0\u0dbd\u0db4\u0dd4\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0d91\u0dba \u0dc3\u0dd3\u0db8\u0dd2\u0dad \u0dc0\u0dd2\u0dba,\" \u0d89\u0dc4\u0dc5 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\"\u0d91\u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3 \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0daf \u0d85\u0da9\u0dd4 \u0db8\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dd4 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.\"",
+        "\u0dc0\u0da9\u0dcf\u0dad\u0dca\u0db8 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dc1\u0dd3\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc0\u0db1 S&P SL20 \u0dc3\u0dd2\u0dba\u0dba\u0da7 0.47\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0ddd \u0d92\u0d9a\u0d9a 10.55\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca 2,236.49\u0d9a\u0dca \u0dc0\u0dd2\u0dba.",
+        "\u0d89\u0dc4\u0dc5\u0db8 \u0db4\u0dcf\u0da9\u0dd4 \u0dbd\u0dd0\u0db6\u0dd6\u0dc0\u0db1\u0dca \u0dc0\u0dd6\u0dba\u0dda \u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0, \u0dbd\u0d82\u0d9a\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0d9a\u0ddc\u0dc5 \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0dc4 HNB \u0dba. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 07/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0db8\u0dd0\u0daf \u0db7\u0dcf\u0d9c\u0dba\u0dda",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd0\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "07",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 0.45",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "32.08 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,085 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1130 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "100bps",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "S&P",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 0.47 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10.55 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,236.49 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dca\u0db4\u0dad\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0d9a\u0ddc\u0dc5 \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0da0\u0dca.\u0d91\u0db1\u0dca.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 07/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b85\u0bb3\u0bb5\u0bc1 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb2 \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd (07) \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 0.45 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 32.08 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd 1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 7,085.",
+        "\"\u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd, \u0b8f\u0ba9\u0bc6\u0ba9\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd 100bps \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9, \u0b85\u0ba4\u0bc7\u0b9a\u0bae\u0baf\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b8f\u0bb2 \u0bae\u0b95\u0b9a\u0bc2\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b87\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\"\u0b8e\u0ba9\u0bb5\u0bc7 \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.\"",
+        "\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 S&P SL20 0.47 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 10.55 \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 2,236.49 \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf, \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0b9a\u0bcd.\u0b8e\u0ba9\u0bcd.\u0baa\u0bbf. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc807/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "07",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 0.45 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "32.08",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,085",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1130 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "100bps",
+            "label": "DATE"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd&\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "0.47 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "10.55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2,236.49",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "HNB",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc807/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
