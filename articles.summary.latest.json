@@ -1,19 +1,35 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-7\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616003",
+    "time_ut": 1657188241,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba 7\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6e/6ee5a777.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Several-trains-cancelled-today/342-240536",
+    "time_ut": 1657188079,
+    "original_lang": "en",
+    "original_title": "Several trains cancelled today",
+    "file_name": "/tmp/news_lk2/articles/04/04abf1e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-PM-Johnson-to-resign-on-Today/108-240535",
+    "time_ut": 1657187998,
+    "original_lang": "en",
+    "original_title": "UK PM Johnson to resign on Today",
+    "file_name": "/tmp/news_lk2/articles/54/54671c09.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130993",
     "time_ut": 1657187712,
     "original_lang": "ta",
     "original_title": "9\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 - \u0bae\u0ba9\u0bcb \u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/91/91fe9dfb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/cope-concerned-over-litro-gas-tender/",
-    "time_ut": 1657187580,
-    "original_lang": "en",
-    "original_title": "COPE concerned over Litro Gas tender",
-    "file_name": "/tmp/news_lk2/articles/94/946916d9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -670,6 +686,14 @@
     "original_lang": "en",
     "original_title": "Rainfall likely on Thursday (7)",
     "file_name": "/tmp/news_lk2/articles/a0/a0011457.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62076514",
+    "time_ut": 1657167699,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da7\u0dcf\u0db7\u0dba \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dc5\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0db4\u0dad\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f6/f65b63e6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0ba4\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/70/70e1407a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130703",
-    "time_ut": 1656860884,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd 85 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/74/741ab915.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130695",
-    "time_ut": 1656860784,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd : \u0b9a\u0bbe\u0b95\u0bb0 \u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bb5\u0b9a\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/28/28dccd1b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130681",
-    "time_ut": 1656860265,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/a9/a9f15443.json"
   }
 ]
