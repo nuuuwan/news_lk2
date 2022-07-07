@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/e3/e3f76c29.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0d85\u0dc0\u0dd4--10\u0d9a\u0dca-\u0dc3\u0dda\u0dc0\u0dba-\u0d9a\u0dc5-\u0d85\u0dba\u0da7-E-7-\u0dc0\u0dd2\u0dc3\u0dcf-\u0daf\u0dd3\u0db8\u0da7-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba/11-395211",
+    "time_ut": 1657219095,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0dc0\u0dd4. 10\u0d9a\u0dca \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dc5 \u0d85\u0dba\u0da7 E 7 \u0dc0\u0dd2\u0dc3\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba",
+    "file_name": "/tmp/news_lk2/articles/33/33e8ab7a.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Pearl-in-tears-and-tatters-Fight-or-flight/4-737173",
     "time_ut": 1657219095,
@@ -185,11 +193,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Probe-the-huge-profit-margins-CPC-makes-on-imports-sales-of-fuel-PUCSL-Head/342-240552",
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-the-huge-profit-margins-CPC-makes-on-imports-sales-of-fuel-PUCSL-Head/108-240552",
     "time_ut": 1657208625,
     "original_lang": "en",
     "original_title": "Probe the huge profit margins CPC makes on imports, sales of fuel: PUCSL Head",
-    "file_name": "/tmp/news_lk2/articles/cd/cd804934.json"
+    "file_name": "/tmp/news_lk2/articles/6e/6eb2538b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
