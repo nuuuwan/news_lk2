@@ -1,30 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 02:44:43 (LK time)*
+*As of 2022-07-08 02:59:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
-* **3** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
+* **2** daily-ft-lk ([Overcoming ideological anarchy](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8286e2bf.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (7 Articles)
 
 * **5** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
 
-* **3** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2508e.json))
+* **1** daily-mirror-lk ([Rakna Arakshaka Lanka Limited now under Dhammika Perera](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54036502.json))
 
 * **1** ada-lk ([කොරියාවේ අවු. 10ක් සේවය කළ අයට E 7 විසා දීමට අවධානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33e8ab7a.json))
 
-## Last 24 Hours (249 Articles)
+## Last 24 Hours (247 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
-* **37** virakesari-lk ([இன்று பல மாகாணங்களில் மழை  பெய்யலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef77ccd5.json))
-
-* **34** daily-mirror-lk ([SL looks to Indian visitors to restore battered tourism sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43482ac2.json))
+* **38** virakesari-lk ([இன்று பல மாகாணங்களில் மழை  பெய்யலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef77ccd5.json))
 
 * **32** ada-lk ([මහ බැංකු පොලී අනුපාත ඉහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1373d56f.json))
+
+* **31** daily-mirror-lk ([Interruption to water supply in many parts of Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/229c61bd.json))
 
 * **27** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/885e0466.json))
 
@@ -38,9 +38,9 @@
 
 * **3** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
-## Last Week (1,732 Articles)
+## Last Week (1,733 Articles)
 
-* **354** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
+* **355** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
 * **260** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
@@ -66,9 +66,9 @@
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,816 Articles)
+## All Time (3,817 Articles)
 
-* **695** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **696** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **595** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
