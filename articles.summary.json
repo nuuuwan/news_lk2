@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/editorial/\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0--\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf-/117-616014",
+    "time_ut": 1657193190,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0  \u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/06/065b9e8e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd-\u0dc0\u0dbd\u0da7-\u0db6\u0daf\u0dd4-\u0d9c\u0dc4\u0db1\u0d9a\u0ddc\u0da7-\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7-\u0dbb\u0dd2\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0dca-\u0d87\u0dba\u0dd2-/1-616013",
+    "time_ut": 1657193059,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd \u0dc0\u0dbd\u0da7 \u0db6\u0daf\u0dd4 \u0d9c\u0dc4\u0db1\u0d9a\u0ddc\u0da7 \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7 \u0dbb\u0dd2\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0dca \u0d87\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/e6/e61e8558.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda-\u0dbd\u0ddc\u0d9a\u0dd4\u0db8-\u0dbd\u0dab\u0dd4\u0dc0-\u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0dba\u0dd2/1-616012",
+    "time_ut": 1657192997,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0dbd\u0ddc\u0d9a\u0dd4\u0db8 \u0dbd\u0dab\u0dd4\u0dc0 \u0d9a\u0dcf\u0db6\u0db1\u0dd2\u0d9a \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ce/ce3440d9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Heavy-traffic-due-to-fuel-queues-at-Kiruapona/342-240541",
+    "time_ut": 1657192874,
+    "original_lang": "en",
+    "original_title": "Heavy traffic due to fuel queues at Kiruapona",
+    "file_name": "/tmp/news_lk2/articles/1a/1acbbbff.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0db8\u0d82\u0d9a\u0da9-\u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2/1-616011",
+    "time_ut": 1657192862,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0db8\u0d82\u0d9a\u0da9 \u0dc0\u0dd0\u0dc4\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c3/c3657179.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Mahinda-Samarasinghe-meets-Antony-Blinken/110-240540",
+    "time_ut": 1657192829,
+    "original_lang": "en",
+    "original_title": "Mahinda Samarasinghe meets Antony Blinken",
+    "file_name": "/tmp/news_lk2/articles/f5/f5af9673.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1/1-616010",
+    "time_ut": 1657192607,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/a6/a681e09b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83487/exclusive-fuel-arrangements-for-healthcare-workers-to-be-deferred",
     "time_ut": 1657192500,
@@ -8,12 +64,28 @@
     "file_name": "/tmp/news_lk2/articles/bb/bbc64376.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131001",
+    "time_ut": 1657192426,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0bae\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/7a/7a700c27.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dad\u0dca-\u0dc3\u0dd2\u0dba-\u0dc4\u0dd0\u0da7\u0d9a\u0da7-\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0-\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0db7\u0dcf\u0dc0\u0dba/1-616009",
+    "time_ut": 1657192353,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dad\u0dca \u0dc3\u0dd2\u0dba \u0dc4\u0dd0\u0da7\u0d9a\u0da7 \u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0db7\u0dcf\u0dc0\u0dba",
+    "file_name": "/tmp/news_lk2/articles/cf/cffadb95.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Fuel-arrangement-for-Healthcare-workers-suspended-for-48-hours/108-240539",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-arrangement-for-Healthcare-workers-suspended-for-48-hours/342-240539",
     "time_ut": 1657192126,
     "original_lang": "en",
     "original_title": "Fuel arrangement for Healthcare workers suspended for 48 hours",
-    "file_name": "/tmp/news_lk2/articles/f2/f2dd3224.json"
+    "file_name": "/tmp/news_lk2/articles/6d/6da35a4f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -24,20 +96,44 @@
     "file_name": "/tmp/news_lk2/articles/e8/e869f156.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130999",
+    "time_ut": 1657191842,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/21/211cbcd7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/US-envoy-AKD-bonhomie-to-alleviate-concerns-on-American-matters/108-240538",
+    "url": "https://www.dailymirror.lk/latest_news/US-envoy-AKD-bonhomie-to-alleviate-concerns-on-American-matters/342-240538",
     "time_ut": 1657191809,
     "original_lang": "en",
     "original_title": "US envoy, AKD bonhomie to alleviate concerns on American matters",
-    "file_name": "/tmp/news_lk2/articles/f1/f117e461.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3b67ecea.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dbd-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0d9c\u0dcf-\u0d9a\u0dc5-\u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-616007",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dbd-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0d9c\u0dcf-\u0d9a\u0dc5-\u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-616007",
     "time_ut": 1657191632,
     "original_lang": "si",
     "original_title": "\u0dba\u0dbd \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc0\u0d9c\u0dcf \u0d9a\u0dc5 \u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3e/3e791edb.json"
+    "file_name": "/tmp/news_lk2/articles/1e/1eca1c60.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/103-indian-train-compartments-not-in-use-copa/",
+    "time_ut": 1657191240,
+    "original_lang": "en",
+    "original_title": "103 Indian train compartments NOT in use \u2013 COPA",
+    "file_name": "/tmp/news_lk2/articles/ae/aee5a307.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/court-rejects-police-request-on-protests-planned-for-8th-9th-july/",
+    "time_ut": 1657190940,
+    "original_lang": "en",
+    "original_title": "Court rejects police request on protests planned for 8th & 9th July",
+    "file_name": "/tmp/news_lk2/articles/39/399e6d88.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -97,11 +193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0dad\u0dca-\u0dc3\u0da7\u0db1\u0da7-\u0db6\u0dc3\u0dd2\u0dad\u0dd2/101-616005",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0dad\u0dca-\u0dc3\u0da7\u0db1\u0da7-\u0db6\u0dc3\u0dd2\u0dad\u0dd2/1-616005",
     "time_ut": 1657189909,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0dad\u0dca \u0dc3\u0da7\u0db1\u0da7 \u0db6\u0dc3\u0dd2\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e8/e8b5d727.json"
+    "file_name": "/tmp/news_lk2/articles/ae/ae216e43.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -630,6 +726,14 @@
     "original_lang": "en",
     "original_title": "Woman goes into labor while in queue for passports",
     "file_name": "/tmp/news_lk2/articles/ba/ba5c7209.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62047694",
+    "time_ut": 1657173395,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0dc4\u0dc5 \u0dba\u0db1 \u0db8\u0d9c\u0dd3 \u0db0\u0dcf\u0dbb\u0dd3\u0dad\u0dcf\u0dc0 \u0daf\u0dd0\u0dbb\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/1a/1ac6a2a0.json"
   },
   {
     "newspaper_id": "news-first-lk",
