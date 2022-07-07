@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 16:44:41 (LK time)*
+*As of 2022-07-07 16:46:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** lankadeepa-lk ([අර්බුදයට හේතුව  රජය ජනතාව රැවටීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/345cba44.json))
-
-* **2** ada-derana-lk ([Court rejects police request against protests in vicinity of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5873904.json))
-
-* **1** virakesari-lk ([அரசுக்கு எதிராக இன்று பல ஆர்ப்பாட்டங்கள் பொதுமக்களால் முன்னெடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/211cbcd7.json))
+* **3** lankadeepa-lk ([අර්බුදයට හේතුව  රජය ජනතාව රැවටීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/345cba44.json))
 
 * **1** daily-mirror-lk ([US envoy, AKD bonhomie to alleviate concerns on American matters](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b67ecea.json))
 
 ## Last Hour (12 Articles)
 
-* **3** virakesari-lk ([மட்டக்களப்பில் பெண் பொலிஸ் மீது பாலியல் தொல்லை ; பொலிஸ் உத்தியோகத்தருக்கு 14 நாட்கள் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3abec3d6.json))
-
-* **3** lankadeepa-lk ([විශ්වවිද්‍යාල ආචාර්යවරුත් සටනට බසිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b5d727.json))
+* **4** lankadeepa-lk ([විශ්වවිද්‍යාල ආචාර්යවරුත් සටනට බසිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b5d727.json))
 
 * **2** daily-mirror-lk ([FUTA invites people for July 9 gathering](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2ac4d277.json))
 
 * **2** ada-derana-lk ([Court rejects police request against protests in vicinity of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5873904.json))
+
+* **2** virakesari-lk ([மட்டக்களப்பில் பெண் பொலிஸ் மீது பாலியல் தொல்லை ; பொலிஸ் உத்தியோகத்தருக்கு 14 நாட்கள் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3abec3d6.json))
 
 * **1** news-first-lk ([Private Members Bills on Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dda7f00.json))
 
@@ -30,9 +26,9 @@
 
 ## Last 3 Hours (39 Articles)
 
-* **9** lankadeepa-lk ([දුවන්න බැරි කෝච්චි පෙට්ටි එකසිය තුනක් ඉන්දියාවෙන් ගෙන්වලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/344dfd95.json))
+* **10** lankadeepa-lk ([දුවන්න බැරි කෝච්චි පෙට්ටි එකසිය තුනක් ඉන්දියාවෙන් ගෙන්වලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/344dfd95.json))
 
-* **7** virakesari-lk ([இலங்கையின் பொருளாதார நெருக்கடிக்கு சீனாவின் கடன்பொறியே காரணம் - தாய்வான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86122a06.json))
+* **6** virakesari-lk ([இலங்கையின் பொருளாதார நெருக்கடிக்கு சீனாவின் கடன்பொறியே காரணம் - தாய்வான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86122a06.json))
 
 * **6** ada-lk ([මේ අවස්ථාවේදි MCC ගිවිසුමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb75e720.json))
 
@@ -46,11 +42,11 @@
 
 * **1** economy-next-com ([UK PM Boris Johnson to resign as Tory leader but continue as PM till autumn: BBC](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b23d0af.json))
 
-## Last 24 Hours (227 Articles)
+## Last 24 Hours (226 Articles)
 
-* **48** virakesari-lk ([ஒலுவில் துறைமுகத்தினை வினைத் திறனாக மாற்றுவதே எதிர்பார்ப்பு - அமைச்சர் டக்ளஸ் தேவானந்தா](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52d394f4.json))
+* **47** virakesari-lk ([ஒலுவில் துறைமுகத்தினை வினைத் திறனாக மாற்றுவதே எதிர்பார்ப்பு - அமைச்சர் டக்ளஸ் தேவானந்தா](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52d394f4.json))
 
-* **30** lankadeepa-lk ([ජීවිත ආරක්ෂාව තකා එස්.එම්ලා සේවයෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88d1b332.json))
+* **30** lankadeepa-lk ([අඩු ටෙන්ඩරය අහෝසි කර වැඩි මිලට ගෑස් අරන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16fb8171.json))
 
 * **28** tamil-mirror-lk ([ஹிருணிக்கா பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef70332e.json))
 
@@ -74,9 +70,9 @@
 
 ## Last Week (1,714 Articles)
 
-* **352** virakesari-lk ([கந்தப்பளையில் ஆலய உண்டியல் உடைக்கப்பட்டு பணம் திருட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94c7866.json))
+* **351** virakesari-lk ([கந்தப்பளையில் ஆலய உண்டியல் உடைக்கப்பட்டு பணம் திருட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f94c7866.json))
 
-* **247** lankadeepa-lk ([ඇමෙරිකානු තානාපතිනියගෙන් ජනපතිට තවත් පොරොන්දුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e95ce69.json))
+* **248** lankadeepa-lk ([ඇමෙරිකානු තානාපතිනියගෙන් ජනපතිට තවත් පොරොන්දුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e95ce69.json))
 
 * **195** ada-lk ([මහින්ද රෝහල්ගත කර ඇති කථාව අසත්‍යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23846327.json))
 
@@ -102,9 +98,9 @@
 
 ## All Time (3,716 Articles)
 
-* **679** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **678** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **575** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **576** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **459** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
