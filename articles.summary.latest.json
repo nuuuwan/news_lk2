@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Solutions-to-the-foreign-exchange-crisis/4-737196",
+    "time_ut": 1657227746,
+    "original_lang": "en",
+    "original_title": "Solutions to the foreign exchange crisis",
+    "file_name": "/tmp/news_lk2/articles/81/81de0360.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Why-Sri-Lanka-s-economic-policy-trajectory-must-change/4-737195",
     "time_ut": 1657226446,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0ddc\u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/64/64213b56.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/2-615834",
-    "time_ut": 1656914854,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e75c7ea7.json"
   }
 ]
