@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 05:11:57 (LK time)*
+*As of 2022-07-08 05:26:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last Hour (2 Articles)
 
-* **6** daily-ft-lk ([Two Russian representatives arrive in SL to discuss fuel supply](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45ddbc16.json))
+* **2** daily-ft-lk ([Catastrophic health disaster imminent warns GMPA](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8748ced0.json))
 
 ## Last 3 Hours (8 Articles)
 
 * **8** daily-ft-lk ([Solutions to the foreign exchange crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81de0360.json))
 
-## Last 24 Hours (247 Articles)
+## Last 24 Hours (251 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
@@ -24,7 +24,7 @@
 
 * **27** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/885e0466.json))
 
-* **25** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
+* **26** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
 
 * **23** news-first-lk ([Sri Lanka further tightens Monetary Policy Stance](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1328f2d.json))
 
@@ -32,9 +32,11 @@
 
 * **11** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
+* **3** island-lk ([Inflation likely to hit 70 per cent soon but would return to single digits in medium term- CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc69fa2c.json))
+
 * **3** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
-## Last Week (1,744 Articles)
+## Last Week (1,749 Articles)
 
 * **356** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -44,7 +46,7 @@
 
 * **187** daily-mirror-lk ([Japan will not help SL now](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b3fd1a9.json))
 
-* **155** tamil-mirror-lk ([கந்தக்காடு விரையும் மனித உரிமைகள் ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b621ae2d.json))
+* **156** tamil-mirror-lk ([கந்தக்காடு விரையும் மனித உரிமைகள் ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b621ae2d.json))
 
 * **155** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
@@ -52,9 +54,9 @@
 
 * **105** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
-* **80** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+* **77** daily-ft-lk ([Trapped in a cycle of debt](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a32cb3ad.json))
 
-* **51** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
+* **58** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
 * **31** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
@@ -62,7 +64,7 @@
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,828 Articles)
+## All Time (3,836 Articles)
 
 * **697** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -72,7 +74,7 @@
 
 * **406** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **366** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **367** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **310** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -82,7 +84,7 @@
 
 * **184** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **135** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **142** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **61** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 

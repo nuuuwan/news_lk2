@@ -136,12 +136,36 @@
     "file_name": "/tmp/news_lk2/articles/b2/b2b2508e.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/acorn-travels-opens-new-branch-in-kurunegala/",
+    "time_ut": 1657217520,
+    "original_lang": "en",
+    "original_title": "Acorn Travels opens new branch in Kurunegala",
+    "file_name": "/tmp/news_lk2/articles/b2/b269f57f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-to-empower-luxury-living-for-residents-of-nem-construction-project/",
+    "time_ut": 1657217340,
+    "original_lang": "en",
+    "original_title": "SLT-MOBITEL to empower luxury living for residents of NEM Construction project",
+    "file_name": "/tmp/news_lk2/articles/fe/feac8d23.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dda-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a-\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1-\u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba-\u0daf\u0d9a\u0dd2\u0dba\u0dd2/3-395209",
     "time_ut": 1657217313,
     "original_lang": "si",
     "original_title": "\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba \u0daf\u0d9a\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/a7/a7d05721.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/inflation-likely-to-hit-70-per-cent-soon-but-would-return-to-single-digits-in-medium-term-cbsl-governor/",
+    "time_ut": 1657217220,
+    "original_lang": "en",
+    "original_title": "Inflation likely to hit 70 per cent soon but would return to single digits in medium term- CBSL Governor",
+    "file_name": "/tmp/news_lk2/articles/dc/dc69fa2c.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -174,6 +198,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc3\u0da7\u0db1 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dda \u0db1\u0dd1 - \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/aa/aa727784.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0b89\u0ba4\u0bb5\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0ba4\u0bc1/175-299935",
+    "time_ut": 1657214486,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd \u0b89\u0ba4\u0bb5\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0ba4\u0bc1\u2019",
+    "file_name": "/tmp/news_lk2/articles/9b/9b590531.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2432,6 +2464,14 @@
     "file_name": "/tmp/news_lk2/articles/69/692977a9.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hope-and-political-changeno-more-appachis-to-the-rescue/",
+    "time_ut": 1657116780,
+    "original_lang": "en",
+    "original_title": "Hope and political change:No more Appachis to the rescue",
+    "file_name": "/tmp/news_lk2/articles/0a/0a62c54c.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0daf\u0dd9\u0dc3\u0da7-\u0d91\u0dbd\u0dca\u0dbd-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-395175",
     "time_ut": 1657116016,
@@ -2464,12 +2504,28 @@
     "file_name": "/tmp/news_lk2/articles/f9/f90d1bdd.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/seylan-bank-takes-the-lead-to-promote-lanka-qr-beyond-western-province/",
+    "time_ut": 1657115340,
+    "original_lang": "en",
+    "original_title": "Seylan Bank takes the lead to promote LANKA QR beyond Western Province",
+    "file_name": "/tmp/news_lk2/articles/ae/aecac2dd.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130946",
     "time_ut": 1657115284,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bb0\u0ba3\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/40/4018c16c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/stylish-garments-unveils-its-latest-export-oriented-boi-factory-in-ambalangoda/",
+    "time_ut": 1657115280,
+    "original_lang": "en",
+    "original_title": "Stylish Garments unveils its latest export-oriented BOI factory in Ambalangoda",
+    "file_name": "/tmp/news_lk2/articles/f7/f7a42e0e.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2486,6 +2542,14 @@
     "original_lang": "en",
     "original_title": "Production loss in Sri Lanka buoys demand for Indian tea",
     "file_name": "/tmp/news_lk2/articles/68/68f6fe38.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/browns-investments-solar-power-plant-deal-dominates-cse-trading/",
+    "time_ut": 1657115100,
+    "original_lang": "en",
+    "original_title": "Browns Investments solar power plant deal dominates CSE trading",
+    "file_name": "/tmp/news_lk2/articles/b1/b1c92e09.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
