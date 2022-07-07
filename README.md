@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 23:18:36 (LK time)*
+*As of 2022-07-07 23:29:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,9 +10,9 @@
 
 * **1** ada-derana-lk ([Rakna Arakshaka Lanka among 3 institutions brought under Investment Promotion Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7e71c99.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (23 Articles)
 
-* **7** virakesari-lk ([யாழில் 300 லீற்றர் டீசலை பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c8db4f.json))
+* **6** virakesari-lk ([மிருசுவில் படுகொலையாளிக்கு மன்னிப்பு : 4 உரிமை மீறல் மனுக்களை ஆகஸ்ட்டில் பரிசீலிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc95405a.json))
 
 * **5** daily-mirror-lk ([Implement proposals forwarded by Maha Sangha](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c348a42e.json))
 
@@ -20,11 +20,11 @@
 
 * **3** ada-derana-lk ([Duration for lodging complaints on property damage during unrest extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d29727bc.json))
 
-* **2** ada-lk ([කොවිඩ් ආසාදිතයන්ගේ තරමක වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20520bae.json))
-
 * **2** lankadeepa-lk ([පානදුර දුම්රිය ස්ථානාධිපති කාර්යාලයට ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3931a14b.json))
 
 * **2** news-first-lk ([Former Bribery DG goes to court against Ex-Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86f9143b.json))
+
+* **1** ada-lk ([දේපළ හානි පිළිබඳ පැමිණිලි භාර ගැනීමේ කාලය දිගු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1888b18d.json))
 
 ## Last 24 Hours (236 Articles)
 
@@ -50,7 +50,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,720 Articles)
+## Last Week (1,719 Articles)
 
 * **351** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -62,7 +62,7 @@
 
 * **156** ada-derana-lk ([Parliament to convene on three days next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a74653f.json))
 
-* **155** tamil-mirror-lk ([ஐ.எம்.எப்  பணியாளர் மட்டத்திலான உடன்படிக்கை விரைவில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d68fa1a6.json))
+* **154** tamil-mirror-lk ([நீண்டகால திட்டங்கள் அவசியம்: குவைட் தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ed4030e.json))
 
 * **136** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
