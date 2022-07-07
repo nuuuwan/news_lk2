@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 01:10:22 (LK time)*
+*As of 2022-07-08 01:26:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **1** daily-mirror-lk ([Rakna Arakshaka Lanka Limited now under Dhammika Perera](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54036502.json))
-
-* **1** daily-ft-lk ([Transforming cities in the age of climate change](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3f76c29.json))
 
 ## Last 3 Hours (14 Articles)
 
@@ -22,7 +16,7 @@
 
 * **1** ada-derana-lk ([Rakna Arakshaka Lanka among 3 institutions brought under Investment Promotion Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7e71c99.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (249 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
@@ -36,7 +30,7 @@
 
 * **23** news-first-lk ([Sri Lanka further tightens Monetary Policy Stance](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1328f2d.json))
 
-* **21** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
+* **22** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
 
 * **13** daily-ft-lk ([Hirunika and 11 others arrested for protesting against President granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a603cc2.json))
 
@@ -46,19 +40,19 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,728 Articles)
+## Last Week (1,729 Articles)
 
 * **353** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
 * **260** lankadeepa-lk ([නිරිතදිග මෝසම් සක්‍රීය වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb949cda.json))
 
-* **203** ada-lk ([මහ බැංකු අධිපතිගේ කාලය තවත් වසර 6කට දිගු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68168417.json))
+* **202** ada-lk ([ජුනි මස කොළඹ උද්ධමනය සියයට 54.6ක් දක්වා ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b08b1d1.json))
 
 * **189** daily-mirror-lk ([Some mill owners sell imported rice under local brands - Dudley Sirisena](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19b131bf.json))
 
 * **155** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
-* **151** tamil-mirror-lk ([கந்தக்காடு விரையும் மனித உரிமைகள் ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b621ae2d.json))
+* **152** tamil-mirror-lk ([கந்தக்காடு விரையும் மனித உரிமைகள் ஆணைக்குழு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b621ae2d.json))
 
 * **136** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
@@ -68,13 +62,13 @@
 
 * **51** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
-* **30** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
+* **31** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
 * **15** b-b-c-com-sinhala ([''පොලීසියට යට ඇඳුම හැර අනෙක් සේරම දෙන්නේ අපේ මිනිස්සු. නීතිය අවනීතිය කරන්න එපා.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8646bab.json))
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,808 Articles)
+## All Time (3,810 Articles)
 
 * **694** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -84,7 +78,7 @@
 
 * **405** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **362** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **363** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **310** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
@@ -96,7 +90,7 @@
 
 * **135** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **60** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **61** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **47** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
