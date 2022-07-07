@@ -1,32 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 23:49:37 (LK time)*
+*As of 2022-07-08 00:00:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **5** ada-lk ([රුසියාව තවමත් සටන ආරම්භ කළේ නෑ - පූටින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa727784.json))
+* **4** ada-lk ([යුක්රේනය මුල් කරගෙන සීතල යුද වෑයමක් - චීනය](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f62f5630.json))
 
 ## Last Hour (5 Articles)
 
 * **5** ada-lk ([රුසියාව තවමත් සටන ආරම්භ කළේ නෑ - පූටින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa727784.json))
 
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (24 Articles)
 
 * **7** virakesari-lk ([குற்றம் நடந்தால் நிலைமை மோசமாகும் எனf; கூறி 9 ஆம் திகதி ஆர்ப்பாட்டங்களை தடை செய்ய கோரிக்கை ; நீதிமன்றம் மறுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f741af0d.json))
 
 * **6** ada-lk ([දේපළ හානි පිළිබඳ පැමිණිලි භාර ගැනීමේ කාලය දිගු කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1888b18d.json))
 
-* **4** economy-next-com ([Sri Lanka shares end down after central bank raised policy rates to 21-year high](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14bb0ed0.json))
-
-* **4** daily-mirror-lk ([Living life...not easy](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce1fc115.json))
-
 * **3** ada-derana-lk ([Duration for lodging complaints on property damage during unrest extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d29727bc.json))
 
-* **2** lankadeepa-lk ([පානදුර දුම්රිය ස්ථානාධිපති කාර්යාලයට ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3931a14b.json))
+* **3** economy-next-com ([Sri Lanka central bank guidance peg down 1 rupee; CB raises rates by 100 bps](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc66a472.json))
+
+* **2** daily-mirror-lk ([Probe the huge profit margins CPC makes on imports, sales of fuel: PUCSL Head](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd804934.json))
 
 * **2** news-first-lk ([Former Bribery DG goes to court against Ex-Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86f9143b.json))
+
+* **1** lankadeepa-lk ([බම්බලපිටියේ තෙල් පෝලිම කොල්ලුපිටියටම](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f6d0a59.json))
 
 ## Last 24 Hours (242 Articles)
 
