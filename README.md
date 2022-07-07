@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 04:39:19 (LK time)*
+*As of 2022-07-08 04:49:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **6** daily-ft-lk ([Two Russian representatives arrive in SL to discuss fuel supply](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45ddbc16.json))
+* **3** daily-ft-lk ([Canadian High Commissioner calls on President; McKinnon expresses support](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d5c64a.json))
 
 ## Last Hour (6 Articles)
 
@@ -16,7 +16,7 @@
 
 * **11** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (251 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
@@ -32,7 +32,7 @@
 
 * **23** news-first-lk ([Sri Lanka further tightens Monetary Policy Stance](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1328f2d.json))
 
-* **19** daily-ft-lk ([The one truly serious political problem in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6446f717.json))
+* **17** daily-ft-lk ([From carbon to climate: Sri Lanka’s iconic sustainability advisory enters new phase](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb4e1f31.json))
 
 * **11** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
