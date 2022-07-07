@@ -1,22 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 02:12:02 (LK time)*
+*As of 2022-07-08 02:20:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **3** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
+
+## Last Hour (3 Articles)
+
+* **3** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
+
+## Last 3 Hours (14 Articles)
 
 * **6** ada-lk ([රුසියාව තවමත් සටන ආරම්භ කළේ නෑ - පූටින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa727784.json))
 
+* **5** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
+
 * **3** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2b2508e.json))
 
-* **2** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
-
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (252 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
-* **38** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61877b2c.json))
+* **37** daily-mirror-lk ([Govt.’s undelivered promises and the plight of people](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/826e8b00.json))
 
 * **37** virakesari-lk ([இன்று பல மாகாணங்களில் மழை  பெய்யலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef77ccd5.json))
 
@@ -28,7 +36,7 @@
 
 * **22** tamil-mirror-lk ([’பதவி எந்நேரத்திலும் பறிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be40c771.json))
 
-* **13** daily-ft-lk ([Hirunika and 11 others arrested for protesting against President granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a603cc2.json))
+* **16** daily-ft-lk ([Hirunika and 11 others arrested for protesting against President granted bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a603cc2.json))
 
 * **11** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
@@ -36,7 +44,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,728 Articles)
+## Last Week (1,731 Articles)
 
 * **354** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -54,7 +62,7 @@
 
 * **105** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
-* **69** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
+* **72** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
 * **51** island-lk ([Lanka IOC stocks elevate bourse to positive territory](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a48102.json))
 
@@ -64,7 +72,7 @@
 
 * **11** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,812 Articles)
+## All Time (3,815 Articles)
 
 * **695** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -82,7 +90,7 @@
 
 * **204** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **173** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **176** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **135** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 

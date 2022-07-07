@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Why-Sri-Lanka-s-economic-policy-trajectory-must-change/4-737195",
+    "time_ut": 1657226446,
+    "original_lang": "en",
+    "original_title": "Why Sri Lanka\u2019s economic policy trajectory must change",
+    "file_name": "/tmp/news_lk2/articles/77/7721ee96.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Overcoming-ideological-anarchy/4-737194",
+    "time_ut": 1657226041,
+    "original_lang": "en",
+    "original_title": "Overcoming ideological anarchy",
+    "file_name": "/tmp/news_lk2/articles/82/8286e2bf.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Failure-is-contagious-Sri-Lanka-runs-risk-of-imprinting-multiple-generations-with-failure-contagion/4-737193",
+    "time_ut": 1657225634,
+    "original_lang": "en",
+    "original_title": "Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion",
+    "file_name": "/tmp/news_lk2/articles/cb/cb0e842d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Rakna-Arakshaka-Lanka-Limited-now-under-Dhammika-Perera/108-240558",
     "time_ut": 1657219890,
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/4b/4b1eff74.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dd6\u0da0\u0dd2-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca/101-615831",
-    "time_ut": 1656914524,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dd6\u0da0\u0dd2 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c2/c2579749.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Main-suspect-in-Bastian-Mawatha-shooting-killed-in-police-confrontation/108-240303",
-    "time_ut": 1656914186,
-    "original_lang": "en",
-    "original_title": "Main suspect in Bastian Mawatha shooting killed in police confrontation",
-    "file_name": "/tmp/news_lk2/articles/af/af51619b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-19\u0d9a-\u0dbb\u0db1\u0dca-\u0dc4\u0dcf-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395071",
-    "time_ut": 1656914112,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 19\u0d9a \u0dbb\u0db1\u0dca \u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/67/67234e51.json"
   }
 ]
