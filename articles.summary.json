@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130971",
+    "time_ut": 1657174716,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bbac2d40.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b93\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-299900",
+    "time_ut": 1657174503,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b93\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/db/db56e07b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db0\u0dcf\u0dc0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dba\u0dc5\u0dd2-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca-\u0d85\u0dbb\u0db9\u0dad\u0dd2/101-615989",
+    "time_ut": 1657174367,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db0\u0dcf\u0dc0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd \u0dba\u0dc5\u0dd2 \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca \u0d85\u0dbb\u0db9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2a/2ae3fe69.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/woman-goes-into-labor-while-in-queue-for-passports/",
+    "time_ut": 1657173900,
+    "original_lang": "en",
+    "original_title": "Woman goes into labor while in queue for passports",
+    "file_name": "/tmp/news_lk2/articles/ba/ba5c7209.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/water-cut-for-several-areas-in-colombo-2/",
+    "time_ut": 1657172760,
+    "original_lang": "en",
+    "original_title": "Water Cut for several areas in Colombo",
+    "file_name": "/tmp/news_lk2/articles/1b/1b14a3b3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Mother-delivers-baby-while-waiting-in-passport-queue/108-240530",
     "time_ut": 1657172581,
@@ -54,6 +94,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/70/7083011e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/long-queues-for-fuel-at-lioc-filling-stations/",
+    "time_ut": 1657171200,
+    "original_lang": "en",
+    "original_title": "Long queues for fuel at LIOC filling stations",
+    "file_name": "/tmp/news_lk2/articles/e6/e6e7a09e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
