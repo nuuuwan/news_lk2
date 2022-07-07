@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 12:48:30 (LK time)*
+*As of 2022-07-07 12:57:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** lankadeepa-lk ([පාස්පෝට් කන්තෝරුවේදී දරු උපතක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4d3995a.json))
 
-* **1** virakesari-lk ([நாட்டை விட்டு தப்பிச்செல்ல முயன்ற மேலும் 7 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/715a542a.json))
+## Last Hour (9 Articles)
 
-* **1** ada-derana-lk ([Sri Lanka’s headline inflation may rise to 70% - CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9d696e1.json))
-
-## Last Hour (13 Articles)
-
-* **4** virakesari-lk ([இலங்கைக்கான புதிய உயர்ஸ்தானிகரை நியமித்தார் அவுஸ்திரேலிய வெளிவிவகார அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbac2d40.json))
-
-* **3** ada-lk ([ධනංජයට සහ වැන්ඩර්සේට කොවිඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff497973.json))
+* **3** virakesari-lk ([பணவீக்கம் 70 வீதமாக அதிகரிக்கலாம்-மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0de4b2e.json))
 
 * **2** lankadeepa-lk ([කොටුවෙන් - මරදානෙන් දුම්රිය ස්ථානාධිපති ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e6e1e8e.json))
 
-* **2** economy-next-com ([Sri Lanka’s CEB price hike delayed, affecting CPC and monetary policy: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c3ca2d6.json))
+* **2** ada-lk ([රුසියානු තෙල් සමාගම් නියෝජිතයන් දෙදෙනෙක් කටුනායකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d50fb43.json))
 
 * **1** ada-derana-lk ([Sri Lanka’s headline inflation may rise to 70% - CBSL chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9d696e1.json))
 
-* **1** daily-mirror-lk ([Two arrested with fags, 720 bottles of foreign liquor, 4,700 kg of turmeric](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfb81682.json))
+* **1** economy-next-com ([Sri Lanka shares edge down in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b0d19aa.json))
 
-## Last 3 Hours (42 Articles)
+## Last 3 Hours (41 Articles)
 
 * **9** ada-lk ([ඉන්ධන පෝලිමේ තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f27ee15f.json))
 
@@ -34,9 +28,9 @@
 
 * **7** virakesari-lk ([எரிபொருள் வரிசையில் காத்திருந்தவர் மேலுமொருவர் மரணம் ; இதுவரை 15 மரணங்கள் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9010c6bb.json))
 
-* **6** news-first-lk ([Rainfall likely on Thursday (7)](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0011457.json))
-
 * **5** daily-mirror-lk ([6.26 mn people in Sri Lanka are food insecure: WFP](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5199d2.json))
+
+* **5** news-first-lk ([Senior citizen in fuel queue dies – 15th such death so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d1bcd6e.json))
 
 * **4** tamil-mirror-lk ([எரிபொருள் வரிசையால் மற்றுமொருவர் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70110760.json))
 
@@ -44,21 +38,21 @@
 
 * **2** economy-next-com ([Sri Lanka’s CEB price hike delayed, affecting CPC and monetary policy: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c3ca2d6.json))
 
-## Last 24 Hours (230 Articles)
+## Last 24 Hours (224 Articles)
 
 * **52** virakesari-lk ([ஜனாதிபதியின் வேண்டுகோளை அடுத்து நிமல் சிறிபால டி சில்வா இராஜிநாமா](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e98953d6.json))
 
-* **30** lankadeepa-lk ([ගෑස් බෙදන හැටි අගමැති කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8808139c.json))
+* **29** lankadeepa-lk ([යග්ගහපිටිය සිද්ධියට ආරක්ෂක ලේකම් මානව හිමිකම් කොමිසමට](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/845af15e.json))
 
 * **28** tamil-mirror-lk ([அமைச்சர் நிமல் பதவியைத் துறந்தார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70e9a5c5.json))
 
-* **27** daily-mirror-lk ([LITRO Gas distribution to resume on July 11: Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c05df98.json))
+* **25** ada-lk ([රනිල් මුදල් ඇමති ධූරයෙන් යා යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/094255c4.json))
 
-* **26** ada-lk ([හිරුණිකා ඇතුළු පිරිසට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46772183.json))
+* **25** daily-mirror-lk ([SL to pay colossal prices plus commissions for 40k MT of fuel: Harsha](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de78d066.json))
 
-* **23** ada-derana-lk ([Nimal Siripala temporarily steps down from minister post](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50c6ae4e.json))
+* **22** ada-derana-lk ([India to supply fuel to Sri Lanka only after advance payment](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cf06037.json))
 
-* **18** news-first-lk ([Nimal Siripala resigns as Minister of Ports, Shipping, and aviation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba14a164.json))
+* **17** news-first-lk ([Hirunika & several others arrested for protesting outside President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eea13735.json))
 
 * **11** economy-next-com ([Sri Lanka tourism sector debt moratorium doubtful over bank stability: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f414d99b.json))
 
