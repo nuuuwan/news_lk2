@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 20:37:14 (LK time)*
+*As of 2022-07-07 20:46:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **1** virakesari-lk ([யாழில் 300 லீற்றர் டீசலை பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c8db4f.json))
 
 * **1** ada-lk ([කොවිඩ් ආසාදිතයන්ගේ තරමක වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20520bae.json))
 
-* **1** lankadeepa-lk ([ඇමෙරිකාව රුසියාවට පනවා ඇති ඉන්ධන තහනම ශ්‍රී ලංකාවට අදාල නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b607cd09.json))
-
-* **1** ada-derana-lk ([COPE calls for audit on LP gas purchases by Litro](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a23ec716.json))
-
-## Last Hour (7 Articles)
-
-* **2** virakesari-lk ([ஐஸ் போதைப்பொருளை கடத்த முயன்றவர் யாழ். நகரில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b3b56a.json))
+## Last Hour (6 Articles)
 
 * **2** lankadeepa-lk ([පොලිසියේ ඉල්ලීම අධිකරණය බැහැ කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf7c519.json))
+
+* **1** virakesari-lk ([யாழில் 300 லீற்றர் டீசலை பதுக்கி வைத்திருந்தவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09c8db4f.json))
 
 * **1** ada-lk ([කොවිඩ් ආසාදිතයන්ගේ තරමක වැඩිවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20520bae.json))
 
@@ -44,11 +40,11 @@
 
 * **1** economy-next-com ([Sri Lanka government suspends fuel for health workers ahead of protest to oust President, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94ca63fe.json))
 
-## Last 24 Hours (234 Articles)
-
-* **42** virakesari-lk ([சர்வதேச நாணய நிதியத்தின் முன்மொழிவுக்கமைய புதிய வரவு - செலவு திட்டம் - ஹனா சிங்கருடனான சந்திப்பில் அமைச்சர் பீரிஸ் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/ded5e42e.json))
+## Last 24 Hours (233 Articles)
 
 * **42** lankadeepa-lk ([ඉන්ධන පෝලිමට එළගවයෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb82a3ba.json))
+
+* **41** virakesari-lk ([இரு ஆர்ப்பாட்டங்கள் கண்ணீர் புகைக் குண்டுகள் வீசி கலைப்பு  - கோட்டை, பாராளுமன்ற சுற்றுவட்டமருகே நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/327c8a51.json))
 
 * **30** daily-mirror-lk ([Dalai Lama an icon who advocates democracy and freedom:  Ven Prof Lenagala Sirinivasa](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55822524.json))
 
@@ -68,7 +64,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,712 Articles)
+## Last Week (1,711 Articles)
 
 * **346** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு மத்திய நிலைய அமைதியின்மை : தப்பிச்சென்ற 599 பேர் சரண் 123 பேரை தேடி வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9b1aa51.json))
 
@@ -82,7 +78,7 @@
 
 * **155** ada-derana-lk ([5-year work visa for foreigners employed at BOI-registered Sri Lankan firms](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e745393.json))
 
-* **137** news-first-lk ([Three-wheeler driver gunned down in Kolonnawa](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85ad5451.json))
+* **136** news-first-lk ([Kandakadu Escape: Justice Minister calls for report](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486f26a8.json))
 
 * **101** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
