@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-Medical-Association-asks-Govt-to-step-down/56-737211",
+    "time_ut": 1657234786,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Medical Association asks Govt. to step down",
+    "file_name": "/tmp/news_lk2/articles/21/219d129c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Catastrophic-health-disaster-imminent-warns-GMPA/56-737210",
+    "time_ut": 1657234615,
+    "original_lang": "en",
+    "original_title": "Catastrophic health disaster imminent warns GMPA",
+    "file_name": "/tmp/news_lk2/articles/87/8748ced0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Canadian-High-Commissioner-calls-on-President-McKinnon-expresses-support/56-737209",
+    "time_ut": 1657234556,
+    "original_lang": "en",
+    "original_title": "Canadian High Commissioner calls on President; McKinnon expresses support",
+    "file_name": "/tmp/news_lk2/articles/77/77d5c64a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Virtual-session-to-explore-trade-opportunities-in-Russia/34-737208",
     "time_ut": 1657233941,
     "original_lang": "en",

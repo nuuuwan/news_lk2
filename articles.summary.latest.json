@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-Medical-Association-asks-Govt-to-step-down/56-737211",
+    "time_ut": 1657234786,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Medical Association asks Govt. to step down",
+    "file_name": "/tmp/news_lk2/articles/21/219d129c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Catastrophic-health-disaster-imminent-warns-GMPA/56-737210",
+    "time_ut": 1657234615,
+    "original_lang": "en",
+    "original_title": "Catastrophic health disaster imminent warns GMPA",
+    "file_name": "/tmp/news_lk2/articles/87/8748ced0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Canadian-High-Commissioner-calls-on-President-McKinnon-expresses-support/56-737209",
+    "time_ut": 1657234556,
+    "original_lang": "en",
+    "original_title": "Canadian High Commissioner calls on President; McKinnon expresses support",
+    "file_name": "/tmp/news_lk2/articles/77/77d5c64a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Virtual-session-to-explore-trade-opportunities-in-Russia/34-737208",
     "time_ut": 1657233941,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa \u0b8f\u0bb1\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d2/d21e9d54.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-slip-over-1-pct-in-mid-day-trade-on-overall-uncertainity-in-the-market-96883/",
-    "time_ut": 1656916440,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks slip over 1-pct in mid-day trade on overall uncertainity in the market",
-    "file_name": "/tmp/news_lk2/articles/0e/0ef69fd6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/sc-orders-ag-to-prepare-report-on-fuel-purchasing-and-distribution/",
-    "time_ut": 1656916380,
-    "original_lang": "en",
-    "original_title": "SC orders AG to prepare report on fuel purchasing and distribution",
-    "file_name": "/tmp/news_lk2/articles/3a/3a505ebd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4-\u0d85\u0dbd\u0dd2\u0dba\u0dcf-\u0dc3\u0ddc\u0dba\u0dcf-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca/1-615838",
-    "time_ut": 1656916342,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0ddc\u0dba\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fe/feb5fa97.json"
   }
 ]
