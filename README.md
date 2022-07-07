@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 05:09:17 (LK time)*
+*As of 2022-07-08 05:11:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **6** daily-ft-lk ([Two Russian representatives arrive in SL to discuss fuel supply](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45ddbc16.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
-* **9** daily-ft-lk ([Why Sri Lanka’s economic policy trajectory must change](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7721ee96.json))
+* **8** daily-ft-lk ([Solutions to the foreign exchange crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81de0360.json))
 
 ## Last 24 Hours (247 Articles)
 
