@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0db4\u0dc5-\u0dc4\u0dcf\u0db1\u0dd2-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2-\u0db7\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-395204",
+    "time_ut": 1657211087,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dda\u0db4\u0dc5 \u0dc4\u0dcf\u0db1\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2 \u0db7\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/18/1888b18d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Purchase-fuel-with-dollars-CPC-announces/342-240553",
+    "time_ut": 1657210960,
+    "original_lang": "en",
+    "original_title": "Purchase fuel with dollars: CPC announces",
+    "file_name": "/tmp/news_lk2/articles/66/66949e5b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83495/cpc-opens-registration-for-usd-priority-consumer-facility",
     "time_ut": 1657210440,
@@ -110,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/39/3931a14b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Living-life-not-easy/342-240549",
+    "time_ut": 1657207236,
+    "original_lang": "en",
+    "original_title": "Living life...not easy",
+    "file_name": "/tmp/news_lk2/articles/ce/ce1fc115.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "CBSL Governor re-appointed from today (4)",
     "file_name": "/tmp/news_lk2/articles/2c/2c384289.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/monday_meeting/\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0db8\u0dd6\u0dab\u0daf\u0dd3\u0db8/118-615816",
-    "time_ut": 1656910650,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db8\u0dd6\u0dab\u0daf\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/40/407d41f9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9a-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7/11-395064",
-    "time_ut": 1656910644,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9a \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d4/d46afd24.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/04/we-didnt-ask-to-evict-fort-protesters-say-australian-test-stars/",
-    "time_ut": 1656910620,
-    "original_lang": "en",
-    "original_title": "We didn\u2019t ask to evict fort protesters, say Australian Test stars",
-    "file_name": "/tmp/news_lk2/articles/8f/8fdc39b3.json"
   }
 ]
