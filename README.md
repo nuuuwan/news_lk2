@@ -1,20 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 03:03:10 (LK time)*
+*As of 2022-07-08 03:19:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
 
-* **3** daily-ft-lk ([Overcoming ideological anarchy](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/8286e2bf.json))
+* **1** daily-ft-lk ([Solutions to the foreign exchange crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81de0360.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (5 Articles)
 
-* **6** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
+* **4** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
 
 * **1** daily-mirror-lk ([Rakna Arakshaka Lanka Limited now under Dhammika Perera](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54036502.json))
-
-* **1** ada-lk ([කොරියාවේ අවු. 10ක් සේවය කළ අයට E 7 විසා දීමට අවධානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33e8ab7a.json))
 
 ## Last 24 Hours (248 Articles)
 
