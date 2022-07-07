@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-07 19:52:27 (LK time)*
+*As of 2022-07-07 19:57:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 ## Last Hour (5 Articles)
 
-* **2** lankadeepa-lk ([එජාප සභාපති  ඇමරිකා තානාපතිනිය හමුවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30749226.json))
+* **2** lankadeepa-lk ([එජාප සභාපති  ඇමරිකා තානාපතිනිය හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb4644a8.json))
 
 * **1** virakesari-lk ([ஐஸ் போதைப்பொருளை கடத்த முயன்றவர் யாழ். நகரில் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03b3b56a.json))
 
@@ -20,15 +20,15 @@
 
 * **1** tamil-mirror-lk ([“கோட்டா நீ போப்பா” : மனோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/533dfddd.json))
 
-## Last 3 Hours (31 Articles)
+## Last 3 Hours (27 Articles)
 
-* **11** lankadeepa-lk ([ඉතිහාසයේ ලොකුම ලණුව කාබනික ව්‍යාපෘතියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce3440d9.json))
+* **8** lankadeepa-lk ([61 දී ශ්‍රී ලංකාවට වැරදුණු තැනින් පටන්ගත් සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ab0cde9.json))
 
 * **5** virakesari-lk ([ஜனாதிபதி, பிரதமர் மற்றும் அரசாங்கத்தை பதவிவிலகக் கோரி யாழில் துவிச்சக்கர வண்டி பேரணிக்கு அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32e7e3f1.json))
 
-* **5** news-first-lk ([Supplementary Estimate NOT for Urban projects](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/672046c8.json))
-
 * **4** ada-derana-lk ([New Covid Omicron sub-variant found in India: WHO](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0510196.json))
+
+* **4** news-first-lk ([Exercise rights responsibly and peacefully – Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d57a6cc5.json))
 
 * **4** daily-mirror-lk ([Guarantee uninterrupted education for students](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5edb0c7.json))
 
@@ -36,13 +36,13 @@
 
 * **1** economy-next-com ([Sri Lanka government suspends fuel for health workers ahead of protest to oust President, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94ca63fe.json))
 
-## Last 24 Hours (237 Articles)
+## Last 24 Hours (236 Articles)
 
 * **46** virakesari-lk ([யாழ். ஹாட்லி கல்லூரி  மாணவனின் புதிய கண்டுபிடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db518c19.json))
 
 * **40** lankadeepa-lk ([දුම්රිය වර්ජනය අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bb470d3.json))
 
-* **32** daily-mirror-lk ([Some private bus operators indulge in diesel pilferage](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/692977a9.json))
+* **31** daily-mirror-lk ([FR challenging presidential pardon given to Sunil Ratnayake fixed for support](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e758bcc5.json))
 
 * **26** ada-derana-lk ([Minister GL briefs UN Resident Coordinator on Sri Lanka’s situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dde2a75.json))
 
@@ -60,7 +60,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,718 Articles)
+## Last Week (1,715 Articles)
 
 * **349** virakesari-lk ([குருந்தூர் மலையில் அமைக்கப்பட்ட  விகாரை கட்டுமான பணி : பொலிசாரிடம் விளக்கம் கோரிய வழக்கு ஒத்திவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3003a4a0.json))
 
@@ -72,15 +72,15 @@
 
 * **161** tamil-mirror-lk ([’14 நாட்களில் சுகாதாரம் முற்றாக வீழ்ந்துவிடும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22268687.json))
 
-* **156** ada-derana-lk ([Dr. Nandalal Weerasinghe re-appointed CBSL Governor for 6-year term](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c731a937.json))
+* **155** ada-derana-lk ([CCPI-based headline inflation soars to 54.6% in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab6346e1.json))
 
-* **139** news-first-lk ([Nandalal Weerasinghe appointed CBSL Governor for Six more years](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67bffbe6.json))
+* **138** news-first-lk ([US Ambassador meets President](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbfbb828.json))
 
 * **101** economy-next-com ([Sri Lanka central bank Governor Weerasinghe re-appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20d93573.json))
 
 * **67** daily-ft-lk ([Parliament talks on prevailing crisis on 6 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be5b51e.json))
 
-* **55** island-lk ([JVP’s call to arms](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3eb08fb.json))
+* **54** island-lk ([Reported progress at IMF staff level agreement talks peps share market](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9e89733.json))
 
 * **30** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
