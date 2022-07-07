@@ -1,20 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 00:47:00 (LK time)*
+*As of 2022-07-08 00:50:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Rakna Arakshaka Lanka Limited now under Dhammika Perera](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54036502.json))
 
-* **1** daily-ft-lk ([Transforming cities in the age of climate change](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3f76c29.json))
-
-## Last Hour (4 Articles)
-
-* **2** daily-mirror-lk ([People’s power and thinking of July 9 - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/412b00f5.json))
+## Last Hour (3 Articles)
 
 * **2** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
+
+* **1** daily-mirror-lk ([Rakna Arakshaka Lanka Limited now under Dhammika Perera](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54036502.json))
 
 ## Last 3 Hours (16 Articles)
 
@@ -54,7 +52,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-## Last Week (1,730 Articles)
+## Last Week (1,729 Articles)
 
 * **353** virakesari-lk ([இலங்கைக்கு கடத்துவதற்காக பதுக்கி வைக்கப்பட்டிருந்த கடல் அட்டைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a85540dd.json))
 
@@ -66,7 +64,7 @@
 
 * **155** ada-derana-lk ([Gusty winds to continue in several sea areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3c6ede.json))
 
-* **153** tamil-mirror-lk ([நந்தலால் வீரசிங்கவுக்கு நியமனக் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a908f91.json))
+* **152** tamil-mirror-lk ([இன்று முதல் 5 ஆண்டுகால இலவச தொழில் விசா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c91473e7.json))
 
 * **136** news-first-lk ([Fuel Crisis: Train operations cancelled as workers unable to report to work](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4e42e46.json))
 
