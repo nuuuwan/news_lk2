@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/A-few-ways-forward-for-failed-sir-state-system-and-society/4-737198",
+    "time_ut": 1657230028,
+    "original_lang": "en",
+    "original_title": "A few ways forward for failed  \u2018sir, state, system, and society\u2019",
+    "file_name": "/tmp/news_lk2/articles/6e/6ebcb054.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Solutions-to-the-foreign-exchange-crisis/4-737196",
     "time_ut": 1657227746,
     "original_lang": "en",
@@ -118,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0dc3\u0da7\u0db1 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dc5\u0dda \u0db1\u0dd1 - \u0db4\u0dd6\u0da7\u0dd2\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/aa/aa727784.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/6-26-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd-\u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8/175-299932",
+    "time_ut": 1657213653,
+    "original_lang": "ta",
+    "original_title": "6.26 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ad/ad949a6a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
