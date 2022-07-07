@@ -216,6 +216,14 @@
     "file_name": "/tmp/news_lk2/articles/da/da816487.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/It-is-inaccurate-that-some-countries-await-change-of-Govt-to-offer-aid-or-assistance/342-240551",
+    "time_ut": 1657208477,
+    "original_lang": "en",
+    "original_title": "It is inaccurate that some countries await change of Govt to offer aid or assistance",
+    "file_name": "/tmp/news_lk2/articles/da/da4f85e5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131011",
     "time_ut": 1657208470,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Foreign Ministry\u2019s Consular Affairs Division resumes regular services",
     "file_name": "/tmp/news_lk2/articles/e0/e01ad60d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-19-\u0d9a--\u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dab\u0dcf\u0db7\u0dbb\u0dab-\u0dbb\u0db1\u0dca-\u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca-\u0dc3\u0dc4-\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd3-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395070",
-    "time_ut": 1656914031,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 19 \u0d9a  \u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dab\u0dcf\u0db7\u0dbb\u0dab,\u0dbb\u0db1\u0dca \u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0da7\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0daf\u0dd3 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e6/e643ef28.json"
   }
 ]
