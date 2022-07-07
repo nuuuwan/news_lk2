@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/navy-nabs-seven-for-illegal-migration-in-talaimannar/",
+    "time_ut": 1657186560,
+    "original_lang": "en",
+    "original_title": "Navy nabs seven for illegal migration in Talaimannar",
+    "file_name": "/tmp/news_lk2/articles/16/16d4901b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130975",
+    "time_ut": 1657186206,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bb2\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3a/3a0f6adf.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7-\u0dba\u0dba\u0dd2/1-616001",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7-\u0dba\u0dba\u0dd2/101-616001",
     "time_ut": 1657186136,
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d8/d88cb2ac.json"
+    "file_name": "/tmp/news_lk2/articles/24/24c09178.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/water-supply-workers-protest-for-fuel/",
+    "time_ut": 1657185840,
+    "original_lang": "en",
+    "original_title": "Water Supply workers protest for fuel",
+    "file_name": "/tmp/news_lk2/articles/12/12e2ec9d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -17,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/1-615999",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/101-615999",
     "time_ut": 1657185160,
     "original_lang": "si",
     "original_title": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0da2\u0ddc\u0db1\u0dca\u0dc3\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/86/862ff349.json"
+    "file_name": "/tmp/news_lk2/articles/6a/6ad7d074.json"
   },
   {
     "newspaper_id": "virakesari-lk",

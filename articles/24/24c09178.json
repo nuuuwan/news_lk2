@@ -1,0 +1,495 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-\u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7-\u0dba\u0dba\u0dd2/101-616001",
+  "time_ut": 1657186136,
+  "original_lang": "si",
+  "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Economic centers will be deserted",
+      "author": "unknown",
+      "body_lines": [
+        "Economic centers including Peliyagoda Manning Market, Dambulla, Narahenpita Megoda and Bokundara were deserted today (7) due to the absence of consumers.",
+        "Mr. Nimal Attanayake, Treasurer of All Lanka Integrated Economic Center and Manning Trade Association said that due to the drop in both the receipt of goods and the sale of goods, trading has become very difficult.",
+        "He also mentioned that with the fuel crisis, the maintenance of economic centers has become very problematic.",
+        "Due to this, many shops in some economic centers have been closed, our reporters say.",
+        "It is also reported that the prices of vegetables and fruits have decreased compared to usual.",
+        "According to this, in Peliyagoda Manning Market, a kilo of carrots is 250 rupees, a kilo of beans is 300 rupees, a kilo of cabbage is 200 rupees, a kilo of eggplant is 300 rupees, a kilo of leeks is 150 rupees, a kilo of pumpkin is 220 rupees, a kilo of green chillies is 500 rupees, a kilo of lime is 200 rupees and a kilo of tomatoes is \u20b9 150, customers say that it was sold.",
+        "In addition to this, at Narahenpita Economic Center, carrots cost Rs 320 per kg, beans Rs 360 per kg, cabbage Rs 280 per kg, eggplant Rs 400 per kg, pumpkin Rs 200 per kg, green chillies Rs 800 per kg, lime Rs 700 per kg, tomatoes Rs 360 per kg, country Customers say that 240 kilos of potatoes, 420 kilos of Ceylon potatoes and 200 kilos of B onions were sold.",
+        "Meanwhile, in the Peliyagoda fish market, talapat is sold at 1550 rupees, balaya 1000 rupees, salaya 800 rupees, hurulla 1000 rupees, linna 950 rupees etc."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Peliyagoda Manning Market, Dambulla",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Narahenpita Megoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bokundara",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Nimal Attanayake",
+            "label": "PERSON"
+          }
+        ],
+        [],
+        [],
+        [],
+        [
+          {
+            "text": "250",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "220",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "500",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "Narahenpita Economic Center",
+            "label": "FAC"
+          },
+          {
+            "text": "280",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Rs 400",
+            "label": "PERSON"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "700",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "240",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "420 kilos",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Ceylon",
+            "label": "ORG"
+          },
+          {
+            "text": "200 kilos",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "Peliyagoda",
+            "label": "ORG"
+          },
+          {
+            "text": "talapat",
+            "label": "ORG"
+          },
+          {
+            "text": "1550",
+            "label": "DATE"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "salaya",
+            "label": "PERSON"
+          },
+          {
+            "text": "800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "linna",
+            "label": "PERSON"
+          },
+          {
+            "text": "950",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9 \u0db8\u0dd0\u0db1\u0dd2\u0d82 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0ddc\u0dbd, \u0daf\u0db9\u0dd4\u0dbd\u0dca\u0dbd, \u0db1\u0dcf\u0dbb\u0dcf\u0dc4\u0dda\u0db1\u0dca\u0db4\u0dd2\u0da7 \u0db8\u0dd3\u0d9c\u0ddc\u0da9 \u0dc3\u0dc4 \u0db6\u0ddd\u0d9a\u0dd4\u0db1\u0dca\u0daf\u0dbb \u0d87\u0dad\u0dd4\u0dbd\u0dd4 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0d85\u0daf (7) \u0daf\u0dd2\u0db1\u0dba\u0dda \u0db4\u0dcf\u0dbd\u0dd4 \u0dc3\u0db6\u0dcf\u0dc0\u0dba\u0d9a\u0dca \u0d9c\u0dd9\u0db1 \u0dad\u0dd2\u0db6\u0dd2\u0dab.",
+        "\u0db7\u0dcf\u0db1\u0dca\u0da9 \u0dbd\u0dd0\u0db6\u0dd3\u0db8 \u0dc3\u0dc4 \u0db6\u0dcf\u0dab\u0dca\u0da9 \u0d85\u0dc5\u0dd9\u0dc0\u0dd2\u0dba \u0dba\u0db1 \u0daf\u0dd9\u0d9a\u0db8 \u0db4\u0dc4\u0dc5 \u0dc0\u0dd0\u0da7\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0dc5\u0db3\u0dcf\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db6\u0ddc\u0dc4\u0ddd \u0daf\u0dd4\u0dc3\u0dca\u0d9a\u0dbb \u0dc0\u0dd3 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dc3\u0db8\u0dc3\u0dca\u0dae \u0dbd\u0d82\u0d9a\u0dcf \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d86\u0dbb\u0dca\u0dad\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dc3\u0dc4 \u0db8\u0dd0\u0db1\u0dd2\u0d82 \u0dc0\u0dd9\u0dc5\u0db3 \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dcf\u0d9c\u0dcf\u0dbb\u0dd2\u0d9a \u0db1\u0dd2\u0db8\u0dbd\u0dca \u0d85\u0dad\u0dca\u0dad\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0db0\u0dba\u0dad\u0dca \u0dc3\u0db8\u0d9c \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8 \u0db6\u0ddc\u0dc4\u0ddd \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0dc3\u0dc4\u0d9c\u0dad \u0dc0\u0dd3 \u0d87\u0dad\u0dd0\u0dba\u0dd2\u0daf \u0d94\u0dc4\u0dd4 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0db8\u0dda \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d87\u0dad\u0dd0\u0db8\u0dca \u0d86\u0dbb\u0dca\u0dad\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd\u00a0 \u0db6\u0ddc\u0dc4\u0ddd \u0dc0\u0dd9\u0dc5\u0db3\u0dc3\u0dd0\u0dbd\u0dca \u0dc0\u0dc3\u0dcf \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dd4\u0daf \u0daf\u0d9a\u0dca\u0db1\u0da7 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0db6\u0dc0 \u0d85\u0db4 \u0dc0\u0dcf\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0db4\u0dc0\u0dc3\u0dad\u0dd2.",
+        "\u0d91\u0dc5\u0dc0\u0dbd\u0dd4 \u0dc3\u0dc4 \u0db4\u0dc5\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd2\u0dc5 \u0d9c\u0dab\u0db1\u0dca\u0daf \u0dc0\u0dd9\u0db1\u0daf\u0dcf\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0db8\u0dd2\u0dc5 \u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0daf \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dda.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9 \u0db8\u0dd0\u0db1\u0dd2\u0d82 \u0dc0\u0dd9`\u0dc5\u0db3\u0db4\u0ddc\u0dbd\u0dda \u0d9a\u0dd0\u0dbb\u0da7\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 250\u0d9a\u0dca, \u0db6\u0ddc\u0d82\u0da0\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 300 \u0d9a\u0dca, \u0d9c\u0ddd\u0dc0\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200\u0d9a\u0dca, \u0dc0\u0db8\u0dca\u0db6\u0da7\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 300\u0d9a\u0dca, \u0dbd\u0dd3\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 150\u0d9a\u0dca, \u0dc0\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 220 \u0d9a\u0dca \u0d85\u0db8\u0dd4 \u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 500\u0d9a\u0dca, \u0daf\u0dd9\u0dc4\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200 \u0d9a\u0dca \u0dad\u0d9a\u0dca\u0d9a\u0dcf\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 150\u0d9a\u0dca, \u0dbd\u0dd9\u0dc3\u00a0 \u0d85\u0dc5\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd6 \u0db6\u0dc0 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0ddd \u0d9a\u0dd2\u0dba\u0dad\u0dd2.",
+        "\u0db8\u0dd9\u0dba\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0db1\u0dcf\u0dbb\u0dcf\u0dc4\u0dda\u0db1\u0dca\u0db4\u0dd2\u0da7 \u0d86\u0dbb\u0dca\u0dad\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0d9a\u0dd0\u0dbb\u0da7\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 320\u0d9a\u0dca, \u0db6\u0ddc\u0d82\u0da0\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 360 \u0d9a\u0dca, \u0d9c\u0ddd\u0dc0\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 280\u0d9a\u0dca, \u0dc0\u0db8\u0dca\u0db6\u0da7\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 400\u0d9a\u0dca, \u0dc0\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 200 \u0d9a\u0dca, \u0d85\u0db8\u0dd4 \u0db8\u0dd2\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 800\u0d9a\u0dca, \u0daf\u0dd9\u0dc4\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 700 \u0d9a\u0dca \u0dad\u0d9a\u0dca\u0d9a\u0dcf\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 360 \u0d9a\u0dca, \u0dbb\u0da7 \u0d85\u0dbd \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 240\u0d9a\u0dca \u0dbd\u0d82\u0d9a\u0dcf \u0d85\u0dbd \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 420\u0d9a\u0dca \u0db6\u0dd3 \u0dbd\u0dd6\u0dab\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u00a0 200\u0d9a\u0dca \u0dbd\u0dd9\u0dc3\u00a0 \u0d85\u0dc5\u0dd9\u0dc0\u0dd2 \u0dc0\u0dd6 \u0db6\u0dc0 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0ddd \u0d9a\u0dd2\u0dba\u0dad\u0dd2.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb \u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9 \u0db8\u0dcf\u0dbd\u0dd4 \u0dc0\u0dd9\u0dbd\u0daf\u0db4\u0ddc\u0dbd\u0dda\u00a0 \u0dad\u0dbd\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1550\u0d9a\u0dca, \u0db6\u0dbd\u0dba\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1000 \u0d9a\u0dca,\u00a0 \u0dc3\u0dcf\u0dbd\u0dba\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 800\u0d9a\u0dca, \u0dc4\u0dd4\u0dbb\u0dd4\u0dbd\u0dca\u0dbd\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1000\u0d9a\u0dca,\u00a0 \u0dbd\u0dd2\u0db1\u0dca\u0db1\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 950\u0d9a\u0dca\u00a0 \u0d86\u0daf\u0dd3 \u0dbd\u0dd9\u0dc3 \u0d85\u0dc5\u0dd9\u0dc0\u0dd2 \u0dc0\u0dda."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9 \u0db8\u0dd0\u0db1\u0dd2\u0d82 \u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0da7\u0dca, \u0daf\u0db9\u0dd4\u0dbd\u0dca\u0dbd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Narahenpita Megoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bokundara",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0d85\u0dad\u0dca\u0dad\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          }
+        ],
+        [],
+        [],
+        [],
+        [
+          {
+            "text": "250",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "220",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "500",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dbb\u0dcf\u0dc4\u0dda\u0db1\u0dca\u0db4\u0dd2\u0da7 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "280",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 400",
+            "label": "PERSON"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "700",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "240",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd 420 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd 200 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dbd\u0db4\u0dad\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "1550",
+            "label": "DATE"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dbd\u0dcf\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbd\u0dd2\u0db1\u0dca\u0db1\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "950",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bcb\u0b9f\u0bbf\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f \u0bae\u0bc6\u0ba9\u0bbf\u0b99\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd, \u0ba4\u0bae\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bc8, \u0ba8\u0bbe\u0bb0\u0bb9\u0bc7\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0bae\u0bc6\u0b95\u0bca\u0b9f, \u0baa\u0bcb\u0b95\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (7) \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bcb\u0b9f\u0bbf \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b86\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb0\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc6\u0ba9\u0bbf\u0b99\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1.\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bb0\u0bbe\u0bae\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b9a\u0bbf\u0bb2 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2 \u0b95\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b8e\u0bae\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
+        "\u0bb5\u0bb4\u0bae\u0bc8\u0baf\u0bc8 \u0bb5\u0bbf\u0b9f \u0bae\u0bb0\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bb4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf \u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f \u0bae\u0bc6\u0ba9\u0bbf\u0b99\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb0\u0b9f\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb 250 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bc0\u0ba9\u0bcd\u0bb8\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 300 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb8\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 200 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 300 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0bb5\u0bc6\u0ba3\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 150 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b8f. \u0baa\u0bc2\u0b9a\u0ba3\u0bbf \u0b95\u0bbf\u0bb2\u0bcb 220 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0b9a\u0bcd\u0b9a\u0bc8 \u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 500 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b9a\u0bc1\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb 200 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf \u0b95\u0bbf\u0bb2\u0bcb 150 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0ba8\u0bbe\u0bb0\u0bb9\u0bc7\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc7\u0bb0\u0b9f\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 320 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0baa\u0bc0\u0ba9\u0bcd\u0bb8\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 360 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bcb\u0bb8\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 280 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 400 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0baa\u0bc2\u0b9a\u0ba3\u0bbf \u0b95\u0bbf\u0bb2\u0bcb 200 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0baa\u0b9a\u0bcd\u0b9a\u0bc8 \u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 800 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd, \u0b9a\u0bc1\u0ba3\u0bcd\u0ba3\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb2\u0bcb 700, \u0ba4\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bbf \u0b95\u0bbf\u0bb2\u0bcb 360, 240 \u0b95\u0bbf\u0bb2\u0bcb \u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1, 420 \u0b95\u0bbf\u0bb2\u0bcb \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b89\u0bb0\u0bc1\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0b99\u0bcd\u0b95\u0bc1, 200 \u0b95\u0bbf\u0bb2\u0bcb \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bae\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f\u0bc8 \u0bae\u0bc0\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0baa\u0b9f\u0bcd 1550 \u0bb0\u0bc2\u0baa\u0bbe, \u0baa\u0bb2\u0bbe 1000 \u0bb0\u0bc2\u0baa\u0bbe, \u0b9a\u0bbe\u0bb2\u0baf\u0bbe 800 \u0bb0\u0bc2\u0baa\u0bbe, \u0bb9\u0bc1\u0bb0\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe 1000 \u0bb0\u0bc2\u0baa\u0bbe, \u0bb2\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe 950 \u0bb0\u0bc2\u0baa\u0bbe \u0b8e\u0ba9 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f \u0bae\u0bbe\u0ba9\u0bbf\u0b99\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8, \u0ba4\u0bae\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bc8",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Narahenpita Megoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "Bokundara",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [],
+        [],
+        [],
+        [
+          {
+            "text": "250",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "300",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "220",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "500",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "150",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0bb0\u0bb9\u0bc7\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "280",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bc2 400",
+            "label": "PERSON"
+          },
+          {
+            "text": "200",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "700",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "240",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "420 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "200 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc7\u0bb2\u0bbf\u0baf\u0b95\u0bca\u0b9f",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bb2\u0baa\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1550",
+            "label": "DATE"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bb2\u0bbe\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "800",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb2\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "950",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
