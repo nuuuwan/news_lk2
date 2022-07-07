@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83491/slc-officially-hands-over-us-2-million-to-sri-lankas-health-sector",
+    "time_ut": 1657201200,
+    "original_lang": "en",
+    "original_title": "SLC officially hands over US$ 2 million to Sri Lanka\u2019s health sector",
+    "file_name": "/tmp/news_lk2/articles/dc/dc844c26.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0ba8\u0bc0-\u0baa\u0bcb\u0baa\u0bcd\u0baa\u0bbe-\u0bae\u0ba9\u0bcb/95-299916",
+    "time_ut": 1657200562,
+    "original_lang": "ta",
+    "original_title": "\u201c\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0ba8\u0bc0 \u0baa\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u201d : \u0bae\u0ba9\u0bcb",
+    "file_name": "/tmp/news_lk2/articles/53/533dfddd.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/07/ul-dismisses-reports-of-flight-cancellations/",
     "time_ut": 1657199640,
