@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 04:29:16 (LK time)*
+*As of 2022-07-08 04:34:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,7 +16,7 @@
 
 * **8** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (250 Articles)
 
 * **43** lankadeepa-lk ([අධිකරණ කොමිසම විනිසුරුවරුන් දස දෙනකුගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d394332a.json))
 
@@ -32,7 +32,7 @@
 
 * **23** news-first-lk ([Sri Lanka further tightens Monetary Policy Stance](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1328f2d.json))
 
-* **17** daily-ft-lk ([Sajith donates scarce medicine worth Rs. 15.6 m fulfilling the pledge](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afabf5bd.json))
+* **16** daily-ft-lk ([The one truly serious political problem in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/6446f717.json))
 
 * **11** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
