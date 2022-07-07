@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-arrested-with-fags-720-bottles-of-foreign-liquor-4-700-kg-of-turmeric/108-240531",
+    "time_ut": 1657174899,
+    "original_lang": "en",
+    "original_title": "Two arrested with fags, 720 bottles of foreign liquor, 4,700 kg of turmeric",
+    "file_name": "/tmp/news_lk2/articles/cf/cfb81682.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0d82\u0da2\u0dba\u0da7-\u0dc3\u0dc4-\u0dc0\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca\u0dc3\u0dda\u0da7-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca/11-395187",
+    "time_ut": 1657174794,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba\u0da7 \u0dc3\u0dc4 \u0dc0\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca\u0dc3\u0dda\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ff/ff497973.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130971",
     "time_ut": 1657174716,
@@ -41,19 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Mother-delivers-baby-while-waiting-in-passport-queue/108-240530",
+    "url": "https://www.dailymirror.lk/latest_news/Mother-delivers-baby-while-waiting-in-passport-queue/342-240530",
     "time_ut": 1657172581,
     "original_lang": "en",
     "original_title": "Mother delivers baby while waiting in passport queue",
-    "file_name": "/tmp/news_lk2/articles/fe/fee6e0e5.json"
+    "file_name": "/tmp/news_lk2/articles/27/27e01641.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Another-man-dies-in-fuel-queue/108-240529",
+    "url": "https://www.dailymirror.lk/latest_news/Another-man-dies-in-fuel-queue/342-240529",
     "time_ut": 1657172175,
     "original_lang": "en",
     "original_title": "Another man dies in fuel queue",
-    "file_name": "/tmp/news_lk2/articles/1a/1a8eae31.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e64201e2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -70,6 +86,14 @@
     "original_lang": "en",
     "original_title": "CBSL further tightens its Monetary Policy Stance",
     "file_name": "/tmp/news_lk2/articles/86/86d4f349.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dad\u0dd0\u0dad\u0dca-\u0d9a\u0dc5-07\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395186",
+    "time_ut": 1657172124,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd0\u0dad\u0dca \u0d9a\u0dc5 07\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/0a/0a0b0959.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -177,11 +201,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/6-26-mn-people-in-Sri-Lanka-are-food-insecure-WFP/108-240525",
+    "url": "https://www.dailymirror.lk/latest_news/6-26-mn-people-in-Sri-Lanka-are-food-insecure-WFP/342-240525",
     "time_ut": 1657168688,
     "original_lang": "en",
     "original_title": "6.26 mn people in Sri Lanka are food insecure: WFP",
-    "file_name": "/tmp/news_lk2/articles/92/92c23220.json"
+    "file_name": "/tmp/news_lk2/articles/da/da5199d2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -606,6 +630,14 @@
     "original_lang": "en",
     "original_title": "Recipes for co-opting and subverting #peoplepower",
     "file_name": "/tmp/news_lk2/articles/8c/8c7426e2.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78415",
+    "time_ut": 1657140960,
+    "original_lang": "en",
+    "original_title": "",
+    "file_name": "/tmp/news_lk2/articles/c9/c9bcfab4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0db1 \u0dc4\u0dd2\u0dbb\u0dd4 \u0d91\u0dc5\u0dd2\u0dba\u0dda \u0dc3\u0dd4\u0dc5\u0d9c\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7",
     "file_name": "/tmp/news_lk2/articles/4c/4ccac4fb.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130696",
-    "time_ut": 1656843802,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/2e/2ebbc099.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd9\u0da7-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0d9a\u0db4\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2/1-615792",
-    "time_ut": 1656843712,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd9\u0da7 \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d3/d3f4c2aa.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/peoples-bank-commemorates-its-61st-anniversary/",
-    "time_ut": 1656843600,
-    "original_lang": "en",
-    "original_title": "People\u2019s Bank commemorates its 61st anniversary",
-    "file_name": "/tmp/news_lk2/articles/5a/5a74412d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/boi-launches-long-term-residence-visa-programme-for-investors-2/",
-    "time_ut": 1656843540,
-    "original_lang": "en",
-    "original_title": "BOI launches long term residence visa programme for investors",
-    "file_name": "/tmp/news_lk2/articles/d0/d0a7350a.json"
   }
 ]
