@@ -1,19 +1,19 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/former-bribery-dg-goes-to-court-against-ex-minister/",
-    "time_ut": 1657207860,
-    "original_lang": "en",
-    "original_title": "Former Bribery DG goes to court against Ex-Minister",
-    "file_name": "/tmp/news_lk2/articles/86/86f9143b.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Journos-protest-against-Rajapaksas/342-240550",
     "time_ut": 1657207715,
     "original_lang": "en",
     "original_title": "Journos protest against Rajapaksas",
     "file_name": "/tmp/news_lk2/articles/f3/f35d7a7b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-end-down-after-central-bank-raised-policy-rates-to-21-year-high-97084/",
+    "time_ut": 1657207680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares end down after central bank raised policy rates to 21-year high",
+    "file_name": "/tmp/news_lk2/articles/14/14bb0ed0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
