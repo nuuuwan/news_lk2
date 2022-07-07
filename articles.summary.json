@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130968",
+    "time_ut": 1657176941,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 7 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/71/715a542a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83480/sri-lankas-headline-inflation-may-rise-to-70-cbsl-chief",
+    "time_ut": 1657176660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s headline inflation may rise to 70% - CBSL chief",
+    "file_name": "/tmp/news_lk2/articles/c9/c9d696e1.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130960",
     "time_ut": 1657175832,
     "original_lang": "ta",
@@ -16,12 +32,28 @@
     "file_name": "/tmp/news_lk2/articles/6e/6e6e1e8e.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf-\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0dbb\u0dd6\u0d9a\u0da9\u0dba\u0d9a\u0dca/11-395189",
+    "time_ut": 1657175591,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda \u0dbb\u0dd6\u0d9a\u0da9\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c0/c0e6cab9.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130974",
     "time_ut": 1657175514,
     "original_lang": "ta",
     "original_title": "\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 70 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d0/d0de4b2e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7/11-395188",
+    "time_ut": 1657175422,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/0d/0d50fb43.json"
   },
   {
     "newspaper_id": "economy-next-com",
