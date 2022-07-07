@@ -273,6 +273,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130938",
+    "time_ut": 1657119992,
+    "original_lang": "ta",
+    "original_title": "\u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0baf\u0bc7 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd - \u0b9f\u0bbf\u0baf\u0bc2 \u0b95\u0bc1\u0ba3\u0b9a\u0bc7\u0b95\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/ad/ad6c74f8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/130939",
     "time_ut": 1657119846,
     "original_lang": "ta",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0d9c\u0dbd\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e1/e10c33a3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83396/navy-nabs-51-people-attempting-to-illegally-migrate-from-island",
-    "time_ut": 1656829740,
-    "original_lang": "en",
-    "original_title": "Navy nabs 51 people attempting to illegally migrate from island",
-    "file_name": "/tmp/news_lk2/articles/23/230afc06.json"
   }
 ]
