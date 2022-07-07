@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83481/two-reps-from-russian-oil-company-arrive-in-sri-lanka",
+    "time_ut": 1657180260,
+    "original_lang": "en",
+    "original_title": "Two reps from Russian oil company arrive in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/30/30619284.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130984",
+    "time_ut": 1657179950,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0b95 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8  \u0baf\u0bbe\u0bb4\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0bb5\u0bc6\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0b95 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d6/d6e42e7c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/07/railway-services-to-return-to-normal/",
+    "time_ut": 1657179720,
+    "original_lang": "en",
+    "original_title": "Railway services to return to normal",
+    "file_name": "/tmp/news_lk2/articles/05/050149d8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130982",
+    "time_ut": 1657179429,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 - \u0baa\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f2/f26ed61a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/world-food-programme-providing-emergency-nutritional-needs-of-three-million-sri-lankans-report-97075/",
+    "time_ut": 1657179420,
+    "original_lang": "en",
+    "original_title": "World Food Programme providing emergency nutritional needs of three million Sri Lankans: report",
+    "file_name": "/tmp/news_lk2/articles/38/383958f6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/nentertainment/\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0dba\u0dd4\u0d9c\u0dba\u0d9a-\u0daf\u0dbb\u0db8\u0dd2\u0da7\u0dd2-\u0db4\u0dcf\u0dbb\u0dda/132-615995",
+    "time_ut": 1657179222,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dba\u0dd4\u0d9c\u0dba\u0d9a \u0daf\u0dbb\u0db8\u0dd2\u0da7\u0dd2 \u0db4\u0dcf\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/44/44fa56d6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/No-MCC-pact-at-the-moment/108-240532",
     "time_ut": 1657178694,
@@ -8,12 +56,20 @@
     "file_name": "/tmp/news_lk2/articles/2b/2b4e47d7.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/130981",
+    "time_ut": 1657178536,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9? \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9a/9aefba8f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0da7\u0db1\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0dbb\u0daf\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3-\u0daf\u0dc5-\u0d9a\u0dd0\u0db4\u0dd6-\u0d87\u0dad\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-615994",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0da7\u0db1\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0dbb\u0daf\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3-\u0daf\u0dc5-\u0d9a\u0dd0\u0db4\u0dd6-\u0d87\u0dad\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-615994",
     "time_ut": 1657178487,
     "original_lang": "si",
     "original_title": "\u0dc3\u0da7\u0db1\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0dbb\u0daf\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0daf\u0dc5 \u0d9a\u0dd0\u0db4\u0dd6 \u0d87\u0dad\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e7fdac94.json"
+    "file_name": "/tmp/news_lk2/articles/77/77ab8efa.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -70,6 +126,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s headline inflation may rise to 70% in coming months - CBSL",
     "file_name": "/tmp/news_lk2/articles/4e/4e004f88.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83480/sri-lankas-headline-inflation-projected-to-hit-70-in-coming-months",
+    "time_ut": 1657176660,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s headline inflation projected to hit 70% in coming months",
+    "file_name": "/tmp/news_lk2/articles/94/94b38260.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0d9a\u0db8 \u0da9\u0dd2\u0dc3\u0dbd\u0dca \u0d85\u0dc0\u0dd4. 25\u0d9a \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0dc5\u0d9f",
     "file_name": "/tmp/news_lk2/articles/73/733967ea.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd-\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf/\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/94-299642",
-    "time_ut": 1656851092,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e9/e96d5f96.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83403/companies-to-get-weekly-guaranteed-fuel-quota-if-paying-in-usd",
-    "time_ut": 1656851040,
-    "original_lang": "en",
-    "original_title": "Companies to get weekly guaranteed fuel quota if paying in USD",
-    "file_name": "/tmp/news_lk2/articles/e4/e430022e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130706",
-    "time_ut": 1656850701,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0ba4\u0bbe\u0bb3 \u0b89\u0bb2\u0b95 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd - \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/18/18e1404a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0dad\u0dd4-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-395059",
-    "time_ut": 1656850524,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/77/77d551fe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Suspect-arrested-for-illegal-possession-of-fuel-including-6-400-litres-of-diesel-in-Kilinochchi/108-240244",
-    "time_ut": 1656850210,
-    "original_lang": "en",
-    "original_title": "Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi",
-    "file_name": "/tmp/news_lk2/articles/3c/3c94f8a9.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc2\u0bb2\u0bc8-4-5-\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0bae\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8/175-299641",
-    "time_ut": 1656849517,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0bc2\u0bb2\u0bc8 4, 5 \u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/0f/0fe6cab5.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/03/fuel-crisis-will-trains-operate-next-week/",
-    "time_ut": 1656849420,
-    "original_lang": "en",
-    "original_title": "Fuel Crisis: Will Trains Operate next week?",
-    "file_name": "/tmp/news_lk2/articles/0c/0c254356.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/03/donation-program-at-dehiwala-zoo/",
-    "time_ut": 1656849120,
-    "original_lang": "en",
-    "original_title": "Donation program at Dehiwala Zoo",
-    "file_name": "/tmp/news_lk2/articles/b5/b5850db4.json"
   }
 ]
