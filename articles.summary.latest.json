@@ -600,14 +600,6 @@
     "file_name": "/tmp/news_lk2/articles/b0/b0d7869f.json"
   },
   {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62086578",
-    "time_ut": 1657245683,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba : \u0da2\u0dd6\u0dbd\u0dd2 9 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
-    "file_name": "/tmp/news_lk2/articles/e3/e3b6b591.json"
-  },
-  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131024",
     "time_ut": 1657244178,
@@ -7998,5 +7990,13 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bbf \u0b89\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/0e/0e786556.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83421/country-has-a-president-not-visible-to-the-eye-wimal",
+    "time_ut": 1656935760,
+    "original_lang": "en",
+    "original_title": "Country has a president not visible to the eye - Wimal",
+    "file_name": "/tmp/news_lk2/articles/de/de759564.json"
   }
 ]

@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 13:31:42 (LK time)*
+*As of 2022-07-08 13:38:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (6 Articles)
 
-* **1** virakesari-lk ([12 இந்திய மீனவர்கள் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ecd3eea.json))
-
-## Last Hour (8 Articles)
-
-* **4** virakesari-lk ([பிரதமர் நியமனத்தில் ஜனாதிபதி வகுத்த வியூகம் வெற்றியளித்ததா ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bdfa6ba.json))
+* **3** virakesari-lk ([நாளைய ஆர்ப்பாட்டத்தை தடுத்து உத்தரவிடுமாறு நீதிமன்றில் பொலிஸார் விடுத்த கோரிக்கை நிராகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b82bd69e.json))
 
 * **1** lankadeepa-lk ([විදේශගත ශ්‍රමිකයන්ට විශ්‍රාම වැටුපක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484a81b0.json))
 
 * **1** tamil-mirror-lk ([நாமலின் மனைவி பறந்தார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e00d52ea.json))
 
 * **1** ada-lk ([නාමල් බිරිඳ ලිමිණි ප්‍රංශය බලා යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8974c3d2.json))
-
-* **1** ada-derana-lk ([Court dismisses police request against IUSF protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/782a0eec.json))
 
 ## Last 3 Hours (32 Articles)
 
@@ -36,11 +30,11 @@
 
 * **2** economy-next-com ([Sri Lanka raises Rs17.5bn from after auction Treasuries sales](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63ac4c3d.json))
 
-## Last 24 Hours (248 Articles)
-
-* **46** virakesari-lk ([கழுத்தை நெரிக்க காத்திருக்கும் மின்சாரக் கட்டணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a103b68f.json))
+## Last 24 Hours (246 Articles)
 
 * **46** lankadeepa-lk ([ඩීසල් හිඟයෙන් බහාලුම් රථත් නවතින ලකුණු](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81f10c30.json))
+
+* **45** virakesari-lk ([இலங்கையின் பொருளாதார நெருக்கடிக்கு சீனாவின் கடன்பொறியே காரணம் - தாய்வான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86122a06.json))
 
 * **36** daily-mirror-lk ([Two representatives of Russian Oil Company arrive in SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc804b3.json))
 
@@ -60,19 +54,19 @@
 
 * **2** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-* **2** b-b-c-com-sinhala ([ප්‍රතිපත්ති පොලී අනුපාත ඉහළ දැමීමෙන් මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df15a02a.json))
+* **1** b-b-c-com-sinhala ([ප්‍රතිපත්ති පොලී අනුපාත ඉහළ දැමීමෙන් මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df15a02a.json))
 
 * **1** d-b-s-jeyaraj-com ([Memories of Pro-China Communist   Party Leader  Comrade “Shan”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2c5cf9.json))
 
-## Last Week (1,755 Articles)
+## Last Week (1,751 Articles)
 
 * **361** virakesari-lk ([ஸ்ரீலங்கா பொதுஜன பெரமுன தலைமையிலான அரசாங்கம் மீண்டும் தோற்றம் பெற வேண்டும் - ஜகத் குமார](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/506de593.json))
 
 * **261** lankadeepa-lk ([දෙවිනුවර පංච පුද්ගල ඝාතනයට හයක් පෝරකයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4c6565c.json))
 
-* **197** ada-lk ([සෞඛ්‍ය නිලධාරීගේ නාස් පොල්ල කැඩෙන්න ගහලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06e2c825.json))
+* **196** ada-lk ([මර්වින් සිල්වා ශ්‍රීලනිපයට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04c509ad.json))
 
-* **188** daily-mirror-lk ([Australia beat Sri Lanka by 10 wickets in Galle](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a532352b.json))
+* **187** daily-mirror-lk ([Tense situation at Fort Railway Station](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e7fe9be.json))
 
 * **162** tamil-mirror-lk ([பிள்ளைகளுடன் ஆற்றில் குதித்த தாய்; சிறுவன் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e64ae298.json))
 
@@ -80,7 +74,7 @@
 
 * **133** news-first-lk ([Postal service crippled by trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ee49812.json))
 
-* **102** economy-next-com ([Sri Lanka’s state-run Litro Gas to distribute cooking gas from July 06](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/791fdaa9.json))
+* **101** economy-next-com ([Sri Lanka can avoid food shortages by relaxing open account imports: Trade Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ca9f627.json))
 
 * **72** daily-ft-lk ([Common good constitutionalism for Sri Lanka: The impossible dream?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3ba2d4a.json))
 
@@ -88,11 +82,11 @@
 
 * **36** d-b-s-jeyaraj-com ([Livelihood of Northern Sri Lankan Fishermen  Being “Crushed” again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43992a87.json))
 
-* **16** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
+* **15** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
 * **13** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (3,935 Articles)
+## All Time (3,934 Articles)
 
 * **717** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -118,4 +112,4 @@
 
 * **49** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
-* **47** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
+* **46** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))
