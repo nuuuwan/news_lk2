@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/explainer-why-foreign-nations-use-imf-as-a-shield-to-help-crisis-hit-sri-lanka-97112/",
+    "time_ut": 1657285800,
+    "original_lang": "en",
+    "original_title": "EXPLAINER \u2013 Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/57/573e687d.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299969",
     "time_ut": 1657285034,
@@ -8,12 +16,28 @@
     "file_name": "/tmp/news_lk2/articles/79/79958967.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db8\u0d9a\u0dcf\u0db8\u0dd3-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d91\u0da2\u0dcf\u0db4\u0dba-\u0dc3\u0dc4\u0dba-\u0daf\u0dd9\u0db1\u0dc0\u0dcf/1-616083",
+    "time_ut": 1657285020,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db8\u0d9a\u0dcf\u0db8\u0dd3 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0d91\u0da2\u0dcf\u0db4\u0dba \u0dc3\u0dc4\u0dba \u0daf\u0dd9\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/3a/3a377c6f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83512/traffic-in-colombo-obstructed-by-protest-march",
     "time_ut": 1657284960,
     "original_lang": "en",
     "original_title": "Traffic in Colombo obstructed by protest march",
     "file_name": "/tmp/news_lk2/articles/f8/f8b54ccb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83512/iusf-protest-march-tear-gassed-in-colombo",
+    "time_ut": 1657284960,
+    "original_lang": "en",
+    "original_title": "IUSF protest march tear-gassed in Colombo",
+    "file_name": "/tmp/news_lk2/articles/28/284a5b10.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -30,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd -\u00a0 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/c0/c046efb2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-395231",
+    "time_ut": 1657284108,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/81/81ee2d93.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -609,11 +641,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0daf\u0dcf-\u0d9c\u0db8\u0db1-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca/1-616065",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0db6\u0dc3\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0daf\u0dcf-\u0d9c\u0db8\u0db1-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca/11-616065",
     "time_ut": 1657270227,
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0daf\u0dcf \u0d9c\u0db8\u0db1 \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cf/cf173ecb.json"
+    "file_name": "/tmp/news_lk2/articles/47/4761aa45.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Wijayadasa receives draft new constitution",
     "file_name": "/tmp/news_lk2/articles/f2/f275125f.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Litro-Gas-PUCSL-among-entities-summoned-before-COPE/56-737066",
-    "time_ut": 1656971774,
-    "original_lang": "en",
-    "original_title": "Litro Gas, PUCSL among entities summoned before COPE",
-    "file_name": "/tmp/news_lk2/articles/28/288baa89.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Essential-service-order-before-P-ment-tomorrow/56-737065",
-    "time_ut": 1656971760,
-    "original_lang": "en",
-    "original_title": "Essential service order before P\u2019ment tomorrow",
-    "file_name": "/tmp/news_lk2/articles/b8/b8a7476e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/EFC-appoints-new-Council-and-Board-of-Trustees-for-2022-2023/34-737064",
-    "time_ut": 1656971677,
-    "original_lang": "en",
-    "original_title": "EFC appoints new Council and Board of Trustees for 2022/2023",
-    "file_name": "/tmp/news_lk2/articles/60/60e7e9a5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/ACME-Printing-Packaging-mulls-buying-of-JF-Packaging/34-737063",
-    "time_ut": 1656971633,
-    "original_lang": "en",
-    "original_title": "ACME Printing & Packaging mulls buying of JF Packaging",
-    "file_name": "/tmp/news_lk2/articles/ca/ca4fee39.json"
   }
 ]
