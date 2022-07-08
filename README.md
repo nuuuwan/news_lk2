@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 03:59:22 (LK time)*
+*As of 2022-07-09 04:09:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (5 Articles)
 
 * **3** ada-derana-lk ([Assign pregnant govt officials to work stations close to home: Female MPs’ Caucus](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1acdb19f.json))
 
-* **3** daily-ft-lk ([LIOC suspends fuel distribution till Sunday](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e855747b.json))
-
 * **2** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
-
-* **1** tamil-mirror-lk ([’அமைதியான முறையில் போராடுங்கள்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a37f4ca.json))
 
 ## Last 24 Hours (288 Articles)
 
