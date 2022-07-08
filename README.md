@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 04:23:21 (LK time)*
+*As of 2022-07-09 04:32:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
-* **3** ada-derana-lk ([Assign pregnant govt officials to work stations close to home: Female MPs’ Caucus](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1acdb19f.json))
+* **2** ada-derana-lk ([BASL decries imposition of police curfew ahead of mass protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53a6ff70.json))
 
 * **2** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
-## Last 24 Hours (286 Articles)
+## Last 24 Hours (283 Articles)
 
 * **61** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
 
@@ -26,7 +26,7 @@
 
 * **21** ada-lk ([ඉන්ධන පෝලිමේ ගැටුමෙන් අයෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fd8b569.json))
 
-* **19** daily-ft-lk ([Canadian High Commissioner calls on President; McKinnon expresses support](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d5c64a.json))
+* **16** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
 
 * **11** economy-next-com ([Sri Lanka top five SOEs lose Rs931bn amid monetary instability](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11544ebc.json))
 
