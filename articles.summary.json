@@ -328,6 +328,14 @@
     "file_name": "/tmp/news_lk2/articles/a8/a89f64d9.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/lanka-ioc-to-suspend-fuel-delivery-for-friday-8-and-saturday-9/",
+    "time_ut": 1657266300,
+    "original_lang": "en",
+    "original_title": "Lanka IOC to suspend fuel delivery for Friday (8) and Saturday (9)",
+    "file_name": "/tmp/news_lk2/articles/02/02fe3b77.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca/11-395224",
     "time_ut": 1657266106,
