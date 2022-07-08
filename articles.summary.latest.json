@@ -1,27 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd9\u0da7-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db4\u0d9a\u0dca\u0dc2-\u0dbb\u0dd0\u0dc3\u0d9a-\u0dc3\u0dc4\u0dba/1-616078",
+    "time_ut": 1657280840,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db4\u0d9a\u0dca\u0dc2 \u0dbb\u0dd0\u0dc3\u0d9a \u0dc3\u0dc4\u0dba",
+    "file_name": "/tmp/news_lk2/articles/23/23d14426.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83511/all-private-pharmacies-closed-tomorrow",
+    "time_ut": 1657280400,
+    "original_lang": "en",
+    "original_title": "All private pharmacies closed tomorrow",
+    "file_name": "/tmp/news_lk2/articles/4c/4cb4152d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-pharmacies-will-function-tomorrow-Pharmacy-Owners-Assn/342-240625",
+    "url": "https://www.dailymirror.lk/breaking_news/No-pharmacies-will-function-tomorrow-Pharmacy-Owners-Assn/108-240625",
     "time_ut": 1657280244,
     "original_lang": "en",
     "original_title": "No pharmacies will function tomorrow: Pharmacy Owners\u2019 Assn.",
-    "file_name": "/tmp/news_lk2/articles/f1/f1e37ef4.json"
+    "file_name": "/tmp/news_lk2/articles/54/54cb8742.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/basl-voices-concern-over-22a/",
-    "time_ut": 1657279800,
-    "original_lang": "en",
-    "original_title": "BASL voices concern over 22A",
-    "file_name": "/tmp/news_lk2/articles/92/923f63ad.json"
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131069",
+    "time_ut": 1657279638,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8  \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd : \u0b9c\u0bc7. \u0b86\u0bb0\u0bc8 \u0b89\u0ba4\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/906b1c87.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/bharat-petro-supports-refueling-ul-flights/",
-    "time_ut": 1657279500,
-    "original_lang": "en",
-    "original_title": "Bharat Petro supports refueling UL flights",
-    "file_name": "/tmp/news_lk2/articles/7d/7d35aa77.json"
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131061",
+    "time_ut": 1657279555,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd ; 3500 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9 : 50 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/16/1637000b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -65,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0dd0\u0daf\u0dd6-67\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616076",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0dd0\u0daf\u0dd6-67\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-616076",
     "time_ut": 1657278722,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0dd0\u0daf\u0dd6 67\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/22/2228df7f.json"
+    "file_name": "/tmp/news_lk2/articles/5b/5b6acd2a.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -145,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0da2\u0db1\u0dad\u0dcf-\u0dc4\u0dac\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0dab-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1\u2018\u2018/101-616075",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0da2\u0db1\u0dad\u0dcf-\u0dc4\u0dac\u0da7-\u0db8\u0dd4\u0dc4\u0dd4\u0dab-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1\u2018\u2018/1-616075",
     "time_ut": 1657275321,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0da2\u0db1\u0dad\u0dcf \u0dc4\u0dac\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd1\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/d2/d2118344.json"
+    "file_name": "/tmp/news_lk2/articles/bf/bf1cffab.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -169,11 +185,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8-1-\u0dad\u0dd9\u0d9a\u0dca-\u0daf\u0dd2\u0d9c\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-616073",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8-1-\u0dad\u0dd9\u0d9a\u0dca-\u0daf\u0dd2\u0d9c\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-616073",
     "time_ut": 1657274341,
     "original_lang": "si",
     "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8 1 \u0dad\u0dd9\u0d9a\u0dca \u0daf\u0dd2\u0d9c\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/68/68f28f71.json"
+    "file_name": "/tmp/news_lk2/articles/47/47911b0f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8 \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bbe\u0b9f\u0bae\u0bcd\u2019",
     "file_name": "/tmp/news_lk2/articles/94/94868e4f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0bae\u0bcb\u0ba4\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-299735",
-    "time_ut": 1656959244,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0ba4\u0bb5\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/cd/cd5d4eaf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/Economic-downfall-forces-students-to-quit-Uni/277-240357",
-    "time_ut": 1656958506,
-    "original_lang": "en",
-    "original_title": "Economic downfall forces students to quit Uni",
-    "file_name": "/tmp/news_lk2/articles/9d/9d43fbd2.json"
   }
 ]
