@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131112",
+    "time_ut": 1657301085,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u00a0 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fe/fe926058.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/un-high-commissioner-urges-authorities-to-show-restraint-protestors-to-remain-peaceful/",
+    "time_ut": 1657300440,
+    "original_lang": "en",
+    "original_title": "UN High Commissioner urges authorities to show restraint, protestors to remain peaceful",
+    "file_name": "/tmp/news_lk2/articles/9c/9c12d93a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131111",
+    "time_ut": 1657300249,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b5/b5f33eca.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131109",
+    "time_ut": 1657299953,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a1/a178e12d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83517/police-armed-forces-empowered-to-use-necessary-force-to-prevent-violence",
     "time_ut": 1657299780,
@@ -24,12 +56,28 @@
     "file_name": "/tmp/news_lk2/articles/7e/7e6005de.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/no-trains-in-police-curfew-areas-railways/",
+    "time_ut": 1657299240,
+    "original_lang": "en",
+    "original_title": "No trains in Police curfew areas: Railways",
+    "file_name": "/tmp/news_lk2/articles/75/754c5da4.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131106",
     "time_ut": 1657299190,
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/ef/ef190ca2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/the-aragalaya-is-for-you-too-sf-appeals-tri-forces/",
+    "time_ut": 1657298940,
+    "original_lang": "en",
+    "original_title": "The \u2018Aragalaya\u2019 is for you too: SF appeals tri-forces",
+    "file_name": "/tmp/news_lk2/articles/92/92d753da.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -57,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/108-240634",
+    "url": "https://www.dailymirror.lk/latest_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/342-240634",
     "time_ut": 1657298466,
     "original_lang": "en",
     "original_title": "Certain elements attempting to incite violence under guise of peaceful protests - Kamal Gunaratne",
-    "file_name": "/tmp/news_lk2/articles/06/06b7517a.json"
+    "file_name": "/tmp/news_lk2/articles/35/353195e0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Cabinet Sub-Committee on Cost of Living appointed",
     "file_name": "/tmp/news_lk2/articles/81/81995453.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd-\u0dc3\u0db8\u0d9c-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2/11-395110",
-    "time_ut": 1656998714,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd \u0dc3\u0db8\u0d9c \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/52/5215c69e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/opposition-must-support-pm-govt-give-them-six-months-to-resolve-crisis-minister-96940/",
-    "time_ut": 1656998700,
-    "original_lang": "en",
-    "original_title": "Opposition must support PM, govt, give them six months to resolve crisis: Minister",
-    "file_name": "/tmp/news_lk2/articles/0a/0ad46604.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130812",
-    "time_ut": 1656998699,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a4/a42fa404.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2---\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7/11-395109",
-    "time_ut": 1656998467,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 - \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/6b/6ba49b63.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-10\u0d9a\u0da7-\u0d9a\u0dbd\u0dca-\u0dad\u0db6\u0dba\u0dd2/11-395108",
-    "time_ut": 1656998078,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 10\u0d9a\u0da7 \u0d9a\u0dbd\u0dca \u0dad\u0db6\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/55/55c51528.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130807",
-    "time_ut": 1656997786,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb2\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b8e\u0ba3\u0bcd\u0bae\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b3/b3a5fe6b.json"
   }
 ]

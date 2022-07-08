@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131112",
+    "time_ut": 1657301085,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u00a0 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fe/fe926058.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/un-high-commissioner-urges-authorities-to-show-restraint-protestors-to-remain-peaceful/",
+    "time_ut": 1657300440,
+    "original_lang": "en",
+    "original_title": "UN High Commissioner urges authorities to show restraint, protestors to remain peaceful",
+    "file_name": "/tmp/news_lk2/articles/9c/9c12d93a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131111",
+    "time_ut": 1657300249,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b5/b5f33eca.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131109",
+    "time_ut": 1657299953,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a1/a178e12d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83517/police-armed-forces-empowered-to-use-necessary-force-to-prevent-violence",
     "time_ut": 1657299780,
@@ -24,12 +56,28 @@
     "file_name": "/tmp/news_lk2/articles/7e/7e6005de.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/no-trains-in-police-curfew-areas-railways/",
+    "time_ut": 1657299240,
+    "original_lang": "en",
+    "original_title": "No trains in Police curfew areas: Railways",
+    "file_name": "/tmp/news_lk2/articles/75/754c5da4.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131106",
     "time_ut": 1657299190,
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/ef/ef190ca2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/the-aragalaya-is-for-you-too-sf-appeals-tri-forces/",
+    "time_ut": 1657298940,
+    "original_lang": "en",
+    "original_title": "The \u2018Aragalaya\u2019 is for you too: SF appeals tri-forces",
+    "file_name": "/tmp/news_lk2/articles/92/92d753da.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -57,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/108-240634",
+    "url": "https://www.dailymirror.lk/latest_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/342-240634",
     "time_ut": 1657298466,
     "original_lang": "en",
     "original_title": "Certain elements attempting to incite violence under guise of peaceful protests - Kamal Gunaratne",
-    "file_name": "/tmp/news_lk2/articles/06/06b7517a.json"
+    "file_name": "/tmp/news_lk2/articles/35/353195e0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
