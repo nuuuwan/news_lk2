@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131096",
+    "time_ut": 1657294047,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 2500 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ae/aece4f4a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/no-disruptions-to-telecommunication-services-trcsl/",
+    "time_ut": 1657293420,
+    "original_lang": "en",
+    "original_title": "NO disruptions to telecommunication services: TRCSL",
+    "file_name": "/tmp/news_lk2/articles/66/66acb3d2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3-7\u0d9a\u0da7-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba/11-395235",
+    "time_ut": 1657293308,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d9a\u0ddc\u0da7\u0dca\u0da8\u0dcf\u0dc3 7\u0d9a\u0da7 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/a9/a91bb4d5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/govt-should-not-try-and-curtail-the-peoples-right-of-expression-sajith/",
+    "time_ut": 1657293120,
+    "original_lang": "en",
+    "original_title": "Govt should Not Try and Curtail The People\u2019s Right of Expression \u2013 Sajith",
+    "file_name": "/tmp/news_lk2/articles/16/165d6784.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0db4\u0dc0\u0dad\u0dd2\u0db1-\u0dad\u0dad\u0dca\u0dc0\u0dba-\u0daf\u0dd2\u0db1-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca-\u0dad\u0dd4\u0dc5-\u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dc0\u0dcf/101-616088",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0dda-\u0db4\u0dc0\u0dad\u0dd2\u0db1-\u0dad\u0dad\u0dca\u0dc0\u0dba-\u0daf\u0dd2\u0db1-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca-\u0dad\u0dd4\u0dc5-\u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dc0\u0dcf/1-616088",
     "time_ut": 1657292550,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0dda \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0dad\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd2\u0db1 \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/7a/7adb347e.json"
+    "file_name": "/tmp/news_lk2/articles/4b/4b7ee92d.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -38,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Parts of Western Province under police curfew",
     "file_name": "/tmp/news_lk2/articles/41/41084fe1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/breaking-police-curfew-for-multiple-areas-in-colombo/",
+    "time_ut": 1657291140,
+    "original_lang": "en",
+    "original_title": "BREAKING: Police curfew for multiple areas in Colombo",
+    "file_name": "/tmp/news_lk2/articles/ef/ef9dee47.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -11729,11 +11769,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Four-fuel-shipments-to-reach-SL-this-month/155-240238",
+    "url": "https://www.dailymirror.lk/breaking_news/Four-fuel-shipments-to-reach-SL-this-month/108-240238",
     "time_ut": 1656835907,
     "original_lang": "en",
     "original_title": "Four fuel shipments to reach SL this month",
-    "file_name": "/tmp/news_lk2/articles/cc/ccccd23a.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0cbb486.json"
   },
   {
     "newspaper_id": "virakesari-lk",
