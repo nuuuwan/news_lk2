@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 23:33:36 (LK time)*
+*As of 2022-07-08 23:38:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **1** tamil-mirror-lk ([புகையிரத சேவை இடைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93df730d.json))
 
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
-* **3** virakesari-lk ([நாளை கொழும்பை சுற்றிவளைப்போம் - அனைத்துக்கட்சி மாணவர் ஒன்றியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a178e12d.json))
+* **2** virakesari-lk ([ரயில் சேவை குறித்து புகையிரத திணைக்களம் விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5f33eca.json))
 
 * **1** tamil-mirror-lk ([புகையிரத சேவை இடைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93df730d.json))
 
@@ -34,7 +34,7 @@
 
 * **1** ada-lk ([පොලිස් කොට්ඨාස 7කට ඇඳිරි නීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91bb4d5.json))
 
-## Last 24 Hours (270 Articles)
+## Last 24 Hours (267 Articles)
 
 * **53** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
 
@@ -46,9 +46,9 @@
 
 * **28** tamil-mirror-lk ([’அமைதியான போராட்டங்களை நடத்தலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/854cf6e2.json))
 
-* **26** ada-lk ([බෙලාරුසියානු බුද්ධි ප්‍රධානී කරන ප්‍රබල අනතුරු ඇඟවීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72cb253b.json))
-
 * **25** ada-derana-lk ([Youth killed in filling station clash at Galle](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d7869f.json))
+
+* **24** ada-lk ([ට්‍රම්ප්ගේ හිටපු උපදේශක යුක්රේන අනාගතය දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7d05721.json))
 
 * **13** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
 
@@ -56,9 +56,9 @@
 
 * **4** b-b-c-com-sinhala ([ප්‍රතිපත්ති පොලී අනුපාත ඉහළ දැමීමෙන් මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df15a02a.json))
 
-* **3** island-lk ([Inflation likely to hit 70 per cent soon but would return to single digits in medium term- CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc69fa2c.json))
-
 * **2** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
+
+* **2** island-lk ([SLT-MOBITEL to empower luxury living for residents of NEM Construction project](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feac8d23.json))
 
 ## Last Week (1,791 Articles)
 
