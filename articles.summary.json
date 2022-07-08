@@ -1,19 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83517/police-armed-forces-empowered-to-use-necessary-force-to-prevent-violence",
+    "time_ut": 1657299780,
+    "original_lang": "en",
+    "original_title": "Police, armed forces empowered to use necessary force to prevent violence",
+    "file_name": "/tmp/news_lk2/articles/14/1403a876.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131108",
+    "time_ut": 1657299685,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd - \u0bb5\u0bbe\u0b9a\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/38/38b1836f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131107",
+    "time_ut": 1657299478,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2\u0bb5\u0bc0\u0ba9\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd - \u0b93\u0bae\u0bb2\u0bcd\u0baa\u0bc7 \u0b9a\u0bcb\u0baa\u0bbf\u0ba4 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7e/7e6005de.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131106",
     "time_ut": 1657299190,
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/ef/ef190ca2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/the-aragalaya-is-for-you-too-sf-appeals-tri-forces/",
-    "time_ut": 1657298940,
-    "original_lang": "en",
-    "original_title": "The \u2018Aragalaya\u2019 is for you too: SF appeals tri-forces",
-    "file_name": "/tmp/news_lk2/articles/92/92d753da.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/342-240634",
+    "url": "https://www.dailymirror.lk/breaking_news/Certain-elements-attempting-to-incite-violence-under-guise-of-peaceful-protests-Kamal-Gunaratne/108-240634",
     "time_ut": 1657298466,
     "original_lang": "en",
     "original_title": "Certain elements attempting to incite violence under guise of peaceful protests - Kamal Gunaratne",
-    "file_name": "/tmp/news_lk2/articles/35/353195e0.json"
+    "file_name": "/tmp/news_lk2/articles/06/06b7517a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
