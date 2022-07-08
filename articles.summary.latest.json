@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Foreign-Minister-apprises-UN-Resident-Coordinator-of-current-status-of-shortages/56-737264",
+    "time_ut": 1657308655,
+    "original_lang": "en",
+    "original_title": "Foreign Minister apprises UN Resident Coordinator of current status of shortages",
+    "file_name": "/tmp/news_lk2/articles/91/91b3e00f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/LIOC-suspends-fuel-distribution-till-Sunday/56-737263",
     "time_ut": 1657308585,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares slip 1-pct in mid-day trade",
     "file_name": "/tmp/news_lk2/articles/d0/d0426ade.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Man-waiting-in-fuel-queue-in-Borella-dies/108-240382",
-    "time_ut": 1657001881,
-    "original_lang": "en",
-    "original_title": "Man waiting in fuel queue in Borella dies",
-    "file_name": "/tmp/news_lk2/articles/21/21ef5e11.json"
   }
 ]
