@@ -21,7 +21,7 @@
         "At a time when attention was being paid to the position of Prime Minister, President Gotabaya Rajapaksa on May 12th elected Ranil Wickramasinghe as Prime Minister through a national list on May 12th, after a party advised the President that it would be better to appoint Ranil Wickramasinghe, who has knowledge in politics, as Prime Minister than Sajith Premadasa.",
         "The arrival of Prime Minister Ranil Wickremesinghe has prevented the President who was on the verge of resigning due to the economic crisis and the people's struggle, which can be explained through various factors.",
         "A few decisions made including the agriculture sector were the main reason for the economic crisis and popular protests.",
-        "Before Ranil Wickremesinghe assumed the office of Prime Minister, the president's lawyer Vijayadasa Rajapaksa, who strongly criticized the president, after taking charge of the Ministry of Justice, Prisons Affairs and Constitutional Reform, said that if President Gotabaya Rajapaksa steps down, then the founder of Budujana Peramuna, Bashil Rajapaksa, will be elected as the replacement president through the majority of the parliament.",
+        "Before Ranil Wickremesinghe assumed the office of Prime Minister, the president's lawyer Vijayadasa Rajapaksa, who strongly criticized the president, after taking charge of the Ministry of Justice, Prisons Affairs and Constitutional Reform, said that if President Gotabaya Rajapaksa steps down, the founder of Budujana Peramuna, Bashil Rajapaksa, will be elected as the replacement president through the majority strength of the Parliament.",
         "But the struggle of the people also gave birth to a massive change. The popular struggle weakened the Sri Lanka Podujana Peramuna, which had ruled with two-thirds majority support. Mahinda Rajapaksa would still hold office as Prime Minister today.",
         "To face challenges such as economic crisis, especially foreign reserves crisis, getting financial cooperation from the International Monetary Fund and subsequently getting financial assistance from friendly countries and the world. This is the final solution, Prime Minister Ranil Wickremesinghe has mentioned many times in Parliament.",
         "Various negotiations are currently underway to obtain the cooperation of the International Monetary Fund. Lazard, based in Burma, and Gilbert & Sons, headquartered in London, have been appointed to advise on law and debt restructuring.",
@@ -196,6 +196,10 @@
           {
             "text": "Bashil Rajapaksa",
             "label": "PERSON"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
           }
         ],
         [
@@ -509,6 +513,10 @@
           {
             "text": "\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
           }
         ],
         [
@@ -822,6 +830,10 @@
           {
             "text": "\u0baa\u0bb7\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
           }
         ],
         [
