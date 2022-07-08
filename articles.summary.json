@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Call-for-restraint-ahead-of-Sri-Lanka-protest-UN/155-240623",
+    "time_ut": 1657279499,
+    "original_lang": "en",
+    "original_title": "Call for restraint ahead of Sri Lanka protest - UN",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf4613a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131056",
+    "time_ut": 1657279295,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 6800 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/65/6590b0b8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/health-ministry-preventing-workers-from-joining-protests/",
+    "time_ut": 1657279140,
+    "original_lang": "en",
+    "original_title": "Health Ministry preventing workers from joining protests",
+    "file_name": "/tmp/news_lk2/articles/ca/ca242b26.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131076",
+    "time_ut": 1657279052,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/12/127d2070.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131075",
     "time_ut": 1657278935,
@@ -16,12 +48,44 @@
     "file_name": "/tmp/news_lk2/articles/22/2228df7f.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/npp-to-support-9th-july-aragalaya/",
+    "time_ut": 1657277880,
+    "original_lang": "en",
+    "original_title": "NPP to support 9th July Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/83/83733b6f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/rakna-arakshaka-lanka-ltd-moved-under-dhammika/",
+    "time_ut": 1657277580,
+    "original_lang": "en",
+    "original_title": "Rakna Arakshaka Lanka Ltd moved under Dhammika",
+    "file_name": "/tmp/news_lk2/articles/84/84cdcbbf.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131071",
     "time_ut": 1657277491,
     "original_lang": "ta",
     "original_title": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 1486 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/9f/9f846ee9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/ams-to-refrain-from-private-practice-tomorrow-9/",
+    "time_ut": 1657276980,
+    "original_lang": "en",
+    "original_title": "AMS to refrain from private practice tomorrow (9)",
+    "file_name": "/tmp/news_lk2/articles/e7/e7fb2a30.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/police-to-take-action-if-protests-turn-violent/",
+    "time_ut": 1657276740,
+    "original_lang": "en",
+    "original_title": "Police to take action if protests turn violent",
+    "file_name": "/tmp/news_lk2/articles/cd/cd79a25c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -201,11 +265,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Former-Japanese-PM-Shinzo-Abe-dies/155-240619",
+    "url": "https://www.dailymirror.lk/breaking_news/Former-Japanese-PM-Shinzo-Abe-dies/108-240619",
     "time_ut": 1657271845,
     "original_lang": "en",
     "original_title": "Former Japanese PM Shinzo Abe dies",
-    "file_name": "/tmp/news_lk2/articles/64/644990b4.json"
+    "file_name": "/tmp/news_lk2/articles/88/88bc3a3f.json"
   },
   {
     "newspaper_id": "economy-next-com",
