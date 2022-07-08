@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83507/train-ticket-fares-increased-from-next-week",
+    "time_ut": 1657270800,
+    "original_lang": "en",
+    "original_title": "Train ticket fares increased from next week",
+    "file_name": "/tmp/news_lk2/articles/f7/f78171f6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131057",
+    "time_ut": 1657270607,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b8f\u0ba9\u0bcd - \u0bb0\u0bb5\u0bbf\u0b95\u0bc1\u0bae\u0bc1\u0ba4\u0bc7\u0bb8\u0bcd \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/95/9542713a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83506/lioc-suspends-fuel-distribution-to-filling-stations-today-and-tomorrow",
+    "time_ut": 1657270500,
+    "original_lang": "en",
+    "original_title": "LIOC suspends fuel distribution to filling stations today and tomorrow",
+    "file_name": "/tmp/news_lk2/articles/b9/b931563f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd-\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bb8\u0bcd-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/76-299962",
+    "time_ut": 1657270311,
+    "original_lang": "ta",
+    "original_title": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/73/738fba09.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/100-flights-from-Sri-Lanka-refueled-by-Bharat-Petroleum-in-Tamil-Nadu/108-240614",
+    "time_ut": 1657269434,
+    "original_lang": "en",
+    "original_title": "100 flights from Sri Lanka refueled by Bharat Petroleum in Tamil Nadu",
+    "file_name": "/tmp/news_lk2/articles/de/de8c31af.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bb2\u0bcd\u0bb2-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe/175-299961",
+    "time_ut": 1657269289,
+    "original_lang": "ta",
+    "original_title": "\u201c\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bb2\u0bcd\u0bb2\u201d - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/ef/ef0a2f03.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131055",
     "time_ut": 1657268550,
@@ -9,19 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Protest-peacefully-US-ambassador/108-240613",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-peacefully-US-ambassador/342-240613",
     "time_ut": 1657268493,
     "original_lang": "en",
     "original_title": "Protest peacefully - US ambassador",
-    "file_name": "/tmp/news_lk2/articles/52/5202e362.json"
+    "file_name": "/tmp/news_lk2/articles/f7/f796abb5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Medical-specialists-to-refrain-from-private-medical-practice-tomorrow-to-support-struggle/108-240612",
+    "url": "https://www.dailymirror.lk/latest_news/Medical-specialists-to-refrain-from-private-medical-practice-tomorrow-to-support-struggle/342-240612",
     "time_ut": 1657267968,
     "original_lang": "en",
     "original_title": "Medical specialists to refrain from private medical practice tomorrow to support struggle",
-    "file_name": "/tmp/news_lk2/articles/2b/2b39040b.json"
+    "file_name": "/tmp/news_lk2/articles/95/95fa1cce.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -46,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Chaos and force will not fix economic crisis in Sri Lanka: US envoy",
     "file_name": "/tmp/news_lk2/articles/fa/fa06ecb1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0da2\u0db1-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba-\u0d9c\u0dd0\u0db1--\u0d9a\u0d82\u0da0\u0db1-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-616063",
+    "time_ut": 1657267560,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4\u0da2\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba \u0d9c\u0dd0\u0db1  \u0d9a\u0d82\u0da0\u0db1 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4dcaea55.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -198,6 +254,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u00a0\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd\u00a0\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bc6\u0bbe\u0bb3\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0ba9\u0bc8 \u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0bbe\u0bae\u0bcd - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/a0/a0af57fb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd6\u0dc4\u0d9c\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda\u0daf\u0dd3-\u0d9a\u0dcf\u0da7\u0dad\u0dca-\u0dc3\u0db8\u0dcf\u0db1-\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/101-616054",
+    "time_ut": 1657261628,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd6\u0dc4\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0d9a\u0dcf\u0da7\u0dad\u0dca \u0dc3\u0db8\u0dcf\u0db1 \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/ef/ef007cb0.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "BASL shows concern on deploying military at filling stations",
     "file_name": "/tmp/news_lk2/articles/09/090fd277.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Bicycles-are-back/110-240317",
-    "time_ut": 1656938989,
-    "original_lang": "en",
-    "original_title": "Bicycles are back.....",
-    "file_name": "/tmp/news_lk2/articles/9d/9d44e3fe.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/skyrocketed-vegetable-prices/110-240316",
-    "time_ut": 1656938744,
-    "original_lang": "en",
-    "original_title": "skyrocketed vegetable prices...",
-    "file_name": "/tmp/news_lk2/articles/05/05241d4a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8-12\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd-\u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd/175-299703",
-    "time_ut": 1656938513,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8: 12\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/16/16374fd1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf-\u0dc4\u0daf\u0db4\u0dd4-\u0d9c\u0dd9\u0dc0\u0dbd\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8-\u0dc3\u0dcf\u0db0\u0dcf\u0dbb\u0dab\u0dba\u0dd2/1-615859",
-    "time_ut": 1656938460,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dbb\u0dbd\u0dcf \u0dc4\u0daf\u0db4\u0dd4 \u0d9c\u0dd9\u0dc0\u0dbd\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8 \u0dc3\u0dcf\u0db0\u0dcf\u0dbb\u0dab\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ffaf78af.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dentsu-creative-bengalaru-wins-cannes-lions-agency-of-the-year/",
-    "time_ut": 1656938340,
-    "original_lang": "en",
-    "original_title": "DENTSU CREATIVE Bengalaru wins Cannes Lions Agency of the Year",
-    "file_name": "/tmp/news_lk2/articles/72/7224965e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cdb-smb-friday-empowers-women-entrepreneurs-in-sri-lanka-in-collaboration-with-patpat-lk/",
-    "time_ut": 1656938280,
-    "original_lang": "en",
-    "original_title": "CDB SMB Friday empowers women entrepreneurs in Sri Lanka in collaboration with patpat.lk",
-    "file_name": "/tmp/news_lk2/articles/9c/9cdfdf3c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sampath-bank-scores-9th-consecutive-win-at-world-finance-banking-awards/",
-    "time_ut": 1656938220,
-    "original_lang": "en",
-    "original_title": "Sampath Bank scores 9th consecutive win at World Finance Banking Awards",
-    "file_name": "/tmp/news_lk2/articles/67/67dd1265.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130789",
-    "time_ut": 1656938177,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0baf\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd ; \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd - \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/50/50e15076.json"
   }
 ]
