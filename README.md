@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 03:23:10 (LK time)*
+*As of 2022-07-09 03:29:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([OHCHR urges SL authorities to show restraint in policing of assemblies](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd501b58.json))
 
-* **1** daily-mirror-lk ([Corruption internationalised; Past haunts](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/722c9e59.json))
-
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (21 Articles)
 
 * **14** daily-ft-lk ([Roadmap for people-centred constitution in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/732aafd9.json))
 
@@ -18,7 +16,7 @@
 
 * **2** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
-* **2** tamil-mirror-lk ([ஜனாதிபதி இராஜினாமா செய்ய வேண்டுமென: செங்கடகல பிரகடனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d4589ac.json))
+* **1** tamil-mirror-lk ([22 இல் மாற்றங்கள் அவசியம்: இலங்கை சட்டத்தரணிகள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e3d198c.json))
 
 ## Last 24 Hours (286 Articles)
 
