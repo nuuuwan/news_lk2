@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 01:38:57 (LK time)*
+*As of 2022-07-09 01:45:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,31 +8,29 @@
 
 * **1** ada-derana-lk ([Assign pregnant govt officials to work stations close to home: Female MPs’ Caucus](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1acdb19f.json))
 
-## Last Hour (16 Articles)
+## Last Hour (12 Articles)
 
-* **14** daily-ft-lk ([Roadmap for people-centred constitution in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/732aafd9.json))
+* **10** daily-ft-lk ([GL reviews progress of domestic mechanisms in relation to reconciliation, human rights](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3183cc08.json))
 
 * **2** ada-derana-lk ([CEB introduces three new billing methods](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/529ed401.json))
 
-## Last 3 Hours (29 Articles)
+## Last 3 Hours (27 Articles)
 
 * **16** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
 
 * **4** ada-derana-lk ([Railway Dept issues notice on train operations tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31a769df.json))
 
-* **3** virakesari-lk ([ரயில் சேவை குறித்து புகையிரத திணைக்களம் விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5f33eca.json))
-
 * **2** tamil-mirror-lk ([புகையிரத சேவை இடைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93df730d.json))
 
 * **2** daily-mirror-lk ([Centuries for Labuschagne, Smith](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f58c6e27.json))
 
+* **2** virakesari-lk ([சர்வாதிகாரத்தை முறியடித்து  ஜனநாயகத்தை வெற்றி பெறச் செய்யுங்கள் - சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe926058.json))
+
 * **1** economy-next-com ([Sri Lanka’s stocks up but turnover slumps to over 2-mth low; political woes weigh](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba5f438.json))
 
-* **1** news-first-lk ([UN High Commissioner urges authorities to show restraint, protestors to remain peaceful](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c12d93a.json))
+## Last 24 Hours (284 Articles)
 
-## Last 24 Hours (283 Articles)
-
-* **57** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
+* **58** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
 
 * **41** lankadeepa-lk ([ඉන්ධනහලේ ගැටුමකින් දෙකක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9936ee11.json))
 
@@ -54,9 +52,9 @@
 
 * **2** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## Last Week (1,790 Articles)
+## Last Week (1,791 Articles)
 
-* **361** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
+* **362** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
 * **263** lankadeepa-lk ([ලක්ෂ පහක ඉන්ධන දොම්පෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65cd4403.json))
 
@@ -82,9 +80,9 @@
 
 * **13** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (4,126 Articles)
+## All Time (4,127 Articles)
 
-* **758** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **759** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **636** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
