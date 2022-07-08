@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83504/court-dismisses-police-request-against-iusf-protest",
+    "time_ut": 1657264020,
+    "original_lang": "en",
+    "original_title": "Court dismisses police request against IUSF protest",
+    "file_name": "/tmp/news_lk2/articles/78/782a0eec.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131044",
+    "time_ut": 1657263705,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0b95\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0baf\u0bc2\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe ?",
+    "file_name": "/tmp/news_lk2/articles/6b/6bdfa6ba.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/22nd-Amendment-bill-does-not-meet-peoples-aspirations-BASL/342-240611",
     "time_ut": 1657263511,
@@ -8,12 +24,36 @@
     "file_name": "/tmp/news_lk2/articles/42/42e84176.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131041",
+    "time_ut": 1657263425,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b95\u0bc6\u0bae\u0bc1\u0ba9\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/18/181787e3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131040",
+    "time_ut": 1657263180,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b86\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f2/f215ec52.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/No-buses-after-12-30-pm-SLTB-unions/342-240610",
     "time_ut": 1657262963,
     "original_lang": "en",
     "original_title": "No buses after 12.30 pm: SLTB unions",
     "file_name": "/tmp/news_lk2/articles/37/37354d7d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0-\u0dc4\u0dd9\u0da7-\u0d91\u0dba\u0dd2/11-395222",
+    "time_ut": 1657262730,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0 \u0dc4\u0dd9\u0da7 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f4/f4be01b7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
