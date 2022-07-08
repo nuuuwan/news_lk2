@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-edge-up-in-mid-day-trade-97102/",
+    "time_ut": 1657260780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares edge up in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/6c/6c676af0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-raises-rs17-5bn-from-after-auction-treasuries-sales-97103/",
+    "time_ut": 1657260780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka raises Rs17.5bn from after auction Treasuries sales",
+    "file_name": "/tmp/news_lk2/articles/63/63ac4c3d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131036",
     "time_ut": 1657259614,
@@ -104,12 +120,28 @@
     "file_name": "/tmp/news_lk2/articles/62/62e74d2c.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Lawyer-lodges-complaint-urging-CA-Sri-Lanka-to-disenrol-Cabraal/273-240595",
+    "time_ut": 1657256317,
+    "original_lang": "en",
+    "original_title": "Lawyer lodges complaint urging CA Sri Lanka to disenrol Cabraal",
+    "file_name": "/tmp/news_lk2/articles/30/305cd5bb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/08/slpp-mp-opens-fire-into-the-air-after-heated-argument/",
     "time_ut": 1657256280,
     "original_lang": "en",
     "original_title": "SLPP MP opens fire into the air after heated argument",
     "file_name": "/tmp/news_lk2/articles/19/19968e06.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/CB-issues-broad-guidance-to-banks-to-grant-concessions-to-crisis-hit-borrowers/273-240594",
+    "time_ut": 1657256234,
+    "original_lang": "en",
+    "original_title": "CB issues \u201cbroad guidance\u201d to banks to grant concessions to crisis-hit borrowers",
+    "file_name": "/tmp/news_lk2/articles/50/508babcc.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -438,6 +470,14 @@
     "original_lang": "en",
     "original_title": "Court rejects AG\u2019s request to prevent protesters entering close proximity to President\u2019s House",
     "file_name": "/tmp/news_lk2/articles/e0/e07da743.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/when-will-sri-lankan-children-be-prioritized-in-this-crisis/",
+    "time_ut": 1657241221,
+    "original_lang": "en",
+    "original_title": "When Will Sri Lankan Children Be Prioritized In This Crisis?",
+    "file_name": "/tmp/news_lk2/articles/ae/aed7198c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
