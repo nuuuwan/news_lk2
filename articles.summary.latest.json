@@ -2664,6 +2664,14 @@
     "file_name": "/tmp/news_lk2/articles/45/45a5cc2a.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/72437-2/",
+    "time_ut": 1657110420,
+    "original_lang": "en",
+    "original_title": "Queen of Hearts",
+    "file_name": "/tmp/news_lk2/articles/2a/2a2ee717.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-100\u0d9a-\u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca/11-395173",
     "time_ut": 1657108807,
@@ -7040,6 +7048,14 @@
     "file_name": "/tmp/news_lk2/articles/9a/9a585fd3.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-dangerous-trend/",
+    "time_ut": 1656939960,
+    "original_lang": "en",
+    "original_title": "A dangerous trend",
+    "file_name": "/tmp/news_lk2/articles/a1/a1d4bfbf.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0d9c\u0dad\u0dca-\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dc3\u0dd0\u0dbb-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/1-615861",
     "time_ut": 1656939735,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dda  \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9c\u0dd0\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b5/b568a29b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89-\u0ba4-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd/175-299685",
-    "time_ut": 1656918565,
-    "original_lang": "ta",
-    "original_title": "\u0b89/\u0ba4 \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/84/8468db4e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db8-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-395076",
-    "time_ut": 1656918408,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0db8 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1\u0dda \u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b2/b22cc1e5.json"
   }
 ]
