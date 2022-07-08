@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-pharmacies-will-function-tomorrow-Pharmacy-Owners-Assn/342-240625",
+    "time_ut": 1657280244,
+    "original_lang": "en",
+    "original_title": "No pharmacies will function tomorrow: Pharmacy Owners\u2019 Assn.",
+    "file_name": "/tmp/news_lk2/articles/f1/f1e37ef4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/basl-voices-concern-over-22a/",
+    "time_ut": 1657279800,
+    "original_lang": "en",
+    "original_title": "BASL voices concern over 22A",
+    "file_name": "/tmp/news_lk2/articles/92/923f63ad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/bharat-petro-supports-refueling-ul-flights/",
+    "time_ut": 1657279500,
+    "original_lang": "en",
+    "original_title": "Bharat Petro supports refueling UL flights",
+    "file_name": "/tmp/news_lk2/articles/7d/7d35aa77.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Call-for-restraint-ahead-of-Sri-Lanka-protest-UN/155-240623",
     "time_ut": 1657279499,
     "original_lang": "en",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Economic downfall forces students to quit Uni",
     "file_name": "/tmp/news_lk2/articles/9d/9d43fbd2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Mr-President-its-not-too-late/352-240356",
-    "time_ut": 1656957449,
-    "original_lang": "en",
-    "original_title": "Mr. President, it\u2019s not too late!",
-    "file_name": "/tmp/news_lk2/articles/e7/e78b8040.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Diplomacy-depends-on-decency/172-240355",
-    "time_ut": 1656957163,
-    "original_lang": "en",
-    "original_title": "Diplomacy depends on decency",
-    "file_name": "/tmp/news_lk2/articles/59/599c0160.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83430/australian-hc-assures-to-support-sri-lankas-economic-social-and-maritime-sectors-progress",
-    "time_ut": 1656956040,
-    "original_lang": "en",
-    "original_title": "Australian HC assures to support Sri Lanka\u2019s economic, social, and maritime sectors\u2019 progress",
-    "file_name": "/tmp/news_lk2/articles/f8/f8ac8ef7.json"
   }
 ]
