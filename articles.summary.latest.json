@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Medical-specialists-to-refrain-from-private-medical-practice-tomorrow-to-support-struggle/108-240612",
+    "time_ut": 1657267968,
+    "original_lang": "en",
+    "original_title": "Medical specialists to refrain from private medical practice tomorrow to support struggle",
+    "file_name": "/tmp/news_lk2/articles/2b/2b39040b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131053",
+    "time_ut": 1657267949,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0d/0dfa9041.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0dc0\u0dad\u0dca\u0dad-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad-\u0daf\u0db8\u0dba\u0dd2/101-616064",
+    "time_ut": 1657267667,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0dc0\u0dad\u0dca\u0dad \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad \u0daf\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c1/c1a16d6d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83505/chaos-and-force-will-not-fix-economic-crisis-in-sri-lanka-us-envoy",
+    "time_ut": 1657267620,
+    "original_lang": "en",
+    "original_title": "Chaos and force will not fix economic crisis in Sri Lanka: US envoy",
+    "file_name": "/tmp/news_lk2/articles/fa/fa06ecb1.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dd9\u0db1\u0dca-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/101-616062",
     "time_ut": 1657267007,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka local government official stabbed to death",
     "file_name": "/tmp/news_lk2/articles/1c/1c1516d3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Lonely-Colombo-city/342-240315",
-    "time_ut": 1656937196,
-    "original_lang": "en",
-    "original_title": "Lonely Colombo city",
-    "file_name": "/tmp/news_lk2/articles/32/322d7499.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83422/three-including-2-indians-arrested-with-gold-and-foreign-currency-worth-rs-190-million",
-    "time_ut": 1656936720,
-    "original_lang": "en",
-    "original_title": "Three including 2 Indians arrested with gold and foreign currency worth Rs. 190 million",
-    "file_name": "/tmp/news_lk2/articles/9f/9fd938cd.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/trade-union-action-caused-125mwh-rs-320-mn-loss-sri-lanka-utility-regulator-96891/",
-    "time_ut": 1656936540,
-    "original_lang": "en",
-    "original_title": "Trade union action caused 125Mwh, Rs 320 mn loss: Sri Lanka utility regulator",
-    "file_name": "/tmp/news_lk2/articles/05/05b66956.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/kehelgamuwas-football-skills-and-president-premadasas-political-sagacity/",
-    "time_ut": 1656936540,
-    "original_lang": "en",
-    "original_title": "Kehelgamuwa\u2019s football skills and President Premadasa\u2019s political sagacity",
-    "file_name": "/tmp/news_lk2/articles/2a/2a5f3042.json"
   }
 ]
