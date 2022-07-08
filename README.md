@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 03:38:24 (LK time)*
+*As of 2022-07-09 03:46:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (15 Articles)
 
-* **14** daily-ft-lk ([Roadmap for people-centred constitution in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/732aafd9.json))
+* **9** daily-ft-lk ([Church of Ceylon calls for President and Prime Minister to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/778d327f.json))
 
 * **4** ada-derana-lk ([CEB introduces three new billing methods](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/529ed401.json))
 
