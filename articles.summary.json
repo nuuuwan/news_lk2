@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/COPA-hears-public-transport-s-rough-ride/56-737265",
+    "time_ut": 1657308747,
+    "original_lang": "en",
+    "original_title": "COPA hears public transport\u2019s rough ride",
+    "file_name": "/tmp/news_lk2/articles/06/06ef9aa7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Foreign-Minister-apprises-UN-Resident-Coordinator-of-current-status-of-shortages/56-737264",
     "time_ut": 1657308655,
     "original_lang": "en",
@@ -126,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Lionising the Lion City",
     "file_name": "/tmp/news_lk2/articles/ff/ffa87461.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b93-\u0b9a\u0bbf-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-299992",
+    "time_ut": 1657304946,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0b93.\u0b9a\u0bbf. \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0b/0b13130d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -310,6 +326,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka imposes indefinite police curfew ahead of protest to oust president",
     "file_name": "/tmp/news_lk2/articles/cb/cb6fa93d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131101",
+    "time_ut": 1657298136,
+    "original_lang": "ta",
+    "original_title": "\u0b87.\u0baa\u0bcb.\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/85/85994622.json"
   },
   {
     "newspaper_id": "economy-next-com",
