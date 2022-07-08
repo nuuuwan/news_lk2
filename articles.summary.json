@@ -1,19 +1,19 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/npp-to-support-9th-july-aragalaya/",
-    "time_ut": 1657277880,
-    "original_lang": "en",
-    "original_title": "NPP to support 9th July Aragalaya",
-    "file_name": "/tmp/news_lk2/articles/83/83733b6f.json"
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131075",
+    "time_ut": 1657278935,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ed/ed1afc06.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/rakna-arakshaka-lanka-ltd-moved-under-dhammika/",
-    "time_ut": 1657277580,
-    "original_lang": "en",
-    "original_title": "Rakna Arakshaka Lanka Ltd moved under Dhammika",
-    "file_name": "/tmp/news_lk2/articles/84/84cdcbbf.json"
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0dd0\u0daf\u0dd6-67\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616076",
+    "time_ut": 1657278722,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0dd0\u0daf\u0dd6 67\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/22/2228df7f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -22,22 +22,6 @@
     "original_lang": "ta",
     "original_title": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 1486 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/9f/9f846ee9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/ams-to-refrain-from-private-practice-tomorrow-9/",
-    "time_ut": 1657276980,
-    "original_lang": "en",
-    "original_title": "AMS to refrain from private practice tomorrow (9)",
-    "file_name": "/tmp/news_lk2/articles/e7/e7fb2a30.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/08/police-to-take-action-if-protests-turn-violent/",
-    "time_ut": 1657276740,
-    "original_lang": "en",
-    "original_title": "Police to take action if protests turn violent",
-    "file_name": "/tmp/news_lk2/articles/cd/cd79a25c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -137,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/1-616071",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/101-616071",
     "time_ut": 1657273478,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/18/187d4b3e.json"
+    "file_name": "/tmp/news_lk2/articles/95/954c19e1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -654,6 +638,14 @@
     "original_lang": "en",
     "original_title": "Kanchana wants COPE inquiry into PUCSL chief\u2019s allegations on fuel prices",
     "file_name": "/tmp/news_lk2/articles/0b/0b0f1723.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62094845",
+    "time_ut": 1657258702,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb\u0dad\u0dd4\u0dbb '\u0d9a\u0dcf\u0da9\u0dca' \u0d9c\u0dd0\u0dc3\u0dd6 \u0da2\u0dca\u200d\u0dba\u0dda\u0dc2\u0dca\u0da8 \u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0db6\u0dd3\u0db6\u0dd3\u0dc3\u0dd3\u0dba\u0da7 \u0d9a\u0dd2\u0dba\u0db4\u0dd4 \u0d9a\u0dad\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/07/07f5d846.json"
   },
   {
     "newspaper_id": "ada-lk",
