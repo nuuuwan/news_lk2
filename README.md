@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 17:58:24 (LK time)*
+*As of 2022-07-08 18:05:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** lankadeepa-lk ([ෆාමසිත් හෙට වහලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8657027.json))
 
-## Last Hour (11 Articles)
+## Last Hour (10 Articles)
 
 * **4** lankadeepa-lk ([හෙට අරගලයට දේශපාලන පක්ෂ රැසක සහය](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23d14426.json))
 
@@ -22,13 +22,11 @@
 
 * **1** daily-mirror-lk ([No pharmacies will function tomorrow: Pharmacy Owners’ Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54cb8742.json))
 
-* **1** news-first-lk ([BASL voices concern over 22A](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/923f63ad.json))
-
-## Last 3 Hours (40 Articles)
-
-* **11** lankadeepa-lk ([‘‘ගෝඨාභය දිගටම හිටියත්අර්බුදය විසඳන්න බැහැ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/535407b4.json))
+## Last 3 Hours (39 Articles)
 
 * **11** virakesari-lk ([தடைசெய்யப்பட்ட அமைப்புகள் மற்றும் தனிநபர்களின் பட்டியலை இலங்கை மீளாய்வு செய்கின்றது - வெளிவிவகார அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74232441.json))
+
+* **10** lankadeepa-lk ([වෙඩි වැදුණු හිටපු අගමැති මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/954c19e1.json))
 
 * **8** news-first-lk ([Rainfall expected in the Western Province](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/118057bd.json))
 
@@ -40,7 +38,7 @@
 
 * **1** ada-lk ([හිටපු අගමැති ෂින්සෝ අබේ අවසන් ගමන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2f44add.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (250 Articles)
 
 * **43** lankadeepa-lk ([කළමනාකරණ නිලධාරීන් පාස්පෝට් කන්තෝරුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edf36850.json))
 
@@ -52,7 +50,7 @@
 
 * **27** ada-lk ([ඉදිරියේදි උද්ධමනය සියයට 70ට යා හැකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12964993.json))
 
-* **24** ada-derana-lk ([Police chief urges public to act responsibly when exercising rights](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f39bf6c.json))
+* **23** ada-derana-lk ([SLC officially hands over US$ 2 million to Sri Lanka’s health sector](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc844c26.json))
 
 * **18** news-first-lk ([UL dismisses reports of flight cancellations](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a903b63.json))
 
@@ -68,11 +66,11 @@
 
 * **1** d-b-s-jeyaraj-com ([Memories of Pro-China Communist   Party Leader  Comrade “Shan”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2c5cf9.json))
 
-## Last Week (1,768 Articles)
+## Last Week (1,765 Articles)
 
 * **346** virakesari-lk ([வவுனியாவில் கள்ளச் சந்தையில் 2500 ரூபாய்க்கு பெற்றோல் விற்பனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba7b4cae.json))
 
-* **265** lankadeepa-lk ([ශ්‍රී ලංකාවට සහය දෙන්න ජපානයත් පොරොන්දු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8094e90.json))
+* **263** lankadeepa-lk ([ඕමානයෙනුත් ජනපතිට පොරොන්දුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b6872aa.json))
 
 * **197** daily-mirror-lk ([Deployment of army personnel to disperse Galle Fort protest: Two lawyers file FR petition](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc5b18f.json))
 
@@ -80,7 +78,7 @@
 
 * **168** tamil-mirror-lk ([லொறியில் சென்ற மாணவர்களுக்கு நடந்த விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acdad47f.json))
 
-* **159** ada-derana-lk ([Railway Dept issues notice on train services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d587663.json))
+* **158** ada-derana-lk ([Indian HC issues notice on accepting visa applications](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e305a51c.json))
 
 * **137** news-first-lk ([Pass 22A & form All-Party Government; Mahanayake Theros send 10 point letter to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/307aae86.json))
 
