@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/World-s-No-1-TV-manufacturer-Samsung-introduces-Samsung-Sahana/34-737258",
+    "time_ut": 1657307952,
+    "original_lang": "en",
+    "original_title": "World\u2019s No. 1 TV manufacturer Samsung introduces \u2018Samsung Sahana\u2019",
+    "file_name": "/tmp/news_lk2/articles/1f/1f52c2bb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Church-of-Ceylon-calls-for-President-and-Prime-Minister-to-resign/56-737257",
+    "time_ut": 1657307896,
+    "original_lang": "en",
+    "original_title": "Church of Ceylon calls for President and Prime Minister to resign",
+    "file_name": "/tmp/news_lk2/articles/77/778d327f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/GL-reviews-progress-of-domestic-mechanisms-in-relation-to-reconciliation-human-rights/56-737256",
+    "time_ut": 1657307749,
+    "original_lang": "en",
+    "original_title": "GL reviews progress of domestic mechanisms in relation to reconciliation, human rights",
+    "file_name": "/tmp/news_lk2/articles/31/3183cc08.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Colombo-Security-Conclave-holds-6th-Deputy-National-Security-Adviser-level-meeting/56-737255",
+    "time_ut": 1657307706,
+    "original_lang": "en",
+    "original_title": "Colombo Security Conclave holds 6th Deputy National Security Adviser level meeting",
+    "file_name": "/tmp/news_lk2/articles/7a/7a9bc637.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Women-Parliamentarians-Caucus-makes-special-appeal/56-737254",
+    "time_ut": 1657307649,
+    "original_lang": "en",
+    "original_title": "Women Parliamentarians Caucus makes special appeal",
+    "file_name": "/tmp/news_lk2/articles/4d/4d525960.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLCAT-responds-to-HRCSL-statement-condemning-Committee-President-s-allegation/56-737253",
+    "time_ut": 1657307637,
+    "original_lang": "en",
+    "original_title": "SLCAT responds to HRCSL statement condemning Committee President\u2019s allegation",
+    "file_name": "/tmp/news_lk2/articles/2f/2f4d862b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Roadmap-for-people-centred-constitution-in-Sri-Lanka/4-737252",
+    "time_ut": 1657307554,
+    "original_lang": "en",
+    "original_title": "Roadmap for people-centred constitution in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/73/732aafd9.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-stocks-up-but-turnover-slumps-to-over-2-mth-low-political-woes-weigh-97123/",
     "time_ut": 1657305960,

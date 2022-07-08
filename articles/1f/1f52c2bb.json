@@ -1,0 +1,1134 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/World-s-No-1-TV-manufacturer-Samsung-introduces-Samsung-Sahana/34-737258",
+  "time_ut": 1657307952,
+  "original_lang": "en",
+  "original_title": "World\u2019s No. 1 TV manufacturer Samsung introduces \u2018Samsung Sahana\u2019",
+  "text_idx": {
+    "en": {
+      "title": "World\u2019s No. 1 TV manufacturer Samsung introduces \u2018Samsung Sahana\u2019",
+      "author": "unknown",
+      "body_lines": [
+        "Offering discounts of up to Rs. 900,000 as relief to grief-stricken locals",
+        "Samsung, Sri Lanka\u2019s leading electronics brand, unveiled \u201cSamsung Sahana\u201d in order to provide relief to its consumers during these turbulent times where the whole country is facing its worst economic crisis yet. Samsung has taken measures to provide relief by offering massive discounts up to Rs. 900,000 on its TV range for consumers who wish to bring home some happiness with the purchase of an entertainment system (TV).",
+        "Under Samsung Sahana, customers are eligible for discounts on Samsung TVs amounting to up to Rs. 900,000 to allow consumers to purchase Samsung TVs at a time when prices are at a peak due to economic inflation. Starting from 5 July, Samsung Sahana allows consumers to purchase premium Samsung TVs at an affordable price.",
+        "The Samsung 43\u201d FHD Smart TV for a reduced price of Rs. 204,999 with a discount of Rs. 8,000. The 43\u201d UHD TV is now available for a price of Rs. 249,999 with a Rs. 20,000 discount. Further, the Samsung 50\u201d UHD TV is available at a discounted price of Rs. 319,999 while the 55\u201d UHD TV is available for a price of Rs. 399,999 at a discount of Rs. 50,000. The 65\u201d UHD TV is now available for a price of Rs. 569,999 with a discount of Rs. 60,000 while the 75\u201d UHD TV is available for a price of Rs. 799,999 with a discount of Rs. 100,000.",
+        "In the QLED range, Samsung offers a discount of Rs. 65,000 for the 55\u201d QLED TV, Rs. 160,000 for the 65\u201d QLED TV and Rs. 300,000 for the 75\u201d Neo QLED 8K TV. The highest discount is offered to the 85\u201d Neo QLED 8K TV, with a discount of Rs. 900,000 which is now available for the price of Rs. 4,399,999 only.",
+        "\u201cWe have always been conscious of our consumers\u2019 needs and wants. We want all of them to be able to afford our products and enjoy the innovations we bring. This is the reason for Samsung Sahana, which will allow Samsung consumers to purchase premium-level TVs at an affordable price even in these trying times,\u201d said Samsung Sri Lanka Managing Director Kevin SungSu YOU.",
+        "Samsung Electronics has been leading the TV industry for more than a decade with the latest technologies available on consumer TVs. In 2022, Samsung has yet again secured the number one spot in terms of market share for 16 consecutive years.",
+        "At the heart of Samsung screens is customer-centric innovation, which powers Samsung screens, including Neo QLED 8K, to deliver immaculate, true-to-life picture quality. Samsung Neo QLED 8K is the TV for the modern day, with next-level picture quality and one-of-a-kind features powered by artificial intelligence(AI). With TVs at the centre of the smart home ecosystem, users can easily control all their devices using their TV, thus putting them to the best use.",
+        "Samsung also unveiled Smart Hub, its new user interface, powered by Tizen. The all-new Samsung Smart Hub brings every aspect of the smart experience into one easy-to-navigate home screen. The new tab classifies features, settings and content into three categories for a seamless user experience: Media, Gaming Hub and Ambient.",
+        "At the core of the innovation behind Samsung\u2019s Neo QLED 8K lies its Neural Quantum Processor 8K. 20 independent neural AI networks analyse each scene and adjust picture quality to deliver the best viewing experiences regardless of content\u2019s original picture quality.",
+        "The Samsung TV range is available at authorised partners Softlogic, Singer, Singhagiri, Damro and Samsung e-Store for purchase."
+      ],
+      "title_ents": [
+        {
+          "text": "1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Samsung",
+          "label": "ORG"
+        },
+        {
+          "text": "Samsung Sahana",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Samsung Sahana",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Sahana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "5 July",
+            "label": "DATE"
+          },
+          {
+            "text": "Samsung Sahana",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FHD Smart TV",
+            "label": "ORG"
+          },
+          {
+            "text": "204,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD TV",
+            "label": "ORG"
+          },
+          {
+            "text": "249,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD TV",
+            "label": "ORG"
+          },
+          {
+            "text": "319,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD TV",
+            "label": "ORG"
+          },
+          {
+            "text": "399,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "65",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD TV",
+            "label": "ORG"
+          },
+          {
+            "text": "569,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD TV",
+            "label": "ORG"
+          },
+          {
+            "text": "799,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "100,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "65,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "160,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the 65",
+            "label": "DATE"
+          },
+          {
+            "text": "300,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "K TV",
+            "label": "ORG"
+          },
+          {
+            "text": "85",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "K TV",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4,399,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Sahana",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kevin SungSu",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Electronics",
+            "label": "ORG"
+          },
+          {
+            "text": "more than a decade",
+            "label": "DATE"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "16 consecutive years",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Neo QLED",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Samsung Neo",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the modern day",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Smart Hub",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Smart Hub",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Gaming Hub and Ambient",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung",
+            "label": "ORG"
+          },
+          {
+            "text": "Neo QLED",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Neural Quantum Processor",
+            "label": "ORG"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "AI",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung TV",
+            "label": "ORG"
+          },
+          {
+            "text": "Softlogic",
+            "label": "ORG"
+          },
+          {
+            "text": "Singer",
+            "label": "GPE"
+          },
+          {
+            "text": "Singhagiri",
+            "label": "GPE"
+          },
+          {
+            "text": "Damro",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung e-Store",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbd\u0ddc\u0dc0 \u0d85\u0d82\u0d9a 1 \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0d9a \u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u2018Samsung Sahana\u2019 \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0dba\u0dd2. \u0dc1\u0ddd\u0d9a\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dcf\u0dc3\u0dd3\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 900,000",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0db8 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dd2\u0d9a \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc0\u0db1 Samsung, \u0db8\u0dd4\u0dc5\u0dd4 \u0dbb\u0da7\u0db8 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0daf\u0dbb\u0dd4\u0dab\u0dd4\u0dad\u0db8 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0d9a\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0db8\u0dd9\u0db8 \u0d9a\u0dd0\u0dbd\u0db9\u0dd2\u0dbd\u0dd2 \u0dc3\u0dc4\u0dd2\u0dad \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3 \u0dad\u0db8 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc3\u0dc4\u0db1 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \"Samsung Sahana\" \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0dbd\u0daf\u0dd3. \u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dbb\u0dd4. \u0dc0\u0dd2\u0db1\u0ddd\u0daf\u0dcf\u0dc3\u0dca\u0dc0\u0dcf\u0daf \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca (\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3) \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0dba\u0db8\u0dca \u0dc3\u0dad\u0dd4\u0da7\u0d9a\u0dca \u0d9c\u0dd9\u0db1 \u0d92\u0db8\u0da7 \u0d9a\u0dd0\u0db8\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0dc4\u0dd2 \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0db4\u0dbb\u0dcf\u0dc3\u0dba\u0dda 900,000.",
+        "Samsung Sahana \u0dba\u0da7\u0dad\u0dda, \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0db1\u0dca Samsung TV \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4. \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0db8\u0da7\u0dca\u0da7\u0db8\u0d9a \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0d9a \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 Samsung TV \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0daf\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf 900,000. \u0da2\u0dd6\u0dbd\u0dd2 5 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 Samsung Sahana \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0dbb\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a Samsung TV \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0dba\u0dd2.",
+        "Samsung 43\u201d FHD Smart TV \u0d85\u0da9\u0dd4 \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dbb\u0dd4. 204,999 \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad\u0dc0. 8,000 \u0d9a\u0dd2. 43\u201d UHD TV \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 249,999 \u0dc3\u0db8\u0d9f \u0dbb\u0dd4. 20,000 \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca. \u0dad\u0dc0\u0daf, Samsung 50\u201d UHD TV \u0dc0\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dbb\u0dd4. 319,999 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb 55\u201d UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba \u0dbb\u0dd4. 399,999 \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad\u0dc0. 50,000 \u0d9a\u0dd2. 65\u201d UHD TV \u0daf\u0dd0\u0db1\u0dca \u0dbb\u0dd4. 569,999 \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad\u0dc0. 60,000\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb 75\u201d UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba \u0dbb\u0dd4. 799,999 \u0d9a \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad\u0dc0. 100,000 \u0d9a\u0dd2.",
+        "QLED \u0db4\u0dbb\u0dcf\u0dc3\u0dba \u0dad\u0dd4\u0dc5 Samsung \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0dd4. 55\u201d QLED TV \u0dc3\u0db3\u0dc4\u0dcf 65,000, \u0dbb\u0dd4. 65\" QLED TV \u0dc3\u0db3\u0dc4\u0dcf 160,000 \u0dc3\u0dc4 \u0dbb\u0dd4. 75\u201d Neo QLED 8K TV \u0dc3\u0db3\u0dc4\u0dcf 300,000. 85\u201d Neo QLED 8K TV \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dc4\u0dc5\u0db8 \u0dc0\u0da7\u0dca\u0da7\u0db8\u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0db1\u0dd4 \u0dbd\u0db6\u0db1 \u0d85\u0dad\u0dbb, \u0dbb\u0dd4. 900,000 \u0daf\u0dd0\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 4,399,999 \u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2.",
+        "\u201c\u0d85\u0db4\u0dd2 \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0d85\u0db4\u0d9c\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dad\u0dcf \u0dc3\u0dc4 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dad\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0db8\u0dd4. \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd9\u0db1\u0dcf\u0da7\u0db8 \u0d85\u0db4\u0d9c\u0dda \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db8\u0dd2\u0dbd \u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7\u0dad\u0dca \u0d85\u0db4 \u0d9c\u0dd9\u0db1 \u0d91\u0db1 \u0db1\u0dc0\u0ddd\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0db1\u0dca \u0db7\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0dc0\u0dd2\u0db3\u0dd3\u0db8\u0da7\u0dad\u0dca \u0d85\u0db4\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba. \u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dc3\u0dc4\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0db8\u0dd9\u0dba\u0dba\u0dd2, \u0db8\u0dd9\u0db8 \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb \u0d9a\u0dcf\u0dbd\u0dc0\u0dbd\u0daf\u0dd3 \u0db4\u0dc0\u0dcf \u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0dbb\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd2\u0dbd\u0d9a\u0da7 \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0dba\u0dd2, \u201d\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Kevin SungSu YOU \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dd2\u0d9a\u0dca\u0dc3\u0dca \u0daf\u0dc1\u0d9a\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0db4\u0dd4\u0dbb\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dcf \u0dc0\u0dd3 \u0d87\u0dad\u0dca\u0dad\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3\u0dc0\u0dbd \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0db1\u0dc0\u0dd3\u0db1\u0dad\u0db8 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0db1\u0dca \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dd2. 2022 \u0daf\u0dd3, Samsung \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb 16 \u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0d9a\u0ddc\u0da7\u0dc3 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0d82\u0d9a \u0d91\u0d9a\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db1\u0dd0\u0dc0\u0dad \u0dbd\u0db6\u0dcf \u0d9c\u0dd9\u0db1 \u0d87\u0dad.",
+        "Samsung \u0dad\u0dd2\u0dbb\u0dc0\u0dbd \u0dc4\u0daf\u0dc0\u0dad \u0dc0\u0db1\u0dca\u0db1\u0dda \u0db4\u0dcf\u0dbb\u0dd2\u0db7\u0ddd\u0d9c\u0dd2\u0d9a \u0d9a\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dd3\u0dba \u0db1\u0dc0\u0ddd\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0db1\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb, \u0d91\u0dba Neo QLED 8K \u0d87\u0dad\u0dd4\u0dc5\u0dd4 Samsung \u0dad\u0dd2\u0dbb\u0dc0\u0dbd\u0da7 \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dbd, \u0dc3\u0dad\u0dca\u200d\u0dba-\u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb\u0dba\u0dda \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db7\u0dcf\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0db6\u0dbd \u0d9a\u0dbb\u0dba\u0dd2. Samsung Neo QLED 8K \u0dba\u0db1\u0dd4 \u0d9a\u0dd8\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db8 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0dba (AI) \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db6\u0dbd \u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd9\u0db1 \u0db8\u0dd3\u0dc5\u0d9f \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db7\u0dcf\u0dc0\u0dba \u0dc3\u0dc4 \u0d91\u0d9a\u0dca-\u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c \u0dc3\u0dc4\u0dd2\u0dad \u0db1\u0dc0\u0dd3\u0db1 \u0daf\u0dd2\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0dba\u0dd2. \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0dda \u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca, \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0d92\u0dc0\u0dcf \u0dc4\u0ddc\u0db3\u0db8 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0da7 \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+        "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba \u0db1\u0dc0 \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dad \u0dc0\u0db1 \u0da7\u0dba\u0dd2\u0dc3\u0db1\u0dca \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db6\u0dbd \u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd9\u0db1 Smart Hub \u0daf \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dca\u0dc0\u0db1 \u0dbd\u0daf\u0dd3. \u0db1\u0dc0\u0dad\u0db8 Samsung Smart Hub \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dda \u0dc3\u0dd1\u0db8 \u0d85\u0d82\u0d9c\u0dba\u0d9a\u0dca\u0db8 \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dd0\u0dbb\u0dd2\u0dc3\u0dd0\u0dbb\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd4\u0dbd\u0dca \u0dad\u0dd2\u0dbb\u0dba\u0d9a\u0da7 \u0d9c\u0dd9\u0db1 \u0d91\u0dba\u0dd2. \u0db1\u0dc0 \u0da7\u0dd0\u0db6\u0dba \u0db6\u0dcf\u0db0\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb \u0db4\u0dbb\u0dd2\u0dc1\u0dd3\u0dbd\u0d9a \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c, \u0dc3\u0dd0\u0d9a\u0dc3\u0dd3\u0db8\u0dca \u0dc3\u0dc4 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dad\u0dba \u0dc0\u0dbb\u0dca\u0d9c \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0dc0\u0dbb\u0dca\u0d9c \u0d9a\u0dbb\u0dba\u0dd2: \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba, \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0d85\u0dc0\u0da7.",
+        "Samsung \u0dc4\u0dd2 Neo QLED 8K \u0db4\u0dd2\u0da7\u0dd4\u0db4\u0dc3 \u0d87\u0dad\u0dd2 \u0db1\u0dc0\u0ddd\u0dad\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0dda \u0dc4\u0dbb\u0dba \u0dc0\u0db1\u0dca\u0db1\u0dda \u0d91\u0dc4\u0dd2 Neural Quantum Processor 8K \u0dba. \u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0dc3\u0dca\u0db1\u0dcf\u0dba\u0dd4\u0d9a AI \u0da2\u0dcf\u0dbd 20 \u0d9a\u0dca \u0d91\u0d9a\u0dca \u0d91\u0d9a\u0dca \u0daf\u0dbb\u0dca\u0dc1\u0db1\u0dba \u0dc0\u0dd2\u0dc1\u0dca\u0dbd\u0dda\u0dc2\u0dab\u0dba \u0d9a\u0dbb \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dad\u0dba\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb\u0dba\u0dda \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db7\u0dcf\u0dc0\u0dba \u0db1\u0ddc\u0dc3\u0dbd\u0d9a\u0dcf \u0dc4\u0ddc\u0db3\u0db8 \u0db1\u0dd0\u0dbb\u0db9\u0dd4\u0db8\u0dca \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0db1\u0dca\u0dad\u0dd6\u0dbb\u0dba\u0dda \u0d9c\u0dd4\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0db7\u0dcf\u0dc0\u0dba \u0dc3\u0d9a\u0dc3\u0dca \u0d9a\u0dbb\u0dba\u0dd2.",
+        "Samsung TV \u0db4\u0dbb\u0dcf\u0dc3\u0dba \u0db6\u0dbd\u0dba\u0dbd\u0dad\u0dca \u0dc4\u0dc0\u0dd4\u0dbd\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0db1 Softlogic, Singer, Singhagiri, Damro \u0dc3\u0dc4 Samsung e-Store \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dad\u0dd2\u0db6\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "Samsung Sahana",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "900,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "Samsung Sahana",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Sahana",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "5 \u0da2\u0dd6\u0dbd\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "Samsung Sahana",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FHD \u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "204,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "249,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "319,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "399,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "65",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "569,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "799,999 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "100,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "65,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "160,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "65",
+            "label": "DATE"
+          },
+          {
+            "text": "300,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dda \u0da7\u0dd3\u0dc0\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "85",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dda \u0da7\u0dd3\u0dc0\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4,399,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Samsung Sahana",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Sri Lanka",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dd4\u0d82\u0dc3\u0dd4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Samsung \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dd2\u0d9a\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc1\u0d9a\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0 \u0dc0\u0dc3\u0dbb 16 \u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Neo QLED",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "Samsung Neo",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db1\u0dd6\u0dad\u0db1 \u0daf\u0dd2\u0db1\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dca \u0dc4\u0db6\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Samsung Smart Hub",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc3\u0dc4 \u0d85\u0dc0\u0da7",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd0\u0db8\u0dca\u0dc3\u0dd4\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "Neo QLED",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0db1\u0dcf\u0dba\u0dd4 \u0d9a\u0dca\u0dc0\u0ddc\u0db1\u0dca\u0da7\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0ddc\u0dc3\u0dd9\u0dc3\u0dbb\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "AI",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Samsung TV",
+            "label": "ORG"
+          },
+          {
+            "text": "Softlogic",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dba\u0d9a\u0dba\u0dcf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dd2\u0dbb\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0db8\u0dca\u0dbb\u0ddd",
+            "label": "PERSON"
+          },
+          {
+            "text": "Samsung e-Store",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bb0\u0bcd 1 \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bbe\u0ba9 \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u2018\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe\u2019\u0bb5\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bb0\u0bc2. \u0bb5\u0bb0\u0bc8 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 900,000 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0b87\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba8\u0bbe\u0bae\u0bae\u0bbe\u0ba9 Samsung, \u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0ba9\u0ba4\u0bc1 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \"Samsung Sahana\" \u0b90 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb0\u0bc2. \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0bb4\u0bc1\u0ba4\u0bc1\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 (\u0b9f\u0bbf\u0bb5\u0bbf) \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bc1 \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0ba9\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf \u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd 900,000.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd, \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. \u0bb5\u0bb0\u0bc8 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0baa\u0bc6\u0bb1\u0ba4\u0bcd \u0ba4\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bc8 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95 900,000. \u0b9c\u0bc2\u0bb2\u0bc8 5 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0bb2\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd 43\u201d FHD \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 204,999 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb0\u0bc2. 8,000. 43\u201d UHD TV \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb0\u0bc2. \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 249,999 \u0b89\u0b9f\u0ba9\u0bcd \u0bb0\u0bc2. 20,000 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf. \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, Samsung 50\u201d UHD TV \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 319,999 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 55\u201d UHD TV \u0bb0\u0bc2. \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 399,999 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2. 50,000. 65\u201d UHD TV \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb0\u0bc2. \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 569,999 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb0\u0bc2. 60,000 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 75\u201d UHD TV \u0bb0\u0bc2. \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 799,999 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb0\u0bc2. 100,000.",
+        "QLED \u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd, \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb0\u0bc2. \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 55\u201d QLED \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 65,000, \u0bb0\u0bc2. 65\u201d QLED \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 160,000 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0bc2. 75\u201d \u0ba8\u0bbf\u0baf\u0bcb QLED 8K \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 300,000. 85\u201d \u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf 8\u0b95\u0bc7 \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0bb0\u0bc2. 900,000 \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb0\u0bc2. \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. 4,399,999 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7.",
+        "\"\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bcb\u0bae\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. \u0b87\u0ba4\u0bc1\u0bb5\u0bc7 \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc1 \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b87\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bb2\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bc0\u0bae\u0bbf\u0baf\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba9\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u201d \u0b8e\u0ba9 Samsung \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd Kevin SungSu YOU \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0bb8\u0bcd \u0b92\u0bb0\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd, \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 16 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc8\u0baf\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf 8\u0b95\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bbe\u0b9a\u0bb1\u0bcd\u0bb1, \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baa\u0bcd \u0baa\u0b9f\u0ba4\u0bcd \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf 8\u0b95\u0bc7 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0ba8\u0bb5\u0bc0\u0ba9 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9f\u0bbf\u0bb5\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8 \u0baa\u0b9f\u0ba4\u0bcd \u0ba4\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0ba8\u0bc1\u0ba3\u0bcd\u0ba3\u0bb1\u0bbf\u0bb5\u0bc1 (AI) \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bb5\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd. \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb9\u0bcb\u0bae\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bbf\u0ba9\u0bcd \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb2\u0bcd, \u0baa\u0baf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0b9a\u0bbe\u0ba4\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0bb3\u0bbf\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bae\u0bcd, \u0b87\u0ba4\u0ba9\u0bbe\u0bb2\u0bcd \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb9\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0baf\u0ba9\u0bb0\u0bcd \u0b87\u0b9f\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd, \u0b9f\u0bc8\u0b9a\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb9\u0baa\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0b85\u0bae\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bc1\u0bb2\u0baa\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bbe\u0bb5\u0bb2\u0bcd \u0b85\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0b9f\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0baa\u0baf\u0ba9\u0bb0\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0b95\u0bc8\u0b95\u0bb3\u0bbe\u0b95 \u0bb5\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1: \u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0bbe, \u0b95\u0bc7\u0bae\u0bbf\u0b99\u0bcd \u0bb9\u0baa\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb1\u0bae\u0bcd.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bcd\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf 8\u0b95\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bc2\u0bb0\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbf 8\u0b95\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 20 \u0b9a\u0bc1\u0baf\u0bbe\u0ba4\u0bc0\u0ba9 \u0ba8\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bb2\u0bcd AI \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1, \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9a\u0bb2\u0bcd \u0baa\u0b9f\u0ba4\u0bcd \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf \u0bb5\u0bb0\u0bae\u0bcd\u0baa\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 Softlogic, Singer, Singhagiri, Damro \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Samsung e-Store \u0b87\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "5 \u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "FHD \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "204,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "43",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "249,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "20,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "319,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "399,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "50,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "65",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "569,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "UHD \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "799,999",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "100,000",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "65,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "55",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "160,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "65",
+            "label": "DATE"
+          },
+          {
+            "text": "300,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "75",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7 \u0b9f\u0bbf.\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "85",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7 \u0b9f\u0bbf.\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "900,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "4,399,999",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9a\u0bb9\u0bbe\u0ba9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc6\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0b99\u0bcd\u0b9a\u0bc1",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95",
+            "label": "DATE"
+          },
+          {
+            "text": "2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 16 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0ba8\u0bbf\u0baf\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bc0\u0ba9 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb9\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0bb9\u0baa\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bae\u0bbf\u0b99\u0bcd \u0bb9\u0baa\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0baf\u0bc2\u0b8e\u0bb2\u0bcd\u0b87\u0b9f\u0bbf",
+            "label": "PERSON"
+          },
+          {
+            "text": "8K",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0bb0\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "AI",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd\u0bb2\u0bbe\u0b9c\u0bbf\u0b95\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b95\u0bbf\u0bb0\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bae\u0bcd\u0bb0\u0bcb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0bae\u0bcd\u0b9a\u0b99\u0bcd \u0b87-\u0bb8\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd",
+            "label": "PRODUCT"
+          }
+        ]
+      ]
+    }
+  }
+}
