@@ -40,6 +40,14 @@
     "file_name": "/tmp/news_lk2/articles/1a/1acdb19f.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300002",
+    "time_ut": 1657308766,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/1a/1a37f4ca.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/COPA-hears-public-transport-s-rough-ride/56-737265",
     "time_ut": 1657308747,
@@ -934,6 +942,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0db1 7\u0d9a\u0da7 \u0daf\u0dd2\u0d9c\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/19/19efa377.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131072",
+    "time_ut": 1657280886,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd 43 \u0b86\u0bb5\u0ba4\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0ba3\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0baf\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/8b/8bc563e5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
