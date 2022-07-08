@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/63/63ac4c3d.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd-\u0d9a\u0dca\u200d\u0dbb\u0db8-03\u0d9a\u0dd2\u0db1\u0dca-\u0d91\u0dba\u0dd2/11-395221",
+    "time_ut": 1657260230,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd \u0d9a\u0dca\u200d\u0dbb\u0db8 03\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/87/875357ed.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131036",
     "time_ut": 1657259614,
@@ -54,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0bae\u0bcd \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0baa\u0bc8",
     "file_name": "/tmp/news_lk2/articles/54/54fc96ca.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc0\u0dd2\u0dad\u0dbb\u0d9a\u0dca-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0d9a\u0ddd\u0da7\u0dd2-8-\u0dba\u0dd2/101-616051",
+    "time_ut": 1657258238,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc0\u0dd2\u0dad\u0dbb\u0d9a\u0dca \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0d9a\u0ddd\u0da7\u0dd2 8 \u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/22/229c314f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 12 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/59/59c3134c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0d91\u0db1-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dad\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-615857",
-    "time_ut": 1656933800,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0d91\u0db1 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dad\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4d/4df43f5f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sajith-Maithri-talk-on-forming-new-all-party-Govt/108-240314",
-    "time_ut": 1656933788,
-    "original_lang": "en",
-    "original_title": "Sajith-Maithri talk on forming new all-party Govt.",
-    "file_name": "/tmp/news_lk2/articles/1e/1e3df10f.json"
   }
 ]
