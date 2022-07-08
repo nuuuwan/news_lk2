@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 14:43:00 (LK time)*
+*As of 2022-07-08 14:46:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **2** ada-derana-lk ([LIOC suspends fuel distribution to filling stations today and tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b931563f.json))
 
-* **1** virakesari-lk ([சுகாதார பணியாளர்களிற்கான எரிபொருள் விநியோகம் இடைநிறுத்தப்பட்டது ஏன் - ரவிகுமுதேஸ் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9542713a.json))
+* **1** lankadeepa-lk ([අරගලයට සජබ පූර්ණ සහයෝගය](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b226d47a.json))
 
 * **1** tamil-mirror-lk ([ஹட்டனில் தனியார் பஸ் உரிமையாளர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/738fba09.json))
 
@@ -16,19 +16,21 @@
 
 * **2** ada-derana-lk ([LIOC suspends fuel distribution to filling stations today and tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b931563f.json))
 
-* **2** virakesari-lk ([எரிபொருள் விநியோகத்தை இடை நிறுத்தியது லங்கா ஐ.ஓ.சி - இது தான் காரணம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783fd02b.json))
-
 * **2** tamil-mirror-lk ([“வன்முறை தீர்வல்ல” - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef0a2f03.json))
 
 * **2** daily-mirror-lk ([Protest peacefully - US ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f796abb5.json))
 
+* **1** lankadeepa-lk ([අරගලයට සජබ පූර්ණ සහයෝගය](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b226d47a.json))
+
+* **1** virakesari-lk ([எரிபொருள் விநியோகத்தை இடை நிறுத்தியது லங்கா ஐ.ஓ.சி - இது தான் காரணம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783fd02b.json))
+
 ## Last 3 Hours (33 Articles)
 
-* **11** virakesari-lk ([பாதுகாப்புத் தரப்பினர் ஆர்ப்பாட்டங்களில் எவ்வாறு நடந்துகொள்கின்றனர் என்பதனை உன்னிப்பாக அவதானிக்கிறோம் - அமெரிக்க தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0af57fb.json))
+* **10** virakesari-lk ([பாதுகாப்புத் தரப்பினர் ஆர்ப்பாட்டங்களில் எவ்வாறு நடந்துகொள்கின்றனர் என்பதனை உன்னிப்பாக அவதானிக்கிறோம் - அமெரிக்க தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0af57fb.json))
+
+* **6** lankadeepa-lk ([‘‘ණය ප්‍රතිව්‍යූහගත කිරීමේදී කාටත් සමාන විය යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef007cb0.json))
 
 * **5** daily-mirror-lk ([No buses after 12.30 pm: SLTB unions](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37354d7d.json))
-
-* **5** lankadeepa-lk ([‘‘ණය ප්‍රතිව්‍යූහගත කිරීමේදී කාටත් සමාන විය යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef007cb0.json))
 
 * **4** ada-derana-lk ([Court dismisses police request against IUSF protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/782a0eec.json))
 
@@ -38,17 +40,17 @@
 
 * **2** news-first-lk ([GL meets European Union Amb. in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5a18019.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (250 Articles)
 
-* **46** virakesari-lk ([கல்முனையில் முச்சக்கரவண்டி சாரதிகள் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a0f6adf.json))
+* **47** lankadeepa-lk ([ආර්ථික මධ්‍යස්ථාන පාලුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d88cb2ac.json))
 
-* **46** lankadeepa-lk ([ආර්ථික මධ්‍යස්ථාන පාලුවට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d88cb2ac.json))
+* **45** virakesari-lk ([கல்முனையில் முச்சக்கரவண்டி சாரதிகள் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a0f6adf.json))
 
 * **38** daily-mirror-lk ([UK PM Johnson to resign today](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62d31107.json))
 
 * **27** ada-lk ([කන්ටේනර් රථයක් අධිවේගීයේ පෙරළෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eab5f594.json))
 
-* **24** tamil-mirror-lk ([பதவி விலகுகிறார் பிரிட்டன் பிரதமர் போரிஸ் ஜான்சன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ae85088.json))
+* **23** tamil-mirror-lk ([ஜெனரேட்டர் வரிசை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2efd67d4.json))
 
 * **22** ada-derana-lk ([Court rejects police request against protests in vicinity of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5873904.json))
 
@@ -66,11 +68,11 @@
 
 * **1** d-b-s-jeyaraj-com ([Memories of Pro-China Communist   Party Leader  Comrade “Shan”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2c5cf9.json))
 
-## Last Week (1,755 Articles)
+## Last Week (1,754 Articles)
 
-* **359** virakesari-lk ([பதுளை பகுதியில் வீடுகள், கடைகளில் திருடிய சுமார் 2.5 மில்லியன் ரூபா பெறுமதியான பொருட்கள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/3365985e.json))
+* **357** virakesari-lk ([ரட்டா, லஹிரு உள்ளிட்ட மூவருக்கு பிணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcc1adc3.json))
 
-* **261** lankadeepa-lk ([මව දරු දෙදෙනා සමග වැවට පනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64b6d9d.json))
+* **262** lankadeepa-lk ([මව දරු දෙදෙනා සමග වැවට පනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d64b6d9d.json))
 
 * **196** ada-lk ([ඕමාන තානාපති ජනපති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e480d693.json))
 
@@ -96,9 +98,9 @@
 
 ## All Time (3,953 Articles)
 
-* **720** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **719** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **615** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **616** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **483** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
