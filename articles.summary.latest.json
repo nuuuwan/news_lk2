@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131055",
+    "time_ut": 1657268550,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf - \u0b87\u0ba4\u0bc1 \u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/78/783fd02b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-peacefully-US-ambassador/108-240613",
+    "time_ut": 1657268493,
+    "original_lang": "en",
+    "original_title": "Protest peacefully - US ambassador",
+    "file_name": "/tmp/news_lk2/articles/52/5202e362.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Medical-specialists-to-refrain-from-private-medical-practice-tomorrow-to-support-struggle/108-240612",
     "time_ut": 1657267968,
@@ -40,12 +56,36 @@
     "file_name": "/tmp/news_lk2/articles/a8/a89f64d9.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca/11-395224",
+    "time_ut": 1657266106,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b3/b345dbf1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/sl-reviews-progress-on-domestic-mechanisms/",
+    "time_ut": 1657266000,
+    "original_lang": "en",
+    "original_title": "SL reviews progress on domestic mechanisms",
+    "file_name": "/tmp/news_lk2/articles/93/932c0759.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131050",
     "time_ut": 1657265632,
     "original_lang": "ta",
     "original_title": "12 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/1e/1ecd3eea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/gl-meets-european-union-amb-in-colombo/",
+    "time_ut": 1657265040,
+    "original_lang": "en",
+    "original_title": "GL meets European Union Amb. in Colombo",
+    "file_name": "/tmp/news_lk2/articles/f5/f5a18019.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0baf\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0ba9\u0bb2\u0bcd ; \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd - \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/50/50e15076.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/decline-in-share-market-in-the-wake-of-rate-hike-reports/",
-    "time_ut": 1656938160,
-    "original_lang": "en",
-    "original_title": "Decline in share market in the wake of rate hike reports",
-    "file_name": "/tmp/news_lk2/articles/ce/ce1f93b8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-club-vision-members-receive-access-to-an-exclusive-screening-of-jurassic-world-dominion/",
-    "time_ut": 1656938160,
-    "original_lang": "en",
-    "original_title": "Dialog Club vision members receive access to an exclusive screening of \u2018Jurassic World Dominion\u2019",
-    "file_name": "/tmp/news_lk2/articles/09/09bd04fb.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lankas-economic-confidence-index-plummets/",
-    "time_ut": 1656938160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s economic confidence index plummets",
-    "file_name": "/tmp/news_lk2/articles/08/08fc8297.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-gce-advanced-level-exams-will-likely-be-delayed-by-one-month-minister-96907/",
-    "time_ut": 1656937980,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s GCE Advanced Level exams will likely be delayed by one month: minister",
-    "file_name": "/tmp/news_lk2/articles/0b/0b8746df.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-local-government-official-stabbed-to-death-96906/",
-    "time_ut": 1656937380,
-    "original_lang": "en",
-    "original_title": "Sri Lanka local government official stabbed to death",
-    "file_name": "/tmp/news_lk2/articles/1c/1c1516d3.json"
   }
 ]

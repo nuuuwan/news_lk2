@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131055",
+    "time_ut": 1657268550,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf - \u0b87\u0ba4\u0bc1 \u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/78/783fd02b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-peacefully-US-ambassador/108-240613",
+    "time_ut": 1657268493,
+    "original_lang": "en",
+    "original_title": "Protest peacefully - US ambassador",
+    "file_name": "/tmp/news_lk2/articles/52/5202e362.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Medical-specialists-to-refrain-from-private-medical-practice-tomorrow-to-support-struggle/108-240612",
     "time_ut": 1657267968,
@@ -40,12 +56,36 @@
     "file_name": "/tmp/news_lk2/articles/a8/a89f64d9.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9c\u0dad-\u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca/11-395224",
+    "time_ut": 1657266106,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9c\u0dad \u0dc1\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b3/b345dbf1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/sl-reviews-progress-on-domestic-mechanisms/",
+    "time_ut": 1657266000,
+    "original_lang": "en",
+    "original_title": "SL reviews progress on domestic mechanisms",
+    "file_name": "/tmp/news_lk2/articles/93/932c0759.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131050",
     "time_ut": 1657265632,
     "original_lang": "ta",
     "original_title": "12 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/1e/1ecd3eea.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/gl-meets-european-union-amb-in-colombo/",
+    "time_ut": 1657265040,
+    "original_lang": "en",
+    "original_title": "GL meets European Union Amb. in Colombo",
+    "file_name": "/tmp/news_lk2/articles/f5/f5a18019.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
