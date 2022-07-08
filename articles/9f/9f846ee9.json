@@ -1,0 +1,294 @@
+{
+  "newspaper_id": "virakesari-lk",
+  "url": "http://www.virakesari.lk/article/131071",
+  "time_ut": 1657277491,
+  "original_lang": "ta",
+  "original_title": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 1486 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "1486 doctors left the country in 6 months",
+      "author": "Vishnu",
+      "body_lines": [
+        "1486 doctors have left the country in the first 6 months of this year alone.",
+        "According to the data of Sri Lanka Medical Council, this year 138 doctors left the country in January, 172 doctors in February, 198 doctors in March, 214 doctors in April, 315 doctors in May and 449 doctors in June.",
+        "It is known that they have left the country after obtaining the certificate from the Medical Council of Sri Lanka."
+      ],
+      "title_ents": [
+        {
+          "text": "1486",
+          "label": "DATE"
+        },
+        {
+          "text": "6 months",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1486",
+            "label": "DATE"
+          },
+          {
+            "text": "the first 6 months of this year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka Medical Council",
+            "label": "ORG"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "January",
+            "label": "DATE"
+          },
+          {
+            "text": "172",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "February",
+            "label": "DATE"
+          },
+          {
+            "text": "198",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "March",
+            "label": "DATE"
+          },
+          {
+            "text": "214",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "April",
+            "label": "DATE"
+          },
+          {
+            "text": "315",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "May",
+            "label": "DATE"
+          },
+          {
+            "text": "449",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the Medical Council of Sri Lanka",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dcf\u0dc3 6\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 1486\u0d9a\u0dca \u0dbb\u0da7 \u0dc4\u0dd0\u0dbb \u0d9c\u0dd2\u0dba\u0dcf",
+      "author": "\u0dc0\u0dd2\u0dc2\u0dca\u0dab\u0dd4",
+      "body_lines": [
+        "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 6 \u0dad\u0dd4\u0dc5 \u0db4\u0db8\u0dab\u0d9a\u0dca \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 1486 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dbb\u0da7 \u0dc4\u0dd0\u0dbb \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0daf\u0dad\u0dca\u0dad\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 138 \u0d9a\u0dca \u0daf, \u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 172 \u0d9a\u0dca \u0daf, \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 198 \u0d9a\u0dca \u0daf, \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 214 \u0d9a\u0dca \u0daf, \u0db8\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 315 \u0d9a\u0dca \u0daf, \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca 449 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0daf \u0dbb\u0da7 \u0dc4\u0dd0\u0dbb \u0d9c\u0dd2\u0dba\u0dc4.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc3\u0dc4\u0dad\u0dd2\u0d9a\u0dba \u0dbd\u0db6\u0dcf\u0d9c\u0dd9\u0db1 \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dbb\u0da7 \u0dc4\u0dd0\u0dbb \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0daf\u0dd0\u0db1\u0d9c\u0db1\u0dca\u0db1\u0da7 \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "1486",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0db8\u0dcf\u0dc3 6 \u0dba\u0dd2",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1486",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 6",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "172",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "198",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4",
+            "label": "DATE"
+          },
+          {
+            "text": "214",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0db4\u0dca\u0dbb\u0dda\u0dbd\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "315",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "449",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 1486 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bb0\u0bcd",
+      "author": "Vishnu",
+      "body_lines": [
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd 1486 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd,\u00a0 \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bbe\u0ba4\u0bae\u0bcd 138 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0baa\u0bc6\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf \u0bae\u0bbe\u0ba4\u0bae\u0bcd 172 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd 198 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd 214 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 315 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd 449 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd\u00a0 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b87\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u00a0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bb1\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "1486",
+          "label": "DATE"
+        },
+        {
+          "text": "6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "1486",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "138",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "172",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "198",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "214",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "315",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "449",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
