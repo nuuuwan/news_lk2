@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/LIOC-suspends-fuel-distribution-till-Sunday/56-737263",
+    "time_ut": 1657308585,
+    "original_lang": "en",
+    "original_title": "LIOC suspends fuel distribution till Sunday",
+    "file_name": "/tmp/news_lk2/articles/e8/e855747b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Flexprint-wins-Gold-at-National-Business-Excellence-Awards/34-737262",
+    "time_ut": 1657308460,
+    "original_lang": "en",
+    "original_title": "Flexprint wins Gold at National Business Excellence Awards",
+    "file_name": "/tmp/news_lk2/articles/dd/dd37c9d5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kitchen-Bedroom-commended-for-interior-excellence-at-Laya-Leisure/34-737261",
+    "time_ut": 1657308390,
+    "original_lang": "en",
+    "original_title": "Kitchen & Bedroom commended for interior excellence at Laya Leisure",
+    "file_name": "/tmp/news_lk2/articles/bc/bce1e3b8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/130-international-teams-win-at-Huawei-ICT-Competition-2021-2022-Global-Final/34-737260",
+    "time_ut": 1657308257,
+    "original_lang": "en",
+    "original_title": "130 international teams win at Huawei ICT Competition 2021-2022 Global Final",
+    "file_name": "/tmp/news_lk2/articles/d6/d6a81129.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83519/ceb-introduces-three-new-billing-methods",
+    "time_ut": 1657308240,
+    "original_lang": "en",
+    "original_title": "CEB introduces three new billing methods",
+    "file_name": "/tmp/news_lk2/articles/52/529ed401.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kanrich-Finance-Ratnapura-branch-relocates-to-new-premises/34-737259",
+    "time_ut": 1657308158,
+    "original_lang": "en",
+    "original_title": "Kanrich Finance Ratnapura branch relocates to new premises",
+    "file_name": "/tmp/news_lk2/articles/b5/b535d608.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/World-s-No-1-TV-manufacturer-Samsung-introduces-Samsung-Sahana/34-737258",
     "time_ut": 1657307952,
     "original_lang": "en",
@@ -310,6 +358,14 @@
     "original_lang": "en",
     "original_title": "Power cut schedule for next week announced",
     "file_name": "/tmp/news_lk2/articles/8d/8d82e874.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83515/power-cut-schedule-announced-for-next-seven-days",
+    "time_ut": 1657296720,
+    "original_lang": "en",
+    "original_title": "Power cut schedule announced for next seven days",
+    "file_name": "/tmp/news_lk2/articles/d9/d9207ba1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Man waiting in fuel queue in Borella dies",
     "file_name": "/tmp/news_lk2/articles/21/21ef5e11.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd-\u0d9a\u0db1-\u0d91\u0d9a-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca/101-615891",
-    "time_ut": 1657001459,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d9a\u0db1 \u0d91\u0d9a \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/3c/3cfed1f1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4-\u0d9a\u0dd4\u0da9\u0dd4-\u0dc3\u0db8\u0d9c-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395114",
-    "time_ut": 1657001061,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a3/a3d93fa8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/05/litro-in-possession-of-4-million-empty-gas-cylinders/",
-    "time_ut": 1657001040,
-    "original_lang": "en",
-    "original_title": "Litro in possession of 4 million empty gas cylinders",
-    "file_name": "/tmp/news_lk2/articles/26/26711746.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1-\u0db1\u0db8\u0dca-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db6\u0dbd\u0dc0\u0dda\u0d9c-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0dc0\u0dd2\u0dba\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/101-615890",
-    "time_ut": 1657001028,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7 \u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1 \u0db1\u0db8\u0dca \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd2\u0dba\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5e/5eb5cdfb.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130816",
-    "time_ut": 1657001012,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba9\u0bc1\u0bb0 \u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5f/5f487065.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc8-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-299752",
-    "time_ut": 1657000800,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd: \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/29/29a9e76f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dbd\u0dba-\u0d9c\u0db1\u0dca\u0db1-\u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1-\u0d91\u0db1\u0dca\u0db1---\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-395113",
-    "time_ut": 1657000607,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dbd\u0dba \u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d91\u0db1\u0dca\u0db1 - \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e5/e539b113.json"
   }
 ]

@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/LIOC-suspends-fuel-distribution-till-Sunday/56-737263",
+    "time_ut": 1657308585,
+    "original_lang": "en",
+    "original_title": "LIOC suspends fuel distribution till Sunday",
+    "file_name": "/tmp/news_lk2/articles/e8/e855747b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Flexprint-wins-Gold-at-National-Business-Excellence-Awards/34-737262",
+    "time_ut": 1657308460,
+    "original_lang": "en",
+    "original_title": "Flexprint wins Gold at National Business Excellence Awards",
+    "file_name": "/tmp/news_lk2/articles/dd/dd37c9d5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kitchen-Bedroom-commended-for-interior-excellence-at-Laya-Leisure/34-737261",
+    "time_ut": 1657308390,
+    "original_lang": "en",
+    "original_title": "Kitchen & Bedroom commended for interior excellence at Laya Leisure",
+    "file_name": "/tmp/news_lk2/articles/bc/bce1e3b8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/130-international-teams-win-at-Huawei-ICT-Competition-2021-2022-Global-Final/34-737260",
+    "time_ut": 1657308257,
+    "original_lang": "en",
+    "original_title": "130 international teams win at Huawei ICT Competition 2021-2022 Global Final",
+    "file_name": "/tmp/news_lk2/articles/d6/d6a81129.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83519/ceb-introduces-three-new-billing-methods",
+    "time_ut": 1657308240,
+    "original_lang": "en",
+    "original_title": "CEB introduces three new billing methods",
+    "file_name": "/tmp/news_lk2/articles/52/529ed401.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Kanrich-Finance-Ratnapura-branch-relocates-to-new-premises/34-737259",
+    "time_ut": 1657308158,
+    "original_lang": "en",
+    "original_title": "Kanrich Finance Ratnapura branch relocates to new premises",
+    "file_name": "/tmp/news_lk2/articles/b5/b535d608.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/World-s-No-1-TV-manufacturer-Samsung-introduces-Samsung-Sahana/34-737258",
     "time_ut": 1657307952,
     "original_lang": "en",
@@ -310,6 +358,14 @@
     "original_lang": "en",
     "original_title": "Power cut schedule for next week announced",
     "file_name": "/tmp/news_lk2/articles/8d/8d82e874.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83515/power-cut-schedule-announced-for-next-seven-days",
+    "time_ut": 1657296720,
+    "original_lang": "en",
+    "original_title": "Power cut schedule announced for next seven days",
+    "file_name": "/tmp/news_lk2/articles/d9/d9207ba1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
