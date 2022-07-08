@@ -200,6 +200,14 @@
     "file_name": "/tmp/news_lk2/articles/9d/9d4589ac.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bc1-110-\u0bb5\u0bc0\u0ba4\u0bae\u0bcd-\u0b89\u0ba3\u0bcd\u0b9f\u0bc1/175-299993",
+    "time_ut": 1657306025,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 110 \u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u2019",
+    "file_name": "/tmp/news_lk2/articles/81/812ebeeb.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-stocks-up-but-turnover-slumps-to-over-2-mth-low-political-woes-weigh-97123/",
     "time_ut": 1657305960,
@@ -814,6 +822,22 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0d9a\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba \u0d9c\u0dd0\u0db1 \u0d9a\u0ddd\u0db4\u0dca  \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b4/b4ba995a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/amf-posts-impressive-financial-performance-in-fy-2021-22/",
+    "time_ut": 1657284660,
+    "original_lang": "en",
+    "original_title": "AMF posts impressive financial performance in FY 2021/22",
+    "file_name": "/tmp/news_lk2/articles/e7/e757dd85.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nations-trust-bank-conducts-6th-successful-lean-six-sigma-graduation/",
+    "time_ut": 1657284600,
+    "original_lang": "en",
+    "original_title": "Nations Trust Bank conducts 6th successful Lean Six Sigma Graduation",
+    "file_name": "/tmp/news_lk2/articles/97/974c1e9c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2473,6 +2497,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/gapstars-hosts-its-biggest-virtual-tech-conference-for-2022/",
+    "time_ut": 1657217400,
+    "original_lang": "en",
+    "original_title": "Gapstars hosts its biggest virtual tech conference for 2022",
+    "file_name": "/tmp/news_lk2/articles/23/23b67f7b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/slt-mobitel-to-empower-luxury-living-for-residents-of-nem-construction-project/",
     "time_ut": 1657217340,
     "original_lang": "en",
@@ -2510,6 +2542,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dd9\u0dbd\u0dcf\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0d9a\u0dbb\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db6\u0dbd \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8",
     "file_name": "/tmp/news_lk2/articles/72/72cb253b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/share-market-declines-in-the-wake-of-policy-rate-announcements/",
+    "time_ut": 1657217100,
+    "original_lang": "en",
+    "original_title": "Share market declines in the wake of policy rate announcements",
+    "file_name": "/tmp/news_lk2/articles/45/45edb8d8.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -2598,6 +2638,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d1/d1216e3f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/good-riddance-to-the-fbr-what-next-to-increase-migrant-remittances-to-sri-lanka/",
+    "time_ut": 1657212540,
+    "original_lang": "en",
+    "original_title": "Good Riddance to the FBR: What Next to Increase Migrant Remittances to Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/de/debb97f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
