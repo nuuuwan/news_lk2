@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-08 21:21:15 (LK time)*
+*As of 2022-07-08 21:24:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,23 +8,21 @@
 
 * **1** virakesari-lk ([வவுனியாவில் 2500 ரூபாய்க்கு ஒரு லீற்றர் டீசலை விற்பனை செய்த நபர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aece4f4a.json))
 
-## Last Hour (7 Articles)
-
-* **2** virakesari-lk ([ஊரடங்கு குறித்த அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a293a578.json))
+## Last Hour (5 Articles)
 
 * **2** news-first-lk ([Govt should Not Try and Curtail The People’s Right of Expression – Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/165d6784.json))
+
+* **1** virakesari-lk ([வவுனியாவில் 2500 ரூபாய்க்கு ஒரு லீற்றர் டீசலை விற்பனை செய்த நபர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aece4f4a.json))
 
 * **1** ada-lk ([පොලිස් කොට්ඨාස 7කට ඇඳිරි නීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91bb4d5.json))
 
 * **1** lankadeepa-lk ([රටේ පවතින තත්වය දින කීපයක් තුළ විසඳනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b7ee92d.json))
 
-* **1** economy-next-com ([Ahead of ousting protest, Sri Lanka president promises essential supplies](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efbad906.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (31 Articles)
 
 * **7** virakesari-lk ([நாளைய ஆர்ப்பாட்டத்தில்  9126 பொலிஸ், இராணுவம், சிவில் பாதுகாப்பு படையினர் கடமையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f3c464f.json))
 
-* **6** lankadeepa-lk ([ජනකගේ ප්‍රකාශය ගැන කෝප්  විමර්ශනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4ba995a.json))
+* **5** lankadeepa-lk ([සමකාමී අරගලයට එජාපය සහය දෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed53ae6f.json))
 
 * **4** ada-derana-lk ([IUSF protest march tear-gassed in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/284a5b10.json))
 
@@ -38,9 +36,9 @@
 
 * **2** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
-## Last 24 Hours (256 Articles)
+## Last 24 Hours (255 Articles)
 
-* **42** virakesari-lk ([பஷில் ராஜபக்ஷ அரசை இயக்குகிறார் : பிரதமர் ரணிலின் பதவிக் காலம் நிச்சயமற்றது - வீரசுமன வீரசிங்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9d51e86.json))
+* **41** virakesari-lk ([ஆட்சியாளர்களுக்கு எதிராக வீதிக்கு இறங்கிய மதத் தலைவர்கள் புறக்கோட்டையில் சத்தியாக்கிரகம் : மெளலவிமாரின் பேரணி 9 ஆம் திகதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4035e506.json))
 
 * **40** lankadeepa-lk ([ඉන්ධනහලේ ගැටුමකින් දෙකක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9936ee11.json))
 
