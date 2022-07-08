@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131025",
+    "time_ut": 1657253273,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 ! \u0b95\u0b9f\u0bb2\u0bcd \u0b85\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/28/282ea0eb.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-395214",
+    "time_ut": 1657253149,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6f/6fd8b569.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83500/shipment-of-40000-mt-of-fertilizer-expected-tomorrow",
+    "time_ut": 1657252980,
+    "original_lang": "en",
+    "original_title": "Shipment of 40,000 MT of fertilizer expected tomorrow",
+    "file_name": "/tmp/news_lk2/articles/bd/bd8ca1b0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd9\u0dbd\u0dca\u200c-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dc0\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7-\u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dba\u0dd2/101-616037",
+    "time_ut": 1657252555,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0dbd\u0dca\u200c \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc0\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7 \u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c1/c1048ea4.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd9\u0dbd\u0dca\u200c-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dc0\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0da7/1-616037",
     "time_ut": 1657252555,
@@ -22,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Suppressing public protest will lead country and its people into greater abyss: Karu Jayasuriya",
     "file_name": "/tmp/news_lk2/articles/50/50ed513a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/sri-lanka-one-person-killed-in-fuel-queue-brawl/",
+    "time_ut": 1657251780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: One person killed in fuel queue brawl",
+    "file_name": "/tmp/news_lk2/articles/e1/e1526fe1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -262,6 +302,14 @@
     "original_lang": "en",
     "original_title": "Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion",
     "file_name": "/tmp/news_lk2/articles/cb/cb0e842d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0d9a\u0dca\u0db1\u0dcf-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db8\u0dcf\u0d9c\u0db8-\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0da7/11-395213",
+    "time_ut": 1657222013,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0d9a\u0dca\u0db1\u0dcf \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a1/a1ad250f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
