@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Lionising-the-Lion-City/4-737239",
+    "time_ut": 1657305408,
+    "original_lang": "en",
+    "original_title": "Lionising the Lion City",
+    "file_name": "/tmp/news_lk2/articles/ff/ffa87461.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83518/railway-depts-notice-on-train-operations-tomorrow",
     "time_ut": 1657304400,
     "original_lang": "en",
     "original_title": "Railway Dept\u2019s notice on train operations tomorrow",
     "file_name": "/tmp/news_lk2/articles/ce/ce7103c6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83518/railway-dept-issues-notice-on-train-operations-tomorrow",
+    "time_ut": 1657304400,
+    "original_lang": "en",
+    "original_title": "Railway Dept issues notice on train operations tomorrow",
+    "file_name": "/tmp/news_lk2/articles/31/31a769df.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -478,6 +494,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a \u0d9a\u0dd4\u0dbd\u0dd3 \u0dbb\u0dae \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dad\u0dca \u0d85\u0db7\u0dd2\u0db7\u0dc0\u0dcf \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/68/68009bed.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62101969",
+    "time_ut": 1657285846,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d87\u0db3\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba \u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/57/57aaaa61.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0db8\u0dd0\u0daf \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ca/ca4f2bc4.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130811",
-    "time_ut": 1656999566,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bb1\u0bcd\u0bb1\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a0/a0083f5d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bb3\u0bbf/175-299751",
-    "time_ut": 1656999373,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bb3\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/3f/3ff0cbbf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83438/parliament-adjourned-for-10-minutes",
-    "time_ut": 1656999180,
-    "original_lang": "en",
-    "original_title": "Parliament adjourned for 10 minutes",
-    "file_name": "/tmp/news_lk2/articles/fc/fc10a44d.json"
   }
 ]
