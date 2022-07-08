@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/IUSF-protest-march-tear-gassed/342-240629",
+    "time_ut": 1657287421,
+    "original_lang": "en",
+    "original_title": "IUSF protest march tear-gassed",
+    "file_name": "/tmp/news_lk2/articles/01/01fba9a9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcd\u0bb1-\u0bae\u0bbe\u0b9f\u0bc1/175-299971",
+    "time_ut": 1657287030,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1 \u0bae\u0bbe\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d3/d3de8c59.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131088",
+    "time_ut": 1657286961,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u00a0 9126 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd, \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9f/9f3c464f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-299970",
+    "time_ut": 1657286676,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/56/56258092.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/explainer-why-foreign-nations-use-imf-as-a-shield-to-help-crisis-hit-sri-lanka-97112/",
     "time_ut": 1657285800,
     "original_lang": "en",
     "original_title": "EXPLAINER \u2013 Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?",
     "file_name": "/tmp/news_lk2/articles/57/573e687d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0dda-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dd9\u0db1\u0dca--\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/101-616084",
+    "time_ut": 1657285515,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2\u0dba\u0dda \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dd9\u0db1\u0dca  \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/01/01d5c7df.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -48,6 +88,22 @@
     "file_name": "/tmp/news_lk2/articles/b4/b4ba995a.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/rambukkana-shooting-human-rights-commission-makes-startling-revelations-in-report/",
+    "time_ut": 1657284600,
+    "original_lang": "en",
+    "original_title": "#Rambukkana Shooting: Human Rights Commission makes startling revelations in report",
+    "file_name": "/tmp/news_lk2/articles/a3/a3b4690d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/violence-is-not-an-answer-us-amb/",
+    "time_ut": 1657284120,
+    "original_lang": "en",
+    "original_title": "Violence is not an answer \u2013 US Amb.",
+    "file_name": "/tmp/news_lk2/articles/f2/f243d1f1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131084",
     "time_ut": 1657284117,
@@ -72,12 +128,28 @@
     "file_name": "/tmp/news_lk2/articles/47/47ee2e8a.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/power-cut-schedule-from-9-july-15-july/",
+    "time_ut": 1657283760,
+    "original_lang": "en",
+    "original_title": "Power cut schedule from 9 July \u2013 15 July",
+    "file_name": "/tmp/news_lk2/articles/e0/e046a182.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dda-\u0daf\u0dd3-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/11-395230",
     "time_ut": 1657283386,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dda \u0daf\u0dd3 \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/18/18cd5f4c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/08/navy-nabs-67-in-illegal-migration-attempt/",
+    "time_ut": 1657283100,
+    "original_lang": "en",
+    "original_title": "Navy nabs 67 in illegal migration attempt",
+    "file_name": "/tmp/news_lk2/articles/b6/b645b2b1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -345,11 +417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/People-have-no-choice-but-to-expel-this-Govt-Tilvin/342-240621",
+    "url": "https://www.dailymirror.lk/breaking_news/People-have-no-choice-but-to-expel-this-Govt-Tilvin/108-240621",
     "time_ut": 1657275588,
     "original_lang": "en",
     "original_title": "People have no choice but to expel this Govt.: Tilvin",
-    "file_name": "/tmp/news_lk2/articles/fe/fe841aa5.json"
+    "file_name": "/tmp/news_lk2/articles/74/7409b59c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
