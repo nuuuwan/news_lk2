@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83520/assign-pregnant-govt-officials-to-work-stations-close-to-home-female-mps-caucus",
+    "time_ut": 1657310040,
+    "original_lang": "en",
+    "original_title": "Assign pregnant govt officials to work stations close to home: Female MPs\u2019 Caucus",
+    "file_name": "/tmp/news_lk2/articles/1a/1acdb19f.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/COPA-hears-public-transport-s-rough-ride/56-737265",
     "time_ut": 1657308747,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Cabinet approval to waive off unpaid loans obtained by paddy farmers from state banks",
     "file_name": "/tmp/news_lk2/articles/40/40aec55d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0dba\u0dc5\u0dd2-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-615892",
-    "time_ut": 1657002566,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca \u0d85\u0db1\u0dd4\u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0dba\u0dc5\u0dd2 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e770495f.json"
   }
 ]
