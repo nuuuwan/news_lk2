@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Country-now-reaping-its-benefits-after-long-and-well-planned-effort-President/342-240630",
+    "time_ut": 1657289968,
+    "original_lang": "en",
+    "original_title": "Country now reaping its benefits after long and well-planned effort: President",
+    "file_name": "/tmp/news_lk2/articles/dd/ddef64d4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83513/litro-denies-alleged-financial-irregularities-in-lp-gas-purchases",
+    "time_ut": 1657289940,
+    "original_lang": "en",
+    "original_title": "Litro denies alleged financial irregularities in LP gas purchases",
+    "file_name": "/tmp/news_lk2/articles/27/27cdb849.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd3-\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca---\u0da2\u0dbd-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb/1-616086",
+    "time_ut": 1657289842,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0da7 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca - \u0da2\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/37/370c9f33.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dbd\u0daf\u0dd3-\u0dc3\u0d82\u0dba\u0db8\u0dba\u0dd9\u0db1\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u2019\u2019/1-616085",
     "time_ut": 1657289369,
@@ -225,11 +249,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0dc4\u0dcf-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd\u0da7-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dda-\u0dc3\u0dc4\u0dba/101-616080",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd9\u0dc5\u0dd9\u0db3-\u0dc4\u0dcf-\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd\u0da7-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dda-\u0dc3\u0dc4\u0dba/1-616080",
     "time_ut": 1657281501,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0dc5\u0dd9\u0db3 \u0dc4\u0dcf \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd\u0da7 \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0dc4\u0dba",
-    "file_name": "/tmp/news_lk2/articles/09/09dd306d.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c82e93d9.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0d9a\u0dbb \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dd4\u0dad\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/5c/5c24e47f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83433/defence-ministry-urges-people-not-to-panic-over-unconfirmed-intelligence-information",
-    "time_ut": 1656988020,
-    "original_lang": "en",
-    "original_title": "Defence Ministry urges people not to panic over unconfirmed intelligence information",
-    "file_name": "/tmp/news_lk2/articles/b2/b2a4b1ef.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dab\u0dca\u0da9\u0dd4-\u0db4\u0d9a\u0dc2-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0d85\u0da9\u0dd4-\u0dc0\u0dda/1-615873",
-    "time_ut": 1656987926,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4 \u0db4\u0d9a\u0dc2 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0d85\u0da9\u0dd4 \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/33/33729979.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dab\u0dca\u0da9\u0dd4-\u0db4\u0d9a\u0dca\u0dc2-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0d85\u0da9\u0dd4-\u0dc0\u0dda/101-615873",
-    "time_ut": 1656987926,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4 \u0db4\u0d9a\u0dca\u0dc2 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0d85\u0da9\u0dd4 \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/95/954b1a82.json"
   }
 ]
