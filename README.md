@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 05:03:49 (LK time)*
+*As of 2022-07-10 05:20:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
 ## Last Hour (1 Articles)
 
@@ -40,7 +36,7 @@
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
-## Last Week (1,994 Articles)
+## Last Week (1,993 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -48,7 +44,7 @@
 
 * **232** daily-mirror-lk ([US Senate says IMF agreement with SL must depend on key reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/754c9ede.json))
 
-* **230** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
+* **229** tamil-mirror-lk ([கடலலையில் இழுத்துச் செல்லப்பட்ட    மாணவன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccce56bf.json))
 
 * **227** ada-lk ([ජැක්සන් ඇන්තනි කොළඹ ජාතික රෝහලට ඇතුළත් කරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b58ddb0.json))
 
