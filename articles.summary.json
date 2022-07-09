@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131146",
+    "time_ut": 1657360266,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/5c/5c391a2f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131151",
+    "time_ut": 1657360185,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9 \u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e0/e0a2a4bb.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/42-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd/175-300052",
     "time_ut": 1657359856,
     "original_lang": "ta",
     "original_title": "42 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd: \u0bae\u0bc2\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b3/b3e39cd6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0db4\u0dd2\u0dba\u0dc0\u0dbb\u0d9a\u0dca-\u0dbd\u0dd9\u0dc3-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d8a\u0dba\u0dda-\u0dbb\u0dd1\u0db8-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-/11-395256",
+    "time_ut": 1657359485,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db4\u0dd2\u0dba\u0dc0\u0dbb\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d8a\u0dba\u0dda \u0dbb\u0dd1\u0db8 \u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca?",
+    "file_name": "/tmp/news_lk2/articles/d5/d5b89773.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -17,11 +41,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/76-300051",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1\u0bae\u0bcd-\u0b9a\u0bb0\u0bae\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/76-300051",
     "time_ut": 1657359100,
     "original_lang": "ta",
-    "original_title": "\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a3/a3a4a78b.json"
+    "original_title": "\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0bae\u0bc0\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bae\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/65/65cff5b1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -46,14 +70,6 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/cf/cfc28b00.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/09/basl-questions-presidents-ability-to-function/",
-    "time_ut": 1657358700,
-    "original_lang": "en",
-    "original_title": "BASL questions President\u2019s ability to function",
-    "file_name": "/tmp/news_lk2/articles/f5/f5b8fdc0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -81,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dcf\u0da2\u0dd2\u0dad\u0da7\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/1-616123",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0dd2\u0dad\u0da7\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616123",
     "time_ut": 1657358322,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0dd2\u0dad\u0da7\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/5d/5d7cb550.json"
+    "file_name": "/tmp/news_lk2/articles/ea/ead7b692.json"
   },
   {
     "newspaper_id": "virakesari-lk",
