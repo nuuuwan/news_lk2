@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Party-leaders-request-GR-to-step-down-immediately/56-737283",
+    "time_ut": 1657365161,
+    "original_lang": "en",
+    "original_title": "Party leaders request GR to step down immediately",
+    "file_name": "/tmp/news_lk2/articles/66/666d1654.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Party-Leaders-decided-to-inform-President-to-resign/155-240723",
+    "time_ut": 1657365042,
+    "original_lang": "en",
+    "original_title": "Party Leaders decided to inform President to resign",
+    "file_name": "/tmp/news_lk2/articles/70/70658024.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131155",
+    "time_ut": 1657364687,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b95\u0b9f\u0bcd\u0b9f \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/87/8736d557.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/GotaGoGama-activists-want-President-PM-and-interim-Govt-resign-immediately/56-737282",
     "time_ut": 1657363838,
     "original_lang": "en",
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-boycotts-PMs-meeting-attends-Speakers-meeting/108-240722",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-boycotts-PMs-meeting-attends-Speakers-meeting/342-240722",
     "time_ut": 1657363503,
     "original_lang": "en",
     "original_title": "SJB boycotts PM\u2019s meeting; attends Speaker\u2019s meeting",
-    "file_name": "/tmp/news_lk2/articles/20/20584bcb.json"
+    "file_name": "/tmp/news_lk2/articles/81/81f5ff4b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -729,11 +753,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Protesters-enter-Presidents-House-in-Fort/155-240705",
+    "url": "https://www.dailymirror.lk/breaking_news/Protesters-enter-Presidents-House-in-Fort/108-240705",
     "time_ut": 1657352888,
     "original_lang": "en",
     "original_title": "Protesters enter President\u2019s House in Fort",
-    "file_name": "/tmp/news_lk2/articles/0c/0c15c2b9.json"
+    "file_name": "/tmp/news_lk2/articles/77/773e3d0d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0dc0\u0dd2\u0dc0\u0dda\u0da0\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/86/86322981.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d85\u0daf\u0dad\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0db8\u0db1\u0dca-\u0dc0\u0dcf\u0dbb-\u0dbb\u0dd0\u0dc3\u0d9a\u0dca-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2/10-395147",
-    "time_ut": 1657082464,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0daf\u0dad\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0db8\u0db1\u0dca \u0dc0\u0dcf\u0dbb \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ee/eee98574.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba\u00a0\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8\u0d9a\u0dca/11-395146",
-    "time_ut": 1657082088,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba\u00a0\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c4/c40370dd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130884",
-    "time_ut": 1657081680,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/fa/fa0d520f.json"
   }
 ]
