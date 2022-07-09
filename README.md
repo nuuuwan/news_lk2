@@ -1,30 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 13:47:11 (LK time)*
+*As of 2022-07-09 13:58:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (6 Articles)
 
-* **4** tamil-mirror-lk ([போராட்டத்தில் இணைந்த பொலிஸ் விசேட அதிரடிப்படை அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83fb0673.json))
+* **4** tamil-mirror-lk ([ராஜித சேனாரத்ன மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/1449a0ed.json))
 
-* **2** daily-mirror-lk ([Protesters enter President’s House in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c15c2b9.json))
+* **2** virakesari-lk ([ஜனாதிபதி மாளிகை மக்கள் வசம் ? நாட்டை விட்டு வெளியேறினாரா ஜனாதிபதி ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73f453cf.json))
 
-## Last Hour (14 Articles)
+## Last Hour (16 Articles)
 
-* **7** tamil-mirror-lk ([ஜனாதிபதி மாளிகைக்குள் நுழைந்த மக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6396f5.json))
+* **10** tamil-mirror-lk ([ஜனாதிபதி மாளிகைக்குள் நுழைந்த மக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6396f5.json))
 
-* **3** ada-derana-lk ([Protesters enter premises of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2b3cc1d.json))
+* **3** virakesari-lk ([தடைகளைத் தகர்த்தெறிந்து ஜனாதிபதி மாளிகையின் பிரதான நுழைவாயிலை நெருங்கியது மக்கள் படை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d0acef1.json))
 
 * **2** daily-mirror-lk ([Protesters enter President’s House in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c15c2b9.json))
 
 * **1** news-first-lk ([BREAKING: Sri Lankan President’s House stormed by protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/ccfec7f4.json))
 
-* **1** virakesari-lk ([தடைகளைத் தகர்த்தெறிந்து ஜனாதிபதி மாளிகையின் பிரதான நுழைவாயிலை நெருங்கியது மக்கள் படை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d0acef1.json))
+## Last 3 Hours (54 Articles)
 
-## Last 3 Hours (50 Articles)
-
-* **15** tamil-mirror-lk ([வானத்தை நோக்கி துப்பாக்கிச் சூடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/512c239a.json))
+* **18** tamil-mirror-lk ([வானத்தை நோக்கி துப்பாக்கிச் சூடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/512c239a.json))
 
 * **7** daily-mirror-lk ([Protestors tear gassed in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc201f5f.json))
 
@@ -32,7 +30,7 @@
 
 * **7** lankadeepa-lk ([විරෝධතාකරුවන්ට කඳුළු ගෑස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e716bbb.json))
 
-* **5** virakesari-lk ([இலங்கையில் வரலாறு காணாத மக்கள் வெள்ளம் கொழும்பை நோக்கி படையெடுப்பு : ஸ்தம்பித்தது கொழும்பு : கண்ணீர்பபுகை பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89832181.json))
+* **6** virakesari-lk ([ஜனாதிபதி, பிரதமரை பதவி விலகுமாறு கோரி யாழில் சைக்கிள் பேரணி போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90a1a1f8.json))
 
 * **4** news-first-lk ([NO LIOC distribution to filling stations today (9)](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/666c6c7f.json))
 
@@ -40,13 +38,13 @@
 
 * **2** economy-next-com ([Protestors storm Sri Lanka president’s official residence in popular uprising](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21ef4e1.json))
 
-## Last 24 Hours (330 Articles)
+## Last 24 Hours (333 Articles)
 
-* **61** virakesari-lk ([எரிபொருள் விநியோகத்தை இடை நிறுத்தியது லங்கா ஐ.ஓ.சி - இது தான் காரணம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783fd02b.json))
+* **62** virakesari-lk ([சுகாதார பணியாளர்களிற்கான எரிபொருள் விநியோகம் இடைநிறுத்தப்பட்டது ஏன் - ரவிகுமுதேஸ் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9542713a.json))
 
-* **55** tamil-mirror-lk ([“வன்முறை தீர்வல்ல” - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef0a2f03.json))
+* **58** tamil-mirror-lk ([“வன்முறை தீர்வல்ல” - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef0a2f03.json))
 
-* **40** daily-mirror-lk ([Protest peacefully - US ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f796abb5.json))
+* **39** daily-mirror-lk ([100 flights from Sri Lanka refueled by Bharat Petroleum in Tamil Nadu](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de8c31af.json))
 
 * **39** ada-derana-lk ([LIOC suspends fuel distribution to filling stations today and tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b931563f.json))
 
@@ -54,7 +52,7 @@
 
 * **35** news-first-lk ([Japanese former prime minister Abe has died -NHK](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b041038f.json))
 
-* **24** ada-lk ([පිරවුම්හල් වෙත ඉන්ධන සැපයීම IOCය අත්හිටුවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/2288d602.json))
+* **23** ada-lk ([පොලිසිය කළ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6882461d.json))
 
 * **16** economy-next-com ([Sri Lanka Treasury bill yields down, TT dollars unchanged](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/049ffdff.json))
 
@@ -62,13 +60,13 @@
 
 * **3** b-b-c-com-sinhala ([අද රාත්‍රී 9.00 සිට බස්නාහිර පළාතේ පොලිස් කොට්ඨාස හතකට පොලිස් ඇඳිරි නීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23824068.json))
 
+* **2** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
+
 * **2** island-lk ([Nations Trust Bank conducts 6th successful Lean Six Sigma Graduation](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/974c1e9c.json))
 
-* **1** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
+## Last Week (1,850 Articles)
 
-## Last Week (1,845 Articles)
-
-* **361** virakesari-lk ([பணிப்பகிஷ்கரிப்பை கைவிட்டு பணிக்கு திரும்புமாறு தபால் ஊழியர்களுக்கு அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/052549bf.json))
+* **363** virakesari-lk ([பணிப்பகிஷ்கரிப்பை கைவிட்டு பணிக்கு திரும்புமாறு தபால் ஊழியர்களுக்கு அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/052549bf.json))
 
 * **265** lankadeepa-lk ([ඉන්ධන, ගෑස්  ඉල්ලා ඇමතුම් දහස්  ගණනක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc020010.json))
 
@@ -76,13 +74,13 @@
 
 * **203** ada-lk ([IOC රටටම සුබ ආරංචියක් ගෙනෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91ca1a94.json))
 
-* **199** tamil-mirror-lk ([எரிவாயு தொடர்பில்  லிட்ரோவின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e6cd36.json))
+* **202** tamil-mirror-lk ([எரிவாயு தொடர்பில்  லிட்ரோவின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e6cd36.json))
 
 * **173** ada-derana-lk ([Second phase of O/L paper marking temporarily halted](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2698fa66.json))
 
 * **151** news-first-lk ([Red alert issued for rough seas, amber alert for strong winds](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/448b7847.json))
 
-* **105** economy-next-com ([Sri Lanka’s 22nd constitutional amendment bill is not a restoration of 19A’s essence: experts](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec79fdb.json))
+* **104** economy-next-com ([Strong winds, rough seas: Sri Lanka Met Department issues red alerts](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3239b83b.json))
 
 * **75** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
@@ -92,11 +90,11 @@
 
 * **20** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-* **11** colombo-telegraph-com ([Qatari Charity Exposes President’s Anti-Terrorism Hoax](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/237f4d79.json))
+* **12** colombo-telegraph-com ([Qatari Charity Exposes President’s Anti-Terrorism Hoax](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/237f4d79.json))
 
-## All Time (4,283 Articles)
+## All Time (4,289 Articles)
 
-* **778** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **780** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **653** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -104,7 +102,7 @@
 
 * **459** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **436** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **439** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **355** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
@@ -118,6 +116,6 @@
 
 * **66** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
-* **51** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
+* **52** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
 * **51** b-b-c-com-sinhala ([මන්නාරම සහ පූනරීන්හි සුළංබල ව්‍යාපෘති දියත්කරන ගෞතම් අදානි කවුද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/263aeefa.json))

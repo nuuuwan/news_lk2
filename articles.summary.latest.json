@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd/175-300040",
+    "time_ut": 1657354470,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/10/10841371.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bbe/175-300038",
+    "time_ut": 1657354078,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/eb/eb79287e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc7\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd/175-300037",
+    "time_ut": 1657354024,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/86/8651a332.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131138",
+    "time_ut": 1657353847,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0ba9\u0ba4\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd- \u0b8f\u0b8e\u0bb5\u0bcd\u0baa\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/7d/7de236d3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131135",
+    "time_ut": 1657353827,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b9a\u0bae\u0bcd ? \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bbe \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf ?",
+    "file_name": "/tmp/news_lk2/articles/73/73f453cf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0bbf\u0ba4-\u0b9a\u0bc7\u0ba9\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-300036",
     "time_ut": 1657353663,
     "original_lang": "ta",
@@ -457,11 +497,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7-\u0db8\u0dc4-\u0da2\u0db1-\u0d9c\u0d9f\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-616108",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7-\u0db8\u0dc4-\u0da2\u0db1-\u0d9c\u0d9f\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/101-616108",
     "time_ut": 1657343268,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7 \u0db8\u0dc4 \u0da2\u0db1 \u0d9c\u0d9f\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f8/f891cb48.json"
+    "file_name": "/tmp/news_lk2/articles/84/84c15514.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -697,11 +737,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Decision-to-open-schools-next-week-will-be-made-today-Edu-Ministry/342-240689",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-to-open-schools-next-week-will-be-made-today-Edu-Ministry/108-240689",
     "time_ut": 1657337335,
     "original_lang": "en",
     "original_title": "Decision to open schools next week will be made today: Edu. Ministry",
-    "file_name": "/tmp/news_lk2/articles/2c/2c5ccd4e.json"
+    "file_name": "/tmp/news_lk2/articles/c7/c7bbecb5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -782,6 +822,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
     "file_name": "/tmp/news_lk2/articles/5c/5ce62075.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/aragala-bhumiya-sri-lankan-mythological-consciousness/",
+    "time_ut": 1657334411,
+    "original_lang": "en",
+    "original_title": "Aragala Bhumiya & Sri Lankan Mythological Consciousness",
+    "file_name": "/tmp/news_lk2/articles/01/010e7536.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/ba/ba4fa043.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/05/flight-training-academy-at-batti-airport/",
-    "time_ut": 1657034880,
-    "original_lang": "en",
-    "original_title": "Flight training academy at Batti airport ?",
-    "file_name": "/tmp/news_lk2/articles/ba/ba136253.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130859",
-    "time_ut": 1657034846,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bbe\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd\u00a0\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd\u00a0\u0ba8\u0bc7\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc6\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/05/053ddac7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/C-W-Mackie-PLC-Scan-Products-Division-launches-Recycle-for-Future-Generation/342-240401",
-    "time_ut": 1657034794,
-    "original_lang": "en",
-    "original_title": "C.W. Mackie PLC \u2013 Scan Products Division launches \u2018Recycle for Future Generation\u2019",
-    "file_name": "/tmp/news_lk2/articles/ba/ba4e1d47.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/C-W-Mackie-PLC-Scan-Product-Division-launches-Recycle-for-Future-Generation/108-240401",
-    "time_ut": 1657034794,
-    "original_lang": "en",
-    "original_title": "C.W. Mackie PLC \u2013 Scan Product Division launches \u2018Recycle for Future Generation\u2019",
-    "file_name": "/tmp/news_lk2/articles/a0/a0d8b722.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130869",
-    "time_ut": 1657034738,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0b9f\u0bae\u0bcd \u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bc7\u0bbe\u0bae\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/c0/c08d5ee0.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130870",
-    "time_ut": 1657034458,
-    "original_lang": "ta",
-    "original_title": "69 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0ba8\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0",
-    "file_name": "/tmp/news_lk2/articles/76/76e0abd0.json"
   }
 ]
