@@ -1,10 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 00:01:04 (LK time)*
+*As of 2022-07-10 00:10:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
+
+## Last Hour (3 Articles)
 
 * **1** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
 
@@ -12,17 +16,7 @@
 
 * **1** daily-mirror-lk ([Harin and Manusha step down as cabinet ministers](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227b17d5.json))
 
-## Last Hour (5 Articles)
-
-* **2** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
-
-* **1** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
-
-* **1** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
-
-* **1** ada-lk ([ගිනි තැබුවේ රනිල් රාජකීය විද්‍යාලයට පරිත්‍යාග කළ නිවසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1567f73.json))
-
-## Last 3 Hours (36 Articles)
+## Last 3 Hours (32 Articles)
 
 * **6** tamil-mirror-lk ([ரணிலின் வீட்டுக்கு தீ வைப்பு (Video)](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd334a.json))
 
@@ -30,11 +24,9 @@
 
 * **6** daily-mirror-lk ([Speaker informs President of All-Party decisions](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79f6e10f.json))
 
-* **5** ada-lk ([පක්ෂ නායක රැස්වීමේ තීරණය ජනපතිට දන්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55979a7c.json))
+* **4** ada-lk ([විරෝධතාකරුවන් අග්‍රමාත්‍ය රනිල් වික්‍රමසිංහ මහතාගේ පෞද්ගලික නිවසට ඇතුළු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f1be7cf.json))
 
 * **4** virakesari-lk ([ஊடகவியலாளர்கள் மீது விசேட அதிரடிப்படையினர், பொலிஸார் காட்டுமிராண்டித் தனமான தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d645f27.json))
-
-* **4** lankadeepa-lk ([ජනපති - අගමැති අස්වීම් ලිපි අද රෑ කතානායකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf51c822.json))
 
 * **2** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
@@ -42,7 +34,9 @@
 
 * **1** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
 
-## Last 24 Hours (371 Articles)
+* **1** lankadeepa-lk ([අගමැතිගේ පෞද්ගලික නිවසට ගිනි තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7021c97.json))
+
+## Last 24 Hours (370 Articles)
 
 * **78** tamil-mirror-lk ([’இன்றைய போராட்டத்திற்கு ஆதரவு 110 வீதம் உண்டு’](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/812ebeeb.json))
 
@@ -56,9 +50,9 @@
 
 * **41** ada-lk ([බ්‍රිතාන්‍ය අගමැතිට ගෙදර යන්න දොරටු විවර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d8e80c.json))
 
-* **23** daily-ft-lk ([Lionising the Lion City](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffa87461.json))
-
 * **23** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
+
+* **22** daily-ft-lk ([Roadmap for people-centred constitution in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/732aafd9.json))
 
 * **21** economy-next-com ([Sri Lanka’s stocks up but turnover slumps to over 2-mth low; political woes weigh](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba5f438.json))
 
