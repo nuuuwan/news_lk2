@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-schools-until-next-Friday-open-on-July-18/342-240702",
+    "time_ut": 1657349598,
+    "original_lang": "en",
+    "original_title": "No schools until next Friday; open on July 18",
+    "file_name": "/tmp/news_lk2/articles/a0/a093a761.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dbd\u0dd0\u0db6\u0dd6-14\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616113",
+    "time_ut": 1657349442,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 14\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/43/438b2780.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0-\u0d91\u0dba\u0dd2/101-616112",
+    "time_ut": 1657348982,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ef/efca74c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-underway-at-Galle-Fort/108-240701",
+    "time_ut": 1657348948,
+    "original_lang": "en",
+    "original_title": "Protest underway at Galle Fort",
+    "file_name": "/tmp/news_lk2/articles/90/9041bffe.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131127",
+    "time_ut": 1657348608,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b95\u0bb2 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/8c/8c2e0c1d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83530/seven-injured-and-hospitalized-during-mass-protests-in-colombo",
+    "time_ut": 1657348560,
+    "original_lang": "en",
+    "original_title": "Seven injured and hospitalized during mass protests in Colombo",
+    "file_name": "/tmp/news_lk2/articles/28/285b7a27.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Shots-fired-in-the-air-to-disperse-protestors-at-Chatham-Street/342-240700",
+    "time_ut": 1657348423,
+    "original_lang": "en",
+    "original_title": "Shots fired in the air to disperse protestors at Chatham Street",
+    "file_name": "/tmp/news_lk2/articles/37/37a2efda.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd0\u0dad\u0db8\u0dca-\u0dc0\u0dd3\u0daf\u0dd2\u0dba-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-395248",
+    "time_ut": 1657348280,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd0\u0dad\u0db8\u0dca \u0dc0\u0dd3\u0daf\u0dd2\u0dba \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/0b/0be64f16.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0baa\u0bb2\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-300024",
     "time_ut": 1657347920,
@@ -22,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0da7\u0db4\u0dd4\u0dbb \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf",
     "file_name": "/tmp/news_lk2/articles/1d/1db47e12.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131124",
+    "time_ut": 1657347529,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0ba3\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/90a1a1f8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -86,6 +158,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/51/512c239a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0dc0\u0dd0\u0da9-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-395247",
+    "time_ut": 1657345318,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2e/2ed0e0e0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka schedules power cuts of up to 3 hours for July 06 to July 08",
     "file_name": "/tmp/news_lk2/articles/5f/5fb5f9be.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-june-4-and-5-96973/",
-    "time_ut": 1657025520,
-    "original_lang": "en",
-    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for June 4 and 5",
-    "file_name": "/tmp/news_lk2/articles/69/697b5194.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130871",
-    "time_ut": 1657025122,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bc8 \u0b95\u0bbe\u0bb2\u0bbe\u0bb2\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bbf \u0b89\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0bb2\u0bc6\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0ba9\u0bcd \u0b95\u0bc7\u0ba9\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/b5/b53d78ca.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/05/health-sector-in-limbo-due-to-fuel-crisis/",
-    "time_ut": 1657025100,
-    "original_lang": "en",
-    "original_title": "Health sector in limbo due to fuel crisis",
-    "file_name": "/tmp/news_lk2/articles/e4/e4f610f1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dfcc-bank-implements-energy-saving-initiatives-in-line-with-its-sustainability-strategy/",
-    "time_ut": 1657025040,
-    "original_lang": "en",
-    "original_title": "DFCC Bank implements energy saving initiatives in line with its Sustainability Strategy",
-    "file_name": "/tmp/news_lk2/articles/a0/a00154ed.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a\u0dba\u0db1\u0dca-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0da7/11-395139",
-    "time_ut": 1657024983,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a\u0dba\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0da7",
-    "file_name": "/tmp/news_lk2/articles/7f/7fe0db6a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-enterprise-enables-david-pieris-group-of-companies-digital-transformation-with-dialog-sd-wan-solution/",
-    "time_ut": 1657024980,
-    "original_lang": "en",
-    "original_title": "Dialog Enterprise enables David Pieris Group of Companies digital transformation with Dialog SD-WAN Solution",
-    "file_name": "/tmp/news_lk2/articles/ae/aec32753.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/pms-rising-debt-ratio-statement-hits-share-market-cse-drops-by-over-1-per-cent/",
-    "time_ut": 1657024920,
-    "original_lang": "en",
-    "original_title": "PM\u2019s rising debt ratio statement hits share market; CSE drops by over 1 per cent",
-    "file_name": "/tmp/news_lk2/articles/35/351456d9.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/slt-mobitel-debuts-traverse-sri-lankas-first-virtual-city/",
-    "time_ut": 1657024920,
-    "original_lang": "en",
-    "original_title": "SLT-MOBITEL debuts \u2018Traverse\u2019 \u2013 Sri Lanka\u2019s first Virtual City",
-    "file_name": "/tmp/news_lk2/articles/f3/f34c96ce.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bc7\u0bb0\u0bbe\u0baf\u0bb0\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-299773",
-    "time_ut": 1657024860,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd: \u0baa\u0bc7\u0bb0\u0bbe\u0baf\u0bb0\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/de/de773465.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/an-all-party-government-cant-fix-the-problem-quickly-harsha-tells-foreign-media/",
-    "time_ut": 1657024860,
-    "original_lang": "en",
-    "original_title": "An all-party government can\u2019t fix the problem quickly, Harsha tells foreign media",
-    "file_name": "/tmp/news_lk2/articles/59/5942ab45.json"
   }
 ]
