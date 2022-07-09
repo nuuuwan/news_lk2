@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 05:23:36 (LK time)*
+*As of 2022-07-09 05:46:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 24 Hours (290 Articles)
 
-* **1** ada-derana-lk ([OHCHR urges SL authorities to show restraint in policing of assemblies](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd501b58.json))
-
-* **1** daily-mirror-lk ([Corruption internationalised; Past haunts](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/722c9e59.json))
-
-## Last 24 Hours (288 Articles)
-
-* **62** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
+* **64** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
 
 * **41** lankadeepa-lk ([ඉන්ධනහලේ ගැටුමකින් දෙකක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9936ee11.json))
 
@@ -36,9 +30,9 @@
 
 * **2** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## Last Week (1,803 Articles)
+## Last Week (1,807 Articles)
 
-* **366** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
+* **368** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
 * **263** lankadeepa-lk ([ලක්ෂ පහක ඉන්ධන දොම්පෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/65cd4403.json))
 
@@ -56,7 +50,7 @@
 
 * **75** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
-* **60** island-lk ([Hayleys Fabric scores with organic, eco-friendly dye](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0970acce.json))
+* **62** island-lk ([Hayleys Fabric scores with organic, eco-friendly dye](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0970acce.json))
 
 * **25** d-b-s-jeyaraj-com ([The Amendment approved by Cabinet on 27 June does not restore the content of the 19th Amendment ; it falls short of the President  Rajapaksa’s commitment to the nation made on 11 May.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6738703.json))
 
@@ -64,9 +58,9 @@
 
 * **13** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (4,146 Articles)
+## All Time (4,150 Articles)
 
-* **763** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **765** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **636** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +78,7 @@
 
 * **200** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **149** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **151** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **66** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
