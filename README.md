@@ -1,10 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 04:42:33 (LK time)*
+*As of 2022-07-10 04:52:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (342 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
+
+## Last Hour (1 Articles)
+
+* **1** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
+
+## Last 3 Hours (1 Articles)
+
+* **1** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
+
+## Last 24 Hours (343 Articles)
 
 * **67** tamil-mirror-lk ([காலிமுகத்திடலில் பொலிஸார் குவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3820cb4c.json))
 
@@ -20,7 +32,7 @@
 
 * **24** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
 
-* **20** economy-next-com ([Sri Lanka schedules power cuts of 3 hours from July 9 to July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e75958c.json))
+* **21** economy-next-com ([Sri Lanka schedules power cuts of 3 hours from July 9 to July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e75958c.json))
 
 * **10** daily-ft-lk ([Bar Association calls for swift political stability and public restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dc32600.json))
 
@@ -28,7 +40,7 @@
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
-## Last Week (1,992 Articles)
+## Last Week (1,993 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -44,7 +56,7 @@
 
 * **158** news-first-lk ([Water Supply interrupted for several areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c312bc83.json))
 
-* **114** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
+* **115** economy-next-com ([Sri Lanka private credit tumbles in May, state credit also falls](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf909f51.json))
 
 * **85** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
@@ -56,7 +68,7 @@
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,504 Articles)
+## All Time (4,505 Articles)
 
 * **811** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -72,7 +84,7 @@
 
 * **365** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **235** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **236** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **210** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
