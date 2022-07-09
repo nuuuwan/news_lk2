@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Harin-and-Manusha-step-down-as-cabinet-ministers/108-240739",
+    "time_ut": 1657389760,
+    "original_lang": "en",
+    "original_title": "Harin and Manusha step down as cabinet ministers",
+    "file_name": "/tmp/news_lk2/articles/22/227b17d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/BASL-condemns-burning-of-PMs-private-residence/108-240737",
     "time_ut": 1657388352,
     "original_lang": "en",

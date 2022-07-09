@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Harin-and-Manusha-step-down-as-cabinet-ministers/108-240739",
+    "time_ut": 1657389760,
+    "original_lang": "en",
+    "original_title": "Harin and Manusha step down as cabinet ministers",
+    "file_name": "/tmp/news_lk2/articles/22/227b17d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/BASL-condemns-burning-of-PMs-private-residence/108-240737",
     "time_ut": 1657388352,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "President of crisis-hit Sri Lanka asks Russian leader Putin for fuel credit",
     "file_name": "/tmp/news_lk2/articles/4e/4eadc718.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8/175-299841",
-    "time_ut": 1657106352,
-    "original_lang": "ta",
-    "original_title": "\u0bb9\u0bbf\u0bb0\u0bc1\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ef/ef70332e.json"
   }
 ]

@@ -1,44 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 23:39:14 (LK time)*
+*As of 2022-07-09 23:49:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** ada-lk ([අගමැතිගේ පෞද්ගලික නිවසට ගිනි තැබිම හෙළාදකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/639ed050.json))
+* **1** daily-mirror-lk ([Harin and Manusha step down as cabinet ministers](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227b17d5.json))
 
-* **1** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
+## Last Hour (3 Articles)
 
-* **1** daily-ft-lk ([President Gotabaya to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/247880e0.json))
+* **2** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
 
-* **1** virakesari-lk ([பதவியை இராஜிநாமா செய்வதாக அறிவித்தார் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f73629e9.json))
+* **1** ada-lk ([ගිනි තැබුවේ රනිල් රාජකීය විද්‍යාලයට පරිත්‍යාග කළ නිවසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1567f73.json))
 
-## Last 3 Hours (41 Articles)
+## Last 3 Hours (37 Articles)
+
+* **6** daily-mirror-lk ([Speaker informs President of All-Party decisions](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79f6e10f.json))
 
 * **6** ada-lk ([මාධ්‍යවේදින්ට පහරදීම ගැන පොලීසියෙන් පරීක්ෂණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d7eae21.json))
 
-* **6** virakesari-lk ([இன்றைய மின்வெட்டு குறித்து முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e06a67e4.json))
+* **5** virakesari-lk ([கொட்டகலை, தலவாக்கலையில் ஜனாதிபதியை பதவி விலகக்கோரி  போராட்டங்கள் முன்னெடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76028069.json))
 
-* **6** ada-derana-lk ([Speaker informs President of decisions taken at party leaders’ meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/303ccecf.json))
+* **5** ada-derana-lk ([Probe into STF officers who attacked media persons - Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ef3b66b.json))
 
-* **6** tamil-mirror-lk ([பிரதமரின் வீட்டுக்கு முன்னால் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2515548.json))
-
-* **5** daily-mirror-lk ([Speaker informs President of All-Party decisions](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79f6e10f.json))
+* **5** tamil-mirror-lk ([ரணிலின் வீட்டுக்கு தீ வைப்பு (Video)](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd334a.json))
 
 * **5** lankadeepa-lk ([සිරස මාධ්‍යවේදීන් පිරිසකට ආරක්ෂක අංශයෙන් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91cfbc32.json))
 
-* **3** economy-next-com ([Sri Lanka President’s palace becomes public bathhouse](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693fe9af.json))
-
 * **2** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
-* **2** news-first-lk ([Attack on Journalists : Disciplinary action against SSP](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37545650.json))
+* **2** economy-next-com ([Sri Lanka PM Wickremesinghe’s private residence set on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ea8befb.json))
 
-## Last 24 Hours (373 Articles)
+* **1** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
+
+## Last 24 Hours (372 Articles)
 
 * **78** tamil-mirror-lk ([ஐ.ஓ.சி. உரிமையாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b13130d.json))
 
-* **48** daily-mirror-lk ([Colombo security conclave concludes](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19b8ba4.json))
+* **48** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
 * **46** lankadeepa-lk ([කොළඹට පැනවු ඇඳිරි නීතිය අද අටට අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b6cd4f9.json))
 
@@ -48,7 +48,7 @@
 
 * **41** ada-lk ([බ්‍රිතාන්‍ය අගමැතිට ගෙදර යන්න දොරටු විවර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d8e80c.json))
 
-* **24** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
+* **23** daily-ft-lk ([Lionising the Lion City](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffa87461.json))
 
 * **23** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
 
@@ -58,13 +58,13 @@
 
 * **2** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## Last Week (1,992 Articles)
+## Last Week (1,991 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
 * **289** lankadeepa-lk ([සිපෙට්කෝ හල් වැඩි හරියක් වැහිලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/811ac392.json))
 
-* **233** daily-mirror-lk ([Jackson Anthony hospitalised](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6c0268b.json))
+* **232** daily-mirror-lk ([SLTDA Chairman complains to IGP over incident involving a Police Officer and a tourist](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceccd267.json))
 
 * **229** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
 
@@ -86,7 +86,7 @@
 
 * **11** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,496 Articles)
+## All Time (4,497 Articles)
 
 * **811** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -94,7 +94,7 @@
 
 * **536** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **486** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **487** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **475** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
