@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 03:10:36 (LK time)*
+*As of 2022-07-10 03:28:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** daily-ft-lk ([Apparel industry says ‘Make Sri Lanka First a national priority and agenda’](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a41ebb4.json))
 
 ## Last 24 Hours (342 Articles)
 
