@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 01:55:59 (LK time)*
+*As of 2022-07-10 02:09:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **3** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
 
@@ -16,9 +16,7 @@
 
 * **1** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
 
-* **1** ada-lk ([ගිනි තැබුවේ රනිල් රාජකීය විද්‍යාලයට පරිත්‍යාග කළ නිවසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1567f73.json))
-
-## Last 24 Hours (347 Articles)
+## Last 24 Hours (346 Articles)
 
 * **67** tamil-mirror-lk ([காலிமுகத்திடலில் பொலிஸார் குவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3820cb4c.json))
 
@@ -30,7 +28,7 @@
 
 * **41** ada-lk ([බ්‍රිතාන්‍ය අගමැතිට ගෙදර යන්න දොරටු විවර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d8e80c.json))
 
-* **39** ada-derana-lk ([BASL decries imposition of police curfew ahead of mass protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53a6ff70.json))
+* **38** ada-derana-lk ([OHCHR urges SL authorities to show restraint in policing of assemblies](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd501b58.json))
 
 * **24** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
 
