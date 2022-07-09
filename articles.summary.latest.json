@@ -2864,6 +2864,14 @@
     "file_name": "/tmp/news_lk2/articles/d6/d6a81129.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78460",
+    "time_ut": 1657308240,
+    "original_lang": "en",
+    "original_title": "President Gotabaya  Rajapaksa Moves to Safe Location Under  Military Protection as Protests Escalate ; Gota  will Resign as President   on July 13th States Speaker  Abeywardena",
+    "file_name": "/tmp/news_lk2/articles/a4/a4b8efb8.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83519/ceb-introduces-three-new-billing-methods",
     "time_ut": 1657308240,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 100\u0d9a \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/e0/e036e86e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83468/thirteen-arrested-over-unruly-conduct-at-filling-station-remanded",
-    "time_ut": 1657108740,
-    "original_lang": "en",
-    "original_title": "Thirteen arrested over unruly conduct at filling station remanded",
-    "file_name": "/tmp/news_lk2/articles/c2/c2a0bd85.json"
   }
 ]
