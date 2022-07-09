@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 05:49:44 (LK time)*
+*As of 2022-07-09 06:07:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (290 Articles)
+## Last 24 Hours (291 Articles)
 
 * **64** virakesari-lk ([எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில் மோதல் : ஒருவர் பலி, 3 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad10272.json))
 
@@ -14,7 +14,7 @@
 
 * **32** ada-derana-lk ([Youth killed in filling station clash at Galle](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d7869f.json))
 
-* **31** tamil-mirror-lk ([விசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2de74c0.json))
+* **32** tamil-mirror-lk ([விசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2de74c0.json))
 
 * **31** news-first-lk ([Sri Lanka: One person killed in fuel queue brawl](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1526fe1.json))
 
@@ -30,7 +30,7 @@
 
 * **2** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## Last Week (1,807 Articles)
+## Last Week (1,808 Articles)
 
 * **368** virakesari-lk ([கந்தக்காடு புனர்வாழ்வு நிலையத்தில் கைதி உயிரிழப்பு :  2 இராணுவ வீரர்கள் உட்பட 4 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35e2e11c.json))
 
@@ -40,7 +40,7 @@
 
 * **195** daily-mirror-lk ([CPC quizzed why fuel shipment not ordered before July 22 as fuel runs out](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04de7fc3.json))
 
-* **171** tamil-mirror-lk ([இராணுவப் படையினரும், விமானப்படை அலுவலர்களும் அதிரடி கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fed278e.json))
+* **172** tamil-mirror-lk ([இராணுவப் படையினரும், விமானப்படை அலுவலர்களும் அதிரடி கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fed278e.json))
 
 * **164** ada-derana-lk ([Strong winds to continue, naval & fishing communities warned of rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/543a7a3c.json))
 
@@ -58,7 +58,7 @@
 
 * **13** colombo-telegraph-com ([Open Letter To The President: Mr. President, It’s Not Too Late!](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e36a4d.json))
 
-## All Time (4,150 Articles)
+## All Time (4,151 Articles)
 
 * **765** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -68,7 +68,7 @@
 
 * **441** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **404** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **405** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **341** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
