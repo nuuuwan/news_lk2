@@ -560,6 +560,14 @@
     "file_name": "/tmp/news_lk2/articles/c2/c210ac01.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/leaked-security-deployment-plans-to-obstruct-july-9-protests/",
+    "time_ut": 1657375445,
+    "original_lang": "en",
+    "original_title": "Leaked: Security Deployment Plans To Obstruct July 9 Protests",
+    "file_name": "/tmp/news_lk2/articles/15/15c7a6d7.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3-\u0d85\u0dc3\u0dc5-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/11-395266",
     "time_ut": 1657375313,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0dc3\u0dd0\u0dbd\u0dda \u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba\u0da7",
     "file_name": "/tmp/news_lk2/articles/d2/d2158e59.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130937",
-    "time_ut": 1657108099,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0b9f\u0ba9\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bc0\u0ba9\u0bbf\u0b9f\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/23/23f7e041.json"
   }
 ]
