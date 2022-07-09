@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83527/president-assures-continuous-supply-of-essentials-in-coming-days",
+    "time_ut": 1657339980,
+    "original_lang": "en",
+    "original_title": "President assures continuous supply of essentials in coming days",
+    "file_name": "/tmp/news_lk2/articles/5c/5cfdb0ce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Trains-buses-back-on-service/342-240695",
+    "time_ut": 1657339298,
+    "original_lang": "en",
+    "original_title": "Trains, buses back on service",
+    "file_name": "/tmp/news_lk2/articles/28/28889e67.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Do-not-attempt-to-do-indirectly-what-you-could-not-do-directly-HRCSL-to-IGP/108-240694",
+    "time_ut": 1657338722,
+    "original_lang": "en",
+    "original_title": "Do not attempt to do indirectly what you could not do directly \u2013 HRCSL to IGP",
+    "file_name": "/tmp/news_lk2/articles/3c/3ca86c6f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83526/sltb-workers-call-off-trade-union-action",
     "time_ut": 1657338480,
     "original_lang": "en",
