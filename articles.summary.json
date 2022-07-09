@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0bbf\u0ba4-\u0b9a\u0bc7\u0ba9\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-300036",
+    "time_ut": 1657353663,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0bbf\u0ba4 \u0b9a\u0bc7\u0ba9\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9 \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/14/1449a0ed.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/175-300035",
     "time_ut": 1657353442,
     "original_lang": "ta",
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sajith-Premadasa-admitted-to-hospital-with-a-viral-flu/108-240706",
+    "url": "https://www.dailymirror.lk/latest_news/Sajith-Premadasa-admitted-to-hospital-with-a-viral-flu/342-240706",
     "time_ut": 1657353261,
     "original_lang": "en",
     "original_title": "Sajith Premadasa admitted to hospital with a viral flu",
-    "file_name": "/tmp/news_lk2/articles/2e/2e86b217.json"
+    "file_name": "/tmp/news_lk2/articles/86/867561fe.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -449,11 +457,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7-\u0db8\u0dc4-\u0da2\u0db1-\u0d9c\u0d9f\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/101-616108",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7-\u0db8\u0dc4-\u0da2\u0db1-\u0d9c\u0d9f\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-616108",
     "time_ut": 1657343268,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3\u0dc0\u0dd3\u0db8\u0da7 \u0db8\u0dc4 \u0da2\u0db1 \u0d9c\u0d9f\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/84/84c15514.json"
+    "file_name": "/tmp/news_lk2/articles/f8/f891cb48.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -689,11 +697,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Decision-to-open-schools-next-week-will-be-made-today-Edu-Ministry/108-240689",
+    "url": "https://www.dailymirror.lk/latest_news/Decision-to-open-schools-next-week-will-be-made-today-Edu-Ministry/342-240689",
     "time_ut": 1657337335,
     "original_lang": "en",
     "original_title": "Decision to open schools next week will be made today: Edu. Ministry",
-    "file_name": "/tmp/news_lk2/articles/c7/c7bbecb5.json"
+    "file_name": "/tmp/news_lk2/articles/2c/2c5ccd4e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
