@@ -1,11 +1,11 @@
 [
   {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131160",
-    "time_ut": 1657368693,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd : \u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf ? \u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd ? - \u0bae\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd \u0b87\u0ba4\u0bcb",
-    "file_name": "/tmp/news_lk2/articles/17/174ed8bc.json"
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83540/liquor-stores-to-remain-closed-until-tomorrow",
+    "time_ut": 1657368900,
+    "original_lang": "en",
+    "original_title": "Liquor stores to remain closed until tomorrow",
+    "file_name": "/tmp/news_lk2/articles/4d/4d3747a3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -934,6 +934,14 @@
     "original_lang": "en",
     "original_title": "Protesters enter premises of President\u2019s House",
     "file_name": "/tmp/news_lk2/articles/e2/e2b3cc1d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc0\u0dd9\u0dad\u0dd2/1-616115",
+    "time_ut": 1657351130,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/26/26bb8009.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 - \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2 \u0dc3\u0dc0\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/e1/e19f7b17.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130886",
-    "time_ut": 1657084930,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/1b/1baed034.json"
   }
 ]
