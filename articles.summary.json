@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/President-to-resign-on-Wednesday/155-240736",
+    "time_ut": 1657386026,
+    "original_lang": "en",
+    "original_title": "President to resign on Wednesday",
+    "file_name": "/tmp/news_lk2/articles/ac/acf565d1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83547/president-gotabaya-to-step-down-on-july-13",
+    "time_ut": 1657385580,
+    "original_lang": "en",
+    "original_title": "President Gotabaya to step down on July 13",
+    "file_name": "/tmp/news_lk2/articles/2f/2f5c01ae.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-300094",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe/175-300094",
     "time_ut": 1657385481,
     "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd  \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e8/e8c1430a.json"
+    "original_title": "\u0baa\u0bc1\u0ba4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/9a/9ab62814.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -97,11 +113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RWs-house-on-5th-Lane-set-on-fire-by-protestors/155-240734",
+    "url": "https://www.dailymirror.lk/latest_news/RWs-house-on-5th-Lane-set-on-fire-by-protestors/342-240734",
     "time_ut": 1657382121,
     "original_lang": "en",
     "original_title": "RW\u2019s house on 5th Lane set on fire by protestors",
-    "file_name": "/tmp/news_lk2/articles/6c/6cdbf742.json"
+    "file_name": "/tmp/news_lk2/articles/28/28bfc4ba.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
