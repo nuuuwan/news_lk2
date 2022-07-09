@@ -1,8 +1,16 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbe\u0ba4\u0bc1-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-300092",
+    "time_ut": 1657384043,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbe\u0ba4\u0bc1: \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/71/71396a82.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131177",
-    "time_ut": 1657383315,
+    "time_ut": 1657383999,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/db/db8c1265.json"
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83546/pms-private-residence-set-on-fire",
+    "url": "http://www.adaderana.lk/news/83546/prime-ministers-private-residence-set-on-fire",
     "time_ut": 1657383060,
     "original_lang": "en",
-    "original_title": "PM\u2019s private residence set on fire",
-    "file_name": "/tmp/news_lk2/articles/d0/d0eb72c7.json"
+    "original_title": "Prime Minister\u2019s private residence set on fire",
+    "file_name": "/tmp/news_lk2/articles/4c/4cf477d2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -33,11 +41,11 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83545/probe-into-stf-officers-who-attacked-media-persons-police",
+    "url": "http://www.adaderana.lk/news/83545/police-to-probe-attack-on-media-persons-by-stf-officers",
     "time_ut": 1657382700,
     "original_lang": "en",
-    "original_title": "Probe into STF officers who attacked media persons - Police",
-    "file_name": "/tmp/news_lk2/articles/3e/3ef3b66b.json"
+    "original_title": "Police to probe attack on media persons by STF officers",
+    "file_name": "/tmp/news_lk2/articles/aa/aa1020b4.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbf\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd  \u0baa\u0bc0\u0ba9\u0bcd \u0baa\u0bc7\u0bbe\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb9\u0bc7\u0bb0\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f5/f5842b96.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0dbd\u0d9a-\u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca/101-615952",
-    "time_ut": 1657102543,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dcf\u0dbd\u0d9a \u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9f/9fb1d6b0.json"
   }
 ]

@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 22:00:01 (LK time)*
+*As of 2022-07-09 22:12:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** virakesari-lk ([அனைத்து கட்சி கூட்டத்தின் முடிவை கோத்தபாயவிற்கு தெரியப்படுத்தினார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32d6b577.json))
+
+* **1** tamil-mirror-lk ([வன்முறை தீர்வாகாது: சுமந்திரன் கண்டனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71396a82.json))
+
+## Last Hour (11 Articles)
 
 * **3** virakesari-lk ([ஊடகவியலாளர்கள் மீது விசேட அதிரடிப்படையினர், பொலிஸார் காட்டுமிராண்டித் தனமான தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d645f27.json))
 
-* **2** ada-derana-lk ([Probe into STF officers who attacked media persons - Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ef3b66b.json))
+* **2** tamil-mirror-lk ([ரணிலின் வீட்டுக்கு தீ வைப்பு (Video)](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd334a.json))
 
-## Last Hour (14 Articles)
-
-* **3** virakesari-lk ([ஊடகவியலாளர்கள் மீது விசேட அதிரடிப்படையினர், பொலிஸார் காட்டுமிராண்டித் தனமான தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d645f27.json))
-
-* **3** lankadeepa-lk ([ජනපති - අගමැති අස්වීම් ලිපි අද රෑ කතානායකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf51c822.json))
-
-* **2** ada-derana-lk ([Probe into STF officers who attacked media persons - Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ef3b66b.json))
+* **2** ada-derana-lk ([Police to probe attack on media persons by STF officers](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1020b4.json))
 
 * **2** daily-mirror-lk ([Speaker informs President of All-Party decisions](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79f6e10f.json))
 
@@ -24,37 +24,33 @@
 
 * **1** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
-* **1** tamil-mirror-lk ([ரணிலின் வீட்டுக்கு தீ வைப்பு (Video)](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23cd334a.json))
+## Last 3 Hours (52 Articles)
 
-* **1** ada-lk ([පක්ෂ නායක රැස්වීමේ තීරණය ජනපතිට දන්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55979a7c.json))
+* **10** virakesari-lk ([ஜனாதிபதி,  பிரதமர் அரசாங்கத்திற்கு எதிராக வவுனியாவிலும் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/098c7c2b.json))
 
-## Last 3 Hours (56 Articles)
-
-* **11** virakesari-lk ([பிரதமரின் இல்ல வளாகத்தில் ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் மீது கண்ணீர் புகை பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76734de7.json))
-
-* **11** lankadeepa-lk ([පක්ෂනායක තීරණ කතානායක ජනපතිට දන්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a547d3cd.json))
+* **10** lankadeepa-lk ([පාර්ලිමේන්තුව ඉදිරිපිටත් විරෝධයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9402610.json))
 
 * **8** ada-lk ([අග්‍රාමාත්‍ය පෞද්ගලික නිවස අසළ උණුසුම් තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/2834f2d4.json))
 
-* **7** tamil-mirror-lk ([கோட்டாவுக்கு 24 மணி நேரம் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7aad9ecd.json))
+* **7** tamil-mirror-lk ([பந்துல குணவர்தன இராஜினாமா](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5ddb8207.json))
 
 * **6** daily-mirror-lk ([Appoint a govt soon - RW](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2ac6ce47.json))
 
-* **5** ada-derana-lk ([Bandula to resign from ministerial portfolio](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0a6edfb.json))
-
 * **5** economy-next-com ([Speaker as acting president pending all-party govt, Sri Lanka party leaders agree](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9388bf52.json))
+
+* **3** ada-derana-lk ([Speaker informs President of decisions taken at party leaders’ meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/303ccecf.json))
 
 * **2** news-first-lk ([News 1st journalist attacked by STF & Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f96c1985.json))
 
 * **1** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
-## Last 24 Hours (377 Articles)
+## Last 24 Hours (372 Articles)
 
-* **76** tamil-mirror-lk ([நாளை டேட்டா சேவைகள் முடங்கலாம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24341655.json))
+* **77** tamil-mirror-lk ([நாளை டேட்டா சேவைகள் முடங்கலாம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24341655.json))
 
-* **56** virakesari-lk ([அமைதியான ஆர்ப்பாட்டங்கள் என்ற போர்வையில் சில சக்திகள் வன்முறையை தூண்ட முயல்கின்றன- கமால் குணரட்ண](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69076dbc.json))
+* **53** virakesari-lk ([நாளை ஆர்ப்பாட்டத்தில் கலந்துகொள்ள அச்சப்பட வேண்டாம் - சரத் பென்சேகா](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd17ee30.json))
 
-* **47** daily-mirror-lk ([Certain elements attempting to incite violence under guise of peaceful protests - Kamal Gunaratne](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/353195e0.json))
+* **46** daily-mirror-lk ([Centuries for Labuschagne, Smith](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f58c6e27.json))
 
 * **45** lankadeepa-lk ([කොළඹට පැනවු ඇඳිරි නීතිය අද අටට අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b6cd4f9.json))
 
@@ -66,13 +62,13 @@
 
 * **23** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
 
-* **22** economy-next-com ([Sri Lanka protestors determined to see back of president despite surprise curfew](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cebbeee3.json))
+* **20** economy-next-com ([Sri Lanka’s stocks up but turnover slumps to over 2-mth low; political woes weigh](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba5f438.json))
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
 * **2** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## Last Week (1,977 Articles)
+## Last Week (1,978 Articles)
 
 * **371** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -80,7 +76,7 @@
 
 * **231** daily-mirror-lk ([16 Sri Lankans let out of Special Camp in Tiruchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ece952b1.json))
 
-* **225** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
+* **226** tamil-mirror-lk ([எரிபொருள் வரிசையில் ஊடகவியலாளர்களுக்கு முன்னுரிமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ca0815.json))
 
 * **223** ada-lk ([ජැක්සන් ඇන්තනි කොළඹ ජාතික රෝහලට ඇතුළත් කරය](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b58ddb0.json))
 
@@ -100,7 +96,7 @@
 
 * **11** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,477 Articles)
+## All Time (4,478 Articles)
 
 * **810** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -110,7 +106,7 @@
 
 * **483** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
-* **471** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
+* **472** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
 * **372** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
