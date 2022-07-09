@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-Gotabaya-to-resign-on-Wednesday/56-737287",
+    "time_ut": 1657387079,
+    "original_lang": "en",
+    "original_title": "President Gotabaya to resign on Wednesday",
+    "file_name": "/tmp/news_lk2/articles/24/247880e0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131179",
+    "time_ut": 1657386944,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba8\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/f7/f73629e9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-13-\u0daf\u0dcf-\u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395275",
+    "time_ut": 1657386430,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 13 \u0daf\u0dcf \u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fb/fb982c0c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/President-to-resign-on-Wednesday/155-240736",
     "time_ut": 1657386026,
     "original_lang": "en",
     "original_title": "President to resign on Wednesday",
     "file_name": "/tmp/news_lk2/articles/ac/acf565d1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/breaking-president-to-step-down-on-13th-july/",
+    "time_ut": 1657385940,
+    "original_lang": "en",
+    "original_title": "BREAKING: President to step down on 13th July",
+    "file_name": "/tmp/news_lk2/articles/8d/8d4bf4bb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-to-resign-on-july-13-speaker-97202/",
+    "time_ut": 1657385880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president to resign on July 13: Speaker",
+    "file_name": "/tmp/news_lk2/articles/c9/c9a01e5c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -22,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0ba4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
     "file_name": "/tmp/news_lk2/articles/9a/9ab62814.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-300094",
+    "time_ut": 1657385481,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd  \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e8/e8c1430a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -62,6 +110,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc8 \u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/32/32d6b577.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dba\u0dd2/11-616146",
+    "time_ut": 1657383107,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a7/a7021c97.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -113,11 +169,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RWs-house-on-5th-Lane-set-on-fire-by-protestors/342-240734",
+    "url": "https://www.dailymirror.lk/top_story/RWs-house-on-5th-Lane-set-on-fire-by-protestors/155-240734",
     "time_ut": 1657382121,
     "original_lang": "en",
     "original_title": "RW\u2019s house on 5th Lane set on fire by protestors",
-    "file_name": "/tmp/news_lk2/articles/28/28bfc4ba.json"
+    "file_name": "/tmp/news_lk2/articles/6c/6cdbf742.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -142,6 +198,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (Video)",
     "file_name": "/tmp/news_lk2/articles/23/23cd334a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0d85\u0d9c\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4-\u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/11-395274",
+    "time_ut": 1657381574,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0d9c\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4f/4f1be7cf.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0dad\u0d9a\u0dcf \u0d91\u0dc3\u0dca.\u0d91\u0db8\u0dca\u0dbd\u0dcf \u0dc3\u0dda\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
     "file_name": "/tmp/news_lk2/articles/88/88d1b332.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/GR-speaks-to-Putin-asks-for-credit-support-to-import-fuel/108-240472",
-    "time_ut": 1657105686,
-    "original_lang": "en",
-    "original_title": "GR speaks to Putin, asks for credit support to import fuel",
-    "file_name": "/tmp/news_lk2/articles/3d/3d1410b9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83466/health-services-chief-warns-of-covid-19-re-emergence",
-    "time_ut": 1657105560,
-    "original_lang": "en",
-    "original_title": "Health services chief warns of Covid-19 re-emergence",
-    "file_name": "/tmp/news_lk2/articles/ff/ff87132d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0d9a\u0dbb\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0db1\u0ddc\u0d9c\u0db1\u0dca\u0db1/11-395170",
-    "time_ut": 1657105358,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0d9a\u0dbb\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0db1\u0ddc\u0d9c\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/a4/a43a8ba8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf-\u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca\u0da7-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/101-615956",
-    "time_ut": 1657105310,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca\u0da7 \u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/99/99526a57.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-prime-minister-tables-parliamentary-framework-for-bipartisan-governance-97009/",
-    "time_ut": 1657105140,
-    "original_lang": "en",
-    "original_title": "Sri Lanka prime minister tables parliamentary framework for bipartisan governance",
-    "file_name": "/tmp/news_lk2/articles/82/828a1e54.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/railways-resumes-operations-despite-low-work-force/",
-    "time_ut": 1657104900,
-    "original_lang": "en",
-    "original_title": "Railways resumes operations despite low work force",
-    "file_name": "/tmp/news_lk2/articles/e0/e0ba1584.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-395169",
-    "time_ut": 1657104778,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/81/816c7c47.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/cope-wants-audit-on-litro-purchases/",
-    "time_ut": 1657104300,
-    "original_lang": "en",
-    "original_title": "COPE wants Audit on Litro Purchases",
-    "file_name": "/tmp/news_lk2/articles/1c/1cbaab88.json"
   }
 ]
