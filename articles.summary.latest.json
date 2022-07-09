@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300022",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b93\u0bb0\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300022",
     "time_ut": 1657346235,
     "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0\u0bae\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/3a/3a856a74.json"
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b93\u0bb0\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c7/c7ec36a1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/amarakeerthi-murder-another-suspect-arrested/",
+    "time_ut": 1657346160,
+    "original_lang": "en",
+    "original_title": "Amarakeerthi Murder : Another suspect arrested",
+    "file_name": "/tmp/news_lk2/articles/fd/fdf1b292.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -32,6 +40,22 @@
     "file_name": "/tmp/news_lk2/articles/76/76662aab.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/bus-operations-uncertain-on-saturday-9/",
+    "time_ut": 1657345020,
+    "original_lang": "en",
+    "original_title": "Bus operations uncertain on Saturday (9)",
+    "file_name": "/tmp/news_lk2/articles/96/96afd785.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/no-lioc-distribution-to-filling-stations-today-9/",
+    "time_ut": 1657344540,
+    "original_lang": "en",
+    "original_title": "NO LIOC distribution to filling stations today (9)",
+    "file_name": "/tmp/news_lk2/articles/66/666c6c7f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131121",
     "time_ut": 1657343989,
@@ -56,12 +80,28 @@
     "file_name": "/tmp/news_lk2/articles/0f/0fa5d154.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-protestors-face-tear-gas-water-cannon-97141/",
+    "time_ut": 1657343760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka protestors face tear gas, water cannon",
+    "file_name": "/tmp/news_lk2/articles/69/69fcb602.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83528/mass-protests-in-colombo-police-fire-tear-gas-to-disperse-demonstrators",
     "time_ut": 1657343280,
     "original_lang": "en",
     "original_title": "Mass protest in Colombo; Police fire tear gas to disperse demonstrators",
     "file_name": "/tmp/news_lk2/articles/43/43c2d8cd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83528/protesters-tear-gassed-twice-during-mass-demonstration-in-colombo",
+    "time_ut": 1657343280,
+    "original_lang": "en",
+    "original_title": "Protesters tear-gassed twice during mass demonstration in Colombo",
+    "file_name": "/tmp/news_lk2/articles/91/91d1d509.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a\u0dba\u0db1\u0dca \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba\u0dda",
     "file_name": "/tmp/news_lk2/articles/33/332684a1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83446/senior-army-officer-involved-in-yakgahapitiya-incident-relieved-of-duties",
-    "time_ut": 1657022100,
-    "original_lang": "en",
-    "original_title": "Senior army officer involved in Yakgahapitiya incident relieved of duties",
-    "file_name": "/tmp/news_lk2/articles/67/675351a1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130866",
-    "time_ut": 1657022011,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/62/62b7c712.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd2/11-395137",
-    "time_ut": 1657021977,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ff920078.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83445/power-cut-schedule-for-next-three-days",
-    "time_ut": 1657021380,
-    "original_lang": "en",
-    "original_title": "Power cut schedule for next three days",
-    "file_name": "/tmp/news_lk2/articles/44/447f59ea.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130863",
-    "time_ut": 1657021131,
-    "original_lang": "ta",
-    "original_title": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe\u0baa\u0bc1\u0bb0 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bc8 : \u0b95\u0ba3\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0b95\u0bcb\u0b9f\u0bbe\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/af/af7eb8cf.json"
   }
 ]
