@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-09 23:19:50 (LK time)*
+*As of 2022-07-09 23:29:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,37 +8,29 @@
 
 * **1** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
 
-## Last Hour (11 Articles)
+## Last Hour (6 Articles)
 
 * **2** daily-mirror-lk ([President to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acf565d1.json))
 
 * **2** ada-lk ([ජනපති 13 දා ධුරයෙන් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb982c0c.json))
 
-* **2** tamil-mirror-lk ([ஜனாதிபதி கோட்டாவின்  தீர்மானம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8c1430a.json))
-
 * **1** daily-ft-lk ([President Gotabaya to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/247880e0.json))
 
 * **1** virakesari-lk ([பதவியை இராஜிநாமா செய்வதாக அறிவித்தார் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f73629e9.json))
 
-* **1** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
+## Last 3 Hours (43 Articles)
 
-* **1** economy-next-com ([Sri Lanka president to resign on July 13: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a01e5c.json))
-
-* **1** ada-derana-lk ([President Gotabaya to step down on July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f5c01ae.json))
-
-## Last 3 Hours (47 Articles)
-
-* **8** virakesari-lk ([போராட்டங்களில் ஊடகவியலாளர்கள் மீது நடத்திய தாக்குதல் கவலைக்குரியது - பிரதமர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da4a85a2.json))
-
-* **7** tamil-mirror-lk ([மக்களுடன் இணைந்த STF வீரர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91baa8fc.json))
+* **7** virakesari-lk ([ஊடகவியலாளர்கள் மீது தாக்குதல் - பொலிஸ் விசேட அதிரடிப்படையின் 3 முக்கிய அதிகாரிகள் பதவி இடைநிறுத்தம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/808ae343.json))
 
 * **6** daily-mirror-lk ([RW expressed regret over attack on journalists; IGP orders probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc799eb.json))
 
-* **6** ada-lk ([මාධ්‍යවේදින්ට පහරදීම අගමැති හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cb63f86.json))
-
 * **6** ada-derana-lk ([Speaker informs President of decisions taken at party leaders’ meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/303ccecf.json))
 
-* **6** lankadeepa-lk ([විමල්ගේ මතයත් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/470c0a82.json))
+* **6** tamil-mirror-lk ([பிரதமரின் வீட்டுக்கு முன்னால் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2515548.json))
+
+* **5** ada-lk ([මාධ්‍යවේදින්ට පහරදීම ගැන පොලීසියෙන් පරීක්ෂණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d7eae21.json))
+
+* **5** lankadeepa-lk ([සිරස මාධ්‍යවේදීන් පිරිසකට ආරක්ෂක අංශයෙන් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91cfbc32.json))
 
 * **3** news-first-lk ([News 1st journalist attacked by STF & Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f96c1985.json))
 
@@ -46,11 +38,11 @@
 
 * **2** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
-## Last 24 Hours (374 Articles)
+## Last 24 Hours (373 Articles)
 
 * **78** tamil-mirror-lk ([ஐ.ஓ.சி. உரிமையாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b13130d.json))
 
-* **49** daily-mirror-lk ([Centuries for Labuschagne, Smith](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f58c6e27.json))
+* **48** daily-mirror-lk ([Colombo security conclave concludes](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19b8ba4.json))
 
 * **46** virakesari-lk ([போராட்டங்களில் தமிழர்கள் ஒதுங்கியிருந்தால் சிங்கள பேரினவாதம் மீண்டும் தலைதூக்கும் - வரலாற்று தவறை இழைக்க வேண்டாம் ; தயான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75bd489f.json))
 
