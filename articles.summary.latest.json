@@ -16,12 +16,28 @@
     "file_name": "/tmp/news_lk2/articles/d8/d8ba063a.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-mass-protest-against-president-rajapaksa-braving-tear-gas-97141/",
+    "time_ut": 1657343760,
+    "original_lang": "en",
+    "original_title": "Sri Lanka mass protest against President Rajapaksa braving tear gas",
+    "file_name": "/tmp/news_lk2/articles/0f/0fa5d154.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83528/mass-protest-in-colombo-police-fire-tear-gas-to-disperse-demonstrators",
+    "url": "http://www.adaderana.lk/news/83528/mass-protests-in-colombo-police-fire-tear-gas-to-disperse-demonstrators",
     "time_ut": 1657343280,
     "original_lang": "en",
     "original_title": "Mass protest in Colombo; Police fire tear gas to disperse demonstrators",
-    "file_name": "/tmp/news_lk2/articles/ee/ee228b6a.json"
+    "file_name": "/tmp/news_lk2/articles/43/43c2d8cd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83528/protesters-tear-gassed-during-mass-demonstration-in-colombo",
+    "time_ut": 1657343280,
+    "original_lang": "en",
+    "original_title": "Protesters tear-gassed during mass demonstration in Colombo",
+    "file_name": "/tmp/news_lk2/articles/cb/cb4e723e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -337,11 +353,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0db4\u0dd0\u0db1\u0dc0\u0dd4-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d85\u0daf-\u0d85\u0da7\u0da7-\u0d85\u0dc0\u0dc3\u0db1\u0dca/101-616101",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0db4\u0dd0\u0db1\u0dc0\u0dd4-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d85\u0daf-\u0d85\u0da7\u0da7-\u0d85\u0dc0\u0dc3\u0db1\u0dca/1-616101",
     "time_ut": 1657333655,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0db4\u0dd0\u0db1\u0dc0\u0dd4 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d85\u0daf \u0d85\u0da7\u0da7 \u0d85\u0dc0\u0dc3\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/48/48418553.json"
+    "file_name": "/tmp/news_lk2/articles/1b/1b6cd4f9.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Daily Exchange Rate from CBSL",
     "file_name": "/tmp/news_lk2/articles/05/05a6724d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130851",
-    "time_ut": 1657019985,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb2\u0bbe\u0bb2\u0bbf \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0bb3 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 : \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2",
-    "file_name": "/tmp/news_lk2/articles/36/364c1971.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb-140-\u0d9a\u0dca-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4-\u0dc0\u0dd3\u0db8\u0dda-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca/101-615913",
-    "time_ut": 1657019965,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0db8\u0db1\u0dca\u0dc0\u0dcf\u0dbb 140 \u0d9a\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/05/0510abaf.json"
   }
 ]
