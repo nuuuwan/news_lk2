@@ -50,14 +50,14 @@
       ],
       "title_ents": [
         {
-          "text": "\u0d9a\u0dcf\u0dbd\u0dca\u0da7\u0db1\u0dca \u0dc4\u0dc0\u0dd4\u0dc3\u0dca",
+          "text": "\u0d9a\u0dcf\u0dbd\u0dca\u0da7\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dc3",
           "label": "ORG"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "\u0d9a\u0dcf\u0dbd\u0dca\u0da7\u0db1\u0dca \u0dc4\u0dc0\u0dd4\u0dc3\u0dca",
+            "text": "\u0d9a\u0dcf\u0dbd\u0dca\u0da7\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dc3",
             "label": "ORG"
           },
           {
