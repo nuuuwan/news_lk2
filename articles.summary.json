@@ -17,11 +17,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83528/mass-protests-in-colombo-police-fire-tear-gas-to-disperse-demonstrators",
+    "url": "http://www.adaderana.lk/news/83528/mass-protest-in-colombo-police-fire-tear-gas-to-disperse-demonstrators",
     "time_ut": 1657343280,
     "original_lang": "en",
     "original_title": "Mass protest in Colombo; Police fire tear gas to disperse demonstrators",
-    "file_name": "/tmp/news_lk2/articles/43/43c2d8cd.json"
+    "file_name": "/tmp/news_lk2/articles/ee/ee228b6a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/private-phamacies-closed-today-9/",
+    "time_ut": 1657343280,
+    "original_lang": "en",
+    "original_title": "Private Phamacies closed today (9)",
+    "file_name": "/tmp/news_lk2/articles/e8/e8536438.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -40,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/87/87e3bc58.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/video-thousands-of-sri-lankans-march-demanding-president-resign/",
+    "time_ut": 1657342860,
+    "original_lang": "en",
+    "original_title": "(VIDEO) Thousands of Sri Lankans march demanding President resign",
+    "file_name": "/tmp/news_lk2/articles/d9/d9516e89.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf-\u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/95-300018",
     "time_ut": 1657342817,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf  \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/20/2056cf55.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/indian-urea-fertilizer-to-reach-sl-today-9/",
+    "time_ut": 1657342680,
+    "original_lang": "en",
+    "original_title": "Indian Urea Fertilizer to reach SL today (9)",
+    "file_name": "/tmp/news_lk2/articles/66/66462dda.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -118,6 +142,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc1\u0bb4\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/69/6993b71f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/lp-gas-declared-essential/",
+    "time_ut": 1657340640,
+    "original_lang": "en",
+    "original_title": "LP gas declared essential",
+    "file_name": "/tmp/news_lk2/articles/bd/bdfa7130.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
