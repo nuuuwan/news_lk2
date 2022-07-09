@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/GotaGoGama-activists-want-President-PM-and-interim-Govt-resign-immediately/56-737282",
+    "time_ut": 1657363838,
+    "original_lang": "en",
+    "original_title": "GotaGoGama activists want President, PM and interim-Govt. resign immediately",
+    "file_name": "/tmp/news_lk2/articles/a3/a3daa8c6.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83539/party-leaders-meeting-begins",
     "time_ut": 1657363680,
@@ -64,6 +72,14 @@
     "file_name": "/tmp/news_lk2/articles/47/473ed608.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/sri-lanka-pm-holds-talks-with-several-party-leaders/",
+    "time_ut": 1657362480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: PM holds talks with several party leaders",
+    "file_name": "/tmp/news_lk2/articles/64/647ed37f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Party-leaders-to-attend-meeting-with-Speaker-shortly/108-240721",
     "time_ut": 1657362451,
@@ -86,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b85\u0bb5\u0bc1\u0b9f\u0bcd \u0b86\u0ba9\u0bbe\u0bb0\u0bcd?",
     "file_name": "/tmp/news_lk2/articles/2e/2eba2a5b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/sajith-calls-for-president-pm-to-resign/",
+    "time_ut": 1657362180,
+    "original_lang": "en",
+    "original_title": "Sajith calls for President & PM to resign",
+    "file_name": "/tmp/news_lk2/articles/e9/e9db5277.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -121,11 +145,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Religious-dignitaries-urge-President-to-announce-resignation-officially/108-240720",
+    "url": "https://www.dailymirror.lk/latest_news/Religious-dignitaries-urge-President-to-announce-resignation-officially/342-240720",
     "time_ut": 1657361873,
     "original_lang": "en",
     "original_title": "Religious dignitaries urge President to announce resignation officially",
-    "file_name": "/tmp/news_lk2/articles/18/1805c815.json"
+    "file_name": "/tmp/news_lk2/articles/75/752b5e00.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1094,6 +1118,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka protestors face tear gas, water cannon",
     "file_name": "/tmp/news_lk2/articles/69/69fcb602.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62105552",
+    "time_ut": 1657343729,
+    "original_lang": "si",
+    "original_title": "\"\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd3 \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0d9a\u0dd2\" -\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd6 \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0da9\u0dc0\u0dd3\u0db8\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb\u0dba\u0dda \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2b/2be01741.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
