@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 02:58:45 (LK time)*
+*As of 2022-07-10 03:10:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (1 Articles)
 
-* **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
+* **1** daily-ft-lk ([Apparel industry says ‘Make Sri Lanka First a national priority and agenda’](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a41ebb4.json))
 
-* **1** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
-
-* **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
-
-## Last 24 Hours (343 Articles)
+## Last 24 Hours (342 Articles)
 
 * **67** tamil-mirror-lk ([காலிமுகத்திடலில் பொலிஸார் குவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3820cb4c.json))
 
-* **47** daily-mirror-lk ([SriLankan says no cancellation of flights despite jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97406e2e.json))
+* **46** daily-mirror-lk ([Police curfew lifted](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c993f847.json))
 
 * **46** lankadeepa-lk ([කොළඹට පැනවු ඇඳිරි නීතිය අද අටට අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b6cd4f9.json))
 
