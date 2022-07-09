@@ -1,0 +1,45 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-300034",
+  "time_ut": 1657353305,
+  "original_lang": "ta",
+  "original_title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Two people were injured in the firing",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "Two",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0db6\u0dcf \u0d87\u0dad",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dd9\u0d9a",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": []
+    }
+  }
+}
