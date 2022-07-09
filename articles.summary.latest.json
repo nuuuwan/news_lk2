@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd-\u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1-\u0dc0\u0dd9\u0dba\u0dd2/101-616138",
+    "time_ut": 1657375622,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd \u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/45/4505a076.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd-\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d87\u0db8\u0dad\u0dd2\u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dd4\u0dad\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dd4\u0dad\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395267",
+    "time_ut": 1657375578,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0db1\u0dca\u0daf\u0dd4\u0dbd \u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2\u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dd4\u0dad\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dd4\u0dad\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c2/c210ac01.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3-\u0d85\u0dc3\u0dc5-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/11-395266",
+    "time_ut": 1657375313,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3 \u0d85\u0dc3\u0dc5 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/28/2834f2d4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/All-party-government-should-be-formed-only-after-Prez-PM-resign-SJB/342-240730",
     "time_ut": 1657375176,
     "original_lang": "en",
     "original_title": "All-party government should be formed only after Prez, PM resign: SJB",
     "file_name": "/tmp/news_lk2/articles/18/18569fcf.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/speaker-as-acting-president-pending-all-party-govt-sri-lanka-party-leaders-agree-97192/",
+    "time_ut": 1657375140,
+    "original_lang": "en",
+    "original_title": "Speaker as acting president pending all-party govt, Sri Lanka party leaders agree",
+    "file_name": "/tmp/news_lk2/articles/93/9388bf52.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -56,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/49/497b2e69.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83543/bandula-to-resign-from-ministerial-portfolio",
+    "time_ut": 1657374060,
+    "original_lang": "en",
+    "original_title": "Bandula to resign from ministerial portfolio",
+    "file_name": "/tmp/news_lk2/articles/a0/a0a6edfb.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0d9a\u0dca\u0dc2\u0db1\u0dcf\u0dba\u0d9a-\u0dad\u0dd3\u0dbb\u0dab-\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0daf\u0db1\u0dca\u0dc0\u0dba\u0dd2/101-616135",
     "time_ut": 1657373905,
@@ -70,6 +110,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0bcd\u0bb2 \u0bb5\u0bb3\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0baa\u0bc1\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/76/76734de7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/09/when-govt-resigns-new-govt-should-be-ready-pm/",
+    "time_ut": 1657373400,
+    "original_lang": "en",
+    "original_title": "When Govt resigns, new govt should be ready \u2013 PM",
+    "file_name": "/tmp/news_lk2/articles/7c/7cf44e2c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dba\u0d9c\u0dca\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7",
     "file_name": "/tmp/news_lk2/articles/84/845af15e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83461/nimal-siripala-temporarily-steps-down-from-minister-post",
-    "time_ut": 1657092420,
-    "original_lang": "en",
-    "original_title": "Nimal Siripala temporarily steps down from minister post",
-    "file_name": "/tmp/news_lk2/articles/50/50c6ae4e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-tells-Nimal-Siripala-to-step-down-temporarily/108-240465",
-    "time_ut": 1657092386,
-    "original_lang": "en",
-    "original_title": "President tells Nimal Siripala to step down temporarily",
-    "file_name": "/tmp/news_lk2/articles/f5/f5a8d438.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7-\u0d87\u0db4/11-395163",
-    "time_ut": 1657092089,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd2\u0dbb\u0dd4\u0dab\u0dd2\u0d9a\u0dcf \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7 \u0d87\u0db4",
-    "file_name": "/tmp/news_lk2/articles/46/46772183.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1-\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-615942",
-    "time_ut": 1657092003,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0db1 \u0dc4\u0dd0\u0da7\u0dd2 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/88/8808139c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/nimal-siripala-resigns-as-minister-of-ports-shipping-and-aviation/",
-    "time_ut": 1657092000,
-    "original_lang": "en",
-    "original_title": "Nimal Siripala resigns as Minister of Ports, Shipping, and aviation",
-    "file_name": "/tmp/news_lk2/articles/ba/ba14a164.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/LITRO-Gas-distribution-to-resume-on-July-11-Prime-Minister/108-240464",
-    "time_ut": 1657092000,
-    "original_lang": "en",
-    "original_title": "LITRO Gas distribution to resume on July 11: Prime Minister",
-    "file_name": "/tmp/news_lk2/articles/3c/3c05df98.json"
   }
 ]
