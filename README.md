@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 02:33:09 (LK time)*
+*As of 2022-07-10 02:38:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,7 +16,7 @@
 
 * **1** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
 
-## Last 24 Hours (344 Articles)
+## Last 24 Hours (343 Articles)
 
 * **67** tamil-mirror-lk ([காலிமுகத்திடலில் பொலிஸார் குவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3820cb4c.json))
 
@@ -28,7 +28,7 @@
 
 * **41** ada-lk ([බ්‍රිතාන්‍ය අගමැතිට ගෙදර යන්න දොරටු විවර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d8e80c.json))
 
-* **38** ada-derana-lk ([OHCHR urges SL authorities to show restraint in policing of assemblies](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd501b58.json))
+* **37** ada-derana-lk ([Police curfew orders in parts of WP lifted](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6517178.json))
 
 * **24** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
 
