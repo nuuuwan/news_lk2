@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-pm-wickremesinghes-private-residence-set-on-fire-97201/",
+    "time_ut": 1657382280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka PM Wickremesinghe\u2019s private residence set on fire",
+    "file_name": "/tmp/news_lk2/articles/8e/8ea8befb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/RWs-house-on-5th-Lane-set-on-fire-by-protestors/342-240734",
+    "time_ut": 1657382121,
+    "original_lang": "en",
+    "original_title": "RW\u2019s house on 5th Lane set on fire by protestors",
+    "file_name": "/tmp/news_lk2/articles/28/28bfc4ba.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/PM-s-private-residence-in-flames/56-737286",
+    "time_ut": 1657381956,
+    "original_lang": "en",
+    "original_title": "PM\u2019s private residence in flames",
+    "file_name": "/tmp/news_lk2/articles/15/150306c2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Speaker-informs-President-of-All-Party-decisions/108-240733",
+    "time_ut": 1657381883,
+    "original_lang": "en",
+    "original_title": "Speaker informs President of All-Party decisions",
+    "file_name": "/tmp/news_lk2/articles/79/79f6e10f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/video/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc0-\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1-Video/52-300091",
+    "time_ut": 1657381727,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (Video)",
+    "file_name": "/tmp/news_lk2/articles/23/23cd334a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dbb\u0dc3-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca/101-616144",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dab\u0d9c\u0dcf\u0da7\u0dd4\u0dc0-\u0db4\u0dc5-\u0d9a\u0dbb\u0dba\u0dd2/1-616145",
+    "time_ut": 1657381180,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dab\u0d9c\u0dcf\u0da7\u0dd4\u0dc0 \u0db4\u0dc5 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/35/35fa59fe.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0daf\u0db1\u0dca\u0dc0\u0dba\u0dd2/11-395273",
+    "time_ut": 1657381031,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0daf\u0db1\u0dca\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/55/55979a7c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd2\u0dbb\u0dc3-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca/1-616144",
     "time_ut": 1657380984,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fa/fa247538.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0c4fd99.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -25,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dbb\u0dc3-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616142",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd2\u0dbb\u0dc3-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/1-616142",
     "time_ut": 1657380335,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0dd3\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0d82\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/87/87ac84f2.json"
+    "file_name": "/tmp/news_lk2/articles/91/91cfbc32.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -281,11 +337,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0dd2-\u0daf\u0dd3-\u0dad\u0dd3\u0dbb\u0dab-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/101-616137",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0dd2-\u0daf\u0dd3-\u0dad\u0dd3\u0dbb\u0dab-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/1-616137",
     "time_ut": 1657374448,
     "original_lang": "si",
     "original_title": "\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0dd2 \u0daf\u0dd3 \u0dad\u0dd3\u0dbb\u0dab \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/72/72af06e5.json"
+    "file_name": "/tmp/news_lk2/articles/d7/d732781b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/58/58898fad.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tear-gas-to-disperse-SJB-protesters/342-240470",
-    "time_ut": 1657100589,
-    "original_lang": "en",
-    "original_title": "Tear gas to disperse SJB protesters",
-    "file_name": "/tmp/news_lk2/articles/b1/b1280aae.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb-\u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/1-615951",
-    "time_ut": 1657099988,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dd2\u0dba\u0d9c\u0dda \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/41/4127d856.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/navy-nets-kg-worth-rs-63-mn/",
-    "time_ut": 1657099740,
-    "original_lang": "en",
-    "original_title": "Navy nets KG worth Rs. 63 Mn",
-    "file_name": "/tmp/news_lk2/articles/85/85684a54.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/71-299833",
-    "time_ut": 1657099484,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/0c/0cef8f57.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130900",
-    "time_ut": 1657099452,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d6/d6899550.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/All-party-govt-will-not-be-successful-SF/108-240469",
-    "time_ut": 1657099346,
-    "original_lang": "en",
-    "original_title": "All-party govt will not be successful: SF",
-    "file_name": "/tmp/news_lk2/articles/c1/c121c073.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130917",
-    "time_ut": 1657099300,
-    "original_lang": "ta",
-    "original_title": "6 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0b9f\u0bb5\u0bc8\u0baf\u0bbe\u0b95 \u0b9a\u0bc0\u0bae\u0bc6\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 200 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/21/21cc9af4.json"
   }
 ]
