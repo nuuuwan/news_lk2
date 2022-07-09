@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 00:46:09 (LK time)*
+*As of 2022-07-10 00:56:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
 * **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
 
 * **1** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
 
 * **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
-
-* **1** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
 
 ## Last 3 Hours (23 Articles)
 
@@ -32,9 +30,9 @@
 
 * **1** economy-next-com ([Sri Lanka president to resign on July 13: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a01e5c.json))
 
-## Last 24 Hours (362 Articles)
+## Last 24 Hours (355 Articles)
 
-* **72** tamil-mirror-lk ([தடைசெய்யப்பட்ட நிறுவனங்களின் பட்டியல் மீளாய்வு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb55d035.json))
+* **70** tamil-mirror-lk ([த.மு.கூவையும்  இ.தொ.காவையும் இணைக்கும் இந்தியா முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de01e1d6.json))
 
 * **49** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
@@ -42,21 +40,21 @@
 
 * **45** virakesari-lk ([ஊரடங்கு குறித்து வெளியான அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9248a515.json))
 
-* **41** ada-derana-lk ([CEB introduces three new billing methods](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/529ed401.json))
-
 * **41** ada-lk ([බ්‍රිතාන්‍ය අගමැතිට ගෙදර යන්න දොරටු විවර වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d8e80c.json))
+
+* **40** ada-derana-lk ([Assign pregnant govt officials to work stations close to home: Female MPs’ Caucus](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1acdb19f.json))
 
 * **24** news-first-lk ([Police curfew to be lift at 8.00 AM today](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/415005ac.json))
 
 * **20** economy-next-com ([Sri Lanka schedules power cuts of 3 hours from July 9 to July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e75958c.json))
 
-* **19** daily-ft-lk ([Church of Ceylon calls for President and Prime Minister to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/778d327f.json))
+* **15** daily-ft-lk ([Kitchen & Bedroom commended for interior excellence at Laya Leisure](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bce1e3b8.json))
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
 * **2** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## Last Week (1,994 Articles)
+## Last Week (1,993 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -78,9 +76,9 @@
 
 * **49** island-lk ([Iroshini Wijenayaka of Ideal Group represents Sri Lanka at World Women Leadership Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24a48463.json))
 
-* **23** d-b-s-jeyaraj-com ([Blaming Wickremesinghe for these failures is hardly fair. But he is the Prime Minister of a collapsing economy. To be sure, Wickremesinghe’s biggest impediment has been the ineptitude of those he has had to work with. This does not, however, exonerate him.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca73fa88.json))
-
 * **22** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
+
+* **22** d-b-s-jeyaraj-com ([Sri Lankan Energy Minister Kanchana Wijesekera  Reveals that   petrol reserves in the country are about 4,000 tonnes and  cannot last more than a day;“The next petrol shipment is expected between the 22nd and 23rd of July”  says Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/855f48fd.json))
 
 * **11** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
