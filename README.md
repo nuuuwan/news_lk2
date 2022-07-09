@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 02:09:08 (LK time)*
+*As of 2022-07-10 02:33:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
-
-* **3** daily-mirror-lk ([BASL condemns burning of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/212e650c.json))
+## Last 3 Hours (6 Articles)
 
 * **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
+
+* **1** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
 
 * **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
 
@@ -16,11 +16,11 @@
 
 * **1** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
 
-## Last 24 Hours (346 Articles)
+## Last 24 Hours (344 Articles)
 
 * **67** tamil-mirror-lk ([காலிமுகத்திடலில் பொலிஸார் குவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3820cb4c.json))
 
-* **49** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
+* **47** daily-mirror-lk ([SriLankan says no cancellation of flights despite jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97406e2e.json))
 
 * **46** lankadeepa-lk ([කොළඹට පැනවු ඇඳිරි නීතිය අද අටට අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b6cd4f9.json))
 
@@ -40,7 +40,7 @@
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
-## Last Week (1,993 Articles)
+## Last Week (1,992 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -64,7 +64,7 @@
 
 * **22** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
-* **22** d-b-s-jeyaraj-com ([Sri Lankan Energy Minister Kanchana Wijesekera  Reveals that   petrol reserves in the country are about 4,000 tonnes and  cannot last more than a day;“The next petrol shipment is expected between the 22nd and 23rd of July”  says Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/855f48fd.json))
+* **21** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
