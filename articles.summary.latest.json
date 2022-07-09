@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83526/sltb-workers-call-off-trade-union-action",
+    "time_ut": 1657338480,
+    "original_lang": "en",
+    "original_title": "SLTB workers call off trade union action",
+    "file_name": "/tmp/news_lk2/articles/67/67ab78a7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Main-opposition-to-set-up-a-steering-committee-Kiriella/342-240692",
+    "time_ut": 1657338248,
+    "original_lang": "en",
+    "original_title": "Main opposition to set up a steering committee: Kiriella",
+    "file_name": "/tmp/news_lk2/articles/8d/8d65ce40.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131115",
+    "time_ut": 1657337971,
+    "original_lang": "ta",
+    "original_title": "\u0b90\u0ba8\u0bbe\u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8 \u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "file_name": "/tmp/news_lk2/articles/7c/7c1ce618.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd-\u0b8f\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/73-300013",
+    "time_ut": 1657337755,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0b8f\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/10/102ec620.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/LP-Gas-categorised-as-essential-commodity/342-240691",
+    "time_ut": 1657337701,
+    "original_lang": "en",
+    "original_title": "LP Gas categorised as essential commodity",
+    "file_name": "/tmp/news_lk2/articles/16/16a636d4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-money-to-buy-fuel/342-240690",
+    "time_ut": 1657337608,
+    "original_lang": "en",
+    "original_title": "No money to buy fuel",
+    "file_name": "/tmp/news_lk2/articles/89/89059363.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Decision-to-open-schools-next-week-will-be-made-today-Edu-Ministry/342-240689",
     "time_ut": 1657337335,
@@ -96,6 +144,14 @@
     "file_name": "/tmp/news_lk2/articles/32/329f1dd4.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83523/police-curfew-orders-in-parts-of-wp-lifted",
+    "time_ut": 1657332300,
+    "original_lang": "en",
+    "original_title": "Police curfew orders in parts of WP lifted",
+    "file_name": "/tmp/news_lk2/articles/a6/a6517178.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131114",
     "time_ut": 1657332240,
@@ -158,6 +214,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka police curfew is \u2018blatantly illegal\u2019: lawyers",
     "file_name": "/tmp/news_lk2/articles/33/33d22ee8.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd2\u0dad\u0dd2\u0dba-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-395244",
+    "time_ut": 1657330551,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dad\u0dd2\u0dba \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1b/1b29eda4.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbb\u0dd4. 250\u0da7 \u0d86\u0db1\u0dba\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0db1\u0db8\u0dca PUC \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0d9c\u0d9a\u0dd3\u0db8 \u0db4\u0dc0\u0dbb\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/c9/c9e5fe78.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130842",
-    "time_ut": 1657016559,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0bae\u0bcd - \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/1c/1cf4335b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dd4\u0dbb-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0daf\u0dd9\u0dba\u0dd2/101-615906",
-    "time_ut": 1657016557,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dd4\u0dbb \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/91/91b9a60f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Order-in-Russian-Aeroflot-flight-case-fixed-for-July-15/108-240390",
-    "time_ut": 1657016517,
-    "original_lang": "en",
-    "original_title": "Order in Russian Aeroflot flight case fixed for July 15",
-    "file_name": "/tmp/news_lk2/articles/c8/c8c3e1b8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130841",
-    "time_ut": 1657016445,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 : 6 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd - \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
-    "file_name": "/tmp/news_lk2/articles/45/4516300f.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130839",
-    "time_ut": 1657015806,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0bcd\u0b9c\u0bc1\u0ba9 \u0bae\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f 10 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 :\u00a0\u00a0\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0b86\u0b9f\u0bcd\u0b9a\u0bc7\u0baa\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b6/b68e9d71.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-looking-to-use-prisoners-rehabilitation-centre-inmates-for-agri-work-96957/",
-    "time_ut": 1657015620,
-    "original_lang": "en",
-    "original_title": "Sri Lanka looking to use prisoners, rehabilitation centre \u201cinmates\u201d for agri work",
-    "file_name": "/tmp/news_lk2/articles/75/75889c8c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130844",
-    "time_ut": 1657015580,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd - 18 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bc7 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0b85\u0bb2\u0bcd\u0b9c\u0b9a\u0bc0\u0bb0\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/9d/9d29fe4d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130838",
-    "time_ut": 1657015482,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bb0\u0bbf\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/36/36dd93e4.json"
   }
 ]
