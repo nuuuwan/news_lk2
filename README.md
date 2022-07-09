@@ -1,10 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 00:26:59 (LK time)*
+*As of 2022-07-10 00:37:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
+
+## Last Hour (6 Articles)
 
 * **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
 
@@ -12,25 +16,17 @@
 
 * **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
 
-## Last Hour (7 Articles)
-
-* **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
-
-* **2** daily-mirror-lk ([Harin and Manusha step down as cabinet ministers](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227b17d5.json))
-
-* **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
-
 * **1** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
 
 * **1** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
 
-## Last 3 Hours (31 Articles)
-
-* **6** ada-derana-lk ([Probe into STF officers who attacked media persons - Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ef3b66b.json))
+## Last 3 Hours (28 Articles)
 
 * **5** daily-mirror-lk ([Sri Lanka reach 184 for 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3f0f877.json))
 
 * **5** tamil-mirror-lk ([பிரதமரின் இல்லத்தை எரித்தமைக்கு சுமந்திரன் கண்டனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8043f725.json))
+
+* **4** ada-derana-lk ([Prime Minister’s private residence set on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cf477d2.json))
 
 * **4** virakesari-lk ([ஊடகவியலாளர்கள் மீது விசேட அதிரடிப்படையினர், பொலிஸார் காட்டுமிராண்டித் தனமான தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d645f27.json))
 
@@ -40,13 +36,13 @@
 
 * **2** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
 
-* **2** economy-next-com ([Sri Lanka PM Wickremesinghe’s private residence set on fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ea8befb.json))
+* **1** economy-next-com ([Sri Lanka president to resign on July 13: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a01e5c.json))
 
 * **1** lankadeepa-lk ([අගමැතිගේ පෞද්ගලික නිවසට ගිනි තබයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7021c97.json))
 
-## Last 24 Hours (371 Articles)
+## Last 24 Hours (368 Articles)
 
-* **76** tamil-mirror-lk ([ஜனாதிபதி இராஜினாமா செய்ய வேண்டுமென: செங்கடகல பிரகடனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d4589ac.json))
+* **73** tamil-mirror-lk ([போராட்டத்தை வன்முறையாக மாற்ற ஒற்றர்களால் சதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/031431c3.json))
 
 * **49** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
@@ -68,7 +64,7 @@
 
 * **2** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## Last Week (1,996 Articles)
+## Last Week (1,994 Articles)
 
 * **372** virakesari-lk ([இந்திய வர்த்தக நிறுவனங்களின் தலைவர்களுக்கு 5 வருட விசா கையளிப்பு - இந்திய உயர்ஸ்தானிகராலயம் வரவேற்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92c24d00.json))
 
@@ -90,7 +86,7 @@
 
 * **49** island-lk ([Iroshini Wijenayaka of Ideal Group represents Sri Lanka at World Women Leadership Congress](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24a48463.json))
 
-* **25** d-b-s-jeyaraj-com ([The Amendment approved by Cabinet on 27 June does not restore the content of the 19th Amendment ; it falls short of the President  Rajapaksa’s commitment to the nation made on 11 May.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6738703.json))
+* **23** d-b-s-jeyaraj-com ([Blaming Wickremesinghe for these failures is hardly fair. But he is the Prime Minister of a collapsing economy. To be sure, Wickremesinghe’s biggest impediment has been the ineptitude of those he has had to work with. This does not, however, exonerate him.](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca73fa88.json))
 
 * **22** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
