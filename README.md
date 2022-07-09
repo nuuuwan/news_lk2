@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 00:56:22 (LK time)*
+*As of 2022-07-10 01:08:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (2 Articles)
 
 * **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
 
-* **1** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
+## Last 3 Hours (19 Articles)
 
-* **1** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
-
-## Last 3 Hours (23 Articles)
-
-* **5** daily-mirror-lk ([Sri Lanka reach 184 for 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3f0f877.json))
-
-* **5** tamil-mirror-lk ([பிரதமரின் இல்லத்தை எரித்தமைக்கு சுமந்திரன் கண்டனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8043f725.json))
+* **4** daily-mirror-lk ([President to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acf565d1.json))
 
 * **3** daily-ft-lk ([President Gotabaya to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/247880e0.json))
+
+* **3** tamil-mirror-lk ([ஜனாதிபதி கோட்டாவின்  தீர்மானம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8c1430a.json))
 
 * **3** ada-lk ([ජනපති 13 දා ධුරයෙන් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb982c0c.json))
 
@@ -26,13 +22,13 @@
 
 * **2** ada-derana-lk ([President Gotabaya to step down on July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f5c01ae.json))
 
-* **2** virakesari-lk ([பிரதமர் ரணில் விக்கிரமசிங்கவின் இல்லத்திற்கு தீ வைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8c1265.json))
+* **1** virakesari-lk ([பதவியை இராஜிநாமா செய்வதாக அறிவித்தார் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f73629e9.json))
 
 * **1** economy-next-com ([Sri Lanka president to resign on July 13: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a01e5c.json))
 
-## Last 24 Hours (355 Articles)
+## Last 24 Hours (348 Articles)
 
-* **70** tamil-mirror-lk ([த.மு.கூவையும்  இ.தொ.காவையும் இணைக்கும் இந்தியா முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de01e1d6.json))
+* **68** tamil-mirror-lk ([எரிவாயு தொடர்பில் விசேட வர்த்தமானி வெளியீடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ae9ca80.json))
 
 * **49** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
@@ -48,7 +44,7 @@
 
 * **20** economy-next-com ([Sri Lanka schedules power cuts of 3 hours from July 9 to July 13](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e75958c.json))
 
-* **15** daily-ft-lk ([Kitchen & Bedroom commended for interior excellence at Laya Leisure](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bce1e3b8.json))
+* **10** daily-ft-lk ([Bar Association calls for swift political stability and public restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dc32600.json))
 
 * **3** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
