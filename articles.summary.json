@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf-\u0bb2\u0bc7\u0baf\u0bc7-\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bc1\u0b95\u0bc8-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/95-300020",
+    "time_ut": 1657343132,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u200b\u0bb2\u0bc7\u0baf\u0bc7 \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bc1\u0b95\u0bc8 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0c/0cf03675.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protesters-at-Chatham-Street-tear-gassed/342-240698",
+    "time_ut": 1657343132,
+    "original_lang": "en",
+    "original_title": "Protesters at Chatham Street tear-gassed",
+    "file_name": "/tmp/news_lk2/articles/87/87e3bc58.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf-\u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/95-300018",
+    "time_ut": 1657342817,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf  \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/20/2056cf55.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/thousands-of-sri-lankans-march-to-colombo-in-final-push-to-oust-president-97137/",
+    "time_ut": 1657342140,
+    "original_lang": "en",
+    "original_title": "Thousands of Sri Lankans march to Colombo in final push to oust president",
+    "file_name": "/tmp/news_lk2/articles/77/7781a230.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd8\u0dc4\u0dc3\u0dca\u0dae-\u0d9c\u0dd1\u0dc3\u0dca-\u2019\u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dd2\u0dad-\u0db7\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a\u0dca\u2019-\u0db6\u0dc0\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-616107",
     "time_ut": 1657341615,
@@ -9,11 +41,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Tension-prevails-at-railway-stations/108-240697",
+    "url": "https://www.dailymirror.lk/latest_news/Tension-prevails-at-railway-stations/342-240697",
     "time_ut": 1657341507,
     "original_lang": "en",
     "original_title": "Tension prevails at railway stations",
-    "file_name": "/tmp/news_lk2/articles/e9/e9bf6355.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c12c6007.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -25,11 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sarath-Fonseka-urges-security-forces-to-join-people/108-240696",
+    "url": "https://www.dailymirror.lk/latest_news/Sarath-Fonseka-urges-security-forces-to-join-people/342-240696",
     "time_ut": 1657341294,
     "original_lang": "en",
     "original_title": "Sarath Fonseka urges security forces to join people",
-    "file_name": "/tmp/news_lk2/articles/71/71508c58.json"
+    "file_name": "/tmp/news_lk2/articles/0b/0bd9998c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d91\u0dba\u0dd2/11-395245",
+    "time_ut": 1657341263,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/23/23ce56ac.json"
   },
   {
     "newspaper_id": "virakesari-lk",
