@@ -19,7 +19,7 @@
         "Weerasumana Weerasinghe, Deputy Chairman of the Communist Party, has emphasized that before the parliamentary session, the party leader should take a firm resolution.",
         "Considering the current crisis situation in the country, all the political parties should come to a common consensus and pay attention to the next decisions. It is necessary to get the views of all the political parties and come to a common consensus regarding the all-party government, Vasudeva Nanayakkara, the leader of the Left Democratic Front, has emphasized.",
         "Considering the current crisis situation in the country, the president and the prime minister should resign immediately. According to the constitution, the speaker should be elected as the replacement president and all the political parties should come to a common agreement regarding the next step according to the constitution, said the leader of the National Freedom Front, Vimal Weerawansa.",
-        "Vimal Weerawansa further mentioned that the name of Dalas Alagaperuma has been recommended as the Prime Minister of the interim government. In this regard, Vimal Weerawansa has decided to hold talks with political parties including People's Liberation Front and United People's Shakti.",
+        "Vimal Weerawansa also mentioned that the name of Dulles Alagaperuma has been recommended as the Prime Minister of the interim government. In this regard, Vimal Weerawansa has decided to hold talks with political parties including People's Liberation Front and United People's Shakti.",
         "It is noteworthy that a special party leader's meeting will be held today under the chairmanship of Speaker Mahinda Yappa regarding the next political decisions regarding the acting president and the interim government."
       ],
       "title_ents": [
@@ -155,7 +155,7 @@
             "label": "PERSON"
           },
           {
-            "text": "Dalas Alagaperuma",
+            "text": "Dulles Alagaperuma",
             "label": "PERSON"
           },
           {
@@ -227,7 +227,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           }
         ],
@@ -511,7 +511,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b9f\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae",
+            "text": "\u0b9f\u0bb2\u0bcd\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae",
             "label": "PERSON"
           },
           {
