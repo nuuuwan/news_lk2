@@ -1,11 +1,51 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/US-envoy-calls-on-all-to-ensure-democratic-transition-of-power/56-737318",
+    "time_ut": 1657483264,
+    "original_lang": "en",
+    "original_title": "US envoy calls on all to ensure democratic transition of power",
+    "file_name": "/tmp/news_lk2/articles/a5/a58be0a3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/GotaGoGama-activists-issue-6-immediate-demands/56-737317",
+    "time_ut": 1657483250,
+    "original_lang": "en",
+    "original_title": "GotaGoGama activists issue 6 immediate demands",
+    "file_name": "/tmp/news_lk2/articles/0f/0f0d8994.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Dhammika-Perera-resigns-from-minister-post-joins-3-others/56-737316",
+    "time_ut": 1657483097,
+    "original_lang": "en",
+    "original_title": "Dhammika Perera resigns from minister post, joins 3 others",
+    "file_name": "/tmp/news_lk2/articles/97/97da9436.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/MRI-and-Spice-Council-launch-Booster-to-mitigate-nutrition-deficiency-among-patients-and-toddlers/56-737315",
+    "time_ut": 1657483043,
+    "original_lang": "en",
+    "original_title": "MRI and Spice Council launch \u2018Booster\u2019 to mitigate nutrition deficiency among patients and toddlers",
+    "file_name": "/tmp/news_lk2/articles/1d/1d7be04e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/The-victory-of-Aragalaya-What-actually-happened-to-Gota-and-Ranil/4-737302",
     "time_ut": 1657482110,
     "original_lang": "en",
     "original_title": "The victory of Aragalaya: What actually happened to Gota and Ranil?",
     "file_name": "/tmp/news_lk2/articles/b5/b57244d0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0da2\u0dba-\u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1-\u0dbd\u0dba\u0dd2\u0da7\u0dca-\u0d9a\u0dab\u0dd4\u0dc0\u0da7-\u0db1\u0dd0\u0d9c\u0dd2-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dcf\u0d9c\u0dda-\u0db8\u0dc5-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda/11-395302",
+    "time_ut": 1657481871,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0da2\u0dba \u0dc3\u0db8\u0dbb\u0db1\u0dca\u0db1 \u0dbd\u0dba\u0dd2\u0da7\u0dca \u0d9a\u0dab\u0dd4\u0dc0\u0da7 \u0db1\u0dd0\u0d9c\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dcf\u0d9c\u0dda \u0db8\u0dc5 \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda",
+    "file_name": "/tmp/news_lk2/articles/be/beef6986.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -798,6 +838,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dad\u0dca \u0d9c\u0dda \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d86 \u0d8b\u0dbd\u0db4\u0db1\u0dda \u0dc4\u0dd2\u0db8\u0dd2\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/eb/eb31607b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-receives-3700-metric-tonnes-of-lp-gas-distribution-to-begin-soon-97212/",
+    "time_ut": 1657443360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka receives 3,700 metric tonnes of LP gas; distribution to begin soon",
+    "file_name": "/tmp/news_lk2/articles/9c/9c67b7d8.json"
   },
   {
     "newspaper_id": "economy-next-com",
