@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/India-denies-report-of-sending-Indian-troops-to-SL/108-240773",
+    "time_ut": 1657479360,
+    "original_lang": "en",
+    "original_title": "India denies report of sending Indian troops to SL",
+    "file_name": "/tmp/news_lk2/articles/21/21b9ce3e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83567/cds-refutes-reports-of-troops-heading-to-galle-face-protest-site",
     "time_ut": 1657477380,
@@ -160,6 +168,14 @@
     "file_name": "/tmp/news_lk2/articles/cf/cf75cce4.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Back-to-Peddling-Reminiscing-Raleighs-Humbers/172-240767",
+    "time_ut": 1657464647,
+    "original_lang": "en",
+    "original_title": "Back to Peddling! Reminiscing  Raleighs & Humbers",
+    "file_name": "/tmp/news_lk2/articles/4e/4efbb708.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131220",
     "time_ut": 1657464634,
@@ -182,6 +198,14 @@
     "original_lang": "en",
     "original_title": "Sri Lankans have right to peacefully raise their voices \u2013 Blinken",
     "file_name": "/tmp/news_lk2/articles/13/1349efb1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-resignation-of-the-President-and-a-despicable-arson-attack-EDITORIAL/172-240765",
+    "time_ut": 1657464472,
+    "original_lang": "en",
+    "original_title": "The resignation of the President and a despicable arson attack - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/f1/f1a5e300.json"
   },
   {
     "newspaper_id": "virakesari-lk",
