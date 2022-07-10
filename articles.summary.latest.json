@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd2-\u0db6\u0dbd-\u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0d9a\u0da7-\u0dba\u0db1\u0dca\u0db1\u2018\u2018/101-616167",
+    "time_ut": 1657441937,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd2 \u0db6\u0dbd \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0d9a\u0da7 \u0dba\u0db1\u0dca\u0db1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/a6/a64b0cc9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/103\u0d9a\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616166",
     "time_ut": 1657439964,
     "original_lang": "si",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/c2/c2ec1998.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83478/more-than-6-million-sri-lankans-facing-food-insecurity-un",
-    "time_ut": 1657166880,
-    "original_lang": "en",
-    "original_title": "More than 6 million Sri Lankans facing food insecurity: UN",
-    "file_name": "/tmp/news_lk2/articles/c3/c317d769.json"
   }
 ]
