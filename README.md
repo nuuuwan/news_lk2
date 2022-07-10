@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 23:22:49 (LK time)*
+*As of 2022-07-10 23:34:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last Hour (2 Articles)
 
+* **1** virakesari-lk ([ராஜபக்ஷவினர் வேண்டுகோள் விடுக்கும் பட்சத்தில் இந்திய இராணுவத்தை அனுப்பத் தயார் - சுப்பிரமணியன் சுவாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647cc2f1.json))
+
 * **1** daily-mirror-lk ([India must give military help to Sri Lanka if requested - Swamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6838bdd5.json))
 
-* **1** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
+## Last 3 Hours (14 Articles)
 
-## Last 3 Hours (15 Articles)
+* **4** news-first-lk ([PM will NOT violate constitution – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/860b5452.json))
 
-* **5** news-first-lk ([Ready to work forward with an all-party Govt: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf75cce4.json))
+* **3** virakesari-lk ([அனைத்து பாடசாலைகளுக்கும் 15 ஆம் திகதி வரை விடுமுறை - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45b4afc6.json))
 
 * **3** lankadeepa-lk ([අනුප්‍රාප්තික ජනාධිපතිවරයකු ඉක්මනට පත් කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efb89a93.json))
-
-* **3** virakesari-lk ([அமைதியான ஜனநாயகவழியிலான அதிகார மாற்றத்தை ஏற்படுத்துவதற்காக அனைத்து தரப்பினரும் ஒத்துழைக்கவேண்டும்- இலங்கை;கான அமெரிக்க தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bee8e4b.json))
 
 * **2** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
 
@@ -24,7 +24,7 @@
 
 ## Last 24 Hours (206 Articles)
 
-* **41** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
+* **42** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
 * **33** lankadeepa-lk ([නව අගමැති වෙන්න බ්‍රිතාන්‍ය මන්ත්‍රීවරු පොරකති](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/542c0259.json))
 
@@ -32,7 +32,7 @@
 
 * **27** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
 
-* **24** daily-mirror-lk ([Harin and Manusha step down as cabinet ministers](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227b17d5.json))
+* **23** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
 
 * **21** ada-lk ([පොහොර නැව භාර ගැනීමෙන් පසු මහින්ද අමරවීරත් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1264f9e3.json))
 
@@ -46,9 +46,9 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,004 Articles)
+## Last Week (2,005 Articles)
 
-* **362** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
+* **363** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
 * **288** lankadeepa-lk ([බෙම්මුල්ලේ වෙඩි තැබීමකින් කොළඹ වෙඩික්කරු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c97fd20.json))
 
@@ -74,9 +74,9 @@
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,733 Articles)
+## All Time (4,734 Articles)
 
-* **853** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **854** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **718** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
