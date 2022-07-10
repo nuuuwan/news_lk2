@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 18:55:03 (LK time)*
+*As of 2022-07-10 18:59:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,21 +14,21 @@
 
 * **1** tamil-mirror-lk ([சிலிண்டர் விலையை உயர்த்துகிறது லிட்ரோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4dd65e0c.json))
 
-## Last Hour (12 Articles)
+## Last Hour (10 Articles)
 
 * **4** ada-derana-lk ([Sonia Gandhi expresses solidarity with Sri Lanka, hopes India will continue to assist](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b527f98.json))
 
-* **3** tamil-mirror-lk ([இரண்டாவது டெஸ்டில் முன்னிலையில் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5e8a887.json))
-
-* **2** lankadeepa-lk ([ලංකාව අර්බුදයෙන් ගොඩගන්න ජාත්‍යන්තර සහාය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0041c4c9.json))
+* **2** tamil-mirror-lk ([தீ வைத்த மூவருக்கும் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8056c544.json))
 
 * **1** daily-mirror-lk ([BASL urges smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06dce02f.json))
 
 * **1** virakesari-lk ([இலங்கை நிலவரம் இந்தியா தெரிவித்துள்ளது என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f87c3725.json))
 
+* **1** lankadeepa-lk ([අගමැතිගේ ගෙට ගිනි තැබුවැයි කියන තරුණයෝ 20 තෙක් රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb9bed09.json))
+
 * **1** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-## Last 3 Hours (29 Articles)
+## Last 3 Hours (28 Articles)
 
 * **9** daily-mirror-lk ([Public galore in Presidential Secretariat, House and Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b200f39b.json))
 
@@ -40,13 +40,13 @@
 
 * **4** news-first-lk ([India remains supportive during SL crisis: Jaishankar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e448527.json))
 
-* **3** virakesari-lk ([எரிபொருள் கப்பல் நாட்டை வந்தடைந்ததும் விநியோகத்தை துரிதப்படுத்துங்கள் : ஜனாதிபதி பணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/127e7231.json))
+* **2** virakesari-lk ([சற்று முன் கொழும்பை வந்தடைந்த எரிவாயு தாங்கிய கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14c1e403.json))
 
-## Last 24 Hours (250 Articles)
-
-* **40** virakesari-lk ([பதவியை இராஜினாமா செய்வதாக ரணில் தெரிவிப்பு : சபாநாயகரை பதில் ஜனாதிபதியாக நியமிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33f6e224.json))
+## Last 24 Hours (249 Articles)
 
 * **40** lankadeepa-lk ([පක්ෂනායක තීරණ කතානායක ජනපතිට දන්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a547d3cd.json))
+
+* **39** virakesari-lk ([பிரதமரின் இல்ல வளாகத்தில் ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் மீது கண்ணீர் புகை பிரயோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76734de7.json))
 
 * **34** tamil-mirror-lk ([கோட்டாவுக்கு 24 மணி நேரம் காலக்கெடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7aad9ecd.json))
 
