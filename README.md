@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 02:51:34 (LK time)*
+*As of 2022-07-11 03:14:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **7** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
-* **2** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
-
 * **1** ada-lk ([අරගලයේ ජය සමරන්න ලයිට් කණුවට නැගි පුද්ගලයාගේ මළ සිරුර දුම්රිය මාර්ගයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beef6986.json))
+
+* **1** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **1** daily-mirror-lk ([India denies report of sending Indian troops to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21b9ce3e.json))
 
