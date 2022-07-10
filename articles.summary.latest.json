@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83564/three-arrested-over-torching-pms-residence-remanded",
+    "time_ut": 1657458480,
+    "original_lang": "en",
+    "original_title": "Three arrested over torching PM\u2019s residence remanded",
+    "file_name": "/tmp/news_lk2/articles/f2/f2d95836.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/BASL-urges-smooth-transition-of-power/342-240762",
+    "time_ut": 1657458242,
+    "original_lang": "en",
+    "original_title": "BASL urges smooth transition of power",
+    "file_name": "/tmp/news_lk2/articles/06/06dce02f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131208",
+    "time_ut": 1657458198,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "file_name": "/tmp/news_lk2/articles/f8/f87c3725.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8-\u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb/175-300127",
+    "time_ut": 1657458090,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+    "file_name": "/tmp/news_lk2/articles/4d/4dd65e0c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83563/india-stands-with-people-of-sri-lanka-mea-spokesman",
+    "time_ut": 1657457640,
+    "original_lang": "en",
+    "original_title": "\u2018India stands with people of Sri Lanka\u2019: MEA spokesman",
+    "file_name": "/tmp/news_lk2/articles/13/13fbe34b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-300126",
+    "time_ut": 1657457239,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/80/8056c544.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83562/opposition-leader-condemns-attack-on-pms-residence",
+    "time_ut": 1657457100,
+    "original_lang": "en",
+    "original_title": "Opposition Leader condemns attack on PM\u2019s residence",
+    "file_name": "/tmp/news_lk2/articles/ff/ff586e3d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0d9c\u0dd9\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd-20-\u0dad\u0dd9\u0d9a\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-616177",
+    "time_ut": 1657456919,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0d9c\u0dd9\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd 20 \u0dad\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/cb/cb9bed09.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/10/india-stands-with-the-people-of-sri-lanka/",
     "time_ut": 1657456260,
@@ -25,11 +89,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1/1-616176",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1/101-616176",
     "time_ut": 1657455947,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/7b/7b1f9584.json"
+    "file_name": "/tmp/news_lk2/articles/00/0041c4c9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131207",
+    "time_ut": 1657455793,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/14/14c1e403.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bc6\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0b95 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8  \u0baf\u0bbe\u0bb4\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0bb5\u0bc6\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0b95 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d6/d6e42e7c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/railway-services-to-return-to-normal/",
-    "time_ut": 1657179720,
-    "original_lang": "en",
-    "original_title": "Railway services to return to normal",
-    "file_name": "/tmp/news_lk2/articles/05/050149d8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/inflation-can-rise-to-70-warns-cbsl-governor/",
-    "time_ut": 1657179600,
-    "original_lang": "en",
-    "original_title": "Inflation can rise to 70%, warns CBSL Governor",
-    "file_name": "/tmp/news_lk2/articles/00/007b5728.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0db8\u0db1\u0dca-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0daf\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0d9a\u0dca/11-395192",
-    "time_ut": 1657179546,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0db8\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0daf\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/44/44dccf90.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130982",
-    "time_ut": 1657179429,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 - \u0baa\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f2/f26ed61a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/world-food-programme-providing-emergency-nutritional-needs-of-three-million-sri-lankans-report-97075/",
-    "time_ut": 1657179420,
-    "original_lang": "en",
-    "original_title": "World Food Programme providing emergency nutritional needs of three million Sri Lankans: report",
-    "file_name": "/tmp/news_lk2/articles/38/383958f6.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0dba\u0dd4\u0d9c\u0dba\u0d9a-\u0daf\u0dbb\u0db8\u0dd2\u0da7\u0dd2-\u0db4\u0dcf\u0dbb\u0dda/101-615995",
-    "time_ut": 1657179222,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dba\u0dd4\u0d9c\u0dba\u0d9a \u0daf\u0dbb\u0db8\u0dd2\u0da7\u0dd2 \u0db4\u0dcf\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/ba/bab3476c.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62074859",
-    "time_ut": 1657178849,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0daf\u0dbb\u0dd4 \u0d8b\u0db4\u0dad\u0d9a\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0db4\u0dad\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/01/0193c5ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/No-MCC-pact-at-the-moment/108-240532",
-    "time_ut": 1657178694,
-    "original_lang": "en",
-    "original_title": "No MCC pact at the moment",
-    "file_name": "/tmp/news_lk2/articles/2b/2b4e47d7.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130981",
-    "time_ut": 1657178536,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9? \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/9a/9aefba8f.json"
   }
 ]
