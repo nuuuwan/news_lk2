@@ -9,7 +9,7 @@
       "title": "The President will resign on July 13",
       "author": "unknown",
       "body_lines": [
-        "President Gotabhaya Rajapakse has informed the Speaker in a letter that he will resign on the 13th.",
+        "The incident at the Prime Minister's house is handed over to the CID",
         "In the party leaders' meeting held this evening, the party leaders were of the opinion that the President and the Prime Minister should resign.",
         "Speaker's office sources say that the Speaker has informed the President and in response to the letter, the President has informed the Speaker of his resignation."
       ],
@@ -22,12 +22,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Gotabhaya Rajapakse",
-            "label": "PERSON"
-          },
-          {
-            "text": "the 13th",
-            "label": "DATE"
+            "text": "CID",
+            "label": "ORG"
           }
         ],
         [
@@ -56,12 +52,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
-          },
-          {
-            "text": "13 \u0dc0\u0dd0\u0db1\u0dd2",
-            "label": "DATE"
+            "text": "CID",
+            "label": "ORG"
           }
         ],
         [
@@ -90,12 +82,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
-            "label": "PERSON"
-          },
-          {
-            "text": "13\u0bb5\u0ba4\u0bc1",
-            "label": "DATE"
+            "text": "\u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf",
+            "label": "ORG"
           }
         ],
         [

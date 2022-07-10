@@ -72,6 +72,14 @@
     "file_name": "/tmp/news_lk2/articles/a6/a64d3ee6.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/medicine-teachers-urge-president-pm-to-hand-over-official-resignations/",
+    "time_ut": 1657450140,
+    "original_lang": "en",
+    "original_title": "Medicine Teachers\u2019 urge President & PM to hand over official resignations",
+    "file_name": "/tmp/news_lk2/articles/8b/8b3953b6.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd3\u0db8-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d87\u0d9f\u0dd2\u0dbd\u0dca\u0dbd-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd1/101-616173",
     "time_ut": 1657449741,
@@ -86,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Public galore in Presidential Secretariat, House and Temple Trees",
     "file_name": "/tmp/news_lk2/articles/b2/b200f39b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/india-remains-supportive-during-sl-crisis-jaishankar/",
+    "time_ut": 1657449240,
+    "original_lang": "en",
+    "original_title": "India remains supportive during SL crisis: Jaishankar",
+    "file_name": "/tmp/news_lk2/articles/5e/5e448527.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s headline inflation may rise to 70% - CBSL chief",
     "file_name": "/tmp/news_lk2/articles/c9/c9d696e1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83480/sri-lankas-headline-inflation-may-rise-to-70-in-coming-months-cbsl",
-    "time_ut": 1657176660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s headline inflation may rise to 70% in coming months - CBSL",
-    "file_name": "/tmp/news_lk2/articles/4e/4e004f88.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83480/sri-lankas-headline-inflation-projected-to-hit-70-in-coming-months",
-    "time_ut": 1657176660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s headline inflation projected to hit 70% in coming months",
-    "file_name": "/tmp/news_lk2/articles/94/94b38260.json"
   }
 ]
