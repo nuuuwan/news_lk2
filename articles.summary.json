@@ -56,12 +56,28 @@
     "file_name": "/tmp/news_lk2/articles/ff/ff586e3d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/schools-to-re-open-on-18th-july/",
+    "time_ut": 1657457100,
+    "original_lang": "en",
+    "original_title": "Schools to re-open on 18th July",
+    "file_name": "/tmp/news_lk2/articles/ac/ac05aec9.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0d9c\u0dd9\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2-\u0d9a\u0dd2\u0dba\u0db1-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd-20-\u0dad\u0dd9\u0d9a\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-616177",
     "time_ut": 1657456919,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0d9c\u0dd9\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dd0\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0ddd 20 \u0dad\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
     "file_name": "/tmp/news_lk2/articles/cb/cb9bed09.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/eu-calls-for-peaceful-transition/",
+    "time_ut": 1657456620,
+    "original_lang": "en",
+    "original_title": "EU calls for peaceful transition",
+    "file_name": "/tmp/news_lk2/articles/ba/ba2c48ba.json"
   },
   {
     "newspaper_id": "news-first-lk",
