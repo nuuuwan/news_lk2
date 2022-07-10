@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 23:15:19 (LK time)*
+*As of 2022-07-10 23:22:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([India must give military help to Sri Lanka if requested - Swamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6838bdd5.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,19 +10,19 @@
 
 * **1** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (15 Articles)
 
-* **6** news-first-lk ([Sri Lankans have right to peacefully raise their voices – Blinken](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1349efb1.json))
-
-* **5** virakesari-lk ([புகையிரத கட்டண அதிகரிப்பு குறித்து  புகையிரத நிலைய பொறுப்பதிகாரிகள் சங்கம் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85feca3d.json))
-
-* **3** daily-mirror-lk ([Pope Francis appeals for peace for SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29458979.json))
+* **5** news-first-lk ([Ready to work forward with an all-party Govt: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf75cce4.json))
 
 * **3** lankadeepa-lk ([අනුප්‍රාප්තික ජනාධිපතිවරයකු ඉක්මනට පත් කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efb89a93.json))
 
+* **3** virakesari-lk ([அமைதியான ஜனநாயகவழியிலான அதிகார மாற்றத்தை ஏற்படுத்துவதற்காக அனைத்து தரப்பினரும் ஒத்துழைக்கவேண்டும்- இலங்கை;கான அமெரிக்க தூதுவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bee8e4b.json))
+
+* **2** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
+
 * **2** ada-derana-lk ([US, EU urges Sri Lankan political parties to cooperate and work quickly to achieve political and economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30e36e4e.json))
 
-## Last 24 Hours (207 Articles)
+## Last 24 Hours (206 Articles)
 
 * **41** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
@@ -38,7 +34,7 @@
 
 * **24** daily-mirror-lk ([Harin and Manusha step down as cabinet ministers](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227b17d5.json))
 
-* **22** ada-lk ([හරීන් හා මනූෂත් අමාත්‍යධුරය අත්හරිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/7078efdf.json))
+* **21** ada-lk ([පොහොර නැව භාර ගැනීමෙන් පසු මහින්ද අමරවීරත් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1264f9e3.json))
 
 * **19** ada-derana-lk ([Manusha and Harin resign from ministerial portfolios](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45adadf7.json))
 
