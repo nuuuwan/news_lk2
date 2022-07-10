@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131201",
+    "time_ut": 1657448745,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bc1\u0bb0\u0bbf\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd : \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/12/127e7231.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Ruwan-visits-PMs-damaged-house/110-240752",
+    "time_ut": 1657448629,
+    "original_lang": "en",
+    "original_title": "Ruwan visits PM\u2019s damaged house",
+    "file_name": "/tmp/news_lk2/articles/a5/a521fa17.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131197",
+    "time_ut": 1657448517,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0ba9\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/0b/0b0c5aa5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/basl-condemns-attacks-on-journalists-calls-for-action-against-police-officers-for-attacks/",
+    "time_ut": 1657448340,
+    "original_lang": "en",
+    "original_title": "BASL condemns attacks on journalists, & calls for action against police officers for attacks",
+    "file_name": "/tmp/news_lk2/articles/df/dfcc25aa.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1/175-300122",
     "time_ut": 1657447698,
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/1e/1e52e229.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/what-happens-after-the-president-resigns-basl-explains-process-to-elect-new-president/",
+    "time_ut": 1657447680,
+    "original_lang": "en",
+    "original_title": "What happens after the President resigns? BASL explains process to elect new President",
+    "file_name": "/tmp/news_lk2/articles/cb/cb5a9c6a.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -94,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka has received 3,700 metric tonnes of LP gas; distribution to begin immeditately",
     "file_name": "/tmp/news_lk2/articles/33/33126ec7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-has-received-3700-metric-tonnes-of-lp-gas-distribution-to-begin-immediately-97212/",
+    "time_ut": 1657443360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka has received 3,700 metric tonnes of LP gas; distribution to begin immediately",
+    "file_name": "/tmp/news_lk2/articles/78/785bab05.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -614,6 +662,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0b95\u0bbe\u0bb2 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bc1\u0bb0\u0bbf\u0ba4\u0bae\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd- \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
     "file_name": "/tmp/news_lk2/articles/67/67185aeb.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/torching-ranils-residence-questions-surface-about-another-arabi-wasantha-incident/",
+    "time_ut": 1657429099,
+    "original_lang": "en",
+    "original_title": "Torching Ranil\u2019s Residence: Questions Surface About Another \u2018Arabi Wasantha\u2019 Incident",
+    "file_name": "/tmp/news_lk2/articles/37/37b7150e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
