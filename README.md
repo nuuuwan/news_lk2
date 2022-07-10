@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 04:22:48 (LK time)*
+*As of 2022-07-11 04:37:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (1 Articles)
 
-* **6** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
+* **1** daily-ft-lk ([Dragged into the darkness by dictatorship, democracy is  the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2abd1424.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (214 Articles)
 
 * **44** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
@@ -26,13 +26,13 @@
 
 * **7** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
-* **5** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
+* **4** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
 
 * **4** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,007 Articles)
+## Last Week (2,008 Articles)
 
 * **365** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -54,13 +54,13 @@
 
 * **50** island-lk ([Special birthday celebrations …on July 13th](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8a4c2cc.json))
 
-* **31** d-b-s-jeyaraj-com ([The last two and a half years is ample proof of the abysmal failure of the individual, Gotabaya Rajapaksa and the institution of the executive presidency. If there is to be any hope of economic recovery and moving forward from this current predicament, both the president and the presidency must go.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f863f61b.json))
+* **32** d-b-s-jeyaraj-com ([The last two and a half years is ample proof of the abysmal failure of the individual, Gotabaya Rajapaksa and the institution of the executive presidency. If there is to be any hope of economic recovery and moving forward from this current predicament, both the president and the presidency must go.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f863f61b.json))
 
 * **23** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,756 Articles)
+## All Time (4,757 Articles)
 
 * **856** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -82,7 +82,7 @@
 
 * **167** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **79** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **80** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **57** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
