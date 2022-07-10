@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83560/3700-mt-gas-shipment-arrives-in-sri-lanka",
+    "time_ut": 1657450800,
+    "original_lang": "en",
+    "original_title": "3,700 MT gas shipment arrives in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/61/61635f9f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Probe-into-PMs-private-residence-fire-taken-over-by-CID/155-240754",
     "time_ut": 1657450525,
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd3\u0db8-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d87\u0d9f\u0dd2\u0dbd\u0dca\u0dbd-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd1/1-616173",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd3\u0db8-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d87\u0d9f\u0dd2\u0dbd\u0dca\u0dbd-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db6\u0dd1/101-616173",
     "time_ut": 1657449741,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd3\u0db8 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0d87\u0d9f\u0dd2\u0dbd\u0dca\u0dbd \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db6\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/ef/ef66a78d.json"
+    "file_name": "/tmp/news_lk2/articles/45/45ca75d8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1128,12 +1136,20 @@
     "file_name": "/tmp/news_lk2/articles/fb/fb982c0c.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da2\u0dd6\u0dbd\u0dd2-13-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca-\u0dc0\u0dda/1-616147",
+    "time_ut": 1657386251,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0dd6\u0dbd\u0dd2 13 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/f6/f6188ad8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/President-to-resign-on-Wednesday/155-240736",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-resign-on-Wednesday/108-240736",
     "time_ut": 1657386026,
     "original_lang": "en",
     "original_title": "President to resign on Wednesday",
-    "file_name": "/tmp/news_lk2/articles/ac/acf565d1.json"
+    "file_name": "/tmp/news_lk2/articles/ec/ec8f0de3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba\u0da7 \u0dc3\u0dc4 \u0dc0\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca\u0dc3\u0dda\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
     "file_name": "/tmp/news_lk2/articles/ff/ff497973.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130971",
-    "time_ut": 1657174716,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/bb/bbac2d40.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b93\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-299900",
-    "time_ut": 1657174503,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b93\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/db/db56e07b.json"
   }
 ]
