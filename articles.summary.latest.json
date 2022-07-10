@@ -72,6 +72,14 @@
     "file_name": "/tmp/news_lk2/articles/d4/d454f16d.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb1\u0bc1\u0ba4\u0bc1\u0ba3\u0bc8\u0baf\u0bbe\u0b95-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/175-300144",
+    "time_ut": 1657461978,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0bb1\u0bc1\u0ba4\u0bc1\u0ba3\u0bc8\u0baf\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe  \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/90bfbcc5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131214",
     "time_ut": 1657461943,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd4\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d8/d88cb2ac.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/water-supply-workers-protest-for-fuel/",
-    "time_ut": 1657185840,
-    "original_lang": "en",
-    "original_title": "Water Supply workers protest for fuel",
-    "file_name": "/tmp/news_lk2/articles/12/12e2ec9d.json"
   }
 ]
