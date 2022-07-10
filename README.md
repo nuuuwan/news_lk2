@@ -1,30 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 17:35:50 (LK time)*
+*As of 2022-07-10 17:40:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **2** daily-mirror-lk ([Ship carrying 3,700 metric tonnes of LP gas arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad39845e.json))
 
 * **1** lankadeepa-lk ([අගමැති නිවසේ සිද්ධිය සී.අයි.ඩීයට බාරදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/672fd56e.json))
 
-* **1** tamil-mirror-lk ([தீயின் பின்னணியில்  இருப்பவர்களை அம்பலப்படுத்துவோம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cce9031.json))
-
-## Last 3 Hours (29 Articles)
+## Last 3 Hours (27 Articles)
 
 * **8** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
 
 * **5** virakesari-lk ([வவுனியாவில் பொலிஸ் காவலரன் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad48bd52.json))
 
-* **4** lankadeepa-lk ([අගමැති නිවෙසට ගිනි තැබීම සජිත් හෙළා දකී](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffdfc71f.json))
-
 * **4** news-first-lk ([What happens after the President resigns? BASL explains process to elect new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb5a9c6a.json))
+
+* **3** lankadeepa-lk ([අරගල බිමේ තවමත් විශාල ජනකායක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c102791d.json))
 
 * **3** tamil-mirror-lk ([CID  வசமாகும் விசாரணைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d13e0be.json))
 
-* **3** ada-derana-lk ([PUCSL to probe power outage during torching of PM’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba1ae6e0.json))
+* **2** ada-derana-lk ([CID to probe torching of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b1fc23.json))
 
 * **2** ada-lk ([චීනයෙන් උඩරටට මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d1050c5.json))
 
@@ -54,13 +52,13 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,007 Articles)
+## Last Week (2,006 Articles)
 
 * **368** virakesari-lk ([பாதாள உலக குழுவினரால் அச்சுறுத்தல் - பொலிஸாருக்கு பாதுகாப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18e1404a.json))
 
 * **284** lankadeepa-lk ([‘‘මේ ආණ්ඩුව පන්නනවා හැර වෙන විකල්පයක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c12d3e26.json))
 
-* **240** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
+* **239** daily-mirror-lk ([When they can’t govern, they must Go Home](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/709b2e39.json))
 
 * **233** tamil-mirror-lk ([மின்சார சைக்கிள் தயாரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e96d5f96.json))
 
