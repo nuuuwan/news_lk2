@@ -1,34 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 23:50:05 (LK time)*
+*As of 2022-07-11 00:03:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **2** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
+
+## Last Hour (3 Articles)
+
+* **2** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
-## Last Hour (2 Articles)
+## Last 3 Hours (14 Articles)
 
-* **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
-
-* **1** virakesari-lk ([ராஜபக்ஷவினர் வேண்டுகோள் விடுக்கும் பட்சத்தில் இந்திய இராணுவத்தை அனுப்பத் தயார் - சுப்பிரமணியன் சுவாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647cc2f1.json))
-
-## Last 3 Hours (13 Articles)
+* **4** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
 
 * **4** news-first-lk ([PM will NOT violate constitution – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/860b5452.json))
 
 * **2** virakesari-lk ([ஜனாதிபதி மாளிகையிலிருந்து 17 மில்லியன் ரூபாவை மீட்டு  பொலிஸாரிடம் ஒப்படைத்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b203b7c.json))
 
-* **2** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
-
-* **2** ada-derana-lk ([US, EU urges Sri Lankan political parties to cooperate and work quickly to achieve political and economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30e36e4e.json))
-
 * **2** lankadeepa-lk ([පක්ෂ නායක රැස්වීමක් හෙට නැවත කැඳවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ab77cf0.json))
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
-## Last 24 Hours (205 Articles)
+* **1** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
+
+## Last 24 Hours (206 Articles)
 
 * **42** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
@@ -36,9 +36,9 @@
 
 * **30** tamil-mirror-lk ([ஊடகவியலாளர்கள் மீதான தாக்குதல்: பிரதமர் கவலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee1dcd64.json))
 
-* **27** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
+* **26** news-first-lk ([IMF hopes for resolution of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61eaaf05.json))
 
-* **23** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
+* **25** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
 
 * **21** ada-lk ([පොහොර නැව භාර ගැනීමෙන් පසු මහින්ද අමරවීරත් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1264f9e3.json))
 
@@ -60,11 +60,11 @@
 
 * **241** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
 
-* **236** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
+* **238** daily-mirror-lk ([SriLankan braces for potential flight cancellations amid jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baa35d86.json))
 
 * **226** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **181** ada-derana-lk ([Immigration & Emigration Dept. expands one-day passport service](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1435cbb.json))
+* **179** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
 * **164** news-first-lk ([Criminal gangster shot dead in shootout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0510874.json))
 
@@ -80,7 +80,7 @@
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,735 Articles)
+## All Time (4,737 Articles)
 
 * **854** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -88,7 +88,7 @@
 
 * **558** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **510** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **512** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **506** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 

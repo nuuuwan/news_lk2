@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Remours-of-troops-heading-to-Galle-Face-are-false-MoD/108-240771",
+    "time_ut": 1657477035,
+    "original_lang": "en",
+    "original_title": "Remours of troops heading to Galle Face are false- MoD",
+    "file_name": "/tmp/news_lk2/articles/a1/a1c6bf4f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Army-responds-to-shooting-at-entrance-of-Presidents-House/108-240770",
+    "time_ut": 1657476632,
+    "original_lang": "en",
+    "original_title": "Army responds to shooting at entrance of President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/68/68ddbf52.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf-\u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-10-\u0baf\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bcd/175-300148",
     "time_ut": 1657475640,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "US envoy, AKD bonhomie to alleviate concerns on American matters",
     "file_name": "/tmp/news_lk2/articles/3b/3b67ecea.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dbd-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0d9c\u0dcf-\u0d9a\u0dc5-\u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-616007",
-    "time_ut": 1657191632,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dbd \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc0\u0d9c\u0dcf \u0d9a\u0dc5 \u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1e/1eca1c60.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/103-indian-train-compartments-not-in-use-copa/",
-    "time_ut": 1657191240,
-    "original_lang": "en",
-    "original_title": "103 Indian train compartments NOT in use \u2013 COPA",
-    "file_name": "/tmp/news_lk2/articles/ae/aee5a307.json"
   }
 ]
