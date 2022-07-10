@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83566/more-than-15-million-litres-of-fuel-released-today-lioc",
+    "time_ut": 1657472160,
+    "original_lang": "en",
+    "original_title": "More than 1.5 million litres of fuel released today - LIOC",
+    "file_name": "/tmp/news_lk2/articles/5b/5bea6c9a.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/10/protestors-handover-recovered-rs-17mn-to-police/",
     "time_ut": 1657469580,
@@ -518,6 +526,14 @@
     "original_lang": "en",
     "original_title": "India remains supportive during SL crisis: Jaishankar",
     "file_name": "/tmp/news_lk2/articles/5e/5e448527.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131204",
+    "time_ut": 1657448826,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0b9a\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bc7 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 - \u0baa\u0bbf\u0bb0\u0b9a\u0ba9\u0bcd\u0ba9 \u0bb0\u0ba3\u0ba4\u0bc1\u0b99\u0bcd\u0b95",
+    "file_name": "/tmp/news_lk2/articles/2d/2d2c44fe.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Court rejects police request against protests near President\u2019s House",
     "file_name": "/tmp/news_lk2/articles/6f/6fdddd02.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83486/court-rejects-police-request-against-protests-in-vicinity-of-presidents-house",
-    "time_ut": 1657190700,
-    "original_lang": "en",
-    "original_title": "Court rejects police request against protests in vicinity of President\u2019s House",
-    "file_name": "/tmp/news_lk2/articles/f5/f5873904.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/private-members-bills-on-elections/",
-    "time_ut": 1657190520,
-    "original_lang": "en",
-    "original_title": "Private Members Bills on Elections",
-    "file_name": "/tmp/news_lk2/articles/0d/0dda7f00.json"
   }
 ]
