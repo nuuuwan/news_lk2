@@ -1,16 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 11:39:31 (LK time)*
+*As of 2022-07-10 11:48:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** lankadeepa-lk ([අයි.එම්.එෆ් වෙතින් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42e3b061.json))
+
 ## Last Hour (5 Articles)
 
-* **2** daily-mirror-lk ([Three arrested over arson attack on PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7433fe21.json))
+* **1** lankadeepa-lk ([අයි.එම්.එෆ් වෙතින් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42e3b061.json))
 
 * **1** ada-lk ([සාකච්ඡා ආරම්භ කරන්න දේශපාලන කැළඹීම විසඳගන්න - IMF](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e7ca754.json))
 
 * **1** ada-derana-lk ([Three arrested for torching PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06d06754.json))
+
+* **1** daily-mirror-lk ([PUCSL to probe power cut on 5th Lane last night](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82c865dd.json))
 
 * **1** virakesari-lk ([இலங்கை நிலவரங்களை உன்னிப்பாக அவதானிக்கின்றோம் - சர்வதேச நாணயநிதியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf3e36.json))
 
@@ -20,25 +26,25 @@
 
 * **6** ada-lk ([පොහොර නැව භාර ගැනීමෙන් පසු මහින්ද අමරවීරත් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1264f9e3.json))
 
+* **4** lankadeepa-lk ([අගමැති රනිල්ගේ නිවෙස ගිනි තිබ්බාට තුනක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5baa3a8d.json))
+
 * **3** ada-derana-lk ([LIOC resumes fuel distribution to filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d991d661.json))
 
 * **3** virakesari-lk ([தீமூட்டுவது சொத்துக்களிற்கு சேதமேற்படுத்துவது அமைதியான ஆர்ப்பாட்டங்களின் நோக்கத்திற்கு பாதிப்பை ஏற்படுத்தும்- இலங்கை சட்டத்தரணிகள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3852f7fb.json))
 
-* **3** tamil-mirror-lk ([தீ வைக்கப்பட்ட பிரதமரின் வீடு தொடர்பில் முக்கிய தகவல்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e380b6d2.json))
-
-* **3** lankadeepa-lk ([අගමැති රනිල්ගේ නිවෙස ගිනි තිබ්බාට තුනක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5baa3a8d.json))
+* **2** tamil-mirror-lk ([லங்கா ஐ.ஓ.சி. நிறுவனம் விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f71a80.json))
 
 * **1** news-first-lk ([IMF hopes for resolution of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61eaaf05.json))
 
-## Last 24 Hours (312 Articles)
+## Last 24 Hours (311 Articles)
 
-* **64** tamil-mirror-lk ([தலைக்கவசத்தை கழற்றி வீசி ஆர்ப்பாட்டத்தில் இணைந்த பொலிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b6f5cc2.json))
+* **62** tamil-mirror-lk ([கொழும்பில் பதற்றம் பலர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87e67cc4.json))
 
 * **43** daily-mirror-lk ([Protestors tear gassed in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc201f5f.json))
 
 * **43** virakesari-lk ([ஜனாதிபதி, பிரதமரை பதவி விலகுமாறு கோரி யாழில் சைக்கிள் பேரணி போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90a1a1f8.json))
 
-* **41** lankadeepa-lk ([ජනඅරගලයට සහාය දක්වා රටපුර විරෝධතා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1db47e12.json))
+* **42** lankadeepa-lk ([ජනඅරගලයට සහාය දක්වා රටපුර විරෝධතා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1db47e12.json))
 
 * **37** ada-lk ([චැතම් වීදිය උණුසුම් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be64f16.json))
 
@@ -54,11 +60,11 @@
 
 * **1** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## Last Week (2,023 Articles)
+## Last Week (2,024 Articles)
 
 * **374** virakesari-lk ([இலங்கையிலிருந்து தமிழ்நாட்டின் தனுஸ்கோடிக்கு அகதியாக சென்ற வயோதிபப் பெண் பரிதாப மரணம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ceaacd3.json))
 
-* **286** lankadeepa-lk ([ජාත්‍යන්තර සහය ලැබෙමින් තිබෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/896cb2a9.json))
+* **287** lankadeepa-lk ([ජාත්‍යන්තර සහය ලැබෙමින් තිබෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/896cb2a9.json))
 
 * **237** daily-mirror-lk ([Another 51 persons attempting to migrate to Australia illegally arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9311cfb1.json))
 
@@ -82,11 +88,11 @@
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,577 Articles)
+## All Time (4,578 Articles)
 
 * **817** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **690** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **691** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **543** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
