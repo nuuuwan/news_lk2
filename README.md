@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 02:24:06 (LK time)*
+*As of 2022-07-11 02:32:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last Hour (1 Articles)
 
-* **6** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
+* **1** daily-ft-lk ([Dragged into the darkness by dictatorship, democracy is  the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2abd1424.json))
 
 ## Last 3 Hours (13 Articles)
 
