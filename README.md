@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 23:41:29 (LK time)*
+*As of 2022-07-10 23:50:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,19 +8,15 @@
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
 * **1** virakesari-lk ([ராஜபக்ஷவினர் வேண்டுகோள் விடுக்கும் பட்சத்தில் இந்திய இராணுவத்தை அனுப்பத் தயார் - சுப்பிரமணியன் சுவாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647cc2f1.json))
 
-* **1** daily-mirror-lk ([India must give military help to Sri Lanka if requested - Swamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6838bdd5.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** news-first-lk ([PM will NOT violate constitution – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/860b5452.json))
-
-* **3** lankadeepa-lk ([අනුප්‍රාප්තික ජනාධිපතිවරයකු ඉක්මනට පත් කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efb89a93.json))
 
 * **2** virakesari-lk ([ஜனாதிபதி மாளிகையிலிருந்து 17 மில்லியன் ரூபாவை மீட்டு  பொலிஸாரிடம் ஒப்படைத்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b203b7c.json))
 
@@ -28,15 +24,17 @@
 
 * **2** ada-derana-lk ([US, EU urges Sri Lankan political parties to cooperate and work quickly to achieve political and economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30e36e4e.json))
 
+* **2** lankadeepa-lk ([පක්ෂ නායක රැස්වීමක් හෙට නැවත කැඳවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ab77cf0.json))
+
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
-## Last 24 Hours (206 Articles)
+## Last 24 Hours (205 Articles)
 
 * **42** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
 * **33** lankadeepa-lk ([නව අගමැති වෙන්න බ්‍රිතාන්‍ය මන්ත්‍රීවරු පොරකති](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/542c0259.json))
 
-* **31** tamil-mirror-lk ([அமைச்சுப் பதவிகளை துறந்த ஹரின் - மனுஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37b2362e.json))
+* **30** tamil-mirror-lk ([ஊடகவியலாளர்கள் மீதான தாக்குதல்: பிரதமர் கவலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee1dcd64.json))
 
 * **27** news-first-lk ([Public support necessary to maintain the peace – General Shavendra Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/8887830c.json))
 
@@ -54,7 +52,7 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,005 Articles)
+## Last Week (2,004 Articles)
 
 * **363** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -72,7 +70,7 @@
 
 * **101** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
 
-* **85** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
+* **84** daily-ft-lk ([A digitalised transparent system of fuel distribution will prevent cities becoming ghost towns](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5882a7.json))
 
 * **51** island-lk ([Airline Pilots and Professionalism](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c174302.json))
 
