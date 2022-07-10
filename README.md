@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 16:59:44 (LK time)*
+*As of 2022-07-10 17:03:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **5** daily-mirror-lk ([EU calls on all parties to focus on a peaceful, democratic transition in SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76fe2228.json))
+* **3** daily-mirror-lk ([Deserted...](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e40d34ed.json))
 
 * **1** lankadeepa-lk ([අගමැති නිවසේ සිද්ධිය සී.අයි.ඩීයට බාරදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/672fd56e.json))
 
 * **1** tamil-mirror-lk ([தீயின் பின்னணியில்  இருப்பவர்களை அம்பலப்படுத்துவோம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cce9031.json))
-
-* **1** ada-derana-lk ([3,700 MT gas shipment arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61635f9f.json))
 
 ## Last Hour (11 Articles)
 
@@ -24,11 +22,11 @@
 
 * **1** ada-derana-lk ([3,700 MT gas shipment arrives in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61635f9f.json))
 
-## Last 3 Hours (36 Articles)
+## Last 3 Hours (35 Articles)
 
 * **8** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
 
-* **8** lankadeepa-lk ([‘‘සාමකාමි බල හුවමාරුවකට යන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a41b7c1d.json))
+* **7** lankadeepa-lk ([පළාත් සභා නැතත් හිටපු ලොක්කන්ට දීමනා තවමත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84ebe83f.json))
 
 * **6** virakesari-lk ([லிட்ரோ எரிவாயு சிலிண்டரின் விலையை மீண்டும் அதிகரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8ef45c5.json))
 
@@ -42,11 +40,11 @@
 
 * **2** economy-next-com ([Sri Lanka has received 3,700 metric tonnes of LP gas; distribution to begin immediately](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/785bab05.json))
 
-## Last 24 Hours (271 Articles)
-
-* **45** virakesari-lk ([அலரிமாளிகைக்குள் புகுந்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eba8a1d.json))
+## Last 24 Hours (270 Articles)
 
 * **44** lankadeepa-lk ([ජනපති - අගමැති ඉල්ලා අස්විය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc5a4001.json))
+
+* **44** virakesari-lk ([கட்சித் தலைவர்கள் கூட்டத்தில் எடுக்கப்பட்ட தீர்மானத்திற்கு மதிப்பளிப்பதாக ஜனாதிபதி தெரிவிப்பு -  பிரதமர் அலுவலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fab7d2d.json))
 
 * **38** tamil-mirror-lk ([வெடி கொளுத்திய கல்முனை வர்த்தகர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a93209a.json))
 
