@@ -1,27 +1,11 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/10/protestors-handover-recovered-rs-17mn-to-police/",
-    "time_ut": 1657469580,
-    "original_lang": "en",
-    "original_title": "Protestors handover recovered Rs. 17Mn to Police",
-    "file_name": "/tmp/news_lk2/articles/a8/a809ff8a.json"
-  },
-  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Bring-those-responsible-before-law-regardless-of-their-status-Karu-Jayasuriya/108-240768",
     "time_ut": 1657469521,
     "original_lang": "en",
     "original_title": "Bring those responsible before law regardless of their status: Karu Jayasuriya",
     "file_name": "/tmp/news_lk2/articles/b3/b3402eaa.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/10/cbsl-extends-amnesty-for-handing-over-dollars-above-limit/",
-    "time_ut": 1657469280,
-    "original_lang": "en",
-    "original_title": "CBSL extends amnesty for handing over Dollars above limit",
-    "file_name": "/tmp/news_lk2/articles/f8/f85fa254.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
