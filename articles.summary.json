@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Struggle-should-go-ahead-until-new-govt-formed-with-new-mandate-JVP/342-240761",
+    "time_ut": 1657452357,
+    "original_lang": "en",
+    "original_title": "Struggle should go ahead until new govt. formed with new mandate: JVP",
+    "file_name": "/tmp/news_lk2/articles/17/1720ae84.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/India-always-stands-with-Sri-Lanka-no-refugee-crisis-at-the-moment-Jaishankar/108-240759",
     "time_ut": 1657451756,
     "original_lang": "en",
@@ -582,6 +590,14 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0dc3\u0dcf\u0db8\u0dba \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/6c/6c1edc7d.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/a-new-era-of-politics-begins-in-sri-lanka/",
+    "time_ut": 1657434748,
+    "original_lang": "en",
+    "original_title": "A New Era Of Politics Begins In Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b2/b266c08d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
