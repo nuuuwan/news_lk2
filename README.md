@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 02:32:48 (LK time)*
+*As of 2022-07-11 02:45:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** daily-ft-lk ([Dragged into the darkness by dictatorship, democracy is  the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2abd1424.json))
-
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
 * **7** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
-* **3** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
-
 * **2** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
+
+* **2** daily-mirror-lk ([Remours of troops heading to Galle Face are false- MoD](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1c6bf4f.json))
 
 * **1** ada-lk ([අරගලයේ ජය සමරන්න ලයිට් කණුවට නැගි පුද්ගලයාගේ මළ සිරුර දුම්රිය මාර්ගයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beef6986.json))
 
