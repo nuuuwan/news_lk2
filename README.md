@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 05:30:21 (LK time)*
+*As of 2022-07-10 05:34:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
 ## Last 3 Hours (1 Articles)
 
@@ -66,7 +62,7 @@
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,522 Articles)
+## All Time (4,523 Articles)
 
 * **811** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -86,7 +82,7 @@
 
 * **210** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
-* **166** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **167** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **67** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
