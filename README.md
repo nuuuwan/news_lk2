@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 14:30:19 (LK time)*
+*As of 2022-07-10 14:39:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **2** lankadeepa-lk ([‘‘සාමකාමි බල හුවමාරුවකට යන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64b0cc9.json))
+* **2** lankadeepa-lk ([පළාත් සභා නැතත් හිටපු ලොක්කන්ට දීමනා තවමත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84ebe83f.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
 
-* **2** lankadeepa-lk ([‘‘සාමකාමි බල හුවමාරුවකට යන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64b0cc9.json))
+* **3** lankadeepa-lk ([‘‘සාමකාමි බල හුවමාරුවකට යන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64b0cc9.json))
 
-## Last 3 Hours (50 Articles)
+## Last 3 Hours (46 Articles)
 
-* **14** virakesari-lk ([ஜனாதிபதி மாளிகையில் போராட்டக்காரர்களால் மீட்கப்பட்ட ஒரு கோடி ரூபா பணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/604b972c.json))
+* **12** virakesari-lk ([இலங்கை ஜனாதிபதியின் மாளிகை பொது குளியலறையாக மாறுகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f0f2f87.json))
 
-* **11** lankadeepa-lk ([අයි.එම්.එෆ් වෙතින් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fa98e8.json))
+* **11** lankadeepa-lk ([ජනපති මැදුරේ තිබූ මුදල් තොගයක් අරගලකරුවෝ පොලිසිය බාර දෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c29c17ac.json))
 
 * **8** ada-lk ([ඇමෙරිකාවෙන් ලංකාව ගැන නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41a13995.json))
 
-* **7** news-first-lk ([Over 100 injured in July 9th Mass Protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4cdf795d.json))
+* **5** news-first-lk ([PM House Fire: Three arrested for arson](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd1fb7c3.json))
 
 * **4** tamil-mirror-lk ([ஜனாதிபதி அதிரடி பணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d131e19.json))
 
@@ -30,17 +30,17 @@
 
 * **1** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
 
-## Last 24 Hours (293 Articles)
+## Last 24 Hours (289 Articles)
 
 * **50** virakesari-lk ([சபாநாயகர் தலைமையில் இன்று மாலை கட்சித் தலைவர் கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1144428c.json))
 
-* **47** tamil-mirror-lk ([கட்சித் தலைவர்கள் கூட்டத்துக்கு மஹிந்த அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82665d95.json))
+* **44** tamil-mirror-lk ([ரணிலை நிராகரித்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfc28b00.json))
 
-* **42** lankadeepa-lk ([රාජිතටත් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ead7b692.json))
+* **43** lankadeepa-lk ([රාජිතටත් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ead7b692.json))
 
-* **42** ada-lk ([ජනපති මන්දිරයත් අරගලකරුවන්ගේ ග්‍රහණයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f983203b.json))
+* **41** ada-lk ([අගමැති පක්ෂ නායක රැස්වීමක් කැඳවයි - පාර්ලිමේන්තුව කැඳවන්නත් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2453ffd1.json))
 
-* **32** daily-mirror-lk ([Who left on these two naval ships?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c61faad4.json))
+* **31** daily-mirror-lk ([People protest outside Carlton House](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adb47817.json))
 
 * **24** ada-derana-lk ([Will respect any decision taken at party leaders’ meeting - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c677e23.json))
 
@@ -56,17 +56,17 @@
 
 * **1** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## Last Week (2,020 Articles)
+## Last Week (2,018 Articles)
 
 * **372** virakesari-lk ([கிளிநொச்சியில் பதுக்கிவைத்திருந்த 31 பரல் எரிபொருள் மீட்பு - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee738332.json))
 
-* **290** lankadeepa-lk ([විමලසුරේද්‍ර ජලාශය වාන් දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b86bb61.json))
+* **289** lankadeepa-lk ([අත්‍යවශ්‍ය මහජන සේවා පනත ලබන බදාදා මැතිසබයේ අනුමැතියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36f92afe.json))
 
 * **234** daily-mirror-lk ([Rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3d9231e.json))
 
 * **232** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
 
-* **229** ada-lk ([CPC සතුව ඇති ඉන්ධන තොග මෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6afc2666.json))
+* **228** ada-lk ([ලබන සතියේ සියලු ම පාසල්වලට නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347a5488.json))
 
 * **180** ada-derana-lk ([Power cut schedule for July 04 and 05 announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ef17499.json))
 
@@ -84,11 +84,11 @@
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,632 Articles)
+## All Time (4,633 Articles)
 
 * **831** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
-* **702** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **703** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **552** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
