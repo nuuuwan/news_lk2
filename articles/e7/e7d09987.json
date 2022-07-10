@@ -1,0 +1,153 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-56-\u0baa\u0bc7\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-300098",
+  "time_ut": 1657394186,
+  "original_lang": "ta",
+  "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 56 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "56 people injured in the protest are in hospital",
+      "author": "unknown",
+      "body_lines": [
+        "56 people who were injured during the demonstration yesterday (09) near the Colombo Fort Presidential Palace are still receiving treatment at the Colombo National Hospital.",
+        "One of them is being treated in the emergency department. Among the injured are 05 women. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "56",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "56",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "09",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Colombo Fort Presidential Palace",
+            "label": "FAC"
+          },
+          {
+            "text": "the Colombo National Hospital",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "One",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 56 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dbb\u0ddd\u0dc4\u0dbd\u0dca\u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba \u0d85\u0dc3\u0dbd \u0d8a\u0dba\u0dda (09) \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 56 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0dbd\u0db6\u0db1\u0dc0\u0dcf.",
+        "\u0d89\u0db1\u0dca \u0d91\u0d9a\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d85\u0d82\u0dc1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0dbd\u0db6\u0db1\u0dc0\u0dcf. \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6\u0dc0\u0db1\u0dca \u0d85\u0dad\u0dbb \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca 05 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0daf \u0dc0\u0db1\u0dc0\u0dcf. (\u0d92)"
+      ],
+      "title_ents": [
+        {
+          "text": "56",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "56",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "09",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 56 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (09) \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 56 \u0baa\u0bc7\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd. \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 05 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd. (a)"
+      ],
+      "title_ents": [
+        {
+          "text": "56",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "56",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "09",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "05",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
