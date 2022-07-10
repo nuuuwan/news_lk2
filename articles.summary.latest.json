@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/India-always-stands-with-Sri-Lanka-no-refugee-crisis-at-the-moment-Jaishankar/108-240759",
+    "time_ut": 1657451756,
+    "original_lang": "en",
+    "original_title": "India always stands with Sri Lanka, no refugee crisis at the moment: Jaishankar",
+    "file_name": "/tmp/news_lk2/articles/bf/bf94bff0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ship-carrying-3-700-metric-tonnes-of-LP-gas-arrives/108-240758",
+    "time_ut": 1657451671,
+    "original_lang": "en",
+    "original_title": "Ship carrying 3,700 metric tonnes of LP gas arrives",
+    "file_name": "/tmp/news_lk2/articles/df/df0053f2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0dd2\u0dc0\u0dc3\u0dda-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3\u0dba\u0da7-\u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2/1-616175",
+    "time_ut": 1657451519,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db1\u0dd2\u0dc0\u0dc3\u0dda \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba \u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3\u0dba\u0da7 \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/67/672fd56e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd/175-300124",
+    "time_ut": 1657451192,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc0\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd  \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0c/0cce9031.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Deserted/110-240757",
+    "time_ut": 1657451055,
+    "original_lang": "en",
+    "original_title": "Deserted...",
+    "file_name": "/tmp/news_lk2/articles/c1/c18c1de5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Muslims-gather-for-Eid-al-Adha/110-240756",
+    "time_ut": 1657450946,
+    "original_lang": "en",
+    "original_title": "Muslims gather for Eid al-Adha",
+    "file_name": "/tmp/news_lk2/articles/40/40136d7e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/EU-calls-on-all-parties-to-focus-on-a-peaceful-democratic-transition-in-SL/108-240755",
+    "time_ut": 1657450917,
+    "original_lang": "en",
+    "original_title": "EU calls on all parties to focus on a peaceful, democratic transition in SL",
+    "file_name": "/tmp/news_lk2/articles/76/76fe2228.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83560/3700-mt-gas-shipment-arrives-in-sri-lanka",
     "time_ut": 1657450800,
@@ -62,6 +118,14 @@
     "original_lang": "en",
     "original_title": "BASL condemns attacks on journalists, & calls for action against police officers for attacks",
     "file_name": "/tmp/news_lk2/articles/df/dfcc25aa.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dbd-\u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1---\u0db1\u0dd3\u0dad\u0dd2\u0da5-\u0dc3\u0d82\u0d9c\u0db8\u0dba/11-395299",
+    "time_ut": 1657448157,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dbd \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 - \u0db1\u0dd3\u0dad\u0dd2\u0da5 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+    "file_name": "/tmp/news_lk2/articles/e8/e8fbb39e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -841,6 +905,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0db8\u0dc4\u0dcf-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dca/101-616156",
+    "time_ut": 1657424032,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0db8\u0dc4\u0dcf \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/97/973f004c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd2\u0db6\u0dca\u0db6\u0dcf\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-616155",
     "time_ut": 1657423782,
     "original_lang": "si",
@@ -1137,11 +1209,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da2\u0dd6\u0dbd\u0dd2-13-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca-\u0dc0\u0dda/1-616147",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da2\u0dd6\u0dbd\u0dd2-13-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca-\u0dc0\u0dda/101-616147",
     "time_ut": 1657386251,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0dd6\u0dbd\u0dd2 13 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca \u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/f6/f6188ad8.json"
+    "file_name": "/tmp/news_lk2/articles/5f/5f99f9d1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s headline inflation projected to hit 70% in coming months",
     "file_name": "/tmp/news_lk2/articles/94/94b38260.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130960",
-    "time_ut": 1657175832,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0baa\u0bc1\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0\u0bae\u0bcd : \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0b9f\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/99/99bee405.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca---\u0db8\u0dbb\u0daf\u0dcf\u0db1\u0dd9\u0db1\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/1-615990",
-    "time_ut": 1657175663,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca - \u0db8\u0dbb\u0daf\u0dcf\u0db1\u0dd9\u0db1\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6e/6e6e1e8e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a-\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf-\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0dbb\u0dd6\u0d9a\u0da9\u0dba\u0d9a\u0dca/11-395189",
-    "time_ut": 1657175591,
-    "original_lang": "si",
-    "original_title": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca\u0d9c\u0dda \u0dbb\u0dd6\u0d9a\u0da9\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c0/c0e6cab9.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130974",
-    "time_ut": 1657175514,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd 70 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d0/d0de4b2e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7/11-395188",
-    "time_ut": 1657175422,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7",
-    "file_name": "/tmp/news_lk2/articles/0d/0d50fb43.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-edge-down-in-mid-day-trade-97070/",
-    "time_ut": 1657175340,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares edge down in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/0b/0b0d19aa.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-ceb-price-hike-delayed-affecting-cpc-and-monetary-policy-cb-governor-97071/",
-    "time_ut": 1657175220,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s CEB price hike delayed, affecting CPC and monetary policy: CB Governor",
-    "file_name": "/tmp/news_lk2/articles/7c/7c3ca2d6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Two-arrested-with-fags-720-bottles-of-foreign-liquor-4-700-kg-of-turmeric/108-240531",
-    "time_ut": 1657174899,
-    "original_lang": "en",
-    "original_title": "Two arrested with fags, 720 bottles of foreign liquor, 4,700 kg of turmeric",
-    "file_name": "/tmp/news_lk2/articles/cf/cfb81682.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0d82\u0da2\u0dba\u0da7-\u0dc3\u0dc4-\u0dc0\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca\u0dc3\u0dda\u0da7-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca/11-395187",
-    "time_ut": 1657174794,
-    "original_lang": "si",
-    "original_title": "\u0db0\u0db1\u0d82\u0da2\u0dba\u0da7 \u0dc3\u0dc4 \u0dc0\u0dd0\u0db1\u0dca\u0da9\u0dbb\u0dca\u0dc3\u0dda\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ff/ff497973.json"
   }
 ]
