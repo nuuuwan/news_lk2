@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83551/amaraweera-to-vacate-his-ministerial-portfolios",
+    "time_ut": 1657421220,
+    "original_lang": "en",
+    "original_title": "Amaraweera to vacate his ministerial portfolios",
+    "file_name": "/tmp/news_lk2/articles/62/628f6cca.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83550/gen-shavendra-silva-calls-for-public-support-to-maintain-peace",
+    "time_ut": 1657419120,
+    "original_lang": "en",
+    "original_title": "Gen. Shavendra Silva calls for public support to maintain peace",
+    "file_name": "/tmp/news_lk2/articles/ed/edad0fda.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83549/spells-of-showers-expected-in-some-areas-today",
+    "time_ut": 1657418760,
+    "original_lang": "en",
+    "original_title": "Spells of showers expected in some areas today",
+    "file_name": "/tmp/news_lk2/articles/ec/ec7b6a8a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0-\u0dc3\u0db8\u0d9f-\u0dc4\u0dd0\u0db4\u0dca\u0db4\u0dd2\u0dbd\u0dcf-\u0daf\u0dd2\u0db1\u0db1\u0dca\u0db1-\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca-\u0db6\u0dd1/1-616150",
+    "time_ut": 1657417053,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc3\u0db8\u0d9f \u0dc4\u0dd0\u0db4\u0dca\u0db4\u0dd2\u0dbd\u0dcf \u0daf\u0dd2\u0db1\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0db6\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/6b/6b850e93.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca--\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0db1\u0dd9\u0dbb\u0db4\u0dba\u0dd2/1-616149",
+    "time_ut": 1657416934,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca  \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0db1\u0dd9\u0dbb\u0db4\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9a/9a37c0fe.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4-\u0db4\u0ddc\u0dbb\u0d9a\u0dad\u0dd2/1-616148",
+    "time_ut": 1657416816,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4 \u0db4\u0ddc\u0dbb\u0d9a\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/54/542c0259.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131182",
     "time_ut": 1657414174,
@@ -257,11 +305,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dba\u0dd2/101-616146",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dba\u0dd2/1-616146",
     "time_ut": 1657383107,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1c/1caa87fb.json"
+    "file_name": "/tmp/news_lk2/articles/97/973f0102.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "FR challenging presidential pardon given to Sunil Ratnayake fixed for support",
     "file_name": "/tmp/news_lk2/articles/e7/e758bcc5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba-\u0d85\u0dc0\u0dc3\u0db1\u0dca/1-615966",
-    "time_ut": 1657117665,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1b/1bb470d3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Some-private-bus-operators-indulge-in-diesel-pilferage/342-240474",
-    "time_ut": 1657117634,
-    "original_lang": "en",
-    "original_title": "Some private bus operators indulge in diesel pilferage",
-    "file_name": "/tmp/news_lk2/articles/69/692977a9.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/of-that-presidential-monkey-wrench/",
-    "time_ut": 1657117020,
-    "original_lang": "en",
-    "original_title": "Of that presidential monkey wrench",
-    "file_name": "/tmp/news_lk2/articles/22/226f5dc2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/brics-emerging-as-strong-rival-to-g7/",
-    "time_ut": 1657116960,
-    "original_lang": "en",
-    "original_title": "BRICS emerging as strong rival to G7",
-    "file_name": "/tmp/news_lk2/articles/68/682e122d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hope-and-political-changeno-more-appachis-to-the-rescue/",
-    "time_ut": 1657116780,
-    "original_lang": "en",
-    "original_title": "Hope and political change:No more Appachis to the rescue",
-    "file_name": "/tmp/news_lk2/articles/0a/0a62c54c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba-\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0daf\u0dd9\u0dc3\u0da7-\u0d91\u0dbd\u0dca\u0dbd-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-395175",
-    "time_ut": 1657116016,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0daf\u0dd9\u0dc3\u0da7 \u0d91\u0dbd\u0dca\u0dbd \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/28/286ffbcc.json"
   }
 ]
