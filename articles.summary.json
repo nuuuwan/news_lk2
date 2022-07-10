@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/protestors-handover-recovered-rs-17mn-to-police/",
+    "time_ut": 1657469580,
+    "original_lang": "en",
+    "original_title": "Protestors handover recovered Rs. 17Mn to Police",
+    "file_name": "/tmp/news_lk2/articles/a8/a809ff8a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/10/protestors-in-sri-lanka-find-then-return-millions-of-rupees-in-cash/",
     "time_ut": 1657469580,
     "original_lang": "en",
