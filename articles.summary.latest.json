@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-victory-of-Aragalaya-What-actually-happened-to-Gota-and-Ranil/4-737302",
+    "time_ut": 1657482110,
+    "original_lang": "en",
+    "original_title": "The victory of Aragalaya: What actually happened to Gota and Ranil?",
+    "file_name": "/tmp/news_lk2/articles/b5/b57244d0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83568/pope-tells-leaders-of-sri-lanka-not-to-ignore-needs-of-the-people",
     "time_ut": 1657479720,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a\u0dc0 \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/e3/e3bcbc07.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83487/exclusive-fuel-arrangements-for-healthcare-workers-to-be-deferred",
-    "time_ut": 1657192500,
-    "original_lang": "en",
-    "original_title": "Exclusive fuel arrangements for healthcare workers to be deferred",
-    "file_name": "/tmp/news_lk2/articles/bb/bbc64376.json"
   }
 ]
