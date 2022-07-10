@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 00:11:27 (LK time)*
+*As of 2022-07-11 00:24:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
-
-* **1** daily-mirror-lk ([Remours of troops heading to Galle Face are false- MoD](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33cdae69.json))
-
-* **1** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
-
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **2** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
 
 * **1** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
 
-* **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (11 Articles)
 
 * **4** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
 
@@ -26,11 +18,9 @@
 
 * **2** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
 
-* **2** virakesari-lk ([ஜனாதிபதி மாளிகையிலிருந்து 17 மில்லியன் ரூபாவை மீட்டு  பொலிஸாரிடம் ஒப்படைத்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b203b7c.json))
-
-* **2** lankadeepa-lk ([පක්ෂ නායක රැස්වීමක් හෙට නැවත කැඳවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ab77cf0.json))
-
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
+
+* **1** virakesari-lk ([ராஜபக்ஷவினர் வேண்டுகோள் விடுக்கும் பட்சத்தில் இந்திய இராணுவத்தை அனுப்பத் தயார் - சுப்பிரமணியன் சுவாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647cc2f1.json))
 
 ## Last 24 Hours (204 Articles)
 
