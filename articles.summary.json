@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/India-must-give-military-help-to-Sri-Lanka-if-requested-Swamy/108-240769",
+    "time_ut": 1657473551,
+    "original_lang": "en",
+    "original_title": "India must give military help to Sri Lanka if requested - Swamy",
+    "file_name": "/tmp/news_lk2/articles/68/6838bdd5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83566/more-than-15-million-litres-of-fuel-released-today-lioc",
     "time_ut": 1657472160,
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Bring-those-responsible-before-law-regardless-of-their-status-Karu-Jayasuriya/108-240768",
+    "url": "https://www.dailymirror.lk/latest_news/Bring-those-responsible-before-law-regardless-of-their-status-Karu-Jayasuriya/342-240768",
     "time_ut": 1657469521,
     "original_lang": "en",
     "original_title": "Bring those responsible before law regardless of their status: Karu Jayasuriya",
-    "file_name": "/tmp/news_lk2/articles/b3/b3402eaa.json"
+    "file_name": "/tmp/news_lk2/articles/19/193f5ea2.json"
   },
   {
     "newspaper_id": "news-first-lk",
