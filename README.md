@@ -1,38 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 22:04:50 (LK time)*
+*As of 2022-07-10 22:16:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (3 Articles)
+
+* **2** news-first-lk ([CBSL extends amnesty for handing over Dollars above limit](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f85fa254.json))
 
 * **1** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3402eaa.json))
 
-## Last Hour (5 Articles)
-
-* **2** lankadeepa-lk ([පක්ෂ නායක රැස්වීමක් හෙට නැවත කැඳවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ab77cf0.json))
-
-* **1** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3402eaa.json))
-
-* **1** virakesari-lk ([ஜனாதிபதி மாளிகையிலிருந்து 17 மில்லியன் ரூபாவை மீட்டு  பொலிஸாரிடம் ஒப்படைத்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b203b7c.json))
-
-* **1** news-first-lk ([PM will NOT violate constitution – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/860b5452.json))
-
-## Last 3 Hours (29 Articles)
+## Last 3 Hours (30 Articles)
 
 * **10** virakesari-lk ([ஜனாதிபதி, பிரதமர் பதவி விலகும் வரை எந்தவொரு கட்டடத்திலிருந்தும் வெளியேறப் போவதில்லை  : காலி முகத்திடல் ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bca7dfad.json))
 
-* **7** tamil-mirror-lk ([கண்ணாடிப் பெட்டிகள் இனி காற்று வாங்கும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cbd65cd.json))
+* **6** news-first-lk ([Attack on Journalists: Prosecute under Torture Act](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d260aa0a.json))
+
+* **6** tamil-mirror-lk ([‘இலங்கை மக்களுடன் இந்தியா நிற்கிறது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/349949b9.json))
 
 * **5** lankadeepa-lk ([දුම්රිය ගාස්තු ඉහළ දැමීම කල්දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/5838a0f7.json))
-
-* **4** news-first-lk ([Attack on Journalists: Prosecute under Torture Act](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d260aa0a.json))
 
 * **2** daily-mirror-lk ([Pope Francis appeals for peace for SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29458979.json))
 
 * **1** ada-derana-lk ([US, EU urges Sri Lankan political parties to cooperate and work quickly to achieve political and economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30e36e4e.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (216 Articles)
 
 * **41** virakesari-lk ([பதவியை இராஜிநாமா செய்வதாக அறிவித்தார் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f73629e9.json))
 
@@ -40,9 +32,9 @@
 
 * **32** tamil-mirror-lk ([ஜனாதிபதி கோட்டாவின்  தீர்மானம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8c1430a.json))
 
-* **26** daily-mirror-lk ([Sri Lanka reach 184 for 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3f0f877.json))
+* **27** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
 
-* **25** news-first-lk ([BREAKING: President to step down on 13th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d4bf4bb.json))
+* **25** daily-mirror-lk ([President to resign on Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec8f0de3.json))
 
 * **25** ada-lk ([ජනපති 13 දා ධුරයෙන් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb982c0c.json))
 
@@ -56,9 +48,9 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,009 Articles)
+## Last Week (2,008 Articles)
 
-* **363** virakesari-lk ([யாழில் டீசலை பதுக்கி வைத்து அதிக விலைக்கு விற்பனை செய்த ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21f2d62f.json))
+* **362** virakesari-lk ([22 ஐ நிறைவேற்ற ஒத்துழைக்காவிட்டால் நாடு மேலும் அராஜக நிலைக்குச் செல்லும் - அமைச்சர் விஜேதாச ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/8910c1d7.json))
 
 * **288** lankadeepa-lk ([බෙම්මුල්ලේ වෙඩි තැබීමකින් කොළඹ වෙඩික්කරු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c97fd20.json))
 
@@ -66,13 +58,13 @@
 
 * **236** daily-mirror-lk ([Elephant reportedly not seriously injured – officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e340f5d3.json))
 
-* **227** ada-lk ([දැන් ඉන්ධනහල් පාලනය කරන්නේ පාතාලයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bf1c8e.json))
+* **226** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
 * **182** ada-derana-lk ([Australia scraps Covid-19 vaccine requirement for international travellers](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a68cf34.json))
 
-* **161** news-first-lk ([Criminal gangster shot dead in shootout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0510874.json))
+* **163** news-first-lk ([Criminal gangster shot dead in shootout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0510874.json))
 
-* **105** economy-next-com ([Sri Lanka’s Tea exports to Ukraine drops 55-pct from Jan-May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e1cb38a.json))
+* **104** economy-next-com ([Sri has announces a week-long school holiday in face of a fuel crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e398531d.json))
 
 * **85** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
@@ -84,7 +76,7 @@
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,727 Articles)
+## All Time (4,729 Articles)
 
 * **852** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -98,7 +90,7 @@
 
 * **393** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
-* **388** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
+* **390** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
 * **239** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 

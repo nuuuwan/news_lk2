@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/protestors-in-sri-lanka-find-then-return-millions-of-rupees-in-cash/",
+    "time_ut": 1657469580,
+    "original_lang": "en",
+    "original_title": "Protestors in Sri Lanka find, then return, millions of Rupees in Cash",
+    "file_name": "/tmp/news_lk2/articles/e9/e9d1438f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Bring-those-responsible-before-law-regardless-of-their-status-Karu-Jayasuriya/108-240768",
     "time_ut": 1657469521,
     "original_lang": "en",
     "original_title": "Bring those responsible before law regardless of their status: Karu Jayasuriya",
     "file_name": "/tmp/news_lk2/articles/b3/b3402eaa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/cbsl-extends-amnesty-for-handing-over-dollars-above-limit/",
+    "time_ut": 1657469280,
+    "original_lang": "en",
+    "original_title": "CBSL extends amnesty for handing over Dollars above limit",
+    "file_name": "/tmp/news_lk2/articles/f8/f85fa254.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
