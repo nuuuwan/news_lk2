@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0dd2\u0db6\u0dca\u0db6\u0dcf\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-616155",
+    "time_ut": 1657423782,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dc0\u0dd9\u0dc3 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd2\u0db6\u0dca\u0db6\u0dcf\u0da7 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/5b/5baa3a8d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc0-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd/175-300106",
+    "time_ut": 1657423046,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc0 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e3/e380b6d2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bc1-\u0b95\u0bc1\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf-\u0b85\u0bb1\u0bc8/175-300105",
+    "time_ut": 1657422112,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd, \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf \u0b85\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/d8/d8081e3f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe\u0b9a\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4-\u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0/175-300104",
+    "time_ut": 1657422020,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/85/85b396e1.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83551/amaraweera-to-vacate-his-ministerial-portfolios",
     "time_ut": 1657421220,
     "original_lang": "en",
     "original_title": "Amaraweera to vacate his ministerial portfolios",
     "file_name": "/tmp/news_lk2/articles/62/628f6cca.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-9-\u0b86\u0bae\u0bcd-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-300103",
+    "time_ut": 1657420563,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd 9 \u0b86\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/76/7646f35a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300102",
+    "time_ut": 1657419604,
+    "original_lang": "ta",
+    "original_title": "\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/74/7456ddaa.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -166,6 +214,14 @@
     "original_lang": "en",
     "original_title": "Harin and Manusha step down as cabinet ministers",
     "file_name": "/tmp/news_lk2/articles/22/227b17d5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dbb\u0dd3\u0db1\u0dca-\u0dc4\u0dcf-\u0db8\u0db1\u0dd6\u0dc2\u0dad\u0dca-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dad\u0dd2/11-395278",
+    "time_ut": 1657389065,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0dcf \u0db8\u0db1\u0dd6\u0dc2\u0dad\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/70/7078efdf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2960,6 +3016,14 @@
     "file_name": "/tmp/news_lk2/articles/72/722c9e59.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78477",
+    "time_ut": 1657313520,
+    "original_lang": "en",
+    "original_title": "Saturday\u2019s events also reflect the humiliation of the Rajapaksa Security State, the apparatus so carefully built up by the Rajapaksa family in the longest political project in the nation\u2019s history.",
+    "file_name": "/tmp/news_lk2/articles/9c/9cc405cc.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-cry-of-Sri-Lankas-people-Give-us-a-Mandela/172-240664",
     "time_ut": 1657313434,
@@ -3040,6 +3104,14 @@
     "file_name": "/tmp/news_lk2/articles/dd/dd37c9d5.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78473",
+    "time_ut": 1657308420,
+    "original_lang": "en",
+    "original_title": "President  Gotabaya Rajapaksa Informs Speaker  he will step down from his post on Wednesda  July 13 while Premier   Ranil Wickremesinghe  tells  party leaders that he is willing to resign as Prime Minister and make way for an all-party government to take over.",
+    "file_name": "/tmp/news_lk2/articles/cc/cc19a0aa.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Kitchen-Bedroom-commended-for-interior-excellence-at-Laya-Leisure/34-737261",
     "time_ut": 1657308390,
@@ -3102,6 +3174,14 @@
     "original_lang": "en",
     "original_title": "Church of Ceylon calls for President and Prime Minister to resign",
     "file_name": "/tmp/news_lk2/articles/77/778d327f.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78480",
+    "time_ut": 1657307880,
+    "original_lang": "en",
+    "original_title": "Mob   Setting  Premier Wickremesinghe\u2019s Private Residence On Fire Prevents   Takes Over Fire Engine  Preventing Firemen from Dousing Blaze; Six Media Persons Attached to Sirasa TV   Assaulted by STF at 5th Lane Premisesh  hospitalised",
+    "file_name": "/tmp/news_lk2/articles/99/9907b80d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -3168,6 +3248,14 @@
     "file_name": "/tmp/news_lk2/articles/03/031431c3.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78486",
+    "time_ut": 1657307160,
+    "original_lang": "en",
+    "original_title": "Protesters Enjoy Themselves at President\u2019s House in Fort after Gota\u2019s Evacuation; Dancing Under Chandeliers, Cooking in the Kitchen, Taking Selfies everywhere and Relaxing in the Garden;Grand Party Organized  after nighfall",
+    "file_name": "/tmp/news_lk2/articles/4b/4b787815.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-299997",
     "time_ut": 1657307116,
@@ -3184,12 +3272,28 @@
     "file_name": "/tmp/news_lk2/articles/4e/4e3d198c.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78484",
+    "time_ut": 1657306800,
+    "original_lang": "en",
+    "original_title": "Thousands of protesters continue to occupy the President\u2019s House, the Presidential Secretariat and Temple Trees at  night after breaking into them earlier in the day demanding the immediate resignation of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe",
+    "file_name": "/tmp/news_lk2/articles/b5/b562a698.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9-\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0b95\u0bb2-\u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd/175-299995",
     "time_ut": 1657306640,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9: \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0b95\u0bb2 \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/9d/9d4589ac.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78476",
+    "time_ut": 1657306620,
+    "original_lang": "en",
+    "original_title": "At least 55 Persons Injured During Confrontation in Fort at President\u2019s House Between Public and Security Personnel;3 Civilans Undergo Surgery at Colombo National Hospital for Gunshot Injuries. SJB MP\u2019s Rajitha  Senaratne and Suresh  Vadivale Manhandled by Protesters",
+    "file_name": "/tmp/news_lk2/articles/d6/d6577a82.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7894,109 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 33 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bae\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0ba4\u0bca\u0ba9\u0bcd \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 ; \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/da/dac04f05.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130934",
-    "time_ut": 1657121757,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bb2\u0bc1\u0bb5\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd - \u0ba4\u0bc1\u0bb7\u0bbe\u0bb0 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1\u0ba9\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/64/6474a7e0.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130947",
-    "time_ut": 1657120851,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb0\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0b9a\u0bbf \u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u00a0 - \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8, \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bb0\u0bc1\u0b95\u0bc7 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/32/327c8a51.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130936",
-    "time_ut": 1657120123,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bc8\u0baf \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bb0\u0bb5\u0bc1 - \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0bb9\u0ba9\u0bbe \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb0\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/de/ded5e42e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/far-from-ukraine-sri-lanka-is-the-epicenter-of-a-global-crisis/",
-    "time_ut": 1657120020,
-    "original_lang": "en",
-    "original_title": "Far from Ukraine, Sri Lanka is the epicenter of a global crisis",
-    "file_name": "/tmp/news_lk2/articles/39/39cdf1c8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130938",
-    "time_ut": 1657119992,
-    "original_lang": "ta",
-    "original_title": "\u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0baf\u0bc7 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd - \u0b9f\u0bbf\u0baf\u0bc2 \u0b95\u0bc1\u0ba3\u0b9a\u0bc7\u0b95\u0bb0",
-    "file_name": "/tmp/news_lk2/articles/ad/ad6c74f8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130939",
-    "time_ut": 1657119846,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4 \u0ba8\u0b95\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/fc/fc530cbd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130940",
-    "time_ut": 1657119694,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc7 \u0b9a\u0b95\u0bb2 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0bbe\u0ba3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd - \u0bb0\u0bbe\u0b9c\u0bbf\u0ba4",
-    "file_name": "/tmp/news_lk2/articles/a9/a9a17c75.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Only-50-trains-operated-today-Station-Masters-Union/108-240477",
-    "time_ut": 1657119404,
-    "original_lang": "en",
-    "original_title": "Only 50 trains operated today: Station Masters\u2019 Union",
-    "file_name": "/tmp/news_lk2/articles/86/8644f1e6.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130941",
-    "time_ut": 1657119314,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/35/3534c2a9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/06/strong-winds-likely-tonight-6/",
-    "time_ut": 1657119180,
-    "original_lang": "en",
-    "original_title": "Strong winds likely tonight (6)",
-    "file_name": "/tmp/news_lk2/articles/af/af220883.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/130942",
-    "time_ut": 1657119157,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0bb9\u0bbe\u0b9f\u0bcd\u0bb2\u0bbf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf  \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/db/db518c19.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/India-should-allow-star-players-to-take-part-in-T20-leagues-overseas-Aravinda/108-240476",
-    "time_ut": 1657118640,
-    "original_lang": "en",
-    "original_title": "India should allow star players to take part in T20 leagues overseas: Aravinda",
-    "file_name": "/tmp/news_lk2/articles/a8/a80c76df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/FR-challenging-presidential-pardon-given-to-Sunil-Ratnayake-fixed-for-support/108-240475",
-    "time_ut": 1657117954,
-    "original_lang": "en",
-    "original_title": "FR challenging presidential pardon given to Sunil Ratnayake fixed for support",
-    "file_name": "/tmp/news_lk2/articles/e7/e758bcc5.json"
   }
 ]
