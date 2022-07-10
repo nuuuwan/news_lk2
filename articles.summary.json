@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dragged-into-the-darkness-by-dictatorship-democracy-is-the-only-way-out-into-the-light/4-737328",
+    "time_ut": 1657484053,
+    "original_lang": "en",
+    "original_title": "Dragged into the darkness by dictatorship, democracy is  the only way out into the light",
+    "file_name": "/tmp/news_lk2/articles/2a/2abd1424.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/CID-takes-over-investigation-into-arson-attack-on-PM-s-residence/56-737319",
     "time_ut": 1657483313,
     "original_lang": "en",
