@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 19:40:00 (LK time)*
+*As of 2022-07-10 19:47:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **2** virakesari-lk ([ஜனாதிபதி, பிரதமர் பதவி விலகும் வரை எந்தவொரு கட்டடத்திலிருந்தும் வெளியேறப் போவதில்லை  : காலி முகத்திடல் ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bca7dfad.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** tamil-mirror-lk ([‘இலங்கை மக்களுடன் இந்தியா நிற்கிறது’](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/349949b9.json))
+
+* **1** virakesari-lk ([பண்டாரகம பகுதியில் எரிபொருளை பதுக்கி வைத்திருந்த இருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c6e0cc.json))
 
 ## Last Hour (5 Articles)
 
@@ -16,7 +16,7 @@
 
 * **2** tamil-mirror-lk ([கண்ணாடிப் பெட்டிகள் இனி காற்று வாங்கும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cbd65cd.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (22 Articles)
 
 * **5** tamil-mirror-lk ([இரண்டாவது டெஸ்டில் முன்னிலையில் இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5e8a887.json))
 
@@ -24,13 +24,13 @@
 
 * **4** ada-derana-lk ([Sonia Gandhi expresses solidarity with Sri Lanka, hopes India will continue to assist](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b527f98.json))
 
-* **4** daily-mirror-lk ([Ship carrying 3,700 metric tonnes of LP gas arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad39845e.json))
-
 * **4** news-first-lk ([(VIDEO) Journalists attacked during Live Prime Time News](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db71e8a6.json))
 
-* **3** lankadeepa-lk ([අගමැති නිවසේ සිද්ධිය සී.අයි.ඩීයට බාරදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/672fd56e.json))
+* **2** daily-mirror-lk ([Struggle should go ahead until new govt. formed with new mandate: JVP](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/1720ae84.json))
 
-## Last 24 Hours (238 Articles)
+* **2** lankadeepa-lk ([ලංකාව අර්බුදයෙන් ගොඩගන්න ජාත්‍යන්තර සහාය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0041c4c9.json))
+
+## Last 24 Hours (236 Articles)
 
 * **41** virakesari-lk ([ஜனாதிபதி,  பிரதமர் அரசாங்கத்திற்கு எதிராக வவுனியாவிலும் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/098c7c2b.json))
 
@@ -38,7 +38,7 @@
 
 * **34** tamil-mirror-lk ([ஊடகவியலாளர்கள் நால்வர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43bd35b9.json))
 
-* **31** ada-lk ([මුළු රටම ආවරණය වන අයුරින් ඉන්ධන බෙදා හැරිම මේ සතියේදි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f61f042.json))
+* **30** ada-lk ([ජනපති ධුරයෙන් යන්න සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/566754a6.json))
 
 * **28** daily-mirror-lk ([Aragalaya takes over!](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be69859.json))
 
@@ -52,17 +52,17 @@
 
 * **4** daily-ft-lk ([PM’s private residence in flames](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/150306c2.json))
 
-* **4** island-lk ([Ashok Ferrey wins 2021 Gratiaen Prize for creative writing](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc933645.json))
+* **3** island-lk ([Aragalaya 2.0: What of it?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5dbd60f.json))
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,008 Articles)
+## Last Week (2,005 Articles)
 
-* **370** virakesari-lk ([எரிபொருள் கையிருப்பு குறித்து எரிசக்தி அமைச்சர் காஞ்சன வெளியிட்டுள்ள தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f50b1d21.json))
+* **368** virakesari-lk ([அறிவிக்கப்படாத  முடக்கத்தில்  இலங்கை…!](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d237b16.json))
 
 * **283** lankadeepa-lk ([මාගම්මන ගින්නේ සහ හැවිරිදි දියණියත් මියයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f252dbb6.json))
 
-* **237** daily-mirror-lk ([Yupun first Sri Lankan to run 100m under 10 seconds](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0111fab.json))
+* **236** daily-mirror-lk ([Vidyartha shock fancied St. Peter’s 11-07](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c84f0a61.json))
 
 * **235** tamil-mirror-lk ([மின்வெட்டு தொடர்பில் வெளியான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a0d5dde.json))
 
