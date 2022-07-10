@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 04:43:19 (LK time)*
+*As of 2022-07-11 05:01:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
+## Last 24 Hours (215 Articles)
 
-* **1** daily-ft-lk ([Dragged into the darkness by dictatorship, democracy is  the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2abd1424.json))
-
-## Last 24 Hours (214 Articles)
-
-* **44** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
+* **45** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
 * **33** lankadeepa-lk ([නව අගමැති වෙන්න බ්‍රිතාන්‍ය මන්ත්‍රීවරු පොරකති](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/542c0259.json))
 
@@ -32,9 +28,9 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,008 Articles)
+## Last Week (2,010 Articles)
 
-* **365** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
+* **366** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
 * **288** lankadeepa-lk ([බෙම්මුල්ලේ වෙඩි තැබීමකින් කොළඹ වෙඩික්කරු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c97fd20.json))
 
@@ -54,15 +50,15 @@
 
 * **50** island-lk ([Special birthday celebrations …on July 13th](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8a4c2cc.json))
 
-* **32** d-b-s-jeyaraj-com ([The last two and a half years is ample proof of the abysmal failure of the individual, Gotabaya Rajapaksa and the institution of the executive presidency. If there is to be any hope of economic recovery and moving forward from this current predicament, both the president and the presidency must go.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f863f61b.json))
+* **33** d-b-s-jeyaraj-com ([The last two and a half years is ample proof of the abysmal failure of the individual, Gotabaya Rajapaksa and the institution of the executive presidency. If there is to be any hope of economic recovery and moving forward from this current predicament, both the president and the presidency must go.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f863f61b.json))
 
 * **23** b-b-c-com-sinhala ([තීව්‍ර උද්ධමනය හමුවේ රුපියලේ පිළිගැනීම නැතිවෙයි ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c5a8901.json))
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,757 Articles)
+## All Time (4,759 Articles)
 
-* **856** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **857** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **718** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +78,7 @@
 
 * **167** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **80** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
+* **81** d-b-s-jeyaraj-com ([Why Cant Pemier Wickremesinghe Appoint Environment Minister Nazeer hamed as Special Envoy to Seek Much Needed Fel From Oil Rich Middle Estern Countres?](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0fae1a67.json))
 
 * **57** colombo-telegraph-com ([UN Body Condemns Sri Lanka’s Criminalization Of Same-Sex Acts: Landmark Case Highlights ‘Sodomy’ Law’s Impact On Women](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb2c642a.json))
 
