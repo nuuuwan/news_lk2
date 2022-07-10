@@ -576,6 +576,14 @@
     "file_name": "/tmp/news_lk2/articles/6a/6a347f13.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0-\u0dc4\u0dd9\u0da7-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395300",
+    "time_ut": 1657450197,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0 \u0dc4\u0dd9\u0da7 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e5/e53a8f59.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/10/medicine-teachers-urge-president-pm-to-hand-over-official-resignations/",
     "time_ut": 1657450140,
