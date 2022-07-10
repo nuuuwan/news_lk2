@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 03:58:25 (LK time)*
+*As of 2022-07-11 04:11:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
 * **7** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
-
-* **1** ada-lk ([අරගලයේ ජය සමරන්න ලයිට් කණුවට නැගි පුද්ගලයාගේ මළ සිරුර දුම්රිය මාර්ගයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beef6986.json))
 
 ## Last 24 Hours (215 Articles)
 
