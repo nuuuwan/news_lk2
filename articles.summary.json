@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131182",
+    "time_ut": 1657414174,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/bd/bd031236.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131181",
     "time_ut": 1657413149,
     "original_lang": "ta",
@@ -3056,6 +3064,14 @@
     "file_name": "/tmp/news_lk2/articles/7a/7a9bc637.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78464",
+    "time_ut": 1657307700,
+    "original_lang": "en",
+    "original_title": "Prime  Minister Ranil Wickremesinghe\u2019s Private Residence at 5th Lane Kollupitiya  Set on Fire by Protesters after Violent Clash with Police; CMC Fire Brigade Unable to Reach Spot on Time to Douse the Blaze due to Prevailing Unrest",
+    "file_name": "/tmp/news_lk2/articles/e3/e3fea449.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Women-Parliamentarians-Caucus-makes-special-appeal/56-737254",
     "time_ut": 1657307649,
@@ -3142,6 +3158,14 @@
     "original_lang": "en",
     "original_title": "Lionising the Lion City",
     "file_name": "/tmp/news_lk2/articles/ff/ffa87461.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78467",
+    "time_ut": 1657305000,
+    "original_lang": "en",
+    "original_title": "Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  \u201csenkadagala Statement\u201d at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections",
+    "file_name": "/tmp/news_lk2/articles/59/590d7cc1.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
