@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/CID-takes-over-investigation-into-arson-attack-on-PM-s-residence/56-737319",
+    "time_ut": 1657483313,
+    "original_lang": "en",
+    "original_title": "CID takes over investigation into arson attack on PM\u2019s residence",
+    "file_name": "/tmp/news_lk2/articles/3e/3ed9b27e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/US-envoy-calls-on-all-to-ensure-democratic-transition-of-power/56-737318",
     "time_ut": 1657483264,
     "original_lang": "en",
@@ -118,6 +126,14 @@
     "original_lang": "en",
     "original_title": "More than 1.5 million litres of fuel released today - LIOC",
     "file_name": "/tmp/news_lk2/articles/5b/5bea6c9a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131206",
+    "time_ut": 1657472115,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fc/fc9d3a69.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0  \u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
     "file_name": "/tmp/news_lk2/articles/24/24df0acd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/supplementary-estimate-not-for-urban-projects/",
-    "time_ut": 1657193160,
-    "original_lang": "en",
-    "original_title": "Supplementary Estimate NOT for Urban projects",
-    "file_name": "/tmp/news_lk2/articles/67/672046c8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd-\u0dc0\u0dbd\u0da7-\u0db6\u0daf\u0dd4-\u0d9c\u0dc4\u0db1\u0d9a\u0ddc\u0da7-\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7-\u0dbb\u0dd2\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0dca-\u0d87\u0dba\u0dd2-/101-616013",
-    "time_ut": 1657193059,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0dc3\u0dd2\u0db1\u0ddd \u0dc0\u0dbd\u0da7 \u0db6\u0daf\u0dd4 \u0d9c\u0dc4\u0db1\u0d9a\u0ddc\u0da7 \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7 \u0dbb\u0dd2\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0dca \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/8e/8eaae536.json"
   }
 ]

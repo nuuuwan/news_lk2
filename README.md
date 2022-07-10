@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 01:48:20 (LK time)*
+*As of 2022-07-11 01:55:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **4** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
+* **5** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
 
-## Last Hour (6 Articles)
+## Last Hour (7 Articles)
 
-* **5** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
+* **6** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
 * **1** ada-lk ([අරගලයේ ජය සමරන්න ලයිට් කණුවට නැගි පුද්ගලයාගේ මළ සිරුර දුම්රිය මාර්ගයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beef6986.json))
 
 ## Last 3 Hours (14 Articles)
 
-* **5** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
+* **6** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
-* **4** daily-mirror-lk ([India must give military help to Sri Lanka if requested - Swamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6838bdd5.json))
+* **3** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
 
 * **2** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
 
@@ -28,9 +28,9 @@
 
 * **1** virakesari-lk ([ராஜபக்ஷவினர் வேண்டுகோள் விடுக்கும் பட்சத்தில் இந்திய இராணுவத்தை அனுப்பத் தயார் - சுப்பிரமணியன் சுவாமி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/647cc2f1.json))
 
-## Last 24 Hours (211 Articles)
+## Last 24 Hours (213 Articles)
 
-* **42** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
+* **43** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
 * **33** lankadeepa-lk ([නව අගමැති වෙන්න බ්‍රිතාන්‍ය මන්ත්‍රීවරු පොරකති](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/542c0259.json))
 
@@ -44,7 +44,7 @@
 
 * **20** ada-derana-lk ([Spells of showers expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec7b6a8a.json))
 
-* **5** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
+* **6** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
 * **5** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
@@ -52,9 +52,9 @@
 
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,008 Articles)
+## Last Week (2,009 Articles)
 
-* **363** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
+* **364** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
 * **288** lankadeepa-lk ([බෙම්මුල්ලේ වෙඩි තැබීමකින් කොළඹ වෙඩික්කරු මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c97fd20.json))
 
@@ -70,7 +70,7 @@
 
 * **102** economy-next-com ([Sri Lanka’s Yupun Abeykoon sets new South Asia sprint record](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2106c637.json))
 
-* **86** daily-ft-lk ([Timothy Speldewinde appointed to The Kingsbury Board](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5d1669d.json))
+* **86** daily-ft-lk ([Almas Group appoints two new directors](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41b95b00.json))
 
 * **50** island-lk ([Special birthday celebrations …on July 13th](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8a4c2cc.json))
 
@@ -80,9 +80,9 @@
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,750 Articles)
+## All Time (4,752 Articles)
 
-* **854** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **855** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **718** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -98,7 +98,7 @@
 
 * **240** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
-* **215** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
+* **216** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
 * **167** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
