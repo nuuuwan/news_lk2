@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/india-stands-with-the-people-of-sri-lanka/",
+    "time_ut": 1657456260,
+    "original_lang": "en",
+    "original_title": "India stands with the people of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/35/35f47f2e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83561/sonia-gandhi-expresses-solidarity-with-sri-lanka-hopes-india-will-continue-to-assist",
+    "time_ut": 1657456200,
+    "original_lang": "en",
+    "original_title": "Sonia Gandhi expresses solidarity with Sri Lanka, hopes India will continue to assist",
+    "file_name": "/tmp/news_lk2/articles/4b/4b527f98.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1-\u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-300125",
+    "time_ut": 1657456130,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/e5/e5e8a887.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1/1-616176",
+    "time_ut": 1657455947,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0ddc\u0da9\u0d9c\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/7b/7b1f9584.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/10/video-journalists-attacked-during-live-prime-time-news/",
+    "time_ut": 1657455660,
+    "original_lang": "en",
+    "original_title": "(VIDEO) Journalists attacked during Live Prime Time News",
+    "file_name": "/tmp/news_lk2/articles/db/db71e8a6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Struggle-should-go-ahead-until-new-govt-formed-with-new-mandate-JVP/342-240761",
     "time_ut": 1657452357,
@@ -214,6 +254,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0b9f\u0b95\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 67 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u00a0 -\u00a0 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd ; \u0b8f\u0ba9\u0bc8\u0baf\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/77/7731b694.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb-\u0d91\u0dbd\u0dca\u0dbd-\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2-\u0dc0\u0dd4\u0dab\u0dda-\u0d9a\u0ddc\u0dc4\u0ddc\u0db8\u0daf-/11-395296",
+    "time_ut": 1657444740,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0d91\u0dbd\u0dca\u0dbd \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0db1\u0dca\u0db0\u0dd2 \u0dc0\u0dd4\u0dab\u0dda \u0d9a\u0ddc\u0dc4\u0ddc\u0db8\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/9d/9d7b7bd2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
