@@ -1,52 +1,58 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 14:39:13 (LK time)*
+*As of 2022-07-10 14:47:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **2** lankadeepa-lk ([පළාත් සභා නැතත් හිටපු ලොක්කන්ට දීමනා තවමත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84ebe83f.json))
+* **1** economy-next-com ([Sri Lanka has received 3,700 metric tonnes of LP gas; distribution to begin immeditately](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33126ec7.json))
 
-## Last Hour (3 Articles)
+* **1** lankadeepa-lk ([අගමැති නිවසට ගිනිතබද්දී විදුලිය විසන්දිවීම ගැන පරික්ෂණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f0f8eb6.json))
+
+## Last Hour (5 Articles)
 
 * **3** lankadeepa-lk ([‘‘සාමකාමි බල හුවමාරුවකට යන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64b0cc9.json))
 
+* **1** economy-next-com ([Sri Lanka has received 3,700 metric tonnes of LP gas; distribution to begin immeditately](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33126ec7.json))
+
+* **1** virakesari-lk ([லிட்ரோ எரிவாயு சிலிண்டரின் விலையை மீண்டும் அதிகரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8ef45c5.json))
+
 ## Last 3 Hours (46 Articles)
 
-* **12** virakesari-lk ([இலங்கை ஜனாதிபதியின் மாளிகை பொது குளியலறையாக மாறுகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f0f2f87.json))
+* **13** virakesari-lk ([இலங்கை ஜனாதிபதியின் மாளிகை பொது குளியலறையாக மாறுகின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f0f2f87.json))
 
 * **11** lankadeepa-lk ([ජනපති මැදුරේ තිබූ මුදල් තොගයක් අරගලකරුවෝ පොලිසිය බාර දෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c29c17ac.json))
 
-* **8** ada-lk ([ඇමෙරිකාවෙන් ලංකාව ගැන නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41a13995.json))
+* **7** ada-lk ([ඇමෙරිකාවට චීනය යළිත් අනතුරු ඇඟවීමක් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf2ae0d.json))
 
 * **5** news-first-lk ([PM House Fire: Three arrested for arson](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd1fb7c3.json))
 
 * **4** tamil-mirror-lk ([ஜனாதிபதி அதிரடி பணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d131e19.json))
 
-* **3** ada-derana-lk ([U.S. urges Sri Lanka to work quickly to achieve long-term economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/7925d4aa.json))
+* **2** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
+
+* **2** ada-derana-lk ([LP Gas shipment of 3,700 MT arriving in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a196507.json))
 
 * **2** daily-mirror-lk ([Dhammika Perera resigns as cabinet minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f4cf9bf.json))
 
-* **1** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
+## Last 24 Hours (288 Articles)
 
-## Last 24 Hours (289 Articles)
-
-* **50** virakesari-lk ([சபாநாயகர் தலைமையில் இன்று மாலை கட்சித் தலைவர் கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1144428c.json))
+* **50** virakesari-lk ([ஸ்ரீ லங்கா பொதுஜன பெரமுனவின்  பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதிக்கு அவசர கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d171f62c.json))
 
 * **44** tamil-mirror-lk ([ரணிலை நிராகரித்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfc28b00.json))
 
 * **43** lankadeepa-lk ([රාජිතටත් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ead7b692.json))
 
-* **41** ada-lk ([අගමැති පක්ෂ නායක රැස්වීමක් කැඳවයි - පාර්ලිමේන්තුව කැඳවන්නත් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2453ffd1.json))
+* **40** ada-lk ([සජිත් රෝහල් ගත කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbe54cab.json))
 
-* **31** daily-mirror-lk ([People protest outside Carlton House](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adb47817.json))
+* **30** daily-mirror-lk ([54 trains reach Fort station: Station Masters’ Union](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bdb1a72.json))
 
 * **24** ada-derana-lk ([Will respect any decision taken at party leaders’ meeting - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c677e23.json))
 
 * **22** news-first-lk ([SLPP reforms group want President to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5b577ea.json))
 
-* **12** economy-next-com ([Sri Lanka’s party leaders to hold meeting to find solutions as July 9th protest continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3280dafa.json))
+* **13** economy-next-com ([Sri Lanka’s party leaders to hold meeting to find solutions as July 9th protest continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3280dafa.json))
 
 * **10** daily-ft-lk ([Bar Association calls for swift political stability and public restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dc32600.json))
 
@@ -58,21 +64,21 @@
 
 ## Last Week (2,018 Articles)
 
-* **372** virakesari-lk ([கிளிநொச்சியில் பதுக்கிவைத்திருந்த 31 பரல் எரிபொருள் மீட்பு - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee738332.json))
+* **373** virakesari-lk ([கிளிநொச்சியில் பதுக்கிவைத்திருந்த 31 பரல் எரிபொருள் மீட்பு - ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee738332.json))
 
-* **289** lankadeepa-lk ([අත්‍යවශ්‍ය මහජන සේවා පනත ලබන බදාදා මැතිසබයේ අනුමැතියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36f92afe.json))
+* **288** lankadeepa-lk ([සියලු පාසල් සතියක් නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c8b3101.json))
 
 * **234** daily-mirror-lk ([Rough seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3d9231e.json))
 
 * **232** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
 
-* **228** ada-lk ([ලබන සතියේ සියලු ම පාසල්වලට නිවාඩු](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347a5488.json))
+* **227** ada-lk ([මටත් නැති තෙල් අනුරට කොහෙන්ද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28a1de56.json))
 
 * **180** ada-derana-lk ([Power cut schedule for July 04 and 05 announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ef17499.json))
 
 * **156** news-first-lk ([Sri Lanka : Update on Fuel Shipments](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df713577.json))
 
-* **112** economy-next-com ([Sri Lanka arrests four military personnel in connection with a rehab centre death](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34b58fe8.json))
+* **113** economy-next-com ([Sri Lanka arrests four military personnel in connection with a rehab centre death](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34b58fe8.json))
 
 * **85** daily-ft-lk ([Making the 22nd Amendment true to the President’s  11 May commitment](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/742cfc42.json))
 
@@ -84,9 +90,9 @@
 
 * **12** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,633 Articles)
+## All Time (4,635 Articles)
 
-* **831** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
+* **832** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
 * **703** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -100,7 +106,7 @@
 
 * **375** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 
-* **237** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
+* **238** economy-next-com ([None](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a82c8902.json))
 
 * **210** daily-ft-lk ([Entrepreneurship is the key to improving the economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de750cc.json))
 
