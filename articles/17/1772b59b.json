@@ -1,0 +1,462 @@
+{
+  "newspaper_id": "virakesari-lk",
+  "url": "http://www.virakesari.lk/article/131194",
+  "time_ut": 1657437371,
+  "original_lang": "ta",
+  "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd. \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0ba9\u0bcd 27 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Jaffna. Navali Sen. 27th Anniversary of Air Attack on Peter's Church",
+      "author": "Vishnu",
+      "body_lines": [
+        "Jaffna, Navali Sen. The 27th anniversary of the air attack on St. Peter's Church was held on Saturday evening, 09 September. A memorial service was held at Peter's Church.",
+        "Following this, relatives of the deceased and members of the public paid their respects by lighting floral obelisks.",
+        "On July 9, 1995, Navali Sen. 147 people were killed when three Air Force planes dropped 13 bombs in a row on displaced people who were staying at Peter's Church and Navali Sri Kathirgama Murugan Temple.",
+        "Early that morning, the military carried out a military operation of advancing towards Valigamam areas with the help of missile attacks and airstrikes.",
+        "Due to continuous shelling, the people who were displaced from their habitations towards Navali went to Navali and took shelter in Peter's Church and Navali Sri Kathirgama Murugan Temple.",
+        "That morning, three planes suddenly arrived and dropped 13 bombs in a row on the church and temple where people were sheltering. In this bombing incident, 147 people, including children and women, were killed on the spot. More than 350 people were injured."
+      ],
+      "title_ents": [
+        {
+          "text": "Jaffna",
+          "label": "PERSON"
+        },
+        {
+          "text": "Navali",
+          "label": "PERSON"
+        },
+        {
+          "text": "27th Anniversary",
+          "label": "DATE"
+        },
+        {
+          "text": "Peter's Church",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Navali",
+            "label": "ORG"
+          },
+          {
+            "text": "27th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "St. Peter's Church",
+            "label": "ORG"
+          },
+          {
+            "text": "Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "evening",
+            "label": "TIME"
+          },
+          {
+            "text": "09 September",
+            "label": "DATE"
+          },
+          {
+            "text": "Peter's Church",
+            "label": "ORG"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "July 9, 1995",
+            "label": "DATE"
+          },
+          {
+            "text": "Navali",
+            "label": "ORG"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Air Force",
+            "label": "ORG"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Peter's Church",
+            "label": "ORG"
+          },
+          {
+            "text": "Navali Sri",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kathirgama",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Early that morning",
+            "label": "TIME"
+          },
+          {
+            "text": "Valigamam",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Peter's Church",
+            "label": "ORG"
+          },
+          {
+            "text": "Navali Sri",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kathirgama",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "morning",
+            "label": "TIME"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "More than 350",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dba\u0dcf\u0db4\u0db1\u0dba. \u0db1\u0dc0\u0dcf\u0dbd\u0dd2 \u0dc3\u0dd9\u0db1\u0dca. \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d91\u0dbd\u0dca\u0dbd \u0dc0\u0dd6 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dda 27 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba",
+      "author": "\u0dc0\u0dd2\u0dc2\u0dca\u0dab\u0dd4",
+      "body_lines": [
+        "\u0dba\u0dcf\u0db4\u0db1\u0dba, \u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc3\u0dd9\u0db1\u0dca. \u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d91\u0dbd\u0dca\u0dbd \u0dc0\u0dd6 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dda 27 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 09 \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dc3\u0dc0\u0dc3 \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2. \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0d85\u0db1\u0dd4\u0dc3\u0dca\u0db8\u0dbb\u0dab \u0daf\u0dda\u0dc0 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd2\u0dab\u0dd2.",
+        "\u0d89\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0dc0 \u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba \u0d85\u0dba\u0d9c\u0dda \u0da5\u0dcf\u0dad\u0dd3\u0db1\u0dca \u0dc3\u0dc4 \u0db8\u0dc4\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db4\u0dd4\u0dc2\u0dca\u0db4\u0ddd\u0db4\u0dc4\u0dcf\u0dbb \u0daf\u0dbd\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9c\u0dde\u0dbb\u0dc0 \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd6\u0dc4.",
+        "1995 \u0da2\u0dd6\u0dbd\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0db1\u0dc0\u0dcf\u0dbd\u0dd2 \u0dc3\u0dd9\u0db1\u0dca. \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0dc4 \u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dad\u0dd2\u0dbb\u0dca\u0d9c\u0db8 \u0db8\u0dd4\u0dbb\u0dd4\u0d9c\u0db1\u0dca \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dbb\u0dd0\u0db3\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dc0\u0dad\u0dd0\u0db1\u0dca \u0dc0\u0dd6\u0dc0\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0d91\u0d9a \u0daf\u0dd2\u0d9c\u0da7 \u0db6\u0ddd\u0db8\u0dca\u0db6 13\u0d9a\u0dca \u0dc4\u0dd9\u0dc5\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca 147 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd4\u0dab\u0dcf.",
+        "\u0d91\u0daf\u0dd2\u0db1 \u0d85\u0dbd\u0dd4\u0dba\u0db8 \u0db8\u0dd2\u0dc3\u0dba\u0dd2\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0dc3\u0dc4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dc0\u0dbd \u0d86\u0db0\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dbd\u0dd2\u0d9c\u0dcf\u0db8\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba \u0daf\u0dd9\u0dc3\u0da7 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dca \u0daf\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0daf\u0dd2\u0d9c\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d91\u0dbd\u0dca\u0dbd \u0dc0\u0dd6 \u0dc2\u0dd9\u0dbd\u0dca \u0dc0\u0dd9\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dcf\u0dc3\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db1\u0dc0\u0dcf\u0dbd\u0dd2 \u0daf\u0dd9\u0dc3\u0da7 \u0d85\u0dc0\u0dad\u0dd0\u0db1\u0dca \u0dc0\u0dd6 \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc0\u0dd9\u0dad \u0d9c\u0ddc\u0dc3\u0dca \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0dc3\u0dc4 \u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dad\u0dd2\u0dbb\u0dca\u0d9c\u0db8 \u0db8\u0dd4\u0dbb\u0dd4\u0d9c\u0db1\u0dca \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda \u0db1\u0dc0\u0dcf\u0dad\u0dd0\u0db1\u0dca \u0d9c\u0dad\u0dca\u0dc4.",
+        "\u0d91\u0daf\u0dd2\u0db1 \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0db1\u0dc0\u0dcf\u0dad\u0dd0\u0db1\u0dca \u0d9c\u0dd9\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba\u0da7 \u0dc4\u0dcf \u0db4\u0db1\u0dca\u0dc3\u0dbd\u0da7 \u0d91\u0d9a \u0daf\u0dd2\u0d9c\u0da7 \u0db6\u0ddd\u0db8\u0dca\u0db6 13\u0d9a\u0dca \u0dc4\u0dd9\u0dc5\u0db1 \u0dbd\u0daf\u0dd3.\u0db8\u0dd9\u0db8 \u0db6\u0ddd\u0db8\u0dca\u0db6 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0dd4\u0da9\u0dcf \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 147 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0d91\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd3\u0db8 \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dba\u0dc4. 350\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0db1\u0dc0\u0dcf\u0dbd\u0dd2",
+          "label": "PERSON"
+        },
+        {
+          "text": "27 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0db4\u0dda\u0dad\u0dd8\u0dc3\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dc0\u0dcf\u0dbd\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "27 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db4\u0dd3\u0dad\u0dbb \u0daf\u0dda\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dc0\u0dc3",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 09",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dda\u0dad\u0dd8\u0dc3\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 9, 1995",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db1\u0dc0\u0dcf\u0dbd\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dda\u0dad\u0dd8\u0dc3\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dad\u0dd2\u0dbb\u0dca\u0d9c\u0db8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0daf\u0dcf \u0d8b\u0daf\u0dda \u0db4\u0dcf\u0db1\u0dca\u0daf\u0dbb\u0db8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc0\u0dbd\u0dd2\u0d9c\u0dcf\u0db8\u0db8\u0dca",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dda\u0dad\u0dd8\u0dc3\u0dca \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dbd\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dad\u0dd2\u0dbb\u0dca\u0d9c\u0db8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "350 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd. \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0ba9\u0bcd 27 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+      "author": "Vishnu",
+      "body_lines": [
+        "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0bae\u0bcd, \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd. \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0ba9\u0bcd 27 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 09 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u00a0\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8\u00a0 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc6\u0ba9\u0bcd. \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0b95\u0bc2\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb2\u0bb0\u0bcd \u0ba4\u0bc2\u0baa\u0bbf \u0b9a\u0bc1\u0b9f\u0bb0\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 1995 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 09 \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0baf\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd. \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd, \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0 \u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae \u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd \u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 13 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bc0\u0b9a\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd 147 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 \u0bb5\u0bb2\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b8e\u0bb1\u0bbf\u0b95\u0ba3\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd ,\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd\u0ba4\u0bb2\u0bcd\u00a0 \u0b8e\u0ba9\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b8e\u0bb1\u0bbf\u0b95\u0ba3\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bae\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf\u0baf\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bcd \u0baa\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0 \u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae \u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd \u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9 \u0bb5\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 13 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb2\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0bbf\u0ba9.\u0b87\u0b95\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f 147 \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0ba8\u0bcd\u0ba4 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0b89\u0b9f\u0bb2\u0bcd \u0b9a\u0bbf\u0ba4\u0bb1\u0bbf \u0baa\u0bb2\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. 350\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0ba8\u0bb5\u0bbe\u0bb2\u0bbf",
+          "label": "PERSON"
+        },
+        {
+          "text": "27\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe",
+          "label": "DATE"
+        },
+        {
+          "text": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bbe\u0bb2\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "27\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0baf\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "09 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 9, 1995",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bbe\u0bb2\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bb5\u0bb2\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bb5\u0bbe\u0bb2\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bae\u0bae\u0bcd",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "13",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "147",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "350\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
