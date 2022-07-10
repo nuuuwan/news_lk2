@@ -1,16 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-11 00:03:34 (LK time)*
+*As of 2022-07-11 00:11:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
+* **1** daily-mirror-lk ([Remours of troops heading to Galle Face are false- MoD](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33cdae69.json))
+
+* **1** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
+
+## Last Hour (4 Articles)
+
 * **2** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
 
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([Army responds to shooting at entrance of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68ddbf52.json))
+* **1** ada-derana-lk ([CDS refutes reports of troops heading to Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f33a9ef.json))
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
@@ -18,7 +22,9 @@
 
 * **4** daily-mirror-lk ([Bring those responsible before law regardless of their status: Karu Jayasuriya](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/193f5ea2.json))
 
-* **4** news-first-lk ([PM will NOT violate constitution – Vajira](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/860b5452.json))
+* **3** news-first-lk ([CBSL extends amnesty for handing over Dollars above limit](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f85fa254.json))
+
+* **2** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
 
 * **2** virakesari-lk ([ஜனாதிபதி மாளிகையிலிருந்து 17 மில்லியன் ரூபாவை மீட்டு  பொலிஸாரிடம் ஒப்படைத்த ஆர்ப்பாட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b203b7c.json))
 
@@ -26,9 +32,7 @@
 
 * **1** tamil-mirror-lk ([மைத்திரி முன்வைத்துள்ள 10 யோசனைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d131f2.json))
 
-* **1** ada-derana-lk ([More than 1.5 million litres of fuel released today - LIOC](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bea6c9a.json))
-
-## Last 24 Hours (206 Articles)
+## Last 24 Hours (204 Articles)
 
 * **42** virakesari-lk ([ஹரின், மனுஷ அமைச்சு பதவிகளிலிருந்து இராஜினாமா!](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fa7775.json))
 
@@ -38,21 +42,19 @@
 
 * **26** news-first-lk ([IMF hopes for resolution of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61eaaf05.json))
 
-* **25** daily-mirror-lk ([Shavendra urges for support to armed forces](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4ff67e5a.json))
+* **24** daily-mirror-lk ([Protesters say they find millions of rupees inside President’s house](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8a2fe04.json))
 
 * **21** ada-lk ([පොහොර නැව භාර ගැනීමෙන් පසු මහින්ද අමරවීරත් ඉල්ලා අස්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1264f9e3.json))
 
-* **18** ada-derana-lk ([Spells of showers expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec7b6a8a.json))
+* **19** ada-derana-lk ([Spells of showers expected in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec7b6a8a.json))
 
 * **4** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
 * **4** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
-* **2** daily-ft-lk ([Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08410be0.json))
-
 * **1** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-## Last Week (2,004 Articles)
+## Last Week (2,005 Articles)
 
 * **363** virakesari-lk ([பொலிஸாரின் துப்பாக்கிச் சூட்டில் கொழும்பு பஸ்டியன் மாவத்தை துப்பாக்கிச்சூட்டின் பிரதான சந்தேகநபர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b1def9.json))
 
@@ -64,7 +66,7 @@
 
 * **226** ada-lk ([පරිපාලන නිලධාරිනියක ඝාතනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d46afd24.json))
 
-* **179** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
+* **180** ada-derana-lk ([Prevailing windy condition expected to enhance further](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fc73e91.json))
 
 * **164** news-first-lk ([Criminal gangster shot dead in shootout](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0510874.json))
 
@@ -80,7 +82,7 @@
 
 * **15** colombo-telegraph-com ([The Leper Colony Mentality: Anti-Discriminatory Laws For Communicable Diseases](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ce7ee4.json))
 
-## All Time (4,737 Articles)
+## All Time (4,738 Articles)
 
 * **854** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -92,7 +94,7 @@
 
 * **506** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
-* **394** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
+* **395** ada-derana-lk ([Showery condition to slightly enhance from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f211db5.json))
 
 * **391** news-first-lk ([Police OIC appointments: Public Service Commission issues guidelines](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacee196.json))
 

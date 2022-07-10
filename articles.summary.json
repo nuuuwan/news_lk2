@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Remours-of-troops-heading-to-Galle-Face-are-false-MoD/108-240771",
-    "time_ut": 1657477035,
+    "url": "https://www.dailymirror.lk/breaking_news/Remours-of-troops-heading-to-Galle-Face-are-false-MoD/108-240772",
+    "time_ut": 1657477413,
     "original_lang": "en",
     "original_title": "Remours of troops heading to Galle Face are false- MoD",
-    "file_name": "/tmp/news_lk2/articles/a1/a1c6bf4f.json"
+    "file_name": "/tmp/news_lk2/articles/33/33cdae69.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83567/cds-refutes-reports-of-troops-heading-to-galle-face-protest-site",
+    "time_ut": 1657477380,
+    "original_lang": "en",
+    "original_title": "CDS refutes reports of troops heading to Galle Face protest site",
+    "file_name": "/tmp/news_lk2/articles/1f/1f33a9ef.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
