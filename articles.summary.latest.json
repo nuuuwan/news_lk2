@@ -144,6 +144,14 @@
     "file_name": "/tmp/news_lk2/articles/fc/fc9d3a69.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131223",
+    "time_ut": 1657469619,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2, \u0bb9\u0bb0\u0bbf\u0ba9\u0bcd, \u0bae\u0ba9\u0bc1\u0bb7, \u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ac/ac327d14.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/10/protestors-handover-recovered-rs-17mn-to-police/",
     "time_ut": 1657469580,
@@ -1774,6 +1782,14 @@
     "original_lang": "en",
     "original_title": "Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power",
     "file_name": "/tmp/news_lk2/articles/08/08410be0.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78491",
+    "time_ut": 1657391940,
+    "original_lang": "en",
+    "original_title": "National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.",
+    "file_name": "/tmp/news_lk2/articles/82/82f31063.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0ba4\u0bb5\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0bc7\u0bb0\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/32/32e7e3f1.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/07/health-ministry-defers-exclusive-fuel-arrangement-for-health-workers/",
-    "time_ut": 1657194120,
-    "original_lang": "en",
-    "original_title": "Health Ministry defers exclusive fuel arrangement for health workers",
-    "file_name": "/tmp/news_lk2/articles/2f/2f3b811b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131003",
-    "time_ut": 1657194062,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bbe\u0baf \u0ba4\u0bc1\u0bb1\u0bc8\u0b9a\u0bbe\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bcb\u0baa\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/7a/7afebdaa.json"
   }
 ]
