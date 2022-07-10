@@ -1,60 +1,54 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 13:50:13 (LK time)*
+*As of 2022-07-10 14:07:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last Hour (8 Articles)
+
+* **4** virakesari-lk ([அவமானங்களை சகித்துக்கொள்ளல்…!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1a27ad.json))
 
 * **2** lankadeepa-lk ([ගෑස් බෙදන හැටි ජනපති නිලධාරීන්ට කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47051596.json))
 
 * **1** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
 
-## Last Hour (13 Articles)
+* **1** ada-lk ([ඔක්ලහෝමා හි ගෑස් බලාගාරයක පිපිරීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dee1ee71.json))
 
-* **6** virakesari-lk ([அமைச்சுப் பதவியை இராஜினாமா செய்தார் தம்மிக்க பெரேரா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeb1997a.json))
+## Last 3 Hours (50 Articles)
 
-* **3** lankadeepa-lk ([ධම්මික පෙරේරා ධූරයෙන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5b0bd20.json))
-
-* **3** ada-lk ([අබේ ඝාතනය පිටුපස වූ සැබෑ චේතනාව හෙළිවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/848a052a.json))
-
-* **1** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
-
-## Last 3 Hours (54 Articles)
-
-* **15** virakesari-lk ([இலங்கை நிலவரங்களை உன்னிப்பாக அவதானிக்கின்றோம் - சர்வதேச நாணயநிதியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf3e36.json))
+* **14** virakesari-lk ([ஜனாதிபதி மாளிகையில் போராட்டக்காரர்களால் மீட்கப்பட்ட ஒரு கோடி ரூபா பணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/604b972c.json))
 
 * **9** lankadeepa-lk ([අයි.එම්.එෆ් වෙතින් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19fa98e8.json))
 
-* **9** ada-lk ([සාකච්ඡා ආරම්භ කරන්න දේශපාලන කැළඹීම විසඳගන්න - IMF](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e7ca754.json))
-
 * **9** news-first-lk ([Bandula steps down from Ministerial positions](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf908c87.json))
 
-* **4** ada-derana-lk ([Three arrested for torching PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06d06754.json))
+* **8** ada-lk ([ගෑස් නැව අද එයි - ජනපති නිලධාරීන්ට දුන් උපදෙස](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0c1ff68.json))
 
 * **4** tamil-mirror-lk ([ஜனாதிபதி அதிரடி பணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d131e19.json))
 
-* **3** daily-mirror-lk ([PUCSL to probe power cut on 5th Lane last night](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82c865dd.json))
+* **3** ada-derana-lk ([U.S. urges Sri Lanka to work quickly to achieve long-term economic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/7925d4aa.json))
+
+* **2** daily-mirror-lk ([Dhammika Perera resigns as cabinet minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f4cf9bf.json))
 
 * **1** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
 
-## Last 24 Hours (318 Articles)
+## Last 24 Hours (306 Articles)
 
-* **53** tamil-mirror-lk ([​அவசர அழைப்பு விடுத்தார் பிரதமர் ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d606248.json))
+* **50** virakesari-lk ([சபாநாயகர் தலைமையில் இன்று மாலை கட்சித் தலைவர் கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1144428c.json))
 
-* **51** virakesari-lk ([அவசர கட்சித் தலைவர்கள் கூட்டத்திற்கு பிரதமர் அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d2bd8d6.json))
+* **49** tamil-mirror-lk ([54 ரயில்கள் கொழும்பை வந்தடைந்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0a9cd82.json))
 
-* **46** lankadeepa-lk ([අරගලකරුවන් 31ක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5bf77e8.json))
+* **44** lankadeepa-lk ([ජනාධිපති ලේකම් කාර්යාලයටත් පිරිස ඇතුළු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39be3e2b.json))
 
 * **42** ada-lk ([ජනපති ලේකම් කාර්යාලය අරගලකරුවන් ග්‍රහනයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dc0af52.json))
 
-* **38** daily-mirror-lk ([Protesters attack MP Rajitha Senaratne](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/404d20fc.json))
+* **37** daily-mirror-lk ([Inter Provincial bus owners support struggle](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40f24427.json))
 
-* **30** ada-derana-lk ([Number of injured in public protests climbs over 30](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2ace34da.json))
+* **28** ada-derana-lk ([PM Ranil convenes urgent meeting of party leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4fdf91cc.json))
 
-* **24** news-first-lk ([PM calls for urgent Party Leaders meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7bb68ccf.json))
+* **23** news-first-lk ([Sri Lanka: Navy ships with unidentified persons left Colombo Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/1494d6c6.json))
 
-* **13** economy-next-com ([Sri Lanka PM calls emergency party leaders’ meeting after protestors storm president’s house](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/132a3b5d.json))
+* **12** economy-next-com ([Sri Lanka’s party leaders to hold meeting to find solutions as July 9th protest continues](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3280dafa.json))
 
 * **10** daily-ft-lk ([Bar Association calls for swift political stability and public restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dc32600.json))
 
@@ -62,19 +56,19 @@
 
 * **1** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## Last Week (2,027 Articles)
+## Last Week (2,019 Articles)
 
-* **374** virakesari-lk ([நாளை முதல் ஒரு வாரத்திற்கு பாடசாலைகளுக்கு விடுமுறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/032843f2.json))
+* **373** virakesari-lk ([மாற வேண்டிய தருணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22dbe223.json))
 
-* **289** lankadeepa-lk ([කන්දකාඩුවෙන් පැන්න තවත් රැඳවියෝ 6 ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6275c76.json))
+* **288** lankadeepa-lk ([විමලසුරේද්‍ර ජලාශය වාන් දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b86bb61.json))
 
-* **236** daily-mirror-lk ([Deepening fuel crisis; No schools next week too](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9e4c665.json))
-
-* **233** ada-lk ([පාකිස්තානයේ බස් රථයක් පෙරළී 19ක් ජීවිතක්ෂයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d75b033.json))
+* **235** daily-mirror-lk ([3 hours power cuts for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c3f6bc4.json))
 
 * **232** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
 
-* **181** ada-derana-lk ([Schools to remain closed this week](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ffd2ee7.json))
+* **229** ada-lk ([සති දෙකක් ඇතුළත ඩීසල් නැව් තුනක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f49f32e.json))
+
+* **180** ada-derana-lk ([Power cut schedule for July 04 and 05 announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ef17499.json))
 
 * **156** news-first-lk ([Sri Lanka : Update on Fuel Shipments](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df713577.json))
 
