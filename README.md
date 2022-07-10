@@ -1,40 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-10 16:14:34 (LK time)*
+*As of 2022-07-10 16:22:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** virakesari-lk ([யானை தாக்கியதில் விவசாயி உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b0c5aa5.json))
+* **2** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
 
-* **1** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
-
-* **1** news-first-lk ([BASL condemns attacks on journalists, & calls for action against police officers for attacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfcc25aa.json))
+* **1** virakesari-lk ([எரிபொருள் கப்பல் நாட்டை வந்தடைந்ததும் விநியோகத்தை துரிதப்படுத்துங்கள் : ஜனாதிபதி பணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/127e7231.json))
 
 ## Last Hour (10 Articles)
 
 * **3** virakesari-lk ([கீழைத்தேய நவீன புரட்சியின் அடையாளமாக இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c52430.json))
 
+* **2** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
+
 * **2** news-first-lk ([What happens after the President resigns? BASL explains process to elect new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb5a9c6a.json))
 
 * **2** tamil-mirror-lk ([CID  வசமாகும் விசாரணைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d13e0be.json))
 
-* **1** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
-
 * **1** ada-derana-lk ([CID to probe torching of PM’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17b1fc23.json))
-
-* **1** ada-lk ([චීනයෙන් උඩරටට මානුෂීය ආධාර](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d1050c5.json))
 
 ## Last 3 Hours (28 Articles)
 
 * **8** lankadeepa-lk ([ගෑස් බෙදන හැටි ජනපති නිලධාරීන්ට කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c909437.json))
 
-* **7** virakesari-lk ([நிமிர்த்த முடியாத சரிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b81e0f6.json))
+* **6** virakesari-lk ([லிட்ரோ எரிவாயு சிலிண்டரின் விலையை மீண்டும் அதிகரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8ef45c5.json))
 
 * **3** news-first-lk ([Sonia Gandhi urges international community to support Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d3afbe6.json))
 
 * **3** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
+
+* **2** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
 
 * **2** tamil-mirror-lk ([CID  வசமாகும் விசாரணைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d13e0be.json))
 
@@ -42,21 +40,19 @@
 
 * **2** ada-lk ([විපක්ෂනායක තමයි විකල්ප අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/926d02b2.json))
 
-* **1** daily-mirror-lk ([Ruwan visits PM’s damaged house](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521fa17.json))
-
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (265 Articles)
 
 * **47** virakesari-lk ([பிரதமர் தலைமையிலான கட்சி தலைவர் கூட்டத்தில் ஆரம்பகட்ட கலந்துரையாடல் நிறைவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8736d557.json))
 
 * **41** lankadeepa-lk ([අන්තර්කාලීන ආණ්ඩුවක් පිහිටවනු](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/971163b9.json))
 
-* **38** tamil-mirror-lk ([கட்சித் தலைவர்கள் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45e7fdb3.json))
+* **37** tamil-mirror-lk ([வெடி கொளுத்திய கல்முனை வர்த்தகர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a93209a.json))
 
-* **36** ada-lk ([පක්ෂ නායක රැස්වීම ඇරඹෙයි - ජනපතිට ඉල්ලා අස්වෙන්නැයි දන්වයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/9599fc1c.json))
+* **35** ada-lk ([අරලිය ගහ මන්දිරයත් වටලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e5a454f.json))
 
-* **27** daily-mirror-lk ([SJB boycotts PM’s meeting; attends Speaker’s meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81f5ff4b.json))
+* **27** daily-mirror-lk ([Party Leaders decided to inform President to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70658024.json))
 
-* **24** ada-derana-lk ([Party leaders’ meeting begins](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f50c1c18.json))
+* **23** ada-derana-lk ([Liquor stores to remain closed until tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3747a3.json))
 
 * **21** news-first-lk ([Party Leaders want President & PM to resign immediately](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d6d4365.json))
 
@@ -64,7 +60,7 @@
 
 * **10** island-lk ([Ceylinco deal for Visa cardholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83f6b44a.json))
 
-* **7** daily-ft-lk ([GotaGoGama activists want President, PM and interim-Govt. resign immediately](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3daa8c6.json))
+* **6** daily-ft-lk ([Party leaders request GR to step down immediately](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/666d1654.json))
 
 * **4** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
@@ -76,13 +72,13 @@
 
 * **280** lankadeepa-lk ([‘‘මේ ආණ්ඩුව පන්නනවා හැර වෙන විකල්පයක් නෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c12d3e26.json))
 
-* **234** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
+* **234** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
 
-* **233** daily-mirror-lk ([Suspect arrested for illegal possession of fuel including 6,400 litres of diesel in Kilinochchi](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c94f8a9.json))
+* **234** tamil-mirror-lk ([’கோட்டாவுக்கு மூளை சரியில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33feb9b5.json))
 
 * **228** ada-lk ([ආර්ථික මධ්‍යස්ථානවලට එන ලොරිවලට හමුදාවෙන් ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49149b96.json))
 
-* **180** ada-derana-lk ([Bus falls into deep ravine in southwest Pakistan, killing 19](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f7a8181.json))
+* **179** ada-derana-lk ([Fuel to be supplied to vehicles transporting goods to economic centres](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4965c2e.json))
 
 * **157** news-first-lk ([System needed to maintain essential services: SLAS](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cc4fcdb.json))
 
@@ -98,7 +94,7 @@
 
 * **15** colombo-telegraph-com ([Child’s Guide To True Cost Of Activities: Concept Of Opportunity Cost](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/add39706.json))
 
-## All Time (4,657 Articles)
+## All Time (4,658 Articles)
 
 * **837** virakesari-lk ([யூதர்களுக்கு காலக்கெடுவாக அமைந்துள்ள ஜெரூஸலம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da5d0c4b.json))
 
@@ -106,7 +102,7 @@
 
 * **554** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **498** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
+* **499** daily-mirror-lk ([Food crisis likely to affect around four to five million people - PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c52e4e.json))
 
 * **494** tamil-mirror-lk ([ஒரே பார்வையில் அன்டனோவ் ஏ.என் 225](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea3da9ff.json))
 
