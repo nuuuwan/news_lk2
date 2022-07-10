@@ -25,6 +25,22 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8-\u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95-\u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe/175-300100",
+    "time_ut": 1657395196,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/d3/d3697f63.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0-\u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300099",
+    "time_ut": 1657394658,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ee/eeef5ef5.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-56-\u0baa\u0bc7\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-300098",
     "time_ut": 1657394186,
     "original_lang": "ta",
@@ -241,11 +257,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dba\u0dd2/11-616146",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2-\u0dad\u0db6\u0dba\u0dd2/101-616146",
     "time_ut": 1657383107,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a7/a7021c97.json"
+    "file_name": "/tmp/news_lk2/articles/1c/1caa87fb.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -3134,6 +3150,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b95\u0bc8\u0baf\u0bbe\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd: \u0b90.\u0ba8\u0bbe.",
     "file_name": "/tmp/news_lk2/articles/fd/fdbb2c80.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78471",
+    "time_ut": 1657306080,
+    "original_lang": "en",
+    "original_title": "Huge Protesting  Crowds \u201cinvade\u201dPresident\u2019s House after Confrontation in Festive Mood  and have Fun swimming in pool,relaxing on lawns and Sofas, raiding the Presidential pantry for snacks and soft drinks and rolling in Gota\u2019s bed",
+    "file_name": "/tmp/news_lk2/articles/9e/9edd4410.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0daf\u0dd9\u0dc3\u0da7 \u0d91\u0dbd\u0dca\u0dbd \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
     "file_name": "/tmp/news_lk2/articles/28/286ffbcc.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-down-on-fuel-shortage-political-instability-woes-amid-rate-hike-fears-97043/",
-    "time_ut": 1657115760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares down on fuel shortage, political instability woes amid rate hike fears",
-    "file_name": "/tmp/news_lk2/articles/88/88d1f741.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83470/railways-trade-unions-decide-to-call-off-union-action",
-    "time_ut": 1657115580,
-    "original_lang": "en",
-    "original_title": "Railways trade unions decide to call off union action",
-    "file_name": "/tmp/news_lk2/articles/c5/c52072a4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2/11-395174",
-    "time_ut": 1657115486,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dbb\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f9/f90d1bdd.json"
   }
 ]
