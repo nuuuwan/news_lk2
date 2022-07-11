@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0daf\u0dd4\u0d9c\u0dd3-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0db8\u0ddc\u0dbb\u0daf\u0dd3\u0db8\u0da7-\u0d9a\u0db1\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/101-616189",
+    "time_ut": 1657511898,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0daf\u0dd4\u0d9c\u0dd3 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0db8\u0ddc\u0dbb\u0daf\u0dd3\u0db8\u0da7 \u0d9a\u0db1\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/68/68ea01f6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/101-616188",
+    "time_ut": 1657511891,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/75/755893f2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/33-000-\u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc0\u0ba3\u0bbe\u0b95\u0bbf\u0baf\u0ba4\u0bc1/76-300163",
+    "time_ut": 1657511851,
+    "original_lang": "ta",
+    "original_title": "33,000 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0ba3\u0bbe\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/49/491201d8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dda-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/101-616187",
+    "time_ut": 1657511607,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dd9\u0dc3\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c6/c6cf2276.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Beware-of-fake-applications-during-fuel-crisis-CERTCC/342-240785",
+    "time_ut": 1657511307,
+    "original_lang": "en",
+    "original_title": "Beware of fake applications during fuel crisis: (CERT|CC)",
+    "file_name": "/tmp/news_lk2/articles/38/380fad6f.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5-\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bc8-\u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf-\u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf/175-300162",
+    "time_ut": 1657511146,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bc8 \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf \u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/c7/c7732088.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/11/no-indian-troop-deployment-to-sri-lanka-high-commission/",
+    "time_ut": 1657511100,
+    "original_lang": "en",
+    "original_title": "NO Indian troop deployment to Sri Lanka \u2013 High Commission",
+    "file_name": "/tmp/news_lk2/articles/b6/b61b653d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd9\u0dbb\u0dd0\u0dc5\u0dd4\u0dab\u0dd4-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db6\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0ddc\u0dbb\u0d9a\u0dad\u0dd2/101-616186",
+    "time_ut": 1657511067,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0dbb\u0dd0\u0dc5\u0dd4\u0dab\u0dd4 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db6\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0ddc\u0dbb\u0d9a\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7d/7d52df21.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/GR-confirms-to-resign-on-WednesdayPresidential-polls-before-March/155-240784",
     "time_ut": 1657510640,
     "original_lang": "en",
     "original_title": "GR confirms to resign on Wednesday;Presidential polls before March",
     "file_name": "/tmp/news_lk2/articles/e4/e4a0f76c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83573/special-party-leaders-meeting-to-be-held-today",
+    "time_ut": 1657510620,
+    "original_lang": "en",
+    "original_title": "Special party leaders\u2019 meeting to be held today",
+    "file_name": "/tmp/news_lk2/articles/90/90165df6.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -25,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-ten-party-alliance-SLFP-SLPP-independents-moot-Dullas-Sajith-as-Prez-PM/108-240782",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-ten-party-alliance-SLFP-SLPP-independents-moot-Dullas-Sajith-as-Prez-PM/342-240782",
     "time_ut": 1657509852,
     "original_lang": "en",
     "original_title": "SJB, ten-party alliance, SLFP, SLPP independents moot Dullas, Sajith as Prez, PM",
-    "file_name": "/tmp/news_lk2/articles/2c/2c34e92d.json"
+    "file_name": "/tmp/news_lk2/articles/da/da04f737.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -48,12 +120,20 @@
     "file_name": "/tmp/news_lk2/articles/ea/ea34f5a1.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dd4\u0db6\u0dca\u200d\u0dbb\u0db8\u0db1\u0dd2\u0dba\u0db8\u0dca-\u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d91\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4/11-395306",
+    "time_ut": 1657509531,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd4\u0db6\u0dca\u200d\u0dbb\u0db8\u0db1\u0dd2\u0dba\u0db8\u0dca \u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d91\u0dc0\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/fc/fc5f3978.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/No-trian-fare-revision-to-take-effect-from-tomorrow/108-240780",
+    "url": "https://www.dailymirror.lk/latest_news/No-trian-fare-revision-to-take-effect-from-tomorrow/342-240780",
     "time_ut": 1657509312,
     "original_lang": "en",
     "original_title": "No trian fare revision to take effect from tomorrow",
-    "file_name": "/tmp/news_lk2/articles/29/295517b3.json"
+    "file_name": "/tmp/news_lk2/articles/a2/a20001b1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -94,6 +174,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president will resign as previously announced: PM\u2019s office",
     "file_name": "/tmp/news_lk2/articles/cf/cfda925e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1-77-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300158",
+    "time_ut": 1657508302,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 77 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c2/c2e943de.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -174,6 +262,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka needs political stability, fiscal measures for IMF deal: CBSL union",
     "file_name": "/tmp/news_lk2/articles/ea/ea1f4480.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62096534",
+    "time_ut": 1657487562,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf \u0dc3\u0db8\u0dba\u0dda \u0daf\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc0\u0db1 \u0d94\u0db6 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0db8\u0ddc\u0db1\u0dc0\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/29/29bfb814.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -945,11 +1041,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Probe-into-PMs-private-residence-fire-taken-over-by-CID/155-240754",
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-into-PMs-private-residence-fire-taken-over-by-CID/108-240754",
     "time_ut": 1657450525,
     "original_lang": "en",
     "original_title": "Probe into PM\u2019s private residence fire taken over by CID",
-    "file_name": "/tmp/news_lk2/articles/a6/a64d3ee6.json"
+    "file_name": "/tmp/news_lk2/articles/9d/9d24186b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
