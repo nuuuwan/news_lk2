@@ -96,6 +96,14 @@
     "file_name": "/tmp/news_lk2/articles/a1/a1c6bf4f.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-300149",
+    "time_ut": 1657477019,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/66/664d515d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Army-responds-to-shooting-at-entrance-of-Presidents-House/108-240770",
     "time_ut": 1657476632,
@@ -568,12 +576,52 @@
     "file_name": "/tmp/news_lk2/articles/db/db71e8a6.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-road-to-economic-recovery-ahead-is-long-hard-and-unavoidable-2/",
+    "time_ut": 1657453080,
+    "original_lang": "en",
+    "original_title": "The road to economic recovery ahead is long, hard, and unavoidable",
+    "file_name": "/tmp/news_lk2/articles/84/8409b87f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nestle-lanka-and-perera-sons-bakers-work-together-to-help-tackle-plastic-pollution-in-sri-lanka/",
+    "time_ut": 1657452840,
+    "original_lang": "en",
+    "original_title": "Nestl\u00e9 Lanka and Perera & Sons Bakers work together to help tackle plastic pollution in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/e4/e4affd1f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ceylon-tobacco-company-plc-fags-ignite-bottom-line-boost/",
+    "time_ut": 1657452420,
+    "original_lang": "en",
+    "original_title": "Ceylon Tobacco Company PLC: Fags ignite bottom-line boost",
+    "file_name": "/tmp/news_lk2/articles/82/82a06aaa.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/3-reasons-why-international-support-for-sri-lanka-is-forthcoming-slowly-policy-advisor-explains/",
+    "time_ut": 1657452360,
+    "original_lang": "en",
+    "original_title": "3 reasons why international support for Sri Lanka is forthcoming slowly: policy advisor explains",
+    "file_name": "/tmp/news_lk2/articles/15/153bfa80.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Struggle-should-go-ahead-until-new-govt-formed-with-new-mandate-JVP/342-240761",
     "time_ut": 1657452357,
     "original_lang": "en",
     "original_title": "Struggle should go ahead until new govt. formed with new mandate: JVP",
     "file_name": "/tmp/news_lk2/articles/17/1720ae84.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tea-rubber-production-decreased-coconut-production-increased/",
+    "time_ut": 1657452300,
+    "original_lang": "en",
+    "original_title": "Tea, rubber production decreased, coconut production increased",
+    "file_name": "/tmp/news_lk2/articles/0a/0a547005.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2208,6 +2256,14 @@
     "file_name": "/tmp/news_lk2/articles/3b/3bc799eb.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-financial-crisis-mismanagement-fear-or-collusion/",
+    "time_ut": 1657378860,
+    "original_lang": "en",
+    "original_title": "THE FINANCIAL CRISIS \u2013 MISMANAGEMENT, FEAR OR COLLUSION?",
+    "file_name": "/tmp/news_lk2/articles/65/653f0d38.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/09/news-1st-journalist-attacked-by-stf-police/",
     "time_ut": 1657378800,
@@ -2278,14 +2334,6 @@
     "original_lang": "en",
     "original_title": "Aragalaya takes over!",
     "file_name": "/tmp/news_lk2/articles/0b/0be69859.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/the-road-to-economic-recovery-ahead-is-long-hard-and-unavoidable/",
-    "time_ut": 1657377600,
-    "original_lang": "en",
-    "original_title": "The road to economic recovery ahead is long, hard, and unavoidable",
-    "file_name": "/tmp/news_lk2/articles/78/7896e243.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2536,6 +2584,14 @@
     "file_name": "/tmp/news_lk2/articles/7c/7cf44e2c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ceylon-government-railway-when-the-burghers-ruled-the-roost/",
+    "time_ut": 1657373400,
+    "original_lang": "en",
+    "original_title": "Ceylon Government Railway \u2013 when the Burghers ruled the roost",
+    "file_name": "/tmp/news_lk2/articles/4a/4a7191f9.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131165",
     "time_ut": 1657373169,
@@ -2558,6 +2614,22 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/7c/7cad6b2b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/capital-maharaja-future-focused-to-get-its-leadership-closer-to-the-ground/",
+    "time_ut": 1657372860,
+    "original_lang": "en",
+    "original_title": "Capital Maharaja future-focused to get its leadership closer to the ground",
+    "file_name": "/tmp/news_lk2/articles/82/82835e3f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lanka-hospitals-grows-from-strength-to-strength/",
+    "time_ut": 1657372740,
+    "original_lang": "en",
+    "original_title": "Lanka Hospitals grows from strength to strength",
+    "file_name": "/tmp/news_lk2/articles/ab/abce6524.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7310,6 +7382,14 @@
     "original_lang": "en",
     "original_title": "Pearl in tears and tatters: Fight or flight?",
     "file_name": "/tmp/news_lk2/articles/d4/d4fd9048.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/giving-people-ideas/",
+    "time_ut": 1657218960,
+    "original_lang": "en",
+    "original_title": "Giving people ideas?",
+    "file_name": "/tmp/news_lk2/articles/e5/e54b9e12.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
