@@ -1,0 +1,450 @@
+{
+  "newspaper_id": "virakesari-lk",
+  "url": "http://www.virakesari.lk/article/131237",
+  "time_ut": 1657517439,
+  "original_lang": "ta",
+  "original_title": "\u0baf\u0bbe\u0bb4\u0bcd \u0bb0\u0bbe\u0ba3\u0bbf \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+  "text_idx": {
+    "en": {
+      "title": "Jaffna Rani train service started",
+      "author": "T. Saranya",
+      "body_lines": [
+        "Jaffna special train service between Jaffna and Kilinochchi started today Monday.",
+        "The Railway Department has provided this service for the convenience of government employees and the lecturers and staff of the University of Science and Technology Jaffna.",
+        "According to this, Jaffna Queen's train departs from Kangesanthurai at 06.00 am and reaches Murikandi at 8.11 am.",
+        "From there again, the train departs for Jaffna at 10.00 am and reaches Jaffna at 11.20 am.",
+        "Again the train departs from Kangesanthurai at 02.00 PM and reaches Murikandi at 4.10 PM.",
+        "This train will again depart from Murikandi at 4.40 pm and reach Kangesanthurai at 7.20 pm.",
+        "One-way fare from Jaffna to Kilinochchi is Rs 90, Jaffna to Palai is Rs 60 and Jaffna to Kodigam is Rs 35."
+      ],
+      "title_ents": [
+        {
+          "text": "Jaffna Rani",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kilinochchi",
+            "label": "GPE"
+          },
+          {
+            "text": "today Monday",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "The Railway Department",
+            "label": "ORG"
+          },
+          {
+            "text": "the University of Science and Technology Jaffna",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Jaffna Queen's",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kangesanthurai",
+            "label": "GPE"
+          },
+          {
+            "text": "06.00 am",
+            "label": "TIME"
+          },
+          {
+            "text": "8.11 am",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "10.00 am",
+            "label": "TIME"
+          },
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "11.20 am",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Kangesanthurai",
+            "label": "GPE"
+          },
+          {
+            "text": "02.00 PM",
+            "label": "TIME"
+          },
+          {
+            "text": "4.10 PM",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Murikandi",
+            "label": "GPE"
+          },
+          {
+            "text": "4.40 pm",
+            "label": "TIME"
+          },
+          {
+            "text": "Kangesanthurai",
+            "label": "GPE"
+          },
+          {
+            "text": "7.20 pm",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "One",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Jaffna",
+            "label": "GPE"
+          },
+          {
+            "text": "Kilinochchi",
+            "label": "GPE"
+          },
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Jaffna",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kodigam",
+            "label": "PERSON"
+          },
+          {
+            "text": "35",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dbb\u0dcf\u0dab\u0dd2 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dda\u0dc0\u0dba \u0d87\u0dbb\u0db9\u0dda",
+      "author": "T. Saranya",
+      "body_lines": [
+        "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0dc4 \u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba \u0d85\u0dad\u0dbb \u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dda\u0dc0\u0dcf\u0dc0 \u0d85\u0daf \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0dd2\u0dba.",
+        "\u0dba\u0dcf\u0db4\u0db1\u0dba\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc4\u0dcf \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4 \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0db4\u0dc4\u0dc3\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0db8\u0dd9\u0db8 \u0dc3\u0dda\u0dc0\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0db8\u0dda \u0d85\u0db1\u0dd4\u0dc0 \u0dba\u0dcf\u0db4\u0db1\u0dba \u0d9a\u0dca\u0dc0\u0dd3\u0db1\u0dca\u0dc3\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 06.00 \u0da7 \u0d9a\u0db1\u0dca\u0d9c\u0dda\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda \u0dc3\u0dd2\u0da7 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 8.11 \u0da7 \u0db8\u0dd4\u0dbb\u0dd2\u0d9a\u0db1\u0dca\u0da9\u0dd2 \u0dc0\u0dd9\u0dad \u0dc5\u0d9f\u0dcf \u0dc0\u0dda.",
+        "\u0db1\u0dd0\u0dc0\u0dad \u0d91\u0dad\u0dd0\u0db1\u0dca \u0dc3\u0dd2\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10.00 \u0da7 \u0dba\u0dcf\u0db4\u0db1\u0dba \u0db6\u0dbd\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0db1 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 11.20 \u0da7 \u0dba\u0dcf\u0db4\u0db1\u0dba\u0da7 \u0dc5\u0d9f\u0dcf \u0dc0\u0dda.",
+        "\u0db1\u0dd0\u0dc0\u0dad \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9a\u0db1\u0dca\u0d9c\u0dda\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda \u0dc3\u0dd2\u0da7 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 02.00 \u0da7 \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0dd3 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 4.10 \u0da7 \u0db8\u0dd4\u0dbb\u0dd2\u0d9a\u0db1\u0dca\u0da9\u0dd2 \u0dc0\u0dd9\u0dad \u0dc5\u0d9f\u0dcf \u0dc0\u0dda.",
+        "\u0db8\u0dd9\u0db8 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca \u0db8\u0dd4\u0dbb\u0dd2\u0d9a\u0db1\u0dca\u0da9\u0dd2 \u0dc3\u0dd2\u0da7 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 4.40 \u0da7 \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0dd3 \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 7.20 \u0da7 \u0d9a\u0db1\u0dca\u0d9c\u0dda\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dba \u0dc0\u0dd9\u0dad \u0dc5\u0d9f\u0dcf \u0dc0\u0dda.",
+        "\u0dba\u0dcf\u0db4\u0db1\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d91\u0d9a\u0dca \u0d9c\u0db8\u0db1\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 90 \u0d9a\u0dca, \u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0dd2\u0da7 \u0db4\u0dbd\u0dd9\u0dba\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 60 \u0d9a\u0dca \u0dc3\u0dc4 \u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc3\u0dd2\u0da7 \u0d9a\u0ddc\u0da9\u0dd2\u0d9c\u0db8\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 35 \u0d9a\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dbb\u0dcf\u0dab\u0dd2",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0daf \u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc4\u0dcf \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dbb\u0dd0\u0da2\u0dd2\u0db1\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0db1\u0dca\u0d9c\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "06.00 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "8.11 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "10.00 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "11.20 \u0db4\u0dd9.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0db1\u0dca\u0d9c\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "02.00 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "4.10 \u0db4.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd4\u0dbb\u0dd2\u0d9a\u0db1\u0dca\u0da9\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "4.40 \u0db4.\u0dc0",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0d9a\u0db1\u0dca\u0d9c\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "7.20 \u0db4.\u0dc0",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0da9\u0dd2\u0d9c\u0db8\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "35",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baf\u0bbe\u0bb4\u0bcd \u0bb0\u0bbe\u0ba3\u0bbf \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+      "author": "T. Saranya",
+      "body_lines": [
+        "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0baf\u0bbe\u0bb4\u0bcd\u0bb0\u0bbe\u0ba3\u0bbf\u00a0 \u0b8e\u0ba9\u0bcd\u0bb1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u00a0 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8\u00a0 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0bb0\u0b9a \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd\u0ba8\u0b95\u0bb0\u0bcd \u0baf\u0bbe\u0bb4\u0bcd.\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf\u00a0 \u0baf\u0bbe\u0bb4\u0bcd.\u0bb0\u0bbe\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 06.00 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bc8 8.11 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0b85\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd, \u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u00a0 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd\u00a0 \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bc8 11.20 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd 02.00 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4\u0bae\u0bcd \u0bae\u0bbe\u0bb2\u0bc8 4.10 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0bae\u0bc1\u0bb1\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u00a0 4.40 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4\u0bae\u0bcd \u0b87\u0bb0\u0bb5\u0bc1 7.20 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd.",
+        "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0bb5\u0bb4\u0bbf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bbe\u0b95 90 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bc1\u0bae\u0bcd \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 60 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bbe\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 35 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b85\u0bb1\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3 \u0bb0\u0bbe\u0ba3\u0bbf",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u0bb5\u0bc7 \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd \u0b95\u0bc1\u0baf\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 06.00 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 8.11 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 11.20 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "02.00 PM",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.10 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0bb1\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.40 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bb5\u0bc1 7.20 \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "35",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
