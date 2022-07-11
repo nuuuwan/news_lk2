@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0dc3\u0dc4\u0dba-\u0daf\u0dd0\u0d9a\u0dca-\u0dc0\u0dd6-\u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395310",
+    "time_ut": 1657518616,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0dc3\u0dc4\u0dba \u0daf\u0dd0\u0d9a\u0dca \u0dc0\u0dd6 \u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/59/592643bb.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-4\u0d9a-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0dc0\u0dad\u0dca\u0dad\u0dbd\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-616204",
+    "time_ut": 1657518429,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 4\u0d9a \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad\u0dbd\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/cd/cd66dc43.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Man-caught-with-Rs-30-mn-worth-of-Ice-in-Wattala/108-240835",
     "time_ut": 1657518420,
     "original_lang": "en",
     "original_title": "Man caught with Rs.30 mn worth of Ice in Wattala",
     "file_name": "/tmp/news_lk2/articles/58/58c9ec50.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d91\u0d9a\u0dca-\u0dc0\u0dd6-\u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca-\u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4-\u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0d9f-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616203",
+    "time_ut": 1657518171,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0d91\u0d9a\u0dca \u0dc0\u0dd6 \u0dc3\u0dd0\u0dbb\u0dba\u0db1\u0dca \u0dad\u0dd2\u0dba\u0dd4\u0dab\u0dd4 \u0d86\u0dba\u0dd4\u0db0\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/45/458a69b2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba\u0dda/101-616202",
+    "time_ut": 1657518103,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba\u0dda",
+    "file_name": "/tmp/news_lk2/articles/06/06e8fcbe.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -16,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/c3/c3640a54.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131241",
+    "time_ut": 1657517982,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 - \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/4f/4f2e30bb.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dda-\u0db1\u0dd0\u0dc4\u0dd0\u2019\u2019/1-616201",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dda-\u0db1\u0dd0\u0dc4\u0dd0\u2019\u2019/101-616201",
     "time_ut": 1657517627,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0dc4\u0dcf\u0db1\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd4\u0dc0\u0dda \u0db1\u0dd0\u0dc4\u0dd0\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/ad/ad39fa0e.json"
+    "file_name": "/tmp/news_lk2/articles/50/504d34c7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131236",
+    "time_ut": 1657517492,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb8\u0bcd\u0ba4\u0bbe\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fa/fa5f17d9.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -56,28 +104,36 @@
     "file_name": "/tmp/news_lk2/articles/59/592b0a45.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca-\u0dc0\u0dbd\u0d82\u0d9c\u0dd4-\u0db1\u0dd1-/11-395309",
+    "time_ut": 1657516076,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0db1\u0dd1?",
+    "file_name": "/tmp/news_lk2/articles/2b/2b6ea9cd.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0db1\u0dd2\u0dc1\u0dca\u0dc1\u0d82\u0d9a\u0da7-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf/1-616200",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0db1\u0dd2\u0dc1\u0dca\u0dc1\u0d82\u0d9a\u0da7-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf/101-616200",
     "time_ut": 1657516027,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dc1\u0dca\u0dc1\u0d82\u0d9a\u0da7 \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/dd/dd604634.json"
+    "file_name": "/tmp/news_lk2/articles/ef/effbc92a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/LITRO-gas-distribution-to-resume-today-in-Colombo-suburbs/342-240830",
+    "url": "https://www.dailymirror.lk/breaking_news/LITRO-gas-distribution-to-resume-today-in-Colombo-suburbs/108-240830",
     "time_ut": 1657515921,
     "original_lang": "en",
     "original_title": "LITRO gas distribution to resume today in Colombo, suburbs",
-    "file_name": "/tmp/news_lk2/articles/d2/d2e95bd4.json"
+    "file_name": "/tmp/news_lk2/articles/85/8520ad6f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Pathum-Nissanka-out-of-second-test-with-Covid/342-240829",
+    "url": "https://www.dailymirror.lk/breaking_news/Pathum-Nissanka-out-of-second-test-with-Covid/108-240829",
     "time_ut": 1657515789,
     "original_lang": "en",
     "original_title": "Pathum Nissanka out of second test with Covid",
-    "file_name": "/tmp/news_lk2/articles/b1/b15c2835.json"
+    "file_name": "/tmp/news_lk2/articles/0e/0ebac1f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -105,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da7\u0d9a\u0dad\u0dcf-\u0db6\u0ddc\u0dbb\u0dd4-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-616191",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0da7\u0d9a\u0dad\u0dcf-\u0db6\u0ddc\u0dbb\u0dd4-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616191",
     "time_ut": 1657514419,
     "original_lang": "si",
     "original_title": "\u0d9a\u0da7\u0d9a\u0dad\u0dcf \u0db6\u0ddc\u0dbb\u0dd4 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ab/ab615100.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0c44c6e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -121,11 +177,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Central-Bank-gives-Rs-107bn-in-printed-money-to-CPC-to-finance-fuel-imports/273-240826",
+    "url": "https://www.dailymirror.lk/breaking_news/Central-Bank-gives-Rs-107bn-in-printed-money-to-CPC-to-finance-fuel-imports/108-240826",
     "time_ut": 1657513999,
     "original_lang": "en",
     "original_title": "Central Bank gives Rs.107bn in printed money to CPC to finance fuel imports",
-    "file_name": "/tmp/news_lk2/articles/40/40604cfd.json"
+    "file_name": "/tmp/news_lk2/articles/8e/8e414dea.json"
   },
   {
     "newspaper_id": "ada-lk",
