@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 02:44:03 (LK time)*
+*As of 2022-07-13 02:54:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-ft-lk ([Archeology Dept. takes measures to protect President’s House from further damage by public](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/403464a1.json))
-
-## Last Hour (6 Articles)
+## Last Hour (4 Articles)
 
 * **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
 
-* **1** daily-mirror-lk ([Will the next fuel shipment arrive via  a company owned by a Rajapaksa?](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0027406d.json))
+## Last 3 Hours (23 Articles)
 
-* **1** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
-
-## Last 3 Hours (24 Articles)
-
-* **13** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
+* **12** daily-ft-lk ([Public Commission for Good Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf86c93.json))
 
 * **5** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
 
