@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95-\u0b8e\u0bae\u0bcd\u0bae\u0bbe\u0bb2\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-300289",
+    "time_ut": 1657641859,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0b8e\u0bae\u0bcd\u0bae\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5c/5c444ce2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83606/archaeology-dept-officers-inspect-presidents-house-to-assess-damages",
     "time_ut": 1657641540,
     "original_lang": "en",
     "original_title": "Archaeology Dept. officers inspect President\u2019s House to assess damages",
     "file_name": "/tmp/news_lk2/articles/9c/9c28d8c3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131353",
+    "time_ut": 1657641481,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bc8 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1- \u0b87\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7f/7fb28d04.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Air-tickets-for-workers-flying-to-Japan/342-240929",
+    "url": "https://www.dailymirror.lk/caption_story/Air-tickets-for-workers-flying-to-Japan/110-240929",
     "time_ut": 1657640347,
     "original_lang": "en",
     "original_title": "Air tickets for workers flying to Japan",
-    "file_name": "/tmp/news_lk2/articles/56/56a443d0.json"
+    "file_name": "/tmp/news_lk2/articles/54/54327381.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -134,6 +150,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc7 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/3e/3e969132.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda-\u0dc0\u0dd3\u0dc3\u0dcf-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0d9a\u0dbb\u0dba\u0dd2/11-395365",
+    "time_ut": 1657638826,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda \u0dc0\u0dd3\u0dc3\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9b/9bbb4916.json"
   },
   {
     "newspaper_id": "news-first-lk",
