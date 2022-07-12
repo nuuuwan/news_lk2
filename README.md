@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 23:01:40 (LK time)*
+*As of 2022-07-12 23:13:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([No lawful authority for immigration officers to prevent Prez from flying out - SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de1a7779.json))
-
-## Last 3 Hours (31 Articles)
-
-* **6** daily-mirror-lk ([Hand over President’s House, Secretariat & Temple Trees to authorities - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a32a25.json))
+## Last 3 Hours (30 Articles)
 
 * **5** news-first-lk ([BASL calls for a peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdafeb7b.json))
+
+* **5** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3f7891b.json))
 
 * **5** lankadeepa-lk ([ජනපති ගියොත් ඊළඟ ජනපති වත්මන් අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1061596f.json))
 
@@ -26,21 +22,21 @@
 
 * **2** economy-next-com ([Sri Lanka bakery owners raise bread, other baked good prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9613cdd.json))
 
-## Last 24 Hours (242 Articles)
+## Last 24 Hours (235 Articles)
 
 * **41** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
 * **38** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
-* **33** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
+* **31** daily-mirror-lk ([CB Governor signals he will stay in job, warns turmoil impedes IMF talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09267862.json))
 
 * **29** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **27** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
+* **26** tamil-mirror-lk ([எரிபொருள் வரிசையில் நின்றிருந்தவர் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47e45883.json))
 
 * **21** ada-derana-lk ([Over 225kg of Kerala cannabis seized in Mannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a7864a.json))
 
-* **18** ada-lk ([විරෝධතාවට මුලින් පැමිණි අය අත්අඩංගුවට ගන්න සූදානමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1b1df89.json))
+* **17** ada-lk ([වෙරළබඩ පොලිස් වසමේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc7a2c9.json))
 
 * **13** daily-ft-lk ([When will Sri Lankan children be prioritised in this crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dac2d5.json))
 
@@ -48,9 +44,9 @@
 
 * **4** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
 
-* **4** island-lk ([Hela becomes the first apparel manufacturer to extend the globally-recognised P.A.C.E. program to Egypt](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22116423.json))
-
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
+
+* **1** island-lk ([Get well messages…](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdd1bba0.json))
 
 ## Last Week (608 Articles)
 
