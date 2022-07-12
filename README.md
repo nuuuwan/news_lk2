@@ -1,52 +1,48 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 19:38:20 (LK time)*
+*As of 2022-07-12 19:57:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** virakesari-lk ([பிரதமர் வீட்டிற்கருகில் ஊடகவியலாளர்கள் மீதான தாக்குதல் -விசாரணைகளை ஆரம்பித்த சி.சி.டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38c432ca.json))
+
+* **1** lankadeepa-lk ([ජනතාව නිවන්න කළ හැකි හොඳම දේ මහින්ද දේශපාලනයෙන් සමු ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15a10bd.json))
+
+## Last Hour (5 Articles)
+
+* **2** virakesari-lk ([அரசியல் கட்சித் தலைவர்களிடம் காலிமுகத்திடல் போராட்டக்காரர்கள் முன்வைத்துள்ள முக்கிய யோசனைகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5644e04.json))
 
 * **1** lankadeepa-lk ([ජනතාව නිවන්න කළ හැකි හොඳම දේ මහින්ද දේශපාලනයෙන් සමු ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15a10bd.json))
 
 * **1** ada-derana-lk ([Motor Traffic Dept. to remain closed on Fridays](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ec50ed.json))
 
-* **1** virakesari-lk ([அரசியல் கட்சித் தலைவர்களிடம் காலிமுகத்திடல் போராட்டக்காரர்கள் முன்வைத்துள்ள முக்கிய யோசனைகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5644e04.json))
+* **1** tamil-mirror-lk ([பேராசைப் பிடித்த ரணில்  பதவி விலகுவார் என எதிர்பார்க்க முடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62ac12a5.json))
 
-## Last Hour (8 Articles)
+## Last 3 Hours (34 Articles)
 
-* **4** tamil-mirror-lk ([ஜனாதிபதி மாளிகையைப் பார்வையிட்ட  தொல்பொருள் அதிகாரிகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef3f0731.json))
+* **10** virakesari-lk ([ஊடகவியலாளர்கள் தாக்கப்பட்டமை, பிரதமரின் வீட்டுக்கு தீ மூட்டப்பட்டதையும் வன்மையாகக் கண்டிக்கின்றோம் - அகில இலங்கை ஜம்இய்யத்துல் உலமா சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6037e041.json))
 
-* **1** lankadeepa-lk ([ජනතාව නිවන්න කළ හැකි හොඳම දේ මහින්ද දේශපාලනයෙන් සමු ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15a10bd.json))
+* **7** lankadeepa-lk ([අඩුම ලංසුවට ගෑස් ගන්න: ලිට්රෝ සමාගමට එරෙහිව රිටි පෙත්සමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d561b46.json))
 
-* **1** ada-derana-lk ([Motor Traffic Dept. to remain closed on Fridays](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ec50ed.json))
+* **7** tamil-mirror-lk ([கோட்டாவின் கோரிக்கை: நிராகரித்தது அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bb4de2d.json))
 
-* **1** virakesari-lk ([அரசியல் கட்சித் தலைவர்களிடம் காலிமுகத்திடல் போராட்டக்காரர்கள் முன்வைத்துள்ள முக்கிய யோசனைகள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5644e04.json))
-
-* **1** daily-mirror-lk ([U.S. ‘rejects’ GR’s visa request after recent ousting by mass protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6df54854.json))
-
-## Last 3 Hours (43 Articles)
-
-* **10** lankadeepa-lk ([අගමැති ජපන් මිතුරාට සමු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b4076fd.json))
-
-* **10** virakesari-lk ([விமானநிலையத்தில் ஏற்பட்ட அவமானத்தை தொடர்ந்து இலங்கை ஜனாதிபதி கடல்வழியாக வெளியேறுவது குறித்து ஆராய்கின்றார்- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b650a72.json))
-
-* **8** tamil-mirror-lk ([மத்தளை அதிகாரிகள் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f42fdd66.json))
-
-* **6** ada-lk ([DMT සිකුරාදා වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f82f208.json))
-
-* **3** daily-mirror-lk ([Religious leaders ready to nominate civil activists for Presidency; if no consensus by political parties: Ven. Sobitha Thera](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f3c81c8.json))
-
-* **3** news-first-lk ([Russia says developments in Sri Lanka an Internal Affair](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e304c5eb.json))
+* **3** ada-lk ([ජපාන හිටපු අගමැති අබේට අගමැතිගෙන් අවසන් ගෞරව](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6f49d81.json))
 
 * **2** ada-derana-lk ([Omalpe Sobhitha Thero makes a request from protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/706cd514.json))
 
+* **2** daily-mirror-lk ([Soldiers moved in to protect Rupavahanini, ITN](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e16a6108.json))
+
+* **2** news-first-lk ([CBSL warns public with regard to risks associated with cryptocurrencies](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe7a3db4.json))
+
 * **1** economy-next-com ([Sri Lanka Treasuries yields up, 3-months rise to 32.11-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34ceeadb.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (225 Articles)
 
 * **42** lankadeepa-lk ([ජනාධිපති රටේ ඉන්නවා:පිටව ගිහින් කිව්වේ වැරදීමකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a83ada4.json))
 
-* **39** virakesari-lk ([ஹக்கீமினாலேயே எனது வீடு தீக்கிரையாக்கப்பட்டது : ரணில் காட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a4de7eb.json))
+* **39** virakesari-lk ([ஜனாதிபதி, பிரதமர் பதவி விலகாவிடின் வியாழக்கிழமை நாடு தழுவிய ரீதியில் ஹர்தால் - வசந்த சமரசிங்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd158d1b.json))
 
 * **28** daily-mirror-lk ([UAE’s flydubai suspends operations to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e47439e.json))
 
@@ -56,7 +52,7 @@
 
 * **19** ada-derana-lk ([flydubai suspends Sri Lanka flights indefinitely](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8673f44e.json))
 
-* **17** ada-lk ([ජනපති තවමත් ලංකාවේ ඉන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1cbfd3b.json))
+* **16** ada-lk ([සජිත් අනුප්‍රාප්තික ජනපති කරන යෝජනාව සජබය ඒකමතිකව ස්ථිර කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a17b5c8b.json))
 
 * **13** daily-ft-lk ([When will Sri Lankan children be prioritised in this crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dac2d5.json))
 
@@ -68,7 +64,7 @@
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-## Last Week (569 Articles)
+## Last Week (570 Articles)
 
 * **73** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
@@ -76,7 +72,7 @@
 
 * **66** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759e9102.json))
 
-* **50** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **51** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **49** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -96,7 +92,7 @@
 
 * **15** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (846 Articles)
+## All Time (847 Articles)
 
 * **128** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -108,7 +104,7 @@
 
 * **90** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
-* **50** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **51** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **49** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
