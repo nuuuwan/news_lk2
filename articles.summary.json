@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db1\u0dd2\u0dc0\u0db1\u0dca\u0db1-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc4\u0ddc\u0db3\u0db8-\u0daf\u0dda-\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd4-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2/1-616316",
+    "time_ut": 1657634419,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db1\u0dd2\u0dc0\u0db1\u0dca\u0db1 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc4\u0ddc\u0db3\u0db8 \u0daf\u0dda \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dd4 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e1/e15a10bd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83604/motor-traffic-dept-to-remain-closed-on-fridays",
     "time_ut": 1657633800,
     "original_lang": "en",
     "original_title": "Motor Traffic Dept. to remain closed on Fridays",
     "file_name": "/tmp/news_lk2/articles/67/67ec50ed.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131343",
+    "time_ut": 1657633435,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baf\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/f5/f5644e04.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc3\u0dd4\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dad\u0dcf\u0dc0\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0d85\u0dad\u0daf\u0dd9\u0dba\u0dd2/101-616312",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc3\u0dd4\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dad\u0dcf\u0dc0\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0d85\u0dad\u0daf\u0dd9\u0dba\u0dd2/1-616312",
     "time_ut": 1657630698,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0dc4\u0dcf\u0dbb \u0dc3\u0dd4\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dad\u0dcf\u0dc0\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0d85\u0dad\u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1c/1cf1f633.json"
+    "file_name": "/tmp/news_lk2/articles/d1/d1ca11fc.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1342,6 +1358,14 @@
     "original_lang": "en",
     "original_title": "Basil turns back after trying to leave country?",
     "file_name": "/tmp/news_lk2/articles/89/891f0eb7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83591/basil-turns-back-after-trying-to-fly-out-of-country",
+    "time_ut": 1657590240,
+    "original_lang": "en",
+    "original_title": "Basil turns back after trying to fly out of country",
+    "file_name": "/tmp/news_lk2/articles/19/19acf882.json"
   },
   {
     "newspaper_id": "news-first-lk",
