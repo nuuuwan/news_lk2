@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 22:45:45 (LK time)*
+*As of 2022-07-12 23:01:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([No lawful authority for immigration officers to prevent Prez from flying out - SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de1a7779.json))
 
-* **1** virakesari-lk ([அமைதியான அதிகார மாற்றம் அவசியம்- இலங்கை சட்டத்தரணிகள் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79bba9ad.json))
-
-## Last 3 Hours (35 Articles)
-
-* **6** news-first-lk ([LPL 2022 schedule announced; 24 matches in total](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79adbe1e.json))
+## Last 3 Hours (31 Articles)
 
 * **6** daily-mirror-lk ([Hand over President’s House, Secretariat & Temple Trees to authorities - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a32a25.json))
 
-* **5** virakesari-lk ([பிரதமர் வீட்டிற்கருகில் ஊடகவியலாளர்கள் மீதான தாக்குதல் -விசாரணைகளை ஆரம்பித்த சி.சி.டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38c432ca.json))
+* **5** news-first-lk ([BASL calls for a peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdafeb7b.json))
 
 * **5** lankadeepa-lk ([ජනපති ගියොත් ඊළඟ ජනපති වත්මන් අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1061596f.json))
 
-* **4** ada-derana-lk ([Navy rescues 55 suspected illegal migrants in high seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86a3c1a.json))
+* **4** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
 
 * **4** tamil-mirror-lk ([கையெழுத்திட்டார் கோட்டா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7261ec23.json))
 
 * **3** ada-lk ([ජනපති ඉල්ලා අස්වීමේ ලිපියට අත්සන් තබයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8952815.json))
 
+* **2** ada-derana-lk ([Archaeology Dept. officers inspect President’s House to assess damages](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c28d8c3.json))
+
 * **2** economy-next-com ([Sri Lanka bakery owners raise bread, other baked good prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9613cdd.json))
 
-## Last 24 Hours (243 Articles)
+## Last 24 Hours (242 Articles)
 
 * **41** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
@@ -40,7 +38,7 @@
 
 * **27** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
-* **22** ada-derana-lk ([PM explains events that led to burning of his private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f09aa6dd.json))
+* **21** ada-derana-lk ([Over 225kg of Kerala cannabis seized in Mannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a7864a.json))
 
 * **18** ada-lk ([විරෝධතාවට මුලින් පැමිණි අය අත්අඩංගුවට ගන්න සූදානමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1b1df89.json))
 
