@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 03:16:08 (LK time)*
+*As of 2022-07-13 03:24:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (18 Articles)
 
-* **12** daily-ft-lk ([Public Commission for Good Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf86c93.json))
+* **11** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
 
 * **3** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
@@ -14,7 +14,7 @@
 
 * **1** tamil-mirror-lk ([’லங்கா ப்ரீமியர் லீக்’ ஆரம்பமாகும் திகதி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/192a4993.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (246 Articles)
 
 * **42** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -34,11 +34,11 @@
 
 * **13** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
 
-* **3** b-b-c-com-sinhala ([ජනපතිකම භාර ගන්න සුදානම් :ශ්‍රී ලංකාවේ වත්මන් තත්ත්වය"ව්‍යාකූලයි, අවිනිශ්චිතයි, අරාජිකයි" සජිත් කියයි.](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c11f564.json))
+* **4** b-b-c-com-sinhala ([ජනපතිකම භාර ගන්න සුදානම් :ශ්‍රී ලංකාවේ වත්මන් තත්ත්වය"ව්‍යාකූලයි, අවිනිශ්චිතයි, අරාජිකයි" සජිත් කියයි.](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c11f564.json))
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-## Last Week (629 Articles)
+## Last Week (630 Articles)
 
 * **86** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
@@ -60,13 +60,13 @@
 
 * **31** d-b-s-jeyaraj-com ([Monetary Board Has Decided  to Increase the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank by 100 basis points to 14.50% and 15.50% respectively with immediate effect  States Central  Bank Governor Dr.Nandalal  Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a360b0e3.json))
 
-* **27** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
+* **28** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
 * **18** island-lk ([Of that presidential monkey wrench](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/226f5dc2.json))
 
 * **15** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (913 Articles)
+## All Time (914 Articles)
 
 * **133** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,6 +90,6 @@
 
 * **29** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **27** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
+* **28** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
 * **22** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))

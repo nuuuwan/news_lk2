@@ -272,6 +272,14 @@
     "file_name": "/tmp/news_lk2/articles/77/7794437d.json"
   },
   {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62144683",
+    "time_ut": 1657641322,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dc0 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/66/668c101b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Getting-back-to-normal/342-240930",
     "time_ut": 1657640870,
