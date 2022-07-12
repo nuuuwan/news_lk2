@@ -192,6 +192,14 @@
     "file_name": "/tmp/news_lk2/articles/31/3132faec.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/say-my-name/",
+    "time_ut": 1657645830,
+    "original_lang": "en",
+    "original_title": "Say My Name",
+    "file_name": "/tmp/news_lk2/articles/fc/fc0de7fc.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83607/no-lawful-authority-for-immigration-officers-to-prevent-prez-from-flying-out-slieoa",
     "time_ut": 1657644000,
@@ -1430,6 +1438,14 @@
     "original_lang": "si",
     "original_title": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf \u0dba\u0db1\u0dca\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 17\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
     "file_name": "/tmp/news_lk2/articles/1c/1c15640b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78528",
+    "time_ut": 1657609560,
+    "original_lang": "en",
+    "original_title": "President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday",
+    "file_name": "/tmp/news_lk2/articles/0c/0cf87a7d.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
