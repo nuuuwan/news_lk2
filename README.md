@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 23:13:42 (LK time)*
+*As of 2022-07-12 23:42:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (30 Articles)
-
-* **5** news-first-lk ([BASL calls for a peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdafeb7b.json))
+## Last 3 Hours (25 Articles)
 
 * **5** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3f7891b.json))
 
-* **5** lankadeepa-lk ([ජනපති ගියොත් ඊළඟ ජනපති වත්මන් අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1061596f.json))
-
 * **4** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
 
-* **4** tamil-mirror-lk ([கையெழுத்திட்டார் கோட்டா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7261ec23.json))
+* **4** news-first-lk ([We expect President not to play games: Patali](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b67f92cc.json))
 
-* **3** ada-lk ([ජනපති ඉල්ලා අස්වීමේ ලිපියට අත්සන් තබයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8952815.json))
+* **4** lankadeepa-lk ([ජනපති ඇමෙරිකාවෙන් ඉල්ලූ වීසා ප්‍රතික්ෂේප වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/8109fbfc.json))
+
+* **3** tamil-mirror-lk ([ஜனாதிபதி சென்றால் பிரதமரே அடுத்த ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e969132.json))
 
 * **2** ada-derana-lk ([Archaeology Dept. officers inspect President’s House to assess damages](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c28d8c3.json))
 
-* **2** economy-next-com ([Sri Lanka bakery owners raise bread, other baked good prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9613cdd.json))
+* **2** ada-lk ([ඇමෙරිකාවට යන්න ගෝඨාභයගේ වීසා ඉල්ලීම ඇමෙරිකාව ප්‍රතික්ෂේප කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bbb4916.json))
 
-## Last 24 Hours (235 Articles)
+* **1** economy-next-com ([Petitions filed in Supreme Court to prevent Rajapaksas, officials from leaving Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d091d293.json))
+
+## Last 24 Hours (233 Articles)
 
 * **41** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
@@ -32,7 +32,7 @@
 
 * **29** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **26** tamil-mirror-lk ([எரிபொருள் வரிசையில் நின்றிருந்தவர் மரணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47e45883.json))
+* **25** tamil-mirror-lk ([எரிபொருள் பெற இணைய வசதி ஊடாக விண்ணப்பிக்கலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743cc85a.json))
 
 * **21** ada-derana-lk ([Over 225kg of Kerala cannabis seized in Mannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a7864a.json))
 
@@ -46,15 +46,13 @@
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-* **1** island-lk ([Get well messages…](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdd1bba0.json))
-
-## Last Week (608 Articles)
+## Last Week (606 Articles)
 
 * **76** lankadeepa-lk ([තත්ත්වය බරපතළයි  වහා ප්‍රතිකාර ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2476ef23.json))
 
 * **73** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
-* **72** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759e9102.json))
+* **70** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
 
 * **56** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
