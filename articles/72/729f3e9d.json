@@ -1,0 +1,153 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-395348",
+  "time_ut": 1657617855,
+  "original_lang": "si",
+  "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "A gas ship to Colombo today",
+      "author": "unknown",
+      "body_lines": [
+        "Litro Gas Company says that a ship carrying 3700 metric tons of gas reached Colombo today (12th).",
+        "The company states that the unloading of gas will begin this afternoon and that several more gas ships will arrive in Sri Lanka in the near future."
+      ],
+      "title_ents": [
+        {
+          "text": "Colombo",
+          "label": "PERSON"
+        },
+        {
+          "text": "today",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Litro Gas Company",
+            "label": "ORG"
+          },
+          {
+            "text": "3700 metric tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "this afternoon",
+            "label": "TIME"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d9c\u0dd1\u0dc3\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 3700\u0d9a\u0dca \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d85\u0daf (12\u0daf\u0dcf) \u0dc5\u0d9f\u0dcf\u0dc0\u0dd6 \u0db6\u0dc0 \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d9c\u0dd1\u0dc3\u0dca \u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8 \u0d85\u0daf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0daf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dda \u0daf\u0dd3 \u0dad\u0dc0\u0dad\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dde\u0d9a\u0dcf \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0db8\u0dd9\u0dbb\u0da7\u0da7 \u0dc5\u0d9c\u0dcf\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0\u0dad\u0dca \u0d91\u0dc4 \u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0d85\u0daf",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 3700 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "3700 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (12\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd, \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bb2 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "3700 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
