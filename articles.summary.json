@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Unmasking-of-the-false-heroes/172-240933",
+    "time_ut": 1657656028,
+    "original_lang": "en",
+    "original_title": "Unmasking of the false heroes",
+    "file_name": "/tmp/news_lk2/articles/70/70401091.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CIPM-inaugurates-fourth-regional-centre-in-Gampaha-strengthening-access-to-HR-programs-and-Professional-Development/34-737415",
+    "time_ut": 1657655855,
+    "original_lang": "en",
+    "original_title": "CIPM inaugurates fourth regional centre in Gampaha strengthening access to HR programs and Professional Development",
+    "file_name": "/tmp/news_lk2/articles/51/5102d798.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Clogard-introduces-Clogard-Pancha-Shakthi-all-new-multi-beneficial-toothpaste/34-737414",
+    "time_ut": 1657655719,
+    "original_lang": "en",
+    "original_title": "Clogard introduces Clogard Pancha Shakthi; all-new multi-beneficial toothpaste",
+    "file_name": "/tmp/news_lk2/articles/f6/f634ecac.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Mistral-and-Havells-Air-Fryers-by-Abans-all-in-one-solution-for-gas-shortage/34-737413",
+    "time_ut": 1657655694,
+    "original_lang": "en",
+    "original_title": "Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage",
+    "file_name": "/tmp/news_lk2/articles/23/235ea505.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Raja-From-Trotskyite-lawyer-to-Tamil-Times-Editor/4-737405",
     "time_ut": 1657654629,
@@ -710,6 +742,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0db1\u0dca \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0dda \u0db1\u0dc0 \u0db8\u0dd2\u0dbd 190 \u0dc3\u0dc4 210 \u0d85\u0dad\u0dbb",
     "file_name": "/tmp/news_lk2/articles/67/67d3c25d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131310",
+    "time_ut": 1657624519,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd - \u0b9a\u0bc0\u0ba9\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/5b/5bde9444.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

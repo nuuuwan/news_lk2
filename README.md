@@ -1,40 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 01:24:01 (LK time)*
+*As of 2022-07-13 01:36:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **1** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
+* **4** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
 
-* **1** economy-next-com ([Sri Lanka stocks gain for third straight day amid rise in fixed asset return](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e30ee136.json))
+* **1** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
-## Last Hour (4 Articles)
+## Last Hour (8 Articles)
+
+* **4** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
 
 * **2** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
 
-* **1** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
+* **1** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
 * **1** tamil-mirror-lk ([’லங்கா ப்ரீமியர் லீக்’ ஆரம்பமாகும் திகதி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/192a4993.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (13 Articles)
 
-* **3** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
+* **6** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
+
+* **3** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
 
 * **2** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
 
 * **2** tamil-mirror-lk ([நடுக்கடலில் தத்தளித்த 55 பேர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46239766.json))
 
-* **2** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
+## Last 24 Hours (239 Articles)
 
-## Last 24 Hours (234 Articles)
+* **41** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
 * **41** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
-* **40** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
-
-* **33** daily-mirror-lk ([CB Governor signals he will stay in job, warns turmoil impedes IMF talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09267862.json))
+* **34** daily-mirror-lk ([CB Governor signals he will stay in job, warns turmoil impedes IMF talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09267862.json))
 
 * **29** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
@@ -46,21 +48,21 @@
 
 * **14** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
-* **6** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
+* **9** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
 
 * **4** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-## Last Week (612 Articles)
+## Last Week (617 Articles)
 
-* **76** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
+* **79** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
 * **76** lankadeepa-lk ([තත්ත්වය බරපතළයි  වහා ප්‍රතිකාර ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2476ef23.json))
 
-* **72** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
+* **73** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
 
-* **58** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **59** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **55** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -80,19 +82,19 @@
 
 * **15** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (896 Articles)
+## All Time (901 Articles)
 
 * **133** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **118** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **119** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **111** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
 * **106** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **93** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **96** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
-* **58** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **59** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **55** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
