@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Raja-From-Trotskyite-lawyer-to-Tamil-Times-Editor/4-737405",
+    "time_ut": 1657654629,
+    "original_lang": "en",
+    "original_title": "\u2018Raja\u2019: From Trotskyite lawyer to \u2018Tamil Times\u2019 Editor",
+    "file_name": "/tmp/news_lk2/articles/67/67ff90f5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-for-third-straight-day-amid-rise-in-fixed-asset-return-97295/",
+    "time_ut": 1657654320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain for third straight day amid rise in fixed asset return",
+    "file_name": "/tmp/news_lk2/articles/e3/e30ee136.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/fun-protests-to-toppling-rajapaksa-covering-sri-lankas-unprecedented-presidential-palace-storming-97286/",
     "time_ut": 1657653480,
