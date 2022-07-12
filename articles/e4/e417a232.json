@@ -33,7 +33,11 @@
             "label": "PERCENT"
           },
           {
-            "text": "the quarter since June",
+            "text": "the quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "June",
             "label": "DATE"
           }
         ],
@@ -83,7 +87,11 @@
             "label": "PERCENT"
           },
           {
-            "text": "\u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
           }
         ],
@@ -133,7 +141,11 @@
             "label": "PERCENT"
           },
           {
-            "text": "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "text": "\u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
           }
         ],

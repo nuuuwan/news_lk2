@@ -33,10 +33,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lankas",
-            "label": "ORG"
-          },
-          {
             "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
           },
@@ -58,17 +54,22 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
             "text": "Joint Chambers",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "Joint Chambers",
-            "label": "PERSON"
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Joint Chambers",
+            "label": "ORG"
           },
           {
             "text": "the 13th of July",
@@ -105,6 +106,10 @@
             "label": "ORG"
           },
           {
+            "text": "Joint Chambers",
+            "label": "ORG"
+          },
+          {
             "text": "Parliament",
             "label": "ORG"
           },
@@ -116,7 +121,11 @@
         [
           {
             "text": "Joint Chambers",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "General Election",
+            "label": "ORG"
           }
         ],
         [
@@ -125,8 +134,17 @@
             "label": "ORG"
           }
         ],
-        [],
         [
+          {
+            "text": "Joint Chambers",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "The Joint Chambers",
+            "label": "ORG"
+          },
           {
             "text": "Constitution",
             "label": "LAW"
@@ -162,10 +180,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
           },
@@ -187,17 +201,22 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
             "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
-            "label": "PERSON"
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
+            "label": "ORG"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 13 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf",
@@ -234,6 +253,10 @@
             "label": "ORG"
           },
           {
+            "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
           },
@@ -245,7 +268,11 @@
         [
           {
             "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba",
+            "label": "ORG"
           }
         ],
         [
@@ -254,8 +281,17 @@
             "label": "ORG"
           }
         ],
-        [],
         [
+          {
+            "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dd4\u0da7\u0dd2",
+            "label": "ORG"
+          },
           {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
@@ -291,10 +327,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
@@ -316,17 +348,22 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
             "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 13 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
@@ -363,6 +400,10 @@
             "label": "ORG"
           },
           {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
           },
@@ -374,7 +415,11 @@
         [
           {
             "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bbe\u0ba4\u0bc1 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd",
+            "label": "ORG"
           }
         ],
         [
@@ -383,8 +428,17 @@
             "label": "ORG"
           }
         ],
-        [],
         [
+          {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "LAW"

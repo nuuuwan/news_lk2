@@ -16,12 +16,8 @@
       ],
       "title_ents": [
         {
-          "text": "33 million",
-          "label": "CARDINAL"
-        },
-        {
           "text": "Keralas",
-          "label": "GPE"
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
@@ -31,8 +27,8 @@
             "label": "ORG"
           },
           {
-            "text": "113 kilos",
-            "label": "QUANTITY"
+            "text": "113",
+            "label": "CARDINAL"
           },
           {
             "text": "280 grams",
@@ -43,7 +39,7 @@
             "label": "GPE"
           },
           {
-            "text": "33 million",
+            "text": "over 33 million",
             "label": "CARDINAL"
           },
           {
@@ -53,23 +49,15 @@
           {
             "text": "10th",
             "label": "ORDINAL"
-          },
-          {
-            "text": "Urumalai",
-            "label": "GPE"
           }
         ],
         [
           {
             "text": "the North Central Naval Command",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
-            "text": "Mannar Welipara Urumalai",
-            "label": "PERSON"
-          },
-          {
-            "text": "105 kg",
+            "text": "first 105 kg",
             "label": "QUANTITY"
           },
           {
@@ -96,11 +84,11 @@
           },
           {
             "text": "Kerala",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Mannar",
-            "label": "GPE"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "India",
@@ -108,10 +96,6 @@
           }
         ],
         [
-          {
-            "text": "navy",
-            "label": "ORG"
-          },
           {
             "text": "Kerala",
             "label": "GPE"
@@ -130,12 +114,8 @@
       ],
       "title_ents": [
         {
-          "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0dd2",
-          "label": "CARDINAL"
-        },
-        {
           "text": "\u0d9a\u0dda\u0dbb\u0dc5\u0dba\u0db1\u0dca",
-          "label": "GPE"
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
@@ -145,8 +125,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d9a\u0dd2\u0dbd\u0ddd 113",
-            "label": "QUANTITY"
+            "text": "113",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 280 \u0dba\u0dd2",
@@ -157,7 +137,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0dd2",
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
             "label": "CARDINAL"
           },
           {
@@ -167,23 +147,15 @@
           {
             "text": "10 \u0dc0\u0dd0\u0db1\u0dd2",
             "label": "ORDINAL"
-          },
-          {
-            "text": "\u0d8c\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2",
-            "label": "GPE"
           }
         ],
         [
           {
             "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
-            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dcf\u0dbb \u0d8b\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 105 \u0d9a\u0dd2",
+            "text": "\u0db4\u0dc5\u0db8\u0dd4 105 kg",
             "label": "QUANTITY"
           },
           {
@@ -210,11 +182,11 @@
           },
           {
             "text": "\u0d9a\u0dda\u0dbb\u0dbd",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
-            "label": "GPE"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
@@ -222,10 +194,6 @@
           }
         ],
         [
-          {
-            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
-            "label": "ORG"
-          },
           {
             "text": "\u0d9a\u0dda\u0dbb\u0dbd",
             "label": "GPE"
@@ -244,12 +212,8 @@
       ],
       "title_ents": [
         {
-          "text": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-          "label": "CARDINAL"
-        },
-        {
           "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-          "label": "GPE"
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
@@ -259,8 +223,8 @@
             "label": "ORG"
           },
           {
-            "text": "113 \u0b95\u0bbf\u0bb2\u0bcb",
-            "label": "QUANTITY"
+            "text": "113",
+            "label": "CARDINAL"
           },
           {
             "text": "280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
@@ -271,7 +235,7 @@
             "label": "GPE"
           },
           {
-            "text": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "text": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
             "label": "CARDINAL"
           },
           {
@@ -281,23 +245,15 @@
           {
             "text": "10\u0bb5\u0ba4\u0bc1",
             "label": "ORDINAL"
-          },
-          {
-            "text": "\u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8",
-            "label": "GPE"
           }
         ],
         [
           {
             "text": "\u0bb5\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
-            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bc8 \u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8",
-            "label": "PERSON"
-          },
-          {
-            "text": "105 \u0b95\u0bbf\u0bb2\u0bcb",
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd 105 \u0b95\u0bbf\u0bb2\u0bcb",
             "label": "QUANTITY"
           },
           {
@@ -324,11 +280,11 @@
           },
           {
             "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
-            "label": "GPE"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
@@ -336,10 +292,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
-            "label": "ORG"
-          },
           {
             "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
             "label": "GPE"

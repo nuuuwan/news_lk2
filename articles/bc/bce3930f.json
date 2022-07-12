@@ -46,6 +46,10 @@
           {
             "text": "at least 4 years",
             "label": "DATE"
+          },
+          {
+            "text": "the hardest year",
+            "label": "DATE"
           }
         ],
         [
@@ -95,7 +99,11 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dc3\u0dbb 4 \u0d9a\u0dca",
+            "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 4 \u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0db8\u0dcf\u0dbb\u0dd4\u0db8 \u0dc0\u0dc3\u0dbb",
             "label": "DATE"
           }
         ],
@@ -147,6 +155,10 @@
           },
           {
             "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
             "label": "DATE"
           }
         ],

@@ -87,12 +87,21 @@
           "label": "PERSON"
         },
         {
+          "text": "IMF",
+          "label": "ORG"
+        },
+        {
           "text": "Sri Lanka",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "26-year",
@@ -126,6 +135,10 @@
           }
         ],
         [
+          {
+            "text": "Daily",
+            "label": "DATE"
+          },
           {
             "text": "this week",
             "label": "DATE"
@@ -180,27 +193,22 @@
             "label": "GPE"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "US",
             "label": "GPE"
           },
           {
-            "text": "the Marshall Plan Agency",
+            "text": "the Economic Co-operation Administration",
             "label": "ORG"
+          },
+          {
+            "text": "the Marshall Plan Agency",
+            "label": "LAW"
           },
           {
             "text": "the World Bank",
-            "label": "ORG"
-          },
-          {
-            "text": "IMF",
             "label": "ORG"
           },
           {
@@ -208,26 +216,12 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
+        [],
         [],
         [
           {
             "text": "Asia",
-            "label": "LOC"
-          },
-          {
-            "text": "West",
             "label": "LOC"
           },
           {
@@ -263,23 +257,15 @@
             "label": "PERSON"
           },
           {
-            "text": "Tuesday July 05",
+            "text": "Tuesday July 05, Sri Lanka",
             "label": "DATE"
-          },
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
           },
           {
             "text": "28.6 billion dollars",
             "label": "MONEY"
           },
           {
-            "text": "June this year to end",
-            "label": "DATE"
-          },
-          {
-            "text": "2027",
+            "text": "June this year to end 2027",
             "label": "DATE"
           }
         ],
@@ -301,16 +287,8 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "June",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "August",
@@ -341,10 +319,6 @@
             "label": "GPE"
           },
           {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          },
-          {
             "text": "1 billion dollar",
             "label": "MONEY"
           },
@@ -357,10 +331,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
           },
@@ -371,16 +341,16 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "Sri Lanka",
             "label": "GPE"
           },
           {
             "text": "June 30",
             "label": "DATE"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -459,15 +429,14 @@
             "label": "ORDINAL"
           }
         ],
+        [],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
+            "text": "United States",
+            "label": "GPE"
+          },
           {
-            "text": "The United States Senate Foreign Relations Committee",
+            "text": "Senate Foreign Relations Committee",
             "label": "ORG"
           },
           {
@@ -527,10 +496,6 @@
         ],
         [
           {
-            "text": "Sri Lanka\u2019s",
-            "label": "GPE"
-          },
-          {
             "text": "the past two decades",
             "label": "DATE"
           },
@@ -541,6 +506,10 @@
           {
             "text": "1 billion dollar",
             "label": "MONEY"
+          },
+          {
+            "text": "the eleventh hour",
+            "label": "TIME"
           },
           {
             "text": "the Qatar Charity",
@@ -569,12 +538,20 @@
             "label": "ORG"
           },
           {
+            "text": "Credit Line",
+            "label": "ORG"
+          },
+          {
             "text": "Petroleum and Gas",
             "label": "ORG"
           },
           {
             "text": "IMF",
             "label": "ORG"
+          },
+          {
+            "text": "Wijesekera",
+            "label": "PERSON"
           },
           {
             "text": "Qatar Fund",
@@ -587,11 +564,11 @@
             "label": "ORG"
           },
           {
-            "text": "IMF",
+            "text": "Credit Line",
             "label": "ORG"
           },
           {
-            "text": "pic.twitter.com/tGy82y10Cs",
+            "text": "IMF",
             "label": "ORG"
           }
         ],
@@ -611,6 +588,10 @@
         ],
         [
           {
+            "text": "the Qatar Charity",
+            "label": "ORG"
+          },
+          {
             "text": "yesterday",
             "label": "DATE"
           },
@@ -625,10 +606,6 @@
           {
             "text": "Charity",
             "label": "ORG"
-          },
-          {
-            "text": "SL",
-            "label": "GPE"
           }
         ],
         [
@@ -671,11 +648,15 @@
           },
           {
             "text": "pro-China",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "500 million dollar",
             "label": "MONEY"
+          },
+          {
+            "text": "East Container Terminal",
+            "label": "ORG"
           },
           {
             "text": "ECT",
@@ -720,6 +701,10 @@
             "label": "ORG"
           },
           {
+            "text": "MCC",
+            "label": "ORG"
+          },
+          {
             "text": "Chinese",
             "label": "NORP"
           },
@@ -746,10 +731,6 @@
             "label": "NORP"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "Christian",
             "label": "NORP"
           },
@@ -773,7 +754,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "Podujana Peramuna",
@@ -838,6 +819,10 @@
             "label": "GPE"
           },
           {
+            "text": "Adani",
+            "label": "ORG"
+          },
+          {
             "text": "India",
             "label": "GPE"
           },
@@ -878,8 +863,12 @@
         ],
         [
           {
-            "text": "the Sri Lanka Podujana Party",
-            "label": "FAC"
+            "text": "Wickremesinghe",
+            "label": "ORG"
+          },
+          {
+            "text": "Podujana Party",
+            "label": "ORG"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -898,25 +887,17 @@
           {
             "text": "February 16, 2023",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [],
         [
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Samagi Jana Balawegaya",
-            "label": "PERSON"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -933,7 +914,7 @@
         [
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "PRODUCT"
           },
           {
             "text": "2016",
@@ -965,7 +946,7 @@
           },
           {
             "text": "Fiscal Management Responsibility Law",
-            "label": "LAW"
+            "label": "ORG"
           }
         ],
         [
@@ -974,8 +955,8 @@
             "label": "GPE"
           },
           {
-            "text": "the 17th time",
-            "label": "DATE"
+            "text": "17th",
+            "label": "ORDINAL"
           }
         ],
         [
@@ -986,6 +967,10 @@
           {
             "text": "Argentina",
             "label": "GPE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1012,6 +997,10 @@
           {
             "text": "David Grove",
             "label": "PERSON"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1028,12 +1017,20 @@
             "label": "PERSON"
           },
           {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
             "text": "Ecuador",
             "label": "GPE"
           },
           {
             "text": "David Grove",
             "label": "PERSON"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1055,7 +1052,11 @@
           },
           {
             "text": "Hwan",
-            "label": "ORG"
+            "label": "PERSON"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
           },
           {
             "text": "second",
@@ -1074,6 +1075,10 @@
           {
             "text": "Raul Prebisch",
             "label": "PERSON"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1132,12 +1137,16 @@
             "label": "ORG"
           },
           {
-            "text": "Fund 22",
-            "label": "LAW"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "a 1000 percent",
             "label": "PERCENT"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
           }
         ]
       ]
@@ -1224,12 +1233,21 @@
           "label": "PERSON"
         },
         {
+          "text": "IMF",
+          "label": "ORG"
+        },
+        {
           "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 26",
@@ -1263,6 +1281,10 @@
           }
         ],
         [
+          {
+            "text": "\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf",
+            "label": "DATE"
+          },
           {
             "text": "\u0db8\u0dd9\u0db8 \u0dc3\u0dad\u0dd2\u0dba",
             "label": "DATE"
@@ -1317,27 +1339,22 @@
             "label": "GPE"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
           },
           {
-            "text": "\u0db8\u0dcf\u0dc2\u0dbd\u0dca \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "text": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0dc2\u0dbd\u0dca \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "label": "LAW"
           },
           {
             "text": "\u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
-            "label": "ORG"
-          },
-          {
-            "text": "IMF",
             "label": "ORG"
           },
           {
@@ -1345,26 +1362,12 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
+        [],
         [],
         [
           {
             "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "LOC"
-          },
-          {
-            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb",
             "label": "LOC"
           },
           {
@@ -1400,23 +1403,15 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 05 \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 05 \u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
           },
           {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 28.6 \u0d9a\u0dd2",
             "label": "MONEY"
           },
           {
-            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0da2\u0dd4\u0db1\u0dd2 \u0dc3\u0dd2\u0da7 \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "2027",
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0da2\u0dd4\u0db1\u0dd2 \u0dc3\u0dd2\u0da7 2027 \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "DATE"
           }
         ],
@@ -1438,16 +1433,8 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
@@ -1478,10 +1465,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          },
-          {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1 \u0dba\u0dd2",
             "label": "MONEY"
           },
@@ -1494,10 +1477,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
           },
@@ -1508,16 +1487,16 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
             "text": "\u0da2\u0dd6\u0db1\u0dd2 30",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1596,15 +1575,14 @@
             "label": "ORDINAL"
           }
         ],
+        [],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
           {
-            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0dc3\u0dd9\u0db1\u0dd9\u0da7\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "text": "\u0dc3\u0dd9\u0db1\u0dd9\u0da7\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
             "label": "ORG"
           },
           {
@@ -1664,10 +1642,6 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
-            "label": "GPE"
-          },
-          {
             "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0daf\u0dc1\u0d9a \u0daf\u0dd9\u0d9a",
             "label": "DATE"
           },
@@ -1678,6 +1652,10 @@
           {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1 \u0dba\u0dd2",
             "label": "MONEY"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0ddc\u0dc5\u0ddc\u0dc3\u0dca\u0dc0\u0dd9\u0db1\u0dd2 \u0db4\u0dd0\u0dba",
+            "label": "TIME"
           },
           {
             "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba",
@@ -1706,12 +1684,20 @@
             "label": "ORG"
           },
           {
+            "text": "\u0dab\u0dba \u0dbb\u0dda\u0d9b\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0dc4 \u0d9c\u0dd1\u0dc3\u0dca",
             "label": "ORG"
           },
           {
             "text": "IMF",
             "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
           },
           {
             "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
@@ -1724,11 +1710,11 @@
             "label": "ORG"
           },
           {
-            "text": "IMF",
+            "text": "\u0dab\u0dba \u0dbb\u0dda\u0d9b\u0dcf\u0dc0",
             "label": "ORG"
           },
           {
-            "text": "pic.twitter.com/tGy82y10Cs",
+            "text": "IMF",
             "label": "ORG"
           }
         ],
@@ -1748,6 +1734,10 @@
         ],
         [
           {
+            "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d8a\u0dba\u0dda",
             "label": "DATE"
           },
@@ -1762,10 +1752,6 @@
           {
             "text": "\u0daf\u0dcf\u0db1\u0dba",
             "label": "ORG"
-          },
-          {
-            "text": "\u0d91\u0dc3\u0dca.\u0d91\u0dbd\u0dca",
-            "label": "GPE"
           }
         ],
         [
@@ -1808,11 +1794,15 @@
           },
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba\u0da7 \u0dc4\u0dd2\u0dad\u0dc0\u0dad\u0dca",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 500 \u0d9a\u0dd2",
             "label": "MONEY"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
+            "label": "ORG"
           },
           {
             "text": "ECT",
@@ -1857,6 +1847,10 @@
             "label": "ORG"
           },
           {
+            "text": "MCC",
+            "label": "ORG"
+          },
+          {
             "text": "\u0da0\u0dd3\u0db1",
             "label": "NORP"
           },
@@ -1883,10 +1877,6 @@
             "label": "NORP"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0d9a\u0dca\u0dbb\u0dd2\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0db1\u0dd2",
             "label": "NORP"
           },
@@ -1910,7 +1900,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
@@ -1975,6 +1965,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0d85\u0daf\u0dcf\u0db1\u0dd2",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
             "label": "GPE"
           },
@@ -2015,8 +2009,12 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0d9a\u0dca\u0dc2\u0dba",
-            "label": "FAC"
+            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -2035,25 +2033,17 @@
           {
             "text": "2023 \u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 16",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [],
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
-            "label": "PERSON"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -2070,7 +2060,7 @@
         [
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "PRODUCT"
           },
           {
             "text": "2016",
@@ -2102,7 +2092,7 @@
           },
           {
             "text": "\u0db8\u0dd6\u0dbd\u0dca\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0dc0\u0d9c\u0d9a\u0dd3\u0db8\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0dba",
-            "label": "LAW"
+            "label": "ORG"
           }
         ],
         [
@@ -2111,8 +2101,8 @@
             "label": "GPE"
           },
           {
-            "text": "17 \u0dc0\u0dd9\u0db1\u0dd2 \u0dc0\u0dad\u0dcf\u0dc0",
-            "label": "DATE"
+            "text": "17 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           }
         ],
         [
@@ -2123,6 +2113,10 @@
           {
             "text": "\u0d86\u0dbb\u0dca\u0da2\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -2149,6 +2143,10 @@
           {
             "text": "\u0da9\u0dda\u0dc0\u0dd2\u0da9\u0dca \u0d9c\u0dca\u0dbb\u0ddd\u0dc0\u0dca",
             "label": "PERSON"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -2165,12 +2163,20 @@
             "label": "PERSON"
           },
           {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0d89\u0d9a\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba",
             "label": "GPE"
           },
           {
             "text": "\u0da9\u0dda\u0dc0\u0dd2\u0da9\u0dca \u0d9c\u0dca\u0dbb\u0ddd\u0dc0\u0dca",
             "label": "PERSON"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -2187,12 +2193,16 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc0\u0dc3\u0dbb 7 \u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2",
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 7 \u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2",
             "label": "DATE"
           },
           {
             "text": "\u0dc4\u0dca\u0dc0\u0dcf\u0db1\u0dca",
-            "label": "ORG"
+            "label": "PERSON"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
@@ -2211,6 +2221,10 @@
           {
             "text": "\u0dbb\u0dcf\u0dc0\u0dd4\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd9\u0db6\u0dd2\u0dc2\u0dca",
             "label": "PERSON"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -2269,12 +2283,16 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd 22",
-            "label": "LAW"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1000 \u0d9a\u0dca",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           }
         ]
       ]
@@ -2319,7 +2337,7 @@
         "\"\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8a\u0bb4\u0bb2\u0bc8 \u0b92\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bc0\u0ba3\u0bbe\u0b95\u0bbf\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd. \u0b87\u0ba4\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95\u0bb5\u0bc7 IMF \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b8a\u0bb4\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0b95\u0bcd\u0b95\u0bb1\u0bc8 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 EconomyNext \u0b89\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc2\u0ba4\u0bcd\u0ba4 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
         "\u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0bb5\u0bb1\u0bc1\u0b95\u0bb3\u0bcd: \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0bb5\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9. \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b89\u0b9f\u0ba9\u0bbe\u0ba9 \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc7 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b89\u0ba4\u0bbe\u0bb0\u0ba3\u0bae\u0bcd. \u0baa\u0ba4\u0bbf\u0ba9\u0bcb\u0bb0\u0bbe\u0bae\u0bcd \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0ba4\u0bb5\u0bbf\u0bb0, \u0bb5\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf\u0bae\u0bbe\u0b95 \u0ba4\u0b95\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1. \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b95.",
         "\u201c\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc7\u0ba9\u0bcd. \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0b95\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1,\u201d \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
-        "\u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0b95\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 IMF \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. pic.twitter.com/tGy82y10Cs",
+        "\u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0ba3\u0bc8 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0b95\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 IMF \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. pic.twitter.com/tGy82y10Cs",
         "\u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \"2019 \u0b87\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc8 \u0b85\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0ba9\u0bbf \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\" \u0b85\u0bb5\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
         "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc8 \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. 2019 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba9\u0ba4\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0bb2\u0b95 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. pic.twitter.com/tHzv7HduLV",
         "\u0b87\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
@@ -2361,12 +2379,21 @@
           "label": "PERSON"
         },
         {
+          "text": "IMF",
+          "label": "ORG"
+        },
+        {
           "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "26-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
@@ -2400,6 +2427,10 @@
           }
         ],
         [
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf",
+            "label": "DATE"
+          },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
             "label": "DATE"
@@ -2454,27 +2485,22 @@
             "label": "GPE"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
           },
           {
-            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "text": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bb5\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "LAW"
           },
           {
             "text": "\u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
-            "label": "ORG"
-          },
-          {
-            "text": "IMF",
             "label": "ORG"
           },
           {
@@ -2482,26 +2508,12 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
+        [],
+        [],
         [],
         [
           {
             "text": "\u0b86\u0b9a\u0bbf\u0baf\u0bbe",
-            "label": "LOC"
-          },
-          {
-            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
             "label": "LOC"
           },
           {
@@ -2537,23 +2549,15 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 05 \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
+            "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b9c\u0bc2\u0bb2\u0bc8 05, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
           },
           {
             "text": "28.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "MONEY"
           },
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
-            "label": "DATE"
-          },
-          {
-            "text": "2027",
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2027 \u0bb5\u0bb0\u0bc8",
             "label": "DATE"
           }
         ],
@@ -2575,16 +2579,8 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
@@ -2615,10 +2611,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
-          {
             "text": "1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd",
             "label": "MONEY"
           },
@@ -2631,10 +2623,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
@@ -2645,16 +2633,16 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
             "text": "\u0b9c\u0bc2\u0ba9\u0bcd 30",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -2733,15 +2721,14 @@
             "label": "ORDINAL"
           }
         ],
+        [],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          }
-        ],
-        [
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
           {
-            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc6\u0ba9\u0b9f\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "text": "\u0b9a\u0bc6\u0ba9\u0b9f\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
             "label": "ORG"
           },
           {
@@ -2801,10 +2788,6 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95",
             "label": "DATE"
           },
@@ -2815,6 +2798,10 @@
           {
             "text": "1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd",
             "label": "MONEY"
+          },
+          {
+            "text": "\u0baa\u0ba4\u0bbf\u0ba9\u0bcb\u0bb0\u0bbe\u0bae\u0bcd \u0bae\u0ba3\u0bbf",
+            "label": "TIME"
           },
           {
             "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
@@ -2843,12 +2830,20 @@
             "label": "ORG"
           },
           {
+            "text": "\u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1",
             "label": "ORG"
           },
           {
             "text": "IMF",
             "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
           },
           {
             "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf",
@@ -2861,11 +2856,11 @@
             "label": "ORG"
           },
           {
-            "text": "IMF",
+            "text": "\u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bbf",
             "label": "ORG"
           },
           {
-            "text": "pic.twitter.com/tGy82y10Cs",
+            "text": "IMF",
             "label": "ORG"
           }
         ],
@@ -2885,6 +2880,10 @@
         ],
         [
           {
+            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
             "label": "DATE"
           },
@@ -2899,10 +2898,6 @@
           {
             "text": "\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1",
             "label": "ORG"
-          },
-          {
-            "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd",
-            "label": "GPE"
           }
         ],
         [
@@ -2945,11 +2940,15 @@
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bc1",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "500 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd",
             "label": "MONEY"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "ECT",
@@ -2994,6 +2993,10 @@
             "label": "ORG"
           },
           {
+            "text": "\u0b8e\u0bae\u0bcd.\u0b9a\u0bbf.\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b9a\u0bc0\u0ba9",
             "label": "NORP"
           },
@@ -3020,10 +3023,6 @@
             "label": "NORP"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
             "label": "NORP"
           },
@@ -3047,7 +3046,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
@@ -3112,6 +3111,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0b85\u0ba4\u0bbe\u0ba9\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
             "label": "GPE"
           },
@@ -3152,8 +3155,12 @@
         ],
         [
           {
-            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-            "label": "FAC"
+            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -3172,25 +3179,17 @@
           {
             "text": "\u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 16, 2023",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [],
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
-            "label": "PERSON"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -3207,7 +3206,7 @@
         [
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "PRODUCT"
           },
           {
             "text": "2016",
@@ -3239,7 +3238,7 @@
           },
           {
             "text": "\u0ba8\u0bbf\u0ba4\u0bbf \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "LAW"
+            "label": "ORG"
           }
         ],
         [
@@ -3248,8 +3247,8 @@
             "label": "GPE"
           },
           {
-            "text": "17 \u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8",
-            "label": "DATE"
+            "text": "17\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           }
         ],
         [
@@ -3260,6 +3259,10 @@
           {
             "text": "\u0b85\u0bb0\u0bcd\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe",
             "label": "GPE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -3286,6 +3289,10 @@
           {
             "text": "\u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd \u0b95\u0bc1\u0bb0\u0bcb\u0bb5\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "23",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -3302,12 +3309,20 @@
             "label": "PERSON"
           },
           {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0b88\u0b95\u0bcd\u0bb5\u0b9f\u0bbe\u0bb0\u0bcd",
             "label": "GPE"
           },
           {
             "text": "\u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd \u0b95\u0bc1\u0bb0\u0bcb\u0bb5\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -3329,7 +3344,11 @@
           },
           {
             "text": "\u0bb9\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd",
-            "label": "ORG"
+            "label": "PERSON"
+          },
+          {
+            "text": "17",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
@@ -3348,6 +3367,10 @@
           {
             "text": "\u0bb0\u0bbe\u0bb2\u0bcd \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bbf\u0bb7\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "18",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -3406,12 +3429,16 @@
             "label": "ORG"
           },
           {
-            "text": "\u0ba8\u0bbf\u0ba4\u0bbf 22",
-            "label": "LAW"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b92\u0bb0\u0bc1 1000 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           }
         ]
       ]

@@ -33,12 +33,16 @@
           },
           {
             "text": "Sri Lanka Immigration Officers Association",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "the Silk Route/CIP",
+            "label": "FAC"
+          },
+          {
+            "text": "the trade union",
             "label": "ORG"
           }
         ],
@@ -60,7 +64,7 @@
             "label": "PERSON"
           },
           {
-            "text": "the early hours",
+            "text": "the early hours of the day",
             "label": "TIME"
           }
         ],
@@ -118,12 +122,16 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d86\u0d9c\u0db8\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba/CIP",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2\u0dba",
             "label": "ORG"
           }
         ],
@@ -145,7 +153,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0db8\u0dd4\u0dbd\u0dca \u0db4\u0dd0\u0dba",
+            "text": "\u0daf\u0dc0\u0dc3\u0dda \u0db8\u0dd4\u0dbd\u0dca \u0db4\u0dd0\u0dba",
             "label": "TIME"
           }
         ],
@@ -203,12 +211,16 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0b9f\u0bbf\u0bb5\u0bb0\u0bb5\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0ba4\u0bc8/\u0b9a\u0bbf\u0b90\u0baa\u0bbf",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
             "label": "ORG"
           }
         ],
@@ -226,11 +238,11 @@
             "label": "ORG"
           },
           {
-            "text": "\u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+            "text": "\u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
           },
           {
-            "text": "\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "text": "\u0ba8\u0bbe\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8",
             "label": "TIME"
           }
         ],

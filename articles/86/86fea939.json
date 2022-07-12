@@ -95,10 +95,6 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Dehi Attakandiya",
-            "label": "ORG"
-          },
-          {
             "text": "Kandy",
             "label": "PERSON"
           }
@@ -195,10 +191,6 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0daf\u0dd9\u0dc4\u0dd2 \u0d85\u0dad\u0dca\u0dad\u0d9a\u0dab\u0dca\u0da9\u0dd2\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
             "label": "PERSON"
           }
@@ -293,10 +285,6 @@
           {
             "text": "25,000",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0ba4\u0bc7\u0bb9\u0bbf \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe",
-            "label": "ORG"
           },
           {
             "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",

@@ -31,6 +31,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
             "text": "9.7 percent",
             "label": "PERCENT"
           },
@@ -93,7 +97,7 @@
         ],
         [
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -197,6 +201,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 9.7 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
@@ -259,7 +267,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -363,6 +371,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
             "text": "9.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
@@ -425,7 +437,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {

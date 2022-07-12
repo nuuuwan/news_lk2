@@ -35,7 +35,19 @@
       "body_line_ents_list": [
         [
           {
-            "text": "the Samagi Jana Balavegaya",
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balavegaya",
+            "label": "PERSON"
+          },
+          {
+            "text": "SJB",
             "label": "ORG"
           },
           {
@@ -49,8 +61,12 @@
         ],
         [
           {
-            "text": "Monday July 11",
-            "label": "DATE"
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
+            "text": "11 afternoon",
+            "label": "TIME"
           },
           {
             "text": "Premadasa",
@@ -65,8 +81,8 @@
             "label": "ORG"
           },
           {
-            "text": "the \u2018aragalaya",
-            "label": "GPE"
+            "text": "the \u2018aragalaya\u2019",
+            "label": "PRODUCT"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -76,8 +92,8 @@
         [],
         [
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda",
-            "label": "ORG"
+            "text": "\u0d85\u0dc0\u0dc3\u0db1\u0dca",
+            "label": "GPE"
           }
         ],
         [
@@ -87,7 +103,7 @@
           },
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Ranil Wickremesinghe",
@@ -99,10 +115,6 @@
           },
           {
             "text": "Parliament",
-            "label": "ORG"
-          },
-          {
-            "text": "Colombo/Jul11/2022",
             "label": "ORG"
           }
         ]
@@ -138,7 +150,19 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
             "label": "ORG"
           },
           {
@@ -152,8 +176,12 @@
         ],
         [
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 11 \u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc4\u0dc0\u0dbd\u0dca 11",
+            "label": "TIME"
           },
           {
             "text": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0daf\u0dcf\u0dc3 \u0dba",
@@ -168,8 +196,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba",
-            "label": "GPE"
+            "text": "'\u0d85\u0dbb\u0d9c\u0dbd\u0dba'",
+            "label": "PRODUCT"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -179,8 +207,8 @@
         [],
         [
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda",
-            "label": "ORG"
+            "text": "\u0d85\u0dc0\u0dc3\u0db1\u0dca",
+            "label": "GPE"
           }
         ],
         [
@@ -190,7 +218,7 @@
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
@@ -202,10 +230,6 @@
           },
           {
             "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022",
             "label": "ORG"
           }
         ]
@@ -241,7 +265,19 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
             "label": "ORG"
           },
           {
@@ -255,8 +291,12 @@
         ],
         [
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 11 \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd 11",
+            "label": "TIME"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
@@ -271,8 +311,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b85\u0bb0\u0b95\u0bb2\u0baf",
-            "label": "GPE"
+            "text": "'\u0b85\u0bb0\u0b95\u0bb2\u0baf\u0bbe'",
+            "label": "PRODUCT"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -282,8 +322,8 @@
         [],
         [
           {
-            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bc7",
-            "label": "ORG"
+            "text": "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf",
+            "label": "GPE"
           }
         ],
         [
@@ -293,7 +333,7 @@
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
@@ -305,10 +345,6 @@
           },
           {
             "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022",
             "label": "ORG"
           }
         ]

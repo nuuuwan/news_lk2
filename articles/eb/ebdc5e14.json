@@ -28,6 +28,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
             "text": "one",
             "label": "CARDINAL"
           },
@@ -43,7 +47,7 @@
         [
           {
             "text": "368.35",
-            "label": "CARDINAL"
+            "label": "GPE"
           },
           {
             "text": "370.00",
@@ -83,6 +87,10 @@
           },
           {
             "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Colombo",
             "label": "GPE"
           },
           {
@@ -135,6 +143,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
             "text": "\u0d91\u0d9a",
             "label": "CARDINAL"
           },
@@ -150,7 +162,7 @@
         [
           {
             "text": "368.35 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "label": "GPE"
           },
           {
             "text": "370.00 \u0d9a\u0dd2",
@@ -190,6 +202,10 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
             "label": "GPE"
           },
           {
@@ -242,6 +258,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
           },
@@ -257,7 +277,7 @@
         [
           {
             "text": "368.35",
-            "label": "CARDINAL"
+            "label": "GPE"
           },
           {
             "text": "370.00",
@@ -297,6 +317,10 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
             "label": "GPE"
           },
           {

@@ -19,17 +19,16 @@
         "However, undiyal dealers have some how have been able to continue the informal transaction as there is a strong demand because it offers 15-20 rupees higher than the official bank rate, market officials say.",
         "The central bank\u2019s steps to prevent undiyal transactions so far have failed to control the informal transactions. (Colombo/July 05/2022)"
       ],
-      "title_ents": [
-        {
-          "text": "Sri Lanka Cabinet",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
             "text": "Sri Lankan",
-            "label": "NORP"
+            "label": "LOC"
           },
           {
             "text": "Cabinet",
@@ -71,7 +70,7 @@
         [
           {
             "text": "Sri Lankans",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "the Middle East",
@@ -80,10 +79,6 @@
           {
             "text": "Sri Lanka",
             "label": "GPE"
-          },
-          {
-            "text": "Gunawardena",
-            "label": "PERSON"
           },
           {
             "text": "weekly",
@@ -117,7 +112,12 @@
             "label": "CARDINAL"
           }
         ],
-        []
+        [
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "si": {
@@ -134,17 +134,16 @@
         "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0db1\u0dd2\u0dbd \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0da7 \u0dc0\u0da9\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 15-20\u0d9a\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0db8\u0dd4\u0daf\u0dbd\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd9\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0daf\u0dd0\u0da9\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0 \u0daf\u0dd2\u0d9c\u0da7\u0db8 \u0d9a\u0dbb\u0d9c\u0dd9\u0db1 \u0dba\u0dcf\u0db8\u0da7 undyal \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dd9\u0dc5\u0db3\u0db4\u0dbd \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0dc4\u0dd4 \u0db4\u0dc0\u0dc3\u0dad\u0dd2.",
         "\u0db1\u0ddc\u0daf\u0dd2\u0dba\u0dbd\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dd0\u0dbd\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0db8\u0dd9\u0dad\u0dd9\u0d9a\u0dca \u0d9c\u0dad\u0dca \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d85\u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd3 \u0d87\u0dad. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 05/2022)"
       ],
-      "title_ents": [
-        {
-          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "NORP"
+            "label": "LOC"
           },
           {
             "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
@@ -186,7 +185,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0db8\u0dd0\u0daf \u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c",
@@ -195,10 +194,6 @@
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
-          },
-          {
-            "text": "\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dba",
-            "label": "PERSON"
           },
           {
             "text": "\u0dc3\u0dad\u0dd2\u0db4\u0dad\u0dcf",
@@ -232,7 +227,12 @@
             "label": "CARDINAL"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "ta": {
@@ -249,17 +249,16 @@
         "\u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f 15-20 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd, \u0bb5\u0bb2\u0bc1\u0bb5\u0bbe\u0ba9 \u0ba4\u0bc7\u0bb5\u0bc8 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0b9a\u0bbe\u0bb0\u0bbe \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd.",
         "\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b9a\u0bbe\u0bb0\u0bbe \u0baa\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd \u0ba4\u0bb5\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc8 05/2022)"
       ],
-      "title_ents": [
-        {
-          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "NORP"
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
           },
           {
             "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
@@ -301,7 +300,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
@@ -310,10 +309,6 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
-          },
-          {
-            "text": "\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
-            "label": "PERSON"
           },
           {
             "text": "\u0bb5\u0bbe\u0bb0\u0ba8\u0bcd\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd",
@@ -347,7 +342,12 @@
             "label": "CARDINAL"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          }
+        ]
       ]
     }
   }

@@ -88,7 +88,7 @@
           },
           {
             "text": "Ukraine",
-            "label": "ORG"
+            "label": "GPE"
           }
         ],
         [
@@ -103,6 +103,10 @@
           {
             "text": "Ukraine",
             "label": "GPE"
+          },
+          {
+            "text": "Odesa",
+            "label": "ORG"
           }
         ],
         [
@@ -208,7 +212,7 @@
           },
           {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
-            "label": "ORG"
+            "label": "GPE"
           }
         ],
         [
@@ -223,6 +227,10 @@
           {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d94\u0da9\u0dda\u0dc3\u0dcf",
+            "label": "ORG"
           }
         ],
         [
@@ -328,7 +336,7 @@
           },
           {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
-            "label": "ORG"
+            "label": "GPE"
           }
         ],
         [
@@ -343,6 +351,10 @@
           {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b92\u0b9f\u0bc7\u0b9a\u0bbe",
+            "label": "ORG"
           }
         ],
         [

@@ -24,7 +24,7 @@
         },
         {
           "text": "2029",
-          "label": "DATE"
+          "label": "CARDINAL"
         },
         {
           "text": "2025",
@@ -38,6 +38,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
             "text": "43.5 billion",
             "label": "MONEY"
           },
@@ -48,8 +52,8 @@
         ],
         [
           {
-            "text": "40 billion",
-            "label": "CARDINAL"
+            "text": "40 billion rupees",
+            "label": "MONEY"
           },
           {
             "text": "15 July 2029",
@@ -63,7 +67,7 @@
         [],
         [
           {
-            "text": "3,548 billion",
+            "text": "3,548 billion rupees",
             "label": "MONEY"
           },
           {
@@ -76,10 +80,15 @@
           },
           {
             "text": "30 billion",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
-        [],
+        [
+          {
+            "text": "4.00pm",
+            "label": "CARDINAL"
+          }
+        ],
         [
           {
             "text": "43 percent",
@@ -125,7 +134,7 @@
         },
         {
           "text": "2029",
-          "label": "DATE"
+          "label": "CARDINAL"
         },
         {
           "text": "2025",
@@ -139,6 +148,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 43.5 \u0d9a\u0dd2",
             "label": "MONEY"
           },
@@ -149,8 +162,8 @@
         ],
         [
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 40 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 40\u0d9a\u0dca",
+            "label": "MONEY"
           },
           {
             "text": "2029 \u0da2\u0dd6\u0dbd\u0dd2 15",
@@ -164,7 +177,7 @@
         [],
         [
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3,548 \u0d9a\u0dd2",
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3,548 \u0d9a\u0dd2",
             "label": "MONEY"
           },
           {
@@ -177,10 +190,15 @@
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 30 \u0d9a\u0dd2",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
-        [],
+        [
+          {
+            "text": "4.00 \u0db4.\u0dc0",
+            "label": "CARDINAL"
+          }
+        ],
         [
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 43 \u0d9a\u0dd2",
@@ -226,7 +244,7 @@
         },
         {
           "text": "2029",
-          "label": "DATE"
+          "label": "CARDINAL"
         },
         {
           "text": "2025",
@@ -240,6 +258,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
             "text": "43.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           },
@@ -250,8 +272,8 @@
         ],
         [
           {
-            "text": "40 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "text": "40 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "MONEY"
           },
           {
             "text": "15 \u0b9c\u0bc2\u0bb2\u0bc8 2029",
@@ -265,7 +287,7 @@
         [],
         [
           {
-            "text": "3,548 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "text": "3,548 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
             "label": "MONEY"
           },
           {
@@ -278,10 +300,15 @@
           },
           {
             "text": "30 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0bae\u0bbe\u0bb2\u0bc8 4.00 \u0bae\u0ba3\u0bbf",
+            "label": "CARDINAL"
+          }
+        ],
         [
           {
             "text": "43 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",

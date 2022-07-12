@@ -19,10 +19,18 @@
         {
           "text": "Sri Lanka",
           "label": "GPE"
+        },
+        {
+          "text": "PM",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
           {
             "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
@@ -34,7 +42,7 @@
         ],
         [
           {
-            "text": "Parliament",
+            "text": "Parliament Mahina",
             "label": "ORG"
           },
           {
@@ -57,7 +65,11 @@
           },
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "GPE"
+          },
+          {
+            "text": "evening",
+            "label": "TIME"
           },
           {
             "text": "Rajapaksa",
@@ -75,12 +87,8 @@
             "label": "DATE"
           },
           {
-            "text": "Monday July 11",
+            "text": "Monday July 11 afternoon",
             "label": "DATE"
-          },
-          {
-            "text": "Colombo/Jul11/2022",
-            "label": "ORG"
           }
         ]
       ]
@@ -99,10 +107,18 @@
         {
           "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
           "label": "GPE"
+        },
+        {
+          "text": "PM",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
@@ -114,7 +130,7 @@
         ],
         [
           {
-            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0dc4\u0dd2\u0db1",
             "label": "ORG"
           },
           {
@@ -137,7 +153,11 @@
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dc0\u0dc3",
+            "label": "TIME"
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -155,12 +175,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 11 \u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 11 \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dc3\u0dc0\u0dc3",
             "label": "DATE"
-          },
-          {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022",
-            "label": "ORG"
           }
         ]
       ]
@@ -179,10 +195,18 @@
         {
           "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
           "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bbe\u0bb2\u0bc8",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
@@ -194,7 +218,7 @@
         ],
         [
           {
-            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0bae\u0b95\u0bbf\u0ba9\u0bbe",
             "label": "ORG"
           },
           {
@@ -217,7 +241,11 @@
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbe\u0baf\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bae\u0bcd",
+            "label": "TIME"
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
@@ -235,12 +263,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 11 \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 11 \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022",
-            "label": "ORG"
           }
         ]
       ]

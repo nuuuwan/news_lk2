@@ -15,7 +15,11 @@
       "title_ents": [
         {
           "text": "Kelaniya",
-          "label": "ORG"
+          "label": "GPE"
+        },
+        {
+          "text": "Covid",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
@@ -38,7 +42,11 @@
       "title_ents": [
         {
           "text": "Kelaniya",
-          "label": "ORG"
+          "label": "GPE"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
@@ -61,7 +69,11 @@
       "title_ents": [
         {
           "text": "Kelaniya",
-          "label": "ORG"
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [

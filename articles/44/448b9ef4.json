@@ -23,10 +23,6 @@
           "label": "GPE"
         },
         {
-          "text": "secretariat",
-          "label": "ORG"
-        },
-        {
           "text": "Rajapaksa",
           "label": "PERSON"
         }
@@ -34,7 +30,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -79,10 +75,6 @@
           {
             "text": "Ranil Wickremesinghe",
             "label": "PERSON"
-          },
-          {
-            "text": "earlier",
-            "label": "DATE"
           }
         ],
         [
@@ -98,11 +90,15 @@
         [
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Wickremesinghe",
             "label": "PERSON"
+          },
+          {
+            "text": "Economy Next",
+            "label": "ORG"
           },
           {
             "text": "the past month",
@@ -129,10 +125,6 @@
           "label": "GPE"
         },
         {
-          "text": "\u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-          "label": "ORG"
-        },
-        {
           "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
           "label": "PERSON"
         }
@@ -140,7 +132,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -185,10 +177,6 @@
           {
             "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0db4\u0dd9\u0dbb\u0dcf\u0dad\u0dd4\u0dc0",
-            "label": "DATE"
           }
         ],
         [
@@ -204,11 +192,15 @@
         [
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d8a\u0dc5\u0d9f",
+            "label": "ORG"
           },
           {
             "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3\u0dba",
@@ -235,10 +227,6 @@
           "label": "GPE"
         },
         {
-          "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-          "label": "ORG"
-        },
-        {
           "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
           "label": "PERSON"
         }
@@ -246,7 +234,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
@@ -291,10 +279,6 @@
           {
             "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf",
-            "label": "DATE"
           }
         ],
         [
@@ -310,11 +294,15 @@
         [
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
