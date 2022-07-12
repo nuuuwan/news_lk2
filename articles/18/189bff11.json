@@ -1,0 +1,651 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-makes-payment-for-two-fuel-shipments-97249/",
+  "time_ut": 1657542180,
+  "original_lang": "en",
+  "original_title": "Sri Lanka makes payment for two fuel shipments",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka makes payment for two fuel shipments",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka has paid for two fuel ships which are scheduled to arrive in a few days and part payments have been made for another, Power and Energy Minister Kanchana Wijesekera.",
+        "A shipment that was scheduled to arrive on July 09th had been delayed due to bad weather conditions and is set to arrive on July 15, the minister said in a Tweet.",
+        "\u201cCargo scheduled to arrive on the 9th was delayed due to weather conditions & could not be loaded on time & the supplier has communicated the departure from India this morning,\u201d Minister said.",
+        "\u201cThe new Laycan has been given as 12-15th. All Dates are given by the suppliers & weather permitting.\u201d",
+        "1) On Friday, full payments were made with the assistance of @CBSL & MOF to IOC for a Diesel Cargo to arrive 15-17 & a Petrol Cargo for 22-24. Advance payments were made last week for a Diesel cargo to arrive 15-17 & Petrol 17-19. Balance payment to be made today for the Diesel.",
+        "On Friday, with the assistance of the central bank and the finance ministry, Sri Lanka has made payments in advance to Indian Oil Corporation for a Diesel ship that is scheduled to arrive between July \u2013 15-17 and a Petrol Shipment between July 22-24, the minister said.",
+        "While an advance payment had been made last week for a Diesel cargo to arrive on July 15-17 & Petrol 17-19. Balance payment to be made today 11 for the Diesel and the balance payment for the petrol will be paid on July 12, he said.",
+        "Three more fuel cargos are also set to arrive in Colombo on payment on the delivery basis- 12-15th Diesel, 14-16th Heavy Fuel Oil and 15-17th Crude Oil. (Colombo/Jul11/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "two",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "a few days",
+            "label": "DATE"
+          },
+          {
+            "text": "Kanchana Wijesekera",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "July 09th",
+            "label": "DATE"
+          },
+          {
+            "text": "July 15",
+            "label": "DATE"
+          },
+          {
+            "text": "Tweet",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "9th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "this morning",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "Laycan",
+            "label": "NORP"
+          },
+          {
+            "text": "12-15th",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "@CBSL & MOF",
+            "label": "ORG"
+          },
+          {
+            "text": "IOC",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17 &",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Indian Oil Corporation",
+            "label": "ORG"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "between July \u2013 15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "between July 22-24",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "July 15-17 & Petrol",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "today 11",
+            "label": "DATE"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "July 12",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12-15th",
+            "label": "DATE"
+          },
+          {
+            "text": "Diesel",
+            "label": "ORG"
+          },
+          {
+            "text": "14-16th",
+            "label": "DATE"
+          },
+          {
+            "text": "Heavy Fuel Oil",
+            "label": "EVENT"
+          },
+          {
+            "text": "15-17th",
+            "label": "DATE"
+          },
+          {
+            "text": "Colombo/Jul11/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dad\u0dc0 \u0daf\u0dd2\u0db1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dc0\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd9\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dad\u0dc0\u0dad\u0dca \u0d91\u0d9a\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dbb\u0dca\u0db0 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad, \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0dc4\u0dcf \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb.",
+        "\u0da2\u0dd4\u0dbd\u0dd2 09 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dd2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd3 \u0da2\u0dd4\u0dbd\u0dd2 15 \u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba.",
+        "\"9 \u0dc0\u0db1\u0daf\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dd2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0db1\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0da7\u0dc0\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0d85\u0daf \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0 \u0dba\u0db1 \u0db6\u0dc0 \u0daf\u0db1\u0dca\u0dc0\u0dcf \u0d87\u0dad,\" \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u201c\u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dbd\u0dda\u0d9a\u0db1\u0dca \u0d91\u0d9a \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0db1\u0dda 12-15 \u0d9a\u0dd2\u0dba\u0dbd\u0dcf. \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0daf\u0dd2\u0db1\u0dba\u0db1\u0dca \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dc4 \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0dc0\u0dc3\u0dbb\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "1) \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf, \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a\u0dca 15-17 \u0da7 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a\u0dca 22-24 \u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 IOC \u0dc0\u0dd9\u0dad @CBSL \u0dc3\u0dc4 MOF \u0dc3\u0dc4\u0dcf\u0dba \u0d87\u0dad\u0dd2\u0dc0 \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a\u0dca 15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca 17-19 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0db8\u0dca \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3. \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0d85\u0daf \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dd9\u0dbb\u0dda.",
+        "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf, \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0dc3\u0dc4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0d87\u0dad\u0dd2\u0dc0, \u0da2\u0dd6\u0dbd\u0dd2 - 15-17 \u0d85\u0dad\u0dbb \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0dc3\u0dc4 \u0da2\u0dd6\u0dbd\u0dd2 22-24 \u0d85\u0dad\u0dbb \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0d85\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0db8\u0dca \u0d9c\u0dd9\u0dc0\u0dcf \u0d87\u0dad. , \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a\u0dca \u0da2\u0dd6\u0dbd\u0dd2 15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca 17-19 \u0dba\u0db1 \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0d85\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0db8\u0dca \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d9a\u0dbb \u0d87\u0dad. \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dad\u0dd2\u0dbb\u0dd2\u0dba \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0d85\u0daf 11 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0db8\u0dd4\u0daf\u0dbd \u0da2\u0dd6\u0dbd\u0dd2 12 \u0dc0\u0db1\u0daf\u0dcf \u0d9c\u0dd9\u0dc0\u0db1 \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0da9\u0dd3\u0dc3\u0dbd\u0dca 12-15, 14-16 \u0db6\u0dbb \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dc4 15-17 \u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0dba\u0db1 \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0daf\u0db1\u0db8 \u0db8\u0dad \u0dad\u0dc0\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dba. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0daf\u0dd9\u0d9a",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dd2\u0db1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 09",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "9 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0dda\u0d9a\u0db1\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "12-15",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "@CBSL \u0dc3\u0dc4 MOF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0d95.\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17 \u0dc3\u0dc4",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 - 15-17 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 22-24 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u0dbb\u0dbd\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf 11",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 12",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12-15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "14-16",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db6\u0dbb \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dad\u0dd9\u0dbd\u0dca",
+            "label": "EVENT"
+          },
+          {
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd - \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bb5\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0.",
+        "\u0b9c\u0bc2\u0bb2\u0bc8 09 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bb0\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b92\u0bb0\u0bc1 \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0b95\u0bbf, \u0b9c\u0bc2\u0bb2\u0bc8 15 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b92\u0bb0\u0bc1 \u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\"9 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bb0\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u201c\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb2\u0bc7\u0b95\u0bbe\u0ba9\u0bcd 12-15 \u0b86\u0b95 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc7\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "1) \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0ba9\u0bcd\u0bb1\u0bc1, \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 15-17 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 22-24 \u0bb5\u0bb0\u0bc8 \u0b90\u0b93\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 @CBSL & MOF \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 15-17 & \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd 17-19 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b9f\u0bc0\u0b9a\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd.",
+        "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0ba9\u0bcd\u0bb1\u0bc1, \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd, \u0b9c\u0bc2\u0bb2\u0bc8 - 15-17 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bb5\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b9c\u0bc2\u0bb2\u0bc8 22-24 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd \u0b86\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc7 \u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. , \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b9c\u0bc2\u0bb2\u0bc8 15-17 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd 17-19 \u0b86\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 11\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0baf\u0bc1\u0bae\u0bcd, \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0b9c\u0bc2\u0bb2\u0bc8 12\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "12-15 \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd, 14-16 \u0b95\u0ba9\u0bb0\u0b95 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 15-17 \u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0ba9. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 09",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd",
+            "label": "LOC"
+          }
+        ],
+        [
+          {
+            "text": "9\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb2\u0bc7\u0b95\u0bbe\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "12-15 \u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "@CBSL & MOF",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0b93\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17 &",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd \u0b86\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 - 15-17 \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 22-24 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15-17 & \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 11",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "12-15 \u0bb5\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "14-16",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0bb0\u0b95 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd",
+            "label": "EVENT"
+          },
+          {
+            "text": "15-17 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
