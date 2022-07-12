@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Archeology-Dept-takes-measures-to-protect-President-s-House-from-further-damage-by-public/56-737430",
+    "time_ut": 1657658669,
+    "original_lang": "en",
+    "original_title": "Archeology Dept. takes measures to protect President\u2019s House from further damage by public",
+    "file_name": "/tmp/news_lk2/articles/40/403464a1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Navy-rescues-55-more-distressed-individuals-in-high-seas-while-attempting-to-illegally-migrate/56-737429",
+    "time_ut": 1657658526,
+    "original_lang": "en",
+    "original_title": "Navy rescues 55 more distressed individuals in high seas while attempting to illegally migrate",
+    "file_name": "/tmp/news_lk2/articles/32/32bd54ba.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-inconvenient-truth/4-737428",
+    "time_ut": 1657658359,
+    "original_lang": "en",
+    "original_title": "The inconvenient truth",
+    "file_name": "/tmp/news_lk2/articles/f7/f7ebad21.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Essentials-for-an-interim-all-party-government/4-737426",
     "time_ut": 1657657693,
     "original_lang": "en",
