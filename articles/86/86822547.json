@@ -11,7 +11,7 @@
       "body_lines": [
         "UNP General Secretary Palitha Range Bandara says that if it is not possible to control the epidemic without childish acts like \"Gazette\" to scare the health workers who know very well that saving people's lives is an essential service, they should resign.",
         "Mr. Range Bandara said that the people are being oppressed by Gotabaya during the Anuradhapura era and the current government is also oppressing the people.",
-        "\"After King Sirisangabo, the most unlucky king in this country in the Anuradhapura period is King Gotabhaya. During the period of King Gotabhaya, there were famines and epidemics in the country. Injustice reigned. An era of unrighteous rule was born. Corruption spread. And people's minds were corrupted. The country was in a state of confusion. According to the order to bring the head of King Sirisangabo, many people started killing each other and bringing heads. They tried to earn money by doing so. In the Gotabhaya era of history, we faced such a confused era,\" UNP General Secretary Palitha Range addressed the media through video technology. Mr. Bandara said."
+        "\"After King Sirisangabo, the most unlucky king in this country in the Anuradhapura period is King Gotabhaya. During the period of King Gotabhaya, there were famines and epidemics in the country. Injustice reigned. An era of unrighteous rule was born. Corruption spread. And people's minds were corrupted. The country was in a state of confusion. According to the order to bring the head of King Sirisangabo, many people started killing each other and bringing the heads. They tried to earn money by doing so. In the Gotabaya era of history, we also faced such a confused era,\" UNP General Secretary Palitha Range addressed the media through video technology. Mr. Bandara said."
       ],
       "title_ents": [],
       "body_line_ents_list": [
@@ -61,8 +61,8 @@
             "label": "PERSON"
           },
           {
-            "text": "Gotabhaya",
-            "label": "GPE"
+            "text": "Gotabaya",
+            "label": "PERSON"
           },
           {
             "text": "UNP",
@@ -136,7 +136,7 @@
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0d91\u0da2\u0dcf\u0db4",
@@ -209,8 +209,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf",
-            "label": "GPE"
+            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf",
+            "label": "PERSON"
           },
           {
             "text": "\u0b90.\u0ba4\u0bc7.\u0b95",

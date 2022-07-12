@@ -9,10 +9,10 @@
       "title": "The opposition leader's objection to the course of the government",
       "author": "unknown",
       "body_lines": [
-        "Mr. Sajith Premadasa says that there is an attempt to arrest 5 people including the former provincial council member of JVP Samantha Vidyaratne and the convener of All Ceylon Agrarian Federation Namal Karunaratne and the government should immediately stop scapegoating democratic activists for dictatorial purposes.",
+        "Mr. Sajith Premadasa says that there is an attempt to arrest 5 people including former provincial council member Samantha Vidyaratne of JVP and convener of All Ceylon Agrarian Federation Namal Karunaratne and the government should immediately stop scapegoating democratic activists for dictatorial purposes.",
         "Opposition Leader Sajith Premadasa also stated in a statement that Samagi Jana Balavega strongly opposes and hates the dictatorial and fascist agenda of the government.",
         "The people across the country are already rallying against the government which has inherited the frustration of the people day by day and the government which cannot tolerate it is working at the moment by making suppression, threats and intimidation its policy.",
-        "The government should remember that the rights of expressing opinions freely, struggling democratically, criticizing the government, etc. are guaranteed by the constitution of this country and we will not hesitate to take all necessary and possible measures against the violation of the democratic rights of our brother political parties. We would like to remind the government,\" the opposition leader said in his announcement."
+        "The government should remember that the rights of expressing opinions freely, struggling democratically, criticizing the government etc. are guaranteed by the constitution of this country and we will not hesitate to take all necessary and possible measures against the violation of the democratic rights of our brother political parties. We would like to remind the government,\" the opposition leader said in his announcement."
       ],
       "title_ents": [],
       "body_line_ents_list": [
@@ -28,6 +28,14 @@
           {
             "text": "Samantha Vidyaratne",
             "label": "PERSON"
+          },
+          {
+            "text": "JVP",
+            "label": "ORG"
+          },
+          {
+            "text": "All Ceylon Agrarian Federation",
+            "label": "ORG"
           },
           {
             "text": "Namal Karunaratne",
@@ -82,6 +90,14 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db1\u0dcf\u0db8\u0dbd\u0dca \u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dbb\u0dad\u0dca\u0db1",
             "label": "PERSON"
           }
@@ -132,6 +148,14 @@
           {
             "text": "\u0b9a\u0bae\u0ba8\u0bcd\u0ba4\u0bbe \u0bb5\u0bbf\u0ba4\u0bcd\u0baf\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
           },
           {
             "text": "\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9",
