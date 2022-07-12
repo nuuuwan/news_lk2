@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba4\u0ba4\u0bcd\u0ba4\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4-55-\u0baa\u0bc7\u0bb0\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-300293",
+    "time_ut": 1657651386,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0ba4\u0bcd\u0ba4\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 55 \u0baa\u0bc7\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/46/46239766.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/JVP-urges-PM-to-resign-or-Prez-to-remove-him-to-avert-his-moves-to-become-Act-Prez/108-240932",
+    "time_ut": 1657650415,
+    "original_lang": "en",
+    "original_title": "JVP urges PM to resign or Prez to remove him to avert his moves to become Act. Prez",
+    "file_name": "/tmp/news_lk2/articles/e8/e8c9a41e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/JVP-urges-PM-to-resign-or-Prez-to-remove-him-to-avert-his-moves-to-become-Prez/108-240932",
     "time_ut": 1657650415,
     "original_lang": "en",
     "original_title": "JVP urges PM to resign or Prez to remove him to avert his moves to become Prez",
     "file_name": "/tmp/news_lk2/articles/38/38856c64.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Rationalise-public-and-private-travelling/4-737403",
+    "time_ut": 1657649837,
+    "original_lang": "en",
+    "original_title": "Rationalise public and private travelling",
+    "file_name": "/tmp/news_lk2/articles/31/3132faec.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
