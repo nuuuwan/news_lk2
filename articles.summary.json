@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83606/archaeology-dept-officers-inspect-presidents-house-to-assess-damages",
+    "time_ut": 1657641540,
+    "original_lang": "en",
+    "original_title": "Archaeology Dept. officers inspect President\u2019s House to assess damages",
+    "file_name": "/tmp/news_lk2/articles/9c/9c28d8c3.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/rw-becoming-president-violates-aspirations/",
+    "time_ut": 1657641480,
+    "original_lang": "en",
+    "original_title": "RW becoming President violates aspirations",
+    "file_name": "/tmp/news_lk2/articles/ba/ba43b8c6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Getting-back-to-normal/110-240930",
     "time_ut": 1657640870,
@@ -33,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Air-tickets-for-workers-flying-to-Japan/110-240929",
+    "url": "https://www.dailymirror.lk/latest_news/Air-tickets-for-workers-flying-to-Japan/342-240929",
     "time_ut": 1657640347,
     "original_lang": "en",
     "original_title": "Air tickets for workers flying to Japan",
-    "file_name": "/tmp/news_lk2/articles/54/54327381.json"
+    "file_name": "/tmp/news_lk2/articles/56/56a443d0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -46,6 +62,22 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0db1\u0dd3",
     "file_name": "/tmp/news_lk2/articles/dc/dc3959fe.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/fugitive-mahendran-speaks-about-sri-lankas-economy/",
+    "time_ut": 1657640220,
+    "original_lang": "en",
+    "original_title": "Fugitive Mahendran speaks about Sri Lanka\u2019s economy",
+    "file_name": "/tmp/news_lk2/articles/ee/ee05eea5.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/slaf-reject-social-media-claims-on-presidents-whereabouts/",
+    "time_ut": 1657640040,
+    "original_lang": "en",
+    "original_title": "SLAF reject social media claims on President\u2019s whereabouts",
+    "file_name": "/tmp/news_lk2/articles/d5/d56becfc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -88,12 +120,28 @@
     "file_name": "/tmp/news_lk2/articles/d3/d3f7891b.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/we-expect-president-not-to-play-games-patali/",
+    "time_ut": 1657639080,
+    "original_lang": "en",
+    "original_title": "We expect President not to play games: Patali",
+    "file_name": "/tmp/news_lk2/articles/b6/b67f92cc.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc7-\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-300285",
     "time_ut": 1657638979,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc7 \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/3e/3e969132.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/basl-calls-for-a-peaceful-transition-of-power/",
+    "time_ut": 1657638720,
+    "original_lang": "en",
+    "original_title": "BASL calls for a peaceful transition of power",
+    "file_name": "/tmp/news_lk2/articles/bd/bdafeb7b.json"
   },
   {
     "newspaper_id": "economy-next-com",
