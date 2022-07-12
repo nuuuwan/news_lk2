@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 02:54:21 (LK time)*
+*As of 2022-07-13 03:07:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
-* **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
+* **3** daily-ft-lk ([The inconvenient truth](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7ebad21.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (20 Articles)
 
 * **12** daily-ft-lk ([Public Commission for Good Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf86c93.json))
 
-* **5** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
+* **3** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
 * **3** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
 
 * **2** tamil-mirror-lk ([நடுக்கடலில் தத்தளித்த 55 பேர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46239766.json))
 
-* **1** ada-derana-lk ([Wanted ex-CBSL governor speaks to CNN about Sri Lanka’s crisis situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c55faaa2.json))
-
-## Last 24 Hours (246 Articles)
+## Last 24 Hours (245 Articles)
 
 * **42** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -40,7 +38,7 @@
 
 * **13** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
 
-* **4** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
+* **3** b-b-c-com-sinhala ([ජනපතිකම භාර ගන්න සුදානම් :ශ්‍රී ලංකාවේ වත්මන් තත්ත්වය"ව්‍යාකූලයි, අවිනිශ්චිතයි, අරාජිකයි" සජිත් කියයි.](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c11f564.json))
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
