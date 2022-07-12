@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 02:22:13 (LK time)*
+*As of 2022-07-13 02:30:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
+* **3** daily-ft-lk ([The inconvenient truth](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7ebad21.json))
 
-## Last Hour (14 Articles)
+## Last Hour (9 Articles)
 
-* **10** daily-ft-lk ([Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235ea505.json))
+* **6** daily-ft-lk ([CINEC Campus partners Sri Lanka Automobile Service Providers Association](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05361efa.json))
 
-* **3** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
+* **2** daily-mirror-lk ([What next? - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafac05e.json))
 
 * **1** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
 
