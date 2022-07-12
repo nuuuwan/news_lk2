@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 00:27:05 (LK time)*
+*As of 2022-07-13 00:34:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,21 +16,17 @@
 
 * **1** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (7 Articles)
 
-* **4** virakesari-lk ([இலங்கை ஜனாதிபதியின் விசாவேண்டுகோளை அமெரிக்கா நிராகரித்துள்ளது- இந்து நாளிதழ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fb28d04.json))
+* **2** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
 
-* **3** daily-mirror-lk ([Gas distribution...](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7794437d.json))
+* **2** virakesari-lk ([தப்பிச் செல்ல முயலும் ஜனாதிபதி கோட்டாபய ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e873971.json))
 
-* **2** tamil-mirror-lk ([ஜனாதிபதியை தடுக்க எம்மால் முடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c444ce2.json))
-
-* **2** ada-derana-lk ([Archaeology Dept. officers inspect President’s House to assess damages](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c28d8c3.json))
+* **1** tamil-mirror-lk ([நடுக்கடலில் தத்தளித்த 55 பேர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46239766.json))
 
 * **1** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
 
-* **1** ada-lk ([මහින්ද ප්‍රසිද්ධියේ සමාව ඉල්ලිය යුතුයි - පාඨලී](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea887c61.json))
-
-* **1** news-first-lk ([RW becoming President violates aspirations](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba43b8c6.json))
+* **1** ada-derana-lk ([No lawful authority for immigration officers to prevent Prez from flying out - SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de1a7779.json))
 
 ## Last 24 Hours (238 Articles)
 
