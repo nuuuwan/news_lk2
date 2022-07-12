@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/JVP-urges-PM-to-resign-or-Prez-to-remove-him-to-avert-his-moves-to-become-Prez/108-240932",
+    "time_ut": 1657650415,
+    "original_lang": "en",
+    "original_title": "JVP urges PM to resign or Prez to remove him to avert his moves to become Prez",
+    "file_name": "/tmp/news_lk2/articles/38/38856c64.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83607/no-lawful-authority-for-immigration-officers-to-prevent-prez-from-flying-out-slieoa",
     "time_ut": 1657644000,
@@ -73,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gas-distribution/342-240931",
+    "url": "https://www.dailymirror.lk/caption_story/Gas-distribution/110-240931",
     "time_ut": 1657641448,
     "original_lang": "en",
     "original_title": "Gas distribution...",
-    "file_name": "/tmp/news_lk2/articles/40/40abf261.json"
+    "file_name": "/tmp/news_lk2/articles/77/7794437d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
