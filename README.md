@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 20:26:37 (LK time)*
+*As of 2022-07-12 20:31:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** tamil-mirror-lk ([கையெழுத்திட்டார் கோட்டா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7261ec23.json))
 
 * **1** daily-mirror-lk ([Hand over President’s House, Secretariat & Temple Trees to authorities - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a32a25.json))
 
-* **1** ada-derana-lk ([Navy rescues 55 suspected illegal migrants in high seas](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86a3c1a.json))
-
-* **1** news-first-lk ([LPL 2022 schedule announced; 24 matches in total](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79adbe1e.json))
-
 ## Last Hour (5 Articles)
+
+* **1** tamil-mirror-lk ([கையெழுத்திட்டார் கோட்டா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7261ec23.json))
 
 * **1** daily-mirror-lk ([Hand over President’s House, Secretariat & Temple Trees to authorities - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a32a25.json))
 
@@ -22,15 +22,13 @@
 
 * **1** virakesari-lk ([பிரதமர் வீட்டிற்கருகில் ஊடகவியலாளர்கள் மீதான தாக்குதல் -விசாரணைகளை ஆரம்பித்த சி.சி.டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38c432ca.json))
 
-* **1** lankadeepa-lk ([ජනතාව නිවන්න කළ හැකි හොඳම දේ මහින්ද දේශපාලනයෙන් සමු ගැනීමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15a10bd.json))
+## Last 3 Hours (24 Articles)
 
-## Last 3 Hours (25 Articles)
+* **8** tamil-mirror-lk ([கோட்டாவின் கோரிக்கை: நிராகரித்தது அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bb4de2d.json))
 
-* **7** tamil-mirror-lk ([கோட்டாவின் கோரிக்கை: நிராகரித்தது அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bb4de2d.json))
+* **4** virakesari-lk ([மன்னார் இலுப்பைக்கடவை பகுதியில் 203 கிலோ கிராம் கேரள கஞ்சா பொதிகளுடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a708c5f4.json))
 
-* **5** virakesari-lk ([மன்னாரில் போக்குவரத்து சேவைகள் தடைப்பட்டமையால் ஆத்திரமடைந்த மக்கள் : வேடிக்கை பார்த்த பொலிஸார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb294404.json))
-
-* **5** lankadeepa-lk ([අන්තර් පළාත් පෞද්ගලික බස් රථ 3000ක් ධාවනයෙන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0bf8833.json))
+* **4** lankadeepa-lk ([ආගමන විගමන නිලධාරීන් මත්තල සාමාන්‍ය පරිදි වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0266ee2c.json))
 
 * **3** daily-mirror-lk ([Soldiers moved in to protect Rupavahanini, ITN](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e16a6108.json))
 
@@ -44,13 +42,13 @@
 
 * **41** lankadeepa-lk ([‘‘දේශපාලන අස්ථාවරත්වය අයි.එම්.එෆ් සාකච්ඡාවලට බාධාවක්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ed6c9b3.json))
 
-* **36** virakesari-lk ([ஜனாதிபதி நாட்டில் உள்ளார் – முப்படை தளபதிகளை சந்தித்துள்ளார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb012731.json))
+* **35** virakesari-lk ([நாட்டில் கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/142c2134.json))
 
 * **29** daily-mirror-lk ([UAE’s flydubai suspends operations to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e47439e.json))
 
-* **24** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
+* **24** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
-* **23** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
+* **24** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
 * **20** ada-derana-lk ([flydubai suspends Sri Lanka flights indefinitely](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8673f44e.json))
 
@@ -66,7 +64,7 @@
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-## Last Week (574 Articles)
+## Last Week (575 Articles)
 
 * **73** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
@@ -76,7 +74,7 @@
 
 * **51** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **49** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **50** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **45** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
@@ -94,7 +92,7 @@
 
 * **15** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (851 Articles)
+## All Time (852 Articles)
 
 * **128** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -108,7 +106,7 @@
 
 * **51** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **49** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **50** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **47** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
