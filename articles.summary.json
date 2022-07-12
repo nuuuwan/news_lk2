@@ -1,11 +1,59 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Will-the-next-fuel-shipment-arrive-via-a-company-owned-by-a-Rajapaksa/231-240935",
+    "time_ut": 1657657097,
+    "original_lang": "en",
+    "original_title": "Will the next fuel shipment arrive via  a company owned by a Rajapaksa?",
+    "file_name": "/tmp/news_lk2/articles/00/0027406d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-central-banks-guidance-peg-strengthens-95-cents-dollar-shortage-remains-97296/",
+    "time_ut": 1657657020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka central bank\u2019s guidance peg strengthens 95 cents; dollar shortage remains",
+    "file_name": "/tmp/news_lk2/articles/b8/b8fdff94.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Ideamart-a-digital-gateway-for-aspiring-women-entrepreneurs/34-737418",
+    "time_ut": 1657656184,
+    "original_lang": "en",
+    "original_title": "Ideamart, a digital gateway for aspiring women entrepreneurs",
+    "file_name": "/tmp/news_lk2/articles/35/35f00fcd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/What-next-EDITORIAL/231-240934",
+    "time_ut": 1657656117,
+    "original_lang": "en",
+    "original_title": "What next? - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/ba/bafac05e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CINEC-Campus-partners-Sri-Lanka-Automobile-Service-Providers-Association/34-737417",
+    "time_ut": 1657656065,
+    "original_lang": "en",
+    "original_title": "CINEC Campus partners Sri Lanka Automobile Service Providers Association",
+    "file_name": "/tmp/news_lk2/articles/05/05361efa.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Unmasking-of-the-false-heroes/172-240933",
     "time_ut": 1657656028,
     "original_lang": "en",
     "original_title": "Unmasking of the false heroes",
     "file_name": "/tmp/news_lk2/articles/70/70401091.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/News-Publisher-becomes-1st-Corporate-Communications-Agency-in-SL-to-accept-crypto-currency/34-737416",
+    "time_ut": 1657655965,
+    "original_lang": "en",
+    "original_title": "News Publisher becomes 1st Corporate Communications Agency in SL to accept crypto-currency",
+    "file_name": "/tmp/news_lk2/articles/56/564ca8c0.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -185,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Getting-back-to-normal/110-240930",
+    "url": "https://www.dailymirror.lk/latest_news/Getting-back-to-normal/342-240930",
     "time_ut": 1657640870,
     "original_lang": "en",
     "original_title": "Getting back to normal...",
-    "file_name": "/tmp/news_lk2/articles/53/5331d313.json"
+    "file_name": "/tmp/news_lk2/articles/0a/0a0e34e9.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
