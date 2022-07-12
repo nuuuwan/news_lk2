@@ -1,12 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 17:06:55 (LK time)*
+*As of 2022-07-12 17:15:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (11 Articles)
 
-* **2** ada-lk ([DMT සිකුරාදා වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f82f208.json))
+* **4** virakesari-lk ([விமானநிலையத்தில் ஏற்பட்ட அவமானத்தை தொடர்ந்து இலங்கை ஜனாதிபதி கடல்வழியாக வெளியேறுவது குறித்து ஆராய்கின்றார்- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b650a72.json))
+
+* **3** ada-lk ([පාන් ගෙඩියේ නව මිල 190 සහ 210 අතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67d3c25d.json))
+
+* **1** ada-derana-lk ([Omalpe Sobhitha Thero makes a request from protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/706cd514.json))
+
+* **1** lankadeepa-lk ([කොළඹට ගෑස් සිලින්ඩර 75,000 ක් බෙදලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6804025.json))
+
+* **1** daily-mirror-lk ([Religious leaders ready to nominate civil activists for Presidency; if no consensus by political parties: Ven. Sobitha Thera](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f3c81c8.json))
+
+* **1** tamil-mirror-lk ([மத்தளை அதிகாரிகள் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f42fdd66.json))
+
+## Last Hour (14 Articles)
+
+* **5** virakesari-lk ([பசிலின் முயற்சி தோல்வி : கட்டுநாயக்க, மத்தள விமான நிலையங்களின் சிறப்பு விருந்தினர் நுழைவுப் பாதைகளுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fda311c.json))
+
+* **4** ada-lk ([DMT සිකුරාදා වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f82f208.json))
 
 * **2** lankadeepa-lk ([අගමැති ජපන් මිතුරාට සමු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbd398b2.json))
 
@@ -16,25 +32,13 @@
 
 * **1** tamil-mirror-lk ([மத்தளை அதிகாரிகள் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f42fdd66.json))
 
-## Last Hour (8 Articles)
+## Last 3 Hours (54 Articles)
 
-* **2** ada-lk ([DMT සිකුරාදා වැසෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f82f208.json))
-
-* **2** lankadeepa-lk ([අගමැති ජපන් මිතුරාට සමු දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbd398b2.json))
-
-* **1** ada-derana-lk ([Omalpe Sobhitha Thero makes a request from protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/706cd514.json))
-
-* **1** daily-mirror-lk ([Religious leaders ready to nominate civil activists for Presidency; if no consensus by political parties: Ven. Sobitha Thera](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f3c81c8.json))
-
-* **1** tamil-mirror-lk ([மத்தளை அதிகாரிகள் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f42fdd66.json))
-
-* **1** virakesari-lk ([பசிலின் முயற்சி தோல்வி : கட்டுநாயக்க, மத்தள விமான நிலையங்களின் சிறப்பு விருந்தினர் நுழைவுப் பாதைகளுக்கு பூட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fda311c.json))
-
-## Last 3 Hours (48 Articles)
+* **11** ada-lk ([වෙරළබඩ පොලිස් වසමේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc7a2c9.json))
 
 * **10** lankadeepa-lk ([‘‘හිටපු ජනපති ඇතුළු පහකට රටින් යන්න දෙන්න එපා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c381c00.json))
 
-* **9** ada-lk ([වෙරළබඩ පොලිස් වසමේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc7a2c9.json))
+* **9** virakesari-lk ([ஜனாதிபதி பதவி விலகிய பின்னர் ஜனாதிபதி செயலகத்தையும் அலரி மாளிகையையும் இராணுவத்தினரிடம் ஒப்படைக்கவேண்டும் - ஓமல்பே தேரர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/fff79134.json))
 
 * **7** daily-mirror-lk ([Prices of bakery products including bread up from tonight](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87574914.json))
 
@@ -42,27 +46,25 @@
 
 * **5** tamil-mirror-lk ([மஹிந்த, பசிலுக்கு எதிராக மனுத்தாக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed66ecf5.json))
 
-* **5** virakesari-lk ([ஜனாதிபதி பதவி விலகிய பின்னர் ஜனாதிபதி செயலகத்தையும் அலரி மாளிகையையும் இராணுவத்தினரிடம் ஒப்படைக்கவேண்டும் - ஓமல்பே தேரர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/fff79134.json))
-
 * **4** ada-derana-lk ([SC order sought barring Mahinda, Basil, Cabraal and more from leaving country](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5041f71.json))
 
 * **1** economy-next-com ([Strong Rajapaksa dynasty member refused to leave Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df002e48.json))
 
-## Last 24 Hours (215 Articles)
+## Last 24 Hours (216 Articles)
 
 * **39** lankadeepa-lk ([මාර්ග අංක 138 බස් වර්ජනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb9e551c.json))
 
-* **31** virakesari-lk ([அமைதிப்போராட்டக்காரர்களுக்கும் ஊடகவியலாளர்களுக்கும் எதிராக இடம்பெற்ற தாக்குதல்கள் தொடர்பில் உரிய விசாரணைகள் அவசியம் - ஐக்கிய நாடுகள் சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a71cf6.json))
+* **34** virakesari-lk ([ஜனாதிபதி கோட்டாபய - பிரதமர் ரணில் ஆகியோரை பதவியில் வைத்துக்கொண்டு பிரச்சினைக்கு தீர்வுகாண முடியாது - சம்பிக்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/537a5a72.json))
 
-* **30** daily-mirror-lk ([Stop suppressing protesters...](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d024806.json))
+* **29** daily-mirror-lk ([Govt. should work within constitution, no one can go beyond it: PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2289666.json))
 
-* **21** ada-lk ([නිවසට ගිනි තබන අවස්ථාවේදී මම නිවසේ සිටියා](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5b97fdd.json))
-
-* **20** tamil-mirror-lk ([வெளிநாட்டில் இருக்கிறார் ஜனாதிபதி கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c3d0ef1.json))
+* **21** ada-lk ([මම ඉන්නේ ව්‍යවස්ථාව ආරක්ෂා කරන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5bf1176.json))
 
 * **20** news-first-lk ([Speaker reveals decisions taken at crucial party leaders meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f6ceaac.json))
 
 * **19** ada-derana-lk ([Parliament to elect new President on July 20 - SJB general secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c528704.json))
+
+* **19** tamil-mirror-lk ([ஹெல்மட்டை வீசிய அதிகாரி ஆயுதத்துடன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0032cdb2.json))
 
 * **15** daily-ft-lk ([Election for new President on 20 July](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e307e4d2.json))
 
@@ -72,7 +74,7 @@
 
 * **3** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
 
-## Last Week (530 Articles)
+## Last Week (536 Articles)
 
 * **73** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
@@ -80,11 +82,11 @@
 
 * **63** lankadeepa-lk ([තත්ත්වය බරපතළයි  වහා ප්‍රතිකාර ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2476ef23.json))
 
+* **44** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+
+* **43** ada-lk ([පර්පෙචුවල් ට්‍රෙෂරීස් ව්‍යාපාර කටයුතු අත්හිටුවීම දීර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b26a820.json))
+
 * **42** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
-
-* **41** ada-lk ([පර්පෙචුවල් ට්‍රෙෂරීස් ව්‍යාපාර කටයුතු අත්හිටුවීම දීර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b26a820.json))
-
-* **40** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **40** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
@@ -100,7 +102,7 @@
 
 * **13** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (806 Articles)
+## All Time (812 Articles)
 
 * **120** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -108,15 +110,15 @@
 
 * **108** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **98** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **100** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **90** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **46** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **42** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **44** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **40** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **42** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **40** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
