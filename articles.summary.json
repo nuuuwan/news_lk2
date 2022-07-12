@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/daily-exchange-rate-from-cbsl-12/",
+    "time_ut": 1657619520,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/d5/d53eea47.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab\u0dba\u0d9a\u0dca/1-616301",
+    "time_ut": 1657619218,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db8\u0dbb\u0dab\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/94/94176a6e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83601/price-of-bread-and-bakery-products-increased",
     "time_ut": 1657618980,
     "original_lang": "en",
     "original_title": "Price of bread and bakery products increased",
     "file_name": "/tmp/news_lk2/articles/83/832fe5fa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0dc3\u0dca-\u0d91\u0db8\u0dca-\u0dbd\u0dcf-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0dba\u0dad\u0dd2/1-616300",
+    "time_ut": 1657618815,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0dc3\u0dca.\u0d91\u0db8\u0dca \u0dbd\u0dcf \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0dba\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/bb/bb181aac.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -22,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Mother, son nabbed with heroin worth Rs. 550 mn",
     "file_name": "/tmp/news_lk2/articles/a0/a0e8d7a3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca-10\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395349",
+    "time_ut": 1657618413,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca 10\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6d/6d44688d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -48,12 +80,28 @@
     "file_name": "/tmp/news_lk2/articles/ff/fff79134.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/rs-550-mn-worth-heroin-seized-mother-son-duo-arrested/",
+    "time_ut": 1657617960,
+    "original_lang": "en",
+    "original_title": "Rs. 550 Mn worth heroin seized; Mother, Son duo arrested",
+    "file_name": "/tmp/news_lk2/articles/dd/dd595d8d.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d85\u0daf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-395348",
     "time_ut": 1657617855,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d85\u0daf \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
     "file_name": "/tmp/news_lk2/articles/72/729f3e9d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/bread-prices-up-by-rs-20/",
+    "time_ut": 1657617720,
+    "original_lang": "en",
+    "original_title": "Bread prices up by Rs. 20/-",
+    "file_name": "/tmp/news_lk2/articles/6f/6f16377e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

@@ -1,0 +1,186 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/07/12/bread-prices-up-by-rs-20/",
+  "time_ut": 1657617720,
+  "original_lang": "en",
+  "original_title": "Bread prices up by Rs. 20/-",
+  "text_idx": {
+    "en": {
+      "title": "Bread prices up by Rs. 20/-",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); The price of a 450g loaf of bread will be increased by Rs. 20/- with effect from midnight today (12).",
+        "Accordingly, the new prices of a\u00a0450g loaf of bread will be Rs. 190/-.",
+        "In addition, the prices of all other bakery products will be increased by Rs. 10/-."
+      ],
+      "title_ents": [
+        {
+          "text": "Rs",
+          "label": "PERSON"
+        },
+        {
+          "text": "20/-",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Rs",
+            "label": "PERSON"
+          },
+          {
+            "text": "20/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "midnight today",
+            "label": "TIME"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "10/-",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db4\u0dcf\u0db1\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 20/-",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 450 \u0db4\u0dcf\u0db1\u0dca \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd9\u0dbb\u0dda. 20/- \u0d85\u0daf (12) \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dda.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 450 \u0db4\u0dcf\u0db1\u0dca \u0d9c\u0dd9\u0da9\u0dd2\u0dba\u0d9a \u0db1\u0dc0 \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 190/-\u0d9a\u0dd2.",
+        "\u0db8\u0dd3\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db6\u0dda\u0d9a\u0dbb\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dc0\u0dbd \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 10/-."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "20/-",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "20/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0daf \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba",
+            "label": "TIME"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "10/-",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2.5 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1. 20/-",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); 450 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0baa\u0bbe\u0ba3\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. 20/- \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (12) \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, 450 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb0\u0bc2. 190/-.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bb0\u0bc2. 10/-."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb0\u0bc2",
+          "label": "PERSON"
+        },
+        {
+          "text": "20/-",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "20/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1",
+            "label": "TIME"
+          },
+          {
+            "text": "12",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "450",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "10/-",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
