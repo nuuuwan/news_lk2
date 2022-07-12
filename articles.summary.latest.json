@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bc8\u0baa\u0bcd-\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd-\u0b8e\u0ba9-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-300282",
+    "time_ut": 1657632654,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd  \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/62/62ac12a5.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/1971\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd-\u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-300281",
+    "time_ut": 1657632349,
+    "original_lang": "ta",
+    "original_title": "1971\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9c/9c3930ae.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/U-S-rejects-GRs-visa-request-after-recent-ousting-by-mass-protests/342-240923",
+    "time_ut": 1657631834,
+    "original_lang": "en",
+    "original_title": "U.S. \u2018rejects\u2019 GR\u2019s visa request after recent ousting by mass protests",
+    "file_name": "/tmp/news_lk2/articles/6d/6df54854.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd/175-300280",
+    "time_ut": 1657631381,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fb/fba369c2.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bc8\u0baa\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd/175-300280",
     "time_ut": 1657631381,
     "original_lang": "ta",
@@ -41,11 +73,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Soldiers-moved-in-to-protect-Rupavahanini-ITN/155-240922",
+    "url": "https://www.dailymirror.lk/latest_news/Soldiers-moved-in-to-protect-Rupavahanini-ITN/342-240922",
     "time_ut": 1657629778,
     "original_lang": "en",
     "original_title": "Soldiers moved in to protect Rupavahanini, ITN",
-    "file_name": "/tmp/news_lk2/articles/64/64f9db0e.json"
+    "file_name": "/tmp/news_lk2/articles/e1/e16a6108.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
