@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/Gas-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9-\u0b89\u0baf\u0bbf\u0bb0\u0bcd/175-300279",
+    "time_ut": 1657630191,
+    "original_lang": "ta",
+    "original_title": "Gas \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9 \u0b89\u0baf\u0bbf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/8e/8ed0650b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-000-\u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b93\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-300278",
+    "time_ut": 1657629814,
+    "original_lang": "ta",
+    "original_title": "3,000 \u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b93\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/13/13551155.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Soldiers-moved-in-to-protect-Rupavahanini-ITN/155-240922",
+    "time_ut": 1657629778,
+    "original_lang": "en",
+    "original_title": "Soldiers moved in to protect Rupavahanini, ITN",
+    "file_name": "/tmp/news_lk2/articles/64/64f9db0e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe/175-300277",
+    "time_ut": 1657629539,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8: \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/6b/6bb4de2d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131344",
     "time_ut": 1657628792,
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/9d/9d510da2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/u-s-rejects-gotabayas-visa-request-after-recent-ousting-by-mass-protests-the-hindu/",
+    "time_ut": 1657628760,
+    "original_lang": "en",
+    "original_title": "U.S. \u2018rejects\u2019 Gotabaya\u2019s visa request after recent ousting by mass protests \u2013 The Hindu",
+    "file_name": "/tmp/news_lk2/articles/77/7737e83e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -702,6 +742,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0bb0\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd - \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
     "file_name": "/tmp/news_lk2/articles/08/086f4f2d.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/an-open-letter-requesting-kumar-sangakkara-to-assume-the-leadership-of-sri-lanka/",
+    "time_ut": 1657610771,
+    "original_lang": "en",
+    "original_title": "An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/43/4367107c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
