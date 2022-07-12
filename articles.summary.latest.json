@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/DMT-will-not-function-on-Fridays-until-further-notice/342-240920",
+    "time_ut": 1657621938,
+    "original_lang": "en",
+    "original_title": "DMT will not function on Fridays until further notice",
+    "file_name": "/tmp/news_lk2/articles/cb/cb2728f0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f-\u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bbe/175-300260",
+    "time_ut": 1657621905,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bbe?",
+    "file_name": "/tmp/news_lk2/articles/6e/6eefa81d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dbb\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0d9c\u0dd9\u0daf\u0dbb-\u0daf\u0db8\u0dcf-\u0d85\u0db8\u0dca\u0db8\u0dba\u0dd2-\u0dad\u0dcf\u0dad\u0dca\u0dad\u0dcf-\u0d89\u0dc3\u0dd4\u0dbb\u0dd4-\u0dc3\u0ddc\u0dba\u0dcf-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/101-616304",
+    "time_ut": 1657621890,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0d9c\u0dd9\u0daf\u0dbb \u0daf\u0db8\u0dcf \u0d85\u0db8\u0dca\u0db8\u0dba\u0dd2 \u0dad\u0dcf\u0dad\u0dca\u0dad\u0dcf \u0d89\u0dc3\u0dd4\u0dbb\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/92/921bb65e.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf---\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-5\u0d9a\u0da7-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf-\u0dba\u0dd0\u0dba\u0dd2-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/11-395352",
     "time_ut": 1657621320,
@@ -54,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Strong Rajapaksa dynasty member refused to leave Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/df/df002e48.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0dc4-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca/11-395351",
+    "time_ut": 1657620111,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dc4 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ac/ac257a48.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -734,6 +766,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 !",
     "file_name": "/tmp/news_lk2/articles/58/58a43537.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62108559",
+    "time_ut": 1657601206,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba \u0d9c\u0dd0\u0db1 \u0db8\u0dda \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0d94\u0db6 \u0daf\u0dd0\u0db1 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dcf\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/f3/f35910c9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
