@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Hand-over-Presidents-House-Secretariat-Temple-Trees-to-authorities-BASL/108-240925",
+    "time_ut": 1657636860,
+    "original_lang": "en",
+    "original_title": "Hand over President\u2019s House, Secretariat & Temple Trees to authorities - BASL",
+    "file_name": "/tmp/news_lk2/articles/e5/e5a32a25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83605/navy-rescues-55-suspected-illegal-migrants-in-high-seas",
+    "time_ut": 1657636200,
+    "original_lang": "en",
+    "original_title": "Navy rescues 55 suspected illegal migrants in high seas",
+    "file_name": "/tmp/news_lk2/articles/d8/d86a3c1a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/lpl-2022-schedule-announced-24-matches-in-total/",
+    "time_ut": 1657636020,
+    "original_lang": "en",
+    "original_title": "LPL 2022 schedule announced; 24 matches in total",
+    "file_name": "/tmp/news_lk2/articles/79/79adbe1e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131348",
+    "time_ut": 1657635371,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd -\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9a\u0bbf.\u0b9a\u0bbf.\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/38/38c432ca.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0db1\u0dd2\u0dc0\u0db1\u0dca\u0db1-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc4\u0ddc\u0db3\u0db8-\u0daf\u0dda-\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dd4-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dba\u0dd2/1-616316",
     "time_ut": 1657634419,
@@ -369,11 +401,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/DMT-will-not-function-on-Fridays-until-further-notice/342-240920",
+    "url": "https://www.dailymirror.lk/breaking_news/DMT-will-not-function-on-Fridays-until-further-notice/108-240920",
     "time_ut": 1657621938,
     "original_lang": "en",
     "original_title": "DMT will not function on Fridays until further notice",
-    "file_name": "/tmp/news_lk2/articles/cb/cb2728f0.json"
+    "file_name": "/tmp/news_lk2/articles/9b/9b507e80.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -654,6 +686,14 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dc4\u0d9a\u0da7 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/0c/0c381c00.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62137807",
+    "time_ut": 1657616328,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0db1\u0db4\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0db1\u0dc0\u0dba:\u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca,\u0db8\u0dd0\u0dba\u0dd2,\u0da2\u0dd4\u0db1\u0dd2,\u0da2\u0dd4\u0dbd\u0dd2 9 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd4\u0dab\u0dda ?",
+    "file_name": "/tmp/news_lk2/articles/aa/aad6d4ec.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
