@@ -19,6 +19,10 @@
       ],
       "title_ents": [
         {
+          "text": "LP Gas",
+          "label": "ORG"
+        },
+        {
           "text": "today",
           "label": "DATE"
         },
@@ -29,10 +33,18 @@
         {
           "text": "12.5 kg",
           "label": "QUANTITY"
+        },
+        {
+          "text": "4,910/-",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "Litro Gas",
             "label": "ORG"
@@ -40,13 +52,13 @@
           {
             "text": "12.5 kg",
             "label": "QUANTITY"
-          },
-          {
-            "text": "50/-",
-            "label": "CARDINAL"
           }
         ],
         [
+          {
+            "text": "Litro",
+            "label": "ORG"
+          },
           {
             "text": "Monday",
             "label": "DATE"
@@ -56,11 +68,19 @@
             "label": "CARDINAL"
           },
           {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
             "text": "13th July 2022",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "Litro",
+            "label": "ORG"
+          },
           {
             "text": "May 2022",
             "label": "DATE"
@@ -88,26 +108,30 @@
             "label": "TIME"
           },
           {
-            "text": "Monday",
-            "label": "DATE"
-          },
-          {
             "text": "11",
             "label": "CARDINAL"
           }
         ],
         [
           {
+            "text": "Litro",
+            "label": "ORG"
+          },
+          {
             "text": "Muditha Peiris",
             "label": "PERSON"
           },
           {
             "text": "News 1st",
-            "label": "ORG"
+            "label": "DATE"
           },
           {
             "text": "70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
           }
         ],
         [
@@ -121,7 +145,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "tonight",
@@ -142,8 +166,12 @@
             "label": "LOC"
           },
           {
-            "text": "70%",
+            "text": "the other 70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "Litro",
+            "label": "ORG"
           }
         ]
       ]
@@ -162,6 +190,10 @@
       ],
       "title_ents": [
         {
+          "text": "LP \u0d9c\u0dd1\u0dc3\u0dca",
+          "label": "ORG"
+        },
+        {
           "text": "\u0d85\u0daf",
           "label": "DATE"
         },
@@ -172,10 +204,18 @@
         {
           "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0d9a\u0dd2",
           "label": "QUANTITY"
+        },
+        {
+          "text": "4,910/-",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca",
             "label": "ORG"
@@ -183,13 +223,13 @@
           {
             "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 12.5 \u0d9a\u0dd2",
             "label": "QUANTITY"
-          },
-          {
-            "text": "50/-",
-            "label": "CARDINAL"
           }
         ],
         [
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
+          },
           {
             "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
             "label": "DATE"
@@ -199,11 +239,19 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
             "text": "2022 \u0da2\u0dd6\u0dbd\u0dd2 13",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
+          },
           {
             "text": "2022 \u0db8\u0dd0\u0dba\u0dd2",
             "label": "DATE"
@@ -231,26 +279,30 @@
             "label": "TIME"
           },
           {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
             "text": "11",
             "label": "CARDINAL"
           }
         ],
         [
           {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db8\u0dd4\u0daf\u0dd2\u0dad \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca",
             "label": "PERSON"
           },
           {
             "text": "News 1st",
-            "label": "ORG"
+            "label": "DATE"
           },
           {
             "text": "70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           }
         ],
         [
@@ -264,7 +316,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0d85\u0daf \u0dbb\u0dd1",
@@ -285,8 +337,12 @@
             "label": "LOC"
           },
           {
-            "text": "70%",
+            "text": "\u0d85\u0db1\u0dd9\u0d9a\u0dca 70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
           }
         ]
       ]
@@ -305,6 +361,10 @@
       ],
       "title_ents": [
         {
+          "text": "\u0b8e\u0bb2\u0bcd\u0baa\u0bbf \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1",
+          "label": "ORG"
+        },
+        {
           "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
           "label": "DATE"
         },
@@ -315,10 +375,18 @@
         {
           "text": "12.5 \u0b95\u0bbf.\u0b95\u0bbf",
           "label": "QUANTITY"
+        },
+        {
+          "text": "4,910/-",
+          "label": "TIME"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1",
             "label": "ORG"
@@ -326,13 +394,13 @@
           {
             "text": "12.5 \u0b95\u0bbf.\u0b95\u0bbf",
             "label": "QUANTITY"
-          },
-          {
-            "text": "50/-",
-            "label": "CARDINAL"
           }
         ],
         [
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
+          },
           {
             "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
@@ -342,11 +410,19 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
             "text": "13 \u0b9c\u0bc2\u0bb2\u0bc8 2022",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
+          },
           {
             "text": "\u0bae\u0bc7 2022",
             "label": "DATE"
@@ -374,26 +450,30 @@
             "label": "TIME"
           },
           {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
-          },
-          {
             "text": "11",
             "label": "CARDINAL"
           }
         ],
         [
           {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bae\u0bc1\u0ba4\u0bbf\u0ba4 \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
             "label": "PERSON"
           },
           {
             "text": "News 1st",
-            "label": "ORG"
+            "label": "DATE"
           },
           {
             "text": "70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           }
         ],
         [
@@ -407,7 +487,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bb5\u0bc1",
@@ -428,8 +508,12 @@
             "label": "LOC"
           },
           {
-            "text": "70%",
+            "text": "\u0bae\u0bb1\u0bcd\u0bb1 70%",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
           }
         ]
       ]

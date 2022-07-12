@@ -53,8 +53,8 @@
             "label": "ORG"
           },
           {
-            "text": "The 22nd Amendment",
-            "label": "LAW"
+            "text": "22nd",
+            "label": "ORDINAL"
           },
           {
             "text": "one",
@@ -194,8 +194,8 @@
             "label": "ORG"
           },
           {
-            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0d91\u0d9a",
@@ -335,8 +335,8 @@
             "label": "ORG"
           },
           {
-            "text": "22\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",

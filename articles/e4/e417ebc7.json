@@ -37,46 +37,42 @@
         {
           "text": "Rajapaksa",
           "label": "PERSON"
+        },
+        {
+          "text": "Gotabaya",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "the 22nd Amendment",
-            "label": "LAW"
+            "text": "22nd",
+            "label": "ORDINAL"
           },
           {
             "text": "Constitution",
             "label": "LAW"
           },
           {
-            "text": "the 20th Amendment",
-            "label": "LAW"
+            "text": "20th",
+            "label": "ORDINAL"
           },
           {
             "text": "Rajapaksas",
             "label": "GPE"
-          },
-          {
-            "text": "the 19th Amendment",
-            "label": "LAW"
           }
         ],
         [
           {
             "text": "19A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
             "text": "Sirisena",
             "label": "PERSON"
           },
           {
-            "text": "Defence",
-            "label": "ORG"
-          },
-          {
-            "text": "Mahaweli Development",
+            "text": "Defence, Mahaweli Development",
             "label": "ORG"
           },
           {
@@ -94,20 +90,12 @@
             "label": "DATE"
           },
           {
-            "text": "the 19th Amendment",
-            "label": "LAW"
-          },
-          {
             "text": "Constitution",
             "label": "LAW"
           },
           {
             "text": "one",
             "label": "CARDINAL"
-          },
-          {
-            "text": "22A",
-            "label": "DATE"
           },
           {
             "text": "Cabinet",
@@ -120,8 +108,8 @@
         ],
         [
           {
-            "text": "19th Amendment",
-            "label": "LAW"
+            "text": "19th",
+            "label": "ORDINAL"
           },
           {
             "text": "the Supreme Court",
@@ -157,8 +145,8 @@
             "label": "PERSON"
           },
           {
-            "text": "27",
-            "label": "CARDINAL"
+            "text": "27 May",
+            "label": "DATE"
           },
           {
             "text": "the National Dangerous Drugs Control Board",
@@ -186,7 +174,7 @@
           },
           {
             "text": "the Data Protection Act",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "Defence",
@@ -194,6 +182,10 @@
           }
         ],
         [
+          {
+            "text": "2.In",
+            "label": "CARDINAL"
+          },
           {
             "text": "second",
             "label": "ORDINAL"
@@ -217,42 +209,42 @@
         ],
         [
           {
-            "text": "c.Grant of Citizenship to Persons of Indian Origin Act",
-            "label": "ORG"
+            "text": "c.Grant",
+            "label": "PERSON"
           },
           {
-            "text": "35",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2003",
+            "text": "35 of 2003",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "d.Grant of Citizenship to Stateless Persons Act No. 5 of 1986",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "e.Grant of Citizenship to Stateless Persons (Special Provisions) Act",
-            "label": "ORG"
+            "text": "5",
+            "label": "CARDINAL"
           },
           {
-            "text": "39 of 1988",
+            "text": "1986",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "l.Greater Colombo Economic Commission Law (Board of Investment of Sri Lanka Law",
+            "text": "39",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "Greater Colombo Economic Commission Law",
             "label": "ORG"
           },
           {
-            "text": "4",
-            "label": "CARDINAL"
+            "text": "Board of Investment of Sri Lanka Law",
+            "label": "ORG"
+          },
+          {
+            "text": "4 of 1978",
+            "label": "DATE"
           }
         ],
         [
@@ -271,6 +263,10 @@
         ],
         [
           {
+            "text": "3.In",
+            "label": "CARDINAL"
+          },
+          {
             "text": "third",
             "label": "ORDINAL"
           },
@@ -279,20 +275,20 @@
             "label": "PERSON"
           },
           {
-            "text": "2286/12",
-            "label": "CARDINAL"
+            "text": "Gazette",
+            "label": "PERSON"
           },
           {
             "text": "27 June",
             "label": "DATE"
           },
           {
-            "text": "Departments",
+            "text": "Technology",
             "label": "ORG"
           },
           {
-            "text": "Column II",
-            "label": "PRODUCT"
+            "text": "Departments",
+            "label": "GPE"
           },
           {
             "text": "Vistas of Prosperity and Splendour",
@@ -301,20 +297,12 @@
         ],
         [
           {
-            "text": "Investment Promotion",
-            "label": "ORG"
-          },
-          {
             "text": "National-List",
             "label": "ORG"
           },
           {
             "text": "Gazette",
             "label": "PERSON"
-          },
-          {
-            "text": "the Investment Promotion Minister",
-            "label": "ORG"
           },
           {
             "text": "The ICT Agency",
@@ -357,14 +345,10 @@
         [
           {
             "text": "20A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
-            "text": "under 19A",
-            "label": "DATE"
-          },
-          {
-            "text": "22A",
+            "text": "19A",
             "label": "DATE"
           },
           {
@@ -410,46 +394,42 @@
         {
           "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
           "label": "PERSON"
+        },
+        {
+          "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
-            "text": "20 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "20 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf",
             "label": "GPE"
-          },
-          {
-            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
           }
         ],
         [
           {
             "text": "19A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0dc3\u0dd2\u0dbb\u0dd2\u0dc3\u0dda\u0db1",
             "label": "PERSON"
           },
           {
-            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a, \u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1",
             "label": "ORG"
           },
           {
@@ -467,20 +447,12 @@
             "label": "DATE"
           },
           {
-            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
-          },
-          {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
             "text": "\u0d91\u0d9a",
             "label": "CARDINAL"
-          },
-          {
-            "text": "22A",
-            "label": "DATE"
           },
           {
             "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
@@ -493,8 +465,8 @@
         ],
         [
           {
-            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "19 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dda\u0dc2\u0dca\u0da8\u0dcf\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
@@ -530,8 +502,8 @@
             "label": "PERSON"
           },
           {
-            "text": "27",
-            "label": "CARDINAL"
+            "text": "27 \u0db8\u0dd0\u0dba\u0dd2",
+            "label": "DATE"
           },
           {
             "text": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dcf\u0dba\u0d9a\u0dbb \u0d96\u0dc2\u0db0 \u0db4\u0dcf\u0dbd\u0d9a \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
@@ -559,7 +531,7 @@
           },
           {
             "text": "\u0daf\u0dad\u0dca\u0dad \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0db1\u0dad",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
@@ -567,6 +539,10 @@
           }
         ],
         [
+          {
+            "text": "2.\u0d89\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
             "label": "ORDINAL"
@@ -590,42 +566,42 @@
         ],
         [
           {
-            "text": "c.\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0db8\u0dca\u0db7\u0dc0\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0db7\u0dcf\u0dc0\u0dba \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
-            "label": "ORG"
+            "text": "c.Grant",
+            "label": "PERSON"
           },
           {
-            "text": "35",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2003",
+            "text": "2003 35",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "d.1986 \u0d85\u0d82\u0d9a 5 \u0daf\u0dbb\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca\u0da7 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0db7\u0dcf\u0dc0\u0dba \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "e.\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2\u0db7\u0dcf\u0dc0\u0dba \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 (\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dc0\u0dd2\u0db0\u0dd2\u0dc0\u0dd2\u0db0\u0dcf\u0db1) \u0db4\u0db1\u0dad",
-            "label": "ORG"
+            "text": "5",
+            "label": "CARDINAL"
           },
           {
-            "text": "1988 39",
+            "text": "1986",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "l.\u0db8\u0dc4 \u0d9a\u0ddc\u0dc5\u0db9 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0dba (\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dd3\u0dad\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "text": "39",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dc4 \u0d9a\u0ddc\u0dc5\u0db9 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0dba",
             "label": "ORG"
           },
           {
-            "text": "4",
-            "label": "CARDINAL"
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dd3\u0dad\u0dd2 \u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "1978 4",
+            "label": "DATE"
           }
         ],
         [
@@ -644,6 +620,10 @@
         ],
         [
           {
+            "text": "3.\u0d89\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0dad\u0dd9\u0dc0\u0db1",
             "label": "ORDINAL"
           },
@@ -652,20 +632,20 @@
             "label": "PERSON"
           },
           {
-            "text": "2286/12",
-            "label": "CARDINAL"
+            "text": "\u0d9c\u0dd0\u0dc3\u0da7\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "27 \u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
           },
           {
-            "text": "\u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4",
+            "text": "\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba",
             "label": "ORG"
           },
           {
-            "text": "\u0dad\u0dd3\u0dbb\u0dd4\u0dc0 II",
-            "label": "PRODUCT"
+            "text": "\u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4",
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0db8\u0dd8\u0daf\u0dca\u0db0\u0dd2\u0dba \u0dc3\u0dc4 \u0dad\u0dda\u0da2\u0dc3 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0daf\u0dbb\u0dca\u0dc1\u0db1",
@@ -674,20 +654,12 @@
         ],
         [
           {
-            "text": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
           },
           {
             "text": "\u0d9c\u0dd0\u0dc3\u0da7\u0dca",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2",
-            "label": "ORG"
           },
           {
             "text": "ICT \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2\u0dba",
@@ -730,14 +702,10 @@
         [
           {
             "text": "20A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
-            "text": "19A \u0dba\u0da7\u0dad\u0dda",
-            "label": "DATE"
-          },
-          {
-            "text": "22A",
+            "text": "19A",
             "label": "DATE"
           },
           {
@@ -783,46 +751,42 @@
         {
           "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
           "label": "PERSON"
+        },
+        {
+          "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
           {
-            "text": "22 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "LAW"
           },
           {
-            "text": "20 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "20\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "GPE"
-          },
-          {
-            "text": "19\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
           }
         ],
         [
           {
             "text": "19A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9",
             "label": "PERSON"
           },
           {
-            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1, \u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf",
             "label": "ORG"
           },
           {
@@ -840,20 +804,12 @@
             "label": "DATE"
           },
           {
-            "text": "19\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
-          },
-          {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "LAW"
           },
           {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
-          },
-          {
-            "text": "22A",
-            "label": "DATE"
           },
           {
             "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
@@ -866,8 +822,8 @@
         ],
         [
           {
-            "text": "19\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "19\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0b89\u0b9a\u0bcd\u0b9a \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
@@ -903,8 +859,8 @@
             "label": "PERSON"
           },
           {
-            "text": "27",
-            "label": "CARDINAL"
+            "text": "27 \u0bae\u0bc7",
+            "label": "DATE"
           },
           {
             "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
@@ -932,7 +888,7 @@
           },
           {
             "text": "\u0ba4\u0bb0\u0bb5\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
@@ -940,6 +896,10 @@
           }
         ],
         [
+          {
+            "text": "2.\u0b87\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
             "label": "ORDINAL"
@@ -963,42 +923,42 @@
         ],
         [
           {
-            "text": "c.\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bae\u0bcd\u0b9a\u0bbe\u0bb5\u0bb3\u0bbf \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "ORG"
+            "text": "c.\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd",
+            "label": "PERSON"
           },
           {
-            "text": "35",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "2003",
+            "text": "2003 \u0b87\u0ba9\u0bcd 35",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "d. \u0ba8\u0bbe\u0b9f\u0bb1\u0bcd\u0bb1 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b8e\u0ba3\u0bcd. 1986",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "e. \u0ba8\u0bbe\u0b9f\u0bb1\u0bcd\u0bb1 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd (\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd) \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "ORG"
+            "text": "5",
+            "label": "CARDINAL"
           },
           {
-            "text": "1988 \u0b87\u0ba9\u0bcd 39",
+            "text": "1986",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "l.\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd (\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "text": "39",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "4",
-            "label": "CARDINAL"
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "4 \u0b87\u0ba9\u0bcd 1978",
+            "label": "DATE"
           }
         ],
         [
@@ -1017,6 +977,10 @@
         ],
         [
           {
+            "text": "3.\u0b87\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
             "label": "ORDINAL"
           },
@@ -1025,20 +989,20 @@
             "label": "PERSON"
           },
           {
-            "text": "2286/12",
-            "label": "CARDINAL"
+            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba4\u0bb4\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "27 \u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "text": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0bae\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "\u0ba8\u0bc6\u0b9f\u0bc1\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8 II",
-            "label": "PRODUCT"
+            "text": "\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bc6\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
@@ -1047,20 +1011,12 @@
         ],
         [
           {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
-          },
-          {
             "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd",
             "label": "ORG"
           },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba4\u0bb4\u0bcd",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
-            "label": "ORG"
           },
           {
             "text": "\u0b90\u0b9a\u0bbf\u0b9f\u0bbf \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf",
@@ -1103,14 +1059,10 @@
         [
           {
             "text": "20A",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
-            "text": "19A \u0b95\u0bc0\u0bb4\u0bcd",
-            "label": "DATE"
-          },
-          {
-            "text": "22A",
+            "text": "19A",
             "label": "DATE"
           },
           {

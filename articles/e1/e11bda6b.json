@@ -19,7 +19,7 @@
           "label": "GPE"
         },
         {
-          "text": "12th July a Day of Mourning",
+          "text": "12th July",
           "label": "DATE"
         },
         {
@@ -30,11 +30,15 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "The Sri Lankan Government",
             "label": "ORG"
           },
           {
-            "text": "12th July as a Day of Mourning",
+            "text": "12th July",
             "label": "DATE"
           },
           {
@@ -47,6 +51,10 @@
           }
         ],
         [
+          {
+            "text": "half",
+            "label": "CARDINAL"
+          },
           {
             "text": "that day",
             "label": "DATE"
@@ -74,7 +82,7 @@
           "label": "GPE"
         },
         {
-          "text": "\u0da2\u0dd6\u0dbd\u0dd2 12 \u0dc1\u0ddd\u0d9a \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
+          "text": "\u0da2\u0dd6\u0dbd\u0dd2 12",
           "label": "DATE"
         },
         {
@@ -85,11 +93,15 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
             "label": "ORG"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 12 \u0dc1\u0ddd\u0d9a \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 12",
             "label": "DATE"
           },
           {
@@ -102,6 +114,10 @@
           }
         ],
         [
+          {
+            "text": "\u0d85\u0da9\u0d9a\u0dca",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0d91\u0daf\u0dcf",
             "label": "DATE"
@@ -129,7 +145,7 @@
           "label": "GPE"
         },
         {
-          "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12 \u0ba4\u0bc1\u0b95\u0bcd\u0b95 \u0ba8\u0bbe\u0bb3\u0bcd",
+          "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12",
           "label": "DATE"
         },
         {
@@ -140,11 +156,15 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1",
             "label": "ORG"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12 \u0ba4\u0bc1\u0b95\u0bcd\u0b95 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0b85\u0ba9\u0bc1\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12",
             "label": "DATE"
           },
           {
@@ -157,6 +177,10 @@
           }
         ],
         [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
             "label": "DATE"

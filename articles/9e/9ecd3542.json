@@ -30,7 +30,7 @@
           "label": "MONEY"
         },
         {
-          "text": "Joe Biden",
+          "text": "Joe Biden\u2019s",
           "label": "PERSON"
         },
         {
@@ -47,10 +47,6 @@
           {
             "text": "Joe Biden",
             "label": "PERSON"
-          },
-          {
-            "text": "the G7 Summit",
-            "label": "FAC"
           },
           {
             "text": "yesterday",
@@ -80,23 +76,19 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "NORP"
-          },
-          {
-            "text": "over 27,000",
-            "label": "CARDINAL"
+            "label": "LOC"
           },
           {
             "text": "the next 15 months",
             "label": "DATE"
           },
           {
-            "text": "approximately 30,000",
+            "text": "30,000",
             "label": "CARDINAL"
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           }
         ],
         [
@@ -126,7 +118,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "Julie Chung",
@@ -140,7 +132,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
@@ -165,17 +157,21 @@
             "label": "GPE"
           },
           {
-            "text": "Sri Lankan",
-            "label": "GPE"
-          },
-          {
             "text": "16 June",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "the US Agency for International Development",
+            "text": "the US Agency",
+            "label": "ORG"
+          },
+          {
+            "text": "International Development",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
             "label": "ORG"
           }
         ]
@@ -206,7 +202,7 @@
           "label": "MONEY"
         },
         {
-          "text": "Joe Biden",
+          "text": "\u0da2\u0ddd \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0d9c\u0dda",
           "label": "PERSON"
         },
         {
@@ -223,10 +219,6 @@
           {
             "text": "Joe Biden",
             "label": "PERSON"
-          },
-          {
-            "text": "G7 \u0dc3\u0db8\u0dd4\u0dc5\u0dd4\u0dc0",
-            "label": "FAC"
           },
           {
             "text": "\u0d8a\u0dba\u0dda",
@@ -256,23 +248,19 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "NORP"
-          },
-          {
-            "text": "27,000 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
-            "label": "CARDINAL"
+            "label": "LOC"
           },
           {
             "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db8\u0dcf\u0dc3 15",
             "label": "DATE"
           },
           {
-            "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 30,000",
+            "text": "30,000 \u0d9a\u0dd2",
             "label": "CARDINAL"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           }
         ],
         [
@@ -302,7 +290,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 \u0da0\u0dd4\u0db1\u0dca\u0d9c\u0dca",
@@ -316,7 +304,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
@@ -341,17 +329,21 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
-          },
-          {
             "text": "16 \u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0dd6 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
             "label": "ORG"
           }
         ]
@@ -382,7 +374,7 @@
           "label": "MONEY"
         },
         {
-          "text": "Joe Biden",
+          "text": "\u0b9c\u0bcb \u0baa\u0bbf\u0b9f\u0ba9\u0bbf\u0ba9\u0bcd",
           "label": "PERSON"
         },
         {
@@ -399,10 +391,6 @@
           {
             "text": "Joe Biden",
             "label": "PERSON"
-          },
-          {
-            "text": "G7 \u0b89\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1",
-            "label": "FAC"
           },
           {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
@@ -432,23 +420,19 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "NORP"
-          },
-          {
-            "text": "27,000\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
-            "label": "CARDINAL"
+            "label": "LOC"
           },
           {
             "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 15 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "\u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 30,000",
+            "text": "30,000",
             "label": "CARDINAL"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           }
         ],
         [
@@ -478,7 +462,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bbf \u0b9a\u0bc1\u0b99\u0bcd",
@@ -492,7 +476,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
@@ -517,17 +501,21 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
-          {
             "text": "16 \u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
           }
         ],
         [
           {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "USAID",
             "label": "ORG"
           }
         ]

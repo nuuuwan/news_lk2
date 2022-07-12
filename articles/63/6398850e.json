@@ -26,11 +26,7 @@
       ],
       "title_ents": [
         {
-          "text": "Protests",
-          "label": "NORP"
-        },
-        {
-          "text": "the People  Result in Resignation Announcements",
+          "text": "the People  Result",
           "label": "ORG"
         },
         {
@@ -47,6 +43,10 @@
           {
             "text": "Sri Lanka",
             "label": "GPE"
+          },
+          {
+            "text": "a day",
+            "label": "DATE"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -77,6 +77,10 @@
             "label": "DATE"
           },
           {
+            "text": "Colombo\u2019s",
+            "label": "ORG"
+          },
+          {
             "text": "three months",
             "label": "DATE"
           }
@@ -84,7 +88,7 @@
         [
           {
             "text": "Secretariat",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "Wickremesinghe",
@@ -133,7 +137,11 @@
             "label": "GPE"
           },
           {
-            "text": "Samagi Jana Balawegaya",
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balawegaya",
             "label": "PERSON"
           },
           {
@@ -168,6 +176,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
             "text": "Harsha de Silva",
             "label": "PERSON"
           },
@@ -181,7 +193,7 @@
           },
           {
             "text": "Rajapaksa",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "Dullas Alahapperuma",
@@ -211,7 +223,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "Podujana Peramuna",
@@ -238,6 +250,14 @@
             "label": "PERSON"
           },
           {
+            "text": "JVP",
+            "label": "ORG"
+          },
+          {
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
             "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
@@ -250,8 +270,20 @@
             "label": "ORG"
           },
           {
+            "text": "TNA",
+            "label": "ORG"
+          },
+          {
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
+            "text": "TNA",
+            "label": "ORG"
+          },
+          {
             "text": "Jaffna",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "M.A. Sumanthiran",
@@ -276,6 +308,10 @@
           {
             "text": "Parliament",
             "label": "ORG"
+          },
+          {
+            "text": "Gota",
+            "label": "LOC"
           }
         ]
       ]
@@ -301,11 +337,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf",
-          "label": "NORP"
-        },
-        {
-          "text": "\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dc0\u0dbd \u0db4\u0dca\u0dbb\u0dad\u0dd2\u0db5\u0dbd",
+          "text": "\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0db4\u0dca\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba",
           "label": "ORG"
         },
         {
@@ -322,6 +354,10 @@
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+            "label": "DATE"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -352,6 +388,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca",
             "label": "DATE"
           }
@@ -359,7 +399,7 @@
         [
           {
             "text": "\u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
@@ -408,7 +448,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
             "label": "PERSON"
           },
           {
@@ -443,6 +487,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
             "label": "PERSON"
           },
@@ -456,7 +504,7 @@
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0da9\u0dbd\u0dc3\u0dca \u0d85\u0dbd\u0dc4\u0db4\u0dca\u0db4\u0dd9\u0dbb\u0dd4\u0db8",
@@ -486,7 +534,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
@@ -513,6 +561,14 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
@@ -525,8 +581,20 @@
             "label": "ORG"
           },
           {
+            "text": "\u0da7\u0dd3\u0d91\u0db1\u0dca\u0d92",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0d91\u0db1\u0dca\u0d92",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0db8\u0dca.\u0d92.\u0dc3\u0dd4\u0db8\u0db1\u0dca\u0dad\u0dd2\u0dbb\u0db1\u0dca",
@@ -551,6 +619,10 @@
           {
             "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d9c\u0ddd\u0da8\u0dcf",
+            "label": "LOC"
           }
         ]
       ]
@@ -576,11 +648,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
-          "label": "NORP"
-        },
-        {
-          "text": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
+          "text": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
           "label": "ORG"
         },
         {
@@ -597,6 +665,10 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -627,6 +699,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           }
@@ -634,7 +710,7 @@
         [
           {
             "text": "\u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
@@ -683,7 +759,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
             "label": "PERSON"
           },
           {
@@ -718,6 +798,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
             "label": "PERSON"
           },
@@ -731,7 +815,7 @@
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0b9f\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae",
@@ -761,7 +845,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
@@ -788,6 +872,14 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
@@ -800,8 +892,20 @@
             "label": "ORG"
           },
           {
+            "text": "TNA",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "TNA",
+            "label": "ORG"
+          },
+          {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0bae\u0bcd.\u0b8f.\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
@@ -826,6 +930,10 @@
           {
             "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1",
+            "label": "LOC"
           }
         ]
       ]

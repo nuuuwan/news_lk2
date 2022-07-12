@@ -106,11 +106,7 @@
           },
           {
             "text": "2024",
-            "label": "DATE"
-          },
-          {
-            "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "CARDINAL"
           },
           {
             "text": "Al Jazeera",
@@ -123,6 +119,10 @@
           {
             "text": "Thursday",
             "label": "DATE"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           }
         ],
         [
@@ -141,10 +141,6 @@
         ],
         [
           {
-            "text": "nearly two days",
-            "label": "DATE"
-          },
-          {
             "text": "Mahinda Rajapaksa",
             "label": "PERSON"
           },
@@ -160,7 +156,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "Podujana Peramuna",
@@ -187,8 +183,17 @@
             "label": "DATE"
           }
         ],
-        [],
         [
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "Wickremesinghe",
+            "label": "ORG"
+          },
           {
             "text": "1948",
             "label": "DATE"
@@ -202,16 +207,16 @@
           {
             "text": "Indian",
             "label": "NORP"
-          },
-          {
-            "text": "a billion and a half",
-            "label": "CARDINAL"
           }
         ],
         [
           {
             "text": "nearly 60 percent",
             "label": "PERCENT"
+          },
+          {
+            "text": "Sri Lankan",
+            "label": "LOC"
           },
           {
             "text": "more than 80 percent",
@@ -289,8 +294,12 @@
         ],
         [
           {
-            "text": "the Galle Face in Colombo",
+            "text": "the Galle Face",
             "label": "FAC"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           },
           {
             "text": "April",
@@ -308,18 +317,8 @@
         [],
         [],
         [],
-        [
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          }
-        ],
-        [
-          {
-            "text": "Wickremesinghe",
-            "label": "PERSON"
-          }
-        ],
+        [],
+        [],
         [
           {
             "text": "Karu Jayasuriya",
@@ -468,7 +467,7 @@
         [
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "China",
@@ -489,12 +488,16 @@
             "label": "NORP"
           },
           {
-            "text": "MCC [Millennium Challenge Corporation",
+            "text": "MCC",
             "label": "ORG"
           },
           {
             "text": "India",
             "label": "GPE"
+          },
+          {
+            "text": "MCC",
+            "label": "ORG"
           },
           {
             "text": "US",
@@ -518,7 +521,7 @@
           },
           {
             "text": "East Terminal",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "Japan",
@@ -534,7 +537,7 @@
           },
           {
             "text": "Adani",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
@@ -543,16 +546,12 @@
             "label": "NORP"
           },
           {
-            "text": "Adani",
-            "label": "PERSON"
-          },
-          {
             "text": "John Keells",
             "label": "PERSON"
           },
           {
             "text": "the West Terminal",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "Sri Lanka",
@@ -561,12 +560,12 @@
         ],
         [
           {
-            "text": "Indian",
-            "label": "NORP"
+            "text": "He [Adani",
+            "label": "WORK_OF_ART"
           },
           {
-            "text": "Modi",
-            "label": "GPE"
+            "text": "Indian",
+            "label": "NORP"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -574,7 +573,7 @@
           },
           {
             "text": "Adani",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "Indian",
@@ -615,8 +614,12 @@
             "label": "DATE"
           },
           {
+            "text": "the beginning of the",
+            "label": "DATE"
+          },
+          {
             "text": "GoHomeGota",
-            "label": "MONEY"
+            "label": "DATE"
           }
         ],
         [
@@ -658,7 +661,12 @@
             "label": "MONEY"
           }
         ],
-        [],
+        [
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "Sri Lanka",
@@ -679,10 +687,6 @@
         ],
         [
           {
-            "text": "November",
-            "label": "DATE"
-          },
-          {
             "text": "January-February 2022",
             "label": "DATE"
           },
@@ -691,19 +695,11 @@
             "label": "GPE"
           },
           {
-            "text": "June",
-            "label": "DATE"
-          },
-          {
-            "text": "September season",
+            "text": "June-to-September season",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "the next season",
-            "label": "DATE"
-          },
           {
             "text": "October-November",
             "label": "DATE"
@@ -713,7 +709,7 @@
             "label": "DATE"
           },
           {
-            "text": "about $500-600m.",
+            "text": "about $500-600",
             "label": "MONEY"
           },
           {
@@ -739,11 +735,19 @@
             "label": "NORP"
           },
           {
+            "text": "2019",
+            "label": "DATE"
+          },
+          {
             "text": "Sunday",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "Wickremesinghe",
+            "label": "PERSON"
+          },
           {
             "text": "last week",
             "label": "DATE"
@@ -771,8 +775,8 @@
             "label": "DATE"
           },
           {
-            "text": "Qatar",
-            "label": "GPE"
+            "text": "Qatar Charity",
+            "label": "ORG"
           },
           {
             "text": "UN",
@@ -783,19 +787,20 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
+            "text": "Qatar Charity",
+            "label": "ORG"
+          }
+        ],
+        [
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "Gulf",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -808,7 +813,7 @@
             "label": "DATE"
           },
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -923,11 +928,7 @@
           },
           {
             "text": "2024",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0d85\u0dbd\u0dca \u0da2\u0dc3\u0dd3\u0dbb\u0dcf",
@@ -940,6 +941,10 @@
           {
             "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           }
         ],
         [
@@ -958,10 +963,6 @@
         ],
         [
           {
-            "text": "\u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1",
-            "label": "DATE"
-          },
-          {
             "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
           },
@@ -977,7 +978,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
@@ -1004,8 +1005,17 @@
             "label": "DATE"
           }
         ],
-        [],
         [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "ORG"
+          },
           {
             "text": "1948",
             "label": "DATE"
@@ -1019,16 +1029,16 @@
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
             "label": "NORP"
-          },
-          {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0d91\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a\u0dca",
-            "label": "CARDINAL"
           }
         ],
         [
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 60\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
+            "label": "LOC"
           },
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 80 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
@@ -1106,8 +1116,12 @@
         ],
         [
           {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb",
+            "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb",
             "label": "FAC"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           },
           {
             "text": "\u0d85\u0db4\u0dca\u0dbb\u0dda\u0dbd\u0dca",
@@ -1125,18 +1139,8 @@
         [],
         [],
         [],
-        [
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          }
-        ],
-        [
-          {
-            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
-          }
-        ],
+        [],
+        [],
         [
           {
             "text": "\u0d9a\u0dbb\u0dd4 \u0da2\u0dba\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
@@ -1285,7 +1289,7 @@
         [
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
@@ -1306,12 +1310,16 @@
             "label": "NORP"
           },
           {
-            "text": "MCC [Millennium Challenge Corporation",
+            "text": "MCC",
             "label": "ORG"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "MCC",
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
@@ -1335,7 +1343,7 @@
           },
           {
             "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
@@ -1351,7 +1359,7 @@
           },
           {
             "text": "\u0d85\u0daf\u0dcf\u0db1\u0dd2",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
@@ -1360,16 +1368,12 @@
             "label": "NORP"
           },
           {
-            "text": "\u0d85\u0daf\u0dcf\u0db1\u0dd2",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0da2\u0ddd\u0db1\u0dca \u0d9a\u0dd3\u0dbd\u0dca\u0dc3\u0dca",
             "label": "PERSON"
           },
           {
             "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -1378,12 +1382,12 @@
         ],
         [
           {
-            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
-            "label": "NORP"
+            "text": "\u0d94\u0dc4\u0dd4 [\u0d85\u0daf\u0dcf\u0db1\u0dd2",
+            "label": "WORK_OF_ART"
           },
           {
-            "text": "\u0db8\u0ddd\u0da9\u0dd2",
-            "label": "GPE"
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -1391,7 +1395,7 @@
           },
           {
             "text": "\u0d85\u0daf\u0dcf\u0db1\u0dd2",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
@@ -1432,8 +1436,12 @@
             "label": "DATE"
           },
           {
+            "text": "\u0d86\u0dbb\u0db8\u0dca\u0db7\u0dba",
+            "label": "DATE"
+          },
+          {
             "text": "GoHomeGota",
-            "label": "MONEY"
+            "label": "DATE"
           }
         ],
         [
@@ -1475,7 +1483,12 @@
             "label": "MONEY"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -1496,10 +1509,6 @@
         ],
         [
           {
-            "text": "\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
-            "label": "DATE"
-          },
-          {
             "text": "2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2",
             "label": "DATE"
           },
@@ -1508,19 +1517,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0da2\u0dd6\u0db1\u0dd2",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0dc3\u0db8\u0dba",
+            "text": "\u0da2\u0dd4\u0db1\u0dd2 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0d8a\u0dc5\u0d9f \u0d9a\u0db1\u0dca\u0db1\u0dba",
-            "label": "DATE"
-          },
           {
             "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca-\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
             "label": "DATE"
@@ -1530,7 +1531,7 @@
             "label": "DATE"
           },
           {
-            "text": "$500-600m \u0db4\u0db8\u0dab.",
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca 500-600 \u0db4\u0db8\u0dab",
             "label": "MONEY"
           },
           {
@@ -1556,11 +1557,19 @@
             "label": "NORP"
           },
           {
+            "text": "2019",
+            "label": "DATE"
+          },
+          {
             "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
           {
             "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
             "label": "DATE"
@@ -1588,8 +1597,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca",
-            "label": "GPE"
+            "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
           },
           {
             "text": "\u0d91.\u0da2\u0dcf",
@@ -1600,19 +1609,20 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
+            "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0d9c\u0dbd\u0dca\u0dc6\u0dca",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -1625,7 +1635,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -1740,11 +1750,7 @@
           },
           {
             "text": "2024",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b85\u0bb2\u0bcd \u0b9c\u0b9a\u0bc0\u0bb0\u0bbe",
@@ -1757,6 +1763,10 @@
           {
             "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           }
         ],
         [
@@ -1775,10 +1785,6 @@
         ],
         [
           {
-            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "DATE"
-          },
-          {
             "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
             "label": "PERSON"
           },
@@ -1794,7 +1800,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "LOC"
           },
           {
             "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
@@ -1821,8 +1827,17 @@
             "label": "DATE"
           }
         ],
-        [],
         [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "ORG"
+          },
           {
             "text": "1948",
             "label": "DATE"
@@ -1836,16 +1851,16 @@
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "NORP"
-          },
-          {
-            "text": "\u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0bc8",
-            "label": "CARDINAL"
           }
         ],
         [
           {
             "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f 60 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
           },
           {
             "text": "80 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bcd",
@@ -1923,8 +1938,12 @@
         ],
         [
           {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd",
+            "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0bae\u0bcd",
             "label": "FAC"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           },
           {
             "text": "\u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd",
@@ -1942,18 +1961,8 @@
         [],
         [],
         [],
-        [
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          }
-        ],
-        [
-          {
-            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
-          }
-        ],
+        [],
+        [],
         [
           {
             "text": "\u0b95\u0bb0\u0bc1 \u0b9c\u0baf\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
@@ -2102,7 +2111,7 @@
         [
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
@@ -2123,12 +2132,16 @@
             "label": "NORP"
           },
           {
-            "text": "MCC [\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0ba9\u0bbf\u0baf\u0bae\u0bcd \u0b9a\u0bc7\u0bb2\u0b9e\u0bcd\u0b9a\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd",
+            "text": "\u0b8e\u0bae\u0bcd.\u0b9a\u0bbf.\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd.\u0b9a\u0bbf.\u0b9a\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
@@ -2152,7 +2165,7 @@
           },
           {
             "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
@@ -2168,7 +2181,7 @@
           },
           {
             "text": "\u0b85\u0ba4\u0bbe\u0ba9\u0bbf",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
@@ -2177,16 +2190,12 @@
             "label": "NORP"
           },
           {
-            "text": "\u0b85\u0ba4\u0bbe\u0ba9\u0bbf",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b9c\u0bbe\u0ba9\u0bcd \u0b95\u0bc0\u0bb2\u0bcd\u0bb8\u0bcd",
             "label": "PERSON"
           },
           {
             "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -2195,12 +2204,12 @@
         ],
         [
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "NORP"
+            "text": "\u0b85\u0bb5\u0bb0\u0bcd [\u0b85\u0ba4\u0bbe\u0ba9\u0bbf",
+            "label": "WORK_OF_ART"
           },
           {
-            "text": "\u0bae\u0bcb\u0b9f\u0bbf",
-            "label": "GPE"
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -2208,7 +2217,7 @@
           },
           {
             "text": "\u0b85\u0ba4\u0bbe\u0ba9\u0bbf",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
@@ -2249,8 +2258,12 @@
             "label": "DATE"
           },
           {
+            "text": "\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
             "text": "GoHomeGota",
-            "label": "MONEY"
+            "label": "DATE"
           }
         ],
         [
@@ -2292,7 +2305,12 @@
             "label": "MONEY"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -2313,10 +2331,6 @@
         ],
         [
           {
-            "text": "\u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
-            "label": "DATE"
-          },
-          {
             "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 2022",
             "label": "DATE"
           },
@@ -2325,19 +2339,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd \u0baa\u0bb0\u0bc1\u0bb5\u0bae\u0bcd",
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0baa\u0bb0\u0bc1\u0bb5\u0bae\u0bcd",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0baa\u0bb0\u0bc1\u0bb5\u0bae\u0bcd",
-            "label": "DATE"
-          },
           {
             "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd-\u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
             "label": "DATE"
@@ -2347,7 +2353,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd $500-600m.",
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd $500-600",
             "label": "MONEY"
           },
           {
@@ -2373,11 +2379,19 @@
             "label": "NORP"
           },
           {
+            "text": "2019",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
           {
             "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
             "label": "DATE"
@@ -2405,8 +2419,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-            "label": "GPE"
+            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0b90.\u0ba8\u0bbe",
@@ -2417,19 +2431,20 @@
             "label": "ORG"
           }
         ],
-        [],
         [
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
+            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe",
-            "label": "ORG"
+            "label": "LOC"
           }
         ],
         [
@@ -2442,7 +2457,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {

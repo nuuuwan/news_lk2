@@ -49,8 +49,12 @@
       ],
       "title_ents": [
         {
-          "text": "Pro-China Communist   ",
+          "text": "Pro-China",
           "label": "ORG"
+        },
+        {
+          "text": "Communist",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
@@ -77,11 +81,15 @@
           },
           {
             "text": "Mao",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Mao Tse Tung",
             "label": "PERSON"
+          },
+          {
+            "text": "those days",
+            "label": "DATE"
           },
           {
             "text": "China",
@@ -100,22 +108,22 @@
             "label": "DATE"
           },
           {
-            "text": "Marxist\u2013Leninist",
-            "label": "ORG"
+            "text": "Marxist",
+            "label": "NORP"
           },
           {
             "text": "Mao",
             "label": "PERSON"
-          },
-          {
-            "text": "Maoism",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "China",
             "label": "GPE"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
           },
           {
             "text": "China",
@@ -144,10 +152,6 @@
             "label": "DATE"
           },
           {
-            "text": "post-Deng Xiaoping",
-            "label": "PERSON"
-          },
-          {
             "text": "China",
             "label": "GPE"
           },
@@ -156,8 +160,8 @@
             "label": "PERSON"
           },
           {
-            "text": "Modern China",
-            "label": "LOC"
+            "text": "China",
+            "label": "GPE"
           },
           {
             "text": "the Peoples Republic of China",
@@ -199,11 +203,11 @@
           },
           {
             "text": "Peking",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "the Ceylon Communist Party(Peking Wing",
-            "label": "LAW"
+            "label": "EVENT"
           },
           {
             "text": "Jaffna",
@@ -211,25 +215,17 @@
           },
           {
             "text": "Rohana Wijeweera",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "Mao",
-            "label": "PERSON"
-          },
-          {
-            "text": "Deng",
             "label": "GPE"
           },
           {
-            "text": "Maoism",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "Marxist-Leninist",
-            "label": "ORG"
+            "text": "Deng",
+            "label": "PERSON"
           },
           {
             "text": "the Ceylon Communist Party",
@@ -237,13 +233,13 @@
           },
           {
             "text": "Maoist",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
           {
-            "text": "China communist party",
-            "label": "ORG"
+            "text": "China",
+            "label": "GPE"
           },
           {
             "text": "Ceylon/Sri Lanka",
@@ -254,12 +250,8 @@
             "label": "PERSON"
           },
           {
-            "text": "Manipay",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "Jaffna",
-            "label": "GPE"
+            "text": "Manipay in Jaffna",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "1964",
@@ -272,6 +264,10 @@
         ],
         [
           {
+            "text": "Comrade\u201d Shan",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "Sri Lanka",
             "label": "GPE"
           },
@@ -280,15 +276,19 @@
             "label": "LANGUAGE"
           },
           {
-            "text": "Sanmugathasan",
-            "label": "NORP"
-          },
-          {
             "text": "Shanmugathasan",
-            "label": "WORK_OF_ART"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "Shanmugathasan",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
+          },
           {
             "text": "July 3rd  1920",
             "label": "DATE"
@@ -300,10 +300,6 @@
           {
             "text": "Communist",
             "label": "NORP"
-          },
-          {
-            "text": "102nd Birth",
-            "label": "PERSON"
           }
         ],
         [
@@ -317,11 +313,7 @@
           },
           {
             "text": "Virakesari",
-            "label": "WORK_OF_ART"
-          },
-          {
-            "text": "Thanabalasingham",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Express Newspapers",
@@ -330,16 +322,12 @@
           {
             "text": "Virakesari",
             "label": "ORG"
-          },
-          {
-            "text": "Thinakkural",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "Thanabalasingham",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "23/7",
@@ -351,7 +339,7 @@
           },
           {
             "text": "Kollupitiya",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "first",
@@ -362,12 +350,20 @@
             "label": "DATE"
           },
           {
-            "text": "English",
-            "label": "LANGUAGE"
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
+            "text": "Indian",
+            "label": "NORP"
+          },
+          {
+            "text": "Hindu",
+            "label": "NORP"
           },
           {
             "text": "Tamil",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "Sri Lanka",
@@ -376,6 +372,10 @@
           {
             "text": "the International Centre of Ethnic",
             "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           },
           {
             "text": "Sri Lanka",
@@ -387,7 +387,7 @@
           },
           {
             "text": "Tamil",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "early 1987",
@@ -398,6 +398,10 @@
             "label": "DATE"
           },
           {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
             "text": "USA",
             "label": "GPE"
           }
@@ -405,7 +409,7 @@
         [
           {
             "text": "Thanabalasingham",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "those days",
@@ -434,8 +438,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u201cThe Island",
-            "label": "WORK_OF_ART"
+            "text": "The Island",
+            "label": "LOC"
           },
           {
             "text": "the following day",
@@ -448,21 +452,41 @@
         ],
         [
           {
+            "text": "Some days later",
+            "label": "DATE"
+          },
+          {
             "text": "MGR",
             "label": "ORG"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "MGR\u2019s",
-            "label": "PRODUCT"
+            "text": "Shan",
+            "label": "PERSON"
+          },
+          {
+            "text": "MGR",
+            "label": "ORG"
           },
           {
             "text": "the fifties and sixties of the 20th century",
             "label": "DATE"
           },
           {
-            "text": "the Sirima Bandaranaike Govt",
+            "text": "Shan",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Sirima Bandaranaike",
+            "label": "ORG"
+          },
+          {
+            "text": "JVP",
             "label": "ORG"
           },
           {
@@ -496,16 +520,16 @@
             "label": "GPE"
           },
           {
-            "text": "the Liberation Tigers of Tamil",
-            "label": "ORG"
+            "text": "IPKF",
+            "label": "NORP"
           },
           {
-            "text": "IPKF",
+            "text": "JVP",
             "label": "ORG"
           },
           {
             "text": "Anti-Indian",
-            "label": "LAW"
+            "label": "NORP"
           },
           {
             "text": "LTTE",
@@ -513,7 +537,7 @@
           },
           {
             "text": "IPKF",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "anti-Indian",
@@ -534,12 +558,16 @@
             "label": "ORG"
           },
           {
+            "text": "JVP",
+            "label": "ORG"
+          },
+          {
             "text": "Indian",
             "label": "NORP"
           },
           {
             "text": "Kumar Rupasinghe\u2019s",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "Ajith Rupasinghe",
@@ -547,7 +575,11 @@
           },
           {
             "text": "Maoist",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "Ajith",
+            "label": "GPE"
           },
           {
             "text": "LTTE",
@@ -559,7 +591,11 @@
           },
           {
             "text": "JVP",
-            "label": "PRODUCT"
+            "label": "ORG"
+          },
+          {
+            "text": "JVP",
+            "label": "ORG"
           },
           {
             "text": "LTTE",
@@ -571,7 +607,7 @@
           },
           {
             "text": "JVP",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [
@@ -618,6 +654,10 @@
         ],
         [
           {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
             "text": "Tamil",
             "label": "PERSON"
           },
@@ -626,15 +666,20 @@
             "label": "DATE"
           },
           {
-            "text": "Marxist-Leninist",
-            "label": "ORG"
+            "text": "Marxist",
+            "label": "NORP"
           },
           {
-            "text": "Socialist Tamil",
-            "label": "ORG"
+            "text": "Tamil",
+            "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "Shan",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "Jaffna",
@@ -657,8 +702,16 @@
             "label": "PERSON"
           },
           {
+            "text": "Mao",
+            "label": "PERSON"
+          },
+          {
             "text": "35 years later",
             "label": "DATE"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
           },
           {
             "text": "LTTE",
@@ -683,15 +736,23 @@
             "label": "DATE"
           },
           {
-            "text": "the Ilankai Thamil Arasuk Katchi",
-            "label": "ORG"
+            "text": "Tamils",
+            "label": "LOC"
+          },
+          {
+            "text": "Arasuk Katchi",
+            "label": "PERSON"
+          },
+          {
+            "text": "ITAK",
+            "label": "GPE"
           },
           {
             "text": "the All Ceylon Tamil Congress",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
-            "text": "the Tamil United Liberation Front (TULF)in",
+            "text": "the Tamil United Liberation Front",
             "label": "ORG"
           },
           {
@@ -714,13 +775,17 @@
           },
           {
             "text": "Tamil",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "1975",
             "label": "DATE"
+          },
+          {
+            "text": "Uduvil",
+            "label": "GPE"
           },
           {
             "text": "D. Siddharthan MP",
@@ -735,8 +800,8 @@
             "label": "ORG"
           },
           {
-            "text": "Peking",
-            "label": "LOC"
+            "text": "Chunnakam",
+            "label": "ORG"
           },
           {
             "text": "Orator\u201d C. Subramainam",
@@ -750,11 +815,7 @@
           },
           {
             "text": "Dharmalingam",
-            "label": "NORP"
-          },
-          {
-            "text": "Dharmalingam",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "Subramaniam",
@@ -762,13 +823,17 @@
           },
           {
             "text": "Dharmalingam",
-            "label": "NORP"
+            "label": "PERSON"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "the Wellawatte Ramakrishna Hall",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "the Law College Tamil Union",
@@ -777,6 +842,10 @@
           {
             "text": "1976",
             "label": "DATE"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
           },
           {
             "text": "two",
@@ -791,6 +860,10 @@
             "label": "NORP"
           },
           {
+            "text": "Shiva",
+            "label": "PERSON"
+          },
+          {
             "text": "Vishnu",
             "label": "PERSON"
           },
@@ -803,6 +876,10 @@
             "label": "PERSON"
           },
           {
+            "text": "Vel",
+            "label": "PERSON"
+          },
+          {
             "text": "Javelin Spear",
             "label": "PERSON"
           }
@@ -810,15 +887,15 @@
         [
           {
             "text": "Tamil",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "Tamil",
             "label": "PERSON"
           },
           {
-            "text": "Policemen",
-            "label": "GPE"
+            "text": "Shan",
+            "label": "PERSON"
           },
           {
             "text": "JR Jayewardene",
@@ -835,6 +912,10 @@
           {
             "text": "July 1983",
             "label": "DATE"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           }
         ],
         [
@@ -851,8 +932,8 @@
             "label": "PERSON"
           },
           {
-            "text": "State",
-            "label": "ORG"
+            "text": "Shan",
+            "label": "PERSON"
           },
           {
             "text": "Tamil",
@@ -882,10 +963,18 @@
           },
           {
             "text": "Maoist",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "Shan",
+            "label": "PERSON"
           },
           {
             "text": "Tamil",
+            "label": "PERSON"
+          },
+          {
+            "text": "Shan",
             "label": "PERSON"
           },
           {
@@ -894,7 +983,7 @@
           },
           {
             "text": "Tamil",
-            "label": "GPE"
+            "label": "LANGUAGE"
           },
           {
             "text": "English",
@@ -916,11 +1005,15 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "Island",
             "label": "LOC"
+          },
+          {
+            "text": "LTTE",
+            "label": "ORG"
           },
           {
             "text": "Indian",
@@ -930,7 +1023,7 @@
         [
           {
             "text": "Tamil",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "Indian",
@@ -952,7 +1045,7 @@
         [
           {
             "text": "Tamil",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "Umamaheswaran",
@@ -960,6 +1053,14 @@
           },
           {
             "text": "the Peoples Liberation Organization of Tamil Eelam",
+            "label": "ORG"
+          },
+          {
+            "text": "PLOTE",
+            "label": "ORG"
+          },
+          {
+            "text": "PLOTE",
             "label": "ORG"
           },
           {
@@ -975,6 +1076,14 @@
             "label": "DATE"
           },
           {
+            "text": "Karavai\u201d Kanthasamy",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Shan\u2019s",
+            "label": "ORG"
+          },
+          {
             "text": "Hatton",
             "label": "GPE"
           }
@@ -982,11 +1091,11 @@
         [
           {
             "text": "Jaffna",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "IPKF",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "LTTE",
@@ -997,20 +1106,24 @@
             "label": "NORP"
           },
           {
+            "text": "Sunday Island",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "Gopalaswamy Mahendrarajah",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "Mahathaya",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "Indian",
             "label": "NORP"
           },
           {
-            "text": "Jayewardene",
-            "label": "PERSON"
-          },
-          {
             "text": "Mahathaya",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "Lanka",
@@ -1028,11 +1141,7 @@
           },
           {
             "text": "Jaffna",
-            "label": "GPE"
-          },
-          {
-            "text": "IPKF",
-            "label": "NORP"
+            "label": "PERSON"
           },
           {
             "text": "Indian",
@@ -1053,8 +1162,16 @@
         ],
         [
           {
+            "text": "The JVP of Rohana Wijeweera",
+            "label": "ORG"
+          },
+          {
             "text": "Indian",
             "label": "NORP"
+          },
+          {
+            "text": "JVP",
+            "label": "ORG"
           },
           {
             "text": "North",
@@ -1065,8 +1182,16 @@
             "label": "NORP"
           },
           {
-            "text": "Vijaya Kumaratunga\u2019s",
-            "label": "PERSON"
+            "text": "LTTE",
+            "label": "ORG"
+          },
+          {
+            "text": "Vijaya",
+            "label": "GPE"
+          },
+          {
+            "text": "JVP",
+            "label": "ORG"
           },
           {
             "text": "Italy",
@@ -1089,6 +1214,14 @@
             "label": "NORP"
           },
           {
+            "text": "Shan",
+            "label": "PERSON"
+          },
+          {
+            "text": "Wijeweera\u2019s JVP",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "Marxist",
             "label": "NORP"
           }
@@ -1096,15 +1229,15 @@
         [
           {
             "text": "the Sri Lankan Tamils",
-            "label": "ORG"
-          },
-          {
-            "text": "earlier days",
-            "label": "DATE"
+            "label": "LOC"
           },
           {
             "text": "Sri Lankan Tamils",
-            "label": "ORG"
+            "label": "LOC"
+          },
+          {
+            "text": "Self -Determination",
+            "label": "PERSON"
           },
           {
             "text": "Stalin",
@@ -1130,10 +1263,6 @@
           }
         ],
         [
-          {
-            "text": "the \u201cDaily FT",
-            "label": "WORK_OF_ART"
-          },
           {
             "text": "July 6th",
             "label": "DATE"
@@ -1185,8 +1314,12 @@
       ],
       "title_ents": [
         {
-          "text": "\u0da0\u0dd3\u0db1 \u0d9c\u0dd0\u0dad\u0dd2 \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca",
+          "text": "\u0da0\u0dd3\u0db1\u0dba\u0da7 \u0dc4\u0dd2\u0dad\u0dc0\u0dad\u0dca",
           "label": "ORG"
+        },
+        {
+          "text": "\u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
@@ -1213,11 +1346,15 @@
           },
           {
             "text": "\u0db8\u0dcf\u0d95",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dcf\u0d95 \u0dc3\u0dda \u0dad\u0dd4\u0d82",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d92 \u0daf\u0dc0\u0dc3\u0dca\u0dc0\u0dbd",
+            "label": "DATE"
           },
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
@@ -1236,22 +1373,22 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3-\u0dbd\u0dd9\u0db1\u0dd2\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
+            "label": "NORP"
           },
           {
             "text": "\u0db8\u0dcf\u0d95",
             "label": "PERSON"
-          },
-          {
-            "text": "Maoism",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
           },
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
@@ -1280,10 +1417,6 @@
             "label": "DATE"
           },
           {
-            "text": "post-Deng Xiaoping",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
           },
@@ -1292,8 +1425,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0db1\u0dd6\u0dad\u0db1 \u0da0\u0dd3\u0db1\u0dba",
-            "label": "LOC"
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dc4\u0da2\u0db1 \u0da0\u0dd3\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
@@ -1335,11 +1468,11 @@
           },
           {
             "text": "\u0db4\u0dd3\u0d9a\u0dd2\u0d82",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba (\u0db4\u0dd3\u0d9a\u0dd2\u0d82 \u0d85\u0d82\u0dc1\u0dba",
-            "label": "LAW"
+            "label": "EVENT"
           },
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
@@ -1347,25 +1480,17 @@
           },
           {
             "text": "\u0dbb\u0ddd\u0dc4\u0dab \u0dc0\u0dd2\u0da2\u0dda\u0dc0\u0dd3\u0dbb",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0db8\u0dcf\u0d95",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0da9\u0dd9\u0d82",
             "label": "GPE"
           },
           {
-            "text": "Maoism",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3-\u0dbd\u0dd9\u0db1\u0dd2\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "text": "\u0da9\u0dd9\u0d82",
+            "label": "PERSON"
           },
           {
             "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba",
@@ -1373,13 +1498,13 @@
           },
           {
             "text": "\u0db8\u0dcf\u0d95\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
           {
-            "text": "\u0da0\u0dd3\u0db1 \u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba",
-            "label": "ORG"
+            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "label": "GPE"
           },
           {
             "text": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0/\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -1390,12 +1515,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0db8\u0db1\u0dd2\u0db4\u0dcf\u0dba\u0dd2",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "GPE"
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba\u0dda \u0db8\u0db1\u0dd2\u0db4\u0dcf\u0dba\u0dd2",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "1964",
@@ -1408,6 +1529,10 @@
         ],
         [
           {
+            "text": "Comrade\u201d Shan",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
@@ -1416,15 +1541,19 @@
             "label": "LANGUAGE"
           },
           {
-            "text": "\u0dc3\u0db1\u0dca\u0db8\u0dd4\u0d9c\u0dad\u0dcf\u0dc3\u0db1\u0dca",
-            "label": "NORP"
-          },
-          {
             "text": "\u0dc2\u0db1\u0dca\u0db8\u0dd4\u0d9c\u0dad\u0dcf\u0dc3\u0db1\u0dca",
-            "label": "WORK_OF_ART"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "\u0dc2\u0db1\u0dca\u0db8\u0dd4\u0d9c\u0dad\u0dcf\u0dc3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
           {
             "text": "1920 \u0da2\u0dd6\u0dbd\u0dd2 3",
             "label": "DATE"
@@ -1436,10 +1565,6 @@
           {
             "text": "\u0d9a\u0ddc\u0db8\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca",
             "label": "NORP"
-          },
-          {
-            "text": "102 \u0dc0\u0dd0\u0db1\u0dd2 \u0d8b\u0db4\u0dad",
-            "label": "PERSON"
           }
         ],
         [
@@ -1453,11 +1578,7 @@
           },
           {
             "text": "\u0dc0\u0dd3\u0dbb\u0d9a\u0dda\u0dc3\u0dbb\u0dd3",
-            "label": "WORK_OF_ART"
-          },
-          {
-            "text": "\u0dad\u0dab\u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0db8\u0dca",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3 \u0db4\u0dd4\u0dc0\u0dad\u0dca\u0db4\u0dad\u0dca",
@@ -1466,16 +1587,12 @@
           {
             "text": "\u0dc0\u0dd3\u0dbb\u0d9a\u0dda\u0dc3\u0dbb\u0dd3",
             "label": "ORG"
-          },
-          {
-            "text": "\u0dad\u0dd2\u0db1\u0d9a\u0dd4\u0dbb\u0dbd\u0dca",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0dad\u0dab\u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0db8\u0dca",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "23/7",
@@ -1487,7 +1604,7 @@
           },
           {
             "text": "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
@@ -1498,12 +1615,20 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d89\u0d82\u0d9c\u0dca\u0dbb\u0dd3\u0dc3\u0dd2",
-            "label": "LANGUAGE"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc4\u0dd2\u0db1\u0dca\u0daf\u0dd4",
+            "label": "NORP"
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -1512,6 +1637,10 @@
           {
             "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dca\u0d9c\u0dd2\u0d9a \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -1523,7 +1652,7 @@
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "1987 \u0db8\u0dd4\u0dbd",
@@ -1534,6 +1663,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
             "text": "\u0d87\u0d91\u0da2",
             "label": "GPE"
           }
@@ -1541,7 +1674,7 @@
         [
           {
             "text": "\u0dad\u0dab\u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0db8\u0dca",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0d92 \u0daf\u0dc0\u0dc3\u0dca\u0dc0\u0dbd",
@@ -1570,8 +1703,8 @@
             "label": "DATE"
           },
           {
-            "text": "\"\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
-            "label": "WORK_OF_ART"
+            "text": "\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
+            "label": "LOC"
           },
           {
             "text": "\u0d8a\u0dc5\u0d9f \u0daf\u0dc0\u0dc3\u0dda",
@@ -1584,21 +1717,41 @@
         ],
         [
           {
+            "text": "\u0daf\u0dd2\u0db1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0db4\u0dc3\u0dd4",
+            "label": "DATE"
+          },
+          {
             "text": "\u0d91\u0db8\u0dca.\u0da2\u0dd3.\u0d86\u0dbb\u0dca",
             "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "\u0d91\u0db8\u0dca\u0da2\u0dd3\u0d86\u0dbb\u0dca \u0d9c\u0dda",
-            "label": "PRODUCT"
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0db8\u0dca.\u0da2\u0dd3.\u0d86\u0dbb\u0dca",
+            "label": "ORG"
           },
           {
             "text": "20 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dd2\u0dba\u0dc0\u0dc3\u0dda \u0db4\u0db1\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0dca \u0dc3\u0dc4 \u0dc4\u0dd0\u0da7 \u0d9c\u0dab\u0db1\u0dca",
             "label": "DATE"
           },
           {
-            "text": "\u0dc3\u0dd2\u0dbb\u0dd2\u0db8\u0dcf \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0da2\u0dba",
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dbb\u0dd2\u0db8\u0dcf \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
             "label": "ORG"
           },
           {
@@ -1632,16 +1785,16 @@
             "label": "GPE"
           },
           {
-            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0dc0\u0dd2\u0db8\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0ddc\u0da7\u0dd2",
-            "label": "ORG"
+            "text": "IPKF",
+            "label": "NORP"
           },
           {
-            "text": "IPKF",
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
             "label": "ORG"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3",
-            "label": "LAW"
+            "label": "NORP"
           },
           {
             "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
@@ -1649,7 +1802,7 @@
           },
           {
             "text": "IPKF",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3",
@@ -1670,12 +1823,16 @@
             "label": "ORG"
           },
           {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
             "label": "NORP"
           },
           {
             "text": "\u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0dbb\u0dd6\u0db4\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dda",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0d85\u0da2\u0dd2\u0dad\u0dca \u0dbb\u0dd6\u0db4\u0dc3\u0dd2\u0d82\u0dc4",
@@ -1683,7 +1840,11 @@
           },
           {
             "text": "\u0db8\u0dcf\u0d95\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d85\u0da2\u0dd2\u0dad\u0dca",
+            "label": "GPE"
           },
           {
             "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
@@ -1695,7 +1856,11 @@
           },
           {
             "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
-            "label": "PRODUCT"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
@@ -1707,7 +1872,7 @@
           },
           {
             "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [
@@ -1754,6 +1919,10 @@
         ],
         [
           {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
             "label": "PERSON"
           },
@@ -1762,15 +1931,20 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3-\u0dbd\u0dd9\u0db1\u0dd2\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
+            "label": "NORP"
           },
           {
-            "text": "\u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0daf\u0dd9\u0db8\u0dc5",
-            "label": "ORG"
+            "text": "\u0daf\u0dd9\u0db8\u0dc5",
+            "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
@@ -1793,8 +1967,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0db8\u0dcf\u0d95",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0dc0\u0dc3\u0dbb 35 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0",
             "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
@@ -1819,15 +2001,23 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d89\u0dbd\u0d82\u0d9a\u0dd9\u0dba\u0dd2 \u0dad\u0db8\u0dd2\u0dbd\u0dca \u0d85\u0dbb\u0dc3\u0dd4\u0d9a\u0dca \u0d9a\u0da0\u0dca\u0da0\u0dd2",
-            "label": "ORG"
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0d85\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "Arasuk Katchi",
+            "label": "PERSON"
+          },
+          {
+            "text": "ITAK",
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0daf\u0dd9\u0db8\u0dc5 \u0d9a\u0ddc\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc3\u0dba",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
-            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd2\u0db8\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab (TULF)",
+            "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd2\u0db8\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
             "label": "ORG"
           },
           {
@@ -1850,13 +2040,17 @@
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "1975",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d8b\u0da9\u0dd4\u0dc0\u0dd2\u0dbd\u0dca",
+            "label": "GPE"
           },
           {
             "text": "\u0da9\u0dd3 \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dcf\u0dbb\u0dca\u0dae\u0db1\u0dca \u0db4\u0dcf.\u0db8",
@@ -1871,8 +2065,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0db4\u0dd3\u0d9a\u0dd2\u0d82",
-            "label": "LOC"
+            "text": "\u0da0\u0dd4\u0db1\u0dca\u0db1\u0dcf\u0d9a\u0db8\u0dca",
+            "label": "ORG"
           },
           {
             "text": "\u0d9a\u0dae\u0dd2\u0d9a\u0dba\u0dcf\u201d \u0dc3\u0dd3 \u0dc3\u0dd4\u0db6\u0dca\u200d\u0dbb\u0db8\u0ddb\u0db1\u0db8\u0dca",
@@ -1886,11 +2080,7 @@
           },
           {
             "text": "\u0db0\u0dbb\u0dca\u0db8\u0dbd\u0dd2\u0d82\u0d9c\u0db8\u0dca",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0db0\u0dbb\u0dca\u0db8\u0dbd\u0dd2\u0d82\u0d9c\u0db8\u0dca",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0dc3\u0dd4\u0db6\u0dca\u200d\u0dbb\u0db8\u0db1\u0dd2\u0dba\u0db8\u0dca \u0dba",
@@ -1898,13 +2088,17 @@
           },
           {
             "text": "\u0db0\u0dbb\u0dca\u0db8\u0dbd\u0dd2\u0d82\u0d9c\u0db8\u0dca",
-            "label": "NORP"
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0dc0\u0dad\u0dca\u0dad \u0dbb\u0dcf\u0db8\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dc2\u0dca\u0dab \u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0dda\u0daf\u0dd3",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0db1\u0dd3\u0dad\u0dd2 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0daf\u0dd9\u0db8\u0dc5 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
@@ -1913,6 +2107,10 @@
           {
             "text": "1976",
             "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0daf\u0dd9\u0d9a",
@@ -1927,6 +2125,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0dc1\u0dd2\u0dc0",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0dc0\u0dd2\u0dc2\u0dca\u0dab\u0dd4",
             "label": "PERSON"
           },
@@ -1939,6 +2141,10 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0dc4\u0dd9\u0dbd\u0dca\u0dbd \u0dc4\u0dd9\u0dbd\u0dca\u0dbd\u0dba",
             "label": "PERSON"
           }
@@ -1946,15 +2152,15 @@
         [
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
             "label": "PERSON"
           },
           {
-            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0ddd",
-            "label": "GPE"
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0da2\u0dda \u0d86\u0dbb\u0dca \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
@@ -1971,6 +2177,10 @@
           {
             "text": "1983 \u0da2\u0dd6\u0dbd\u0dd2",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           }
         ],
         [
@@ -1987,8 +2197,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dbb\u0da2\u0dba\u0dda",
-            "label": "ORG"
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
@@ -2018,10 +2228,18 @@
           },
           {
             "text": "\u0db8\u0dcf\u0d95\u0dc0\u0dcf\u0daf\u0dd3",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
             "label": "PERSON"
           },
           {
@@ -2030,7 +2248,7 @@
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "GPE"
+            "label": "LANGUAGE"
           },
           {
             "text": "\u0d89\u0d82\u0d9c\u0dca\u0dbb\u0dd3\u0dc3\u0dd2",
@@ -2052,11 +2270,15 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
             "label": "LOC"
+          },
+          {
+            "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
+            "label": "ORG"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
@@ -2066,7 +2288,7 @@
         [
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
@@ -2088,7 +2310,7 @@
         [
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0d8b\u0db8\u0dcf\u0db8\u0dc4\u0dda\u0dc2\u0dca\u0dc0\u0dbb\u0db1\u0dca",
@@ -2096,6 +2318,14 @@
           },
           {
             "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0d8a\u0dc5\u0dcf\u0db8\u0dca \u0db8\u0dc4\u0da2\u0db1 \u0dc0\u0dd2\u0db8\u0dd4\u0d9a\u0dca\u0dad\u0dd2 \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbd\u0ddc\u0da7\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dca\u0dbd\u0ddc\u0da7\u0dca",
             "label": "ORG"
           },
           {
@@ -2111,6 +2341,14 @@
             "label": "DATE"
           },
           {
+            "text": "\u0d9a\u0dbb\u0dc0\u0dba\u0dd2\u201d \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dc3\u0dcf\u0db8\u0dd2",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0dc2\u0dcf\u0db1\u0dca\u0d9c\u0dda",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc4\u0dd0\u0da7\u0db1\u0dca",
             "label": "GPE"
           }
@@ -2118,11 +2356,11 @@
         [
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "IPKF",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
@@ -2133,20 +2371,24 @@
             "label": "NORP"
           },
           {
+            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0d9c\u0ddd\u0db4\u0dcf\u0dbd\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2 \u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dbb\u0dcf\u0da2\u0dcf",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dad\u0dca\u0dad\u0dba\u0dcf",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
             "label": "NORP"
           },
           {
-            "text": "\u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dba",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0db8\u0dc4\u0dad\u0dca\u0dad\u0dba\u0dcf",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0dbd\u0d82\u0d9a\u0dcf",
@@ -2164,11 +2406,7 @@
           },
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "GPE"
-          },
-          {
-            "text": "IPKF",
-            "label": "NORP"
+            "label": "PERSON"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
@@ -2189,8 +2427,16 @@
         ],
         [
           {
+            "text": "\u0dbb\u0ddd\u0dc4\u0dab \u0dc0\u0dd2\u0da2\u0dda\u0dc0\u0dd3\u0dbb\u0d9c\u0dda \u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
             "label": "NORP"
+          },
+          {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
           },
           {
             "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4",
@@ -2201,8 +2447,16 @@
             "label": "NORP"
           },
           {
-            "text": "\u0dc0\u0dd2\u0da2\u0dba \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dad\u0dd4\u0d82\u0d9c\u0d9c\u0dda",
-            "label": "PERSON"
+            "text": "\u0d91\u0dbd\u0dca\u0da7\u0dd3\u0da7\u0dd3\u0d8a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
           },
           {
             "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2\u0dba",
@@ -2225,6 +2479,14 @@
             "label": "NORP"
           },
           {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0da2\u0dda\u0dc0\u0dd3\u0dbb\u0d9c\u0dda \u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0db8\u0dcf\u0d9a\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0daf\u0dd3",
             "label": "NORP"
           }
@@ -2232,15 +2494,15 @@
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0db1\u0dad\u0dcf\u0dc0",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0daf\u0dc0\u0dc3\u0dca",
-            "label": "DATE"
+            "label": "LOC"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0db1\u0dad\u0dcf\u0dc0",
-            "label": "ORG"
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0dc0\u0dba\u0d82 \u0db1\u0dd2\u0dbb\u0dca\u0dab\u0dba",
+            "label": "PERSON"
           },
           {
             "text": "\u0dc3\u0dca\u0da7\u0dcf\u0dbd\u0dd2\u0db1\u0dca",
@@ -2266,10 +2528,6 @@
           }
         ],
         [
-          {
-            "text": "\"\u0da9\u0dda\u0dbd\u0dd2 \u0d91\u0dc6\u0dca.\u0da7\u0dd3",
-            "label": "WORK_OF_ART"
-          },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 6 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf",
             "label": "DATE"
@@ -2321,8 +2579,12 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b9a\u0bc0\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
+          "text": "\u0b9a\u0bc0\u0ba9\u0bbe \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bc1",
           "label": "ORG"
+        },
+        {
+          "text": "\u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
@@ -2349,11 +2611,15 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb \u0b9a\u0bc7 \u0ba4\u0bc1\u0b99\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
@@ -2372,22 +2638,22 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd-\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "NORP"
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb",
             "label": "PERSON"
-          },
-          {
-            "text": "Maoism",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
@@ -2416,10 +2682,6 @@
             "label": "DATE"
           },
           {
-            "text": "post-Deng Xiaoping",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
           },
@@ -2428,8 +2690,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0ba8\u0bb5\u0bc0\u0ba9 \u0b9a\u0bc0\u0ba9\u0bbe",
-            "label": "LOC"
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
@@ -2471,11 +2733,11 @@
           },
           {
             "text": "\u0baa\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf (\u0baa\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0bbf\u0b99\u0bcd",
-            "label": "LAW"
+            "label": "EVENT"
           },
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
@@ -2483,25 +2745,17 @@
           },
           {
             "text": "\u0bb0\u0bcb\u0bb9\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0bb5\u0bc0\u0bb0",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0b9f\u0bc6\u0b99\u0bcd",
             "label": "GPE"
           },
           {
-            "text": "Maoism",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0baf-\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "text": "\u0b9f\u0bc6\u0b99\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
@@ -2509,13 +2763,13 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb\u0baf\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
           {
-            "text": "\u0b9a\u0bc0\u0ba9 \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-            "label": "ORG"
+            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -2526,12 +2780,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0bae\u0bbe\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd",
-            "label": "PRODUCT"
-          },
-          {
-            "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "GPE"
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "1964",
@@ -2544,6 +2794,10 @@
         ],
         [
           {
+            "text": "Comrade\u201d Shan",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
@@ -2553,14 +2807,18 @@
           },
           {
             "text": "\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bbe\u0b9a\u0ba9\u0bcd",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bbe\u0b9a\u0ba9\u0bcd",
-            "label": "WORK_OF_ART"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bbe\u0b9a\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 3, 1920",
             "label": "DATE"
@@ -2572,10 +2830,6 @@
           {
             "text": "\u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
             "label": "NORP"
-          },
-          {
-            "text": "102\u0bb5\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "PERSON"
           }
         ],
         [
@@ -2589,11 +2843,7 @@
           },
           {
             "text": "\u0bb5\u0bc0\u0bb0\u0b95\u0bc7\u0b9a\u0bb0\u0bbf",
-            "label": "WORK_OF_ART"
-          },
-          {
-            "text": "\u0ba4\u0ba9\u0baa\u0bbe\u0bb2\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bb8\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd",
@@ -2602,16 +2852,12 @@
           {
             "text": "\u0bb5\u0bc0\u0bb0\u0b95\u0bc7\u0b9a\u0bb0\u0bbf",
             "label": "ORG"
-          },
-          {
-            "text": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bb2\u0bcd",
-            "label": "ORG"
           }
         ],
         [
           {
             "text": "\u0ba4\u0ba9\u0baa\u0bbe\u0bb2\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "23/7",
@@ -2623,7 +2869,7 @@
           },
           {
             "text": "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
@@ -2634,12 +2880,20 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bae\u0bcd",
-            "label": "LANGUAGE"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "NORP"
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -2648,6 +2902,10 @@
           {
             "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b87\u0ba9 \u0bae\u0bc8\u0baf\u0bae\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -2659,7 +2917,7 @@
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "1987 \u0b87\u0ba9\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
@@ -2670,6 +2928,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
             "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
             "label": "GPE"
           }
@@ -2677,7 +2939,7 @@
         [
           {
             "text": "\u0ba4\u0ba9\u0baa\u0bbe\u0bb2\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
@@ -2706,8 +2968,8 @@
             "label": "DATE"
           },
           {
-            "text": "\"\u0ba4\u0bc0\u0bb5\u0bc1",
-            "label": "WORK_OF_ART"
+            "text": "\u0ba4\u0bc0\u0bb5\u0bc1",
+            "label": "LOC"
           },
           {
             "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
@@ -2720,21 +2982,41 @@
         ],
         [
           {
+            "text": "\u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "\u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bbf\u0ba9\u0bcd",
-            "label": "PRODUCT"
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "20 \u0b86\u0bae\u0bcd \u0ba8\u0bc2\u0bb1\u0bcd\u0bb1\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b90\u0bae\u0bcd\u0baa\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bc1\u0baa\u0ba4\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "\u0b9a\u0bbf\u0bb1\u0bbf\u0bae\u0bbe \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb1\u0bbf\u0bae\u0bbe \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
             "label": "ORG"
           },
           {
@@ -2768,16 +3050,16 @@
             "label": "GPE"
           },
           {
-            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bc0\u0bb4 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
+            "text": "IPKF",
+            "label": "NORP"
           },
           {
-            "text": "IPKF",
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
             "label": "ORG"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "LAW"
+            "label": "NORP"
           },
           {
             "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
@@ -2785,7 +3067,7 @@
           },
           {
             "text": "IPKF",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
@@ -2806,12 +3088,16 @@
             "label": "ORG"
           },
           {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "NORP"
           },
           {
             "text": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0bb0\u0bc2\u0baa\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0bb0\u0bc2\u0baa\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
@@ -2819,7 +3105,11 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb\u0baf\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd",
+            "label": "GPE"
           },
           {
             "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
@@ -2831,7 +3121,11 @@
           },
           {
             "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
-            "label": "PRODUCT"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
@@ -2843,7 +3137,7 @@
           },
           {
             "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [
@@ -2890,6 +3184,10 @@
         ],
         [
           {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
             "label": "PERSON"
           },
@@ -2898,15 +3196,20 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0baf-\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "NORP"
           },
           {
-            "text": "\u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "ORG"
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+            "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
@@ -2929,8 +3232,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0bae\u0bbe\u0bb5\u0bcb",
+            "label": "PERSON"
+          },
+          {
             "text": "35 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1",
             "label": "DATE"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
@@ -2955,15 +3266,23 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-            "label": "ORG"
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "Arasuk Katchi",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90.\u0b9f\u0bbf.\u0b8f.\u0b95\u0bc7",
+            "label": "GPE"
           },
           {
             "text": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
-            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf (TULF).",
+            "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf",
             "label": "ORG"
           },
           {
@@ -2986,13 +3305,17 @@
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "1975",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b89\u0b9f\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd",
+            "label": "GPE"
           },
           {
             "text": "\u0b9f\u0bbf.\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf",
@@ -3007,8 +3330,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0baa\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
-            "label": "LOC"
+            "text": "\u0b9a\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bae\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0b9a\u0bca\u0bb1\u0bcd\u0baa\u0bca\u0bb4\u0bbf\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd\u201d \u0b9a\u0bbf.\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bae\u0bcd",
@@ -3022,11 +3345,7 @@
           },
           {
             "text": "\u0ba4\u0bb0\u0bcd\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0ba4\u0bb0\u0bcd\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0b9a\u0bc1\u0baa\u0bcd\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bae\u0bcd",
@@ -3034,13 +3353,17 @@
           },
           {
             "text": "\u0ba4\u0bb0\u0bcd\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "NORP"
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb0\u0bbe\u0bae\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3 \u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0b9a\u0b9f\u0bcd\u0b9f\u0b95\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
@@ -3049,6 +3372,10 @@
           {
             "text": "1976",
             "label": "DATE"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
@@ -3063,6 +3390,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0b9a\u0bbf\u0bb5\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0bb5\u0bbf\u0bb7\u0bcd\u0ba3\u0bc1",
             "label": "PERSON"
           },
@@ -3075,6 +3406,10 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0bb5\u0bc7\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0b88\u0b9f\u0bcd\u0b9f\u0bbf \u0b88\u0b9f\u0bcd\u0b9f\u0bbf",
             "label": "PERSON"
           }
@@ -3082,15 +3417,15 @@
         [
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
             "label": "PERSON"
           },
           {
-            "text": "\u0b95\u0bbe\u0bb5\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "GPE"
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b9c\u0bc7.\u0b86\u0bb0\u0bcd.\u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
@@ -3107,6 +3442,10 @@
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 1983",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           }
         ],
         [
@@ -3123,8 +3462,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0ba8\u0bbf\u0bb2\u0bc8",
-            "label": "ORG"
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
@@ -3154,10 +3493,18 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb5\u0bcb\u0baf\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
             "label": "PERSON"
           },
           {
@@ -3166,7 +3513,7 @@
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "LANGUAGE"
           },
           {
             "text": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bae\u0bcd",
@@ -3188,11 +3535,15 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0ba4\u0bc0\u0bb5\u0bc1",
             "label": "LOC"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
@@ -3202,7 +3553,7 @@
         [
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "LOC"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
@@ -3224,7 +3575,7 @@
         [
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0b89\u0bae\u0bbe\u0bae\u0b95\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
@@ -3232,6 +3583,14 @@
           },
           {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bc0\u0bb4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0bb3\u0bca\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0bb3\u0bca\u0b9f\u0bcd",
             "label": "ORG"
           },
           {
@@ -3247,6 +3606,14 @@
             "label": "DATE"
           },
           {
+            "text": "\u0b95\u0bb0\u0bb5\u0bc8\u201d \u0b95\u0ba8\u0bcd\u0ba4\u0b9a\u0bbe\u0bae\u0bbf",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "GPE"
           }
@@ -3254,11 +3621,11 @@
         [
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "IPKF",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
@@ -3269,20 +3636,24 @@
             "label": "NORP"
           },
           {
+            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf \u0bae\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bb0\u0bbe\u0b9c\u0bbe",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bb9\u0bbe\u0ba4\u0baf\u0bbe",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "NORP"
           },
           {
-            "text": "\u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0bae\u0bb9\u0bbe\u0ba4\u0baf\u0bbe",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -3300,11 +3671,7 @@
           },
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "GPE"
-          },
-          {
-            "text": "IPKF",
-            "label": "NORP"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
@@ -3325,8 +3692,16 @@
         ],
         [
           {
+            "text": "\u0bb0\u0bcb\u0bb9\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0bb5\u0bc0\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1",
@@ -3337,8 +3712,16 @@
             "label": "NORP"
           },
           {
-            "text": "\u0bb5\u0bbf\u0b9c\u0baf \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd",
-            "label": "PERSON"
+            "text": "\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf",
@@ -3361,6 +3744,14 @@
             "label": "NORP"
           },
           {
+            "text": "\u0bb7\u0bbe\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0b9c\u0bc7\u0bb5\u0bc0\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd",
             "label": "NORP"
           }
@@ -3368,15 +3759,15 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "DATE"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0baf\u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf\u0bae\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd",
@@ -3402,10 +3793,6 @@
           }
         ],
         [
-          {
-            "text": "\"\u0b9f\u0bc6\u0baf\u0bcd\u0bb2\u0bbf \u0b8e\u0b83\u0baa\u0bcd\u0b9f\u0bbf",
-            "label": "WORK_OF_ART"
-          },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 6",
             "label": "DATE"

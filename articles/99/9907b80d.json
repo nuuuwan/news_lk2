@@ -22,15 +22,11 @@
       ],
       "title_ents": [
         {
-          "text": "Wickremesinghe",
-          "label": "PERSON"
+          "text": "Wickremesinghe\u2019s Private Residence On Fire Prevents   Takes Over Fire Engine  ",
+          "label": "ORG"
         },
         {
-          "text": "Six",
-          "label": "CARDINAL"
-        },
-        {
-          "text": "Sirasa TV",
+          "text": "Sirasa TV   Assaulted",
           "label": "ORG"
         },
         {
@@ -53,7 +49,7 @@
             "label": "TIME"
           },
           {
-            "text": "8 p.m.",
+            "text": "around 8 p.m.",
             "label": "TIME"
           }
         ],
@@ -63,8 +59,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "5th Lane, Colombo 3",
-            "label": "ORG"
+            "text": "5th Lane",
+            "label": "FAC"
           },
           {
             "text": "last evening",
@@ -72,14 +68,10 @@
           },
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
-          {
-            "text": "STF",
-            "label": "ORG"
-          },
           {
             "text": "Sirasa TV",
             "label": "ORG"
@@ -91,10 +83,6 @@
         ],
         [
           {
-            "text": "PM",
-            "label": "DATE"
-          },
-          {
             "text": "Wickremesinghe",
             "label": "PERSON"
           }
@@ -105,17 +93,8 @@
             "label": "ORG"
           }
         ],
+        [],
         [
-          {
-            "text": "9",
-            "label": "CARDINAL"
-          }
-        ],
-        [
-          {
-            "text": "PM",
-            "label": "DATE"
-          },
           {
             "text": "One",
             "label": "CARDINAL"
@@ -185,15 +164,11 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-          "label": "PERSON"
+          "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dda \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db1\u0dd2\u0dc0\u0dc3 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dd2\u0db1\u0dd2 \u0d87\u0db1\u0dca\u0da2\u0dd2\u0db8 \u0db4\u0dc0\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc0\u0dc5\u0d9a\u0dca\u0dc0\u0dba\u0dd2",
+          "label": "ORG"
         },
         {
-          "text": "\u0dc4\u0dba",
-          "label": "CARDINAL"
-        },
-        {
-          "text": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0da7\u0dd3.\u0dc0\u0dd3",
+          "text": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0da7\u0dd3\u0dc0\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
           "label": "ORG"
         },
         {
@@ -216,7 +191,7 @@
             "label": "TIME"
           },
           {
-            "text": "8 \u0db4.\u0dc0.",
+            "text": "8 \u0da7 \u0db4\u0db8\u0dab",
             "label": "TIME"
           }
         ],
@@ -226,8 +201,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "5 \u0dc0\u0db1 \u0db4\u0da7\u0dd4\u0db8\u0d9c, \u0d9a\u0ddc\u0dc5\u0db9 3",
-            "label": "ORG"
+            "text": "5 \u0dc0\u0db1 \u0db4\u0da7\u0dd4\u0db8\u0d9c",
+            "label": "FAC"
           },
           {
             "text": "\u0d8a\u0dba\u0dda \u0dc3\u0dc0\u0dc3",
@@ -235,14 +210,10 @@
           },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
-          {
-            "text": "\u0d91\u0dc3\u0dca.\u0da7\u0dd3.\u0d91\u0dc6\u0dca",
-            "label": "ORG"
-          },
           {
             "text": "\u0dc3\u0dd2\u0dbb\u0dc3 \u0da7\u0dd3.\u0dc0\u0dd3",
             "label": "ORG"
@@ -254,10 +225,6 @@
         ],
         [
           {
-            "text": "PM",
-            "label": "DATE"
-          },
-          {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
             "label": "PERSON"
           }
@@ -268,17 +235,8 @@
             "label": "ORG"
           }
         ],
+        [],
         [
-          {
-            "text": "9",
-            "label": "CARDINAL"
-          }
-        ],
-        [
-          {
-            "text": "PM",
-            "label": "DATE"
-          },
           {
             "text": "\u0d91\u0d9a",
             "label": "CARDINAL"
@@ -348,15 +306,11 @@
       ],
       "title_ents": [
         {
-          "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-          "label": "PERSON"
+          "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd, \u0ba4\u0bc0\u0baf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+          "label": "ORG"
         },
         {
-          "text": "\u0b86\u0bb1\u0bc1",
-          "label": "CARDINAL"
-        },
-        {
-          "text": "\u0b9a\u0bbf\u0bb0\u0b9a \u0b9f\u0bbf.\u0bb5\u0bbf",
+          "text": "\u0b9a\u0bbf\u0bb0\u0b9a \u0ba4\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
           "label": "ORG"
         },
         {
@@ -379,7 +333,7 @@
             "label": "TIME"
           },
           {
-            "text": "\u0b87\u0bb0\u0bb5\u0bc1 8 \u0bae\u0ba3\u0bbf",
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 8 \u0bae\u0ba3\u0bbf",
             "label": "TIME"
           }
         ],
@@ -389,8 +343,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "5\u0bb5\u0ba4\u0bc1 \u0bb2\u0bc7\u0ba9\u0bcd, \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 3",
-            "label": "ORG"
+            "text": "5\u0bb5\u0ba4\u0bc1 \u0bb2\u0bc7\u0ba9\u0bcd",
+            "label": "FAC"
           },
           {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8",
@@ -398,14 +352,10 @@
           },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
-          {
-            "text": "\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf.\u0b8e\u0b83\u0baa\u0bcd",
-            "label": "ORG"
-          },
           {
             "text": "\u0b9a\u0bbf\u0bb0\u0b9a \u0b9f\u0bbf.\u0bb5\u0bbf",
             "label": "ORG"
@@ -417,10 +367,6 @@
         ],
         [
           {
-            "text": "\u0bae\u0bbe\u0bb2\u0bc8",
-            "label": "DATE"
-          },
-          {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
             "label": "PERSON"
           }
@@ -431,17 +377,8 @@
             "label": "ORG"
           }
         ],
+        [],
         [
-          {
-            "text": "9",
-            "label": "CARDINAL"
-          }
-        ],
-        [
-          {
-            "text": "\u0bae\u0bbe\u0bb2\u0bc8",
-            "label": "DATE"
-          },
           {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"

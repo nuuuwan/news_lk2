@@ -31,6 +31,10 @@
           "label": "GPE"
         },
         {
+          "text": "country\u201d-",
+          "label": "CARDINAL"
+        },
+        {
           "text": "Canadian",
           "label": "NORP"
         },
@@ -50,17 +54,25 @@
             "label": "GPE"
           },
           {
+            "text": "Colombo",
+            "label": "GPE"
+          },
+          {
             "text": "Sri Lanka",
             "label": "GPE"
           },
           {
-            "text": "Canada Day \u2013 July 1, 2022",
+            "text": "Canada Day",
             "label": "EVENT"
+          },
+          {
+            "text": "July 1, 2022",
+            "label": "DATE"
           }
         ],
         [
           {
-            "text": "Canada Day",
+            "text": "Canada Day!",
             "label": "EVENT"
           },
           {
@@ -75,11 +87,7 @@
         [
           {
             "text": "Canada Day",
-            "label": "DATE"
-          },
-          {
-            "text": "Canadians",
-            "label": "NORP"
+            "label": "EVENT"
           },
           {
             "text": "Canadian",
@@ -103,7 +111,7 @@
           },
           {
             "text": "Sri Lankans",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "every day",
@@ -183,7 +191,7 @@
         [
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Maldives",
@@ -191,7 +199,7 @@
           },
           {
             "text": "Maldives",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Canada",
@@ -199,7 +207,7 @@
           },
           {
             "text": "the Global Environment Facility",
-            "label": "LAW"
+            "label": "ORG"
           },
           {
             "text": "the Green Climate Fund",
@@ -207,11 +215,11 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Maldives",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -238,20 +246,16 @@
         ],
         [
           {
-            "text": "Canadians",
-            "label": "NORP"
-          },
-          {
-            "text": "Sri Lankan",
-            "label": "NORP"
-          },
-          {
             "text": "Maldivian",
             "label": "NORP"
           },
           {
             "text": "Canada",
             "label": "GPE"
+          },
+          {
+            "text": "Canada Day",
+            "label": "EVENT"
           }
         ]
       ]
@@ -282,6 +286,10 @@
           "label": "GPE"
         },
         {
+          "text": "\u0dbb\u0da7\"-",
+          "label": "CARDINAL"
+        },
+        {
           "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
           "label": "NORP"
         },
@@ -301,17 +309,25 @@
             "label": "GPE"
           },
           {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          },
+          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
-            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba - \u0da2\u0dd6\u0dbd\u0dd2 1, 2022",
+            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba",
             "label": "EVENT"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 1, 2022",
+            "label": "DATE"
           }
         ],
         [
           {
-            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba",
+            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba!",
             "label": "EVENT"
           },
           {
@@ -326,11 +342,7 @@
         [
           {
             "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
-            "label": "NORP"
+            "label": "EVENT"
           },
           {
             "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -354,7 +366,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0dc3\u0dd1\u0db8 \u0daf\u0dd2\u0db1\u0db8",
@@ -434,7 +446,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
@@ -442,7 +454,7 @@
           },
           {
             "text": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0",
@@ -450,7 +462,7 @@
           },
           {
             "text": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0db4\u0dbb\u0dd2\u0dc3\u0dbb \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8",
-            "label": "LAW"
+            "label": "ORG"
           },
           {
             "text": "\u0dc4\u0dbb\u0dd2\u0dad \u0daf\u0dda\u0dc1\u0d9c\u0dd4\u0dab\u0dd2\u0d9a \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
@@ -458,11 +470,11 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -489,20 +501,16 @@
         ],
         [
           {
-            "text": "\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "NORP"
-          },
-          {
             "text": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dca",
             "label": "NORP"
           },
           {
             "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0daf\u0dd2\u0db1\u0dba",
+            "label": "EVENT"
           }
         ]
       ]
@@ -533,6 +541,10 @@
           "label": "GPE"
         },
         {
+          "text": "\u0ba8\u0bbe\u0b9f\u0bc1\"-",
+          "label": "CARDINAL"
+        },
+        {
           "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0ba9\u0bcd",
           "label": "NORP"
         },
@@ -552,17 +564,25 @@
             "label": "GPE"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
-            "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u2013 \u0b9c\u0bc2\u0bb2\u0bc8 1, 2022",
+            "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
             "label": "EVENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 1, 2022",
+            "label": "DATE"
           }
         ],
         [
           {
-            "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd!",
             "label": "EVENT"
           },
           {
@@ -577,11 +597,7 @@
         [
           {
             "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "NORP"
+            "label": "EVENT"
           },
           {
             "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0ba9\u0bcd",
@@ -605,7 +621,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd",
@@ -685,7 +701,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
@@ -693,7 +709,7 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0ba9\u0b9f\u0bbe",
@@ -701,7 +717,7 @@
           },
           {
             "text": "\u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf",
-            "label": "LAW"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0b9a\u0bc1\u0bae\u0bc8 \u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf",
@@ -709,11 +725,11 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -740,20 +756,16 @@
         ],
         [
           {
-            "text": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "NORP"
-          },
-          {
             "text": "\u0bae\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1",
             "label": "NORP"
           },
           {
             "text": "\u0b95\u0ba9\u0b9f\u0bbe",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0ba9\u0b9f\u0bbe \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "label": "EVENT"
           }
         ]
       ]

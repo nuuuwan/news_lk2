@@ -16,20 +16,12 @@
       ],
       "title_ents": [
         {
-          "text": "Sri Lankan",
-          "label": "GPE"
-        },
-        {
           "text": "America",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "Sri Lankan",
-            "label": "GPE"
-          },
           {
             "text": "the United States",
             "label": "GPE"
@@ -74,7 +66,7 @@
           },
           {
             "text": "Bloomberg",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -138,20 +130,12 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-          "label": "GPE"
-        },
-        {
           "text": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
-          },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
@@ -196,7 +180,7 @@
           },
           {
             "text": "\u0db6\u0dca\u0dbd\u0dd6\u0db8\u0dca\u0db6\u0dbb\u0dca\u0d9c\u0dca",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -260,20 +244,12 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-          "label": "GPE"
-        },
-        {
           "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
           "label": "GPE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
           {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "GPE"
@@ -318,7 +294,7 @@
           },
           {
             "text": "\u0baa\u0bcd\u0bb3\u0bc2\u0bae\u0bcd\u0baa\u0bc6\u0bb0\u0bcd\u0b95\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [

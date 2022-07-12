@@ -26,16 +26,8 @@
           "label": "GPE"
         },
         {
-          "text": "Trincomalee District",
+          "text": "Trincomalee District   Allege",
           "label": "LOC"
-        },
-        {
-          "text": "Over 200 Acres",
-          "label": "QUANTITY"
-        },
-        {
-          "text": "Lands",
-          "label": "GPE"
         },
         {
           "text": "Sinhalese",
@@ -49,10 +41,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Thennamaravadi",
-            "label": "GPE"
-          },
-          {
             "text": "Kuchchaveli",
             "label": "ORG"
           },
@@ -62,7 +50,7 @@
           },
           {
             "text": "Trincomalee",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "the Pulmoddai Road",
@@ -76,6 +64,10 @@
           }
         ],
         [
+          {
+            "text": "225",
+            "label": "CARDINAL"
+          },
           {
             "text": "Only two",
             "label": "CARDINAL"
@@ -112,7 +104,7 @@
           },
           {
             "text": "Thennamaravadi",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -126,7 +118,7 @@
           },
           {
             "text": "Thennamaravadi",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "Sinhala",
@@ -137,15 +129,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "the Human Rights Commission",
-            "label": "ORG"
-          },
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          },
-          {
-            "text": "District",
+            "text": "the Human Rights Commission of Sri Lanka",
             "label": "ORG"
           },
           {
@@ -178,7 +162,7 @@
         [
           {
             "text": "the Thennamaravadi Grama Niladhari",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "Abdul Hassan",
@@ -188,11 +172,11 @@
         [
           {
             "text": "the Divisional Secretariat",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "Kuchchaveli",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "Padavi Sri Pura",
@@ -229,16 +213,8 @@
           "label": "GPE"
         },
         {
-          "text": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba",
+          "text": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0",
           "label": "LOC"
-        },
-        {
-          "text": "\u0d85\u0d9a\u0dca\u0d9a\u0dbb 200 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
-          "label": "QUANTITY"
-        },
-        {
-          "text": "\u0d89\u0da9\u0db8\u0dca",
-          "label": "GPE"
         },
         {
           "text": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd",
@@ -252,10 +228,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dad\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dbb\u0dc0\u0dcf\u0da9\u0dd2",
-            "label": "GPE"
-          },
-          {
             "text": "\u0d9a\u0dd4\u0da0\u0dca\u0da0\u0dc0\u0dda\u0dbd\u0dd2",
             "label": "ORG"
           },
@@ -265,7 +237,7 @@
           },
           {
             "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0db4\u0dd4\u0dbd\u0dca\u0db8\u0ddc\u0da9\u0dda \u0db4\u0dcf\u0dbb",
@@ -279,6 +251,10 @@
           }
         ],
         [
+          {
+            "text": "225",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db4\u0db8\u0dab\u0d9a\u0dca",
             "label": "CARDINAL"
@@ -315,7 +291,7 @@
           },
           {
             "text": "\u0dad\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dbb\u0dc0\u0dcf\u0da9\u0dd2",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -329,7 +305,7 @@
           },
           {
             "text": "\u0dad\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dbb\u0dc0\u0dcf\u0da9\u0dd2",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd",
@@ -340,15 +316,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0daf\u0dd2\u0dc3\u0dcf",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
             "label": "ORG"
           },
           {
@@ -381,7 +349,7 @@
         [
           {
             "text": "\u0dad\u0dd9\u0db1\u0dca\u0db1\u0db8\u0dbb\u0dc0\u0dcf\u0da9\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0d85\u0db6\u0dca\u0daf\u0dd4\u0dbd\u0dca \u0dc4\u0dc3\u0db1\u0dca",
@@ -391,11 +359,11 @@
         [
           {
             "text": "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "\u0d9a\u0dd4\u0da0\u0dca\u0da0\u0dc0\u0dda\u0dbd\u0dd2",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0db4\u0daf\u0dc0\u0dd2 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0db4\u0dd4\u0dbb",
@@ -432,16 +400,8 @@
           "label": "GPE"
         },
         {
-          "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
           "label": "LOC"
-        },
-        {
-          "text": "200 \u0b8f\u0b95\u0bcd\u0b95\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
-          "label": "QUANTITY"
-        },
-        {
-          "text": "\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-          "label": "GPE"
         },
         {
           "text": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
@@ -455,10 +415,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0bb5\u0bbe\u0b9f\u0bbf",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bb5\u0bc6\u0bb3\u0bbf",
             "label": "ORG"
           },
@@ -468,7 +424,7 @@
           },
           {
             "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0baa\u0bc1\u0bb2\u0bcd\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf",
@@ -482,6 +438,10 @@
           }
         ],
         [
+          {
+            "text": "225",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
             "label": "CARDINAL"
@@ -518,7 +478,7 @@
           },
           {
             "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0bb5\u0bbe\u0b9f\u0bbf",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -532,7 +492,7 @@
           },
           {
             "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0bb5\u0bbe\u0b9f\u0bbf",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
@@ -543,15 +503,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
             "label": "ORG"
           },
           {
@@ -584,7 +536,7 @@
         [
           {
             "text": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0bb5\u0bbe\u0b9f\u0bbf \u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0b85\u0baa\u0bcd\u0ba4\u0bc1\u0bb2\u0bcd \u0bb9\u0bbe\u0b9a\u0ba9\u0bcd",
@@ -594,11 +546,11 @@
         [
           {
             "text": "\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bb5\u0bc6\u0bb3\u0bbf",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0ba4\u0bb5\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0 \u0baa\u0bc1\u0bb0\u0bbe",

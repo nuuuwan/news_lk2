@@ -76,6 +76,10 @@
         ],
         [
           {
+            "text": "Justice",
+            "label": "ORG"
+          },
+          {
             "text": "Wijedasa Rajapaksa",
             "label": "PERSON"
           }
@@ -88,20 +92,12 @@
         ],
         [
           {
-            "text": "Parliament",
-            "label": "ORG"
-          },
-          {
-            "text": "the National People\u2019s Power",
+            "text": "Parliament of the National People\u2019s Power",
             "label": "ORG"
           },
           {
             "text": "Harini Amarasuriya",
             "label": "PERSON"
-          },
-          {
-            "text": "Aragalaya",
-            "label": "ORG"
           }
         ]
       ]
@@ -177,6 +173,10 @@
         ],
         [
           {
+            "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc0\u0dd2\u0da2\u0dda\u0daf\u0dcf\u0dc3 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
           }
@@ -189,20 +189,12 @@
         ],
         [
           {
-            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0da2\u0db1\u0dad\u0dcf \u0db6\u0dbd\u0dba",
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0da2\u0db1 \u0db6\u0dbd\u0dba \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
           },
           {
             "text": "\u0dc4\u0dbb\u0dd2\u0db1\u0dd2 \u0d85\u0db8\u0dbb\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba",
-            "label": "ORG"
           }
         ]
       ]
@@ -278,6 +270,10 @@
         ],
         [
           {
+            "text": "\u0ba8\u0bc0\u0ba4\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb5\u0bbf\u0b9c\u0bc7\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
             "label": "PERSON"
           }
@@ -290,20 +286,12 @@
         ],
         [
           {
-            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bb9\u0bb0\u0bbf\u0ba9\u0bbf \u0b85\u0bae\u0bb0\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
+            "text": "\u0bb9\u0bb0\u0bbf\u0ba3\u0bbf \u0b85\u0bae\u0bb0\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0b85\u0bb0\u0b95\u0bb2\u0baf\u0bbe",
-            "label": "ORG"
           }
         ]
       ]

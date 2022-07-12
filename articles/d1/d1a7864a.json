@@ -45,12 +45,8 @@
             "label": "GPE"
           },
           {
-            "text": "Thewampiddi and Sand Banks",
+            "text": "Thewampiddi and Sand Banks in Mannar",
             "label": "ORG"
-          },
-          {
-            "text": "Mannar",
-            "label": "GPE"
           },
           {
             "text": "Monday",
@@ -68,7 +64,7 @@
           },
           {
             "text": "the North Central Naval Command",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "Thewampiddi Beach",
@@ -106,7 +102,7 @@
           },
           {
             "text": "the North Central Naval Command",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "05",
@@ -117,12 +113,8 @@
             "label": "GPE"
           },
           {
-            "text": "about 22kg and",
+            "text": "about 22kg and 140",
             "label": "QUANTITY"
-          },
-          {
-            "text": "140",
-            "label": "CARDINAL"
           },
           {
             "text": "Mannar Sand Banks",
@@ -146,10 +138,6 @@
           },
           {
             "text": "Kerala",
-            "label": "PERSON"
-          },
-          {
-            "text": "Mulankavil",
             "label": "GPE"
           },
           {
@@ -158,7 +146,7 @@
           },
           {
             "text": "Thewampiddi",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "Kerala",
@@ -172,7 +160,7 @@
         [
           {
             "text": "Kerala",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Sand Banks",
@@ -221,12 +209,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dad\u0dda\u0dc0\u0db8\u0dca\u0db4\u0dd2\u0da9\u0dca\u0da9\u0dd2 \u0dc3\u0dc4 \u0dc0\u0dd0\u0dbd\u0dd2 \u0d89\u0dc0\u0dd4\u0dbb\u0dd4",
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dda \u0dad\u0dda\u0dc0\u0db8\u0dca\u0db4\u0dd2\u0da9\u0dca\u0da9\u0dd2 \u0dc3\u0dc4 \u0dc0\u0dd0\u0dbd\u0dd2 \u0d89\u0dc0\u0dd4\u0dbb\u0dd4",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
-            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
@@ -244,7 +228,7 @@
           },
           {
             "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "\u0dad\u0dda\u0dc0\u0db8\u0dca\u0db4\u0dd2\u0da9\u0dca\u0da9\u0dd2 \u0dc0\u0dd9\u0dbb\u0dc5",
@@ -282,7 +266,7 @@
           },
           {
             "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "05",
@@ -293,12 +277,8 @@
             "label": "GPE"
           },
           {
-            "text": "22kg \u0db4\u0db8\u0dab \u0dc3\u0dc4",
+            "text": "22kg \u0dc3\u0dc4 140 \u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dda",
             "label": "QUANTITY"
-          },
-          {
-            "text": "140",
-            "label": "CARDINAL"
           },
           {
             "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd0\u0dbd\u0dd2 \u0d89\u0dc0\u0dd4\u0dbb\u0dd4",
@@ -322,10 +302,6 @@
           },
           {
             "text": "\u0d9a\u0dda\u0dbb\u0dbd",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0db8\u0dd4\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dd2\u0dbd\u0dca",
             "label": "GPE"
           },
           {
@@ -334,7 +310,7 @@
           },
           {
             "text": "\u0dad\u0dda\u0dc0\u0db8\u0dca\u0db4\u0dd2\u0da9\u0dca\u0da9\u0dd2",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0d9a\u0dda\u0dbb\u0dbd",
@@ -348,7 +324,7 @@
         [
           {
             "text": "\u0d9a\u0dda\u0dbb\u0dbd",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0dc0\u0dd0\u0dbd\u0dd2 \u0db6\u0dd0\u0d82\u0d9a\u0dd4",
@@ -397,12 +373,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0ba4\u0bc7\u0bb5\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba3\u0bb2\u0bcd \u0b95\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc7\u0bb5\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba3\u0bb2\u0bcd \u0b95\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
-            "label": "GPE"
           },
           {
             "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
@@ -420,7 +392,7 @@
           },
           {
             "text": "\u0bb5\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "\u0ba4\u0bc7\u0bb5\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8",
@@ -458,7 +430,7 @@
           },
           {
             "text": "\u0bb5\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8",
-            "label": "ORG"
+            "label": "LOC"
           },
           {
             "text": "05",
@@ -469,12 +441,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 22 \u0b95\u0bbf\u0bb2\u0bcb \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 22 \u0b95\u0bbf\u0bb2\u0bcb \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 140",
             "label": "QUANTITY"
-          },
-          {
-            "text": "140",
-            "label": "CARDINAL"
           },
           {
             "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0ba3\u0bb2\u0bcd \u0b95\u0bb0\u0bc8\u0b95\u0bb3\u0bcd",
@@ -498,10 +466,6 @@
           },
           {
             "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0bb4\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd",
             "label": "GPE"
           },
           {
@@ -510,7 +474,7 @@
           },
           {
             "text": "\u0ba4\u0bc7\u0bb5\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
@@ -524,7 +488,7 @@
         [
           {
             "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0ba3\u0bb2\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bcd",

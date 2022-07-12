@@ -29,7 +29,7 @@
           "label": "CARDINAL"
         },
         {
-          "text": "three-month",
+          "text": "three-month old",
           "label": "DATE"
         },
         {
@@ -48,7 +48,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "three-month",
+            "text": "three-month old",
             "label": "DATE"
           },
           {
@@ -66,16 +66,16 @@
         ],
         [
           {
+            "text": "anti-Rajapaksa",
+            "label": "NORP"
+          },
+          {
             "text": "Saturday",
             "label": "DATE"
           },
           {
-            "text": "GotaGoGama",
-            "label": "GPE"
-          },
-          {
             "text": "Galle Face",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "Fort",
@@ -87,7 +87,7 @@
           },
           {
             "text": "Presidential Secretariat",
-            "label": "LOC"
+            "label": "PERSON"
           }
         ],
         [
@@ -108,16 +108,24 @@
           {
             "text": "Wednesday",
             "label": "DATE"
+          },
+          {
+            "text": "a day",
+            "label": "DATE"
           }
         ],
         [
+          {
+            "text": "late evening",
+            "label": "TIME"
+          },
           {
             "text": "Saturday",
             "label": "DATE"
           },
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -158,10 +166,6 @@
         ],
         [
           {
-            "text": "GotaGoGama",
-            "label": "GPE"
-          },
-          {
             "text": "Saturday",
             "label": "DATE"
           },
@@ -192,15 +196,15 @@
         ],
         [
           {
-            "text": "GotaGoGama",
-            "label": "GPE"
-          },
-          {
             "text": "three months",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "The \u2018Aragalaya\u2019",
+            "label": "WORK_OF_ART"
+          },
           {
             "text": "Rajapaksa",
             "label": "PERSON"
@@ -258,7 +262,7 @@
           "label": "CARDINAL"
         },
         {
-          "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+          "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db4\u0dd0\u0dbb\u0dab\u0dd2",
           "label": "DATE"
         },
         {
@@ -277,7 +281,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db4\u0dd0\u0dbb\u0dab\u0dd2",
             "label": "DATE"
           },
           {
@@ -295,16 +299,16 @@
         ],
         [
           {
+            "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3",
+            "label": "NORP"
+          },
+          {
             "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddd\u0d9c\u0db8",
-            "label": "GPE"
-          },
-          {
             "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0db6\u0dbd\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
@@ -316,7 +320,7 @@
           },
           {
             "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "LOC"
+            "label": "PERSON"
           }
         ],
         [
@@ -337,16 +341,24 @@
           {
             "text": "\u0db6\u0daf\u0dcf\u0daf\u0dcf",
             "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0d9a\u0dca",
+            "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0db4\u0dca\u0dbb\u0db8\u0dcf\u0daf \u0dc3\u0dc0\u0dc3",
+            "label": "TIME"
+          },
           {
             "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -387,10 +399,6 @@
         ],
         [
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddd\u0d9c\u0db8",
-            "label": "GPE"
-          },
-          {
             "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
@@ -421,15 +429,15 @@
         ],
         [
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddd\u0d9c\u0db8",
-            "label": "GPE"
-          },
-          {
             "text": "\u0db8\u0dcf\u0dc3 \u0dad\u0dd4\u0db1\u0d9a\u0dca",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u2019",
+            "label": "WORK_OF_ART"
+          },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
@@ -487,7 +495,7 @@
           "label": "CARDINAL"
         },
         {
-          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4 \u0bb5\u0baf\u0ba4\u0bc1",
           "label": "DATE"
         },
         {
@@ -506,7 +514,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4 \u0bb5\u0baf\u0ba4\u0bc1",
             "label": "DATE"
           },
           {
@@ -524,16 +532,16 @@
         ],
         [
           {
+            "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "NORP"
+          },
+          {
             "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0b95\u0bcb\u0b95\u0bbe\u0bae\u0bbe",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
@@ -545,7 +553,7 @@
           },
           {
             "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "LOC"
+            "label": "PERSON"
           }
         ],
         [
@@ -566,16 +574,24 @@
           {
             "text": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0bae\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
           {
             "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -602,7 +618,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0b9f\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
             "label": "ORG"
           },
           {
@@ -615,10 +631,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0b95\u0bcb\u0b95\u0bbe\u0bae\u0bbe",
-            "label": "GPE"
-          },
           {
             "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
@@ -650,15 +662,15 @@
         ],
         [
           {
-            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0b95\u0bcb\u0b95\u0bbe\u0bae\u0bbe",
-            "label": "GPE"
-          },
-          {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           }
         ],
         [
+          {
+            "text": "\u2018\u0b85\u0bb0\u0b95\u0bb2\u0baf\u0bbe\u2019",
+            "label": "WORK_OF_ART"
+          },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
             "label": "PERSON"

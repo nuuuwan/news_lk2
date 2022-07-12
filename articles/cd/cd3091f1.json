@@ -25,12 +25,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "two",
+            "text": "between two",
             "label": "CARDINAL"
-          },
-          {
-            "text": "this morning",
-            "label": "TIME"
           },
           {
             "text": "July 12",
@@ -69,12 +65,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0daf\u0dd9\u0d9a",
+            "text": "\u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d85\u0dad\u0dbb",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
-            "label": "TIME"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 12",
@@ -113,12 +105,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
-            "label": "TIME"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12",

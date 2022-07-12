@@ -52,24 +52,11 @@
             "label": "DATE"
           }
         ],
+        [],
         [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          },
           {
             "text": "Sri Lanka",
             "label": "GPE"
-          },
-          {
-            "text": "the Government of Sri Lanka",
-            "label": "ORG"
           }
         ],
         [],
@@ -77,6 +64,10 @@
           {
             "text": "BASL",
             "label": "ORG"
+          },
+          {
+            "text": "Law",
+            "label": "PERSON"
           }
         ],
         [],
@@ -98,8 +89,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "Octane 92",
-            "label": "EVENT"
+            "text": "Octane 92 Petrol",
+            "label": "ORG"
           }
         ],
         [
@@ -108,34 +99,22 @@
             "label": "DATE"
           },
           {
-            "text": "Letters of Credit",
-            "label": "ORG"
-          },
-          {
             "text": "$ 90 million",
             "label": "MONEY"
           },
           {
             "text": "23",
             "label": "CARDINAL"
-          },
-          {
-            "text": "24 June",
-            "label": "DATE"
           }
         ],
         [
           {
-            "text": "23",
-            "label": "CARDINAL"
+            "text": "23 June 2022",
+            "label": "DATE"
           },
           {
             "text": "40,000",
             "label": "CARDINAL"
-          },
-          {
-            "text": "MT of Petrol",
-            "label": "ORG"
           },
           {
             "text": "one day",
@@ -158,20 +137,12 @@
           {
             "text": "the previous day",
             "label": "DATE"
-          },
-          {
-            "text": "later that day",
-            "label": "DATE"
           }
         ],
         [
           {
             "text": "25 June 2022",
             "label": "DATE"
-          },
-          {
-            "text": "Energy",
-            "label": "ORG"
           },
           {
             "text": "next week",
@@ -274,24 +245,11 @@
             "label": "DATE"
           }
         ],
+        [],
         [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
-          },
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
-            "label": "ORG"
           }
         ],
         [],
@@ -299,6 +257,10 @@
           {
             "text": "BASL",
             "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd3\u0dad\u0dd2",
+            "label": "PERSON"
           }
         ],
         [],
@@ -320,8 +282,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92",
-            "label": "EVENT"
+            "text": "\u0d94\u0d9a\u0dca\u0da7\u0dda\u0db1\u0dca 92 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca",
+            "label": "ORG"
           }
         ],
         [
@@ -330,34 +292,22 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dab\u0dba\u0dc0\u0dbb \u0dbd\u0dd2\u0db4\u0dd2",
-            "label": "ORG"
-          },
-          {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 90 \u0d9a\u0dd2",
             "label": "MONEY"
           },
           {
             "text": "23",
             "label": "CARDINAL"
-          },
-          {
-            "text": "24 \u0da2\u0dd6\u0db1\u0dd2",
-            "label": "DATE"
           }
         ],
         [
           {
-            "text": "23",
-            "label": "CARDINAL"
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 23",
+            "label": "DATE"
           },
           {
             "text": "40,000 \u0d9a\u0dd2",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d91\u0db8\u0dca.\u0da7\u0dd3",
-            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
@@ -380,20 +330,12 @@
           {
             "text": "\u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1",
             "label": "DATE"
-          },
-          {
-            "text": "\u0d91\u0daf\u0dd2\u0db1\u0da7 \u0db4\u0dc3\u0dd4\u0dc0",
-            "label": "DATE"
           }
         ],
         [
           {
             "text": "2022 \u0da2\u0dd6\u0db1\u0dd2 25",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
-            "label": "ORG"
           },
           {
             "text": "\u0d8a\u0dc5\u0d9f \u0dc3\u0dad\u0dd2\u0dba",
@@ -496,24 +438,11 @@
             "label": "DATE"
           }
         ],
+        [],
         [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          }
-        ],
-        [
-          {
-            "text": "BASL",
-            "label": "ORG"
-          },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "ORG"
           }
         ],
         [],
@@ -521,6 +450,10 @@
           {
             "text": "BASL",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "PERSON"
           }
         ],
         [],
@@ -542,8 +475,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0b86\u0b95\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd 92",
-            "label": "EVENT"
+            "text": "\u0b86\u0b95\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd 92 \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd",
+            "label": "ORG"
           }
         ],
         [
@@ -552,34 +485,22 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0b9f\u0ba9\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "$ 90 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           },
           {
             "text": "23",
             "label": "CARDINAL"
-          },
-          {
-            "text": "24 \u0b9c\u0bc2\u0ba9\u0bcd",
-            "label": "DATE"
           }
         ],
         [
           {
-            "text": "23",
-            "label": "CARDINAL"
+            "text": "23 \u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
           },
           {
             "text": "40,000",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0b8e\u0bae\u0bcd\u0b9f\u0bbf",
-            "label": "ORG"
           },
           {
             "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
@@ -602,20 +523,12 @@
           {
             "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd",
-            "label": "DATE"
           }
         ],
         [
           {
             "text": "25 \u0b9c\u0bc2\u0ba9\u0bcd 2022",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
-            "label": "ORG"
           },
           {
             "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",

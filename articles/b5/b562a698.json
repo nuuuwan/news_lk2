@@ -32,7 +32,11 @@
         },
         {
           "text": "the Presidential Secretariat",
-          "label": "GPE"
+          "label": "ORG"
+        },
+        {
+          "text": "night",
+          "label": "TIME"
         },
         {
           "text": "Gotabaya Rajapaksa",
@@ -55,11 +59,11 @@
           },
           {
             "text": "the Presidential Secretariat",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "last night",
-            "label": "TIME"
+            "text": "Temple Trees last night",
+            "label": "PERSON"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -98,15 +102,15 @@
             "label": "PERSON"
           },
           {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
             "text": "House",
             "label": "ORG"
           },
           {
             "text": "Fort",
-            "label": "GPE"
-          },
-          {
-            "text": "the Presidential Secretariat",
             "label": "GPE"
           },
           {
@@ -126,8 +130,16 @@
         ],
         [
           {
-            "text": "Samagi Jana Balawegaya\u2019s",
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balawegaya\u2019s",
             "label": "PERSON"
+          },
+          {
+            "text": "SJB",
+            "label": "ORG"
           },
           {
             "text": "Harsha De Silva",
@@ -138,18 +150,26 @@
             "label": "DATE"
           },
           {
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
             "text": "Rajitha Senaratne",
             "label": "PERSON"
           },
           {
             "text": "Vadivel Suresh",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
+          },
+          {
+            "text": "House",
+            "label": "ORG"
           },
           {
             "text": "last evening",
@@ -182,12 +202,12 @@
             "label": "PERSON"
           },
           {
-            "text": "Jayasumana",
+            "text": "Channa Jayasumana",
             "label": "PERSON"
           },
           {
             "text": "Nalaka Godahewa",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
@@ -196,11 +216,15 @@
             "label": "CARDINAL"
           },
           {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
             "text": "seven",
             "label": "CARDINAL"
           },
           {
-            "text": "the Western Province",
+            "text": "Western Province",
             "label": "GPE"
           },
           {
@@ -226,6 +250,10 @@
             "label": "GPE"
           },
           {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
             "text": "Kandy",
             "label": "PERSON"
           },
@@ -244,8 +272,8 @@
             "label": "GPE"
           },
           {
-            "text": "Galle Fort",
-            "label": "GPE"
+            "text": "the Galle Fort",
+            "label": "LOC"
           },
           {
             "text": "Sri Lanka",
@@ -256,7 +284,12 @@
             "label": "GPE"
           }
         ],
-        []
+        [
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "si": {
@@ -286,7 +319,11 @@
         },
         {
           "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-          "label": "GPE"
+          "label": "ORG"
+        },
+        {
+          "text": "\u0dbb\u0dd1",
+          "label": "TIME"
         },
         {
           "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -309,11 +346,11 @@
           },
           {
             "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba",
-            "label": "TIME"
+            "text": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0dda \u0d8a\u0dba\u0dda \u0dbb\u0dd1",
+            "label": "PERSON"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -352,15 +389,15 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
             "text": "\u0db1\u0dd2\u0dc0\u0dc3",
             "label": "ORG"
           },
           {
             "text": "\u0db6\u0dbd\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "GPE"
           },
           {
@@ -380,8 +417,16 @@
         ],
         [
           {
-            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba\u0dda",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
           },
           {
             "text": "\u0dc4\u0dbb\u0dca\u0dc2 \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
@@ -392,18 +437,26 @@
             "label": "DATE"
           },
           {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dbb\u0dcf\u0da2\u0dd2\u0dad \u0dc3\u0dda\u0db1\u0dcf\u0dbb\u0dad\u0dca\u0db1",
             "label": "PERSON"
           },
           {
             "text": "\u0dc0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dca \u0dc3\u0dd4\u0dbb\u0dda\u0dc2\u0dca",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dc0\u0dc3",
+            "label": "ORG"
           },
           {
             "text": "\u0d8a\u0dba\u0dda \u0dc3\u0dc0\u0dc3",
@@ -436,18 +489,22 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0da2\u0dba\u0dc3\u0dd4\u0db8\u0db1",
+            "text": "\u0da0\u0db1\u0dca\u0db1 \u0da2\u0dba\u0dc3\u0dd4\u0db8\u0db1",
             "label": "PERSON"
           },
           {
             "text": "\u0db1\u0dcf\u0dbd\u0d9a \u0d9c\u0ddc\u0da9\u0dc4\u0dda\u0dc0\u0dcf",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
           {
             "text": "\u0daf\u0dc3 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           },
           {
             "text": "\u0dc4\u0dad",
@@ -480,6 +537,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
             "label": "PERSON"
           },
@@ -499,7 +560,7 @@
           },
           {
             "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -510,7 +571,12 @@
             "label": "GPE"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "ta": {
@@ -540,7 +606,11 @@
         },
         {
           "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-          "label": "GPE"
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b87\u0bb0\u0bb5\u0bc1",
+          "label": "TIME"
         },
         {
           "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -563,11 +633,11 @@
           },
           {
             "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1",
-            "label": "TIME"
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b87\u0bb0\u0bb5\u0bc1 \u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bcd \u0b9f\u0bcd\u0bb0\u0bc0\u0bb8\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -606,15 +676,15 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
             "text": "\u0bb5\u0bc0\u0b9f\u0bc1",
             "label": "ORG"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
             "label": "GPE"
           },
           {
@@ -634,8 +704,16 @@
         ],
         [
           {
-            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe\u2019",
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
@@ -646,18 +724,26 @@
             "label": "DATE"
           },
           {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb0\u0bbe\u0b9c\u0bbf\u0ba4 \u0b9a\u0bc7\u0ba9\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9",
             "label": "PERSON"
           },
           {
             "text": "\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bc0\u0b9f\u0bc1",
+            "label": "ORG"
           },
           {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8",
@@ -690,18 +776,22 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b9c\u0bc6\u0baf\u0b9a\u0bc1\u0bae\u0ba3",
+            "text": "\u0b9a\u0ba9\u0bcd\u0ba9 \u0b9c\u0bc6\u0baf\u0b9a\u0bc1\u0bae\u0ba3",
             "label": "PERSON"
           },
           {
             "text": "\u0ba8\u0bbe\u0bb2\u0b95 \u0b95\u0bca\u0b9f\u0bb9\u0bc7\u0bb5\u0bbe",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ],
         [
           {
             "text": "\u0baa\u0bb2\u0bcd\u0bb2\u0bbe\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           },
           {
             "text": "\u0b8f\u0bb4\u0bc1",
@@ -734,6 +824,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
             "label": "PERSON"
           },
@@ -753,7 +847,7 @@
           },
           {
             "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -764,7 +858,12 @@
             "label": "GPE"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          }
+        ]
       ]
     }
   }

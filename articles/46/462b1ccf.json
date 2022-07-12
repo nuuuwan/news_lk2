@@ -47,11 +47,7 @@
             "label": "PERSON"
           },
           {
-            "text": "Monday",
-            "label": "DATE"
-          },
-          {
-            "text": "27 June",
+            "text": "Monday (27 June",
             "label": "DATE"
           }
         ],
@@ -69,11 +65,15 @@
             "label": "GPE"
           },
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           }
         ],
         [
+          {
+            "text": "IMF",
+            "label": "ORG"
+          },
           {
             "text": "Wickremesinghe",
             "label": "PERSON"
@@ -83,6 +83,10 @@
           {
             "text": "One",
             "label": "CARDINAL"
+          },
+          {
+            "text": "IMF",
+            "label": "ORG"
           },
           {
             "text": "40,000",
@@ -122,10 +126,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "Tuesday",
             "label": "DATE"
           },
@@ -135,10 +135,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "Wednesday",
             "label": "DATE"
@@ -157,10 +153,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "Sri Lanka",
             "label": "GPE"
@@ -198,16 +190,12 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "Fund",
             "label": "ORG"
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           }
         ]
       ]
@@ -254,11 +242,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "27 \u0da2\u0dd6\u0db1\u0dd2",
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf (\u0da2\u0dd4\u0db1\u0dd2 27",
             "label": "DATE"
           }
         ],
@@ -276,11 +260,15 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           }
         ],
         [
+          {
+            "text": "IMF",
+            "label": "ORG"
+          },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
             "label": "PERSON"
@@ -290,6 +278,10 @@
           {
             "text": "\u0d91\u0d9a",
             "label": "CARDINAL"
+          },
+          {
+            "text": "IMF",
+            "label": "ORG"
           },
           {
             "text": "40,000 \u0d9a\u0dd2",
@@ -329,10 +321,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
@@ -342,10 +330,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "\u0db6\u0daf\u0dcf\u0daf\u0dcf",
             "label": "DATE"
@@ -364,10 +348,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
@@ -405,16 +385,12 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
             "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           }
         ]
       ]
@@ -461,11 +437,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
-          },
-          {
-            "text": "27 \u0b9c\u0bc2\u0ba9\u0bcd",
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (\u0b9c\u0bc2\u0ba9\u0bcd 27",
             "label": "DATE"
           }
         ],
@@ -483,11 +455,15 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           }
         ],
         [
+          {
+            "text": "IMF",
+            "label": "ORG"
+          },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
             "label": "PERSON"
@@ -497,6 +473,10 @@
           {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
+          },
+          {
+            "text": "IMF",
+            "label": "ORG"
           },
           {
             "text": "40,000",
@@ -536,10 +516,6 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
             "label": "DATE"
           },
@@ -549,10 +525,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
             "label": "DATE"
@@ -571,10 +543,6 @@
           }
         ],
         [
-          {
-            "text": "IMF",
-            "label": "ORG"
-          },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
@@ -612,16 +580,12 @@
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0ba8\u0bbf\u0ba4\u0bbf",
             "label": "ORG"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           }
         ]
       ]

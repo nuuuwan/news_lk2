@@ -27,12 +27,8 @@
           "label": "GPE"
         },
         {
-          "text": "Nationwide Sale of Fuel",
+          "text": "Govt Suspends  ",
           "label": "ORG"
-        },
-        {
-          "text": "2 weeks",
-          "label": "DATE"
         },
         {
           "text": "India",
@@ -56,7 +52,11 @@
         ],
         [
           {
-            "text": "Monday night",
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "night",
             "label": "TIME"
           },
           {
@@ -94,10 +94,6 @@
           {
             "text": "CPC",
             "label": "ORG"
-          },
-          {
-            "text": "midnight",
-            "label": "TIME"
           }
         ],
         [
@@ -106,7 +102,7 @@
             "label": "DATE"
           },
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -124,7 +120,7 @@
         ],
         [
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -144,10 +140,6 @@
             "label": "ORG"
           },
           {
-            "text": "Singh Puri",
-            "label": "PERSON"
-          },
-          {
             "text": "New Delhi",
             "label": "GPE"
           },
@@ -156,19 +148,11 @@
             "label": "GPE"
           },
           {
-            "text": "Sri Lankan",
-            "label": "GPE"
-          },
-          {
             "text": "New Delhi",
             "label": "GPE"
           }
         ],
         [
-          {
-            "text": "Puri",
-            "label": "PERSON"
-          },
           {
             "text": "Sri Lanka",
             "label": "GPE"
@@ -204,6 +188,10 @@
             "label": "NORP"
           },
           {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
             "text": "$500 million",
             "label": "MONEY"
           },
@@ -226,8 +214,8 @@
             "label": "ORG"
           },
           {
-            "text": "the CBSL",
-            "label": "ORG"
+            "text": "Forex",
+            "label": "GPE"
           },
           {
             "text": "the first few months",
@@ -285,12 +273,8 @@
           "label": "GPE"
         },
         {
-          "text": "\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba",
+          "text": "\u0dbb\u0da2\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
           "label": "ORG"
-        },
-        {
-          "text": "\u0dc3\u0dad\u0dd2 2 \u0dba\u0dd2",
-          "label": "DATE"
         },
         {
           "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
@@ -314,7 +298,11 @@
         ],
         [
           {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dbb\u0dd1",
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd1",
             "label": "TIME"
           },
           {
@@ -352,10 +340,6 @@
           {
             "text": "CPC",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db8\u0db0\u0dca\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba",
-            "label": "TIME"
           }
         ],
         [
@@ -364,7 +348,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -382,7 +366,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -402,10 +386,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc3\u0dd2\u0d82 \u0db4\u0dd6\u0dbb\u0dd2",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0db1\u0dc0 \u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0dd2",
             "label": "GPE"
           },
@@ -414,19 +394,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
-          },
-          {
             "text": "\u0db1\u0dc0 \u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0dd2",
             "label": "GPE"
           }
         ],
         [
-          {
-            "text": "\u0db4\u0dd6\u0dbb\u0dd2",
-            "label": "PERSON"
-          },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
@@ -462,6 +434,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 500 \u0d9a\u0dd2",
             "label": "MONEY"
           },
@@ -484,8 +460,8 @@
             "label": "ORG"
           },
           {
-            "text": "CBSL",
-            "label": "ORG"
+            "text": "Forex",
+            "label": "GPE"
           },
           {
             "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba",
@@ -543,12 +519,8 @@
           "label": "GPE"
         },
         {
-          "text": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+          "text": "\u0b85\u0bb0\u0b9a\u0bc1 \u0b9a\u0bb8\u0bcd\u0baa\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd",
           "label": "ORG"
-        },
-        {
-          "text": "2 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-          "label": "DATE"
         },
         {
           "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
@@ -572,7 +544,11 @@
         ],
         [
           {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bb5\u0bc1",
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bb5\u0bc1",
             "label": "TIME"
           },
           {
@@ -610,10 +586,6 @@
           {
             "text": "CPC",
             "label": "ORG"
-          },
-          {
-            "text": "\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1",
-            "label": "TIME"
           }
         ],
         [
@@ -622,7 +594,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
@@ -640,7 +612,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
@@ -660,15 +632,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0bbf\u0b99\u0bcd \u0baa\u0bc2\u0bb0\u0bbf",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0baa\u0bc1\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
@@ -681,10 +645,6 @@
           }
         ],
         [
-          {
-            "text": "\u0baa\u0bc2\u0bb0\u0bbf",
-            "label": "PERSON"
-          },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
@@ -720,6 +680,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
             "text": "$500 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           },
@@ -742,8 +706,8 @@
             "label": "ORG"
           },
           {
-            "text": "CBSL",
-            "label": "ORG"
+            "text": "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf",
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",

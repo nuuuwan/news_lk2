@@ -16,12 +16,16 @@
       ],
       "title_ents": [
         {
-          "text": "SL",
+          "text": "Basil",
           "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "Finance",
             "label": "ORG"
@@ -71,10 +75,6 @@
           {
             "text": "Kanugala",
             "label": "PERSON"
-          },
-          {
-            "text": "the Silk Road",
-            "label": "FAC"
           }
         ]
       ]
@@ -90,12 +90,16 @@
       ],
       "title_ents": [
         {
-          "text": "\u0d91\u0dc3\u0dca.\u0d91\u0dbd\u0dca",
+          "text": "\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca",
           "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "\u0db8\u0dd6\u0dbd\u0dca\u0dba",
             "label": "ORG"
@@ -145,10 +149,6 @@
           {
             "text": "\u0d9a\u0dab\u0dd4\u0d9c\u0dbd",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dc0\u0dad",
-            "label": "FAC"
           }
         ]
       ]
@@ -164,12 +164,16 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd",
+          "text": "\u0ba4\u0bc1\u0bb3\u0b9a\u0bbf",
           "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
           {
             "text": "\u0ba8\u0bbf\u0ba4\u0bbf",
             "label": "ORG"
@@ -219,10 +223,6 @@
           {
             "text": "\u0b95\u0ba9\u0bc1\u0b95\u0bb2",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8",
-            "label": "FAC"
           }
         ]
       ]

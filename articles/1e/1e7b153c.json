@@ -31,7 +31,7 @@
         },
         {
           "text": "Deal Expected",
-          "label": "ORG"
+          "label": "PERSON"
         },
         {
           "text": "One week",
@@ -76,7 +76,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "New Delhi",
@@ -109,6 +109,10 @@
           {
             "text": "at least one",
             "label": "CARDINAL"
+          },
+          {
+            "text": "more week",
+            "label": "DATE"
           }
         ],
         [
@@ -129,6 +133,10 @@
             "label": "NORP"
           },
           {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
             "text": "$ 500 million",
             "label": "MONEY"
           }
@@ -140,7 +148,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ]
       ]
@@ -171,7 +179,7 @@
         },
         {
           "text": "\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0dc0 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dd9\u0dbb\u0dda",
-          "label": "ORG"
+          "label": "PERSON"
         },
         {
           "text": "\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dca",
@@ -216,7 +224,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0db1\u0dc0 \u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0dd2",
@@ -249,6 +257,10 @@
           {
             "text": "\u0d85\u0dc0\u0db8 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0d91\u0d9a\u0d9a\u0dca",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+            "label": "DATE"
           }
         ],
         [
@@ -269,6 +281,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
             "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 500 \u0d9a\u0dd2",
             "label": "MONEY"
           }
@@ -280,7 +296,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ]
       ]
@@ -311,7 +327,7 @@
         },
         {
           "text": "\u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
-          "label": "ORG"
+          "label": "PERSON"
         },
         {
           "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
@@ -356,7 +372,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0baa\u0bc1\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf",
@@ -389,6 +405,10 @@
           {
             "text": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b93\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
           }
         ],
         [
@@ -409,6 +429,10 @@
             "label": "NORP"
           },
           {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
             "text": "$ 500 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           }
@@ -420,7 +444,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           }
         ]
       ]

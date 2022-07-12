@@ -26,16 +26,7 @@
             "label": "DATE"
           }
         ],
-        [
-          {
-            "text": "the PM",
-            "label": "TIME"
-          },
-          {
-            "text": "two weeks",
-            "label": "DATE"
-          }
-        ],
+        [],
         [],
         [
           {
@@ -49,7 +40,7 @@
         ],
         [
           {
-            "text": "The \u2019Aragalaya",
+            "text": "The \u2019Aragalaya\u2019",
             "label": "ORG"
           },
           {
@@ -73,6 +64,10 @@
           }
         ],
         [
+          {
+            "text": "The Electronic Media",
+            "label": "ORG"
+          },
           {
             "text": "Sri Lanka",
             "label": "GPE"
@@ -105,16 +100,7 @@
             "label": "DATE"
           }
         ],
-        [
-          {
-            "text": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2",
-            "label": "TIME"
-          },
-          {
-            "text": "\u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-            "label": "DATE"
-          }
-        ],
+        [],
         [],
         [
           {
@@ -128,7 +114,7 @@
         ],
         [
           {
-            "text": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba",
+            "text": "'\u0d85\u0dbb\u0d9c\u0dbd\u0dba'",
             "label": "ORG"
           },
           {
@@ -152,6 +138,10 @@
           }
         ],
         [
+          {
+            "text": "\u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u0dbb\u0ddc\u0db1\u0dd2\u0d9a \u0db8\u0dcf\u0db0\u0dca\u0dba",
+            "label": "ORG"
+          },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
@@ -184,16 +174,7 @@
             "label": "DATE"
           }
         ],
-        [
-          {
-            "text": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-            "label": "TIME"
-          },
-          {
-            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "DATE"
-          }
-        ],
+        [],
         [],
         [
           {
@@ -207,7 +188,7 @@
         ],
         [
           {
-            "text": "\u0b85\u0bb0\u0b95\u0bb2\u0baf",
+            "text": "'\u0b85\u0bb0\u0b95\u0bb2\u0baf\u0bbe'",
             "label": "ORG"
           },
           {
@@ -231,6 +212,10 @@
           }
         ],
         [
+          {
+            "text": "\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bc1 \u0b8a\u0b9f\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"

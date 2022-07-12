@@ -73,10 +73,6 @@
           {
             "text": "almost $ 1 billion",
             "label": "MONEY"
-          },
-          {
-            "text": "Wickremesinghe",
-            "label": "PERSON"
           }
         ],
         [
@@ -128,7 +124,7 @@
           },
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "SriLankan Airlines",
@@ -141,8 +137,8 @@
         ],
         [
           {
-            "text": "Sri Lanka Electricity (",
-            "label": "ORG"
+            "text": "Sri Lanka Electricity",
+            "label": "LOC"
           },
           {
             "text": "Bill",
@@ -165,12 +161,12 @@
             "label": "PERSON"
           },
           {
-            "text": "Hambantota",
-            "label": "ORG"
-          },
-          {
             "text": "15",
             "label": "CARDINAL"
+          },
+          {
+            "text": "GW",
+            "label": "PERSON"
           }
         ],
         [
@@ -180,10 +176,6 @@
           },
           {
             "text": "22 July",
-            "label": "DATE"
-          },
-          {
-            "text": "an early date",
             "label": "DATE"
           }
         ],
@@ -235,10 +227,6 @@
           {
             "text": "33,000 tons",
             "label": "QUANTITY"
-          },
-          {
-            "text": "LPG",
-            "label": "ORG"
           },
           {
             "text": "Litro",
@@ -337,10 +325,6 @@
           {
             "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1",
             "label": "MONEY"
-          },
-          {
-            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
           }
         ],
         [
@@ -392,7 +376,7 @@
           },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
@@ -405,8 +389,8 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba (",
-            "label": "ORG"
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba",
+            "label": "LOC"
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
@@ -429,12 +413,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7",
-            "label": "ORG"
-          },
-          {
             "text": "15",
             "label": "CARDINAL"
+          },
+          {
+            "text": "GW",
+            "label": "PERSON"
           }
         ],
         [
@@ -444,10 +428,6 @@
           },
           {
             "text": "22 \u0da2\u0dd6\u0dbd\u0dd2",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0db8\u0dd4\u0dbd\u0dca \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
             "label": "DATE"
           }
         ],
@@ -499,10 +479,6 @@
           {
             "text": "\u0da7\u0ddc\u0db1\u0dca 33,000 \u0d9a\u0dd2",
             "label": "QUANTITY"
-          },
-          {
-            "text": "\u0d91\u0dbd\u0dca.\u0db4\u0dd3.\u0da2\u0dd3",
-            "label": "ORG"
           },
           {
             "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
@@ -601,10 +577,6 @@
           {
             "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f $1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
-          },
-          {
-            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
           }
         ],
         [
@@ -656,7 +628,7 @@
           },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
@@ -669,8 +641,8 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd (",
-            "label": "ORG"
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "LOC"
           },
           {
             "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
@@ -693,12 +665,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
-            "label": "ORG"
-          },
-          {
             "text": "15",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf \u0bae\u0bcb\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc7\u0b9c\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0bb9\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf, \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0bae\u0bbe\u0bb2\u0bc8, \u0b87\u0bb1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0ba4\u0bcd \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b87\u0b9a\u0bcd\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0ba9\u0bb0\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0bb9\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+            "label": "PERSON"
           }
         ],
         [
@@ -708,10 +680,6 @@
           },
           {
             "text": "22 \u0b9c\u0bc2\u0bb2\u0bc8",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b92\u0bb0\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0ba4\u0bc7\u0ba4\u0bbf",
             "label": "DATE"
           }
         ],
@@ -763,10 +731,6 @@
           {
             "text": "33,000 \u0b9f\u0ba9\u0bcd",
             "label": "QUANTITY"
-          },
-          {
-            "text": "\u0b8e\u0bb2\u0bcd.\u0baa\u0bbf.\u0b9c\u0bbf",
-            "label": "ORG"
           },
           {
             "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",

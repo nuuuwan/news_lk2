@@ -26,6 +26,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "The Department of Meteorology",
             "label": "ORG"
           },
@@ -35,7 +39,7 @@
           },
           {
             "text": "Nuwara-Eliya",
-            "label": "PRODUCT"
+            "label": "ORG"
           },
           {
             "text": "Kandy",
@@ -54,20 +58,16 @@
         ],
         [
           {
-            "text": "40-50",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "Western",
+            "text": "Northern",
             "label": "NORP"
           },
           {
-            "text": "Northern",
-            "label": "LOC"
+            "text": "North-western",
+            "label": "NORP"
           },
           {
-            "text": "North-central",
-            "label": "LOC"
+            "text": "Trincomalee",
+            "label": "NORP"
           },
           {
             "text": "Hambantota",
@@ -97,6 +97,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
           },
@@ -106,7 +110,7 @@
           },
           {
             "text": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba",
-            "label": "PRODUCT"
+            "label": "ORG"
           },
           {
             "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
@@ -125,20 +129,16 @@
         ],
         [
           {
-            "text": "40-50",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4",
             "label": "NORP"
           },
           {
-            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4",
-            "label": "LOC"
+            "text": "\u0dc0\u0dba\u0db9",
+            "label": "NORP"
           },
           {
-            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf",
-            "label": "LOC"
+            "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
+            "label": "NORP"
           },
           {
             "text": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7",
@@ -168,6 +168,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
             "label": "ORG"
           },
@@ -177,7 +181,7 @@
           },
           {
             "text": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe",
-            "label": "PRODUCT"
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
@@ -196,20 +200,16 @@
         ],
         [
           {
-            "text": "40-50",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1",
             "label": "NORP"
           },
           {
-            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1",
-            "label": "LOC"
+            "text": "\u0bb5\u0b9f\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1",
+            "label": "NORP"
           },
           {
-            "text": "\u0bb5\u0b9f-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf",
-            "label": "LOC"
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
+            "label": "NORP"
           },
           {
             "text": "\u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",

@@ -28,8 +28,8 @@
       ],
       "title_ents": [
         {
-          "text": "Rajapaksa Initiates Moves to Seek Procure Fuel",
-          "label": "ORG"
+          "text": "Rajapaksa Initiates",
+          "label": "PERSON"
         },
         {
           "text": "Russia",
@@ -129,10 +129,6 @@
             "label": "ORG"
           },
           {
-            "text": "Government",
-            "label": "ORG"
-          },
-          {
             "text": "Sri Lanka",
             "label": "GPE"
           }
@@ -147,7 +143,11 @@
             "label": "NORP"
           },
           {
-            "text": "Sri Lanka Yuri",
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "Materiy",
             "label": "GPE"
           },
           {
@@ -172,7 +172,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "Russian",
@@ -214,7 +214,7 @@
           },
           {
             "text": "Wijesekera",
-            "label": "PRODUCT"
+            "label": "PERSON"
           }
         ],
         [
@@ -261,7 +261,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "The Russian Embassy",
+            "text": "The Russian Embassy in Colombo",
             "label": "ORG"
           }
         ],
@@ -309,26 +309,30 @@
             "label": "GPE"
           },
           {
+            "text": "Weerasinghe",
+            "label": "ORG"
+          },
+          {
             "text": "Russian",
             "label": "NORP"
           }
         ],
         [
           {
-            "text": "The President\u2019s Office",
-            "label": "ORG"
-          },
-          {
-            "text": "the Russian Embassy",
+            "text": "the Russian Embassy in Colombo",
             "label": "ORG"
           },
           {
             "text": "Premajayantha",
+            "label": "GPE"
+          },
+          {
+            "text": "the Sri Lanka-Russia Friendship Association",
             "label": "LOC"
           },
           {
             "text": "Weerasinghe",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Russian",
@@ -345,16 +349,12 @@
         ],
         [
           {
-            "text": "the President\u2019s Office",
-            "label": "ORG"
-          },
-          {
             "text": "the Russian Embassy",
             "label": "ORG"
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "Moscow",
@@ -437,7 +437,15 @@
             "label": "DATE"
           },
           {
-            "text": "Airport and Aviation Services Ltd.",
+            "text": "Airport",
+            "label": "ORG"
+          },
+          {
+            "text": "Aviation Services Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "the Colombo Commercial High Court",
             "label": "ORG"
           },
           {
@@ -502,8 +510,8 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0db1\u0dd3",
-          "label": "ORG"
+          "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0dba\u0dd2",
+          "label": "PERSON"
         },
         {
           "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
@@ -603,10 +611,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           }
@@ -621,7 +625,11 @@
             "label": "NORP"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dba\u0dd6\u0dbb\u0dd2",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0daf\u0dca\u0dbb\u0dc0\u0dca\u0dba\u0db8\u0dba",
             "label": "GPE"
           },
           {
@@ -646,7 +654,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -688,7 +696,7 @@
           },
           {
             "text": "\u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
-            "label": "PRODUCT"
+            "label": "PERSON"
           }
         ],
         [
@@ -735,7 +743,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           }
         ],
@@ -783,26 +791,30 @@
             "label": "GPE"
           },
           {
+            "text": "\u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
             "label": "NORP"
           }
         ],
         [
           {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           },
           {
             "text": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0da2\u0dba\u0db1\u0dca\u0dad",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dad\u0dca\u0dc0 \u0dc3\u0d82\u0d9c\u0db8\u0dba",
             "label": "LOC"
           },
           {
             "text": "\u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -819,16 +831,12 @@
         ],
         [
           {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0db8\u0ddc\u0dc3\u0dca\u0d9a\u0dc0\u0dca",
@@ -911,7 +919,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5 \u0dc3\u0dc4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca.",
+            "text": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0dda\u0dc0\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0db8\u0dc4\u0dcf\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
             "label": "ORG"
           },
           {
@@ -976,8 +992,8 @@
       ],
       "title_ents": [
         {
-          "text": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0b95\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
-          "label": "ORG"
+          "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7 \u0ba4\u0bc1\u0bb5\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+          "label": "PERSON"
         },
         {
           "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
@@ -1077,10 +1093,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b85\u0bb0\u0b9a\u0bc1",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           }
@@ -1095,7 +1107,11 @@
             "label": "NORP"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baf\u0bc2\u0bb0\u0bbf",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
             "label": "GPE"
           },
           {
@@ -1120,7 +1136,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
@@ -1162,7 +1178,7 @@
           },
           {
             "text": "\u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
-            "label": "PRODUCT"
+            "label": "PERSON"
           }
         ],
         [
@@ -1209,7 +1225,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
             "label": "ORG"
           }
         ],
@@ -1257,26 +1273,30 @@
             "label": "GPE"
           },
           {
+            "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
             "label": "NORP"
           }
         ],
         [
           {
-            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
             "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0b9c\u0baf\u0ba8\u0bcd\u0ba4",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba8\u0b9f\u0bcd\u0baa\u0bc1\u0bb1\u0bb5\u0bc1 \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
             "label": "LOC"
           },
           {
             "text": "\u0bb5\u0bc0\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
@@ -1293,16 +1313,12 @@
         ],
         [
           {
-            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
             "label": "ORG"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0bae\u0bbe\u0bb8\u0bcd\u0b95\u0bc7\u0bbe",
@@ -1385,7 +1401,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "text": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8f\u0bb5\u0bbf\u0baf\u0bc7\u0bb7\u0ba9\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0bc0\u0b9a\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
           },
           {

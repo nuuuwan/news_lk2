@@ -22,11 +22,15 @@
       ],
       "title_ents": [
         {
+          "text": "Northern Sri Lankan Fishermen  Being",
+          "label": "ORG"
+        },
+        {
           "text": "Indian",
           "label": "NORP"
         },
         {
-          "text": "60 Day",
+          "text": "60 Day  Lull",
           "label": "DATE"
         }
       ],
@@ -54,7 +58,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "NORP"
+            "label": "LOC"
           }
         ],
         [
@@ -75,7 +79,7 @@
             "label": "DATE"
           },
           {
-            "text": "Point Pedro",
+            "text": "Pedro",
             "label": "PERSON"
           },
           {
@@ -84,7 +88,7 @@
           },
           {
             "text": "Jaffna",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "Thursday",
@@ -114,7 +118,7 @@
           },
           {
             "text": "Jaffna",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Mullaitivu",
@@ -135,12 +139,16 @@
             "label": "PERCENT"
           },
           {
-            "text": "12",
-            "label": "CARDINAL"
+            "text": "12 or",
+            "label": "DATE"
           },
           {
             "text": "14 days",
             "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           },
           {
             "text": "Only about 20 %",
@@ -157,7 +165,7 @@
         ],
         [
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
@@ -170,17 +178,17 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
-            "text": "well over a decade",
+            "text": "a decade",
             "label": "DATE"
           }
         ],
         [
           {
             "text": "Mullaitivu",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "Indian",
@@ -193,6 +201,10 @@
           {
             "text": "Sri Lanka\u2019s",
             "label": "GPE"
+          },
+          {
+            "text": "the Jaffna Peninsula",
+            "label": "LOC"
           },
           {
             "text": "the Sri Lankan Navy",
@@ -223,12 +235,16 @@
             "label": "PERSON"
           },
           {
+            "text": "Centre",
+            "label": "ORG"
+          },
+          {
             "text": "Katchatheevu",
             "label": "ORG"
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "50,000",
@@ -252,7 +268,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           }
         ],
         [
@@ -298,11 +314,15 @@
       ],
       "title_ents": [
         {
+          "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd3\u0db8",
+          "label": "ORG"
+        },
+        {
           "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
           "label": "NORP"
         },
         {
-          "text": "\u0daf\u0dd2\u0db1 60",
+          "text": "60 \u0daf\u0dd2\u0db1 \u0dc0\u0dd2\u0dc0\u0dda\u0d9a\u0dba",
           "label": "DATE"
         }
       ],
@@ -330,7 +350,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "NORP"
+            "label": "LOC"
           }
         ],
         [
@@ -351,7 +371,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db4\u0dda\u0daf\u0dd4\u0dbb\u0dd4\u0dad\u0dd4\u0da9\u0dd4\u0dc0",
+            "text": "\u0db4\u0dda\u0daf\u0dca\u200d\u0dbb\u0ddd",
             "label": "PERSON"
           },
           {
@@ -360,7 +380,7 @@
           },
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
@@ -390,7 +410,7 @@
           },
           {
             "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca",
@@ -411,12 +431,16 @@
             "label": "PERCENT"
           },
           {
-            "text": "12",
-            "label": "CARDINAL"
+            "text": "12 \u0dc4\u0ddd",
+            "label": "DATE"
           },
           {
             "text": "\u0daf\u0dd2\u0db1 14 \u0dba\u0dd2",
             "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           },
           {
             "text": "20%\u0d9a\u0dca \u0db4\u0db8\u0dab",
@@ -433,7 +457,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -446,17 +470,17 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
-            "text": "\u0daf\u0dc1\u0d9a\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "text": "\u0daf\u0dc1\u0d9a\u0dba\u0d9a\u0dca",
             "label": "DATE"
           }
         ],
         [
           {
             "text": "\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
@@ -469,6 +493,10 @@
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0d85\u0dbb\u0dca\u0db0\u0daf\u0dca\u0dc0\u0dd3\u0db4\u0dba",
+            "label": "LOC"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
@@ -499,12 +527,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0db8\u0db0\u0dca\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d9a\u0da0\u0dca\u0da0\u0dad\u0dd2\u0dc0\u0dca",
             "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "50,000 \u0d9a\u0dd2",
@@ -528,7 +560,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           }
         ],
         [
@@ -574,11 +606,15 @@
       ],
       "title_ents": [
         {
+          "text": "\u0bb5\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "ORG"
+        },
+        {
           "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
           "label": "NORP"
         },
         {
-          "text": "60 \u0ba8\u0bbe\u0bb3\u0bcd",
+          "text": "60 \u0ba8\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0ba4\u0bbf",
           "label": "DATE"
         }
       ],
@@ -606,7 +642,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "NORP"
+            "label": "LOC"
           }
         ],
         [
@@ -636,7 +672,7 @@
           },
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
@@ -666,7 +702,7 @@
           },
           {
             "text": "\u0baf\u0bbe\u0bb4\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1",
@@ -687,12 +723,16 @@
             "label": "PERCENT"
           },
           {
-            "text": "12",
-            "label": "CARDINAL"
+            "text": "12 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1",
+            "label": "DATE"
           },
           {
             "text": "14 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 20% \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7",
@@ -709,7 +749,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
@@ -722,17 +762,17 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
-            "text": "\u0b92\u0bb0\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95",
+            "text": "\u0b92\u0bb0\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0bae\u0bcd",
             "label": "DATE"
           }
         ],
         [
           {
             "text": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
@@ -745,6 +785,10 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
+          },
+          {
+            "text": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3 \u0ba4\u0bc0\u0baa\u0b95\u0bb1\u0bcd\u0baa\u0bae\u0bcd",
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
@@ -775,12 +819,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0bae\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b95\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1",
             "label": "ORG"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "50,000",
@@ -804,7 +852,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           }
         ],
         [

@@ -57,7 +57,7 @@
             "label": "DATE"
           },
           {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\u2019s",
             "label": "PERSON"
           },
           {
@@ -84,6 +84,10 @@
           },
           {
             "text": "Katunayake",
+            "label": "GPE"
+          },
+          {
+            "text": "Colombo",
             "label": "GPE"
           },
           {
@@ -147,7 +151,11 @@
             "label": "PERSON"
           },
           {
-            "text": "Samagi Jana Balawegaya",
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balawegaya",
             "label": "PERSON"
           },
           {
@@ -174,7 +182,7 @@
         [
           {
             "text": "Sajith Premadasa",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "SJB",
@@ -192,6 +200,10 @@
           }
         ],
         [
+          {
+            "text": "SJB",
+            "label": "ORG"
+          },
           {
             "text": "about 50",
             "label": "CARDINAL"
@@ -289,7 +301,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+            "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0d9c\u0dda",
             "label": "PERSON"
           },
           {
@@ -316,6 +328,10 @@
           },
           {
             "text": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
             "label": "GPE"
           },
           {
@@ -379,7 +395,11 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
             "label": "PERSON"
           },
           {
@@ -406,7 +426,7 @@
         [
           {
             "text": "\u0dc3\u0da2\u0dd2\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0daf\u0dcf\u0dc3",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
@@ -424,6 +444,10 @@
           }
         ],
         [
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
           {
             "text": "50 \u0d9a\u0dca \u0db4\u0db8\u0dab",
             "label": "CARDINAL"
@@ -521,7 +545,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
+            "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bbf\u0ba9\u0bcd",
             "label": "PERSON"
           },
           {
@@ -548,6 +572,10 @@
           },
           {
             "text": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
             "label": "GPE"
           },
           {
@@ -611,7 +639,11 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
             "label": "PERSON"
           },
           {
@@ -638,7 +670,7 @@
         [
           {
             "text": "\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
@@ -656,6 +688,10 @@
           }
         ],
         [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
           {
             "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 50",
             "label": "CARDINAL"

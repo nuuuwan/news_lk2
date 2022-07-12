@@ -25,7 +25,7 @@
           "label": "GPE"
         },
         {
-          "text": "Radhika Coomaraswamy",
+          "text": "Radhika Coomaraswamy Appointed",
           "label": "PERSON"
         },
         {
@@ -48,10 +48,6 @@
             "label": "ORG"
           },
           {
-            "text": "UNHRC",
-            "label": "ORG"
-          },
-          {
             "text": "Federico Villegas",
             "label": "PERSON"
           },
@@ -62,10 +58,6 @@
           {
             "text": "Radhika Coomaraswamy",
             "label": "PERSON"
-          },
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
           },
           {
             "text": "the International Commission of Human Rights Experts",
@@ -127,7 +119,7 @@
         [
           {
             "text": "Fatou Bensouda",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "three",
@@ -136,10 +128,6 @@
           {
             "text": "8 June",
             "label": "DATE"
-          },
-          {
-            "text": "Gambia",
-            "label": "ORG"
           },
           {
             "text": "UK",
@@ -162,10 +150,6 @@
           {
             "text": "2017 to 2019",
             "label": "DATE"
-          },
-          {
-            "text": "Special Representative",
-            "label": "ORG"
           },
           {
             "text": "United Nations",
@@ -194,6 +178,10 @@
             "label": "ORDINAL"
           },
           {
+            "text": "the Council.",
+            "label": "ORG"
+          },
+          {
             "text": "September",
             "label": "DATE"
           },
@@ -208,6 +196,10 @@
         ],
         [
           {
+            "text": "the UN Special Rapporteur on Violence against Women",
+            "label": "ORG"
+          },
+          {
             "text": "1994-2003",
             "label": "DATE"
           },
@@ -216,19 +208,11 @@
             "label": "ORG"
           },
           {
-            "text": "2017",
-            "label": "DATE"
-          },
-          {
-            "text": "2019",
+            "text": "2017 to 2019",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "Special Representative",
-            "label": "ORG"
-          },
           {
             "text": "UN",
             "label": "ORG"
@@ -252,16 +236,8 @@
             "label": "ORG"
           },
           {
-            "text": "Ban Ki-Moon",
-            "label": "PERSON"
-          },
-          {
             "text": "UN Security Council",
             "label": "ORG"
-          },
-          {
-            "text": "resolution 1325",
-            "label": "DATE"
           },
           {
             "text": "B.A.",
@@ -280,10 +256,6 @@
             "label": "ORG"
           },
           {
-            "text": "LLM",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "Harvard University",
             "label": "ORG"
           },
@@ -292,15 +264,11 @@
             "label": "ORG"
           },
           {
-            "text": "the Katholieke Universities Leuven",
-            "label": "ORG"
-          },
-          {
             "text": "the University of Edinburgh",
             "label": "ORG"
           },
           {
-            "text": "the University of Essex",
+            "text": "the University of Essex and the CUNY School of Law",
             "label": "ORG"
           }
         ]
@@ -326,7 +294,7 @@
           "label": "GPE"
         },
         {
-          "text": "\u0dbb\u0dcf\u0db0\u0dd2\u0d9a\u0dcf \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2",
+          "text": "\u0dbb\u0dcf\u0db0\u0dd2\u0d9a\u0dcf \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad",
           "label": "PERSON"
         },
         {
@@ -349,10 +317,6 @@
             "label": "ORG"
           },
           {
-            "text": "UNHRC",
-            "label": "ORG"
-          },
-          {
             "text": "Federico Villegas",
             "label": "PERSON"
           },
@@ -363,10 +327,6 @@
           {
             "text": "\u0dbb\u0dcf\u0db0\u0dd2\u0d9a\u0dcf \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
@@ -428,7 +388,7 @@
         [
           {
             "text": "Fatou Bensouda",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0dad\u0dd4\u0db1\u0dca",
@@ -437,10 +397,6 @@
           {
             "text": "8 \u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
-          },
-          {
-            "text": "\u0d9c\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba",
@@ -463,10 +419,6 @@
           {
             "text": "2017 \u0dc3\u0dd2\u0da7 2019 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0dcf",
-            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca",
@@ -495,6 +447,10 @@
             "label": "ORDINAL"
           },
           {
+            "text": "\u0dc3\u0db7\u0dcf\u0dc0.",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca",
             "label": "DATE"
           },
@@ -509,6 +465,10 @@
         ],
         [
           {
+            "text": "\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc4\u0dd2\u0d82\u0dc3\u0db1\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9a\u0dbb\u0dd4",
+            "label": "ORG"
+          },
+          {
             "text": "1994-2003",
             "label": "DATE"
           },
@@ -517,19 +477,11 @@
             "label": "ORG"
           },
           {
-            "text": "2017",
-            "label": "DATE"
-          },
-          {
-            "text": "2019",
+            "text": "2017 \u0dc3\u0dd2\u0da7 2019 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dd2\u0dad\u0dba\u0dcf",
-            "label": "ORG"
-          },
           {
             "text": "\u0d91.\u0da2\u0dcf",
             "label": "ORG"
@@ -553,16 +505,8 @@
             "label": "ORG"
           },
           {
-            "text": "Ban Ki-Moon",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
             "label": "ORG"
-          },
-          {
-            "text": "\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 1325",
-            "label": "DATE"
           },
           {
             "text": "\u0db6\u0dd3.\u0d92.",
@@ -581,10 +525,6 @@
             "label": "ORG"
           },
           {
-            "text": "LLM",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "\u0dc4\u0dcf\u0dc0\u0da9\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           },
@@ -593,15 +533,11 @@
             "label": "ORG"
           },
           {
-            "text": "Katholieke \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd Leuven",
-            "label": "ORG"
-          },
-          {
             "text": "\u0d91\u0da9\u0dd2\u0db1\u0dca\u0db6\u0dbb\u0ddd \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           },
           {
-            "text": "\u0d91\u0dc3\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
+            "text": "\u0d91\u0dc3\u0dd9\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba \u0dc3\u0dc4 CUNY \u0db1\u0dd3\u0dad\u0dd2 \u0db4\u0dcf\u0dc3\u0dbd",
             "label": "ORG"
           }
         ]
@@ -627,7 +563,7 @@
           "label": "GPE"
         },
         {
-          "text": "\u0bb0\u0bbe\u0ba4\u0bbf\u0b95\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0b9a\u0bbe\u0bae\u0bbf",
+          "text": "\u0bb0\u0bbe\u0ba4\u0bbf\u0b95\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0b9a\u0bbe\u0bae\u0bbf \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
           "label": "PERSON"
         },
         {
@@ -650,10 +586,6 @@
             "label": "ORG"
           },
           {
-            "text": "UNHRC",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b83\u0baa\u0bc6\u0b9f\u0bb0\u0bbf\u0b95\u0bcb \u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc7\u0b95\u0bbe\u0bb8\u0bcd",
             "label": "PERSON"
           },
@@ -664,10 +596,6 @@
           {
             "text": "\u0bb0\u0bbe\u0ba4\u0bbf\u0b95\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0b9a\u0bbe\u0bae\u0bbf",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
@@ -729,7 +657,7 @@
         [
           {
             "text": "Fatou Bensouda",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
@@ -738,10 +666,6 @@
           {
             "text": "8 \u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b95\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe",
-            "label": "ORG"
           },
           {
             "text": "\u0baf\u0bc1\u0b95\u0bc7",
@@ -764,10 +688,6 @@
           {
             "text": "2017 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2019 \u0bb5\u0bb0\u0bc8",
             "label": "DATE"
-          },
-          {
-            "text": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf",
-            "label": "ORG"
           },
           {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
@@ -796,6 +716,10 @@
             "label": "ORDINAL"
           },
           {
+            "text": "\u0b9a\u0baa\u0bc8.",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
             "label": "DATE"
           },
@@ -810,6 +734,10 @@
         ],
         [
           {
+            "text": "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b90.\u0ba8\u0bbe \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "1994-2003",
             "label": "DATE"
           },
@@ -818,19 +746,11 @@
             "label": "ORG"
           },
           {
-            "text": "2017",
-            "label": "DATE"
-          },
-          {
-            "text": "2019",
+            "text": "2017 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 2019 \u0bb5\u0bb0\u0bc8",
             "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf",
-            "label": "ORG"
-          },
           {
             "text": "\u0b90.\u0ba8\u0bbe",
             "label": "ORG"
@@ -854,16 +774,8 @@
             "label": "ORG"
           },
           {
-            "text": "Ban Ki-Moon",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b90.\u0ba8\u0bbe",
             "label": "ORG"
-          },
-          {
-            "text": "\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd 1325",
-            "label": "DATE"
           },
           {
             "text": "\u0baa\u0bbf.\u0b8f.",
@@ -882,10 +794,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b8e\u0bb2\u0bcd.\u0b8e\u0bb2\u0bcd.\u0b8e\u0bae\u0bcd",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "\u0bb9\u0bbe\u0bb0\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
             "label": "ORG"
           },
@@ -894,15 +802,11 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb2\u0bbf\u0baf\u0bc2\u0bb5\u0ba9\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b8e\u0b9f\u0bbf\u0ba9\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "\u0b8e\u0b9a\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+            "text": "\u0b8e\u0b9a\u0bc6\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd CUNY \u0bb8\u0bcd\u0b95\u0bc2\u0bb2\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0bb2\u0bbe",
             "label": "ORG"
           }
         ]

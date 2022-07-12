@@ -34,24 +34,20 @@
       ],
       "title_ents": [
         {
-          "text": "Investment Promotion",
-          "label": "ORG"
-        },
-        {
           "text": "Dhammika Perera",
           "label": "PERSON"
         },
         {
           "text": "the Immigration and Emigration Department",
           "label": "ORG"
+        },
+        {
+          "text": "Department",
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "Investment Promotion",
-            "label": "ORG"
-          },
           {
             "text": "Dhammika Perera",
             "label": "PERSON"
@@ -69,10 +65,6 @@
           {
             "text": "six",
             "label": "CARDINAL"
-          },
-          {
-            "text": "Department",
-            "label": "ORG"
           },
           {
             "text": "yesterday",
@@ -141,7 +133,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Twitter handle",
+            "text": "Twitter",
             "label": "PERSON"
           }
         ],
@@ -167,8 +159,12 @@
             "label": "ORG"
           },
           {
-            "text": "Suhurupaya, Battaramulla",
+            "text": "Suhurupaya",
             "label": "ORG"
+          },
+          {
+            "text": "Battaramulla",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -183,23 +179,15 @@
             "label": "DATE"
           },
           {
-            "text": "Matara",
-            "label": "GPE"
-          },
-          {
-            "text": "Kandy",
-            "label": "PERSON"
+            "text": "Matara, Kandy",
+            "label": "ORG"
           },
           {
             "text": "Vavuniya",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "Monday",
-            "label": "DATE"
-          },
-          {
-            "text": "4 July",
+            "text": "Monday, 4 July",
             "label": "DATE"
           }
         ],
@@ -247,15 +235,7 @@
         ],
         [
           {
-            "text": "Department",
-            "label": "ORG"
-          },
-          {
-            "text": "the peak hours",
-            "label": "TIME"
-          },
-          {
-            "text": "10.00 a.m. to",
+            "text": "10.00 a.m.",
             "label": "TIME"
           },
           {
@@ -300,18 +280,14 @@
           },
           {
             "text": "Department\u203as",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
-            "text": "Twitter handle",
+            "text": "Twitter",
             "label": "PERSON"
           }
         ],
         [
-          {
-            "text": "the previous day",
-            "label": "DATE"
-          },
           {
             "text": "9.00 a.m.",
             "label": "TIME"
@@ -331,15 +307,15 @@
             "label": "PERSON"
           },
           {
-            "text": "Golden Paradise Visa\u2019",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "Perera",
             "label": "PERSON"
           }
         ],
         [
+          {
+            "text": "the \u2018Golden Paradise Visa\u2019",
+            "label": "FAC"
+          },
           {
             "text": "the Central Bank",
             "label": "ORG"
@@ -351,7 +327,7 @@
             "label": "PERSON"
           },
           {
-            "text": "one year to five years",
+            "text": "one year to",
             "label": "DATE"
           },
           {
@@ -390,24 +366,20 @@
       ],
       "title_ents": [
         {
-          "text": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
-          "label": "ORG"
-        },
-        {
           "text": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
           "label": "PERSON"
         },
         {
           "text": "\u0d86\u0d9c\u0db8\u0db1 \u0dc0\u0dd2\u0d9c\u0db8\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
           "label": "ORG"
+        },
+        {
+          "text": "\u0dd9\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0dd9\u0db8\u0dca\u0db1\u0dca\u0dad\u0dd4\u0dd9\u0dc0\u0dca",
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba",
-            "label": "ORG"
-          },
           {
             "text": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
             "label": "PERSON"
@@ -425,10 +397,6 @@
           {
             "text": "\u0dc4\u0dba",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0dd9\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0dd9\u0db8\u0dca\u0db1\u0dca\u0dad\u0dd4\u0dd9\u0dc0\u0dca",
-            "label": "ORG"
           },
           {
             "text": "\u0d8a\u0dba\u0dda",
@@ -497,7 +465,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0dc4\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0",
+            "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca",
             "label": "PERSON"
           }
         ],
@@ -523,8 +491,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc3\u0dd4\u0dc4\u0dd4\u0dbb\u0dd4\u0db4\u0dcf\u0dba, \u0db6\u0dad\u0dca\u0dad\u0dbb\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+            "text": "\u0dc3\u0dd4\u0dc4\u0dd4\u0dbb\u0dd4\u0db4\u0dcf\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dad\u0dca\u0dad\u0dbb\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -539,23 +511,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db8\u0dcf\u0dad\u0dbb",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
-            "label": "PERSON"
+            "text": "\u0db8\u0dcf\u0dad\u0dbb, \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
+            "label": "ORG"
           },
           {
             "text": "\u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "4 \u0da2\u0dd6\u0dbd\u0dd2",
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf, 4 \u0da2\u0dd6\u0dbd\u0dd2",
             "label": "DATE"
           }
         ],
@@ -603,15 +567,7 @@
         ],
         [
           {
-            "text": "\u0dd9\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0dd9\u0db8\u0dca\u0db1\u0dca\u0dad\u0dd4\u0dd9\u0dc0\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0db4\u0dd0\u0dba",
-            "label": "TIME"
-          },
-          {
-            "text": "10.00 \u0dc3\u0dd2\u0da7",
+            "text": "10.00 \u0db4\u0dd9.\u0dc0.",
             "label": "TIME"
           },
           {
@@ -656,18 +612,14 @@
           },
           {
             "text": "\u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
-            "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0dc4\u0dc3\u0dd4\u0dbb\u0dd4\u0dc0",
+            "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca",
             "label": "PERSON"
           }
         ],
         [
-          {
-            "text": "\u0db4\u0dd9\u0dbb \u0daf\u0dd2\u0db1",
-            "label": "DATE"
-          },
           {
             "text": "9.00 \u0db4\u0dd9.\u0dc0.",
             "label": "TIME"
@@ -687,15 +639,15 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d9c\u0ddd\u0dbd\u0dca\u0da9\u0db1\u0dca \u0db4\u0dd0\u0dbb\u0da9\u0dba\u0dd2\u0dc3\u0dca \u0dc0\u0dd3\u0dc3\u0dcf'",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
             "label": "PERSON"
           }
         ],
         [
+          {
+            "text": "'\u0d9c\u0ddd\u0dbd\u0dca\u0da9\u0db1\u0dca \u0db4\u0dd0\u0dbb\u0da9\u0dba\u0dd2\u0dc3\u0dca \u0dc0\u0dd3\u0dc3\u0dcf'",
+            "label": "FAC"
+          },
           {
             "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
             "label": "ORG"
@@ -707,7 +659,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc0\u0dc3\u0dbb\u0d9a \u0dc3\u0dd2\u0da7 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0db4\u0dc4 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "DATE"
           },
           {
@@ -746,24 +698,20 @@
       ],
       "title_ents": [
         {
-          "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-          "label": "ORG"
-        },
-        {
           "text": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
           "label": "PERSON"
         },
         {
           "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0bb5\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0b95\u0bb2\u0bcd\u0bb5\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
           "label": "ORG"
+        },
+        {
+          "text": "\u0ba4\u0bc1\u0bb1\u0bc8",
+          "label": "ORG"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8a\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
-          },
           {
             "text": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
             "label": "PERSON"
@@ -781,10 +729,6 @@
           {
             "text": "\u0b86\u0bb1\u0bc1",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0ba4\u0bc1\u0bb1\u0bc8",
-            "label": "ORG"
           },
           {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
@@ -853,7 +797,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf",
+            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
             "label": "PERSON"
           }
         ],
@@ -879,8 +823,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bb9\u0bc1\u0bb0\u0bc1\u0baa\u0bbe\u0baf, \u0baa\u0ba4\u0bcd\u0ba4\u0bb0\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8",
+            "text": "\u0bb8\u0bc1\u0bb9\u0bc1\u0bb0\u0bc1\u0baa\u0bbe\u0baf",
             "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0ba4\u0bcd\u0ba4\u0bb0\u0bae\u0bc1\u0bb2\u0bcd\u0bb2",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -895,23 +843,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
-            "label": "PERSON"
+            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8, \u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
-          },
-          {
-            "text": "4 \u0b9c\u0bc2\u0bb2\u0bc8",
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd, 4 \u0b9c\u0bc2\u0bb2\u0bc8",
             "label": "DATE"
           }
         ],
@@ -959,15 +899,7 @@
         ],
         [
           {
-            "text": "\u0ba4\u0bc1\u0bb1\u0bc8",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b89\u0b9a\u0bcd\u0b9a \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
-            "label": "TIME"
-          },
-          {
-            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8 10.00 \u0bae\u0ba3\u0bbf",
             "label": "TIME"
           },
           {
@@ -1012,18 +944,14 @@
           },
           {
             "text": "\u0ba4\u0bc1\u0bb1\u0bc8\u203a\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
-            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf",
+            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
             "label": "PERSON"
           }
         ],
         [
-          {
-            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0ba8\u0bbe\u0bb3\u0bcd",
-            "label": "DATE"
-          },
           {
             "text": "\u0b95\u0bbe\u0bb2\u0bc8 9.00 \u0bae\u0ba3\u0bbf",
             "label": "TIME"
@@ -1043,15 +971,15 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b95\u0bcb\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0b9f\u0bc8\u0bb8\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe'",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "\u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
             "label": "PERSON"
           }
         ],
         [
+          {
+            "text": "'\u0b95\u0bcb\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0b9f\u0bc8\u0bb8\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe'",
+            "label": "FAC"
+          },
           {
             "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
             "label": "ORG"
@@ -1063,7 +991,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bc8",
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bb5\u0bb0\u0bc8",
             "label": "DATE"
           },
           {

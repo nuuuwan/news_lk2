@@ -67,6 +67,10 @@
       ],
       "title_ents": [
         {
+          "text": "Parliament",
+          "label": "ORG"
+        },
+        {
           "text": "Ranil Wickremesinghe",
           "label": "PERSON"
         },
@@ -114,12 +118,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "EFF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "the IMF Board of Directors",
@@ -156,10 +155,6 @@
             "label": "ORG"
           },
           {
-            "text": "a period of",
-            "label": "DATE"
-          },
-          {
             "text": "4 years",
             "label": "DATE"
           }
@@ -187,6 +182,10 @@
         [
           {
             "text": "Ukraine",
+            "label": "GPE"
+          },
+          {
+            "text": "Russia",
             "label": "GPE"
           },
           {
@@ -300,6 +299,10 @@
             "label": "DATE"
           },
           {
+            "text": "many years",
+            "label": "DATE"
+          },
+          {
             "text": "2023",
             "label": "DATE"
           }
@@ -315,10 +318,6 @@
           }
         ],
         [
-          {
-            "text": "the Employees\u2019 Provident Fund",
-            "label": "ORG"
-          },
           {
             "text": "the Employees\u2019 Trust Fund",
             "label": "ORG"
@@ -353,12 +352,8 @@
         ],
         [
           {
-            "text": "between 4",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "6 percent",
-            "label": "PERCENT"
+            "text": "between 4 and 6 percent",
+            "label": "QUANTITY"
           },
           {
             "text": "2025",
@@ -371,12 +366,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "one",
-            "label": "CARDINAL"
-          }
-        ],
+        [],
         [
           {
             "text": "March 31, 2021",
@@ -385,10 +375,6 @@
           {
             "text": "SriLankan Airlines",
             "label": "ORG"
-          },
-          {
-            "text": "541 billion",
-            "label": "MONEY"
           },
           {
             "text": "May 31, 2022",
@@ -400,7 +386,7 @@
           },
           {
             "text": "418 billion",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "Petroleum Corporation",
@@ -408,7 +394,7 @@
           },
           {
             "text": "1.46 trillion",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [
@@ -473,8 +459,8 @@
         ],
         [
           {
-            "text": "the Social Welfare Benefits Act",
-            "label": "LAW"
+            "text": "the Social Welfare",
+            "label": "ORG"
           }
         ],
         [],
@@ -555,7 +541,7 @@
         [],
         [
           {
-            "text": "Anura Kumara Dissanayake",
+            "text": "Kumara Dissanayake",
             "label": "PERSON"
           },
           {
@@ -563,15 +549,15 @@
             "label": "DATE"
           },
           {
-            "text": "six or seven",
-            "label": "DATE"
-          },
-          {
             "text": "six months",
             "label": "DATE"
           },
           {
-            "text": "Anura Kumara Dissanayake\u2019s",
+            "text": "Anura",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kumara Dissanayake",
             "label": "PERSON"
           },
           {
@@ -581,7 +567,7 @@
         ],
         [
           {
-            "text": "Anura Kumara Dissanayake",
+            "text": "Kumara Dissanayake",
             "label": "PERSON"
           },
           {
@@ -671,6 +657,10 @@
       ],
       "title_ents": [
         {
+          "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+          "label": "ORG"
+        },
+        {
           "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
           "label": "PERSON"
         },
@@ -718,12 +708,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "EFF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "IMF \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
@@ -760,10 +745,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
-            "label": "DATE"
-          },
-          {
             "text": "\u0dc0\u0dc3\u0dbb 4 \u0d9a\u0dca",
             "label": "DATE"
           }
@@ -791,6 +772,10 @@
         [
           {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
@@ -904,6 +889,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0dc0\u0dbb\u0dca\u0dc2 \u0db6\u0ddc\u0dc4\u0ddd \u0d9c\u0dab\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
             "text": "2023",
             "label": "DATE"
           }
@@ -919,10 +908,6 @@
           }
         ],
         [
-          {
-            "text": "\u0dc3\u0dda\u0dc0\u0d9a \u0d85\u0dbb\u0dca\u0dae\u0dc3\u0dcf\u0db0\u0d9a \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
-            "label": "ORG"
-          },
           {
             "text": "\u0dc3\u0dda\u0dc0\u0d9a \u0db7\u0dcf\u0dbb \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
             "label": "ORG"
@@ -957,12 +942,8 @@
         ],
         [
           {
-            "text": "4 \u0d85\u0dad\u0dbb",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 6 \u0d9a\u0dd2",
-            "label": "PERCENT"
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 4 \u0dc3\u0dc4 6 \u0d85\u0dad\u0dbb",
+            "label": "QUANTITY"
           },
           {
             "text": "2025",
@@ -975,12 +956,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "\u0d91\u0d9a",
-            "label": "CARDINAL"
-          }
-        ],
+        [],
         [
           {
             "text": "2021 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4 31",
@@ -989,10 +965,6 @@
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 541 \u0d9a\u0dd2",
-            "label": "MONEY"
           },
           {
             "text": "2022 \u0db8\u0dd0\u0dba\u0dd2 31",
@@ -1004,7 +976,7 @@
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 418 \u0d9a\u0dd2",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0d9b\u0db1\u0dd2\u0da2 \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
@@ -1012,7 +984,7 @@
           },
           {
             "text": "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.46 \u0d9a\u0dd2",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1077,8 +1049,8 @@
         ],
         [
           {
-            "text": "\u0dc3\u0db8\u0dcf\u0da2 \u0dc3\u0dd4\u0db6\u0dc3\u0dcf\u0db0\u0db1 \u0db4\u0dca\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0db4\u0db1\u0dad",
-            "label": "LAW"
+            "text": "\u0dc3\u0db8\u0dcf\u0da2 \u0dc3\u0dd4\u0db6\u0dc3\u0dcf\u0db0\u0db1\u0dba",
+            "label": "ORG"
           }
         ],
         [],
@@ -1159,7 +1131,7 @@
         [],
         [
           {
-            "text": "\u0d85\u0db1\u0dd4\u0dbb \u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
+            "text": "\u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
             "label": "PERSON"
           },
           {
@@ -1167,15 +1139,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc4\u0dba \u0dc4\u0ddd \u0dc4\u0dad",
-            "label": "DATE"
-          },
-          {
             "text": "\u0db8\u0dcf\u0dc3 \u0dc4\u0dba\u0d9a\u0dca",
             "label": "DATE"
           },
           {
-            "text": "\u0d85\u0db1\u0dd4\u0dbb \u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dda",
+            "text": "\u0d85\u0db1\u0dd4\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
             "label": "PERSON"
           },
           {
@@ -1185,7 +1157,7 @@
         ],
         [
           {
-            "text": "\u0d85\u0db1\u0dd4\u0dbb \u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
+            "text": "\u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
             "label": "PERSON"
           },
           {
@@ -1275,6 +1247,10 @@
       ],
       "title_ents": [
         {
+          "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+          "label": "ORG"
+        },
+        {
           "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
           "label": "PERSON"
         },
@@ -1322,12 +1298,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "EFF",
-            "label": "ORG"
-          }
-        ],
+        [],
         [
           {
             "text": "IMF \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
@@ -1364,10 +1335,6 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b92\u0bb0\u0bc1 \u0b95\u0bbe\u0bb2\u0bae\u0bcd",
-            "label": "DATE"
-          },
-          {
             "text": "4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           }
@@ -1395,6 +1362,10 @@
         [
           {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bbe",
             "label": "GPE"
           },
           {
@@ -1508,6 +1479,10 @@
             "label": "DATE"
           },
           {
+            "text": "\u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
             "text": "2023",
             "label": "DATE"
           }
@@ -1523,10 +1498,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0bb2 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf",
-            "label": "ORG"
-          },
           {
             "text": "\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf",
             "label": "ORG"
@@ -1561,12 +1532,8 @@
         ],
         [
           {
-            "text": "4 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
-            "label": "PERCENT"
+            "text": "4 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0bb5\u0bb0\u0bc8",
+            "label": "QUANTITY"
           },
           {
             "text": "2025",
@@ -1579,12 +1546,7 @@
             "label": "ORG"
           }
         ],
-        [
-          {
-            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
-            "label": "CARDINAL"
-          }
-        ],
+        [],
         [
           {
             "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd 31, 2021",
@@ -1593,10 +1555,6 @@
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "541 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "MONEY"
           },
           {
             "text": "\u0bae\u0bc7 31, 2022",
@@ -1608,7 +1566,7 @@
           },
           {
             "text": "418 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd",
@@ -1616,7 +1574,7 @@
           },
           {
             "text": "1.46 \u0b9f\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1681,8 +1639,8 @@
         ],
         [
           {
-            "text": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bb2 \u0ba8\u0ba9\u0bcd\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bb2\u0ba9\u0bcd",
+            "label": "ORG"
           }
         ],
         [],
@@ -1763,7 +1721,7 @@
         [],
         [
           {
-            "text": "\u0b85\u0ba9\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "text": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
             "label": "PERSON"
           },
           {
@@ -1771,15 +1729,15 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b86\u0bb1\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b8f\u0bb4\u0bc1",
-            "label": "DATE"
-          },
-          {
             "text": "\u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "\u0b85\u0ba9\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b85\u0ba9\u0bc1\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
             "label": "PERSON"
           },
           {
@@ -1789,7 +1747,7 @@
         ],
         [
           {
-            "text": "\u0b85\u0ba9\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "text": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
             "label": "PERSON"
           },
           {

@@ -20,6 +20,10 @@
           "label": "ORG"
         },
         {
+          "text": "Kurunegala",
+          "label": "GPE"
+        },
+        {
           "text": "one day",
           "label": "DATE"
         }
@@ -49,12 +53,8 @@
             "label": "ORG"
           },
           {
-            "text": "Matara",
-            "label": "GPE"
-          },
-          {
-            "text": "Vavuniya",
-            "label": "GPE"
+            "text": "Matara, Vavuniya,",
+            "label": "ORG"
           },
           {
             "text": "Kandy",
@@ -98,6 +98,10 @@
           "label": "ORG"
         },
         {
+          "text": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd",
+          "label": "GPE"
+        },
+        {
           "text": "\u0d91\u0d9a \u0daf\u0dc0\u0dc3\u0d9a\u0dca",
           "label": "DATE"
         }
@@ -127,12 +131,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0db8\u0dcf\u0dad\u0dbb",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "GPE"
+            "text": "\u0db8\u0dcf\u0dad\u0dbb, \u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0,",
+            "label": "ORG"
           },
           {
             "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
@@ -176,6 +176,10 @@
           "label": "ORG"
         },
         {
+          "text": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd",
+          "label": "GPE"
+        },
+        {
           "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
           "label": "DATE"
         }
@@ -205,12 +209,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe",
-            "label": "GPE"
+            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8, \u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe,",
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",

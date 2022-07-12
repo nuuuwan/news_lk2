@@ -33,21 +33,25 @@
             "label": "ORG"
           },
           {
-            "text": "July 15",
-            "label": "DATE"
-          },
-          {
-            "text": "Friday",
+            "text": "July 15 (Friday",
             "label": "DATE"
           }
         ],
         [
           {
+            "text": "SJB",
+            "label": "ORG"
+          },
+          {
             "text": "Ranjith Madduma Bandara",
             "label": "PERSON"
           },
           {
-            "text": "July 18 (Monday",
+            "text": "July 18 (",
+            "label": "DATE"
+          },
+          {
+            "text": "Monday",
             "label": "DATE"
           },
           {
@@ -145,21 +149,25 @@
             "label": "ORG"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15 (\u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           }
         ],
         [
           {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dbb\u0d82\u0da2\u0dd2\u0dad\u0dca \u0db8\u0daf\u0dca\u0daf\u0dd4\u0db8 \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb",
             "label": "PERSON"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 18 (\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 18 (",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
             "label": "DATE"
           },
           {
@@ -257,21 +265,25 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15 (\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
           }
         ],
         [
           {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb0\u0b9e\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bae \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0",
             "label": "PERSON"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 18 (\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 18 (",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"
           },
           {

@@ -26,8 +26,12 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "Sri Lankans",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "Fort",
@@ -56,6 +60,10 @@
         ],
         [
           {
+            "text": "17,850,000/-",
+            "label": "CARDINAL"
+          },
+          {
             "text": "Police",
             "label": "ORG"
           },
@@ -75,7 +83,7 @@
         [
           {
             "text": "Fort Police",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "tomorrow",
@@ -109,8 +117,12 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0db6\u0dbd\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
@@ -139,6 +151,10 @@
         ],
         [
           {
+            "text": "17,850,000/-",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
             "label": "ORG"
           },
@@ -158,7 +174,7 @@
         [
           {
             "text": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0dc4\u0dd9\u0da7",
@@ -192,8 +208,12 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
@@ -222,6 +242,10 @@
         ],
         [
           {
+            "text": "17,850,000/-",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
             "label": "ORG"
           },
@@ -241,7 +265,7 @@
         [
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0baa\u0bcb\u0bb2\u0bc0\u0bb8\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0ba8\u0bbe\u0bb3\u0bc8",

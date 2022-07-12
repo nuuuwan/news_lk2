@@ -24,8 +24,12 @@
             "label": "ORG"
           },
           {
-            "text": "the Sri Lanka Podujana Peramuna",
+            "text": "Sri Lanka",
             "label": "LOC"
+          },
+          {
+            "text": "Podujana Peramuna",
+            "label": "PERSON"
           }
         ],
         [
@@ -42,7 +46,7 @@
         [
           {
             "text": "Premadasa",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [],
@@ -68,8 +72,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "LOC"
+          },
+          {
+            "text": "\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab",
+            "label": "PERSON"
           }
         ],
         [
@@ -86,7 +94,7 @@
         [
           {
             "text": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0daf\u0dcf\u0dc3 \u0dba",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [],
@@ -112,8 +120,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bbe",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "LOC"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
+            "label": "PERSON"
           }
         ],
         [
@@ -130,7 +142,7 @@
         [
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ],
         [],

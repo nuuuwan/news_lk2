@@ -19,6 +19,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "The Maritime Rescue Coordination Centre",
             "label": "ORG"
           },
@@ -35,19 +39,23 @@
             "label": "GPE"
           },
           {
-            "text": "about 174 nautical miles",
-            "label": "QUANTITY"
+            "text": "about 174",
+            "label": "CARDINAL"
           },
           {
-            "text": "about 322 km",
+            "text": "322 km",
             "label": "QUANTITY"
           },
           {
             "text": "the Great Basses Reef Lighthouse",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "MTR",
+            "label": "ORG"
+          },
           {
             "text": "03",
             "label": "CARDINAL"
@@ -61,36 +69,36 @@
             "label": "ORG"
           },
           {
-            "text": "MRCC Colombo",
-            "label": "ORG"
+            "text": "the Navy Headquarters",
+            "label": "EVENT"
           }
         ],
         [
           {
-            "text": "MRCC Colombo",
-            "label": "ORG"
+            "text": "Colombo",
+            "label": "PERSON"
           },
           {
             "text": "Sri Lanka",
             "label": "GPE"
           },
           {
-            "text": "about 174 nautical miles",
-            "label": "QUANTITY"
+            "text": "about 174",
+            "label": "CARDINAL"
           },
           {
             "text": "the Great Basses Reef Lighthouse",
-            "label": "FAC"
+            "label": "EVENT"
           },
           {
-            "text": "MRCC Colombo",
-            "label": "ORG"
+            "text": "Colombo",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "MRCC Colombo",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "03",
@@ -107,6 +115,10 @@
           {
             "text": "Galle",
             "label": "GPE"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
           }
         ],
         [
@@ -115,7 +127,7 @@
             "label": "ORG"
           },
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           }
         ]
@@ -135,6 +147,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0d9c\u0dbd\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd3\u0d9a\u0dbb\u0dab \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
             "label": "ORG"
           },
@@ -151,19 +167,23 @@
             "label": "GPE"
           },
           {
-            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 174\u0d9a\u0dca \u0db4\u0db8\u0dab",
-            "label": "QUANTITY"
+            "text": "174 \u0db4\u0db8\u0dab",
+            "label": "CARDINAL"
           },
           {
-            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb 322 \u0d9a\u0dca \u0db4\u0db8\u0dab",
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb 322 \u0d9a\u0dd2",
             "label": "QUANTITY"
           },
           {
             "text": "\u0db8\u0dc4\u0dcf \u0db6\u0dcf\u0dc3\u0dca \u0dbb\u0dd3\u0dc6\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dd3\u0db4\u0dcf\u0d9c\u0dcf\u0dbb\u0dba",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "MTR",
+            "label": "ORG"
+          },
           {
             "text": "03",
             "label": "CARDINAL"
@@ -177,36 +197,36 @@
             "label": "ORG"
           },
           {
-            "text": "MRCC \u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "ORG"
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+            "label": "EVENT"
           }
         ],
         [
           {
-            "text": "MRCC \u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "ORG"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
-            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 174\u0d9a\u0dca \u0db4\u0db8\u0dab",
-            "label": "QUANTITY"
+            "text": "174 \u0db4\u0db8\u0dab",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0db8\u0dc4\u0dcf \u0db6\u0dcf\u0dc3\u0dca \u0dbb\u0dd3\u0dc6\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dd3\u0db4\u0dcf\u0d9c\u0dcf\u0dbb\u0dba",
-            "label": "FAC"
+            "label": "EVENT"
           },
           {
-            "text": "MRCC \u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "ORG"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "MRCC \u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "03",
@@ -223,6 +243,10 @@
           {
             "text": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           }
         ],
         [
@@ -231,7 +255,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           }
         ]
@@ -251,6 +275,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b95\u0b9f\u0bb2\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1 \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc8\u0baf\u0bae\u0bcd",
             "label": "ORG"
           },
@@ -267,19 +295,23 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 174 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "QUANTITY"
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 174",
+            "label": "CARDINAL"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 322 \u0b95\u0bbf.\u0bae\u0bc0",
+            "text": "322 \u0b95\u0bbf.\u0bae\u0bc0",
             "label": "QUANTITY"
           },
           {
             "text": "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0baa\u0bbe\u0bb8\u0bcd\u0bb8\u0bcd \u0bb0\u0bc0\u0b83\u0baa\u0bcd \u0bb2\u0bc8\u0b9f\u0bcd\u0bb9\u0bb5\u0bc1\u0bb8\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           }
         ],
         [
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0b9f\u0bbf\u0b86\u0bb0\u0bcd",
+            "label": "ORG"
+          },
           {
             "text": "03",
             "label": "CARDINAL"
@@ -293,36 +325,36 @@
             "label": "ORG"
           },
           {
-            "text": "MRCC \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95\u0bae\u0bcd",
+            "label": "EVENT"
           }
         ],
         [
           {
-            "text": "MRCC \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
-            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 174 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "QUANTITY"
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 174",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd \u0baa\u0bbe\u0bb8\u0bcd\u0bb8\u0bcd \u0bb0\u0bc0\u0b83\u0baa\u0bcd \u0bb2\u0bc8\u0b9f\u0bcd\u0bb9\u0bb5\u0bc1\u0bb8\u0bcd",
-            "label": "FAC"
+            "label": "EVENT"
           },
           {
-            "text": "MRCC \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           }
         ],
         [
           {
             "text": "MRCC \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           },
           {
             "text": "03",
@@ -339,6 +371,10 @@
           {
             "text": "\u0b95\u0bbe\u0bb2\u0bbf",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           }
         ],
         [
@@ -347,7 +383,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           }
         ]

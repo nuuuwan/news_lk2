@@ -21,12 +21,16 @@
       ],
       "title_ents": [
         {
-          "text": "The 22nd Amendment",
-          "label": "LAW"
+          "text": "22nd",
+          "label": "ORDINAL"
         },
         {
           "text": "Constitution",
           "label": "LAW"
+        },
+        {
+          "text": "Gazette",
+          "label": "PERSON"
         },
         {
           "text": "June 29",
@@ -41,7 +45,19 @@
           "label": "DATE"
         },
         {
+          "text": "Justice",
+          "label": "ORG"
+        },
+        {
           "text": "Wijeyadasa Rajapakshe",
+          "label": "PERSON"
+        },
+        {
+          "text": "Cabinet",
+          "label": "ORG"
+        },
+        {
+          "text": "Bill",
           "label": "PERSON"
         },
         {
@@ -52,12 +68,16 @@
       "body_line_ents_list": [
         [
           {
-            "text": "The 22nd Amendment",
-            "label": "LAW"
+            "text": "22nd",
+            "label": "ORDINAL"
           },
           {
             "text": "Constitution",
             "label": "LAW"
+          },
+          {
+            "text": "Gazette",
+            "label": "PERSON"
           },
           {
             "text": "today",
@@ -94,16 +114,16 @@
         ],
         [
           {
-            "text": "Monday",
-            "label": "DATE"
-          },
-          {
-            "text": "June 27",
+            "text": "Monday (June 27",
             "label": "DATE"
           },
           {
             "text": "Cabinet",
             "label": "ORG"
+          },
+          {
+            "text": "Bill",
+            "label": "PERSON"
           },
           {
             "text": "Gazette",
@@ -115,6 +135,34 @@
           },
           {
             "text": "the Legal Draftsman",
+            "label": "LAW"
+          },
+          {
+            "text": "Bill",
+            "label": "PERSON"
+          },
+          {
+            "text": "Constitution",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "Bill",
+            "label": "PERSON"
+          },
+          {
+            "text": "22nd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Constitution",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "SJB",
             "label": "ORG"
           },
           {
@@ -122,32 +170,8 @@
             "label": "PERSON"
           },
           {
-            "text": "Constitution",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "Bill",
-            "label": "PERSON"
-          },
-          {
-            "text": "the 22nd Amendment",
-            "label": "LAW"
-          },
-          {
-            "text": "Constitution",
-            "label": "LAW"
-          },
-          {
-            "text": "the 21st Amendment",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "21st Amendment",
-            "label": "LAW"
+            "text": "21st",
+            "label": "ORDINAL"
           },
           {
             "text": "Constitution",
@@ -158,19 +182,11 @@
             "label": "ORG"
           },
           {
-            "text": "the 21st Amendment",
-            "label": "DATE"
-          },
-          {
             "text": "Rajapakshe",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "Bill",
-            "label": "PERSON"
-          },
           {
             "text": "Parliament",
             "label": "ORG"
@@ -202,15 +218,11 @@
             "label": "LAW"
           },
           {
-            "text": "the 21st Amendment",
-            "label": "LAW"
+            "text": "21st",
+            "label": "ORDINAL"
           }
         ],
         [
-          {
-            "text": "Rajapakshe",
-            "label": "GPE"
-          },
           {
             "text": "Constitution",
             "label": "LAW"
@@ -234,12 +246,16 @@
       ],
       "title_ents": [
         {
-          "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-          "label": "LAW"
+          "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
         },
         {
           "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
           "label": "LAW"
+        },
+        {
+          "text": "\u0d9c\u0dd0\u0dc3\u0da7\u0dca",
+          "label": "PERSON"
         },
         {
           "text": "\u0da2\u0dd6\u0db1\u0dd2 29",
@@ -254,7 +270,19 @@
           "label": "DATE"
         },
         {
+          "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+          "label": "ORG"
+        },
+        {
           "text": "\u0dc0\u0dd2\u0da2\u0dba\u0daf\u0dcf\u0dc3 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
           "label": "PERSON"
         },
         {
@@ -265,12 +293,16 @@
       "body_line_ents_list": [
         [
           {
-            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
+          },
+          {
+            "text": "\u0d9c\u0dd0\u0dc3\u0da7\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0d85\u0daf",
@@ -307,16 +339,16 @@
         ],
         [
           {
-            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0da2\u0dd6\u0db1\u0dd2 27",
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf (\u0da2\u0dd4\u0db1\u0dd2 27",
             "label": "DATE"
           },
           {
             "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0d9c\u0dd0\u0dc3\u0da7\u0dca",
@@ -328,6 +360,34 @@
           },
           {
             "text": "\u0db1\u0dd3\u0dad\u0dd2 \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dd4",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
             "label": "ORG"
           },
           {
@@ -335,32 +395,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
-            "label": "PERSON"
-          },
-          {
-            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
-          },
-          {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
-            "label": "LAW"
-          },
-          {
-            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
@@ -371,19 +407,11 @@
             "label": "ORG"
           },
           {
-            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "DATE"
-          },
-          {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "\u0db6\u0dd2\u0dbd\u0dca\u0db4\u0dad\u0dca",
-            "label": "PERSON"
-          },
           {
             "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
             "label": "ORG"
@@ -415,15 +443,11 @@
             "label": "LAW"
           },
           {
-            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba",
-            "label": "LAW"
+            "text": "21 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
           }
         ],
         [
-          {
-            "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "GPE"
-          },
           {
             "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
@@ -447,12 +471,16 @@
       ],
       "title_ents": [
         {
-          "text": "22\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-          "label": "LAW"
+          "text": "22\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
         },
         {
           "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
           "label": "LAW"
+        },
+        {
+          "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba4\u0bb4\u0bcd",
+          "label": "PERSON"
         },
         {
           "text": "\u0b9c\u0bc2\u0ba9\u0bcd 29",
@@ -467,7 +495,19 @@
           "label": "DATE"
         },
         {
+          "text": "\u0ba8\u0bc0\u0ba4\u0bbf",
+          "label": "ORG"
+        },
+        {
           "text": "\u0bb5\u0bbf\u0b9c\u0baf\u0ba4\u0bbe\u0b9a \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
           "label": "PERSON"
         },
         {
@@ -478,12 +518,16 @@
       "body_line_ents_list": [
         [
           {
-            "text": "22\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "LAW"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba4\u0bb4\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
@@ -520,16 +564,16 @@
         ],
         [
           {
-            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 27",
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 (\u0b9c\u0bc2\u0ba9\u0bcd 27",
             "label": "DATE"
           },
           {
             "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
             "label": "ORG"
+          },
+          {
+            "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
+            "label": "PERSON"
           },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba4\u0bb4\u0bcd",
@@ -541,6 +585,34 @@
           },
           {
             "text": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bb0\u0bc8\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "LAW"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
             "label": "ORG"
           },
           {
@@ -548,32 +620,8 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
-            "label": "PERSON"
-          },
-          {
-            "text": "22 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
-          },
-          {
-            "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "LAW"
-          },
-          {
-            "text": "21 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
-          }
-        ],
-        [
-          {
-            "text": "21\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "21 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+            "label": "ORDINAL"
           },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
@@ -584,19 +632,11 @@
             "label": "ORG"
           },
           {
-            "text": "21 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "DATE"
-          },
-          {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "\u0bb0 \u0b9a\u0bbf \u0ba4\u0bc1",
-            "label": "PERSON"
-          },
           {
             "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
@@ -628,15 +668,11 @@
             "label": "LAW"
           },
           {
-            "text": "21 \u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "LAW"
+            "text": "21 \u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf",
+            "label": "ORDINAL"
           }
         ],
         [
-          {
-            "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "GPE"
-          },
           {
             "text": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "LAW"

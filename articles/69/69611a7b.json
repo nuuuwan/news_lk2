@@ -29,11 +29,15 @@
           "label": "NORP"
         },
         {
-          "text": "Nimal Siripala",
+          "text": "Nimal Siripala De Silvato",
           "label": "PERSON"
         },
         {
           "text": "Ports",
+          "label": "ORG"
+        },
+        {
+          "text": "Shipping and Aviation Services",
           "label": "ORG"
         }
       ],
@@ -58,11 +62,19 @@
         ],
         [
           {
+            "text": "Media",
+            "label": "ORG"
+          },
+          {
             "text": "Nimal Siripala De Silva",
             "label": "PERSON"
           },
           {
             "text": "Ports",
+            "label": "ORG"
+          },
+          {
+            "text": "Shipping and Aviation Services",
             "label": "ORG"
           }
         ],
@@ -86,12 +98,8 @@
             "label": "ORG"
           },
           {
-            "text": "the Taisei Corporation",
+            "text": "the Taisei Corporation of Japan",
             "label": "ORG"
-          },
-          {
-            "text": "Japan",
-            "label": "GPE"
           }
         ],
         [
@@ -100,16 +108,20 @@
             "label": "ORG"
           },
           {
-            "text": "first",
-            "label": "ORDINAL"
-          },
-          {
             "text": "Cabinet",
             "label": "ORG"
           },
           {
-            "text": "Samagi Jana Balawegaya",
+            "text": "Samagi",
+            "label": "NORP"
+          },
+          {
+            "text": "Jana Balawegaya",
             "label": "PERSON"
+          },
+          {
+            "text": "SJB",
+            "label": "ORG"
           },
           {
             "text": "Premadasa",
@@ -146,11 +158,15 @@
           "label": "NORP"
         },
         {
-          "text": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd",
+          "text": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf\u0dad\u0ddd",
           "label": "PERSON"
         },
         {
           "text": "\u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0db1\u0dd0\u0dc0\u0dca \u0dc3\u0dc4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf",
           "label": "ORG"
         }
       ],
@@ -175,11 +191,19 @@
         ],
         [
           {
+            "text": "\u0db8\u0dcf\u0db0\u0dca\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd \u0daf \u0dc3\u0dd2\u0dbd\u0dca\u0dc0\u0dcf",
             "label": "PERSON"
           },
           {
             "text": "\u0dc0\u0dbb\u0dcf\u0dba\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0dc0\u0dca \u0dc3\u0dc4 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dcf",
             "label": "ORG"
           }
         ],
@@ -203,12 +227,8 @@
             "label": "ORG"
           },
           {
-            "text": "Taisei \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dda Taisei \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "ORG"
-          },
-          {
-            "text": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
-            "label": "GPE"
           }
         ],
         [
@@ -217,16 +237,20 @@
             "label": "ORG"
           },
           {
-            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
-            "label": "ORDINAL"
-          },
-          {
             "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd",
             "label": "ORG"
           },
           {
-            "text": "\u0dc3\u0db8\u0d9c\u0dd2 \u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
+            "text": "\u0dc3\u0db8\u0d9c\u0dd2",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0da2\u0db1 \u0db6\u0dbd\u0dc0\u0dda\u0d9c\u0dba",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda.\u0db6\u0dd3",
+            "label": "ORG"
           },
           {
             "text": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0daf\u0dcf\u0dc3 \u0dba",
@@ -263,11 +287,15 @@
           "label": "NORP"
         },
         {
-          "text": "\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baa\u0bbe\u0bb2",
+          "text": "\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baa\u0bbe\u0bb2 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0b9f\u0bcb",
           "label": "PERSON"
         },
         {
           "text": "\u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
           "label": "ORG"
         }
       ],
@@ -292,11 +320,19 @@
         ],
         [
           {
+            "text": "\u0b8a\u0b9f\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baa\u0bbe\u0bb2 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
             "label": "PERSON"
           },
           {
             "text": "\u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
             "label": "ORG"
           }
         ],
@@ -320,12 +356,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9f\u0bc8\u0b9a\u0bbf \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd",
+            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd Taisei \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
-            "label": "GPE"
           }
         ],
         [
@@ -334,16 +366,20 @@
             "label": "ORG"
           },
           {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
-            "label": "ORDINAL"
-          },
-          {
             "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b9a\u0baa\u0bc8",
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0bae\u0b95\u0bbf \u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
+            "text": "\u0b9a\u0bae\u0b95\u0bbf",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b9c\u0ba9 \u0baa\u0bb2\u0bb5\u0bc7\u0b95\u0baf\u0bbe",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7.\u0baa\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",

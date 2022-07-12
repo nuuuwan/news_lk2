@@ -152,11 +152,7 @@
         ],
         [
           {
-            "text": "Sri Lankan Finance",
-            "label": "GPE"
-          },
-          {
-            "text": "Junius Richard Jayawardena",
+            "text": "Richard Jayawardena",
             "label": "PERSON"
           },
           {
@@ -246,10 +242,6 @@
           {
             "text": "Sri Lanka",
             "label": "GPE"
-          },
-          {
-            "text": "Over a quarter",
-            "label": "CARDINAL"
           }
         ],
         [],
@@ -283,7 +275,7 @@
         [
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "Sri Lanka",
@@ -319,7 +311,7 @@
           },
           {
             "text": "Sri Lankans",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ]
       ]
@@ -471,11 +463,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0da2\u0dd6\u0db1\u0dd2\u0dba\u0dc3\u0dca \u0dbb\u0dd2\u0da0\u0da9\u0dca \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "text": "\u0dbb\u0dd2\u0da0\u0da9\u0dca \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1",
             "label": "PERSON"
           },
           {
@@ -565,10 +553,6 @@
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
-          },
-          {
-            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
-            "label": "CARDINAL"
           }
         ],
         [],
@@ -602,7 +586,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -638,7 +622,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ]
       ]
@@ -790,11 +774,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0b9c\u0bc2\u0ba9\u0bbf\u0baf\u0bb8\u0bcd \u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "text": "\u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
             "label": "PERSON"
           },
           {
@@ -884,10 +864,6 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
-          },
-          {
-            "text": "\u0b95\u0bbe\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
-            "label": "CARDINAL"
           }
         ],
         [],
@@ -921,7 +897,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -957,7 +933,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ]
       ]

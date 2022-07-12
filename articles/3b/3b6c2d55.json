@@ -23,11 +23,7 @@
       ],
       "title_ents": [
         {
-          "text": "Jubilant  Crowds  Wait",
-          "label": "PERSON"
-        },
-        {
-          "text": "Lengthy Regulated",
+          "text": "Lengthy Regulated  ",
           "label": "PERSON"
         },
         {
@@ -36,23 +32,19 @@
         },
         {
           "text": "Presidential Secretariat",
-          "label": "LOC"
+          "label": "PERSON"
         },
         {
           "text": "tour\u201dthe Premises Seized",
           "label": "WORK_OF_ART"
         },
         {
-          "text": "July 9",
+          "text": "July 9  \u201c",
           "label": "DATE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "Presidential Secretariat",
-            "label": "LOC"
-          },
           {
             "text": "a day",
             "label": "DATE"
@@ -103,12 +95,8 @@
             "label": "DATE"
           },
           {
-            "text": "Gota",
-            "label": "EVENT"
-          },
-          {
-            "text": "Gota Jail",
-            "label": "PERSON"
+            "text": "Gota\u2019",
+            "label": "ORG"
           },
           {
             "text": "dozens",
@@ -119,10 +107,6 @@
           {
             "text": "A few yards",
             "label": "QUANTITY"
-          },
-          {
-            "text": "the Presidential Secretariat",
-            "label": "GPE"
           },
           {
             "text": "months",
@@ -141,7 +125,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "today",
@@ -166,7 +150,7 @@
             "label": "PERSON"
           },
           {
-            "text": "malli",
+            "text": "Mahinda Rajapaksa",
             "label": "PERSON"
           },
           {
@@ -175,10 +159,6 @@
           }
         ],
         [
-          {
-            "text": "Temple Trees",
-            "label": "ORG"
-          },
           {
             "text": "Saturday",
             "label": "DATE"
@@ -204,10 +184,6 @@
       ],
       "title_ents": [
         {
-          "text": "\u0db4\u0dca\u200d\u0dbb\u0dd3\u0dad\u0dd2 \u0d9d\u0ddd\u0dc2\u0dcf \u0db1\u0dbb\u0db9\u0db1\u0dca\u0db1",
-          "label": "PERSON"
-        },
-        {
           "text": "\u0daf\u0dd2\u0d9c\u0dd4 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1\u0dba",
           "label": "PERSON"
         },
@@ -217,23 +193,19 @@
         },
         {
           "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-          "label": "LOC"
+          "label": "PERSON"
         },
         {
           "text": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\" \u0db4\u0dbb\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dba \u0d85\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0db1\u0dd3",
           "label": "WORK_OF_ART"
         },
         {
-          "text": "\u0da2\u0dd6\u0dbd\u0dd2 9",
+          "text": "\u0da2\u0dd6\u0dbd\u0dd2 9 \"",
           "label": "DATE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "LOC"
-          },
           {
             "text": "\u0daf\u0dc0\u0dc3\u0d9a\u0dca",
             "label": "DATE"
@@ -284,12 +256,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf",
-            "label": "EVENT"
-          },
-          {
-            "text": "\u0d9c\u0ddd\u0da8\u0dcf \u0dc4\u0dd2\u0dbb\u0dda",
-            "label": "PERSON"
+            "text": "\u0d9c\u0ddd\u0da8\u0dcf'",
+            "label": "ORG"
           },
           {
             "text": "\u0daf\u0dd4\u0dc3\u0dd2\u0db8\u0dca",
@@ -300,10 +268,6 @@
           {
             "text": "\u0dba\u0dcf\u0dbb \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
             "label": "QUANTITY"
-          },
-          {
-            "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
-            "label": "GPE"
           },
           {
             "text": "\u0db8\u0dcf\u0dc3",
@@ -322,7 +286,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0d85\u0daf",
@@ -347,7 +311,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0db8\u0dbd\u0dca\u0dbd\u0dd2",
+            "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
           },
           {
@@ -356,10 +320,6 @@
           }
         ],
         [
-          {
-            "text": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
-            "label": "ORG"
-          },
           {
             "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
             "label": "DATE"
@@ -385,10 +345,6 @@
       ],
       "title_ents": [
         {
-          "text": "\u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
-          "label": "PERSON"
-        },
-        {
           "text": "\u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
           "label": "PERSON"
         },
@@ -398,23 +354,19 @@
         },
         {
           "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-          "label": "LOC"
+          "label": "PERSON"
         },
         {
           "text": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0baf\u0ba3\u0bae\u0bcd\" \u0bb5\u0bb3\u0bbe\u0b95\u0bae\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
           "label": "WORK_OF_ART"
         },
         {
-          "text": "\u0b9c\u0bc2\u0bb2\u0bc8 9",
+          "text": "\u0b9c\u0bc2\u0bb2\u0bc8 9 \"",
           "label": "DATE"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "LOC"
-          },
           {
             "text": "\u0b92\u0bb0\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd",
             "label": "DATE"
@@ -465,12 +417,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1",
-            "label": "EVENT"
-          },
-          {
-            "text": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0bbe \u0b9a\u0bbf\u0bb1\u0bc8",
-            "label": "PERSON"
+            "text": "\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1'",
+            "label": "ORG"
           },
           {
             "text": "\u0b9f\u0b9c\u0ba9\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9",
@@ -481,10 +429,6 @@
           {
             "text": "\u0b9a\u0bbf\u0bb2 \u0b95\u0bc6\u0b9c\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "QUANTITY"
-          },
-          {
-            "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
@@ -503,7 +447,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
@@ -528,7 +472,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0bae\u0bb2\u0bcd\u0bb2\u0bbf",
+            "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
             "label": "PERSON"
           },
           {
@@ -537,10 +481,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
           {
             "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
             "label": "DATE"

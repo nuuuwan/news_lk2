@@ -20,16 +20,11 @@
         "Left-arm spinner Praveen Jayawickrama was already in isolation after testing positive earlier in the week.",
         "One piece of good news was former captain Angelo Mathews, who tested positive for COVID during the first Test, has been cleared and will take part in the second Test."
       ],
-      "title_ents": [
-        {
-          "text": "Pathum Nissanka",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka Cricket",
+            "text": "SLC",
             "label": "ORG"
           },
           {
@@ -38,10 +33,6 @@
           }
         ],
         [
-          {
-            "text": "Rapid Antigen",
-            "label": "ORG"
-          },
           {
             "text": "yesterday",
             "label": "DATE"
@@ -60,14 +51,19 @@
         [
           {
             "text": "Nissanaka",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "SLC",
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "Oshada Fernando",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "sixth",
@@ -98,10 +94,6 @@
           {
             "text": "four",
             "label": "CARDINAL"
-          },
-          {
-            "text": "COVID-19",
-            "label": "PERSON"
           }
         ],
         [
@@ -150,14 +142,6 @@
             "label": "PERSON"
           },
           {
-            "text": "COVID",
-            "label": "ORG"
-          },
-          {
-            "text": "first",
-            "label": "ORDINAL"
-          },
-          {
             "text": "second",
             "label": "ORDINAL"
           }
@@ -179,16 +163,11 @@
         "\u0dc0\u0db8\u0dad\u0dca \u0daf\u0d9f \u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dba\u0dc0\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd3\u0db1\u0dca \u0da2\u0dba\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8 \u0dc3\u0dad\u0dd2\u0dba \u0db8\u0dd4\u0dbd\u0daf\u0dd3 \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0daf\u0dd0\u0db1\u0da7\u0db8\u0dad\u0dca \u0dc4\u0dd4\u0daf\u0dd9\u0d9a\u0dbd\u0dcf \u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda\u0dba.",
         "\u0db4\u0dc5\u0db8\u0dd4 \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dba\u0dda\u0daf\u0dd3 COVID \u0dc3\u0db3\u0dc4\u0dcf \u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db6\u0dc0 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dcf \u0d9a\u0dc5 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db1\u0dcf\u0dba\u0d9a \u0d87\u0db1\u0dca\u0da2\u0dbd\u0ddd \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dca\u0dc3\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1\u0dba \u0dc0\u0dd3 \u0daf\u0dd9\u0dc0\u0db1 \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3\u0db8 \u0d91\u0d9a\u0dca \u0dc1\u0dd4\u0db7\u0dcf\u0dbb\u0d82\u0da0\u0dd2\u0dba\u0d9a\u0dd2."
       ],
-      "title_ents": [
-        {
-          "text": "\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dc1\u0dca\u0dc1\u0d82\u0d9a",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba",
             "label": "ORG"
           },
           {
@@ -197,10 +176,6 @@
           }
         ],
         [
-          {
-            "text": "\u0dc0\u0dda\u0d9c\u0dc0\u0dad\u0dca \u0db4\u0dca\u0dbb\u0dad\u0dd2\u0daf\u0dda\u0dc4\u0da2\u0db1\u0d9a",
-            "label": "ORG"
-          },
           {
             "text": "\u0d8a\u0dba\u0dda",
             "label": "DATE"
@@ -219,14 +194,19 @@
         [
           {
             "text": "\u0db1\u0dd2\u0dc1\u0dca\u0dc1\u0db1\u0d9a",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba",
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0d95\u0dc2\u0daf \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "\u0dc4\u0dba \u0dc0\u0db1",
@@ -257,10 +237,6 @@
           {
             "text": "\u0dc4\u0dad\u0dbb",
             "label": "CARDINAL"
-          },
-          {
-            "text": "COVID-19",
-            "label": "PERSON"
           }
         ],
         [
@@ -309,14 +285,6 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
-            "label": "ORDINAL"
-          },
-          {
             "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
             "label": "ORDINAL"
           }
@@ -338,16 +306,11 @@
         "\u0b87\u0b9f\u0ba4\u0bc1 \u0b95\u0bc8 \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0bb5\u0bc0\u0ba9\u0bcd \u0b9c\u0bc6\u0baf\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bb1\u0bc8 \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0b95\u0ba9\u0bb5\u0bc7 \u0ba4\u0ba9\u0bbf\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
         "\u0b92\u0bb0\u0bc1 \u0ba8\u0bb2\u0bcd\u0bb2 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0b8e\u0ba9\u0bcd\u0ba9\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd, \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd-\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b95\u0bc7\u0baa\u0bcd\u0b9f\u0ba9\u0bcd \u0b8f\u0b9e\u0bcd\u0b9a\u0bb2\u0bcb \u0bae\u0bc7\u0ba4\u0bcd\u0baf\u0bc2\u0bb8\u0bcd \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1, \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb0\u0bcd."
       ],
-      "title_ents": [
-        {
-          "text": "\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb8\u0bcd\u0bb8\u0b99\u0bcd\u0b95",
-          "label": "PERSON"
-        }
-      ],
+      "title_ents": [],
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd",
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd.\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -356,10 +319,6 @@
           }
         ],
         [
-          {
-            "text": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0ba9 \u0b86\u0ba9\u0bcd\u0b9f\u0bbf\u0b9c\u0bc6\u0ba9\u0bcd",
-            "label": "ORG"
-          },
           {
             "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
             "label": "DATE"
@@ -378,14 +337,19 @@
         [
           {
             "text": "\u0ba8\u0bbf\u0bb8\u0bcd\u0bb8\u0ba9\u0b95\u0bbe",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd.\u0b9a\u0bbf",
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0b93\u0bb7\u0ba4 \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "\u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1",
@@ -416,10 +380,6 @@
           {
             "text": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
             "label": "CARDINAL"
-          },
-          {
-            "text": "COVID-19",
-            "label": "PERSON"
           }
         ],
         [
@@ -466,14 +426,6 @@
           {
             "text": "\u0b8f\u0b9e\u0bcd\u0b9a\u0bb2\u0bcb \u0bae\u0bc7\u0ba4\u0bcd\u0baf\u0bc2\u0bb8\u0bcd",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
-            "label": "ORDINAL"
           },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
