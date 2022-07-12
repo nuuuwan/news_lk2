@@ -1,11 +1,51 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Air-tickets-for-workers-flying-to-Japan/342-240929",
+    "url": "https://www.dailymirror.lk/caption_story/Getting-back-to-normal/110-240930",
+    "time_ut": 1657640870,
+    "original_lang": "en",
+    "original_title": "Getting back to normal...",
+    "file_name": "/tmp/news_lk2/articles/53/5331d313.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300288",
+    "time_ut": 1657640624,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4c/4c75b20f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/petitions-filed-in-supreme-court-to-prevent-rajapaksas-officials-from-leaving-sri-lanka-97291/",
+    "time_ut": 1657640460,
+    "original_lang": "en",
+    "original_title": "Petitions filed in Supreme Court to prevent Rajapaksas, officials from leaving Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/d0/d091d293.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dc4\u0dbb\u0dc0\u0dcf-\u0dba\u0dc0\u0db1\u0dca\u0db1-\u0d86\u0d9c\u0db8\u0db1-\u0dc0\u0dd2\u0d9c\u0db8\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0db6\u0dbd\u0dba\u0d9a\u0dca-\u0db1\u0dd1/1-616320",
+    "time_ut": 1657640377,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dc4\u0dbb\u0dc0\u0dcf \u0dba\u0dc0\u0db1\u0dca\u0db1 \u0d86\u0d9c\u0db8\u0db1 \u0dc0\u0dd2\u0d9c\u0db8\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0db6\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/4d/4dc75517.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Air-tickets-for-workers-flying-to-Japan/110-240929",
     "time_ut": 1657640347,
     "original_lang": "en",
     "original_title": "Air tickets for workers flying to Japan",
-    "file_name": "/tmp/news_lk2/articles/56/56a443d0.json"
+    "file_name": "/tmp/news_lk2/articles/54/54327381.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7-\u0db4\u0dd2\u0dba\u0dc0\u0dbb-\u0d9c\u0db1\u0dd3/1-616319",
+    "time_ut": 1657640341,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/dc/dc3959fe.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -14,6 +54,22 @@
     "original_lang": "en",
     "original_title": "Basil paid Rs. 5.3mn in cash to leave for Washington",
     "file_name": "/tmp/news_lk2/articles/a4/a4460466.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131351",
+    "time_ut": 1657639860,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb0\u0bc8\u0ba8\u0b95\u0bb0\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u00a0 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/87/877c7a3e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dd6-\u0dc0\u0dd3\u0dc3\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0dc0\u0dd9\u0dba\u0dd2/1-616318",
+    "time_ut": 1657639784,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd6 \u0dc0\u0dd3\u0dc3\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/12/12892388.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca-\u0d8a\u0dc5\u0d9f-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2/101-616317",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca-\u0d8a\u0dc5\u0d9f-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2/1-616317",
     "time_ut": 1657637898,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca \u0d8a\u0dc5\u0d9f \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2b/2bc2f89d.json"
+    "file_name": "/tmp/news_lk2/articles/10/1061596f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
