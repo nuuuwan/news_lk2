@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 03:42:23 (LK time)*
+*As of 2022-07-13 03:55:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (16 Articles)
 
 * **11** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
 
 * **3** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
-* **3** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
+* **2** economy-next-com ([Sri Lanka stocks gain for third straight day amid rise in fixed asset return](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e30ee136.json))
 
 ## Last 24 Hours (248 Articles)
 
