@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/pm-other-mps-express-condolences-on-behalf-of-former-japanese-pm-abe/",
+    "time_ut": 1657620840,
+    "original_lang": "en",
+    "original_title": "PM, other MPs express condolences on behalf of former Japanese PM Abe",
+    "file_name": "/tmp/news_lk2/articles/22/22478432.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/12/indian-urea-suitable-for-sri-lanka-report/",
+    "time_ut": 1657620840,
+    "original_lang": "en",
+    "original_title": "Indian Urea suitable for Sri Lanka \u2013 Report",
+    "file_name": "/tmp/news_lk2/articles/ed/edf5b5ba.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/strong-rajapaksa-dynasty-member-refused-to-leave-sri-lanka-97285/",
+    "time_ut": 1657620660,
+    "original_lang": "en",
+    "original_title": "Strong Rajapaksa dynasty member refused to leave Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/df/df002e48.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131329",
     "time_ut": 1657619816,
@@ -30,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db8\u0dbb\u0dab\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/94/94176a6e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0dc3\u0dc4-\u0d92\u0dc0\u0dcf-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0dc3\u0da7\u0dc4\u0db1\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf/11-395350",
+    "time_ut": 1657619132,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0dc3\u0dc4 \u0d92\u0dc0\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dc3\u0da7\u0dc4\u0db1\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/11/11dd918d.json"
   },
   {
     "newspaper_id": "virakesari-lk",
