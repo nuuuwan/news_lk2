@@ -44,6 +44,14 @@
             "label": "CARDINAL"
           },
           {
+            "text": "Litro",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          },
+          {
             "text": "today",
             "label": "DATE"
           },
@@ -60,8 +68,8 @@
             "label": "DATE"
           },
           {
-            "text": "the Litro Gas Lanka Limited Chairman",
-            "label": "ORG"
+            "text": "the Litro Gas Lanka Limited",
+            "label": "FAC"
           },
           {
             "text": "Muditha Pieris",
@@ -86,7 +94,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "another 20,000",
+            "text": "20,000",
             "label": "CARDINAL"
           },
           {
@@ -125,7 +133,7 @@
           },
           {
             "text": "Pieris",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -139,10 +147,6 @@
           },
           {
             "text": "29",
-            "label": "DATE"
-          },
-          {
-            "text": "31",
             "label": "DATE"
           },
           {
@@ -162,20 +166,21 @@
             "label": "QUANTITY"
           },
           {
-            "text": "Rs.50",
-            "label": "ORG"
-          },
-          {
             "text": "Rs.4,910",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "200",
-            "label": "CARDINAL"
+            "text": "R. 200",
+            "label": "PERSON"
           }
         ],
         [],
-        [],
+        [
+          {
+            "text": "Colombo",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "33,000MT",
@@ -199,7 +204,7 @@
           },
           {
             "text": "Chaturanga Samarawickrama",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ]
       ]
@@ -243,6 +248,14 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          },
+          {
             "text": "\u0d85\u0daf",
             "label": "DATE"
           },
@@ -259,8 +272,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dbd\u0d82\u0d9a\u0dcf \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2",
-            "label": "ORG"
+            "text": "\u0dbd\u0dd2\u0da7\u0dca\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0dbd\u0d82\u0d9a\u0dcf \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "FAC"
           },
           {
             "text": "\u0db8\u0dd4\u0daf\u0dd2\u0dad \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca",
@@ -285,7 +298,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0dad\u0dc0\u0dad\u0dca 20,000",
+            "text": "20,000 \u0d9a\u0dd2",
             "label": "CARDINAL"
           },
           {
@@ -324,7 +337,7 @@
           },
           {
             "text": "\u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -338,10 +351,6 @@
           },
           {
             "text": "29",
-            "label": "DATE"
-          },
-          {
-            "text": "31",
             "label": "DATE"
           },
           {
@@ -361,20 +370,21 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 50\u0dba\u0dd2",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dbb\u0dd4.4,910",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "200",
-            "label": "CARDINAL"
+            "text": "\u0dbb\u0dd4. 200",
+            "label": "PERSON"
           }
         ],
         [],
-        [],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "33,000MT",
@@ -398,7 +408,7 @@
           },
           {
             "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ]
       ]
@@ -442,6 +452,14 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          },
+          {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "DATE"
           },
@@ -458,8 +476,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b95\u0bc7\u0bb8\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd",
-            "label": "ORG"
+            "text": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b95\u0bc7\u0bb8\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "FAC"
           },
           {
             "text": "\u0bae\u0bc1\u0ba4\u0bbf\u0ba4\u0bbe \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
@@ -484,7 +502,7 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 20,000",
+            "text": "20,000",
             "label": "CARDINAL"
           },
           {
@@ -523,7 +541,7 @@
           },
           {
             "text": "\u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
-            "label": "GPE"
+            "label": "PERSON"
           }
         ],
         [
@@ -537,10 +555,6 @@
           },
           {
             "text": "29",
-            "label": "DATE"
-          },
-          {
-            "text": "31",
             "label": "DATE"
           },
           {
@@ -560,20 +574,21 @@
             "label": "QUANTITY"
           },
           {
-            "text": "\u0bb0\u0bc2.50",
-            "label": "ORG"
-          },
-          {
             "text": "\u0bb0\u0bc2.4,910",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "200",
-            "label": "CARDINAL"
+            "text": "R. 200",
+            "label": "PERSON"
           }
         ],
         [],
-        [],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
+          }
+        ],
         [
           {
             "text": "33,000MT",
@@ -597,7 +612,7 @@
           },
           {
             "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae",
-            "label": "ORG"
+            "label": "PERSON"
           }
         ]
       ]

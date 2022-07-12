@@ -23,16 +23,12 @@
       "body_line_ents_list": [
         [
           {
-            "text": "The Sri Lanka Immigration and Emigration Officers' Association",
-            "label": "FAC"
-          },
-          {
             "text": "SLIEOA",
             "label": "ORG"
           },
           {
             "text": "the Silk Route Passenger Clearance Terminal",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "the Bandaranaike International Airport",
@@ -60,7 +56,7 @@
         [
           {
             "text": "the Silk Route Passenger Clearance Terminal",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "12.00 midnight",
@@ -74,14 +70,10 @@
         [
           {
             "text": "the Silk Route",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
-            "text": "Samarawckrama",
-            "label": "NORP"
-          },
-          {
-            "text": "Kapila",
+            "text": "T.K.G. Kapila",
             "label": "PERSON"
           }
         ]
@@ -105,16 +97,12 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d86\u0d9c\u0db8\u0db1 \u0dc4\u0dcf \u0dc0\u0dd2\u0d9c\u0db8\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
-            "label": "FAC"
-          },
-          {
             "text": "SLIEOA",
             "label": "ORG"
           },
           {
             "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0db8\u0d9c\u0dd3 \u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0db1\u0dcf\u0dba\u0d9a \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5",
@@ -142,7 +130,7 @@
         [
           {
             "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0db8\u0d9c\u0dd3 \u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dcf\u0dc1\u0db1 \u0db4\u0dbb\u0dca\u0dba\u0db1\u0dca\u0dad\u0dba",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 12.00",
@@ -156,14 +144,10 @@
         [
           {
             "text": "\u0dc3\u0dda\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
-            "text": "\u0dc3\u0db8\u0dbb\u0dc0\u0dca\u0d9a\u0dca\u200d\u0dbb\u0db8",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0d9a\u0db4\u0dd2\u0dbd",
+            "text": "\u0da7\u0dd3.\u0d9a\u0dda.\u0da2\u0dd3. \u0d9a\u0db4\u0dd2\u0dbd",
             "label": "PERSON"
           }
         ]
@@ -187,16 +171,12 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bc1\u0b9f\u0bbf\u0bb5\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0b95\u0bb2\u0bcd\u0bb5\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-            "label": "FAC"
-          },
-          {
             "text": "SLIEOA",
             "label": "ORG"
           },
           {
             "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0ba4\u0bc8 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
@@ -224,7 +204,7 @@
         [
           {
             "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0ba4\u0bc8 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 12.00",
@@ -238,14 +218,10 @@
         [
           {
             "text": "\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0ba4\u0bc8",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
-            "text": "\u0b9a\u0bae\u0bb0\u0bb5\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae",
-            "label": "NORP"
-          },
-          {
-            "text": "\u0b95\u0baa\u0bbf\u0bb2\u0bbe",
+            "text": "\u0b9f\u0bbf.\u0b95\u0bc7.\u0b9c\u0bbf. \u0b95\u0baa\u0bbf\u0bb2\u0bbe",
             "label": "PERSON"
           }
         ]

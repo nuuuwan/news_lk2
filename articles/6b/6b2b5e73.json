@@ -64,6 +64,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "Prabath",
+            "label": "NORP"
+          },
+          {
             "text": "6",
             "label": "CARDINAL"
           },
@@ -72,8 +76,8 @@
             "label": "DATE"
           },
           {
-            "text": "Sri Lankan",
-            "label": "GPE"
+            "text": "a Sri Lankan",
+            "label": "PERSON"
           },
           {
             "text": "12",
@@ -84,8 +88,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "first",
-            "label": "ORDINAL"
+            "text": "a Sri Lankan",
+            "label": "PERSON"
+          },
+          {
+            "text": "century",
+            "label": "DATE"
           },
           {
             "text": "Sri Lanka",
@@ -157,6 +165,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0db7\u0dcf\u0dad\u0dca",
+            "label": "NORP"
+          },
+          {
             "text": "6",
             "label": "CARDINAL"
           },
@@ -165,8 +177,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "12",
@@ -177,8 +189,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
-            "label": "ORDINAL"
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dc0\u0dc3",
+            "label": "DATE"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -250,6 +266,10 @@
             "label": "CARDINAL"
           },
           {
+            "text": "\u0baa\u0bbf\u0bb0\u0baa\u0bbe\u0ba4\u0bcd",
+            "label": "NORP"
+          },
+          {
             "text": "6",
             "label": "CARDINAL"
           },
@@ -258,8 +278,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "text": "\u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "12",
@@ -270,8 +290,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
-            "label": "ORDINAL"
+            "text": "\u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba8\u0bc2\u0bb1\u0bcd\u0bb1\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",

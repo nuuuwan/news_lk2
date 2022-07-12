@@ -19,12 +19,16 @@
             "label": "DATE"
           },
           {
-            "text": "Police",
+            "text": "Saturday",
+            "label": "DATE"
+          },
+          {
+            "text": "Pix Pradeep",
             "label": "ORG"
           },
           {
-            "text": "Saturday",
-            "label": "DATE"
+            "text": "Dilrukshana",
+            "label": "GPE"
           }
         ]
       ]
@@ -43,12 +47,16 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dd2\u0d9a\u0dca\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dd3\u0db4\u0dca",
             "label": "ORG"
           },
           {
-            "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
-            "label": "DATE"
+            "text": "\u0daf\u0dd2\u0dbd\u0dca\u0dbb\u0dd4\u0d9a\u0dca\u0dc2\u0dcf\u0db1\u0dcf",
+            "label": "GPE"
           }
         ]
       ]
@@ -67,12 +75,16 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
+            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
+            "text": "\u0ba4\u0bbf\u0bb2\u0bcd\u0bb0\u0bc1\u0b95\u0bcd\u0bb7\u0ba9\u0bbe",
+            "label": "GPE"
           }
         ]
       ]

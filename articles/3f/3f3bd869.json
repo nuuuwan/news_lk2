@@ -635,7 +635,7 @@
         ],
         [
           {
-            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dcf \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "text": "\u0dba\u0dd4\u0dbb\u0ddd\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0d9c\u0db8\u0dba",
             "label": "ORG"
           },
           {
@@ -1041,7 +1041,7 @@
             "label": "ORG"
           },
           {
-            "text": "Global Gateway",
+            "text": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0daf\u0dca\u0dc0\u0dcf\u0dbb\u0dba",
             "label": "ORG"
           },
           {
@@ -1300,7 +1300,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "text": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
             "label": "ORG"
           },
           {
@@ -1392,7 +1392,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
             "label": "ORG"
           },
           {
@@ -1668,7 +1668,7 @@
         ],
         [
           {
-            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf \u0baa\u0bbe\u0bb5\u0bcd\u0bb2\u0bbe \u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bb2\u0bcb\u0ba9\u0bbf",
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf \u0baa\u0bbe\u0bb5\u0bcb\u0bb2\u0bbe \u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bb2\u0bcb\u0ba9\u0bbf",
             "label": "PERSON"
           },
           {

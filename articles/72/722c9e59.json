@@ -28,11 +28,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           }
         ],
@@ -78,6 +74,10 @@
             "label": "ORG"
           },
           {
+            "text": "EFF",
+            "label": "ORG"
+          },
+          {
             "text": "Tuesday",
             "label": "DATE"
           },
@@ -94,22 +94,18 @@
             "label": "ORG"
           },
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           }
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
             "text": "Mahinda Rajapaksa",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Gotabaya Rajapaksa",
@@ -124,6 +120,14 @@
           {
             "text": "Hamilton Reserve Bank",
             "label": "ORG"
+          },
+          {
+            "text": "St Kitts",
+            "label": "GPE"
+          },
+          {
+            "text": "Nevis",
+            "label": "GPE"
           },
           {
             "text": "the Federal Court of New York Southern District",
@@ -147,7 +151,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "Bank",
@@ -160,10 +164,6 @@
           {
             "text": "years",
             "label": "DATE"
-          },
-          {
-            "text": "Quoting",
-            "label": "GPE"
           },
           {
             "text": "U.S.",
@@ -184,6 +184,10 @@
           {
             "text": "Seychelles",
             "label": "GPE"
+          },
+          {
+            "text": "St. Martin",
+            "label": "GPE"
           }
         ],
         [
@@ -197,7 +201,7 @@
           },
           {
             "text": "Sri Lanka",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "India",
@@ -212,6 +216,10 @@
           {
             "text": "India",
             "label": "GPE"
+          },
+          {
+            "text": "NDTV",
+            "label": "ORG"
           },
           {
             "text": "annual",
@@ -242,12 +250,12 @@
             "label": "PERSON"
           },
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -255,7 +263,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -272,12 +280,8 @@
             "label": "DATE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "Sri Lankan",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "Amnesty International",
@@ -288,23 +292,15 @@
             "label": "ORG"
           },
           {
-            "text": "one",
-            "label": "CARDINAL"
+            "text": "Colombo",
+            "label": "GPE"
           },
           {
             "text": "Sri Lanka\u203as",
             "label": "GPE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "the Open Society Foundations",
-            "label": "ORG"
-          },
           {
             "text": "Mark Malloch-Brown",
             "label": "PERSON"
@@ -330,16 +326,8 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "the last month\u2019s",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "Sri Lanka",
@@ -364,7 +352,11 @@
             "label": "GPE"
           },
           {
-            "text": "the United States Senate Foreign Relations Committee",
+            "text": "United States",
+            "label": "GPE"
+          },
+          {
+            "text": "Senate Foreign Relations Committee",
             "label": "ORG"
           },
           {
@@ -382,6 +374,10 @@
           {
             "text": "Sri Lanka",
             "label": "GPE"
+          },
+          {
+            "text": "Twitter",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -398,7 +394,15 @@
             "label": "NORP"
           },
           {
+            "text": "Colombo Mizukoshi Hideaki",
+            "label": "PERSON"
+          },
+          {
             "text": "the Tamil National Alliance",
+            "label": "ORG"
+          },
+          {
+            "text": "TNA",
             "label": "ORG"
           },
           {
@@ -448,10 +452,6 @@
           {
             "text": "Sri Lankan",
             "label": "NORP"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ]
       ]
@@ -479,11 +479,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           }
         ],
@@ -529,6 +525,10 @@
             "label": "ORG"
           },
           {
+            "text": "EFF",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d85\u0d9f\u0dc4\u0dbb\u0dd4\u0dc0\u0dcf\u0daf\u0dcf",
             "label": "DATE"
           },
@@ -545,22 +545,18 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           }
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
             "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
@@ -575,6 +571,14 @@
           {
             "text": "\u0dc4\u0dd0\u0db8\u0dd2\u0dbd\u0dca\u0da7\u0db1\u0dca \u0dc3\u0d82\u0da0\u0dd2\u0dad \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
             "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d9a\u0dd2\u0da7\u0dca\u0dc3\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd9\u0dc0\u0dd2\u0dc3\u0dca",
+            "label": "GPE"
           },
           {
             "text": "\u0db1\u0dd2\u0dc0\u0dca \u0dba\u0ddd\u0dbb\u0dca\u0d9a\u0dca \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0dda \u0dc6\u0dd9\u0da9\u0dbb\u0dbd\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
@@ -598,7 +602,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
@@ -611,10 +615,6 @@
           {
             "text": "\u0dc0\u0dc3\u0dbb",
             "label": "DATE"
-          },
-          {
-            "text": "\u0d8b\u0db4\u0dd4\u0da7\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8",
-            "label": "GPE"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba.",
@@ -635,6 +635,10 @@
           {
             "text": "\u0dc3\u0dd3\u0dc2\u0dd9\u0dbd\u0dca\u0dc3\u0dca",
             "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db8\u0dcf\u0da7\u0dd2\u0db1\u0dca",
+            "label": "GPE"
           }
         ],
         [
@@ -648,7 +652,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
@@ -663,6 +667,10 @@
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "NDTV",
+            "label": "ORG"
           },
           {
             "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a",
@@ -693,12 +701,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -706,7 +714,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -723,12 +731,8 @@
             "label": "DATE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0d87\u0db8\u0dca\u0db1\u0dd9\u0dc3\u0dca\u0da7\u0dd2 \u0d89\u0db1\u0dca\u0da7\u0dbb\u0dca\u0db1\u0dd0\u0dc2\u0db1\u0dbd\u0dca",
@@ -739,23 +743,15 @@
             "label": "ORG"
           },
           {
-            "text": "\u0d91\u0d9a",
-            "label": "CARDINAL"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u203a",
             "label": "GPE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "\u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc3\u0db8\u0dcf\u0da2 \u0db4\u0daf\u0db1\u0db8\u0dca",
-            "label": "ORG"
-          },
           {
             "text": "\u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dca \u0db8\u0dbd\u0dca\u0dbd\u0ddc\u0d9a\u0dca-\u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0db1\u0dca",
             "label": "PERSON"
@@ -781,16 +777,8 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db8\u0dcf\u0dc3\u0dba\u0dda",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -815,7 +803,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0dc3\u0dd9\u0db1\u0dd9\u0da7\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd9\u0db1\u0dd9\u0da7\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0",
             "label": "ORG"
           },
           {
@@ -833,6 +825,10 @@
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -849,7 +845,15 @@
             "label": "NORP"
           },
           {
+            "text": "Colombo Mizukoshi Hideaki",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db1\u0dca\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0dd3\u0d91\u0db1\u0dca\u0d92",
             "label": "ORG"
           },
           {
@@ -899,10 +903,6 @@
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
             "label": "NORP"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ]
       ]
@@ -930,11 +930,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           }
         ],
@@ -980,6 +976,10 @@
             "label": "ORG"
           },
           {
+            "text": "EFF",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
             "label": "DATE"
           },
@@ -996,22 +996,18 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           }
         ],
         [
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
             "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
@@ -1026,6 +1022,14 @@
           {
             "text": "\u0bb9\u0bbe\u0bae\u0bbf\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd \u0bb0\u0bbf\u0b9a\u0bb0\u0bcd\u0bb5\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bc6\u0bb5\u0bbf\u0bb8\u0bcd",
+            "label": "GPE"
           },
           {
             "text": "\u0ba8\u0bbf\u0baf\u0bc2\u0baf\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0b9f\u0bb0\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
@@ -1049,7 +1053,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "LOC"
           },
           {
             "text": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf",
@@ -1062,10 +1066,6 @@
           {
             "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd",
-            "label": "GPE"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1.",
@@ -1086,6 +1086,10 @@
           {
             "text": "\u0b9a\u0bc0\u0bb7\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd",
             "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
           }
         ],
         [
@@ -1099,7 +1103,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
@@ -1114,6 +1118,10 @@
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bcd\u0b9f\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
@@ -1144,12 +1152,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -1157,7 +1165,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "IMF",
@@ -1174,12 +1182,8 @@
             "label": "DATE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "NORP"
           },
           {
             "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0baa\u0bc8",
@@ -1190,23 +1194,15 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
-            "label": "CARDINAL"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u203a\u0b95\u0bb3\u0bcd",
             "label": "GPE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ],
         [
-          {
-            "text": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bc2\u0b95 \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
           {
             "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0bae\u0bb2\u0bcd\u0bb2\u0bcb\u0b95\u0bcd-\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd",
             "label": "PERSON"
@@ -1232,16 +1228,8 @@
             "label": "GPE"
           },
           {
-            "text": "IMF",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -1266,7 +1254,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc6\u0ba9\u0b9f\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc6\u0ba9\u0b9f\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
             "label": "ORG"
           },
           {
@@ -1284,6 +1276,10 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "PRODUCT"
           }
         ],
         [
@@ -1300,7 +1296,15 @@
             "label": "NORP"
           },
           {
+            "text": "Colombo Mizukoshi Hideaki",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "TNA",
             "label": "ORG"
           },
           {
@@ -1350,10 +1354,6 @@
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "NORP"
-          },
-          {
-            "text": "IMF",
-            "label": "ORG"
           }
         ]
       ]

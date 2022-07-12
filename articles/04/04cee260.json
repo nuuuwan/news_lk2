@@ -73,10 +73,6 @@
             "label": "GPE"
           },
           {
-            "text": "one",
-            "label": "CARDINAL"
-          },
-          {
             "text": "Sri Lanka",
             "label": "GPE"
           }
@@ -142,7 +138,7 @@
           },
           {
             "text": "the Presidential Secretariat in Colombo",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "Ecuadorian",
@@ -150,6 +146,10 @@
           }
         ],
         [
+          {
+            "text": "the Republic",
+            "label": "GPE"
+          },
           {
             "text": "AFP",
             "label": "ORG"
@@ -164,8 +164,12 @@
         ],
         [
           {
-            "text": "Confederation of Indigenous Nationalities of Ecuador",
+            "text": "Confederation of Indigenous Nationalities",
             "label": "ORG"
+          },
+          {
+            "text": "Ecuador",
+            "label": "GPE"
           },
           {
             "text": "Conaie",
@@ -200,7 +204,7 @@
             "label": "NORP"
           },
           {
-            "text": "Pacific",
+            "text": "the Pacific coast",
             "label": "LOC"
           },
           {
@@ -288,10 +292,6 @@
             "label": "GPE"
           },
           {
-            "text": "quash",
-            "label": "PERSON"
-          },
-          {
             "text": "US",
             "label": "GPE"
           },
@@ -308,14 +308,6 @@
           {
             "text": "US",
             "label": "GPE"
-          },
-          {
-            "text": "Moreno",
-            "label": "ORG"
-          },
-          {
-            "text": "the national assembly",
-            "label": "ORG"
           },
           {
             "text": "socialists",
@@ -368,11 +360,7 @@
             "label": "GPE"
           },
           {
-            "text": "Manta",
-            "label": "GPE"
-          },
-          {
-            "text": "the Pacific coast",
+            "text": "Pacific",
             "label": "LOC"
           },
           {
@@ -409,10 +397,6 @@
           }
         ],
         [
-          {
-            "text": "US",
-            "label": "GPE"
-          },
           {
             "text": "US",
             "label": "GPE"
@@ -738,10 +722,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d91\u0d9a",
-            "label": "CARDINAL"
-          },
-          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           }
@@ -807,7 +787,7 @@
           },
           {
             "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0d89\u0d9a\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -815,6 +795,10 @@
           }
         ],
         [
+          {
+            "text": "\u0da2\u0db1\u0dbb\u0da2\u0dba",
+            "label": "GPE"
+          },
           {
             "text": "AFP",
             "label": "ORG"
@@ -829,8 +813,12 @@
         ],
         [
           {
-            "text": "\u0d89\u0d9a\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba\u0dda \u0d86\u0daf\u0dd2\u0dc0\u0dcf\u0dc3\u0dd3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
+            "text": "\u0d86\u0daf\u0dd2\u0dc0\u0dcf\u0dc3\u0dd3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0d9a\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba",
+            "label": "GPE"
           },
           {
             "text": "\u0d9a\u0ddc\u0db1\u0dcf\u0dba\u0dd2",
@@ -865,7 +853,7 @@
             "label": "NORP"
           },
           {
-            "text": "\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca",
+            "text": "\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca \u0dc0\u0dd9\u0dbb\u0dc5 \u0dad\u0dd3\u0dbb\u0dba",
             "label": "LOC"
           },
           {
@@ -953,10 +941,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d9a\u0dca\u0dc0\u0dcf\u0dc2\u0dca",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
           },
@@ -973,14 +957,6 @@
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
-          },
-          {
-            "text": "\u0db8\u0ddc\u0dbb\u0dd9\u0db1\u0ddd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db7\u0dcf\u0dc0",
-            "label": "ORG"
           },
           {
             "text": "\u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3\u0db1\u0dca",
@@ -1033,11 +1009,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0db8\u0dd0\u0db1\u0dca\u0da7\u0dcf",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca \u0dc0\u0dd9\u0dbb\u0dc5 \u0dad\u0dd3\u0dbb\u0dba",
+            "text": "\u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca",
             "label": "LOC"
           },
           {
@@ -1074,10 +1046,6 @@
           }
         ],
         [
-          {
-            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
-            "label": "GPE"
-          },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
@@ -1403,10 +1371,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
-            "label": "CARDINAL"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           }
@@ -1472,7 +1436,7 @@
           },
           {
             "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0b88\u0b95\u0bcd\u0bb5\u0b9f\u0bbe\u0bb0\u0bcd",
@@ -1480,6 +1444,10 @@
           }
         ],
         [
+          {
+            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+            "label": "GPE"
+          },
           {
             "text": "AFP",
             "label": "ORG"
@@ -1494,8 +1462,12 @@
         ],
         [
           {
-            "text": "\u0b88\u0b95\u0bcd\u0bb5\u0b9f\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bc0\u0b95 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+            "text": "\u0baa\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b87\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b88\u0b95\u0bcd\u0bb5\u0b9f\u0bbe\u0bb0\u0bcd",
+            "label": "GPE"
           },
           {
             "text": "\u0b95\u0bcb\u0ba9\u0bc7",
@@ -1530,7 +1502,7 @@
             "label": "NORP"
           },
           {
-            "text": "\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd",
+            "text": "\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8",
             "label": "LOC"
           },
           {
@@ -1618,10 +1590,6 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b95\u0bc1\u0bb5\u0bbe\u0bb7\u0bcd",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
           },
@@ -1638,14 +1606,6 @@
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
-          },
-          {
-            "text": "\u0bae\u0bca\u0bb0\u0bc7\u0ba9\u0bcb",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
-            "label": "ORG"
           },
           {
             "text": "\u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
@@ -1698,15 +1658,11 @@
             "label": "GPE"
           },
           {
-            "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbe",
-            "label": "GPE"
-          },
-          {
-            "text": "\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8",
+            "text": "\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd",
             "label": "LOC"
           },
           {
-            "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd 6.43 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "text": "6.43 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "MONEY"
           },
           {
@@ -1739,10 +1695,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
-            "label": "GPE"
-          },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"

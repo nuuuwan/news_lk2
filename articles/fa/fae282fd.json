@@ -80,7 +80,7 @@
           },
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "July 13",
@@ -154,7 +154,7 @@
           },
           {
             "text": "Rajapaksa",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "IMF",
@@ -162,7 +162,7 @@
           },
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Parliament",
@@ -172,11 +172,7 @@
         [
           {
             "text": "Wickremesinghe",
-            "label": "PERSON"
-          },
-          {
-            "text": "Parliament",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "Yapa Abeywardena",
@@ -184,10 +180,6 @@
           },
           {
             "text": "Wednesday",
-            "label": "DATE"
-          },
-          {
-            "text": "a period of",
             "label": "DATE"
           },
           {
@@ -224,7 +216,7 @@
             "label": "PERSON"
           },
           {
-            "text": "Dhammika Perera",
+            "text": "Perera",
             "label": "PERSON"
           },
           {
@@ -240,7 +232,16 @@
             "label": "DATE"
           }
         ],
-        []
+        [
+          {
+            "text": "All Party",
+            "label": "ORG"
+          },
+          {
+            "text": "JAMILA HUSAIN",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "si": {
@@ -318,7 +319,7 @@
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 13",
@@ -392,7 +393,7 @@
           },
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "IMF",
@@ -400,7 +401,7 @@
           },
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
@@ -410,11 +411,7 @@
         [
           {
             "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0dba\u0dcf\u0db4\u0dcf \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1",
@@ -422,10 +419,6 @@
           },
           {
             "text": "\u0db6\u0daf\u0dcf\u0daf\u0dcf",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0d9a\u0dca",
             "label": "DATE"
           },
           {
@@ -462,7 +455,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
+            "text": "\u0db4\u0dd9\u0dbb\u0dda\u0dbb\u0dcf",
             "label": "PERSON"
           },
           {
@@ -478,7 +471,16 @@
             "label": "DATE"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0db8\u0dd2\u0dbd\u0dcf \u0dc4\u0dd4\u0dc3\u0dda\u0db1\u0dca",
+            "label": "PERSON"
+          }
+        ]
       ]
     },
     "ta": {
@@ -556,7 +558,7 @@
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "GPE"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 13",
@@ -630,7 +632,7 @@
           },
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "IMF",
@@ -638,7 +640,7 @@
           },
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
@@ -648,11 +650,7 @@
         [
           {
             "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0baf\u0bbe\u0baa\u0bcd\u0baa\u0bbe \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
@@ -660,10 +658,6 @@
           },
           {
             "text": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b92\u0bb0\u0bc1 \u0b95\u0bbe\u0bb2\u0bae\u0bcd",
             "label": "DATE"
           },
           {
@@ -700,7 +694,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+            "text": "\u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
             "label": "PERSON"
           },
           {
@@ -716,7 +710,16 @@
             "label": "DATE"
           }
         ],
-        []
+        [
+          {
+            "text": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bae\u0bbf\u0bb2\u0bbe \u0bb9\u0bc1\u0b9a\u0bc8\u0ba9\u0bcd",
+            "label": "PERSON"
+          }
+        ]
       ]
     }
   }

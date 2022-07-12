@@ -15,14 +15,6 @@
       ],
       "title_ents": [
         {
-          "text": "Rs.30",
-          "label": "ORG"
-        },
-        {
-          "text": "Ice",
-          "label": "GPE"
-        },
-        {
           "text": "Wattala",
           "label": "GPE"
         }
@@ -30,20 +22,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "The Special Task Force",
-            "label": "ORG"
-          },
-          {
-            "text": "STF",
-            "label": "ORG"
-          },
-          {
             "text": "35-year-old",
             "label": "DATE"
-          },
-          {
-            "text": "Ice",
-            "label": "NORP"
           },
           {
             "text": "30 million",
@@ -77,14 +57,6 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dbb\u0dd4.30",
-          "label": "ORG"
-        },
-        {
-          "text": "\u0d85\u0dba\u0dd2\u0dc3\u0dca",
-          "label": "GPE"
-        },
-        {
           "text": "\u0dc0\u0dad\u0dca\u0dad\u0dbd",
           "label": "GPE"
         }
@@ -92,20 +64,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db6\u0dc5\u0d9a\u0dcf\u0dba",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0d91\u0dc3\u0dca.\u0da7\u0dd3.\u0d91\u0dc6\u0dca",
-            "label": "ORG"
-          },
-          {
             "text": "35 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
             "label": "DATE"
-          },
-          {
-            "text": "\u0d85\u0dba\u0dd2\u0dc3\u0dca",
-            "label": "NORP"
           },
           {
             "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 30 \u0d9a\u0dd2",
@@ -123,7 +83,7 @@
         [],
         [
           {
-            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
             "label": "ORG"
           }
         ]
@@ -139,14 +99,6 @@
       ],
       "title_ents": [
         {
-          "text": "\u0bb0\u0bc2.30",
-          "label": "ORG"
-        },
-        {
-          "text": "\u0baa\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbf",
-          "label": "GPE"
-        },
-        {
           "text": "\u0bb5\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8",
           "label": "GPE"
         }
@@ -154,20 +106,8 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b8e\u0bb8\u0bcd.\u0b9f\u0bbf.\u0b8e\u0b83\u0baa\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "35 \u0bb5\u0baf\u0ba4\u0bc1",
             "label": "DATE"
-          },
-          {
-            "text": "\u0baa\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbf",
-            "label": "NORP"
           },
           {
             "text": "30 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",

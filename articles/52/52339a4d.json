@@ -17,7 +17,7 @@
       "title_ents": [
         {
           "text": "Aragalaya",
-          "label": "GPE"
+          "label": "PERSON"
         },
         {
           "text": "House",
@@ -31,8 +31,12 @@
             "label": "DATE"
           },
           {
-            "text": "House in Colombo",
+            "text": "House",
             "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           },
           {
             "text": "early this morning",
@@ -58,7 +62,7 @@
           },
           {
             "text": "Homagama",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "DSB",
@@ -79,7 +83,7 @@
       "title_ents": [
         {
           "text": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba",
-          "label": "GPE"
+          "label": "PERSON"
         },
         {
           "text": "\u0db1\u0dd2\u0dc0\u0dc3",
@@ -93,8 +97,12 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0dd2\u0dc0\u0dc3",
+            "text": "\u0db1\u0dd2\u0dc0\u0dc3",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           },
           {
             "text": "\u0d85\u0daf \u0d8b\u0daf\u0dda \u0db4\u0dcf\u0db1\u0dca\u0daf\u0dbb",
@@ -120,7 +128,7 @@
           },
           {
             "text": "Homagama",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0da9\u0dd3.\u0d91\u0dc3\u0dca.\u0db6\u0dd3",
@@ -141,7 +149,7 @@
       "title_ents": [
         {
           "text": "\u0b85\u0bb0\u0b95\u0bb2\u0baf\u0bbe",
-          "label": "GPE"
+          "label": "PERSON"
         },
         {
           "text": "\u0bb5\u0bc0\u0b9f\u0bc1",
@@ -155,8 +163,12 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1",
+            "text": "\u0bb5\u0bc0\u0b9f\u0bc1",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8",
@@ -182,7 +194,7 @@
           },
           {
             "text": "Homagama",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd.\u0baa\u0bbf",

@@ -30,19 +30,28 @@
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "Sowell",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "these days",
             "label": "DATE"
           },
           {
-            "text": "Sri Lanka\u2019s",
+            "text": "Sri Lanka",
             "label": "GPE"
           },
           {
-            "text": "The Pearl of the Indian Ocean",
+            "text": "Pearl",
             "label": "PERSON"
+          },
+          {
+            "text": "the Indian Ocean",
+            "label": "LOC"
           },
           {
             "text": "East",
@@ -66,7 +75,7 @@
           },
           {
             "text": "Sri Lankans",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
@@ -207,8 +216,12 @@
             "label": "DATE"
           },
           {
+            "text": "days",
+            "label": "DATE"
+          },
+          {
             "text": "kilometre-long",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "16",
@@ -218,7 +231,7 @@
         [
           {
             "text": "Sri Lankans",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "the Power and Energy",
@@ -254,7 +267,7 @@
           },
           {
             "text": "the tens of thousands",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [
@@ -294,19 +307,28 @@
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "\u0dc3\u0ddd\u0dc0\u0dd9\u0dbd\u0dca",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "\u0db8\u0dd9\u0db8 \u0daf\u0dd2\u0db1\u0dc0\u0dbd",
             "label": "DATE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
           },
           {
-            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0db1\u0dca \u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0dda \u0db8\u0dd4\u0dad\u0dd4 \u0d87\u0da7\u0dba",
+            "text": "\u0db8\u0dd4\u0dad\u0dd4 \u0d87\u0da7\u0dba",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0db1\u0dca \u0dc3\u0dcf\u0d9c\u0dbb\u0dba",
+            "label": "LOC"
           },
           {
             "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
@@ -330,7 +352,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
@@ -471,8 +493,12 @@
             "label": "DATE"
           },
           {
+            "text": "\u0daf\u0dd2\u0db1",
+            "label": "DATE"
+          },
+          {
             "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba\u0d9a\u0dca \u200b\u200b\u0daf\u0dd2\u0d9c",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "16",
@@ -482,7 +508,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0db6\u0dbd\u0dba \u0dc3\u0dc4 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
@@ -507,7 +533,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 90 \u0d9a\u0dd2",
+            "text": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 90 \u0d9a\u0dd2",
             "label": "MONEY"
           }
         ],
@@ -518,7 +544,7 @@
           },
           {
             "text": "\u0daf\u0dc3 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [
@@ -558,19 +584,28 @@
         }
       ],
       "body_line_ents_list": [
-        [],
+        [
+          {
+            "text": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbe\u0b95",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bb2\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+            "text": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0b9f\u0bb2\u0bcd",
+            "label": "LOC"
           },
           {
             "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
@@ -594,7 +629,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
+            "label": "NORP"
           }
         ],
         [
@@ -735,8 +770,12 @@
             "label": "DATE"
           },
           {
+            "text": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
             "text": "\u0b95\u0bbf\u0bb2\u0bcb\u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0ba8\u0bc0\u0bb3\u0bae\u0bcd",
-            "label": "PRODUCT"
+            "label": "FAC"
           },
           {
             "text": "16",
@@ -746,7 +785,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "NORP"
           },
           {
             "text": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
@@ -782,7 +821,7 @@
           },
           {
             "text": "\u0baa\u0bb2\u0bcd\u0bb2\u0bbe\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "MONEY"
+            "label": "CARDINAL"
           }
         ],
         [

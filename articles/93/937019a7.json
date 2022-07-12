@@ -37,6 +37,10 @@
         {
           "text": "Australia",
           "label": "GPE"
+        },
+        {
+          "text": "second",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -63,10 +67,6 @@
           }
         ],
         [
-          {
-            "text": "Chandimal",
-            "label": "NORP"
-          },
           {
             "text": "206",
             "label": "CARDINAL"
@@ -106,12 +106,8 @@
             "label": "GPE"
           },
           {
-            "text": "Prabath Jayasuriya",
-            "label": "PERSON"
-          },
-          {
-            "text": "6",
-            "label": "CARDINAL"
+            "text": "6-59",
+            "label": "DATE"
           },
           {
             "text": "12",
@@ -152,16 +148,20 @@
         ],
         [
           {
-            "text": "Chandimal",
-            "label": "NORP"
-          },
-          {
             "text": "118",
             "label": "CARDINAL"
           },
           {
+            "text": "overnight",
+            "label": "TIME"
+          },
+          {
             "text": "Sri Lanka",
             "label": "GPE"
+          },
+          {
+            "text": "431",
+            "label": "CARDINAL"
           },
           {
             "text": "67",
@@ -169,6 +169,10 @@
           }
         ],
         [
+          {
+            "text": "day four",
+            "label": "DATE"
+          },
           {
             "text": "123",
             "label": "CARDINAL"
@@ -205,7 +209,7 @@
           },
           {
             "text": "Marnus Labuschagne",
-            "label": "LOC"
+            "label": "ORG"
           }
         ],
         [
@@ -261,11 +265,15 @@
         [
           {
             "text": "Rajapaksa",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "tens of thousands",
             "label": "CARDINAL"
+          },
+          {
+            "text": "Colombo",
+            "label": "GPE"
           },
           {
             "text": "Saturday",
@@ -307,12 +315,16 @@
           {
             "text": "2",
             "label": "CARDINAL"
+          },
+          {
+            "text": "Twenty20",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "Australia",
-            "label": "GPE"
+            "text": "Australia Test",
+            "label": "ORG"
           },
           {
             "text": "Pat Cummins",
@@ -327,6 +339,10 @@
           {
             "text": "two years",
             "label": "DATE"
+          },
+          {
+            "text": "Covid",
+            "label": "PERSON"
           },
           {
             "text": "two",
@@ -390,6 +406,10 @@
         {
           "text": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0",
           "label": "GPE"
+        },
+        {
+          "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -416,10 +436,6 @@
           }
         ],
         [
-          {
-            "text": "\u0da0\u0db1\u0dca\u0daf\u0dd2\u0db8\u0dcf\u0dbd\u0dca",
-            "label": "NORP"
-          },
           {
             "text": "206",
             "label": "CARDINAL"
@@ -459,12 +475,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0db4\u0dca\u200d\u0dbb\u0db7\u0dcf\u0dad\u0dca \u0da2\u0dba\u0dc3\u0dd6\u0dbb\u0dd2\u0dba",
-            "label": "PERSON"
-          },
-          {
-            "text": "6",
-            "label": "CARDINAL"
+            "text": "6-59",
+            "label": "DATE"
           },
           {
             "text": "12",
@@ -505,16 +517,20 @@
         ],
         [
           {
-            "text": "\u0da0\u0db1\u0dca\u0daf\u0dd2\u0db8\u0dcf\u0dbd\u0dca",
-            "label": "NORP"
-          },
-          {
             "text": "118",
             "label": "CARDINAL"
           },
           {
+            "text": "\u0d91\u0d9a \u0dbb\u0dd0\u0dba\u0d9a\u0dd2\u0db1\u0dca",
+            "label": "TIME"
+          },
+          {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
+          },
+          {
+            "text": "431",
+            "label": "CARDINAL"
           },
           {
             "text": "67",
@@ -522,6 +538,10 @@
           }
         ],
         [
+          {
+            "text": "\u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0dbb",
+            "label": "DATE"
+          },
           {
             "text": "123",
             "label": "CARDINAL"
@@ -558,7 +578,7 @@
           },
           {
             "text": "Marnus Labuschagne",
-            "label": "LOC"
+            "label": "ORG"
           }
         ],
         [
@@ -614,11 +634,15 @@
         [
           {
             "text": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0daf\u0dc3 \u0daf\u0dc4\u0dc3\u0dca \u0d9c\u0dab\u0db1\u0d9a\u0dca",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
@@ -660,12 +684,16 @@
           {
             "text": "2",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "GPE"
+            "text": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca",
+            "label": "ORG"
           },
           {
             "text": "\u0db4\u0dd0\u0da7\u0dca \u0d9a\u0db8\u0dd2\u0db1\u0dca\u0dc3\u0dca",
@@ -680,6 +708,10 @@
           {
             "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
+            "label": "PERSON"
           },
           {
             "text": "\u0daf\u0dd9\u0d9a",
@@ -743,6 +775,10 @@
         {
           "text": "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe",
           "label": "GPE"
+        },
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -769,10 +805,6 @@
           }
         ],
         [
-          {
-            "text": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bbf\u0bae\u0bbe\u0bb2\u0bcd",
-            "label": "NORP"
-          },
           {
             "text": "206",
             "label": "CARDINAL"
@@ -812,12 +844,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0baa\u0bbf\u0bb0\u0baa\u0bbe\u0ba4\u0bcd \u0b9c\u0bc6\u0baf\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
-            "label": "PERSON"
-          },
-          {
-            "text": "6",
-            "label": "CARDINAL"
+            "text": "6-59",
+            "label": "DATE"
           },
           {
             "text": "12",
@@ -858,16 +886,20 @@
         ],
         [
           {
-            "text": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bbf\u0bae\u0bbe\u0bb2\u0bcd",
-            "label": "NORP"
-          },
-          {
             "text": "118",
             "label": "CARDINAL"
           },
           {
+            "text": "\u0b92\u0bb0\u0bc7 \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd",
+            "label": "TIME"
+          },
+          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
+          },
+          {
+            "text": "431",
+            "label": "CARDINAL"
           },
           {
             "text": "67",
@@ -875,6 +907,10 @@
           }
         ],
         [
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1",
+            "label": "DATE"
+          },
           {
             "text": "123",
             "label": "CARDINAL"
@@ -911,7 +947,7 @@
           },
           {
             "text": "\u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bb8\u0bcd \u0bb2\u0bbe\u0baa\u0bc1\u0b9a\u0bbe\u0b95\u0bcd\u0ba9\u0bc7",
-            "label": "LOC"
+            "label": "ORG"
           }
         ],
         [
@@ -967,11 +1003,15 @@
         [
           {
             "text": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bc7",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bb2\u0bcd\u0bb2\u0bbe\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
@@ -1013,12 +1053,16 @@
           {
             "text": "2",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bc1\u0baa\u0ba4\u0bc120",
+            "label": "PERSON"
           }
         ],
         [
           {
-            "text": "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe",
-            "label": "GPE"
+            "text": "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbe\u0b9f\u0bcd \u0b95\u0bae\u0bcd\u0bae\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd",
@@ -1033,6 +1077,10 @@
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",

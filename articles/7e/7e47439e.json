@@ -17,6 +17,10 @@
       ],
       "title_ents": [
         {
+          "text": "flydubai",
+          "label": "GPE"
+        },
+        {
           "text": "Sri Lanka",
           "label": "GPE"
         }
@@ -25,7 +29,11 @@
         [
           {
             "text": "United Arab Emirates",
-            "label": "NORP"
+            "label": "GPE"
+          },
+          {
+            "text": "flydubai",
+            "label": "GPE"
           },
           {
             "text": "Sri Lanka",
@@ -49,11 +57,15 @@
         [
           {
             "text": "Abu Dhabi's",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "Etihad Airways",
             "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
           },
           {
             "text": "India",
@@ -61,11 +73,11 @@
           },
           {
             "text": "Cochin International Airport",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "Abu Dhabi",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "July 14",
@@ -106,6 +118,10 @@
       ],
       "title_ents": [
         {
+          "text": "flydubai",
+          "label": "GPE"
+        },
+        {
           "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
           "label": "GPE"
         }
@@ -114,7 +130,11 @@
         [
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd3\u0dbb\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba",
-            "label": "NORP"
+            "label": "GPE"
+          },
+          {
+            "text": "flydubai",
+            "label": "GPE"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
@@ -138,11 +158,15 @@
         [
           {
             "text": "\u0d85\u0db6\u0dd4\u0da9\u0dcf\u0db6\u0dd2\u0dba\u0dda",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0dad\u0dd2\u0dc4\u0dcf\u0da9\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0dc0\u0dda\u0dc3\u0dca",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
@@ -150,11 +174,11 @@
           },
           {
             "text": "\u0d9a\u0ddc\u0da0\u0dd2\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0d85\u0db6\u0dd4\u0da9\u0dcf\u0db6\u0dd2",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 14",
@@ -195,6 +219,10 @@
       ],
       "title_ents": [
         {
+          "text": "flydubai",
+          "label": "GPE"
+        },
+        {
           "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
           "label": "GPE"
         }
@@ -203,7 +231,11 @@
         [
           {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb0\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "NORP"
+            "label": "GPE"
+          },
+          {
+            "text": "flydubai",
+            "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
@@ -227,11 +259,15 @@
         [
           {
             "text": "\u0b85\u0baa\u0bc1\u0ba4\u0bbe\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0ba4\u0bbf\u0bb9\u0bbe\u0b9f\u0bcd \u0b8f\u0bb0\u0bcd\u0bb5\u0bc7\u0bb8\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
@@ -239,11 +275,11 @@
           },
           {
             "text": "\u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
-            "label": "FAC"
+            "label": "ORG"
           },
           {
             "text": "\u0b85\u0baa\u0bc1\u0ba4\u0bbe\u0baa\u0bbf",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 14",

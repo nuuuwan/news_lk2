@@ -25,6 +25,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "Energy",
+            "label": "ORG"
+          },
+          {
             "text": "Kanchana Wijesekara",
             "label": "PERSON"
           },
@@ -47,10 +51,6 @@
           {
             "text": "Easter",
             "label": "ORG"
-          },
-          {
-            "text": "Sunday",
-            "label": "DATE"
           },
           {
             "text": "more than 260",
@@ -125,7 +125,7 @@
         ],
         [
           {
-            "text": "the \u2018Qatar Charity",
+            "text": "the \u2018Qatar Charity\u2019",
             "label": "ORG"
           },
           {
@@ -153,10 +153,6 @@
             "label": "ORG"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "the Sri Lankan Embassy",
             "label": "ORG"
           },
@@ -166,10 +162,6 @@
           },
           {
             "text": "the United Nations",
-            "label": "ORG"
-          },
-          {
-            "text": "UNICEF",
             "label": "ORG"
           }
         ],
@@ -211,10 +203,6 @@
           {
             "text": "Japan International Cooperation Agency",
             "label": "ORG"
-          },
-          {
-            "text": "JICA)-funded",
-            "label": "PRODUCT"
           },
           {
             "text": "LRT",
@@ -285,10 +273,6 @@
             "label": "DATE"
           },
           {
-            "text": "Memorandum of Cooperation",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "MOC",
             "label": "ORG"
           },
@@ -297,7 +281,7 @@
             "label": "DATE"
           },
           {
-            "text": "Governments of India",
+            "text": "the Governments of India",
             "label": "ORG"
           },
           {
@@ -315,6 +299,10 @@
           {
             "text": "ECT",
             "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "FAC"
           },
           {
             "text": "three",
@@ -382,6 +370,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
             "label": "PERSON"
           },
@@ -404,10 +396,6 @@
           {
             "text": "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4",
             "label": "ORG"
-          },
-          {
-            "text": "\u0d89\u0dbb\u0dd2\u0daf\u0dcf",
-            "label": "DATE"
           },
           {
             "text": "260 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
@@ -482,7 +470,7 @@
         ],
         [
           {
-            "text": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba",
+            "text": "'\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0db4\u0dd4\u0dab\u0dca\u200d\u0dba\u0dcf\u0dba\u0dad\u0db1\u0dba'",
             "label": "ORG"
           },
           {
@@ -510,10 +498,6 @@
             "label": "ORG"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
           },
@@ -523,10 +507,6 @@
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dd9\u0dc6\u0dca",
             "label": "ORG"
           }
         ],
@@ -568,10 +548,6 @@
           {
             "text": "\u0da2\u0db4\u0dcf\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2\u0dba",
             "label": "ORG"
-          },
-          {
-            "text": "JICA) - \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dca",
-            "label": "PRODUCT"
           },
           {
             "text": "LRT",
@@ -642,10 +618,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "MOC",
             "label": "ORG"
           },
@@ -654,7 +626,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d86\u0dab\u0dca\u0da9\u0dd4",
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dbb\u0da2\u0dba\u0db1\u0dca",
             "label": "ORG"
           },
           {
@@ -672,6 +644,10 @@
           {
             "text": "ECT",
             "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "FAC"
           },
           {
             "text": "\u0dad\u0dd4\u0db1\u0dca",
@@ -739,6 +715,10 @@
       "body_line_ents_list": [
         [
           {
+            "text": "\u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
             "label": "PERSON"
           },
@@ -761,10 +741,6 @@
           {
             "text": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
-            "label": "DATE"
           },
           {
             "text": "260\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
@@ -839,7 +815,7 @@
         ],
         [
           {
-            "text": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "text": "'\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd'",
             "label": "ORG"
           },
           {
@@ -867,10 +843,6 @@
             "label": "ORG"
           },
           {
-            "text": "COVID-19",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bcd",
             "label": "ORG"
           },
@@ -880,10 +852,6 @@
           },
           {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0baf\u0bc1\u0ba9\u0bbf\u0b9a\u0bc6\u0b83\u0baa\u0bcd",
             "label": "ORG"
           }
         ],
@@ -925,10 +893,6 @@
           {
             "text": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "JICA)-\u0ba8\u0bbf\u0ba4\u0bbf",
-            "label": "PRODUCT"
           },
           {
             "text": "LRT",
@@ -999,10 +963,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "WORK_OF_ART"
-          },
-          {
             "text": "MOC",
             "label": "ORG"
           },
@@ -1011,7 +971,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bb3\u0bcd",
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "ORG"
           },
           {
@@ -1029,6 +989,10 @@
           {
             "text": "ECT",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "FAC"
           },
           {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",

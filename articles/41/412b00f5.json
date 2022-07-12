@@ -78,6 +78,10 @@
         ],
         [
           {
+            "text": "JVP",
+            "label": "ORG"
+          },
+          {
             "text": "the late 1980s",
             "label": "DATE"
           }
@@ -89,7 +93,7 @@
           },
           {
             "text": "Galle Face",
-            "label": "ORG"
+            "label": "FAC"
           }
         ],
         [
@@ -173,6 +177,10 @@
         ],
         [
           {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
             "text": "1980 \u0d9c\u0dab\u0db1\u0dca\u0dc0\u0dbd \u0d85\u0d9c \u0db7\u0dcf\u0d9c\u0dba",
             "label": "DATE"
           }
@@ -184,7 +192,7 @@
           },
           {
             "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb",
-            "label": "ORG"
+            "label": "FAC"
           }
         ],
         [
@@ -268,6 +276,10 @@
         ],
         [
           {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "1980\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd",
             "label": "DATE"
           }
@@ -279,7 +291,7 @@
           },
           {
             "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0bae\u0bcd",
-            "label": "ORG"
+            "label": "FAC"
           }
         ],
         [

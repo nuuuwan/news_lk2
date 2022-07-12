@@ -31,7 +31,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "43rd Brigade",
+            "text": "the 43rd Brigade",
             "label": "ORG"
           },
           {
@@ -58,7 +58,7 @@
         [
           {
             "text": "Karunaratne Paranavithana",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "Nishantha Sri Warnasinghe",
@@ -77,6 +77,10 @@
             "label": "PERSON"
           },
           {
+            "text": "JVP",
+            "label": "ORG"
+          },
+          {
             "text": "politburo",
             "label": "ORG"
           },
@@ -90,7 +94,7 @@
           },
           {
             "text": "JVP",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [],
@@ -100,8 +104,12 @@
             "label": "ORG"
           },
           {
-            "text": "Sri Lanka Muslim",
-            "label": "PERSON"
+            "text": "Sri Lanka",
+            "label": "LOC"
+          },
+          {
+            "text": "Muslim",
+            "label": "NORP"
           },
           {
             "text": "Congress",
@@ -171,7 +179,7 @@
         [
           {
             "text": "\u0d9a\u0dbb\u0dd4\u0dab\u0dcf\u0dbb\u0dad\u0dca\u0db1 \u0db4\u0dbb\u0dab\u0dc0\u0dd2\u0dad\u0dcf\u0db1",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dc0\u0dbb\u0dca\u0dab\u0dc3\u0dd2\u0d82\u0dc4",
@@ -190,6 +198,10 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
+            "label": "ORG"
+          },
+          {
             "text": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
             "label": "ORG"
           },
@@ -203,7 +215,7 @@
           },
           {
             "text": "\u0da2.\u0dc0\u0dd2.\u0db4\u0dd9",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [],
@@ -213,8 +225,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dd4\u0dc3\u0dca\u0dbd\u0dd2\u0db8\u0dca",
-            "label": "PERSON"
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dc3\u0dca\u0dbd\u0dd2\u0db8\u0dca",
+            "label": "NORP"
           },
           {
             "text": "\u0d9a\u0ddc\u0d82\u0d9c\u0dca\u0dbb\u0dc3\u0dba",
@@ -284,7 +300,7 @@
         [
           {
             "text": "\u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bb0\u0ba4\u0bcd\u0ba9 \u0baa\u0bb0\u0ba3\u0bb5\u0bbf\u0ba4\u0bbe\u0ba9",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
             "text": "\u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4 \u0bb8\u0bcd\u0bb0\u0bc0 \u0bb5\u0bb0\u0bcd\u0ba3\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
@@ -303,6 +319,10 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
             "text": "\u0baa\u0bca\u0bb2\u0bbf\u0b9f\u0bcd\u0baa\u0bc0\u0bb0\u0bcb",
             "label": "ORG"
           },
@@ -316,7 +336,7 @@
           },
           {
             "text": "\u0b9c\u0bc7.\u0bb5\u0bbf.\u0baa\u0bbf",
-            "label": "PRODUCT"
+            "label": "ORG"
           }
         ],
         [],
@@ -326,8 +346,12 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0bb8\u0bcd\u0bb2\u0bbf\u0bae\u0bcd",
-            "label": "PERSON"
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0bb8\u0bcd\u0bb2\u0bbf\u0bae\u0bcd",
+            "label": "NORP"
           },
           {
             "text": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
