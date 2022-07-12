@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 04:37:10 (LK time)*
+*As of 2022-07-13 04:46:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -22,7 +22,7 @@
 
 * **1** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (256 Articles)
 
 * **46** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -46,9 +46,9 @@
 
 * **4** b-b-c-com-sinhala ([ජනපතිකම භාර ගන්න සුදානම් :ශ්‍රී ලංකාවේ වත්මන් තත්ත්වය"ව්‍යාකූලයි, අවිනිශ්චිතයි, අරාජිකයි" සජිත් කියයි.](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c11f564.json))
 
-* **3** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
+* **4** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## Last Week (639 Articles)
+## Last Week (640 Articles)
 
 * **86** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
@@ -68,7 +68,7 @@
 
 * **43** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **34** d-b-s-jeyaraj-com ([Monetary Board Has Decided  to Increase the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank by 100 basis points to 14.50% and 15.50% respectively with immediate effect  States Central  Bank Governor Dr.Nandalal  Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a360b0e3.json))
+* **35** d-b-s-jeyaraj-com ([Monetary Board Has Decided  to Increase the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank by 100 basis points to 14.50% and 15.50% respectively with immediate effect  States Central  Bank Governor Dr.Nandalal  Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a360b0e3.json))
 
 * **28** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
@@ -76,13 +76,13 @@
 
 * **17** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (923 Articles)
+## All Time (924 Articles)
 
 * **133** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **121** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **114** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
+* **115** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
 * **106** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
