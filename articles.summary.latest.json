@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131297",
+    "time_ut": 1657601317,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 !",
+    "file_name": "/tmp/news_lk2/articles/58/58a43537.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/GR-signs-resignation-letter/342-240903",
     "time_ut": 1657600858,
@@ -1224,6 +1232,14 @@
     "file_name": "/tmp/news_lk2/articles/3e/3e436215.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-victory-of-aragalaya-what-actually-happened-to-gota-ranil/",
+    "time_ut": 1657519464,
+    "original_lang": "en",
+    "original_title": "The Victory Of Aragalaya: What Actually Happened To Gota & Ranil?",
+    "file_name": "/tmp/news_lk2/articles/5e/5eb70e0b.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0da7\u0dd2-04\u0d9a-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/11-395312",
     "time_ut": 1657519423,
@@ -1240,12 +1256,36 @@
     "file_name": "/tmp/news_lk2/articles/58/58c9ec50.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/going-going-but-not-gone-yet-why-delay-inevitability/",
+    "time_ut": 1657518205,
+    "original_lang": "en",
+    "original_title": "Going, Going, But Not Gone Yet: Why Delay Inevitability",
+    "file_name": "/tmp/news_lk2/articles/f0/f0d075bd.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83576/russian-aggression-may-have-contributed-to-sri-lanka-crisis-us-secretary-of-state",
     "time_ut": 1657518060,
     "original_lang": "en",
     "original_title": "Russian aggression may have contributed to Sri Lanka crisis - US Secretary of State",
     "file_name": "/tmp/news_lk2/articles/c3/c3640a54.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/madame-ambassador-chung-your-message-will-live-on-forever/",
+    "time_ut": 1657517685,
+    "original_lang": "en",
+    "original_title": "Madame Ambassador Chung, Your Message Will Live On Forever!",
+    "file_name": "/tmp/news_lk2/articles/2f/2f3204a7.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/legalize-euthanasia/",
+    "time_ut": 1657516818,
+    "original_lang": "en",
+    "original_title": "Legalize Euthanasia",
+    "file_name": "/tmp/news_lk2/articles/30/30c3ee97.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1832,6 +1872,14 @@
     "file_name": "/tmp/news_lk2/articles/71/71eaaaba.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/a-new-era-of-politics-begins-in-sri-lanka/",
+    "time_ut": 1657434748,
+    "original_lang": "en",
+    "original_title": "A New Era Of Politics Begins In Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b2/b266c08d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131191",
     "time_ut": 1657433848,
@@ -1846,6 +1894,30 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bae\u0bcd.\u0b9a\u0bbf.\u0b9a\u0bbf.\u0baf\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bc6\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7\u0bbe\u0bae\u0bcd :  \u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd. \u0b89\u0b9f\u0ba9\u0bbe\u0ba9 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0baf\u0bbf\u0b9f\u0bc7\u0bbe\u0bae\u0bcd - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
     "file_name": "/tmp/news_lk2/articles/7d/7dabf120.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/torching-ranils-residence-questions-surface-about-another-arabi-wasantha-incident/",
+    "time_ut": 1657429099,
+    "original_lang": "en",
+    "original_title": "Torching Ranil\u2019s Residence: Questions Surface About Another \u2018Arabi Wasantha\u2019 Incident",
+    "file_name": "/tmp/news_lk2/articles/37/37b7150e.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/dragged-into-the-darkness-by-dictatorship-democracy-is-the-only-way-out-into-the-light/",
+    "time_ut": 1657427699,
+    "original_lang": "en",
+    "original_title": "Dragged Into The Darkness By Dictatorship, Democracy Is The Only Way Out Into The Light",
+    "file_name": "/tmp/news_lk2/articles/5a/5aef27f7.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/we-are-on-course-to-a-dual-currency-regimen/",
+    "time_ut": 1657426945,
+    "original_lang": "en",
+    "original_title": "We Are On Course To A Dual Currency Regimen",
+    "file_name": "/tmp/news_lk2/articles/40/40984fa1.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
@@ -1952,6 +2024,14 @@
     "file_name": "/tmp/news_lk2/articles/24/247880e0.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/leaked-security-deployment-plans-to-obstruct-july-9-protests/",
+    "time_ut": 1657386245,
+    "original_lang": "en",
+    "original_title": "Leaked: Security Deployment Plans To Obstruct July 9 Protests",
+    "file_name": "/tmp/news_lk2/articles/15/15c7a6d7.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/PM-s-private-residence-in-flames/56-737286",
     "time_ut": 1657381956,
@@ -1974,6 +2054,14 @@
     "original_lang": "en",
     "original_title": "THE FINANCIAL CRISIS \u2013 MISMANAGEMENT, FEAR OR COLLUSION?",
     "file_name": "/tmp/news_lk2/articles/65/653f0d38.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ashok-ferrey-wins-2021-gratiaen-prize-for-creative-writing/",
+    "time_ut": 1657376100,
+    "original_lang": "en",
+    "original_title": "Ashok Ferrey wins 2021 Gratiaen Prize for creative writing",
+    "file_name": "/tmp/news_lk2/articles/fc/fc933645.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2062,6 +2150,22 @@
     "original_lang": "si",
     "original_title": "''#GOTAGOHOME ''; \u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca; \u0d85\u0db0\u0dd2\u0db4\u0dd3\u0da9\u0d9a \u0da2\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb \u0db1\u0ddc\u0dad\u0d9a\u0dcf \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7 \u0d87\u0dad\u0dd4\u0dbd\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ed/ed4b132b.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/aragala-bhumiya-sri-lankan-mythological-consciousness/",
+    "time_ut": 1657334411,
+    "original_lang": "en",
+    "original_title": "Aragala Bhumiya & Sri Lankan Mythological Consciousness",
+    "file_name": "/tmp/news_lk2/articles/01/010e7536.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/war-on-china-v-a-carnival-of-quads/",
+    "time_ut": 1657331980,
+    "original_lang": "en",
+    "original_title": "War On China? \u2013 V: A \u201cCarnival\u201d Of Quads",
+    "file_name": "/tmp/news_lk2/articles/ba/baddcf96.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
@@ -2272,6 +2376,14 @@
     "file_name": "/tmp/news_lk2/articles/e3/e3fea449.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Lionising-the-Lion-City/4-737239",
+    "time_ut": 1657305408,
+    "original_lang": "en",
+    "original_title": "Lionising the Lion City",
+    "file_name": "/tmp/news_lk2/articles/ff/ffa87461.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78493",
     "time_ut": 1657305000,
@@ -2286,6 +2398,14 @@
     "original_lang": "en",
     "original_title": "Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  \u201csenkadagala Statement\u201d at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections",
     "file_name": "/tmp/news_lk2/articles/59/590d7cc1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/D-Day-and-a-new-dawn/4-737231",
+    "time_ut": 1657304005,
+    "original_lang": "en",
+    "original_title": "D-Day and a new dawn?",
+    "file_name": "/tmp/news_lk2/articles/21/2153ff80.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2336,12 +2456,28 @@
     "file_name": "/tmp/news_lk2/articles/11/11544ebc.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/jeered-sent-home-ominous-sign-of-an-impending-peril/",
+    "time_ut": 1657246487,
+    "original_lang": "en",
+    "original_title": "Jeered & Sent Home: Ominous Sign Of An Impending Peril",
+    "file_name": "/tmp/news_lk2/articles/11/11a286ae.json"
+  },
+  {
     "newspaper_id": "b-b-c-com-sinhala",
     "url": "https://www.bbc.com/sinhala/sri-lanka-62086578",
     "time_ut": 1657245683,
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba : \u0da2\u0dd6\u0dbd\u0dd2 9 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
     "file_name": "/tmp/news_lk2/articles/e3/e3b6b591.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/when-will-sri-lankan-children-be-prioritized-in-this-crisis/",
+    "time_ut": 1657241221,
+    "original_lang": "en",
+    "original_title": "When Will Sri Lankan Children Be Prioritized In This Crisis?",
+    "file_name": "/tmp/news_lk2/articles/ae/aed7198c.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -2368,12 +2504,68 @@
     "file_name": "/tmp/news_lk2/articles/45/45ddbc16.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/A-few-ways-forward-for-failed-sir-state-system-and-society/4-737198",
+    "time_ut": 1657230028,
+    "original_lang": "en",
+    "original_title": "A few ways forward for failed  \u2018sir, state, system, and society\u2019",
+    "file_name": "/tmp/news_lk2/articles/6e/6ebcb054.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Solutions-to-the-foreign-exchange-crisis/4-737196",
+    "time_ut": 1657227746,
+    "original_lang": "en",
+    "original_title": "Solutions to the foreign exchange crisis",
+    "file_name": "/tmp/news_lk2/articles/81/81de0360.json"
+  },
+  {
     "newspaper_id": "b-b-c-com-sinhala",
     "url": "https://www.bbc.com/sinhala/sri-lanka-62079809",
     "time_ut": 1657226642,
     "original_lang": "si",
     "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
     "file_name": "/tmp/news_lk2/articles/df/df15a02a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Why-Sri-Lanka-s-economic-policy-trajectory-must-change/4-737195",
+    "time_ut": 1657226446,
+    "original_lang": "en",
+    "original_title": "Why Sri Lanka\u2019s economic policy trajectory must change",
+    "file_name": "/tmp/news_lk2/articles/77/7721ee96.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Overcoming-ideological-anarchy/4-737194",
+    "time_ut": 1657226041,
+    "original_lang": "en",
+    "original_title": "Overcoming ideological anarchy",
+    "file_name": "/tmp/news_lk2/articles/82/8286e2bf.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Failure-is-contagious-Sri-Lanka-runs-risk-of-imprinting-multiple-generations-with-failure-contagion/4-737193",
+    "time_ut": 1657225634,
+    "original_lang": "en",
+    "original_title": "Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion",
+    "file_name": "/tmp/news_lk2/articles/cb/cb0e842d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Transforming-cities-in-the-age-of-climate-change/4-737174",
+    "time_ut": 1657219746,
+    "original_lang": "en",
+    "original_title": "Transforming cities in the age of climate change",
+    "file_name": "/tmp/news_lk2/articles/e3/e3f76c29.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Pearl-in-tears-and-tatters-Fight-or-flight/4-737173",
+    "time_ut": 1657219095,
+    "original_lang": "en",
+    "original_title": "Pearl in tears and tatters: Fight or flight?",
+    "file_name": "/tmp/news_lk2/articles/d4/d4fd9048.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2486,6 +2678,22 @@
     "original_lang": "en",
     "original_title": "From carbon to climate: Sri Lanka\u2019s iconic sustainability advisory enters new phase",
     "file_name": "/tmp/news_lk2/articles/fb/fb4e1f31.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-last-laugh-on-the-last-bus/4-737147",
+    "time_ut": 1657149326,
+    "original_lang": "en",
+    "original_title": "The last laugh on the last bus",
+    "file_name": "/tmp/news_lk2/articles/64/64a32db3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-one-truly-serious-political-problem-in-Sri-Lanka/4-737146",
+    "time_ut": 1657149139,
+    "original_lang": "en",
+    "original_title": "The one truly serious political problem in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/64/6446f717.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -2673,6 +2881,38 @@
   },
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Can-Sri-Lanka-Arab-relations-resume-their-pre-Rajapaksa-normalcy/4-737108",
+    "time_ut": 1657068754,
+    "original_lang": "en",
+    "original_title": "Can Sri Lanka-Arab relations resume their pre-Rajapaksa normalcy",
+    "file_name": "/tmp/news_lk2/articles/fd/fd25f027.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-hour-of-nemesis/4-737107",
+    "time_ut": 1657068327,
+    "original_lang": "en",
+    "original_title": "The hour of nemesis",
+    "file_name": "/tmp/news_lk2/articles/d1/d1f6a6f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Memories-of-Pro-China-communist-leader-Shan/4-737106",
+    "time_ut": 1657067719,
+    "original_lang": "en",
+    "original_title": "Memories of Pro-China communist leader \u2018Shan\u2019",
+    "file_name": "/tmp/news_lk2/articles/7b/7b8ee8f8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Ranil-outlines-roadmap-to-revive-collapsed-economy/14-737105",
+    "time_ut": 1657067300,
+    "original_lang": "en",
+    "original_title": "Ranil outlines roadmap to revive collapsed economy",
+    "file_name": "/tmp/news_lk2/articles/50/5027c91e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/C-W-Mackie-Scan-Products-Division-launches-Recycle-for-Future-Generation-EPR-initiative/34-737104",
     "time_ut": 1657066999,
     "original_lang": "en",
@@ -2856,6 +3096,38 @@
     "file_name": "/tmp/news_lk2/articles/9c/9ccf3edf.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/22A-is-19A-minus-and-does-not-help-to-alleviate-the-crisis/4-737051",
+    "time_ut": 1656970928,
+    "original_lang": "en",
+    "original_title": "22A is 19A minus and does not help to alleviate the crisis",
+    "file_name": "/tmp/news_lk2/articles/35/356b2474.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Let-s-resolve-to-start-the-system-change-that-we-demand-from-within/4-737050",
+    "time_ut": 1656970744,
+    "original_lang": "en",
+    "original_title": "Let\u2019s resolve to start the system change that we demand from within",
+    "file_name": "/tmp/news_lk2/articles/54/546f99a7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/BRICS-Expanding-options-for-the-non-Western-world/4-737049",
+    "time_ut": 1656970518,
+    "original_lang": "en",
+    "original_title": "BRICS+: Expanding options for the non-Western world",
+    "file_name": "/tmp/news_lk2/articles/62/62884f26.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Moscow-will-have-to-choose-either-butter-or-guns/4-737048",
+    "time_ut": 1656970436,
+    "original_lang": "en",
+    "original_title": "Moscow will have to choose either butter or guns",
+    "file_name": "/tmp/news_lk2/articles/29/2983e9e4.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78393",
     "time_ut": 1656967920,
@@ -2992,12 +3264,28 @@
     "file_name": "/tmp/news_lk2/articles/c5/c5d1669d.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Child-s-guide-to-true-cost-of-activities-Concept-of-opportunity-cost/4-736994",
+    "time_ut": 1656875973,
+    "original_lang": "en",
+    "original_title": "Child\u2019s guide to true cost of activities: Concept of opportunity cost",
+    "file_name": "/tmp/news_lk2/articles/52/520b02f3.json"
+  },
+  {
     "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78373",
     "time_ut": 1656875160,
     "original_lang": "en",
     "original_title": "Leader of the Opposition Sajith Premadasa and Ex-President Maithripala  Sirisena Meet with several Opposition political party leaders and  civil rights activists for discussions on the theme \u201cNational Reforms and Progress\u201d and moot a collective program to get the country out of the current crisis.",
     "file_name": "/tmp/news_lk2/articles/b0/b0dc1865.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Making-the-22nd-Amendment-true-to-the-President-s-11-May-commitment/4-736979",
+    "time_ut": 1656872233,
+    "original_lang": "en",
+    "original_title": "Making the 22nd Amendment true to the President\u2019s  11 May commitment",
+    "file_name": "/tmp/news_lk2/articles/74/742cfc42.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -3110,6 +3398,14 @@
     "original_lang": "en",
     "original_title": "The government\u2019s very bleak future",
     "file_name": "/tmp/news_lk2/articles/b9/b972dc3c.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/open-letter-to-the-president-mr-president-its-not-too-late/",
+    "time_ut": 1656725852,
+    "original_lang": "en",
+    "original_title": "Open Letter To The President: Mr. President, It\u2019s Not Too Late!",
+    "file_name": "/tmp/news_lk2/articles/c3/c3e36a4d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3457,11 +3753,35 @@
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78229",
+    "time_ut": 1656269280,
+    "original_lang": "en",
+    "original_title": "Opposition parties are aiming at the next elections while the Government and the people are struggling; Even that call for an election is a hollow one, when the whole country knows that electioneering and the logistics for an election are an impossibility in the midst of the current crisis.",
+    "file_name": "/tmp/news_lk2/articles/f4/f48f0fc9.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
     "url": "https://dbsjeyaraj.com/dbsj/archives/78237",
     "time_ut": 1656268740,
     "original_lang": "en",
     "original_title": "Visiting US State Department Deputy Secretary of State for South and Central Asia Kelly Keiderling Assures  Prime Minister Ranil Wickremesinghe that the US supports the ongoing talks between the Govt of Sri Lanka and the International Monetary Fund(IMF); US agrees to provide technical assistance for fiscal management in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/e1/e19bda6c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78216",
+    "time_ut": 1656185040,
+    "original_lang": "en",
+    "original_title": "Army and  Buddhist Monks    Accused of Constructing Buddhist Structures on Kurundhu Malai Hill In Violation of Mullaitheevu Court Order; Cultural Appropriation of Ancient Saivaie Shrine by \u201cPolitical Buddhism\u201d with Connivance of Archaeology Dept?",
+    "file_name": "/tmp/news_lk2/articles/dc/dcf18951.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78222",
+    "time_ut": 1656183960,
+    "original_lang": "en",
+    "original_title": "SLPP Rakes up the Past About  Rohana  Wijeweera\u2019s \u201cExecution\u201d to Politically Embarrass JVP and Premadasa -led SJB  and Create Tensions Between Both Parties\u2019but Blowback may Affect Ranil also",
+    "file_name": "/tmp/news_lk2/articles/ae/ae175430.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3504,6 +3824,22 @@
     "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78211",
+    "time_ut": 1656099660,
+    "original_lang": "en",
+    "original_title": "The cry \u2018Gota must Go\u2019 is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.",
+    "file_name": "/tmp/news_lk2/articles/76/76a02725.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78202",
+    "time_ut": 1656097020,
+    "original_lang": "en",
+    "original_title": "The decision to allow the Sri Lankan Rupee (LKR) to be \u201cflexible\u201d from March 7, 2022 onwards was not a  \u201cunilateral\u201d decision of then   Central Bank  :Governor Ajith Nivard Cabraal.",
+    "file_name": "/tmp/news_lk2/articles/bb/bbdecf3d.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/what-should-we-normalise/",
     "time_ut": 1656076620,
@@ -3518,6 +3854,30 @@
     "original_lang": "en",
     "original_title": "OPTIONS FOR CHANGE IN THE CATACOMBS OF CATASTROPHE",
     "file_name": "/tmp/news_lk2/articles/9e/9e5bf527.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/former-president-sirisena-insinuates-athuraliye-rathana-took-money-from-royal-park-murderers-parents/",
+    "time_ut": 1656040497,
+    "original_lang": "en",
+    "original_title": "Former President Sirisena Insinuates Athuraliye Rathana Took Money From Royal Park Murderer\u2019s Parents",
+    "file_name": "/tmp/news_lk2/articles/e6/e630d545.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78193",
+    "time_ut": 1656012240,
+    "original_lang": "en",
+    "original_title": "Prime Minister Ranil Wickremesinghe Launches \u2018Land for All\u2019 program  to hand over land ownership to landless families at the Prime Minister\u2019s Office.",
+    "file_name": "/tmp/news_lk2/articles/2d/2dd0d571.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78188",
+    "time_ut": 1656011160,
+    "original_lang": "en",
+    "original_title": "New SLPP National List MP Dhammika Perera sworn in as Investment Promotion Minister by President Gotabaya Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/d8/d847e9a3.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -3544,6 +3904,14 @@
     "file_name": "/tmp/news_lk2/articles/bd/bd2485fb.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/srilankan-airlines-ul-504-the-overlooked-threat-of-the-possible-midair-collision/",
+    "time_ut": 1655542624,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines: UL 504 The \u2018Overlooked\u2019 Threat Of The Possible Midair Collision",
+    "file_name": "/tmp/news_lk2/articles/19/19a4478e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/front_page/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/238-239279",
     "time_ut": 1655485620,
@@ -3566,6 +3934,14 @@
     "original_lang": "en",
     "original_title": "Rethinking Sri Lanka\u2019s industrialisation",
     "file_name": "/tmp/news_lk2/articles/88/88632834.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/srilankan-airlines-management-confirms-no-risk-of-midair-collision/",
+    "time_ut": 1655397180,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines: Management Confirms No Risk Of Midair Collision",
+    "file_name": "/tmp/news_lk2/articles/17/17ef5d9c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3598,6 +3974,14 @@
     "original_lang": "en",
     "original_title": "WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE",
     "file_name": "/tmp/news_lk2/articles/96/96abfb62.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/new-tax-policies-must-be-complemented-with-expenditure-rationalization-to-ensure-social-protection/",
+    "time_ut": 1654403975,
+    "original_lang": "en",
+    "original_title": "New Tax Policies Must Be Complemented With Expenditure Rationalization To Ensure Social Protection",
+    "file_name": "/tmp/news_lk2/articles/b5/b52ebdc7.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -3720,6 +4104,14 @@
     "file_name": "/tmp/news_lk2/articles/ef/efa8ba19.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/gotas-goon-blasts-chief-justice-ag-refuses-to-file-contempt-charges/",
+    "time_ut": 1652839860,
+    "original_lang": "en",
+    "original_title": "Gota\u2019s Goon Blasts Chief Justice; AG Refuses To File Contempt Charges",
+    "file_name": "/tmp/news_lk2/articles/8c/8c703f2b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/342-237090",
     "time_ut": 1652707634,
@@ -3734,6 +4126,14 @@
     "original_lang": "en",
     "original_title": "More Ministers to be sworn in today",
     "file_name": "/tmp/news_lk2/articles/5a/5a88aa1d.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/hague-tribunal-mig-deal-revelations-the-main-motive-for-lasanthas-murder-ex-ip-nishantha-silva/",
+    "time_ut": 1652577504,
+    "original_lang": "en",
+    "original_title": "Hague Tribunal: \u2018MiG Deal Revelations The Main Motive For Lasantha\u2019s Murder\u2019 \u2013 Ex IP Nishantha Silva",
+    "file_name": "/tmp/news_lk2/articles/d5/d5049d84.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
