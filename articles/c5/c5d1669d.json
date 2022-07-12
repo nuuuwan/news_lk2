@@ -1,0 +1,387 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Timothy-Speldewinde-appointed-to-The-Kingsbury-Board/34-737010",
+  "time_ut": 1656879702,
+  "original_lang": "en",
+  "original_title": "Timothy Speldewinde appointed to The Kingsbury Board",
+  "text_idx": {
+    "en": {
+      "title": "Timothy Speldewinde appointed to The Kingsbury Board",
+      "author": "unknown",
+      "body_lines": [
+        "Timothy Speldewinde has been appointed as an Independent Non-Executive Director to the Board of The Kingsbury PLC.",
+        "Speldewinde is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka and also a Fellow of the Chartered Institute of Management Accountants UK.",
+        "He was the former CEO of Stretchline Holdings headquartered in Hong Kong, with manufacturing facilities in Sri Lanka and overseas. He possesses wide experience in managing local as well as international facilities and has been an integral member of the MAS Group for over 26 years.\u00a0 Speldewinde currently serves on the Board of MAS Holdings Ltd. as a Non-Executive Director, is also a Director and the Chairman of the Audit Committee of Wealth Trust Securities Ltd., and a Director of Contemporary Ceylon Ltd.",
+        "With the latest appointment, the Board of Directors of The Kingsbury comprises of Chairman Mohan Pandithage, Managing Director Rohan Karr, N.J. De S. Deva Aditya, S.C. Ganegoda, S.J. Wijesinghe, R.N. Ponnambalam, J.P.V. Twest, I. Jamaldeen, and T.A.B. Spledewinde."
+      ],
+      "title_ents": [
+        {
+          "text": "Timothy Speldewinde",
+          "label": "PERSON"
+        },
+        {
+          "text": "The Kingsbury Board",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Timothy Speldewinde",
+            "label": "PERSON"
+          },
+          {
+            "text": "Independent Non-Executive",
+            "label": "ORG"
+          },
+          {
+            "text": "the Board of The Kingsbury PLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the Institute of Chartered Accountants of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "the Chartered Institute of Management Accountants",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Stretchline Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "Hong Kong",
+            "label": "GPE"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the MAS Group",
+            "label": "ORG"
+          },
+          {
+            "text": "over 26 years",
+            "label": "DATE"
+          },
+          {
+            "text": "the Board of MAS Holdings Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "Non-Executive",
+            "label": "ORG"
+          },
+          {
+            "text": "the Audit Committee of Wealth Trust Securities Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "Contemporary Ceylon Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the Board of Directors of The Kingsbury",
+            "label": "ORG"
+          },
+          {
+            "text": "Mohan Pandithage",
+            "label": "PERSON"
+          },
+          {
+            "text": "Rohan Karr",
+            "label": "PERSON"
+          },
+          {
+            "text": "N.J. De S. Deva Aditya",
+            "label": "PERSON"
+          },
+          {
+            "text": "S.C. Ganegoda",
+            "label": "PERSON"
+          },
+          {
+            "text": "S.J. Wijesinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "R.N. Ponnambalam",
+            "label": "PERSON"
+          },
+          {
+            "text": "J.P.V. Twest",
+            "label": "PERSON"
+          },
+          {
+            "text": "I. Jamaldeen",
+            "label": "PERSON"
+          },
+          {
+            "text": "T.A.B. Spledewinde",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca\u0db6\u0dbb\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0da7 \u0dad\u0dd2\u0db8\u0ddd\u0dad\u0dd2 \u0dc3\u0dca\u0db4\u0dd9\u0dbd\u0dca\u0da9\u0dd9\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "Timothy Speldewinde The Kingsbury PLC \u0dc4\u0dd2 \u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0ddc\u0dc0\u0db1 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0d87\u0dad.",
+        "Speldewinde \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d9c\u0dab\u0d9a\u0dcf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0d86\u0dba\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba\u0dda \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0d9c\u0dab\u0d9a\u0dcf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0d86\u0dba\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd2.",
+        "\u0d94\u0dc4\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dba\u0db1\u0dca\u0dc4\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82 \u0dc4\u0dd2 \u0db8\u0dd6\u0dbd\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dc0\u0db1 Stretchline Holdings \u0dc4\u0dd2 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0dd2\u0dba. \u0d94\u0dc4\u0dd4 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0db4\u0dc5\u0db4\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc0\u0dc3\u0dbb 26 \u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca MAS \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0db4\u0dd6\u0dbb\u0dca\u0dab \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd2. Speldewinde \u0daf\u0dd0\u0db1\u0da7 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0ddc\u0dc0\u0db1 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 MAS Holdings Ltd \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb\u0dba\u0dd2, \u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd9\u0dbd\u0dca\u0dad\u0dca \u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca\u0da7\u0dca \u0dc3\u0dd2\u0d9a\u0dd2\u0dba\u0dd4\u0dbb\u0dd2\u0da7\u0dd3\u0dc3\u0dca \u0dc4\u0dd2 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4 \u0dc3\u0dc4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dc3\u0dc4 Contemporary Ceylon Ltd \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd2.",
+        "\u0db1\u0dc0\u0dad\u0db8 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0d9f The Kingsbury \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db8\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dab\u0dca\u0da9\u0dd2\u0dad\u0d9c\u0dda, \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 Rohan Karr, N.J. De S. Deva Aditya, S.C.Ganegoda, S.J. \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dd2\u0d82\u0dc4, \u0d86\u0dbb\u0dca.\u0d91\u0db1\u0dca. \u0db4\u0ddc\u0db1\u0dca\u0db1\u0db8\u0dca\u0db6\u0dbd\u0db8\u0dca, \u0da2\u0dda.\u0db4\u0dd3.\u0dc0\u0dd3. Twest, I. Jamaldeen \u0dc3\u0dc4 T.A.B. Spledewinde."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dad\u0dd2\u0db8\u0ddd\u0dad\u0dd2 \u0dc3\u0dca\u0db4\u0dd9\u0dbd\u0dca\u0da9\u0dd9\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0d9a\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca\u0db6\u0dbb\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dad\u0dd2\u0db8\u0ddd\u0dad\u0dd2 \u0dc3\u0dca\u0db4\u0dd9\u0dbd\u0dca\u0da9\u0dd9\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "The Board of The Kingsbury PLC",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d9c\u0dab\u0d9a\u0dcf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0d86\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab \u0d9c\u0dab\u0d9a\u0dcf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0dbb\u0dbd\u0dad\u0dca \u0d86\u0dba\u0dad\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Stretchline Holdings",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "MAS \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 26 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad MAS Holdings \u0dc4\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0db1\u0ddc\u0dc0\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd9\u0dbd\u0dca\u0dad\u0dca \u0da7\u0dca\u200d\u0dbb\u0dc3\u0dca\u0da7\u0dca \u0dc3\u0dd2\u0d9a\u0dd2\u0dba\u0dd4\u0dbb\u0dd2\u0da7\u0dd3\u0dc3\u0dca \u0dc4\u0dd2 \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0.",
+            "label": "ORG"
+          },
+          {
+            "text": "Contemporary Ceylon Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0d82\u0d9c\u0dca\u0dc3\u0dca\u0db6\u0dbb\u0dd2 \u0dc4\u0dd2 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0db4\u0dab\u0dca\u0da9\u0dd2\u0dad\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0ddc\u0dc4\u0dcf\u0db1\u0dca \u0d9a\u0dcf\u0dbb\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0db1\u0dca.\u0da2\u0dda.\u0daf \u0d91\u0dc3\u0dca.\u0daf\u0dda\u0dc0\u0dcf \u0d86\u0daf\u0dd2\u0dad\u0dca\u200d\u0dba",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0dc3\u0dd3 \u0d9c\u0db1\u0dda\u0d9c\u0ddc\u0da9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0da2\u0dda. \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0dca.\u0d91\u0db1\u0dca. \u0db4\u0ddc\u0db1\u0dca\u0db1\u0db8\u0dca\u0db6\u0dbd\u0db8\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dda.\u0db4\u0dd3.\u0dc0\u0dd3. Twest",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0da2\u0db8\u0dcf\u0dbd\u0dca\u0da9\u0dd3\u0db1\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da7\u0dd3.\u0d92.\u0db6\u0dd3. Spledewinde",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bbf\u0bae\u0bcb\u0ba4\u0bbf \u0bb8\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0baa\u0bb0\u0bbf \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bbf\u0bae\u0bcb\u0ba4\u0bbf \u0bb8\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 \u0ba4\u0bbf \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0baa\u0bb0\u0bbf \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bb1\u0bcd\u0bb1 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "Speldewinde \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0b95\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b9a\u0b95 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, UK \u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0bb9\u0bca\u0b99\u0bcd\u0b95\u0bca\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f Stretchline Holdings \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95 MAS \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0bb8\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 MAS \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bb1\u0bcd\u0bb1 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0b95 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb2\u0bcd\u0ba4\u0bcd \u0b9f\u0bbf\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd \u0b9a\u0bc6\u0b95\u0bcd\u0baf\u0bc2\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, The Kingsbury \u0b87\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bca\u0bb9\u0bbe\u0ba9\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0b95\u0bc7, \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bb0\u0bca\u0bb9\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bcd, N.J. De S. \u0ba4\u0bc7\u0bb5 \u0b86\u0ba4\u0bbf\u0ba4\u0bcd\u0baf\u0bbe, S.C. \u0b95\u0ba3\u0bc7\u0b95\u0bca\u0b9f, S.J. \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bbf\u0b99\u0bcd\u0b95, \u0b86\u0bb0\u0bcd.\u0b8e\u0ba9\u0bcd. \u0baa\u0bca\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd, \u0b9c\u0bc7.\u0baa\u0bbf.\u0bb5\u0bbf. \u0b9f\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd, \u0b90. \u0b9c\u0bae\u0bbe\u0bb2\u0bcd\u0ba4\u0bc0\u0ba9\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bbf.\u0b8f.\u0baa\u0bbf. \u0bb8\u0bcd\u0baa\u0bcd\u0bb3\u0bc6\u0b9f\u0bcd\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0ba4\u0bbf\u0bae\u0bcb\u0ba4\u0bbf \u0bb8\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bc6\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0baa\u0bb0\u0bbf \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba4\u0bbf\u0bae\u0bcb\u0ba4\u0bbf \u0bb8\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bc6\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0ba9 \u0b85\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0baa\u0bb0\u0bbf \u0baa\u0bbf\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bcd\u0b9f\u0baf \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc7\u0bb2\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bc6\u0b9a\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb9\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0b99\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "MAS \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "26 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "MAS \u0bb9\u0bcb\u0bb2\u0bcd\u0b9f\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bc6\u0bb2\u0bcd\u0ba4\u0bcd \u0b9f\u0bbf\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd \u0b9a\u0bc6\u0b95\u0bcd\u0baf\u0bc2\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bc0\u0bb8\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd\u0baa\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bcb\u0b95\u0ba9\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0b95\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0bcb\u0bb9\u0ba9\u0bcd \u0b95\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0ba9\u0bcd.\u0b9c\u0bc7. \u0b9f\u0bbf \u0b8e\u0bb8\u0bcd. \u0ba4\u0bc7\u0bb5 \u0b86\u0ba4\u0bbf\u0ba4\u0bcd\u0baf\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9a\u0bbf.\u0b95\u0ba3\u0bc7\u0b95\u0bca\u0b9f",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc7. \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd.\u0b8e\u0ba9\u0bcd. \u0baa\u0bca\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc7.\u0baa\u0bbf.\u0bb5\u0bbf. \u0b9f\u0bcd\u0bb5\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90.\u0b9c\u0bae\u0bbe\u0bb2\u0bcd\u0ba4\u0bc0\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bbf.\u0b8f.\u0baa\u0bbf. \u0bb8\u0bcd\u0baa\u0bcd\u0bb3\u0bc6\u0b9f\u0bcd\u0bb5\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}

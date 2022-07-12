@@ -1,0 +1,378 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd/175-300222",
+  "time_ut": 1657550327,
+  "original_lang": "ta",
+  "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Fuel ships arriving in Colombo",
+      "author": "unknown",
+      "body_lines": [
+        "Power and Energy Minister Kanchana Wijesekara said today (11) that three fuel tankers will arrive in the country this week.",
+        "Accordingly, he said that a diesel ship will arrive between tomorrow (12th) and 15th, a heavy oil ship between 14th and 16th of this month, and a lubricating oil ship between 15th and 17th of this month.",
+        "He also pointed out that complete payments were made to the Lanka IOC last Friday with the help of the Central Bank of Sri Lanka and the Ministry of Finance.",
+        "He also mentioned that the diesel batch will arrive in the country between July 15 and 17 and the petrol batch between July 22 and 24.",
+        "He also mentioned that advance payment was made last week for diesel to arrive between 15th to 17th and petrol to arrive between 17th to 19th last week and the excess amount for diesel will be paid today (11).",
+        "He mentioned that the diesel batch that was due to arrive on July 9 was delayed due to inclement weather, and that the departure of the fuel from India this morning (11) has been confirmed and will arrive at Colombo port between July 12 and 15."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Kanchana Wijesekara",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "this week",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "between tomorrow (12th",
+            "label": "DATE"
+          },
+          {
+            "text": "15th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "between 14th and 16th of this month",
+            "label": "DATE"
+          },
+          {
+            "text": "between 15th and 17th of this month",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "last Friday",
+            "label": "DATE"
+          },
+          {
+            "text": "the Central Bank of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "the Ministry of Finance",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "between July 15 and 17",
+            "label": "DATE"
+          },
+          {
+            "text": "24",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "last week",
+            "label": "DATE"
+          },
+          {
+            "text": "between 15th to 17th",
+            "label": "DATE"
+          },
+          {
+            "text": "between 17th to 19th last week",
+            "label": "DATE"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "July 9",
+            "label": "DATE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "this morning",
+            "label": "TIME"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "between July 12 and 15",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd0\u0dc0\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d91\u0db1\u0dc0\u0dcf",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db8\u0dda \u0dc3\u0dad\u0dd2\u0dba \u0dad\u0dd4\u0dc5 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0dd0\u0d82\u0d9a\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0db6\u0dc0 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0dc4\u0dcf \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb \u0db8\u0dc4\u0dad\u0dcf \u0d85\u0daf (11) \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0dc4\u0dd9\u0da7 (12 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf) \u0dc3\u0dd2\u0da7 15 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0daf, \u0db8\u0dda \u0db8\u0dc3 14 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 16 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db6\u0dbb \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0daf, \u0db8\u0dda \u0db8\u0dc3 15 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0dc3\u0dd2\u0da7 17 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbd\u0dd2\u0dc4\u0dd2\u0dc3\u0dd2 \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0daf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0db6\u0dc0 \u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0dc3\u0dc4 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0d87\u0dad\u0dd2\u0dc0 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf \u0dbd\u0d82\u0d9a\u0dcf IOC \u0dc0\u0dd9\u0dad \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9c\u0dd9\u0dc0\u0dd3\u0db8\u0dca \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0db6\u0dc0\u0daf \u0d94\u0dc4\u0dd4 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0dba.",
+        "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0da2\u0dd4\u0dbd\u0dd2 15 \u0dc3\u0dc4 17 \u0d85\u0dad\u0dbb \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0da2\u0dd6\u0dbd\u0dd2 22 \u0dc3\u0dc4 24 \u0d85\u0dad\u0dbb \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0db6\u0dc0\u0daf \u0d94\u0dc4\u0dd4 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "15 \u0dc3\u0dd2\u0da7 17 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda 17 \u0dc3\u0dd2\u0da7 19 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0db8\u0dca \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0db6\u0dc0\u0dad\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dad\u0dd2\u0dbb\u0dd2\u0d9a\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd \u0d85\u0daf (11) \u0d9c\u0dd9\u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0d94\u0dc4\u0dd4 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0da2\u0dd4\u0dbd\u0dd2 9 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf \u0dc0\u0dd6 \u0db6\u0dc0\u0dad\u0dca, \u0d85\u0daf (11) \u0d8b\u0daf\u0dd1\u0dc3\u0db1 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0da7\u0dc0\u0dd3\u0db8 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0da2\u0dd6\u0dbd\u0dd2 12 \u0dc3\u0dc4 15 \u0d85\u0dad\u0dbb \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0d94\u0dc4\u0dd4 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dc5\u0dda\u0dba. ."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0dcf\u0d82\u0da0\u0db1 \u0dc0\u0dd2\u0da2\u0dda\u0dc3\u0dda\u0d9a\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0db8 \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc4\u0dd9\u0da7 (12\u0daf\u0dcf) \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "15 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd9\u0db8 \u0db8\u0dc3 14 \u0dc3\u0dc4 16 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dda \u0db8\u0dc3 15 \u0dc3\u0dc4 17 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15 \u0dc3\u0dc4 17 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "24",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "15 \u0dc3\u0dd2\u0da7 17 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba\u0dda 17 \u0dc3\u0dd2\u0da7 19 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 9",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 12 \u0dc3\u0dc4 15 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0, \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (11) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bae\u0bc8\u0baf,\u00a0 \u0ba8\u0bbe\u0bb3\u0bc8 (12) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0bae\u0bcd, \u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba4\u0bae\u0bcd 14\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 16\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0ba9\u0bb0\u0b95 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0bae\u0bcd, \u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba4\u0bae\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 17\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf.\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bae\u0bc8\u0baf, \u0b9c\u0bc2\u0bb2\u0bc8 15 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 17 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b9c\u0bc2\u0bb2\u0bc8 22 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 24 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd, 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 17\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9f\u0bc0\u0b9a\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 17\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 19\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0ba4\u0bb0\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bbf\u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bca\u0b95\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (11) \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0b9c\u0bc2\u0bb2\u0bc8 9 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0ba4\u0bb0 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf \u0b9a\u0bc0\u0bb0\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f \u0b85\u0bb5\u0bb0\u0bcd, \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (11) \u0b95\u0bbe\u0bb2\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd\u00a0 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9c\u0bc2\u0bb2\u0bc8 12 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 15\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9\u0bbe \u0bb5\u0bbf\u0b9c\u0bc7\u0b9a\u0bc7\u0b95\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8 (12\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf) \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
+            "label": "DATE"
+          },
+          {
+            "text": "15\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 14 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 16 \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bae\u0bcd\u0bae\u0bbe\u0ba4\u0bae\u0bcd 15 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 17\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 17 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "24",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "15 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 17 \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd 17 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 19 \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 9",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "11",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 12 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 15 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-33\u0d9a\u0da7-\u0d85\u0db0\u0dd2\u0d9a-\u0d9a\u0dda\u0dbb\u0dc5-\u0d9c\u0d82\u0da2\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395318",
+  "time_ut": 1657525709,
+  "original_lang": "si",
+  "original_title": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Over 33 million Keralas smoke cannabis",
+      "author": "unknown",
+      "body_lines": [
+        "The Navy says that 113 kilos and 280 grams of Kerala cannabis, worth over 33 million rupees, were found yesterday (10th) while they were piled up in the Urumalai seashore area of \u200b\u200bWelipara area of \u200b\u200bMannar.",
+        "When a group of officers of the North Central Naval Command conducted a search patrol in Mannar Welipara Urumalai beach area, first 105 kg of Kerala ganja belonging to 24 bags and then another 8 kg of 280 grams were found piled up on the beach.",
+        "The navy also suspects that the Kerala ganja stock may have been brought to Mannar by sea from India and the smugglers saw the navy and fled to the sea.",
+        "The navy also said that steps have been taken to hand over the seized stock of Kerala ganja to the police for further investigation."
+      ],
+      "title_ents": [
+        {
+          "text": "33 million",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Keralas",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "113 kilos",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "280 grams",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          },
+          {
+            "text": "33 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "10th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "Urumalai",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "the North Central Naval Command",
+            "label": "ORG"
+          },
+          {
+            "text": "Mannar Welipara Urumalai",
+            "label": "PERSON"
+          },
+          {
+            "text": "105 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          },
+          {
+            "text": "24",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "280 grams",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Kerala",
+            "label": "PERSON"
+          },
+          {
+            "text": "Mannar",
+            "label": "GPE"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Kerala",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0d9a\u0dda\u0dbb\u0dc5 \u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd 113 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 280 \u0d9a\u0dca \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d8c\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dc0\u0dd9\u0dbb\u0dbd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d9c\u0ddc\u0da9\u0d9c\u0dc3\u0dcf \u0dad\u0dd2\u0db6\u0dd2\u0dba\u0daf\u0dd3 \u0d8a\u0dba\u0dda\u00a0 (10\u0daf\u0dcf)\u00a0 \u0dc3\u0ddc\u0dba\u0dcf\u0d9c\u0dad\u0dca \u0db6\u0dc0\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4\u0db8\u0dd0\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dbb \u0d8c\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dc0\u0dd9\u0dbb\u0dbd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dc3\u0ddd\u0daf\u0dd2\u0dc3\u0dd2 \u0db8\u0dd4\u0dbb \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a \u0db1\u0dd2\u0dbb\u0dad \u0dc0\u0dd6 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db4\u0dc5\u0db8\u0dd4\u0dc0 \u0d8b\u0dbb 24 \u0d9a\u0da7 \u0d85\u0dba\u0dad\u0dca \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0d9a\u0dd2\u0dbd\u0ddd 105 \u0d9a\u0dca\u0daf\u00a0 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbd\u0ddd 8 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 280 \u0d9a \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dc0\u0dd9\u0dbb\u0dbd\u0dda \u0d9c\u0ddc\u0da9\u0d9c\u0dc3\u0dcf \u0dad\u0dd2\u0db6\u0dd2\u0dba\u0daf\u0dd3 \u0dc3\u0ddc\u0dba\u0dcf\u0d9c\u0db1\u0dd4 \u0dbd\u0dd0\u0db6\u0dd3\u0dba.",
+        "\u0db8\u0dd9\u0db8 \u0d9a\u0dda\u0dbb\u0dbd\u0d9c\u0d82\u0da2\u0dcf \u0dad\u0ddc\u0d9c\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7 \u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1\u0dc0\u0dd2\u0dad\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0daf\u0dd0\u0d9a \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca \u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0db8\u0dd9\u0dbd\u0dd9\u0dc3 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0da7 \u0db4\u0dbd\u0dcf \u0dba\u0db1\u0dca\u0db1\u0da7 \u0d87\u0dad\u0dd0\u0dba\u0dd2\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc3\u0dd0\u0d9a\u0db4\u0dbd \u0d9a\u0ddc\u0da7 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2.",
+        "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0d9a\u0dda\u0dbb\u0dbd \u0d9c\u0d82\u0da2\u0dcf \u0dad\u0ddc\u0d9c\u0dba \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dab\u00a0\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0db7\u0dcf\u0dbb\u0daf\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dba\u0dc0\u0dbb \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd0\u0dba\u0dd2\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0d9a\u0dda\u0dbb\u0dc5\u0dba\u0db1\u0dca",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd 113",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 280 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "10 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d8c\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dcf\u0dbb \u0d8b\u0dbb\u0dd4\u0db8\u0dbd\u0dd9\u0dba\u0dd2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 105 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          },
+          {
+            "text": "24",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 8 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 280 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dda\u0dbb\u0dbd",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b95\u0bc7\u0bb0\u0bb3 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0baa\u0bc1\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd, \u0bb5\u0bc6\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bc8, \u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 113 \u0b95\u0bbf\u0bb2\u0bcb 280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (10\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bc6\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bc8 \u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bcb\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd 24 \u0bae\u0bc2\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f 105 \u0b95\u0bbf\u0bb2\u0bcb \u0b95\u0bc7\u0bb0\u0bb3\u0bbe \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd 8 \u0b95\u0bbf\u0bb2\u0bcb 280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba9.",
+        "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc7\u0bb0\u0bb3 \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc8 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "113 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "33 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "10\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bc8 \u0b89\u0bb0\u0bc1\u0bae\u0bb2\u0bc8",
+            "label": "PERSON"
+          },
+          {
+            "text": "105 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "24",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "8 \u0b95\u0bbf\u0bb2\u0bcb",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "280 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0bb0\u0bb3\u0bbe",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
