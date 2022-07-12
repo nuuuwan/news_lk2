@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 03:07:41 (LK time)*
+*As of 2022-07-13 03:16:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
-
-* **3** daily-ft-lk ([The inconvenient truth](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7ebad21.json))
-
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (19 Articles)
 
 * **12** daily-ft-lk ([Public Commission for Good Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf86c93.json))
 
@@ -16,7 +12,7 @@
 
 * **3** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
 
-* **2** tamil-mirror-lk ([நடுக்கடலில் தத்தளித்த 55 பேர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46239766.json))
+* **1** tamil-mirror-lk ([’லங்கா ப்ரீமியர் லீக்’ ஆரம்பமாகும் திகதி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/192a4993.json))
 
 ## Last 24 Hours (245 Articles)
 
