@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLNSS-members-of-SriLankan-Airlines-also-to-withdraw-from-service-from-noon/108-240914",
+    "time_ut": 1657612385,
+    "original_lang": "en",
+    "original_title": "SLNSS members of SriLankan Airlines also to withdraw from service from noon",
+    "file_name": "/tmp/news_lk2/articles/3a/3a5b2f68.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Items-and-equipment-at-Temple-Trees-stolen-Complaints-lodged-with-Police/108-240913",
+    "time_ut": 1657612199,
+    "original_lang": "en",
+    "original_title": "Items and equipment at Temple Trees stolen; Complaints lodged with Police",
+    "file_name": "/tmp/news_lk2/articles/cf/cf2d3ab9.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Immigration-officials-at-MRIA-withdraw-from-service-to-prevent-ex-political-VIPs-leaving-country/108-240912",
+    "time_ut": 1657611906,
+    "original_lang": "en",
+    "original_title": "Immigration officials at MRIA withdraw from service to prevent ex-political VIPs leaving country",
+    "file_name": "/tmp/news_lk2/articles/3f/3faa4c4d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0dbb\u0dc5\u0db6\u0da9-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db6\u0dbd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca/101-616294",
     "time_ut": 1657611900,
@@ -601,11 +625,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-beat-Australia-by-an-innings-in-second-Test-to-draw-series/342-240898",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Australia-by-an-innings-in-second-Test-to-draw-series/108-240898",
     "time_ut": 1657585975,
     "original_lang": "en",
     "original_title": "Sri Lanka beat Australia by an innings in second Test to draw series",
-    "file_name": "/tmp/news_lk2/articles/93/937019a7.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9f4cf767.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1273,11 +1297,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Suwa-Seriya-suspended-in-14-districts/342-240852",
+    "url": "https://www.dailymirror.lk/breaking_news/Suwa-Seriya-suspended-in-14-districts/108-240852",
     "time_ut": 1657537534,
     "original_lang": "en",
     "original_title": "Suwa Seriya suspended in 14 districts",
-    "file_name": "/tmp/news_lk2/articles/6b/6bb5df32.json"
+    "file_name": "/tmp/news_lk2/articles/df/df3201ec.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1337,11 +1361,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Next-Govt-should-implement-nothing-but-what-Aragalaya-campaigned-for-Kumar-Gunaratnam/342-240851",
+    "url": "https://www.dailymirror.lk/breaking_news/Next-Govt-should-implement-nothing-but-what-Aragalaya-campaigned-for-Kumar-Gunaratnam/108-240851",
     "time_ut": 1657536484,
     "original_lang": "en",
     "original_title": "Next Govt. should implement nothing but what Aragalaya campaigned for: Kumar Gunaratnam",
-    "file_name": "/tmp/news_lk2/articles/fb/fb4cbaa3.json"
+    "file_name": "/tmp/news_lk2/articles/41/41bf1d4b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1793,11 +1817,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Cabinet-decides-to-resign-only-after-agreement-on-All-Party-Govt/342-240841",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-decides-to-resign-only-after-agreement-on-All-Party-Govt/108-240841",
     "time_ut": 1657524596,
     "original_lang": "en",
     "original_title": "Cabinet decides to resign only after agreement on All Party Govt.",
-    "file_name": "/tmp/news_lk2/articles/2c/2c18f097.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0eebeab.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -4065,11 +4089,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Its-time-to-reconcile-energy-policy-with-long-term-generation-plan/231-240247",
+    "url": "https://www.dailymirror.lk/opinion/Its-time-to-reconcile-energy-policy-with-long-term-generation-plan/172-240247",
     "time_ut": 1656856358,
     "original_lang": "en",
     "original_title": "It\u2019s time to reconcile energy policy with long term generation plan",
-    "file_name": "/tmp/news_lk2/articles/e8/e89bee22.json"
+    "file_name": "/tmp/news_lk2/articles/57/573dbca3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -4353,11 +4377,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Japan-will-not-help-SL-now/155-240126",
+    "url": "https://www.dailymirror.lk/breaking_news/Japan-will-not-help-SL-now/108-240126",
     "time_ut": 1656643666,
     "original_lang": "en",
     "original_title": "Japan will not help SL now",
-    "file_name": "/tmp/news_lk2/articles/44/446d6352.json"
+    "file_name": "/tmp/news_lk2/articles/0b/0b3fd1a9.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5089,11 +5113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/238-239279",
+    "url": "https://www.dailymirror.lk/main_image/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/346-239279",
     "time_ut": 1655485620,
     "original_lang": "en",
     "original_title": "Food crisis likely to affect around four to five million people - PM",
-    "file_name": "/tmp/news_lk2/articles/58/580fe720.json"
+    "file_name": "/tmp/news_lk2/articles/ba/ba1f9e39.json"
   },
   {
     "newspaper_id": "island-lk",
