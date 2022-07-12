@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Air-tickets-for-workers-flying-to-Japan/342-240929",
+    "time_ut": 1657640347,
+    "original_lang": "en",
+    "original_title": "Air tickets for workers flying to Japan",
+    "file_name": "/tmp/news_lk2/articles/56/56a443d0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Basil-paid-Rs-5-3mn-in-cash-to-leave-for-Washington/342-240928",
+    "time_ut": 1657639880,
+    "original_lang": "en",
+    "original_title": "Basil paid Rs. 5.3mn in cash to leave for Washington",
+    "file_name": "/tmp/news_lk2/articles/a4/a4460466.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dd6-\u0dc0\u0dd3\u0dc3\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4-\u0dc0\u0dda/101-616318",
+    "time_ut": 1657639784,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd6 \u0dc0\u0dd3\u0dc3\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/81/8109fbfc.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Immigration-officials-have-no-legal-power-to-prevent-President-SLIEOA/342-240927",
     "time_ut": 1657639587,
     "original_lang": "en",

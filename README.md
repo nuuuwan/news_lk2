@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-12 21:01:26 (LK time)*
+*As of 2022-07-12 21:13:37 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **1** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3f7891b.json))
+* **3** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3f7891b.json))
+
+* **1** lankadeepa-lk ([ජනපති ඇමෙරිකාවෙන් ඉල්ලූ වීසා ප්‍රතික්ෂේප වේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/8109fbfc.json))
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி சென்றால் பிரதமரே அடுத்த ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e969132.json))
 
-* **1** economy-next-com ([Sri Lanka bakery owners raise bread, other baked good prices](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9613cdd.json))
+## Last Hour (9 Articles)
 
-* **1** ada-lk ([ජනපති ඉල්ලා අස්වීමේ ලිපියට අත්සන් තබයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8952815.json))
+* **3** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3f7891b.json))
 
-## Last Hour (7 Articles)
-
-* **2** daily-mirror-lk ([Hand over President’s House, Secretariat & Temple Trees to authorities - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5a32a25.json))
+* **2** lankadeepa-lk ([ජනපති ගියොත් ඊළඟ ජනපති වත්මන් අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bc2f89d.json))
 
 * **2** tamil-mirror-lk ([கையெழுத்திட்டார் கோட்டா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7261ec23.json))
 
@@ -24,15 +24,13 @@
 
 * **1** ada-lk ([ජනපති ඉල්ලා අස්වීමේ ලිපියට අත්සන් තබයි?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8952815.json))
 
-* **1** lankadeepa-lk ([ජනපති ගියොත් ඊළඟ ජනපති වත්මන් අගමැති](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bc2f89d.json))
-
 ## Last 3 Hours (26 Articles)
 
-* **9** tamil-mirror-lk ([கோட்டாவின் கோரிக்கை: நிராகரித்தது அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bb4de2d.json))
+* **7** tamil-mirror-lk ([Gas வரிசையில் பறிபோன உயிர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ed0650b.json))
 
-* **4** daily-mirror-lk ([Soldiers moved in to protect Rupavahanini, ITN](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e16a6108.json))
+* **5** daily-mirror-lk ([U.S. ‘rejects’ GR’s visa request after recent ousting by mass protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6df54854.json))
 
-* **4** lankadeepa-lk ([ලංකාවේ ආහාර සුරක්ෂිතතාවට ඉන්දියාව අතදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1ca11fc.json))
+* **5** lankadeepa-lk ([ලංකාවේ ආහාර සුරක්ෂිතතාවට ඉන්දියාව අතදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1ca11fc.json))
 
 * **3** ada-derana-lk ([Motor Traffic Dept. to remain closed on Fridays](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ec50ed.json))
 
@@ -44,13 +42,13 @@
 
 * **1** news-first-lk ([LPL 2022 schedule announced; 24 matches in total](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79adbe1e.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (228 Articles)
 
-* **38** lankadeepa-lk ([හොර පාරෙන් පාස්පෝට් හදා දෙන්න අල්ලස් ගත් තුනක් මාට්ටු කර දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ca31bd9.json))
+* **38** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
 * **36** virakesari-lk ([நாட்டில் கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/142c2134.json))
 
-* **29** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
+* **31** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
 
 * **25** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
@@ -70,13 +68,13 @@
 
 * **2** colombo-telegraph-com ([An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4367107c.json))
 
-## Last Week (584 Articles)
+## Last Week (587 Articles)
+
+* **73** lankadeepa-lk ([තත්ත්වය බරපතළයි  වහා ප්‍රතිකාර ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2476ef23.json))
 
 * **73** daily-ft-lk ([Two CEB engineers suspended for illegal power outages last month: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fa23400.json))
 
-* **72** lankadeepa-lk ([තත්ත්වය බරපතළයි  වහා ප්‍රතිකාර ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2476ef23.json))
-
-* **68** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759e9102.json))
+* **70** daily-mirror-lk ([When your electoral wishes come true….](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759e9102.json))
 
 * **52** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
@@ -98,11 +96,11 @@
 
 * **15** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (861 Articles)
+## All Time (864 Articles)
 
-* **129** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **130** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **112** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **114** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **111** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
