@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 04:18:44 (LK time)*
+*As of 2022-07-13 04:25:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
-* **10** daily-ft-lk ([Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235ea505.json))
+* **9** daily-ft-lk ([Clogard introduces Clogard Pancha Shakthi; all-new multi-beneficial toothpaste](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f634ecac.json))
 
 * **3** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
