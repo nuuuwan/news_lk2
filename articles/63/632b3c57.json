@@ -11,9 +11,13 @@
       "body_lines": [
         "The Ministry of Agriculture states that the distribution of urea fertilizer will start from tomorrow (12th).",
         "The ministry says that the unloading of fertilizer from the port of Colombo will be done round the clock and the unloading will be completed within 10 days.",
-        "The Ministry of Agriculture mentions that the Ceylon Commercial Fertilizer Company has used a formal program to distribute the fertilizer throughout the island and whether the fertilizer distribution to the farmers will be done in a formal manner will be done under the full supervision of the Minister of Agriculture, Mr. Mahinda Amaraweera."
+        "The Ministry of Agriculture mentions that the Ceylon Commercial Fertilizer Company has used a formal program to distribute the fertilizer throughout the island and whether the fertilizer distribution to the farmers will be done in a formal manner will be done under the full supervision of the Minister of Agriculture Mahinda Amaraweera."
       ],
       "title_ents": [
+        {
+          "text": "Urea",
+          "label": "ORG"
+        },
         {
           "text": "tomorrow",
           "label": "DATE"
@@ -24,13 +28,13 @@
           {
             "text": "The Ministry of Agriculture",
             "label": "ORG"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
           }
         ],
         [
-          {
-            "text": "Colombo",
-            "label": "PERSON"
-          },
           {
             "text": "10 days",
             "label": "DATE"
@@ -40,10 +44,6 @@
           {
             "text": "The Ministry of Agriculture",
             "label": "ORG"
-          },
-          {
-            "text": "Mahinda Amaraweera",
-            "label": "PERSON"
           }
         ]
       ]
@@ -58,6 +58,10 @@
       ],
       "title_ents": [
         {
+          "text": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf",
+          "label": "ORG"
+        },
+        {
           "text": "\u0dc4\u0dd9\u0da7",
           "label": "DATE"
         }
@@ -67,13 +71,13 @@
           {
             "text": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "PERSON"
-          },
           {
             "text": "\u0daf\u0dd2\u0db1 10 \u0dba\u0dd2",
             "label": "DATE"
@@ -83,10 +87,6 @@
           {
             "text": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0d85\u0db8\u0dbb\u0dc0\u0dd3\u0dbb",
-            "label": "PERSON"
           }
         ]
       ]
@@ -97,9 +97,13 @@
       "body_lines": [
         "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 (12\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
         "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0bb0\u0bae\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf 24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, 10 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
-        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b89\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0bb0 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bb0\u0ba3 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bc6\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. , \u0ba4\u0bbf\u0bb0\u0bc1.\u0bae\u0b95\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0."
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b89\u0bb0 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b89\u0bb0 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bb0\u0ba3 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bc6\u0ba9\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0."
       ],
       "title_ents": [
+        {
+          "text": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe",
+          "label": "ORG"
+        },
         {
           "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
           "label": "DATE"
@@ -110,13 +114,13 @@
           {
             "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
           }
         ],
         [
-          {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "PERSON"
-          },
           {
             "text": "10 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
@@ -126,10 +130,6 @@
           {
             "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
             "label": "ORG"
-          },
-          {
-            "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
-            "label": "PERSON"
           }
         ]
       ]

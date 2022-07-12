@@ -29,10 +29,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka\u2019s",
-            "label": "GPE"
-          },
-          {
             "text": "eight",
             "label": "CARDINAL"
           },
@@ -55,28 +51,12 @@
           {
             "text": "Ranil Wickremesinghe",
             "label": "PERSON"
-          },
-          {
-            "text": "transport &",
-            "label": "ORG"
-          },
-          {
-            "text": "power & energy",
-            "label": "ORG"
-          },
-          {
-            "text": "commerce &",
-            "label": "ORG"
           }
         ],
         [
           {
-            "text": "Trade, Commerce & Food",
+            "text": "Commerce & Food",
             "label": "ORG"
-          },
-          {
-            "text": "Nalin Fernando",
-            "label": "PERSON"
           },
           {
             "text": "Gunawardena",
@@ -109,7 +89,7 @@
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -121,12 +101,8 @@
             "label": "DATE"
           },
           {
-            "text": "Colombo",
-            "label": "PERSON"
-          },
-          {
-            "text": "12.8 percent",
-            "label": "PERCENT"
+            "text": "Colombo 12.8 percent",
+            "label": "FAC"
           },
           {
             "text": "the month",
@@ -173,6 +149,10 @@
           {
             "text": "Gotabaya Rajapaksa",
             "label": "PERSON"
+          },
+          {
+            "text": "Colombo/Jul05/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -201,10 +181,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
-            "label": "GPE"
-          },
-          {
             "text": "\u0d85\u0da7",
             "label": "CARDINAL"
           },
@@ -227,28 +203,12 @@
           {
             "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba \u0dc3\u0dc4",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0db6\u0dbd\u0dba \u0dc3\u0dc4 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0dc4\u0dcf",
-            "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0dc0\u0dd9\u0dc5\u0db3, \u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb",
+            "text": "\u0dc0\u0dcf\u0dab\u0dd2\u0da2 \u0dc3\u0dc4 \u0d86\u0dc4\u0dcf\u0dbb",
             "label": "ORG"
-          },
-          {
-            "text": "\u0db1\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4",
-            "label": "PERSON"
           },
           {
             "text": "\u0d9c\u0dd4\u0dab\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dba",
@@ -281,7 +241,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -293,12 +253,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 12.8 \u0d9a\u0dd2",
-            "label": "PERCENT"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dd2\u0dba\u0dba\u0da7 12.8\u0dba\u0dd2",
+            "label": "FAC"
           },
           {
             "text": "\u0db8\u0dcf\u0dc3\u0dba",
@@ -345,6 +301,10 @@
           {
             "text": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 05/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -373,10 +333,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b8e\u0b9f\u0bcd\u0b9f\u0bc1",
             "label": "CARDINAL"
           },
@@ -399,28 +355,12 @@
           {
             "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
             "label": "PERSON"
-          },
-          {
-            "text": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd &",
-            "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd, \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd & \u0b89\u0ba3\u0bb5\u0bc1",
+            "text": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd & \u0b89\u0ba3\u0bb5\u0bc1",
             "label": "ORG"
-          },
-          {
-            "text": "\u0ba8\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
-            "label": "PERSON"
           },
           {
             "text": "\u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
@@ -453,7 +393,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -465,12 +405,8 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "PERSON"
-          },
-          {
-            "text": "12.8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
-            "label": "PERCENT"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 12.8 \u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "FAC"
           },
           {
             "text": "\u0bae\u0bbe\u0ba4\u0bae\u0bcd",
@@ -517,6 +453,10 @@
           {
             "text": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc805/2022",
+            "label": "ORG"
           }
         ]
       ]

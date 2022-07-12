@@ -34,16 +34,12 @@
           "label": "DATE"
         },
         {
-          "text": "PM",
-          "label": "TIME"
+          "text": "7",
+          "label": "CARDINAL"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          },
           {
             "text": "the International Monetary Fund",
             "label": "ORG"
@@ -57,15 +53,20 @@
             "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "Wickremesinghe",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "Lazard",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "Clifford Chance",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "August",
@@ -84,7 +85,7 @@
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -119,6 +120,10 @@
             "label": "PERCENT"
           },
           {
+            "text": "IMF",
+            "label": "ORG"
+          },
+          {
             "text": "this year",
             "label": "DATE"
           }
@@ -141,7 +146,7 @@
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -177,7 +182,7 @@
         ],
         [
           {
-            "text": "4 to 5 years",
+            "text": "over 4 to 5 years",
             "label": "DATE"
           }
         ],
@@ -192,7 +197,7 @@
           },
           {
             "text": "2023",
-            "label": "CARDINAL"
+            "label": "DATE"
           }
         ],
         [
@@ -203,6 +208,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "Colombo/July05/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -236,16 +245,12 @@
           "label": "DATE"
         },
         {
-          "text": "PM",
-          "label": "TIME"
+          "text": "7",
+          "label": "CARDINAL"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          },
           {
             "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db8\u0dd4\u0dbd\u0dca\u200d\u0dba \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd",
             "label": "ORG"
@@ -259,15 +264,20 @@
             "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "Lazard",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0d9a\u0dca\u0dbd\u0dd2\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0db1\u0dca\u0dc3\u0dca",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4",
@@ -286,7 +296,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -321,6 +331,10 @@
             "label": "PERCENT"
           },
           {
+            "text": "IMF",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
             "label": "DATE"
           }
@@ -343,7 +357,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -394,7 +408,7 @@
           },
           {
             "text": "2023",
-            "label": "CARDINAL"
+            "label": "DATE"
           }
         ],
         [
@@ -405,6 +419,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd205/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -438,16 +456,12 @@
           "label": "DATE"
         },
         {
-          "text": "\u0bae\u0bbe\u0bb2\u0bc8",
-          "label": "TIME"
+          "text": "7",
+          "label": "CARDINAL"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
           {
             "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
             "label": "ORG"
@@ -461,15 +475,20 @@
             "label": "PERSON"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
         [
           {
             "text": "\u0bb2\u0b9a\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0bbf\u0bb3\u0bbf\u0b83\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
           },
           {
             "text": "\u0b86\u0b95\u0bb8\u0bcd\u0b9f\u0bcd",
@@ -488,7 +507,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -523,6 +542,10 @@
             "label": "PERCENT"
           },
           {
+            "text": "IMF",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
             "label": "DATE"
           }
@@ -545,7 +568,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -581,7 +604,7 @@
         ],
         [
           {
-            "text": "4 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "text": "4 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 5 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
             "label": "DATE"
           }
         ],
@@ -596,7 +619,7 @@
           },
           {
             "text": "2023",
-            "label": "CARDINAL"
+            "label": "DATE"
           }
         ],
         [
@@ -607,6 +630,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc805/2022",
+            "label": "ORG"
           }
         ]
       ]

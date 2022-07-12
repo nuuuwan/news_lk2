@@ -35,7 +35,7 @@
         [
           {
             "text": "Motherland",
-            "label": "ORG"
+            "label": "LOC"
           }
         ]
       ]
@@ -70,7 +70,7 @@
         [
           {
             "text": "\u0db8\u0dc0\u0dca\u0db6\u0dd2\u0db8",
-            "label": "ORG"
+            "label": "LOC"
           }
         ]
       ]
@@ -105,7 +105,7 @@
         [
           {
             "text": "\u0ba4\u0bbe\u0baf\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1",
-            "label": "ORG"
+            "label": "LOC"
           }
         ]
       ]

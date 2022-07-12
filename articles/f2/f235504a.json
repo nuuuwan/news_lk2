@@ -50,10 +50,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka\u2019s",
-            "label": "GPE"
-          },
-          {
             "text": "27 percent",
             "label": "PERCENT"
           },
@@ -72,12 +68,16 @@
           {
             "text": "one",
             "label": "CARDINAL"
+          },
+          {
+            "text": "gallop",
+            "label": "ORG"
           }
         ],
         [
           {
-            "text": "Sri Lanka",
-            "label": "GPE"
+            "text": "April Sri Lanka\u2019s",
+            "label": "DATE"
           },
           {
             "text": "12-month",
@@ -107,7 +107,7 @@
           },
           {
             "text": "149.2 billion",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
             "text": "the first four months",
@@ -120,16 +120,12 @@
             "label": "PERCENT"
           },
           {
-            "text": "85.3 billion",
-            "label": "CARDINAL"
+            "text": "Rs 85.3 billion",
+            "label": "MONEY"
           },
           {
             "text": "the first four months of 2022",
             "label": "DATE"
-          },
-          {
-            "text": "Rs62.4 billion",
-            "label": "CARDINAL"
           },
           {
             "text": "14.6 percent",
@@ -138,16 +134,12 @@
         ],
         [
           {
-            "text": "PAL",
-            "label": "ORG"
-          },
-          {
             "text": "1.4 percent",
             "label": "PERCENT"
           },
           {
-            "text": "203.6 billion",
-            "label": "CARDINAL"
+            "text": "Rs 203.6 billion",
+            "label": "MONEY"
           },
           {
             "text": "the first four months of 2022",
@@ -158,7 +150,7 @@
             "label": "MONEY"
           },
           {
-            "text": "the same period",
+            "text": "the same period of",
             "label": "DATE"
           },
           {
@@ -172,20 +164,16 @@
             "label": "ORG"
           },
           {
-            "text": "CID",
-            "label": "ORG"
-          },
-          {
             "text": "44.7 percent",
             "label": "PERCENT"
           },
           {
-            "text": "Rs",
-            "label": "ORG"
-          },
-          {
             "text": "17.5 billion",
             "label": "CARDINAL"
+          },
+          {
+            "text": "Levy",
+            "label": "PERSON"
           },
           {
             "text": "SCL",
@@ -194,10 +182,6 @@
           {
             "text": "22.9 percent",
             "label": "PERCENT"
-          },
-          {
-            "text": "Rs",
-            "label": "ORG"
           },
           {
             "text": "15.8 billion",
@@ -270,7 +254,7 @@
           },
           {
             "text": "16.8 trillion",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "a year ago",
@@ -324,7 +308,7 @@
             "label": "PERCENT"
           },
           {
-            "text": "1,016 billion",
+            "text": "Rs 1,016 billion",
             "label": "MONEY"
           },
           {
@@ -344,6 +328,10 @@
           {
             "text": "1.9 percent",
             "label": "PERCENT"
+          },
+          {
+            "text": "Rs 408.4 billion",
+            "label": "MONEY"
           },
           {
             "text": "a year ago",
@@ -379,10 +367,10 @@
         [
           {
             "text": "97 billion",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
-            "text": "154 billion rupees",
+            "text": "154 billion",
             "label": "MONEY"
           },
           {
@@ -396,7 +384,7 @@
             "label": "MONEY"
           },
           {
-            "text": "651 billion rupees",
+            "text": "651 billion",
             "label": "MONEY"
           }
         ]
@@ -447,10 +435,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
-            "label": "GPE"
-          },
-          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 27 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
@@ -469,12 +453,16 @@
           {
             "text": "\u0d91\u0d9a",
             "label": "CARDINAL"
+          },
+          {
+            "text": "gallop",
+            "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0db4\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dca",
+            "label": "DATE"
           },
           {
             "text": "12-\u0db8\u0dcf\u0dc3",
@@ -504,7 +492,7 @@
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 149.2 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
             "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dad\u0dbb",
@@ -517,16 +505,12 @@
             "label": "PERCENT"
           },
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 85.3 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 85.3 \u0d9a\u0dd2",
+            "label": "MONEY"
           },
           {
             "text": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dad\u0dbb",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 62.4 \u0d9a\u0dd2",
-            "label": "CARDINAL"
           },
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 14.6 \u0d9a\u0dd2",
@@ -535,16 +519,12 @@
         ],
         [
           {
-            "text": "PAL",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1.4 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 203.6 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 203.6 \u0d9a\u0dd2",
+            "label": "MONEY"
           },
           {
             "text": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dad\u0dbb",
@@ -555,7 +535,7 @@
             "label": "MONEY"
           },
           {
-            "text": "\u0d91\u0db8 \u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0",
+            "text": "\u0d91\u0d9a\u0db8 \u0d9a\u0dcf\u0dbd \u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba",
             "label": "DATE"
           },
           {
@@ -569,20 +549,16 @@
             "label": "ORG"
           },
           {
-            "text": "CID",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 44.7 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
           {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
-            "label": "ORG"
-          },
-          {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 17.5 \u0d9a\u0dd2",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0daf\u0dca\u0daf",
+            "label": "PERSON"
           },
           {
             "text": "SCL",
@@ -591,10 +567,6 @@
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 22.9 \u0d9a\u0dd2",
             "label": "PERCENT"
-          },
-          {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
-            "label": "ORG"
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 15.8 \u0d9a\u0dd2",
@@ -667,7 +639,7 @@
           },
           {
             "text": "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1 16.8 \u0d9a\u0dd2",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
@@ -721,7 +693,7 @@
             "label": "PERCENT"
           },
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1,016 \u0d9a\u0dd2",
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1,016 \u0d9a\u0dd2",
             "label": "MONEY"
           },
           {
@@ -741,6 +713,10 @@
           {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 1.9 \u0d9a\u0dd2",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 408.4 \u0d9a\u0dd2",
+            "label": "MONEY"
           },
           {
             "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
@@ -776,10 +752,10 @@
         [
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 97 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 154 \u0d9a\u0dd2",
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 154 \u0d9a\u0dd2",
             "label": "MONEY"
           },
           {
@@ -793,7 +769,7 @@
             "label": "MONEY"
           },
           {
-            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 651 \u0d9a\u0dd2",
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 651 \u0d9a\u0dd2",
             "label": "MONEY"
           }
         ]
@@ -844,10 +820,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
-          },
-          {
             "text": "27 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
@@ -866,12 +838,16 @@
           {
             "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1",
+            "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "text": "\u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "DATE"
           },
           {
             "text": "12-\u0bae\u0bbe\u0ba4\u0bae\u0bcd",
@@ -901,7 +877,7 @@
           },
           {
             "text": "149.2 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
             "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
@@ -914,16 +890,12 @@
             "label": "PERCENT"
           },
           {
-            "text": "85.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "text": "\u0bb0\u0bc2 85.3 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
           },
           {
             "text": "2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0bb0\u0bc262.4 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
           },
           {
             "text": "14.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
@@ -932,16 +904,12 @@
         ],
         [
           {
-            "text": "\u0baa\u0bbf\u0b8f\u0b8e\u0bb2\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "1.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
           {
-            "text": "203.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "text": "\u0bb0\u0bc2 203.6 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
           },
           {
             "text": "2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
@@ -966,20 +934,16 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf",
-            "label": "ORG"
-          },
-          {
             "text": "44.7 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
           {
-            "text": "\u0bb0\u0bc2",
-            "label": "ORG"
-          },
-          {
             "text": "17.5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb5\u0b9a\u0bc2\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd",
+            "label": "PERSON"
           },
           {
             "text": "\u0b8e\u0bb8\u0bcd\u0b9a\u0bbf\u0b8e\u0bb2\u0bcd",
@@ -988,10 +952,6 @@
           {
             "text": "22.9 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
-          },
-          {
-            "text": "\u0bb0\u0bc2",
-            "label": "ORG"
           },
           {
             "text": "15.8 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
@@ -1064,7 +1024,7 @@
           },
           {
             "text": "16.8 \u0b9f\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "MONEY"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
@@ -1118,7 +1078,7 @@
             "label": "PERCENT"
           },
           {
-            "text": "1,016 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "text": "\u0bb0\u0bc2.1,016 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           },
           {
@@ -1138,6 +1098,10 @@
           {
             "text": "1.9 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb0\u0bc2 408.4 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
           },
           {
             "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
@@ -1173,10 +1137,10 @@
         [
           {
             "text": "97 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "label": "MONEY"
           },
           {
-            "text": "154 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "text": "154 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           },
           {
@@ -1190,7 +1154,7 @@
             "label": "MONEY"
           },
           {
-            "text": "651 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "text": "651 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "MONEY"
           }
         ]

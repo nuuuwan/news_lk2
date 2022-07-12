@@ -38,7 +38,15 @@
             "label": "PERSON"
           },
           {
+            "text": "the Government of Sri Lanka",
+            "label": "ORG"
+          },
+          {
             "text": "tomorrow",
+            "label": "DATE"
+          },
+          {
+            "text": "12th",
             "label": "DATE"
           }
         ],
@@ -57,10 +65,6 @@
           }
         ],
         [
-          {
-            "text": "half",
-            "label": "CARDINAL"
-          },
           {
             "text": "that day",
             "label": "DATE"
@@ -101,7 +105,15 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          },
+          {
+            "text": "12 \u0dc0\u0dd0\u0db1\u0dd2",
             "label": "DATE"
           }
         ],
@@ -120,10 +132,6 @@
           }
         ],
         [
-          {
-            "text": "\u0d85\u0da9\u0d9a\u0dca",
-            "label": "CARDINAL"
-          },
           {
             "text": "\u0d91\u0daf\u0dcf",
             "label": "DATE"
@@ -164,7 +172,15 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "12\u0bb5\u0ba4\u0bc1",
             "label": "DATE"
           }
         ],
@@ -183,10 +199,6 @@
           }
         ],
         [
-          {
-            "text": "\u0baa\u0bbe\u0ba4\u0bbf",
-            "label": "CARDINAL"
-          },
           {
             "text": "\u0b85\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
             "label": "DATE"

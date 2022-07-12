@@ -45,11 +45,7 @@
             "label": "DATE"
           },
           {
-            "text": "8:00 pm to",
-            "label": "TIME"
-          },
-          {
-            "text": "9:00 pm",
+            "text": "8:00 pm to 9:00 pm",
             "label": "TIME"
           }
         ],
@@ -141,11 +137,7 @@
             "label": "DATE"
           },
           {
-            "text": "8:00 \u0dc3\u0dd2\u0da7",
-            "label": "TIME"
-          },
-          {
-            "text": "\u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4 9:00",
+            "text": "8:00 \u0dc3\u0dd2\u0da7 9:00 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "TIME"
           }
         ],
@@ -237,11 +229,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b87\u0bb0\u0bb5\u0bc1 8:00 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
-            "label": "TIME"
-          },
-          {
-            "text": "\u0b87\u0bb0\u0bb5\u0bc1 9:00 \u0bae\u0ba3\u0bbf",
+            "text": "\u0b87\u0bb0\u0bb5\u0bc1 8:00 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b87\u0bb0\u0bb5\u0bc1 9:00 \u0bae\u0ba3\u0bbf \u0bb5\u0bb0\u0bc8",
             "label": "TIME"
           }
         ],

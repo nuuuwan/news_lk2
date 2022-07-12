@@ -57,6 +57,10 @@
         ],
         [
           {
+            "text": "All Share Price Index",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "2.17 percent",
             "label": "PERCENT"
           },
@@ -82,7 +86,7 @@
         ],
         [
           {
-            "text": "S&P",
+            "text": "S&P SL20",
             "label": "ORG"
           },
           {
@@ -116,7 +120,11 @@
           },
           {
             "text": "Browns Investments",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo/Jul11/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -173,6 +181,10 @@
         ],
         [
           {
+            "text": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0daf\u0dbb\u0dca\u0dc1\u0d9a\u0dba",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 2.17 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
@@ -198,7 +210,7 @@
         ],
         [
           {
-            "text": "S&P",
+            "text": "S&P SL20",
             "label": "ORG"
           },
           {
@@ -232,7 +244,11 @@
           },
           {
             "text": "\u0db6\u0dca\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca \u0d86\u0dba\u0ddd\u0da2\u0db1",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -289,6 +305,10 @@
         ],
         [
           {
+            "text": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "2.17 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
@@ -314,7 +334,7 @@
         ],
         [
           {
-            "text": "\u0b8e\u0bb8\u0bcd&\u0baa\u0bbf",
+            "text": "\u0b8e\u0bb8\u0bcd&\u0baa\u0bbf \u0b8e\u0bb8\u0bcd\u0b8e\u0bb2\u0bcd20",
             "label": "ORG"
           },
           {
@@ -348,7 +368,11 @@
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bb5\u0bc1\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022",
+            "label": "ORG"
           }
         ]
       ]

@@ -41,7 +41,7 @@
       ],
       "title_ents": [
         {
-          "text": "SriLankan Airlines:",
+          "text": "SriLankan Airlines: Management Confirms No Risk Of Midair Collision",
           "label": "ORG"
         }
       ],
@@ -56,6 +56,10 @@
             "label": "DATE"
           },
           {
+            "text": "UL 504",
+            "label": "LAW"
+          },
+          {
             "text": "London",
             "label": "GPE"
           },
@@ -66,16 +70,16 @@
         ],
         [
           {
-            "text": "Ankara\u2019s Air Traffic Controller",
-            "label": "ORG"
+            "text": "Ankara",
+            "label": "GPE"
           },
           {
             "text": "British Airways",
             "label": "ORG"
           },
           {
-            "text": "12 nautical miles",
-            "label": "QUANTITY"
+            "text": "12",
+            "label": "CARDINAL"
           },
           {
             "text": "SriLankan Airline\u2019s",
@@ -92,7 +96,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          }
+        ],
         [],
         [
           {
@@ -106,12 +115,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Ankara ATC instructs",
+            "text": "Ankara ATC",
             "label": "ORG"
           },
           {
-            "text": "504",
-            "label": "CARDINAL"
+            "text": "UL 504",
+            "label": "LAW"
           },
           {
             "text": "33,000 feet",
@@ -132,8 +141,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Ankara",
-            "label": "GPE"
+            "text": "Ankara ATC",
+            "label": "PERSON"
           },
           {
             "text": "British Airways",
@@ -166,8 +175,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "UL 504",
-            "label": "LAW"
+            "text": "504",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -212,11 +221,11 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Ankara ATC then confirms to",
+            "text": "Ankara ATC",
             "label": "ORG"
           },
           {
-            "text": "the British Airways",
+            "text": "British Airways",
             "label": "ORG"
           },
           {
@@ -229,6 +238,10 @@
           }
         ],
         [
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          },
           {
             "text": "approximately under two minutes",
             "label": "TIME"
@@ -246,35 +259,35 @@
             "label": "ORG"
           },
           {
+            "text": "UL 504",
+            "label": "PRODUCT"
+          },
+          {
             "text": "35,000",
             "label": "CARDINAL"
           },
           {
-            "text": "the British Airways",
+            "text": "British Airways",
             "label": "ORG"
           }
         ],
         [
           {
-            "text": "504",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "460 nautical miles per hour",
-            "label": "QUANTITY"
+            "text": "460",
+            "label": "FAC"
           },
           {
             "text": "British Airways",
             "label": "ORG"
           },
           {
-            "text": "480 nautical miles",
+            "text": "480 nautical miles per hour",
             "label": "QUANTITY"
           }
         ],
         [
           {
-            "text": "the British Airways",
+            "text": "British Airways",
             "label": "ORG"
           },
           {
@@ -297,7 +310,7 @@
         [
           {
             "text": "BA",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "SriLankan Airlines",
@@ -308,7 +321,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "Resolution Advisory",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "SriLankan Airlines",
@@ -319,6 +337,10 @@
           {
             "text": "SriLankan Airlines",
             "label": "ORG"
+          },
+          {
+            "text": "UL 504",
+            "label": "PRODUCT"
           },
           {
             "text": "this day",
@@ -327,12 +349,8 @@
         ],
         [
           {
-            "text": "UL 504",
-            "label": "LAW"
-          },
-          {
-            "text": "the Ankara ATC instructions",
-            "label": "ORG"
+            "text": "Ankara",
+            "label": "GPE"
           },
           {
             "text": "British Airways",
@@ -359,12 +377,16 @@
             "label": "ORG"
           },
           {
+            "text": "Colombo Telegraph",
+            "label": "ORG"
+          },
+          {
             "text": "The Management of Sri Lankan Airlines",
             "label": "WORK_OF_ART"
           },
           {
             "text": "this Air Incident Report",
-            "label": "ORG"
+            "label": "EVENT"
           }
         ],
         [
@@ -391,6 +413,10 @@
             "label": "ORG"
           },
           {
+            "text": "First",
+            "label": "ORDINAL"
+          },
+          {
             "text": "504",
             "label": "CARDINAL"
           }
@@ -405,7 +431,7 @@
         [
           {
             "text": "Air Incident Report",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "Sri Lankan Airlines",
@@ -462,7 +488,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba:",
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba: \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0db8\u0dba\u0dd2\u0da9\u0dd9\u0dba\u0dcf\u0dbb\u0dca \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0db6\u0dc0 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
           "label": "ORG"
         }
       ],
@@ -477,6 +503,10 @@
             "label": "DATE"
           },
           {
+            "text": "UL 504",
+            "label": "LAW"
+          },
+          {
             "text": "\u0dbd\u0db1\u0dca\u0da9\u0db1\u0dca",
             "label": "GPE"
           },
@@ -487,16 +517,16 @@
         ],
         [
           {
-            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dcf\u0d9c\u0db8\u0db1 \u0db4\u0dcf\u0dbd\u0d9a",
-            "label": "ORG"
+            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf",
+            "label": "GPE"
           },
           {
             "text": "British Airways",
             "label": "ORG"
           },
           {
-            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 12 \u0d9a\u0dd2",
-            "label": "QUANTITY"
+            "text": "12",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
@@ -513,7 +543,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          }
+        ],
         [],
         [
           {
@@ -527,12 +562,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf ATC \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf ATC",
             "label": "ORG"
           },
           {
-            "text": "504",
-            "label": "CARDINAL"
+            "text": "UL 504",
+            "label": "LAW"
           },
           {
             "text": "\u0d85\u0da9\u0dd2 33,000 \u0d9a\u0dd2",
@@ -553,8 +588,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf",
-            "label": "GPE"
+            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf ATC",
+            "label": "PERSON"
           },
           {
             "text": "British Airways",
@@ -587,8 +622,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "UL 504",
-            "label": "LAW"
+            "text": "504",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -633,11 +668,11 @@
             "label": "CARDINAL"
           },
           {
-            "text": "Ankara ATC \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf ATC",
             "label": "ORG"
           },
           {
-            "text": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0dc0\u0dda\u0dc3\u0dca",
+            "text": "British Airways",
             "label": "ORG"
           },
           {
@@ -650,6 +685,10 @@
           }
         ],
         [
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          },
           {
             "text": "\u0d86\u0dc3\u0db1\u0dca\u0db1 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0d85\u0da9\u0dd4",
             "label": "TIME"
@@ -667,35 +706,35 @@
             "label": "ORG"
           },
           {
+            "text": "UL 504",
+            "label": "PRODUCT"
+          },
+          {
             "text": "35,000 \u0d9a\u0dd2",
             "label": "CARDINAL"
           },
           {
-            "text": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0dc0\u0dda\u0dc3\u0dca",
+            "text": "British Airways",
             "label": "ORG"
           }
         ],
         [
           {
-            "text": "504",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0db4\u0dd0\u0dba\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 460\u0d9a\u0dca",
-            "label": "QUANTITY"
+            "text": "460",
+            "label": "FAC"
           },
           {
             "text": "British Airways",
             "label": "ORG"
           },
           {
-            "text": "480 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca",
+            "text": "\u0db4\u0dd0\u0dba\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 480",
             "label": "QUANTITY"
           }
         ],
         [
           {
-            "text": "\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0d91\u0dba\u0dcf\u0dbb\u0dca\u0dc0\u0dda\u0dc3\u0dca",
+            "text": "British Airways",
             "label": "ORG"
           },
           {
@@ -718,7 +757,7 @@
         [
           {
             "text": "BA",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
@@ -729,7 +768,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0dc0\u0dd2\u0db7\u0dda\u0daf\u0db1 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1\u0dba",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
@@ -740,6 +784,10 @@
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
             "label": "ORG"
+          },
+          {
+            "text": "UL 504",
+            "label": "PRODUCT"
           },
           {
             "text": "\u0d85\u0daf \u0daf\u0dc0\u0dc3",
@@ -748,12 +796,8 @@
         ],
         [
           {
-            "text": "UL 504",
-            "label": "LAW"
-          },
-          {
-            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf ATC \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca",
-            "label": "ORG"
+            "text": "\u0d85\u0db1\u0dca\u0d9a\u0dcf\u0dbb\u0dcf",
+            "label": "GPE"
           },
           {
             "text": "British Airways",
@@ -780,12 +824,16 @@
             "label": "ORG"
           },
           {
+            "text": "\u0d9a\u0dbd\u0db8\u0dca\u0db6\u0dd4 \u0da7\u0dd9\u0dbd\u0dd2\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc6\u0dca",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0dda \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba",
             "label": "WORK_OF_ART"
           },
           {
             "text": "\u0db8\u0dd9\u0db8 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd3\u0db8\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0",
-            "label": "ORG"
+            "label": "EVENT"
           }
         ],
         [
@@ -812,6 +860,10 @@
             "label": "ORG"
           },
           {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
             "text": "504",
             "label": "CARDINAL"
           }
@@ -826,7 +878,7 @@
         [
           {
             "text": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd3\u0db8\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
@@ -883,7 +935,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd:",
+          "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd: \u0bae\u0bbf\u0b9f\u0bc7\u0bb0\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bbf\u0ba9\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
           "label": "ORG"
         }
       ],
@@ -898,6 +950,10 @@
             "label": "DATE"
           },
           {
+            "text": "UL 504",
+            "label": "LAW"
+          },
+          {
             "text": "\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "GPE"
           },
@@ -908,16 +964,16 @@
         ],
         [
           {
-            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd",
-            "label": "ORG"
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe",
+            "label": "GPE"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b8f\u0bb0\u0bcd\u0bb5\u0bc7\u0bb8\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "12 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "QUANTITY"
+            "text": "12",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
@@ -934,7 +990,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
         [],
         [
           {
@@ -948,12 +1009,12 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe \u0b8f\u0b9f\u0bbf\u0b9a\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe \u0b8f\u0b9f\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
-            "text": "504",
-            "label": "CARDINAL"
+            "text": "UL 504",
+            "label": "LAW"
           },
           {
             "text": "33,000 \u0b85\u0b9f\u0bbf",
@@ -974,8 +1035,8 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe",
-            "label": "GPE"
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe \u0b8f\u0b9f\u0bbf\u0b9a\u0bbf",
+            "label": "PERSON"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b8f\u0bb0\u0bcd\u0bb5\u0bc7\u0bb8\u0bcd",
@@ -1008,8 +1069,8 @@
             "label": "QUANTITY"
           },
           {
-            "text": "UL 504",
-            "label": "LAW"
+            "text": "504",
+            "label": "CARDINAL"
           }
         ],
         [
@@ -1054,7 +1115,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe ATC \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe \u0b8f\u0b9f\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -1072,6 +1133,10 @@
         ],
         [
           {
+            "text": "7",
+            "label": "CARDINAL"
+          },
+          {
             "text": "\u0ba4\u0bcb\u0bb0\u0bbe\u0baf\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd",
             "label": "TIME"
           }
@@ -1088,6 +1153,10 @@
             "label": "ORG"
           },
           {
+            "text": "UL 504",
+            "label": "PRODUCT"
+          },
+          {
             "text": "35,000",
             "label": "CARDINAL"
           },
@@ -1098,19 +1167,15 @@
         ],
         [
           {
-            "text": "504",
-            "label": "CARDINAL"
-          },
-          {
-            "text": "\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 460 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "QUANTITY"
+            "text": "460",
+            "label": "FAC"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b8f\u0bb0\u0bcd\u0bb5\u0bc7\u0bb8\u0bcd",
             "label": "ORG"
           },
           {
-            "text": "480 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+            "text": "\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 480 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "QUANTITY"
           }
         ],
@@ -1139,7 +1204,7 @@
         [
           {
             "text": "\u0baa\u0bbf.\u0b8f",
-            "label": "ORG"
+            "label": "NORP"
           },
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
@@ -1150,7 +1215,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
@@ -1161,6 +1231,10 @@
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
             "label": "ORG"
+          },
+          {
+            "text": "UL 504",
+            "label": "PRODUCT"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
@@ -1169,12 +1243,8 @@
         ],
         [
           {
-            "text": "UL 504",
-            "label": "LAW"
-          },
-          {
-            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe ATC \u0bb5\u0bb4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
-            "label": "ORG"
+            "text": "\u0b85\u0b99\u0bcd\u0b95\u0bbe\u0bb0\u0bbe",
+            "label": "GPE"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b8f\u0bb0\u0bcd\u0bb5\u0bc7\u0bb8\u0bcd",
@@ -1201,12 +1271,16 @@
             "label": "ORG"
           },
           {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9f\u0bc6\u0bb2\u0bbf\u0b95\u0bbf\u0bb0\u0bbe\u0baa\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd",
             "label": "WORK_OF_ART"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bae\u0bcd\u0baa\u0bb5 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-            "label": "ORG"
+            "label": "EVENT"
           }
         ],
         [
@@ -1233,6 +1307,10 @@
             "label": "ORG"
           },
           {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
             "text": "504",
             "label": "CARDINAL"
           }
@@ -1247,7 +1325,7 @@
         [
           {
             "text": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-            "label": "ORG"
+            "label": "LAW"
           },
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",

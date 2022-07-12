@@ -66,10 +66,6 @@
         {
           "text": "China",
           "label": "GPE"
-        },
-        {
-          "text": "Carnival\u201d Of Quads",
-          "label": "WORK_OF_ART"
         }
       ],
       "body_line_ents_list": [
@@ -83,7 +79,7 @@
             "label": "ORG"
           },
           {
-            "text": "International Criminal Court",
+            "text": "the ICC (International Criminal Court",
             "label": "ORG"
           },
           {
@@ -95,8 +91,12 @@
             "label": "DATE"
           },
           {
-            "text": "Resolution 1422",
-            "label": "LAW"
+            "text": "UNSC",
+            "label": "ORG"
+          },
+          {
+            "text": "1422",
+            "label": "DATE"
           },
           {
             "text": "12 months",
@@ -108,6 +108,10 @@
           },
           {
             "text": "United Nations",
+            "label": "ORG"
+          },
+          {
+            "text": "ICC",
             "label": "ORG"
           },
           {
@@ -127,7 +131,7 @@
             "label": "DATE"
           },
           {
-            "text": "Abu Ghraib",
+            "text": "the Abu Ghraib",
             "label": "FAC"
           },
           {
@@ -149,11 +153,7 @@
             "label": "DATE"
           },
           {
-            "text": "ICJ",
-            "label": "ORG"
-          },
-          {
-            "text": "International Court of Justice) Ruling",
+            "text": "ICJ (International Court of Justice",
             "label": "ORG"
           },
           {
@@ -225,7 +225,7 @@
             "label": "GPE"
           },
           {
-            "text": "the 1970s",
+            "text": "the 1970s and",
             "label": "DATE"
           },
           {
@@ -244,7 +244,7 @@
           },
           {
             "text": "American Servicemembers\u2019 Protection Act",
-            "label": "EVENT"
+            "label": "ORG"
           },
           {
             "text": "ASPA",
@@ -257,6 +257,10 @@
           {
             "text": "ASPA",
             "label": "ORG"
+          },
+          {
+            "text": "anti-ICC",
+            "label": "NORP"
           }
         ],
         [
@@ -279,6 +283,10 @@
             "label": "GPE"
           },
           {
+            "text": "States",
+            "label": "GPE"
+          },
+          {
             "text": "U.S.",
             "label": "GPE"
           }
@@ -291,6 +299,10 @@
           {
             "text": "US",
             "label": "GPE"
+          },
+          {
+            "text": "ICC",
+            "label": "ORG"
           },
           {
             "text": "HRW",
@@ -311,10 +323,6 @@
         ],
         [
           {
-            "text": "Attempts",
-            "label": "PRODUCT"
-          },
-          {
             "text": "Sri Lanka Government",
             "label": "ORG"
           },
@@ -323,7 +331,7 @@
             "label": "DATE"
           },
           {
-            "text": "Status of Forces Agreement",
+            "text": "SOFA",
             "label": "ORG"
           },
           {
@@ -336,7 +344,7 @@
           },
           {
             "text": "Sri Lankan",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "Maithripala Sirisena",
@@ -349,8 +357,12 @@
             "label": "GPE"
           },
           {
+            "text": "RBIO (Rules-Based International Order",
+            "label": "ORG"
+          },
+          {
             "text": "Neoconservatives",
-            "label": "NORP"
+            "label": "GPE"
           },
           {
             "text": "Washington",
@@ -366,10 +378,6 @@
           },
           {
             "text": "UN",
-            "label": "ORG"
-          },
-          {
-            "text": "International Law Regime",
             "label": "ORG"
           },
           {
@@ -397,16 +405,8 @@
             "label": "GPE"
           },
           {
-            "text": "International Law",
-            "label": "ORG"
-          },
-          {
             "text": "post-Soviet",
             "label": "NORP"
-          },
-          {
-            "text": "International Laws",
-            "label": "LAW"
           },
           {
             "text": "Washington",
@@ -469,16 +469,8 @@
             "label": "NORP"
           },
           {
-            "text": "East India Company",
-            "label": "ORG"
-          },
-          {
             "text": "Britain",
             "label": "GPE"
-          },
-          {
-            "text": "navy",
-            "label": "ORG"
           },
           {
             "text": "Gibraltar",
@@ -486,6 +478,14 @@
           },
           {
             "text": "Cairo",
+            "label": "GPE"
+          },
+          {
+            "text": "Eden",
+            "label": "GPE"
+          },
+          {
+            "text": "Ceylon",
             "label": "GPE"
           },
           {
@@ -498,11 +498,15 @@
           },
           {
             "text": "Malacca",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "British",
             "label": "NORP"
+          },
+          {
+            "text": "String of Pearls",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "Falklands War",
@@ -563,10 +567,6 @@
             "label": "ORG"
           },
           {
-            "text": "EAQ",
-            "label": "ORG"
-          },
-          {
             "text": "China",
             "label": "GPE"
           },
@@ -594,7 +594,7 @@
           },
           {
             "text": "the Russian Federation",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "Special Military Operations",
@@ -606,10 +606,10 @@
           },
           {
             "text": "the Domino Theory",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "Clash of Civilisations, Thucydides",
+            "text": "Clash of Civilisations",
             "label": "ORG"
           }
         ],
@@ -627,16 +627,16 @@
             "label": "GPE"
           },
           {
+            "text": "Thucydides",
+            "label": "ORG"
+          },
+          {
             "text": "Sparta",
             "label": "GPE"
           },
           {
-            "text": "two millennia ago",
-            "label": "DATE"
-          },
-          {
-            "text": "Today",
-            "label": "DATE"
+            "text": "more than two millennia ago",
+            "label": "CARDINAL"
           },
           {
             "text": "State",
@@ -661,7 +661,7 @@
             "label": "ORG"
           },
           {
-            "text": "the \u201cAsian NATO",
+            "text": "the \u201cAsian NATO\u201d",
             "label": "ORG"
           },
           {
@@ -671,10 +671,6 @@
           {
             "text": "US",
             "label": "GPE"
-          },
-          {
-            "text": "the \u201cIndo-Pacific Region",
-            "label": "ORG"
           },
           {
             "text": "EAQ",
@@ -702,10 +698,14 @@
           },
           {
             "text": "Himalayan",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
+          {
+            "text": "Quad",
+            "label": "PERSON"
+          },
           {
             "text": "2007",
             "label": "DATE"
@@ -713,6 +713,10 @@
           {
             "text": "2017",
             "label": "DATE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "2021",
@@ -765,8 +769,8 @@
             "label": "GPE"
           },
           {
-            "text": "Anglo",
-            "label": "NORP"
+            "text": "Anglo-Saxon",
+            "label": "ORG"
           },
           {
             "text": "US",
@@ -794,11 +798,11 @@
           },
           {
             "text": "Falklands",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "Mosaddegh",
-            "label": "PERSON"
+            "text": "Gulf",
+            "label": "ORG"
           },
           {
             "text": "Iran",
@@ -827,10 +831,6 @@
           {
             "text": "London",
             "label": "GPE"
-          },
-          {
-            "text": "FVEY",
-            "label": "ORG"
           },
           {
             "text": "China",
@@ -890,7 +890,7 @@
           },
           {
             "text": "the People\u2019s Republic of China",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "Morrison",
@@ -935,8 +935,16 @@
             "label": "PERSON"
           },
           {
+            "text": "Social Darwinism",
+            "label": "ORG"
+          },
+          {
             "text": "Francis Galton",
             "label": "PERSON"
+          },
+          {
+            "text": "Eugenics",
+            "label": "ORG"
           },
           {
             "text": "Britain",
@@ -1064,6 +1072,10 @@
           },
           {
             "text": "the Central Asian Quad",
+            "label": "LOC"
+          },
+          {
+            "text": "CAQ",
             "label": "ORG"
           },
           {
@@ -1089,6 +1101,10 @@
             "label": "GPE"
           },
           {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "the United Arab Emirates",
             "label": "GPE"
           },
@@ -1107,10 +1123,6 @@
           {
             "text": "China",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           }
         ],
         [
@@ -1123,6 +1135,14 @@
             "label": "LOC"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "Afghanistan",
             "label": "GPE"
           },
@@ -1133,10 +1153,6 @@
           {
             "text": "China",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           },
           {
             "text": "West Asia",
@@ -1193,12 +1209,12 @@
             "label": "GPE"
           },
           {
-            "text": "India",
-            "label": "GPE"
-          },
-          {
             "text": "Afghans",
             "label": "NORP"
+          },
+          {
+            "text": "Gun",
+            "label": "ORG"
           }
         ],
         [
@@ -1248,7 +1264,7 @@
           },
           {
             "text": "the Presidential Palace",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "CIA",
@@ -1293,12 +1309,12 @@
             "label": "GPE"
           },
           {
-            "text": "22 September",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
-            "text": "Chinese",
-            "label": "NORP"
+            "text": "September Chinese",
+            "label": "EVENT"
           },
           {
             "text": "Russian",
@@ -1319,6 +1335,14 @@
             "label": "GPE"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "Ukraine",
             "label": "GPE"
           },
@@ -1332,7 +1356,7 @@
           },
           {
             "text": "Ukraine",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "2014",
@@ -1366,10 +1390,6 @@
         [
           {
             "text": "Trump",
-            "label": "PERSON"
-          },
-          {
-            "text": "Defence",
             "label": "ORG"
           },
           {
@@ -1378,14 +1398,6 @@
           },
           {
             "text": "2018",
-            "label": "DATE"
-          },
-          {
-            "text": "National Defence Strategy",
-            "label": "EVENT"
-          },
-          {
-            "text": "the end of",
             "label": "DATE"
           },
           {
@@ -1583,7 +1595,7 @@
             "label": "ORG"
           },
           {
-            "text": "tandem",
+            "text": "AUKUS",
             "label": "ORG"
           },
           {
@@ -1597,6 +1609,10 @@
           {
             "text": "Beijing",
             "label": "GPE"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
           },
           {
             "text": "Djibouti",
@@ -1620,7 +1636,7 @@
           },
           {
             "text": "four hundred",
-            "label": "CARDINAL"
+            "label": "DATE"
           },
           {
             "text": "US",
@@ -1632,6 +1648,10 @@
           }
         ],
         [
+          {
+            "text": "Quad",
+            "label": "GPE"
+          },
           {
             "text": "Ukrainians",
             "label": "NORP"
@@ -1671,10 +1691,6 @@
             "label": "DATE"
           },
           {
-            "text": "Chessboard",
-            "label": "PERSON"
-          },
-          {
             "text": "China",
             "label": "GPE"
           },
@@ -1699,24 +1715,16 @@
             "label": "GPE"
           },
           {
-            "text": "North American",
-            "label": "NORP"
+            "text": "the North American Manifest",
+            "label": "ORG"
           },
           {
             "text": "US",
             "label": "GPE"
           },
           {
-            "text": "White Anglo-Saxon",
-            "label": "ORG"
-          },
-          {
             "text": "Protestants",
             "label": "NORP"
-          },
-          {
-            "text": "WASP",
-            "label": "ORG"
           },
           {
             "text": "Eurasia",
@@ -1739,6 +1747,10 @@
           {
             "text": "Washington",
             "label": "GPE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "Canberra US",
@@ -1783,10 +1795,6 @@
             "label": "DATE"
           },
           {
-            "text": "Pact",
-            "label": "ORG"
-          },
-          {
             "text": "China",
             "label": "GPE"
           },
@@ -1799,14 +1807,13 @@
           {
             "text": "UN",
             "label": "ORG"
-          }
-        ],
-        [
+          },
           {
-            "text": "blocs",
-            "label": "PERSON"
+            "text": "United Nations",
+            "label": "ORG"
           }
         ],
+        [],
         [],
         [
           {
@@ -1832,11 +1839,15 @@
           {
             "text": "U.S.",
             "label": "GPE"
+          },
+          {
+            "text": "the\u00a0Treaty",
+            "label": "DATE"
           }
         ],
         [
           {
-            "text": "the\u00a0UN Committee",
+            "text": "UN Committee",
             "label": "ORG"
           }
         ],
@@ -1852,13 +1863,17 @@
         ],
         [
           {
-            "text": "Shanghai Cooperation Organization (SCO",
+            "text": "Shanghai Cooperation Organization",
             "label": "ORG"
           }
         ],
         [
           {
-            "text": "China",
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "States",
             "label": "GPE"
           }
         ],
@@ -1873,7 +1888,7 @@
           },
           {
             "text": "Washington",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "Eurasian",
@@ -1938,10 +1953,6 @@
             "label": "CARDINAL"
           },
           {
-            "text": "twenty five) years",
-            "label": "DATE"
-          },
-          {
             "text": "2049",
             "label": "DATE"
           },
@@ -1983,7 +1994,7 @@
           },
           {
             "text": "Mattis\u2019 2018",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           }
         ],
         [
@@ -1996,7 +2007,7 @@
             "label": "GPE"
           },
           {
-            "text": "Robert Weissman",
+            "text": "Citizen Robert Weissman",
             "label": "PERSON"
           },
           {
@@ -2053,7 +2064,7 @@
           },
           {
             "text": "EU",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "the Permanent War Economy",
@@ -2079,6 +2090,10 @@
           }
         ],
         [
+          {
+            "text": "Sachithanandam Sathananthan",
+            "label": "PERSON"
+          },
           {
             "text": "the University of Cambridge",
             "label": "ORG"
@@ -2155,10 +2170,6 @@
         {
           "text": "\u0da0\u0dd3\u0db1\u0dba",
           "label": "GPE"
-        },
-        {
-          "text": "\u0d9a\u0dcf\u0db1\u0dd2\u0dc0\u0dbd\u0dca\" \u0d94\u0dc6\u0dca \u0d9a\u0dca\u0dc0\u0dcf\u0da9\u0dca\u0dc3\u0dca",
-          "label": "WORK_OF_ART"
         }
       ],
       "body_line_ents_list": [
@@ -2172,7 +2183,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
+            "text": "ICC (\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
             "label": "ORG"
           },
           {
@@ -2184,8 +2195,12 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc0\u0dd2\u0db7\u0dda\u0daf\u0db1\u0dba 1422",
-            "label": "LAW"
+            "text": "UNSC",
+            "label": "ORG"
+          },
+          {
+            "text": "1422",
+            "label": "DATE"
           },
           {
             "text": "\u0db8\u0dcf\u0dc3 12 \u0dba\u0dd2",
@@ -2197,6 +2212,10 @@
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0dc3\u0dd3.\u0dc3\u0dd3",
             "label": "ORG"
           },
           {
@@ -2238,11 +2257,7 @@
             "label": "DATE"
           },
           {
-            "text": "ICJ",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba) \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0",
+            "text": "ICJ (\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
             "label": "ORG"
           },
           {
@@ -2314,7 +2329,7 @@
             "label": "GPE"
           },
           {
-            "text": "1970 \u0d9c\u0dab\u0db1\u0dca\u0dc0\u0dbd",
+            "text": "1970 \u0dc3\u0dc4",
             "label": "DATE"
           },
           {
@@ -2333,7 +2348,7 @@
           },
           {
             "text": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dc3\u0dda\u0dc0\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0db4\u0db1\u0dad",
-            "label": "EVENT"
+            "label": "ORG"
           },
           {
             "text": "ASPA",
@@ -2346,6 +2361,10 @@
           {
             "text": "ASPA",
             "label": "ORG"
+          },
+          {
+            "text": "ICC \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3",
+            "label": "NORP"
           }
         ],
         [
@@ -2368,6 +2387,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba.",
             "label": "GPE"
           }
@@ -2380,6 +2403,10 @@
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d85\u0dba\u0dd2.\u0dc3\u0dd3.\u0dc3\u0dd3",
+            "label": "ORG"
           },
           {
             "text": "HRW",
@@ -2400,10 +2427,6 @@
         ],
         [
           {
-            "text": "\u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4\u0dba\u0db1\u0dca",
-            "label": "PRODUCT"
-          },
-          {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dba",
             "label": "ORG"
           },
@@ -2412,7 +2435,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db6\u0dbd\u0d9a\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dda \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba",
+            "text": "\u0dc3\u0ddd\u0dc6\u0dcf",
             "label": "ORG"
           },
           {
@@ -2425,7 +2448,7 @@
           },
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3\u0db4\u0dcf\u0dbd \u0dc3\u0dd2\u0dbb\u0dd2\u0dc3\u0dda\u0db1",
@@ -2438,8 +2461,12 @@
             "label": "GPE"
           },
           {
+            "text": "RBIO (\u0dbb\u0dd3\u0dad\u0dd2 \u0db8\u0dad \u0db4\u0daf\u0db1\u0db8\u0dca \u0dc0\u0dd6 \u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0db1\u0dd2\u0dba\u0ddd\u0d9a\u0ddc\u0db1\u0dca\u0dc3\u0dbb\u0dca\u0dc0\u0dda\u0da7\u0dd2\u0dc0\u0dca",
-            "label": "NORP"
+            "label": "GPE"
           },
           {
             "text": "\u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba",
@@ -2455,10 +2482,6 @@
           },
           {
             "text": "\u0d91.\u0da2\u0dcf",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db1\u0dd3\u0dad\u0dd2 \u0dbb\u0dd9\u0da2\u0dd3\u0db8\u0dba",
             "label": "ORG"
           },
           {
@@ -2486,16 +2509,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db1\u0dd3\u0dad\u0dd2\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "\u0db4\u0dc1\u0dca\u0da0\u0dcf\u0dad\u0dca-\u0dc3\u0ddd\u0dc0\u0dd2\u0dba\u0da7\u0dca",
             "label": "NORP"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dca\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db1\u0dd3\u0dad\u0dd2",
-            "label": "LAW"
           },
           {
             "text": "\u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba",
@@ -2558,16 +2573,8 @@
             "label": "NORP"
           },
           {
-            "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
-            "label": "ORG"
-          },
-          {
             "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba\u0dba",
             "label": "GPE"
-          },
-          {
-            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
-            "label": "ORG"
           },
           {
             "text": "\u0da2\u0dd2\u0db6\u0dca\u0dbb\u0ddd\u0dbd\u0dca\u0da7\u0dcf\u0dbb\u0dca",
@@ -2575,6 +2582,14 @@
           },
           {
             "text": "\u0d9a\u0dba\u0dd2\u0dbb\u0ddd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d8a\u0da9\u0db1\u0dca",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf",
             "label": "GPE"
           },
           {
@@ -2587,11 +2602,15 @@
           },
           {
             "text": "\u0db8\u0dbd\u0d9a\u0dca\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba",
             "label": "NORP"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dad\u0dd4 \u0dc0\u0dd0\u0dbd",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0dc6\u0ddd\u0d9a\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca \u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba",
@@ -2652,10 +2671,6 @@
             "label": "ORG"
           },
           {
-            "text": "EAQ",
-            "label": "ORG"
-          },
-          {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
           },
@@ -2683,7 +2698,7 @@
           },
           {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0db8\u0dd6\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca",
@@ -2695,10 +2710,10 @@
           },
           {
             "text": "\u0da9\u0ddc\u0db8\u0dd2\u0db1\u0ddd \u0db1\u0dca\u200d\u0dba\u0dcf\u0dba",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dcf\u0da0\u0dcf\u0dbb\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8, \u0dad\u0dd4\u0dc3\u0dd2\u0da9\u0dba\u0dd2\u0da9\u0dca\u0dc3\u0dca",
+            "text": "\u0dc1\u0dd2\u0dc2\u0dca\u0da7\u0dcf\u0da0\u0dcf\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8",
             "label": "ORG"
           }
         ],
@@ -2716,16 +2731,16 @@
             "label": "GPE"
           },
           {
+            "text": "\u0dad\u0dd4\u0dc3\u0dd2\u0da9\u0dba\u0dd2\u0da9\u0dca\u0dc3\u0dca",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc3\u0dca\u0db4\u0dcf\u0da7\u0dcf",
             "label": "GPE"
           },
           {
             "text": "\u0dc3\u0dc4\u0dc3\u0dca\u200d\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0d85\u0daf",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0dbb\u0da2\u0dba\u0dda",
@@ -2762,10 +2777,6 @@
             "label": "GPE"
           },
           {
-            "text": "\"\u0d89\u0db1\u0dca\u0daf\u0dd4 \u0db4\u0dd0\u0dc3\u0dd2\u0dc6\u0dd2\u0d9a\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba",
-            "label": "ORG"
-          },
-          {
             "text": "EAQ",
             "label": "ORG"
           },
@@ -2791,10 +2802,14 @@
           },
           {
             "text": "\u0dc4\u0dd2\u0db8\u0dcf\u0dbd\u0dba",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dd0\u0dc3\u0dca",
+            "label": "PERSON"
+          },
           {
             "text": "2007",
             "label": "DATE"
@@ -2802,6 +2817,10 @@
           {
             "text": "2017",
             "label": "DATE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "2021",
@@ -2854,8 +2873,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d87\u0d82\u0d9c\u0dca\u0dbd\u0ddd",
-            "label": "NORP"
+            "text": "\u0d87\u0db1\u0dca\u0d9c\u0dca\u0dbd\u0ddd-\u0dc3\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca",
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
@@ -2883,11 +2902,11 @@
           },
           {
             "text": "\u0dc6\u0ddd\u0d9a\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca\u0dc3\u0dca",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0db8\u0ddc\u0dc3\u0dcf\u0da9\u0dd9\u0d9c\u0dca",
-            "label": "PERSON"
+            "text": "\u0d9c\u0dbd\u0dca\u0dc6\u0dca",
+            "label": "ORG"
           },
           {
             "text": "\u0d89\u0dbb\u0dcf\u0db1\u0dba",
@@ -2916,10 +2935,6 @@
           {
             "text": "\u0dbd\u0db1\u0dca\u0da9\u0db1\u0dca",
             "label": "GPE"
-          },
-          {
-            "text": "FVEY",
-            "label": "ORG"
           },
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
@@ -2979,7 +2994,7 @@
           },
           {
             "text": "\u0db8\u0dc4\u0da2\u0db1 \u0da0\u0dd3\u0db1 \u0dc3\u0db8\u0dd6\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0db8\u0ddc\u0dbb\u0dd2\u0dc3\u0db1\u0dca",
@@ -3024,8 +3039,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0dc3\u0db8\u0dcf\u0da2 \u0da9\u0dcf\u0dc0\u0dd2\u0db1\u0dca\u0dc0\u0dcf\u0daf\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dc6\u0dca\u0dbb\u0dd0\u0db1\u0dca\u0dc3\u0dd2\u0dc3\u0dca \u0d9c\u0dd0\u0dbd\u0dca\u0da7\u0db1\u0dca",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd4\u0da2\u0db1\u0dd2\u0d9a\u0dca\u0dc3\u0dca",
+            "label": "ORG"
           },
           {
             "text": "\u0db6\u0dca\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u0dba\u0dba",
@@ -3056,7 +3079,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dad\u0dd2\u0d9a / \u0db8\u0ddc\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0ddc\u0dba\u0dd2\u0da9\u0dca\u0dc3\u0dca",
+            "text": "\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dad\u0dd2\u0d9a/\u0db8\u0ddc\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0ddc\u0dba\u0dd2\u0da9\u0dca\u0dc3\u0dca",
             "label": "ORG"
           },
           {
@@ -3153,6 +3176,10 @@
           },
           {
             "text": "\u0db8\u0db0\u0dca\u0dba\u0db8 \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da0\u0dad\u0dd4\u0dbb\u0dc3\u0dca\u0dbb\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "CAQ",
             "label": "ORG"
           },
           {
@@ -3178,6 +3205,10 @@
             "label": "GPE"
           },
           {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd3\u0dbb\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba",
             "label": "GPE"
           },
@@ -3196,10 +3227,6 @@
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           }
         ],
         [
@@ -3212,6 +3239,14 @@
             "label": "LOC"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
             "label": "GPE"
           },
@@ -3222,10 +3257,6 @@
           {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           },
           {
             "text": "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
@@ -3282,12 +3313,12 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "GPE"
-          },
-          {
             "text": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca",
             "label": "NORP"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0dc0\u0d9a\u0dca\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
           }
         ],
         [
@@ -3337,7 +3368,7 @@
           },
           {
             "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0dc3\u0dd3\u0d85\u0dba\u0dd2\u0d92",
@@ -3382,12 +3413,12 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 22",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
-            "text": "\u0da0\u0dd3\u0db1",
-            "label": "NORP"
+            "text": "\u0dc3\u0dd0\u0db4\u0dca\u0dad\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0da0\u0dd3\u0db1",
+            "label": "EVENT"
           },
           {
             "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -3408,6 +3439,14 @@
             "label": "GPE"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
             "label": "GPE"
           },
@@ -3421,7 +3460,7 @@
           },
           {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "2014",
@@ -3455,10 +3494,6 @@
         [
           {
             "text": "\u0da7\u0dca\u0dbb\u0db8\u0dca\u0db4\u0dca",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
             "label": "ORG"
           },
           {
@@ -3467,14 +3502,6 @@
           },
           {
             "text": "2018",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d8b\u0db4\u0dcf\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba",
-            "label": "EVENT"
-          },
-          {
-            "text": "\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba",
             "label": "DATE"
           },
           {
@@ -3672,7 +3699,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0da7\u0dd0\u0db1\u0dca\u0da9\u0db8\u0dca",
+            "text": "AUKUS",
             "label": "ORG"
           },
           {
@@ -3686,6 +3713,10 @@
           {
             "text": "\u0db6\u0dd3\u0da2\u0dd2\u0d82",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0da2\u0dd2\u0db6\u0dd4\u0da7\u0dd2",
@@ -3709,7 +3740,7 @@
           },
           {
             "text": "\u0dc4\u0dcf\u0dbb\u0dc3\u0dd2\u0dba\u0dba",
-            "label": "CARDINAL"
+            "label": "DATE"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
@@ -3721,6 +3752,10 @@
           }
         ],
         [
+          {
+            "text": "\u0dc4\u0dad\u0dbb\u0dd0\u0dc3\u0dca",
+            "label": "GPE"
+          },
           {
             "text": "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
             "label": "NORP"
@@ -3760,10 +3795,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0da0\u0dd9\u0dc3\u0dca \u0db4\u0dd4\u0dc0\u0dbb\u0dd4\u0dc0",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
           },
@@ -3788,24 +3819,16 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4",
-            "label": "NORP"
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0db1\u0dba",
+            "label": "ORG"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
           },
           {
-            "text": "\u0dc3\u0dd4\u0daf\u0dd4 \u0d87\u0db1\u0dca\u0d9c\u0dca\u0dbd\u0ddd-\u0dc3\u0dd0\u0d9a\u0dca\u0dc3\u0db1\u0dca",
-            "label": "ORG"
-          },
-          {
             "text": "\u0dbb\u0dd9\u0db4\u0dbb\u0db8\u0dcf\u0daf\u0dd4 \u0db7\u0d9a\u0dca\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca",
             "label": "NORP"
-          },
-          {
-            "text": "WASP",
-            "label": "ORG"
           },
           {
             "text": "\u0dba\u0dd4\u0dbb\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
@@ -3828,6 +3851,10 @@
           {
             "text": "\u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba",
             "label": "GPE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "\u0d9a\u0dd0\u0db1\u0dca\u0db6\u0dbb\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
@@ -3872,10 +3899,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8",
-            "label": "ORG"
-          },
-          {
             "text": "\u0da0\u0dd3\u0db1\u0dba",
             "label": "GPE"
           },
@@ -3888,14 +3911,13 @@
           {
             "text": "\u0d91.\u0da2\u0dcf",
             "label": "ORG"
-          }
-        ],
-        [
+          },
           {
-            "text": "\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dca",
-            "label": "PERSON"
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca",
+            "label": "ORG"
           }
         ],
+        [],
         [],
         [
           {
@@ -3921,6 +3943,10 @@
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba.",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8",
+            "label": "DATE"
           }
         ],
         [
@@ -3941,13 +3967,17 @@
         ],
         [
           {
-            "text": "\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba (SCO",
+            "text": "\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2 \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba",
             "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0da0\u0dd3\u0db1\u0dba",
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
           }
         ],
@@ -3962,7 +3992,7 @@
           },
           {
             "text": "\u0dc0\u0ddc\u0dc2\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dba",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0dba\u0dd4\u0dbb\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
@@ -4027,10 +4057,6 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0dc0\u0dd2\u0dc3\u0dd2\u0db4\u0dc4\u0d9a\u0dca",
-            "label": "DATE"
-          },
-          {
             "text": "2049",
             "label": "DATE"
           },
@@ -4072,7 +4098,7 @@
           },
           {
             "text": "\u0db8\u0dd0\u0da7\u0dd2\u0dc3\u0dca\u0d9c\u0dda 2018",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           }
         ],
         [
@@ -4085,7 +4111,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dbb\u0ddc\u0db6\u0da7\u0dca \u0dc0\u0dba\u0dd2\u0dc3\u0dca\u0db8\u0db1\u0dca",
+            "text": "\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0ddc\u0db6\u0da7\u0dca \u0dc0\u0dba\u0dd2\u0dc3\u0dca\u0db8\u0db1\u0dca",
             "label": "PERSON"
           },
           {
@@ -4142,7 +4168,7 @@
           },
           {
             "text": "EU",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0dba\u0dd4\u0daf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba",
@@ -4168,6 +4194,10 @@
           }
         ],
         [
+          {
+            "text": "\u0dc3\u0da0\u0dd2\u0dad\u0dcf\u0db1\u0db1\u0dca\u0daf\u0db8\u0dca \u0dc3\u0dad\u0dcf\u0db1\u0db1\u0dca\u0daf\u0db1\u0dca",
+            "label": "PERSON"
+          },
           {
             "text": "\u0d9a\u0dda\u0db8\u0dca\u0db6\u0dca\u200d\u0dbb\u0dd2\u0da2\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba",
             "label": "ORG"
@@ -4196,7 +4226,7 @@
         "2019 SOFA (\u0baa\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd) \u0b87\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0ba4\u0bc7\u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0bb1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9, \u0b85\u0ba4\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \"\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b86\u0baf\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1. \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd.\" \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd, \u0b89\u0ba4\u0bcd\u0ba4\u0bc7\u0b9a \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9\u0bb5\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1; \u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bae\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
         "\u0b85\u0bae\u0bc8\u0ba4\u0bbf-\u0b89\u0ba3\u0bb5\u0bc1 \u0ba8\u0bcb\u0baf\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bc0\u0b9f\u0bbe\u0b95\u0bcd\u0b95 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bc2\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bcd RBIO (\u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1) \u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0b89\u0bb2\u0b95 \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba9\u0bcd\u0b9a\u0bb0\u0bcd\u0bb5\u0bc7\u0b9f\u0bbf\u0bb5\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0b95 \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd/\u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb \u0b89\u0bb2\u0b95\u0bc6\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bb0\u0bc8\u0bb5\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd. \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b90.\u0ba8\u0bbe-\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0bae\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0b87\u0ba4\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0ba9 \u0ba4\u0b9f\u0bc8\u0baf\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bb0\u0bb7\u0bcd\u0baf \u0b8e\u0bb2\u0bcd\u0bb2\u0bc8\u0baf\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0baa\u0bb2 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0bcb\u0bb5\u0bbf\u0baf\u0ba4\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \"\u0bb5\u0ba3\u0bcd\u0ba3\u0baa\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, 2014 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bbe\u0bae\u0bbf \u0baa\u0bcb\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bcb\u0bb5\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0bae\u0bc0\u0bb1\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd. \u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bc7\u0bb3\u0bc8 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1, \u0b8e\u0ba8\u0bcd\u0ba4\u0bb5\u0bca\u0bb0\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bc1\u0bae\u0bcd \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0bbe\u0b95 \u0baa\u0bb0\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0bc7\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, RBIO \u0b87\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1.",
         "\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bb1\u0bcd\u0bb1 \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b86\u0ba3\u0bbf, \u0b8e\u0ba9\u0bb5\u0bc7 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb, \u0b90.\u0ba8\u0bbe. \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bb5\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0bbe\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd.",
-        "1855 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb2\u0bbf\u0baf\u0bcb\u0b9f\u0bc1\u0b99\u0bcd \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb2\u0bbf\u0baf\u0bcb\u0b9f\u0bc1\u0b99\u0bcd \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \"\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\" \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, \u0b86\u0bae\u0bcd, \u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bc7\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1\u0bae\u0bcd \"\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0ba9 \u0bb5\u0bb4\u0bbf\" \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \"\u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd\" \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf. \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95, \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95, \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bb2\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b86\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 - \u0b9c\u0bbf\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd\u0b9f\u0bb0\u0bcd, \u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb, \u0b88\u0b9f\u0ba9\u0bcd, \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd, \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbe\u0bb8\u0bcd, \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd, \u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bb5\u0bc8 - \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \"\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bae\u0bcd\" \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b83\u0baa\u0bbe\u0b95\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u200b\u200b\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bb2\u0bb0\u0bc8 \u0bb5\u0bb4\u0bbf\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1!",
+        "1855 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb2\u0bbf\u0baf\u0bcb\u0b9f\u0bc1\u0b99\u0bcd \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb2\u0bbf\u0baf\u0bcb\u0b9f\u0bc1\u0b99\u0bcd \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \"\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8\" \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0bb0\u0bbe\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, \u0b86\u0bae\u0bcd, \u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bc7\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1\u0bae\u0bcd \"\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bbe\u0ba9 \u0bb5\u0bb4\u0bbf\" \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \"\u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd\" \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd. \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95, \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95, \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bb2\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b86\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 - \u0b9c\u0bbf\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd\u0b9f\u0bb0\u0bcd, \u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb, \u0b88\u0b9f\u0ba9\u0bcd, \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd, \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbe\u0bb8\u0bcd, \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd, \u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bb5\u0bc8 - \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \"\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bae\u0bcd\" \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b83\u0baa\u0bbe\u0b95\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u200b\u200b\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bb2\u0bb0\u0bc8 \u0bb5\u0bb4\u0bbf\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1!",
         "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 2019 \u0b87\u0bb2\u0bcd \u0bb9\u0bc6\u0bb0\u0bbf\u0b9f\u0bc7\u0b9c\u0bcd \u0b85\u0bb1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b89\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 (\u0b85\u0bb0\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b89\u0bb0\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1), \u0b85\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bb0\u0bcd \u0bae\u0bc8\u0b95\u0bcd \u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bcb \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b8f\u0b95\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0bc8\u0baf\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd: \u0b85\u0bb5\u0bb0\u0bcd \u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd\u0b95\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0bb0\u0bc1 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bc1\u0bb5\u0bbe\u0b9f\u0bcd (EAQ) \u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe, \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc7\u0baf\u0bbe\u0ba9 \"\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd\", \"\u0b89\u0bb2\u0b95\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe \u0b85\u0ba4\u0ba9\u0bcd \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0ba4\u0b95\u0bcd\u0b95\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\" - \"\u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0b9f\u0bae\u0bcd\" \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u201d \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95 \u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb \u0ba8\u0b9f\u0bcd\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd.",
         "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0bb3\u0bbe\u0b9f\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd, \u0baa\u0bbf\u0baa\u0bcd\u0bb0\u0bb5\u0bb0\u0bbf 2022 \u0b87\u0bb2\u0bcd, \u0bb0\u0bb7\u0bcd\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc7\u0ba9\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \"\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba9\u0bcd\u0bae\u0bc8, \u0ba4\u0bb5\u0bb1\u0bbf\u0ba9\u0bcd\u0bae\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b87\u0bb4\u0bbf\u0bb5\u0bbe\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\" \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd: \"\u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bc7\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1, \u0b92\u0bb0\u0bc1\u0bb5\u0bbf\u0ba4\u0bae\u0bbe\u0ba9\u00a0\u0ba8\u0bb5\u0bc0\u0ba9 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8,\u00a0\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0b95\u0bb2\u0bbe\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0ba4\u0bb0\u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd\u00a0\u0b86\u0ba3\u0bb5\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u00a0\u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u00a0\u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bcb\u0bae\u0bcd, \u0b85\u0ba4\u0bc1 \u201c\u0baa\u0bca\u0baf\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bbe\u0bae\u0bcd\u0bb0\u0bbe\u0b9c\u0bcd\u0b9c\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u201d \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u2013 \u0b87\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9f\u0bcb\u0bae\u0bbf\u0ba9\u0bcb \u0ba4\u0bbf\u0baf\u0bb0\u0bbf, \u0b95\u0bcd\u0bb3\u0bbe\u0bb7\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0ba8\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0ba4\u0bc1\u0b9a\u0bbf\u0b9f\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd \"\u0b9f\u0bcd\u0bb0\u0bbe\u0baa\u0bcd\" \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0ba4\u0bbf \u0b95\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1.",
         "\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd \u0b85\u0bb2\u0bcd\u0b9f\u0bbf\u0bae\u0bc7\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \u0ba4\u0bc1\u0b9a\u0bbf\u0b9f\u0bbf\u0b9f\u0bc0\u0bb8\u0bbf\u0ba9\u0bcd \u0baa\u0bb4\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bb0\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b85\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b8a\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0ba9 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b9a\u0b95\u0bcd\u0ba4\u0bbf, \u0b85\u0ba4\u0bc7 \u0b9a\u0bae\u0baf\u0bae\u0bcd \u0bb5\u0bb2\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b87\u0baf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0bb2\u0bb5\u0bc0\u0ba9\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc8 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. \u0b87\u0ba4\u0bcd\u0ba4\u0b95\u0bc8\u0baf \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc0\u0bb0\u0bcd\u0b95\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0bae\u0bc1\u0bb1\u0bc8 \u0ba4\u0bc1\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bae\u0bbe\u0b95 \u0bb5\u0b9f\u0bbf\u0bb5\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bae\u0bcd \u0b85\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bc7 \u0b85\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0baf\u0bb2\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
@@ -4244,10 +4274,6 @@
         {
           "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
           "label": "GPE"
-        },
-        {
-          "text": "\u0b95\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0bb5\u0bb2\u0bcd\" \u0b86\u0b83\u0baa\u0bcd \u0b95\u0bc1\u0bb5\u0bbe\u0b9f\u0bcd\u0bb8\u0bcd",
-          "label": "WORK_OF_ART"
         }
       ],
       "body_line_ents_list": [
@@ -4261,7 +4287,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "text": "\u0b90\u0b9a\u0bbf\u0b9a\u0bbf (\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
           },
           {
@@ -4273,8 +4299,12 @@
             "label": "DATE"
           },
           {
-            "text": "\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd 1422",
-            "label": "LAW"
+            "text": "UNSC",
+            "label": "ORG"
+          },
+          {
+            "text": "1422",
+            "label": "DATE"
           },
           {
             "text": "12 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
@@ -4286,6 +4316,10 @@
           },
           {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -4327,11 +4361,7 @@
             "label": "DATE"
           },
           {
-            "text": "ICJ",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd) \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+            "text": "ICJ (\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
             "label": "ORG"
           },
           {
@@ -4403,7 +4433,7 @@
             "label": "GPE"
           },
           {
-            "text": "1970\u0b95\u0bb3\u0bcd",
+            "text": "1970\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
             "label": "DATE"
           },
           {
@@ -4422,7 +4452,7 @@
           },
           {
             "text": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "EVENT"
+            "label": "ORG"
           },
           {
             "text": "ASPA",
@@ -4435,6 +4465,10 @@
           {
             "text": "ASPA",
             "label": "ORG"
+          },
+          {
+            "text": "\u0b90\u0b9a\u0bbf\u0b9a\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "NORP"
           }
         ],
         [
@@ -4457,6 +4491,10 @@
             "label": "GPE"
           },
           {
+            "text": "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd",
+            "label": "GPE"
+          },
+          {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1.",
             "label": "GPE"
           }
@@ -4469,6 +4507,10 @@
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf",
+            "label": "ORG"
           },
           {
             "text": "HRW",
@@ -4489,10 +4531,6 @@
         ],
         [
           {
-            "text": "\u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
-            "label": "PRODUCT"
-          },
-          {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1",
             "label": "ORG"
           },
@@ -4501,7 +4539,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0baa\u0b9f\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
+            "text": "\u0b9a\u0bcb\u0b83\u0baa\u0bbe",
             "label": "ORG"
           },
           {
@@ -4514,7 +4552,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "LOC"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9",
@@ -4527,8 +4565,12 @@
             "label": "GPE"
           },
           {
+            "text": "RBIO (\u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1",
+            "label": "ORG"
+          },
+          {
             "text": "\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba9\u0bcd\u0b9a\u0bb0\u0bcd\u0bb5\u0bc7\u0b9f\u0bbf\u0bb5\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "NORP"
+            "label": "GPE"
           },
           {
             "text": "\u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd",
@@ -4544,10 +4586,6 @@
           },
           {
             "text": "\u0b90.\u0ba8\u0bbe",
-            "label": "ORG"
-          },
-          {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -4575,16 +4613,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b9a\u0bcb\u0bb5\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc8\u0baf",
             "label": "NORP"
-          },
-          {
-            "text": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-            "label": "LAW"
           },
           {
             "text": "\u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd",
@@ -4613,7 +4643,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b90.\u0ba8\u0bbe \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf",
+            "text": "\u0b90\u0ba8\u0bbe \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "ORG"
           },
           {
@@ -4647,16 +4677,8 @@
             "label": "NORP"
           },
           {
-            "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf",
-            "label": "ORG"
-          },
-          {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "GPE"
-          },
-          {
-            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
-            "label": "ORG"
           },
           {
             "text": "\u0b9c\u0bbf\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd\u0b9f\u0bb0\u0bcd",
@@ -4664,6 +4686,14 @@
           },
           {
             "text": "\u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b88\u0b9f\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -4676,11 +4706,15 @@
           },
           {
             "text": "\u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd",
             "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bae\u0bcd",
+            "label": "WORK_OF_ART"
           },
           {
             "text": "\u0baa\u0bbe\u0bb2\u0bcd\u0b95\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bcd",
@@ -4741,10 +4775,6 @@
             "label": "ORG"
           },
           {
-            "text": "EAQ",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
           },
@@ -4772,7 +4802,7 @@
           },
           {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd",
@@ -4784,10 +4814,10 @@
           },
           {
             "text": "\u0b9f\u0bcb\u0bae\u0bbf\u0ba9\u0bcb \u0b95\u0bcb\u0b9f\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-            "label": "ORG"
+            "label": "PERSON"
           },
           {
-            "text": "\u0ba8\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd, \u0ba4\u0bc1\u0b9a\u0bbf\u0b9f\u0bc8\u0b9f\u0bcd\u0bb8\u0bcd",
+            "text": "\u0ba8\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
             "label": "ORG"
           }
         ],
@@ -4805,16 +4835,16 @@
             "label": "GPE"
           },
           {
+            "text": "\u0ba4\u0bc1\u0b9a\u0bbf\u0b9f\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0bb8\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bbe",
             "label": "GPE"
           },
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
-            "label": "DATE"
+            "label": "CARDINAL"
           },
           {
             "text": "\u0ba8\u0bbf\u0bb2\u0bc8",
@@ -4839,7 +4869,7 @@
             "label": "ORG"
           },
           {
-            "text": "\"\u0b86\u0b9a\u0bbf\u0baf \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb",
+            "text": "\"\u0b86\u0b9a\u0bbf\u0baf \u0ba8\u0bc7\u0b9f\u0bcd\u0b9f\u0bcb\"",
             "label": "ORG"
           },
           {
@@ -4849,10 +4879,6 @@
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
-          },
-          {
-            "text": "\"\u0b87\u0ba8\u0bcd\u0ba4\u0bcb-\u0baa\u0b9a\u0bbf\u0baa\u0bbf\u0b95\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
-            "label": "ORG"
           },
           {
             "text": "EAQ",
@@ -4880,10 +4906,14 @@
           },
           {
             "text": "\u0b87\u0bae\u0baf\u0bae\u0bb2\u0bc8",
-            "label": "PERSON"
+            "label": "NORP"
           }
         ],
         [
+          {
+            "text": "\u0b95\u0bc1\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
           {
             "text": "2007",
             "label": "DATE"
@@ -4891,6 +4921,10 @@
           {
             "text": "2017",
             "label": "DATE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "2021",
@@ -4943,8 +4977,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcb",
-            "label": "NORP"
+            "text": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcb-\u0b9a\u0bbe\u0b95\u0bcd\u0b9a\u0ba9\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
@@ -4972,11 +5006,11 @@
           },
           {
             "text": "\u0b83\u0baa\u0bbe\u0b95\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
-            "text": "\u0bae\u0bca\u0b9a\u0bbe\u0b9f\u0bc7\u0b95\u0bcd",
-            "label": "PERSON"
+            "text": "\u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe",
+            "label": "ORG"
           },
           {
             "text": "\u0b88\u0bb0\u0bbe\u0ba9\u0bcd",
@@ -5005,10 +5039,6 @@
           {
             "text": "\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "GPE"
-          },
-          {
-            "text": "FVEY",
-            "label": "ORG"
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
@@ -5051,7 +5081,7 @@
         ],
         [
           {
-            "text": "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "text": "\u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf",
             "label": "NORP"
           },
           {
@@ -5068,7 +5098,7 @@
           },
           {
             "text": "\u0b9a\u0bc0\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "\u0bae\u0bbe\u0bb0\u0bbf\u0b9a\u0ba9\u0bcd",
@@ -5113,8 +5143,16 @@
             "label": "PERSON"
           },
           {
+            "text": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9f\u0bbe\u0bb0\u0bcd\u0bb5\u0bbf\u0ba9\u0bbf\u0b9a\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
             "text": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bc2\u0b9c\u0bc6\u0ba9\u0bbf\u0b95\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
           },
           {
             "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd",
@@ -5242,6 +5280,10 @@
           },
           {
             "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bc1\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "CAQ",
             "label": "ORG"
           },
           {
@@ -5267,6 +5309,10 @@
             "label": "GPE"
           },
           {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb0\u0baa\u0bc1 \u0b8e\u0bae\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd\u0bb8\u0bcd",
             "label": "GPE"
           },
@@ -5285,10 +5331,6 @@
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           }
         ],
         [
@@ -5301,6 +5343,14 @@
             "label": "LOC"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
             "label": "GPE"
           },
@@ -5311,10 +5361,6 @@
           {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
-          },
-          {
-            "text": "BRI",
-            "label": "PERSON"
           },
           {
             "text": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0bbf\u0baf\u0bbe",
@@ -5371,12 +5417,12 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "NORP"
+          },
+          {
+            "text": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
           }
         ],
         [
@@ -5426,7 +5472,7 @@
           },
           {
             "text": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0b9a\u0bbf\u0b90\u0b8f",
@@ -5471,12 +5517,12 @@
             "label": "GPE"
           },
           {
-            "text": "22 \u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
-            "text": "\u0b9a\u0bc0\u0ba9",
-            "label": "NORP"
+            "text": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd \u0b9a\u0bc0\u0ba9",
+            "label": "EVENT"
           },
           {
             "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
@@ -5497,6 +5543,14 @@
             "label": "GPE"
           },
           {
+            "text": "CAQ",
+            "label": "ORG"
+          },
+          {
+            "text": "IAMQ",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
             "label": "GPE"
           },
@@ -5510,7 +5564,7 @@
           },
           {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd",
-            "label": "GPE"
+            "label": "ORG"
           },
           {
             "text": "2014",
@@ -5544,10 +5598,6 @@
         [
           {
             "text": "\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd",
-            "label": "PERSON"
-          },
-          {
-            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
             "label": "ORG"
           },
           {
@@ -5556,14 +5606,6 @@
           },
           {
             "text": "2018",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf",
-            "label": "EVENT"
-          },
-          {
-            "text": "\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
             "label": "DATE"
           },
           {
@@ -5761,7 +5803,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1",
+            "text": "AUKUS",
             "label": "ORG"
           },
           {
@@ -5775,6 +5817,10 @@
           {
             "text": "\u0baa\u0bc6\u0baf\u0bcd\u0b9c\u0bbf\u0b99\u0bcd",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b9c\u0bbf\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf",
@@ -5798,7 +5844,7 @@
           },
           {
             "text": "\u0ba8\u0bbe\u0ba9\u0bc2\u0bb1\u0bc1",
-            "label": "CARDINAL"
+            "label": "DATE"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
@@ -5810,6 +5856,10 @@
           }
         ],
         [
+          {
+            "text": "\u0b95\u0bc1\u0bb5\u0bbe\u0b9f\u0bcd",
+            "label": "GPE"
+          },
           {
             "text": "\u0b89\u0b95\u0bcd\u0bb0\u0bc7\u0ba9\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "NORP"
@@ -5849,10 +5899,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0baa\u0bb2\u0b95\u0bc8",
-            "label": "PERSON"
-          },
-          {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
           },
@@ -5877,24 +5923,16 @@
             "label": "GPE"
           },
           {
-            "text": "\u0bb5\u0b9f \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb0\u0bcd",
-            "label": "NORP"
+            "text": "\u0bb5\u0b9f \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+            "label": "ORG"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
           },
           {
-            "text": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8 \u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcb-\u0b9a\u0bbe\u0b95\u0bcd\u0b9a\u0ba9\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0baa\u0bc1\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
             "label": "NORP"
-          },
-          {
-            "text": "\u0b95\u0bc1\u0bb3\u0bb5\u0bbf",
-            "label": "ORG"
           },
           {
             "text": "\u0baf\u0bc2\u0bb0\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
@@ -5917,6 +5955,10 @@
           {
             "text": "\u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd",
             "label": "GPE"
+          },
+          {
+            "text": "AUKUS",
+            "label": "ORG"
           },
           {
             "text": "\u0b95\u0bbe\u0ba9\u0bcd\u0baa\u0bc6\u0bb0\u0bbe \u0baf\u0bc1.\u0b8e\u0bb8\u0bcd",
@@ -5961,10 +6003,6 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
-            "label": "ORG"
-          },
-          {
             "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
             "label": "GPE"
           },
@@ -5977,14 +6015,13 @@
           {
             "text": "\u0b90.\u0ba8\u0bbe",
             "label": "ORG"
-          }
-        ],
-        [
+          },
           {
-            "text": "\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
-            "label": "PERSON"
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
           }
         ],
+        [],
         [],
         [
           {
@@ -6010,6 +6047,10 @@
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1.",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
           }
         ],
         [
@@ -6030,13 +6071,17 @@
         ],
         [
           {
-            "text": "\u0bb7\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 (SCO",
+            "text": "\u0bb7\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0baf\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
             "label": "ORG"
           }
         ],
         [
           {
-            "text": "\u0b9a\u0bc0\u0ba9\u0bbe",
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd",
             "label": "GPE"
           }
         ],
@@ -6051,7 +6096,7 @@
           },
           {
             "text": "\u0bb5\u0bbe\u0bb7\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0baf\u0bc2\u0bb0\u0bc7\u0b9a\u0bbf\u0baf\u0ba9\u0bcd",
@@ -6116,10 +6161,6 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0b87\u0bb0\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1) \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
-            "label": "DATE"
-          },
-          {
             "text": "2049",
             "label": "DATE"
           },
@@ -6161,7 +6202,7 @@
           },
           {
             "text": "\u0bae\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0bb8\u0bbf\u0ba9\u0bcd 2018",
-            "label": "ORG"
+            "label": "WORK_OF_ART"
           }
         ],
         [
@@ -6174,7 +6215,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bc8\u0bb8\u0bcd\u0bae\u0bc7\u0ba9\u0bcd",
+            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0bae\u0b95\u0ba9\u0bcd \u0bb0\u0bbe\u0baa\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bc6\u0baf\u0bcd\u0bb8\u0bcd\u0bae\u0bc7\u0ba9\u0bcd",
             "label": "PERSON"
           },
           {
@@ -6231,7 +6272,7 @@
           },
           {
             "text": "EU",
-            "label": "ORG"
+            "label": "GPE"
           },
           {
             "text": "\u0ba8\u0bbf\u0bb0\u0ba8\u0bcd\u0ba4\u0bb0 \u0baa\u0bcb\u0bb0\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd",
@@ -6257,6 +6298,10 @@
           }
         ],
         [
+          {
+            "text": "\u0b9a\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0b9a\u0ba4\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
           {
             "text": "\u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
             "label": "ORG"

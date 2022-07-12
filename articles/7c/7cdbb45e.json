@@ -31,10 +31,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka\u2019s",
-            "label": "GPE"
-          },
-          {
             "text": "up to 140 percent",
             "label": "PERCENT"
           },
@@ -46,7 +42,7 @@
         [
           {
             "text": "Sri Lanka",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "360",
@@ -68,7 +64,7 @@
         [
           {
             "text": "Sri Lanka",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "4 year",
@@ -95,7 +91,7 @@
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -103,7 +99,7 @@
             "label": "DATE"
           },
           {
-            "text": "2022 March",
+            "text": "2022",
             "label": "DATE"
           }
         ],
@@ -117,7 +113,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "from 2015",
+            "text": "2015",
             "label": "DATE"
           }
         ],
@@ -147,6 +143,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "Colombo/July05/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -177,10 +177,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
-            "label": "GPE"
-          },
-          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 140 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "PERCENT"
           },
@@ -192,7 +188,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "360",
@@ -214,7 +210,7 @@
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 4 \u0dba\u0dd2",
@@ -241,7 +237,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -249,7 +245,7 @@
             "label": "DATE"
           },
           {
-            "text": "2022 \u0db8\u0dcf\u0dbb\u0dca\u0dad\u0dd4",
+            "text": "2022",
             "label": "DATE"
           }
         ],
@@ -263,7 +259,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "2015 \u0dc3\u0dd2\u0da7",
+            "text": "2015",
             "label": "DATE"
           }
         ],
@@ -293,6 +289,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd205/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -323,10 +323,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
-          },
-          {
             "text": "140 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0bb5\u0bb0\u0bc8",
             "label": "PERCENT"
           },
@@ -338,7 +334,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "360",
@@ -360,7 +356,7 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
             "text": "4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
@@ -387,7 +383,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -395,7 +391,7 @@
             "label": "DATE"
           },
           {
-            "text": "2022 \u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd",
+            "text": "2022",
             "label": "DATE"
           }
         ],
@@ -409,7 +405,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "2015 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+            "text": "2015",
             "label": "DATE"
           }
         ],
@@ -439,6 +435,10 @@
           {
             "text": "2026",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc805/2022",
+            "label": "ORG"
           }
         ]
       ]

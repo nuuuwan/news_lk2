@@ -57,6 +57,10 @@
         ],
         [
           {
+            "text": "All Share Price",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "1.11%",
             "label": "PERCENT"
           },
@@ -101,8 +105,8 @@
             "label": "ORG"
           },
           {
-            "text": "Lanka IOC",
-            "label": "FAC"
+            "text": "Colombo/Jul07/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -159,6 +163,10 @@
         ],
         [
           {
+            "text": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0db8\u0dd2\u0dbd",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "1.11%",
             "label": "PERCENT"
           },
@@ -203,8 +211,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0dbd\u0d82\u0d9a\u0dcf IOC",
-            "label": "FAC"
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 07/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -261,6 +269,10 @@
         ],
         [
           {
+            "text": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8",
+            "label": "WORK_OF_ART"
+          },
+          {
             "text": "1.11%",
             "label": "PERCENT"
           },
@@ -305,8 +317,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b90.\u0b93.\u0b9a\u0bbf",
-            "label": "FAC"
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc807/2022",
+            "label": "ORG"
           }
         ]
       ]

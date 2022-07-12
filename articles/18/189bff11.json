@@ -31,10 +31,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          },
-          {
             "text": "two",
             "label": "CARDINAL"
           },
@@ -55,6 +51,10 @@
           {
             "text": "July 15",
             "label": "DATE"
+          },
+          {
+            "text": "Tweet",
+            "label": "LOC"
           }
         ],
         [
@@ -103,8 +103,8 @@
             "label": "DATE"
           },
           {
-            "text": "22-24",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "last week",
@@ -115,7 +115,11 @@
             "label": "ORG"
           },
           {
-            "text": "15-17 & Petrol",
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
             "label": "DATE"
           },
           {
@@ -145,16 +149,8 @@
             "label": "ORG"
           },
           {
-            "text": "between July",
+            "text": "between July \u2013 15-17",
             "label": "DATE"
-          },
-          {
-            "text": "15-17",
-            "label": "DATE"
-          },
-          {
-            "text": "Petrol Shipment",
-            "label": "ORG"
           },
           {
             "text": "between July 22-24",
@@ -171,11 +167,15 @@
             "label": "ORG"
           },
           {
-            "text": "July 15-17 & Petrol 17-19",
+            "text": "July 15-17 & Petrol",
             "label": "DATE"
           },
           {
-            "text": "11",
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "today 11",
             "label": "DATE"
           },
           {
@@ -191,10 +191,6 @@
           {
             "text": "Three",
             "label": "CARDINAL"
-          },
-          {
-            "text": "Colombo",
-            "label": "PERSON"
           },
           {
             "text": "12-15th",
@@ -217,7 +213,7 @@
             "label": "DATE"
           },
           {
-            "text": "Crude Oil",
+            "text": "Colombo/Jul11/2022",
             "label": "ORG"
           }
         ]
@@ -249,10 +245,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          },
-          {
             "text": "\u0daf\u0dd9\u0d9a",
             "label": "CARDINAL"
           },
@@ -273,6 +265,10 @@
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 15",
             "label": "DATE"
+          },
+          {
+            "text": "\u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+            "label": "LOC"
           }
         ],
         [
@@ -321,8 +317,8 @@
             "label": "DATE"
           },
           {
-            "text": "22-24",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0d9c\u0dd2\u0dba \u0dc3\u0dad\u0dd2\u0dba",
@@ -333,7 +329,11 @@
             "label": "ORG"
           },
           {
-            "text": "15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca",
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
             "label": "DATE"
           },
           {
@@ -363,16 +363,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 \u0d85\u0dad\u0dbb",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 - 15-17 \u0d85\u0dad\u0dbb",
             "label": "DATE"
-          },
-          {
-            "text": "15-17",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
-            "label": "ORG"
           },
           {
             "text": "\u0da2\u0dd6\u0dbd\u0dd2 22-24 \u0d85\u0dad\u0dbb",
@@ -389,11 +381,15 @@
             "label": "ORG"
           },
           {
-            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca 17-19",
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 15-17 \u0dc3\u0dc4 \u0db4\u0dd9\u0da7\u0dca\u0dbb\u0dbd\u0dca",
             "label": "DATE"
           },
           {
-            "text": "11",
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0daf 11",
             "label": "DATE"
           },
           {
@@ -409,10 +405,6 @@
           {
             "text": "\u0dad\u0dd4\u0db1\u0dca",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "PERSON"
           },
           {
             "text": "12-15",
@@ -435,7 +427,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0db6\u0ddc\u0dbb \u0dad\u0dd9\u0dbd\u0dca",
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd211/2022",
             "label": "ORG"
           }
         ]
@@ -467,10 +459,6 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
             "label": "CARDINAL"
           },
@@ -491,6 +479,10 @@
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15",
             "label": "DATE"
+          },
+          {
+            "text": "\u0b9f\u0bcd\u0bb5\u0bc0\u0b9f\u0bcd",
+            "label": "LOC"
           }
         ],
         [
@@ -539,8 +531,8 @@
             "label": "DATE"
           },
           {
-            "text": "22-24",
-            "label": "DATE"
+            "text": "22",
+            "label": "CARDINAL"
           },
           {
             "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd",
@@ -551,7 +543,11 @@
             "label": "ORG"
           },
           {
-            "text": "15-17 & \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd",
+            "text": "15-17",
+            "label": "DATE"
+          },
+          {
+            "text": "17-19",
             "label": "DATE"
           },
           {
@@ -581,16 +577,8 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 - 15-17 \u0b87\u0b9f\u0bc8\u0baf\u0bc7",
             "label": "DATE"
-          },
-          {
-            "text": "15-17",
-            "label": "DATE"
-          },
-          {
-            "text": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf",
-            "label": "ORG"
           },
           {
             "text": "\u0b9c\u0bc2\u0bb2\u0bc8 22-24 \u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
@@ -607,11 +595,15 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15-17 & \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd 17-19",
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 15-17 & \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd",
             "label": "DATE"
           },
           {
-            "text": "11",
+            "text": "17-19",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 11",
             "label": "DATE"
           },
           {
@@ -627,10 +619,6 @@
           {
             "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
             "label": "CARDINAL"
-          },
-          {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "PERSON"
           },
           {
             "text": "12-15 \u0bb5\u0ba4\u0bc1",
@@ -653,7 +641,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd",
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc811/2022",
             "label": "ORG"
           }
         ]

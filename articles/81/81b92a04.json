@@ -68,7 +68,7 @@
             "label": "PERSON"
           },
           {
-            "text": "Vision of Prosperity",
+            "text": "the Vision of Prosperity",
             "label": "ORG"
           }
         ],
@@ -82,8 +82,12 @@
             "label": "PERSON"
           },
           {
-            "text": "North and East",
+            "text": "North",
             "label": "GPE"
+          },
+          {
+            "text": "East",
+            "label": "LOC"
           }
         ],
         []
@@ -166,8 +170,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+            "text": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4",
             "label": "GPE"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+            "label": "LOC"
           }
         ],
         []
@@ -250,8 +258,12 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+            "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "LOC"
           }
         ],
         []

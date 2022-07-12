@@ -22,6 +22,10 @@
         {
           "text": "Sri Lanka",
           "label": "GPE"
+        },
+        {
+          "text": "first",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -59,7 +63,7 @@
         ],
         [
           {
-            "text": "Sri Lanka\u2019s Immigration and Emigration Department",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -69,15 +73,11 @@
           {
             "text": "the first 10 days of June",
             "label": "DATE"
-          },
-          {
-            "text": "threefold",
-            "label": "CARDINAL"
           }
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           }
         ],
@@ -113,8 +113,12 @@
         ],
         [
           {
-            "text": "EconomyNext",
-            "label": "ORG"
+            "text": "Spokesperson",
+            "label": "PERSON"
+          },
+          {
+            "text": "Premaratne",
+            "label": "LOC"
           },
           {
             "text": "Hatton",
@@ -123,6 +127,10 @@
           {
             "text": "first",
             "label": "ORDINAL"
+          },
+          {
+            "text": "Colombo/Jul07/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -144,6 +152,10 @@
         {
           "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
           "label": "GPE"
+        },
+        {
+          "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -181,7 +193,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0d9c\u0db8\u0db1 \u0dc4\u0dcf \u0dc0\u0dd2\u0d9c\u0db8\u0db1 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -191,15 +203,11 @@
           {
             "text": "\u0da2\u0dd4\u0db1\u0dd2 \u0db4\u0dc5\u0db8\u0dd4 \u0daf\u0dd2\u0db1 10",
             "label": "DATE"
-          },
-          {
-            "text": "\u0dad\u0dd4\u0db1\u0dca \u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dd2\u0db1\u0dca",
-            "label": "CARDINAL"
           }
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           }
         ],
@@ -235,8 +243,12 @@
         ],
         [
           {
-            "text": "EconomyNext",
-            "label": "ORG"
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db4\u0dca\u200d\u0dbb\u0dda\u0db8\u0dbb\u0dad\u0dca\u0db1 \u0dba",
+            "label": "LOC"
           },
           {
             "text": "\u0dc4\u0dd0\u0da7\u0db1\u0dca",
@@ -245,6 +257,10 @@
           {
             "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
             "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 07/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -266,6 +282,10 @@
         {
           "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
           "label": "GPE"
+        },
+        {
+          "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+          "label": "ORDINAL"
         }
       ],
       "body_line_ents_list": [
@@ -303,7 +323,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0bb5\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0b95\u0bb2\u0bcd\u0bb5\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -313,15 +333,11 @@
           {
             "text": "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 10 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
-          },
-          {
-            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b9f\u0b99\u0bcd\u0b95\u0bc1",
-            "label": "CARDINAL"
           }
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           }
         ],
@@ -357,8 +373,12 @@
         ],
         [
           {
-            "text": "EconomyNext",
-            "label": "ORG"
+            "text": "\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "LOC"
           },
           {
             "text": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd",
@@ -367,6 +387,10 @@
           {
             "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
             "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc807/2022",
+            "label": "ORG"
           }
         ]
       ]

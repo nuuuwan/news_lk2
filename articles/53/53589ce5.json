@@ -69,10 +69,6 @@
         ],
         [
           {
-            "text": "billion",
-            "label": "CARDINAL"
-          },
-          {
             "text": "the first four months",
             "label": "DATE"
           },
@@ -83,7 +79,7 @@
         ],
         [
           {
-            "text": "Sri Lanka",
+            "text": "Sri Lanka\u2019s",
             "label": "GPE"
           },
           {
@@ -102,6 +98,10 @@
         [
           {
             "text": "SriLankan Airlines",
+            "label": "ORG"
+          },
+          {
+            "text": "SLA",
             "label": "ORG"
           },
           {
@@ -143,7 +143,16 @@
             "label": "GPE"
           }
         ],
-        [],
+        [
+          {
+            "text": "SLA",
+            "label": "ORG"
+          },
+          {
+            "text": "SLA",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "175 million",
@@ -189,7 +198,7 @@
           },
           {
             "text": "628 billion",
-            "label": "CARDINAL"
+            "label": "MONEY"
           }
         ],
         [
@@ -199,6 +208,10 @@
           },
           {
             "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "Rs628bn",
             "label": "ORG"
           }
         ],
@@ -214,12 +227,20 @@
             "label": "DATE"
           },
           {
-            "text": "4.70 to 370",
+            "text": "4.70",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "370",
             "label": "CARDINAL"
           },
           {
             "text": "US",
             "label": "GPE"
+          },
+          {
+            "text": "Colombo/June05/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -288,10 +309,6 @@
         ],
         [
           {
-            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1",
-            "label": "CARDINAL"
-          },
-          {
             "text": "\u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dad\u0dbb",
             "label": "DATE"
           },
@@ -302,7 +319,7 @@
         ],
         [
           {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
             "label": "GPE"
           },
           {
@@ -321,6 +338,10 @@
         [
           {
             "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0db1\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0d91\u0dbd\u0dca.\u0d92",
             "label": "ORG"
           },
           {
@@ -362,7 +383,16 @@
             "label": "GPE"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0d91\u0dbd\u0dca.\u0d92",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d91\u0dc3\u0dca.\u0d91\u0dbd\u0dca.\u0d92",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 175 \u0d9a\u0dd2",
@@ -408,7 +438,7 @@
           },
           {
             "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 628 \u0d9a\u0dd2",
-            "label": "CARDINAL"
+            "label": "MONEY"
           }
         ],
         [
@@ -418,6 +448,10 @@
           },
           {
             "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 628 \u0d9a\u0dd2",
             "label": "ORG"
           }
         ],
@@ -433,12 +467,20 @@
             "label": "DATE"
           },
           {
-            "text": "4.70 \u0dc3\u0dd2\u0da7 370 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "text": "4.70 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "370",
             "label": "CARDINAL"
           },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd4\u0db1\u0dd205/2022",
+            "label": "ORG"
           }
         ]
       ]
@@ -507,10 +549,6 @@
         ],
         [
           {
-            "text": "\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
-          },
-          {
             "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
             "label": "DATE"
           },
@@ -521,7 +559,7 @@
         ],
         [
           {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
             "label": "GPE"
           },
           {
@@ -540,6 +578,10 @@
         [
           {
             "text": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "SLA",
             "label": "ORG"
           },
           {
@@ -581,7 +623,16 @@
             "label": "GPE"
           }
         ],
-        [],
+        [
+          {
+            "text": "SLA",
+            "label": "ORG"
+          },
+          {
+            "text": "SLA",
+            "label": "ORG"
+          }
+        ],
         [
           {
             "text": "175 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
@@ -627,7 +678,7 @@
           },
           {
             "text": "628 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
-            "label": "CARDINAL"
+            "label": "MONEY"
           }
         ],
         [
@@ -637,6 +688,10 @@
           },
           {
             "text": "CPC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bc2628 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
             "label": "ORG"
           }
         ],
@@ -652,12 +707,20 @@
             "label": "DATE"
           },
           {
-            "text": "4.70 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 370 \u0bb5\u0bb0\u0bc8",
+            "text": "4.70",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "370",
             "label": "CARDINAL"
           },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0ba9\u0bcd05/2022",
+            "label": "ORG"
           }
         ]
       ]

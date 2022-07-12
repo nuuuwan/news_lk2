@@ -96,10 +96,10 @@
         [
           {
             "text": "Sri Lanka",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "211-215",
+            "text": "211",
             "label": "CARDINAL"
           },
           {
@@ -125,10 +125,6 @@
           {
             "text": "Middle East",
             "label": "LOC"
-          },
-          {
-            "text": "102",
-            "label": "CARDINAL"
           },
           {
             "text": "Dirham",
@@ -238,10 +234,10 @@
         [
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "211-215",
+            "text": "211",
             "label": "CARDINAL"
           },
           {
@@ -267,10 +263,6 @@
           {
             "text": "\u0db8\u0dd0\u0daf \u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c",
             "label": "LOC"
-          },
-          {
-            "text": "102",
-            "label": "CARDINAL"
           },
           {
             "text": "\u0da9\u0dd2\u0dbb\u0dcf\u0db8\u0dca",
@@ -380,10 +372,10 @@
         [
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
+            "label": "PERSON"
           },
           {
-            "text": "211-215",
+            "text": "211",
             "label": "CARDINAL"
           },
           {
@@ -409,10 +401,6 @@
           {
             "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
             "label": "LOC"
-          },
-          {
-            "text": "102",
-            "label": "CARDINAL"
           },
           {
             "text": "\u0ba4\u0bbf\u0bb0\u0bcd\u0bb9\u0bae\u0bcd",

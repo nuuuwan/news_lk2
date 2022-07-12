@@ -31,16 +31,12 @@
           "label": "GPE"
         },
         {
-          "text": "100bp",
-          "label": "PRODUCT"
+          "text": "100bp amid",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "Sri Lanka\u2019s",
-            "label": "GPE"
-          },
           {
             "text": "100",
             "label": "CARDINAL"
@@ -52,6 +48,10 @@
         ],
         [
           {
+            "text": "Board",
+            "label": "ORG"
+          },
+          {
             "text": "June",
             "label": "DATE"
           }
@@ -62,7 +62,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "Board",
+            "label": "ORG"
+          }
+        ],
         [],
         [],
         [],
@@ -100,15 +105,11 @@
             "label": "DATE"
           },
           {
-            "text": "Colombo",
-            "label": "GPE"
-          },
-          {
             "text": "54.6 percent",
             "label": "PERCENT"
           },
           {
-            "text": "200",
+            "text": "200 to 360",
             "label": "CARDINAL"
           }
         ],
@@ -120,10 +121,6 @@
         ],
         [],
         [
-          {
-            "text": "Sri Lanka",
-            "label": "GPE"
-          },
           {
             "text": "US",
             "label": "GPE"
@@ -176,16 +173,12 @@
           "label": "GPE"
         },
         {
-          "text": "100bp",
-          "label": "PRODUCT"
+          "text": "\u0db8\u0db0\u0dca\u200d\u0dba\u0dba\u0dda 100bp",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
-            "label": "GPE"
-          },
           {
             "text": "100",
             "label": "CARDINAL"
@@ -197,6 +190,10 @@
         ],
         [
           {
+            "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
             "text": "\u0da2\u0dd6\u0db1\u0dd2",
             "label": "DATE"
           }
@@ -207,7 +204,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          }
+        ],
         [],
         [],
         [],
@@ -245,15 +247,11 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
-            "label": "GPE"
-          },
-          {
             "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 54.6 \u0d9a\u0dd2",
             "label": "PERCENT"
           },
           {
-            "text": "200",
+            "text": "200 \u0dc3\u0dd2\u0da7 360 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
             "label": "CARDINAL"
           }
         ],
@@ -265,10 +263,6 @@
         ],
         [],
         [
-          {
-            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
-            "label": "GPE"
-          },
           {
             "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
             "label": "GPE"
@@ -321,16 +315,12 @@
           "label": "GPE"
         },
         {
-          "text": "100bp",
-          "label": "PRODUCT"
+          "text": "100bp \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd",
+          "label": "PERSON"
         }
       ],
       "body_line_ents_list": [
         [
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
-            "label": "GPE"
-          },
           {
             "text": "100",
             "label": "CARDINAL"
@@ -342,6 +332,10 @@
         ],
         [
           {
+            "text": "\u0baa\u0bb2\u0b95\u0bc8",
+            "label": "ORG"
+          },
+          {
             "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
             "label": "DATE"
           }
@@ -352,7 +346,12 @@
             "label": "ORG"
           }
         ],
-        [],
+        [
+          {
+            "text": "\u0baa\u0bb2\u0b95\u0bc8",
+            "label": "ORG"
+          }
+        ],
         [],
         [],
         [],
@@ -390,15 +389,11 @@
             "label": "DATE"
           },
           {
-            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
-            "label": "GPE"
-          },
-          {
             "text": "54.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
             "label": "PERCENT"
           },
           {
-            "text": "200",
+            "text": "200 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 360 \u0bb5\u0bb0\u0bc8",
             "label": "CARDINAL"
           }
         ],
@@ -410,10 +405,6 @@
         ],
         [],
         [
-          {
-            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "GPE"
-          },
           {
             "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
             "label": "GPE"
