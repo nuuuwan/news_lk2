@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-300255",
+    "time_ut": 1657614948,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7f/7fbc72ac.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83599/one-person-injured-in-shooting-at-new-chetty-street",
+    "time_ut": 1657614780,
+    "original_lang": "en",
+    "original_title": "One person injured in shooting at New Chetty Street",
+    "file_name": "/tmp/news_lk2/articles/3a/3a1129c9.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131319",
     "time_ut": 1657613893,
@@ -72,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/3f/3faa4c4d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Immigration-officials-at-MRIA-withdraw-from-service-to-prevent-political-VIPs-leaving-country/342-240912",
+    "time_ut": 1657611906,
+    "original_lang": "en",
+    "original_title": "Immigration officials at MRIA withdraw from service to prevent political VIPs leaving country",
+    "file_name": "/tmp/news_lk2/articles/78/789907a0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0dbb\u0dc5\u0db6\u0da9-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db6\u0dbd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca/101-616294",
     "time_ut": 1657611900,
@@ -81,19 +105,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/NASAs-Webb-delivers-deepest-infrared-image-of-universe-yet/108-240911",
-    "time_ut": 1657611702,
-    "original_lang": "en",
-    "original_title": "NASA\u2019s Webb delivers deepest infrared image of universe yet",
-    "file_name": "/tmp/news_lk2/articles/fc/fc08f888.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/NASAs-Webb-Delivers-Deepest-Infrared-Image-of-Universe-Yet/108-240911",
     "time_ut": 1657611702,
     "original_lang": "en",
     "original_title": "NASA\u2019s Webb Delivers Deepest Infrared Image of Universe Yet",
     "file_name": "/tmp/news_lk2/articles/24/24d13989.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/NASAs-Webb-delivers-deepest-infrared-image-of-universe-yet/108-240911",
+    "time_ut": 1657611702,
+    "original_lang": "en",
+    "original_title": "NASA\u2019s Webb delivers deepest infrared image of universe yet",
+    "file_name": "/tmp/news_lk2/articles/fc/fc08f888.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -129,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Motion-filed-in-Supreme-Court-urging-to-impose-travel-ban-on-MR-Basil-Cabraal-and-Atygalle/108-240908",
+    "url": "https://www.dailymirror.lk/latest_news/Motion-filed-in-Supreme-Court-urging-to-impose-travel-ban-on-MR-Basil-Cabraal-and-Atygalle/342-240908",
     "time_ut": 1657610336,
     "original_lang": "en",
     "original_title": "Motion filed in Supreme Court urging to impose travel ban on MR, Basil, Cabraal and Atygalle",
-    "file_name": "/tmp/news_lk2/articles/33/335cc124.json"
+    "file_name": "/tmp/news_lk2/articles/86/86cdb4d5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
