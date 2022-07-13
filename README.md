@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 01:33:40 (LK time)*
+*As of 2022-07-14 01:44:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (9 Articles)
 
 * **3** daily-mirror-lk ([75 admitted to NHC following clashes today](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57c4bce7.json))
-
-* **3** virakesari-lk ([சட்ட ஒழுங்கினை பாதூக்க முழுமையான ஒத்துழைப்பு வழங்குவோம். - பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d8478b3.json))
 
 * **2** ada-derana-lk ([Mahanayaka Theros’ plea to party leaders and protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/847a7735.json))
 
@@ -16,7 +14,7 @@
 
 * **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
-* **1** lankadeepa-lk ([‘‘පාර්ලිමේන්තුව වාහා කැඳවා විධිමත් පාලනයක් ගොඩනගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a62c934.json))
+* **1** virakesari-lk ([50 மணி நேர தலைமறைவு வாழ்க்கை முடிவுக்கு  ! கடந்த நாட்களில் அரங்கேறிய நாடகங்கள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b7326d.json))
 
 ## Last 24 Hours (316 Articles)
 
@@ -40,7 +38,7 @@
 
 * **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
 
-## Last Week (944 Articles)
+## Last Week (943 Articles)
 
 * **133** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
 
@@ -62,7 +60,7 @@
 
 * **33** d-b-s-jeyaraj-com ([The inside story of Rajapaksa family infighting that toppled a country into violence and bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
-* **29** b-b-c-com-sinhala (["අගමැති රටට ඩොලර් එන මාර්ග අහුරගෙන ඉන්නවා" - ධම්මික පෙරේරාගෙන් චෝදනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/292a8b41.json))
+* **28** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
 * **24** island-lk ([Giving people ideas?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e54b9e12.json))
 
