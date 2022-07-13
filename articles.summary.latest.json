@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0b9a\u0b9f\u0bb5\u0bc6\u0ba9-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1/175-300325",
+    "time_ut": 1657698002,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0b9a\u0b9f\u0bb5\u0bc6\u0ba9 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/47/476849b8.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131382",
     "time_ut": 1657697532,
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Trains-services-as-usual-today/342-240983",
+    "url": "https://www.dailymirror.lk/breaking_news/Trains-services-as-usual-today/108-240983",
     "time_ut": 1657696965,
     "original_lang": "en",
     "original_title": "Trains services as usual today",
-    "file_name": "/tmp/news_lk2/articles/d2/d25af9bf.json"
+    "file_name": "/tmp/news_lk2/articles/cd/cd9ce049.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -142,6 +150,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka under emergency, curfew in Western Province",
     "file_name": "/tmp/news_lk2/articles/34/3475722a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-under-emergency-curfew-in-western-province-pm-media-97330/",
+    "time_ut": 1657693800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka under emergency, curfew in Western Province: PM media",
+    "file_name": "/tmp/news_lk2/articles/04/04121355.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Possible devastating situation averted due to COVID vaccination rollout- President",
     "file_name": "/tmp/news_lk2/articles/a6/a6d90d9a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d92\u0d9a\u0d9a-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-33\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/3-390532",
-    "time_ut": 1645412223,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/30/306a9911.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb-\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a-\u0da2\u0ddb\u0dc0-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2/5-390527",
-    "time_ut": 1645366203,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0d9a \u0da2\u0ddb\u0dc0 \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/10/10b051ec.json"
   }
 ]
