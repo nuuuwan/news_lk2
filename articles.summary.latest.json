@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-300304",
+    "time_ut": 1657684621,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/78/7898f6e6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/bread-prices-increased-from-tuesday-12/",
+    "time_ut": 1657684620,
+    "original_lang": "en",
+    "original_title": "Bread prices increased from Tuesday (12)",
+    "file_name": "/tmp/news_lk2/articles/94/94f157d4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/india-did-not-facilitate-gotas-exit-hc/",
+    "time_ut": 1657684140,
+    "original_lang": "en",
+    "original_title": "India did not facilitate Gota\u2019s exit \u2013 HC",
+    "file_name": "/tmp/news_lk2/articles/4d/4d2e155b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/india-denies-aiding-sri-lanka-president-ex-finance-minister-flee-97318/",
+    "time_ut": 1657683960,
+    "original_lang": "en",
+    "original_title": "India denies aiding Sri Lanka president, ex-finance minister flee",
+    "file_name": "/tmp/news_lk2/articles/1d/1df5fa47.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616326",
+    "time_ut": 1657683871,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a6/a6cfa28f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0d87\u0dad\u0dd2-\u0db6\u0dbd\u0dad\u0dbd-\u0d85\u0db1\u0dd4\u0dc0-\u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dbd\u0da7-\u0dba\u0da7\u0dad\u0dca\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7-\u0dbb\u0dd0\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba\u0dcf/11-395375",
+    "time_ut": 1657683353,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0d87\u0dad\u0dd2 \u0db6\u0dbd\u0dad\u0dbd \u0d85\u0db1\u0dd4\u0dc0 \u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dbd\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/48/482acbd2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/president-has-left-the-country-pms-office/",
+    "time_ut": 1657683300,
+    "original_lang": "en",
+    "original_title": "President has left the country \u2013 PMs Office",
+    "file_name": "/tmp/news_lk2/articles/38/38c0c2ff.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4-\u0d9a\u0da9\u0d9a\u0dc5-\u0db6\u0dc0\u0da7-\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db8\u0dc3\u0dca\u0d9a\u0dca\u0da7-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/3-395374",
     "time_ut": 1657681985,
@@ -78,6 +134,14 @@
     "original_lang": "en",
     "original_title": "SLAF confirms provided facilities to President, party leave for Maldives",
     "file_name": "/tmp/news_lk2/articles/6a/6a3650d6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9c\u0dd2\u0dba\u0dda-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dd9\u0db1\u0dca---\u0d87\u0db1\u0dca\u0da7\u0db1\u0ddd\u0dc0\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca/11-395371",
+    "time_ut": 1657679472,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0dd2\u0dba\u0dda \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dd9\u0db1\u0dca - \u0d87\u0db1\u0dca\u0da7\u0db1\u0ddd\u0dc0\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7c/7c3573af.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -230,6 +294,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf",
     "file_name": "/tmp/news_lk2/articles/d6/d6ff5c9b.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62144503",
+    "time_ut": 1657663787,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0db1\u0ddc\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca:\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/84/84bc8bbe.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
