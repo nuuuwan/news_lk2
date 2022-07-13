@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 00:48:49 (LK time)*
+*As of 2022-07-14 00:55:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b88d82.json))
 
 ## Last Hour (4 Articles)
 
@@ -16,7 +12,7 @@
 
 * **1** ada-lk ([යළිත් වරක් පොරොන්දු කඩකළ ජනපති ගෝඨාභය](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/342e7ece.json))
 
-## Last 3 Hours (26 Articles)
+## Last 3 Hours (24 Articles)
 
 * **9** daily-mirror-lk ([Island-wide curfew will be lifted at 5:00 am tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c3c600.json))
 
@@ -24,13 +20,11 @@
 
 * **3** ada-derana-lk ([Island-wide curfew imposed](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78263177.json))
 
-* **3** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
-
 * **2** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
-* **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
+* **2** lankadeepa-lk ([හෙට අළුයම 5.00 දක්වා රටටම ඇඳිරි නීතිය පනවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e24dbb5.json))
 
-* **1** news-first-lk ([Island-wide curfew until 5 AM on Thursday (14)](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d9324.json))
+* **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
 ## Last 24 Hours (326 Articles)
 
@@ -54,7 +48,7 @@
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-## Last Week (946 Articles)
+## Last Week (945 Articles)
 
 * **133** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
 
@@ -74,7 +68,7 @@
 
 * **54** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
-* **35** d-b-s-jeyaraj-com ([Sri Lankan Prime Minister Ranil Wickremesinghe is confident he can turn the economy  around but  says  it will take 18 months before stability returns – Al Jazeera](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b0c0ef0.json))
+* **34** d-b-s-jeyaraj-com ([Full Text of Statement in Parliament by Prime  Minister Ranil Wickremesinghe  That Reported on the Progress of Talks with the IMF and outlined the roadmap  being followed by the Govt to revive the   Collapsed economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/224b0579.json))
 
 * **29** b-b-c-com-sinhala (["අගමැති රටට ඩොලර් එන මාර්ග අහුරගෙන ඉන්නවා" - ධම්මික පෙරේරාගෙන් චෝදනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/292a8b41.json))
 
