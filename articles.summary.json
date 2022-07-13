@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-300380",
+    "time_ut": 1657728772,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8b/8b076e66.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Gazette-issued-declaring-RW-acting-President/108-241022",
     "time_ut": 1657727720,
@@ -22,6 +30,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a7/a73d4513.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/state-of-emergency-should-not-suppress-fundamental-right-church-of-ceylon/",
+    "time_ut": 1657727520,
+    "original_lang": "en",
+    "original_title": "State of emergency should not suppress fundamental right \u2013 Church of Ceylon",
+    "file_name": "/tmp/news_lk2/articles/c9/c9e49e03.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -49,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tense-situation-erupts-near-Parliament-as-clashes-erupt/342-241021",
+    "url": "https://www.dailymirror.lk/breaking_news/Tense-situation-erupts-near-Parliament-as-clashes-erupt/108-241021",
     "time_ut": 1657726379,
     "original_lang": "en",
     "original_title": "Tense situation erupts near Parliament as clashes erupt",
-    "file_name": "/tmp/news_lk2/articles/c1/c14270ba.json"
+    "file_name": "/tmp/news_lk2/articles/72/7242bb1b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
