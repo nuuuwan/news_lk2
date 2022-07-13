@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 00:55:42 (LK time)*
+*As of 2022-07-14 01:11:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (1 Articles)
 
-* **2** daily-mirror-lk ([Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d8c760.json))
+* **1** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b88d82.json))
 
-* **1** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
+## Last 3 Hours (15 Articles)
 
-* **1** ada-lk ([යළිත් වරක් පොරොන්දු කඩකළ ජනපති ගෝඨාභය](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/342e7ece.json))
+* **4** daily-mirror-lk ([All should take immediate action to find solutions in democratic manner: Medical Administrators](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d87e58.json))
 
-## Last 3 Hours (24 Articles)
+* **4** virakesari-lk ([அடுத்த நடவடிக்கைகள்  குறித்து போதுமான கருத்தொருமிப்புடன் தீர்மானிக்க வேண்டும் - தேசிய சமாதானப் பேரவை வலியுறுத்துகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/965e322b.json))
 
-* **9** daily-mirror-lk ([Island-wide curfew will be lifted at 5:00 am tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c3c600.json))
-
-* **7** virakesari-lk ([நாடளாவிய ரீதியில் ஊரடங்கு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5ae1233e.json))
-
-* **3** ada-derana-lk ([Island-wide curfew imposed](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78263177.json))
+* **2** ada-derana-lk ([Mahanayaka Theros’ plea to party leaders and protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/847a7735.json))
 
 * **2** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
@@ -26,7 +22,7 @@
 
 * **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
-## Last 24 Hours (326 Articles)
+## Last 24 Hours (324 Articles)
 
 * **61** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
 
@@ -42,13 +38,13 @@
 
 * **22** news-first-lk ([President Rajapaksa leaves Sri Lanka – BBC](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5558feb.json))
 
-* **17** economy-next-com ([Sri Lanka stocks gain for third straight day amid rise in fixed asset return](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e30ee136.json))
+* **16** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
 
-* **11** daily-ft-lk ([‘Raja’: From Trotskyite lawyer to ‘Tamil Times’ Editor](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ff90f5.json))
+* **10** daily-ft-lk ([Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235ea505.json))
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-## Last Week (945 Articles)
+## Last Week (944 Articles)
 
 * **133** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
 
@@ -68,7 +64,7 @@
 
 * **54** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
-* **34** d-b-s-jeyaraj-com ([Full Text of Statement in Parliament by Prime  Minister Ranil Wickremesinghe  That Reported on the Progress of Talks with the IMF and outlined the roadmap  being followed by the Govt to revive the   Collapsed economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/224b0579.json))
+* **33** d-b-s-jeyaraj-com ([The inside story of Rajapaksa family infighting that toppled a country into violence and bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
 
 * **29** b-b-c-com-sinhala (["අගමැති රටට ඩොලර් එන මාර්ග අහුරගෙන ඉන්නවා" - ධම්මික පෙරේරාගෙන් චෝදනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/292a8b41.json))
 
