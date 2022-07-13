@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 01:14:30 (LK time)*
+*As of 2022-07-14 01:22:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b88d82.json))
 
 ## Last 3 Hours (13 Articles)
 
