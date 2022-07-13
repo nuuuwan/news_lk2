@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-flees-the-country-on-military-jet/108-240937",
+    "time_ut": 1657672176,
+    "original_lang": "en",
+    "original_title": "President flees the country on military jet",
+    "file_name": "/tmp/news_lk2/articles/f8/f847afae.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131357",
+    "time_ut": 1657670164,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0baa\u0bc7\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bcd\u0b9f\u0bca\u0ba9\u0bcb\u0bb5\u0bcd; 32 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0b8f.\u0b8e\u0bb5\u0bcd.\u0baa\u0bbf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b9/b98a3484.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131356",
     "time_ut": 1657666898,
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Will-the-next-fuel-shipment-arrive-via-a-company-owned-by-a-Rajapaksa/231-240935",
+    "url": "https://www.dailymirror.lk/opinion/Will-the-next-fuel-shipment-arrive-via-a-company-owned-by-a-Rajapaksa/172-240935",
     "time_ut": 1657657097,
     "original_lang": "en",
     "original_title": "Will the next fuel shipment arrive via  a company owned by a Rajapaksa?",
-    "file_name": "/tmp/news_lk2/articles/00/0027406d.json"
+    "file_name": "/tmp/news_lk2/articles/d1/d13e9c52.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -65,11 +81,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/What-next-EDITORIAL/231-240934",
+    "url": "https://www.dailymirror.lk/opinion/What-next-EDITORIAL/172-240934",
     "time_ut": 1657656117,
     "original_lang": "en",
     "original_title": "What next? - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/ba/bafac05e.json"
+    "file_name": "/tmp/news_lk2/articles/9a/9a9711d2.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -584,6 +600,14 @@
     "file_name": "/tmp/news_lk2/articles/ad/ad3763cf.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131324",
+    "time_ut": 1657634133,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd, \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba4\u0baf\u0bbe\u0bb0\u0bcd -\u00a0\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0b85\u0ba4\u0bcd\u0ba4\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+    "file_name": "/tmp/news_lk2/articles/45/45169b84.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83604/motor-traffic-dept-to-remain-closed-on-fridays",
     "time_ut": 1657633800,
@@ -694,6 +718,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8: \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
     "file_name": "/tmp/news_lk2/articles/6b/6bb4de2d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combank-launches-arunalu-foreign-currency-savings-account-for-children/",
+    "time_ut": 1657628940,
+    "original_lang": "en",
+    "original_title": "ComBank launches \u2018Arunalu\u2019 Foreign Currency Savings Account for children",
+    "file_name": "/tmp/news_lk2/articles/ed/ed3facbe.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2238,6 +2270,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/47/47e45883.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/awesome-night-for-sri-lankan/",
+    "time_ut": 1657561620,
+    "original_lang": "en",
+    "original_title": "Awesome night for Sri Lankan",
+    "file_name": "/tmp/news_lk2/articles/e5/e583da22.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -4238,6 +4278,14 @@
     "original_lang": "en",
     "original_title": "THE FINANCIAL CRISIS \u2013 MISMANAGEMENT, FEAR OR COLLUSION?",
     "file_name": "/tmp/news_lk2/articles/65/653f0d38.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/coming-colour/",
+    "time_ut": 1657376880,
+    "original_lang": "en",
+    "original_title": "Coming colour?",
+    "file_name": "/tmp/news_lk2/articles/f8/f80c34b3.json"
   },
   {
     "newspaper_id": "island-lk",
