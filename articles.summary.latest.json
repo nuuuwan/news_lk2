@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLRC-telecasts-go-off-the-air/108-240989",
+    "time_ut": 1657700480,
+    "original_lang": "en",
+    "original_title": "SLRC telecasts go off the air",
+    "file_name": "/tmp/news_lk2/articles/a3/a32219d8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd2\u0da7-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2/1-616346",
+    "time_ut": 1657700156,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd2\u0da7 \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e3aead33.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb0\u0bc2\u0baa\u0bb5\u0bbe\u0bb9\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf-\u0ba8\u0bbf\u0bb2\u0bc8/175-300333",
+    "time_ut": 1657699921,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb0\u0bc2\u0baa\u0bb5\u0bbe\u0bb9\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/b0/b088f4b0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-\u0baa\u0bb1\u0ba8\u0bcd\u0ba4-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe/175-300332",
+    "time_ut": 1657699821,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bb1\u0ba8\u0bcd\u0ba4 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/9c/9c420b09.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7\u0dad\u0dca-\u0dba\u0dad\u0dd2/1-616345",
+    "time_ut": 1657699787,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7\u0dad\u0dca \u0dba\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/81/81577fd0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/military-helicopter-fly-low-over-colombo-protests/",
+    "time_ut": 1657699380,
+    "original_lang": "en",
+    "original_title": "Military helicopter fly low over Colombo protests",
+    "file_name": "/tmp/news_lk2/articles/3a/3a907a85.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131379",
     "time_ut": 1657699229,
@@ -112,12 +160,28 @@
     "file_name": "/tmp/news_lk2/articles/47/476849b8.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1-\u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca-\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1-\u0db4\u0dd4\u0dc0\u0dad\u0dca\u0db4\u0dad\u0d9a\u0da7-\u0dc3\u0dd6\u0db8\u0dca-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0-\u0dc0\u0dd9\u0dbd\u0dcf/1-616343",
+    "time_ut": 1657697554,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1 \u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1 \u0db4\u0dd4\u0dc0\u0dad\u0dca\u0db4\u0dad\u0d9a\u0da7 \u0dc3\u0dd6\u0db8\u0dca \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/a3/a3b2acb1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131382",
     "time_ut": 1657697532,
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe ; \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9?",
     "file_name": "/tmp/news_lk2/articles/1d/1dd10348.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/ranil-declared-emergency-pms-media-division/",
+    "time_ut": 1657697400,
+    "original_lang": "en",
+    "original_title": "Ranil declared emergency \u2013 PMs Media Division",
+    "file_name": "/tmp/news_lk2/articles/f9/f948b3df.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -313,11 +377,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc5\u0dd4-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7\u0db8-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba:-\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb\u0da7-\u0d87\u0daf\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba/101-616337",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd4\u0dc5\u0dd4-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7\u0db8-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba:-\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb\u0da7-\u0d87\u0daf\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba/1-616337",
     "time_ut": 1657692763,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dc5\u0dd4 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7\u0db8 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba: \u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb\u0da7 \u0d87\u0daf\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/b6/b612f5f5.json"
+    "file_name": "/tmp/news_lk2/articles/6e/6ef6575c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "The next couple of months will be the most difficult of our lives, PM informs the nation",
     "file_name": "/tmp/news_lk2/articles/c8/c8812a81.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/More-Ministers-to-be-sworn-in-today/342-237068",
-    "time_ut": 1652674218,
-    "original_lang": "en",
-    "original_title": "More Ministers to be sworn in today",
-    "file_name": "/tmp/news_lk2/articles/06/0624a4d0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/hague-tribunal-mig-deal-revelations-the-main-motive-for-lasanthas-murder-ex-ip-nishantha-silva/",
-    "time_ut": 1652577504,
-    "original_lang": "en",
-    "original_title": "Hague Tribunal: \u2018MiG Deal Revelations The Main Motive For Lasantha\u2019s Murder\u2019 \u2013 Ex IP Nishantha Silva",
-    "file_name": "/tmp/news_lk2/articles/d5/d5049d84.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/342-237033",
-    "time_ut": 1652512579,
-    "original_lang": "en",
-    "original_title": "Leave aside party politics and lets join hands to resolve burning issues - RW writes to Sajith",
-    "file_name": "/tmp/news_lk2/articles/a4/a4275c0a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/155-236872",
-    "time_ut": 1652341395,
-    "original_lang": "en",
-    "original_title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "file_name": "/tmp/news_lk2/articles/66/6673a461.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Dozen-arrested-for-protesting-near-Parliament/342-236256",
-    "time_ut": 1651650666,
-    "original_lang": "en",
-    "original_title": "Dozen arrested for protesting near Parliament",
-    "file_name": "/tmp/news_lk2/articles/cf/cf0194e3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/PM-and-Cabinet-should-resign-and-form-an-all-party-govt-Dullas-writes-to-Prez/155-235515",
-    "time_ut": 1650635474,
-    "original_lang": "en",
-    "original_title": "PM and Cabinet should resign and form an all party govt- Dullas writes to Prez",
-    "file_name": "/tmp/news_lk2/articles/f2/f2eaa466.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-says-recommendations-made-by-PCoI-delayed/108-235439",
-    "time_ut": 1650544177,
-    "original_lang": "en",
-    "original_title": "Cardinal says recommendations made by PCoI delayed",
-    "file_name": "/tmp/news_lk2/articles/d1/d1618b2b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protestors-refuse-to-meet-PM-put-forward-two-demands/342-235062",
-    "time_ut": 1649852682,
-    "original_lang": "en",
-    "original_title": "Protestors refuse to meet PM, put forward two demands",
-    "file_name": "/tmp/news_lk2/articles/aa/aa07d86a.json"
   }
 ]
