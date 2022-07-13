@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8-\u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300375",
+    "time_ut": 1657725525,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/90/902ddd26.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83627/ranil-requests-speaker-to-nominate-a-pm-accepted-by-govt-and-oppn-to-form-all-party-govt",
+    "time_ut": 1657725480,
+    "original_lang": "en",
+    "original_title": "Ranil requests Speaker to nominate a PM accepted by govt and oppn to form all-party govt",
+    "file_name": "/tmp/news_lk2/articles/02/02dfb029.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/PM-office-taken-over/342-241017",
+    "time_ut": 1657725401,
+    "original_lang": "en",
+    "original_title": "PM office taken over",
+    "file_name": "/tmp/news_lk2/articles/0d/0d6f705f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616377",
+    "time_ut": 1657725356,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b7/b7cd2d93.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Samarasinghe-attacked-at-Galle-Face-protest-site/108-241016",
     "time_ut": 1657725146,
@@ -25,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RW-informs-Speaker-to-nominate-a-PM/155-241014",
+    "url": "https://www.dailymirror.lk/latest_news/RW-informs-Speaker-to-nominate-a-PM/342-241014",
     "time_ut": 1657724551,
     "original_lang": "en",
     "original_title": "RW informs Speaker to nominate a PM",
-    "file_name": "/tmp/news_lk2/articles/8b/8b999356.json"
+    "file_name": "/tmp/news_lk2/articles/71/71cfb0e5.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -934,6 +966,14 @@
     "original_lang": "ta",
     "original_title": "\u0baf\u0bbe\u0bb4\u0bcd \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/12/120f7929.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4/1-616351",
+    "time_ut": 1657702115,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+    "file_name": "/tmp/news_lk2/articles/f9/f93d1fd2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
