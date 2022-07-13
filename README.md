@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 02:23:59 (LK time)*
+*As of 2022-07-14 02:33:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -44,9 +44,9 @@
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-## Last Week (945 Articles)
+## Last Week (943 Articles)
 
-* **135** daily-mirror-lk ([Give heed to the cry of a people in pain](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9047d40d.json))
+* **133** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
 * **128** lankadeepa-lk ([දිළිඳුකමේ ගැටලුව  පාලකයන්ට නොපෙනේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24df0acd.json))
 
