@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/president-rajapaksa-leaves-sri-lanka-bbc/",
+    "time_ut": 1657673340,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa leaves Sri Lanka \u2013 BBC",
+    "file_name": "/tmp/news_lk2/articles/d5/d5558feb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83609/president-gotabaya-arrives-in-maldives-reports",
+    "time_ut": 1657672560,
+    "original_lang": "en",
+    "original_title": "President Gotabaya arrives in Maldives: reports",
+    "file_name": "/tmp/news_lk2/articles/25/25a8c59d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-flees-the-country-on-military-jet/108-240937",
+    "url": "https://www.dailymirror.lk/latest_news/President-flees-the-country-on-military-jet/342-240937",
     "time_ut": 1657672176,
     "original_lang": "en",
     "original_title": "President flees the country on military jet",
-    "file_name": "/tmp/news_lk2/articles/f8/f847afae.json"
+    "file_name": "/tmp/news_lk2/articles/46/4631b60c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -558,6 +574,14 @@
     "original_lang": "en",
     "original_title": "LPL 2022 schedule announced; 24 matches in total",
     "file_name": "/tmp/news_lk2/articles/79/79adbe1e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131337",
+    "time_ut": 1657635454,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd  ?",
+    "file_name": "/tmp/news_lk2/articles/6e/6e8df182.json"
   },
   {
     "newspaper_id": "virakesari-lk",
