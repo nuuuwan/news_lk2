@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131398",
+    "time_ut": 1657708408,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0ba3\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/16/165d0e40.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protesters-tear-gassed/342-241000",
+    "time_ut": 1657708160,
+    "original_lang": "en",
+    "original_title": "Protesters tear gassed...",
+    "file_name": "/tmp/news_lk2/articles/2c/2cafd965.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131397",
+    "time_ut": 1657707902,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b2/b207ba6b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131391",
+    "time_ut": 1657707827,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd ; 24 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/23/2341e49a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc3\u0dcf\u0db8\u0dba-\u0dc4\u0dcf-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0db6\u0dbd\u0dba-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u2019\u2019/101-616360",
+    "time_ut": 1657707525,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0dc3\u0dcf\u0db8\u0dba \u0dc4\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7 \u0db6\u0dbd\u0dba \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/8e/8eef46ec.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7/11-395395",
+    "time_ut": 1657707413,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d7/d744c2e2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131394",
     "time_ut": 1657707014,
     "original_lang": "ta",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Second  Ship  with 14,712 tonnes rice, 250 tonnes of milk powder and 38 tonnes of medicines  Valued at 670 Million Indian Rupees sent as Gift from Tamil Nadu State to Sri Lanka Leaves Thoothukkudy Port",
     "file_name": "/tmp/news_lk2/articles/39/39e18e8c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78115",
-    "time_ut": 1655923680,
-    "original_lang": "en",
-    "original_title": "\u201cThe Leader of the Opposition  must engage in good faith with the President and Prime Minister to try and prevent them from driving  Sri Lanka into calamity\u201d-  Open Letter to Sajith Premadasa by  Krishantha Prasad  Cooray",
-    "file_name": "/tmp/news_lk2/articles/ca/ca22874f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dbb\u0dd4\u0db1\u0dca-\u0db4\u0dd0\u0dbb\u0daf\u0dc0\u0dd6-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dd2\u0d82\u0dc4-\u0db4\u0dd0\u0da7\u0dc0\u0dca/2-615233",
-    "time_ut": 1655910023,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dbb\u0dd4\u0db1\u0dca \u0db4\u0dd0\u0dbb\u0daf\u0dc0\u0dd6 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd2\u0d82\u0dc4 \u0db4\u0dd0\u0da7\u0dc0\u0dca",
-    "file_name": "/tmp/news_lk2/articles/05/05acef60.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/117-615199",
-    "time_ut": 1655874584,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/3c/3c32908c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dbd\u0dcf/7-394679",
-    "time_ut": 1655872055,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db1\u0da9\u0dd4 \u0db4\u0dc0\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/1e/1e0ca084.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78160",
-    "time_ut": 1655844720,
-    "original_lang": "en",
-    "original_title": "\u201cOur economy has faced a complete collapse. That is the most serious issue before us today. . It is no easy task to revive a country with a completely collapsed economy, especially one that is dangerously low on foreign reserves. We are now seeing signs of a possible fall into the very bottom.\u201d-Premier Ranil Wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/07/07b87ce9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78149",
-    "time_ut": 1655840460,
-    "original_lang": "en",
-    "original_title": "\u201cWe intend to enter into an official level agreement with the IMF by the end of July. If we receive the IMF seal of approval, the world will once again trust us. It will help us to secure loan assistance as well as low-interest loans from other countries in the world,\u201d- Prime Minister  Ranil Wickremesinghe  in a special statement",
-    "file_name": "/tmp/news_lk2/articles/9b/9b5cc680.json"
   }
 ]
