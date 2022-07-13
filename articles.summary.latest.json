@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131394",
+    "time_ut": 1657707014,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf - \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a7/a72282d7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83621/committee-appointed-to-restore-law-and-order-acting-president-",
     "time_ut": 1657706760,
     "original_lang": "en",
     "original_title": "Committee appointed to restore law and order - Acting President",
     "file_name": "/tmp/news_lk2/articles/90/906faa7b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/security-forces-directed-to-bring-situation-in-sri-lanka-to-normalcy-acting-president-ranil-wickremesinghe/",
+    "time_ut": 1657706700,
+    "original_lang": "en",
+    "original_title": "Security forces directed to bring situation in Sri Lanka to normalcy \u2013 Acting President Ranil Wickremesinghe",
+    "file_name": "/tmp/news_lk2/articles/26/2656277d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dd2\u0dad\u0dd2\u0dba-\u0dc4\u0dcf-\u0dc3\u0dcf\u0db8\u0dba-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0dba\u0db1\u0dca\u0db1-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1/11-395394",
+    "time_ut": 1657706699,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0dad\u0dd2\u0dba \u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dba \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/3c/3c6dcb6b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -78,14 +102,6 @@
     "original_lang": "en",
     "original_title": "PM office taken over by protesters",
     "file_name": "/tmp/news_lk2/articles/be/bed44525.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131390",
-    "time_ut": 1657704649,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b9a\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/00/00979f7e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -174,6 +190,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b9a\u0bae\u0bcd (Video)",
     "file_name": "/tmp/news_lk2/articles/3a/3a3a7c9b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/video/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0b9a\u0bae\u0bcd/52-300336",
+    "time_ut": 1657703847,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b9a\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/97/97058533.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -982,6 +1006,14 @@
     "original_lang": "en",
     "original_title": "Blessings from Buddha",
     "file_name": "/tmp/news_lk2/articles/d7/d7b4efad.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62149875",
+    "time_ut": 1657687710,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/26/26f20246.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u201cWe intend to enter into an official level agreement with the IMF by the end of July. If we receive the IMF seal of approval, the world will once again trust us. It will help us to secure loan assistance as well as low-interest loans from other countries in the world,\u201d- Prime Minister  Ranil Wickremesinghe  in a special statement",
     "file_name": "/tmp/news_lk2/articles/9b/9b5cc680.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78151",
-    "time_ut": 1655839440,
-    "original_lang": "en",
-    "original_title": "The UK should join with the U.S., India and other \u201cquad countries\u201d to provide urgent bridge funding to  Sri Lanka stabilize the country and offer a coherent alternative to investment dependency on China.",
-    "file_name": "/tmp/news_lk2/articles/4c/4c97dac9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78154",
-    "time_ut": 1655838900,
-    "original_lang": "en",
-    "original_title": "Dhammika Perera says he is  grateful to Basil Rajapaksa : \u201cBasil Rajapaksa had nominated me, this seat was supposed to be handed over to someone else, but it was Basil who asked me to step in\u201dsays new SLPP Nationl list MP",
-    "file_name": "/tmp/news_lk2/articles/fc/fc20bdb8.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78162",
-    "time_ut": 1655838360,
-    "original_lang": "en",
-    "original_title": "Ranil Outlines  plan  in Parliament for the next couple of months to ensure food security in Country:. \u201cI have already made arrangements to ensure that citizens will not be left hungry despite the severe economic crisis\u201d says Prime Minister",
-    "file_name": "/tmp/news_lk2/articles/1b/1bf730a5.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78167",
-    "time_ut": 1655837820,
-    "original_lang": "en",
-    "original_title": "Ashok Ferrey wins Prestigious  Gratiaen Prize 2021 for his novel \u2018The Unmarriageable Man\u2019, published by Penguin, India.",
-    "file_name": "/tmp/news_lk2/articles/da/da4443c7.json"
   }
 ]
