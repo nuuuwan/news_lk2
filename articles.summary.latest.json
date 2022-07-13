@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/a5/a58b62f9.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/president-rajapaksa-set-to-fly-to-singapore-reuters/",
+    "time_ut": 1657723440,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa set to fly to Singapore \u2013 Reuters",
+    "file_name": "/tmp/news_lk2/articles/da/dac0fab3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0daf\u0dda\u0db4\u0dc5-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf-\u0d9a\u0dbb\u0dad\u0dd2/1-616375",
     "time_ut": 1657723333,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Livelihood of Northern Sri Lankan Fishermen  Being \u201cCrushed\u201d again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban",
     "file_name": "/tmp/news_lk2/articles/43/43992a87.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Japan-will-not-help-SL-now/155-240126",
-    "time_ut": 1656643666,
-    "original_lang": "en",
-    "original_title": "Japan will not help SL now",
-    "file_name": "/tmp/news_lk2/articles/44/446d6352.json"
   }
 ]
