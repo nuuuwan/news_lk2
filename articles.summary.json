@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dbb\u0da7-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0d9c\u0dd0\u0db1-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca/101-616349",
+    "time_ut": 1657701380,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0d9c\u0dd0\u0db1 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b0/b09effa4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d85\u0dc4\u0dc3-\u0dc0\u0da7\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dcf/101-616348",
+    "time_ut": 1657700919,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d85\u0dc4\u0dc3 \u0dc0\u0da7\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/05/05369838.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLRC-telecasting-goes-off-air/108-240989",
+    "time_ut": 1657700480,
+    "original_lang": "en",
+    "original_title": "SLRC telecasting goes off air",
+    "file_name": "/tmp/news_lk2/articles/e8/e81cdf94.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SLRC-telecasts-go-off-the-air/108-240989",
     "time_ut": 1657700480,
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7\u0dad\u0dca-\u0dba\u0dad\u0dd2/1-616345",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7\u0dad\u0dca-\u0dba\u0dad\u0dd2/101-616345",
     "time_ut": 1657699787,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7\u0dad\u0dca \u0dba\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/81/81577fd0.json"
+    "file_name": "/tmp/news_lk2/articles/da/dac393e1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -166,6 +190,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1 \u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1 \u0db4\u0dd4\u0dc0\u0dad\u0dca\u0db4\u0dad\u0d9a\u0da7 \u0dc3\u0dd6\u0db8\u0dca \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd9\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/a3/a3b2acb1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1-\u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca-\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1-\u0db4\u0dd4\u0dc0\u0dad\u0dca\u0dc3\u0dda\u0dc0\u0dba\u0da7-\u0dc3\u0dd6\u0db8\u0dca-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0-\u0dc0\u0dd9\u0dbd\u0dcf/101-616343",
+    "time_ut": 1657697554,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1 \u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1 \u0db4\u0dd4\u0dc0\u0dad\u0dca\u0dc3\u0dda\u0dc0\u0dba\u0da7 \u0dc3\u0dd6\u0db8\u0dca \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/b0/b07a10b9.json"
   },
   {
     "newspaper_id": "virakesari-lk",
