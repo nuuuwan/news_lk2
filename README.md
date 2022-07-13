@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 16:55:34 (LK time)*
+*As of 2022-07-13 17:05:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,11 +12,11 @@
 
 * **1** tamil-mirror-lk ([5 மணிக்கு முக்கிய சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30e4d4f1.json))
 
-## Last Hour (12 Articles)
+## Last Hour (10 Articles)
 
 * **3** lankadeepa-lk ([කතානායක හදිසි පක්ෂ නායක රැස්වීමක් කැඳවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a66fd860.json))
 
-* **3** daily-mirror-lk ([Protesters tear gassed...](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e86af23e.json))
+* **2** daily-mirror-lk ([Dansala at Gangarama temple](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e25018f2.json))
 
 * **2** tamil-mirror-lk ([ஜோடியை பாருங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45a9b61d.json))
 
@@ -24,11 +24,9 @@
 
 * **1** news-first-lk ([Govt initiated a wave of oppression](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fb8acc.json))
 
-* **1** virakesari-lk ([ஜனாதிபதி மற்றும் பதில் ஜனாதிபதிக்கு மக்களாணை கிடையாது - மைத்திரிபால சிறிசேன](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/165d0e40.json))
+## Last 3 Hours (64 Articles)
 
-## Last 3 Hours (65 Articles)
-
-* **14** lankadeepa-lk ([කොළඹ අහස වටා ගුවන් යානා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c0d64a2.json))
+* **13** lankadeepa-lk ([මෙරට තත්ත්වය ගැන රුසියාවෙන් ප්‍රකාශයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b070aa9.json))
 
 * **13** virakesari-lk ([பொருளாதார பிரச்சினையில் இருந்து மீள இதுவரை மேற்கொண்டுவந்த நடவடிக்கைகளை தொடர்ந்து முன்னுக்கு கொண்டுசெல்ல வேண்டும் - மத்திய வங்கி ஆளுநர் அறிவுரை](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99c02ecf.json))
 
@@ -44,9 +42,9 @@
 
 * **4** economy-next-com ([Sri Lanka protestors come on state TV, Rupavahini ITN suspend programs](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b73abec.json))
 
-## Last 24 Hours (318 Articles)
+## Last 24 Hours (312 Articles)
 
-* **54** virakesari-lk ([ஊடகவியலாளர்கள் தாக்கப்பட்டமை, பிரதமரின் வீட்டுக்கு தீ மூட்டப்பட்டதையும் வன்மையாகக் கண்டிக்கின்றோம் - அகில இலங்கை ஜம்இய்யத்துல் உலமா சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6037e041.json))
+* **52** virakesari-lk ([கொட்டாவ பகுதியில் எரிவாயு வரிசையில் காத்திருந்த ஒருவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f7fb98b.json))
 
 * **49** lankadeepa-lk ([අඩුම ලංසුවට ගෑස් ගන්න: ලිට්රෝ සමාගමට එරෙහිව රිටි පෙත්සමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d561b46.json))
 
@@ -54,11 +52,11 @@
 
 * **41** tamil-mirror-lk ([கோட்டாவின் கோரிக்கை: நிராகரித்தது அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bb4de2d.json))
 
-* **34** ada-lk ([තවත් 110ක් අද දකුණු කොරියාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc6670c.json))
+* **32** ada-lk ([කහ කුඩු වලින් හදපු පෙට්‍රල් ලීටරයක් රු. 1000ට විකුණලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da30ae37.json))
 
-* **25** ada-derana-lk ([Omalpe Sobhitha Thero makes a request from protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/706cd514.json))
+* **24** ada-derana-lk ([Motor Traffic Dept. to remain closed on Fridays](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ec50ed.json))
 
-* **24** news-first-lk ([Russia says developments in Sri Lanka an Internal Affair](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e304c5eb.json))
+* **23** news-first-lk ([CBSL warns public with regard to risks associated with cryptocurrencies](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe7a3db4.json))
 
 * **18** economy-next-com ([Sri Lanka Treasuries yields up, 3-months rise to 32.11-pct](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34ceeadb.json))
 
