@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Trains-from-distant-places-to-Colombo-halted-indefinitely/342-240998",
+    "time_ut": 1657706333,
+    "original_lang": "en",
+    "original_title": "Trains from distant places to Colombo halted indefinitely",
+    "file_name": "/tmp/news_lk2/articles/6e/6e95a832.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-leave-for-Singapore-from-Maldives/108-240997",
+    "time_ut": 1657706286,
+    "original_lang": "en",
+    "original_title": "President to leave for Singapore from Maldives",
+    "file_name": "/tmp/news_lk2/articles/4b/4baf60d5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131393",
+    "time_ut": 1657706177,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0ba4\u0bcd\u0baa\u0bca\u0ba9\u0bcd\u0b9a\u0bc7\u0b95\u0bbe \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "file_name": "/tmp/news_lk2/articles/ca/caffc8b7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131392",
+    "time_ut": 1657706144,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bae\u0bc1\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf - \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0bb8\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+    "file_name": "/tmp/news_lk2/articles/5b/5b54d0cb.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bb5\u0bc7-\u0b86\u0baf\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8/175-300339",
+    "time_ut": 1657706004,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bb5\u0bc7 \u0b86\u0baf\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ea/eaeba8b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Military-police-given-authority-to-control-situation-Ranil/108-240996",
     "time_ut": 1657705685,
     "original_lang": "en",
@@ -177,11 +217,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-23-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-616353",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-23-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616353",
     "time_ut": 1657703097,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 23 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/3b/3b94b28d.json"
+    "file_name": "/tmp/news_lk2/articles/ae/ae4f9d24.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "St Kitts and Nevis based bank, Hamilton Reserve, files suit in the Federal Court of New York against Sri Lanka  for Defaulting on Bonds and Demands Full Payment",
     "file_name": "/tmp/news_lk2/articles/24/2404fc38.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0da9\u0ddc-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1--5-75\u0d9a-\u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a-\u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca/7-394649",
-    "time_ut": 1655792825,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0da9\u0ddc.\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1  5.75\u0d9a \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0d86\u0db0\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/bd/bd2485fb.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78132",
-    "time_ut": 1655754060,
-    "original_lang": "en",
-    "original_title": "Samagi Jana Balawegaya (SJB) and  JVP-led National People\u2019s Power (NPP) along with \u201cindependent\u201d MPs Champika Ranawaka and  Athureliya Ratana Thera walk out after announcing they will boycott Parliament sittings this week in protest against Govt .",
-    "file_name": "/tmp/news_lk2/articles/ca/cabf5476.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78130",
-    "time_ut": 1655753040,
-    "original_lang": "en",
-    "original_title": "Business Tycoon Dhammika Perera  Likely to be Sworn in as SLPP National List MP on June 22 Following the Supreme Court 3 Judge Bench Majority Decision to not Grant Leave to Proceed for Five Fundamental Rights Petitions Challenging Perera\u2019s appointment.",
-    "file_name": "/tmp/news_lk2/articles/f8/f8ec637c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78134",
-    "time_ut": 1655752500,
-    "original_lang": "en",
-    "original_title": "Supreme Court Rules that  Majority of Clauses in 21st Constitutional Amendment Bill Tabled by Samagi Jana Balawegaya Would Require to be Passed by Two-thirds Majority in Parlianent and Approved by the People at a Referendum",
-    "file_name": "/tmp/news_lk2/articles/14/14945569.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78136",
-    "time_ut": 1655751960,
-    "original_lang": "en",
-    "original_title": "Cabinet Approves Govt\u2019s 22nd Constitutional Amendment Draft Bill; Draft would be sent to Attorney-General and Legal Draftsman for Fine Tuning",
-    "file_name": "/tmp/news_lk2/articles/47/4732cb0e.json"
   }
 ]
