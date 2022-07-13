@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 23:24:05 (LK time)*
+*As of 2022-07-13 23:35:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -20,9 +20,9 @@
 
 * **1** lankadeepa-lk ([‘‘පාර්ලිමේන්තුව වාහා කැඳවා විධිමත් පාලනයක් ගොඩනගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a62c934.json))
 
-## Last 3 Hours (47 Articles)
+## Last 3 Hours (46 Articles)
 
-* **15** daily-mirror-lk ([RW informs Speaker to nominate a PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc78eaa.json))
+* **14** daily-mirror-lk ([Restore law and order in the country immediately: SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0118feb.json))
 
 * **11** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
 
@@ -36,7 +36,7 @@
 
 * **2** ada-lk ([සාමකාමි බල හුවමාරුවක් සඳහා දේශපාලන නායකයන්ට ඉඩ දෙන්න - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/3432c736.json))
 
-## Last 24 Hours (331 Articles)
+## Last 24 Hours (330 Articles)
 
 * **61** daily-mirror-lk ([JVP urges PM to resign or Prez to remove him to avert his moves to become Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38856c64.json))
 
@@ -58,7 +58,7 @@
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-* **2** colombo-telegraph-com ([Tumult, Tear Gas & Tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb398642.json))
+* **1** colombo-telegraph-com ([The First Step Of Aragalaya Is Completed: What Is Next?](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/396f2e6f.json))
 
 ## Last Week (943 Articles)
 
