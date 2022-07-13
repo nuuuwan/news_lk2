@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131372",
+    "time_ut": 1657692375,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb4\u0bc8\u0baf \u0b95\u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0bb2\u0b95 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba4\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd- \u0b85\u0bb0\u0bcd\u0b9c\u0bc2\u0ba9 \u0bae\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d7/d76db88c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Four-hospitalised-following-clash-at-GotaGoGama/108-240978",
+    "time_ut": 1657692207,
+    "original_lang": "en",
+    "original_title": "Four hospitalised following clash at \u2019GotaGoGama\u2019",
+    "file_name": "/tmp/news_lk2/articles/e7/e7f44e24.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dd4\u0dad\u0dca-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-616336",
+    "time_ut": 1657692177,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dd4\u0dad\u0dca \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f9/f93a419a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0dbd\u0dd0\u0db6\u0dd3-\u0db1\u0dd1:-\u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf\u2019\u2019/101-616335",
     "time_ut": 1657691625,
@@ -112,6 +136,14 @@
     "file_name": "/tmp/news_lk2/articles/74/74739e1a.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/fuel-for-health-staff-new-decision-soon/",
+    "time_ut": 1657689300,
+    "original_lang": "en",
+    "original_title": "Fuel for health staff : new decision soon",
+    "file_name": "/tmp/news_lk2/articles/a6/a6baa4d5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131362",
     "time_ut": 1657689232,
@@ -201,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Oil-slides-as-renewed-China-COVID-curbs-temper-fuel-demand-outlook/108-240963",
+    "url": "https://www.dailymirror.lk/business-news/Oil-slides-as-renewed-China-COVID-curbs-temper-fuel-demand-outlook/273-240963",
     "time_ut": 1657685905,
     "original_lang": "en",
     "original_title": "Oil slides as renewed China COVID curbs temper fuel demand outlook",
-    "file_name": "/tmp/news_lk2/articles/6e/6effc434.json"
+    "file_name": "/tmp/news_lk2/articles/e8/e826ae83.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
