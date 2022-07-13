@@ -1,11 +1,83 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4-\u0d9a\u0da9\u0d9a\u0dc5-\u0db6\u0dc0\u0da7-\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db8\u0dc3\u0dca\u0d9a\u0dca\u0da7-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/3-395374",
+    "time_ut": 1657681985,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4 \u0d9a\u0da9\u0d9a\u0dc5 \u0db6\u0dc0\u0da7 \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db8\u0dc3\u0dca\u0d9a\u0dca\u0da7 \u0db1\u0da9\u0dd4 \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1f/1fbcc4aa.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-395372",
+    "time_ut": 1657681894,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ba/bac4505f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0d85\u0dbb\u0d9c\u0dbd-\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616325",
+    "time_ut": 1657681680,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0d85\u0dbb\u0d9c\u0dbd \u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9a/9a9b29fe.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1/175-300302",
+    "time_ut": 1657681629,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fb/fb48c8f9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83611/properties-of-historical-value-at-presidents-house-damaged-archaeology-dept",
+    "time_ut": 1657681620,
+    "original_lang": "en",
+    "original_title": "Properties of historical value at President\u2019s House damaged - Archaeology Dept",
+    "file_name": "/tmp/news_lk2/articles/ac/ac0d9ddc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131359",
+    "time_ut": 1657681613,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/02/02e8337d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dc0-\u0d9c\u0dd2\u0dba-\u0db6\u0dc0-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/101-616324",
+    "time_ut": 1657681337,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dc0 \u0d9c\u0dd2\u0dba \u0db6\u0dc0 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/da/da09823c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/govt-requested-airforce-to-fly-president-to-maldives/",
+    "time_ut": 1657680300,
+    "original_lang": "en",
+    "original_title": "Govt Requested AirForce to Fly President to Maldives",
+    "file_name": "/tmp/news_lk2/articles/7b/7ba3b626.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SLAF-confirms-it-has-provided-facilities-to-the-President-First-Lady-to-leave-for-Maldives/108-240940",
     "time_ut": 1657679649,
     "original_lang": "en",
     "original_title": "SLAF confirms it has provided facilities to the President, First Lady to leave for Maldives",
     "file_name": "/tmp/news_lk2/articles/2f/2ff10c71.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLAF-confirms-provided-facilities-to-President-party-leave-for-Maldives/108-240940",
+    "time_ut": 1657679649,
+    "original_lang": "en",
+    "original_title": "SLAF confirms provided facilities to President, party leave for Maldives",
+    "file_name": "/tmp/news_lk2/articles/6a/6a3650d6.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Three-pronged-battle-for-presidency/108-240939",
+    "url": "https://www.dailymirror.lk/latest_news/Three-pronged-battle-for-presidency/342-240939",
     "time_ut": 1657678315,
     "original_lang": "en",
     "original_title": "Three-pronged battle for presidency",
-    "file_name": "/tmp/news_lk2/articles/f9/f9b73cf6.json"
+    "file_name": "/tmp/news_lk2/articles/59/592ae6d6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -81,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Dial-1971-for-railways-inquiries/108-240938",
+    "url": "https://www.dailymirror.lk/latest_news/Dial-1971-for-railways-inquiries/342-240938",
     "time_ut": 1657676398,
     "original_lang": "en",
     "original_title": "Dial 1971 for railways inquiries",
-    "file_name": "/tmp/news_lk2/articles/ab/ab40f6d2.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9feff442.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -126,6 +198,14 @@
     "original_lang": "en",
     "original_title": "President Gotabaya arrives in Maldives: reports",
     "file_name": "/tmp/news_lk2/articles/25/25a8c59d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-flees-the-country-on-a-military-jet/342-240937",
+    "time_ut": 1657672176,
+    "original_lang": "en",
+    "original_title": "President flees the country on a military jet",
+    "file_name": "/tmp/news_lk2/articles/d8/d86c290a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -712,6 +792,14 @@
     "file_name": "/tmp/news_lk2/articles/d8/d86a3c1a.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83605/navy-rescues-55-suspected-illegal-migrants-aboard-distressed-trawler",
+    "time_ut": 1657636200,
+    "original_lang": "en",
+    "original_title": "Navy rescues 55 suspected illegal migrants aboard distressed trawler",
+    "file_name": "/tmp/news_lk2/articles/69/693e9cf3.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/12/lpl-2022-schedule-announced-24-matches-in-total/",
     "time_ut": 1657636020,
@@ -894,6 +982,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8: \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
     "file_name": "/tmp/news_lk2/articles/6b/6bb4de2d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78539",
+    "time_ut": 1657629000,
+    "original_lang": "en",
+    "original_title": "Fight at \u201cTemple Trees\u201d between factions supporting Fonseka and JVP over food served to visiting crowds  Results in 10  Pewrsons Being Hospitalised with Injuries",
+    "file_name": "/tmp/news_lk2/articles/2a/2ad9378b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -4582,6 +4678,14 @@
     "original_lang": "si",
     "original_title": "''#GOTAGOHOME '' ; ''\u0d85\u0daf \u0dba\u0db1\u0dc0\u0dcf \u0d9c\u0ddd\u0da8\u0dcf \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dd9\u0db1\u0dca. \u0d85\u0daf \u0dba\u0dc0\u0dbd\u0dcf \u0dad\u0db8\u0dba\u0dd2 \u0db4\u0dc3\u0dca\u0dc3 \u0db6\u0dbd\u0db1\u0dca\u0db1\u0dda.''",
     "file_name": "/tmp/news_lk2/articles/00/00a56d6e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
+    "time_ut": 1657328050,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
