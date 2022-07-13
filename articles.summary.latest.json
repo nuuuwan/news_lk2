@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Lankans-in-Maldives-protest-agaisnt-GR/342-241003",
+    "time_ut": 1657714273,
+    "original_lang": "en",
+    "original_title": "Lankans in Maldives protest agaisnt GR",
+    "file_name": "/tmp/news_lk2/articles/16/1605890e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0dc3\u0dcf\u0db8\u0dba-\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1/101-616368",
+    "time_ut": 1657714010,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0dda \u0dc3\u0dcf\u0db8\u0dba \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/89/8951321e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83623/chief-of-defence-staff-urges-public-to-help-maintain-law-and-order",
+    "time_ut": 1657713840,
+    "original_lang": "en",
+    "original_title": "Chief of Defence Staff urges public to help maintain law and order",
+    "file_name": "/tmp/news_lk2/articles/d5/d5c7bb03.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7-\u0d85\u0daf\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616366",
     "time_ut": 1657712648,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d85\u0daf\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/c4/c4c4225a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/support-armed-forces-and-police-to-maintain-the-peace-cds-shavendra/",
+    "time_ut": 1657712400,
+    "original_lang": "en",
+    "original_title": "\u201cSupport armed forces and Police to maintain the peace\u201d \u2013 CDS Shavendra",
+    "file_name": "/tmp/news_lk2/articles/b7/b70b8656.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -110,6 +142,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0ba3\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0bb2 \u0b9a\u0bbf\u0bb1\u0bbf\u0b9a\u0bc7\u0ba9",
     "file_name": "/tmp/news_lk2/articles/16/165d0e40.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dda-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0db4\u0db1\u0dca\u0db1\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba\u0dba\u0dd2/11-395396",
+    "time_ut": 1657708297,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dda \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0db1\u0dca\u0db1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b0/b0ceb5c8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda \u0d87\u0dba\u0dd2?",
     "file_name": "/tmp/news_lk2/articles/49/49299b86.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5-\u0db1\u0dc0-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dbd\u0dca\u0dc1\u0dcf\u0db1\u0dca-\u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb/7-394807",
-    "time_ut": 1656134174,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 \u0db1\u0dc0 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dbd\u0dca\u0dc1\u0dcf\u0db1\u0dca \u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/fe/fe1f9a6f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0d9a\u0dbb\u0dab-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf-\u0daf\u0dd9\u0dba\u0dd2/7-394805",
-    "time_ut": 1656134012,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb\u0dab \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/57/57a2c8d2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dcf\u0dbb\u0dba\u0dcf\u0dad\u0dca-\u0d87\u0dc0\u0dd2\u0dad\u0dca-\u0db4\u0dbb\u0dd9\u0dc3\u0dca\u0dc3\u0db8\u0dd2\u0db1\u0dca-\u0dc3\u0dd2\u0da7\u0dd2\u0db8\u0dd4/117-615360",
-    "time_ut": 1656128376,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dcf\u0dbb\u0dba\u0dcf\u0dad\u0dca \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0db4\u0dbb\u0dd9\u0dc3\u0dca\u0dc3\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/35/35268a76.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78211",
-    "time_ut": 1656099660,
-    "original_lang": "en",
-    "original_title": "The cry \u2018Gota must Go\u2019 is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.",
-    "file_name": "/tmp/news_lk2/articles/76/76a02725.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78199",
-    "time_ut": 1656098640,
-    "original_lang": "en",
-    "original_title": "India Strengthens Its Position in Sri Lanka Vis-\u00e0-Vis Rival China; Will China remain a bystander, watching India and the West displacing it in Sri Lanka?",
-    "file_name": "/tmp/news_lk2/articles/53/5323ce1e.json"
   }
 ]
