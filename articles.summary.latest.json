@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Samarasinghe-attacked-at-Galle-Face-protest-site/108-241016",
+    "time_ut": 1657725146,
+    "original_lang": "en",
+    "original_title": "Wasantha Samarasinghe attacked at Galle Face protest site",
+    "file_name": "/tmp/news_lk2/articles/9b/9bea4a97.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0bb0\u0bc1\u0b95\u0bc7-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd/175-300374",
+    "time_ut": 1657725047,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cc/cc73ef5f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Restore-law-and-order-in-the-country-immediately-SLPP/342-241015",
+    "time_ut": 1657724978,
+    "original_lang": "en",
+    "original_title": "Restore law and order in the country immediately: SLPP",
+    "file_name": "/tmp/news_lk2/articles/f9/f97f3af0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/RW-informs-Speaker-to-nominate-a-PM/155-241014",
+    "time_ut": 1657724551,
+    "original_lang": "en",
+    "original_title": "RW informs Speaker to nominate a PM",
+    "file_name": "/tmp/news_lk2/articles/8b/8b999356.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF-\u0dc4\u0dcf-\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2/11-395402",
+    "time_ut": 1657723760,
+    "original_lang": "si",
+    "original_title": "IMF \u0dc4\u0dcf \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf094b3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe/175-300373",
     "time_ut": 1657723701,
@@ -302,6 +342,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/6d/6daee623.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131400",
+    "time_ut": 1657716180,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf : \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c6/c68556e8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Bar Association of Sri Lanka(BASL) Files   Fundamental Rights Petition  On Behalf of Citizens Suffering Shortages of Essentials Including Fuel,Gas and Medicine  Citing 43 Respondents Comprising Prime Minister,Ministers and Secretaries; pleads for  Supreme Court to take up case Speedily  for Interim Relief on July 4",
     "file_name": "/tmp/news_lk2/articles/66/6641faa7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78313",
-    "time_ut": 1656700740,
-    "original_lang": "en",
-    "original_title": "Protesters  Evicted  by Army at Galle  Cricket Match  Between Sri Lanka and Australia ricket match file  Fundamental Rights Petition at Supreme Court Alleging  their  rights  were  forcibly violated by Military  personnel",
-    "file_name": "/tmp/news_lk2/articles/5a/5a25b137.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78309",
-    "time_ut": 1656697920,
-    "original_lang": "en",
-    "original_title": "\u201cCanada supports the reconciliation process in Sri Lanka, as well as the empowerment of women and marginalized communities, whose success is integral to that of the country\u201d- Canadian Envoy David McKinnon",
-    "file_name": "/tmp/news_lk2/articles/14/14ee1b8a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78306",
-    "time_ut": 1656697680,
-    "original_lang": "en",
-    "original_title": "Gazetted draft of the 22nd Constitutional  Amendment (22A)  is a compromise between the interests of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe.Will it get the Necessary two-thirds majority in Parliament?",
-    "file_name": "/tmp/news_lk2/articles/01/01bbe14d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78301",
-    "time_ut": 1656696540,
-    "original_lang": "en",
-    "original_title": "Discussions with IMF will continue virtually with a view to reaching a Staff-Level Agreement on the EFF arrangement in the near term. Because public debt is assessed as unsustainable, Executive Board approval would require adequate financing assurances from Sri Lanka\u2019s creditors that debt sustainability will be restored.",
-    "file_name": "/tmp/news_lk2/articles/9b/9be0bdda.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78303",
-    "time_ut": 1656696300,
-    "original_lang": "en",
-    "original_title": "22nd Constitutional Amendment  is nothing but a self-serving step taken by the Prime Minister and Justice Minister to suit the narrow interest of President Rajapaksa, who is bent on continuing to be Executive President till the end of his term.",
-    "file_name": "/tmp/news_lk2/articles/16/16961a93.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78299",
-    "time_ut": 1656694080,
-    "original_lang": "en",
-    "original_title": "Livelihood of Northern Sri Lankan Fishermen  Being \u201cCrushed\u201d again after Return of Indian Fishing Trawlers after 60 Day  Lull due to Fishing Ban",
-    "file_name": "/tmp/news_lk2/articles/43/43992a87.json"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Samarasinghe-attacked-at-Galle-Face-protest-site/108-241016",
+    "time_ut": 1657725146,
+    "original_lang": "en",
+    "original_title": "Wasantha Samarasinghe attacked at Galle Face protest site",
+    "file_name": "/tmp/news_lk2/articles/9b/9bea4a97.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0bb0\u0bc1\u0b95\u0bc7-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd/175-300374",
+    "time_ut": 1657725047,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cc/cc73ef5f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Restore-law-and-order-in-the-country-immediately-SLPP/342-241015",
+    "time_ut": 1657724978,
+    "original_lang": "en",
+    "original_title": "Restore law and order in the country immediately: SLPP",
+    "file_name": "/tmp/news_lk2/articles/f9/f97f3af0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/RW-informs-Speaker-to-nominate-a-PM/155-241014",
+    "time_ut": 1657724551,
+    "original_lang": "en",
+    "original_title": "RW informs Speaker to nominate a PM",
+    "file_name": "/tmp/news_lk2/articles/8b/8b999356.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF-\u0dc4\u0dcf-\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2/11-395402",
+    "time_ut": 1657723760,
+    "original_lang": "si",
+    "original_title": "IMF \u0dc4\u0dcf \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf094b3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe/175-300373",
     "time_ut": 1657723701,
@@ -302,6 +342,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db8\u0dd2\u0db1\u0dca \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/6d/6daee623.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131400",
+    "time_ut": 1657716180,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf : \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c6/c68556e8.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
