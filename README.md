@@ -1,26 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 02:10:25 (LK time)*
+*As of 2022-07-14 02:23:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
+
+## Last Hour (5 Articles)
 
 * **4** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
 
-## Last Hour (4 Articles)
+* **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
-* **4** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
-
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (10 Articles)
 
 * **6** daily-mirror-lk ([Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d8c760.json))
 
 * **2** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
+* **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
+
 * **1** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
 
-## Last 24 Hours (316 Articles)
+## Last 24 Hours (315 Articles)
 
 * **62** daily-mirror-lk ([President flees the country on a military jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86c290a.json))
 
@@ -36,15 +40,13 @@
 
 * **22** news-first-lk ([President Rajapaksa leaves Sri Lanka – BBC](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5558feb.json))
 
-* **15** economy-next-com ([Travel ban sought on ex-Sri Lanka PM, Basil, Lakshman, Cabraal, Attygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc30b238.json))
+* **16** economy-next-com ([Travel ban sought on ex-Sri Lanka PM, Basil, Lakshman, Cabraal, Attygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc30b238.json))
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-* **2** daily-ft-lk ([Navy rescues 55 more distressed individuals in high seas while attempting to illegally migrate](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32bd54ba.json))
+## Last Week (945 Articles)
 
-## Last Week (947 Articles)
-
-* **137** daily-mirror-lk ([Thiruketheeswaram Temple for Lord Shiva](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be33999d.json))
+* **135** daily-mirror-lk ([Give heed to the cry of a people in pain](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9047d40d.json))
 
 * **128** lankadeepa-lk ([දිළිඳුකමේ ගැටලුව  පාලකයන්ට නොපෙනේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24df0acd.json))
 
@@ -60,9 +62,9 @@
 
 * **71** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **54** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
+* **55** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
-* **33** d-b-s-jeyaraj-com ([The inside story of Rajapaksa family infighting that toppled a country into violence and bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9bcfab4.json))
+* **32** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
 * **28** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
@@ -70,7 +72,7 @@
 
 * **20** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,259 Articles)
+## All Time (1,260 Articles)
 
 * **187** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +92,7 @@
 
 * **71** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **68** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
+* **69** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
 * **36** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 

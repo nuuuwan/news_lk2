@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-rajapaksa-fails-to-resign-despite-repeated-promises-97388/",
+    "time_ut": 1657744500,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Rajapaksa fails to resign despite repeated promises",
+    "file_name": "/tmp/news_lk2/articles/5f/5f02ad8e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/plus/Flower-Road-turns-into-a-battle-ground-as-protesters-storm-PMs-office/352-241037",
     "time_ut": 1657743723,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Gotabaya  Rajapaksa Comes to Parliament after 3 Months and Leaves some minutes later with Opposition MP\u2019sCreate a Rumpus in the House by  Waving Placards and Chanting the Slogan\u201dGota Go Home\u201d Repeatedly",
     "file_name": "/tmp/news_lk2/articles/3b/3b4fb982.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78386",
-    "time_ut": 1656962100,
-    "original_lang": "en",
-    "original_title": "\u201cIf things do not change,the whole country will collapse. Therefore, we should strive to move forward on this path. It is not an easy journey. I have reminded you of that from time to time. This will be a difficult and bitter journey. But we can get relief at the end of this journey. Progress can be made,\u201d -Premier Ranil Wickremesinghe in Parliament",
-    "file_name": "/tmp/news_lk2/articles/4b/4b571cdb.json"
   }
 ]
