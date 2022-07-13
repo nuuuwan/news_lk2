@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7-\u0d85\u0daf\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616366",
+    "time_ut": 1657712648,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7 \u0d85\u0daf\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c4/c4c4225a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/support-armed-forces-and-police-to-maintain-the-peace-cds-shavendra/",
+    "time_ut": 1657712400,
+    "original_lang": "en",
+    "original_title": "\u201cSupport armed forces and Police to maintain the peace\u201d \u2013 CDS Shavendra",
+    "file_name": "/tmp/news_lk2/articles/b7/b70b8656.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-fascist-threat-must-be-contained-says-acting-president-wicrkremesinghe-97357/",
     "time_ut": 1657712040,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The cry \u2018Gota must Go\u2019 is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.",
     "file_name": "/tmp/news_lk2/articles/76/76a02725.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78199",
-    "time_ut": 1656098640,
-    "original_lang": "en",
-    "original_title": "India Strengthens Its Position in Sri Lanka Vis-\u00e0-Vis Rival China; Will China remain a bystander, watching India and the West displacing it in Sri Lanka?",
-    "file_name": "/tmp/news_lk2/articles/53/5323ce1e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78202",
-    "time_ut": 1656097020,
-    "original_lang": "en",
-    "original_title": "The decision to allow the Sri Lankan Rupee (LKR) to be \u201cflexible\u201d from March 7, 2022 onwards was not a  \u201cunilateral\u201d decision of then   Central Bank  :Governor Ajith Nivard Cabraal.",
-    "file_name": "/tmp/news_lk2/articles/bb/bbdecf3d.json"
   }
 ]
