@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/26-year-old-protestor-dies/342-241010",
+    "time_ut": 1657720973,
+    "original_lang": "en",
+    "original_title": "26 year old protestor dies",
+    "file_name": "/tmp/news_lk2/articles/c6/c6f78003.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dae\u0dcf\u0dbb\u0dca\u0dae\u0dba\u0da7-\u0db4\u0dd2\u0da7\u0dd2\u0db1\u0dca-\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4-\u0dad\u0dd3\u0dbb\u0dab\u0dc0\u0dbd\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0db1\u0dd1/101-616371",
+    "time_ut": 1657720645,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dae\u0dcf\u0dbb\u0dca\u0dae\u0dba\u0da7 \u0db4\u0dd2\u0da7\u0dd2\u0db1\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4 \u0dad\u0dd3\u0dbb\u0dab\u0dc0\u0dbd\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/93/936a7f47.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83625/opposition-leaders-request-to-security-forces-and-the-public",
     "time_ut": 1657720200,
@@ -40,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/45/455c136b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba-\u0d85\u0dc3\u0dbd-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0d9a\u0dc5-30\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395399",
+    "time_ut": 1657719525,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0d85\u0dc3\u0dbd \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0d9a\u0dc5 30\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/fc/fc11146f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131401",
     "time_ut": 1657719333,
@@ -54,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/66/667bf37b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0bb2\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbe\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300354",
+    "time_ut": 1657719281,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0bb2\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd: \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cd/cd4a1a90.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ceylon Petroleum Corporation (CPC) owes debt and payments worth nearly $ 1 billion Reveals  Ranil Wickremesinghe:Prime Minister  exposes the bankruptcy of the State-owned entity which has aggravated the on-going fuel crisis and urgent procurement.",
     "file_name": "/tmp/news_lk2/articles/11/11895317.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78286",
-    "time_ut": 1656444240,
-    "original_lang": "en",
-    "original_title": "Was  Mass Escape of over 500 inmates  from Kandakadu Treatment and Rehabilitation Centre  Triggered off by the  Suspicious Death of an Inmate Allegedly Assaulted by an Army Officer? Committee for Protecting the Rights of Prisoners (CPRP) Raises Doubts.",
-    "file_name": "/tmp/news_lk2/articles/ba/bab67e29.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78277",
-    "time_ut": 1656443700,
-    "original_lang": "en",
-    "original_title": "The assigning subjects and functions to the new Minister of Investment Promotion  in 3 Steps By President Rajapaksa  has once Again proved that  Gotabaya  is incapable of rationally assigning subjects and functions to ministries.",
-    "file_name": "/tmp/news_lk2/articles/e4/e417ebc7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78280",
-    "time_ut": 1656442080,
-    "original_lang": "en",
-    "original_title": "Investment Promotion Minister Dhammika Perera ,inculcating a private-sector approach to boost efficiency and streamline operations ,announces several measures to upgrade the Immigration and Emigration Department, following a special inspection visit to the Department",
-    "file_name": "/tmp/news_lk2/articles/7b/7b7d8be1.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/42198",
-    "time_ut": 1656363120,
-    "original_lang": "en",
-    "original_title": "\u201cMellisai Mannargal\u201d M.S. Viswanathan and T.K. Ramamurthy, the \u2018Monarchs of Light Music\u2019 in Tamil cinema",
-    "file_name": "/tmp/news_lk2/articles/15/15ce8ccf.json"
   }
 ]
