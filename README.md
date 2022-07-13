@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 04:44:56 (LK time)*
+*As of 2022-07-14 04:56:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
-
-* **2** daily-mirror-lk ([A FATHER, SENIOR, MENTOR AND GREAT FRIEND](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e1f1336.json))
+## Last 3 Hours (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
@@ -32,7 +30,7 @@
 
 * **2** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
-## Last Week (943 Articles)
+## Last Week (938 Articles)
 
 * **133** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
@@ -44,11 +42,11 @@
 
 * **87** ada-lk ([විදෙස් මුදල් තැන්පත් කිරීමට දුන් සමාකාලයට සති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7880ac84.json))
 
-* **76** daily-ft-lk ([The last laugh on the last bus](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64a32db3.json))
-
 * **72** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **71** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+
+* **71** daily-ft-lk ([Pearl in tears and tatters: Fight or flight?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4fd9048.json))
 
 * **55** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
