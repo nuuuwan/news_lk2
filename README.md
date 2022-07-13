@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 02:45:34 (LK time)*
+*As of 2022-07-14 02:56:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
-
-* **2** daily-mirror-lk ([A FATHER, SENIOR, MENTOR AND GREAT FRIEND](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e1f1336.json))
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **6** daily-mirror-lk ([Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d8c760.json))
 
@@ -18,9 +16,7 @@
 
 * **1** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
 
-* **1** ada-lk ([යළිත් වරක් පොරොන්දු කඩකළ ජනපති ගෝඨාභය](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/342e7ece.json))
-
-## Last 24 Hours (315 Articles)
+## Last 24 Hours (316 Articles)
 
 * **62** daily-mirror-lk ([President flees the country on a military jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86c290a.json))
 
@@ -40,7 +36,9 @@
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-## Last Week (943 Articles)
+* **1** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
+
+## Last Week (944 Articles)
 
 * **133** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
@@ -60,7 +58,7 @@
 
 * **55** economy-next-com ([Sri Lanka hikes interest rates 100bp amid galloping inflation](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998059ea.json))
 
-* **32** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
+* **33** d-b-s-jeyaraj-com ([Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster “Vikram”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ace24401.json))
 
 * **28** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
@@ -68,7 +66,7 @@
 
 * **20** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,260 Articles)
+## All Time (1,261 Articles)
 
 * **187** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,7 +74,7 @@
 
 * **145** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **118** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
+* **119** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
 * **111** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 

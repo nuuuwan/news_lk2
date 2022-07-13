@@ -872,6 +872,14 @@
     "file_name": "/tmp/news_lk2/articles/d5/d5c7bb03.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78544",
+    "time_ut": 1657712940,
+    "original_lang": "en",
+    "original_title": "President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to \u201cexercise, perform and discharge the powers, duties and functions of the Office of President\u201d with effect from Wednesday, during his absence from Sri Lanka.",
+    "file_name": "/tmp/news_lk2/articles/74/74afdc76.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0daf\u0dd4\u0dbb-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0da7-\u0d85\u0daf\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/101-616366",
     "time_ut": 1657712648,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa, his brothers, nephews, and cousins are the main authors of the Lankan tragedy. But even if a kind wind blows the entire Rajapaksa clan to another plain of existence, the economic crisis will remain as intractable as ever, until the bitter pills of cost-cutting and revenue-raising are swallowed.",
     "file_name": "/tmp/news_lk2/articles/af/af5678ec.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78379",
-    "time_ut": 1656962640,
-    "original_lang": "en",
-    "original_title": "President Gotabaya  Rajapaksa Comes to Parliament after 3 Months and Leaves some minutes later with Opposition MP\u2019sCreate a Rumpus in the House by  Waving Placards and Chanting the Slogan\u201dGota Go Home\u201d Repeatedly",
-    "file_name": "/tmp/news_lk2/articles/3b/3b4fb982.json"
   }
 ]
