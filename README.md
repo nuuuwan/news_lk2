@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 01:22:42 (LK time)*
+*As of 2022-07-14 01:33:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
-* **4** daily-mirror-lk ([All should take immediate action to find solutions in democratic manner: Medical Administrators](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d87e58.json))
+* **3** daily-mirror-lk ([75 admitted to NHC following clashes today](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57c4bce7.json))
 
 * **3** virakesari-lk ([சட்ட ஒழுங்கினை பாதூக்க முழுமையான ஒத்துழைப்பு வழங்குவோம். - பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d8478b3.json))
 
@@ -18,9 +18,9 @@
 
 * **1** lankadeepa-lk ([‘‘පාර්ලිමේන්තුව වාහා කැඳවා විධිමත් පාලනයක් ගොඩනගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a62c934.json))
 
-## Last 24 Hours (324 Articles)
+## Last 24 Hours (316 Articles)
 
-* **61** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70401091.json))
+* **59** daily-mirror-lk ([Will the next fuel shipment arrive via  a company owned by a Rajapaksa?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d13e9c52.json))
 
 * **54** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be016d4b.json))
 
@@ -36,9 +36,9 @@
 
 * **16** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
 
-* **10** daily-ft-lk ([Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235ea505.json))
-
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
+
+* **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
 
 ## Last Week (944 Articles)
 
