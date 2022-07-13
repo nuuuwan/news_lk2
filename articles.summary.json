@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd-\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-300308",
+    "time_ut": 1657685920,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd ; \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6a/6a204656.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0da7-\u0dad\u0dd4\u0db1\u0dca-\u0d9a\u0ddc\u0db1\u0dca-\u0dc3\u0da7\u0db1\u0d9a\u0dca--/101-616327",
+    "time_ut": 1657685692,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0da7 \u0dad\u0dd4\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca \u0dc3\u0da7\u0db1\u0d9a\u0dca ?",
+    "file_name": "/tmp/news_lk2/articles/ae/ae4b7aa4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bae\u0bcd-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/72-300307",
+    "time_ut": 1657685560,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bae\u0bcd \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f2/f2037064.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-Gas-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-300306",
+    "time_ut": 1657685553,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 Gas  \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/99/999a08ee.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-300304",
     "time_ut": 1657684621,
     "original_lang": "ta",
@@ -22,6 +54,14 @@
     "original_lang": "en",
     "original_title": "India did not facilitate Gota\u2019s exit \u2013 HC",
     "file_name": "/tmp/news_lk2/articles/4d/4d2e155b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2-\u0dad\u0dd4\u0db1-\u0d86\u0db4\u0dc3\u0dd4-\u0db7\u0dcf\u0dbb-\u0daf\u0dd9\u0db1\u0dca\u0db1---BASL/11-395376",
+    "time_ut": 1657684126,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0dad\u0dd4\u0db1 \u0d86\u0db4\u0dc3\u0dd4 \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0db1\u0dca\u0db1 - BASL",
+    "file_name": "/tmp/news_lk2/articles/3b/3b3a728b.json"
   },
   {
     "newspaper_id": "economy-next-com",
