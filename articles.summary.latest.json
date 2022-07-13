@@ -240,6 +240,14 @@
     "file_name": "/tmp/news_lk2/articles/72/7242bb1b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dc3-\u0d85\u0dc3\u0dc5\u0dad\u0dca-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca/11-395405",
+    "time_ut": 1657726346,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dc3 \u0d85\u0dc3\u0dc5\u0dad\u0dca \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/8a/8a016f5c.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131402",
     "time_ut": 1657726281,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0da7 \u0db6\u0dbb\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dcf\u0da9\u0dd4 \u0dbd\u0db6\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1",
     "file_name": "/tmp/news_lk2/articles/09/09feb697.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/a-dangerous-trend/",
-    "time_ut": 1656939960,
-    "original_lang": "en",
-    "original_title": "A dangerous trend",
-    "file_name": "/tmp/news_lk2/articles/a1/a1d4bfbf.json"
   }
 ]
