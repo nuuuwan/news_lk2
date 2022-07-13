@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Lankans-in-Maldives-protest-agaisnt-GR/342-241003",
+    "url": "https://www.dailymirror.lk/breaking_news/Security-forces-urge-public-cooperation-to-maintain-law-and-order/108-241005",
+    "time_ut": 1657715089,
+    "original_lang": "en",
+    "original_title": "Security forces urge public cooperation to maintain law and order",
+    "file_name": "/tmp/news_lk2/articles/99/996eb833.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-military-calls-for-politicians-to-get-their-act-together-public-to-be-calm-97359/",
+    "time_ut": 1657714620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka military calls for politicians to get their act together, public to be calm",
+    "file_name": "/tmp/news_lk2/articles/52/526e415d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-300346",
+    "time_ut": 1657714468,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/48/4852784d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Lankans-in-Maldives-protest-agaisnt-GR/110-241003",
     "time_ut": 1657714273,
     "original_lang": "en",
     "original_title": "Lankans in Maldives protest agaisnt GR",
-    "file_name": "/tmp/news_lk2/articles/16/1605890e.json"
+    "file_name": "/tmp/news_lk2/articles/52/52651efa.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

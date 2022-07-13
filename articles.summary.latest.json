@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Lankans-in-Maldives-protest-agaisnt-GR/342-241003",
+    "url": "https://www.dailymirror.lk/breaking_news/Security-forces-urge-public-cooperation-to-maintain-law-and-order/108-241005",
+    "time_ut": 1657715089,
+    "original_lang": "en",
+    "original_title": "Security forces urge public cooperation to maintain law and order",
+    "file_name": "/tmp/news_lk2/articles/99/996eb833.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-military-calls-for-politicians-to-get-their-act-together-public-to-be-calm-97359/",
+    "time_ut": 1657714620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka military calls for politicians to get their act together, public to be calm",
+    "file_name": "/tmp/news_lk2/articles/52/526e415d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-300346",
+    "time_ut": 1657714468,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/48/4852784d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Lankans-in-Maldives-protest-agaisnt-GR/110-241003",
     "time_ut": 1657714273,
     "original_lang": "en",
     "original_title": "Lankans in Maldives protest agaisnt GR",
-    "file_name": "/tmp/news_lk2/articles/16/1605890e.json"
+    "file_name": "/tmp/news_lk2/articles/52/52651efa.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Even amidst the prevailing instability, abolition of the Executive Presidency remains an important topic, which some deem essential to the reformation of Sri Lanka\u2019s political culture.",
     "file_name": "/tmp/news_lk2/articles/0c/0c62ea6b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-amends-limit-on-foreign-currency-possession/155-239794",
-    "time_ut": 1656138997,
-    "original_lang": "en",
-    "original_title": "SL amends limit on foreign currency possession",
-    "file_name": "/tmp/news_lk2/articles/e8/e8c28d83.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda-\u0dad\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db1\u0dc0\u0dad\u0db8-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca/7-394811",
-    "time_ut": 1656134927,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f1/f1627303.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0db1\u0db4\u0daf-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0d87\u0dba\u0dd2-/7-394809",
-    "time_ut": 1656134603,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/49/49299b86.json"
   }
 ]
