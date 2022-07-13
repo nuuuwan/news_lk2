@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 04:56:01 (LK time)*
+*As of 2022-07-14 05:08:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
 ## Last 24 Hours (315 Articles)
 
