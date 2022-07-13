@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131412",
+    "time_ut": 1657729821,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/ef/efdc6309.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-on-appointing-PM-as-Acting-President-issued/342-241026",
+    "time_ut": 1657729798,
+    "original_lang": "en",
+    "original_title": "Gazette on appointing PM as Acting President issued",
+    "file_name": "/tmp/news_lk2/articles/de/ded52d9f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131413",
+    "time_ut": 1657729780,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 !",
+    "file_name": "/tmp/news_lk2/articles/5a/5ae1233e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protect-the-Parliament-RW-issues-order-to-security-forces/342-241025",
+    "time_ut": 1657729599,
+    "original_lang": "en",
+    "original_title": "\u2019Protect the Parliament\u2019- RW issues order to security forces",
+    "file_name": "/tmp/news_lk2/articles/aa/aae53b47.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Island-wide-curfew-will-be-lifted-at-500-am-tomorrow/342-241024",
+    "time_ut": 1657729572,
+    "original_lang": "en",
+    "original_title": "Island-wide curfew will be lifted at 5:00 am tomorrow",
+    "file_name": "/tmp/news_lk2/articles/95/95c3c600.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca/101-616379",
+    "time_ut": 1657729186,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/05/05e18cfe.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-300380",
     "time_ut": 1657728772,
@@ -185,11 +233,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Restore-law-and-order-in-the-country-immediately-SLPP/342-241015",
+    "url": "https://www.dailymirror.lk/breaking_news/Restore-law-and-order-in-the-country-immediately-SLPP/108-241015",
     "time_ut": 1657724978,
     "original_lang": "en",
     "original_title": "Restore law and order in the country immediately: SLPP",
-    "file_name": "/tmp/news_lk2/articles/f9/f97f3af0.json"
+    "file_name": "/tmp/news_lk2/articles/c0/c0118feb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1289,11 +1337,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/PM-appointed-Acting-President-Speaker/342-240986",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-appointed-Acting-President-Speaker/108-240986",
     "time_ut": 1657698943,
     "original_lang": "en",
     "original_title": "PM appointed Acting President: Speaker",
-    "file_name": "/tmp/news_lk2/articles/5b/5bc1ed5b.json"
+    "file_name": "/tmp/news_lk2/articles/75/75a20295.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Fuel shortages, spiraling costs, falling wages and corruption - EDITORIAL",
     "file_name": "/tmp/news_lk2/articles/5c/5cbdf178.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/When-they-cant-govern-they-must-Go-Home/277-240245",
-    "time_ut": 1656855821,
-    "original_lang": "en",
-    "original_title": "When they can\u2019t govern, they must Go Home",
-    "file_name": "/tmp/news_lk2/articles/70/709b2e39.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc0\u0dd0\u0da7\u0dd9\u0db1-\u0dc4\u0dd2\u0dbb\u0dd4-\u0d91\u0dc5\u0dd2\u0dba\u0dda-\u0dc3\u0dd4\u0dc5\u0d9c\u0dda-\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7/2-615793",
-    "time_ut": 1656843838,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dd0\u0da7\u0dd9\u0db1 \u0dc4\u0dd2\u0dbb\u0dd4 \u0d91\u0dc5\u0dd2\u0dba\u0dda \u0dc3\u0dd4\u0dc5\u0d9c\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0daf\u0dcf\u0db1\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/17/1705db7a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Four-fuel-shipments-to-reach-SL-this-month/155-240238",
-    "time_ut": 1656835907,
-    "original_lang": "en",
-    "original_title": "Four fuel shipments to reach SL this month",
-    "file_name": "/tmp/news_lk2/articles/cc/ccccd23a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dda-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca-\u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2/101-615762",
-    "time_ut": 1656819679,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dda \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dba\u0dad\u0dca \u0dc4\u0dcf\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/aa/aa7c8270.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78103",
-    "time_ut": 1656799380,
-    "original_lang": "en",
-    "original_title": "Gotabaya, Ranil and the Fable of the Scorpion and Frog \ud83d\udc38 \ud83e\udd82 \ud83d\udcd6",
-    "file_name": "/tmp/news_lk2/articles/b2/b2237654.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78364",
-    "time_ut": 1656795120,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Energy Minister Kanchana Wijesekera  Reveals that   petrol reserves in the country are about 4,000 tonnes and  cannot last more than a day;\u201cThe next petrol shipment is expected between the 22nd and 23rd of July\u201d  says Minister",
-    "file_name": "/tmp/news_lk2/articles/85/855f48fd.json"
   }
 ]
