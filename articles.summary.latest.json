@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83619/president-informs-speaker-he-will-resign-within-today",
+    "time_ut": 1657704300,
+    "original_lang": "en",
+    "original_title": "President informs Speaker he will resign within today",
+    "file_name": "/tmp/news_lk2/articles/b5/b56850ad.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba8\u0bbe\u0baf\u0bcd-\u0b95\u0bc2\u0b9f-\u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1/175-300338",
+    "time_ut": 1657704149,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bbe\u0baf\u0bcd \u0b95\u0bc2\u0b9f \u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1\u2019",
+    "file_name": "/tmp/news_lk2/articles/aa/aa15d30e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0b9a\u0bae\u0bcd/175-300336",
+    "time_ut": 1657703847,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b9a\u0bae\u0bcd (Video)",
+    "file_name": "/tmp/news_lk2/articles/8c/8c1bc871.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcb\u0bb0\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4/175-300335",
+    "time_ut": 1657703793,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcb\u0bb0\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4",
+    "file_name": "/tmp/news_lk2/articles/7f/7fbf6f69.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d9c\u0dda\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/101-616356",
+    "time_ut": 1657703631,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d9c\u0dda\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6b/6bd78089.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0dda-\u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0dba-\u0db1\u0dd0\u0dc0\u0dad-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-616355",
+    "time_ut": 1657703414,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0dda \u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0dba \u0db1\u0dd0\u0dc0\u0dad \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a6/a64db173.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dba\u0dd2-\u0da7\u0dd2-\u0d91\u0db1\u0dca-\u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0db1-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db1\u0dc0\u0dad\u0dba\u0dd2/101-616354",
+    "time_ut": 1657703340,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dd2.\u0da7\u0dd2.\u0d91\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db1\u0dc0\u0dad\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ff/ffcafe5d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/President-confirms-his-resignation-today-Speaker/108-240994",
     "time_ut": 1657703135,
     "original_lang": "en",
     "original_title": "President confirms his resignation today - Speaker",
     "file_name": "/tmp/news_lk2/articles/e3/e3db844c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/president-rajapaksa-confirms-that-he-would-step-down-today-13/",
+    "time_ut": 1657703100,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa confirms that he would step down today (13)",
+    "file_name": "/tmp/news_lk2/articles/a9/a947f768.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -32,12 +96,20 @@
     "file_name": "/tmp/news_lk2/articles/59/5959d6b8.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/president-acting-president-have-no-mandate-sirisena/",
+    "time_ut": 1657702620,
+    "original_lang": "en",
+    "original_title": "President & Acting President have NO mandate \u2013 Sirisena",
+    "file_name": "/tmp/news_lk2/articles/e8/e8b6a50e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-exerting-suppression-instead-of-listening-to-people-JVP/342-240991",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-exerting-suppression-instead-of-listening-to-people-JVP/108-240991",
     "time_ut": 1657702617,
     "original_lang": "en",
     "original_title": "Govt. exerting suppression instead of listening to people : JVP",
-    "file_name": "/tmp/news_lk2/articles/d4/d47c8427.json"
+    "file_name": "/tmp/news_lk2/articles/8c/8c764bea.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -94,6 +166,14 @@
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0db6\u0dbd\u0dbd\u0ddd\u0db7\u0dd3\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0d86\u0dba\u0dd4\u0dc2 \u0db1\u0dd1\u2019\u2019",
     "file_name": "/tmp/news_lk2/articles/5e/5e29d8fe.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-state-run-rupavahini-itn-off-air-amid-protests-97337/",
+    "time_ut": 1657701480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka state run Rupavahini, ITN off air amid protests",
+    "file_name": "/tmp/news_lk2/articles/78/789e2584.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -297,11 +377,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd9\u0dbb\u0da7-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0d9c\u0dd0\u0db1-\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1-\u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dad\u0dba/1-616343",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dbb\u0da7-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0d9c\u0dd0\u0db1-\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1-\u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dad\u0dba/101-616343",
     "time_ut": 1657697554,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd9\u0dbb\u0da7 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0d9c\u0dd0\u0db1 \u0d85\u0dbb\u0dca\u0da2\u0dd4\u0db1 \u0db8\u0dc4\u0dda\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dad\u0dba",
-    "file_name": "/tmp/news_lk2/articles/7d/7dc1ce62.json"
+    "file_name": "/tmp/news_lk2/articles/50/5016eb16.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0db8\u0d9a\u0dca \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/4a/4a6d3e20.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db4\u0ddc\u0dad\u0dca\u0db4\u0dad\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0dc0\u0dc4\u0dcf-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0d95\u0db1\u0dd1/117-614820",
-    "time_ut": 1655219966,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db4\u0ddc\u0dad\u0dca\u0db4\u0dad\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0dc0\u0dc4\u0dcf \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/82/82881a64.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db4\u0ddc\u0dc3\u0ddc\u0db1\u0dca-\u0dc3\u0dd2\u0dc3\u0dd2\u0dbd\u0dd9\u0db1\u0dca-\u0dbb\u0da7\u0db8-\u0dc3\u0dd0\u0db1\u0dc3\u0dda\u0dc0\u0dcf---/2-614807",
-    "time_ut": 1655201020,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dc3\u0ddc\u0db1\u0dca \u0dc3\u0dd2\u0dc3\u0dd2\u0dbd\u0dd9\u0db1\u0dca \u0dbb\u0da7\u0db8 \u0dc3\u0dd0\u0db1\u0dc3\u0dda\u0dc0\u0dcf..!",
-    "file_name": "/tmp/news_lk2/articles/34/349483de.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dc3\u0dd6\u0dbb\u0dca\u0dba\u0db6\u0dbd-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0da7-\u0dc0\u0dd2\u0db1-\u0d9a\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda-\u0d9a\u0dc0\u0dd4\u0daf-/117-614727",
-    "time_ut": 1655095617,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dd6\u0dbb\u0dca\u0dba\u0db6\u0dbd \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0db1 \u0d9a\u0da7\u0dd2\u0db1\u0dca\u0db1\u0dda \u0d9a\u0dc0\u0dd4\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/c8/c8e4c50e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SLs-average-household-income-makes-shocking-revelation-about-poverty-level/155-238959",
-    "time_ut": 1655058069,
-    "original_lang": "en",
-    "original_title": "SL\u2019s average household income makes shocking revelation about poverty level",
-    "file_name": "/tmp/news_lk2/articles/85/85d7c50b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/May-9-unrest-Over-1-000-suspects-still-in-remand-custody/155-238934",
-    "time_ut": 1655015230,
-    "original_lang": "en",
-    "original_title": "May 9 unrest:  Over 1,000 suspects still in remand custody",
-    "file_name": "/tmp/news_lk2/articles/38/38d3a42d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dbd\u0dcf\u0dc1\u0dc0\u0dbd-\u0dc0\u0dcf\u0db1\u0dca-\u0daf\u0ddc\u0dbb\u0da7\u0dd4-\u0d87\u0dbb\u0dd2\u0dba-\u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dd3\u0db1\u0dca\u0da7-\u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca-\u0db1\u0dd0\u0daf\u0dca\u0daf-/2-614657",
-    "time_ut": 1654930001,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dbd\u0dcf\u0dc1\u0dc0\u0dbd \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0ddc\u0dbb\u0da7\u0dd4 \u0d87\u0dbb\u0dd2\u0dba \u0dad\u0dca\u200d\u0dbb\u0dc3\u0dca\u0dad\u0dc0\u0dcf\u0daf\u0dd3\u0db1\u0dca\u0da7 \u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca \u0db1\u0dd0\u0daf\u0dca\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/d7/d7c47944.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dbd\u0d82\u0dc0\u0dd2\u0db8-\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4-\u0dc3\u0da7\u0db1\u0dd2\u0db1\u0dca--\u0dad\u0dd0\u0dbd\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0dba\u0dd2/117-614650",
-    "time_ut": 1654929487,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0dc0\u0dd2\u0db8 \u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0da7\u0db1\u0dd2\u0db1\u0dca  \u0dad\u0dd0\u0dbd\u0dd9\u0db1\u0dca\u0db1\u0dda \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/30/300dd617.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/flight-su-289-and-the-future-of-sri-lanka-russia-ties/",
-    "time_ut": 1654871040,
-    "original_lang": "en",
-    "original_title": "Flight SU-289 and the future of Sri Lanka-Russia ties",
-    "file_name": "/tmp/news_lk2/articles/1b/1b6ca010.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/which-future-for-the-slpp-a-political-jataka-tale/",
-    "time_ut": 1654870980,
-    "original_lang": "en",
-    "original_title": "WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE",
-    "file_name": "/tmp/news_lk2/articles/96/96abfb62.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca:-\u0d9c\u0dd1\u0dc3\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca---\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0d8b\u0dad\u0dca\u0dad\u0dbb-\u0db1\u0dd0\u0dad\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1/117-614506",
-    "time_ut": 1654701644,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca: \u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca!  \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0d8b\u0dad\u0dca\u0dad\u0dbb \u0db1\u0dd0\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/4f/4f0bc35c.json"
   }
 ]
