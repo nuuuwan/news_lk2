@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 04:14:13 (LK time)*
+*As of 2022-07-14 04:33:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
-## Last 24 Hours (316 Articles)
+## Last 24 Hours (315 Articles)
 
 * **62** daily-mirror-lk ([President flees the country on a military jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86c290a.json))
 
@@ -18,7 +18,7 @@
 
 * **49** tamil-mirror-lk ([விமானப்படை விமானத்தில் பறந்தார் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93dbd0e7.json))
 
-* **43** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
+* **42** virakesari-lk ([நான்குபேருடன் புறப்பட்ட அன்டொனோவ்; 32 விமானம் - ஏ.எவ்.பி தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b98a3484.json))
 
 * **37** ada-lk ([ලංකාව පතුලටම ඇද දමා ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64a30617.json))
 
