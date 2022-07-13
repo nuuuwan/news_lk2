@@ -3312,6 +3312,22 @@
     "file_name": "/tmp/news_lk2/articles/04/04fc7f88.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/increasing-interest-in-investing-in-tbs-likely-to-negatively-impact-cse/",
+    "time_ut": 1657628880,
+    "original_lang": "en",
+    "original_title": "Increasing interest in investing in TBs likely to negatively impact CSE",
+    "file_name": "/tmp/news_lk2/articles/fa/fa69e730.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/aias-national-safety-endeavour-the-poson-safety-programme-successfully-concludes-with-zero-deaths/",
+    "time_ut": 1657628880,
+    "original_lang": "en",
+    "original_title": "AIA\u2019s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths",
+    "file_name": "/tmp/news_lk2/articles/37/37d7252b.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131344",
     "time_ut": 1657628792,
@@ -6478,6 +6494,14 @@
     "original_lang": "en",
     "original_title": "The Debacle",
     "file_name": "/tmp/news_lk2/articles/5f/5fcb3b9d.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/gota-going-going/",
+    "time_ut": 1657471800,
+    "original_lang": "en",
+    "original_title": "Gota going, going \u2026",
+    "file_name": "/tmp/news_lk2/articles/4a/4a239f52.json"
   },
   {
     "newspaper_id": "island-lk",

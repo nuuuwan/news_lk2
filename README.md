@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 05:08:43 (LK time)*
+*As of 2022-07-14 05:23:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,7 +26,7 @@
 
 * **2** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
-## Last Week (938 Articles)
+## Last Week (941 Articles)
 
 * **133** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
@@ -50,11 +50,11 @@
 
 * **28** b-b-c-com-sinhala ([ජනපති ගෝටාභය ඉන්ධන මිළට ගැනීම සඳහා පුටින්ගේ සහාය පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f65b63e6.json))
 
-* **24** island-lk ([Giving people ideas?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e54b9e12.json))
+* **27** island-lk ([Giving people ideas?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e54b9e12.json))
 
 * **20** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,262 Articles)
+## All Time (1,265 Articles)
 
 * **187** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,7 +76,7 @@
 
 * **69** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **36** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **39** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **33** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
