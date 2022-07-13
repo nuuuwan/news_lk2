@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dad\u0dca-\u0dbb\u0da7\u0d9a\u0da7-/1-616362",
+    "time_ut": 1657709596,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0dbb\u0da7\u0d9a\u0da7?",
+    "file_name": "/tmp/news_lk2/articles/7f/7fd0a6b5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83622/speaker-calls-for-urgent-party-leaders-meeting",
+    "time_ut": 1657709520,
+    "original_lang": "en",
+    "original_title": "Speaker calls for urgent party leaders\u2019 meeting",
+    "file_name": "/tmp/news_lk2/articles/6e/6ec45a9d.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bcb\u0b9f\u0bbf\u0baf\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300340",
     "time_ut": 1657709323,
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc3\u0dcf\u0db8\u0dba-\u0dc4\u0dcf-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0db6\u0dbd\u0dba-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u2019\u2019/101-616360",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc3\u0dcf\u0db8\u0dba-\u0dc4\u0dcf-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0db6\u0dbd\u0dba-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u2019\u2019/1-616360",
     "time_ut": 1657707525,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc3\u0dcf\u0db8\u0dba \u0dc4\u0dcf \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7 \u0db6\u0dbd\u0dba \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/8e/8eef46ec.json"
+    "file_name": "/tmp/news_lk2/articles/da/dab20b3d.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "New SLPP National List MP Dhammika Perera sworn in as Investment Promotion Minister by President Gotabaya Rajapaksa",
     "file_name": "/tmp/news_lk2/articles/d8/d847e9a3.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78189",
-    "time_ut": 1656010620,
-    "original_lang": "en",
-    "original_title": "Second  Ship Carrying Humanitarian Aid  Donated  as a Gift  by the Govt and People of Tamil Nadu  arrived in Sri Lanka on 24 June 2022; Consignment  consisting of 14,700 MT of rice, 250 MT of milk powder and 38 MT of medicines is valued at more than  3 billion Sri Lankan Rupees",
-    "file_name": "/tmp/news_lk2/articles/db/db36770f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0d9a\u0dd3\u0dc0\u0dda-\u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf-/7-394770",
-    "time_ut": 1655987505,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json"
   }
 ]
