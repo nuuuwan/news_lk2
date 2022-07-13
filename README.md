@@ -1,38 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-13 23:15:25 (LK time)*
+*As of 2022-07-13 23:24:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
-* **1** ada-derana-lk ([Mahanayaka Theros’ plea to party leaders and protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/847a7735.json))
-
-* **1** virakesari-lk ([50 மணி நேர தலைமறைவு வாழ்க்கை முடிவுக்கு  ! கடந்த நாட்களில் அரங்கேறிய நாடகங்கள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b7326d.json))
-
-* **1** daily-mirror-lk ([75 admitted to NHC following clashes today](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57c4bce7.json))
-
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
 * **3** virakesari-lk ([சட்ட ஒழுங்கினை பாதூக்க முழுமையான ஒத்துழைப்பு வழங்குவோம். - பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d8478b3.json))
 
-* **2** daily-mirror-lk ([All should take immediate action to find solutions in democratic manner: Medical Administrators](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2d87e58.json))
-
 * **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
 * **1** ada-derana-lk ([Mahanayaka Theros’ plea to party leaders and protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/847a7735.json))
 
+* **1** daily-mirror-lk ([75 admitted to NHC following clashes today](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57c4bce7.json))
+
 * **1** lankadeepa-lk ([‘‘පාර්ලිමේන්තුව වාහා කැඳවා විධිමත් පාලනයක් ගොඩනගන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a62c934.json))
 
-## Last 3 Hours (49 Articles)
+## Last 3 Hours (47 Articles)
 
 * **15** daily-mirror-lk ([RW informs Speaker to nominate a PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc78eaa.json))
 
 * **11** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
 
-* **8** tamil-mirror-lk ([சிங்கப்பூர் சென்றதும் இராஜினாமா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a58b62f9.json))
+* **7** tamil-mirror-lk ([பாராளுமன்றம் அருகே மோதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc73ef5f.json))
 
 * **5** lankadeepa-lk ([එක්සත් ජාතීන්ගේ සංවිධානයෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7cd2d93.json))
 
@@ -40,7 +34,7 @@
 
 * **3** news-first-lk ([Acting President informs Speaker to nominate Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ee4c1e.json))
 
-* **3** ada-lk ([IMF හා පාකිස්තාන සාකච්ඡා සාර්ථකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cf094b3.json))
+* **2** ada-lk ([සාමකාමි බල හුවමාරුවක් සඳහා දේශපාලන නායකයන්ට ඉඩ දෙන්න - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/3432c736.json))
 
 ## Last 24 Hours (331 Articles)
 
