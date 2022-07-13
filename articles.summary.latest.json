@@ -1,6 +1,70 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bbe\u0b95-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0bae\u0bcd-\u0b95\u0bc7\u0bae\u0bcd/175-300378",
+    "time_ut": 1657726807,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd; \u2019\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0bae\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/be/bea56d53.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Tense-situation-erupts-near-Parliament-as-clashes-erupt/342-241021",
+    "time_ut": 1657726379,
+    "original_lang": "en",
+    "original_title": "Tense situation erupts near Parliament as clashes erupt",
+    "file_name": "/tmp/news_lk2/articles/c1/c14270ba.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131402",
+    "time_ut": 1657726281,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/d1/d1087e43.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83628/protestors-near-speakers-residence-tear-gassed",
+    "time_ut": 1657726260,
+    "original_lang": "en",
+    "original_title": "Protestors near Speaker\u2019s residence tear-gassed",
+    "file_name": "/tmp/news_lk2/articles/0b/0b423fd4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-395404",
+    "time_ut": 1657726084,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db1\u0db8\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d4/d4b2d8ce.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd3\u0dc0-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u2018\u2018/1-616378",
+    "time_ut": 1657726026,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd3\u0dc0 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/4d/4dca51ce.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Church-of-Ceylon-calls-for-everyone-to-exercise-discernment-and-restraint/342-241019",
+    "time_ut": 1657726009,
+    "original_lang": "en",
+    "original_title": "Church of Ceylon calls for everyone to exercise discernment and restraint",
+    "file_name": "/tmp/news_lk2/articles/f5/f5e1350c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131410",
+    "time_ut": 1657726006,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0ba8\u0b95\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd : \u0b95\u0bbe\u0baf\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bb2\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/45/4557138a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8-\u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300375",
     "time_ut": 1657725525,
     "original_lang": "ta",
@@ -32,12 +96,28 @@
     "file_name": "/tmp/news_lk2/articles/b7/b7cd2d93.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/acting-president-informs-speaker-to-nominate-prime-minister/",
+    "time_ut": 1657725300,
+    "original_lang": "en",
+    "original_title": "Acting President informs Speaker to nominate Prime Minister",
+    "file_name": "/tmp/news_lk2/articles/a5/a5ee4c1e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Wasantha-Samarasinghe-attacked-at-Galle-Face-protest-site/108-241016",
     "time_ut": 1657725146,
     "original_lang": "en",
     "original_title": "Wasantha Samarasinghe attacked at Galle Face protest site",
     "file_name": "/tmp/news_lk2/articles/9b/9bea4a97.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd2-\u0db6\u0dbd-\u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0d9a\u0dca-\u0dc3\u0db3\u0dc4\u0dcf-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0d89\u0da9-\u0daf\u0dd9\u0db1\u0dca\u0db1---BASL/11-395403",
+    "time_ut": 1657725082,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dcf\u0db8\u0d9a\u0dcf\u0db8\u0dd2 \u0db6\u0dbd \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0d89\u0da9 \u0daf\u0dd9\u0db1\u0dca\u0db1 - BASL",
+    "file_name": "/tmp/news_lk2/articles/34/3432c736.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -113,19 +193,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SF-appeals-security-forces-not-to-implement-Actg-President-s-order/342-241013",
-    "time_ut": 1657722617,
-    "original_lang": "en",
-    "original_title": "SF appeals security forces not to implement  Actg. President's order",
-    "file_name": "/tmp/news_lk2/articles/12/125ad14e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/SF-appeals-to-security-forces-not-to-implement-orders-of-Acting-President/342-241013",
     "time_ut": 1657722617,
     "original_lang": "en",
     "original_title": "SF appeals to security forces not to implement orders of Acting President",
     "file_name": "/tmp/news_lk2/articles/21/21fd2934.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SF-appeals-security-forces-not-to-implement-Actg-President-s-order/342-241013",
+    "time_ut": 1657722617,
+    "original_lang": "en",
+    "original_title": "SF appeals security forces not to implement  Actg. President's order",
+    "file_name": "/tmp/news_lk2/articles/12/125ad14e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -177,11 +257,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protestors-break-the-first-line-of-barricades-near-Parliament/342-241011",
+    "url": "https://www.dailymirror.lk/breaking_news/Protestors-break-the-first-line-of-barricades-near-Parliament/108-241011",
     "time_ut": 1657721695,
     "original_lang": "en",
     "original_title": "Protestors break the first line of barricades near Parliament",
-    "file_name": "/tmp/news_lk2/articles/45/455bdd68.json"
+    "file_name": "/tmp/news_lk2/articles/a4/a40e3d9e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -209,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/26-year-old-protestor-dies/342-241010",
+    "url": "https://www.dailymirror.lk/breaking_news/26-year-old-protestor-dies/108-241010",
     "time_ut": 1657720973,
     "original_lang": "en",
     "original_title": "26 year old protestor dies",
-    "file_name": "/tmp/news_lk2/articles/c6/c6f78003.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c1db96b0.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -729,11 +809,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dad\u0dca-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0da7/11-395393",
+    "url": "https://www.ada.lk/picture_story/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dad\u0dca-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0da7/10-395393",
     "time_ut": 1657704862,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dad\u0dca \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dab\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/fc/fcd0bc6b.json"
+    "file_name": "/tmp/news_lk2/articles/eb/eba60bd0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0d9a\u0db8\u0dd2\u0db1\u0dca \u0dc4\u0da7\u0d9c\u0dad\u0dca \u0dad\u0dd9\u0dbd\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba",
     "file_name": "/tmp/news_lk2/articles/54/5465d87d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/friday/\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0dc4\u0dad\u0dca\u0dc0\u0dd0\u0daf\u0dd1\u0dbb\u0dd4\u0db8\u0dca-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca/122-615737",
-    "time_ut": 1656740299,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dc4\u0dad\u0dca\u0dc0\u0dd0\u0daf\u0dd1\u0dbb\u0dd4\u0db8\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/20/20dbd45b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0db6\u0dd6\u0dbb\u0dd4-\u0db4\u0ddc\u0dc5\u0dda-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0dc3\u0dd2\u0dc4\u0dd2\u0d9c\u0db1\u0dca\u0dc0\u0db1-\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db6\u0dc3\u0dca-\u0dc3\u0d82\u0d9c\u0db8\u0dca-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0/117-615736",
-    "time_ut": 1656740232,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dd6\u0dbb\u0dd4 \u0db4\u0ddc\u0dc5\u0dda \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0dc3\u0dd2\u0dc4\u0dd2\u0d9c\u0db1\u0dca\u0dc0\u0db1 \u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db6\u0dc3\u0dca \u0dc3\u0d82\u0d9c\u0db8\u0dca \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/43/43ab082b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/guns-in-wrong-hand/",
-    "time_ut": 1656734580,
-    "original_lang": "en",
-    "original_title": "Guns in wrong hand",
-    "file_name": "/tmp/news_lk2/articles/c4/c49244dd.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/the-governments-very-bleak-future/",
-    "time_ut": 1656734280,
-    "original_lang": "en",
-    "original_title": "The government\u2019s very bleak future",
-    "file_name": "/tmp/news_lk2/articles/b9/b972dc3c.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/open-letter-to-the-president-mr-president-its-not-too-late/",
-    "time_ut": 1656725852,
-    "original_lang": "en",
-    "original_title": "Open Letter To The President: Mr. President, It\u2019s Not Too Late!",
-    "file_name": "/tmp/news_lk2/articles/c3/c3e36a4d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/recomended-news/Kamal-Haasan-returns-to-cinema-with-blockbuster-Vikram/277-240221",
-    "time_ut": 1656709100,
-    "original_lang": "en",
-    "original_title": "Kamal Haasan returns to cinema  with blockbuster \u2018Vikram\u2019",
-    "file_name": "/tmp/news_lk2/articles/90/90de507b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Are-we-learning-anything-from-the-crisis/172-240219",
-    "time_ut": 1656708368,
-    "original_lang": "en",
-    "original_title": "Are we learning anything from the crisis?",
-    "file_name": "/tmp/news_lk2/articles/43/43cc9161.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Revive-the-co-operative-movement-in-Sri-Lanka/172-240218",
-    "time_ut": 1656708217,
-    "original_lang": "en",
-    "original_title": "Revive the co-operative movement in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b6/b63fe2cc.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78321",
-    "time_ut": 1656703440,
-    "original_lang": "en",
-    "original_title": "This collapse has been gradual. The silence of professionals and academics during the time when systems were still capable of being saved and  the chicanery of politicians have contributed to the ruin of this country today.",
-    "file_name": "/tmp/news_lk2/articles/24/2471b025.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/BOI-realigns-confidence-of-investors-through-webinar-series/34-736953",
-    "time_ut": 1656703074,
-    "original_lang": "en",
-    "original_title": "BOI realigns confidence of investors through webinar series",
-    "file_name": "/tmp/news_lk2/articles/53/53224b69.json"
   }
 ]
