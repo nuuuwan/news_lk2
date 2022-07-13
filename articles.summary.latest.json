@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Military-police-given-authority-to-control-situation-Ranil/108-240996",
+    "time_ut": 1657705685,
+    "original_lang": "en",
+    "original_title": "Military, police given authority to control situation: Ranil",
+    "file_name": "/tmp/news_lk2/articles/0a/0acece1e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83620/protesters-storm-prime-ministers-office-in-colombo",
     "time_ut": 1657704900,
@@ -169,11 +177,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-23-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616353",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-23-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-616353",
     "time_ut": 1657703097,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 23 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ae/ae4f9d24.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3b94b28d.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Cabinet Approves Govt\u2019s 22nd Constitutional Amendment Draft Bill; Draft would be sent to Attorney-General and Legal Draftsman for Fine Tuning",
     "file_name": "/tmp/news_lk2/articles/47/4732cb0e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78147",
-    "time_ut": 1655751420,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Eyes Smile During Economic Crisis  with Its Cricket Team Winning the One Day International Series Against Australia",
-    "file_name": "/tmp/news_lk2/articles/a5/a530c0e9.json"
   }
 ]
