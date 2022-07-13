@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 01:57:04 (LK time)*
+*As of 2022-07-14 02:10:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **4** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (9 Articles)
 
 * **6** daily-mirror-lk ([Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d8c760.json))
 
@@ -20,9 +20,7 @@
 
 * **1** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
 
-* **1** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
-
-## Last 24 Hours (318 Articles)
+## Last 24 Hours (316 Articles)
 
 * **62** daily-mirror-lk ([President flees the country on a military jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d86c290a.json))
 
@@ -42,7 +40,7 @@
 
 * **5** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-* **4** daily-ft-lk ([Essentials for an interim all-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dec6f4d.json))
+* **2** daily-ft-lk ([Navy rescues 55 more distressed individuals in high seas while attempting to illegally migrate](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32bd54ba.json))
 
 ## Last Week (947 Articles)
 
