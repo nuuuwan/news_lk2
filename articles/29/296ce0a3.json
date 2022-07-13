@@ -15,7 +15,7 @@
         "Mr. Kasun Chamara, General Secretary of the Railway Station Master's Association, said this afternoon that the station masters are ready to bring the railway career that has started to Colombo to Colombo and they should get the full support of the passengers for that.",
         "Mr. Kasun Chamara further mentioned that station masters and several stations have been attacked and requested to refrain from such things and support the running of trains.",
         "Meanwhile, the authorities of Matara railway station were forced to run two trains from Matara to Colombo and Kandy yesterday afternoon on the strong request of the train passengers.",
-        "Although the heads of the railway department had informed the Matara railway station not to run the trains due to the curfew imposed in the Western Province, the train from Beliaatta to Kandy had already arrived at the Matara railway station, so the Matara chief station master A. Mr. Priyantha was forced.",
+        "Although the heads of the railway department had informed the Matara railway station not to run the trains due to the curfew imposed in the Western Province, the train from Beliatta to Kandy had already arrived at the Matara railway station, so the Matara chief station master A. Mr. Priyantha was forced.",
         "Since tickets had already been issued and the railway unions had also informed to run the train, the Matara Railway authorities took steps to run the relevant train.",
         "The train, which was supposed to leave Matherin at 1.40 pm, was 30 minutes late and left for Kandy at 2.10 pm, and a large number of people boarded that train to participate in the struggle in Mather.",
         "After that, at 3.15 pm, another train was run towards Colombo and at the same time, a large number of army personnel had called the security at Matara railway station.",
@@ -128,10 +128,6 @@
           {
             "text": "the Western Province",
             "label": "LOC"
-          },
-          {
-            "text": "Beliaatta",
-            "label": "GPE"
           },
           {
             "text": "Kandy",
@@ -337,10 +333,6 @@
             "label": "LOC"
           },
           {
-            "text": "\u0db6\u0dd9\u0dbd\u0dd2\u0d85\u0dad\u0dca\u0dad",
-            "label": "GPE"
-          },
-          {
             "text": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
             "label": "PERSON"
           },
@@ -441,7 +433,7 @@
           "label": "CARDINAL"
         },
         {
-          "text": "\u0bae\u0bbe\u0ba4\u0bb0\u0bbf\u0ba9\u0bcd",
+          "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0ba9\u0bcd",
           "label": "ORG"
         }
       ],
@@ -544,10 +536,6 @@
             "label": "LOC"
           },
           {
-            "text": "\u0baa\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe",
-            "label": "GPE"
-          },
-          {
             "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
             "label": "PERSON"
           },
@@ -576,7 +564,7 @@
         ],
         [
           {
-            "text": "\u0bae\u0bbe\u0ba4\u0bb0\u0bbf\u0ba9\u0bcd",
+            "text": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0ba9\u0bcd",
             "label": "ORG"
           },
           {

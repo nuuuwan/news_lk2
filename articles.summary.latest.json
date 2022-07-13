@@ -8,14 +8,6 @@
     "file_name": "/tmp/news_lk2/articles/c4/c4c4225a.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/13/support-armed-forces-and-police-to-maintain-the-peace-cds-shavendra/",
-    "time_ut": 1657712400,
-    "original_lang": "en",
-    "original_title": "\u201cSupport armed forces and Police to maintain the peace\u201d \u2013 CDS Shavendra",
-    "file_name": "/tmp/news_lk2/articles/b7/b70b8656.json"
-  },
-  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-fascist-threat-must-be-contained-says-acting-president-wicrkremesinghe-97357/",
     "time_ut": 1657712040,
@@ -7998,5 +7990,13 @@
     "original_lang": "en",
     "original_title": "The cry \u2018Gota must Go\u2019 is not necessarily personalised, though there is no doubt that this President exemplifies the evils of rash, ignorant and arrogant decision-making.",
     "file_name": "/tmp/news_lk2/articles/76/76a02725.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78199",
+    "time_ut": 1656098640,
+    "original_lang": "en",
+    "original_title": "India Strengthens Its Position in Sri Lanka Vis-\u00e0-Vis Rival China; Will China remain a bystander, watching India and the West displacing it in Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/53/5323ce1e.json"
   }
 ]
