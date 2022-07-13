@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300359",
+    "time_ut": 1657721954,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/3e/3e94be29.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300358",
+    "time_ut": 1657721880,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/6a/6abc64f7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protestors-break-the-first-line-of-barricades-near-Parliament/342-241011",
+    "time_ut": 1657721695,
+    "original_lang": "en",
+    "original_title": "Protestors break the first line of barricades near Parliament",
+    "file_name": "/tmp/news_lk2/articles/45/455bdd68.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83626/basl-requests-protestors-to-hand-back-occupied-govt-offices-leave-room-for-peaceful-transition-of-power",
+    "time_ut": 1657721640,
+    "original_lang": "en",
+    "original_title": "BASL requests protestors to hand back occupied govt offices, leave room for peaceful transition of power",
+    "file_name": "/tmp/news_lk2/articles/d6/d6661332.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/13/party-leaders-say-no-to-request-to-repel-protests-by-force-call-for-speaker-to-sack-rw/",
+    "time_ut": 1657721040,
+    "original_lang": "en",
+    "original_title": "Party leaders say NO to request to repel protests by force; & call for Speaker to sack RW",
+    "file_name": "/tmp/news_lk2/articles/0e/0e230b07.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/26-year-old-protestor-dies/342-241010",
     "time_ut": 1657720973,
@@ -81,11 +121,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0bb2\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbe\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300354",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0bb2\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbe\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/150-300354",
     "time_ut": 1657719281,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0bb2\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd: \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/cd/cd4a1a90.json"
+    "file_name": "/tmp/news_lk2/articles/32/32ab4a07.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "#De-dollarizenow",
     "file_name": "/tmp/news_lk2/articles/37/37e3566e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-in-dire-straits-Begging-bowl-not-a-long-term-answer/172-240076",
-    "time_ut": 1656532968,
-    "original_lang": "en",
-    "original_title": "Sri Lanka in dire straits: Begging bowl not a long-term answer",
-    "file_name": "/tmp/news_lk2/articles/bf/bff7ea57.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78290",
-    "time_ut": 1656529560,
-    "original_lang": "en",
-    "original_title": "Today, Sri Lanka finds itself crippled by an unprecedented crisis. One Day , I have no doubt that my country will rise again .But we will do so only with the support of friends, who will speak in solidarity and act in support.  Sri Lanka is ripe for rescue.",
-    "file_name": "/tmp/news_lk2/articles/a5/a57fdc35.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dd3\u0dc0\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca-\u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf-/2-615583",
-    "time_ut": 1656482794,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/9b/9b331019.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0dd6\u0dbd\u0dd2-10-\u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dbb\u0da7-\u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8/2-615582",
-    "time_ut": 1656482283,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd6\u0dbd\u0dd2 10 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dbb\u0da7 \u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/32/3207cc53.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78284",
-    "time_ut": 1656445260,
-    "original_lang": "en",
-    "original_title": "Ceylon Petroleum Corporation (CPC) owes debt and payments worth nearly $ 1 billion Reveals  Ranil Wickremesinghe:Prime Minister  exposes the bankruptcy of the State-owned entity which has aggravated the on-going fuel crisis and urgent procurement.",
-    "file_name": "/tmp/news_lk2/articles/11/11895317.json"
   }
 ]
