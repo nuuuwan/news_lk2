@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-fascist-threat-must-be-contained-says-acting-president-wicrkremesinghe-97357/",
+    "time_ut": 1657712040,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s \u201cfascist threat\u201d must be contained, says Acting President Wicrkremesinghe",
+    "file_name": "/tmp/news_lk2/articles/ae/ae50cfab.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dcf\u0dad\u0dbb\u0dd2\u0db1\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d91\u0dba\u0dd2/101-616365",
+    "time_ut": 1657711907,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dad\u0dbb\u0dd2\u0db1\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/29/296ce0a3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0dda-\u0dc0\u0dd9\u0dbd\u0dcf\u0dc0\u0dda-\u0d9a\u0dc5-\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc4\u0ddc\u0db3\u0db8-\u0daf\u0dda-\u0d9a\u0dd2\u0dbb\u0dd2\u0d87\u0dbd\u0dca\u0dbd-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616363",
     "time_ut": 1657710991,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The decision to allow the Sri Lankan Rupee (LKR) to be \u201cflexible\u201d from March 7, 2022 onwards was not a  \u201cunilateral\u201d decision of then   Central Bank  :Governor Ajith Nivard Cabraal.",
     "file_name": "/tmp/news_lk2/articles/bb/bbdecf3d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78204",
-    "time_ut": 1656095940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s biggest taxpayer Business tycoon Dhammika Perera\u2019s swearing in as a National List MP of the Sri Lanka Podujana Peramuna (SLPP)  has evoked a great deal of interest for a number of self-evident reasons.",
-    "file_name": "/tmp/news_lk2/articles/ba/ba5cabe9.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/what-should-we-normalise/",
-    "time_ut": 1656076620,
-    "original_lang": "en",
-    "original_title": "What should we normalise?",
-    "file_name": "/tmp/news_lk2/articles/95/9562a2a1.json"
   }
 ]
