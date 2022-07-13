@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131373",
+    "time_ut": 1657693432,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 : \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bbe\u0bb2\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/71/71361ee0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dbd\u0dc4\u0d9a\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0db1\u0dca\u0db1/101-616338",
+    "time_ut": 1657693256,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dbd\u0dc4\u0d9a\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/aa/aa8f4849.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-orders-to-impose-curfew-in-WP/108-240980",
+    "time_ut": 1657693087,
+    "original_lang": "en",
+    "original_title": "PM orders to impose curfew in WP",
+    "file_name": "/tmp/news_lk2/articles/0b/0b22a8f9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0b9a\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-300319",
+    "time_ut": 1657692851,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1; \u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a9/a9a79f16.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131372",
     "time_ut": 1657692375,
     "original_lang": "ta",
@@ -17,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dd4\u0dad\u0dca-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-616336",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dd4\u0dad\u0dca-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-616336",
     "time_ut": 1657692177,
     "original_lang": "si",
     "original_title": "\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dd4\u0dad\u0dca \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f9/f93a419a.json"
+    "file_name": "/tmp/news_lk2/articles/01/01a11bed.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -486,6 +518,14 @@
     "original_lang": "en",
     "original_title": "Three-pronged battle for presidency",
     "file_name": "/tmp/news_lk2/articles/59/592ae6d6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0da7\u0dd2\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-616321",
+    "time_ut": 1657677388,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/be/be016d4b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
