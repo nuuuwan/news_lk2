@@ -696,6 +696,14 @@
     "file_name": "/tmp/news_lk2/articles/6b/6bb4de2d.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hnb-hosts-bi-annual-multi-faith-prayer-services/",
+    "time_ut": 1657628940,
+    "original_lang": "en",
+    "original_title": "HNB hosts bi-annual, multi-faith prayer services",
+    "file_name": "/tmp/news_lk2/articles/04/04fc7f88.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131344",
     "time_ut": 1657628792,
@@ -2286,6 +2294,30 @@
     "original_lang": "en",
     "original_title": "Hela becomes the first apparel manufacturer to extend the globally-recognised P.A.C.E. program to Egypt",
     "file_name": "/tmp/news_lk2/articles/22/22116423.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/calls-on-president-pm-to-bow-out-expresses-fullest-support-for-peoples-movement/",
+    "time_ut": 1657560780,
+    "original_lang": "en",
+    "original_title": "calls on President, PM to bow out; \u2018expresses fullest support for people\u2019s movement\u2019",
+    "file_name": "/tmp/news_lk2/articles/b2/b2d32213.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-revolutionises-online-experience-for-customers/",
+    "time_ut": 1657560780,
+    "original_lang": "en",
+    "original_title": "SLT-MOBITEL revolutionises online experience for customers",
+    "file_name": "/tmp/news_lk2/articles/09/099f1edf.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/soe-reforms-vital-although-monetary-policies-to-put-sls-economy-on-right-track-are-on-cbsl-governor/",
+    "time_ut": 1657560720,
+    "original_lang": "en",
+    "original_title": "SOE reforms vital, although monetary policies to put SL\u2019s economy on right track are on \u2013 CBSL Governor",
+    "file_name": "/tmp/news_lk2/articles/1d/1d884397.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
