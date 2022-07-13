@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bcb\u0b9f\u0bbf\u0baf\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300340",
+    "time_ut": 1657709323,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bcb\u0b9f\u0bbf\u0baf\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/45/45a9b61d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2/101-616361",
+    "time_ut": 1657709167,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a6/a66fd860.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Dansala-at-Gangarama-temple/110-241001",
+    "time_ut": 1657708800,
+    "original_lang": "en",
+    "original_title": "Dansala at Gangarama temple",
+    "file_name": "/tmp/news_lk2/articles/bf/bf255ad4.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131398",
     "time_ut": 1657708408,
@@ -9,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protesters-tear-gassed/342-241000",
+    "url": "https://www.dailymirror.lk/caption_story/Protesters-tear-gassed/110-241000",
     "time_ut": 1657708160,
     "original_lang": "en",
     "original_title": "Protesters tear gassed...",
-    "file_name": "/tmp/news_lk2/articles/2c/2cafd965.json"
+    "file_name": "/tmp/news_lk2/articles/e8/e86af23e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -81,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Trains-from-distant-places-to-Colombo-halted-indefinitely/342-240998",
+    "url": "https://www.dailymirror.lk/breaking_news/Trains-from-distant-places-to-Colombo-halted-indefinitely/108-240998",
     "time_ut": 1657706333,
     "original_lang": "en",
     "original_title": "Trains from distant places to Colombo halted indefinitely",
-    "file_name": "/tmp/news_lk2/articles/6e/6e95a832.json"
+    "file_name": "/tmp/news_lk2/articles/18/181412df.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
     "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78176",
-    "time_ut": 1655925840,
-    "original_lang": "en",
-    "original_title": "Why Cant Premier Wickremesinghe Appoint Environment Minister Nazeer Hamed as Special Envoy to Seek Much Needed Fuel From Oil Rich Middle Eastern Countries?",
-    "file_name": "/tmp/news_lk2/articles/0f/0fae1a67.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78170",
-    "time_ut": 1655924760,
-    "original_lang": "en",
-    "original_title": "Indian Delegation led by  Foreign Secretary  Vinay Kwatra has in-depth discussion  with Prime  Minister Ranil Wickremesinghe on the Sri Lankan economy and efforts undertaken by the Government of Sri Lanka towards achieving economic recovery.",
-    "file_name": "/tmp/news_lk2/articles/ca/ca8c6132.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78173",
-    "time_ut": 1655924220,
-    "original_lang": "en",
-    "original_title": "Second  Ship  with 14,712 tonnes rice, 250 tonnes of milk powder and 38 tonnes of medicines  Valued at 670 Million Indian Rupees sent as Gift from Tamil Nadu State to Sri Lanka Leaves Thoothukkudy Port",
-    "file_name": "/tmp/news_lk2/articles/39/39e18e8c.json"
   }
 ]
