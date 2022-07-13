@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83631/president-rajapaksa-set-to-fly-to-singapore-via-maldives-reuters",
+    "time_ut": 1657737240,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa set to fly to Singapore via Maldives - Reuters",
+    "file_name": "/tmp/news_lk2/articles/ef/ef5b5c1e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ukrainian-President-blames-Russia-for-causing-the-ongoing-crisis-in-Sri-Lanka/108-241031",
+    "time_ut": 1657736807,
+    "original_lang": "en",
+    "original_title": "Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b0/b0d8c760.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0da7\u0da7\u0db8-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd2\u0dad\u0dd2\u0dba-\u0daf\u0db8\u0dba\u0dd2/11-395406",
+    "time_ut": 1657735938,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dbb\u0da7\u0da7\u0db8 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dad\u0dd2\u0dba \u0daf\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/63/63aa6cae.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/71-300390",
     "time_ut": 1657733887,
@@ -297,11 +321,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sudden-curfew-forces-people-to-stay-indoors/342-241018",
+    "url": "https://www.dailymirror.lk/caption_story/Sudden-curfew-forces-people-to-stay-indoors/110-241018",
     "time_ut": 1657725868,
     "original_lang": "en",
     "original_title": "Sudden curfew forces people to stay indoors",
-    "file_name": "/tmp/news_lk2/articles/33/33f5ed7e.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f9f60453.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
