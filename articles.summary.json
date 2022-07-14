@@ -9,6 +9,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300414",
+    "time_ut": 1657777153,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba9\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1c/1cf2b809.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300414",
     "time_ut": 1657777153,
     "original_lang": "ta",
@@ -86,6 +94,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d9c\u0db8\u0db1\u0dcf\u0db1\u0dca\u0dad\u0dba \u0d85\u0d9f\u0dc4\u0dbb\u0dd4 \u0dbd\u0ddd\u0d9a\u0dba\u0daf?",
     "file_name": "/tmp/news_lk2/articles/35/3583731e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-fuel-distribution-will-be-expedited-if-LIOC-distributes-from-Kolonnawa-Ananda-Palitha/342-241065",
+    "time_ut": 1657774488,
+    "original_lang": "en",
+    "original_title": "SL\u2019s fuel distribution will be expedited if LIOC distributes from Kolonnawa: Ananda Palitha",
+    "file_name": "/tmp/news_lk2/articles/15/15abe136.json"
   },
   {
     "newspaper_id": "news-first-lk",

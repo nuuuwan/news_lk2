@@ -1,46 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 11:17:44 (LK time)*
+*As of 2022-07-14 11:30:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** tamil-mirror-lk ([அழுத்தத்தில் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a94f2b.json))
+
+* **1** daily-mirror-lk ([Not yet receive the resignation letter: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7bf36fe.json))
+
+## Last Hour (10 Articles)
+
+* **3** tamil-mirror-lk ([தரையிறங்கியது தனியார் ஜெட் விமானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f72cdf.json))
 
 * **2** daily-mirror-lk ([Private jet arrives in Maldives to transport GR to Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c3874fd.json))
 
-* **1** tamil-mirror-lk ([அழுத்தத்தில் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a94f2b.json))
+* **2** virakesari-lk ([கனடாவில் புதிய வகை ஒமிக்ரோன் - 5 பேருக்கு பாதிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72cdfdac.json))
 
 * **1** lankadeepa-lk ([’’කතානායකවරයාට රට භාරදෙන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3dcdfc.json))
 
 * **1** economy-next-com ([Speaker may consider Sri Lanka president vacated post if no letter arrives: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a993afb.json))
 
-## Last Hour (14 Articles)
+* **1** ada-lk ([විරෝධතාකරුවන් හමුදාවේ T56 ගිනි අවියක් පැහැරගත් බවට චෝදනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e021a5a8.json))
 
-* **3** daily-mirror-lk ([Continuing to follow situation in Sri Lanka: UN Cheif](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5f2dcb9.json))
+## Last 3 Hours (37 Articles)
 
-* **2** tamil-mirror-lk ([தரையிறங்கியது தனியார் ஜெட் விமானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f72cdf.json))
+* **6** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
 
-* **2** lankadeepa-lk ([ජනාධිපතිගේ ගමනාන්තය අඟහරු ලෝකයද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3583731e.json))
+* **6** tamil-mirror-lk ([நாடுமுழுவதும் இன்று சமையல் எரிவாயு விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35924aa1.json))
 
-* **2** virakesari-lk ([கனடாவில் புதிய வகை ஒமிக்ரோன் - 5 பேருக்கு பாதிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72cdfdac.json))
+* **6** virakesari-lk ([ஆர்ப்பாட்டத்தில் இராணுவ வீரரின் துப்பாக்கி, தோட்டக்கள் அபகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/107af24d.json))
 
-* **2** ada-lk ([ජනපතිවරයාගේ ඉල්ලා අස්විමේ ලිපිය තවමත් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b8b3880.json))
-
-* **2** news-first-lk ([Train Operations resume after curfew](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc7dd418.json))
-
-* **1** economy-next-com ([Speaker may consider Sri Lanka president vacated post if no letter arrives: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a993afb.json))
-
-## Last 3 Hours (40 Articles)
-
-* **8** virakesari-lk ([இதுவரை ஜனாதிபதியின் இராஜினாமா கடிதம் கிடைக்கவில்லை – சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/513136ce.json))
-
-* **8** ada-lk ([හයිටි අගනුවර ප්‍රතිවාදී කල්ලි අතර ගැටුම්වලින් 89ක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76d56044.json))
-
-* **6** tamil-mirror-lk ([போக்குவரத்து சேவைகள் வழமைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceff0368.json))
+* **6** ada-lk ([ඇමෙරිකානු යුද නැවක් චීන මුහුදට අනවසරයෙන් ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0994df26.json))
 
 * **6** news-first-lk ([Guterres wants democratic transition in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aa6f3a1.json))
-
-* **5** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
 
 * **3** lankadeepa-lk ([’’ඉල්ලා අස්වීමේ ලිපිය තවමත් නෑ’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9d6b27a.json))
 
@@ -50,13 +44,13 @@
 
 ## Last 24 Hours (327 Articles)
 
-* **58** daily-mirror-lk ([Four hospitalised following clash at ’GotaGoGama’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f44e24.json))
+* **59** daily-mirror-lk ([Four hospitalised following clash at ’GotaGoGama’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f44e24.json))
 
-* **53** tamil-mirror-lk ([மேல் மாகாணத்திற்கு ஊரடங்கு; நாடளாவிய ரீதியில் அவசரகாலச் சட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9a79f16.json))
+* **54** tamil-mirror-lk ([மேல் மாகாணத்திற்கு ஊரடங்கு; நாடளாவிய ரீதியில் அவசரகாலச் சட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9a79f16.json))
 
-* **53** lankadeepa-lk ([’’ජනපතිගේ අස්වීමේ ලිපිය ලැබී නෑ: බලාපොරොත්තුවෙන් ඉන්නවා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b38dd14f.json))
+* **52** lankadeepa-lk ([බැසිලුත් රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a11bed.json))
 
-* **45** virakesari-lk ([பிரதமர் அலுவலகத்திற்கு முன் ஆர்ப்பாட்டம் ! கண்ணீர்ப்புகை பிரயோகம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e835784.json))
+* **44** virakesari-lk ([பழைய கடன்கள் காரணமாக இலங்கைக்கு நிதி வழங்குவதற்கு உலக நாடுகளும் சர்வதேச நிதியமைப்புகளும் தயக்கம்- அர்ஜூன மகேந்திரன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d76db88c.json))
 
 * **34** ada-lk ([අගමැති කාර්යාලය අසළ විරෝධතාකරුවන් පළවා හරින්න කඳුලු ගෑස ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e383ee3.json))
 
@@ -74,15 +68,15 @@
 
 * **2** b-b-c-com-sinhala ([අරගලකරුවන් අගමැති කාර්යාලය අත්පත් කර ගත් ආකාරය ඔබ දුටුවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a452c611.json))
 
-## Last Week (1,030 Articles)
+## Last Week (1,031 Articles)
 
-* **142** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
+* **143** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
 * **135** lankadeepa-lk ([දිළිඳුකමේ ගැටලුව  පාලකයන්ට නොපෙනේද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24df0acd.json))
 
-* **121** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **121** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **120** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **121** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **98** ada-lk ([විදෙස් මුදල් තැන්පත් කිරීමට දුන් සමාකාලයට සති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7880ac84.json))
 
@@ -98,23 +92,23 @@
 
 * **36** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
 
-* **28** b-b-c-com-sinhala ([ඉහළ යන මගී ධාරීතාව දැරීමට ශ්‍රී ලංකා දුම්රිය සේවයට හැකිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ac6a2a0.json))
+* **27** b-b-c-com-sinhala ([පෝලිම්වල දරු උපතක් සහ විපත් දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0193c5ff.json))
 
 * **20** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,356 Articles)
+## All Time (1,358 Articles)
 
 * **194** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **192** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **193** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **156** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **123** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **121** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **121** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **120** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **121** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **114** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
