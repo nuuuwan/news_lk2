@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Election-the-only-solution-to-fulfil-peoples-true-aspirations-JVP-reiterates/108-241100",
+    "time_ut": 1657822001,
+    "original_lang": "en",
+    "original_title": "Election the only solution to fulfil people\u2019s true aspirations: JVP reiterates",
+    "file_name": "/tmp/news_lk2/articles/1d/1d269d19.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/General-Silva-visits-injured-soldiers/110-241099",
     "time_ut": 1657820659,
     "original_lang": "en",
@@ -233,11 +241,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gazette-amending-duties-functions-of-Defence-Ministry-issued/342-241095",
+    "url": "https://www.dailymirror.lk/breaking_news/Gazette-amending-duties-functions-of-Defence-Ministry-issued/108-241095",
     "time_ut": 1657807684,
     "original_lang": "en",
     "original_title": "Gazette amending duties, functions of Defence Ministry issued",
-    "file_name": "/tmp/news_lk2/articles/15/155ef0ad.json"
+    "file_name": "/tmp/news_lk2/articles/88/88414406.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
