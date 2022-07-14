@@ -1,38 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 02:50:15 (LK time)*
+*As of 2022-07-15 03:02:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1191310b.json))
+* **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 ## Last Hour (3 Articles)
 
-* **2** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1191310b.json))
-
-* **1** economy-next-com ([Sri Lanka shares down after violent clashes amid political unrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b855bcb6.json))
+* **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 ## Last 3 Hours (16 Articles)
 
 * **11** daily-ft-lk ([How Sri Lanka’s runaway President went from ‘war hero’ to fugitive](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d858ec.json))
 
-* **2** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1191310b.json))
+* **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 * **2** economy-next-com ([Sri Lanka’s war winning army chief says ready to take presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d5d7be2.json))
 
-* **1** ada-derana-lk ([Duties, institutions gazetted under Defence Ministry amended](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/607209d2.json))
-
-## Last 24 Hours (266 Articles)
+## Last 24 Hours (267 Articles)
 
 * **39** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
 * **38** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
-* **31** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
+* **31** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
 
-* **30** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
+* **31** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
 * **30** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
@@ -50,9 +46,9 @@
 
 * **2** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
-## Last Week (1,208 Articles)
+## Last Week (1,209 Articles)
 
-* **165** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
+* **166** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
 * **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
@@ -78,11 +74,11 @@
 
 * **22** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,552 Articles)
+## All Time (1,553 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **217** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **218** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

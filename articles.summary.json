@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-aragalaya-must-return-to-Galle-Face-EDITORIAL/231-241105",
+    "time_ut": 1657833369,
+    "original_lang": "en",
+    "original_title": "The aragalaya must return to Galle Face - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/3b/3b3e854b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Dont-cross-the-thin-line-between-people-power-and-mob-rule/231-241104",
     "time_ut": 1657833249,
     "original_lang": "en",
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/172-241103",
+    "url": "https://www.dailymirror.lk/opinion/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/231-241103",
     "time_ut": 1657832956,
     "original_lang": "en",
     "original_title": "Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -",
-    "file_name": "/tmp/news_lk2/articles/11/1191310b.json"
+    "file_name": "/tmp/news_lk2/articles/5b/5b2ef66d.json"
   },
   {
     "newspaper_id": "economy-next-com",
