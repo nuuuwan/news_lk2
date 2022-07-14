@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 04:16:01 (LK time)*
+*As of 2022-07-15 04:28:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 * **2** economy-next-com ([Sri Lanka’s war winning army chief says ready to take presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d5d7be2.json))
-
-* **1** daily-ft-lk ([Army gets tough; empowers soldiers to use force to protect lives, State property](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a917972d.json))
 
 ## Last 24 Hours (270 Articles)
 
