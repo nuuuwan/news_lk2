@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/exclusive-fuel-arrangement-for-health-workers-reinstated/",
+    "time_ut": 1657799040,
+    "original_lang": "en",
+    "original_title": "Exclusive fuel arrangement for health workers, reinstated",
+    "file_name": "/tmp/news_lk2/articles/eb/eb84c6c1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83646/parliament-to-convene-within-3-days-after-presidents-resignation",
+    "time_ut": 1657798500,
+    "original_lang": "en",
+    "original_title": "Parliament to convene within 3 days after President\u2019s resignation",
+    "file_name": "/tmp/news_lk2/articles/5c/5c8d3efc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf--\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca-\u0dc4\u0dd9\u0da7-\u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4/11-395430",
+    "time_ut": 1657798338,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf, \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca \u0dc4\u0dd9\u0da7 \u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/b2/b255c204.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131468",
     "time_ut": 1657798114,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b95\u0bc6\u0bbe\u0bb3\u0bcd\u0bb5\u0bc7\u0bbe\u0bae\u0bcd - \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd  \u0baa\u0bc6\u0baa\u0bcd\u0bb0\u0bb2\u0bcd \u0b95\u0bc7\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/a3/a33d0ec3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dbd\u0daf\u0dd3-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dbd\u0dd0\u0db6\u0dd6-\u0d9c\u0dab\u0db1-84\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d89\u0dc4\u0dc5\u0da7/11-395429",
+    "time_ut": 1657798052,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dbd\u0daf\u0dd3 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 \u0d9c\u0dab\u0db1 84\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/59/5993f927.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dhammika Perera resigns from minister post, joins 3 others",
     "file_name": "/tmp/news_lk2/articles/97/97da9436.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/MRI-and-Spice-Council-launch-Booster-to-mitigate-nutrition-deficiency-among-patients-and-toddlers/56-737315",
-    "time_ut": 1657483043,
-    "original_lang": "en",
-    "original_title": "MRI and Spice Council launch \u2018Booster\u2019 to mitigate nutrition deficiency among patients and toddlers",
-    "file_name": "/tmp/news_lk2/articles/1d/1d7be04e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-victory-of-Aragalaya-What-actually-happened-to-Gota-and-Ranil/4-737302",
-    "time_ut": 1657482110,
-    "original_lang": "en",
-    "original_title": "The victory of Aragalaya: What actually happened to Gota and Ranil?",
-    "file_name": "/tmp/news_lk2/articles/b5/b57244d0.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78519",
-    "time_ut": 1657481040,
-    "original_lang": "en",
-    "original_title": "Samagi Jana Balawegaya leader Sajith Premadasa  to contest for the post of President; MP\u2019s will vote to elect a new President by secret ballot on 20 July if no consensus is reached on a single candidate to take over the Presidency after the resignation of President Gotabaya Rajapaksa.",
-    "file_name": "/tmp/news_lk2/articles/15/1520f94c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/1-5-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd-\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-300154",
-    "time_ut": 1657480916,
-    "original_lang": "ta",
-    "original_title": "1.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd - \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/56/560c7645.json"
   }
 ]
