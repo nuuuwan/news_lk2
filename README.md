@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 03:15:07 (LK time)*
+*As of 2022-07-15 03:23:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([The aragalaya must return to Galle Face - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b3e854b.json))
 
 ## Last Hour (3 Articles)
 
