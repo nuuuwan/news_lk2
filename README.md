@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 21:32:27 (LK time)*
+*As of 2022-07-14 21:36:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcd3ca49.json))
+* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
 
 * **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
@@ -14,7 +14,7 @@
 
 * **2** ada-lk ([ගෝඨාභයට රැකවරණය දෙන්නේ නෑ - සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec83f4dd.json))
 
-* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcd3ca49.json))
+* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
 
 * **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
@@ -26,7 +26,7 @@
 
 ## Last 3 Hours (29 Articles)
 
-* **6** lankadeepa-lk ([පැය 72 කින් විසඳුමක් නැත්නම් වෘත්තීය සමිති අරගලයට එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/016e2ceb.json))
+* **7** lankadeepa-lk ([පැය 72 කින් විසඳුමක් නැත්නම් වෘත්තීය සමිති අරගලයට එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/016e2ceb.json))
 
 * **6** ada-lk ([ජනපති සිංගප්පූරුවෙන් සෞදියට?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d09ce3a.json))
 
@@ -36,19 +36,19 @@
 
 * **3** ada-derana-lk ([Sri Lanka President on private visit, not granted asylum: Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a054e981.json))
 
-* **2** tamil-mirror-lk ([சிங்கப்பூரில் கோட்டாபய அடைக்கலம் கோரவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aae2b9b2.json))
-
 * **2** economy-next-com ([Commonwealth calls for peaceful Sri Lanka transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01109ac8.json))
+
+* **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
 * **1** news-first-lk ([Dayasiri requests CJ to consider that President fled the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7881d7b.json))
 
-## Last 24 Hours (276 Articles)
+## Last 24 Hours (277 Articles)
 
 * **43** daily-mirror-lk ([Island-wide curfew will be lifted at 5:00 am tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c3c600.json))
 
 * **43** virakesari-lk ([நாடளாவிய ரீதியில் ஊரடங்கு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5ae1233e.json))
 
-* **41** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
+* **42** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
 
 * **32** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b076e66.json))
 
@@ -68,9 +68,9 @@
 
 * **2** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
-## Last Week (1,182 Articles)
+## Last Week (1,183 Articles)
 
-* **164** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
+* **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
 * **163** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
 
@@ -96,9 +96,9 @@
 
 * **22** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,516 Articles)
+## All Time (1,517 Articles)
 
-* **226** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **213** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
