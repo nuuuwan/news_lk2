@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131428",
+    "time_ut": 1657775797,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf \u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/11/116670c1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1-\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0b9c\u0bc6\u0b9f\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-300413",
+    "time_ut": 1657775668,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0bc6\u0b9f\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/97/97f72cdf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131427",
+    "time_ut": 1657775053,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0ba9\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0b95\u0bc8 \u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd - 5 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/72/72cdfdac.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/no-resignation-letter-speaker-considering-option-of-president-vacating-his-post/",
+    "time_ut": 1657774740,
+    "original_lang": "en",
+    "original_title": "NO Resignation Letter; Speaker considering option of President vacating his post",
+    "file_name": "/tmp/news_lk2/articles/21/21fef45e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d9c\u0db8\u0db1\u0dcf\u0db1\u0dca\u0dad\u0dba-\u0d85\u0d9f\u0dc4\u0dbb\u0dd4-\u0dbd\u0ddd\u0d9a\u0dba\u0daf-/101-616393",
+    "time_ut": 1657774517,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d9c\u0db8\u0db1\u0dcf\u0db1\u0dca\u0dad\u0dba \u0d85\u0d9f\u0dc4\u0dbb\u0dd4 \u0dbd\u0ddd\u0d9a\u0dba\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/35/3583731e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/train-operations-resume-after-curfew/",
+    "time_ut": 1657774440,
+    "original_lang": "en",
+    "original_title": "Train Operations resume after curfew",
+    "file_name": "/tmp/news_lk2/articles/bc/bc7dd418.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Continuing-to-follow-situation-in-Sri-Lanka-UN-Cheif/108-241064",
     "time_ut": 1657774230,
     "original_lang": "en",
     "original_title": "Continuing to follow situation in Sri Lanka: UN Cheif",
     "file_name": "/tmp/news_lk2/articles/e5/e5f2dcb9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0dad\u0dc0\u0db8\u0dad\u0dca-\u0db1\u0dd1/11-395418",
+    "time_ut": 1657774084,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0dad\u0dc0\u0db8\u0dad\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/0b/0b8b3880.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -22,6 +78,14 @@
     "original_lang": "si",
     "original_title": "UAE \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0dc4\u0dcf \u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dc1\u0dd3\u0dbd\u0dd3 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/5e/5e87e15a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/litro-gas-for-all-provinces-from-today-14/",
+    "time_ut": 1657773480,
+    "original_lang": "en",
+    "original_title": "Litro Gas for all provinces from today (14)",
+    "file_name": "/tmp/news_lk2/articles/a0/a00c9f09.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -70,6 +134,14 @@
     "original_lang": "en",
     "original_title": "UN chief calls for peaceful, democratic transition of power in crisis-hit Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/04/046a8d66.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/soldiers-weapons-stolen-during-battaramulla-protest/",
+    "time_ut": 1657772100,
+    "original_lang": "en",
+    "original_title": "Soldiers\u2019 weapons stolen during Battaramulla protest",
+    "file_name": "/tmp/news_lk2/articles/59/59ddc7a5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "Jeered & Sent Home: Ominous Sign Of An Impending Peril",
     "file_name": "/tmp/news_lk2/articles/11/11a286ae.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62086578",
-    "time_ut": 1657245683,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba : \u0da2\u0dd6\u0dbd\u0dd2 9 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
-    "file_name": "/tmp/news_lk2/articles/e3/e3b6b591.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/when-will-sri-lankan-children-be-prioritized-in-this-crisis/",
-    "time_ut": 1657241221,
-    "original_lang": "en",
-    "original_title": "When Will Sri Lankan Children Be Prioritized In This Crisis?",
-    "file_name": "/tmp/news_lk2/articles/ae/aed7198c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Virtual-session-to-explore-trade-opportunities-in-Russia/34-737208",
-    "time_ut": 1657233941,
-    "original_lang": "en",
-    "original_title": "Virtual session to explore trade opportunities in Russia",
-    "file_name": "/tmp/news_lk2/articles/33/331cce4b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/SriLankan-Airlines-says-operating-close-to-100-efficiency/34-737207",
-    "time_ut": 1657233851,
-    "original_lang": "en",
-    "original_title": "SriLankan Airlines says operating close to 100% efficiency",
-    "file_name": "/tmp/news_lk2/articles/1f/1f9bb10c.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Two-Russian-representatives-arrive-in-SL-to-discuss-fuel-supply/34-737206",
-    "time_ut": 1657233745,
-    "original_lang": "en",
-    "original_title": "Two Russian representatives arrive in SL to discuss fuel supply",
-    "file_name": "/tmp/news_lk2/articles/45/45ddbc16.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/A-few-ways-forward-for-failed-sir-state-system-and-society/4-737198",
-    "time_ut": 1657230028,
-    "original_lang": "en",
-    "original_title": "A few ways forward for failed  \u2018sir, state, system, and society\u2019",
-    "file_name": "/tmp/news_lk2/articles/6e/6ebcb054.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Solutions-to-the-foreign-exchange-crisis/4-737196",
-    "time_ut": 1657227746,
-    "original_lang": "en",
-    "original_title": "Solutions to the foreign exchange crisis",
-    "file_name": "/tmp/news_lk2/articles/81/81de0360.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62079809",
-    "time_ut": 1657226642,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2 \u0db4\u0ddc\u0dbd\u0dd3 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
-    "file_name": "/tmp/news_lk2/articles/df/df15a02a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Why-Sri-Lanka-s-economic-policy-trajectory-must-change/4-737195",
-    "time_ut": 1657226446,
-    "original_lang": "en",
-    "original_title": "Why Sri Lanka\u2019s economic policy trajectory must change",
-    "file_name": "/tmp/news_lk2/articles/77/7721ee96.json"
   }
 ]
