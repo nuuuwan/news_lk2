@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Continuing-to-follow-situation-in-Sri-Lanka-UN-Cheif/108-241064",
+    "time_ut": 1657774230,
+    "original_lang": "en",
+    "original_title": "Continuing to follow situation in Sri Lanka: UN Cheif",
+    "file_name": "/tmp/news_lk2/articles/e5/e5f2dcb9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83635/party-leaders-call-for-pms-immediate-resignation",
+    "time_ut": 1657773900,
+    "original_lang": "en",
+    "original_title": "Party leaders call for PM\u2019s immediate resignation",
+    "file_name": "/tmp/news_lk2/articles/4a/4addb833.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/UAE-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba-\u0dc4\u0dcf-\u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dc1\u0dd3\u0dbd\u0dd3-\u0dc3\u0db6\u0db3\u0dad\u0dcf-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/3-395416",
+    "time_ut": 1657773525,
+    "original_lang": "si",
+    "original_title": "UAE \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0dc4\u0dcf \u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dc1\u0dd3\u0dbd\u0dd3 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5e/5e87e15a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0da2\u0dd9\u0da7\u0dca-\u0dba\u0dcf\u0db1\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca/11-395415",
+    "time_ut": 1657773430,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0da2\u0dd9\u0da7\u0dca \u0dba\u0dcf\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ee/ee5b2593.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dad\u0dbb\u0d9c\u0dba\u0da7-\u0dad\u0dc0\u0db8\u0dad\u0dca-\u0dc4\u0dba\u0d9a\u0dca-\u0dad\u0dbb\u0d9c-\u0db6\u0dd2\u0db8\u0dda/3-395414",
     "time_ut": 1657772801,
@@ -97,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/T-56-firearm-magazines-stolen-from-soldier-by-protesters-during-unrest-near-Parliament/342-241062",
+    "url": "https://www.dailymirror.lk/breaking_news/T-56-firearm-magazines-stolen-from-soldier-by-protesters-during-unrest-near-Parliament/108-241062",
     "time_ut": 1657770497,
     "original_lang": "en",
     "original_title": "T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament",
-    "file_name": "/tmp/news_lk2/articles/f1/f1c3dbeb.json"
+    "file_name": "/tmp/news_lk2/articles/d3/d31daeda.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -174,6 +206,14 @@
     "original_lang": "en",
     "original_title": "President Rajapaksa fails to board Singapore-based flight: reports",
     "file_name": "/tmp/news_lk2/articles/0f/0f759810.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0-\u0db4\u0dd2\u0da7\u0dc0-\u0dba\u0db1\u0dca\u0db1-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-5\u0d9a\u0dca-\u0d9c\u0dad\u0dca\u0dad\u0daf\u0dd0\u0dba\u0dd2-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/11-395410",
+    "time_ut": 1657766593,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dc0 \u0db4\u0dd2\u0da7\u0dc0 \u0dba\u0db1\u0dca\u0db1 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5\u0d9a\u0dca \u0d9c\u0dad\u0dca\u0dad\u0daf\u0dd0\u0dba\u0dd2 \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/dd/ddd132c4.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -401,11 +441,35 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/Prospects-of-SL-securing-IMF-bailout-remain-bright-despite-political-unrest/245-241049",
+    "url": "https://www.dailymirror.lk/breaking_news/Prospects-of-SL-securing-IMF-bailout-remain-bright-despite-political-unrest/108-241049",
     "time_ut": 1657746739,
     "original_lang": "en",
     "original_title": "Prospects of SL securing IMF bailout remain bright despite political unrest",
-    "file_name": "/tmp/news_lk2/articles/36/36fd3718.json"
+    "file_name": "/tmp/news_lk2/articles/8d/8de0e4ea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Producer-prices-hit-a-fresh-high-of-76-in-May/108-241046",
+    "time_ut": 1657746472,
+    "original_lang": "en",
+    "original_title": "Producer prices hit a fresh high of 76% in May",
+    "file_name": "/tmp/news_lk2/articles/36/3618bf6d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Exporters-urge-authorities-to-step-up-in-ushering-political-and-economic-stability/108-241045",
+    "time_ut": 1657746390,
+    "original_lang": "en",
+    "original_title": "Exporters urge authorities to step up in ushering political and economic stability",
+    "file_name": "/tmp/news_lk2/articles/dc/dcccaece.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Economic-crisis-to-test-Sri-Lankas-largest-banks-resilience/108-241043",
+    "time_ut": 1657746289,
+    "original_lang": "en",
+    "original_title": "Economic crisis to test Sri Lanka\u2019s largest banks\u2019 resilience",
+    "file_name": "/tmp/news_lk2/articles/e6/e65bb5af.json"
   },
   {
     "newspaper_id": "economy-next-com",
