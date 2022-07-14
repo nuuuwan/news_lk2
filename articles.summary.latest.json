@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131469",
+    "time_ut": 1657795750,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bbf\u0ba8\u0bcd\u0ba4 \u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0bbe \u0b89\u0bb1\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bbf\u0b9a\u0bb2\u0bcd - \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bae\u0bcd \u0bae\u0b95\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b85\u0bb2\u0bcd\u0b9c\u0b9a\u0bc0\u0bb0\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/4d/4d5995d8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-protestors-ready-to-hand-over-seized-govt-buildings-except-presidents-office-97421/",
+    "time_ut": 1657795080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka protestors ready to hand over seized govt buildings except president\u2019s office",
+    "file_name": "/tmp/news_lk2/articles/6f/6f339573.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Parliament-sessions-scheduled-for-tomorrow-cancelled/342-241087",
     "time_ut": 1657795042,
     "original_lang": "en",
     "original_title": "Parliament sessions scheduled for tomorrow cancelled",
     "file_name": "/tmp/news_lk2/articles/c0/c0bb0e77.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/daily-exchange-rate-from-cbsl-13/",
+    "time_ut": 1657794540,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/35/35e8a8fd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Armed-forces-empowered-to-use-force-to-protect-people-public-property/342-241085",
+    "url": "https://www.dailymirror.lk/breaking_news/Armed-forces-empowered-to-use-force-to-protect-people-public-property/108-241085",
     "time_ut": 1657794055,
     "original_lang": "en",
     "original_title": "Armed forces empowered to use force to protect people, public property",
-    "file_name": "/tmp/news_lk2/articles/27/270af119.json"
+    "file_name": "/tmp/news_lk2/articles/0a/0ab2535f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -5128,14 +5152,6 @@
     "file_name": "/tmp/news_lk2/articles/c6/c6018877.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/daily-exchange-rate-from-cbsl-12/",
-    "time_ut": 1657619520,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/d5/d53eea47.json"
-  },
-  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131327",
     "time_ut": 1657619346,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Attack on Journalists: Prosecute under Torture Act",
     "file_name": "/tmp/news_lk2/articles/d2/d260aa0a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/news-features/Reviewing-peoples-revolution-and-its-aftermath-Government-kneels-as-Aragalaya-goes-on-overdrive/131-240763",
-    "time_ut": 1657461252,
-    "original_lang": "en",
-    "original_title": "Reviewing people\u2019s revolution and its aftermath: Government kneels as \u2018Aragalaya goes on overdrive\u2019",
-    "file_name": "/tmp/news_lk2/articles/fd/fdf2e59d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131193",
-    "time_ut": 1657458259,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc0\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0baf \u0ba8\u0bb5\u0bc0\u0ba9 \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/33/33c52430.json"
   }
 ]
