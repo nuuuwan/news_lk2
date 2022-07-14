@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/british-mp-calls-for-international-arrest-warrant-against-gotabaya-rajapaksa/",
+    "time_ut": 1657792140,
+    "original_lang": "en",
+    "original_title": "British MP Calls For International Arrest Warrant Against Gotabaya Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/a1/a1568f9a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/russia-responsible-for-ongoing-crisis-in-sri-lanka-ukraines-zelensky/",
+    "time_ut": 1657792020,
+    "original_lang": "en",
+    "original_title": "Russia \u201cResponsible\u201d For Ongoing Crisis In Sri Lanka: Ukraine\u2019s Zelensky",
+    "file_name": "/tmp/news_lk2/articles/7f/7f72c926.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83643/army-personnel-empowered-to-use-force-to-protect-lives-state-property-from-harm-",
     "time_ut": 1657790520,
     "original_lang": "en",
     "original_title": "Army personnel empowered to use force to protect lives & state property from harm",
     "file_name": "/tmp/news_lk2/articles/2d/2d3fcc0b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/army-empowered-to-use-force-to-protect-lives-state-property/",
+    "time_ut": 1657790160,
+    "original_lang": "en",
+    "original_title": "Army empowered to use force to protect lives & state property",
+    "file_name": "/tmp/news_lk2/articles/29/2930079c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -318,6 +342,14 @@
     "original_lang": "en",
     "original_title": "Curfew imposed at 12 noon",
     "file_name": "/tmp/news_lk2/articles/f9/f9230081.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d87\u0db3\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba/1-616400",
+    "time_ut": 1657780120,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d87\u0db3\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/43/43dce8bd.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
