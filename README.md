@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 03:52:40 (LK time)*
+*As of 2022-07-15 04:00:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
-* **6** daily-ft-lk ([Russian business flocks to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f62dc62.json))
+* **5** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
 
 * **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
