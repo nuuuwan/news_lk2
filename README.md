@@ -1,18 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 21:19:04 (LK time)*
+*As of 2022-07-14 21:32:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
+* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcd3ca49.json))
 
-* **1** ada-lk ([ජනපතිගේ ඉල්ලා අස්වී‍ම නිල වශයෙන් ප්‍රකාශ කිරීම හෙට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ef0fa5b.json))
+* **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
 ## Last Hour (7 Articles)
 
-* **3** ada-lk ([ජාතික ආරක්ෂාව තහවුරු කරන්න සියලු කටයුතු කරනවා - ආරක්ෂක ලේකම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a4f763.json))
+* **2** ada-lk ([ගෝඨාභයට රැකවරණය දෙන්නේ නෑ - සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec83f4dd.json))
+
+* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dcd3ca49.json))
 
 * **1** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
@@ -22,11 +24,11 @@
 
 * **1** economy-next-com ([Sri Lanka’s fled president sends resignation letter via email, legality checked – sources](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8558baea.json))
 
-## Last 3 Hours (31 Articles)
+## Last 3 Hours (29 Articles)
 
-* **8** ada-lk ([දළදා තේවා කටයුතු මල්වත්තෙන් අස්ගිරියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1e6b57.json))
+* **6** lankadeepa-lk ([පැය 72 කින් විසඳුමක් නැත්නම් වෘත්තීය සමිති අරගලයට එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/016e2ceb.json))
 
-* **6** lankadeepa-lk ([නිව්මෝනියාවෙන් වෛද්‍යවරයා මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72c3e56f.json))
+* **6** ada-lk ([ජනපති සිංගප්පූරුවෙන් සෞදියට?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d09ce3a.json))
 
 * **5** virakesari-lk ([முல்லைத்தீவு குருந்தூர் மலையில் அமைக்கப்பட்ட விகாரை உள்ளிட்ட அனைத்து கட்டுமானங்களை அகற்றுமாறு நீதிமன்றம் அதிரடி உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95e07c9b.json))
 
@@ -40,21 +42,21 @@
 
 * **1** news-first-lk ([Dayasiri requests CJ to consider that President fled the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7881d7b.json))
 
-## Last 24 Hours (279 Articles)
+## Last 24 Hours (276 Articles)
 
-* **44** daily-mirror-lk ([Gazette issued declaring RW acting President](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffffe99f.json))
+* **43** daily-mirror-lk ([Island-wide curfew will be lifted at 5:00 am tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95c3c600.json))
 
-* **44** virakesari-lk ([பிரதமராக ஒருவரை நியமிக்குமாறு பதில் ஜனாதிபதி ரணில் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a73d4513.json))
+* **43** virakesari-lk ([நாடளாவிய ரீதியில் ஊரடங்கு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5ae1233e.json))
 
-* **40** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
+* **41** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
 
-* **33** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cf6e0fe.json))
+* **32** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b076e66.json))
 
 * **32** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
 * **25** ada-derana-lk ([Island-wide curfew imposed](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78263177.json))
 
-* **25** news-first-lk ([State of emergency should not suppress fundamental right – Church of Ceylon](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9e49e03.json))
+* **24** news-first-lk ([Island-wide curfew until 5 AM on Thursday (14)](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/389d9324.json))
 
 * **15** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
@@ -66,11 +68,11 @@
 
 * **2** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
-## Last Week (1,181 Articles)
+## Last Week (1,182 Articles)
+
+* **164** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
 * **163** daily-mirror-lk ([The creators and profiteers of our misery](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/514cf468.json))
-
-* **163** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
 * **147** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
@@ -94,9 +96,9 @@
 
 * **22** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,515 Articles)
+## All Time (1,516 Articles)
 
-* **225** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **226** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **213** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
