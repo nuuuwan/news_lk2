@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 13:46:32 (LK time)*
+*As of 2022-07-14 13:57:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **3** ada-derana-lk ([Mahinda, Basil pledge before SC not to leave country until tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca3a3e8b.json))
+* **1** ada-derana-lk ([Trains from outstation areas to Colombo suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc5b36ef.json))
 
 * **1** daily-mirror-lk ([SJB to back NCM](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4d66e85.json))
 
@@ -14,47 +14,43 @@
 
 * **1** ada-lk ([ගෝඨා සිටි බව කියන හෝටලයේ රාත්‍රියක වියදම ඩොලර් 5900 - 8700ත් අතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5b14d0e.json))
 
-* **1** virakesari-lk ([13 ஆவது திருத்தச் சட்டம் முழுமையாக அமுல்ப்படுத்தப்பட வேண்டும் : பதில் ஜனாதிபதி ரணிலுக்கு அமைச்சர் டக்ளஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63faddcd.json))
+## Last Hour (10 Articles)
 
-## Last Hour (14 Articles)
-
-* **4** ada-derana-lk ([President Rajapaksa leaves Maldives on Saudi plane - report](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6db7de38.json))
+* **3** ada-derana-lk ([Mahinda, Basil pledge before SC not to leave country until tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca3a3e8b.json))
 
 * **2** daily-mirror-lk ([MR and Basil will not leave country until SC hears FR petition tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17875027.json))
 
-* **2** lankadeepa-lk ([ජනාධිපති සිංගප්පූරුව බලා පිටත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ebc8272.json))
-
-* **2** virakesari-lk ([மாலைதீவில் இருந்து பறந்தார் கோட்டா !](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80202cee.json))
+* **1** lankadeepa-lk ([කොළඹ එන දුම්රිය නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/297b7687.json))
 
 * **1** ada-lk ([ගෝඨා සිටි බව කියන හෝටලයේ රාත්‍රියක වියදම ඩොලර් 5900 - 8700ත් අතර](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5b14d0e.json))
+
+* **1** virakesari-lk ([13 ஆவது திருத்தச் சட்டம் முழுமையாக அமுல்ப்படுத்தப்பட வேண்டும் : பதில் ஜனாதிபதி ரணிலுக்கு அமைச்சர் டக்ளஸ் எடுத்துரைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63faddcd.json))
 
 * **1** news-first-lk ([Occupied public property to be returned to state](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f04413cf.json))
 
 * **1** tamil-mirror-lk ([சபையை நாளைக்கு கூட்டுவதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b23ac818.json))
 
-* **1** economy-next-com ([Sri Lanka shares slip in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bf3c5f2.json))
-
-## Last 3 Hours (57 Articles)
-
-* **10** virakesari-lk ([வன்முறைகளிலிருந்து விலகி அமைதியான அரசியல் மாற்றத்திற்கு இடமளியுங்கள் - ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/116670c1.json))
+## Last 3 Hours (54 Articles)
 
 * **9** lankadeepa-lk ([’’කතානායකවරයාට රට භාරදෙන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a521de29.json))
 
+* **9** virakesari-lk ([மக்கள் நம்பிக்கை கொள்ளும் வகையில் அரசியல் தரப்பினர் செயற்பட வேண்டும் - முப்படை தளபதிகள் வேண்டுக்கோள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2087eca1.json))
+
 * **8** ada-derana-lk ([Ukrainian president blames Russia for Sri Lanka crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b34c3966.json))
 
-* **8** daily-mirror-lk ([Private jet arrives in Maldives to transport GR to Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c3874fd.json))
+* **7** daily-mirror-lk ([Not yet receive the resignation letter: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b72e5ae.json))
 
 * **7** tamil-mirror-lk ([மனஅழுத்தத்தில் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d6850d.json))
 
-* **6** economy-next-com ([Speaker may consider Sri Lanka president vacated post if no letter arrives: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a993afb.json))
-
 * **5** ada-lk ([ගෝඨාභය මාලදිවයිනෙන් පිටත්වෙන්න සූදානම්?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b454530f.json))
+
+* **5** economy-next-com ([Sri Lanka to face human rights rules on exports to Germany from Jan 23](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60fc7506.json))
 
 * **4** news-first-lk ([Rule of Law in SL must be upheld – US Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af68574f.json))
 
-## Last 24 Hours (329 Articles)
+## Last 24 Hours (326 Articles)
 
-* **60** daily-mirror-lk ([SLRC telecasts go off the air](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a32219d8.json))
+* **57** daily-mirror-lk ([Govt. exerting suppression instead of listening to people : JVP](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c764bea.json))
 
 * **50** lankadeepa-lk ([කොළඹ අහස වටා ගුවන් යානා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c0d64a2.json))
 
