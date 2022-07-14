@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0baf\u0bc6\u0bbe\u0baa\u0bcd\u0baa\u0bae\u0bbf\u0b9f\u0bcd\u0b9f-\u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300431",
+    "time_ut": 1657813024,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc8\u0baf\u0bc6\u0bbe\u0baa\u0bcd\u0baa\u0bae\u0bbf\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d7/d7d87d73.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u200d\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc4\u0dd9\u0da7/11-395438",
     "time_ut": 1657812296,
@@ -105,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dc4\u0dd9\u0da7-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-616425",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dc4\u0dd9\u0da7-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616425",
     "time_ut": 1657808884,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dc4\u0dd9\u0da7 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/77/77ee3ac5.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6e40a0c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s state-run Litro raises gas prices, distribution to begin July 11",
     "file_name": "/tmp/news_lk2/articles/dc/dcce64b0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/11/stf-ssp-romesh-liyanage-interdicted-for-attacks-on-news-1st-journalists/",
-    "time_ut": 1657521000,
-    "original_lang": "en",
-    "original_title": "STF SSP Romesh Liyanage interdicted for attacks on News 1st journalists",
-    "file_name": "/tmp/news_lk2/articles/56/563fcf34.json"
   }
 ]
