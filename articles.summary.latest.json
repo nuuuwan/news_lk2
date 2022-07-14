@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/03/0335b0f8.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7/175-300420",
+    "time_ut": 1657787067,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+    "file_name": "/tmp/news_lk2/articles/99/99248f9e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83642/trains-from-outstation-areas-to-colombo-suspended",
     "time_ut": 1657785960,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Eleven journalists attached to  TV Derana, News First and Sky News,  attacked by the Police and STF  while covering the protests in  Colombo on July 9",
     "file_name": "/tmp/news_lk2/articles/df/df1a3043.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78501",
-    "time_ut": 1657393560,
-    "original_lang": "en",
-    "original_title": "Jubilant  Crowds  Wait in Lengthy Regulated  Queues  at President\u2019s House and Presidential Secretariat to \u201ctour\u201dthe Premises Seized by the People after the July 9  \u201cAragalaya\u201d (Struggle)",
-    "file_name": "/tmp/news_lk2/articles/3b/3b6c2d55.json"
   }
 ]
