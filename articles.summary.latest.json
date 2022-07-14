@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dba-72-\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d91\u0db1\u0dc0\u0dcf/101-616422",
+    "time_ut": 1657806208,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 72 \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0d91\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/01/016e2ceb.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131477",
+    "time_ut": 1657805338,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba8\u0bc1\u0bb4\u0bc8\u0baf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf ! \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/27/27b3ad55.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/commonwealth-calls-for-peaceful-sri-lanka-transition-97434/",
+    "time_ut": 1657805220,
+    "original_lang": "en",
+    "original_title": "Commonwealth calls for peaceful Sri Lanka transition",
+    "file_name": "/tmp/news_lk2/articles/01/01109ac8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131476",
+    "time_ut": 1657805067,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/95/95e07c9b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83649/sri-lanka-president-on-private-visit-not-granted-asylum-singapore",
+    "time_ut": 1657804740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President on private visit, not granted asylum: Singapore",
+    "file_name": "/tmp/news_lk2/articles/a0/a054e981.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Singapore-confirms-Prez-arrives-there/342-241093",
     "time_ut": 1657804503,
@@ -24,12 +64,20 @@
     "file_name": "/tmp/news_lk2/articles/aa/aae2b9b2.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0dd2\u0db8\u0dda-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-395433",
+    "time_ut": 1657803613,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0dd2\u0db8\u0dda \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/0e/0e8c514e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd2\u0dc0\u0dca\u0db8\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/1-616421",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dc0\u0dca\u0db8\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-616421",
     "time_ut": 1657803369,
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0dc0\u0dca\u0db8\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/2c/2c3803c7.json"
+    "file_name": "/tmp/news_lk2/articles/72/72c3e56f.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -129,11 +177,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Waiting-for-resignation-serves-no-purpose-elect-new-Prez-through-Parliament-JVP/342-241091",
+    "url": "https://www.dailymirror.lk/top_story/Waiting-for-resignation-serves-no-purpose-elect-new-Prez-through-Parliament-JVP/155-241091",
     "time_ut": 1657799469,
     "original_lang": "en",
     "original_title": "Waiting for resignation serves no purpose; elect new Prez through Parliament: JVP",
-    "file_name": "/tmp/news_lk2/articles/43/43e74db7.json"
+    "file_name": "/tmp/news_lk2/articles/67/67186a76.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bc8 \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf \u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf",
     "file_name": "/tmp/news_lk2/articles/c7/c7732088.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/11/no-indian-troop-deployment-to-sri-lanka-high-commission/",
-    "time_ut": 1657511100,
-    "original_lang": "en",
-    "original_title": "NO Indian troop deployment to Sri Lanka \u2013 High Commission",
-    "file_name": "/tmp/news_lk2/articles/b6/b61b653d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83573/special-party-leaders-meeting-to-be-held-today",
-    "time_ut": 1657510620,
-    "original_lang": "en",
-    "original_title": "Special party leaders\u2019 meeting to be held today",
-    "file_name": "/tmp/news_lk2/articles/90/90165df6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/GR-confirms-to-resign-on-Wednesday-Presidential-Polls-before-March/342-240783",
-    "time_ut": 1657510607,
-    "original_lang": "en",
-    "original_title": "GR confirms to resign on Wednesday; Presidential Polls before March",
-    "file_name": "/tmp/news_lk2/articles/fa/fae282fd.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300161",
-    "time_ut": 1657510348,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd; \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/aa/aa3d833d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SJB-ten-party-alliance-SLFP-SLPP-independents-moot-Dullas-Sajith-as-Prez-PM/342-240782",
-    "time_ut": 1657509852,
-    "original_lang": "en",
-    "original_title": "SJB, ten-party alliance, SLFP, SLPP independents moot Dullas, Sajith as Prez, PM",
-    "file_name": "/tmp/news_lk2/articles/da/da04f737.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Slain-Japanese-PMs-funeral-tomorrow-SL-declares-day-of-mourning/342-240781",
-    "time_ut": 1657509677,
-    "original_lang": "en",
-    "original_title": "Slain Japanese PM\u2019s funeral tomorrow; SL declares day of mourning",
-    "file_name": "/tmp/news_lk2/articles/3e/3e34dc73.json"
   }
 ]
