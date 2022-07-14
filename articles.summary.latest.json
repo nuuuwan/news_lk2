@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-by-trade-unions/342-241086",
+    "time_ut": 1657794180,
+    "original_lang": "en",
+    "original_title": "Protest by trade unions...",
+    "file_name": "/tmp/news_lk2/articles/57/573f4857.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83645/exclusive-fuel-arrangement-for-health-workers-resumes-tomorrow",
+    "time_ut": 1657794060,
+    "original_lang": "en",
+    "original_title": "Exclusive fuel arrangement for health workers resumes tomorrow",
+    "file_name": "/tmp/news_lk2/articles/84/84523d53.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Armed-forces-empowered-to-use-force-to-protect-people-public-property/342-241085",
+    "time_ut": 1657794055,
+    "original_lang": "en",
+    "original_title": "Armed forces empowered to use force to protect people, public property",
+    "file_name": "/tmp/news_lk2/articles/27/270af119.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-entry/342-241084",
+    "time_ut": 1657793905,
+    "original_lang": "en",
+    "original_title": "No entry!",
+    "file_name": "/tmp/news_lk2/articles/a6/a6abbb3d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131448",
+    "time_ut": 1657793905,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/99/990d1032.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0d9c\u0d82\u0da2\u0dcf-\u0d89\u0dbb\u0dd6-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/1-616413",
+    "time_ut": 1657793609,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0d9c\u0d82\u0da2\u0dcf \u0d89\u0dbb\u0dd6 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/11/11093220.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d85\u0dc0\u0da7-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0-\u0dad\u0dbb-\u0d9a\u0dbb\u0dba\u0dd2/1-616412",
+    "time_ut": 1657792830,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d85\u0dc0\u0da7 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0dad\u0dbb \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/68/68b567bb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/14/several-countries-advise-against-travel-to-sl/",
     "time_ut": 1657792500,
@@ -49,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0db4\u0dc0\u0dd4\u0dbd-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-616410",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0db4\u0dc0\u0dd4\u0dbd-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-616410",
     "time_ut": 1657791380,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0dc0\u0dd4\u0dbd \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/40/4060b5ad.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b39e2b2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -97,11 +153,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dc3\u0dd2\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0daf\u0dca\u0daf\u0dd3-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/101-616409",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dc3\u0dd2\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0daf\u0dca\u0daf\u0dd3-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/1-616409",
     "time_ut": 1657789072,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dc3\u0dd2\u0da7 \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0daf\u0dca\u0daf\u0dd3 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/1f/1fa08b48.json"
+    "file_name": "/tmp/news_lk2/articles/48/4823b98d.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -161,11 +217,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d91\u0db1-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db1\u0dc0\u0dad\u0dd3/101-616408",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d91\u0db1-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db1\u0dc0\u0dad\u0dd3/1-616408",
     "time_ut": 1657785696,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d91\u0db1 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dc0\u0dad\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/29/297b7687.json"
+    "file_name": "/tmp/news_lk2/articles/42/4200e282.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Schools to re-open on 18th July",
     "file_name": "/tmp/news_lk2/articles/ac/ac05aec9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/10/eu-calls-for-peaceful-transition/",
-    "time_ut": 1657456620,
-    "original_lang": "en",
-    "original_title": "EU calls for peaceful transition",
-    "file_name": "/tmp/news_lk2/articles/ba/ba2c48ba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/10/india-stands-with-the-people-of-sri-lanka/",
-    "time_ut": 1657456260,
-    "original_lang": "en",
-    "original_title": "India stands with the people of Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/35/35f47f2e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dimo-unveils-pela-batta-paddy-transplanting-machine-in-sri-lanka/",
-    "time_ut": 1657452960,
-    "original_lang": "en",
-    "original_title": "DIMO unveils Pela Batta, paddy transplanting machine in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/cf/cfe76db8.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cinec-introduces-foundation-programme-leading-to-an-international-degree/",
-    "time_ut": 1657452900,
-    "original_lang": "en",
-    "original_title": "CINEC introduces foundation programme leading to an international degree",
-    "file_name": "/tmp/news_lk2/articles/68/6888063a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/tea-rubber-production-decreased-coconut-production-increased/",
-    "time_ut": 1657452300,
-    "original_lang": "en",
-    "original_title": "Tea, rubber production decreased, coconut production increased",
-    "file_name": "/tmp/news_lk2/articles/0a/0a547005.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lankas-popular-brand-hemas-set-to-enter-omani-market/",
-    "time_ut": 1657452180,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s popular brand \u2018Hemas\u2019 set to enter Omani market",
-    "file_name": "/tmp/news_lk2/articles/dd/dd554013.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-receives-3700-metric-tonnes-of-lp-gas-distribution-to-begin-soon-97212/",
-    "time_ut": 1657443360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka receives 3,700 metric tonnes of LP gas; distribution to begin soon",
-    "file_name": "/tmp/news_lk2/articles/9c/9c67b7d8.json"
   }
 ]
