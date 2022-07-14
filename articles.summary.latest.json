@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-down-after-violent-clashes-amid-political-unrest-97445/",
+    "time_ut": 1657830600,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares down after violent clashes amid political unrest",
+    "file_name": "/tmp/news_lk2/articles/b8/b855bcb6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-war-winning-army-chief-says-ready-to-take-presidency-97442/",
     "time_ut": 1657829100,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc2\u0dd2\u0db1\u0dca\u0dc3\u0ddd \u0d85\u0db6\u0dda \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc1\u0ddd\u0d9a \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/8f/8fd43dba.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bond-markets-inactive-ahead-of-auction-guidance-peg-weakens-97246/",
-    "time_ut": 1657529340,
-    "original_lang": "en",
-    "original_title": "Sri Lanka bond markets inactive ahead of auction, guidance peg weakens",
-    "file_name": "/tmp/news_lk2/articles/eb/ebdc5e14.json"
   }
 ]
