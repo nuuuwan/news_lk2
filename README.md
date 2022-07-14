@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 03:29:34 (LK time)*
+*As of 2022-07-15 03:40:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
-* **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
+* **2** daily-mirror-lk ([Don’t cross the thin line  between people-power and mob rule](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c35ab34.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (12 Articles)
 
-* **9** daily-ft-lk ([The recurring struggle for independence](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22ef319e.json))
+* **7** daily-ft-lk ([Resilience and Reinvention high on the agenda at recently concluded Women  In Management Conference and Awards](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b7b0189.json))
 
 * **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
