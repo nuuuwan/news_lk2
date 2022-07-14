@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-Rajapaksa-arrives-in-Singapore/342-241092",
+    "time_ut": 1657800568,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa arrives in Singapore",
+    "file_name": "/tmp/news_lk2/articles/f8/f8205bfa.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bc8-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-300426",
+    "time_ut": 1657800023,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bc8 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/a1/a14f7f25.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83648/ag-ordered-to-submit-proper-fuel-distribution-mechanism-for-essential-services",
     "time_ut": 1657799880,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Waiting-for-resignation-serves-no-purpose-elect-new-Prez-through-Parliament-JVP/108-241091",
+    "url": "https://www.dailymirror.lk/latest_news/Waiting-for-resignation-serves-no-purpose-elect-new-Prez-through-Parliament-JVP/342-241091",
     "time_ut": 1657799469,
     "original_lang": "en",
     "original_title": "Waiting for resignation serves no purpose; elect new Prez through Parliament: JVP",
-    "file_name": "/tmp/news_lk2/articles/6a/6ae8d9a9.json"
+    "file_name": "/tmp/news_lk2/articles/43/43e74db7.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -238,6 +254,14 @@
     "original_lang": "en",
     "original_title": "No entry!",
     "file_name": "/tmp/news_lk2/articles/a6/a6abbb3d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131447",
+    "time_ut": 1657793770,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0ba4\u0bbf \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/24/24c27a9a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -638,6 +662,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 !",
     "file_name": "/tmp/news_lk2/articles/fb/fb4d58fa.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sequenced-to-a-premadasa-presidency/",
+    "time_ut": 1657780284,
+    "original_lang": "en",
+    "original_title": "Sequenced To A Premadasa Presidency",
+    "file_name": "/tmp/news_lk2/articles/f7/f790e275.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\"\u0db7\u0dd6\u0db8\u0dd2\u0dad\u0dd9\u0dbd\u0dca,\u0d9c\u0dd1\u0dc3\u0dca, \u0d9a\u0dd1\u0db8\u0db6\u0dd3\u0db8 \u0d9c\u0db1\u0dca\u0db1 \u0d85\u0db4\u0dd2 \u0daf\u0dd2\u0d9c \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0dc4\u0dd2\u0da7\u0dd2\u0dba\u0dcf.\u0d92\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2\u0dbd\u0dcf \u0dc3\u0dd0\u0db4 \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0d9c\u0dad\u0d9a\u0dbb\u0dbd\u0dcf.\"",
     "file_name": "/tmp/news_lk2/articles/56/561fe493.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-stance-is-to-restructure-only-foreign-debt-governor-weerasinghe-97218/",
-    "time_ut": 1657500300,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s stance is to restructure only foreign debt: Governor Weerasinghe",
-    "file_name": "/tmp/news_lk2/articles/ba/ba35ca3d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/77159",
-    "time_ut": 1657490580,
-    "original_lang": "en",
-    "original_title": "Is the  Medamulana \u201cHouse of Rajapaksa\u201d Falling Down, Falling Down?",
-    "file_name": "/tmp/news_lk2/articles/07/07e6e7fa.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62096534",
-    "time_ut": 1657487562,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf \u0dc3\u0db8\u0dba\u0dda \u0daf\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca \u0dc0\u0db1 \u0d94\u0db6 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0db8\u0ddc\u0db1\u0dc0\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/29/29bfb814.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/CID-takes-over-investigation-into-arson-attack-on-PM-s-residence/56-737319",
-    "time_ut": 1657483313,
-    "original_lang": "en",
-    "original_title": "CID takes over investigation into arson attack on PM\u2019s residence",
-    "file_name": "/tmp/news_lk2/articles/3e/3ed9b27e.json"
   }
 ]
