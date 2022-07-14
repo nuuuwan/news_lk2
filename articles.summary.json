@@ -8,12 +8,28 @@
     "file_name": "/tmp/news_lk2/articles/d0/d0ab5ae4.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0daf\u0dd2\u0db1\u0dd6-\u0daf\u0dda-\u0db1\u0dd0\u0dad\u0dd2-\u0db7\u0d82\u0d9c-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8/2-616401",
+    "time_ut": 1657780666,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0db1\u0dd6 \u0daf\u0dda \u0db1\u0dd0\u0dad\u0dd2 \u0db7\u0d82\u0d9c \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8",
+    "file_name": "/tmp/news_lk2/articles/e0/e031be83.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83638/curfew-imposed-in-colombo-district",
     "time_ut": 1657780560,
     "original_lang": "en",
     "original_title": "Curfew imposed in Colombo District",
     "file_name": "/tmp/news_lk2/articles/21/218eba58.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0da7-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba/11-395421",
+    "time_ut": 1657780506,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0da7 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/57/57a85a63.json"
   },
   {
     "newspaper_id": "virakesari-lk",
