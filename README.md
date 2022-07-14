@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 01:25:41 (LK time)*
+*As of 2022-07-15 01:38:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **6** daily-ft-lk ([Russian business flocks to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f62dc62.json))
+* **5** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
 
-## Last Hour (10 Articles)
+## Last Hour (8 Articles)
 
-* **10** daily-ft-lk ([What could be the end of the revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41311ac9.json))
+* **8** daily-ft-lk ([BoardPAC takes thought leadership on Board meeting automation to India in partnership with IOD](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d028f8f3.json))
 
 ## Last 3 Hours (16 Articles)
 
