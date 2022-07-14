@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300398",
+    "time_ut": 1657762979,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f8/f8178936.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-300397",
+    "time_ut": 1657762477,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c1/c159e5f5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131416",
+    "time_ut": 1657761928,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd : 42 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/db/db155cd7.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-curfew-ends-after-overnight-battles-near-parliament-97391/",
+    "time_ut": 1657761780,
+    "original_lang": "en",
+    "original_title": "Sri Lanka curfew ends after overnight battles near parliament",
+    "file_name": "/tmp/news_lk2/articles/87/8786fd0d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dbd\u0db6\u0dbd-\u0d85\u0dc3\u0dca\u0dc3\u0dda-84\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd/1-616388",
+    "time_ut": 1657760757,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dbd\u0db6\u0dbd \u0d85\u0dc3\u0dca\u0dc3\u0dda 84\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2d497f.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Seeking-a-path-to-national-development/14-737474",
     "time_ut": 1657758836,
@@ -166,6 +206,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dbb\u0da7\u0da7\u0db8 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dad\u0dd2\u0dba \u0daf\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/63/63aa6cae.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0baa\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300393",
+    "time_ut": 1657735342,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0baa\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/96/962be01f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2798,6 +2846,14 @@
     "original_lang": "en",
     "original_title": "Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage",
     "file_name": "/tmp/news_lk2/articles/23/235ea505.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78552",
+    "time_ut": 1657654860,
+    "original_lang": "en",
+    "original_title": "Ranil Says a mob was instigated to attack his house by a private media institution which misreported what had happened at the party leaders meeting held on 9 July and even gave the directions to the mob to reach his house.",
+    "file_name": "/tmp/news_lk2/articles/aa/aabcc478.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka has to stop money printing now, not in 2024: Harsha",
     "file_name": "/tmp/news_lk2/articles/fa/fa5f2db6.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-prime-ministers-full-statement-on-imf-negotiations-96984/",
-    "time_ut": 1657072200,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Prime Minister\u2019s full statement on IMF negotiations",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e66c40.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62060076",
-    "time_ut": 1657070844,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dbb\u0dd2\u0dc3\u0dbb\u0dba ; \u0dc0\u0dc3\u0dbb \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0db8\u0dd2\u0db1\u0dca\u0db1\u0dda\u0dbb\u0dd2\u0dba\u0da7 \u0d85\u0dbd\u0dd2 \u0d87\u0dc0\u0dd2\u0dad\u0dca",
-    "file_name": "/tmp/news_lk2/articles/dd/dd2648be.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Can-Sri-Lanka-Arab-relations-resume-their-pre-Rajapaksa-normalcy/4-737108",
-    "time_ut": 1657068754,
-    "original_lang": "en",
-    "original_title": "Can Sri Lanka-Arab relations resume their pre-Rajapaksa normalcy",
-    "file_name": "/tmp/news_lk2/articles/fd/fd25f027.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-hour-of-nemesis/4-737107",
-    "time_ut": 1657068327,
-    "original_lang": "en",
-    "original_title": "The hour of nemesis",
-    "file_name": "/tmp/news_lk2/articles/d1/d1f6a6f0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Memories-of-Pro-China-communist-leader-Shan/4-737106",
-    "time_ut": 1657067719,
-    "original_lang": "en",
-    "original_title": "Memories of Pro-China communist leader \u2018Shan\u2019",
-    "file_name": "/tmp/news_lk2/articles/7b/7b8ee8f8.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Ranil-outlines-roadmap-to-revive-collapsed-economy/14-737105",
-    "time_ut": 1657067300,
-    "original_lang": "en",
-    "original_title": "Ranil outlines roadmap to revive collapsed economy",
-    "file_name": "/tmp/news_lk2/articles/50/5027c91e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/C-W-Mackie-Scan-Products-Division-launches-Recycle-for-Future-Generation-EPR-initiative/34-737104",
-    "time_ut": 1657066999,
-    "original_lang": "en",
-    "original_title": "C.W. Mackie Scan Products Division launches \u2018Recycle for Future Generation\u2019 EPR initiative",
-    "file_name": "/tmp/news_lk2/articles/b2/b2d7ddf6.json"
   }
 ]
