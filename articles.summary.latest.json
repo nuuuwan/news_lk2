@@ -88,6 +88,22 @@
     "file_name": "/tmp/news_lk2/articles/9f/9f994ffb.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nce-urges-political-stability-in-the-country/",
+    "time_ut": 1657733220,
+    "original_lang": "en",
+    "original_title": "NCE urges political stability in the country",
+    "file_name": "/tmp/news_lk2/articles/8b/8bade4da.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lolc-on-a-rs-500m-humanitarian-project/",
+    "time_ut": 1657733160,
+    "original_lang": "en",
+    "original_title": "LOLC on a Rs.500m humanitarian project",
+    "file_name": "/tmp/news_lk2/articles/66/66376e05.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83630/mahanayaka-theros-plea-to-party-leaders-and-protesters",
     "time_ut": 1657732920,
@@ -128,12 +144,36 @@
     "file_name": "/tmp/news_lk2/articles/4d/4d8478b3.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/emirates-and-air-canada-form-strategic-partnership/",
+    "time_ut": 1657732260,
+    "original_lang": "en",
+    "original_title": "Emirates and Air Canada form Strategic Partnership",
+    "file_name": "/tmp/news_lk2/articles/20/20f63439.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dcf\u0dc4\u0dcf-\u0d9a\u0dd0\u0db3\u0dc0\u0dcf-\u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dca-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1\u2018\u2018/1-616381",
     "time_ut": 1657732128,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dcf\u0dc4\u0dcf \u0d9a\u0dd0\u0db3\u0dc0\u0dcf \u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0d9a\u0dca \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/0d/0db91fdb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/increasing-the-role-of-the-youth-in-sri-lankas-maritime-and-shipping-industry-slffa-signs-mou-with-youngship-sri-lanka/",
+    "time_ut": 1657732080,
+    "original_lang": "en",
+    "original_title": "Increasing the role of the youth in Sri Lanka\u2019s maritime and shipping industry \u2013 SLFFA signs MoU with YoungShip Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/37/3718b5b8.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/seylan-expands-accreditation-of-lean-six-sigma-yellow-belts/",
+    "time_ut": 1657731900,
+    "original_lang": "en",
+    "original_title": "Seylan expands accreditation of Lean Six Sigma Yellow Belts",
+    "file_name": "/tmp/news_lk2/articles/92/928586b8.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2704,6 +2744,14 @@
     "file_name": "/tmp/news_lk2/articles/46/46239766.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/safeguard-primary-unit-of-society/",
+    "time_ut": 1657650420,
+    "original_lang": "en",
+    "original_title": "Safeguard primary unit of society",
+    "file_name": "/tmp/news_lk2/articles/c5/c5a3d2ba.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83608/wanted-ex-cbsl-governor-speaks-to-cnn-about-sri-lankas-crisis-situation",
     "time_ut": 1657650420,
@@ -3313,19 +3361,11 @@
   },
   {
     "newspaper_id": "island-lk",
-    "url": "http://island.lk/increasing-interest-in-investing-in-tbs-likely-to-negatively-impact-cse/",
+    "url": "http://island.lk/trade-deficit-shrinks-for-third-consecutive-month/",
     "time_ut": 1657628880,
     "original_lang": "en",
-    "original_title": "Increasing interest in investing in TBs likely to negatively impact CSE",
-    "file_name": "/tmp/news_lk2/articles/fa/fa69e730.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/aias-national-safety-endeavour-the-poson-safety-programme-successfully-concludes-with-zero-deaths/",
-    "time_ut": 1657628880,
-    "original_lang": "en",
-    "original_title": "AIA\u2019s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths",
-    "file_name": "/tmp/news_lk2/articles/37/37d7252b.json"
+    "original_title": "Trade deficit shrinks for third consecutive month",
+    "file_name": "/tmp/news_lk2/articles/8f/8fdb83c7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -4849,6 +4889,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/where-are-we-in-terms-of-financial-literacy/",
+    "time_ut": 1657561860,
+    "original_lang": "en",
+    "original_title": "Where are we in terms of financial literacy?",
+    "file_name": "/tmp/news_lk2/articles/c2/c2c9ef20.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/get-well-messages/",
     "time_ut": 1657561680,
     "original_lang": "en",
@@ -4886,6 +4934,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dba \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/d1/d1b1df89.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/need-for-haste-in-rebuilding-trust-after-storming-of-presidents-house/",
+    "time_ut": 1657561260,
+    "original_lang": "en",
+    "original_title": "Need for haste in rebuilding trust after storming of President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/9d/9d677b17.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka expects IMF staff level deal by August, economy may shrink 7-pct: PM",
     "file_name": "/tmp/news_lk2/articles/ba/ba00334a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/india-top-lender-to-sri-lanka-in-2022-so-far-displacing-china-96931/",
-    "time_ut": 1656993900,
-    "original_lang": "en",
-    "original_title": "India top lender to Sri Lanka in 2022 so far, displacing China",
-    "file_name": "/tmp/news_lk2/articles/b7/b76d7898.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankan-airlines-loses-rs248bn-in-four-months-after-soft-peg-collapse-96916/",
-    "time_ut": 1656984360,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Airlines loses Rs248bn in four months after soft-peg collapse",
-    "file_name": "/tmp/news_lk2/articles/53/53589ce5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/EFC-appoints-new-Council-and-Board-of-Trustees-for-2022-2023/34-737064",
-    "time_ut": 1656971677,
-    "original_lang": "en",
-    "original_title": "EFC appoints new Council and Board of Trustees for 2022/2023",
-    "file_name": "/tmp/news_lk2/articles/60/60e7e9a5.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/ACME-Printing-Packaging-mulls-buying-of-JF-Packaging/34-737063",
-    "time_ut": 1656971633,
-    "original_lang": "en",
-    "original_title": "ACME Printing & Packaging mulls buying of JF Packaging",
-    "file_name": "/tmp/news_lk2/articles/ca/ca4fee39.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Specialised-courses-conducted-by-International-Chamber-of-Commerce-Academy-Singapore/34-737062",
-    "time_ut": 1656971620,
-    "original_lang": "en",
-    "original_title": "Specialised courses conducted by International Chamber of Commerce Academy Singapore",
-    "file_name": "/tmp/news_lk2/articles/fc/fc402430.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Ambassador-Kohona-calls-for-closer-collaboration-between-tea-industries-of-Fujian-and-Sri-Lanka/34-737061",
-    "time_ut": 1656971586,
-    "original_lang": "en",
-    "original_title": "Ambassador Kohona calls for closer collaboration between tea industries of Fujian and Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/9c/9ccf3edf.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/22A-is-19A-minus-and-does-not-help-to-alleviate-the-crisis/4-737051",
-    "time_ut": 1656970928,
-    "original_lang": "en",
-    "original_title": "22A is 19A minus and does not help to alleviate the crisis",
-    "file_name": "/tmp/news_lk2/articles/35/356b2474.json"
   }
 ]
