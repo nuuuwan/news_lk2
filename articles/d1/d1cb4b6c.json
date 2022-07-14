@@ -1,0 +1,57 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9f\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9-\u0b86\u0ba9\u0ba4\u0bc1/175-300428",
+  "time_ut": 1657802428,
+  "original_lang": "ta",
+  "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0b86\u0ba9\u0ba4\u0bc1?",
+  "text_idx": {
+    "en": {
+      "title": "What happened to Twitter in Sri Lanka?",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "Twitter",
+          "label": "PERSON"
+        },
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda Twitter \u0dc0\u0dbd\u0da7 \u0db8\u0ddc\u0d9a\u0daf \u0d8b\u0db1\u0dda?",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0b86\u0ba9\u0ba4\u0bc1?",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [
+        {
+          "text": "\u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": []
+    }
+  }
+}
