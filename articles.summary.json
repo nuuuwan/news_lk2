@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Army-gets-tough-empowers-soldiers-to-use-force-to-protect-lives-State-property/56-737524",
+    "time_ut": 1657828080,
+    "original_lang": "en",
+    "original_title": "Army gets tough; empowers soldiers to use force to protect lives, State property",
+    "file_name": "/tmp/news_lk2/articles/a9/a917972d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Protesters-to-end-occupation-of-official-buildings/56-737523",
+    "time_ut": 1657827941,
+    "original_lang": "en",
+    "original_title": "Protesters to end occupation of  official buildings",
+    "file_name": "/tmp/news_lk2/articles/e5/e5e4cd37.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Indians-protest-in-solidarity-with-SL-people/56-737522",
+    "time_ut": 1657827914,
+    "original_lang": "en",
+    "original_title": "Indians protest in solidarity with SL people",
+    "file_name": "/tmp/news_lk2/articles/4b/4bdac012.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/First-stock-of-urea-fertiliser-under-Indian-credit-line-arrives/56-737521",
+    "time_ut": 1657827748,
+    "original_lang": "en",
+    "original_title": "First stock of urea fertiliser  under Indian credit line arrives",
+    "file_name": "/tmp/news_lk2/articles/e4/e4fcab19.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Colombo-Port-City-A-game-changer-at-turbulent-times-in-Sri-Lanka/34-737520",
     "time_ut": 1657827599,
     "original_lang": "en",
