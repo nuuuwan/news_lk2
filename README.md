@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 01:38:35 (LK time)*
+*As of 2022-07-15 01:47:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **5** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
+* **1** daily-ft-lk ([Army gets tough; empowers soldiers to use force to protect lives, State property](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a917972d.json))
 
-## Last Hour (8 Articles)
+## Last Hour (6 Articles)
 
-* **8** daily-ft-lk ([BoardPAC takes thought leadership on Board meeting automation to India in partnership with IOD](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d028f8f3.json))
+* **6** daily-ft-lk ([Russian business flocks to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f62dc62.json))
 
 ## Last 3 Hours (16 Articles)
 
@@ -22,13 +22,13 @@
 
 * **1** tamil-mirror-lk ([‘நாடு முடக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5645c408.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (267 Articles)
 
 * **39** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
 * **37** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
-* **36** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
+* **34** daily-mirror-lk ([A FATHER, SENIOR, MENTOR AND GREAT FRIEND](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e1f1336.json))
 
 * **31** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
