@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Not-yet-receive-the-resignation-letter-Speaker/342-241071",
+    "time_ut": 1657777166,
+    "original_lang": "en",
+    "original_title": "Not yet receive the resignation letter: Speaker",
+    "file_name": "/tmp/news_lk2/articles/a7/a7bf36fe.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300414",
+    "time_ut": 1657777153,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/43/43a94f2b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0dc0\u0dbb\u0dba\u0dcf\u0da7-\u0dbb\u0da7-\u0db7\u0dcf\u0dbb\u0daf\u0dd9\u0db1\u0dca\u0db1\u2019\u2019/101-616394",
+    "time_ut": 1657776633,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0dc0\u0dbb\u0dba\u0dcf\u0da7 \u0dbb\u0da7 \u0db7\u0dcf\u0dbb\u0daf\u0dd9\u0db1\u0dca\u0db1\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/4f/4f3dcdfc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/speaker-may-consider-sri-lanka-president-vacated-post-if-no-letter-arrives-report-97410/",
+    "time_ut": 1657776300,
+    "original_lang": "en",
+    "original_title": "Speaker may consider Sri Lanka president vacated post if no letter arrives: report",
+    "file_name": "/tmp/news_lk2/articles/1a/1a993afb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Private-jet-arrives-in-Maldives-to-transport-GR-to-Singapore/342-241067",
+    "time_ut": 1657776232,
+    "original_lang": "en",
+    "original_title": "Private jet arrives in Maldives to transport GR to Singapore",
+    "file_name": "/tmp/news_lk2/articles/7c/7c3874fd.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131428",
     "time_ut": 1657775797,
@@ -14,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0bc6\u0b9f\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/97/97f72cdf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda-T56-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca-\u0db6\u0dc0\u0da7-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca/11-395419",
+    "time_ut": 1657775527,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda T56 \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca \u0db6\u0dc0\u0da7 \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e0/e021a5a8.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -529,11 +577,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Exporters-urge-authorities-to-step-up-in-ushering-political-and-economic-stability/108-241045",
+    "url": "https://www.dailymirror.lk/business-news/Exporters-urge-authorities-to-step-up-in-ushering-political-and-economic-stability/273-241045",
     "time_ut": 1657746390,
     "original_lang": "en",
     "original_title": "Exporters urge authorities to step up in ushering political and economic stability",
-    "file_name": "/tmp/news_lk2/articles/dc/dcccaece.json"
+    "file_name": "/tmp/news_lk2/articles/22/22e983f1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
