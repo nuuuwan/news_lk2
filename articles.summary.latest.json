@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83648/ag-ordered-to-submit-proper-fuel-distribution-mechanism-for-essential-services",
+    "time_ut": 1657799880,
+    "original_lang": "en",
+    "original_title": "AG ordered to submit proper fuel distribution mechanism for essential services",
+    "file_name": "/tmp/news_lk2/articles/6e/6e092b1f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Waiting-for-resignation-serves-no-purpose-elect-new-Prez-through-Parliament-JVP/108-241091",
+    "time_ut": 1657799469,
+    "original_lang": "en",
+    "original_title": "Waiting for resignation serves no purpose; elect new Prez through Parliament: JVP",
+    "file_name": "/tmp/news_lk2/articles/6a/6ae8d9a9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83647/president-rajapaksa-arrives-in-singapore-reports",
+    "time_ut": 1657799340,
+    "original_lang": "en",
+    "original_title": "President Rajapaksa arrives in Singapore: reports",
+    "file_name": "/tmp/news_lk2/articles/59/594559c6.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/14/exclusive-fuel-arrangement-for-health-workers-reinstated/",
     "time_ut": 1657799040,
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "CID takes over investigation into arson attack on PM\u2019s residence",
     "file_name": "/tmp/news_lk2/articles/3e/3ed9b27e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/US-envoy-calls-on-all-to-ensure-democratic-transition-of-power/56-737318",
-    "time_ut": 1657483264,
-    "original_lang": "en",
-    "original_title": "US envoy calls on all to ensure democratic transition of power",
-    "file_name": "/tmp/news_lk2/articles/a5/a58be0a3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/GotaGoGama-activists-issue-6-immediate-demands/56-737317",
-    "time_ut": 1657483250,
-    "original_lang": "en",
-    "original_title": "GotaGoGama activists issue 6 immediate demands",
-    "file_name": "/tmp/news_lk2/articles/0f/0f0d8994.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Dhammika-Perera-resigns-from-minister-post-joins-3-others/56-737316",
-    "time_ut": 1657483097,
-    "original_lang": "en",
-    "original_title": "Dhammika Perera resigns from minister post, joins 3 others",
-    "file_name": "/tmp/news_lk2/articles/97/97da9436.json"
   }
 ]
