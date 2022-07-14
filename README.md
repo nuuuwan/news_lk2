@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 11:30:53 (LK time)*
+*As of 2022-07-14 11:35:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **2** tamil-mirror-lk ([அழுத்தத்தில் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a94f2b.json))
+* **2** tamil-mirror-lk ([மனஅழுத்தத்தில் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/27d6850d.json))
 
-* **1** daily-mirror-lk ([Not yet receive the resignation letter: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7bf36fe.json))
+* **1** daily-mirror-lk ([Not yet receive the resignation letter: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b72e5ae.json))
 
-## Last Hour (10 Articles)
+## Last Hour (9 Articles)
 
 * **3** tamil-mirror-lk ([தரையிறங்கியது தனியார் ஜெட் விமானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f72cdf.json))
 
 * **2** daily-mirror-lk ([Private jet arrives in Maldives to transport GR to Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c3874fd.json))
 
-* **2** virakesari-lk ([கனடாவில் புதிய வகை ஒமிக்ரோன் - 5 பேருக்கு பாதிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72cdfdac.json))
-
 * **1** lankadeepa-lk ([’’කතානායකවරයාට රට භාරදෙන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f3dcdfc.json))
 
 * **1** economy-next-com ([Speaker may consider Sri Lanka president vacated post if no letter arrives: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a993afb.json))
+
+* **1** virakesari-lk ([வன்முறைகளிலிருந்து விலகி அமைதியான அரசியல் மாற்றத்திற்கு இடமளியுங்கள் - ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/116670c1.json))
 
 * **1** ada-lk ([විරෝධතාකරුවන් හමුදාවේ T56 ගිනි අවියක් පැහැරගත් බවට චෝදනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e021a5a8.json))
 
@@ -42,13 +42,13 @@
 
 * **2** ada-derana-lk ([Firearm taken away from injured army officer amidst protest - Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69316159.json))
 
-## Last 24 Hours (327 Articles)
+## Last 24 Hours (325 Articles)
 
-* **59** daily-mirror-lk ([Four hospitalised following clash at ’GotaGoGama’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7f44e24.json))
+* **58** daily-mirror-lk ([PM orders to impose curfew in WP](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cac2ef5.json))
 
 * **54** tamil-mirror-lk ([மேல் மாகாணத்திற்கு ஊரடங்கு; நாடளாவிய ரீதியில் அவசரகாலச் சட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9a79f16.json))
 
-* **52** lankadeepa-lk ([බැසිලුත් රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a11bed.json))
+* **51** lankadeepa-lk ([මුළු දිවයිනටම හදිසි නීතිය: බස්නාහිරට ඇදිරිනීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ef6575c.json))
 
 * **44** virakesari-lk ([பழைய கடன்கள் காரணமாக இலங்கைக்கு நிதி வழங்குவதற்கு உலக நாடுகளும் சர்வதேச நிதியமைப்புகளும் தயக்கம்- அர்ஜூன மகேந்திரன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d76db88c.json))
 
