@@ -48,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/9e/9e65cb0b.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Hat-trick-for-Kalubowitiyana-Tea-Factory/34-737499",
+    "time_ut": 1657816125,
+    "original_lang": "en",
+    "original_title": "Hat-trick for Kalubowitiyana Tea Factory",
+    "file_name": "/tmp/news_lk2/articles/92/92e88dbd.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-300433",
     "time_ut": 1657815499,
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd!",
     "file_name": "/tmp/news_lk2/articles/0a/0a1a2521.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Investors-continue-to-cash-in-on-Sri-Lankan-apparel-sector-s-resilience/34-737498",
+    "time_ut": 1657815371,
+    "original_lang": "en",
+    "original_title": "Investors continue to cash in on  Sri Lankan apparel sector\u2019s resilience",
+    "file_name": "/tmp/news_lk2/articles/f2/f2191c87.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -70,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/b3/b3867c60.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/End-casino-capitalism-Sri-Lanka-to-join-global-minimum-tax-agreement/4-737492",
+    "time_ut": 1657814026,
+    "original_lang": "en",
+    "original_title": "End casino capitalism: Sri Lanka to join global minimum tax agreement",
+    "file_name": "/tmp/news_lk2/articles/aa/aa1a15fd.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
