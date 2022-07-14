@@ -1,32 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 00:19:23 (LK time)*
+*As of 2022-07-15 00:31:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-ft-lk ([How Sri Lanka’s runaway President went from ‘war hero’ to fugitive](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d858ec.json))
+
+## Last Hour (3 Articles)
+
+* **1** daily-ft-lk ([How Sri Lanka’s runaway President went from ‘war hero’ to fugitive](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d858ec.json))
 
 * **1** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
 
 * **1** daily-mirror-lk ([Election the only solution to fulfil people’s true aspirations: JVP reiterates](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d269d19.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
 * **4** tamil-mirror-lk ([இனி இலங்கை முன்னோக்கிச் செல்லும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b12a4001.json))
 
-* **3** daily-ft-lk ([End casino capitalism: Sri Lanka to join global minimum tax agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1a15fd.json))
+* **3** daily-ft-lk ([Investors continue to cash in on  Sri Lankan apparel sector’s resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2191c87.json))
 
 * **2** ada-derana-lk ([Probes into firearm stolen during protest handed over to CCD](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e65cb0b.json))
 
 * **2** daily-mirror-lk ([General Silva visits injured soldiers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e3aae0.json))
 
-* **1** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
-
 ## Last 24 Hours (257 Articles)
 
 * **39** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
-* **37** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dab49164.json))
+* **36** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
 
 * **36** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -40,13 +44,13 @@
 
 * **16** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
-* **14** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
+* **15** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
 * **3** b-b-c-com-sinhala ([ගෝඨාභය රාජපක්ෂ: ජනාධිපති යටතේ ශ්‍රී ලංකා ආර්ථිකය ප්‍රස්තාර 7 කින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a85b821.json))
 
 * **2** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
-## Last Week (1,193 Articles)
+## Last Week (1,194 Articles)
 
 * **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
@@ -62,7 +66,7 @@
 
 * **95** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **83** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
+* **84** daily-ft-lk ([Failure is contagious: Sri Lanka runs risk of imprinting multiple generations with failure-contagion](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb0e842d.json))
 
 * **66** economy-next-com ([Sri Lanka top five SOEs lose Rs931bn amid monetary instability](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11544ebc.json))
 
@@ -74,7 +78,7 @@
 
 * **22** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,532 Articles)
+## All Time (1,533 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +92,7 @@
 
 * **123** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **117** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **118** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **95** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 

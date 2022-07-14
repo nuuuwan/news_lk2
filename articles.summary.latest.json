@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/How-Sri-Lanka-s-runaway-President-went-from-war-hero-to-fugitive/14-737507",
+    "time_ut": 1657824804,
+    "original_lang": "en",
+    "original_title": "How Sri Lanka\u2019s runaway President went from \u2018war hero\u2019 to fugitive",
+    "file_name": "/tmp/news_lk2/articles/f0/f0d858ec.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83655/katubedda-shooting-three-wheeler-used-by-gunman-to-flee-seized",
     "time_ut": 1657822740,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "President\u2019s messages will only be issued through the Speaker",
     "file_name": "/tmp/news_lk2/articles/ba/ba65d980.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dad\u0dd8-\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0da7-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/11-395319",
-    "time_ut": 1657525915,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dcf\u0dad\u0dd8 \u0db7\u0dd6\u0db8\u0dd2\u0dba\u0da7 \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c9/c9ac9bac.json"
   }
 ]
