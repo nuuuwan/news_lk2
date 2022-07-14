@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Russian-business-flocks-to-Sri-Lanka/34-737519",
+    "time_ut": 1657826851,
+    "original_lang": "en",
+    "original_title": "Russian business flocks to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/2f/2f62dc62.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Resilience-and-Reinvention-high-on-the-agenda-at-recently-concluded-Women-In-Management-Conference-and-Awards/34-737513",
     "time_ut": 1657825947,
     "original_lang": "en",
@@ -838,6 +846,14 @@
     "original_lang": "en",
     "original_title": "Russia \u201cResponsible\u201d For Ongoing Crisis In Sri Lanka: Ukraine\u2019s Zelensky",
     "file_name": "/tmp/news_lk2/articles/7f/7f72c926.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78557",
+    "time_ut": 1657791900,
+    "original_lang": "en",
+    "original_title": "President Gotabaya Rajapaksa  Sends Resignation Letter by E-mail to Speaker from Singapore; official announcement on July 15 after verifying authenticity of emailed document",
+    "file_name": "/tmp/news_lk2/articles/0b/0b6188f2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
