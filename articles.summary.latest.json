@@ -1,11 +1,19 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/occupied-public-property-to-be-returned-to-state/",
-    "time_ut": 1657784040,
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83641/mahinda-basil-pledge-before-sc-not-to-fly-out-until-tomorrow",
+    "time_ut": 1657784880,
     "original_lang": "en",
-    "original_title": "Occupied public property to be returned to state",
-    "file_name": "/tmp/news_lk2/articles/f0/f04413cf.json"
+    "original_title": "Mahinda, Basil pledge before SC not to fly out until tomorrow",
+    "file_name": "/tmp/news_lk2/articles/a6/a6c9ea21.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/MR-and-Basil-will-not-leave-country-until-SC-hears-FR-petition-tomorrow/108-241080",
+    "time_ut": 1657784686,
+    "original_lang": "en",
+    "original_title": "MR and Basil will not leave country until SC hears FR petition tomorrow",
+    "file_name": "/tmp/news_lk2/articles/17/17875027.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -33,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0-\u0db6\u0dbd\u0dcf-\u0db4\u0dd2\u0da7\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-616402",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0-\u0db6\u0dbd\u0dcf-\u0db4\u0dd2\u0da7\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-616402",
     "time_ut": 1657783108,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0 \u0db6\u0dbd\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5e/5ebc8272.json"
+    "file_name": "/tmp/news_lk2/articles/d9/d926b3dc.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -721,11 +729,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0dbd\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca--/1-616390",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dcf\u0dbd\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca--/101-616390",
     "time_ut": 1657765439,
     "original_lang": "si",
     "original_title": "\u0db8\u0dcf\u0dbd\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca ?",
-    "file_name": "/tmp/news_lk2/articles/58/5821b1d6.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b46805c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -742,6 +750,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0dc3\u0dd9\u0db6\u0dc5\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0d9a\u0d9c\u0dda \u0d85\u0dc0\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/be/be56ecdd.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0d85\u0dc0\u0dd2-\u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-616389",
+    "time_ut": 1657765082,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d85\u0dc0\u0dd2 \u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/71/71ba576a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "The Worst Rulings of the Supreme Court in the History of the USA",
     "file_name": "/tmp/news_lk2/articles/6c/6caf217e.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/the-financial-crisis-mismanagement-fear-or-collusion/",
-    "time_ut": 1657378860,
-    "original_lang": "en",
-    "original_title": "THE FINANCIAL CRISIS \u2013 MISMANAGEMENT, FEAR OR COLLUSION?",
-    "file_name": "/tmp/news_lk2/articles/65/653f0d38.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/coming-colour/",
-    "time_ut": 1657376880,
-    "original_lang": "en",
-    "original_title": "Coming colour?",
-    "file_name": "/tmp/news_lk2/articles/f8/f80c34b3.json"
   }
 ]
