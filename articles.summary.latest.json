@@ -848,6 +848,14 @@
     "file_name": "/tmp/news_lk2/articles/99/99248f9e.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc6\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7/175-300420",
+    "time_ut": 1657787067,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bc6\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+    "file_name": "/tmp/news_lk2/articles/60/603e938e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/14/two-soldiers-rendered-unconscious-in-brutal-attack-in-battaramulla-protest-army/",
     "time_ut": 1657786680,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "PM meets Cabinet; Ministers ready to resign after all-party govt is formed",
     "file_name": "/tmp/news_lk2/articles/dc/dc3db0b2.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Incumbent-Cabinet-awaits-finality-on-new-all-party-Govt-before-quitting/56-737351",
-    "time_ut": 1657525195,
-    "original_lang": "en",
-    "original_title": "Incumbent Cabinet awaits finality on new all-party Govt. before quitting",
-    "file_name": "/tmp/news_lk2/articles/75/751dfd1a.json"
   }
 ]

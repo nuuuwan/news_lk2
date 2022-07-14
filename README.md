@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 23:30:59 (LK time)*
+*As of 2022-07-14 23:38:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([General Silva visits injured soldiers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e3aae0.json))
-
-* **1** tamil-mirror-lk ([‘நாடு முடக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5645c408.json))
 
 ## Last Hour (2 Articles)
 
@@ -16,13 +14,13 @@
 
 * **1** tamil-mirror-lk ([‘நாடு முடக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5645c408.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (15 Articles)
 
 * **5** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
-* **3** ada-lk ([ගෝඨාභයට රැකවරණය දෙන්නේ නෑ - සිංගප්පූරුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec83f4dd.json))
-
 * **2** daily-mirror-lk ([Speaker receives Prez’s resignation, official announcement to be made tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bfe96b4.json))
+
+* **2** ada-lk ([ජනපතිගේ ඉල්ලා අස්වී‍ම නිල වශයෙන් ප්‍රකාශ කිරීම හෙට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ef0fa5b.json))
 
 * **2** economy-next-com ([Sri Lanka President emails resignation from Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b3b83d4.json))
 
@@ -44,7 +42,7 @@
 
 * **33** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
-* **32** tamil-mirror-lk ([இலங்கை திருச்சபை விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/962be01f.json))
+* **32** tamil-mirror-lk ([நெருக்கடி தொடர்பில் மகாநாயக்க தேரர்கள் கூட்டறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be43777e.json))
 
 * **24** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
 
@@ -58,7 +56,7 @@
 
 * **2** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
-## Last Week (1,192 Articles)
+## Last Week (1,193 Articles)
 
 * **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
@@ -66,7 +64,7 @@
 
 * **147** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **139** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **140** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **118** ada-lk ([විදෙස් මුදල් තැන්පත් කිරීමට දුන් සමාකාලයට සති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7880ac84.json))
 
@@ -86,7 +84,7 @@
 
 * **22** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,526 Articles)
+## All Time (1,527 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -96,7 +94,7 @@
 
 * **147** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **139** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **140** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **123** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
