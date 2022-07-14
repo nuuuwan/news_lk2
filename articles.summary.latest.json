@@ -1,11 +1,67 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131431",
+    "time_ut": 1657779107,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbe\u0ba3\u0bc8\u0baf\u0bc8   \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/99/995cbb5f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83636/ukrainian-president-blames-russia-for-sri-lanka-crisis",
+    "time_ut": 1657779000,
+    "original_lang": "en",
+    "original_title": "Ukrainian president blames Russia for Sri Lanka crisis",
+    "file_name": "/tmp/news_lk2/articles/b3/b34c3966.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131426",
+    "time_ut": 1657778601,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6d/6dafa601.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131430",
+    "time_ut": 1657778493,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bb3\u0baa\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/20/2087eca1.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-face-human-rights-rules-on-exports-to-germany-from-jan-23-97411/",
+    "time_ut": 1657778340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to face human rights rules on exports to Germany from Jan 23",
+    "file_name": "/tmp/news_lk2/articles/60/60fc7506.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/rule-of-law-in-sl-must-be-upheld-us-ambassador/",
+    "time_ut": 1657777980,
+    "original_lang": "en",
+    "original_title": "Rule of Law in SL must be upheld \u2013 US Ambassador",
+    "file_name": "/tmp/news_lk2/articles/af/af68574f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Not-yet-receive-the-resignation-letter-Speaker/108-241071",
     "time_ut": 1657777166,
     "original_lang": "en",
     "original_title": "Not yet receive the resignation letter: Speaker",
     "file_name": "/tmp/news_lk2/articles/5b/5b72e5ae.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300414",
+    "time_ut": 1657777153,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba9\u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1c/1cf2b809.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -238,6 +294,14 @@
     "original_lang": "en",
     "original_title": "82 people hospitalised after yesterday\u2019s clashes",
     "file_name": "/tmp/news_lk2/articles/de/de1bca93.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/84-people-hospitalised-after-yesterdays-clashes/342-241063",
+    "time_ut": 1657771102,
+    "original_lang": "en",
+    "original_title": "84 people hospitalised after yesterday\u2019s clashes",
+    "file_name": "/tmp/news_lk2/articles/fc/fc490ca6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -585,11 +649,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Producer-prices-hit-a-fresh-high-of-76-in-May/342-241046",
+    "url": "https://www.dailymirror.lk/business-news/Producer-prices-hit-a-fresh-high-of-76-in-May/273-241046",
     "time_ut": 1657746472,
     "original_lang": "en",
     "original_title": "Producer prices hit a fresh high of 76% in May",
-    "file_name": "/tmp/news_lk2/articles/ca/ca249c4b.json"
+    "file_name": "/tmp/news_lk2/articles/3c/3c291e00.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Thousands of protesters continue to occupy the President\u2019s House, the Presidential Secretariat and Temple Trees at  night after breaking into them earlier in the day demanding the immediate resignation of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/b5/b562a698.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78476",
-    "time_ut": 1657306620,
-    "original_lang": "en",
-    "original_title": "At least 55 Persons Injured During Confrontation in Fort at President\u2019s House Between Public and Security Personnel;3 Civilans Undergo Surgery at Colombo National Hospital for Gunshot Injuries. SJB MP\u2019s Rajitha  Senaratne and Suresh  Vadivale Manhandled by Protesters",
-    "file_name": "/tmp/news_lk2/articles/d6/d6577a82.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78471",
-    "time_ut": 1657306080,
-    "original_lang": "en",
-    "original_title": "Huge Protesting  Crowds \u201cinvade\u201dPresident\u2019s House after Confrontation in Festive Mood  and have Fun swimming in pool,relaxing on lawns and Sofas, raiding the Presidential pantry for snacks and soft drinks and rolling in Gota\u2019s bed",
-    "file_name": "/tmp/news_lk2/articles/9e/9edd4410.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78464",
-    "time_ut": 1657305540,
-    "original_lang": "en",
-    "original_title": "Prime  Minister Ranil Wickremesinghe\u2019s Private Residence at 5th Lane Kollupitiya  Set on Fire by Protesters after Violent Clash with Police; CMC Fire Brigade Unable to Reach Spot on Time to Douse the Blaze due to Prevailing Unrest",
-    "file_name": "/tmp/news_lk2/articles/e3/e3fea449.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Lionising-the-Lion-City/4-737239",
-    "time_ut": 1657305408,
-    "original_lang": "en",
-    "original_title": "Lionising the Lion City",
-    "file_name": "/tmp/news_lk2/articles/ff/ffa87461.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78493",
-    "time_ut": 1657305000,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa requests  the people to properly understand the current situation and act peacefully and intelligently without getting caught up in wrong ideologies.",
-    "file_name": "/tmp/news_lk2/articles/0d/0da0201c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78467",
-    "time_ut": 1657305000,
-    "original_lang": "en",
-    "original_title": "Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  \u201csenkadagala Statement\u201d at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections",
-    "file_name": "/tmp/news_lk2/articles/59/590d7cc1.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/D-Day-and-a-new-dawn/4-737231",
-    "time_ut": 1657304005,
-    "original_lang": "en",
-    "original_title": "D-Day and a new dawn?",
-    "file_name": "/tmp/news_lk2/articles/21/2153ff80.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hobsons-choice-for-govt/",
-    "time_ut": 1657300620,
-    "original_lang": "en",
-    "original_title": "Hobson\u2019s choice for govt.",
-    "file_name": "/tmp/news_lk2/articles/5f/5f3ad81a.json"
   }
 ]
