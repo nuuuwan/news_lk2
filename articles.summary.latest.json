@@ -8,12 +8,36 @@
     "file_name": "/tmp/news_lk2/articles/02/02306c21.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bb5\u0b9a-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300421",
+    "time_ut": 1657789131,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1: \u0b95\u0bb5\u0b9a \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e5/e578fa1a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dc3\u0dd2\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0daf\u0dca\u0daf\u0dd3-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/101-616409",
     "time_ut": 1657789072,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dc3\u0dd2\u0da7 \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0daf\u0dca\u0daf\u0dd3 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/1f/1fa08b48.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131455",
+    "time_ut": 1657788937,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc8 \u0b9a\u0bc2\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd - \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9e/9e47210c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131440",
+    "time_ut": 1657788329,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0bae\u0b95\u0bbe \u0baa\u0bc0\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a8/a8d7d192.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0daf\u0dd0\u0d9a\u0db6\u0dbd\u0dcf \u0d9c\u0db1\u0dca\u0db1 \u0da2\u0db1 \u0d9c\u0d9f\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/c0/c06049d8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/imf-hopes-for-sri-lanka-political-crisis-resolution-to-resume-deal-talks-97207/",
-    "time_ut": 1657407840,
-    "original_lang": "en",
-    "original_title": "IMF hopes for Sri Lanka political crisis resolution to resume deal talks",
-    "file_name": "/tmp/news_lk2/articles/8c/8c6f2dc6.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78489",
-    "time_ut": 1657395660,
-    "original_lang": "en",
-    "original_title": "Dragged into the darkness by dictatorship, democracy is the only way out into the light",
-    "file_name": "/tmp/news_lk2/articles/45/455f55dd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78503",
-    "time_ut": 1657394640,
-    "original_lang": "en",
-    "original_title": "Political Parties  Trying Hard to Share the Spoils by Forming an Alternative Govt After Protests by the People  Result in Resignation Announcements by President Rajapaksa and Premier Wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/63/6398850e.json"
   }
 ]
