@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/plane-said-to-carry-sri-lanka-president-lands-in-singapore-97422/",
+    "time_ut": 1657800840,
+    "original_lang": "en",
+    "original_title": "Plane said to carry Sri Lanka president lands in Singapore",
+    "file_name": "/tmp/news_lk2/articles/09/0915ab8d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131470",
+    "time_ut": 1657800715,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf",
+    "file_name": "/tmp/news_lk2/articles/85/85f4753b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Gotabaya-Rajapaksa-arrives-in-Singapore/342-241092",
     "time_ut": 1657800568,
@@ -606,6 +622,14 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa leaves the Maldives",
     "file_name": "/tmp/news_lk2/articles/39/397839ae.json"
+  },
+  {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62163996",
+    "time_ut": 1657781284,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/40/4021cb60.json"
   },
   {
     "newspaper_id": "ada-lk",
