@@ -198,7 +198,7 @@
       ],
       "title_ents": [
         {
-          "text": "\u0dc3\u0dc0\u0dd4\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+          "text": "\u0dc3\u0dde\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
           "label": "ORG"
         },
         {
@@ -229,7 +229,7 @@
       "body_line_ents_list": [
         [
           {
-            "text": "\u0dc3\u0dc0\u0dd4\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "text": "\u0dc3\u0dde\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
             "label": "ORG"
           },
           {
@@ -297,7 +297,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc3\u0dc0\u0dd4\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
+            "text": "\u0dc3\u0dde\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba",
             "label": "NORP"
           },
           {
