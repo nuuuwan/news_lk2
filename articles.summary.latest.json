@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83639/un-chief-asks-sri-lankan-leaders-to-embrace-spirit-of-compromise-for-peaceful-democratic-transition",
+    "time_ut": 1657782120,
+    "original_lang": "en",
+    "original_title": "UN chief asks Sri Lankan leaders to embrace spirit of compromise for peaceful, democratic transition",
+    "file_name": "/tmp/news_lk2/articles/f3/f36bf56f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/UN-closely-monitoring-SLs-current-situation-Secretary/108-241076",
+    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-Rajapaksa-leaves-the-Maldives/342-241077",
+    "time_ut": 1657781979,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa leaves the Maldives",
+    "file_name": "/tmp/news_lk2/articles/19/195e121e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/UN-closely-monitoring-SLs-current-situation-Secretary/342-241076",
     "time_ut": 1657780818,
     "original_lang": "en",
     "original_title": "UN closely monitoring SL\u2019s current situation: Secretary",
-    "file_name": "/tmp/news_lk2/articles/d0/d0ab5ae4.json"
+    "file_name": "/tmp/news_lk2/articles/32/3259f45f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/curfew-for-colombo-from-12-noon-14-to-5-am-on-friday-15/",
+    "time_ut": 1657780740,
+    "original_lang": "en",
+    "original_title": "Curfew for Colombo from 12 noon (14) to 5 AM on Friday (15)",
+    "file_name": "/tmp/news_lk2/articles/9a/9a066663.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -38,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 !",
     "file_name": "/tmp/news_lk2/articles/fb/fb4d58fa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/business-as-usual-at-hambantota-port/",
+    "time_ut": 1657780200,
+    "original_lang": "en",
+    "original_title": "Business as Usual at Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/96/961ab10f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "''#GOTAGOHOME '' ; ''\u0d85\u0daf \u0dba\u0db1\u0dc0\u0dcf \u0d9c\u0ddd\u0da8\u0dcf \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dd9\u0db1\u0dca. \u0d85\u0daf \u0dba\u0dc0\u0dbd\u0dcf \u0dad\u0db8\u0dba\u0dd2 \u0db4\u0dc3\u0dca\u0dc3 \u0db6\u0dbd\u0db1\u0dca\u0db1\u0dda.''",
     "file_name": "/tmp/news_lk2/articles/00/00a56d6e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
-    "time_ut": 1657328050,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Corruption-internationalised-Past-haunts/172-240665",
-    "time_ut": 1657313651,
-    "original_lang": "en",
-    "original_title": "Corruption internationalised; Past haunts",
-    "file_name": "/tmp/news_lk2/articles/72/722c9e59.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78477",
-    "time_ut": 1657313520,
-    "original_lang": "en",
-    "original_title": "Saturday\u2019s events also reflect the humiliation of the Rajapaksa Security State, the apparatus so carefully built up by the Rajapaksa family in the longest political project in the nation\u2019s history.",
-    "file_name": "/tmp/news_lk2/articles/9c/9cc405cc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/The-cry-of-Sri-Lankas-people-Give-us-a-Mandela/172-240664",
-    "time_ut": 1657313434,
-    "original_lang": "en",
-    "original_title": "The cry of Sri Lanka\u2019s people: \u201cGive us a Mandela\u201d",
-    "file_name": "/tmp/news_lk2/articles/d3/d38e8f21.json"
   }
 ]
