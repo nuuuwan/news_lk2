@@ -232,6 +232,14 @@
     "file_name": "/tmp/news_lk2/articles/b1/b12a4001.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lankan-authorities-must-refrain-from-use-of-military-to-police-protests-amnesty-international/",
+    "time_ut": 1657814276,
+    "original_lang": "en",
+    "original_title": "Sri Lankan Authorities Must Refrain From Use Of Military To Police Protests: Amnesty International",
+    "file_name": "/tmp/news_lk2/articles/83/837fa13d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616428",
     "time_ut": 1657814204,
@@ -1270,6 +1278,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba \u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/06/069560fa.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78561",
+    "time_ut": 1657780920,
+    "original_lang": "en",
+    "original_title": "Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka\u2019s President Gotabaya Rajapaksa was the world\u2019s most-tracked flight on Thursday July 14",
+    "file_name": "/tmp/news_lk2/articles/39/39d5a592.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "President\u2019s messages only released through the Speaker",
     "file_name": "/tmp/news_lk2/articles/07/07a3410d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Fuel-cargo-scheduled-to-arrive-on-July-9-delayed-Minister/108-240847",
-    "time_ut": 1657530509,
-    "original_lang": "en",
-    "original_title": "Fuel cargo scheduled to arrive on July 9 delayed; Minister",
-    "file_name": "/tmp/news_lk2/articles/4b/4b664cb7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83579/central-bank-governor-warns-political-instability-may-hurt-imf-negotiations",
-    "time_ut": 1657530420,
-    "original_lang": "en",
-    "original_title": "Central bank governor warns political instability may hurt IMF negotiations",
-    "file_name": "/tmp/news_lk2/articles/0d/0d0d87d5.json"
   }
 ]
