@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf---\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca/11-395436",
+    "time_ut": 1657810428,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf - \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/15/15a4f763.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Gotabaya-Rajapaksa-emails-resignation-letter-to-Speaker/155-241097",
     "time_ut": 1657809903,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Man caught with Rs.30 mn worth of Ice in Wattala",
     "file_name": "/tmp/news_lk2/articles/58/58c9ec50.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/going-going-but-not-gone-yet-why-delay-inevitability/",
-    "time_ut": 1657518205,
-    "original_lang": "en",
-    "original_title": "Going, Going, But Not Gone Yet: Why Delay Inevitability",
-    "file_name": "/tmp/news_lk2/articles/f0/f0d075bd.json"
   }
 ]
