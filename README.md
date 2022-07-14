@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 04:33:14 (LK time)*
+*As of 2022-07-15 04:46:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
 * **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
-* **2** economy-next-com ([Sri Lanka’s war winning army chief says ready to take presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d5d7be2.json))
+* **1** economy-next-com ([Sri Lanka shares down after violent clashes amid political unrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b855bcb6.json))
 
-## Last 24 Hours (270 Articles)
+## Last 24 Hours (271 Articles)
 
-* **39** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
+* **40** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
 * **39** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
@@ -36,13 +36,13 @@
 
 * **2** b-b-c-com-sinhala (['ජනපති ඉල්ලා අස්වීමේ ලිපිය නොදෙන්නේ නම් ධුරය හැරගියා සේ සලකනවා' - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f2cd72c.json))
 
-## Last Week (1,209 Articles)
+## Last Week (1,210 Articles)
 
 * **166** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
 * **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
-* **150** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **151** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **140** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -64,7 +64,7 @@
 
 * **23** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,557 Articles)
+## All Time (1,558 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -72,7 +72,7 @@
 
 * **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **150** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **151** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **140** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
