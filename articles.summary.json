@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dad\u0dca-\u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca-\u0d9a\u0dbd\u0dca\u0dba\u0dba\u0dd2/101-616417",
+    "time_ut": 1657796987,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dad\u0dca \u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca \u0d9a\u0dbd\u0dca\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/93/93aca92e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9a\u0db8-\u0db6\u0dcf\u0dbb-\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca\u2018\u2018/101-616416",
+    "time_ut": 1657796508,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9a\u0db8 \u0db6\u0dcf\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/21/21cf4224.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dba\u0db1-\u0dad\u0dd4\u0dbb\u0dd4-\u0dbb\u0da7-\u0db4\u0dd4\u0dbb\u0dcf-\u0dc0\u0dd0\u0da9\u0dc0\u0dbb\u0dca\u0da2\u0db1--\u0dc4\u0dbb\u0dca\u0dad\u0dcf\u0dbd\u0dca/1-616415",
     "time_ut": 1657795923,
     "original_lang": "si",
@@ -38,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Parliament sessions scheduled for tomorrow cancelled",
     "file_name": "/tmp/news_lk2/articles/c0/c0bb0e77.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/daily-exchange-rate-from-cbsl-13/",
+    "time_ut": 1657794540,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/35/35e8a8fd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5158,14 +5182,6 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd \u0bb0\u0bbe\u0bae\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bc8 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bb9\u0bb0\u0bcd\u0bb7\u0ba3 \u0bb0\u0bbe\u0b9c\u0b95\u0bb0\u0bc1\u0ba3\u0bbe",
     "file_name": "/tmp/news_lk2/articles/c6/c6018877.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/daily-exchange-rate-from-cbsl-12/",
-    "time_ut": 1657619520,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/d5/d53eea47.json"
   },
   {
     "newspaper_id": "virakesari-lk",
