@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Protesters-brutally-assault-soldiers-steal-two-T-56-weapons-along-with-ammunition-Army/108-241078",
+    "time_ut": 1657782927,
+    "original_lang": "en",
+    "original_title": "Protesters brutally assault soldiers, steal two T-56 weapons along with ammunition: Army",
+    "file_name": "/tmp/news_lk2/articles/e5/e51f6d20.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83639/un-chief-asks-sri-lankan-leaders-to-embrace-spirit-of-compromise-for-peaceful-democratic-transition",
     "time_ut": 1657782120,
@@ -8,12 +16,20 @@
     "file_name": "/tmp/news_lk2/articles/f3/f36bf56f.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-imposes-curfew-in-colombo-district-from-july-14-15-97416/",
+    "time_ut": 1657782060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka imposes curfew in Colombo district from July 14-15",
+    "file_name": "/tmp/news_lk2/articles/95/95dfb05e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Gotabaya-Rajapaksa-leaves-the-Maldives/342-241077",
+    "url": "https://www.dailymirror.lk/top_story/Gotabaya-Rajapaksa-leaves-the-Maldives/155-241077",
     "time_ut": 1657781979,
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa leaves the Maldives",
-    "file_name": "/tmp/news_lk2/articles/19/195e121e.json"
+    "file_name": "/tmp/news_lk2/articles/39/397839ae.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -630,6 +646,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd - \u0bb0\u0bb8\u0bcd\u0baf\u0bbe \u0bae\u0bc0\u0ba4\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/3c/3cfa9afe.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0d9a\u0d9c\u0dda-\u0d85\u0dc0\u0dd2\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-616389",
+    "time_ut": 1657765082,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0dc3\u0dd9\u0db6\u0dc5\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0d9a\u0d9c\u0dda \u0d85\u0dc0\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/be/be56ecdd.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
