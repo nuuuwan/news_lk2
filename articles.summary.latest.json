@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/several-countries-advise-against-travel-to-sl/",
+    "time_ut": 1657792500,
+    "original_lang": "en",
+    "original_title": "Several countries advise against travel to SL",
+    "file_name": "/tmp/news_lk2/articles/70/70baa773.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/slc-names-squad-for-upcoming-pakvsl-series/",
+    "time_ut": 1657792440,
+    "original_lang": "en",
+    "original_title": "SLC names squad for upcoming PAKvSL series",
+    "file_name": "/tmp/news_lk2/articles/b2/b241723c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83644/british-mp-calls-for-intl-arrest-warrant-on-president-rajapaksa",
     "time_ut": 1657792320,
@@ -30,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bbe\u0b95\u0bcd\u0b95 \u0b92\u0bb0\u0bc1 \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1  \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf -  \u0bb5\u0bbe\u0b9a\u0bc1\u0ba4\u0bc7\u0bb5 \u0ba8\u0bbe\u0ba3\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0",
     "file_name": "/tmp/news_lk2/articles/cc/cc625f87.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2-\u0db4\u0dc0\u0dd4\u0dbd-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-616410",
+    "time_ut": 1657791380,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0dc0\u0dd4\u0dbd \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/40/4060b5ad.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka receives 3,700 metric tonnes of LP gas; distribution to begin soon",
     "file_name": "/tmp/news_lk2/articles/9c/9c67b7d8.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/five-sri-lanka-ministers-quit-after-president-pm-offer-resignation-97210/",
-    "time_ut": 1657439880,
-    "original_lang": "en",
-    "original_title": "Five Sri Lanka ministers quit after president, PM offer resignation",
-    "file_name": "/tmp/news_lk2/articles/c3/c32d9243.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131150",
-    "time_ut": 1657438514,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0bb8\u0bcd \u0bb2\u0bc1\u0bae\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/68/68d6d440.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131152",
-    "time_ut": 1657436944,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc7 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bbe ?",
-    "file_name": "/tmp/news_lk2/articles/9c/9ca076ef.json"
   }
 ]
