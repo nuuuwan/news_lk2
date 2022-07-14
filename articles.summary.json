@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Waiting-for-transport/110-241090",
+    "time_ut": 1657797501,
+    "original_lang": "en",
+    "original_title": "Waiting for transport...",
+    "file_name": "/tmp/news_lk2/articles/17/170b26a0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/I-am-ready-to-take-up-presidencySF/342-241089",
+    "time_ut": 1657797484,
+    "original_lang": "en",
+    "original_title": "I am ready to take up presidency:SF",
+    "file_name": "/tmp/news_lk2/articles/d1/d1b96534.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddd-\u0dc4\u0dd9\u0da7-\u0db1\u0dd0\u0dc0\u0dad-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dad\u0dd2/1-616418",
+    "time_ut": 1657797417,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0ddd \u0dc4\u0dd9\u0da7 \u0db1\u0dd0\u0dc0\u0dad \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d1/d16c9d4c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Back-to-how-it-was/342-241088",
+    "time_ut": 1657797382,
+    "original_lang": "en",
+    "original_title": "Back to how it was....",
+    "file_name": "/tmp/news_lk2/articles/02/02319bed.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dc3\u0dad\u0dd4-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db6\u0dbd\u0dad\u0dbd-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0db8\u0dd0\u0dbd\u0dd2-\u0dc0\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-395427",
+    "time_ut": 1657797140,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc3\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db6\u0dbd\u0dad\u0dbd \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0db8\u0dd0\u0dbd\u0dd2 \u0dc0\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/4b/4bd19c72.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dad\u0dca-\u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca-\u0d9a\u0dbd\u0dca\u0dba\u0dba\u0dd2/101-616417",
     "time_ut": 1657796987,
@@ -14,6 +54,14 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9a\u0db8 \u0db6\u0dcf\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/21/21cf4224.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/mahinda-basil-attygalle-pledge-not-to-leave-country-until-tomorrow-15/",
+    "time_ut": 1657796460,
+    "original_lang": "en",
+    "original_title": "Mahinda, Basil & Attygalle pledge not to leave country until tomorrow (15)",
+    "file_name": "/tmp/news_lk2/articles/6a/6a0dfadd.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -262,6 +310,14 @@
     "original_lang": "en",
     "original_title": "Two soldiers rendered unconscious in brutal attack in Battaramulla protest \u2013 Army",
     "file_name": "/tmp/news_lk2/articles/1f/1fc28560.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7-\u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395426",
+    "time_ut": 1657786034,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/00/00ad7575.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
