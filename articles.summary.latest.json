@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/gotabaya-rajapaksa-takes-saudi-plane-to-singapore/",
+    "time_ut": 1657789140,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa takes Saudi plane to Singapore",
+    "file_name": "/tmp/news_lk2/articles/02/02306c21.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dc3\u0dd2\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0daf\u0dca\u0daf\u0dd3-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/101-616409",
+    "time_ut": 1657789072,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dc3\u0dd2\u0da7 \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0daf\u0dca\u0daf\u0dd3 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1f/1fa08b48.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b9c\u0bbf\u0b86\u0bb0\u0bcd/175-300420",
     "time_ut": 1657787067,
@@ -14,6 +30,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
     "file_name": "/tmp/news_lk2/articles/99/99248f9e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/14/two-soldiers-rendered-unconscious-in-brutal-attack-in-battaramulla-protest-army/",
+    "time_ut": 1657786680,
+    "original_lang": "en",
+    "original_title": "Two soldiers rendered unconscious in brutal attack in Battaramulla protest \u2013 Army",
+    "file_name": "/tmp/news_lk2/articles/1f/1fc28560.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -833,11 +857,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0d85\u0dc0\u0dd2-\u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca-\u0dba\u0dba\u0dd2/101-616389",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dda-\u0d85\u0dc0\u0dd2-\u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca-\u0dba\u0dba\u0dd2/1-616389",
     "time_ut": 1657765082,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0dc3\u0dd9\u0db6\u0dc5\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d85\u0dc0\u0dd2 \u0d8b\u0daf\u0dd4\u0dbb\u0db1\u0dca \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/71/71ba576a.json"
+    "file_name": "/tmp/news_lk2/articles/86/86658773.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Political Parties  Trying Hard to Share the Spoils by Forming an Alternative Govt After Protests by the People  Result in Resignation Announcements by President Rajapaksa and Premier Wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/63/6398850e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78512",
-    "time_ut": 1657394640,
-    "original_lang": "en",
-    "original_title": "UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support",
-    "file_name": "/tmp/news_lk2/articles/87/87c39278.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78509",
-    "time_ut": 1657394100,
-    "original_lang": "en",
-    "original_title": "Three Youths Aged  19, 21 and 24 Arrested for Alleged Involvement in the Arson Attack on Prime Minister Ranil Wickremesinghe\u2019s  Private Residence are Remanded Until July 20 by Fort Magistrate",
-    "file_name": "/tmp/news_lk2/articles/96/96fc62b8.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78514",
-    "time_ut": 1657393920,
-    "original_lang": "en",
-    "original_title": "Eleven journalists attached to  TV Derana, News First and Sky News,  attacked by the Police and STF  while covering the protests in  Colombo on July 9",
-    "file_name": "/tmp/news_lk2/articles/df/df1a3043.json"
   }
 ]
