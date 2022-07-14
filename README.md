@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 20:41:06 (LK time)*
+*As of 2022-07-14 20:49:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** ada-lk ([ජනපතිගේ ඉල්ලා අස්විම කථානායකට?](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c3bb69.json))
+* **1** ada-lk ([ජාතික ආරක්ෂාව තහවුරු කරන්න සියලු කටයුතු කරනවා - ආරක්ෂක ලේකම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a4f763.json))
 
-* **1** daily-mirror-lk ([Gotabaya Rajapaksa emails resignation letter to Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b0d8cab.json))
+## Last Hour (9 Articles)
 
-## Last Hour (10 Articles)
-
-* **4** lankadeepa-lk ([ගිනි අවිය පැහැර ගැනීම ගැන පරීක්ෂණ කොළඹ අපරාධ කොට්ඨාසය](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a96ffa07.json))
+* **3** lankadeepa-lk ([රනිල් වික්‍රමසිංහ වැඩබලන ජනපති ලෙස හෙට දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77ee3ac5.json))
 
 * **2** ada-lk ([ජනපතිගේ ඉල්ලා අස්විම කථානායකට?](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c3bb69.json))
 
@@ -22,39 +20,39 @@
 
 * **1** ada-derana-lk ([President Gotabaya Rajapaksa submits resignation to Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c927ac2.json))
 
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (29 Articles)
 
 * **7** lankadeepa-lk ([නව අග්‍රාමාත්‍යධුරය: විපක්ෂයේ යෝජිත නම හෙට එළියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aece7d9.json))
 
-* **6** virakesari-lk ([மாலைதீவிலிருந்து சிங்கப்பூர் சென்றார் ஜனாதிபதி கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f4753b.json))
-
 * **5** ada-lk ([දළදා තේවා කටයුතු මල්වත්තෙන් අස්ගිරියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1e6b57.json))
+
+* **5** virakesari-lk ([பாதுகாப்பு படையினர் முழு அதிகாரத்தை பயன்படுத்த வேண்டியேற்படும் - இராணுவ தலைமையகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93cbc8fc.json))
 
 * **3** daily-mirror-lk ([Singapore confirms Prez arrives there](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77758e7e.json))
 
 * **3** ada-derana-lk ([Sri Lanka President on private visit, not granted asylum: Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a054e981.json))
 
-* **3** economy-next-com ([Saudi plane with Sri Lanka President Rajapaksa lands in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07f14328.json))
-
 * **3** tamil-mirror-lk ([கோட்டா ஏன் சிங்கப்பூருக்கு சென்றார்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec880d1c.json))
 
 * **2** news-first-lk ([President Gotabaya was NOT granted asylum: Singapore Foreign Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e748b3cb.json))
 
-## Last 24 Hours (291 Articles)
+* **1** economy-next-com ([Commonwealth calls for peaceful Sri Lanka transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01109ac8.json))
 
-* **48** daily-mirror-lk ([Wasantha Samarasinghe attacked at Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bea4a97.json))
+## Last 24 Hours (284 Articles)
+
+* **46** daily-mirror-lk ([Sudden curfew forces people to stay indoors](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9f60453.json))
 
 * **46** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
 
-* **42** lankadeepa-lk ([එක්සත් ජාතීන්ගේ සංවිධානයෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7cd2d93.json))
+* **41** lankadeepa-lk ([‘‘සාමකාමීව කටයුතු කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4dca51ce.json))
 
-* **35** tamil-mirror-lk ([புதிய பிரதமரை நியமிக்குமாறு ரணில் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/902ddd26.json))
+* **34** tamil-mirror-lk ([பாராளுமன்றத்துக்கு முன்பாக போராட்டம்; ’ரணிலின் கேம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97a90c26.json))
 
-* **32** ada-lk ([සාමකාමි බල හුවමාරුවක් සඳහා දේශපාලන නායකයන්ට ඉඩ දෙන්න - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/3432c736.json))
+* **31** ada-lk ([අගමැති නම් කරන්න වැඩබලන ජනපති කථානායකට කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b2d8ce.json))
 
-* **27** ada-derana-lk ([Ranil requests Speaker to nominate a PM accepted by govt and oppn to form all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02dfb029.json))
+* **26** ada-derana-lk ([Protestors near Speaker’s residence tear-gassed](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b423fd4.json))
 
-* **26** news-first-lk ([Acting President informs Speaker to nominate Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5ee4c1e.json))
+* **25** news-first-lk ([State of emergency should not suppress fundamental right – Church of Ceylon](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9e49e03.json))
 
 * **14** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
