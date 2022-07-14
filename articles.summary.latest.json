@@ -1,6 +1,62 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Seeking-a-path-to-national-development/14-737474",
+    "time_ut": 1657758836,
+    "original_lang": "en",
+    "original_title": "Seeking a path to national development",
+    "file_name": "/tmp/news_lk2/articles/62/62f1c8da.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-great-democratic-robbery/4-737473",
+    "time_ut": 1657758584,
+    "original_lang": "en",
+    "original_title": "The great democratic robbery",
+    "file_name": "/tmp/news_lk2/articles/54/54a05237.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Defiant-island-The-spirit-of-Sri-Lanka/4-737472",
+    "time_ut": 1657758102,
+    "original_lang": "en",
+    "original_title": "Defiant island:  The spirit of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5a/5adfe487.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Aftermath-of-the-Aragalaya/4-737471",
+    "time_ut": 1657757559,
+    "original_lang": "en",
+    "original_title": "Aftermath  of the Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/2b/2befed38.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Better-ways-to-manage-fuel-crisis/14-737470",
+    "time_ut": 1657757379,
+    "original_lang": "en",
+    "original_title": "Better ways to manage fuel crisis",
+    "file_name": "/tmp/news_lk2/articles/2b/2b1c386f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/First-Asian-President-of-CIMA-Melanie-speaks-of-way-forward/34-737468",
+    "time_ut": 1657757287,
+    "original_lang": "en",
+    "original_title": "First Asian President of CIMA Melanie speaks of way forward",
+    "file_name": "/tmp/news_lk2/articles/7c/7c67064c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Artists-of-the-People-s-Movement-renew-call-to-abolish-Executive-Presidency/56-737467",
+    "time_ut": 1657756801,
+    "original_lang": "en",
+    "original_title": "Artists of the People\u2019s Movement renew call to abolish Executive Presidency",
+    "file_name": "/tmp/news_lk2/articles/86/866d8938.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/BASL-raises-alarm-over-protestors-occupying-PM-s-office/56-737460",
     "time_ut": 1657756366,
     "original_lang": "en",
@@ -110,6 +166,22 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dbb\u0da7\u0da7\u0db8 \u0d87\u0db3\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dad\u0dd2\u0dba \u0daf\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/63/63aa6cae.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b86\u0b9f\u0bcd\u0b9a\u0bbf-\u0ba8\u0bbf\u0bb2\u0bc8\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b9c\u0bc1\u0bb2\u0bbf-\u0b9a\u0b99\u0bcd/175-300392",
+    "time_ut": 1657735107,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd: \u0b9c\u0bc1\u0bb2\u0bbf \u0b9a\u0b99\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/51/51d2ea56.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd-\u0baa\u0baf\u0ba3\u0bae\u0bcd-\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1/175-300391",
+    "time_ut": 1657734428,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0baa\u0baf\u0ba3\u0bae\u0bcd: \u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/f8/f86542c2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7926,77 +7998,5 @@
     "original_lang": "en",
     "original_title": "C.W. Mackie Scan Products Division launches \u2018Recycle for Future Generation\u2019 EPR initiative",
     "file_name": "/tmp/news_lk2/articles/b2/b2d7ddf6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Changes-at-the-top-at-Colombo-Fort-Land-Building/34-737103",
-    "time_ut": 1657066939,
-    "original_lang": "en",
-    "original_title": "Changes at the top at Colombo Fort Land & Building",
-    "file_name": "/tmp/news_lk2/articles/d3/d33cf865.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Ranil-Pathirana-appointed-Deputy-Chairman-at-Dankotuwa-Porcelain/34-737102",
-    "time_ut": 1657066913,
-    "original_lang": "en",
-    "original_title": "Ranil Pathirana appointed Deputy Chairman at Dankotuwa Porcelain",
-    "file_name": "/tmp/news_lk2/articles/76/768ba2a0.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Selyn-Exporters-partners-global-blockchain-experts-PaperTale-for-radical-transparency-solutions/34-737101",
-    "time_ut": 1657066546,
-    "original_lang": "en",
-    "original_title": "Selyn Exporters partners global blockchain experts PaperTale for radical transparency solutions",
-    "file_name": "/tmp/news_lk2/articles/ce/ce221304.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Two-CEB-engineers-suspended-for-illegal-power-outages-last-month-Minister/34-737100",
-    "time_ut": 1657066499,
-    "original_lang": "en",
-    "original_title": "Two CEB engineers suspended for illegal power outages last month: Minister",
-    "file_name": "/tmp/news_lk2/articles/3f/3fa23400.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78403",
-    "time_ut": 1657049040,
-    "original_lang": "en",
-    "original_title": "Business Magnate turned Investment Promotion Minister Dhammika Perera  calls for the resignation of Prime Minister Ranil Wickremesinghe as Finance Minister  alleging that  Ranil is not sincere in tackling   Issues of  boosting foreign reserves and currency.",
-    "file_name": "/tmp/news_lk2/articles/61/61f59809.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78401",
-    "time_ut": 1657048500,
-    "original_lang": "en",
-    "original_title": "Cabinet Approves Proposal by PM and Finance Minister Ranil Wickremesinghe to to bring in legislative amendments streamlining  Casino  businesses in to recover tax dues owed by casino operators and increase  Casino  taxes",
-    "file_name": "/tmp/news_lk2/articles/03/0348ed37.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78411",
-    "time_ut": 1657047960,
-    "original_lang": "en",
-    "original_title": "Several fundamental rights petitions challenging the Presidential pardon given  by President Rajapaksa to ex-soldier Sunil Ratnayake  who was Convicted for the Murder of 8 Civilians in Mirusuvil fixed for support   On August 4 by a Supreme Court three-judge-bench comprising Chief Justice Jayasuriya and Justices Dehideniya and Kodagoda",
-    "file_name": "/tmp/news_lk2/articles/d1/d1f4e60d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78407",
-    "time_ut": 1657047420,
-    "original_lang": "en",
-    "original_title": "President Rajapaksa Orderes  immediate investigation into allegation of bribery in a transaction between the Aviation Ministry and a Japanese company;  Gota Instructs Minister Nimal Siripala De Silvato step down temporarily from the position of Minister of Ports, Shipping and Aviation Services until the  Probe is concluded.",
-    "file_name": "/tmp/news_lk2/articles/69/69611a7b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78396",
-    "time_ut": 1657046340,
-    "original_lang": "en",
-    "original_title": "Former MP Hirunika Premachandra and 11 others released  on police bail  after being  arrested  by Police while protesting in front of the President\u2019s House in Colombo Fort",
-    "file_name": "/tmp/news_lk2/articles/a8/a85557d6.json"
   }
 ]
