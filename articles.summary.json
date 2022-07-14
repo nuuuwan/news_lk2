@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/BASL-raises-alarm-over-protestors-occupying-PM-s-office/56-737460",
+    "time_ut": 1657756366,
+    "original_lang": "en",
+    "original_title": "BASL raises alarm over protestors occupying PM\u2019s office",
+    "file_name": "/tmp/news_lk2/articles/cb/cbb69536.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/India-denies-helping-Gotabaya-to-flee/56-737459",
+    "time_ut": 1657756131,
+    "original_lang": "en",
+    "original_title": "India denies helping Gotabaya to flee",
+    "file_name": "/tmp/news_lk2/articles/67/6745b69a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Air-Force-confirms-providing-military-jet-for-President-to-leave-to-Maldives/56-737458",
+    "time_ut": 1657756103,
+    "original_lang": "en",
+    "original_title": "Air Force confirms providing military jet for President to leave to Maldives",
+    "file_name": "/tmp/news_lk2/articles/bd/bdcce8b5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Fleeing-Gotabaya-faces-protests-in-Maldives/56-737457",
+    "time_ut": 1657756089,
+    "original_lang": "en",
+    "original_title": "Fleeing Gotabaya faces protests in Maldives",
+    "file_name": "/tmp/news_lk2/articles/c1/c13e2ef3.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-rajapaksa-fails-to-resign-despite-repeated-promises-97388/",
     "time_ut": 1657744500,
@@ -550,6 +582,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/38/38cab38e.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78550",
+    "time_ut": 1657722660,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa\u2019s Much Anticipated Resignation Does Not Materialise but President Appoints Premier Ranil Wickremesinghe as Acting President, to be in charge during his period of absence from Sri Lanka; Ranil Imposes Curfew after Protests Escalate",
+    "file_name": "/tmp/news_lk2/articles/ad/ad549fa5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3361,11 +3401,27 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/increasing-interest-in-investing-in-tbs-likely-to-negatively-impact-cse/",
+    "time_ut": 1657628880,
+    "original_lang": "en",
+    "original_title": "Increasing interest in investing in TBs likely to negatively impact CSE",
+    "file_name": "/tmp/news_lk2/articles/fa/fa69e730.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/trade-deficit-shrinks-for-third-consecutive-month/",
     "time_ut": 1657628880,
     "original_lang": "en",
     "original_title": "Trade deficit shrinks for third consecutive month",
     "file_name": "/tmp/news_lk2/articles/8f/8fdb83c7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/aias-national-safety-endeavour-the-poson-safety-programme-successfully-concludes-with-zero-deaths/",
+    "time_ut": 1657628880,
+    "original_lang": "en",
+    "original_title": "AIA\u2019s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths",
+    "file_name": "/tmp/news_lk2/articles/37/37d7252b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
