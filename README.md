@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-14 14:59:15 (LK time)*
+*As of 2022-07-14 15:10:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -20,27 +20,27 @@
 
 * **1** lankadeepa-lk ([ඉන්ධනහලේ සිට ගෙදර යද්දී වැටී මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fa08b48.json))
 
-## Last 3 Hours (40 Articles)
+## Last 3 Hours (32 Articles)
 
-* **8** virakesari-lk ([ஊரடங்கு தொடர்பில் வெளியான அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb4d58fa.json))
+* **7** virakesari-lk ([தாம் கைப்பற்றிய இடங்களில் இருந்து வெளியேறுவதாக காலிமுகத்திடல் போராட்டக்காரர்கள் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a519f474.json))
 
-* **7** ada-derana-lk ([Curfew imposed in Colombo District](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/218eba58.json))
-
-* **6** daily-mirror-lk ([Curfew imposed at 12 noon](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9230081.json))
-
-* **5** news-first-lk ([Business as Usual at Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/961ab10f.json))
+* **6** ada-derana-lk ([UN chief asks Sri Lankan leaders to embrace spirit of compromise for peaceful, democratic transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f36bf56f.json))
 
 * **4** tamil-mirror-lk ([சபையை நாளைக்கு கூட்டுவதில் சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b23ac818.json))
 
-* **4** lankadeepa-lk ([දිනූ දේ නැති භංග අවදානම](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e031be83.json))
+* **4** daily-mirror-lk ([Gotabaya Rajapaksa leaves the Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/397839ae.json))
 
-* **4** ada-lk ([කොළඹ දිස්ත්‍රික්කයට ඇඳිරි නීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57a85a63.json))
+* **3** news-first-lk ([Occupied public property to be returned to state](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f04413cf.json))
+
+* **3** lankadeepa-lk ([ජනාධිපති සිංගප්පූරුව බලා පිටත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ebc8272.json))
+
+* **3** ada-lk ([පාකිස්තානයට එරෙහි ටෙස්ට් සංචිතය නම් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/069560fa.json))
 
 * **2** economy-next-com ([Sri Lanka imposes curfew in Colombo district from July 14-15](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95dfb05e.json))
 
-## Last 24 Hours (298 Articles)
+## Last 24 Hours (294 Articles)
 
-* **54** daily-mirror-lk ([PM office taken over by protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/bed44525.json))
+* **53** daily-mirror-lk ([Military, police given authority to control situation: Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0acece1e.json))
 
 * **49** tamil-mirror-lk ([மக்களை பாதுகாக்கவே ஆயுதப்படைக்கு ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaeba8b0.json))
 
@@ -48,9 +48,9 @@
 
 * **39** lankadeepa-lk ([’’සාමය හා නීතිය රකින්න හමුදාවට බලය දුන්නා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dab20b3d.json))
 
-* **32** ada-lk ([අරගලකරුවෝ රූපවාහිනියේ විකාශයත් නවත්වති](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b7a59f6.json))
+* **30** ada-lk ([නිතිය හා සාමය පවත්වාගෙන යන්න සහාය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c6dcb6b.json))
 
-* **28** ada-derana-lk ([Protesters storm Prime Minister’s Office in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43c2c60c.json))
+* **27** ada-derana-lk ([Committee appointed to restore law and order - Acting President](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/906faa7b.json))
 
 * **22** news-first-lk ([Security forces directed to bring situation in Sri Lanka to normalcy – Acting President Ranil Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2656277d.json))
 
