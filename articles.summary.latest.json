@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83642/trains-from-outstation-areas-to-colombo-suspended",
+    "time_ut": 1657785960,
+    "original_lang": "en",
+    "original_title": "Trains from outstation areas to Colombo suspended",
+    "file_name": "/tmp/news_lk2/articles/dc/dc5b36ef.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-to-back-NCM/342-241083",
+    "time_ut": 1657785917,
+    "original_lang": "en",
+    "original_title": "SJB to back NCM",
+    "file_name": "/tmp/news_lk2/articles/f4/f4d66e85.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0d91\u0db1-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db1\u0dc0\u0dad\u0dd3/101-616408",
+    "time_ut": 1657785696,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d91\u0db1 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dc0\u0dad\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/29/297b7687.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0dc3\u0dd2\u0da7\u0dd2-\u0db6\u0dc0-\u0d9a\u0dd2\u0dba\u0db1-\u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dda-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0d9a-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-5900---8700\u0dad\u0dca-\u0d85\u0dad\u0dbb/11-395425",
+    "time_ut": 1657785588,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db1 \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0d9a \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca 5900 - 8700\u0dad\u0dca \u0d85\u0dad\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/b5/b5b14d0e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131439",
     "time_ut": 1657785012,
@@ -14,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Mahinda, Basil pledge before SC not to fly out until tomorrow",
     "file_name": "/tmp/news_lk2/articles/a6/a6c9ea21.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83641/mahinda-basil-pledge-before-sc-not-to-leave-country-until-tomorrow",
+    "time_ut": 1657784880,
+    "original_lang": "en",
+    "original_title": "Mahinda, Basil pledge before SC not to leave country until tomorrow",
+    "file_name": "/tmp/news_lk2/articles/ca/ca3a3e8b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -78,6 +118,14 @@
     "original_lang": "en",
     "original_title": "Protesters brutally assault soldiers, steal two T-56 weapons along with ammunition: Army",
     "file_name": "/tmp/news_lk2/articles/e5/e51f6d20.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb-\u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca-\u0dc4\u0dcf-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dad\u0dd2/11-395424",
+    "time_ut": 1657782698,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca \u0dc4\u0dcf \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9b/9b4ceb1e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Chandrika Kumaratunga Condemns Torching of Premier Wickremesinghe\u2019s Home; \u201cThe \u2018struggle\u2019 does not need violence to achieve its goal of ousting a government that is highly disliked by the people\u201d  says Former President",
     "file_name": "/tmp/news_lk2/articles/45/45665698.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78496",
-    "time_ut": 1657392480,
-    "original_lang": "en",
-    "original_title": "Thousands of Protesters  inspired by the three-month old \u2018Aragalaya\u2019 force  President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe to announce their resignations.",
-    "file_name": "/tmp/news_lk2/articles/eb/ebd9d6e9.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Apparel-industry-says-Make-Sri-Lanka-First-a-national-priority-and-agenda/56-737290",
-    "time_ut": 1657392042,
-    "original_lang": "en",
-    "original_title": "Apparel industry says \u2018Make Sri Lanka First a national priority and agenda\u2019",
-    "file_name": "/tmp/news_lk2/articles/0a/0a41ebb4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Ceylon-Chamber-calls-on-President-to-resign-and-party-leaders-to-ensure-smooth-transition-of-power/56-737289",
-    "time_ut": 1657391962,
-    "original_lang": "en",
-    "original_title": "Ceylon Chamber calls on President to resign and party leaders to ensure smooth transition of power",
-    "file_name": "/tmp/news_lk2/articles/08/08410be0.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78491",
-    "time_ut": 1657391940,
-    "original_lang": "en",
-    "original_title": "National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.",
-    "file_name": "/tmp/news_lk2/articles/82/82f31063.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/President-Gotabaya-to-resign-on-Wednesday/56-737287",
-    "time_ut": 1657387079,
-    "original_lang": "en",
-    "original_title": "President Gotabaya to resign on Wednesday",
-    "file_name": "/tmp/news_lk2/articles/24/247880e0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/leaked-security-deployment-plans-to-obstruct-july-9-protests/",
-    "time_ut": 1657386245,
-    "original_lang": "en",
-    "original_title": "Leaked: Security Deployment Plans To Obstruct July 9 Protests",
-    "file_name": "/tmp/news_lk2/articles/15/15c7a6d7.json"
   }
 ]
