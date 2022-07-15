@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 12:19:42 (LK time)*
+*As of 2022-07-15 12:29:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** news-first-lk ([40,000 MT of Diesel to reach SL today (15)](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d65441f.json))
+* **1** lankadeepa-lk ([තුවාලකරුවන් බලන්න හමුදාපති විකුම් යුද හමුදා රෝහලට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/caea533f.json))
 
 * **1** tamil-mirror-lk ([புதிய ஜனாதிபதி: 20 வாக்கெடுப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6d625a31.json))
 
@@ -16,9 +16,9 @@
 
 ## Last Hour (12 Articles)
 
-* **3** news-first-lk ([Vacant Presidency? Parliament procedure for election of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f28a9e3.json))
+* **3** lankadeepa-lk ([ජනතා සේවයේදී හිනාව ඕනෑ: නැතිනම් දඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/7144831e.json))
 
-* **3** lankadeepa-lk ([අපි යන්නේ කොයි පාරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbdaec26.json))
+* **3** news-first-lk ([Vacant Presidency? Parliament procedure for election of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f28a9e3.json))
 
 * **2** virakesari-lk ([வலி கிழக்குப் பிரதேச சபைத் தவிசாளருக்கு எதிரான வழக்கில் வீதி அபிவிருத்தி அதிகார சபைக்கு நோட்டிஸ் அனுப்ப நீதிமன்றம் உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6aaa296.json))
 
@@ -30,29 +30,29 @@
 
 * **1** economy-next-com ([Sri Lanka shares gain in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aac8c8ff.json))
 
-## Last 3 Hours (47 Articles)
+## Last 3 Hours (45 Articles)
+
+* **11** lankadeepa-lk ([නව ජනපති තේරීම දින හතක් ඇතුළත](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55a4b92f.json))
 
 * **11** virakesari-lk ([ஜனாதிபதி கோட்டா பதவியில் இருந்து விலகினார் : உத்தியோகபூர்வமாக அறிவித்தார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9b2610c.json))
 
-* **10** lankadeepa-lk ([නව ජනපති තේරීම දින හතක් ඇතුළත](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55a4b92f.json))
-
 * **7** ada-lk ([ජනපතිගේ ඉල්ලා අස්විම නිල වශයෙන් නිවේදනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a59d3f65.json))
 
-* **6** daily-mirror-lk ([GOTABAYA RAJAPAKSA RESIGNS](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfe867a7.json))
-
-* **4** news-first-lk ([Sri Lanka: President Gotabaya has officially stepped down](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b17453ec.json))
+* **5** daily-mirror-lk ([Parliament to meet tomorrow; new Prez to be elected within seven days: Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1dac0dc.json))
 
 * **3** tamil-mirror-lk ([பதவி விலகினார் கோட்டா – உத்தியோகப்பூர்வ அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e92a70f4.json))
 
-* **3** ada-derana-lk ([Gotabaya Rajapaksa officially resigns as President of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdff5189.json))
+* **3** news-first-lk ([Vacant Presidency? Parliament procedure for election of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f28a9e3.json))
 
 * **3** economy-next-com ([Sri Lanka President Gotabaya Rajapaksa has resigned after months of protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e39d45b.json))
 
-## Last 24 Hours (248 Articles)
+* **2** ada-derana-lk ([Parliamentary to convene tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/260db3a1.json))
+
+## Last 24 Hours (249 Articles)
 
 * **44** virakesari-lk ([தாம் கைப்பற்றிய இடங்களில் இருந்து வெளியேறுவதாக காலிமுகத்திடல் போராட்டக்காரர்கள் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a519f474.json))
 
-* **36** lankadeepa-lk ([ජනාධිපති සිංගප්පූරුව බලා පිටත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ebc8272.json))
+* **37** lankadeepa-lk ([ජනාධිපති සිංගප්පූරුව බලා පිටත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ebc8272.json))
 
 * **30** daily-mirror-lk ([Gotabaya Rajapaksa leaves the Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9901a8ce.json))
 
@@ -76,9 +76,9 @@
 
 * **3** colombo-telegraph-com ([Sri Lankan Authorities Must Refrain From Use Of Military To Police Protests: Amnesty International](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/837fa13d.json))
 
-## Last Week (1,296 Articles)
+## Last Week (1,297 Articles)
 
-* **177** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
+* **178** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
 * **174** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
@@ -104,9 +104,9 @@
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,651 Articles)
+## All Time (1,652 Articles)
 
-* **241** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **242** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **226** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
