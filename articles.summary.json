@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Will-ensure-all-MPs-exercise-their-free-will-to-elect-new-President-RW/342-241161",
+    "time_ut": 1657876427,
+    "original_lang": "en",
+    "original_title": "Will ensure all MPs exercise their free will to elect new President: RW",
+    "file_name": "/tmp/news_lk2/articles/9e/9e882f5e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131529",
+    "time_ut": 1657875950,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ce/cef9642f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83666/schools-to-reopen-on-july-21",
     "time_ut": 1657875360,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0db1-5\u0d9a\u0daf\u0dd3-\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-440-000\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dba\u0dd2/101-616466",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0db1-5\u0d9a\u0daf\u0dd3-\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-440-000\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dba\u0dd2/1-616466",
     "time_ut": 1657875291,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0db1 5\u0d9a\u0daf\u0dd3 \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca 440,000\u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e4/e4d965f9.json"
+    "file_name": "/tmp/news_lk2/articles/9a/9ab02d12.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0dbb\u0da2\u0dba\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-21-\u0dba\u0dc5\u0dd2-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-616463",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0dbb\u0da2\u0dba\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-21-\u0dba\u0dc5\u0dd2-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-616463",
     "time_ut": 1657874031,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0dbb\u0da2\u0dba\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca 21 \u0dba\u0dc5\u0dd2 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1a/1a46249d.json"
+    "file_name": "/tmp/news_lk2/articles/35/35bbfa76.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -161,11 +177,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019/101-616461",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019/1-616461",
     "time_ut": 1657869696,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/92/923b3143.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f26305c2.json"
   },
   {
     "newspaper_id": "economy-next-com",
