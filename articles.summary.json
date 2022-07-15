@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/yields-in-sri-lankas-govt-securities-fall-after-president-gotabaya-resigns-97472/",
+    "time_ut": 1657902300,
+    "original_lang": "en",
+    "original_title": "Yields in Sri Lanka\u2019s govt securities fall after President Gotabaya resigns",
+    "file_name": "/tmp/news_lk2/articles/74/74bf38e6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/international-partners-urge-sri-lanka-to-uphold-law-after-unprecedented-political-crisis-97470/",
+    "time_ut": 1657901760,
+    "original_lang": "en",
+    "original_title": "International partners urge Sri Lanka to uphold law after unprecedented political crisis",
+    "file_name": "/tmp/news_lk2/articles/f0/f02e161a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da7\u0dd4\u0d9c\u0dc4\u0dc4\u0dda\u0db1-\u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0daf\u0dda\u0dc0-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca/1-616488",
     "time_ut": 1657901454,
@@ -30,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Damage caused to Temple Trees",
     "file_name": "/tmp/news_lk2/articles/41/4173f9fc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/slpp-must-support-candidate-fielded-by-the-party-g-l-peiris/",
+    "time_ut": 1657899480,
+    "original_lang": "en",
+    "original_title": "SLPP must support candidate fielded by the party: G.L. Peiris",
+    "file_name": "/tmp/news_lk2/articles/f9/f9137c8c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
