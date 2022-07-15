@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 02:29:50 (LK time)*
+*As of 2022-07-16 02:44:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
-
-* **1** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
+* **1** daily-mirror-lk ([FSP Leader  Kumar Gunaratnam and his “Aragalaya”](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e371d419.json))
 
 ## Last Hour (4 Articles)
 
@@ -24,13 +22,13 @@
 
 * **2** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
-## Last 24 Hours (240 Articles)
+## Last 24 Hours (238 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **37** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
-* **29** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
+* **27** daily-mirror-lk ([The aragalaya must return to Galle Face - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/4610868a.json))
 
 * **25** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
 
