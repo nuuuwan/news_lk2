@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/101-616473",
+    "time_ut": 1657883618,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0ddd\u0daf \u0dad\u0dd4\u0db1\u0dda \u0d9c\u0db8\u0db1 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dab\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/36/366c75d1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83671/sc-issues-travel-ban-on-mahinda-and-basil",
+    "time_ut": 1657883340,
+    "original_lang": "en",
+    "original_title": "SC issues travel ban on Mahinda and Basil",
+    "file_name": "/tmp/news_lk2/articles/4e/4eaeeca4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/SLPP-to-support-RW/342-241164",
     "time_ut": 1657882976,
