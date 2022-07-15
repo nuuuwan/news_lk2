@@ -1,20 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 17:14:40 (LK time)*
+*As of 2022-07-15 17:19:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **2** virakesari-lk ([ஜனாதிபதி பதவிக்கான வாக்கெடுப்பில் போட்டியிட தயார் - டலஸ் அழகபெரும](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/311f49f8.json))
+* **1** lankadeepa-lk ([මහින්දට-බැසිල්ට 28තෙක් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8615af57.json))
 
 * **1** tamil-mirror-lk ([இராகலை வீட்டில் திடீர் தீ ; மூவர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca5747ea.json))
 
-## Last Hour (12 Articles)
+* **1** virakesari-lk ([ஜனாதிபதி பதவிக்கான வாக்கெடுப்பில் போட்டியிட தயார் - டலஸ் அழகபெரும](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/311f49f8.json))
 
-* **3** virakesari-lk ([ரஷ்ய ஏரோபுளொட்  விமான விவகார வழக்கு தள்ளுபடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c516fe40.json))
+## Last Hour (11 Articles)
 
 * **3** ada-derana-lk ([SLPP to support Ranil in parliamentary vote for president](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de55e7ee.json))
+
+* **2** lankadeepa-lk ([රෝද තුනේ ගමන ගිනි ගණන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/366c75d1.json))
 
 * **2** news-first-lk ([Supreme Court prevents Mahinda and Basil from going overseas](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/121729d0.json))
 
@@ -22,15 +24,15 @@
 
 * **1** tamil-mirror-lk ([இராகலை வீட்டில் திடீர் தீ ; மூவர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca5747ea.json))
 
-* **1** lankadeepa-lk ([රෝද තුනේ ගමන ගිනි ගණන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/366c75d1.json))
+* **1** virakesari-lk ([ஜனாதிபதி பதவிக்கான வாக்கெடுப்பில் போட்டியிட தயார் - டலஸ் அழகபெரும](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/311f49f8.json))
 
-## Last 3 Hours (39 Articles)
+## Last 3 Hours (38 Articles)
 
-* **9** lankadeepa-lk ([රනිල් ‘‘අතිගරු ගලවයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3bcee26.json))
+* **9** lankadeepa-lk ([දින 5කදී ලිට්‍රෝ ගෑස් 440,000ක් බෙදයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab02d12.json))
 
 * **9** ada-derana-lk ([Schools to reopen on July 21](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82835a2b.json))
 
-* **6** virakesari-lk ([புதன்கிழமை புதிய ஜனாதிபதி தெரிவு விசேட பாராளுமன்ற அமர்வு நாளை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cef9642f.json))
+* **5** virakesari-lk ([புதன்கிழமை புதிய ஜனாதிபதி தெரிவு விசேட பாராளுமன்ற அமர்வு நாளை](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/cef9642f.json))
 
 * **5** news-first-lk ([Daily Exchange Rate from CBSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62902ae6.json))
 
@@ -44,11 +46,11 @@
 
 ## Last 24 Hours (246 Articles)
 
-* **39** virakesari-lk ([மாலைதீவிலிருந்து சிங்கப்பூர் சென்றார் ஜனாதிபதி கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f4753b.json))
+* **40** lankadeepa-lk ([නව අග්‍රාමාත්‍යධුරය: විපක්ෂයේ යෝජිත නම හෙට එළියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aece7d9.json))
 
-* **39** lankadeepa-lk ([නව අග්‍රාමාත්‍යධුරය: විපක්ෂයේ යෝජිත නම හෙට එළියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aece7d9.json))
+* **38** virakesari-lk ([மாலைதீவிலிருந்து சிங்கப்பூர் சென்றார் ஜனாதிபதி கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f4753b.json))
 
-* **28** ada-derana-lk ([President Rajapaksa arrives in Singapore: reports](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/594559c6.json))
+* **27** ada-derana-lk ([AG ordered to submit proper fuel distribution mechanism for essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e092b1f.json))
 
 * **27** daily-mirror-lk ([Waiting for resignation serves no purpose; elect new Prez through Parliament: JVP](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67186a76.json))
 
@@ -62,7 +64,7 @@
 
 * **14** daily-ft-lk ([End casino capitalism: Sri Lanka to join global minimum tax agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1a15fd.json))
 
-* **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය: පවතින දේශපාලන අස්ථාවරභාවය ආර්ථිකයට බලපාන්නේ කොහොමද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c900839f.json))
+* **6** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය: පවතින දේශපාලන අස්ථාවරභාවය ආර්ථිකයට බලපාන්නේ කොහොමද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c900839f.json))
 
 * **5** island-lk ([Baurs commemorates 125th anniversary with a series of community service initiatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f7df011.json))
 
@@ -70,13 +72,13 @@
 
 * **2** d-b-s-jeyaraj-com ([Rajanayagam: From Trotskyite Lawyer  to “Tamil Times” Editor.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb1d1c1b.json))
 
-## Last Week (1,373 Articles)
+## Last Week (1,374 Articles)
 
-* **193** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
+* **194** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
 * **182** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
-* **180** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **179** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **157** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -94,19 +96,19 @@
 
 * **42** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
 
-* **29** b-b-c-com-sinhala ([පොලිස් ඇඳිරිනීතිය පැනවීමට පොලිසියට හැකිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57aaaa61.json))
+* **30** b-b-c-com-sinhala ([පොලිස් ඇඳිරිනීතිය පැනවීමට පොලිසියට හැකිද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57aaaa61.json))
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,730 Articles)
+## All Time (1,731 Articles)
 
-* **257** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **258** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **234** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **193** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **180** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **179** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **157** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -122,6 +124,6 @@
 
 * **59** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **42** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
+* **43** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
 * **33** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
