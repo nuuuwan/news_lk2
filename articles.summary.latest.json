@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/political-stability-is-paramount-cbsl-chief/",
+    "time_ut": 1657893300,
+    "original_lang": "en",
+    "original_title": "Political Stability is paramount \u2013 CBSL Chief",
+    "file_name": "/tmp/news_lk2/articles/b5/b572b5f7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/sajith-another-candidate-for-president-mujibur/",
+    "time_ut": 1657892700,
+    "original_lang": "en",
+    "original_title": "Sajith another candidate for President \u2013 Mujibur",
+    "file_name": "/tmp/news_lk2/articles/a3/a3c729f0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7/11-395459",
+    "time_ut": 1657892007,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f8/f865ce7e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/pohottuwa-divided-on-support-for-ranil/",
+    "time_ut": 1657891740,
+    "original_lang": "en",
+    "original_title": "Pohottuwa Divided on Support for Ranil",
+    "file_name": "/tmp/news_lk2/articles/7c/7c76da79.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/India-to-support-early-solution-in-SL-through-democratic-means-Indian-HC/108-241166",
     "time_ut": 1657891624,
@@ -54,6 +86,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8 : \u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf",
     "file_name": "/tmp/news_lk2/articles/04/0409433d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131534",
+    "time_ut": 1657886810,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baf \u0baa\u0bc0\u0b9f\u0bae\u0bcd \u0b9a\u0b95\u0bb2 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/e1/e1f14296.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "UN chief calls for dialogue to ensure smooth govt transition in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/9d/9d0c5c62.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131303",
-    "time_ut": 1657609099,
-    "original_lang": "ta",
-    "original_title": "\u0b87.\u0baa\u0bcb.\u0b9a \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bb2\u0bcd \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1 : \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/51/51b58fdb.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131308",
-    "time_ut": 1657608869,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87.\u0baa\u0bcb.\u0b9a \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bb2\u0bcd \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd - \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/5e/5e913d1d.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-commence-urea-distribution-on-july-12-97278/",
-    "time_ut": 1657608780,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to commence urea distribution on July 12",
-    "file_name": "/tmp/news_lk2/articles/79/7955ecfb.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db6\u0dda\u0da7-\u0dc3\u0ddc\u0dc0-\u0db4\u0dc5\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7/1-616292",
-    "time_ut": 1657608727,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db6\u0dda\u0da7 \u0dc3\u0ddc\u0dc0 \u0db4\u0dc5\u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/5f/5f9ae06a.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/from-confrontation-to-consensus/",
-    "time_ut": 1657608548,
-    "original_lang": "en",
-    "original_title": "From Confrontation To Consensus",
-    "file_name": "/tmp/news_lk2/articles/44/44ca1a6e.json"
   }
 ]
