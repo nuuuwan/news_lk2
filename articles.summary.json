@@ -1,6 +1,94 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-becomes-first-telco-to-offer-Eco-Channelling-Delivery/34-737572",
+    "time_ut": 1657911689,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel becomes first telco  to offer \u2018Eco Channelling Delivery\u2019",
+    "file_name": "/tmp/news_lk2/articles/98/989875fb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Baurs-commemorates-125th-anniversary-with-series-of-community-service-initiatives/34-737571",
+    "time_ut": 1657911635,
+    "original_lang": "en",
+    "original_title": "Baurs commemorates 125th anniversary with series of community service initiatives",
+    "file_name": "/tmp/news_lk2/articles/23/237eb95e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Alumex-first-in-Sri-Lanka-to-commit-to-Aluminium-Stewardship-Initiative-for-sustainable-society/34-737570",
+    "time_ut": 1657911576,
+    "original_lang": "en",
+    "original_title": "Alumex first in Sri Lanka to commit to Aluminium Stewardship Initiative for sustainable society",
+    "file_name": "/tmp/news_lk2/articles/94/94404768.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/The-Best-Corporate-Citizen-Sustainability-Awards-2022/34-737569",
+    "time_ut": 1657911517,
+    "original_lang": "en",
+    "original_title": "The Best Corporate Citizen Sustainability Awards 2022",
+    "file_name": "/tmp/news_lk2/articles/0c/0c75ebf7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/New-online-platform-to-redefine-recruitment-in-Sri-Lanka/34-737568",
+    "time_ut": 1657911510,
+    "original_lang": "en",
+    "original_title": "New online platform to redefine recruitment in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/1a/1ac01c7d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Supreme-Court-issues-travel-ban-on-Mahinda-Basil/56-737567",
+    "time_ut": 1657911491,
+    "original_lang": "en",
+    "original_title": "Supreme Court issues travel ban on Mahinda, Basil",
+    "file_name": "/tmp/news_lk2/articles/d3/d3bf0c97.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Japan-extends-sincere-appreciation-to-SL-friends-for-their-sorrow-on-demise-of-former-PM/56-737566",
+    "time_ut": 1657911392,
+    "original_lang": "en",
+    "original_title": "Japan extends sincere appreciation to SL friends for their sorrow on demise of former PM",
+    "file_name": "/tmp/news_lk2/articles/01/01c3ec4f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kuwait-Humanitarian-and-Friendship-Society-donates-10-000-worth-medical-items/56-737565",
+    "time_ut": 1657911313,
+    "original_lang": "en",
+    "original_title": "Kuwait Humanitarian and Friendship Society donates $ 10,000 worth medical items",
+    "file_name": "/tmp/news_lk2/articles/81/81515ead.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Deputy-High-Commissioner-of-Sri-Lanka-in-Chennai-meets-Chief-Minister-and-Governor-of-Kerala/56-737564",
+    "time_ut": 1657911268,
+    "original_lang": "en",
+    "original_title": "Deputy High Commissioner of Sri Lanka in Chennai meets Chief Minister and Governor of Kerala",
+    "file_name": "/tmp/news_lk2/articles/0d/0d33120f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/The-procedure-for-election-of-new-President-by-Parliament/56-737563",
+    "time_ut": 1657911216,
+    "original_lang": "en",
+    "original_title": "The procedure for election of new President by Parliament",
+    "file_name": "/tmp/news_lk2/articles/9a/9ab24582.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Postcard-from-Sri-Lanka/4-737556",
+    "time_ut": 1657910270,
+    "original_lang": "en",
+    "original_title": "Postcard from Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/7b/7b585cfd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Time-to-put-Sri-Lanka-first/4-737555",
     "time_ut": 1657910031,
     "original_lang": "en",
@@ -22,6 +110,30 @@
     "original_lang": "en",
     "original_title": "In Sri Lanka, no quiet after the storm",
     "file_name": "/tmp/news_lk2/articles/32/326d2547.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Pusswedilla-s-take-on-Ranil-speech/14-737552",
+    "time_ut": 1657909741,
+    "original_lang": "en",
+    "original_title": "Pusswedilla\u2019s take on Ranil speech",
+    "file_name": "/tmp/news_lk2/articles/6e/6eb0e895.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Aragalaya-and-the-Parliament/4-737551",
+    "time_ut": 1657909578,
+    "original_lang": "en",
+    "original_title": "Aragalaya and the Parliament",
+    "file_name": "/tmp/news_lk2/articles/6f/6f836c62.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/GROBR-and-next-phase-of-Aragalaya/4-737550",
+    "time_ut": 1657909409,
+    "original_lang": "en",
+    "original_title": "GROBR and next phase of Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/d3/d32703f6.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -48,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/31/31df3e15.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/The-need-to-appoint-an-independent-president-and-its-process/4-737541",
+    "time_ut": 1657905485,
+    "original_lang": "en",
+    "original_title": "The need to appoint an independent president and its process",
+    "file_name": "/tmp/news_lk2/articles/76/76010c0c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/15/sajith-to-contest-for-presidency/",
     "time_ut": 1657905360,
@@ -70,6 +190,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0bb5\u0bb3\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/05/054aa0e3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131549",
+    "time_ut": 1657903288,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/4a/4a8eb8c6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
