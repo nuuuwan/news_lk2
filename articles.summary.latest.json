@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0ddd\u0db7\u0dd2\u0dad-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0ddd-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0d9f\u0dc0\u0dad\u0dd2/1-616493",
+    "time_ut": 1657906374,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0ddd\u0db7\u0dd2\u0dad \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0ddd \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0d9f\u0dc0\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/92/920de4b5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Damage-caused-to-Presidents-House/342-241175",
+    "time_ut": 1657906036,
+    "original_lang": "en",
+    "original_title": "Damage caused to President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/31/31df3e15.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/15/sajith-to-contest-for-presidency/",
     "time_ut": 1657905360,
@@ -30,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4, \u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1 \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0ba4\u0b9f\u0bc8-",
     "file_name": "/tmp/news_lk2/articles/53/53c78e89.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131551",
+    "time_ut": 1657902952,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf  \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1  - \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/fc/fc0b7ed8.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -81,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Damage-caused-to-Temple-Trees/110-241174",
+    "url": "https://www.dailymirror.lk/latest_news/Damage-caused-to-Temple-Trees/342-241174",
     "time_ut": 1657899874,
     "original_lang": "en",
     "original_title": "Damage caused to Temple Trees",
-    "file_name": "/tmp/news_lk2/articles/41/4173f9fc.json"
+    "file_name": "/tmp/news_lk2/articles/98/982fd9a1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLAF denies reports that President staying at Air Chief\u2019s private residence",
     "file_name": "/tmp/news_lk2/articles/c8/c8a3c437.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0d9c\u0dd0\u0db1-\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca-\u0db1\u0dd1/101-616298",
-    "time_ut": 1657617079,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0d9c\u0dd0\u0db1 \u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/ea/ea591a51.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4-\u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0bae\u0ba9\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-300257",
-    "time_ut": 1657616780,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4, \u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bae\u0ba9\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/ed/ed66ecf5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83600/sc-order-sought-barring-mahinda-basil-cabraal-and-more-from-leaving-country",
-    "time_ut": 1657616760,
-    "original_lang": "en",
-    "original_title": "SC order sought barring Mahinda, Basil, Cabraal and more from leaving country",
-    "file_name": "/tmp/news_lk2/articles/e5/e5041f71.json"
   }
 ]
