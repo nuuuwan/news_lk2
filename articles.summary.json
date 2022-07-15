@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87\u0bb0\u0bbe\u0b95\u0bb2\u0bc8-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0ba4\u0bc0-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-300477",
+    "time_ut": 1657884078,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0b95\u0bb2\u0bc8 \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0ba4\u0bc0 ; \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ca/ca5747ea.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/101-616473",
     "time_ut": 1657883618,
@@ -9,11 +17,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83671/sc-issues-travel-ban-on-mahinda-and-basil",
+    "url": "http://www.adaderana.lk/news/83671/sc-issues-temporary-travel-ban-on-mahinda-and-basil",
     "time_ut": 1657883340,
     "original_lang": "en",
-    "original_title": "SC issues travel ban on Mahinda and Basil",
-    "file_name": "/tmp/news_lk2/articles/4e/4eaeeca4.json"
+    "original_title": "SC issues temporary travel ban on Mahinda and Basil",
+    "file_name": "/tmp/news_lk2/articles/74/743ad3f1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/slpp-to-support-ranil-for-president/",
+    "time_ut": 1657883280,
+    "original_lang": "en",
+    "original_title": "SLPP to support Ranil for President",
+    "file_name": "/tmp/news_lk2/articles/7f/7fa2bafe.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -22,6 +38,14 @@
     "original_lang": "en",
     "original_title": "SLPP to support RW",
     "file_name": "/tmp/news_lk2/articles/da/da874236.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/supreme-court-prevents-mahinda-and-basil-from-going-overseas/",
+    "time_ut": 1657882860,
+    "original_lang": "en",
+    "original_title": "Supreme Court prevents Mahinda and Basil from going overseas",
+    "file_name": "/tmp/news_lk2/articles/12/121729d0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
