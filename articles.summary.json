@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83658/ranil-to-swear-in-as-acting-president-today",
+    "time_ut": 1657853520,
+    "original_lang": "en",
+    "original_title": "Ranil to swear in as Acting President today",
+    "file_name": "/tmp/news_lk2/articles/a2/a2f7bc4b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb-\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/1-616430",
+    "time_ut": 1657853463,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb,\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3d/3db4b000.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131486",
+    "time_ut": 1657851732,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf !",
+    "file_name": "/tmp/news_lk2/articles/23/23fe1dbf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83657/strong-winds-expected-in-parts-of-the-island",
+    "time_ut": 1657851300,
+    "original_lang": "en",
+    "original_title": "Strong winds expected in parts of the island",
+    "file_name": "/tmp/news_lk2/articles/94/949a0e6a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131485",
+    "time_ut": 1657850982,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd - \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/ec/ec7dc79d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131484",
+    "time_ut": 1657850447,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb0\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d1/d176fed5.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-local-currency-rating-under-observation-fitch-97446/",
+    "time_ut": 1657850400,
+    "original_lang": "en",
+    "original_title": "Sri Lanka local currency rating under observation: Fitch",
+    "file_name": "/tmp/news_lk2/articles/76/763cdd93.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-300453",
     "time_ut": 1657848335,
@@ -216,6 +272,14 @@
     "file_name": "/tmp/news_lk2/articles/56/5645c408.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u2019\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u2019-\u0dba\u0db1-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2\u0dba\u0dd2/11-395440",
+    "time_ut": 1657819951,
+    "original_lang": "si",
+    "original_title": "\u2019\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u2019 \u0dba\u0db1 \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/eb/ebe88676.json"
+  },
+  {
     "newspaper_id": "island-lk",
     "url": "http://island.lk/slt-mobitel-esports-platform-delivers-thrilling-and-rewarding-gaming-experience/",
     "time_ut": 1657817280,
@@ -254,6 +318,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
     "file_name": "/tmp/news_lk2/articles/19/19abafaf.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78579",
+    "time_ut": 1657816440,
+    "original_lang": "en",
+    "original_title": "Rajanayagam: From Trotskyite Lawyer  to \u201cTamil Times\u201d Editor.",
+    "file_name": "/tmp/news_lk2/articles/cb/cb1d1c1b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
