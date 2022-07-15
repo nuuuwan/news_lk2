@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd-\u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-300450",
+    "time_ut": 1657842853,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd\u2019 \u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/3c/3c276f91.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/The-aragalaya-must-return-to-Galle-Face-EDITORIAL/231-241105",
     "time_ut": 1657833369,
@@ -142,6 +150,14 @@
     "original_lang": "en",
     "original_title": "Katubedda shooting: Three-wheeler used by gunman to flee seized",
     "file_name": "/tmp/news_lk2/articles/8a/8a3e4aca.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/business-as-usual-at-hambantota-port/",
+    "time_ut": 1657822020,
+    "original_lang": "en",
+    "original_title": "Business as usual at Hambantota Port",
+    "file_name": "/tmp/news_lk2/articles/71/718f669a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1270,6 +1286,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 : \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd - \u0b9c\u0bc6\u0baf\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/14/1480b71c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/terrorism-radicalisation-and-need-for-bread/",
+    "time_ut": 1657782480,
+    "original_lang": "en",
+    "original_title": "Terrorism, radicalisation and need for Bread",
+    "file_name": "/tmp/news_lk2/articles/04/0451a72e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u201d\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u201d  \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/17/1729cc67.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83582/immigration-emigration-depts-kurunegala-office-begins-one-day-service-for-passports",
-    "time_ut": 1657534080,
-    "original_lang": "en",
-    "original_title": "Immigration & Emigration Dept\u2019s Kurunegala office begins one day service for passports",
-    "file_name": "/tmp/news_lk2/articles/e0/e02043a8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/11/opposition-ready-to-appoint-new-government-sajith/",
-    "time_ut": 1657534020,
-    "original_lang": "en",
-    "original_title": "Opposition Ready to appoint new government \u2013 Sajith",
-    "file_name": "/tmp/news_lk2/articles/a9/a9a35409.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/11/sri-lanka-declares-12th-july-a-day-of-mourning-for-death-of-shinzo-abe-2/",
-    "time_ut": 1657533780,
-    "original_lang": "en",
-    "original_title": "Sri Lanka declares 12th July a Day of Mourning for death of Shinzo Abe",
-    "file_name": "/tmp/news_lk2/articles/e1/e11bda6b.json"
   }
 ]
