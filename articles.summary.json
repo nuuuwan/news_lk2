@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131499",
+    "time_ut": 1657858718,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd - \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd\u0b9a\u0baa\u0bc8 \u0b95\u0bb5\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/b6/b60ccedc.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-7-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300459",
+    "time_ut": 1657858673,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 7 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf - \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a7/a7a76f9e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0dda\u0dbb\u0dd3\u0db8-\u0daf\u0dd2\u0db1-\u0dc4\u0dad\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad/101-616435",
+    "time_ut": 1657858249,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0dda\u0dbb\u0dd3\u0db8 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad",
+    "file_name": "/tmp/news_lk2/articles/55/55a4b92f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131497",
+    "time_ut": 1657858029,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd : \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d9/d9b2610c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300458",
+    "time_ut": 1657858022,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u2013 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e9/e92a70f4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-gotabaya-rajapaksa-officially-resigns-speaker-97455/",
+    "time_ut": 1657857840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President Gotabaya Rajapaksa officially resigns: Speaker",
+    "file_name": "/tmp/news_lk2/articles/fd/fd818240.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83660/gotabaya-rajapaksa-officially-resigns-as-president-of-sri-lanka",
+    "time_ut": 1657857480,
+    "original_lang": "en",
+    "original_title": "Gotabaya Rajapaksa officially resigns as President of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/fd/fdff5189.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/GOTABAYA-RAJAPAKSA-RESIGNS/342-241125",
+    "time_ut": 1657857412,
+    "original_lang": "en",
+    "original_title": "GOTABAYA RAJAPAKSA RESIGNS",
+    "file_name": "/tmp/news_lk2/articles/0e/0e81e71f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/sri-lanka-president-gotabaya-has-officially-stepped-down/",
+    "time_ut": 1657857300,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: President Gotabaya has officially stepped down",
+    "file_name": "/tmp/news_lk2/articles/b1/b17453ec.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131495",
+    "time_ut": 1657856796,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bb5\u0bc1\u0bae\u0bcd - \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f \u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d1/d1070423.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d85\u0daf-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda/1-616433",
     "time_ut": 1657855690,
@@ -24,12 +104,20 @@
     "file_name": "/tmp/news_lk2/articles/37/37797d05.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/imf-wants-stability-in-sri-lanka-to-resume-talks/",
+    "time_ut": 1657855140,
+    "original_lang": "en",
+    "original_title": "IMF wants stability in Sri Lanka to resume talks",
+    "file_name": "/tmp/news_lk2/articles/15/15cbb99b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-616432",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0ddc\u0dbb-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-616432",
     "time_ut": 1657855108,
     "original_lang": "si",
     "original_title": "\u0dc4\u0ddc\u0dbb \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc3\u0db8\u0d9c \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/db/db37526b.json"
+    "file_name": "/tmp/news_lk2/articles/d3/d30c6161.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -73,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb-\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/1-616430",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb-\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/101-616430",
     "time_ut": 1657853463,
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb,\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3d/3db4b000.json"
+    "file_name": "/tmp/news_lk2/articles/85/85d411bd.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -166,6 +254,14 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd\u2019 \u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/3c/3c276f91.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/political-hawks-can-hijack-the-post-aragala-agenda/",
+    "time_ut": 1657837486,
+    "original_lang": "en",
+    "original_title": "Political Hawks Can Hijack The Post-Aragala Agenda!",
+    "file_name": "/tmp/news_lk2/articles/79/79b70180.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -2422,6 +2518,14 @@
     "original_lang": "en",
     "original_title": "Fleeing Gotabaya faces protests in Maldives",
     "file_name": "/tmp/news_lk2/articles/c1/c13e2ef3.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-destiny-of-chinas-colony-of-sri-lanka/",
+    "time_ut": 1657751703,
+    "original_lang": "en",
+    "original_title": "The Destiny Of China\u2019s Colony Of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/99/99ea98e8.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
