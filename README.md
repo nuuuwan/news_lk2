@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 23:36:03 (LK time)*
+*As of 2022-07-15 23:46:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
@@ -16,33 +16,29 @@
 
 * **1** daily-mirror-lk ([Damage caused to President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31df3e15.json))
 
-* **1** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
+## Last 3 Hours (19 Articles)
 
-## Last 3 Hours (24 Articles)
-
-* **6** lankadeepa-lk ([ජනාධිපති-අගමැති සටනට සමඟි ජන බලවේගයත් එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6bd7f8.json))
+* **5** lankadeepa-lk ([රටවල් හතරක තැපැල් භාණ්ඩ භාරගැනීම නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4abea68.json))
 
 * **5** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **3** daily-mirror-lk ([Postal services temporarily suspended for four countries](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a909d189.json))
+* **2** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
-* **3** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
-
-* **3** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
+* **2** news-first-lk ([SLPP must support candidate fielded by the party: G.L. Peiris](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9137c8c.json))
 
 * **2** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
 
+* **2** ada-derana-lk ([Power cut schedule for July 16 and 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e5b2a6.json))
+
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-* **1** ada-lk ([ඩීසල් මෙට්‍රික් ටොන් 40000ක් අද දිවයිනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a07a6c.json))
-
-## Last 24 Hours (228 Articles)
+## Last 24 Hours (226 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **35** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
-* **27** daily-mirror-lk ([Election the only solution to fulfil people’s true aspirations: JVP reiterates](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d269d19.json))
+* **26** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 * **25** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
 
@@ -62,9 +58,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7a9db20.json))
 
-* **1** island-lk ([Business as usual at Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f669a.json))
-
-## Last Week (1,424 Articles)
+## Last Week (1,423 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -80,7 +74,7 @@
 
 * **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **86** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
+* **85** daily-ft-lk ([Lionising the Lion City](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffa87461.json))
 
 * **76** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
