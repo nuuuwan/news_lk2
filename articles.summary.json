@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019/101-616461",
+    "time_ut": 1657869696,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/92/923b3143.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Firm-solutions-imperative-to-overcome-present-political-instability-GMOA/108-241156",
+    "time_ut": 1657869277,
+    "original_lang": "en",
+    "original_title": "Firm solutions imperative to overcome present political instability: GMOA",
+    "file_name": "/tmp/news_lk2/articles/0d/0d9d4206.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87-\u0ba4\u0bca-\u0b95\u0bbe-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd-\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8-\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/76-300466",
+    "time_ut": 1657868914,
+    "original_lang": "ta",
+    "original_title": "\u0b87.\u0ba4\u0bca.\u0b95\u0bbe \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd: \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd: \u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8 \u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ea/eae6fdc6.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87-\u0ba4\u0bca-\u0b95\u0bbe-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd-\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/76-300466",
     "time_ut": 1657868914,
@@ -24,12 +48,12 @@
     "file_name": "/tmp/news_lk2/articles/55/551dab10.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83663/ranil-wickremesinghe-sworn-in-as-acting-president",
-    "time_ut": 1657868640,
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/ranil-takes-oaths-as-acting-president/",
+    "time_ut": 1657868760,
     "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe sworn in as Acting President",
-    "file_name": "/tmp/news_lk2/articles/0b/0beaded5.json"
+    "original_title": "Ranil takes oaths as Acting President",
+    "file_name": "/tmp/news_lk2/articles/1d/1d71a106.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -38,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b1/b1f566ba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Acting-President/108-241155",
+    "time_ut": 1657868522,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe sworn in as Acting President",
+    "file_name": "/tmp/news_lk2/articles/f4/f4344797.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -54,6 +86,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/53/53327004.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/litro-continues-lp-gas-distribution/",
+    "time_ut": 1657867920,
+    "original_lang": "en",
+    "original_title": "Litro continues LP Gas distribution",
+    "file_name": "/tmp/news_lk2/articles/eb/eba45207.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -121,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dad\u0dcf-\u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3-\u0dc4\u0dd2\u0db1\u0dcf\u0dc0-\u0d95\u0db1\u0dd1:-\u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0da9/1-616457",
+    "url": "https://www.lankadeepa.lk/world_news/\u0da2\u0db1\u0dad\u0dcf-\u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3-\u0dc4\u0dd2\u0db1\u0dcf\u0dc0-\u0d95\u0db1\u0dd1:-\u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0da9/14-616457",
     "time_ut": 1657865648,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dc4\u0dd2\u0db1\u0dcf\u0dc0 \u0d95\u0db1\u0dd1: \u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca \u0daf\u0da9",
-    "file_name": "/tmp/news_lk2/articles/71/7144831e.json"
+    "file_name": "/tmp/news_lk2/articles/13/13d327bd.json"
   },
   {
     "newspaper_id": "virakesari-lk",
