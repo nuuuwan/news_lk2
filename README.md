@@ -1,38 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 22:46:28 (LK time)*
+*As of 2022-07-15 23:01:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** virakesari-lk ([புதிய ஜனாதிபதி தேர்வில் சஜித்தும் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/522a3db2.json))
+* **1** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
 
 ## Last Hour (5 Articles)
 
 * **3** virakesari-lk ([மஹிந்த, பசில் நாட்டிலிருந்து வெளியேற இடைக்கால தடை-](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c78e89.json))
 
+* **1** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
+
 * **1** lankadeepa-lk ([වැඩබලන ජනපතිට මහා සංඝරත්නයේ ආශිර්වාද](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c039ff02.json))
 
-* **1** economy-next-com ([Yields in Sri Lanka’s govt securities fall after President Gotabaya resigns](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74bf38e6.json))
+## Last 3 Hours (23 Articles)
 
-## Last 3 Hours (24 Articles)
-
-* **8** lankadeepa-lk ([තුවාලකරුවන් බලන්න වැඩබලන ජනපති හමුදා රෝහලට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e47116b3.json))
+* **7** lankadeepa-lk ([ඩීසල් මෙට්‍රික්ටොන් 40,000ක් අද රාත්‍රී කොළඹට ළගාවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa6d618d.json))
 
 * **4** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **4** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01b07e7.json))
+* **3** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
 
 * **3** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
 
-* **2** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
+* **3** daily-mirror-lk ([China to play positive role in supporting SL: Wang  Wenbin](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b53a6.json))
 
-* **2** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
+* **2** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
 
 * **1** ada-lk ([ඩීසල් මෙට්‍රික් ටොන් 40000ක් අද දිවයිනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a07a6c.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (227 Articles)
 
 * **43** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
@@ -42,7 +42,7 @@
 
 * **25** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
 
-* **22** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
+* **23** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
 * **21** ada-lk ([’ජනපති ධුරයෙන් ඉවත්වීම’ යන ලිපිය ව්‍යාජයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe88676.json))
 
@@ -74,13 +74,13 @@
 
 * **120** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **116** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
+* **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **86** daily-ft-lk ([D-Day and a new dawn?](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2153ff80.json))
 
 * **76** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
-* **46** island-lk ([Hobson’s choice for govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3ad81a.json))
+* **45** island-lk ([Ceylon Government Railway – when the Burghers ruled the roost](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a7191f9.json))
 
 * **42** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
 
@@ -88,7 +88,7 @@
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,779 Articles)
+## All Time (1,780 Articles)
 
 * **271** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -106,7 +106,7 @@
 
 * **120** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **116** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
+* **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **96** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
