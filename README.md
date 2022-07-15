@@ -1,28 +1,40 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 02:00:09 (LK time)*
+*As of 2022-07-16 02:19:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (25 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **2** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+
+* **1** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
+
+## Last Hour (3 Articles)
+
+* **2** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+
+* **1** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
+
+## Last 3 Hours (27 Articles)
 
 * **22** daily-ft-lk ([GROBR and next phase of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32703f6.json))
 
-* **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
+* **2** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+
+* **2** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-* **1** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920de4b5.json))
-
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (238 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **36** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
-* **26** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
+* **28** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
-* **24** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
+* **25** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
@@ -38,11 +50,11 @@
 
 * **2** colombo-telegraph-com ([Transfer Of Formal Power Vs People Power During Societal Transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fc66ad.json))
 
-## Last Week (1,423 Articles)
+## Last Week (1,426 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **189** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
+* **191** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
 * **189** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
@@ -50,7 +62,7 @@
 
 * **139** ada-lk ([විදෙස් මුදල් තැන්පත් කිරීමට දුන් සමාකාලයට සති දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7880ac84.json))
 
-* **121** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **122** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
@@ -66,11 +78,11 @@
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,809 Articles)
+## All Time (1,812 Articles)
 
 * **272** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **241** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **243** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **197** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -82,7 +94,7 @@
 
 * **129** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **121** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **122** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
