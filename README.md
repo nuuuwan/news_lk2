@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 05:33:18 (LK time)*
+*As of 2022-07-15 06:06:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
 ## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
-## Last 3 Hours (4 Articles)
-
-* **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
+## Last 3 Hours (1 Articles)
 
 * **1** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
-## Last 24 Hours (272 Articles)
+## Last 24 Hours (268 Articles)
 
-* **40** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
+* **41** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
 * **39** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
@@ -34,11 +28,11 @@
 
 * **24** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
 
-* **20** daily-ft-lk ([First Asian President of CIMA Melanie speaks of way forward](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c67064c.json))
-
 * **17** economy-next-com ([Sri Lanka curfew ends after overnight battles near parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8786fd0d.json))
 
-* **5** island-lk ([Terrorism, radicalisation and need for Bread](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0451a72e.json))
+* **14** daily-ft-lk ([End casino capitalism: Sri Lanka to join global minimum tax agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1a15fd.json))
+
+* **6** island-lk ([Terrorism, radicalisation and need for Bread](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0451a72e.json))
 
 * **4** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
@@ -46,13 +40,13 @@
 
 * **2** b-b-c-com-sinhala (['ජනපති ඉල්ලා අස්වීමේ ලිපිය නොදෙන්නේ නම් ධුරය හැරගියා සේ සලකනවා' - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f2cd72c.json))
 
-## Last Week (1,221 Articles)
+## Last Week (1,223 Articles)
 
 * **166** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
 * **165** lankadeepa-lk ([අපහාස නීතිය අලු‍ත්කිරීම කාලෝචිතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbedb8e4.json))
 
-* **151** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **152** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **141** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -66,7 +60,7 @@
 
 * **68** economy-next-com ([Sri Lanka top five SOEs lose Rs931bn amid monetary instability](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11544ebc.json))
 
-* **45** island-lk ([Hobson’s choice for govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3ad81a.json))
+* **46** island-lk ([Hobson’s choice for govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3ad81a.json))
 
 * **40** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
 
@@ -74,7 +68,7 @@
 
 * **23** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,569 Articles)
+## All Time (1,571 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +76,7 @@
 
 * **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **151** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **152** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **141** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -96,7 +90,7 @@
 
 * **86** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **58** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **59** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **36** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
