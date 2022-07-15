@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83672/imf-hopes-to-soon-resume-sri-lanka-high-level-discussions",
+    "time_ut": 1657894320,
+    "original_lang": "en",
+    "original_title": "IMF hopes to soon resume Sri Lanka high-level discussions",
+    "file_name": "/tmp/news_lk2/articles/ce/ceca5915.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb-\u0d9c\u0dad\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dba-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/101-616479",
+    "time_ut": 1657894228,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dad\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0dba \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/0a/0af978bc.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-jump-to-3-wk-high-on-political-stability-hope-after-pm-takes-charge-97469/",
+    "time_ut": 1657894020,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks jump to 3-wk high on political stability hope after PM takes charge",
+    "file_name": "/tmp/news_lk2/articles/6c/6c48aadb.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/15/political-stability-is-paramount-cbsl-chief/",
     "time_ut": 1657893300,
@@ -41,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0d9a\u0dbb\u0dbd\u0dcf/1-616478",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0d9a\u0dbb\u0dbd\u0dcf/101-616478",
     "time_ut": 1657891108,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7 \u0dc4\u0dcf\u0db1\u0dd2 \u0d9a\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/b6/b68e7c8f.json"
+    "file_name": "/tmp/news_lk2/articles/98/98a1bf31.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Motion filed in Supreme Court urging to impose travel ban on MR, Basil, Cabraal and Atygalle",
     "file_name": "/tmp/news_lk2/articles/86/86cdb4d5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf-\u0dba\u0db1\u0dca\u0db1-\u0dc3\u0dd2\u0da7\u0dd2-17\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-616293",
-    "time_ut": 1657609706,
-    "original_lang": "si",
-    "original_title": "\u0d95\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf \u0dba\u0db1\u0dca\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 17\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/1c/1c15640b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78528",
-    "time_ut": 1657609560,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday",
-    "file_name": "/tmp/news_lk2/articles/0c/0cf87a7d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83597/un-chief-calls-for-dialogue-to-ensure-smooth-govt-transition-in-sri-lanka",
-    "time_ut": 1657609260,
-    "original_lang": "en",
-    "original_title": "UN chief calls for dialogue to ensure smooth govt transition in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/9d/9d0c5c62.json"
   }
 ]
