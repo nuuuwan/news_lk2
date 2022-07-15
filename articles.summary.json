@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-shares-gain-in-mid-day-trade-97461/",
+    "time_ut": 1657865940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka shares gain in mid-day trade",
+    "file_name": "/tmp/news_lk2/articles/aa/aac8c8ff.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0db8\u0dc4\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/1-616458",
+    "time_ut": 1657865704,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0dc4\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/97/97b8daa0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dad\u0dcf-\u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3-\u0dc4\u0dd2\u0db1\u0dcf\u0dc0-\u0d95\u0db1\u0dd1:-\u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0da9/1-616457",
     "time_ut": 1657865648,
@@ -22,6 +38,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb2\u0bbf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0bb8\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f6/f6aaa296.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/vacant-presidency-parliament-procedure-for-election-of-president/",
+    "time_ut": 1657864920,
+    "original_lang": "en",
+    "original_title": "Vacant Presidency? Parliament procedure for election of President",
+    "file_name": "/tmp/news_lk2/articles/0f/0f28a9e3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
