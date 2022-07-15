@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83674/power-cut-schedule-for-july-16-and-17",
+    "time_ut": 1657900980,
+    "original_lang": "en",
+    "original_title": "Power cut schedule for July 16 and 17",
+    "file_name": "/tmp/news_lk2/articles/13/13e5b2a6.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Damage-caused-to-Temple-Trees/110-241174",
     "time_ut": 1657899874,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 : \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b9/b96637b3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d87\u0dab-\u0dc4\u0dd2\u0da7\u0dd2\u0db1-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4/1-616295",
-    "time_ut": 1657613342,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d87\u0dab \u0dc4\u0dd2\u0da7\u0dd2\u0db1 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/a1/a1caf731.json"
   }
 ]
