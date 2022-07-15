@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sajith-to-contest-for-presidency/342-241167",
+    "time_ut": 1657895082,
+    "original_lang": "en",
+    "original_title": "Sajith to contest for presidency",
+    "file_name": "/tmp/news_lk2/articles/92/925e2543.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/1-616480",
+    "time_ut": 1657894752,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/6b/6b95e9c4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83672/imf-hopes-to-soon-resume-sri-lanka-high-level-discussions",
     "time_ut": 1657894320,
@@ -73,19 +89,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/101-616477",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-616477",
     "time_ut": 1657890805,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e7048db5.json"
+    "file_name": "/tmp/news_lk2/articles/01/0183ced1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1/101-616476",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1/1-616476",
     "time_ut": 1657890193,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8 \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/4c/4c3492a5.json"
+    "file_name": "/tmp/news_lk2/articles/8b/8b32970c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -185,11 +201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/101-616473",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/1-616473",
     "time_ut": 1657883618,
     "original_lang": "si",
     "original_title": "\u0dbb\u0ddd\u0daf \u0dad\u0dd4\u0db1\u0dda \u0d9c\u0db8\u0db1 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dab\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/36/366c75d1.json"
+    "file_name": "/tmp/news_lk2/articles/af/af34b394.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "An Open Letter Requesting  Kumar Sangakkara To Assume The Leadership Of Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/43/4367107c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-wont-welcome-corrupt-politicians-to-SJB-led-multi-party-govt-Tissa-Attanyake/108-240909",
-    "time_ut": 1657610641,
-    "original_lang": "en",
-    "original_title": "SJB won\u2019t welcome corrupt politicians to SJB led multi-party-govt: Tissa Attanyake",
-    "file_name": "/tmp/news_lk2/articles/e8/e84434c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Motion-filed-in-Supreme-Court-urging-to-impose-travel-ban-on-MR-Basil-Cabraal-and-Atygalle/342-240908",
-    "time_ut": 1657610336,
-    "original_lang": "en",
-    "original_title": "Motion filed in Supreme Court urging to impose travel ban on MR, Basil, Cabraal and Atygalle",
-    "file_name": "/tmp/news_lk2/articles/86/86cdb4d5.json"
   }
 ]
