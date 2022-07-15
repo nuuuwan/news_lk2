@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f-\u0baa\u0bcb\u0bb5\u0ba4\u0bbe\u0b95-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300501",
+    "time_ut": 1657907514,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f \u0baa\u0bcb\u0bb5\u0ba4\u0bbe\u0b95 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ea/ea942148.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0ddd\u0db7\u0dd2\u0dad-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0ddd-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0d9f\u0dc0\u0dad\u0dd2/1-616493",
     "time_ut": 1657906374,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0dbb\u0dc5\u0db6\u0da9 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dc0\u0dc3\u0db8\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/cd/cdc7a2c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SLAF-denies-reports-that-President-staying-at-Air-Chiefs-private-residence/108-240917",
-    "time_ut": 1657617525,
-    "original_lang": "en",
-    "original_title": "SLAF denies reports that President staying at Air Chief\u2019s private residence",
-    "file_name": "/tmp/news_lk2/articles/c8/c8a3c437.json"
   }
 ]
