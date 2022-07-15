@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 03:31:30 (LK time)*
+*As of 2022-07-16 03:42:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
-
-* **5** daily-ft-lk ([Singhagiri celebrates Golden Jubilee](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46c78cfe.json))
+## Last 3 Hours (5 Articles)
 
 * **3** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
 * **2** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
-## Last 24 Hours (236 Articles)
+## Last 24 Hours (237 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
-* **37** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
+* **38** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **26** daily-mirror-lk ([Urea under Indian credit line arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91ef8541.json))
 
@@ -36,13 +34,13 @@
 
 * **1** colombo-telegraph-com ([Political Hawks Can Hijack The Post-Aragala Agenda!](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79b70180.json))
 
-## Last Week (1,425 Articles)
+## Last Week (1,426 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **190** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
+* **191** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **190** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **190** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
 * **160** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -64,7 +62,7 @@
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,814 Articles)
+## All Time (1,815 Articles)
 
 * **272** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -72,7 +70,7 @@
 
 * **197** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **190** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **191** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **160** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
