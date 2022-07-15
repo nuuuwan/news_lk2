@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 01:47:03 (LK time)*
+*As of 2022-07-16 02:00:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (25 Articles)
 
-* **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
+* **22** daily-ft-lk ([GROBR and next phase of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32703f6.json))
 
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
@@ -14,9 +14,7 @@
 
 * **1** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920de4b5.json))
 
-* **1** daily-mirror-lk ([Damage caused to President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31df3e15.json))
-
-## Last 24 Hours (236 Articles)
+## Last 24 Hours (235 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
@@ -34,7 +32,7 @@
 
 * **20** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
-* **11** economy-next-com ([Sri Lanka shares down after violent clashes amid political unrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b855bcb6.json))
+* **10** economy-next-com ([Sri Lanka local currency rating under observation: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763cdd93.json))
 
 * **7** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය: පවතින දේශපාලන අස්ථාවරභාවය ආර්ථිකයට බලපාන්නේ කොහොමද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c900839f.json))
 
