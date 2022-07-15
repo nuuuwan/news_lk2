@@ -1,56 +1,50 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 18:05:42 (LK time)*
+*As of 2022-07-15 18:29:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (3 Articles)
 
 * **1** lankadeepa-lk ([පොහොට්ටුවේ සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aac4cb4a.json))
 
-## Last Hour (6 Articles)
-
-* **2** lankadeepa-lk ([මහින්දට-බැසිල්ට 28තෙක් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8615af57.json))
-
-* **2** tamil-mirror-lk ([மஹிந்த, பெசில் வெளிநாடு செல்ல தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43672fbd.json))
+* **1** tamil-mirror-lk ([ரணிலுக்கு மொட்டு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd3e9987.json))
 
 * **1** news-first-lk ([FUTA wants Ranil to step down & NOT contest election in Parliament for President](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7ddb4ed8.json))
 
-* **1** daily-mirror-lk ([China will agree to US$4 billion aid for Sri Lanka ’at some point’: Kohona](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b5bf22a.json))
+## Last 3 Hours (30 Articles)
 
-## Last 3 Hours (34 Articles)
-
-* **9** lankadeepa-lk ([ජනපති තෝරන කාලයේදී පාර්ලිමේන්තුවට විශේෂ ආරක්ෂාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a07c22d9.json))
+* **8** lankadeepa-lk ([’’කැරලිකරුවන්ට එරෙහිව නීතිය ක්‍රියාත්මක කරනවා’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f20b945d.json))
 
 * **6** ada-derana-lk ([Sri Lanka faces shutdown without stable govt: CBSL governor warns](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ecb6a23.json))
 
 * **5** news-first-lk ([Dullas ready to contest for vacant post of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ecd5615.json))
 
-* **4** virakesari-lk ([அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் மனித உரிமை ஆணைக்குழு விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/319327a4.json))
-
 * **3** tamil-mirror-lk ([இராகலை வீட்டில் திடீர் தீ ; மூவர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca5747ea.json))
 
 * **3** daily-mirror-lk ([MR and Basil prevented from leaving SL until July 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ca005a4.json))
 
-* **2** ada-lk ([ජනපති හැදින්වීමට අතිගරු බෑ - ජනපති කොඩියත් මින් පසු නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d486417.json))
+* **3** virakesari-lk ([ரஷ்ய ஏரோபுளொட்  விமான விவகார வழக்கு தள்ளுபடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c516fe40.json))
 
-* **2** economy-next-com ([Sri Lanka acting president vows to restore 19th amendment, establish law & order](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e768c9c.json))
+* **1** ada-lk ([වැඩබලන ජනපතිගේ ප්‍රධානත්වයෙන් පළමු කැබිනට් රැස්වීම අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/072ca189.json))
 
-## Last 24 Hours (244 Articles)
+* **1** economy-next-com ([Sri Lanka risk free govt security rates fall on political stability hopes](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/294ea4a4.json))
 
-* **41** lankadeepa-lk ([නව අග්‍රාමාත්‍යධුරය: විපක්ෂයේ යෝජිත නම හෙට එළියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aece7d9.json))
+## Last 24 Hours (239 Articles)
+
+* **39** lankadeepa-lk ([පැය 72 කින් විසඳුමක් නැත්නම් වෘත්තීය සමිති අරගලයට එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/016e2ceb.json))
 
 * **37** virakesari-lk ([முல்லைத்தீவு குருந்தூர் மலையில் அமைக்கப்பட்ட விகாரை உள்ளிட்ட அனைத்து கட்டுமானங்களை அகற்றுமாறு நீதிமன்றம் அதிரடி உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95e07c9b.json))
-
-* **26** tamil-mirror-lk ([இலங்கையில் டுவிட்டருக்கு என்ன ஆனது?](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1cb4b6c.json))
 
 * **26** daily-mirror-lk ([Singapore confirms Prez arrives there](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77758e7e.json))
 
 * **26** ada-derana-lk ([Sri Lanka President on private visit, not granted asylum: Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a054e981.json))
 
-* **26** ada-lk ([දළදා තේවා කටයුතු මල්වත්තෙන් අස්ගිරියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1e6b57.json))
+* **25** tamil-mirror-lk ([சிங்கப்பூரில் கோட்டாபய அடைக்கலம் கோரவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aae2b9b2.json))
 
-* **19** news-first-lk ([President Gotabaya was NOT granted asylum: Singapore Foreign Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e748b3cb.json))
+* **25** ada-lk ([ගෑස් බෙදිමේ කටයුතු පුළුල් කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8c514e.json))
+
+* **18** news-first-lk ([Dayasiri requests CJ to consider that President fled the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7881d7b.json))
 
 * **14** daily-ft-lk ([End casino capitalism: Sri Lanka to join global minimum tax agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1a15fd.json))
 
