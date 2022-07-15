@@ -1,36 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 22:27:50 (LK time)*
+*As of 2022-07-15 22:46:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** virakesari-lk ([புதிய ஜனாதிபதி தேர்வில் சஜித்தும் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/522a3db2.json))
+
+## Last Hour (5 Articles)
 
 * **3** virakesari-lk ([மஹிந்த, பசில் நாட்டிலிருந்து வெளியேற இடைக்கால தடை-](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c78e89.json))
 
 * **1** lankadeepa-lk ([වැඩබලන ජනපතිට මහා සංඝරත්නයේ ආශිර්වාද](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c039ff02.json))
 
-## Last Hour (9 Articles)
+* **1** economy-next-com ([Yields in Sri Lanka’s govt securities fall after President Gotabaya resigns](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74bf38e6.json))
 
-* **3** virakesari-lk ([மஹிந்த, பசில் நாட்டிலிருந்து வெளியேற இடைக்கால தடை-](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c78e89.json))
+## Last 3 Hours (24 Articles)
 
-* **2** lankadeepa-lk ([කටුගහහේන රෝහලෙන් දේව ක්‍රියාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90fa9a0.json))
-
-* **2** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
-
-* **2** ada-derana-lk ([Power cut schedule for July 16 and 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e5b2a6.json))
-
-## Last 3 Hours (27 Articles)
-
-* **9** lankadeepa-lk ([හමුදාවෙන් පැහැර ගත් ගිනි අවි සොයන්න බලය පවරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0af978bc.json))
+* **8** lankadeepa-lk ([තුවාලකරුවන් බලන්න වැඩබලන ජනපති හමුදා රෝහලට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e47116b3.json))
 
 * **4** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **4** ada-derana-lk ([IMF hopes to soon resume Sri Lanka high-level discussions](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceca5915.json))
-
 * **4** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01b07e7.json))
 
-* **3** economy-next-com ([Sri Lanka stocks jump to 3-wk high on political stability hope after PM takes charge](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c48aadb.json))
+* **3** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
+
+* **2** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
 
 * **2** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
 
