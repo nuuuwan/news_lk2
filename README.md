@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 04:28:16 (LK time)*
+*As of 2022-07-16 04:46:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -14,7 +14,7 @@
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
-* **39** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
+* **40** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **26** daily-mirror-lk ([Urea under Indian credit line arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91ef8541.json))
 
@@ -30,13 +30,13 @@
 
 * **10** economy-next-com ([Sri Lanka local currency rating under observation: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763cdd93.json))
 
-* **6** b-b-c-com-sinhala ([ගෝඨාභය රාජපක්ෂ ජනාධිපති ධුරයෙන් ඉල්ලා අස්වීම කතානායක නිල වශයෙන් ප්‍රකාශ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bcdf464.json))
+* **5** b-b-c-com-sinhala (['දේශපාලන බලය අත්හැරීම විරලයි; සැබවින්ම එය දුෂ්කර තීරණයක්'](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ba0f1c.json))
 
-## Last Week (1,427 Articles)
+## Last Week (1,428 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **192** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **193** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **190** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -60,7 +60,7 @@
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,816 Articles)
+## All Time (1,817 Articles)
 
 * **272** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -68,7 +68,7 @@
 
 * **197** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **192** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **193** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **160** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
