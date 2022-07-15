@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 01:09:11 (LK time)*
+*As of 2022-07-16 01:24:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (15 Articles)
+
+* **14** daily-ft-lk ([Deputy High Commissioner of Sri Lanka in Chennai meets Chief Minister and Governor of Kerala](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d33120f.json))
 
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
-## Last Hour (16 Articles)
-
-* **15** daily-ft-lk ([The procedure for election of new President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab24582.json))
-
-* **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (28 Articles)
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
-
-* **4** virakesari-lk ([மஹிந்த, பசில் நாட்டிலிருந்து வெளியேற இடைக்கால தடை-](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c78e89.json))
 
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
@@ -30,17 +24,17 @@
 
 * **1** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
 
-## Last 24 Hours (243 Articles)
+## Last 24 Hours (237 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **36** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
-* **28** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
-
 * **26** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
 * **24** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
+
+* **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
 * **23** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
@@ -54,9 +48,7 @@
 
 * **2** colombo-telegraph-com ([Transfer Of Formal Power Vs People Power During Societal Transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fc66ad.json))
 
-* **1** d-b-s-jeyaraj-com ([Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7a9db20.json))
-
-## Last Week (1,424 Articles)
+## Last Week (1,423 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -78,7 +70,7 @@
 
 * **45** island-lk ([Ceylon Government Railway – when the Burghers ruled the roost](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a7191f9.json))
 
-* **32** d-b-s-jeyaraj-com ([Memories of Pro-China Communist   Party Leader  Comrade “Shan”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2c5cf9.json))
+* **31** d-b-s-jeyaraj-com ([Saturday’s events also reflect the humiliation of the Rajapaksa Security State, the apparatus so carefully built up by the Rajapaksa family in the longest political project in the nation’s history.](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9cc405cc.json))
 
 * **30** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
