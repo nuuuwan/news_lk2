@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 03:19:07 (LK time)*
+*As of 2022-07-16 03:31:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (10 Articles)
 
-* **15** daily-ft-lk ([The procedure for election of new President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab24582.json))
+* **5** daily-ft-lk ([Singhagiri celebrates Golden Jubilee](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46c78cfe.json))
 
 * **3** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
