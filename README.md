@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 05:10:11 (LK time)*
+*As of 2022-07-15 05:27:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **3** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
-## Last 24 Hours (271 Articles)
+## Last 24 Hours (270 Articles)
 
 * **40** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -20,21 +20,23 @@
 
 * **30** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
-* **25** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
-
 * **25** ada-derana-lk ([Number of injured in protests yesterday climbs over 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/994baaa3.json))
 
 * **24** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
+
+* **21** daily-ft-lk ([Artists of the People’s Movement renew call to abolish Executive Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/866d8938.json))
 
 * **17** economy-next-com ([Sri Lanka curfew ends after overnight battles near parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8786fd0d.json))
 
 * **4** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
+* **3** island-lk ([Baurs commemorates 125th anniversary with a series of community service initiatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f7df011.json))
+
 * **3** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
 * **2** b-b-c-com-sinhala (['ජනපති ඉල්ලා අස්වීමේ ලිපිය නොදෙන්නේ නම් ධුරය හැරගියා සේ සලකනවා' - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f2cd72c.json))
 
-## Last Week (1,210 Articles)
+## Last Week (1,218 Articles)
 
 * **166** daily-mirror-lk ([The cry of Sri Lanka’s people: “Give us a Mandela”](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d38e8f21.json))
 
@@ -54,15 +56,15 @@
 
 * **68** economy-next-com ([Sri Lanka top five SOEs lose Rs931bn amid monetary instability](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11544ebc.json))
 
-* **40** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
+* **43** island-lk ([Hobson’s choice for govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3ad81a.json))
 
-* **35** island-lk ([Hobson’s choice for govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f3ad81a.json))
+* **40** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
 
 * **27** b-b-c-com-sinhala ([ආර්ථික අර්බුදය : ජූලි 9 මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3b6b591.json))
 
 * **23** colombo-telegraph-com ([When Will Sri Lankan Children Be Prioritized In This Crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aed7198c.json))
 
-## All Time (1,558 Articles)
+## All Time (1,566 Articles)
 
 * **227** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +86,7 @@
 
 * **86** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **48** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **56** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **36** b-b-c-com-sinhala ([පරිසරය ; වසර තුනකට පසු මින්නේරියට අලි ඇවිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd2648be.json))
 
