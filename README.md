@@ -1,26 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 23:46:49 (LK time)*
+*As of 2022-07-16 00:05:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-## Last Hour (3 Articles)
+## Last 3 Hours (16 Articles)
 
-* **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
+* **4** virakesari-lk ([புதிய ஜனாதிபதி தெரிவில் பதில் ஜனாதிபதி  ரணிலுக்கு ஆதரவு  - ஸ்ரீலங்கா பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc0b7ed8.json))
 
-* **1** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920de4b5.json))
-
-* **1** daily-mirror-lk ([Damage caused to President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31df3e15.json))
-
-## Last 3 Hours (19 Articles)
-
-* **5** lankadeepa-lk ([රටවල් හතරක තැපැල් භාණ්ඩ භාරගැනීම නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4abea68.json))
-
-* **5** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
+* **3** lankadeepa-lk ([කටුගහහේන රෝහලෙන් දේව ක්‍රියාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90fa9a0.json))
 
 * **2** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
@@ -32,7 +24,7 @@
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (224 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
@@ -40,9 +32,9 @@
 
 * **26** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
-* **25** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
-
 * **23** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
+
+* **23** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
 
 * **20** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
@@ -58,7 +50,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7a9db20.json))
 
-## Last Week (1,423 Articles)
+## Last Week (1,421 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -80,7 +72,7 @@
 
 * **45** island-lk ([Ceylon Government Railway – when the Burghers ruled the roost](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a7191f9.json))
 
-* **42** d-b-s-jeyaraj-com ([Religious and Civil Society Leaders including Omalpe Sobhitha Thero and Cardinal Malcolm Ranjith Sign  “senkadagala Statement” at Queens Hotel Kandy;6 Key Demands Include Resignation of President Rajapaksa, Setting up of all Party Interim Govt and Time Frame for Fresh Parliament and President Elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/590d7cc1.json))
+* **40** d-b-s-jeyaraj-com ([Prime  Minister Ranil Wickremesinghe’s Private Residence at 5th Lane Kollupitiya  Set on Fire by Protesters after Violent Clash with Police; CMC Fire Brigade Unable to Reach Spot on Time to Douse the Blaze due to Prevailing Unrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3fea449.json))
 
 * **30** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
