@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/new-president-mps-now-represent-entire-electorate-of-sri-lanka-says-basl/",
+    "time_ut": 1657880220,
+    "original_lang": "en",
+    "original_title": "New President : MPs now represent entire electorate of Sri Lanka, says BASL",
+    "file_name": "/tmp/news_lk2/articles/e1/e1b3a912.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d85\u0daf-\u0dc3\u0dc0\u0dc3/101-616471",
+    "time_ut": 1657880060,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d85\u0daf \u0dc3\u0dc0\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/56/56c182f0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-government-cbsl-governor",
     "time_ut": 1657879800,
@@ -8,12 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/6d/6d8327c3.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-govt-cbsl-governor-warns",
+    "time_ut": 1657879800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka faces shutdown without stable govt: CBSL governor warns",
+    "file_name": "/tmp/news_lk2/articles/3e/3ecb6a23.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/1-616470",
+    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/101-616470",
     "time_ut": 1657879760,
     "original_lang": "si",
     "original_title": "\u0da9\u0dbd\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/35/3549aeea.json"
+    "file_name": "/tmp/news_lk2/articles/9c/9ce6a08e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/dullas-ready-to-contest-for-vacant-post-of-president/",
+    "time_ut": 1657879740,
+    "original_lang": "en",
+    "original_title": "Dullas ready to contest for vacant post of President",
+    "file_name": "/tmp/news_lk2/articles/8e/8ecd5615.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

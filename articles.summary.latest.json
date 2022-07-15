@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/new-president-mps-now-represent-entire-electorate-of-sri-lanka-says-basl/",
+    "time_ut": 1657880220,
+    "original_lang": "en",
+    "original_title": "New President : MPs now represent entire electorate of Sri Lanka, says BASL",
+    "file_name": "/tmp/news_lk2/articles/e1/e1b3a912.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d85\u0daf-\u0dc3\u0dc0\u0dc3/101-616471",
+    "time_ut": 1657880060,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d85\u0daf \u0dc3\u0dc0\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/56/56c182f0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-government-cbsl-governor",
     "time_ut": 1657879800,
@@ -8,12 +24,28 @@
     "file_name": "/tmp/news_lk2/articles/6d/6d8327c3.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-govt-cbsl-governor-warns",
+    "time_ut": 1657879800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka faces shutdown without stable govt: CBSL governor warns",
+    "file_name": "/tmp/news_lk2/articles/3e/3ecb6a23.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/1-616470",
+    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/101-616470",
     "time_ut": 1657879760,
     "original_lang": "si",
     "original_title": "\u0da9\u0dbd\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/35/3549aeea.json"
+    "file_name": "/tmp/news_lk2/articles/9c/9ce6a08e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/dullas-ready-to-contest-for-vacant-post-of-president/",
+    "time_ut": 1657879740,
+    "original_lang": "en",
+    "original_title": "Dullas ready to contest for vacant post of President",
+    "file_name": "/tmp/news_lk2/articles/8e/8ecd5615.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 !",
     "file_name": "/tmp/news_lk2/articles/58/58a43537.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62108559",
-    "time_ut": 1657601206,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba \u0d9c\u0dd0\u0db1 \u0db8\u0dda \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0d94\u0db6 \u0daf\u0dd0\u0db1 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dcf\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/f3/f35910c9.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/GR-signs-resignation-letter/155-240903",
-    "time_ut": 1657600858,
-    "original_lang": "en",
-    "original_title": "GR signs resignation letter",
-    "file_name": "/tmp/news_lk2/articles/20/20b54a33.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/three-fuel-shipments-due-soon/",
-    "time_ut": 1657599900,
-    "original_lang": "en",
-    "original_title": "Three fuel shipments due soon",
-    "file_name": "/tmp/news_lk2/articles/62/62544d4e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-300241",
-    "time_ut": 1657599830,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/31/3139f820.json"
   }
 ]
