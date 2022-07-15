@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d9a\u0dd0\u0dbb\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019/101-616468",
+    "time_ut": 1657879227,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0d9a\u0dd0\u0dbb\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/f2/f20b945d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-acting-president-vows-to-restore-19th-amendment-establish-law-order-97464/",
+    "time_ut": 1657878960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka acting president vows to restore 19th amendment, establish law & order",
+    "file_name": "/tmp/news_lk2/articles/7e/7e768c9c.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131528",
     "time_ut": 1657878401,
@@ -38,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd : \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc6\u0bb1\u0bbf\u0baf \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b2/b2a36a34.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83667/ranil-delivers-special-statement-as-acting-president-vows-to-safeguard-constitution",
+    "time_ut": 1657876920,
+    "original_lang": "en",
+    "original_title": "Ranil delivers special statement as Acting President; vows to safeguard Constitution",
+    "file_name": "/tmp/news_lk2/articles/13/134567c6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb2\u0bb0\u0bbf\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd; 10 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/24/24da3b1a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300234",
-    "time_ut": 1657596150,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/15/15fbf4ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Basils-exit-from-country-foiled-after-protests-by-passengers/342-240901",
-    "time_ut": 1657595898,
-    "original_lang": "en",
-    "original_title": "Basil\u2019s exit from country foiled after protests by passengers",
-    "file_name": "/tmp/news_lk2/articles/79/791cdcf7.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131296",
-    "time_ut": 1657594911,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0ba8\u0bbf\u0bb0\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd- \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
-    "file_name": "/tmp/news_lk2/articles/da/da0183cc.json"
   }
 ]
