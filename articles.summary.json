@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/fuel-for-health-workers-today-15/",
+    "time_ut": 1657873020,
+    "original_lang": "en",
+    "original_title": "Fuel for health workers today (15)",
+    "file_name": "/tmp/news_lk2/articles/d6/d6bc9455.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Intervene-to-end-political-economic-crisis-immediately-Karu-Jayasuriya/108-241157",
+    "time_ut": 1657872850,
+    "original_lang": "en",
+    "original_title": "Intervene to end political, economic crisis immediately: Karu Jayasuriya",
+    "file_name": "/tmp/news_lk2/articles/74/7459a40c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/76-300469",
+    "time_ut": 1657872847,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ab/abded865.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131524",
     "time_ut": 1657871947,
