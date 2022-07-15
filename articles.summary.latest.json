@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Acting-President/108-241155",
+    "time_ut": 1657868522,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe sworn in as Acting President",
+    "file_name": "/tmp/news_lk2/articles/f4/f4344797.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0d9a\u0dd4\u0db8\u0dca-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/101-616459",
     "time_ut": 1657867323,
@@ -137,11 +145,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Christian-Council-calls-for-urgent-United-or-All-Party-Government/342-241153",
+    "url": "https://www.dailymirror.lk/breaking_news/Christian-Council-calls-for-urgent-United-or-All-Party-Government/108-241153",
     "time_ut": 1657863621,
     "original_lang": "en",
     "original_title": "Christian Council calls for urgent \u2018United or All-Party Government\u2019",
-    "file_name": "/tmp/news_lk2/articles/ef/eff97082.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7e00d814.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -382,6 +390,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka: President Gotabaya has officially stepped down",
     "file_name": "/tmp/news_lk2/articles/b1/b17453ec.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/1-616434",
+    "time_ut": 1657857076,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/00/000fc7a0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1142,6 +1158,14 @@
     "original_lang": "en",
     "original_title": "Gazette amending duties, functions of Defence Ministry issued",
     "file_name": "/tmp/news_lk2/articles/88/88414406.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7/1-616423",
+    "time_ut": 1657807569,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/fc/fc26506b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dba \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/d1/d1b1df89.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/need-for-haste-in-rebuilding-trust-after-storming-of-presidents-house/",
-    "time_ut": 1657561260,
-    "original_lang": "en",
-    "original_title": "Need for haste in rebuilding trust after storming of President\u2019s House",
-    "file_name": "/tmp/news_lk2/articles/9d/9d677b17.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Lankan-bureaucracy-needs-to-do-more-to-ensure-good-governance/172-240877",
-    "time_ut": 1657561173,
-    "original_lang": "en",
-    "original_title": "Lankan bureaucracy needs to do more to ensure good governance",
-    "file_name": "/tmp/news_lk2/articles/94/942cec24.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/the-Aftermath-of-July-2022-revolution/172-240876",
-    "time_ut": 1657560964,
-    "original_lang": "en",
-    "original_title": "the Aftermath of July 2022 revolution\u2026",
-    "file_name": "/tmp/news_lk2/articles/78/788aeeeb.json"
   }
 ]
