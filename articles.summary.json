@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLPP-pays-tribute-to-service-rendered-by-President-Gotabaya-Rajapaksa/56-737577",
+    "time_ut": 1657911877,
+    "original_lang": "en",
+    "original_title": "SLPP pays tribute to service rendered by President Gotabaya Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/ac/ac178d86.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Acting-President-visits-injured-soldiers/56-737576",
+    "time_ut": 1657911833,
+    "original_lang": "en",
+    "original_title": "Acting President visits injured soldiers",
+    "file_name": "/tmp/news_lk2/articles/60/60e96616.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Defence-Ministry-orders-law-and-order-normalcy/56-737575",
+    "time_ut": 1657911795,
+    "original_lang": "en",
+    "original_title": "Defence Ministry orders law and order, normalcy",
+    "file_name": "/tmp/news_lk2/articles/89/8926f047.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Armed-forces-Police-given-powers-to-search-for-firearms-seized-from-military-by-protesters/56-737574",
+    "time_ut": 1657911785,
+    "original_lang": "en",
+    "original_title": "Armed forces, Police given powers to search for firearms seized from military by protesters",
+    "file_name": "/tmp/news_lk2/articles/b3/b362ae76.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Singhagiri-celebrates-Golden-Jubilee/34-737573",
+    "time_ut": 1657911729,
+    "original_lang": "en",
+    "original_title": "Singhagiri celebrates Golden Jubilee",
+    "file_name": "/tmp/news_lk2/articles/46/46c78cfe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/SLT-Mobitel-becomes-first-telco-to-offer-Eco-Channelling-Delivery/34-737572",
     "time_ut": 1657911689,
     "original_lang": "en",

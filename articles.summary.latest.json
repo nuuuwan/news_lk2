@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLPP-pays-tribute-to-service-rendered-by-President-Gotabaya-Rajapaksa/56-737577",
+    "time_ut": 1657911877,
+    "original_lang": "en",
+    "original_title": "SLPP pays tribute to service rendered by President Gotabaya Rajapaksa",
+    "file_name": "/tmp/news_lk2/articles/ac/ac178d86.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Acting-President-visits-injured-soldiers/56-737576",
+    "time_ut": 1657911833,
+    "original_lang": "en",
+    "original_title": "Acting President visits injured soldiers",
+    "file_name": "/tmp/news_lk2/articles/60/60e96616.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Defence-Ministry-orders-law-and-order-normalcy/56-737575",
+    "time_ut": 1657911795,
+    "original_lang": "en",
+    "original_title": "Defence Ministry orders law and order, normalcy",
+    "file_name": "/tmp/news_lk2/articles/89/8926f047.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Armed-forces-Police-given-powers-to-search-for-firearms-seized-from-military-by-protesters/56-737574",
+    "time_ut": 1657911785,
+    "original_lang": "en",
+    "original_title": "Armed forces, Police given powers to search for firearms seized from military by protesters",
+    "file_name": "/tmp/news_lk2/articles/b3/b362ae76.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Singhagiri-celebrates-Golden-Jubilee/34-737573",
+    "time_ut": 1657911729,
+    "original_lang": "en",
+    "original_title": "Singhagiri celebrates Golden Jubilee",
+    "file_name": "/tmp/news_lk2/articles/46/46c78cfe.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/SLT-Mobitel-becomes-first-telco-to-offer-Eco-Channelling-Delivery/34-737572",
     "time_ut": 1657911689,
     "original_lang": "en",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/a0/a08fc954.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0db1\u0dca---\u0db6\u0db1\u0dd2\u0dc3\u0dca-\u0db8\u0dd2\u0dbd-\u0db1\u0d9f\u0dd3/101-616302",
-    "time_ut": 1657620948,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0db1\u0dca - \u0db6\u0db1\u0dd2\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0db1\u0d9f\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/39/397dc4bf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/pm-other-mps-express-condolences-on-behalf-of-former-japanese-pm-abe/",
-    "time_ut": 1657620840,
-    "original_lang": "en",
-    "original_title": "PM, other MPs express condolences on behalf of former Japanese PM Abe",
-    "file_name": "/tmp/news_lk2/articles/22/22478432.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/indian-urea-suitable-for-sri-lanka-report/",
-    "time_ut": 1657620840,
-    "original_lang": "en",
-    "original_title": "Indian Urea suitable for Sri Lanka \u2013 Report",
-    "file_name": "/tmp/news_lk2/articles/ed/edf5b5ba.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/strong-rajapaksa-dynasty-member-refused-to-leave-sri-lanka-97285/",
-    "time_ut": 1657620660,
-    "original_lang": "en",
-    "original_title": "Strong Rajapaksa dynasty member refused to leave Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/df/df002e48.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0dc4-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca/11-395351",
-    "time_ut": 1657620111,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dc4 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc3\u0dad\u0dca\u200d\u0dba\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ac/ac257a48.json"
   }
 ]
