@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-15 20:14:38 (LK time)*
+*As of 2022-07-15 20:21:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/925e2543.json))
+* **1** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01b07e7.json))
 
-* **1** lankadeepa-lk ([තුවාලකරුවන් බලන්න වැඩබලන ජනපති හමුදා රෝහලට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b95e9c4.json))
-
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
 * **2** lankadeepa-lk ([හමුදාවෙන් පැහැර ගත් ගිනි අවි සොයන්න බලය පවරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0af978bc.json))
 
-* **2** news-first-lk ([Sajith another candidate for President – Mujibur](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3c729f0.json))
-
-* **1** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/925e2543.json))
+* **1** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01b07e7.json))
 
 * **1** ada-derana-lk ([IMF hopes to soon resume Sri Lanka high-level discussions](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ceca5915.json))
 
 * **1** economy-next-com ([Sri Lanka stocks jump to 3-wk high on political stability hope after PM takes charge](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c48aadb.json))
 
-## Last 3 Hours (21 Articles)
+* **1** news-first-lk ([Political Stability is paramount – CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b572b5f7.json))
+
+## Last 3 Hours (20 Articles)
 
 * **6** lankadeepa-lk ([පොහොට්ටුවේ සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aac4cb4a.json))
 
 * **5** news-first-lk ([FUTA wants Ranil to step down & NOT contest election in Parliament for President](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7ddb4ed8.json))
 
-* **3** daily-mirror-lk ([China will agree to US$4 billion aid for Sri Lanka ’at some point’: Kohona](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b5bf22a.json))
+* **2** daily-mirror-lk ([India to support early solution in SL through democratic means: Indian HC](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2eefbbc.json))
 
 * **2** virakesari-lk ([அஸ்கிரிய பீடம் சகல அரசியல்வாதிகளுக்கும் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f14296.json))
 
@@ -40,13 +38,13 @@
 
 * **1** ada-lk ([පොහොට්ටුවේ සහාය වැඩබලන ජනපති රනිල්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f865ce7e.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (231 Articles)
 
 * **37** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
 
 * **35** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகல் கடிதம் சட்ட ஆலோசனைக்காக சட்டமா அதிபருக்கு அனுப்பிவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98b08605.json))
 
-* **26** daily-mirror-lk ([Gotabaya Rajapaksa emails resignation letter to Speaker](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b0d8cab.json))
+* **25** daily-mirror-lk ([Speaker receives Prez’s resignation, official announcement to be made tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bfe96b4.json))
 
 * **24** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
