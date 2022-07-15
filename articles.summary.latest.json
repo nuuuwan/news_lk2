@@ -1,19 +1,35 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Will-ensure-all-MPs-exercise-their-free-will-to-elect-new-President-RW/342-241161",
-    "time_ut": 1657876427,
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83667/acting-president-ranil-vows-to-safeguard-constitution",
+    "time_ut": 1657876920,
     "original_lang": "en",
-    "original_title": "Will ensure all MPs exercise their free will to elect new President: RW",
-    "file_name": "/tmp/news_lk2/articles/9e/9e882f5e.json"
+    "original_title": "Acting President Ranil vows to safeguard Constitution",
+    "file_name": "/tmp/news_lk2/articles/69/697a2697.json"
   },
   {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131529",
-    "time_ut": 1657875950,
+    "time_ut": 1657876615,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/ce/cef9642f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Will-ensure-all-MPs-exercise-their-free-will-to-elect-new-President-RW/108-241161",
+    "time_ut": 1657876427,
+    "original_lang": "en",
+    "original_title": "Will ensure all MPs exercise their free will to elect new President: RW",
+    "file_name": "/tmp/news_lk2/articles/33/338679d2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/daily-exchange-rate-from-cbsl-14/",
+    "time_ut": 1657875900,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/62/62902ae6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -46,6 +62,22 @@
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 - \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0db8 \u0d9c\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0db1\u0dc0\u0dcf\u2018\u2018",
     "file_name": "/tmp/news_lk2/articles/a3/a35c7f4d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/ensure-the-highest-democratic-standards-hrcsl/",
+    "time_ut": 1657874580,
+    "original_lang": "en",
+    "original_title": "Ensure the highest democratic standards \u2013 HRCSL",
+    "file_name": "/tmp/news_lk2/articles/3d/3d796b88.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/special-statement-no-more-presidential-flag-no-more-use-of-his-excellency-to-address-president/",
+    "time_ut": 1657874520,
+    "original_lang": "en",
+    "original_title": "Special Statement: NO more Presidential Flag, & NO more use of \u2018His Excellency\u2019 to address President",
+    "file_name": "/tmp/news_lk2/articles/07/0774a3a1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1846,14 +1878,6 @@
     "original_lang": "en",
     "original_title": "Parliament sessions scheduled for tomorrow cancelled",
     "file_name": "/tmp/news_lk2/articles/c0/c0bb0e77.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/daily-exchange-rate-from-cbsl-13/",
-    "time_ut": 1657794540,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/35/35e8a8fd.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/c1/c1aedd14.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/rainfall-for-hill-country-today-12/",
-    "time_ut": 1657591560,
-    "original_lang": "en",
-    "original_title": "Rainfall for hill country today (12)",
-    "file_name": "/tmp/news_lk2/articles/f9/f9aee94f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0b9a\u0bbf\u0bb2\u0bcd-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0ba8\u0bbf\u0bb2\u0bc8/150-300232",
-    "time_ut": 1657591392,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/b4/b456f256.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83592/rainfall-expected-in-several-areas-today",
-    "time_ut": 1657591380,
-    "original_lang": "en",
-    "original_title": "Rainfall expected in several areas today",
-    "file_name": "/tmp/news_lk2/articles/df/df485dbd.json"
   }
 ]
