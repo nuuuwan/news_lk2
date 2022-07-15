@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 02:50:55 (LK time)*
+*As of 2022-07-16 02:58:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,9 +10,9 @@
 
 * **1** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
 
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (25 Articles)
 
-* **22** daily-ft-lk ([GROBR and next phase of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32703f6.json))
+* **20** daily-ft-lk ([Pusswedilla’s take on Ranil speech](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6eb0e895.json))
 
 * **3** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
