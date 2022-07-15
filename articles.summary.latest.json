@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d85\u0daf-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda/1-616433",
+    "time_ut": 1657855690,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d85\u0daf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/68/68dec195.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95-\u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd/175-300456",
+    "time_ut": 1657855534,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd.",
+    "file_name": "/tmp/news_lk2/articles/48/48ce2d48.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131487",
+    "time_ut": 1657855439,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd?",
+    "file_name": "/tmp/news_lk2/articles/37/37797d05.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-616432",
+    "time_ut": 1657855108,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddc\u0dbb \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc3\u0db8\u0d9c \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/db/db37526b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83659/special-party-leaders-meeting-convened-today",
+    "time_ut": 1657854360,
+    "original_lang": "en",
+    "original_title": "Special party leaders\u2019 meeting convened today",
+    "file_name": "/tmp/news_lk2/articles/87/87cce70d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Exclusive-fuel-supply-arrangements-for-healthcare-workers-from-today-Ministry/342-241107",
+    "time_ut": 1657854153,
+    "original_lang": "en",
+    "original_title": "Exclusive fuel supply arrangements for healthcare workers from today: Ministry",
+    "file_name": "/tmp/news_lk2/articles/94/949eccce.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca---\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dca-\u0dad\u0dd4\u0db1\u0d9a\u0dca-17-\u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf-\u0d91\u0dba\u0dd2/1-616431",
+    "time_ut": 1657853718,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca - \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0dca 17 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c2/c2b5c4b0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83658/ranil-to-take-oaths-as-acting-president-today",
+    "time_ut": 1657853520,
+    "original_lang": "en",
+    "original_title": "Ranil to take oaths as Acting President today",
+    "file_name": "/tmp/news_lk2/articles/a9/a90d02cf.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83658/ranil-to-swear-in-as-acting-president-today",
     "time_ut": 1657853520,
@@ -14,6 +78,14 @@
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb,\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0db4\u0dcf\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
     "file_name": "/tmp/news_lk2/articles/3d/3db4b000.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca/11-395441",
+    "time_ut": 1657852483,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/8c/8c537a8a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -94,6 +166,14 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd\u2019 \u0baa\u0bcb\u0bb2\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/3c/3c276f91.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/transfer-of-formal-power-vs-people-power-during-societal-transition/",
+    "time_ut": 1657835083,
+    "original_lang": "en",
+    "original_title": "Transfer Of Formal Power Vs People Power During Societal Transition",
+    "file_name": "/tmp/news_lk2/articles/04/04fc66ad.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0db6\u0db1 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db8\u0db8 \u0db1\u0dd2\u0dc0\u0dc3\u0dda \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dcf",
     "file_name": "/tmp/news_lk2/articles/f5/f5b97fdd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0dca\u0d9a\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda-\u0dc3\u0dd2\u0da7-\u0db8\u0dd4\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0db1\u0dca\u0da9\u0dd2-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0db1\u0dc0-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0dca/101-616253",
-    "time_ut": 1657539269,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0db1\u0dca\u0d9a\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dda \u0dc3\u0dd2\u0da7 \u0db8\u0dd4\u0dbb\u0dd4\u0d9a\u0dca\u0d9a\u0db1\u0dca\u0da9\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db1\u0dc0 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/32/3211ac75.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-sells-all-2029-bonds-rejected-2025-bids-on-tap-at-28-18-pct-97250/",
-    "time_ut": 1657538160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka sells all 2029 bonds, rejected 2025 bids on tap at 28.18-pct",
-    "file_name": "/tmp/news_lk2/articles/d5/d55a5ea6.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0d9a\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-395332",
-    "time_ut": 1657538000,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/bc/bce3930f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0---\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/3-395331",
-    "time_ut": 1657537930,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 - \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/70/70dfb6cb.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/11/party-leaders-meeting-heats-up-pm-tries-to-move-proposal-to-purchase-fuel/",
-    "time_ut": 1657537860,
-    "original_lang": "en",
-    "original_title": "Party Leaders meeting heats up, PM tries to move proposal to purchase fuel",
-    "file_name": "/tmp/news_lk2/articles/18/18c2c053.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-300201",
-    "time_ut": 1657537723,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/71/7183fb9f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83584/sajith-prepared-to-give-leadership-to-the-motherland",
-    "time_ut": 1657537620,
-    "original_lang": "en",
-    "original_title": "Sajith prepared to give leadership to the motherland",
-    "file_name": "/tmp/news_lk2/articles/00/00b5fa92.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Suwa-Seriya-suspended-in-14-districts/108-240852",
-    "time_ut": 1657537534,
-    "original_lang": "en",
-    "original_title": "Suwa Seriya suspended in 14 districts",
-    "file_name": "/tmp/news_lk2/articles/df/df3201ec.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8-\u0dc4\u0dd9\u0da7\u0dd2\u0db1\u0dca-\u0d87\u0dbb\u0db9\u0dda/11-395330",
-    "time_ut": 1657537255,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0dc4\u0dd9\u0da7\u0dd2\u0db1\u0dca \u0d87\u0dbb\u0db9\u0dda",
-    "file_name": "/tmp/news_lk2/articles/63/632b3c57.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-20-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1/175-300200",
-    "time_ut": 1657537155,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 : 20 \u200b\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/2c/2c432171.json"
   }
 ]
