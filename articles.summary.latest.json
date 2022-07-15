@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-20-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1/175-300463",
+    "time_ut": 1657867134,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf: 20 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6d/6d625a31.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/New-President-will-be-elected-on-July-20/342-241154",
+    "time_ut": 1657867076,
+    "original_lang": "en",
+    "original_title": "New President will be elected on July 20",
+    "file_name": "/tmp/news_lk2/articles/f5/f5ca93b1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83662/court-dismisses-case-against-russias-aeroflot-airline",
+    "time_ut": 1657866600,
+    "original_lang": "en",
+    "original_title": "Court dismisses case against Russia\u2019s Aeroflot airline",
+    "file_name": "/tmp/news_lk2/articles/45/45a55d16.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/parliament-to-meet-on-20th-july-to-elect-new-president-nominations-on-19th-july/",
+    "time_ut": 1657866360,
+    "original_lang": "en",
+    "original_title": "Parliament to meet on 20th July to elect new President; Nominations on 19th July",
+    "file_name": "/tmp/news_lk2/articles/f6/f6b1607a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/40000-mt-of-diesel-to-reach-sl-today-15/",
+    "time_ut": 1657866060,
+    "original_lang": "en",
+    "original_title": "40,000 MT of Diesel to reach SL today (15)",
+    "file_name": "/tmp/news_lk2/articles/6d/6d65441f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-gain-in-mid-day-trade-97461/",
     "time_ut": 1657865940,
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sampath Bank signs MOU with AIMGSL, the body representing internationally-qualified professional marketers",
     "file_name": "/tmp/news_lk2/articles/6d/6dcc5447.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/colombo-tea-auction-is-the-fairest-platform-for-all-stakeholders-including-producers/",
-    "time_ut": 1657560840,
-    "original_lang": "en",
-    "original_title": "\u2018Colombo Tea Auction is the fairest platform for all stakeholders, including producers\u2019",
-    "file_name": "/tmp/news_lk2/articles/5a/5aa5d6a2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hela-becomes-the-first-apparel-manufacturer-to-extend-the-globally-recognised-p-a-c-e-program-to-egypt/",
-    "time_ut": 1657560780,
-    "original_lang": "en",
-    "original_title": "Hela becomes the first apparel manufacturer to extend the globally-recognised P.A.C.E. program to Egypt",
-    "file_name": "/tmp/news_lk2/articles/22/22116423.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/calls-on-president-pm-to-bow-out-expresses-fullest-support-for-peoples-movement/",
-    "time_ut": 1657560780,
-    "original_lang": "en",
-    "original_title": "calls on President, PM to bow out; \u2018expresses fullest support for people\u2019s movement\u2019",
-    "file_name": "/tmp/news_lk2/articles/b2/b2d32213.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/slt-mobitel-revolutionises-online-experience-for-customers/",
-    "time_ut": 1657560780,
-    "original_lang": "en",
-    "original_title": "SLT-MOBITEL revolutionises online experience for customers",
-    "file_name": "/tmp/news_lk2/articles/09/099f1edf.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/soe-reforms-vital-although-monetary-policies-to-put-sls-economy-on-right-track-are-on-cbsl-governor/",
-    "time_ut": 1657560720,
-    "original_lang": "en",
-    "original_title": "SOE reforms vital, although monetary policies to put SL\u2019s economy on right track are on \u2013 CBSL Governor",
-    "file_name": "/tmp/news_lk2/articles/1d/1d884397.json"
   }
 ]

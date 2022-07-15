@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-20-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1/175-300463",
+    "time_ut": 1657867134,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf: 20 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/6d/6d625a31.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/New-President-will-be-elected-on-July-20/342-241154",
+    "time_ut": 1657867076,
+    "original_lang": "en",
+    "original_title": "New President will be elected on July 20",
+    "file_name": "/tmp/news_lk2/articles/f5/f5ca93b1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83662/court-dismisses-case-against-russias-aeroflot-airline",
+    "time_ut": 1657866600,
+    "original_lang": "en",
+    "original_title": "Court dismisses case against Russia\u2019s Aeroflot airline",
+    "file_name": "/tmp/news_lk2/articles/45/45a55d16.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/parliament-to-meet-on-20th-july-to-elect-new-president-nominations-on-19th-july/",
+    "time_ut": 1657866360,
+    "original_lang": "en",
+    "original_title": "Parliament to meet on 20th July to elect new President; Nominations on 19th July",
+    "file_name": "/tmp/news_lk2/articles/f6/f6b1607a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/15/40000-mt-of-diesel-to-reach-sl-today-15/",
+    "time_ut": 1657866060,
+    "original_lang": "en",
+    "original_title": "40,000 MT of Diesel to reach SL today (15)",
+    "file_name": "/tmp/news_lk2/articles/6d/6d65441f.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-gain-in-mid-day-trade-97461/",
     "time_ut": 1657865940,
