@@ -1,11 +1,59 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Acting-President/108-241155",
-    "time_ut": 1657868522,
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b87-\u0ba4\u0bca-\u0b95\u0bbe-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd-\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/76-300466",
+    "time_ut": 1657868914,
+    "original_lang": "ta",
+    "original_title": "\u0b87.\u0ba4\u0bca.\u0b95\u0bbe \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd: \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd:",
+    "file_name": "/tmp/news_lk2/articles/a6/a6af9087.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131521",
+    "time_ut": 1657868868,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0ba9\u0bcd\u0bae\u0bc8 \u0b86\u0ba4\u0bb0\u0bb5\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bb5\u0bb0\u0bcd 8 \u0b86\u0bb5\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf :  7 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/78/78d720c5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131520",
+    "time_ut": 1657868798,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/55/551dab10.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83663/ranil-wickremesinghe-sworn-in-as-acting-president",
+    "time_ut": 1657868640,
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe sworn in as Acting President",
-    "file_name": "/tmp/news_lk2/articles/f4/f4344797.json"
+    "file_name": "/tmp/news_lk2/articles/0b/0beaded5.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd/175-300465",
+    "time_ut": 1657868571,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b1/b1f566ba.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Interim-President/108-241155",
+    "time_ut": 1657868522,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe sworn in as Interim President",
+    "file_name": "/tmp/news_lk2/articles/7d/7d3b1437.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131518",
+    "time_ut": 1657868179,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/53/53327004.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -153,11 +201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/1-616446",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/101-616446",
     "time_ut": 1657863598,
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/75/75c991b3.json"
+    "file_name": "/tmp/news_lk2/articles/02/02c098ad.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -393,11 +441,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/1-616434",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/101-616434",
     "time_ut": 1657857076,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/00/000fc7a0.json"
+    "file_name": "/tmp/news_lk2/articles/0f/0f077212.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Avert bloodbath",
     "file_name": "/tmp/news_lk2/articles/3c/3c473de3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/where-are-we-in-terms-of-financial-literacy/",
-    "time_ut": 1657561860,
-    "original_lang": "en",
-    "original_title": "Where are we in terms of financial literacy?",
-    "file_name": "/tmp/news_lk2/articles/c2/c2c9ef20.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/get-well-messages/",
-    "time_ut": 1657561680,
-    "original_lang": "en",
-    "original_title": "Get well messages\u2026",
-    "file_name": "/tmp/news_lk2/articles/fd/fdd1bba0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-300228",
-    "time_ut": 1657561673,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/47/47e45883.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/awesome-night-for-sri-lankan/",
-    "time_ut": 1657561620,
-    "original_lang": "en",
-    "original_title": "Awesome night for Sri Lankan",
-    "file_name": "/tmp/news_lk2/articles/e5/e583da22.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300227",
-    "time_ut": 1657561332,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/72/720378a2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0da7-\u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2-\u0d85\u0dba-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca-\u0db1\u0dd1/11-395345",
-    "time_ut": 1657561279,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0da7 \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dba \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/d1/d1b1df89.json"
   }
 ]
