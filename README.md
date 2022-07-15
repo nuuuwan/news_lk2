@@ -1,46 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 00:54:22 (LK time)*
+*As of 2022-07-16 01:04:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (15 Articles)
-
-* **14** daily-ft-lk ([Deputy High Commissioner of Sri Lanka in Chennai meets Chief Minister and Governor of Kerala](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d33120f.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
-## Last Hour (22 Articles)
+* **1** daily-ft-lk ([SLPP pays tribute to service rendered by President Gotabaya Rajapaksa](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac178d86.json))
 
-* **21** daily-ft-lk ([Aragalaya and the Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f836c62.json))
+## Last Hour (17 Articles)
+
+* **16** daily-ft-lk ([Postcard from Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b585cfd.json))
 
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
-## Last 3 Hours (35 Articles)
+## Last 3 Hours (33 Articles)
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
 * **5** virakesari-lk ([புதிய ஜனாதிபதி தெரிவில் பதில் ஜனாதிபதி  ரணிலுக்கு ஆதரவு  - ஸ்ரீலங்கா பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc0b7ed8.json))
 
-* **2** lankadeepa-lk ([වැඩබලන ජනපතිට මහා සංඝරත්නයේ ආශිර්වාද](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c039ff02.json))
-
 * **1** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
+
+* **1** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/920de4b5.json))
 
 * **1** daily-mirror-lk ([Damage caused to President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31df3e15.json))
 
 * **1** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
 
-* **1** economy-next-com ([Yields in Sri Lanka’s govt securities fall after President Gotabaya resigns](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74bf38e6.json))
-
-## Last 24 Hours (244 Articles)
+## Last 24 Hours (243 Articles)
 
 * **44** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **36** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
-* **29** daily-ft-lk ([Russian business flocks to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f62dc62.json))
+* **28** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
 
 * **26** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b2ef66d.json))
 
@@ -60,7 +58,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7a9db20.json))
 
-## Last Week (1,430 Articles)
+## Last Week (1,424 Articles)
 
 * **208** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -76,13 +74,13 @@
 
 * **117** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **99** daily-ft-lk ([Kitchen & Bedroom commended for interior excellence at Laya Leisure](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bce1e3b8.json))
+* **94** daily-ft-lk ([Bar Association calls for swift political stability and public restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5dc32600.json))
 
 * **76** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
 * **45** island-lk ([Ceylon Government Railway – when the Burghers ruled the roost](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a7191f9.json))
 
-* **33** d-b-s-jeyaraj-com ([President  Gotabaya Rajapaksa Informs Speaker  he will step down from his post on Wednesda  July 13 while Premier   Ranil Wickremesinghe  tells  party leaders that he is willing to resign as Prime Minister and make way for an all-party government to take over.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc19a0aa.json))
+* **32** d-b-s-jeyaraj-com ([Memories of Pro-China Communist   Party Leader  Comrade “Shan”](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2c5cf9.json))
 
 * **30** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
 
