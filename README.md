@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 04:51:12 (LK time)*
+*As of 2022-07-16 05:07:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (1 Articles)
 
-* **3** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
-
-* **1** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
+* **1** daily-mirror-lk ([FSP Leader  Kumar Gunaratnam and his “Aragalaya”](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e371d419.json))
 
 ## Last 24 Hours (236 Articles)
 
