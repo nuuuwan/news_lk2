@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-government-cbsl-governor",
+    "time_ut": 1657879800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka faces shutdown without stable government: CBSL governor",
+    "file_name": "/tmp/news_lk2/articles/6d/6d8327c3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/1-616470",
+    "time_ut": 1657879760,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dbd\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/35/3549aeea.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dd4\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0da7-\u0d91\u0dba\u0dd2/1-616469",
+    "time_ut": 1657879666,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dbd\u0dc3\u0dd4\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0da7 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/26/26398f8d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-risk-free-govt-security-rates-fall-on-political-stability-hopes-97466/",
+    "time_ut": 1657879260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka risk free govt security rates fall on political stability hopes",
+    "file_name": "/tmp/news_lk2/articles/29/294ea4a4.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0d9a\u0dd0\u0dbb\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf\u2019\u2019/101-616468",
     "time_ut": 1657879227,
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/31/3139f820.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-airport-vip-terminal-shut-by-union-move-97266/",
-    "time_ut": 1657599360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka airport VIP terminal shut by union move",
-    "file_name": "/tmp/news_lk2/articles/59/595bee15.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Clash-between-two-protesting-factions-at-Temple-Trees-10-hospitalised/108-240902",
-    "time_ut": 1657597691,
-    "original_lang": "en",
-    "original_title": "Clash between two protesting factions at Temple Trees, 10 hospitalised",
-    "file_name": "/tmp/news_lk2/articles/fb/fb98d30e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-13-\u0d9a\u0dca-\u0db4\u0dd0\u0dbb\u0dd0\u0dab\u0dd2-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dba\u0dda-\u0dc0\u0dbb\u0dca\u0dab-\u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4-\u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3/14-616281",
-    "time_ut": 1657596953,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 13 \u0d9a\u0dca \u0db4\u0dd0\u0dbb\u0dd0\u0dab\u0dd2 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dba\u0dda \u0dc0\u0dbb\u0dca\u0dab \u0da1\u0dcf\u0dba\u0dcf\u0dbb\u0dd6\u0db4 \u0d91\u0dc5\u0dd2\u0daf\u0d9a\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/54/54411ff0.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb2\u0bb0\u0bbf\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-10-\u0baa\u0bc7\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-300235",
-    "time_ut": 1657596563,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb2\u0bb0\u0bbf\u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd; 10 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/24/24da3b1a.json"
   }
 ]
