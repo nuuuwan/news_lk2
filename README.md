@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 02:00:12 (LK time)*
+*As of 2022-07-17 02:14:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
-
-* **1** ada-derana-lk ([Ex-President Gotabaya says he ‘took all possible steps’ to prevent crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6314c851.json))
-
-## Last 24 Hours (153 Articles)
+## Last 24 Hours (150 Articles)
 
 * **33** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -16,11 +12,11 @@
 
 * **21** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
-* **20** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
-
-* **15** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+* **19** ada-derana-lk ([Several areas to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16f93027.json))
 
 * **15** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
+
+* **13** daily-mirror-lk ([FSP Leader  Kumar Gunaratnam and his “Aragalaya”](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e371d419.json))
 
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
