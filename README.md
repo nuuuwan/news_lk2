@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 00:51:47 (LK time)*
+*As of 2022-07-17 01:07:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,13 +10,13 @@
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
-## Last 24 Hours (153 Articles)
+## Last 24 Hours (152 Articles)
 
 * **32** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **24** tamil-mirror-lk ([’நெருக்கடியை தீர்க்க நடவடிக்கை எடுக்கவேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2687729a.json))
+* **23** tamil-mirror-lk ([’மக்களின் கருத்துக்களுக்கு மதிப்பளிக்க வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3b6ef86.json))
 
 * **20** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
 
@@ -32,7 +32,7 @@
 
 * **1** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
 
-## Last Week (1,560 Articles)
+## Last Week (1,558 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -56,9 +56,9 @@
 
 * **28** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-* **26** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
-
 * **25** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
+
+* **24** d-b-s-jeyaraj-com ([Dragged into the darkness by dictatorship, democracy is the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/455f55dd.json))
 
 ## All Time (1,979 Articles)
 
