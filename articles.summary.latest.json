@@ -160,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/9a/9ab24582.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300503",
+    "time_ut": 1657910799,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/60/60a219eb.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Postcard-from-Sri-Lanka/4-737556",
     "time_ut": 1657910270,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d85\u0daf \u0d9c\u0dd1\u0dc3\u0dca \u0dc3\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dbb 75,000 \u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/a4/a4baaca3.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Religious-leaders-ready-to-nominate-civil-activists-for-Presidency-if-no-consensus-by-political-parties-Ven-Sobitha-Thera/342-240921",
-    "time_ut": 1657624913,
-    "original_lang": "en",
-    "original_title": "Religious leaders ready to nominate civil activists for Presidency; if no consensus by political parties: Ven. Sobitha Thera",
-    "file_name": "/tmp/news_lk2/articles/0f/0f3c81c8.json"
   }
 ]
