@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 17:02:13 (LK time)*
+*As of 2022-07-16 17:10:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,11 +16,11 @@
 
 * **1** virakesari-lk ([இராணுவ வீரரை தாக்கி துப்பாக்கி அபகரிக்கப்பட்ட சம்பவம் - விசாரணைகள் சி.சி.டி.யினரிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42d34878.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (17 Articles)
 
-* **6** virakesari-lk ([இடைக்கால ஜனாதிபதி தெரிவுக்கான அரசியலமைப்பு விதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c492c79.json))
+* **4** virakesari-lk ([சமையல் எரிவாயு கோரி மன்னாரில் மக்கள் வீதியை மறித்து போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2ceab80.json))
 
-* **5** lankadeepa-lk ([ජාතික ඉන්ධන බලපත්‍ර ලියාපදිංචි කිරීම ඇරඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/903f3296.json))
+* **4** lankadeepa-lk ([පොහොට්ටු සභාපති - ලේකම්ගෙන් කරුණු විමසයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0aa49a4.json))
 
 * **3** tamil-mirror-lk ([ரணில் விவகாரம்: சாகர எம்.பிக்கு பீரிஸ் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3633e83b.json))
 
@@ -32,11 +32,11 @@
 
 * **1** news-first-lk ([SLFP will NOT vote for any candidate without future framework: Maithripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58b61ec3.json))
 
-## Last 24 Hours (208 Articles)
+## Last 24 Hours (206 Articles)
 
-* **38** lankadeepa-lk ([මහින්දට-බැසිල්ට 28තෙක් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8615af57.json))
+* **37** lankadeepa-lk ([පොහොට්ටුවේ සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aac4cb4a.json))
 
-* **36** virakesari-lk ([கோட்டாபயவின் பதவி விலகலை பாற்சோறு பொங்கி கொண்டாடிய காலிமுகத்திடல் போராட்டக்காரர்கள்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94813cb8.json))
+* **35** virakesari-lk ([அஸ்கிரிய பீடம் சகல அரசியல்வாதிகளுக்கும் விடுத்துள்ள வேண்டுகோள் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1f14296.json))
 
 * **26** tamil-mirror-lk ([மஹிந்த, பெசில் வெளிநாடு செல்ல தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43672fbd.json))
 
