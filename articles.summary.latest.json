@@ -224,6 +224,14 @@
     "file_name": "/tmp/news_lk2/articles/1f/1fb4eb5f.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0db8\u0dd4-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0-18-\u0daf\u0dcf---19-\u0daf\u0dcf-\u0d85\u0dad\u0dbb/11-395475",
+    "time_ut": 1657971990,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0 18 \u0daf\u0dcf - 19 \u0daf\u0dcf \u0d85\u0dad\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/ac/acad1c71.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-16-and-july-17-97476/",
     "time_ut": 1657971900,
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/fb/fb48c8f9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83611/properties-of-historical-value-at-presidents-house-damaged-archaeology-dept",
-    "time_ut": 1657681620,
-    "original_lang": "en",
-    "original_title": "Properties of historical value at President\u2019s House damaged - Archaeology Dept",
-    "file_name": "/tmp/news_lk2/articles/ac/ac0d9ddc.json"
   }
 ]
