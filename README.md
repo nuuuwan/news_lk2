@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 02:40:17 (LK time)*
+*As of 2022-07-17 02:50:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (149 Articles)
+## Last 24 Hours (147 Articles)
 
-* **33** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
+* **34** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
@@ -16,21 +16,21 @@
 
 * **15** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
-* **12** daily-mirror-lk ([IMF hopes to soon resume Sri Lanka high-level discussions](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76649211.json))
-
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
+
+* **10** daily-mirror-lk ([Acting President has edge with SLPP support](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba14686f.json))
 
 * **4** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
 
-* **3** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
-
 * **3** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
 
-## Last Week (1,560 Articles)
+* **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
+
+## Last Week (1,561 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **225** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
+* **226** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
 
 * **202** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -54,13 +54,13 @@
 
 * **23** d-b-s-jeyaraj-com ([If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d86e4f0.json))
 
-## All Time (1,982 Articles)
+## All Time (1,983 Articles)
 
 * **299** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **256** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **226** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **227** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **210** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
