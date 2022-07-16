@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 20:22:33 (LK time)*
+*As of 2022-07-16 20:30:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,11 +12,11 @@
 
 * **1** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
-## Last 3 Hours (14 Articles)
-
-* **4** ada-derana-lk ([Minister Kanchana urges public not to queue up for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb4eb5f.json))
+## Last 3 Hours (12 Articles)
 
 * **3** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
+
+* **2** ada-derana-lk ([SJB reaffirms Sajith’s candidature for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9796bfe9.json))
 
 * **2** tamil-mirror-lk ([வரிசையில் நிற்போரை அகற்ற இராணுவ உதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b38d2a3e.json))
 
@@ -26,11 +26,11 @@
 
 * **1** news-first-lk ([Acting President suggests urgent relief program for essentials](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccfd52b.json))
 
-## Last 24 Hours (203 Articles)
+## Last 24 Hours (201 Articles)
 
 * **37** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **33** lankadeepa-lk ([පොහොට්ටුවේ නිල සහාය රනිල්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1f5463f.json))
+* **32** lankadeepa-lk ([ජනාධිපති-අගමැති සටනට සමඟි ජන බලවේගයත් එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6bd7f8.json))
 
 * **27** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
@@ -42,7 +42,7 @@
 
 * **18** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
 
-* **14** ada-lk ([සජිත් ජනපති සටනට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a0cb330.json))
+* **13** ada-lk ([ඩීසල් මෙට්‍රික් ටොන් 40000ක් අද දිවයිනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a07a6c.json))
 
 * **6** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
 
