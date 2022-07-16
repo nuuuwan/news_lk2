@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 23:28:41 (LK time)*
+*As of 2022-07-16 23:37:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **1** ada-derana-lk ([Ex-President Gotabaya says he ‘took all possible steps’ to prevent crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6314c851.json))
-
-* **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
 ## Last Hour (3 Articles)
 
@@ -16,11 +10,9 @@
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (5 Articles)
 
 * **2** ada-derana-lk ([Will begin urgent relief program to provide essentials, Ranil says](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a9a8f6d.json))
-
-* **2** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
