@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131591",
+    "time_ut": 1657956214,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/73/73772796.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131578",
+    "time_ut": 1657956018,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 2 \u0b86\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bae\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0ba4\u0bca\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/e8/e83b665d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83684/anura-kumara-to-join-race-for-presidency",
+    "time_ut": 1657955880,
+    "original_lang": "en",
+    "original_title": "Anura Kumara to join race for presidency",
+    "file_name": "/tmp/news_lk2/articles/29/2948c4ed.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/AKD-to-contest-for-presidency-from-NPP/342-241221",
     "time_ut": 1657955109,
     "original_lang": "en",
     "original_title": "AKD to contest for presidency from NPP",
     "file_name": "/tmp/news_lk2/articles/c7/c7edccb6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/anura-kumara-dissanayake-to-contest-for-presidency/",
+    "time_ut": 1657955040,
+    "original_lang": "en",
+    "original_title": "Anura Kumara Dissanayake to contest for Presidency",
+    "file_name": "/tmp/news_lk2/articles/cc/cc69e900.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -64,6 +96,14 @@
     "file_name": "/tmp/news_lk2/articles/0a/0ae16455.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/maithripala-warns-of-a-divide-in-parliament/",
+    "time_ut": 1657953660,
+    "original_lang": "en",
+    "original_title": "Maithripala warns of a divide in Parliament",
+    "file_name": "/tmp/news_lk2/articles/b5/b501e77c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0daf\u0dd0\u0d9a\u0dca\u0db8\u0d9a\u0dca-\u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2-\u0d9c\u0db8\u0db1\u0d9a\u0dca/2-616518",
     "time_ut": 1657953314,
@@ -94,6 +134,22 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 40,000 \u0d9a\u0dca \u0d91\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/04/041ead0e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/i-will-serve-the-country-even-after-my-resignation-former-president/",
+    "time_ut": 1657952700,
+    "original_lang": "en",
+    "original_title": "I will serve the country even after my resignation: former President",
+    "file_name": "/tmp/news_lk2/articles/2d/2d3f1a0a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/43000-mt-diesel-reaches-sri-lanka/",
+    "time_ut": 1657952160,
+    "original_lang": "en",
+    "original_title": "43,000 MT Diesel reaches Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b4/b4f1280c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "RW becoming President violates aspirations",
     "file_name": "/tmp/news_lk2/articles/ba/ba43b8c6.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Gas-distribution/110-240931",
-    "time_ut": 1657641448,
-    "original_lang": "en",
-    "original_title": "Gas distribution...",
-    "file_name": "/tmp/news_lk2/articles/77/7794437d.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62144683",
-    "time_ut": 1657641322,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dc0 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/66/668c101b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131346",
-    "time_ut": 1657641285,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd\u00a0\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/1d/1d1a4a7e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Getting-back-to-normal/342-240930",
-    "time_ut": 1657640870,
-    "original_lang": "en",
-    "original_title": "Getting back to normal...",
-    "file_name": "/tmp/news_lk2/articles/0a/0a0e34e9.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300288",
-    "time_ut": 1657640624,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/4c/4c75b20f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/petitions-filed-in-supreme-court-to-prevent-rajapaksas-officials-from-leaving-sri-lanka-97291/",
-    "time_ut": 1657640460,
-    "original_lang": "en",
-    "original_title": "Petitions filed in Supreme Court to prevent Rajapaksas, officials from leaving Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/d0/d091d293.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0dc4\u0dbb\u0dc0\u0dcf-\u0dba\u0dc0\u0db1\u0dca\u0db1-\u0d86\u0d9c\u0db8\u0db1-\u0dc0\u0dd2\u0d9c\u0db8\u0db1-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0db6\u0dbd\u0dba\u0d9a\u0dca-\u0db1\u0dd1/1-616320",
-    "time_ut": 1657640377,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dc4\u0dbb\u0dc0\u0dcf \u0dba\u0dc0\u0db1\u0dca\u0db1 \u0d86\u0d9c\u0db8\u0db1 \u0dc0\u0dd2\u0d9c\u0db8\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0db6\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/4d/4dc75517.json"
   }
 ]
