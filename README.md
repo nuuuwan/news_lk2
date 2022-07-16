@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 13:02:05 (LK time)*
+*As of 2022-07-16 13:10:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
 
 * **2** virakesari-lk ([இலங்கைக்கு 2 ஆம் கட்டமாக ஆயிரம் மெற்றிக்தொன் அரிசியை வழங்கியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e83b665d.json))
 
 * **1** ada-derana-lk ([Anura Kumara to join race for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2948c4ed.json))
 
-* **1** daily-mirror-lk ([AKD to contest for presidency from NPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7edccb6.json))
-
-* **1** news-first-lk ([Anura Kumara Dissanayake to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc69e900.json))
-
-## Last Hour (15 Articles)
+## Last Hour (13 Articles)
 
 * **4** virakesari-lk ([இன்று பல பகுதிகளில் மழை பெய்யும் சாத்தியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2456715.json))
 
@@ -24,19 +20,19 @@
 
 * **2** news-first-lk ([Maithripala warns of a divide in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b501e77c.json))
 
-* **2** tamil-mirror-lk ([நாட்டுக்கு சேவையாற்ற எப்போதும் தயார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a58a192.json))
+* **1** tamil-mirror-lk ([அனுர குமாரவும் அதிரடி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5ff5db2.json))
 
-* **2** lankadeepa-lk ([දැක්මක් නොමැති ගමනක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7a10aab.json))
+* **1** lankadeepa-lk ([රන්ජන්ට නිදහස ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5b6a8dc2.json))
 
 * **1** ada-lk ([පාර්ලිමේන්තුවේ අද වැඩ වුණේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ae16455.json))
 
-## Last 3 Hours (52 Articles)
-
-* **10** virakesari-lk ([சபாநாயகரை சந்தித்தார் இந்திய உயர்ஸ்தானிகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c760aa1c.json))
+## Last 3 Hours (48 Articles)
 
 * **10** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
-* **10** lankadeepa-lk ([තුන්වේල කාපු පවුල් ලක්ෂ 9ක් එක වේලට වැටිලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a16292e0.json))
+* **8** virakesari-lk ([ஜனாதிபதி பதவிக்கு ஒருவர் போட்டியிட்டால் 19 ஆம் திகதி அறிவிப்பு ! பலர் போட்டியிட்டால் 20 ஆம் திகதி வாக்கெடுப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79c17752.json))
+
+* **8** lankadeepa-lk ([ජනපති ධුරය හිස් වී ඇතැයි පාර්ලිමේන්තුවට දැනුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37fead72.json))
 
 * **7** tamil-mirror-lk ([அறிமுகமாகிறது எரிபொருள் ’பாஸ்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fc1e952.json))
 
@@ -46,15 +42,15 @@
 
 * **3** ada-derana-lk ([Vacancy in office of President officially announced in parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0952068e.json))
 
-## Last 24 Hours (231 Articles)
+## Last 24 Hours (228 Articles)
 
 * **40** lankadeepa-lk ([’’ස්ථාවර රජයක් පත් නොකලොත් රට අකර්මණ්‍ය වෙයි’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9e953df.json))
 
 * **34** virakesari-lk ([இந்திய மீனவர்கள் 11 பேருக்கு விடுதலை ; இரு படகுகள் அரசுடமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81ecadd0.json))
 
-* **28** tamil-mirror-lk ([ரயில் மோதி ஒருவர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80502001.json))
-
 * **26** news-first-lk ([Fuel for health workers today (15)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6bc9455.json))
+
+* **26** tamil-mirror-lk ([ஜீவன் அதிரடி முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abded865.json))
 
 * **24** ada-derana-lk ([Derailment interrupts train operations on Coastal Line](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2edc395c.json))
 
@@ -62,7 +58,7 @@
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
-* **20** ada-lk ([වැඩබලන ජනපති ලෙස රනිල් දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a035d06e.json))
+* **19** ada-lk ([ජනපතිධුරය පුරප්පාඩු වී ඇති බව නිවේදනය කිරීම හෙට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f47fca4.json))
 
 * **5** economy-next-com ([Sri Lanka acting president vows to restore 19th amendment, establish law & order](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e768c9c.json))
 
