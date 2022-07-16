@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Guidelines-to-register-with-National-Fuel-Pass-system/342-241222",
+    "time_ut": 1657968576,
+    "original_lang": "en",
+    "original_title": "Guidelines to register with National Fuel Pass system",
+    "file_name": "/tmp/news_lk2/articles/b6/b632ad1c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0da7/11-395473",
+    "time_ut": 1657967216,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dd4\u0dbb\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/18/1878d61e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83687/gl-questions-kariyawasam-on-backing-ranil-for-office-of-president",
     "time_ut": 1657967160,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "CIPM inaugurates fourth regional centre in Gampaha strengthening access to HR programs and Professional Development",
     "file_name": "/tmp/news_lk2/articles/51/5102d798.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Clogard-introduces-Clogard-Pancha-Shakthi-all-new-multi-beneficial-toothpaste/34-737414",
-    "time_ut": 1657655719,
-    "original_lang": "en",
-    "original_title": "Clogard introduces Clogard Pancha Shakthi; all-new multi-beneficial toothpaste",
-    "file_name": "/tmp/news_lk2/articles/f6/f634ecac.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Mistral-and-Havells-Air-Fryers-by-Abans-all-in-one-solution-for-gas-shortage/34-737413",
-    "time_ut": 1657655694,
-    "original_lang": "en",
-    "original_title": "Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage",
-    "file_name": "/tmp/news_lk2/articles/23/235ea505.json"
   }
 ]
