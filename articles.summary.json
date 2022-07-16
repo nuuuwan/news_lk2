@@ -8,6 +8,14 @@
     "file_name": "/tmp/news_lk2/articles/b6/b632ad1c.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131613",
+    "time_ut": 1657968077,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b85\u0baa\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd - \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bbf.\u0b9a\u0bbf.\u0b9f\u0bbf.\u0baf\u0bbf\u0ba9\u0bb0\u0bbf\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/42/42d34878.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0da7/11-395473",
     "time_ut": 1657967216,
@@ -62,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd\u0da7\u0dc0\u0dd6 \u0dc0\u0dd2\u0db1\u0dcf\u0dc1\u0dba \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0d9c\u0dab\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/60/60fd8aba.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131601",
+    "time_ut": 1657964048,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc7\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 110 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd - \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/02/021b9492.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
