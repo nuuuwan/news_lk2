@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131593",
+    "time_ut": 1657958063,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0bae\u0bcd\u0bae\u0bbe\u0b9a\u0ba9\u0bae\u0bcd \u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 ? \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 4 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/a1/a18dc4c5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83685/sri-lanka-introduces-national-fuel-pass",
+    "time_ut": 1657958040,
+    "original_lang": "en",
+    "original_title": "Sri Lanka introduces national fuel pass",
+    "file_name": "/tmp/news_lk2/articles/64/64ef11e7.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca-\u0d89\u0da7\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/1-616520",
     "time_ut": 1657957796,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0dda \u0dc3\u0db8\u0dcf\u0dc0 \u0d89\u0dbd\u0dca\u0dbd\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2 - \u0db4\u0dcf\u0da8\u0dbd\u0dd3",
     "file_name": "/tmp/news_lk2/articles/ea/ea887c61.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78537",
-    "time_ut": 1657641600,
-    "original_lang": "en",
-    "original_title": "\u201cI do not believe that those who celebrate the events of Saturday 9 July 2022 as \u201cPeople\u2019s Victory\u201d have stopped for a moment to consider or analyse the long-term consequences and repercussions of those events and the socio-economic upheaval that is coming our way\u201d",
-    "file_name": "/tmp/news_lk2/articles/19/196417c3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131347",
-    "time_ut": 1657641578,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ce/cebfb722.json"
   }
 ]
