@@ -1,14 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 20:30:41 (LK time)*
+*As of 2022-07-16 20:39:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 * **1** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
-## Last Hour (1 Articles)
+## Last Hour (2 Articles)
+
+* **1** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 * **1** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
@@ -24,11 +28,11 @@
 
 * **2** economy-next-com ([Sri Lanka introduces fuel rational card to smooth distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a0c9f1b.json))
 
-* **1** news-first-lk ([Acting President suggests urgent relief program for essentials](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccfd52b.json))
+* **1** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 ## Last 24 Hours (201 Articles)
 
-* **37** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
+* **39** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
 * **32** lankadeepa-lk ([ජනාධිපති-අගමැති සටනට සමඟි ජන බලවේගයත් එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6bd7f8.json))
 
@@ -38,9 +42,9 @@
 
 * **22** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
 
-* **18** daily-mirror-lk ([China to play positive role in supporting SL: Wang  Wenbin](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b53a6.json))
-
 * **18** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
+
+* **16** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
 * **13** ada-lk ([ඩීසල් මෙට්‍රික් ටොන් 40000ක් අද දිවයිනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a07a6c.json))
 
@@ -56,7 +60,7 @@
 
 * **234** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **220** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
+* **222** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
 
 * **201** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -72,7 +76,7 @@
 
 * **80** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
-* **48** island-lk ([THE FINANCIAL CRISIS – MISMANAGEMENT, FEAR OR COLLUSION?](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/653f0d38.json))
+* **46** island-lk ([Sri Lanka’s popular brand ‘Hemas’ set to enter Omani market](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd554013.json))
 
 * **32** d-b-s-jeyaraj-com ([National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f31063.json))
 
@@ -80,13 +84,13 @@
 
 * **26** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## All Time (1,970 Articles)
+## All Time (1,972 Articles)
 
 * **298** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **255** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **221** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **223** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **210** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
