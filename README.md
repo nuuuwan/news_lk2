@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 23:50:31 (LK time)*
+*As of 2022-07-17 00:00:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
 
-* **2** ada-derana-lk ([Will begin urgent relief program to provide essentials, Ranil says](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a9a8f6d.json))
+* **1** ada-derana-lk ([Ex-President Gotabaya says he ‘took all possible steps’ to prevent crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6314c851.json))
 
-* **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
-
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (4 Articles)
 
 * **2** ada-derana-lk ([Will begin urgent relief program to provide essentials, Ranil says](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a9a8f6d.json))
 
@@ -18,9 +16,7 @@
 
 * **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
-* **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
-
-## Last 24 Hours (178 Articles)
+## Last 24 Hours (174 Articles)
 
 * **31** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -28,9 +24,9 @@
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **22** daily-ft-lk ([GROBR and next phase of Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32703f6.json))
-
 * **21** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
+
+* **18** daily-ft-lk ([The country can be saved not by an all-party government but by a non-party government](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce870744.json))
 
 * **15** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
