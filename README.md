@@ -1,30 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 15:36:12 (LK time)*
+*As of 2022-07-16 15:41:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (4 Articles)
 
 * **2** lankadeepa-lk ([මන්දිරවලටවූ විනාශය ගැන විගණනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60fd8aba.json))
 
-* **1** ada-derana-lk ([SLFP decides not to vote in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1284be08.json))
+* **1** virakesari-lk ([பெரும் அரசியல் தந்திரன் ' ரணில் '](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce3df771.json))
 
-## Last Hour (6 Articles)
+* **1** ada-derana-lk ([SLFP decides to refrain from voting in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e89af403.json))
+
+## Last Hour (7 Articles)
 
 * **3** lankadeepa-lk ([දිස්ත්‍රික්කවලට පොහොර බෙදෙන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97df192a.json))
 
-* **1** ada-derana-lk ([SLFP decides not to vote in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1284be08.json))
+* **2** virakesari-lk ([சமையல் எரிவாயு கோரி மன்னாரில் மக்கள் வீதியை மறித்து போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2ceab80.json))
+
+* **1** ada-derana-lk ([SLFP decides to refrain from voting in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e89af403.json))
 
 * **1** tamil-mirror-lk ([வேட்பாளர்களை கை விட்டது ’கை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e509a8.json))
 
-* **1** virakesari-lk ([சமையல் எரிவாயு கோரி மன்னாரில் மக்கள் வீதியை மறித்து போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2ceab80.json))
+## Last 3 Hours (29 Articles)
 
-## Last 3 Hours (28 Articles)
+* **9** virakesari-lk ([இலங்கைக்கு 2 ஆம் கட்டமாக ஆயிரம் மெற்றிக்தொன் அரிசியை வழங்கியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e83b665d.json))
 
 * **9** lankadeepa-lk ([ධනාත්මක කාර්යක් ඉටු කිරීමට චීනය සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50b5b46c.json))
-
-* **8** virakesari-lk ([இலங்கைக்கு 2 ஆம் கட்டமாக ஆயிரம் மெற்றிக்தொன் அரிசியை வழங்கியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e83b665d.json))
 
 * **4** ada-derana-lk ([Anura Kumara to join race for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2948c4ed.json))
 
@@ -34,19 +36,19 @@
 
 * **1** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
 
-## Last 24 Hours (221 Articles)
+## Last 24 Hours (217 Articles)
 
-* **43** lankadeepa-lk ([ඩලසුත් ජනපති සටනට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26398f8d.json))
+* **41** lankadeepa-lk ([විශේෂ කැබිනට් රැස්වීමක් අද සවස](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e84e816.json))
 
-* **35** virakesari-lk ([ரஷ்ய ஏரோபுளொட்  விமான விவகார வழக்கு தள்ளுபடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c516fe40.json))
+* **36** virakesari-lk ([ரஷ்ய ஏரோபுளொட்  விமான விவகார வழக்கு தள்ளுபடி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c516fe40.json))
 
 * **26** tamil-mirror-lk ([இராகலை வீட்டில் திடீர் தீ ; மூவர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca5747ea.json))
 
-* **25** news-first-lk ([Dullas ready to contest for vacant post of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ecd5615.json))
+* **24** news-first-lk ([New President : MPs now represent entire electorate of Sri Lanka, says BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1b3a912.json))
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
-* **22** ada-derana-lk ([Sri Lanka faces shutdown without stable govt: CBSL governor warns](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ecb6a23.json))
+* **20** ada-derana-lk ([Dullas Alahapperuma to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75980049.json))
 
 * **20** daily-mirror-lk ([MR and Basil prevented from leaving SL until July 28](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ca005a4.json))
 
@@ -62,11 +64,11 @@
 
 * **1** d-b-s-jeyaraj-com ([Acting President Ranil Wickremesinghe   Officially Prohibits  the use of ‘His Excellency’  or Her Excellency”to introduce the President ; also abolishes  the separate  presidential flag  saying Country  should have only the National flag.](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f960dbb.json))
 
-## Last Week (1,541 Articles)
+## Last Week (1,542 Articles)
 
 * **231** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **211** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
+* **212** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
 
 * **198** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -90,13 +92,13 @@
 
 * **26** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## All Time (1,937 Articles)
+## All Time (1,938 Articles)
 
 * **295** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **252** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **212** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **213** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **207** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
