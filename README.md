@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 00:20:02 (LK time)*
+*As of 2022-07-17 00:29:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
-## Last 24 Hours (169 Articles)
+## Last 24 Hours (161 Articles)
 
 * **31** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -26,9 +26,9 @@
 
 * **15** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
-* **15** daily-ft-lk ([The procedure for election of new President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab24582.json))
-
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
+
+* **7** daily-ft-lk ([Baurs commemorates 125th anniversary with series of community service initiatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/237eb95e.json))
 
 * **4** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
 
@@ -36,7 +36,7 @@
 
 * **1** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
 
-## Last Week (1,563 Articles)
+## Last Week (1,562 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -58,7 +58,7 @@
 
 * **46** island-lk ([Sri Lanka’s popular brand ‘Hemas’ set to enter Omani market](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd554013.json))
 
-* **30** d-b-s-jeyaraj-com ([Chandrika Kumaratunga Condemns Torching of Premier Wickremesinghe’s Home; “The ‘struggle’ does not need violence to achieve its goal of ousting a government that is highly disliked by the people”  says Former President](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45665698.json))
+* **29** d-b-s-jeyaraj-com ([Jubilant  Crowds  Wait in Lengthy Regulated  Queues  at President’s House and Presidential Secretariat to “tour”the Premises Seized by the People after the July 9  “Aragalaya” (Struggle)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b6c2d55.json))
 
 * **28** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
