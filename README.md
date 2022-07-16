@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 00:29:47 (LK time)*
+*As of 2022-07-17 00:36:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,9 +12,9 @@
 
 * **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
-## Last 24 Hours (161 Articles)
+## Last 24 Hours (155 Articles)
 
-* **31** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
+* **32** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
@@ -28,8 +28,6 @@
 
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
-* **7** daily-ft-lk ([Baurs commemorates 125th anniversary with series of community service initiatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/237eb95e.json))
-
 * **4** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
 
 * **3** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
@@ -40,7 +38,7 @@
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **223** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
+* **224** virakesari-lk ([எம்.சி.சி.யை மீண்டும் கொண்டுவரமாட்டோம் :  ஐ.எம்.எப். உடனான பேச்சுக்களில் தலையிடோம் - அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dabf120.json))
 
 * **202** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -58,19 +56,19 @@
 
 * **46** island-lk ([Sri Lanka’s popular brand ‘Hemas’ set to enter Omani market](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd554013.json))
 
-* **29** d-b-s-jeyaraj-com ([Jubilant  Crowds  Wait in Lengthy Regulated  Queues  at President’s House and Presidential Secretariat to “tour”the Premises Seized by the People after the July 9  “Aragalaya” (Struggle)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b6c2d55.json))
-
 * **28** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
+
+* **28** d-b-s-jeyaraj-com ([Eleven journalists attached to  TV Derana, News First and Sky News,  attacked by the Police and STF  while covering the protests in  Colombo on July 9](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df1a3043.json))
 
 * **25** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
-## All Time (1,978 Articles)
+## All Time (1,979 Articles)
 
 * **299** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **256** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **224** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **225** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **210** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
