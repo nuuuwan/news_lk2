@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0baa\u0bbe\u0bb8\u0bcd-\u0baa\u0bc6\u0bb1-\u0baa\u0ba4\u0bbf\u0bb5\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300527",
+    "time_ut": 1657957097,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u2019\u0baa\u0bbe\u0bb8\u0bcd\u2019 \u0baa\u0bc6\u0bb1 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/14/1466d03b.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131591",
     "time_ut": 1657956214,
@@ -550,6 +558,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/12/123a6612.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-morning-prayer-of-rajapaksas-ranil-saranam-gachchami/",
+    "time_ut": 1657937323,
+    "original_lang": "en",
+    "original_title": "The Morning Prayer Of Rajapaksas: Ranil Saranam Gachch\u0101mi",
+    "file_name": "/tmp/news_lk2/articles/54/54f26347.json"
   },
   {
     "newspaper_id": "virakesari-lk",
