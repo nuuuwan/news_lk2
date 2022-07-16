@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83688/minister-wijesekara-urges-public-not-to-queue-up-for-fuel",
+    "time_ut": 1657972740,
+    "original_lang": "en",
+    "original_title": "Minister Wijesekara urges public not to queue up for fuel",
+    "file_name": "/tmp/news_lk2/articles/76/769a3195.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-16-and-july-17-97476/",
     "time_ut": 1657971900,
@@ -14,14 +22,6 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb5\u0b9a\u0bb0 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd: \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/4d/4df92efc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/one-who-delivers-must-be-prez/",
-    "time_ut": 1657971480,
-    "original_lang": "en",
-    "original_title": "One who delivers, must be Prez",
-    "file_name": "/tmp/news_lk2/articles/37/37773bec.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
