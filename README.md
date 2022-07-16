@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 22:07:39 (LK time)*
+*As of 2022-07-16 22:17:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
 ## Last Hour (1 Articles)
 
 * **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (5 Articles)
 
-* **4** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
+* **2** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
 * **2** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 * **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
 
-* **1** ada-derana-lk ([Army denies reports on suspending brigadier on duty during protests near PM’s office](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cfc4110.json))
+## Last 24 Hours (181 Articles)
 
-## Last 24 Hours (186 Articles)
-
-* **37** virakesari-lk ([மஹிந்த, பசில் நாட்டிலிருந்து வெளியேற இடைக்கால தடை-](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c78e89.json))
+* **32** virakesari-lk ([புதிய ஜனாதிபதி தேர்வில் சஜித்தும் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/522a3db2.json))
 
 * **28** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6263a987.json))
 
