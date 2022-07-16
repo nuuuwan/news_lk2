@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83680/parliament-to-meet-today-two-entry-roads-temporarily-closed-for-traffic",
+    "time_ut": 1657943640,
+    "original_lang": "en",
+    "original_title": "Parliament to meet today, two entry roads temporarily closed for traffic",
+    "file_name": "/tmp/news_lk2/articles/86/865e84a7.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9f\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300514",
+    "time_ut": 1657943143,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9f\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1e/1e4fe898.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Acting-President-has-edge-with-SLPP-support/108-241217",
     "time_ut": 1657942684,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "U.S. \u2018rejects\u2019 Gotabaya\u2019s visa request after recent ousting by mass protests \u2013 The Hindu",
     "file_name": "/tmp/news_lk2/articles/77/7737e83e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-treasuries-yields-up-3-months-rise-to-32-11-pct-97287/",
-    "time_ut": 1657628160,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Treasuries yields up, 3-months rise to 32.11-pct",
-    "file_name": "/tmp/news_lk2/articles/34/34ceeadb.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dd6\u0db1\u0dd2-\u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3-27900-\u0d9a\u0dca-\u0dbb\u0da7-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7-\u0dba\u0dad\u0dd2/11-395363",
-    "time_ut": 1657628078,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 27900 \u0d9a\u0dca \u0dbb\u0da7 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7 \u0dba\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/75/754011ed.json"
   }
 ]
