@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 01:24:01 (LK time)*
+*As of 2022-07-17 01:25:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,13 +10,13 @@
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
-## Last 24 Hours (151 Articles)
+## Last 24 Hours (150 Articles)
 
 * **32** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **22** tamil-mirror-lk ([இலங்கை சட்டத்தரணிகள் சங்கம் வெளியிட்டுள்ள அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/220468dd.json))
+* **21** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
 * **20** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
 
