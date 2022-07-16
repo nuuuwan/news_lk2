@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc2\u0b9f\u0bbf\u0b95\u0bcd-\u0b95\u0bc1\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd/175-300519",
+    "time_ut": 1657950203,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc2\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf47e59.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/lanka-ioc-distribution-continues/",
+    "time_ut": 1657950060,
+    "original_lang": "en",
+    "original_title": "Lanka IOC distribution continues",
+    "file_name": "/tmp/news_lk2/articles/71/71ddc39c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0baf\u0bb0\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0b9a\u0bcd\u0b9a\u0baa\u0b9f\u0bcd\u0b9a-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf/175-300518",
     "time_ut": 1657949660,
     "original_lang": "ta",
     "original_title": "\u0b89\u0baf\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9a\u0bcd\u0b9a\u0baa\u0b9f\u0bcd\u0b9a \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
     "file_name": "/tmp/news_lk2/articles/58/583b750c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/no-bus-restrictions-today-16/",
+    "time_ut": 1657949640,
+    "original_lang": "en",
+    "original_title": "NO Bus restrictions today (16)",
+    "file_name": "/tmp/news_lk2/articles/7c/7cd9d1e4.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -14,6 +38,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 7 \u0baa\u0bc7\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0b9e\u0bcd\u0b9a\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/4b/4b684210.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/litro-to-continue-gas-distribution/",
+    "time_ut": 1657949160,
+    "original_lang": "en",
+    "original_title": "Litro to continue gas distribution",
+    "file_name": "/tmp/news_lk2/articles/18/18030f11.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -30,6 +62,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db1\u0dc0 \u0d85\u0db7\u0dca\u200d\u0dba\u0dc0\u0d9a\u0dcf\u0dc1 \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf \u0dad\u0ddd\u0dbb\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/64/64c6c652.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/3-395467",
+    "time_ut": 1657948844,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e3955a44.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Navy rescues 55 suspected illegal migrants aboard distressed trawler",
     "file_name": "/tmp/news_lk2/articles/69/693e9cf3.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/lpl-2022-schedule-announced-24-matches-in-total/",
-    "time_ut": 1657636020,
-    "original_lang": "en",
-    "original_title": "LPL 2022 schedule announced; 24 matches in total",
-    "file_name": "/tmp/news_lk2/articles/79/79adbe1e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131337",
-    "time_ut": 1657635454,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd  ?",
-    "file_name": "/tmp/news_lk2/articles/6e/6e8df182.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131348",
-    "time_ut": 1657635371,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd -\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9a\u0bbf.\u0b9a\u0bbf.\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/38/38c432ca.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131332",
-    "time_ut": 1657635356,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bae\u0bc2\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8 - \u0bb5\u0bbf\u0bae\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a",
-    "file_name": "/tmp/news_lk2/articles/e7/e7af12f4.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131331",
-    "time_ut": 1657635250,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4, \u0baa\u0b9a\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bc8 \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0ba8\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd : \u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd, \u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2.\u0b9f\u0bbf.\u0bb2\u0b95\u0bcd\u0bb7\u0bcd\u0bae\u0ba9\u0bcd, \u0b86\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb2 \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc8 \u0b95\u0bcb\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 !",
-    "file_name": "/tmp/news_lk2/articles/9e/9ee02231.json"
   }
 ]
