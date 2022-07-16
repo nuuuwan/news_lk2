@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 00:36:38 (LK time)*
+*As of 2022-07-17 00:51:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **2** ada-derana-lk ([Will begin urgent relief program to provide essentials, Ranil says](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a9a8f6d.json))
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
-* **1** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
-
-## Last 24 Hours (155 Articles)
+## Last 24 Hours (153 Articles)
 
 * **32** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **25** tamil-mirror-lk ([அரச மருத்துவ அதிகாரிகள் சங்கத்தின் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08487f71.json))
+* **24** tamil-mirror-lk ([’நெருக்கடியை தீர்க்க நடவடிக்கை எடுக்கவேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/2687729a.json))
 
-* **21** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
+* **20** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
 
 * **15** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
@@ -34,7 +32,7 @@
 
 * **1** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
 
-## Last Week (1,562 Articles)
+## Last Week (1,560 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -58,7 +56,7 @@
 
 * **28** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-* **28** d-b-s-jeyaraj-com ([Eleven journalists attached to  TV Derana, News First and Sky News,  attacked by the Police and STF  while covering the protests in  Colombo on July 9](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df1a3043.json))
+* **26** d-b-s-jeyaraj-com ([UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87c39278.json))
 
 * **25** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
