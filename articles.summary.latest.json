@@ -1,11 +1,11 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/slfp-will-not-vote-for-any-candidate-without-future-framework-maithripala/",
-    "time_ut": 1657961040,
-    "original_lang": "en",
-    "original_title": "SLFP will NOT vote for any candidate without future framework: Maithripala",
-    "file_name": "/tmp/news_lk2/articles/58/58b61ec3.json"
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9a\u0bbe\u0b95\u0bb0-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-300528",
+    "time_ut": 1657961829,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9a\u0bbe\u0b95\u0bb0 \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/36/3633e83b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -38,14 +38,6 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d87\u0dbb\u0db9\u0dda",
     "file_name": "/tmp/news_lk2/articles/90/903f3296.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/energy-minister-explains-new-fuel-pass-system/",
-    "time_ut": 1657960260,
-    "original_lang": "en",
-    "original_title": "Energy Minister explains new fuel pass system",
-    "file_name": "/tmp/news_lk2/articles/08/08c26f02.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7998,5 +7990,13 @@
     "original_lang": "en",
     "original_title": "JVP urges PM to resign or Prez to remove him to avert his moves to become Prez",
     "file_name": "/tmp/news_lk2/articles/38/38856c64.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Rationalise-public-and-private-travelling/4-737403",
+    "time_ut": 1657649837,
+    "original_lang": "en",
+    "original_title": "Rationalise public and private travelling",
+    "file_name": "/tmp/news_lk2/articles/31/3132faec.json"
   }
 ]
