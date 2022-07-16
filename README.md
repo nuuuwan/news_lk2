@@ -1,48 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 16:47:55 (LK time)*
+*As of 2022-07-16 17:02:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b632ad1c.json))
+* **1** tamil-mirror-lk ([பெற்றோல் கப்பல் வரும்: டீசல் குறித்து சோதனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a34d40.json))
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
+
+* **1** tamil-mirror-lk ([பெற்றோல் கப்பல் வரும்: டீசல் குறித்து சோதனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a34d40.json))
 
 * **1** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b632ad1c.json))
 
 * **1** virakesari-lk ([இராணுவ வீரரை தாக்கி துப்பாக்கி அபகரிக்கப்பட்ட சம்பவம் - விசாரணைகள் சி.சி.டி.யினரிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42d34878.json))
 
-* **1** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
+## Last 3 Hours (20 Articles)
 
-* **1** ada-derana-lk ([GL questions Kariyawasam on backing Ranil for office of president](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7d483f5.json))
+* **6** virakesari-lk ([இடைக்கால ஜனாதிபதி தெரிவுக்கான அரசியலமைப்பு விதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c492c79.json))
 
-## Last 3 Hours (24 Articles)
+* **5** lankadeepa-lk ([ජාතික ඉන්ධන බලපත්‍ර ලියාපදිංචි කිරීම ඇරඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/903f3296.json))
 
-* **8** virakesari-lk ([ரஞ்சன் ராமநாயக்க விடுதலை?](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/7016a5f6.json))
-
-* **6** lankadeepa-lk ([‘‘මහ ලේකම් කිව්වේ මහා බොරුවක්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1abb39ab.json))
+* **3** tamil-mirror-lk ([ரணில் விவகாரம்: சாகர எம்.பிக்கு பீரிஸ் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3633e83b.json))
 
 * **3** ada-derana-lk ([SLFP decides not to vote in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1284be08.json))
-
-* **2** tamil-mirror-lk ([ரணில் விவகாரம்: சாகர எம்.பிக்கு பீரிஸ் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3633e83b.json))
-
-* **2** news-first-lk ([Energy Minister explains new fuel pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08c26f02.json))
 
 * **1** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b632ad1c.json))
 
 * **1** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
 
-* **1** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
+* **1** news-first-lk ([SLFP will NOT vote for any candidate without future framework: Maithripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58b61ec3.json))
 
-## Last 24 Hours (209 Articles)
+## Last 24 Hours (208 Articles)
 
 * **38** lankadeepa-lk ([මහින්දට-බැසිල්ට 28තෙක් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8615af57.json))
 
-* **37** virakesari-lk ([ஜனாதிபதி பதவிக்கான வாக்கெடுப்பில் போட்டியிட தயார் - டலஸ் அழகபெரும](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/311f49f8.json))
+* **36** virakesari-lk ([கோட்டாபயவின் பதவி விலகலை பாற்சோறு பொங்கி கொண்டாடிய காலிமுகத்திடல் போராட்டக்காரர்கள்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94813cb8.json))
 
-* **26** tamil-mirror-lk ([இராகலை வீட்டில் திடீர் தீ ; மூவர் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca5747ea.json))
+* **26** tamil-mirror-lk ([மஹிந்த, பெசில் வெளிநாடு செல்ல தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43672fbd.json))
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
@@ -64,7 +60,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Acting President Ranil Wickremesinghe   Officially Prohibits  the use of ‘His Excellency’  or Her Excellency”to introduce the President ; also abolishes  the separate  presidential flag  saying Country  should have only the National flag.](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f960dbb.json))
 
-## Last Week (1,544 Articles)
+## Last Week (1,545 Articles)
 
 * **231** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -72,7 +68,7 @@
 
 * **199** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
-* **182** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **183** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **150** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
@@ -92,7 +88,7 @@
 
 * **26** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
 
-## All Time (1,945 Articles)
+## All Time (1,946 Articles)
 
 * **295** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -102,7 +98,7 @@
 
 * **209** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **182** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **183** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **151** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
