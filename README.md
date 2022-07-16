@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 06:32:45 (LK time)*
+*As of 2022-07-16 07:08:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,7 +18,7 @@
 
 * **23** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
-* **20** tamil-mirror-lk ([ஐக்கிய மக்கள் சக்தியின்  பிரதமருக்கான அறிவிப்பு இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12423f8f.json))
+* **20** tamil-mirror-lk ([இலங்கை தொடர்பில் உன்னிப்பாக அவதானிக்கும் ஐ.எம்.எப்.](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48ce2d48.json))
 
 * **20** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
@@ -36,7 +36,7 @@
 
 * **190** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
-* **163** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **164** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **138** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
@@ -50,13 +50,13 @@
 
 * **52** island-lk ([Ceylon Government Railway – when the Burghers ruled the roost](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a7191f9.json))
 
-* **30** b-b-c-com-sinhala ([''#GOTAGOHOME '' ; ''අද යනවා ගෝඨා අනිවාර්යෙන්. අද යවලා තමයි පස්ස බලන්නේ.''](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00a56d6e.json))
-
 * **30** d-b-s-jeyaraj-com ([National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f31063.json))
+
+* **29** b-b-c-com-sinhala ([''#GOTAGOHOME ''; කඳුළු ගෑස්; අධිපීඩක ජල ප්‍රහාර නොතකා ජනතාව ජනපති මන්දිරයට ඇතුල්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed4b132b.json))
 
 * **24** colombo-telegraph-com ([War On China? – V: A “Carnival” Of Quads](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/baddcf96.json))
 
-## All Time (1,827 Articles)
+## All Time (1,828 Articles)
 
 * **272** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +66,7 @@
 
 * **193** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **163** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **164** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **151** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
