@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 01:07:38 (LK time)*
+*As of 2022-07-17 01:24:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,13 +10,13 @@
 
 * **1** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
-## Last 24 Hours (152 Articles)
+## Last 24 Hours (151 Articles)
 
 * **32** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **23** tamil-mirror-lk ([’மக்களின் கருத்துக்களுக்கு மதிப்பளிக்க வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3b6ef86.json))
+* **22** tamil-mirror-lk ([இலங்கை சட்டத்தரணிகள் சங்கம் வெளியிட்டுள்ள அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/220468dd.json))
 
 * **20** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
 
@@ -32,7 +32,7 @@
 
 * **1** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
 
-## Last Week (1,558 Articles)
+## Last Week (1,557 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -58,7 +58,7 @@
 
 * **25** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
-* **24** d-b-s-jeyaraj-com ([Dragged into the darkness by dictatorship, democracy is the only way out into the light](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/455f55dd.json))
+* **23** d-b-s-jeyaraj-com ([If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d86e4f0.json))
 
 ## All Time (1,979 Articles)
 
