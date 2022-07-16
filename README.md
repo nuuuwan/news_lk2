@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 21:04:33 (LK time)*
+*As of 2022-07-16 21:13:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
 
-* **1** virakesari-lk ([நாட்டின் தலைவிதியை தீர்மானிக்கப்போகும் 20](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31d87810.json))
-
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **2** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
 * **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
-
-* **1** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
 ## Last 3 Hours (11 Articles)
 
@@ -30,9 +26,9 @@
 
 * **1** tamil-mirror-lk ([பிரிகேடியர் குறித்த செய்தி பொய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ff06cd1.json))
 
-## Last 24 Hours (196 Articles)
+## Last 24 Hours (194 Articles)
 
-* **39** virakesari-lk ([இலங்கையில் ஜனநாயகக் கோட்பாடுகளுக்கு அமைய மிக விரைவில் அரசியல் தீர்வு கிடைக்கப்பெற இந்தியா ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e497a59.json))
+* **38** virakesari-lk ([புதிய ஜனாதிபதி தெரிவில் பதில் ஜனாதிபதி  ரணிலுக்கு ஆதரவு  - ஸ்ரீலங்கா பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc0b7ed8.json))
 
 * **29** lankadeepa-lk ([කටුගහහේන රෝහලෙන් දේව ක්‍රියාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90fa9a0.json))
 
@@ -44,7 +40,7 @@
 
 * **17** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
-* **17** news-first-lk ([SLPP must support candidate fielded by the party: G.L. Peiris](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9137c8c.json))
+* **16** news-first-lk ([Sajith to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e69e269a.json))
 
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
