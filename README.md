@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 19:49:58 (LK time)*
+*As of 2022-07-16 20:00:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **2** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
 
 * **1** ada-derana-lk ([Army denies reports on suspending brigadier on duty during protests near PM’s office](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cfc4110.json))
 
-* **1** tamil-mirror-lk ([பிரிகேடியர் குறித்த செய்தி பொய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ff06cd1.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (16 Articles)
 
 * **4** ada-derana-lk ([Minister Kanchana urges public not to queue up for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb4eb5f.json))
 
-* **4** tamil-mirror-lk ([பெற்றோல் கப்பல் வரும்: டீசல் குறித்து சோதனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a34d40.json))
+* **3** tamil-mirror-lk ([அவசர நிவாரணம்: ரணில் அதிரடி முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df92efc.json))
 
 * **3** economy-next-com ([Sri Lanka schedules power cuts of up to 3 hours for July 16 and July 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3bc703e.json))
 
 * **2** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
 
-* **2** daily-mirror-lk ([Vote for presidency; SLFP not to support any candidate: Maithri](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af0eb2aa.json))
+* **2** daily-mirror-lk ([Vote for presidency; SLFP not to support any candidate: Maithri](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3be567b.json))
 
 * **2** news-first-lk ([One who delivers, must be Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37773bec.json))
 
-## Last 24 Hours (204 Articles)
+## Last 24 Hours (203 Articles)
 
 * **37** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
@@ -38,7 +36,7 @@
 
 * **22** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
 
-* **19** daily-mirror-lk ([Sajith to contest for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a01b07e7.json))
+* **18** daily-mirror-lk ([China to play positive role in supporting SL: Wang  Wenbin](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b53a6.json))
 
 * **18** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
 
@@ -52,7 +50,7 @@
 
 * **1** island-lk ([Share market turns positive in the wake of GR’s resignation; turnover hits Rs. 1 billion](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/8546d1fe.json))
 
-## Last Week (1,564 Articles)
+## Last Week (1,563 Articles)
 
 * **233** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -72,7 +70,7 @@
 
 * **80** economy-next-com ([IMF hopes for Sri Lanka political crisis resolution to resume deal talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c6f2dc6.json))
 
-* **49** island-lk ([Coming colour?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f80c34b3.json))
+* **48** island-lk ([THE FINANCIAL CRISIS – MISMANAGEMENT, FEAR OR COLLUSION?](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/653f0d38.json))
 
 * **32** d-b-s-jeyaraj-com ([National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82f31063.json))
 
