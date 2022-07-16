@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 22:17:39 (LK time)*
+*As of 2022-07-16 22:37:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,9 +16,9 @@
 
 * **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
 
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (180 Articles)
 
-* **32** virakesari-lk ([புதிய ஜனாதிபதி தேர்வில் சஜித்தும் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/522a3db2.json))
+* **31** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **28** lankadeepa-lk ([සෝභිත හිමියෝ අනතුරු අඟවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/6263a987.json))
 
@@ -40,7 +40,7 @@
 
 * **1** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: පැන ගිය ගෝඨාභය රාජපක්ෂ, අරගලය සහ වත්මන් අර්බුදය](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/973677d9.json))
 
-## Last Week (1,566 Articles)
+## Last Week (1,565 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -66,7 +66,7 @@
 
 * **28** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
-* **26** colombo-telegraph-com ([Leaked: Security Deployment Plans To Obstruct July 9 Protests](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c7a6d7.json))
+* **25** colombo-telegraph-com ([We Are On Course To A Dual Currency Regimen](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40984fa1.json))
 
 ## All Time (1,975 Articles)
 
