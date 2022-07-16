@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83681/diesel-shipment-reaches-colombo-another-expected-later-today",
+    "time_ut": 1657945080,
+    "original_lang": "en",
+    "original_title": "Diesel shipment reaches Colombo, another expected later today",
+    "file_name": "/tmp/news_lk2/articles/79/796e4b58.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83680/parliament-to-meet-today-two-entry-roads-temporarily-closed-for-traffic",
     "time_ut": 1657943640,
     "original_lang": "en",
@@ -102,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Several areas to receive spells of showers today",
     "file_name": "/tmp/news_lk2/articles/16/16f93027.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395464",
+    "time_ut": 1657937754,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/12/123a6612.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "AIA\u2019s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths",
     "file_name": "/tmp/news_lk2/articles/37/37d7252b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131344",
-    "time_ut": 1657628792,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/9d/9d510da2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/12/u-s-rejects-gotabayas-visa-request-after-recent-ousting-by-mass-protests-the-hindu/",
-    "time_ut": 1657628760,
-    "original_lang": "en",
-    "original_title": "U.S. \u2018rejects\u2019 Gotabaya\u2019s visa request after recent ousting by mass protests \u2013 The Hindu",
-    "file_name": "/tmp/news_lk2/articles/77/7737e83e.json"
   }
 ]

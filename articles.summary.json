@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83681/diesel-shipment-reaches-colombo-another-expected-later-today",
+    "time_ut": 1657945080,
+    "original_lang": "en",
+    "original_title": "Diesel shipment reaches Colombo, another expected later today",
+    "file_name": "/tmp/news_lk2/articles/79/796e4b58.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83680/parliament-to-meet-today-two-entry-roads-temporarily-closed-for-traffic",
     "time_ut": 1657943640,
     "original_lang": "en",
@@ -102,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Several areas to receive spells of showers today",
     "file_name": "/tmp/news_lk2/articles/16/16f93027.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395464",
+    "time_ut": 1657937754,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/12/123a6612.json"
   },
   {
     "newspaper_id": "virakesari-lk",
