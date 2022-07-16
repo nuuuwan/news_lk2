@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 21:37:39 (LK time)*
+*As of 2022-07-16 21:52:22 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,29 +8,29 @@
 
 * **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
 
-## Last 3 Hours (10 Articles)
-
-* **3** daily-mirror-lk ([Vote for presidency; SLFP not to support any candidate: Maithri](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3be567b.json))
+## Last 3 Hours (8 Articles)
 
 * **3** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
 
 * **2** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
+* **1** daily-mirror-lk ([Army denies reports on Brigadier on duty at PM’s office being suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8de3573.json))
+
 * **1** ada-derana-lk ([Army denies reports on suspending brigadier on duty during protests near PM’s office](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cfc4110.json))
 
 * **1** tamil-mirror-lk ([பிரிகேடியர் குறித்த செய்தி பொய்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ff06cd1.json))
 
-## Last 24 Hours (191 Articles)
+## Last 24 Hours (188 Articles)
 
 * **38** virakesari-lk ([புதிய ஜனாதிபதி தெரிவில் பதில் ஜனாதிபதி  ரணிலுக்கு ஆதரவு  - ஸ்ரீலங்கா பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc0b7ed8.json))
 
-* **29** lankadeepa-lk ([කටුගහහේන රෝහලෙන් දේව ක්‍රියාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b90fa9a0.json))
+* **28** lankadeepa-lk ([වැඩබලන ජනපතිට මහා සංඝරත්නයේ ආශිර්වාද](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c039ff02.json))
 
 * **27** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
 * **23** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
-* **20** ada-derana-lk ([China will agree to $4 billion aid for Sri Lanka “at some point”: envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc832410.json))
+* **19** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
 * **16** daily-mirror-lk ([Damage caused to President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31df3e15.json))
 
@@ -38,7 +38,7 @@
 
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
-* **6** economy-next-com ([International partners urge Sri Lanka to uphold law after unprecedented political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f02e161a.json))
+* **5** economy-next-com ([Yields in Sri Lanka’s govt securities fall after President Gotabaya resigns](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74bf38e6.json))
 
 * **3** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
 
