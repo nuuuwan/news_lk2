@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-16-and-july-17-97476/",
+    "time_ut": 1657971900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for July 16 and July 17",
+    "file_name": "/tmp/news_lk2/articles/e3/e3bc703e.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-300531",
     "time_ut": 1657971547,
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb5\u0b9a\u0bb0 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd: \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/4d/4df92efc.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/one-who-delivers-must-be-prez/",
+    "time_ut": 1657971480,
+    "original_lang": "en",
+    "original_title": "One who delivers, must be Prez",
+    "file_name": "/tmp/news_lk2/articles/37/37773bec.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -30,6 +46,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b85\u0baa\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd - \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bbf.\u0b9a\u0bbf.\u0b9f\u0bbf.\u0baf\u0bbf\u0ba9\u0bb0\u0bbf\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/42/42d34878.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0db1\u0dd2\u0db4\u0dba\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0d9a\u0dd2\u0dc3\u0dd2\u0db8-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0db1\u0dd1/11-395474",
+    "time_ut": 1657967854,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0db1\u0dd2\u0db4\u0dba\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0d9a\u0dd2\u0dc3\u0dd2\u0db8 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/66/66674807.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "The inconvenient truth",
     "file_name": "/tmp/news_lk2/articles/f7/f7ebad21.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Essentials-for-an-interim-all-party-government/4-737426",
-    "time_ut": 1657657693,
-    "original_lang": "en",
-    "original_title": "Essentials for an interim all-party government",
-    "file_name": "/tmp/news_lk2/articles/0d/0dec6f4d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Will-the-next-fuel-shipment-arrive-via-a-company-owned-by-a-Rajapaksa/172-240935",
-    "time_ut": 1657657097,
-    "original_lang": "en",
-    "original_title": "Will the next fuel shipment arrive via  a company owned by a Rajapaksa?",
-    "file_name": "/tmp/news_lk2/articles/d1/d13e9c52.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-central-banks-guidance-peg-strengthens-95-cents-dollar-shortage-remains-97296/",
-    "time_ut": 1657657020,
-    "original_lang": "en",
-    "original_title": "Sri Lanka central bank\u2019s guidance peg strengthens 95 cents; dollar shortage remains",
-    "file_name": "/tmp/news_lk2/articles/b8/b8fdff94.json"
   }
 ]
