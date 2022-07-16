@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0db4\u0dcf\u0da9\u0db8\u0dca-\u0d89\u0d9c\u0dd9\u0db1-\u0d9c\u0db1\u0dca\u0db1\u0dd9-\u0db8\u0dda-\u0db4\u0dcf\u0dbb-\u0dad\u0db8\u0dba\u0dd2\u2019\u2019/101-616531",
+    "time_ut": 1657979016,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0db4\u0dcf\u0da9\u0db8\u0dca \u0d89\u0d9c\u0dd9\u0db1 \u0d9c\u0db1\u0dca\u0db1\u0dd9 \u0db8\u0dda \u0db4\u0dcf\u0dbb \u0dad\u0db8\u0dba\u0dd2\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/86/8621c4a2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83690/army-denies-reports-on-suspending-brigadier-on-duty-during-protests-near-pms-office",
     "time_ut": 1657978860,
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dc4\u0db1/101-616530",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dd3\u0dc0\u0db1-\u0db6\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dc4\u0db1/1-616530",
     "time_ut": 1657978713,
     "original_lang": "si",
     "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0db6\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dc4\u0db1",
-    "file_name": "/tmp/news_lk2/articles/d4/d41c0e1e.json"
+    "file_name": "/tmp/news_lk2/articles/e1/e19f0c96.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
