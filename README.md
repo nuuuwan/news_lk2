@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 02:14:29 (LK time)*
+*As of 2022-07-17 02:23:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (149 Articles)
 
 * **33** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -16,7 +16,7 @@
 
 * **15** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
-* **13** daily-mirror-lk ([FSP Leader  Kumar Gunaratnam and his “Aragalaya”](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e371d419.json))
+* **12** daily-mirror-lk ([IMF hopes to soon resume Sri Lanka high-level discussions](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76649211.json))
 
 * **12** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
