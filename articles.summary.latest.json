@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83687/gl-questions-kariyawasam-on-backing-ranil-for-office-of-president",
+    "time_ut": 1657967160,
+    "original_lang": "en",
+    "original_title": "GL questions Kariyawasam on backing Ranil for office of president",
+    "file_name": "/tmp/news_lk2/articles/b7/b7d483f5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131607",
     "time_ut": 1657965696,
@@ -294,6 +302,14 @@
     "original_lang": "en",
     "original_title": "National Fuel Pass to be introduced today",
     "file_name": "/tmp/news_lk2/articles/97/97426d20.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf-\u0da9\u0dd0\u0dc4\u0dd0\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395472",
+    "time_ut": 1657954540,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf \u0da9\u0dd0\u0dc4\u0dd0\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d4/d4eb5288.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage",
     "file_name": "/tmp/news_lk2/articles/23/235ea505.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78552",
-    "time_ut": 1657654860,
-    "original_lang": "en",
-    "original_title": "Ranil Says a mob was instigated to attack his house by a private media institution which misreported what had happened at the party leaders meeting held on 9 July and even gave the directions to the mob to reach his house.",
-    "file_name": "/tmp/news_lk2/articles/aa/aabcc478.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Raja-From-Trotskyite-lawyer-to-Tamil-Times-Editor/4-737405",
-    "time_ut": 1657654629,
-    "original_lang": "en",
-    "original_title": "\u2018Raja\u2019: From Trotskyite lawyer to \u2018Tamil Times\u2019 Editor",
-    "file_name": "/tmp/news_lk2/articles/67/67ff90f5.json"
   }
 ]
