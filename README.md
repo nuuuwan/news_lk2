@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-16 18:04:13 (LK time)*
+*As of 2022-07-16 18:23:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([வரிசையில் நிற்போரை அகற்ற இராணுவ உதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b38d2a3e.json))
+
+## Last Hour (5 Articles)
+
+* **2** ada-derana-lk ([Minister Kanchana urges public not to queue up for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb4eb5f.json))
 
 * **1** tamil-mirror-lk ([வரிசையில் நிற்போரை அகற்ற இராணுவ உதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b38d2a3e.json))
 
 * **1** economy-next-com ([Sri Lanka introduces fuel rational card to smooth distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a0c9f1b.json))
 
-## Last Hour (8 Articles)
+* **1** news-first-lk ([Acting President suggests urgent relief program for essentials](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccfd52b.json))
 
-* **2** tamil-mirror-lk ([அவசர நிவாரணம்: ரணில் அதிரடி முடிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df92efc.json))
-
-* **2** economy-next-com ([Sri Lanka schedules power cuts of up to 3 hours for July 16 and July 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3bc703e.json))
-
-* **2** news-first-lk ([One who delivers, must be Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37773bec.json))
-
-* **2** ada-derana-lk ([Minister Kanchana urges public not to queue up for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb4eb5f.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (17 Articles)
 
 * **5** ada-derana-lk ([SLFP decides not to vote in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1284be08.json))
-
-* **4** virakesari-lk ([அரசியலில் தொடர்ந்து இருக்கமாட்டேன் ; முன்னாள் நீதி அமைச்சர் அலிசப்ரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c62a782d.json))
 
 * **3** tamil-mirror-lk ([பெற்றோல் கப்பல் வரும்: டீசல் குறித்து சோதனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a34d40.json))
 
@@ -32,9 +28,9 @@
 
 * **2** news-first-lk ([One who delivers, must be Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37773bec.json))
 
-* **2** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
+* **2** virakesari-lk ([பெரும் அரசியல் தந்திரன் ' ரணில் '](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce3df771.json))
 
-* **2** lankadeepa-lk ([මන්දිරවලටවූ විනාශය ගැන විගණනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60fd8aba.json))
+* **2** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
 
 * **1** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b632ad1c.json))
 
