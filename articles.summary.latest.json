@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0bcb\u0bb0\u0bc8-\u0b85\u0b95\u0bb1\u0bcd\u0bb1-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5-\u0b89\u0ba4\u0bb5\u0bbf/175-300544",
+    "time_ut": 1657974269,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0bcb\u0bb0\u0bc8 \u0b85\u0b95\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b89\u0ba4\u0bb5\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b3/b38d2a3e.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-introduces-fuel-rational-card-to-smooth-distribution-97478/",
+    "time_ut": 1657974180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka introduces fuel rational card to smooth distribution",
+    "file_name": "/tmp/news_lk2/articles/5a/5a0c9f1b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/16/acting-president-suggests-urgent-relief-program-for-essentials/",
+    "time_ut": 1657972860,
+    "original_lang": "en",
+    "original_title": "Acting President suggests urgent relief program for essentials",
+    "file_name": "/tmp/news_lk2/articles/fc/fccfd52b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83688/minister-wijesekara-urges-public-not-to-queue-up-for-fuel",
     "time_ut": 1657972740,
     "original_lang": "en",
     "original_title": "Minister Wijesekara urges public not to queue up for fuel",
     "file_name": "/tmp/news_lk2/articles/76/769a3195.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83688/minister-kanchana-urges-public-not-to-queue-up-for-fuel",
+    "time_ut": 1657972740,
+    "original_lang": "en",
+    "original_title": "Minister Kanchana urges public not to queue up for fuel",
+    "file_name": "/tmp/news_lk2/articles/1f/1fb4eb5f.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0baa\u0bc7\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bcd\u0b9f\u0bca\u0ba9\u0bcb\u0bb5\u0bcd; 32 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0b8f.\u0b8e\u0bb5\u0bcd.\u0baa\u0bbf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b9/b98a3484.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131356",
-    "time_ut": 1657666898,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf",
-    "file_name": "/tmp/news_lk2/articles/d6/d6ff5c9b.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62144503",
-    "time_ut": 1657663787,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0daf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0db1\u0ddc\u0dc0\u0dd4\u0dab\u0ddc\u0dad\u0dca:\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/84/84bc8bbe.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78554",
-    "time_ut": 1657659120,
-    "original_lang": "en",
-    "original_title": "Acting President and Premier Ranil Wickremesinghe says  they had  received reports from the Intelligence agencies that some elements within the Aragalaya community were planning to take over and occupy the Prime Minister\u2019s Office and the official residences of the Commanders of the Air Force, Army, and Navy/",
-    "file_name": "/tmp/news_lk2/articles/af/afc54986.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Archeology-Dept-takes-measures-to-protect-President-s-House-from-further-damage-by-public/56-737430",
-    "time_ut": 1657658669,
-    "original_lang": "en",
-    "original_title": "Archeology Dept. takes measures to protect President\u2019s House from further damage by public",
-    "file_name": "/tmp/news_lk2/articles/40/403464a1.json"
   }
 ]
