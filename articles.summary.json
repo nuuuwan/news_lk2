@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/3-hours-power-cuts-for-next-two-days/108-241231",
+    "time_ut": 1658038341,
+    "original_lang": "en",
+    "original_title": "3 hours power cuts for next two days",
+    "file_name": "/tmp/news_lk2/articles/1d/1da76645.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0d9c\u0d82\u0dc0\u0dad\u0dd4\u0dbb-\u0db1\u0dd2\u0dc3\u0dcf-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca-176\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/3-395481",
     "time_ut": 1658037263,
