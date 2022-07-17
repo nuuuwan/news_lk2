@@ -1,22 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 12:31:27 (LK time)*
+*As of 2022-07-17 12:46:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **1** virakesari-lk ([காலி முகத்திடல் தமிழர்களின் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/890c9b87.json))
+
+* **1** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
 
 * **1** lankadeepa-lk ([පුත්තලමේ පෙට්‍රල් ලීටරයක් 2500යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8737dcaa.json))
 
-## Last Hour (4 Articles)
+## Last Hour (5 Articles)
+
+* **2** virakesari-lk ([இலவசக்கல்வி சுகாதாரத்திற்கான அரச உதவிகளை குறைக்குமாறு சர்வதேச நாணயநிதியம் நிபந்தனை விதிக்கலாம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44e59fe7.json))
 
 * **2** lankadeepa-lk ([වල්අලි ප්‍රහාරවලින් ගොවියෝ තුනක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c81429.json))
 
-* **1** virakesari-lk ([இலவசக்கல்வி சுகாதாரத்திற்கான அரச உதவிகளை குறைக்குமாறு சர்வதேச நாணயநிதியம் நிபந்தனை விதிக்கலாம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44e59fe7.json))
+* **1** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
 
-* **1** daily-mirror-lk ([3 hours power cuts for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1da76645.json))
+## Last 3 Hours (27 Articles)
 
-## Last 3 Hours (25 Articles)
+* **4** virakesari-lk ([கோத்தபாய ராஜபக்சவிற்கு எந்த நாடும் தஞ்சமளிக்ககூடாது –உலகதமிழர் பாதுகாப்பு செயலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bad0032b.json))
+
+* **4** ada-derana-lk ([Dullas’ primary intention in running for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f5fdd4.json))
 
 * **4** lankadeepa-lk ([උපකාරක ගුරාගේ ජරාවැඩක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ae96cc5.json))
 
@@ -26,29 +34,25 @@
 
 * **4** news-first-lk ([Ranjan Ramanayake : Pardon being considered](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9431746.json))
 
-* **3** virakesari-lk ([கோத்தபாய ராஜபக்சவிற்கு எந்த நாடும் தஞ்சமளிக்ககூடாது –உலகதமிழர் பாதுகாப்பு செயலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bad0032b.json))
-
-* **3** ada-derana-lk ([Dullas’ primary intention in running for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f5fdd4.json))
-
 * **2** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
 
 * **1** economy-next-com ([Sri Lanka CB, Treasury, Foreign Ministry in high level talks with Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c8f1423.json))
 
-## Last 24 Hours (133 Articles)
+## Last 24 Hours (132 Articles)
 
-* **36** virakesari-lk ([புதிய இடைக்கால ஜனாதிபதிக்கான வேட்பாளர்கள் அறிவிக்கப்பட்டதன் பின் இறுதித் தீர்மானம் - தமிழ்த் தேசியக் கூட்டமைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa074584.json))
+* **36** virakesari-lk ([சனத்தொகை எண்ணிக்கையில் சீனாவை முந்தும் இந்தியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fbadcce.json))
+
+* **18** ada-derana-lk ([Anura Kumara to join race for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2948c4ed.json))
 
 * **18** lankadeepa-lk ([ධනාත්මක කාර්යක් ඉටු කිරීමට චීනය සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50b5b46c.json))
 
-* **17** ada-derana-lk ([Anura Kumara to join race for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2948c4ed.json))
-
 * **15** tamil-mirror-lk ([எரிபொருள் ’பாஸ்’ பெற பதிவு செய்யுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/1466d03b.json))
 
-* **10** daily-mirror-lk ([AKD to contest for presidency from NPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eacb6305.json))
-
-* **10** news-first-lk ([Anura Kumara Dissanayake to contest for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc69e900.json))
-
 * **10** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
+
+* **9** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e04be79.json))
+
+* **9** news-first-lk ([GL questions SLPP pledge to support Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c03cf4c.json))
 
 * **8** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
 
@@ -58,11 +62,11 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## Last Week (1,617 Articles)
+## Last Week (1,619 Articles)
 
 * **240** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **238** virakesari-lk ([புரட்சியே தீர்வா ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ca076ef.json))
+* **239** virakesari-lk ([பற்றிஸ் லுமும்பாவும் அவரது தங்கப் பல்லும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68d6d440.json))
 
 * **207** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -70,7 +74,7 @@
 
 * **157** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
-* **145** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **146** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **136** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
@@ -86,13 +90,13 @@
 
 * **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,049 Articles)
+## All Time (2,052 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **261** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **242** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **244** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **216** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -100,7 +104,7 @@
 
 * **150** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
-* **145** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **146** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **136** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
