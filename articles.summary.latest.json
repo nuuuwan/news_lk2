@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd/175-300606",
+    "time_ut": 1658068050,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/90abfde2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/1-616566",
     "time_ut": 1658067390,
@@ -78,6 +86,14 @@
     "original_lang": "en",
     "original_title": "Lanka IOC also slashes fuel prices",
     "file_name": "/tmp/news_lk2/articles/74/7411971e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/the-food-crisis-is-man-made-ranil-tells-global-forum/",
+    "time_ut": 1658065440,
+    "original_lang": "en",
+    "original_title": "The food crisis is man made, Ranil tells Global Forum",
+    "file_name": "/tmp/news_lk2/articles/86/86eee440.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dda \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0db1\u0dca\u0db1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/b0/b0ceb5c8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protesters-tear-gassed/110-241000",
-    "time_ut": 1657708160,
-    "original_lang": "en",
-    "original_title": "Protesters tear gassed...",
-    "file_name": "/tmp/news_lk2/articles/e8/e86af23e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131397",
-    "time_ut": 1657707902,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b2/b207ba6b.json"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd/175-300606",
+    "time_ut": 1658068050,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/90abfde2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/1-616566",
     "time_ut": 1658067390,
@@ -78,6 +86,14 @@
     "original_lang": "en",
     "original_title": "Lanka IOC also slashes fuel prices",
     "file_name": "/tmp/news_lk2/articles/74/7411971e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/the-food-crisis-is-man-made-ranil-tells-global-forum/",
+    "time_ut": 1658065440,
+    "original_lang": "en",
+    "original_title": "The food crisis is man made, Ranil tells Global Forum",
+    "file_name": "/tmp/news_lk2/articles/86/86eee440.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
