@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 02:25:09 (LK time)*
+*As of 2022-07-18 02:36:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **4** daily-ft-lk ([When the mighty fall, the rats hide: Ex-President’s economic team failed to ignite economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29562ecd.json))
+* **2** daily-ft-lk ([From ‘Heros’ to ‘Zeros’: Revisiting Lucifer Effect as leaders’ enigma](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69551433.json))
 
-## Last Hour (15 Articles)
+## Last Hour (12 Articles)
 
-* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **12** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (19 Articles)
 
-* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
 * **3** daily-mirror-lk ([LPL postponed to December](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/978b3afb.json))
 
-## Last 24 Hours (166 Articles)
+## Last 24 Hours (168 Articles)
 
 * **29** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
@@ -30,7 +30,7 @@
 
 * **18** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
-* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
 
@@ -38,9 +38,9 @@
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
-* **2** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
+* **3** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
 
-## Last Week (1,721 Articles)
+## Last Week (1,723 Articles)
 
 * **266** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -56,7 +56,7 @@
 
 * **142** news-first-lk ([NO Indian troop deployment to Sri Lanka – High Commission](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b61b653d.json))
 
-* **93** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
+* **94** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
 
 * **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
@@ -64,11 +64,11 @@
 
 * **29** b-b-c-com-sinhala ([අර්බුද සමයේ දරු ප්‍රසූතියට සුදානම් වන ඔබ අනිවාර්යයෙන් දැනගත යුත්තේ මොනවද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29bfb814.json))
 
+* **24** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
+
 * **24** d-b-s-jeyaraj-com ([Is the  Medamulana “House of Rajapaksa” Falling Down, Falling Down?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e6e7fa.json))
 
-* **23** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
-
-## All Time (2,190 Articles)
+## All Time (2,192 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +80,7 @@
 
 * **204** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **165** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **166** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **158** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
@@ -94,4 +94,4 @@
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **39** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
+* **40** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))

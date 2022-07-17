@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Well-it-s-legal/4-737626",
+    "time_ut": 1658090375,
+    "original_lang": "en",
+    "original_title": "Well, it\u2019s legal",
+    "file_name": "/tmp/news_lk2/articles/61/615ea2b6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/From-Heros-to-Zeros-Revisiting-Lucifer-Effect-as-leaders-enigma/4-737625",
     "time_ut": 1658090242,
     "original_lang": "en",
@@ -230,6 +238,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dad\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/b5/b5443874.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lankas-new-government-be-warned-of-the-empty-treasury-negative-foreign-reserves/",
+    "time_ut": 1658071524,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s New Government: Be Warned Of The Empty Treasury & Negative Foreign Reserves",
+    "file_name": "/tmp/news_lk2/articles/23/23fa154f.json"
   },
   {
     "newspaper_id": "ada-lk",
