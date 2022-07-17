@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 15:13:55 (LK time)*
+*As of 2022-07-17 15:25:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** virakesari-lk ([நாட்டில் விரைவில் நடமாடும் எரிபொருள் விநியோக முறைமை - காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30df5caa.json))
-
-## Last Hour (5 Articles)
+## Last Hour (3 Articles)
 
 * **2** ada-derana-lk ([Ranjan Ramanayake to be pardoned?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edad43ff.json))
 
 * **1** virakesari-lk ([நாட்டில் விரைவில் நடமாடும் எரிபொருள் விநியோக முறைமை - காஞ்சன விஜேசேகர](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30df5caa.json))
 
-* **1** tamil-mirror-lk ([நடமாடும் முறைமையின் கீழ் எரிபொருள் விநி​யோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5ee7b67.json))
-
-* **1** lankadeepa-lk ([ආහාර හිඟයට පලා කැඩූ දරුවාට කිඹුල් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20dc8625.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (31 Articles)
 
 * **10** virakesari-lk ([காலி முகத்திடல் தமிழர்களின் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/890c9b87.json))
 
-* **6** lankadeepa-lk ([පුත්තලමේ පෙට්‍රල් ලීටරයක් 2500යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fc40afb.json))
-
 * **5** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
+
+* **5** lankadeepa-lk ([පොලොන්නරුවේ රෝහල් කටයුතු නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9a4236.json))
 
 * **5** news-first-lk ([Likely rise of COVID-19 again, warns health official](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4917ec14.json))
 
@@ -36,13 +28,13 @@
 
 * **1** ada-lk ([යුරියා පොහොර බෙදාහැරීම් හිටපු කෘෂිකර්ම ඇමතිගේ නිරික්ෂණයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59dc9666.json))
 
-## Last 24 Hours (121 Articles)
+## Last 24 Hours (118 Articles)
 
 * **25** virakesari-lk ([பெரும் அரசியல் தந்திரன் ' ரணில் '](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce3df771.json))
 
-* **19** ada-derana-lk ([SLFP decides not to vote in election for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/1284be08.json))
+* **17** ada-derana-lk ([GL questions Kariyawasam on backing Ranil for office of president](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7d483f5.json))
 
-* **15** lankadeepa-lk ([ශ්‍රීලනිපයේ සහය කාටවත් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdad9b3f.json))
+* **14** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
 
 * **13** tamil-mirror-lk ([பெற்றோல் கப்பல் வரும்: டீசல் குறித்து சோதனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43a34d40.json))
 
