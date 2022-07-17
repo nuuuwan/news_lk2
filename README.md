@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 01:22:19 (LK time)*
+*As of 2022-07-18 01:31:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -34,7 +34,7 @@
 
 * **2** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
 
-## Last Week (1,710 Articles)
+## Last Week (1,706 Articles)
 
 * **265** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -52,7 +52,7 @@
 
 * **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
-* **83** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
+* **79** daily-ft-lk ([CID takes over investigation into arson attack on PM’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ed9b27e.json))
 
 * **52** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
