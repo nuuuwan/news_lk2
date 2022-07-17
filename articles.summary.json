@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca-\u0d9a\u0dc5\u0ddc\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0daf\u0dd2/101-616568",
+    "time_ut": 1658070044,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca \u0d9a\u0dc5\u0ddc\u0dad\u0dca \u0dc0\u0dd0\u0da9 \u0dc0\u0dbb\u0daf\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/06/06ecfa7f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Pregnant-woman-husband-die-in-accident-in-Buttala/108-241240",
     "time_ut": 1658068843,
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/1-616566",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/101-616566",
     "time_ut": 1658067390,
     "original_lang": "si",
     "original_title": "\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/60/6098323b.json"
+    "file_name": "/tmp/news_lk2/articles/d1/d1d8bd83.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -217,11 +225,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/One-million-successfully-registered-for-National-Fuel-Pass/342-241235",
+    "url": "https://www.dailymirror.lk/breaking_news/One-million-successfully-registered-for-National-Fuel-Pass/108-241235",
     "time_ut": 1658060482,
     "original_lang": "en",
     "original_title": "One million successfully registered for \u2019National Fuel Pass\u2019",
-    "file_name": "/tmp/news_lk2/articles/a3/a3320a6f.json"
+    "file_name": "/tmp/news_lk2/articles/91/91acaa82.json"
   },
   {
     "newspaper_id": "economy-next-com",
