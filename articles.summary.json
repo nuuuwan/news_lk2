@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/1-616560",
+    "time_ut": 1658066140,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5 \u0daf\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/25/25bdfb45.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83708/lanka-ioc-also-slashes-fuel-prices",
     "time_ut": 1658065560,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Ready to withdraw nomination if two MPs without future political agendas appointed as Prez, PM: AKD",
     "file_name": "/tmp/news_lk2/articles/d5/d55d3f91.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-revises-fuel-prices-petrol-price-reduce-by-rs-20-97504/",
+    "time_ut": 1658065320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka revises fuel prices; Petrol price reduce by Rs.20",
+    "file_name": "/tmp/news_lk2/articles/02/02d93092.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

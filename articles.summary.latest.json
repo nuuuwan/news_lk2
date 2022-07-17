@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/1-616560",
+    "time_ut": 1658066140,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5 \u0daf\u0db8\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/25/25bdfb45.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83708/lanka-ioc-also-slashes-fuel-prices",
     "time_ut": 1658065560,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Ready to withdraw nomination if two MPs without future political agendas appointed as Prez, PM: AKD",
     "file_name": "/tmp/news_lk2/articles/d5/d55d3f91.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-revises-fuel-prices-petrol-price-reduce-by-rs-20-97504/",
+    "time_ut": 1658065320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka revises fuel prices; Petrol price reduce by Rs.20",
+    "file_name": "/tmp/news_lk2/articles/02/02d93092.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Trains from distant places to Colombo halted indefinitely",
     "file_name": "/tmp/news_lk2/articles/18/181412df.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-to-leave-for-Singapore-from-Maldives/108-240997",
-    "time_ut": 1657706286,
-    "original_lang": "en",
-    "original_title": "President to leave for Singapore from Maldives",
-    "file_name": "/tmp/news_lk2/articles/4b/4baf60d5.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131393",
-    "time_ut": 1657706177,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0ba4\u0bcd\u0baa\u0bca\u0ba9\u0bcd\u0b9a\u0bc7\u0b95\u0bbe \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9?",
-    "file_name": "/tmp/news_lk2/articles/ca/caffc8b7.json"
   }
 ]
