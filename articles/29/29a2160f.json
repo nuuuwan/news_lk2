@@ -43,7 +43,7 @@
         "He has no plans to return. India is not willing to take too many risks to save an individual who is somehow going to settle down in some corner of the world.",
         "Subramanian Swamy had already spread the hoax that India should be ready to send troops to Sri Lanka if Mahinda and Gotabaya Rajapaksa called.",
         "At that time, the Indian High Commission had announced that India did not comply with its position regarding the deployment of troops to Sri Lanka.",
-        "India said that India will continue to support the Sri Lankan people who are looking forward to realizing prosperity and progress through democratic values \u200b\u200band institutions, institutionalized democratic institutions and constitutional framework.",
+        "India said that India will continue to support the people of Sri Lanka in their aspirations to realize prosperity and progress through democratic values \u200b\u200band institutionalized democratic institutions and constitutional framework.",
         "Sonia Gandhi had also earlier insisted in a statement to help Sri Lanka. Sonia and Subramanian Swamy are close to the Rajapaksas.",
         "But the current government is not ready to send troops to Sri Lanka and protect the Rajapaksas.",
         "No wonder India abandoned them when there was nothing they could do."
@@ -545,8 +545,8 @@
             "label": "GPE"
           },
           {
-            "text": "Sri Lankan",
-            "label": "NORP"
+            "text": "Sri Lanka",
+            "label": "GPE"
           },
           {
             "text": "\u200b\u200band",
@@ -1137,8 +1137,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a",
-            "label": "NORP"
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
           },
           {
             "text": "\u0dc3\u0dc4",
@@ -1730,7 +1730,7 @@
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-            "label": "NORP"
+            "label": "GPE"
           },
           {
             "text": "\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
