@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 09:36:11 (LK time)*
+*As of 2022-07-17 09:50:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (3 Articles)
 
 * **1** daily-mirror-lk ([Sri Lankan flight makes emergency landing in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9ff2cad.json))
 
-## Last Hour (5 Articles)
-
-* **2** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
-
-* **1** daily-mirror-lk ([Sri Lankan flight makes emergency landing in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9ff2cad.json))
+* **1** ada-derana-lk ([Sri Lanka a ‘warning sign’ for countries with high debt levels and limited policy space – IMF](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/0865de5b.json))
 
 * **1** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
-
-* **1** virakesari-lk ([சிங்கப்பூரில் கோத்தபாயவிற்கு எதிரான ஆர்ப்பாட்டம் - ஒருவர் மாத்திரம் கலந்துகொண்டார் -](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d272f2df.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -30,7 +24,7 @@
 
 * **1** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
-## Last 24 Hours (156 Articles)
+## Last 24 Hours (155 Articles)
 
 * **39** virakesari-lk ([பலத்த பாதுகாப்பிற்கு மத்தியில் இன்னும் சற்று நேரத்தில் கூடுகிறது பாராளுமன்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f470a8f.json))
 
@@ -38,7 +32,7 @@
 
 * **20** tamil-mirror-lk ([அறிமுகமாகிறது எரிபொருள் ’பாஸ்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fc1e952.json))
 
-* **17** ada-derana-lk ([Diesel shipment reaches Colombo, another expected later today](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/796e4b58.json))
+* **16** ada-derana-lk ([Vacancy in office of President officially announced in parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0952068e.json))
 
 * **15** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
