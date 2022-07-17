@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 05:41:25 (LK time)*
+*As of 2022-07-17 06:07:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (161 Articles)
+## Last 24 Hours (162 Articles)
 
 * **36** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **27** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **22** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
+* **23** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
 * **19** ada-derana-lk ([Several areas to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16f93027.json))
 
@@ -28,7 +28,7 @@
 
 * **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
 
-## Last Week (1,578 Articles)
+## Last Week (1,579 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -36,7 +36,7 @@
 
 * **202** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
-* **188** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **189** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **152** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
@@ -56,7 +56,7 @@
 
 * **24** d-b-s-jeyaraj-com ([If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d86e4f0.json))
 
-## All Time (2,002 Articles)
+## All Time (2,003 Articles)
 
 * **299** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +66,7 @@
 
 * **211** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **188** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **189** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **150** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
