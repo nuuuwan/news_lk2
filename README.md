@@ -1,30 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 01:01:54 (LK time)*
+*As of 2022-07-18 01:13:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Suspect arrested with 50 tear gas cannisters stolen from police during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd6ed81.json))
 
 ## Last Hour (1 Articles)
 
 * **1** daily-mirror-lk ([Suspect arrested with 50 tear gas cannisters stolen from police during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd6ed81.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (4 Articles)
 
 * **3** daily-mirror-lk ([LPL postponed to December](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/978b3afb.json))
 
-* **2** economy-next-com ([Sri Lanka to balance depositor’s interest in giving debt relief](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a28e04.json))
-
 * **1** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
 
-* **1** ada-derana-lk ([Minister’s request to those queued up at Ceypetco fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9dbfc3d.json))
-
-* **1** lankadeepa-lk ([ඉන්ධන දෙන්න නම් පෝලිමෙන් යන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc0f2cd6.json))
-
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (151 Articles)
 
 * **29** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
@@ -41,6 +31,8 @@
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
+
+* **1** colombo-telegraph-com ([Well, It’s Legal!](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/125b0cda.json))
 
 ## Last Week (1,709 Articles)
 
@@ -60,7 +52,7 @@
 
 * **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
-* **84** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
+* **83** daily-ft-lk ([MRI and Spice Council launch ‘Booster’ to mitigate nutrition deficiency among patients and toddlers](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d7be04e.json))
 
 * **52** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
@@ -68,9 +60,9 @@
 
 * **24** d-b-s-jeyaraj-com ([Is the  Medamulana “House of Rajapaksa” Falling Down, Falling Down?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e6e7fa.json))
 
-* **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
+* **22** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,172 Articles)
+## All Time (2,173 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -96,4 +88,4 @@
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **37** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
+* **38** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
