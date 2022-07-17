@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pregnant-woman-husband-die-in-accident-in-Buttala/108-241240",
+    "time_ut": 1658068843,
+    "original_lang": "en",
+    "original_title": "Pregnant woman, husband die in accident in Buttala",
+    "file_name": "/tmp/news_lk2/articles/28/28ce4405.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd/175-300606",
     "time_ut": 1658068050,
@@ -198,6 +206,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka is a warning sign : IMF Chief",
     "file_name": "/tmp/news_lk2/articles/fe/fe474472.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/One-million-successfully-registered-for-National-Fuel-Pass/108-241235",
+    "time_ut": 1658060482,
+    "original_lang": "en",
+    "original_title": "One million successfully registered for \u2019National Fuel Pass\u2019",
+    "file_name": "/tmp/news_lk2/articles/91/91acaa82.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
