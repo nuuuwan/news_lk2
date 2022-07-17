@@ -1,20 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 19:51:38 (LK time)*
+*As of 2022-07-17 20:01:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (7 Articles)
 
-* **5** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
+* **5** lankadeepa-lk ([දිස්ත්‍රික් ලේකම් කාර්යාලවලට පාස්පෝට් උප කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef455f7a.json))
+
+* **1** virakesari-lk ([மொனராகலை பகுதியில் கோர விபத்து - கணவனும், கர்ப்பிணி மனைவியும் பரிதாப பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40637db.json))
 
 * **1** tamil-mirror-lk ([மற்றொரு நபரும் வெளிநாட்டுக்கு தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45982171.json))
 
-## Last Hour (11 Articles)
+## Last Hour (13 Articles)
 
-* **5** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
+* **7** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
 
 * **2** daily-mirror-lk ([CPC to low fuel prices from tonight](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77ddd5f6.json))
+
+* **1** virakesari-lk ([மொனராகலை பகுதியில் கோர விபத்து - கணவனும், கர்ப்பிணி மனைவியும் பரிதாப பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40637db.json))
 
 * **1** tamil-mirror-lk ([மற்றொரு நபரும் வெளிநாட்டுக்கு தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45982171.json))
 
@@ -22,13 +26,11 @@
 
 * **1** economy-next-com ([Sri Lanka revises fuel prices; Petrol price reduce by Rs.20](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02d93092.json))
 
-* **1** virakesari-lk ([எரிபொருட்களின் விலைகள் குறைகின்றன - புதிய விலைப்பட்டியல் இதோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d006ab81.json))
+## Last 3 Hours (32 Articles)
 
-## Last 3 Hours (30 Articles)
+* **7** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
 
-* **6** virakesari-lk ([மூன்றாம் உலக நாடுகள் மோசமாக பாதிக்கப்படுவதை தடுப்பதற்கான நடவடிக்கைகளை எடுக்கவேண்டும் - ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69dfacdf.json))
-
-* **5** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
+* **6** virakesari-lk ([இவ்வாரத்துக்குள் ரஞ்சனுக்கு ஜனாதிபதி பொது மன்னிப்பு ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/923a7008.json))
 
 * **5** tamil-mirror-lk ([இலங்கை விவகாரம்: 19இல் சர்வகட்சி கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d686c578.json))
 
@@ -40,11 +42,11 @@
 
 * **2** economy-next-com ([Sri Lanka’s private bus owners request priority in filling queues to resume operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/372149de.json))
 
-## Last 24 Hours (139 Articles)
+## Last 24 Hours (142 Articles)
 
-* **31** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
+* **32** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
 
-* **25** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
+* **27** lankadeepa-lk ([මැදිරිගිරියට දින 16කට පසුව ලැබුණු ඉන්ධන සෞඛ්‍යට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/684a2534.json))
 
 * **17** tamil-mirror-lk ([தேசிய எரிபொருள் அட்டை முறைமை சாத்தியமற்றது: ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d71234ec.json))
 
@@ -62,11 +64,11 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## Last Week (1,695 Articles)
+## Last Week (1,698 Articles)
 
-* **261** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
+* **262** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
-* **258** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
+* **260** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
 * **214** daily-mirror-lk ([The resignation of the President and a despicable arson attack - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64fe808b.json))
 
@@ -90,13 +92,13 @@
 
 * **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,141 Articles)
+## All Time (2,144 Articles)
 
-* **322** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **324** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+
+* **269** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **269** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
-
-* **268** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **220** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
