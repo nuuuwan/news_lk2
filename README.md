@@ -1,20 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 15:56:10 (LK time)*
+*As of 2022-07-17 16:03:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** lankadeepa-lk ([ජංගම ඉන්ධන පිරවුම්හල් එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aeceaa9.json))
+* **2** lankadeepa-lk ([‘‘පොහොට්ටුවේ තීරණයේ වෙනසක් නැහැ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0eb1729.json))
 
 * **1** tamil-mirror-lk ([வாசுவின் வாக்கு டலஸுக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2443f0b1.json))
 
-* **1** daily-mirror-lk ([TUCC declare proposals...](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b2b8e70.json))
+## Last Hour (6 Articles)
 
-## Last Hour (5 Articles)
-
-* **3** lankadeepa-lk ([වාසුගේ සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a08a1585.json))
+* **4** lankadeepa-lk ([වාසුගේ සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a08a1585.json))
 
 * **1** tamil-mirror-lk ([வாசுவின் வாக்கு டலஸுக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/2443f0b1.json))
 
@@ -24,7 +22,7 @@
 
 * **9** virakesari-lk ([தலைமன்னார் கடலில் மீன்பிடிக்காகச் சென்ற 3 மீனவர்களை காணவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/4337042b.json))
 
-* **7** lankadeepa-lk ([පොහොට්ටු මන්ත්‍රීගේ වැනසූ ගෙවල් හදන්න සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6be1007.json))
+* **7** lankadeepa-lk ([තෙල් ඇප් එකේ වෙනෙසක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf4ca026.json))
 
 * **4** ada-derana-lk ([Sri Lanka concludes bilateral consultations with Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/8353a1d7.json))
 
@@ -38,11 +36,11 @@
 
 * **1** economy-next-com ([Sri Lanka schedules power cuts of up to 3 hours for July 17 and July 18](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54c89e3f.json))
 
-## Last 24 Hours (121 Articles)
+## Last 24 Hours (119 Articles)
 
 * **24** virakesari-lk ([இராணுவ வீரரை தாக்கி துப்பாக்கி அபகரிக்கப்பட்ட சம்பவம் - விசாரணைகள் சி.சி.டி.யினரிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42d34878.json))
 
-* **17** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
+* **18** lankadeepa-lk ([ජීවන බර අඩු කරන්න රනිල්ගෙන් සහන](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e19f0c96.json))
 
 * **16** ada-derana-lk ([Minister Kanchana urges public not to queue up for fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fb4eb5f.json))
 
@@ -50,13 +48,13 @@
 
 * **13** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e04be79.json))
 
-* **12** news-first-lk ([One who delivers, must be Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37773bec.json))
+* **11** news-first-lk ([One who delivers, must be Prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37773bec.json))
 
-* **10** ada-lk ([අනුරත් ජනපති සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1878d61e.json))
+* **9** ada-lk ([ශ්‍රී ලංනිපයේ සහාය කිසිම අපේක්ෂකයෙකුට නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66674807.json))
 
 * **7** economy-next-com ([Sri Lanka schedules power cuts of up to 3 hours for July 16 and July 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3bc703e.json))
 
-* **5** island-lk ([Travels with the Prime Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f38cf36a.json))
+* **4** island-lk ([Handing over of the Jayam Wijayaratnam Cancer Care Centre to the Health Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/924b1e30.json))
 
 * **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
 
@@ -66,7 +64,7 @@
 
 * **252** virakesari-lk ([கீழைத்தேய நவீன புரட்சியின் அடையாளமாக இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c52430.json))
 
-* **248** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
+* **249** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
 * **211** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -76,7 +74,7 @@
 
 * **150** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **142** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
+* **141** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **84** daily-ft-lk ([The victory of Aragalaya: What actually happened to Gota and Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b57244d0.json))
 
@@ -92,7 +90,7 @@
 
 ## All Time (2,094 Articles)
 
-* **312** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **313** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **265** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
@@ -106,7 +104,7 @@
 
 * **150** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
-* **142** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
+* **141** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **134** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
