@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b8e\u0bb2\u0bcd-\u0baa\u0bbf-\u0b8e\u0bb2\u0bcd-\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/44-300601",
+    "time_ut": 1658062055,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb2\u0bcd.\u0baa\u0bbf.\u0b8e\u0bb2\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b0/b0222775.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe/175-300600",
+    "time_ut": 1658061702,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd: \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/bc/bccc4f64.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Mobile-fuel-dispensers-to-fulfil-fuel-requirements-soon/108-241236",
+    "time_ut": 1658061387,
+    "original_lang": "en",
+    "original_title": "Mobile fuel dispensers to fulfil fuel requirements soon",
+    "file_name": "/tmp/news_lk2/articles/df/dfc2ed78.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/17/rejected-leaders-should-not-be-entrusted-with-governance-catholic-bishops-conference/",
     "time_ut": 1658060940,
@@ -174,6 +198,14 @@
     "original_lang": "en",
     "original_title": "Indian Govt calls for all-party meeting over Sri Lankan crisis",
     "file_name": "/tmp/news_lk2/articles/e8/e8357587.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd6\u0db4\u0db1\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0dc3\u0db8\u0d9f-\u0d85\u0db8\u0dca\u0db8\u0dba\u0dd2-\u0dad\u0dcf\u0dad\u0dca\u0dad\u0dba\u0dd2-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-616552",
+    "time_ut": 1658053772,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd6\u0db4\u0db1\u0dca \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0dc3\u0db8\u0d9f \u0d85\u0db8\u0dca\u0db8\u0dba\u0dd2 \u0dad\u0dcf\u0dad\u0dca\u0dad\u0dba\u0dd2 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8f/8f4c8a5c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
