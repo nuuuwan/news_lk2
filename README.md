@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 02:05:04 (LK time)*
+*As of 2022-07-18 02:18:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **8** daily-ft-lk ([Mobile fuel dispenser to distribute fuel for three wheelers and generators](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/083a167b.json))
+* **5** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
 
-## Last Hour (11 Articles)
+## Last Hour (15 Articles)
 
-* **11** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (18 Articles)
 
-* **11** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
 * **3** daily-mirror-lk ([LPL postponed to December](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/978b3afb.json))
 
-## Last 24 Hours (162 Articles)
+## Last 24 Hours (166 Articles)
 
 * **29** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
@@ -30,17 +30,17 @@
 
 * **18** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
+* **15** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
 
 * **12** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
-
-* **11** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
 * **2** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
 
-## Last Week (1,717 Articles)
+## Last Week (1,721 Articles)
 
 * **266** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -56,7 +56,7 @@
 
 * **142** news-first-lk ([NO Indian troop deployment to Sri Lanka – High Commission](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b61b653d.json))
 
-* **89** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
+* **93** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
 
 * **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
@@ -68,7 +68,7 @@
 
 * **23** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,186 Articles)
+## All Time (2,190 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +80,7 @@
 
 * **204** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **161** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **165** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **158** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 

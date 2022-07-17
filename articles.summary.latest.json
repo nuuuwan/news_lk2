@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/From-Heros-to-Zeros-Revisiting-Lucifer-Effect-as-leaders-enigma/4-737625",
+    "time_ut": 1658090242,
+    "original_lang": "en",
+    "original_title": "From \u2018Heros\u2019 to \u2018Zeros\u2019: Revisiting Lucifer Effect as leaders\u2019 enigma",
+    "file_name": "/tmp/news_lk2/articles/69/69551433.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-new-government-Be-warned-of-the-empty-treasury-and-negative-foreign-reserves/4-737624",
+    "time_ut": 1658090024,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s new government:  Be warned of the empty treasury and negative foreign reserves",
+    "file_name": "/tmp/news_lk2/articles/4c/4c036773.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/What-next-How-do-we-proceed-to-rebuild-Sri-Lanka/4-737623",
+    "time_ut": 1658089699,
+    "original_lang": "en",
+    "original_title": "What next? How do we proceed to rebuild Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/01/0128cde9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/When-the-mighty-fall-the-rats-hide-Ex-President-s-economic-team-failed-to-ignite-economy/14-737622",
+    "time_ut": 1658089574,
+    "original_lang": "en",
+    "original_title": "When the mighty fall, the rats hide: Ex-President\u2019s economic team failed to ignite economy",
+    "file_name": "/tmp/news_lk2/articles/29/29562ecd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Will-the-225-save-this-country-now-gasping-for-breath/14-737621",
     "time_ut": 1658089457,
     "original_lang": "en",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/18/187f64bb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/BASL-calls-on-protesters-to-return-Prime-Ministers-Office-to-authorities-immediately/342-241009",
-    "time_ut": 1657719587,
-    "original_lang": "en",
-    "original_title": "BASL calls on protesters to return Prime Minister\u2019s Office to authorities immediately",
-    "file_name": "/tmp/news_lk2/articles/45/455c136b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba-\u0d85\u0dc3\u0dbd-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf-\u0d9a\u0dc5-30\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395399",
-    "time_ut": 1657719525,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0d85\u0dc3\u0dbd \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf \u0d9a\u0dc5 30\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/fc/fc11146f.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131401",
-    "time_ut": 1657719333,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb5\u0b9a\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd !",
-    "file_name": "/tmp/news_lk2/articles/fe/fe2396de.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300354",
-    "time_ut": 1657719281,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/66/667bf37b.json"
   }
 ]

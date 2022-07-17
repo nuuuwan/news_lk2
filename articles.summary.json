@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/From-Heros-to-Zeros-Revisiting-Lucifer-Effect-as-leaders-enigma/4-737625",
+    "time_ut": 1658090242,
+    "original_lang": "en",
+    "original_title": "From \u2018Heros\u2019 to \u2018Zeros\u2019: Revisiting Lucifer Effect as leaders\u2019 enigma",
+    "file_name": "/tmp/news_lk2/articles/69/69551433.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-new-government-Be-warned-of-the-empty-treasury-and-negative-foreign-reserves/4-737624",
+    "time_ut": 1658090024,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s new government:  Be warned of the empty treasury and negative foreign reserves",
+    "file_name": "/tmp/news_lk2/articles/4c/4c036773.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/What-next-How-do-we-proceed-to-rebuild-Sri-Lanka/4-737623",
+    "time_ut": 1658089699,
+    "original_lang": "en",
+    "original_title": "What next? How do we proceed to rebuild Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/01/0128cde9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/When-the-mighty-fall-the-rats-hide-Ex-President-s-economic-team-failed-to-ignite-economy/14-737622",
+    "time_ut": 1658089574,
+    "original_lang": "en",
+    "original_title": "When the mighty fall, the rats hide: Ex-President\u2019s economic team failed to ignite economy",
+    "file_name": "/tmp/news_lk2/articles/29/29562ecd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Will-the-225-save-this-country-now-gasping-for-breath/14-737621",
     "time_ut": 1658089457,
     "original_lang": "en",
