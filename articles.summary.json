@@ -41,6 +41,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/3-hour-power-cut-for-next-two-days/108-241231",
+    "time_ut": 1658038341,
+    "original_lang": "en",
+    "original_title": "3-hour power cut for next two days",
+    "file_name": "/tmp/news_lk2/articles/ca/ca882402.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/3-hours-power-cuts-for-next-two-days/108-241231",
     "time_ut": 1658038341,
     "original_lang": "en",

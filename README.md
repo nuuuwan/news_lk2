@@ -1,10 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 12:46:54 (LK time)*
+*As of 2022-07-17 12:54:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** virakesari-lk ([காலி முகத்திடல் தமிழர்களின் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/890c9b87.json))
+
+* **1** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
+
+## Last Hour (3 Articles)
 
 * **1** virakesari-lk ([காலி முகத்திடல் தமிழர்களின் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/890c9b87.json))
 
@@ -12,23 +18,15 @@
 
 * **1** lankadeepa-lk ([පුත්තලමේ පෙට්‍රල් ලීටරයක් 2500යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8737dcaa.json))
 
-## Last Hour (5 Articles)
+## Last 3 Hours (28 Articles)
 
-* **2** virakesari-lk ([இலவசக்கல்வி சுகாதாரத்திற்கான அரச உதவிகளை குறைக்குமாறு சர்வதேச நாணயநிதியம் நிபந்தனை விதிக்கலாம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44e59fe7.json))
-
-* **2** lankadeepa-lk ([වල්අලි ප්‍රහාරවලින් ගොවියෝ තුනක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c81429.json))
-
-* **1** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
-
-## Last 3 Hours (27 Articles)
+* **5** daily-mirror-lk ([SL is warning sign for countries with high debt levels, limited policy: IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11abbbd3.json))
 
 * **4** virakesari-lk ([கோத்தபாய ராஜபக்சவிற்கு எந்த நாடும் தஞ்சமளிக்ககூடாது –உலகதமிழர் பாதுகாப்பு செயலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bad0032b.json))
 
 * **4** ada-derana-lk ([Dullas’ primary intention in running for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f5fdd4.json))
 
 * **4** lankadeepa-lk ([උපකාරක ගුරාගේ ජරාවැඩක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ae96cc5.json))
-
-* **4** daily-mirror-lk ([SL is warning sign for countries with high debt levels, limited policy: IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11abbbd3.json))
 
 * **4** ada-lk ([42 ස්ටාලින් 22 සෙලෙන්සිකි ඇමෙරිකාව වීරයන් බිහිකිරීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0854724.json))
 
@@ -38,19 +36,19 @@
 
 * **1** economy-next-com ([Sri Lanka CB, Treasury, Foreign Ministry in high level talks with Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c8f1423.json))
 
-## Last 24 Hours (132 Articles)
+## Last 24 Hours (129 Articles)
 
-* **36** virakesari-lk ([சனத்தொகை எண்ணிக்கையில் சீனாவை முந்தும் இந்தியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fbadcce.json))
-
-* **18** ada-derana-lk ([Anura Kumara to join race for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/2948c4ed.json))
+* **33** virakesari-lk ([சிம்மாசனம் யாருக்கு ? இடைக்கால ஜனாதிபதிக்கு 4 பேர் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a18dc4c5.json))
 
 * **18** lankadeepa-lk ([ධනාත්මක කාර්යක් ඉටු කිරීමට චීනය සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50b5b46c.json))
 
+* **17** ada-derana-lk ([Sri Lanka introduces national fuel pass](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ef11e7.json))
+
 * **15** tamil-mirror-lk ([எரிபொருள் ’பாஸ்’ பெற பதிவு செய்யுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/1466d03b.json))
 
-* **10** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
+* **10** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e04be79.json))
 
-* **9** daily-mirror-lk ([Guidelines to register with National Fuel Pass system](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e04be79.json))
+* **10** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
 
 * **9** news-first-lk ([GL questions SLPP pledge to support Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c03cf4c.json))
 
@@ -62,13 +60,13 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## Last Week (1,619 Articles)
+## Last Week (1,620 Articles)
 
 * **240** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
 * **239** virakesari-lk ([பற்றிஸ் லுமும்பாவும் அவரது தங்கப் பல்லும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68d6d440.json))
 
-* **207** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
+* **208** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
 * **194** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
@@ -90,11 +88,11 @@
 
 * **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,052 Articles)
+## All Time (2,053 Articles)
 
 * **304** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **261** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **262** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **244** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
