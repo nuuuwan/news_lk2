@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-private-bus-owners-warn-drivers-to-refrain-from-fuel-hoarding-overcharging-97501/",
+    "time_ut": 1658076180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s private bus owners warn drivers to refrain from fuel hoarding, overcharging",
+    "file_name": "/tmp/news_lk2/articles/0f/0f1224ef.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-to-balance-depositors-interest-in-giving-debt-relief-97498/",
     "time_ut": 1658075940,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Chief of Defence Staff urges public to help maintain law and order",
     "file_name": "/tmp/news_lk2/articles/d5/d5c7bb03.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78544",
-    "time_ut": 1657712940,
-    "original_lang": "en",
-    "original_title": "President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to \u201cexercise, perform and discharge the powers, duties and functions of the Office of President\u201d with effect from Wednesday, during his absence from Sri Lanka.",
-    "file_name": "/tmp/news_lk2/articles/74/74afdc76.json"
   }
 ]
