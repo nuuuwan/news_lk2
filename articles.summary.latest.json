@@ -96,12 +96,28 @@
     "file_name": "/tmp/news_lk2/articles/a2/a259d25d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Gotas-finally-gone-but-how-do-we-keep-our-heads-above-water/231-241245",
+    "time_ut": 1658070912,
+    "original_lang": "en",
+    "original_title": "Gota\u2019s finally gone; but how do we keep our heads above water?",
+    "file_name": "/tmp/news_lk2/articles/54/54e071a5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131659",
     "time_ut": 1658070903,
     "original_lang": "ta",
     "original_title": "\u0b89\u0bb2\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbe\u0baf\u0bc8 \u0b95\u0bca\u0ba9\u0bcd\u0bb1 \u0bae\u0b95\u0bb3\u0bcd - \u0baa\u0bca\u0bb0\u0bb3\u0bc8 - \u0baa\u0bc7\u0bb8\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0bae\u0bbe\u0b9f\u0bbf \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/3c/3ca0fc78.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Ranil-and-Dinesh-to-Run-the-Interim/231-241244",
+    "time_ut": 1658070672,
+    "original_lang": "en",
+    "original_title": "Ranil and Dinesh to Run the Interim",
+    "file_name": "/tmp/news_lk2/articles/0b/0bd55335.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -118,6 +134,22 @@
     "original_lang": "en",
     "original_title": "SL economy likely to contract more than 6%: CBSL Chief",
     "file_name": "/tmp/news_lk2/articles/d2/d2f3424a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-stability-amid-crisis-in-Lanka-EDITORIAL/231-241243",
+    "time_ut": 1658070263,
+    "original_lang": "en",
+    "original_title": "The need for stability amid crisis in Lanka - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/51/51e4c638.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Rooting-out-corruption-a-necessary-step-for-Sri-Lanka-to-prosper/231-241242",
+    "time_ut": 1658070185,
+    "original_lang": "en",
+    "original_title": "Rooting out corruption; a necessary step for Sri Lanka to prosper",
+    "file_name": "/tmp/news_lk2/articles/4b/4baadb73.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Security forces urge public cooperation to maintain law and order",
     "file_name": "/tmp/news_lk2/articles/4b/4b93992a.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78547",
-    "time_ut": 1657714980,
-    "original_lang": "en",
-    "original_title": "The departure of . Gotabaya   Rajapaksa from rge Island  has not reduced the uncertainty prevailing in Sri Lanka because  the President is yet to officially resign, though he had promised to do so on Wednesday.",
-    "file_name": "/tmp/news_lk2/articles/cd/cd3a09d4.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-military-calls-for-politicians-to-get-their-act-together-public-to-be-calm-97359/",
-    "time_ut": 1657714620,
-    "original_lang": "en",
-    "original_title": "Sri Lanka military calls for politicians to get their act together, public to be calm",
-    "file_name": "/tmp/news_lk2/articles/52/526e415d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0baa\u0bbf\u0bb0\u0b9c\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-300346",
-    "time_ut": 1657714468,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/48/4852784d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Lankans-in-Maldives-protest-agaisnt-GR/110-241003",
-    "time_ut": 1657714273,
-    "original_lang": "en",
-    "original_title": "Lankans in Maldives protest agaisnt GR",
-    "file_name": "/tmp/news_lk2/articles/52/52651efa.json"
   }
 ]

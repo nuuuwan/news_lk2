@@ -96,12 +96,28 @@
     "file_name": "/tmp/news_lk2/articles/a2/a259d25d.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Gotas-finally-gone-but-how-do-we-keep-our-heads-above-water/231-241245",
+    "time_ut": 1658070912,
+    "original_lang": "en",
+    "original_title": "Gota\u2019s finally gone; but how do we keep our heads above water?",
+    "file_name": "/tmp/news_lk2/articles/54/54e071a5.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131659",
     "time_ut": 1658070903,
     "original_lang": "ta",
     "original_title": "\u0b89\u0bb2\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbe\u0baf\u0bc8 \u0b95\u0bca\u0ba9\u0bcd\u0bb1 \u0bae\u0b95\u0bb3\u0bcd - \u0baa\u0bca\u0bb0\u0bb3\u0bc8 - \u0baa\u0bc7\u0bb8\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0bae\u0bbe\u0b9f\u0bbf \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/3c/3ca0fc78.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Ranil-and-Dinesh-to-Run-the-Interim/231-241244",
+    "time_ut": 1658070672,
+    "original_lang": "en",
+    "original_title": "Ranil and Dinesh to Run the Interim",
+    "file_name": "/tmp/news_lk2/articles/0b/0bd55335.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -118,6 +134,22 @@
     "original_lang": "en",
     "original_title": "SL economy likely to contract more than 6%: CBSL Chief",
     "file_name": "/tmp/news_lk2/articles/d2/d2f3424a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-stability-amid-crisis-in-Lanka-EDITORIAL/231-241243",
+    "time_ut": 1658070263,
+    "original_lang": "en",
+    "original_title": "The need for stability amid crisis in Lanka - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/51/51e4c638.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Rooting-out-corruption-a-necessary-step-for-Sri-Lanka-to-prosper/231-241242",
+    "time_ut": 1658070185,
+    "original_lang": "en",
+    "original_title": "Rooting out corruption; a necessary step for Sri Lanka to prosper",
+    "file_name": "/tmp/news_lk2/articles/4b/4baadb73.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
