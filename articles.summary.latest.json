@@ -209,19 +209,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/One-million-successfully-registered-for-National-Fuel-Pass/108-241235",
-    "time_ut": 1658060482,
-    "original_lang": "en",
-    "original_title": "One million successfully registered for \u2019National Fuel Pass\u2019",
-    "file_name": "/tmp/news_lk2/articles/91/91acaa82.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/More-than-100-000-successfully-registered-for-National-Fuel-Pass/342-241235",
     "time_ut": 1658060482,
     "original_lang": "en",
     "original_title": "More than 100,000 successfully registered for \u2019National Fuel Pass\u2019",
     "file_name": "/tmp/news_lk2/articles/45/45953139.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/One-million-successfully-registered-for-National-Fuel-Pass/342-241235",
+    "time_ut": 1658060482,
+    "original_lang": "en",
+    "original_title": "One million successfully registered for \u2019National Fuel Pass\u2019",
+    "file_name": "/tmp/news_lk2/articles/a3/a3320a6f.json"
   },
   {
     "newspaper_id": "economy-next-com",

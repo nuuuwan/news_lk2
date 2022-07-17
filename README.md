@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 20:28:14 (LK time)*
+*As of 2022-07-17 20:36:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,35 +8,35 @@
 
 * **1** daily-mirror-lk ([Pregnant woman, husband die in accident in Buttala](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28ce4405.json))
 
-## Last Hour (10 Articles)
+## Last Hour (8 Articles)
 
-* **6** lankadeepa-lk ([‘‘මත භේද පැත්තකට දමා අවංකව කටයුතු කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e81dcd65.json))
-
-* **2** tamil-mirror-lk ([மற்றொரு நபரும் வெளிநாட்டுக்கு தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45982171.json))
+* **5** lankadeepa-lk ([දිස්ත්‍රික් ලේකම් කාර්යාලවලට පාස්පෝට් උප කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef455f7a.json))
 
 * **1** daily-mirror-lk ([Pregnant woman, husband die in accident in Buttala](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28ce4405.json))
 
+* **1** tamil-mirror-lk ([மொட்டுக் கட்சி எம்.பிக்களுக்கு புதிய வீடுகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90abfde2.json))
+
 * **1** virakesari-lk ([மொனராகலை பகுதியில் கோர விபத்து - கணவனும், கர்ப்பிணி மனைவியும் பரிதாப பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40637db.json))
 
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (29 Articles)
 
 * **7** lankadeepa-lk ([ඉන්ධන මිල පහළ දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25bdfb45.json))
 
-* **6** daily-mirror-lk ([More than 100,000 successfully registered for ’National Fuel Pass’](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45953139.json))
+* **6** daily-mirror-lk ([One million successfully registered for ’National Fuel Pass’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3320a6f.json))
 
 * **5** tamil-mirror-lk ([சிங்கப்பூரில் சிக்கல்: வருகிறார் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bccc4f64.json))
 
-* **5** news-first-lk ([Lanka Premier League 2022 postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/966fa79f.json))
-
-* **4** virakesari-lk ([ரணிலை ஆதரித்தால் மட்டுமே சகலரும் அரசியல் செய்யும் நிலை உருவாகும் - ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c4d9b28.json))
+* **4** news-first-lk ([Sri Lanka is a warning sign : IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe474472.json))
 
 * **3** ada-derana-lk ([Acting President orders probe into alleged attempts to influence MPs’ votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a686186.json))
 
+* **2** virakesari-lk ([எரிபொருட்களின் விலைகள் குறைகின்றன - புதிய விலைப்பட்டியல் இதோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d006ab81.json))
+
 * **2** economy-next-com ([Sri Lanka’s private bus owners request priority in filling queues to resume operation](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/372149de.json))
 
-## Last 24 Hours (143 Articles)
+## Last 24 Hours (138 Articles)
 
-* **32** virakesari-lk ([சுதந்திரக் கட்சி எந்த இடைக்கால ஜனாதிபதி வேட்பாளருக்கும் ஆதரவளிக்காது - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b2cf857.json))
+* **27** virakesari-lk ([எவ்வாறு ரணிலை ஆதரிப்பீர்கள் ? - சாகர காரியவசத்திடம் விளக்கம் கோரி பீரிஸ் கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74e4778b.json))
 
 * **26** lankadeepa-lk ([ඉන්ධනහලේ කළමනාකරු තෙල් පන්නද්දී මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe20f41.json))
 
