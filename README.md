@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 02:52:08 (LK time)*
+*As of 2022-07-18 03:04:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last Hour (2 Articles)
 
-* **6** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
+* **2** daily-ft-lk ([From ‘Heros’ to ‘Zeros’: Revisiting Lucifer Effect as leaders’ enigma](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69551433.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
 * **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
-* **2** daily-mirror-lk ([CID launches probe on social media posts threatening MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a5ee513.json))
+* **1** daily-mirror-lk ([Suspect arrested with 50 tear gas cannisters stolen from police during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd6ed81.json))
 
 ## Last 24 Hours (169 Articles)
 
