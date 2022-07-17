@@ -1,22 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 23:02:17 (LK time)*
+*As of 2022-07-17 23:15:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (1 Articles)
 
 * **1** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
 
-## Last Hour (4 Articles)
-
-* **2** economy-next-com ([Sri Lanka to balance depositor’s interest in giving debt relief](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a28e04.json))
-
-* **1** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
-
-* **1** ada-derana-lk ([Minister’s request to those queued up at Ceypetco fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9dbfc3d.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (14 Articles)
 
 * **3** ada-derana-lk ([Current Parliament doesn’t represent majority opinion - Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74cbc7b2.json))
 
@@ -26,25 +18,25 @@
 
 * **2** economy-next-com ([Sri Lanka to balance depositor’s interest in giving debt relief](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a28e04.json))
 
-* **2** daily-mirror-lk ([Pregnant woman, husband die in accident in Buttala](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28ce4405.json))
-
 * **2** ada-lk ([ඉන්ධන මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a259d25d.json))
+
+* **1** daily-mirror-lk ([Catholic Bishops Conference urges MPs to elect honest, able Prez, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d10806.json))
 
 * **1** news-first-lk ([SL economy likely to contract more than 6%: CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2f3424a.json))
 
-## Last 24 Hours (146 Articles)
+## Last 24 Hours (144 Articles)
 
 * **29** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
 * **26** virakesari-lk ([ஜனாதிபதி மாளிகை, அலரி மாளிகை சேதம் தொடர்பில் கணக்காய்வு செய்வதற்கு அராசங்கம் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88bf9501.json))
 
-* **19** ada-derana-lk ([Ex-President Gotabaya says he ‘took all possible steps’ to prevent crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6314c851.json))
-
 * **19** news-first-lk ([Ranjan Ramanayake : Pardon being considered](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9431746.json))
+
+* **18** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
 * **16** daily-mirror-lk ([Sri Lankan flight makes emergency landing in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9ff2cad.json))
 
-* **16** tamil-mirror-lk ([மஹிந்தவை சந்தித்த கோபால்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8f0e722.json))
+* **15** tamil-mirror-lk ([கூட்டமைப்பின் ஆதரவு யாருக்கு?](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1588f528.json))
 
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
 
