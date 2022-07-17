@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 04:53:52 (LK time)*
+*As of 2022-07-18 05:02:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (4 Articles)
 
-* **6** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
+* **3** daily-ft-lk ([Sri Lanka’s new government:  Be warned of the empty treasury and negative foreign reserves](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c036773.json))
 
 * **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
