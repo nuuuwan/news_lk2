@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/1-616548",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0d82\u0d9c\u0db8-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-\u0d91\u0dba\u0dd2/101-616549",
+    "time_ut": 1658052087,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0d82\u0d9c\u0db8 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ed/ede0e9f2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/TUCC-declare-proposals/110-241234",
+    "time_ut": 1658051963,
+    "original_lang": "en",
+    "original_title": "TUCC declare proposals...",
+    "file_name": "/tmp/news_lk2/articles/6b/6b2b8e70.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/101-616548",
     "time_ut": 1658051590,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0da9\u0dbd\u0dc3\u0dca\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a0/a08a1585.json"
+    "file_name": "/tmp/news_lk2/articles/dc/dcf49207.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1118,6 +1134,14 @@
     "original_lang": "en",
     "original_title": "Dilmah\u2019s MJF Centre East Opens Cashew Processing Centre for Smallholders",
     "file_name": "/tmp/news_lk2/articles/5d/5d5dd358.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131584",
+    "time_ut": 1657962392,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5c/5c164369.json"
   },
   {
     "newspaper_id": "virakesari-lk",
