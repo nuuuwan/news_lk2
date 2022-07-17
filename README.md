@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 01:13:31 (LK time)*
+*As of 2022-07-18 01:22:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -26,15 +26,15 @@
 
 * **18** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
-* **14** tamil-mirror-lk ([மன்னாரில் இன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85a61128.json))
+* **13** tamil-mirror-lk ([’அரசியல்வாதிகள் அதிகாரத்திற்கு வருவதற்கு போட்டியிடுகின்றனர்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7efa4b.json))
 
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
-* **1** colombo-telegraph-com ([Well, It’s Legal!](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/125b0cda.json))
+* **2** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
 
-## Last Week (1,709 Articles)
+## Last Week (1,710 Articles)
 
 * **265** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -60,9 +60,9 @@
 
 * **24** d-b-s-jeyaraj-com ([Is the  Medamulana “House of Rajapaksa” Falling Down, Falling Down?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e6e7fa.json))
 
-* **22** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
+* **23** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,173 Articles)
+## All Time (2,174 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,4 +88,4 @@
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **38** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
+* **39** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
