@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 05:17:34 (LK time)*
+*As of 2022-07-17 05:28:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (151 Articles)
+## Last 24 Hours (161 Articles)
 
 * **36** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -20,13 +20,15 @@
 
 * **10** daily-mirror-lk ([Acting President has edge with SLPP support](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba14686f.json))
 
+* **10** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
+
 * **4** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
 
 * **3** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
 
 * **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
 
-## Last Week (1,565 Articles)
+## Last Week (1,578 Articles)
 
 * **235** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
@@ -46,7 +48,7 @@
 
 * **79** economy-next-com ([Five Sri Lanka ministers quit after president, PM offer resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c32d9243.json))
 
-* **46** island-lk ([Sri Lanka’s popular brand ‘Hemas’ set to enter Omani market](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd554013.json))
+* **59** island-lk ([Sri Lanka’s popular brand ‘Hemas’ set to enter Omani market](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd554013.json))
 
 * **30** b-b-c-com-sinhala ([අරගලකරුවන් අත්පත් කරගත් මන්දිර දැකබලා ගන්න ජන ගඟක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06049d8.json))
 
@@ -54,7 +56,7 @@
 
 * **24** d-b-s-jeyaraj-com ([If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d86e4f0.json))
 
-## All Time (1,988 Articles)
+## All Time (2,002 Articles)
 
 * **299** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +68,7 @@
 
 * **188** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **151** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **150** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **140** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
@@ -76,7 +78,7 @@
 
 * **100** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **66** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **81** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 

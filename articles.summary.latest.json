@@ -128,6 +128,22 @@
     "file_name": "/tmp/news_lk2/articles/d5/d590e778.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/gr-has-vacated-office-and-ranils-appointment-is-unconstitutional/",
+    "time_ut": 1657981080,
+    "original_lang": "en",
+    "original_title": "GR has vacated office and Ranil\u2019s Appointment is Unconstitutional",
+    "file_name": "/tmp/news_lk2/articles/aa/aa2001e3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/when-i-was-born-we-were-in-the-third-word-and-were-still-there-as-im-ready-to-die/",
+    "time_ut": 1657980660,
+    "original_lang": "en",
+    "original_title": "\u201cWhen I was born we were in the Third Word and we\u2019re still there as I\u2019m ready to die\u201d",
+    "file_name": "/tmp/news_lk2/articles/54/540cdeca.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0db4\u0dcf\u0da9\u0db8\u0dca-\u0d89\u0d9c\u0dd9\u0db1-\u0d9c\u0db1\u0dca\u0db1\u0dd9-\u0db8\u0dda-\u0db4\u0dcf\u0dbb-\u0dad\u0db8\u0dba\u0dd2\u2019\u2019/1-616531",
     "time_ut": 1657979016,
@@ -272,6 +288,14 @@
     "file_name": "/tmp/news_lk2/articles/43/43a34d40.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/how-i-made-good-in-australia-some-reminiscences/",
+    "time_ut": 1657969380,
+    "original_lang": "en",
+    "original_title": "How I made good in Australia, some reminiscences",
+    "file_name": "/tmp/news_lk2/articles/27/27e7d475.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Guidelines-to-register-with-National-Fuel-Pass-system/108-241222",
     "time_ut": 1657968576,
@@ -288,12 +312,28 @@
     "file_name": "/tmp/news_lk2/articles/42/42d34878.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/handing-over-of-the-jayam-wijayaratnam-cancer-care-centre-to-the-health-ministry/",
+    "time_ut": 1657967880,
+    "original_lang": "en",
+    "original_title": "Handing over of the Jayam Wijayaratnam Cancer Care Centre to the Health Ministry",
+    "file_name": "/tmp/news_lk2/articles/92/924b1e30.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0db1\u0dd2\u0db4\u0dba\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0d9a\u0dd2\u0dc3\u0dd2\u0db8-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0db1\u0dd1/11-395474",
     "time_ut": 1657967854,
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0db1\u0dd2\u0db4\u0dba\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0d9a\u0dd2\u0dc3\u0dd2\u0db8 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/66/66674807.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/travels-with-the-prime-minister/",
+    "time_ut": 1657967400,
+    "original_lang": "en",
+    "original_title": "Travels with the Prime Minister",
+    "file_name": "/tmp/news_lk2/articles/f3/f38cf36a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -310,6 +350,14 @@
     "original_lang": "en",
     "original_title": "GL questions Kariyawasam on backing Ranil for office of president",
     "file_name": "/tmp/news_lk2/articles/b7/b7d483f5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-story-of-the-northways-pioneering-planters-in-ceylon/",
+    "time_ut": 1657965900,
+    "original_lang": "en",
+    "original_title": "THE STORY OF THE NORTHWAYS, PIONEERING PLANTERS IN CEYLON",
+    "file_name": "/tmp/news_lk2/articles/e6/e6382841.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -344,6 +392,14 @@
     "file_name": "/tmp/news_lk2/articles/cd/cdad9b3f.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combank-launches-arunalu-foreign-currency-savings-account-for-children-2/",
+    "time_ut": 1657964580,
+    "original_lang": "en",
+    "original_title": "ComBank launches \u2018Arunalu\u2019 Foreign Currency Savings Account for children",
+    "file_name": "/tmp/news_lk2/articles/85/85ecd712.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd\u0da7\u0dc0\u0dd6-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1\u0dba-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0d9c\u0dab\u0db1\u0dba\u0d9a\u0dca/101-616528",
     "time_ut": 1657964569,
@@ -366,6 +422,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0b9f\u0bc1\u0ba8\u0bbf\u0bb2\u0bc8 \u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0b9a\u0bbf.\u0bb5\u0bbf. \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/70/70fe7931.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tumult-tear-gas-and-tourism/",
+    "time_ut": 1657964100,
+    "original_lang": "en",
+    "original_title": "TUMULT, TEAR-GAS AND TOURISM",
+    "file_name": "/tmp/news_lk2/articles/4e/4edb7d29.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -400,12 +464,28 @@
     "file_name": "/tmp/news_lk2/articles/a2/a2ceab80.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/kanrich-finance-ratnapura-branch-relocates-to-new-premises/",
+    "time_ut": 1657962720,
+    "original_lang": "en",
+    "original_title": "Kanrich Finance Ratnapura branch relocates to new premises",
+    "file_name": "/tmp/news_lk2/articles/b9/b9bf35b0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0da7-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db6\u0dd9\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2/101-616527",
     "time_ut": 1657962701,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db6\u0dd9\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/97/97df192a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dilmahs-mjf-centre-east-opens-cashew-processing-centre-for-smallholders/",
+    "time_ut": 1657962540,
+    "original_lang": "en",
+    "original_title": "Dilmah\u2019s MJF Centre East Opens Cashew Processing Centre for Smallholders",
+    "file_name": "/tmp/news_lk2/articles/5d/5d5dd358.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1649,11 +1729,35 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/dfcc-bank-launches-initiative-to-attract-foreign-inward-remittances/",
+    "time_ut": 1657900740,
+    "original_lang": "en",
+    "original_title": "DFCC Bank launches initiative to attract Foreign Inward Remittances",
+    "file_name": "/tmp/news_lk2/articles/8f/8fec5da1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/share-market-turns-positive-in-the-wake-of-grs-resignation-turnover-hits-rs-1-billion/",
     "time_ut": 1657900680,
     "original_lang": "en",
     "original_title": "Share market turns positive in the wake of GR\u2019s resignation; turnover hits Rs. 1 billion",
     "file_name": "/tmp/news_lk2/articles/85/8546d1fe.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-becomes-the-first-telco-to-offer-eco-channelling-delivery/",
+    "time_ut": 1657900620,
+    "original_lang": "en",
+    "original_title": "SLT-MOBITEL becomes the first telco to offer \u2018Eco Channelling Delivery\u2019",
+    "file_name": "/tmp/news_lk2/articles/a5/a513d330.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/daraz-joins-un-global-compact-to-shape-a-more-sustainable-future-for-its-communities/",
+    "time_ut": 1657900560,
+    "original_lang": "en",
+    "original_title": "Daraz joins UN Global Compact to shape a more sustainable future for its communities",
+    "file_name": "/tmp/news_lk2/articles/b4/b448b00b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5672,6 +5776,14 @@
     "file_name": "/tmp/news_lk2/articles/34/342e7ece.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cut-the-gordian-knot/",
+    "time_ut": 1657736700,
+    "original_lang": "en",
+    "original_title": "Cut the Gordian knot",
+    "file_name": "/tmp/news_lk2/articles/5a/5a4065ce.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0da7\u0da7\u0db8-\u0d87\u0db3\u0dd2\u0dbb\u0dd2-\u0db1\u0dd2\u0dad\u0dd2\u0dba-\u0daf\u0db8\u0dba\u0dd2/11-395406",
     "time_ut": 1657735938,
@@ -7886,117 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0da7 \u0dad\u0dd4\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca \u0dc3\u0da7\u0db1\u0d9a\u0dca ?",
     "file_name": "/tmp/news_lk2/articles/18/18574285.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bae\u0bcd-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/72-300307",
-    "time_ut": 1657685560,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bae\u0bcd \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f2/f2037064.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-Gas-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-300306",
-    "time_ut": 1657685553,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 Gas  \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/99/999a08ee.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62148670",
-    "time_ut": 1657685060,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0db1\u0dc0\u0dad\u0db8 \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba: \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba, \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3\u0dba \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d85\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/5a/5ae196dd.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9-\u0dbd\u0dd2\u0dba\u0dd4\u0db8-\u0d86\u0dc0\u0ddc\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-395377",
-    "time_ut": 1657685022,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9 \u0dbd\u0dd2\u0dba\u0dd4\u0db8 \u0d86\u0dc0\u0ddc\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/7f/7fe1f8b5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1/175-300304",
-    "time_ut": 1657684621,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/78/7898f6e6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/13/bread-prices-increased-from-tuesday-12/",
-    "time_ut": 1657684620,
-    "original_lang": "en",
-    "original_title": "Bread prices increased from Tuesday (12)",
-    "file_name": "/tmp/news_lk2/articles/94/94f157d4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/13/india-did-not-facilitate-gotas-exit-hc/",
-    "time_ut": 1657684140,
-    "original_lang": "en",
-    "original_title": "India did not facilitate Gota\u2019s exit \u2013 HC",
-    "file_name": "/tmp/news_lk2/articles/4d/4d2e155b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2-\u0dad\u0dd4\u0db1-\u0d86\u0db4\u0dc3\u0dd4-\u0db7\u0dcf\u0dbb-\u0daf\u0dd9\u0db1\u0dca\u0db1---BASL/11-395376",
-    "time_ut": 1657684126,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0dad\u0dd4\u0db1 \u0d86\u0db4\u0dc3\u0dd4 \u0db7\u0dcf\u0dbb \u0daf\u0dd9\u0db1\u0dca\u0db1 - BASL",
-    "file_name": "/tmp/news_lk2/articles/3b/3b3a728b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/india-denies-aiding-sri-lanka-president-ex-finance-minister-flee-97318/",
-    "time_ut": 1657683960,
-    "original_lang": "en",
-    "original_title": "India denies aiding Sri Lanka president, ex-finance minister flee",
-    "file_name": "/tmp/news_lk2/articles/1d/1df5fa47.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616326",
-    "time_ut": 1657683871,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/a6/a6cfa28f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0d87\u0dad\u0dd2-\u0db6\u0dbd\u0dad\u0dbd-\u0d85\u0db1\u0dd4\u0dc0-\u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dbd\u0da7-\u0dba\u0da7\u0dad\u0dca\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7-\u0dbb\u0dd0\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba\u0dcf/11-395375",
-    "time_ut": 1657683353,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0d87\u0dad\u0dd2 \u0db6\u0dbd\u0dad\u0dbd \u0d85\u0db1\u0dd4\u0dc0 \u0db1\u0dd3\u0dad\u0dd2\u0dc0\u0dbd\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7 \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/48/482acbd2.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/13/president-has-left-the-country-pms-office/",
-    "time_ut": 1657683300,
-    "original_lang": "en",
-    "original_title": "President has left the country \u2013 PMs Office",
-    "file_name": "/tmp/news_lk2/articles/38/38c0c2ff.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4-\u0d9a\u0da9\u0d9a\u0dc5-\u0db6\u0dc0\u0da7-\u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db8\u0dc3\u0dca\u0d9a\u0dca\u0da7-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/3-395374",
-    "time_ut": 1657681985,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca\u0dad\u0dd4 \u0d9a\u0da9\u0d9a\u0dc5 \u0db6\u0dc0\u0da7 \u0da7\u0dca\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db8\u0dc3\u0dca\u0d9a\u0dca\u0da7 \u0db1\u0da9\u0dd4 \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1f/1fbcc4aa.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7-\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/7-395372",
-    "time_ut": 1657681894,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1\u0da7 \u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ba/bac4505f.json"
   }
 ]
