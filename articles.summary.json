@@ -40,6 +40,14 @@
     "file_name": "/tmp/news_lk2/articles/e7/e7b8ebff.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/energy-minister-introduces-mobile-fuel-dispensers/",
+    "time_ut": 1658055900,
+    "original_lang": "en",
+    "original_title": "Energy Minister introduces mobile fuel dispensers",
+    "file_name": "/tmp/news_lk2/articles/07/070e0c38.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131646",
     "time_ut": 1658055378,
@@ -56,12 +64,36 @@
     "file_name": "/tmp/news_lk2/articles/62/6253a2a1.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/vasudeva-pledges-support-to-dullas/",
+    "time_ut": 1658054400,
+    "original_lang": "en",
+    "original_title": "Vasudeva pledges support to Dullas",
+    "file_name": "/tmp/news_lk2/articles/63/634c2f22.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/indian-govt-calls-for-all-party-meeting-over-sri-lankan-crisis/",
+    "time_ut": 1658054340,
+    "original_lang": "en",
+    "original_title": "Indian Govt calls for all-party meeting over Sri Lankan crisis",
+    "file_name": "/tmp/news_lk2/articles/e8/e8357587.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/101-616552",
     "time_ut": 1658053772,
     "original_lang": "si",
     "original_title": "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db6\u0dd2\u0dbd\u0dd2",
     "file_name": "/tmp/news_lk2/articles/67/67fa7382.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/101-616552",
+    "time_ut": 1658053772,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/69/69a3951f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
