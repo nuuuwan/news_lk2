@@ -400,6 +400,14 @@
     "file_name": "/tmp/news_lk2/articles/e8/e8357587.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0dba-\u0dad\u0dd4\u0db1\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/11-395485",
+    "time_ut": 1658054227,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/29/29131102.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/101-616552",
     "time_ut": 1658053772,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Govt initiated a wave of oppression",
     "file_name": "/tmp/news_lk2/articles/08/08fb8acc.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83622/speaker-calls-urgent-party-leaders-meeting",
-    "time_ut": 1657709520,
-    "original_lang": "en",
-    "original_title": "Speaker calls urgent party leaders\u2019 meeting",
-    "file_name": "/tmp/news_lk2/articles/5c/5c796ae4.json"
   }
 ]
