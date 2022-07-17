@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 02:18:21 (LK time)*
+*As of 2022-07-18 02:25:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **5** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
+* **4** daily-ft-lk ([When the mighty fall, the rats hide: Ex-President’s economic team failed to ignite economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29562ecd.json))
 
 ## Last Hour (15 Articles)
 
