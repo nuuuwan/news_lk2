@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 13:13:42 (LK time)*
+*As of 2022-07-17 13:23:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **4** lankadeepa-lk ([පොලොන්නරුවේ රෝහල් කටයුතු නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9a4236.json))
+* **3** lankadeepa-lk ([පොහොට්ටු මන්ත්‍රීගේ වැනසූ ගෙවල් හදන්න සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6be1007.json))
 
 * **1** economy-next-com ([Sri Lanka’s low grown tea prices move up in July first-week sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c9c5cad.json))
 
 * **1** news-first-lk ([SLMC to agree with SJB on candidates](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acfa2201.json))
 
-* **1** daily-mirror-lk ([Much needs to be done to prevent falling down; Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4f5f584.json))
+## Last Hour (11 Articles)
 
-## Last Hour (12 Articles)
-
-* **5** lankadeepa-lk ([පුත්තලමේ පෙට්‍රල් ලීටරයක් 2500යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fc40afb.json))
+* **4** lankadeepa-lk ([පොලොන්නරුවේ රෝහල් කටයුතු නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9a4236.json))
 
 * **3** news-first-lk ([Likely rise of COVID-19 again, warns health official](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4917ec14.json))
 
@@ -28,29 +26,29 @@
 
 * **1** ada-derana-lk ([Power cut schedule for next two days](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/140ef493.json))
 
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (27 Articles)
 
 * **8** lankadeepa-lk ([උපකාරක ගුරාගේ ජරාවැඩක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ae96cc5.json))
 
-* **6** daily-mirror-lk ([SL is warning sign for countries with high debt levels, limited policy: IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11abbbd3.json))
-
 * **4** news-first-lk ([New fuel stocks only ready if fuel pass is complete](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fbd6934.json))
 
-* **4** virakesari-lk ([கோத்தபாய ராஜபக்சவிற்கு எந்த நாடும் தஞ்சமளிக்ககூடாது –உலகதமிழர் பாதுகாப்பு செயலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bad0032b.json))
+* **4** daily-mirror-lk ([US organization donates medical supplies worth USD 908,547 to SL](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bc42720.json))
 
 * **4** ada-lk ([42 ස්ටාලින් 22 සෙලෙන්සිකි ඇමෙරිකාව වීරයන් බිහිකිරීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0854724.json))
 
-* **3** ada-derana-lk ([National fuel pass to be upgraded for businesses to register multiple vehicles](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2b27c5.json))
+* **3** virakesari-lk ([பணவீக்கப் பேரலை - துவம்சமாகும் பொருளாதாரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0d72ef4.json))
 
-* **2** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
+* **2** ada-derana-lk ([Sri Lanka’s economy to contract by more than 6% in 2022 - CBSL governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2eb0809d.json))
 
 * **1** economy-next-com ([Sri Lanka’s low grown tea prices move up in July first-week sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c9c5cad.json))
 
+* **1** tamil-mirror-lk ([140க்கும் அதிகமான வாக்குகளைப் பெறுவார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e608433a.json))
+
 ## Last 24 Hours (137 Articles)
 
-* **33** virakesari-lk ([சிம்மாசனம் யாருக்கு ? இடைக்கால ஜனாதிபதிக்கு 4 பேர் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a18dc4c5.json))
+* **34** virakesari-lk ([சிம்மாசனம் யாருக்கு ? இடைக்கால ஜனாதிபதிக்கு 4 பேர் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a18dc4c5.json))
 
-* **22** lankadeepa-lk ([ධනාත්මක කාර්යක් ඉටු කිරීමට චීනය සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50b5b46c.json))
+* **21** lankadeepa-lk ([ජනපති අපේක්ෂකයෝ මැතිසබයේ සිටම ’’කැන්වසින්’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b2cfff2.json))
 
 * **17** ada-derana-lk ([Sri Lanka introduces national fuel pass](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64ef11e7.json))
 
@@ -70,11 +68,11 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## Last Week (1,628 Articles)
+## Last Week (1,629 Articles)
 
 * **244** lankadeepa-lk ([ස්ථාවර ආණ්ඩුවක් ඉක්මනින් හදමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/983ef751.json))
 
-* **238** virakesari-lk ([கீழைத்தேய நவீன புரட்சியின் அடையாளமாக இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c52430.json))
+* **239** virakesari-lk ([கீழைத்தேய நவீன புரட்சியின் அடையாளமாக இலங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33c52430.json))
 
 * **209** daily-mirror-lk ([Reviewing people’s revolution and its aftermath: Government kneels as ‘Aragalaya goes on overdrive’](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdf2e59d.json))
 
@@ -98,13 +96,13 @@
 
 * **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
-## All Time (2,062 Articles)
+## All Time (2,063 Articles)
 
 * **308** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **263** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **244** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **245** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **216** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
