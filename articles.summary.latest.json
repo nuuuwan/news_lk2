@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-19\u0b87\u0bb2\u0bcd-\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-300585",
+    "time_ut": 1658058039,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: 19\u0b87\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d6/d686c578.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83704/mobile-fuel-dispensers-for-three-wheeler-and-generator-requirements",
+    "time_ut": 1658057940,
+    "original_lang": "en",
+    "original_title": "Mobile fuel dispensers for three-wheeler and generator requirements",
+    "file_name": "/tmp/news_lk2/articles/0e/0e39ba65.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131649",
     "time_ut": 1658056947,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dd2.\u0da7\u0dd2.\u0d91\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0db1 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db1\u0dc0\u0dad\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ff/ffcafe5d.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-confirms-his-resignation-today-Speaker/108-240994",
-    "time_ut": 1657703135,
-    "original_lang": "en",
-    "original_title": "President confirms his resignation today - Speaker",
-    "file_name": "/tmp/news_lk2/articles/e3/e3db844c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/13/president-rajapaksa-confirms-that-he-would-step-down-today-13/",
-    "time_ut": 1657703100,
-    "original_lang": "en",
-    "original_title": "President Rajapaksa confirms that he would step down today (13)",
-    "file_name": "/tmp/news_lk2/articles/a9/a947f768.json"
   }
 ]
