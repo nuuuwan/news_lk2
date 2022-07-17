@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 00:32:07 (LK time)*
+*As of 2022-07-18 00:39:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -38,7 +38,7 @@
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
-## Last Week (1,712 Articles)
+## Last Week (1,710 Articles)
 
 * **264** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -46,7 +46,7 @@
 
 * **221** daily-mirror-lk ([President informs PM he will resign as announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f0a341e.json))
 
-* **203** tamil-mirror-lk ([துக்க தினம் பிரகடனப்படுத்துமாறு கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d646b9.json))
+* **202** tamil-mirror-lk ([இன்று முதல் பாடசாலைகளுக்கு விடுமுறை](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe850f0f.json))
 
 * **164** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
@@ -62,7 +62,7 @@
 
 * **29** b-b-c-com-sinhala ([අර්බුද සමයේ දරු ප්‍රසූතියට සුදානම් වන ඔබ අනිවාර්යයෙන් දැනගත යුත්තේ මොනවද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29bfb814.json))
 
-* **26** d-b-s-jeyaraj-com ([If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d86e4f0.json))
+* **25** d-b-s-jeyaraj-com ([Samagi Jana Balawegaya leader Sajith Premadasa  to contest for the post of President; MP’s will vote to elect a new President by secret ballot on 20 July if no consensus is reached on a single candidate to take over the Presidency after the resignation of President Gotabaya Rajapaksa.](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1520f94c.json))
 
 * **21** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
