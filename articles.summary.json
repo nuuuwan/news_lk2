@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/NFP-to-upgrade-to-register-multiple-vehicles-Minister/108-241229",
+    "time_ut": 1658033548,
+    "original_lang": "en",
+    "original_title": "NFP to upgrade to register multiple vehicles: Minister",
+    "file_name": "/tmp/news_lk2/articles/41/41cd0981.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83696/national-fuel-pass-to-be-upgraded-for-businesses-to-register-multiple-vehicles",
+    "time_ut": 1658033400,
+    "original_lang": "en",
+    "original_title": "National fuel pass to be upgraded for businesses to register multiple vehicles",
+    "file_name": "/tmp/news_lk2/articles/3e/3e2b27c5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/SL-is-warning-sign-for-countries-with-high-debt-levels-limited-policy-IMF-Chief/155-241228",
+    "time_ut": 1658033324,
+    "original_lang": "en",
+    "original_title": "SL is warning sign for countries with high debt levels, limited policy: IMF Chief",
+    "file_name": "/tmp/news_lk2/articles/11/11abbbd3.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83695/dullas-primary-intention-in-running-for-presidency",
+    "time_ut": 1658032740,
+    "original_lang": "en",
+    "original_title": "Dullas\u2019 primary intention in running for presidency",
+    "file_name": "/tmp/news_lk2/articles/a1/a1f5fdd4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/no-fuel-to-transport-essentials-to-rural-areas/",
+    "time_ut": 1658032440,
+    "original_lang": "en",
+    "original_title": "No fuel to transport essentials to rural areas",
+    "file_name": "/tmp/news_lk2/articles/dd/dd65b975.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/17/fuel-crisis-bus-services-up-50/",
     "time_ut": 1658032260,
     "original_lang": "en",
     "original_title": "Fuel Crisis: Bus services up 50%",
     "file_name": "/tmp/news_lk2/articles/e9/e9badd8c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-cb-treasury-foreign-ministry-in-high-level-talks-with-japan-97489/",
+    "time_ut": 1658032200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka CB, Treasury, Foreign Ministry in high level talks with Japan",
+    "file_name": "/tmp/news_lk2/articles/6c/6c8f1423.json"
   },
   {
     "newspaper_id": "news-first-lk",
