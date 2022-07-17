@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83708/lanka-ioc-also-slashes-fuel-prices",
+    "time_ut": 1658065560,
+    "original_lang": "en",
+    "original_title": "Lanka IOC also slashes fuel prices",
+    "file_name": "/tmp/news_lk2/articles/74/7411971e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CPC-to-low-fuel-prices-from-tonight/342-241237",
+    "url": "https://www.dailymirror.lk/breaking_news/Ready-to-withdraw-nomination-if-two-MPs-without-future-political-agendas-appointed-as-Prez-PM-AKD/108-241238",
+    "time_ut": 1658065362,
+    "original_lang": "en",
+    "original_title": "Ready to withdraw nomination if two MPs without future political agendas appointed as Prez, PM: AKD",
+    "file_name": "/tmp/news_lk2/articles/d5/d55d3f91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-to-low-fuel-prices-from-tonight/108-241237",
     "time_ut": 1658064876,
     "original_lang": "en",
     "original_title": "CPC to low fuel prices from tonight",
-    "file_name": "/tmp/news_lk2/articles/60/6032786f.json"
+    "file_name": "/tmp/news_lk2/articles/77/77ddd5f6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
