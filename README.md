@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 01:31:06 (LK time)*
+*As of 2022-07-18 01:41:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([Suspect arrested with 50 tear gas cannisters stolen from police during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd6ed81.json))
-
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (3 Articles)
 
 * **3** daily-mirror-lk ([LPL postponed to December](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/978b3afb.json))
 
-* **1** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
-
-## Last 24 Hours (151 Articles)
+## Last 24 Hours (150 Articles)
 
 * **29** lankadeepa-lk ([ගාල්ල සහ මාතර ඇතුළු පළාත් කීපයකට අදත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90493975.json))
 
@@ -26,15 +20,15 @@
 
 * **18** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
-* **13** tamil-mirror-lk ([’அரசியல்வாதிகள் அதிகாரத்திற்கு வருவதற்கு போட்டியிடுகின்றனர்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a7efa4b.json))
-
 * **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
+
+* **12** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
 * **2** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
 
-## Last Week (1,706 Articles)
+## Last Week (1,705 Articles)
 
 * **265** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -52,7 +46,7 @@
 
 * **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
-* **79** daily-ft-lk ([CID takes over investigation into arson attack on PM’s residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ed9b27e.json))
+* **78** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
 
 * **52** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
