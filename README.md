@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 04:39:03 (LK time)*
+*As of 2022-07-18 04:53:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (7 Articles)
 
-* **9** daily-ft-lk ([SLTC Research University, Sri Lanka partners with Indian Institute of Technology, India](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44545f94.json))
+* **6** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
 
 * **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
-## Last 24 Hours (173 Articles)
+## Last 24 Hours (172 Articles)
 
 * **31** virakesari-lk ([ஜனாதிபதி மாளிகை, அலரி மாளிகை சேதம் தொடர்பில் கணக்காய்வு செய்வதற்கு அராசங்கம் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88bf9501.json))
 
@@ -24,9 +24,9 @@
 
 * **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
-* **12** ada-lk ([බ්‍රිගේඩියර්වරයාගේ සේවය අත්හිටුවා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c69fe85.json))
-
 * **12** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
+
+* **11** ada-lk ([රුසියානු ආරක්ෂක ඇමති යුක්රේනයේ හදිසි සංචාරයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f62ea492.json))
 
 * **9** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
