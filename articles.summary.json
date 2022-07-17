@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/fuel-crisis-bus-services-up-50/",
+    "time_ut": 1658032260,
+    "original_lang": "en",
+    "original_title": "Fuel Crisis: Bus services up 50%",
+    "file_name": "/tmp/news_lk2/articles/e9/e9badd8c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/ranjan-ramanayake-pardon-being-considered/",
+    "time_ut": 1658031900,
+    "original_lang": "en",
+    "original_title": "Ranjan Ramanayake : Pardon being considered",
+    "file_name": "/tmp/news_lk2/articles/f9/f9431746.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankan-flight-makes-emergency-landing-in-Chennai-airport/108-241227",
     "time_ut": 1658029193,
@@ -582,6 +598,14 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db6\u0dd9\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/97/97df192a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131589",
+    "time_ut": 1657962690,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1 \u0baf\u0bbe\u0bb0\u0bcd ?",
+    "file_name": "/tmp/news_lk2/articles/8d/8d86cdf8.json"
   },
   {
     "newspaper_id": "virakesari-lk",
