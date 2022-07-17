@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 22:34:12 (LK time)*
+*As of 2022-07-17 22:46:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **2** economy-next-com ([Sri Lanka to balance depositor’s interest in giving debt relief](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a28e04.json))
-
-* **1** ada-derana-lk ([Minister’s request to those queued up at Ceypetco fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9dbfc3d.json))
 
 ## Last Hour (6 Articles)
 
@@ -20,9 +14,9 @@
 
 * **1** daily-mirror-lk ([Catholic Bishops Conference urges MPs to elect honest, able Prez, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d10806.json))
 
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (16 Articles)
 
-* **8** lankadeepa-lk ([දිස්ත්‍රික් ලේකම් කාර්යාලවලට පාස්පෝට් උප කාර්යාලයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef455f7a.json))
+* **4** lankadeepa-lk ([අනිද්දා රනිල්ට එරෙහිව විරෝධතා දිනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1d8bd83.json))
 
 * **3** ada-derana-lk ([Current Parliament doesn’t represent majority opinion - Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74cbc7b2.json))
 
@@ -32,11 +26,11 @@
 
 * **2** ada-lk ([ඉන්ධන මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a259d25d.json))
 
-* **2** virakesari-lk ([மொனராகலை பகுதியில் கோர விபத்து - கணவனும், கர்ப்பிணி மனைவியும் பரிதாப பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b40637db.json))
-
-* **2** tamil-mirror-lk ([மற்றொரு நபரும் வெளிநாட்டுக்கு தப்பியோட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45982171.json))
+* **1** virakesari-lk ([உலக்கையால் அடித்து தாயை கொன்ற மகள் - பொரளை - பேஸ்லைன் மாவத்தை தொடர்மாடி குடியிருப்பில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ca0fc78.json))
 
 * **1** news-first-lk ([SL economy likely to contract more than 6%: CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2f3424a.json))
+
+* **1** tamil-mirror-lk ([மொட்டுக் கட்சி எம்.பிக்களுக்கு புதிய வீடுகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90abfde2.json))
 
 ## Last 24 Hours (148 Articles)
 
