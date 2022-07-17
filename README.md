@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 00:25:22 (LK time)*
+*As of 2022-07-18 00:32:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([CID launches probe on social media posts threatening MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a5ee513.json))
 
 ## Last Hour (2 Articles)
 
@@ -42,7 +38,7 @@
 
 * **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
-## Last Week (1,713 Articles)
+## Last Week (1,712 Articles)
 
 * **264** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -54,7 +50,7 @@
 
 * **164** ada-lk ([කෝටි 04ක අයිස් සමග අයෙක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f5cfc6d.json))
 
-* **158** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **157** ada-derana-lk ([Showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c45b088.json))
 
 * **142** news-first-lk ([NO Indian troop deployment to Sri Lanka – High Commission](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b61b653d.json))
 
