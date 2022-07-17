@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b9a\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0bb2\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-300578",
+    "time_ut": 1658052717,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0b9a\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bb2\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/24/2443f0b1.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0d82\u0d9c\u0db8-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-\u0d91\u0dba\u0dd2/101-616549",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba\u0dda-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca-\u0db1\u0dd0\u0dc4\u0dd0\u2018\u2018/1-616550",
+    "time_ut": 1658052445,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0db1\u0dd0\u0dc4\u0dd0\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/e8/e8cbd591.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0d82\u0d9c\u0db8-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca-\u0d91\u0dba\u0dd2/1-616549",
     "time_ut": 1658052087,
     "original_lang": "si",
     "original_title": "\u0da2\u0d82\u0d9c\u0db8 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ed/ede0e9f2.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1aeceaa9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -17,11 +33,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/101-616548",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/1-616548",
     "time_ut": 1658051590,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dcf\u0dc3\u0dd4\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0da9\u0dbd\u0dc3\u0dca\u0da7",
-    "file_name": "/tmp/news_lk2/articles/dc/dcf49207.json"
+    "file_name": "/tmp/news_lk2/articles/a0/a08a1585.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -206,6 +222,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s low grown tea prices move up in July first-week sale",
     "file_name": "/tmp/news_lk2/articles/1c/1c9c5cad.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/17/no-change-in-decision-to-support-rw-says-sagara/",
+    "time_ut": 1658042760,
+    "original_lang": "en",
+    "original_title": "No change in decision to support RW, says Sagara",
+    "file_name": "/tmp/news_lk2/articles/14/142f3a29.json"
   },
   {
     "newspaper_id": "news-first-lk",
