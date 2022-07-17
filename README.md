@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-17 10:45:53 (LK time)*
+*As of 2022-07-17 10:56:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** ada-derana-lk ([National fuel pass to be upgraded for businesses to register multiple vehicles](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2b27c5.json))
+* **1** ada-derana-lk ([Sri Lanka’s economy to contract by more than 6% in 2022 - CBSL governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2eb0809d.json))
 
-* **2** daily-mirror-lk ([SL is warning sign for countries with high debt levels, limited policy: IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11abbbd3.json))
-
-* **1** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
-
-* **1** virakesari-lk ([கோத்தபாய ராஜபக்சவிற்கு எந்த நாடும் தஞ்சமளிக்ககூடாது –உலகதமிழர் பாதுகாப்பு செயலகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bad0032b.json))
-
-## Last Hour (11 Articles)
+## Last Hour (10 Articles)
 
 * **3** ada-derana-lk ([Dullas’ primary intention in running for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1f5fdd4.json))
 
-* **3** news-first-lk ([Ranjan Ramanayake : Pardon being considered](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9431746.json))
-
 * **2** daily-mirror-lk ([SL is warning sign for countries with high debt levels, limited policy: IMF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11abbbd3.json))
+
+* **2** news-first-lk ([Fuel Crisis: Bus services up 50%](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9badd8c.json))
 
 * **1** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
 
@@ -28,21 +22,21 @@
 
 * **1** economy-next-com ([Sri Lanka CB, Treasury, Foreign Ministry in high level talks with Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c8f1423.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (16 Articles)
 
 * **5** ada-derana-lk ([Several spells of showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1d6d992.json))
 
 * **3** daily-mirror-lk ([Sri Lankan flight makes emergency landing in Chennai airport](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9ff2cad.json))
 
-* **3** virakesari-lk ([ஜனாதிபதி மாளிகை, அலரி மாளிகை சேதம் தொடர்பில் கணக்காய்வு செய்வதற்கு அராசங்கம் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88bf9501.json))
-
 * **3** news-first-lk ([Ranjan Ramanayake : Pardon being considered](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9431746.json))
+
+* **2** virakesari-lk ([சிங்கப்பூரில் கோத்தபாயவிற்கு எதிரான ஆர்ப்பாட்டம் - ஒருவர் மாத்திரம் கலந்துகொண்டார் -](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d272f2df.json))
 
 * **2** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
 * **1** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
 
-## Last 24 Hours (150 Articles)
+## Last 24 Hours (143 Articles)
 
 * **38** virakesari-lk ([இலங்கையில் இருந்து சென்ற மேலும் 7 பேர் தமிழகத்தில் தஞ்சம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b684210.json))
 
@@ -52,15 +46,15 @@
 
 * **18** ada-derana-lk ([Postal services to four countries suspended](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ee15d42.json))
 
-* **17** news-first-lk ([Litro to continue gas distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18030f11.json))
-
-* **11** ada-lk ([ලොස් ඇන්ජලීස් මුඛ ආවරණ නීතිය යළි ගෙනඒමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5c883e6.json))
+* **16** news-first-lk ([NO Bus restrictions today (16)](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cd9d1e4.json))
 
 * **10** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
 
 * **9** daily-mirror-lk ([National Fuel Pass to be introduced today](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97426d20.json))
 
 * **6** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
+
+* **5** ada-lk ([පාර්ලිමේන්තුවේ අද වැඩ වුණේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ae16455.json))
 
 * **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
 
