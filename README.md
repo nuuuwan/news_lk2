@@ -1,20 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 03:04:33 (LK time)*
+*As of 2022-07-18 03:18:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-ft-lk ([From ‘Heros’ to ‘Zeros’: Revisiting Lucifer Effect as leaders’ enigma](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69551433.json))
+* **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
-## Last 3 Hours (17 Articles)
+## Last Hour (1 Articles)
+
+* **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
+
+## Last 3 Hours (18 Articles)
 
 * **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
+* **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
+
 * **1** daily-mirror-lk ([Suspect arrested with 50 tear gas cannisters stolen from police during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bd6ed81.json))
 
-## Last 24 Hours (169 Articles)
+## Last 24 Hours (171 Articles)
 
 * **29** virakesari-lk ([ஜனாதிபதி மாளிகை, அலரி மாளிகை சேதம் தொடர்பில் கணக்காய்வு செய்வதற்கு அராசங்கம் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88bf9501.json))
 
@@ -32,11 +38,11 @@
 
 * **12** tamil-mirror-lk ([பூஜையில் வைத்த பணம் மாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51f12588.json))
 
-* **8** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
+* **9** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
-* **3** colombo-telegraph-com ([Are BASL & Media Acting In Cahoots To Promote Ranil?](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b419b8f.json))
+* **4** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## Last Week (1,723 Articles)
+## Last Week (1,725 Articles)
 
 * **267** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -54,17 +60,17 @@
 
 * **94** daily-ft-lk ([Incumbent Cabinet awaits finality on new all-party Govt. before quitting](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/751dfd1a.json))
 
-* **85** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
+* **86** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
 * **52** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
 * **28** b-b-c-com-sinhala (["භූමිතෙල්,ගෑස්, කෑමබීම ගන්න අපි දිග පෝලිම්වල හිටියා.ඒත් රාජපක්ෂලා සැප ජීවිත ගතකරලා."](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/561fe493.json))
 
-* **24** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
+* **25** colombo-telegraph-com ([Legalize Euthanasia](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30c3ee97.json))
 
 * **24** d-b-s-jeyaraj-com ([Is the  Medamulana “House of Rajapaksa” Falling Down, Falling Down?](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e6e7fa.json))
 
-## All Time (2,193 Articles)
+## All Time (2,195 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,10 +90,10 @@
 
 * **134** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **108** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
+* **109** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
 * **81** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **40** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
+* **41** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))

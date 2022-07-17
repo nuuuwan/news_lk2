@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-tea-exports-down-12-6-pct-in-june-2022-rupee-earnings-up-in-soft-peg-collapse-97507/",
+    "time_ut": 1658093640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.",
+    "file_name": "/tmp/news_lk2/articles/3a/3a66c89f.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Well-it-s-legal/4-737626",
     "time_ut": 1658090375,
@@ -582,6 +590,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b9a\u0bb0\u0bcd\u0bb5 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/6f/6f19a6cf.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/obligations-of-225-mps-the-party-leaders-to-the-people-of-sri-lanka/",
+    "time_ut": 1658059456,
+    "original_lang": "en",
+    "original_title": "Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/35/3528b9e2.json"
   },
   {
     "newspaper_id": "news-first-lk",

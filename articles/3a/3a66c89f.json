@@ -1,0 +1,885 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-tea-exports-down-12-6-pct-in-june-2022-rupee-earnings-up-in-soft-peg-collapse-97507/",
+  "time_ut": 1658093640,
+  "original_lang": "en",
+  "original_title": "Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka\u2019s tea exports fell 12.65 percent from a year ago to 23.58 million kilograms in June  2022, though rupee earnings were up due to a currency collapse, industry data showed.",
+        "US dollar earnings were down 6 percent to 116.5 million dollars in June from a year ago, data from Ceylon Tea Brokers show.",
+        "Rupee earnings were up 69.4 percent to 41.9 million rupees, from 24.7 billion rupees in the previous year.",
+        "The average free onboard price for a kilogram of Ceylon Tea had risen to 4.94 US dollars in June 2022 from 4.59 a year ago.",
+        "The price of Tea in bulk per kilogram has increased to 1,516.12 rupees compared to 787.08 rupees in the same period last year.",
+        "Tea in packets price has increased to 1,677.33 rupees per kilogram compared to 862.83 rupees.",
+        "Tea in bags\u2019 prices doubled to 3,072.71 rupees from 1,570.40 rupees.",
+        "The average price of instant tea in June was 2,824.34 rupees, up from 1,741.63 rupees in 2021.",
+        "Green tea prices had increased to 3,831.98 rupees per kilogram in June 2022, up from 2,267.89 rupees per kilogram in 2021.",
+        "In the six months to June, tea exports were down 8.5 per cent to 125 million kilograms from 136 million kilograms in the previous year.",
+        "In dollars terms, the total value of export from January to June is 584 million dollars, down 10.8 percent.",
+        "Whereas in rupee terms, Sri Lanka has generated 164 billion rupees for the first six months of 2022 compared to 127 billion rupees in 2021.",
+        "Up to June Iraq was the top buyer, consuming 23.5 million kilograms this year, recording an increase of 46 percent compared to last year\u2019s 16 million kilograms.",
+        "Sri Lanka\u2019s tea sector had been hit by a fertiliser ban, apparently done to \u2018save foreign exchange\u2019 due to the operation of a soft-peg and also under the advice of the Government Medical Officers Association to increase the longevity of the population. (Colombo/Jul17/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka",
+          "label": "GPE"
+        },
+        {
+          "text": "12.6",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "June 2022",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "12.65 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "a year ago",
+            "label": "DATE"
+          },
+          {
+            "text": "23.58 million kilograms",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "June  2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "US",
+            "label": "GPE"
+          },
+          {
+            "text": "6 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "116.5 million dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "a year ago",
+            "label": "DATE"
+          },
+          {
+            "text": "Ceylon Tea Brokers",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "69.4 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "41.9 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "24.7 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Ceylon Tea",
+            "label": "ORG"
+          },
+          {
+            "text": "4.94 US dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "4.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "a year ago",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Tea",
+            "label": "ORG"
+          },
+          {
+            "text": "1,516.12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "787.08",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the same period last year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1,677.33",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "862.83",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3,072.71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,570.40",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "June",
+            "label": "DATE"
+          },
+          {
+            "text": "2,824.34",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,741.63",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "3,831.98",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "2,267.89",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "the six months to June",
+            "label": "DATE"
+          },
+          {
+            "text": "8.5 per cent",
+            "label": "MONEY"
+          },
+          {
+            "text": "125 million kilograms",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "136 million kilograms",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "the previous year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "January to June",
+            "label": "DATE"
+          },
+          {
+            "text": "584 million dollars",
+            "label": "MONEY"
+          },
+          {
+            "text": "10.8 percent",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "164 billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "the first six months of 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "127 billion rupees",
+            "label": "MONEY"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Iraq",
+            "label": "GPE"
+          },
+          {
+            "text": "23.5 million kilograms",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "this year",
+            "label": "DATE"
+          },
+          {
+            "text": "46 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "last year\u2019s",
+            "label": "DATE"
+          },
+          {
+            "text": "16 million kilograms",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the Government Medical Officers Association",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "2022 \u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 12.6 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0d85\u0dad\u0dbb \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8 \u0db8\u0dd8\u0daf\u0dd4 \u0d9a\u0da9\u0dcf\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dad\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0dc3\u0dd2\u0da7 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.58 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 12.65 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad\u0dad\u0dca, \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0d9a\u0dca \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0daf, \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0dc3\u0dd2\u0dbd\u0ddd\u0db1\u0dca \u0da7\u0dd3 \u0db6\u0dca\u200d\u0dbb\u0ddd\u0d9a\u0dbb\u0dca\u0dc3\u0dca \u0dc4\u0dd2 \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 6 \u0d9a\u0dd2\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 116.5 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0dc0\u0dd3 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8\u0dca \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 24.7 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 41.9 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 69.4 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0dc3\u0dd2\u0dbd\u0ddd\u0db1\u0dca \u0da7\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0dbd\u0db6\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0db8\u0dd2\u0dbd \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb 4.59 \u0dc3\u0dd2\u0da7 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0da9\u0ddc\u0dbd\u0dbb\u0dca 4.94 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0dad\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a \u0dad\u0ddc\u0d9c \u0db8\u0dd2\u0dbd \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 787.08 \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1,516.12 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0dad\u0dda \u0db4\u0dd0\u0d9a\u0da7\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 862.83 \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1,677.33 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0dad\u0dda \u0db6\u0dd1\u0d9c\u0dca\u0dc0\u0dbd \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1,570.40 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 3,072.71 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0dad\u0dda \u0dc0\u0dbd \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db8\u0dd2\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2,824.34 \u0d9a\u0dca \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba 2021 \u0daf\u0dd3 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 1,741.63 \u0dc3\u0dd2\u0da7 \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0dc4\u0dbb\u0dd2\u0dad \u0dad\u0dda \u0db8\u0dd2\u0dbd 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 3,831.98 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba 2021 \u0daf\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dba\u0d9a\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 2,267.89 \u0dc3\u0dd2\u0da7 \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad.",
+        "\u0da2\u0dd4\u0db1\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db8\u0dcf\u0dc3 \u0dc4\u0dba \u0dad\u0dd4\u0dc5 \u0dad\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 136 \u0dc3\u0dd2\u0da7 \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 125 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 8.5 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad.",
+        "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d85\u0db1\u0dd4\u0dc0, \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0da2\u0dd4\u0db1\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db8\u0dd4\u0dc5\u0dd4 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 584 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 10.8 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd3 \u0d87\u0dad.",
+        "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd \u0d85\u0db1\u0dd4\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 2021 \u0dc0\u0dc3\u0dbb\u0dda \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 127\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 2022 \u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0dc4\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 164\u0d9a\u0dca \u0d8b\u0db4\u0dba\u0dcf \u0d87\u0dad.",
+        "\u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dbb\u0dcf\u0d9a\u0dba \u0d89\u0dc4\u0dc5\u0db8 \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dcf \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.5\u0d9a\u0dca \u0db4\u0dbb\u0dd2\u0db7\u0ddd\u0da2\u0db1\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca, \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 16\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 \u0dc3\u0dd2\u0dba\u0dba\u0da7 46\u0d9a \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dad\u0dda \u0d9a\u0dca\u0dc2\u0dda\u0dad\u200d\u0dca\u200d\u0dbb\u0dba \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dad\u0dc4\u0db1\u0db8\u0da7 \u0dbd\u0d9a\u0dca\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0d85\u0dad\u0dbb, \u0db4\u0dd9\u0db1\u0dd9\u0db1 \u0dc0\u0dd2\u0daf\u0dd2\u0dc4\u0da7, \u2018\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u2019 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dc4 \u0dbb\u0da2\u0dba\u0dda \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dad, \u0da2\u0db1\u0d9c\u0dc4\u0dab\u0dba\u0dda \u0d86\u0dba\u0dd4\u0dc2 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0dd2\u0dba. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd217/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+          "label": "GPE"
+        },
+        {
+          "text": "12.6",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "2022 \u0da2\u0dd6\u0db1\u0dd2",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 12.65 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.58 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 6 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 116.5 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "Ceylon Tea Brokers",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 69.4 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 41.9 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 24.7 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca 4.94 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "4.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "1,516.12 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "787.08 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbd\u0dba",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1,677.33 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "862.83 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3,072.71 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,570.40 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "2,824.34 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,741.63 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "3,831.98 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "2,267.89 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dd4\u0db1\u0dd2 \u0dc3\u0dd2\u0da7 \u0db8\u0dcf\u0dc3 \u0dc4\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 8.5 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 125 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 136 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0da2\u0dd6\u0db1\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 584 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 10.8 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 164 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0dcf\u0dc3 \u200b\u200b\u0dc4\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 127 \u0d9a\u0dd2",
+            "label": "MONEY"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d89\u0dbb\u0dcf\u0d9a\u0dba",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 23.5 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 46 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 16 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9c\u0db8\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf 12.6-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bbe\u0b83\u0baa\u0bcd\u0b9f\u0bcd-\u0baa\u0bc6\u0b95\u0bcd \u0b9a\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f 12.65 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 23.58 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b8e\u0ba9\u0bbf\u0ba9\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0ba3\u0baf \u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9.",
+        "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd, \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd 6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 116.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 24.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 69.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 41.9 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0b87\u0bb2\u0bb5\u0b9a \u0b89\u0bb3\u0bcd\u0bb5\u0bbf\u0bb2\u0bc8 \u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 4.59\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 4.94 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 787.08 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb2\u0bc8 1,516.12 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd 862.83 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1,677.33 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0baa\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 1,570.40 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 3,072.71 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0bb5\u0bbf\u0bb2\u0bc8 2,824.34 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, 2021\u0bb2\u0bcd 1,741.63 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd 2,267.89 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1, 2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd 3,831.98 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0baa\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b9c\u0bc2\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 136 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 8.5 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 125 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b9f\u0bbe\u0bb2\u0bb0\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd, \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 10.8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 584 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0b85\u0ba4\u0bc7\u0b9a\u0bae\u0baf\u0bae\u0bcd, \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, 2021 \u0b87\u0bb2\u0bcd 127 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, 2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 164 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 16 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 46 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0b9c\u0bc2\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8 \u0b88\u0bb0\u0bbe\u0b95\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 23.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0b9f\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b89\u0bb0\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbe\u0b95 \u2018\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u2019 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b86\u0baf\u0bc1\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bc1\u0bae\u0bcd \u0bae\u0bc6\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b86\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc817/2022)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+          "label": "GPE"
+        },
+        {
+          "text": "12.6",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "12.65 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "23.58 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "label": "GPE"
+          },
+          {
+            "text": "6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "116.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0b9f\u0bc0 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "69.4 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "41.9 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "24.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0b9f\u0bc0",
+            "label": "ORG"
+          },
+          {
+            "text": "4.94 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "4.59",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1,516.12",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "787.08",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "1,677.33",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "862.83",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "3,072.71",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,570.40",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "2,824.34",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1,741.63",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "3,831.98",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "2,267.89",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "8.5 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "125 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "136 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd \u0bb5\u0bb0\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "584 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "10.8 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "164 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "127 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b88\u0bb0\u0bbe\u0b95\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "23.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "46 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "16 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
