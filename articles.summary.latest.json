@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0db8\u0dd3\u0da7-\u0dc0\u0da9\u0dcf-\u0dc3\u0dd2\u0dad\u0dd2-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/101-616639",
+    "time_ut": 1658156620,
+    "original_lang": "si",
+    "original_title": "\u2018\u2018\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0db8\u0dd3\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dd2\u0dad\u0dd2 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
+    "file_name": "/tmp/news_lk2/articles/29/299c64be.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Speaker-submits-written-complaint-against-threats-on-MPs/155-241313",
+    "time_ut": 1658156079,
+    "original_lang": "en",
+    "original_title": "Speaker submits written complaint against threats on MPs",
+    "file_name": "/tmp/news_lk2/articles/f0/f0158d0d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131732",
     "time_ut": 1658155228,
@@ -153,11 +169,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Freighted-petrol-undergoes-quality-sampling-unloading-tomorrow-Minister/342-241309",
+    "url": "https://www.dailymirror.lk/breaking_news/Freighted-petrol-undergoes-quality-sampling-unloading-tomorrow-Minister/108-241309",
     "time_ut": 1658145738,
     "original_lang": "en",
     "original_title": "Freighted petrol undergoes quality sampling, unloading tomorrow: Minister",
-    "file_name": "/tmp/news_lk2/articles/ff/ff65effc.json"
+    "file_name": "/tmp/news_lk2/articles/54/54c8c104.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Two soldiers rendered unconscious in brutal attack in Battaramulla protest \u2013 Army",
     "file_name": "/tmp/news_lk2/articles/1f/1fc28560.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba-\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7-\u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395426",
-    "time_ut": 1657786034,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7 \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/00/00ad7575.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83642/trains-from-outstation-areas-to-colombo-suspended",
-    "time_ut": 1657785960,
-    "original_lang": "en",
-    "original_title": "Trains from outstation areas to Colombo suspended",
-    "file_name": "/tmp/news_lk2/articles/dc/dc5b36ef.json"
   }
 ]
