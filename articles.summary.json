@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83716/gunman-kills-three-in-indiana-mall-before-being-shot-by-armed-bystander",
+    "time_ut": 1658122980,
+    "original_lang": "en",
+    "original_title": "Gunman kills three in Indiana mall before being shot by armed bystander",
+    "file_name": "/tmp/news_lk2/articles/64/647baa4d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca-\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0db8\u0dbd\u0dda\u0dba\u0dd2-\u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba\u0dda-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/101-616590",
     "time_ut": 1658121922,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca \u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0db8\u0dbd\u0dda\u0dba\u0dd2 \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba\u0dda \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/7e/7e4755fd.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/G7-alliance-on-global-food-crisis-has-offered-SL-US-dollars-14-million-for-food-Prez/108-241287",
+    "time_ut": 1658121414,
+    "original_lang": "en",
+    "original_title": "G7 alliance on global food crisis has offered SL US dollars 14 million for food : Prez",
+    "file_name": "/tmp/news_lk2/articles/2d/2d41f6b5.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -62,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bc8 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/fb/fbd284f8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/50-\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bc8-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300624",
+    "time_ut": 1658119720,
+    "original_lang": "ta",
+    "original_title": "50 \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bc8 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/18/18fb0d35.json"
   },
   {
     "newspaper_id": "news-first-lk",
