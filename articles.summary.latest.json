@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131700",
+    "time_ut": 1658139846,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bb5\u0bbe\u0baf\u0bcd \u0bae\u0bc0\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc0\u0b9a\u0ba9\u0bcd ; \u0b85\u0bb0\u0baa\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bae\u0bcd\u0baa\u0ba9\u0bcd \u0b95\u0ba3\u0bb5\u0bbe\u0baf\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7c/7cfbd82a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83722/galle-train-car-collision-pregnant-woman-and-small-girl-succumb-to-injuries",
+    "time_ut": 1658139840,
+    "original_lang": "en",
+    "original_title": "Galle train-car collision: pregnant woman and small girl succumb to injuries",
+    "file_name": "/tmp/news_lk2/articles/bf/bf3c0c91.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbe\u0baa\u0bb8\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-300650",
+    "time_ut": 1658139785,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0bbe\u0baa\u0bb8\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/df/df553944.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca/101-616621",
+    "time_ut": 1658139375,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b8/b858667b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Hirunika-says-Ranjans-release-to-attract-certain-political-groups/108-241302",
     "time_ut": 1658139139,
@@ -25,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RW-to-seek-assistance-of-UK-govt-intelligence-over-Easter-Sunday-attacks/342-241301",
+    "url": "https://www.dailymirror.lk/breaking_news/RW-to-seek-assistance-of-UK-govt-intelligence-over-Easter-Sunday-attacks/108-241301",
     "time_ut": 1658138784,
     "original_lang": "en",
     "original_title": "RW to seek assistance of UK govt. & intelligence over Easter Sunday attacks",
-    "file_name": "/tmp/news_lk2/articles/4e/4e5d31cd.json"
+    "file_name": "/tmp/news_lk2/articles/88/88c48cdb.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -41,11 +73,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Petition-challenging-appointment-of-Ranil-as-MP-SC-to-deliver-order-tomorrow/342-241300",
+    "url": "https://www.dailymirror.lk/breaking_news/Petition-challenging-appointment-of-Ranil-as-MP-SC-to-deliver-order-tomorrow/108-241300",
     "time_ut": 1658138536,
     "original_lang": "en",
     "original_title": "Petition challenging appointment of Ranil as MP: SC to deliver order tomorrow",
-    "file_name": "/tmp/news_lk2/articles/d9/d9515451.json"
+    "file_name": "/tmp/news_lk2/articles/6d/6d840495.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda-\u0db1\u0dd2\u0dc3\u0dd2-\u0db6\u0dbb-\u0db1\u0dd0\u0dad\u0dd4\u0dc0-\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca-\u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf\u0dc0\u0da7/11-395510",
+    "time_ut": 1658137872,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db1\u0dd2\u0dc3\u0dd2 \u0db6\u0dbb \u0db1\u0dd0\u0dad\u0dd4\u0dc0 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca \u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1e/1ea4733b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Continuing to follow situation in Sri Lanka: UN Cheif",
     "file_name": "/tmp/news_lk2/articles/e5/e5f2dcb9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0dad\u0dc0\u0db8\u0dad\u0dca-\u0db1\u0dd1/11-395418",
-    "time_ut": 1657774084,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd2\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0dad\u0dc0\u0db8\u0dad\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/0b/0b8b3880.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83635/party-leaders-call-for-pms-immediate-resignation",
-    "time_ut": 1657773900,
-    "original_lang": "en",
-    "original_title": "Party leaders call for PM\u2019s immediate resignation",
-    "file_name": "/tmp/news_lk2/articles/4a/4addb833.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/UAE-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba-\u0dc4\u0dcf-\u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dc1\u0dd3\u0dbd\u0dd3-\u0dc3\u0db6\u0db3\u0dad\u0dcf-\u0d9c\u0dd0\u0db1-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/3-395416",
-    "time_ut": 1657773525,
-    "original_lang": "si",
-    "original_title": "UAE \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0dc4\u0dcf \u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dc1\u0dd3\u0dbd\u0dd3 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9c\u0dd0\u0db1 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5e/5e87e15a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/litro-gas-for-all-provinces-from-today-14/",
-    "time_ut": 1657773480,
-    "original_lang": "en",
-    "original_title": "Litro Gas for all provinces from today (14)",
-    "file_name": "/tmp/news_lk2/articles/a0/a00c9f09.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7-\u0dba\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0da2\u0dd9\u0da7\u0dca-\u0dba\u0dcf\u0db1\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca/11-395415",
-    "time_ut": 1657773430,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0da7 \u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0da2\u0dd9\u0da7\u0dca \u0dba\u0dcf\u0db1\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dd9\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ee/ee5b2593.json"
   }
 ]
