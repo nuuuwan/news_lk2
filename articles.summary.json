@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131664",
+    "time_ut": 1658114046,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c6/c62044ea.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-acting-president-declares-state-of-emergency-97523/",
+    "time_ut": 1658113800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Acting President declares state of emergency",
+    "file_name": "/tmp/news_lk2/articles/65/65292a81.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0daf/101-616576",
+    "time_ut": 1658113175,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba \u0d85\u0daf",
+    "file_name": "/tmp/news_lk2/articles/e4/e4d5aa78.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83715/sri-lankas-ambassador-to-china-urges-adb-and-world-bank-to-take-bigger-role-in-debt-restructure",
+    "time_ut": 1658112840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s ambassador to China urges ADB and World Bank to take bigger role in debt restructure",
+    "file_name": "/tmp/news_lk2/articles/61/61c08e2d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83714/parliament-entry-roads-closed-off-as-security-tightened",
+    "time_ut": 1658112540,
+    "original_lang": "en",
+    "original_title": "Parliament entry roads closed off as security tightened",
+    "file_name": "/tmp/news_lk2/articles/e1/e18ec42b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/State-of-Emergency-declared-from-today/155-241264",
+    "time_ut": 1658112511,
+    "original_lang": "en",
+    "original_title": "State of Emergency declared from today",
+    "file_name": "/tmp/news_lk2/articles/e0/e02a2553.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0ba8\u0bbe\u0bb3\u0bc8/175-300613",
+    "time_ut": 1658112422,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8  \u0ba8\u0bbe\u0bb3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/d3/d33c47da.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8/175-300612",
+    "time_ut": 1658112046,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/f2/f2e56bfd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/state-of-emergency-declared/",
+    "time_ut": 1658110440,
+    "original_lang": "en",
+    "original_title": "State of Emergency declared",
+    "file_name": "/tmp/news_lk2/articles/bc/bc17abc7.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83713/state-of-emergency-declared-in-sri-lanka",
     "time_ut": 1658110380,
@@ -337,6 +409,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131648",
+    "time_ut": 1658072818,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0ba4\u0bbf : \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0baf\u0bbe\u0ba9\u0bcd 5 \u0baf\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/38/380bcaaf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131650",
     "time_ut": 1658072734,
     "original_lang": "ta",
@@ -449,11 +529,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda-\u0d9a\u0da9\u0dc0\u0dad---\u0db8\u0dd2\u0dbb\u0dd2\u0d9c\u0db8-\u0d9a\u0ddc\u0da7\u0dc3-\u0d9a\u0ddc\u0da7-\u0d8b\u0da9-\u0dba\u0dba\u0dd2\u0daf/1-616569",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda-\u0d9a\u0da9\u0dc0\u0dad---\u0db8\u0dd2\u0dbb\u0dd2\u0d9c\u0db8-\u0d9a\u0ddc\u0da7\u0dc3-\u0d9a\u0ddc\u0da7-\u0d8b\u0da9-\u0dba\u0dba\u0dd2\u0daf/101-616569",
     "time_ut": 1658070565,
     "original_lang": "si",
     "original_title": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dba\u0dda \u0d9a\u0da9\u0dc0\u0dad - \u0db8\u0dd2\u0dbb\u0dd2\u0d9c\u0db8 \u0d9a\u0ddc\u0da7\u0dc3 \u0d9a\u0ddc\u0da7 \u0d8b\u0da9 \u0dba\u0dba\u0dd2\u0daf",
-    "file_name": "/tmp/news_lk2/articles/ae/ae5ab8c1.json"
+    "file_name": "/tmp/news_lk2/articles/67/67e8a8db.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1465,11 +1545,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-is-warning-sign-for-countries-with-high-debt-levels-limited-policy-IMF-Chief/155-241228",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-is-warning-sign-for-countries-with-high-debt-levels-limited-policy-IMF-Chief/108-241228",
     "time_ut": 1658033324,
     "original_lang": "en",
     "original_title": "SL is warning sign for countries with high debt levels, limited policy: IMF Chief",
-    "file_name": "/tmp/news_lk2/articles/11/11abbbd3.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f909576c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
