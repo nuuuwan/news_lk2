@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db4\u0dca-\u0d91\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-21-\u0dc3\u0dd2\u0da7/101-616612",
+    "time_ut": 1658130768,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db4\u0dca \u0d91\u0d9a\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 21 \u0dc3\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/25/25a49d94.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/MPs-receive-threats-ahead-of-Presidential-vote/342-241294",
     "time_ut": 1658130655,
     "original_lang": "en",
     "original_title": "MPs receive threats ahead of Presidential vote",
     "file_name": "/tmp/news_lk2/articles/ba/ba35134b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/rajagiriya-accident-patalis-lawyer-to-file-objections-against-charges/",
+    "time_ut": 1658130060,
+    "original_lang": "en",
+    "original_title": "Rajagiriya Accident: Patali\u2019s lawyer to file objections against charges",
+    "file_name": "/tmp/news_lk2/articles/05/05d17c3d.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -86,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bb0\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bbf\u0baf\u0bb3\u0bb5\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8- \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b95\u0bb5\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/c3/c3a1f935.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/101-616608",
+    "time_ut": 1658127188,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c1/c12a9e85.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -206,6 +230,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares up in mid-day trade",
     "file_name": "/tmp/news_lk2/articles/ef/efecbc4f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0ddd-\u0d9c\u0db1\u0dda\u0dc2\u0db1\u0dca\u0d9c\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd9\u0da7/101-616600",
+    "time_ut": 1658125063,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0ddd \u0d9c\u0db1\u0dda\u0dc2\u0db1\u0dca\u0d9c\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc4\u0dd9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a1/a1a07652.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Number of injured in protests climbs over 80",
     "file_name": "/tmp/news_lk2/articles/c0/c0cc2392.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83632/number-of-injured-in-protests-yesterday-climbs-over-80",
-    "time_ut": 1657763520,
-    "original_lang": "en",
-    "original_title": "Number of injured in protests yesterday climbs over 80",
-    "file_name": "/tmp/news_lk2/articles/99/994baaa3.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300398",
-    "time_ut": 1657762979,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f8/f8178936.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62160681",
-    "time_ut": 1657762840,
-    "original_lang": "si",
-    "original_title": "'\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0db1\u0ddc\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca \u0db0\u0dd4\u0dbb\u0dba \u0dc4\u0dd0\u0dbb\u0d9c\u0dd2\u0dba\u0dcf \u0dc3\u0dda \u0dc3\u0dbd\u0d9a\u0db1\u0dc0\u0dcf' - \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/2f/2f2cd72c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf-\u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-300397",
-    "time_ut": 1657762477,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c1/c159e5f5.json"
   }
 ]
