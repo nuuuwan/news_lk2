@@ -120,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/96/9681d407.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131743",
+    "time_ut": 1658164298,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bbe ? -\u00a0 \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/95/95a3a28a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300678",
     "time_ut": 1658164286,
@@ -334,6 +342,14 @@
     "original_lang": "en",
     "original_title": "Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman",
     "file_name": "/tmp/news_lk2/articles/e9/e936cc98.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78620",
+    "time_ut": 1658152680,
+    "original_lang": "en",
+    "original_title": "Tenacious \u201cAragalaya\u201d (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumaraya",
+    "file_name": "/tmp/news_lk2/articles/03/038b709a.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc3\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db6\u0dbd\u0dad\u0dbd \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0db8\u0dd0\u0dbd\u0dd2 \u0dc0\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/4b/4bd19c72.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db4\u0dad\u0dca-\u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca-\u0d9a\u0dbd\u0dca\u0dba\u0dba\u0dd2/1-616417",
-    "time_ut": 1657796987,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db4\u0dad\u0dca \u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca \u0d9a\u0dbd\u0dca\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ff121f46.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9a\u0db8-\u0db6\u0dcf\u0dbb-\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca\u2018\u2018/101-616416",
-    "time_ut": 1657796508,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9a\u0db8 \u0db6\u0dcf\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/21/21cf4224.json"
   }
 ]
