@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 05:14:51 (LK time)*
+*As of 2022-07-18 05:29:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **1** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
-## Last 24 Hours (172 Articles)
+## Last 24 Hours (177 Articles)
 
 * **31** virakesari-lk ([ஜனாதிபதி மாளிகை, அலரி மாளிகை சேதம் தொடர்பில் கணக்காய்வு செய்வதற்கு அராசங்கம் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88bf9501.json))
 
@@ -28,9 +28,11 @@
 
 * **9** economy-next-com ([Sri Lanka will have to manage with available dollar inflows, not bridging finance: CB Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a3d8acbd.json))
 
+* **5** island-lk ([Purchasing Managers’ Indices indicate contraction in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb75dc1a.json))
+
 * **4** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## Last Week (1,726 Articles)
+## Last Week (1,735 Articles)
 
 * **269** virakesari-lk ([தற்போது பெருமளவு இலங்கையர்கள் காணப்படும்  ஜனாதிபதி  மாளிகைக்கு உள்ளே](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e02d65.json))
 
@@ -50,7 +52,7 @@
 
 * **86** economy-next-com ([Sri Lanka’s stance is to restructure only foreign debt: Governor Weerasinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba35ca3d.json))
 
-* **52** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
+* **61** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
 * **28** b-b-c-com-sinhala (["භූමිතෙල්,ගෑස්, කෑමබීම ගන්න අපි දිග පෝලිම්වල හිටියා.ඒත් රාජපක්ෂලා සැප ජීවිත ගතකරලා."](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/561fe493.json))
 
@@ -58,7 +60,7 @@
 
 * **23** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,197 Articles)
+## All Time (2,206 Articles)
 
 * **328** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +82,7 @@
 
 * **109** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **81** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **90** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **47** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
