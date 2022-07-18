@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/lp-gas-shipments-expected-soon/",
+    "time_ut": 1658105820,
+    "original_lang": "en",
+    "original_title": "LP gas shipments expected soon",
+    "file_name": "/tmp/news_lk2/articles/81/81b4cce7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/rainfall-for-multiple-areas-today-18/",
+    "time_ut": 1658104920,
+    "original_lang": "en",
+    "original_title": "Rainfall for multiple areas today (18)",
+    "file_name": "/tmp/news_lk2/articles/84/8418074b.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0bb0\u0b9a-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-300609",
     "time_ut": 1658104397,
@@ -294,6 +310,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0b95\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbe\u0bb0\u0bcd\u0bae\u0bc0\u0b95 \u0b89\u0bb0\u0bbf\u0bae\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 - \u0bb5\u0bbe\u0b9a\u0bc1",
     "file_name": "/tmp/news_lk2/articles/8a/8a4b0b74.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131635",
+    "time_ut": 1658071735,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/6c/6cd12cd7.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Rajapaksa set to fly to Singapore \u2013 Reuters",
     "file_name": "/tmp/news_lk2/articles/da/dac0fab3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0daf\u0dda\u0db4\u0dc5-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf-\u0d9a\u0dbb\u0dad\u0dd2/1-616375",
-    "time_ut": 1657723333,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0daf\u0dda\u0db4\u0dc5 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf \u0d9a\u0dbb\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bf/bf39f22a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd3\u0dad\u0dd2\u0dba---\u0dc3\u0dcf\u0db8\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0dd2\u0dad-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1-\u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2/101-616374",
-    "time_ut": 1657723190,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd3\u0dad\u0dd2\u0dba - \u0dc3\u0dcf\u0db8\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db4\u0dd2\u0dad \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db4\u0ddc\u0daf\u0dd4\u0da2\u0db1 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c4/c4fe43a2.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1-\u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-300372",
-    "time_ut": 1657722683,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/38/38cab38e.json"
   }
 ]
