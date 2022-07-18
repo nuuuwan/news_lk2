@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Karu-says-new-President-Govt-must-find-solutions-to-crisis-through-common-consensus/56-737660",
+    "time_ut": 1658174157,
+    "original_lang": "en",
+    "original_title": "Karu says new President, Govt. must find solutions to crisis through common consensus",
+    "file_name": "/tmp/news_lk2/articles/30/307a8cfa.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Vote-for-a-President-who-can-realise-people-s-expectations-Cardinal/56-737659",
+    "time_ut": 1658174124,
+    "original_lang": "en",
+    "original_title": "Vote for a President who can realise people\u2019s expectations: Cardinal",
+    "file_name": "/tmp/news_lk2/articles/91/91214027.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Evolving-world-of-work-may-require-reshaping-of-social-security-in-Sri-Lanka-EFC-Chief/34-737658",
     "time_ut": 1658172726,
     "original_lang": "en",
@@ -182,6 +198,14 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc4\u0db8\u0dd4 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/be/be916589.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/silver-linings-amongst-the-gloom/",
+    "time_ut": 1658154592,
+    "original_lang": "en",
+    "original_title": "Silver Linings Amongst The Gloom",
+    "file_name": "/tmp/news_lk2/articles/2a/2aee6fe6.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

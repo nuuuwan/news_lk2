@@ -1,22 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 01:34:13 (LK time)*
+*As of 2022-07-19 01:45:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **2** daily-ft-lk ([Reboot Sri Lanka, a dire need for a complete ‘system change’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00315.json))
+* **2** daily-ft-lk ([Vote for a President who can realise people’s expectations: Cardinal](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91214027.json))
 
-## Last 3 Hours (7 Articles)
+## Last Hour (4 Articles)
 
-* **4** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
+* **4** daily-ft-lk ([Reboot Sri Lanka, a dire need for a complete ‘system change’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00315.json))
 
-* **2** tamil-mirror-lk ([’சொத்து விபரங்களை வெளிப்படுத்துங்கள்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6cf89105.json))
+## Last 3 Hours (8 Articles)
+
+* **6** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
+
+* **1** tamil-mirror-lk ([’எதிர்பாராத அளவு தாக்கலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9ff456ee.json))
 
 * **1** ada-derana-lk ([Previous govt was ‘covering up facts’ about financial crisis - Acting President](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0666e27.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (249 Articles)
 
 * **43** lankadeepa-lk ([ඉන්දීය ජනාධිපතිවරණය අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52dc2fba.json))
 
@@ -32,15 +36,15 @@
 
 * **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85cd1640.json))
 
-* **18** daily-ft-lk ([Sri Lanka concludes bilateral consultation with Japan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f899e375.json))
+* **12** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
 
 * **12** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
-* **3** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
+* **4** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
-## Last Week (1,779 Articles)
+## Last Week (1,782 Articles)
 
 * **304** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -56,7 +60,7 @@
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **84** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
+* **86** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
 
 * **84** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
@@ -64,11 +68,11 @@
 
 * **29** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
 
-* **24** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
+* **25** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
 
 * **23** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,453 Articles)
+## All Time (2,456 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +88,7 @@
 
 * **174** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **170** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **172** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **134** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
@@ -94,4 +98,4 @@
 
 * **53** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **44** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
+* **45** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
