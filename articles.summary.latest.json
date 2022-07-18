@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db4\u0dc4\u0dc5-\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1/101-616603",
+    "time_ut": 1658125560,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1",
+    "file_name": "/tmp/news_lk2/articles/66/66529301.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-5\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616602",
+    "time_ut": 1658125546,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: 5\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1a/1a5ff69b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/bus-fares-to-be-revised/",
+    "time_ut": 1658124840,
+    "original_lang": "en",
+    "original_title": "Bus fares to be revised",
+    "file_name": "/tmp/news_lk2/articles/d1/d123e46d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131672",
     "time_ut": 1658124727,
@@ -80,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/20/20bbf2ee.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/covid-on-the-rise-again-health-officials/",
+    "time_ut": 1658123700,
+    "original_lang": "en",
+    "original_title": "COVID on the rise again, health officials",
+    "file_name": "/tmp/news_lk2/articles/01/01fb9840.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0d9c\u0dd0\u0da7\u0dd3-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-395496",
     "time_ut": 1658123601,
@@ -110,6 +142,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb3\u0bb5\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bae\u0bc2\u0b9f\u0bbf \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8 - \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/2b/2b0a41b8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/24-hrs-more-for-nominations-for-president/",
+    "time_ut": 1658122800,
+    "original_lang": "en",
+    "original_title": "24-hrs more for nominations for President",
+    "file_name": "/tmp/news_lk2/articles/8c/8c986bd5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5033,6 +5073,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0d85\u0db4\u0dda-\u0dbb\u0da7\u0da7-\u0dc0\u0dd9\u0da0\u0dca\u0da0-\u0daf\u0dda/2-616450",
+    "time_ut": 1657864469,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dda \u0dbb\u0da7\u0da7 \u0dc0\u0dd9\u0da0\u0dca\u0da0 \u0daf\u0dda",
+    "file_name": "/tmp/news_lk2/articles/95/95610a8f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0d85\u0db4\u0dd2-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0d9a\u0ddc\u0dba\u0dd2-\u0db4\u0dcf\u0dbb\u0dda/2-616449",
     "time_ut": 1657864231,
     "original_lang": "si",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "When the centre cannot hold\u2026",
     "file_name": "/tmp/news_lk2/articles/e7/e7eb8bdc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Peoples-power-proves-more-powerful-than-people-in-power/172-241034",
-    "time_ut": 1657743114,
-    "original_lang": "en",
-    "original_title": "People\u2019s power proves more powerful than people in power",
-    "file_name": "/tmp/news_lk2/articles/80/80489db6.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95-\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300396",
-    "time_ut": 1657741540,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/be/be43777e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/GR-does-not-depart-Maldives-awaits-private-jet/155-241033",
-    "time_ut": 1657738206,
-    "original_lang": "en",
-    "original_title": "GR does not depart Maldives, awaits private jet",
-    "file_name": "/tmp/news_lk2/articles/da/dab49164.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd1-12-00\u0da7-\u0db4\u0dd9\u0dbb-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0daf\u0dd9\u0db1\u0dc0\u0dcf-\u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0dcf---\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a/11-395408",
-    "time_ut": 1657737717,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd1 12.00\u0da7 \u0db4\u0dd9\u0dbb \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0daf\u0dd9\u0db1\u0dc0\u0dcf \u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0dcf - \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/d5/d5fbeabf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83631/president-rajapaksa-set-to-fly-to-singapore-via-maldives-reuters",
-    "time_ut": 1657737240,
-    "original_lang": "en",
-    "original_title": "President Rajapaksa set to fly to Singapore via Maldives - Reuters",
-    "file_name": "/tmp/news_lk2/articles/ef/ef5b5c1e.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ukrainian-President-blames-Russia-for-causing-the-ongoing-crisis-in-Sri-Lanka/108-241031",
-    "time_ut": 1657736807,
-    "original_lang": "en",
-    "original_title": "Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b0/b0d8c760.json"
   }
 ]
