@@ -1,30 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 01:57:20 (LK time)*
+*As of 2022-07-19 02:05:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **1** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
+* **2** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
 
 ## Last Hour (4 Articles)
 
-* **3** daily-ft-lk ([Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f723e13.json))
+* **2** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
 
-* **1** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
+* **2** daily-ft-lk ([Vote for a President who can realise people’s expectations: Cardinal](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91214027.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (10 Articles)
 
 * **6** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
-* **1** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
+* **2** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
 
 * **1** tamil-mirror-lk ([’எதிர்பாராத அளவு தாக்கலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9ff456ee.json))
 
 * **1** ada-derana-lk ([Previous govt was ‘covering up facts’ about financial crisis - Acting President](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0666e27.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (247 Articles)
 
 * **43** lankadeepa-lk ([ඉන්දීය ජනාධිපතිවරණය අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52dc2fba.json))
 
@@ -40,9 +40,9 @@
 
 * **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85cd1640.json))
 
-* **13** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
+* **14** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
-* **10** daily-ft-lk ([What next? How do we proceed to rebuild Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0128cde9.json))
+* **8** daily-ft-lk ([From ‘Heros’ to ‘Zeros’: Revisiting Lucifer Effect as leaders’ enigma](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69551433.json))
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
@@ -54,7 +54,7 @@
 
 * **280** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
-* **224** daily-mirror-lk ([CB Governor signals he will stay in job, warns turmoil impedes IMF talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09267862.json))
+* **223** daily-mirror-lk ([Sri Lanka beat Australia by an innings in second Test to draw series](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f4cf767.json))
 
 * **209** tamil-mirror-lk ([எரிபொருள் பெற இணைய வசதி ஊடாக விண்ணப்பிக்கலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743cc85a.json))
 
@@ -64,9 +64,9 @@
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **86** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
+* **86** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
-* **85** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
+* **86** daily-ft-lk ([COPE meeting scheduled for today postponed](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/054b0b74.json))
 
 * **50** island-lk ([AIA’s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37d7252b.json))
 
@@ -76,7 +76,7 @@
 
 * **23** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,459 Articles)
+## All Time (2,460 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -96,7 +96,7 @@
 
 * **134** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **123** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
+* **124** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
 * **90** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
