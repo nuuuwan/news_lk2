@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-national-youth-corps-to-help-rural-residents-sign-up-for-online-fuel-pass-97586/",
+    "time_ut": 1658144580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s National Youth Corps to help rural residents sign up for online fuel pass",
+    "file_name": "/tmp/news_lk2/articles/8e/8e572839.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131718",
+    "time_ut": 1658144344,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b89\u0bb0\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd ! \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/07/07ecf917.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/BASL-urges-Acting-President-to-revoke-Emergency-Regulation/342-241308",
     "time_ut": 1658144255,
@@ -57,27 +73,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Has-Sajith-and-Dullas-struck-a-deal/155-241306",
+    "url": "https://www.dailymirror.lk/latest_news/Has-Sajith-and-Dullas-struck-a-deal/342-241306",
     "time_ut": 1658143478,
     "original_lang": "en",
     "original_title": "Has Sajith and Dullas struck a deal?",
-    "file_name": "/tmp/news_lk2/articles/b0/b09f1fb4.json"
+    "file_name": "/tmp/news_lk2/articles/0e/0e37e8fc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Urging-Ranil-to-resign/110-241305",
+    "url": "https://www.dailymirror.lk/latest_news/Urging-Ranil-to-resign/342-241305",
     "time_ut": 1658143239,
     "original_lang": "en",
     "original_title": "Urging Ranil to resign",
-    "file_name": "/tmp/news_lk2/articles/19/19c728c9.json"
+    "file_name": "/tmp/news_lk2/articles/85/85b24472.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db1\u0dcf\u0d9c\u0dcf\u0db1\u0db1\u0dca\u0daf-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dda-\u0dad\u0dd3\u0dab\u0dca\u0daf\u0dd4\u0dc0-\u0dc4\u0dd9\u0da7/1-616629",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0db1\u0dcf\u0d9c\u0dcf\u0db1\u0db1\u0dca\u0daf-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dda-\u0dad\u0dd3\u0dab\u0dca\u0daf\u0dd4\u0dc0-\u0dc4\u0dd9\u0da7/101-616629",
     "time_ut": 1658142445,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db1\u0dcf\u0d9c\u0dcf\u0db1\u0db1\u0dca\u0daf \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0dda \u0dad\u0dd3\u0dab\u0dca\u0daf\u0dd4\u0dc0 \u0dc4\u0dd9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/e4/e4d93c38.json"
+    "file_name": "/tmp/news_lk2/articles/a6/a6dcbd2a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -158,6 +174,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/84/84fc7a73.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-395513",
+    "time_ut": 1658141356,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0 \u0d85\u0daf \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/d8/d82bd9be.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "Clashes between protestors and Sri Lanka army leave 44 protestors, 16 soldiers injured",
     "file_name": "/tmp/news_lk2/articles/06/06f00548.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d87\u0db3\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba/1-616400",
-    "time_ut": 1657780120,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d87\u0db3\u0dd2\u0dbb\u0dd2\u0db1\u0dd3\u0dad\u0dd2\u0dba",
-    "file_name": "/tmp/news_lk2/articles/43/43dce8bd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0dad\u0dd2/101-616399",
-    "time_ut": 1657779986,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/78/78c43da5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0-\u0dc0\u0d9c\u0d9a\u0dd2\u0dc0-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/1-616398",
-    "time_ut": 1657779795,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c6/c6c6c8f2.json"
   }
 ]
