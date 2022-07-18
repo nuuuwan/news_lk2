@@ -1,32 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 19:46:48 (LK time)*
+*As of 2022-07-18 19:58:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** tamil-mirror-lk ([எரிபொருள் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3292a4bf.json))
+
+* **1** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
+
+## Last Hour (4 Articles)
 
 * **2** tamil-mirror-lk ([பங்காளிகளிடம் சஜித் விடுத்த கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13d67696.json))
 
 * **1** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
 
-## Last Hour (5 Articles)
-
-* **3** tamil-mirror-lk ([வரிசையில் நிற்காதீர்: 21 முதல் எரிபொருள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8602e14.json))
-
-* **1** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
-
 * **1** news-first-lk ([Decision on Nagananda’s petition against Ranil on Tuesday (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c844c64b.json))
 
-## Last 3 Hours (40 Articles)
+## Last 3 Hours (32 Articles)
 
-* **11** virakesari-lk ([நிறைவேற்று அதிகாரமிக்க ஜனாதிபதி முறைமையை ஒழிக்க வேண்டும் என 70 சதவீதமான இலங்கையர்கள் விரும்புகிறார்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b1eef0d.json))
-
-* **9** daily-mirror-lk ([Urging Ranil to resign](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85b24472.json))
-
-* **7** tamil-mirror-lk ([ஒரு முக்கியமான கட்டத்தை எட்டியுள்ளோம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cfd9c0c.json))
+* **9** virakesari-lk (["அரகலய" போராட்டக் குழுவினர் மக்கள் காங்கிரஸ் முக்கியஸ்தர்களுடன் சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af41837a.json))
 
 * **6** lankadeepa-lk ([රනිල් පොහොට්ටුවේ මන්ත්‍රීවරුන් පිරිසක් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39e88918.json))
+
+* **5** tamil-mirror-lk ([“கோட்டா கோ கம” வில் ரூ. 4.5 கோடி வெளிநாட்டு நிதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f97457c4.json))
+
+* **5** daily-mirror-lk ([BASL urges Acting President to revoke Emergency Regulation](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/555af3d1.json))
 
 * **2** ada-derana-lk ([Minister gives update on fuel shipments that reached Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62ce62a5.json))
 
@@ -36,7 +36,7 @@
 
 * **1** news-first-lk ([Decision on Nagananda’s petition against Ranil on Tuesday (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c844c64b.json))
 
-## Last 24 Hours (262 Articles)
+## Last 24 Hours (261 Articles)
 
 * **47** virakesari-lk ([உலக்கையால் அடித்து தாயை கொன்ற மகள் - பொரளை - பேஸ்லைன் மாவத்தை தொடர்மாடி குடியிருப்பில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3ca0fc78.json))
 
@@ -44,7 +44,7 @@
 
 * **35** daily-mirror-lk ([Pregnant woman, husband die in accident in Buttala](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28ce4405.json))
 
-* **31** tamil-mirror-lk ([மொட்டுக் கட்சி எம்.பிக்களுக்கு புதிய வீடுகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90abfde2.json))
+* **30** tamil-mirror-lk ([21 ஆம் திகதி முதல் வழமைபோன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e825b175.json))
 
 * **27** ada-lk ([ඉන්ධන මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a259d25d.json))
 
@@ -60,9 +60,9 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s New Government: Be Warned Of The Empty Treasury & Negative Foreign Reserves](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23fa154f.json))
 
-## Last Week (1,798 Articles)
+## Last Week (1,796 Articles)
 
-* **305** virakesari-lk ([ஹக்கீமினாலேயே எனது வீடு தீக்கிரையாக்கப்பட்டது : ரணில் காட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a4de7eb.json))
+* **303** virakesari-lk ([சஜித்தை தவிர வேறு எவரையும் பிரதமராக மக்கள் ஏற்க மாட்டார்கள் - எஸ்.எம்.மரிக்கார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/3822f2f2.json))
 
 * **282** lankadeepa-lk ([ජනාධිපති රටේ ඉන්නවා:පිටව ගිහින් කිව්වේ වැරදීමකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a83ada4.json))
 
