@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/108-241314",
+    "time_ut": 1658159005,
+    "original_lang": "en",
+    "original_title": "CPC filling stations to dispense fuel from July 21 under QR Code, vehicle\u2019s last number: Fuel Station Owners",
+    "file_name": "/tmp/news_lk2/articles/7a/7a0e7292.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131734",
+    "time_ut": 1658158592,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0bb0\u0bbf \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/61/61e0f9fb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-hit-over-3-wk-high-amid-foreign-buying-on-hopes-of-political-stability-97592/",
+    "time_ut": 1658158380,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability",
+    "file_name": "/tmp/news_lk2/articles/90/90c5dfbc.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131727",
     "time_ut": 1658157781,
@@ -41,11 +65,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Speaker-submits-written-complaint-against-threats-on-MPs/155-241313",
+    "url": "https://www.dailymirror.lk/latest_news/Speaker-submits-written-complaint-against-threats-on-MPs/342-241313",
     "time_ut": 1658156079,
     "original_lang": "en",
     "original_title": "Speaker submits written complaint against threats on MPs",
-    "file_name": "/tmp/news_lk2/articles/f0/f0158d0d.json"
+    "file_name": "/tmp/news_lk2/articles/b3/b30f2e67.json"
   },
   {
     "newspaper_id": "virakesari-lk",
