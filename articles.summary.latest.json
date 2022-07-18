@@ -1,11 +1,19 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/rajagiriya-accident-patalis-lawyer-to-file-objections-against-charges/",
-    "time_ut": 1658130060,
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/MPs-receive-threats-ahead-of-Presidential-vote/342-241294",
+    "time_ut": 1658130655,
     "original_lang": "en",
-    "original_title": "Rajagiriya Accident: Patali\u2019s lawyer to file objections against charges",
-    "file_name": "/tmp/news_lk2/articles/05/05d17c3d.json"
+    "original_title": "MPs receive threats ahead of Presidential vote",
+    "file_name": "/tmp/news_lk2/articles/ba/ba35134b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131690",
+    "time_ut": 1658130056,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1 : \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bae\u0bcc\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 !",
+    "file_name": "/tmp/news_lk2/articles/ae/aec0a9fe.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -46,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Galle Face Aragalaya marks 100 days",
     "file_name": "/tmp/news_lk2/articles/70/7054daa3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0b9f\u0bc8/175-300640",
+    "time_ut": 1658127515,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/4e/4ebde9bc.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -169,11 +185,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-5\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616602",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-5\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-616602",
     "time_ut": 1658125546,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: 5\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/1a/1a5ff69b.json"
+    "file_name": "/tmp/news_lk2/articles/2d/2d39cb55.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0bb0\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/c1/c159e5f5.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131416",
-    "time_ut": 1657761928,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd : 42 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/db/db155cd7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-curfew-ends-after-overnight-battles-near-parliament-97391/",
-    "time_ut": 1657761780,
-    "original_lang": "en",
-    "original_title": "Sri Lanka curfew ends after overnight battles near parliament",
-    "file_name": "/tmp/news_lk2/articles/87/8786fd0d.json"
   }
 ]
