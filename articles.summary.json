@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/BASL-urges-Acting-President-to-revoke-Emergency-Regulation/342-241308",
+    "time_ut": 1658144255,
+    "original_lang": "en",
+    "original_title": "BASL urges Acting President to revoke Emergency Regulation",
+    "file_name": "/tmp/news_lk2/articles/55/555af3d1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131719",
     "time_ut": 1658143821,
@@ -49,19 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Has-Sajith-and-Dullas-struck-a-deal/342-241306",
+    "url": "https://www.dailymirror.lk/top_story/Has-Sajith-and-Dullas-struck-a-deal/155-241306",
     "time_ut": 1658143478,
     "original_lang": "en",
     "original_title": "Has Sajith and Dullas struck a deal?",
-    "file_name": "/tmp/news_lk2/articles/0e/0e37e8fc.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b09f1fb4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Urging-Ranil-to-resign/342-241305",
+    "url": "https://www.dailymirror.lk/caption_story/Urging-Ranil-to-resign/110-241305",
     "time_ut": 1658143239,
     "original_lang": "en",
     "original_title": "Urging Ranil to resign",
-    "file_name": "/tmp/news_lk2/articles/85/85b24472.json"
+    "file_name": "/tmp/news_lk2/articles/19/19c728c9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -118,6 +126,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka acting president wants to review Easter bombings probe, may enlist UK help",
     "file_name": "/tmp/news_lk2/articles/db/db601a11.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/revoke-emergency-bar-association-tells-acting-president/",
+    "time_ut": 1658142000,
+    "original_lang": "en",
+    "original_title": "Revoke Emergency, Bar Association tells Acting President",
+    "file_name": "/tmp/news_lk2/articles/21/218a295f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -481,11 +497,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/108-241295",
+    "url": "https://www.dailymirror.lk/latest_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/342-241295",
     "time_ut": 1658133379,
     "original_lang": "en",
     "original_title": "CID launches probe into reports of Rs. 45mn being withdrawn by three leading Galle Face protestors",
-    "file_name": "/tmp/news_lk2/articles/e9/e992bacf.json"
+    "file_name": "/tmp/news_lk2/articles/21/2182f8a3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",

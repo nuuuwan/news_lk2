@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/BASL-urges-Acting-President-to-revoke-Emergency-Regulation/342-241308",
+    "time_ut": 1658144255,
+    "original_lang": "en",
+    "original_title": "BASL urges Acting President to revoke Emergency Regulation",
+    "file_name": "/tmp/news_lk2/articles/55/555af3d1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131719",
     "time_ut": 1658143821,
@@ -49,19 +57,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Has-Sajith-and-Dullas-struck-a-deal/342-241306",
+    "url": "https://www.dailymirror.lk/top_story/Has-Sajith-and-Dullas-struck-a-deal/155-241306",
     "time_ut": 1658143478,
     "original_lang": "en",
     "original_title": "Has Sajith and Dullas struck a deal?",
-    "file_name": "/tmp/news_lk2/articles/0e/0e37e8fc.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b09f1fb4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Urging-Ranil-to-resign/342-241305",
+    "url": "https://www.dailymirror.lk/caption_story/Urging-Ranil-to-resign/110-241305",
     "time_ut": 1658143239,
     "original_lang": "en",
     "original_title": "Urging Ranil to resign",
-    "file_name": "/tmp/news_lk2/articles/85/85b24472.json"
+    "file_name": "/tmp/news_lk2/articles/19/19c728c9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -118,6 +126,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka acting president wants to review Easter bombings probe, may enlist UK help",
     "file_name": "/tmp/news_lk2/articles/db/db601a11.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/revoke-emergency-bar-association-tells-acting-president/",
+    "time_ut": 1658142000,
+    "original_lang": "en",
+    "original_title": "Revoke Emergency, Bar Association tells Acting President",
+    "file_name": "/tmp/news_lk2/articles/21/218a295f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -481,11 +497,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/108-241295",
+    "url": "https://www.dailymirror.lk/latest_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/342-241295",
     "time_ut": 1658133379,
     "original_lang": "en",
     "original_title": "CID launches probe into reports of Rs. 45mn being withdrawn by three leading Galle Face protestors",
-    "file_name": "/tmp/news_lk2/articles/e9/e992bacf.json"
+    "file_name": "/tmp/news_lk2/articles/21/2182f8a3.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0dc0 \u0dc0\u0d9c\u0d9a\u0dd2\u0dc0 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c6/c6c6c8f2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0db1\u0dd3\u0dad\u0dd2\u0dba---\u0dc3\u0dcf\u0db8\u0dba-\u0dbb\u0d9a\u0dd2\u0db8\u0dd4:-\u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db8\u0dd4/117-616397",
-    "time_ut": 1657779759,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd3\u0dad\u0dd2\u0dba - \u0dc3\u0dcf\u0db8\u0dba \u0dbb\u0d9a\u0dd2\u0db8\u0dd4: \u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/32/32f87a63.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b95\u0bc8\u0bb5\u0bbf\u0b9f-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-300416",
-    "time_ut": 1657779736,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0bb5\u0bbf\u0b9f  \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5e/5eae05d2.json"
   }
 ]
