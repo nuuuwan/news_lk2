@@ -1,14 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 00:18:03 (LK time)*
+*As of 2022-07-19 00:24:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** tamil-mirror-lk ([’எதிர்பாராத அளவு தாக்கலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9ff456ee.json))
+* **2** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (8 Articles)
+
+* **2** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
 * **2** daily-mirror-lk ([Protest against Acting Prez...](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/1951bf8f.json))
 
@@ -20,7 +22,7 @@
 
 * **1** lankadeepa-lk ([කතානායකගෙන් පොලිසියට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4993f49b.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (250 Articles)
 
 * **43** lankadeepa-lk ([ඉන්දීය ජනාධිපතිවරණය අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52dc2fba.json))
 
@@ -36,13 +38,13 @@
 
 * **19** ada-derana-lk ([Several spells of showers expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85cd1640.json))
 
-* **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
+* **18** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
 * **12** economy-next-com ([Sri Lanka tea exports down 12.6-pct in June 2022, rupee earnings up in soft-peg collapse.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a66c89f.json))
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
-## Last Week (1,780 Articles)
+## Last Week (1,782 Articles)
 
 * **303** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -58,7 +60,7 @@
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **90** daily-ft-lk ([When will Sri Lankan children be prioritised in this crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dac2d5.json))
+* **92** daily-ft-lk ([When will Sri Lankan children be prioritised in this crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dac2d5.json))
 
 * **84** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
@@ -70,7 +72,7 @@
 
 * **21** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
 
-## All Time (2,444 Articles)
+## All Time (2,446 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +88,7 @@
 
 * **174** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **166** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **168** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **134** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
