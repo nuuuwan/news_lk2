@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 03:57:20 (LK time)*
+*As of 2022-07-19 04:07:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
-
-* **3** daily-ft-lk ([Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f723e13.json))
+## Last 3 Hours (4 Articles)
 
 * **2** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
+
+* **2** daily-ft-lk ([Vote for a President who can realise people’s expectations: Cardinal](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91214027.json))
 
 ## Last 24 Hours (251 Articles)
 
