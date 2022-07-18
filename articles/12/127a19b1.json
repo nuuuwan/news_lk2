@@ -1,0 +1,279 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2/101-616607",
+  "time_ut": 1658126953,
+  "original_lang": "si",
+  "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "The two Russians who were swept away in the sea are rescued",
+      "author": "unknown",
+      "body_lines": [
+        "The Hikkaduwa Police said that two Russian nationals who were caught in a stream while swimming in the Hikkaduwa Panangoda Sea, were rescued by night police lifeguards and Navy lifeguards.",
+        "The two rescued Russian foreigners are 27 and 29 years old.",
+        "The two were staying at a tourist hotel in Hikkaduwa area and came to Hikkaduwa Panangoda beach yesterday afternoon for swimming.",
+        "While they were swimming in the ocean, they got caught in a current and were swept into the sea about 800 meters deep."
+      ],
+      "title_ents": [
+        {
+          "text": "two",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Russians",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Hikkaduwa Police",
+            "label": "ORG"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Russian",
+            "label": "NORP"
+          },
+          {
+            "text": "the Hikkaduwa Panangoda Sea",
+            "label": "LOC"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Russian",
+            "label": "NORP"
+          },
+          {
+            "text": "27 and",
+            "label": "DATE"
+          },
+          {
+            "text": "29 years old",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Hikkaduwa",
+            "label": "LOC"
+          },
+          {
+            "text": "Hikkaduwa Panangoda",
+            "label": "LOC"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "afternoon",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "about 800 meters",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0db1\u0d82\u0d9c\u0ddc\u0da9 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dad\u0dd2\u0dbb\u0dba\u0dda \u0daf\u0dd2\u0dba \u0db1\u0dcf\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd2 \u0daf\u0dd2\u0dba\u0dc0\u0dd0\u0dc5\u0d9a\u0da7 \u0dc4\u0dc3\u0dd4\u0dc0\u0dd2 \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u00a0 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca \u0dc4\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0db1\u0dca \u0d91\u0d9a\u0dca\u0dc0 \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd9\u0db1 \u0d87\u0dad\u0dd0\u0dba\u0dd2 \u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0db6\u0dda\u0dbb\u0dcf\u0d9c\u0dad\u0dca \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0d9a\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 27 \u0dc4\u0dcf 29 \u0dc0\u0dd0\u0db1\u0dd2\u0dc0\u0dd2\u0dba\u0dda \u0db4\u0dc3\u0dd4\u0dc0\u0dd9\u0dad\u0dd2.",
+        "\u0db8\u0ddc\u0dc0\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0d9a \u0db1\u0dad\u0dbb\u0dc0 \u0dc3\u0dd2\u0da7 \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d8a\u0dba\u0dda \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0daf\u0dd2\u0dba\u0db1\u0dd1\u0db8 \u0dc3\u0daf\u0dc4\u0dcf \u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0db1\u0d82\u0d9c\u0ddc\u0da9 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dad\u0dd2\u0dbb\u0dba\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab \u0d87\u0dad.",
+        "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dad\u0dd2\u0dbb\u0dba\u0dda \u0daf\u0dd2\u0dba\u0db1\u0dcf\u0db8\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd2 \u0daf\u0dd2\u0dba\u0dc0\u0dd0\u0dc5\u0d9a\u0da7 \u0dc4\u0dc3\u0dd4\u0dc0\u0dd2 \u0db8\u0ddc\u0dc4\u0dd4\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0db8\u0dd2\u0da7\u0dbb\u0dca 800\u0d9a\u0dca \u0db4\u0db8\u0dab \u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0da7 \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dd9\u0d9a",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0db1\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0db8\u0dd4\u0dc4\u0dd4\u0daf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4",
+            "label": "NORP"
+          },
+          {
+            "text": "27 \u0dc3\u0dc4",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 29 \u0dba\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Hikkaduwa",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc4\u0dd2\u0d9a\u0dca\u0d9a\u0da9\u0dd4\u0dc0 \u0db4\u0db1\u0dcf\u0db1\u0dca\u0d9c\u0ddc\u0da9",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dc4\u0dc0\u0dbd\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd3\u0da7\u0dbb\u0dca 800 \u0d9a\u0dca \u0db4\u0db8\u0dab",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0ba9\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8 \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bbe\u0b9f\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcb\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bb0\u0bb7\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc8 \u0b87\u0bb0\u0bb5\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "\u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bb0\u0bcd 27 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 29 \u0bb5\u0baf\u0ba4\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0ba9\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0bb0\u0bbe\u0b9f \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd.",
+        "\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0ba8\u0bc0\u0bb0\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 800 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b86\u0bb4\u0bae\u0bbe\u0ba9 \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "NORP"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0ba9\u0b99\u0bcd\u0b95\u0bca\u0b9f \u0b95\u0b9f\u0bb2\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bb0\u0bb7\u0bcd\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "27 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "29 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Hikkaduwa",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0bb9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc1\u0bb5 \u0baa\u0ba9\u0b99\u0bcd\u0b95\u0bca\u0b9f",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 800 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          }
+        ]
+      ]
+    }
+  }
+}
