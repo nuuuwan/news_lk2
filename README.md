@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 04:40:22 (LK time)*
+*As of 2022-07-19 05:01:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka police probe into key protest leaders receiving overseas money](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15e1491.json))
-
-## Last 24 Hours (252 Articles)
+## Last 24 Hours (253 Articles)
 
 * **45** virakesari-lk ([இன்று முதல் அவசரகாலச்சட்டம் அமுல் ! அதிவிசேட வர்த்தமானியை வெளிட்டார் பதில் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1398bd45.json))
 
 * **43** lankadeepa-lk ([ඉන්දීය ජනාධිපතිවරණය අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52dc2fba.json))
 
-* **36** tamil-mirror-lk ([21 ஆம் திகதி முதல் வழமைபோன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e825b175.json))
+* **37** tamil-mirror-lk ([21 ஆம் திகதி முதல் வழமைபோன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e825b175.json))
 
 * **28** daily-mirror-lk ([State of Emergency declared from today](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e02a2553.json))
 
@@ -32,7 +28,7 @@
 
 * **5** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
-## Last Week (1,788 Articles)
+## Last Week (1,789 Articles)
 
 * **308** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -40,7 +36,7 @@
 
 * **223** daily-mirror-lk ([Sri Lanka beat Australia by an innings in second Test to draw series](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f4cf767.json))
 
-* **212** tamil-mirror-lk ([எரிபொருள் பெற இணைய வசதி ஊடாக விண்ணப்பிக்கலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743cc85a.json))
+* **213** tamil-mirror-lk ([எரிபொருள் பெற இணைய வசதி ஊடாக விண்ணப்பிக்கலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/743cc85a.json))
 
 * **160** ada-lk ([වෙරළබඩ පොලිස් වසමේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc7a2c9.json))
 
@@ -60,7 +56,7 @@
 
 * **23** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,468 Articles)
+## All Time (2,469 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -70,7 +66,7 @@
 
 * **250** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **240** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **241** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **178** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
