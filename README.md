@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 03:48:20 (LK time)*
+*As of 2022-07-19 03:57:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
-* **4** daily-ft-lk ([Reboot Sri Lanka, a dire need for a complete ‘system change’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00315.json))
+* **3** daily-ft-lk ([Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f723e13.json))
 
 * **2** economy-next-com ([Sri Lanka opposition MP says agreed with rival on post-presidential vote economy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d80c531.json))
 
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (251 Articles)
 
-* **43** virakesari-lk ([இன்று முதல் அவசரகாலச்சட்டம் அமுல் ! அதிவிசேட வர்த்தமானியை வெளிட்டார் பதில் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1398bd45.json))
+* **44** virakesari-lk ([இன்று முதல் அவசரகாலச்சட்டம் அமுல் ! அதிவிசேட வர்த்தமானியை வெளிட்டார் பதில் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1398bd45.json))
 
 * **43** lankadeepa-lk ([ඉන්දීය ජනාධිපතිවරණය අද](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52dc2fba.json))
 
@@ -34,9 +34,9 @@
 
 * **5** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
-## Last Week (1,786 Articles)
+## Last Week (1,787 Articles)
 
-* **306** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
+* **307** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
 * **280** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
@@ -62,11 +62,11 @@
 
 * **23** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,466 Articles)
+## All Time (2,467 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **324** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **325** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **309** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
