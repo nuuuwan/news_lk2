@@ -1,36 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 21:30:09 (LK time)*
+*As of 2022-07-18 21:39:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a0e7292.json))
 
-* **1** virakesari-lk ([வவுனியா எரிபொருள் நிரப்பு நிலையத்தில் மதகுருவை பொலிஸ் பொறுப்பதிகாரி தாக்கியதாகக் கூரி வீதியை மறித்து ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61e0f9fb.json))
-
-* **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
-
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
 * **3** virakesari-lk ([அட்டனில் பீதியை ஏற்படுத்திய சூட்கேஸ் - பயத்தில் உறைந்துபோன பொதுமக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afead4ae.json))
 
-* **3** lankadeepa-lk ([‘‘බ්‍රිතාන්‍ය ලංකාව ගැන මීට වඩා සිති යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/299c64be.json))
+* **2** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72de5fd1.json))
 
 * **1** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a0e7292.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
 * **5** virakesari-lk ([பேருந்து கட்டணத்தையும் குறைப்பது தொடர்பில் அவதானம் செலுத்துமாறு அமைச்சர் பந்துல ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bed6f76.json))
-
-* **4** tamil-mirror-lk ([அவசரகாலநிலையை வாபஸ் பெறவேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6b766d1.json))
 
 * **3** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
 
 * **3** lankadeepa-lk ([‘‘බ්‍රිතාන්‍ය ලංකාව ගැන මීට වඩා සිති යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/299c64be.json))
+
+* **3** tamil-mirror-lk ([வரிசையில் நிற்காதீர்: 21 முதல் எரிபொருள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8602e14.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
 
