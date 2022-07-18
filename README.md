@@ -1,14 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 22:48:28 (LK time)*
+*As of 2022-07-18 23:08:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([Isipathana beat St. Peter’s](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8e808e9.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** daily-mirror-lk ([Speaker submits written complaint against threats on MPs](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b30f2e67.json))
 
@@ -17,10 +13,6 @@
 * **4** virakesari-lk ([உலகநாடுகள் இலங்கையை ஓர் எச்சரிக்கை சமிக்ஞையாகக் கருதவேண்டும் - சர்வதேச நாணய நிதியத்தின் நிறைவேற்றுப்பணிப்பாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e1cf752.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
-
-* **1** ada-lk ([තීරණාත්මක හමු කිහිපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be916589.json))
-
-* **1** ada-derana-lk ([Procedure of electing a President by parliament explained](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf8c370.json))
 
 ## Last 24 Hours (247 Articles)
 
@@ -44,19 +36,19 @@
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
-## Last Week (1,794 Articles)
+## Last Week (1,786 Articles)
 
 * **302** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
 * **280** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
-* **226** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
+* **225** daily-mirror-lk ([Lankan bureaucracy needs to do more to ensure good governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/942cec24.json))
 
 * **208** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
 * **161** ada-lk ([විරෝධතාවට මුලින් පැමිණි අය අත්අඩංගුවට ගන්න සූදානමක් නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1b1df89.json))
 
-* **156** ada-derana-lk ([PM explains events that led to burning of his private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f09aa6dd.json))
+* **155** ada-derana-lk ([Over 225kg of Kerala cannabis seized in Mannar](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1a7864a.json))
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
@@ -64,7 +56,7 @@
 
 * **84** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
-* **61** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
+* **55** island-lk ([Need for haste in rebuilding trust after storming of President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d677b17.json))
 
 * **29** b-b-c-com-sinhala ([බැසිල් රටින් පිටවුනාද? අද අලුයම කටුනායක ගුවන් තොටුපළේදී බැසිල්ට මොකද වුණේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d39a4c.json))
 
