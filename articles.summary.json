@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/petrol-shipment-within-48-hours/",
+    "time_ut": 1658108040,
+    "original_lang": "en",
+    "original_title": "Petrol shipment within 48-hours",
+    "file_name": "/tmp/news_lk2/articles/cb/cb7ecdeb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bank-negative-nops-reducing-flexibility-given-cb-97520/",
+    "time_ut": 1658107140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bank negative NOPs reducing, flexibility given: CB",
+    "file_name": "/tmp/news_lk2/articles/b3/b33dc77f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/public-transport-in-limbo-due-to-fuel-shortage/",
+    "time_ut": 1658107140,
+    "original_lang": "en",
+    "original_title": "Public transport in limbo due to fuel shortage",
+    "file_name": "/tmp/news_lk2/articles/cb/cbca1f9d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bcd-\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bc7-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-300610",
+    "time_ut": 1658106315,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bc7 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/ae/ae7b6878.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/18/lp-gas-shipments-expected-soon/",
     "time_ut": 1658105820,
     "original_lang": "en",
@@ -321,11 +353,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dad\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-395488",
-    "time_ut": 1658071650,
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dad\u0dd9\u0dbd\u0dca-\u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dad\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-395489",
+    "time_ut": 1658071663,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dad\u0dd9\u0dbd\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dad\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b5/b5443874.json"
+    "file_name": "/tmp/news_lk2/articles/51/519e536c.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
