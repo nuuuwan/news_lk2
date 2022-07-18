@@ -1,32 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 21:44:12 (LK time)*
+*As of 2022-07-18 21:58:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** lankadeepa-lk ([කතානායකගෙන් පොලිසියට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4993f49b.json))
 
 * **1** daily-mirror-lk ([Protest against Acting Prez...](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ce6c8f3.json))
 
-## Last Hour (8 Articles)
-
-* **3** virakesari-lk ([அட்டனில் பீதியை ஏற்படுத்திய சூட்கேஸ் - பயத்தில் உறைந்துபோன பொதுமக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afead4ae.json))
+## Last Hour (5 Articles)
 
 * **2** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce0447a.json))
 
-* **2** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72de5fd1.json))
+* **1** lankadeepa-lk ([කතානායකගෙන් පොලිසියට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4993f49b.json))
+
+* **1** virakesari-lk ([வவுனியா எரிபொருள் நிரப்பு நிலையத்தில் மதகுருவை பொலிஸ் பொறுப்பதிகாரி தாக்கியதாகக் கூரி வீதியை மறித்து ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61e0f9fb.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
 
-## Last 3 Hours (18 Articles)
+## Last 3 Hours (17 Articles)
 
-* **5** virakesari-lk ([பேருந்து கட்டணத்தையும் குறைப்பது தொடர்பில் அவதானம் செலுத்துமாறு அமைச்சர் பந்துல ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bed6f76.json))
+* **4** lankadeepa-lk ([‘‘බ්‍රිතාන්‍ය ලංකාව ගැන මීට වඩා සිති යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa4249ed.json))
 
 * **4** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e936cc98.json))
 
-* **3** lankadeepa-lk ([‘‘බ්‍රිතාන්‍ය ලංකාව ගැන මීට වඩා සිති යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/299c64be.json))
+* **4** virakesari-lk ([உலகநாடுகள் இலங்கையை ஓர் எச்சரிக்கை சமிக்ஞையாகக் கருதவேண்டும் - சர்வதேச நாணய நிதியத்தின் நிறைவேற்றுப்பணிப்பாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e1cf752.json))
 
-* **3** tamil-mirror-lk ([வரிசையில் நிற்காதீர்: 21 முதல் எரிபொருள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8602e14.json))
+* **2** tamil-mirror-lk ([பங்காளிகளிடம் சஜித் விடுத்த கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13d67696.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
 
@@ -36,7 +38,7 @@
 
 ## Last 24 Hours (251 Articles)
 
-* **43** lankadeepa-lk ([ඉන්ධන දෙන්න නම් පෝලිමෙන් යන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc0f2cd6.json))
+* **44** lankadeepa-lk ([ඉන්ධන දෙන්න නම් පෝලිමෙන් යන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc0f2cd6.json))
 
 * **40** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
 
@@ -48,7 +50,7 @@
 
 * **23** news-first-lk ([Rainfall for multiple areas today (18)](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8418074b.json))
 
-* **20** ada-derana-lk ([Health officials urge public to get 4th dose of Covid vaccine](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1ac31e9d.json))
+* **19** ada-derana-lk ([Minister’s request to those queued up at Ceypetco fuel stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9dbfc3d.json))
 
 * **16** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
@@ -56,17 +58,17 @@
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
-## Last Week (1,796 Articles)
+## Last Week (1,795 Articles)
 
-* **304** virakesari-lk ([நாட்டில் கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/142c2134.json))
+* **303** virakesari-lk ([4 கோடியை கடந்துள்ள  வவுனியா நகர சபையின் ஆதன வருமான வரி இழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f198a2b.json))
 
-* **279** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
+* **280** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
 * **225** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
 
 * **208** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
-* **162** ada-lk ([සජිත් අනුප්‍රාප්තික ජනපති කරන යෝජනාව සජබය ඒකමතිකව ස්ථිර කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a17b5c8b.json))
+* **161** ada-lk ([ජනාධිපතිධුරය ගැන පාඨලීගෙන් යෝජනා දෙකක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7b339a0.json))
 
 * **157** ada-derana-lk ([flydubai suspends Sri Lanka flights indefinitely](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8673f44e.json))
 
@@ -84,9 +86,9 @@
 
 * **21** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
 
-## All Time (2,438 Articles)
+## All Time (2,439 Articles)
 
-* **371** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **320** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
