@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Evolving-world-of-work-may-require-reshaping-of-social-security-in-Sri-Lanka-EFC-Chief/34-737658",
+    "time_ut": 1658172726,
+    "original_lang": "en",
+    "original_title": "Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief",
+    "file_name": "/tmp/news_lk2/articles/4f/4f723e13.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Reboot-Sri-Lanka-a-dire-need-for-a-complete-system-change/4-737655",
+    "time_ut": 1658172145,
+    "original_lang": "en",
+    "original_title": "Reboot Sri Lanka, a dire need for a complete \u2018system change\u2019",
+    "file_name": "/tmp/news_lk2/articles/9b/9ba00315.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/The-people-s-uprising-and-the-challenges-of-transition-in-Sri-Lanka/14-737642",
     "time_ut": 1658167206,
     "original_lang": "en",
@@ -166,6 +182,14 @@
     "original_lang": "en",
     "original_title": "Procedure of electing a President by parliament explained",
     "file_name": "/tmp/news_lk2/articles/5c/5cf8c370.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/9th-july-revolution-ousted-rajapaksa-dynasty-so-let-it-imprimatur/",
+    "time_ut": 1658153157,
+    "original_lang": "en",
+    "original_title": "9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur",
+    "file_name": "/tmp/news_lk2/articles/99/998c03d7.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
