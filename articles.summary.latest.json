@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1-\u0b85\u0bb0\u0b9a-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-300609",
+    "time_ut": 1658104397,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1: \u0b85\u0bb0\u0b9a \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/05/056ce537.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-needs-quick-fiscal-reforms-political-stability-central-bank-union-97516/",
+    "time_ut": 1658104140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka needs quick fiscal reforms, political stability: Central Bank union",
+    "file_name": "/tmp/news_lk2/articles/f4/f4e64e59.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/21-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bb5\u0bb4\u0bae\u0bc8\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-300608",
+    "time_ut": 1658103711,
+    "original_lang": "ta",
+    "original_title": "21 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bb4\u0bae\u0bc8\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e8/e825b175.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tea-exports-down-12-6-pct-in-june-2022-rupee-earnings-up-in-soft-peg-collapse-97507/",
     "time_ut": 1658093640,
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0b9a\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/38/38cab38e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78550",
-    "time_ut": 1657722660,
-    "original_lang": "en",
-    "original_title": "Gotabaya Rajapaksa\u2019s Much Anticipated Resignation Does Not Materialise but President Appoints Premier Ranil Wickremesinghe as Acting President, to be in charge during his period of absence from Sri Lanka; Ranil Imposes Curfew after Protests Escalate",
-    "file_name": "/tmp/news_lk2/articles/ad/ad549fa5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SF-appeals-to-security-forces-not-to-implement-orders-of-Acting-President/342-241013",
-    "time_ut": 1657722617,
-    "original_lang": "en",
-    "original_title": "SF appeals to security forces not to implement orders of Acting President",
-    "file_name": "/tmp/news_lk2/articles/21/21fd2934.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SF-appeals-security-forces-not-to-implement-Actg-President-s-order/342-241013",
-    "time_ut": 1657722617,
-    "original_lang": "en",
-    "original_title": "SF appeals security forces not to implement  Actg. President's order",
-    "file_name": "/tmp/news_lk2/articles/12/125ad14e.json"
   }
 ]
