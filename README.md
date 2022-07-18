@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 00:45:32 (LK time)*
+*As of 2022-07-19 00:48:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -40,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
-## Last Week (1,780 Articles)
+## Last Week (1,779 Articles)
 
 * **304** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -56,7 +56,7 @@
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **88** daily-ft-lk ([The struggle to overcome the impending food crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e537b581.json))
+* **87** daily-ft-lk ([Appointing a new President to fulfil the peoples’ wishes](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59ba125c.json))
 
 * **84** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
 
