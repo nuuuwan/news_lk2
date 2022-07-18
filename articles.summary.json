@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Isipathana-beat-St-Peters/342-241316",
+    "time_ut": 1658161240,
+    "original_lang": "en",
+    "original_title": "Isipathana beat St. Peter\u2019s",
+    "file_name": "/tmp/news_lk2/articles/e8/e8e808e9.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-616652",
     "time_ut": 1658160539,
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protest-against-Acting-Prez/110-241315",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-against-Acting-Prez/342-241315",
     "time_ut": 1658160161,
     "original_lang": "en",
     "original_title": "Protest against Acting Prez...",
-    "file_name": "/tmp/news_lk2/articles/4c/4ce6c8f3.json"
+    "file_name": "/tmp/news_lk2/articles/19/1951bf8f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
