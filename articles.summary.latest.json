@@ -1,11 +1,99 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300676",
+    "time_ut": 1658152958,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/32/3292a4bf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/108-241311",
+    "time_ut": 1658152853,
+    "original_lang": "en",
+    "original_title": "Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman",
+    "file_name": "/tmp/news_lk2/articles/69/69fa3c20.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300675",
+    "time_ut": 1658152050,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/13/13d67696.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/decision-on-naganandas-petition-against-ranil-on-tuesday-19/",
+    "time_ut": 1658151480,
+    "original_lang": "en",
+    "original_title": "Decision on Nagananda\u2019s petition against Ranil on Tuesday (19)",
+    "file_name": "/tmp/news_lk2/articles/c8/c844c64b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd-21-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd/175-300662",
+    "time_ut": 1658150647,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd: 21 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f8/f8602e14.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131725",
+    "time_ut": 1658150114,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/6b/6bed6f76.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8-\u0bb5\u0bbe\u0baa\u0bb8\u0bcd-\u0baa\u0bc6\u0bb1\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-300660",
+    "time_ut": 1658149310,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bb5\u0bbe\u0baa\u0bb8\u0bcd \u0baa\u0bc6\u0bb1\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c6/c6b766d1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83726/transport-minister-directs-to-reduce-bus-fares",
+    "time_ut": 1658148840,
+    "original_lang": "en",
+    "original_title": "Transport Minister directs to reduce bus fares",
+    "file_name": "/tmp/news_lk2/articles/81/815121cc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0d91\u0db1\u0dca\u0db1-\u0d91\u0db1\u0dca\u0db1\u0db8-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-395516",
+    "time_ut": 1658148418,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca \u0d91\u0db1\u0dca\u0db1 \u0d91\u0db1\u0dca\u0db1\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3f/3ff3f3f8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca-\u0d8b\u0dab\u0dca\u0da9-\u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dad\u0dca-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf-\u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7/101-616635",
+    "time_ut": 1658147735,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca \u0d8b\u0dab\u0dca\u0da9 \u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dad\u0dca \u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf \u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f9/f9f97a65.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/If-daily-fuel-supply-regularised-benefit-of-lowered-fuel-prices-given-to-people-Gemunu/342-241310",
     "time_ut": 1658147314,
     "original_lang": "en",
     "original_title": "If daily fuel supply regularised, benefit of lowered fuel prices given to people: Gemunu",
     "file_name": "/tmp/news_lk2/articles/0f/0f74e1a1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dc0\u0dba\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd9\u0da7/101-616634",
+    "time_ut": 1658147166,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dc0\u0dba\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc4\u0dd9\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9b/9b72086a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -78,6 +166,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0bae\u0bbf\u0bb4\u0bc8\u0b95\u0bcd\u0b95 \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd : \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf",
     "file_name": "/tmp/news_lk2/articles/02/02c4df5d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dc0\u0dd4\u0dab-\u0dc3\u0dd9\u0db6\u0dbd\u0dd4\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dba\u0db1\u0dc0\u0dcf-\u0d85\u0db4\u0dd2-\u0db8\u0dd3\u0da7-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0daf\u0dd0\u0d9a\u0dbd\u0dcf-\u0db1\u0dd1/11-395515",
+    "time_ut": 1658145193,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dc0\u0dd4\u0dab \u0dc3\u0dd9\u0db6\u0dbd\u0dd4\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dba\u0db1\u0dc0\u0dcf \u0d85\u0db4\u0dd2 \u0db8\u0dd3\u0da7 \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0daf\u0dd0\u0d9a\u0dbd\u0dcf \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/c6/c68b2638.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -792,6 +888,14 @@
     "file_name": "/tmp/news_lk2/articles/f8/f873b404.json"
   },
   {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62202969",
+    "time_ut": 1658128846,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 :\"\u0db1\u0dd3\u0dad\u0dd2\u0dba,\u0dc3\u0dcf\u0db8\u0dba \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0dbd\u0dcf \u0d85\u0db4\u0dd2 \u0d91\u0d9a\u0dad\u0dd4\u0dc0\u0dd9\u0dbd\u0dcf \u0dbb\u0da7 \u0d9c\u0ddc\u0da9 \u0d9c\u0db1\u0dca\u0da7 \u0d8b\u0dc0\u0db8\u0db1\u0dcf\u0dba\u0dd2\"",
+    "file_name": "/tmp/news_lk2/articles/f0/f03075b0.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da2\u0dd2\u0dbb-\u0dad\u0dc0-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616610",
     "time_ut": 1658128594,
@@ -950,6 +1054,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: 5\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
     "file_name": "/tmp/news_lk2/articles/d2/d26f5418.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0d9c\u0dd0\u0db6\u0dd2\u0dab\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0dc4-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-\u0dc4\u0dad\u0dbb\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-616602",
+    "time_ut": 1658125546,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0dd0\u0da7\u0dd3 \u0d9c\u0dd0\u0db6\u0dd2\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/60/6097ea9a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7886,117 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0dc3\u0dd2\u0da7\u0dd2 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0db1 \u0dc4\u0ddd\u0da7\u0dbd\u0dba\u0dda \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0d9a \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca 5900 - 8700\u0dad\u0dca \u0d85\u0dad\u0dbb",
     "file_name": "/tmp/news_lk2/articles/b5/b5b14d0e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131439",
-    "time_ut": 1657785012,
-    "original_lang": "ta",
-    "original_title": "13 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bae\u0bc1\u0bb2\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd : \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/63/63faddcd.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83641/mahinda-basil-pledge-before-sc-not-to-fly-out-until-tomorrow",
-    "time_ut": 1657784880,
-    "original_lang": "en",
-    "original_title": "Mahinda, Basil pledge before SC not to fly out until tomorrow",
-    "file_name": "/tmp/news_lk2/articles/a6/a6c9ea21.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83641/mahinda-basil-pledge-before-sc-not-to-leave-country-until-tomorrow",
-    "time_ut": 1657784880,
-    "original_lang": "en",
-    "original_title": "Mahinda, Basil pledge before SC not to leave country until tomorrow",
-    "file_name": "/tmp/news_lk2/articles/ca/ca3a3e8b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/MR-and-Basil-will-not-leave-country-until-SC-hears-FR-petition-tomorrow/108-241080",
-    "time_ut": 1657784686,
-    "original_lang": "en",
-    "original_title": "MR and Basil will not leave country until SC hears FR petition tomorrow",
-    "file_name": "/tmp/news_lk2/articles/17/17875027.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/occupied-public-property-to-be-returned-to-state/",
-    "time_ut": 1657784040,
-    "original_lang": "en",
-    "original_title": "Occupied public property to be returned to state",
-    "file_name": "/tmp/news_lk2/articles/f0/f04413cf.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bc8\u0baf\u0bc8-\u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-300418",
-    "time_ut": 1657783685,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0baa\u0bc8\u0baf\u0bc8 \u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b2/b23ac818.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83640/president-rajapaksa-leaves-maldives-on-saudi-plane-report",
-    "time_ut": 1657783560,
-    "original_lang": "en",
-    "original_title": "President Rajapaksa leaves Maldives on Saudi plane - report",
-    "file_name": "/tmp/news_lk2/articles/6d/6db7de38.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-slip-in-mid-day-trade-97419/",
-    "time_ut": 1657783200,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares slip in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/6b/6bf3c5f2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0-\u0db6\u0dbd\u0dcf-\u0db4\u0dd2\u0da7\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-616402",
-    "time_ut": 1657783108,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0 \u0db6\u0dbd\u0dcf \u0db4\u0dd2\u0da7\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5e/5ebc8272.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131437",
-    "time_ut": 1657783058,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe !",
-    "file_name": "/tmp/news_lk2/articles/80/80202cee.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Protesters-brutally-assault-soldiers-steal-two-T-56-weapons-along-with-ammunition-Army/108-241078",
-    "time_ut": 1657782927,
-    "original_lang": "en",
-    "original_title": "Protesters brutally assault soldiers, steal two T-56 weapons along with ammunition: Army",
-    "file_name": "/tmp/news_lk2/articles/e5/e51f6d20.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb-\u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca-\u0dc4\u0dcf-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd-\u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dad\u0dd2/11-395424",
-    "time_ut": 1657782698,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca \u0dc4\u0dcf \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9b/9b4ceb1e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131434",
-    "time_ut": 1657782692,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 : \u0b89\u0ba4\u0bb5\u0bc1\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0bae\u0bcd - \u0b9c\u0bc6\u0baf\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/14/1480b71c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/terrorism-radicalisation-and-need-for-bread/",
-    "time_ut": 1657782480,
-    "original_lang": "en",
-    "original_title": "Terrorism, radicalisation and need for Bread",
-    "file_name": "/tmp/news_lk2/articles/04/0451a72e.json"
   }
 ]
