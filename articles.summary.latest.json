@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83728/previous-govt-was-covering-up-facts-about-financial-crisis-acting-president",
+    "time_ut": 1658166480,
+    "original_lang": "en",
+    "original_title": "Previous govt was \u2018covering up facts\u2019 about financial crisis - Acting President",
+    "file_name": "/tmp/news_lk2/articles/b0/b0666e27.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Isipathana-beat-St-Peters/342-241316",
     "time_ut": 1658161240,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db4\u0dc0\u0dd4\u0dbd \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dbb\u0dd9\u0db1\u0dca\u0dad\u0dd4 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/2b/2b39e2b2.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131441",
-    "time_ut": 1657790754,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe- \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u00a0\u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcb\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bbe\u0ba4\u0bc1 -\u00a0\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/a5/a507bda2.json"
   }
 ]
