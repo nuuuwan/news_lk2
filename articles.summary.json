@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/108-241314",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-against-Acting-Prez/110-241315",
+    "time_ut": 1658160161,
+    "original_lang": "en",
+    "original_title": "Protest against Acting Prez...",
+    "file_name": "/tmp/news_lk2/articles/4c/4ce6c8f3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/342-241314",
     "time_ut": 1658159005,
     "original_lang": "en",
     "original_title": "CPC filling stations to dispense fuel from July 21 under QR Code, vehicle\u2019s last number: Fuel Station Owners",
-    "file_name": "/tmp/news_lk2/articles/7a/7a0e7292.json"
+    "file_name": "/tmp/news_lk2/articles/9c/9ce0447a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -97,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/108-241311",
+    "url": "https://www.dailymirror.lk/latest_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/342-241311",
     "time_ut": 1658152853,
     "original_lang": "en",
     "original_title": "Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman",
-    "file_name": "/tmp/news_lk2/articles/69/69fa3c20.json"
+    "file_name": "/tmp/news_lk2/articles/e9/e936cc98.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",

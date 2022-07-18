@@ -1,28 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 21:39:51 (LK time)*
+*As of 2022-07-18 21:44:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a0e7292.json))
+* **1** daily-mirror-lk ([Protest against Acting Prez...](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4ce6c8f3.json))
 
-## Last Hour (7 Articles)
+## Last Hour (8 Articles)
 
 * **3** virakesari-lk ([அட்டனில் பீதியை ஏற்படுத்திய சூட்கேஸ் - பயத்தில் உறைந்துபோன பொதுமக்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afead4ae.json))
 
-* **2** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72de5fd1.json))
+* **2** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ce0447a.json))
 
-* **1** daily-mirror-lk ([CPC filling stations to dispense fuel from July 21 under QR Code, vehicle’s last number: Fuel Station Owners](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a0e7292.json))
+* **2** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72de5fd1.json))
 
 * **1** economy-next-com ([Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c5dfbc.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (18 Articles)
 
 * **5** virakesari-lk ([பேருந்து கட்டணத்தையும் குறைப்பது தொடர்பில் அவதானம் செலுத்துமாறு அமைச்சர் பந்துல ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6bed6f76.json))
 
-* **3** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
+* **4** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e936cc98.json))
 
 * **3** lankadeepa-lk ([‘‘බ්‍රිතාන්‍ය ලංකාව ගැන මීට වඩා සිති යුතුයි‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/299c64be.json))
 
@@ -34,13 +34,13 @@
 
 * **1** news-first-lk ([Decision on Nagananda’s petition against Ranil on Tuesday (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c844c64b.json))
 
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (251 Articles)
 
 * **43** lankadeepa-lk ([ඉන්ධන දෙන්න නම් පෝලිමෙන් යන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc0f2cd6.json))
 
 * **40** virakesari-lk ([அரசியல் கர்மாவும் நியூட்டனின் விதியும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f198dd7.json))
 
-* **32** daily-mirror-lk ([Catholic Bishops Conference urges MPs to elect honest, able Prez, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d10806.json))
+* **33** daily-mirror-lk ([Catholic Bishops Conference urges MPs to elect honest, able Prez, PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d10806.json))
 
 * **30** tamil-mirror-lk ([21 ஆம் திகதி முதல் வழமைபோன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e825b175.json))
 
@@ -56,13 +56,13 @@
 
 * **6** b-b-c-com-sinhala ([ජනාධිපතිවරයා ඉල්ලා අස්වීමෙන් පසු ශ්‍රී ලංකාව සහ ඉදිරි ගමන](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7876ad61.json))
 
-## Last Week (1,795 Articles)
+## Last Week (1,796 Articles)
 
 * **304** virakesari-lk ([நாட்டில் கொரோனா தொற்றால் மேலும் ஒரு மரணம் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/142c2134.json))
 
 * **279** lankadeepa-lk ([සේද මාවතේ මගී නිෂ්කාශන කටයුතු නවතියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d7475d8.json))
 
-* **224** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
+* **225** daily-mirror-lk ([the Aftermath of July 2022 revolution…](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/788aeeeb.json))
 
 * **208** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
@@ -84,13 +84,13 @@
 
 * **21** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
 
-## All Time (2,437 Articles)
+## All Time (2,438 Articles)
 
 * **371** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **320** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **307** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
+* **308** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
 * **249** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
