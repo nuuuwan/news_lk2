@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da2\u0dd2\u0dbb-\u0dad\u0dc0-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616610",
+    "time_ut": 1658128594,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0dad\u0dc0 \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f7/f727d0d0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Galle-Face-Aragalaya-marks-100-days/110-241293",
     "time_ut": 1658128206,
@@ -32,6 +40,14 @@
     "file_name": "/tmp/news_lk2/articles/c3/c3a1f935.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a-\u0d9c\u0dd0\u0da7\u0dd3-06\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395504",
+    "time_ut": 1658127176,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a \u0d9c\u0dd0\u0da7\u0dd3 06\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/b9/b9dda317.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2/101-616607",
     "time_ut": 1658126953,
@@ -46,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
     "file_name": "/tmp/news_lk2/articles/b2/b2428e6d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/three-wheeler-driver-hacked-to-death-in-katunayake/",
+    "time_ut": 1658126520,
+    "original_lang": "en",
+    "original_title": "Three-wheeler driver hacked to death in Katunayake",
+    "file_name": "/tmp/news_lk2/articles/a3/a323b0a1.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
