@@ -1,11 +1,19 @@
 [
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/G7-alliance-on-global-food-crisis-has-offered-SL-US-dollars-14-million-for-food-Prez/108-241287",
-    "time_ut": 1658121414,
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca-\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0db8\u0dbd\u0dda\u0dba\u0dd2-\u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba\u0dda-\u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/101-616590",
+    "time_ut": 1658121922,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dca \u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4\u0db8\u0dbd\u0dda\u0dba\u0dd2 \u0dc0\u0dd2\u0dc4\u0dcf\u0dbb\u0dba\u0dda \u0d89\u0daf\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d89\u0dc0\u0dad\u0dca\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7e/7e4755fd.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/power-cut-for-18th-19th-july/",
+    "time_ut": 1658121000,
     "original_lang": "en",
-    "original_title": "G7 alliance on global food crisis has offered SL US dollars 14 million for food : Prez",
-    "file_name": "/tmp/news_lk2/articles/2d/2d41f6b5.json"
+    "original_title": "Power cut for 18th & 19th July",
+    "file_name": "/tmp/news_lk2/articles/3f/3f0e0d86.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -40,12 +48,28 @@
     "file_name": "/tmp/news_lk2/articles/78/78496b65.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/pope-urges-dialogue-for-common-good/",
+    "time_ut": 1658119980,
+    "original_lang": "en",
+    "original_title": "Pope urges dialogue for common good",
+    "file_name": "/tmp/news_lk2/articles/6c/6c74a456.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bc8-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300624",
     "time_ut": 1658119720,
     "original_lang": "ta",
     "original_title": "\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bc8 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/fb/fbd284f8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/second-indian-fertilizer-shipment-in-two-weeks/",
+    "time_ut": 1658119380,
+    "original_lang": "en",
+    "original_title": "Second Indian Fertilizer shipment in two weeks",
+    "file_name": "/tmp/news_lk2/articles/0f/0f681718.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -110,6 +134,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0dd3\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb \u0d9a\u0dd1 \u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf \u0daf\u0dd2\u0db1 4 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/24/241ba309.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1\u0dba-\u0d85\u0db6\u0dd2\u0db6\u0dc0\u0db8\u0dd2\u0db1\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dab\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dcf-\u0db6\u0dc0\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-395492",
+    "time_ut": 1658116263,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0d85\u0db6\u0dd2\u0db6\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dab\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dc0\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c4/c45fcca4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -344,6 +376,14 @@
     "file_name": "/tmp/news_lk2/articles/e8/e825b175.json"
   },
   {
+    "newspaper_id": "b-b-c-com-sinhala",
+    "url": "https://www.bbc.com/sinhala/sri-lanka-62202961",
+    "time_ut": 1658101436,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0dc4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0d9c\u0db8\u0db1",
+    "file_name": "/tmp/news_lk2/articles/78/7876ad61.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-tea-exports-down-12-6-pct-in-june-2022-rupee-earnings-up-in-soft-peg-collapse-97507/",
     "time_ut": 1658093640,
@@ -401,19 +441,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/India-eclipses-China-to-become-top-lender-to-debt-laden-Sri-Lanka/108-241262",
+    "url": "https://www.dailymirror.lk/business__main/India-eclipses-China-to-become-top-lender-to-debt-laden-Sri-Lanka/245-241262",
     "time_ut": 1658089398,
     "original_lang": "en",
     "original_title": "India eclipses China to become top lender to debt-laden Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/19/19831bd0.json"
+    "file_name": "/tmp/news_lk2/articles/ff/fff40355.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CB-asks-what-more-could-incentivise-remittances-than-current-Fx-and-interest-rates/108-241261",
+    "url": "https://www.dailymirror.lk/business-news/CB-asks-what-more-could-incentivise-remittances-than-current-Fx-and-interest-rates/273-241261",
     "time_ut": 1658089334,
     "original_lang": "en",
     "original_title": "CB asks what more could incentivise remittances than current Fx and interest rates",
-    "file_name": "/tmp/news_lk2/articles/22/22253f9f.json"
+    "file_name": "/tmp/news_lk2/articles/fd/fd0def28.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
