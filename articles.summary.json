@@ -64,6 +64,14 @@
     "file_name": "/tmp/news_lk2/articles/c6/c6b766d1.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dc4\u0dd0\u0da7\u0db1\u0dca-\u0db6\u0dc3\u0dca-\u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dda-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0d9c\u0db8\u0db1\u0dca-\u0db8\u0dbd\u0dca\u0dbd\u0d9a\u0dca-\u0db1\u0dd2\u0dc3\u0dcf-\u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca/10-395517",
+    "time_ut": 1658149080,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dda \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0d9c\u0db8\u0db1\u0dca \u0db8\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0db1\u0ddc\u0dc3\u0db1\u0dca\u0dc3\u0dd4\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/04/04bca290.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83726/transport-minister-directs-to-reduce-bus-fares",
     "time_ut": 1658148840,

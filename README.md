@@ -1,38 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-18 20:08:41 (LK time)*
+*As of 2022-07-18 20:27:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (3 Articles)
 
 * **1** ada-derana-lk ([Procedure of electing a President by parliament explained](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf8c370.json))
 
-## Last Hour (4 Articles)
-
-* **2** tamil-mirror-lk ([பங்காளிகளிடம் சஜித் விடுத்த கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13d67696.json))
-
-* **1** ada-derana-lk ([Procedure of electing a President by parliament explained](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cf8c370.json))
+* **1** tamil-mirror-lk ([எரிபொருள் குறித்து அமைச்சரின் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3292a4bf.json))
 
 * **1** daily-mirror-lk ([Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69fa3c20.json))
 
-## Last 3 Hours (31 Articles)
-
-* **8** virakesari-lk ([பதில் ஜனாதிபதி ரணில் விக்கிரமசிங்க நாட்டு மக்களுக்கு ஆற்றிய உரையின் முழுவிபரம் ! நாட்டுக்காக ஒன்றிணையுமாறும் அழைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07ecf917.json))
-
-* **6** lankadeepa-lk ([රනිල් පොහොට්ටුවේ මන්ත්‍රීවරුන් පිරිසක් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39e88918.json))
+## Last 3 Hours (22 Articles)
 
 * **5** tamil-mirror-lk ([“கோட்டா கோ கம” வில் ரூ. 4.5 கோடி வெளிநாட்டு நிதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f97457c4.json))
 
 * **4** daily-mirror-lk ([Two diesel cargos being discharged: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a4fa543.json))
 
+* **4** lankadeepa-lk ([විමල්ගේ වත්කම් නඩුවට දින දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49c03bb9.json))
+
 * **3** ada-derana-lk ([Minister gives update on fuel shipments that reached Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62ce62a5.json))
 
-* **2** ada-lk ([තුවාල වුණ සෙබලුන් බලන්න රනිල් යනවා අපි මීට කලින් දැකලා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c68b2638.json))
+* **2** virakesari-lk ([புளியங்குளத்தில் கரடி தாக்கி ஒருவர் படுகாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c654bc96.json))
 
-* **2** economy-next-com ([Sri Lanka’s National Youth Corps to help rural residents sign up for online fuel pass](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e572839.json))
+* **2** ada-lk ([කොවිඩ් ආසාදිතයන් එන්න එන්නම වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3ff3f3f8.json))
 
 * **1** news-first-lk ([Decision on Nagananda’s petition against Ranil on Tuesday (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c844c64b.json))
+
+* **1** economy-next-com ([Slight increase in COVID-19 cases in Sri Lanka; WHO report indicates 22 pct hike](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6787caf2.json))
 
 ## Last 24 Hours (262 Articles)
 
@@ -40,11 +36,11 @@
 
 * **42** lankadeepa-lk ([මන්ත්‍රීවරුන්ට බලපෑම් කළොත් වැඩ වරදි](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06ecfa7f.json))
 
-* **35** daily-mirror-lk ([Pregnant woman, husband die in accident in Buttala](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28ce4405.json))
+* **34** daily-mirror-lk ([Rooting out corruption; a necessary step for Sri Lanka to prosper](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52ab63be.json))
 
 * **30** tamil-mirror-lk ([21 ஆம் திகதி முதல் வழமைபோன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e825b175.json))
 
-* **27** ada-lk ([ඉන්ධන මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a259d25d.json))
+* **28** ada-lk ([ඉන්ධන මිල පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a259d25d.json))
 
 * **24** news-first-lk ([SL economy likely to contract more than 6%: CBSL Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2f3424a.json))
 
@@ -58,17 +54,17 @@
 
 * **1** colombo-telegraph-com ([Sri Lanka’s New Government: Be Warned Of The Empty Treasury & Negative Foreign Reserves](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/23fa154f.json))
 
-## Last Week (1,795 Articles)
+## Last Week (1,793 Articles)
 
 * **301** virakesari-lk ([ஜனாதிபதி நாட்டில் உள்ளார் – முப்படை தளபதிகளை சந்தித்துள்ளார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb012731.json))
 
-* **282** lankadeepa-lk ([ජනාධිපති රටේ ඉන්නවා:පිටව ගිහින් කිව්වේ වැරදීමකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a83ada4.json))
+* **281** lankadeepa-lk ([‘‘දේශපාලන අස්ථාවරත්වය අයි.එම්.එෆ් සාකච්ඡාවලට බාධාවක්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ed6c9b3.json))
 
 * **223** daily-mirror-lk ([UAE’s flydubai suspends operations to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e47439e.json))
 
-* **209** tamil-mirror-lk ([கொழும்பு வருகின்றன எரிபொருள் கப்பல்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68b88a69.json))
+* **208** tamil-mirror-lk ([இந்திய மீனவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/720378a2.json))
 
-* **161** ada-lk ([සජිත් අනුප්‍රාප්තික ජනපති කරන යෝජනාව සජබය ඒකමතිකව ස්ථිර කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a17b5c8b.json))
+* **162** ada-lk ([සජිත් අනුප්‍රාප්තික ජනපති කරන යෝජනාව සජබය ඒකමතිකව ස්ථිර කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a17b5c8b.json))
 
 * **157** ada-derana-lk ([flydubai suspends Sri Lanka flights indefinitely](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8673f44e.json))
 
@@ -76,7 +72,7 @@
 
 * **90** daily-ft-lk ([When will Sri Lankan children be prioritised in this crisis?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dac2d5.json))
 
-* **85** economy-next-com ([Out, then not out; Sri Lanka Speaker retracts his own statement on president’s whereabouts](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b77d6bcd.json))
+* **84** economy-next-com ([Sri Lanka stocks jump to one-week high after embattled president announces resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05903ecd.json))
 
 * **61** island-lk ([SOE reforms vital, although monetary policies to put SL’s economy on right track are on – CBSL Governor](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d884397.json))
 
@@ -86,7 +82,7 @@
 
 * **21** colombo-telegraph-com ([From Confrontation To Consensus](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ca1a6e.json))
 
-## All Time (2,426 Articles)
+## All Time (2,427 Articles)
 
 * **368** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -94,7 +90,7 @@
 
 * **305** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f3bd869.json))
 
-* **248** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **249** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **234** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
