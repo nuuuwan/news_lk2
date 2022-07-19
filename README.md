@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 12:48:16 (LK time)*
+*As of 2022-07-19 12:55:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** virakesari-lk ([மே 9 வன்முறைகளுடன் தொடர்புடைய சந்தேக நபர்கள் 3,220 பேர் கைது ; 1176 பேர் விளக்கமறியலில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c117b48.json))
-
-* **1** daily-mirror-lk ([Bus fare reduced by 2.23% from tonight, Minimum fare is Rs.38](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd4faa15.json))
-
-* **1** economy-next-com ([Sri Lanka Catholic church rejects acting president’s call to review Easter attack probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0fbfadf.json))
+* **1** ada-derana-lk ([Sri Lankan students in India asked to register for a census](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86650f01.json))
 
 ## Last Hour (13 Articles)
 
@@ -18,17 +14,19 @@
 
 * **3** news-first-lk ([Health Sector facing risk of collapse](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c0c7ea8.json))
 
-* **2** economy-next-com ([Sri Lanka shares gain over 1-pct in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec83cb4.json))
+* **2** lankadeepa-lk ([අවම බස් ගාස්තුව රු: 2කින් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f134216.json))
 
-* **2** lankadeepa-lk ([අවම බස් ගාස්තුව රු: 2කින් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd02ecfd.json))
+* **1** ada-derana-lk ([Sri Lankan students in India asked to register for a census](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86650f01.json))
 
 * **1** daily-mirror-lk ([Bus fare reduced by 2.23% from tonight, Minimum fare is Rs.38](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd4faa15.json))
+
+* **1** economy-next-com ([Sri Lanka Catholic church rejects acting president’s call to review Easter attack probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0fbfadf.json))
 
 * **1** tamil-mirror-lk ([மின் கட்டணம் அதிகரிக்கின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3808aaf.json))
 
 * **1** ada-lk ([ඉන්ධන අර්බුදයෙන් බැටකන ධීවරයින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/085b279d.json))
 
-## Last 3 Hours (60 Articles)
+## Last 3 Hours (59 Articles)
 
 * **15** ada-lk ([සජිත් ජනපති සටනෙන් ඉවත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b105409d.json))
 
@@ -40,13 +38,13 @@
 
 * **6** news-first-lk ([Sajith Premadasa withdraws from race for President](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02669b4a.json))
 
-* **5** tamil-mirror-lk ([மதகுரு மீது பொலிஸ் தாக்குதல்; மக்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1ca4f04.json))
+* **5** ada-derana-lk ([Sajith withdraws candidacy; SJB to support Dullas for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ce91c6.json))
 
-* **4** economy-next-com ([Sajith withdraws from Sri Lanka President race](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd62ec03.json))
+* **4** tamil-mirror-lk ([டலஸின் பெயரை சஜித்  முன்மொழிந்தார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/170a1841.json))
 
-* **4** ada-derana-lk ([Sajith withdraws candidacy; SJB to support Dullas for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ce91c6.json))
+* **3** economy-next-com ([Sri Lanka’s crucial presidential vote becomes two-horse race](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f552a600.json))
 
-## Last 24 Hours (271 Articles)
+## Last 24 Hours (270 Articles)
 
 * **59** virakesari-lk ([50 கண்ணீர் புகை குண்டுகளுடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/695a7615.json))
 
@@ -56,9 +54,9 @@
 
 * **32** tamil-mirror-lk ([பொலிஸாருடன் முறுகல்; நகரசபை உறுப்பினர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52d3239e.json))
 
-* **31** ada-lk ([මුහුදේ ගසාගෙන ගිය  රුසියානුවන් දෙදෙනා බේරා ගැනේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f873b404.json))
+* **30** ada-lk ([ත්‍රිරෝද රථ ගාස්තුව පහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c73cd54c.json))
 
-* **20** ada-derana-lk ([Six including 2 children and pregnant woman injured as train hits car](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e3f87b9.json))
+* **21** ada-derana-lk ([Six including 2 children and pregnant woman injured as train hits car](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e3f87b9.json))
 
 * **15** economy-next-com ([Transparency International wants Sri Lanka’s presidential hopefuls to declare assets](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef333a75.json))
 
@@ -70,23 +68,23 @@
 
 * **5** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
-* **3** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ :"නීතිය,සාමය ආරක්ෂා කරලා අපි එකතුවෙලා රට ගොඩ ගන්ට උවමනායි"](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f03075b0.json))
+* **2** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
 * **1** d-b-s-jeyaraj-com ([Tenacious “Aragalaya” (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumaraya](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/038b709a.json))
 
-## Last Week (1,836 Articles)
+## Last Week (1,835 Articles)
 
 * **319** virakesari-lk ([இந்தியாவால் வழங்கப்பட்ட உரம் இன்று விநியோகம் - விவசாய அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/086f4f2d.json))
 
 * **283** lankadeepa-lk ([වෙරළබඩ පොලිස් බල ප්‍රදේශයේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b23e1ff.json))
 
-* **230** daily-mirror-lk ([Motion filed in Supreme Court urging to impose travel ban on MR, Basil, Cabraal and Atygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86cdb4d5.json))
+* **228** daily-mirror-lk ([NASA’s Webb delivers deepest infrared image of universe yet](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22a96f28.json))
 
 * **217** tamil-mirror-lk ([ரணிலை ஜனாதிபதியாக நியமிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7fbc72ac.json))
 
 * **178** ada-lk ([වෙරළබඩ පොලිස් වසමේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc7a2c9.json))
 
-* **154** ada-derana-lk ([Four arrested with over 38kg of heroin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ee928a9.json))
+* **155** ada-derana-lk ([Four arrested with over 38kg of heroin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ee928a9.json))
 
 * **149** news-first-lk ([Brawl at Temple Trees; 10 hospitalized](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e7e9bf0.json))
 
@@ -102,7 +100,7 @@
 
 * **23** d-b-s-jeyaraj-com ([The United States rejects  Former US Citizen and Current  Sri Lankan President Gotabaya Rajapaksa’s  request for a visa,“He sought a safe passage to the U.S. after the recent events, but it was denied,” says Colombo-based official](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c5b0898.json))
 
-## All Time (2,590 Articles)
+## All Time (2,591 Articles)
 
 * **390** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -114,7 +112,7 @@
 
 * **253** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **185** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **186** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **182** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 

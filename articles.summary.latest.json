@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83736/sri-lankan-students-in-india-asked-to-register-for-a-census",
+    "time_ut": 1658214600,
+    "original_lang": "en",
+    "original_title": "Sri Lankan students in India asked to register for a census",
+    "file_name": "/tmp/news_lk2/articles/86/86650f01.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131772",
     "time_ut": 1658213564,
@@ -57,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dc0-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d91\u0dba\u0dd2/101-616672",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dc0-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0daf\u0dd9\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d91\u0dba\u0dd2/1-616672",
     "time_ut": 1658212198,
     "original_lang": "si",
     "original_title": "\u0dad\u0dc0 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0daf\u0dd9\u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/41/4195acd3.json"
+    "file_name": "/tmp/news_lk2/articles/b9/b93ab06c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -73,11 +81,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0db8-\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd4:-2\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-616670",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dc0\u0db8-\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd4:-2\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/1-616670",
     "time_ut": 1658212031,
     "original_lang": "si",
     "original_title": "\u0d85\u0dc0\u0db8 \u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4: 2\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/dd/dd02ecfd.json"
+    "file_name": "/tmp/news_lk2/articles/6f/6f134216.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -121,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SLPP-ready-to-accept-Sajith-as-PM-GL/342-241372",
+    "url": "https://www.dailymirror.lk/breaking_news/SLPP-ready-to-accept-Sajith-as-PM-GL/108-241372",
     "time_ut": 1658211011,
     "original_lang": "en",
     "original_title": "SLPP ready to accept Sajith as PM: GL",
-    "file_name": "/tmp/news_lk2/articles/a2/a2048945.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f9016f99.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -313,11 +321,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4-10-\u0dc3\u0dd2\u0da7/101-616665",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4-10-\u0dc3\u0dd2\u0da7/1-616665",
     "time_ut": 1658206644,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10 \u0dc3\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ac/ac1923d9.json"
+    "file_name": "/tmp/news_lk2/articles/a7/a742be06.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -337,11 +345,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0daf\u0dc4\u0dba\u0dba\u0dd2/101-616663",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0daf\u0dc4\u0dba\u0dba\u0dd2/1-616663",
     "time_ut": 1658206477,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 \u0daf\u0dc4\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a1/a120e0e9.json"
+    "file_name": "/tmp/news_lk2/articles/bd/bd77be6e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -417,11 +425,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0db8-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db6\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-616661",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dcf\u0db8-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db6\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-616661",
     "time_ut": 1658205514,
     "original_lang": "si",
     "original_title": "\u0db1\u0dcf\u0db8 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0db6\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f2/f2848b33.json"
+    "file_name": "/tmp/news_lk2/articles/fd/fd3811d1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd  \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
     "file_name": "/tmp/news_lk2/articles/12/12423f8f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1-\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-300452",
-    "time_ut": 1657846946,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8f/8f99c09d.json"
   }
 ]
