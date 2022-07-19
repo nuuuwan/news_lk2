@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83742/schools-to-reopen-on-july-25",
+    "time_ut": 1658230200,
+    "original_lang": "en",
+    "original_title": "Schools to reopen on July 25",
+    "file_name": "/tmp/news_lk2/articles/dd/dd38e742.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0dd3\u0db8-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/101-616694",
+    "time_ut": 1658230159,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0dd3\u0db8 \u0d9a\u0dbd\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/35/354d9fd2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Schools-to-reopen-on-Monday-Ministry/108-241383",
     "time_ut": 1658229992,
