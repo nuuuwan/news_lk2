@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db8\u0dcf\u0da2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca\u0da7-\u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca-\u0d9a\u0dc5\u0dd0\u0dba\u0dd2-\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab/1-616698",
+    "time_ut": 1658235315,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db8\u0dcf\u0da2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca\u0da7 \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca \u0d9a\u0dc5\u0dd0\u0dba\u0dd2 \u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab",
+    "file_name": "/tmp/news_lk2/articles/44/44bc0b04.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Suspended-postal-services-resume/342-241385",
     "time_ut": 1658233717,
@@ -8,12 +16,20 @@
     "file_name": "/tmp/news_lk2/articles/8b/8b0257c4.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/19/sajith-dullas-sit-together-for-first-press-conference-after-nomination/",
+    "time_ut": 1658233620,
+    "original_lang": "en",
+    "original_title": "Sajith & Dullas sit together for first press conference after nomination",
+    "file_name": "/tmp/news_lk2/articles/bb/bb52e0da.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd2\u0dc0\u0dca-\u0d86\u0dbb\u0dca--\u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0dda-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dc3\u0dd2\u0da7/101-616696",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd2\u0dc0\u0dca-\u0d86\u0dbb\u0dca--\u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0dda-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf-\u0dc3\u0dd2\u0da7/1-616696",
     "time_ut": 1658233611,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd2\u0dc0\u0dca.\u0d86\u0dbb\u0dca. \u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0dda \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0d9a\u0dca \u0d85\u0db1\u0dd2\u0daf\u0dca\u0daf\u0dcf \u0dc3\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/58/5815506e.json"
+    "file_name": "/tmp/news_lk2/articles/c1/c1f29a39.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -22,6 +38,14 @@
     "original_lang": "en",
     "original_title": "Last digit of number plate for refuelling revised: Kanchana",
     "file_name": "/tmp/news_lk2/articles/be/be88a00d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-25-\u0b86\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd/175-300727",
+    "time_ut": 1658233179,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd 25 \u0b86\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/14/14345385.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -70,6 +94,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0d82\u0d9a \u0dad\u0dc4\u0da9\u0dd4\u0dc0\u0dda \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0d85\u0d82\u0d9a\u0dba \u0d85\u0db1\u0dd4\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8\u0dd9 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/dc/dc0810ea.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131821",
+    "time_ut": 1658231663,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0b95 \u0b92\u0bb0\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb2\u0bcb, \u0ba4\u0ba9\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0bb2\u0bcb \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0b9f\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae",
+    "file_name": "/tmp/news_lk2/articles/fc/fcf4d99b.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/b1/b1f566ba.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Interim-President/108-241155",
-    "time_ut": 1657868522,
-    "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe sworn in as Interim President",
-    "file_name": "/tmp/news_lk2/articles/7d/7d3b1437.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Acting-President/108-241155",
-    "time_ut": 1657868522,
-    "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe sworn in as Acting President",
-    "file_name": "/tmp/news_lk2/articles/f4/f4344797.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131518",
-    "time_ut": 1657868179,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/53/53327004.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/15/litro-continues-lp-gas-distribution/",
-    "time_ut": 1657867920,
-    "original_lang": "en",
-    "original_title": "Litro continues LP Gas distribution",
-    "file_name": "/tmp/news_lk2/articles/eb/eba45207.json"
   }
 ]
