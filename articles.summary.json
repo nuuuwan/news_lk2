@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd9\u0db8\u0dc5-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc3\u0d82\u0db0\u0dcf\u0db1\u0dba\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca\u0da7/1-616707",
+    "time_ut": 1658251678,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0db8\u0dc5 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0d82\u0db0\u0dcf\u0db1\u0dba\u0dad\u0dca \u0da9\u0dbd\u0dc3\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/1d/1db75805.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83749/tna-and-six-slpp-mps-pledge-support-for-dullas",
+    "time_ut": 1658250420,
+    "original_lang": "en",
+    "original_title": "TNA and six SLPP MPs pledge support for Dullas",
+    "file_name": "/tmp/news_lk2/articles/94/9434648e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131843",
     "time_ut": 1658249975,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd2\u0dc2\u0dcf\u0da9\u0dca\u0d9c\u0dda-\u0dc3\u0dc4\u0dba\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca\u0da7/101-616706",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dd2\u0dc2\u0dcf\u0da9\u0dca\u0d9c\u0dda-\u0dc3\u0dc4\u0dba\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca\u0da7/1-616706",
     "time_ut": 1658248813,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd2\u0dc2\u0dcf\u0da9\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0dba\u0dad\u0dca \u0da9\u0dbd\u0dc3\u0dca\u0da7",
-    "file_name": "/tmp/news_lk2/articles/dc/dcf7021a.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f2750358.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -38,6 +54,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/98/985fd28f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83748/cpcs-decision-on-dispensing-fuel-volumes-to-vehicles",
+    "time_ut": 1658247300,
+    "original_lang": "en",
+    "original_title": "CPC\u2019s decision on dispensing fuel volumes to vehicles",
+    "file_name": "/tmp/news_lk2/articles/31/318fecf1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
