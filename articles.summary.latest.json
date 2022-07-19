@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019-\u0d89\u0dc0\u0dbb\u0dba\u0dd2-\u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018-\u0dc0\u0dd0\u0da9/1-616683",
+    "time_ut": 1658221702,
+    "original_lang": "si",
+    "original_title": "\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019 \u0d89\u0dc0\u0dbb\u0dba\u0dd2 \u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018 \u0dc0\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/43/438069c3.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/if-dullas-wins-sajith-will-be-pm-in-all-party-govt-sri-lanka-opposition-mp-97644/",
+    "time_ut": 1658221260,
+    "original_lang": "en",
+    "original_title": "If Dullas wins, Sajith will be PM in all-party govt: Sri Lanka opposition MP",
+    "file_name": "/tmp/news_lk2/articles/de/de8a192f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Any-move-to-force-a-MP-to-photograph-their-ballot-paper-will-result-in-7-year-ban-Speaker/342-241375",
     "time_ut": 1658221093,
     "original_lang": "en",
     "original_title": "Any move to force a MP to photograph their ballot paper will result in 7 year ban - Speaker",
     "file_name": "/tmp/news_lk2/articles/66/66f810ab.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda-\u0db6\u0dbb-\u0d85\u0db1\u0dd4\u0dc0-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1/11-395543",
+    "time_ut": 1658220864,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db6\u0dbb \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/ab/ab16846b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131792",
+    "time_ut": 1658220662,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0bae\u0bb2\u0bc8 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd : \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0baf\u0bc8\u00a0 \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd : \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/8a/8ace3e51.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa officially resigns as President of Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/fd/fdff5189.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/GOTABAYA-RAJAPAKSA-RESIGNS/155-241125",
-    "time_ut": 1657857412,
-    "original_lang": "en",
-    "original_title": "GOTABAYA RAJAPAKSA RESIGNS",
-    "file_name": "/tmp/news_lk2/articles/df/dfe867a7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/15/sri-lanka-president-gotabaya-has-officially-stepped-down/",
-    "time_ut": 1657857300,
-    "original_lang": "en",
-    "original_title": "Sri Lanka: President Gotabaya has officially stepped down",
-    "file_name": "/tmp/news_lk2/articles/b1/b17453ec.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/101-616434",
-    "time_ut": 1657857076,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/0f/0f077212.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131495",
-    "time_ut": 1657856796,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0b9f\u0bb5\u0bc1\u0bae\u0bcd - \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f \u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d1/d1070423.json"
   }
 ]
