@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba-3-\u0dba\u0dd2-\u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4-40-\u0d9a\u0dca/1-616702",
+    "time_ut": 1658242605,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba 3 \u0dba\u0dd2 \u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4 40 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/6e/6e652571.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bc1\u0bb3\u0bc8-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-300753",
     "time_ut": 1658241572,
     "original_lang": "ta",
     "original_title": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f   \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
     "file_name": "/tmp/news_lk2/articles/ed/ed7b1c79.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-for-3rd-straight-session-ahead-of-presidential-vote-97678/",
+    "time_ut": 1658241480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain for 3rd straight session ahead of presidential vote",
+    "file_name": "/tmp/news_lk2/articles/34/34d67a8c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -94,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bond yields decline; rupee guidance peg weakens",
     "file_name": "/tmp/news_lk2/articles/79/7909cd01.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/19/slfp-decided-to-back-dullas-for-president/",
+    "time_ut": 1658239260,
+    "original_lang": "en",
+    "original_title": "SLFP decided to back Dullas for President",
+    "file_name": "/tmp/news_lk2/articles/53/539361a3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -670,6 +694,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0db4\u0d9a\u0dca\u200d\u0dc2 \u0d91\u0d9a\u0db8\u0dd4\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0dc4\u0dba \u0da9\u0dbd\u0dc3\u0dca\u0da7",
     "file_name": "/tmp/news_lk2/articles/a1/a1b7db08.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/parliaments-role-in-electing-the-president/",
+    "time_ut": 1658222276,
+    "original_lang": "en",
+    "original_title": "Parliament\u2019s Role In Electing The President",
+    "file_name": "/tmp/news_lk2/articles/c5/c509bd6c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9f\u0bca\u0bb2\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/11/11740459.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131530",
-    "time_ut": 1657877199,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd : \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc6\u0bb1\u0bbf\u0baf \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b2/b2a36a34.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83667/acting-president-ranil-vows-to-safeguard-constitution",
-    "time_ut": 1657876920,
-    "original_lang": "en",
-    "original_title": "Acting President Ranil vows to safeguard Constitution",
-    "file_name": "/tmp/news_lk2/articles/69/697a2697.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83667/ranil-delivers-special-statement-as-acting-president-vows-to-safeguard-constitution",
-    "time_ut": 1657876920,
-    "original_lang": "en",
-    "original_title": "Ranil delivers special statement as Acting President; vows to safeguard Constitution",
-    "file_name": "/tmp/news_lk2/articles/13/134567c6.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131529",
-    "time_ut": 1657876615,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/ce/cef9642f.json"
   }
 ]
