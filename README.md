@@ -1,22 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 20:40:57 (LK time)*
+*As of 2022-07-19 20:43:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e652571.json))
+* **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
 
-## Last Hour (11 Articles)
+## Last Hour (9 Articles)
 
 * **3** tamil-mirror-lk ([பாராளுமன்ற வீதியில் ஆர்ப்பாட்டங்களுக்குத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30925499.json))
 
-* **3** virakesari-lk ([முடிவு சிலவேளை மாறலாம் - தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவர் சி.வி.விக்னேஸ்வரன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bf8d8af.json))
-
-* **2** lankadeepa-lk ([ශ්‍රීලනිප සහාය ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a998a92.json))
+* **2** virakesari-lk ([நாளை மின்வெட்டு தொடர்பான முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d347669f.json))
 
 * **2** daily-mirror-lk ([SLPP youth wing to vote for Ranil to presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d4b57.json))
+
+* **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
 
 * **1** economy-next-com ([Sri Lanka stocks gain for 3rd straight session ahead of presidential vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d67a8c.json))
 
@@ -38,9 +38,9 @@
 
 * **3** ada-lk ([සඳුදා සිට පාසල් යළි විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12030e6.json))
 
-## Last 24 Hours (263 Articles)
+## Last 24 Hours (264 Articles)
 
-* **54** virakesari-lk ([மக்கள் கிளர்ச்சி போராட்டக்காரர்களுடன் அரசியல் தொடர்பாடல் அவசியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e06573.json))
+* **55** virakesari-lk ([மக்கள் கிளர்ச்சி போராட்டக்காரர்களுடன் அரசியல் தொடர்பாடல் அவசியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e06573.json))
 
 * **40** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
 
@@ -66,7 +66,7 @@
 
 ## Last Week (1,819 Articles)
 
-* **313** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
+* **314** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
 
 * **281** lankadeepa-lk ([ජනපති ඇමෙරිකාවෙන් ඉල්ලූ වීසා ප්‍රතික්ෂේප වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12892388.json))
 
@@ -78,7 +78,7 @@
 
 * **159** ada-derana-lk ([Archaeology Dept. officers inspect President’s House to assess damages](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c28d8c3.json))
 
-* **145** news-first-lk ([BASL calls for a peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdafeb7b.json))
+* **144** news-first-lk ([We expect President not to play games: Patali](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b67f92cc.json))
 
 * **91** economy-next-com ([Petitions filed in Supreme Court to prevent Rajapaksas, officials from leaving Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d091d293.json))
 
@@ -92,11 +92,11 @@
 
 * **19** d-b-s-jeyaraj-com ([Would not the sensible course be for the Prime Minister to remain in office (as Acting President and Head of the Government) until Parliament elects a new President and he or she proceeds to constitute the so-called and hitherto unattainable “All Party Government”?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a60821bb.json))
 
-## All Time (2,708 Articles)
+## All Time (2,709 Articles)
 
 * **409** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **372** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **373** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **335** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
