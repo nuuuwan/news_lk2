@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 01:39:08 (LK time)*
+*As of 2022-07-20 01:43:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **5** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
+* **4** daily-ft-lk ([Agriculture Department begins to distribute urea fertiliser countywide](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b618070a.json))
 
 ## Last Hour (6 Articles)
 
@@ -26,7 +26,7 @@
 
 ## Last 24 Hours (255 Articles)
 
-* **53** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
+* **54** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
 * **40** lankadeepa-lk ([ජනාධිපති ධුරයට නම් කැඳවීම  අද උදේ  10.00ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbd37d13.json))
 
@@ -36,7 +36,7 @@
 
 * **28** ada-derana-lk ([Spells of showers, strong winds expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be260d73.json))
 
-* **20** tamil-mirror-lk ([இலங்கைக்கு உதவ முன்வந்துள்ள அமெரிக்கா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef1c28c7.json))
+* **19** tamil-mirror-lk ([எரிபொருள் அட்டை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d89159ce.json))
 
 * **17** economy-next-com ([Sri Lanka police probe into key protest leaders receiving overseas money](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e15e1491.json))
 
@@ -48,9 +48,9 @@
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,806 Articles)
+## Last Week (1,807 Articles)
 
-* **320** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
+* **321** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
 
 * **281** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a232f028.json))
 
@@ -76,11 +76,11 @@
 
 * **16** d-b-s-jeyaraj-com ([Acting President and Premier Ranil Wickremesinghe says  they had  received reports from the Intelligence agencies that some elements within the Aragalaya community were planning to take over and occupy the Prime Minister’s Office and the official residences of the Commanders of the Air Force, Army, and Navy/](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc54986.json))
 
-## All Time (2,755 Articles)
+## All Time (2,756 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **387** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **388** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **344** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
