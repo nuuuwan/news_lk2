@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 23:46:24 (LK time)*
+*As of 2022-07-19 23:48:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -24,9 +24,9 @@
 
 * **4** ada-derana-lk ([CPC’s notice on dispensing fuel from July 21](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7252a979.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (249 Articles)
 
-* **51** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
+* **52** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
 * **40** lankadeepa-lk ([ජනාධිපති ධුරයට නම් කැඳවීම  අද උදේ  10.00ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbd37d13.json))
 
@@ -48,9 +48,9 @@
 
 * **1** colombo-telegraph-com ([Parliament’s Role In Electing The President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c509bd6c.json))
 
-## Last Week (1,809 Articles)
+## Last Week (1,808 Articles)
 
-* **318** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
+* **319** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
 
 * **281** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a232f028.json))
 
@@ -66,21 +66,21 @@
 
 * **90** economy-next-com ([Fun protests to toppling Rajapaksa; covering Sri Lanka’s unprecedented presidential palace storming](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d77acf31.json))
 
-* **83** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
+* **82** daily-ft-lk ([Public Commission for Good Governance](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adf86c93.json))
 
 * **56** island-lk ([Safeguard primary unit of society](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5a3d2ba.json))
 
 * **28** b-b-c-com-sinhala ([අද ජනාධිපතිවරයා ඉල්ලා අස්නොවුණොත්:විරෝධතාකරුවන්ගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84bc8bbe.json))
 
-* **21** colombo-telegraph-com ([The First Step Of Aragalaya Is Completed: What Is Next?](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/396f2e6f.json))
+* **20** colombo-telegraph-com ([The Destiny Of China’s Colony Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ea98e8.json))
 
 * **17** d-b-s-jeyaraj-com ([Ranil Says a mob was instigated to attack his house by a private media institution which misreported what had happened at the party leaders meeting held on 9 July and even gave the directions to the mob to reach his house.](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aabcc478.json))
 
-## All Time (2,736 Articles)
+## All Time (2,737 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **385** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **386** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **341** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
