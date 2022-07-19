@@ -1,14 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 01:18:21 (LK time)*
+*As of 2022-07-20 01:31:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
+
 ## Last Hour (5 Articles)
 
-* **3** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
+* **4** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **2** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
+* **1** daily-mirror-lk ([Countdown to end Lanka’s political vacuum has begun - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/1078d6ef.json))
 
 ## Last 3 Hours (17 Articles)
 
@@ -16,15 +20,13 @@
 
 * **5** ada-derana-lk ([TNA and six SLPP MPs pledge support for Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9434648e.json))
 
-* **3** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
+* **4** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
 * **2** lankadeepa-lk ([දෙමළ ජාතික සංධානයත් ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1db75805.json))
 
 * **1** tamil-mirror-lk ([தமிழ் தேசியக் கூட்டமைப்பு டலஸுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d2d7114.json))
 
-* **1** virakesari-lk ([தமிழ் தேசிய கூட்டமைப்பு டலஸ் அழகப்பெருமவுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fd8e215.json))
-
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (252 Articles)
 
 * **53** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
@@ -42,19 +44,19 @@
 
 * **16** news-first-lk ([Showers & thundershowers likely today (19)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6467923.json))
 
-* **5** daily-ft-lk ([Vote for a President who can realise people’s expectations: Cardinal](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91214027.json))
+* **4** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
 * **4** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,809 Articles)
+## Last Week (1,804 Articles)
 
 * **320** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
 
 * **281** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a232f028.json))
 
-* **226** daily-mirror-lk ([Unmasking of the false heroes](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ecd35625.json))
+* **225** daily-mirror-lk ([What next? - EDITORIAL](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/bafac05e.json))
 
 * **209** tamil-mirror-lk ([விமானப்படை விமானத்தில் பறந்தார் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93dbd0e7.json))
 
@@ -66,7 +68,7 @@
 
 * **88** economy-next-com ([Sri Lanka central bank’s guidance peg strengthens 95 cents; dollar shortage remains](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8fdff94.json))
 
-* **83** daily-ft-lk ([Mistral and Havells Air Fryers by Abans, all-in-one solution for gas shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235ea505.json))
+* **79** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
 * **55** island-lk ([How the celebrities reacted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7417a9d7.json))
 
@@ -76,7 +78,7 @@
 
 * **16** d-b-s-jeyaraj-com ([Acting President and Premier Ranil Wickremesinghe says  they had  received reports from the Intelligence agencies that some elements within the Aragalaya community were planning to take over and occupy the Prime Minister’s Office and the official residences of the Commanders of the Air Force, Army, and Navy/](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc54986.json))
 
-## All Time (2,750 Articles)
+## All Time (2,751 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -92,7 +94,7 @@
 
 * **189** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **175** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **176** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **140** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
