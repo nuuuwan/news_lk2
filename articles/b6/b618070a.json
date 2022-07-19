@@ -1,0 +1,504 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/news/Agriculture-Department-begins-to-distribute-urea-fertiliser-countywide/56-737691",
+  "time_ut": 1658260249,
+  "original_lang": "en",
+  "original_title": "Agriculture Department begins to distribute urea fertiliser countywide",
+  "text_idx": {
+    "en": {
+      "title": "Agriculture Department begins to distribute urea fertiliser countywide",
+      "author": "unknown",
+      "body_lines": [
+        "Says 3,000 tons of urea distributed among Agrarian Service Centres countrywide within three days",
+        "Rice yield in 2021/22 Maha season drops by 50% to 1.6 m tons due to non-availability of urea fertiliser",
+        "SL expects another shipment of 21,000 tons of urea to arrive within the next two weeks",
+        "The Department of Agriculture has distributed 3,000 tons of urea fertiliser to Agrarian Service Centres across the country within three days.",
+        "The stock was from the first batch of 44,000 tons from the total of 65,000 tons of urea fertiliser received under the Indian Credit Line commenced after it was stored at warehouses belonging to the State-owned Ceylon Fertiliser Company Ltd., and the Colombo Commercial Fertiliser Ltd.",
+        "It was reported that the paddy yield decreased rapidly due to the decision to not provide urea fertiliser during the last three seasons.",
+        "During the 2021/2022 Maha season, as farmers had to cultivate without urea fertiliser, the rice yield dropped significantly by about 50% to 1.6 million tons. Sri Lanka produces around three million tons of rice during the Maha harvesting season annually.",
+        "However, former Agriculture Minister Mahinda Amaraweera said due to the decision to provide urea fertiliser from the current Yala season, more paddy fields have been cultivated than any other season.",
+        "Former Minister Amaraweera said another ship carrying 21,000 tons of urea is scheduled to arrive in Sri Lanka within the next two weeks."
+      ],
+      "title_ents": [
+        {
+          "text": "Agriculture Department",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "3,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Agrarian Service Centres",
+            "label": "ORG"
+          },
+          {
+            "text": "three days",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2021/22 Maha season",
+            "label": "DATE"
+          },
+          {
+            "text": "50%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.6 m tons",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "21,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "the next two weeks",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "The Department of Agriculture",
+            "label": "ORG"
+          },
+          {
+            "text": "3,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Agrarian Service Centres",
+            "label": "ORG"
+          },
+          {
+            "text": "three days",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "44,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "65,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "the Indian Credit Line",
+            "label": "ORG"
+          },
+          {
+            "text": "State",
+            "label": "ORG"
+          },
+          {
+            "text": "Ceylon Fertiliser Company Ltd.",
+            "label": "ORG"
+          },
+          {
+            "text": "the Colombo Commercial Fertiliser Ltd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "the last three seasons",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "about 50%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.6 million tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "around three million tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "annually",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Agriculture",
+            "label": "ORG"
+          },
+          {
+            "text": "Mahinda Amaraweera",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Amaraweera",
+            "label": "PERSON"
+          },
+          {
+            "text": "21,000 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the next two weeks",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1 \u0db4\u0dd4\u0dbb\u0dcf \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db6\u0dd9\u0daf\u0dcf \u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0da7\u0ddc\u0db1\u0dca 3000\u0d9a\u0dca \u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0d85\u0dad\u0dbb \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dbb\u0dd2\u0db1 \u0db6\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+        "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca 2021/22 \u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc3\u0dc4\u0dbd\u0dca \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 50% \u0dc3\u0dd2\u0da7 \u0da7\u0ddc\u0db1\u0dca \u0db8\u0dd3\u0da7\u0dbb\u0dca 1.6 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dda.",
+        "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0da7\u0ddc\u0db1\u0dca 21,000\u0d9a \u0dad\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dc0\u0dca\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+        "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc0\u0dd9\u0dad \u0daf\u0dd2\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0da7\u0ddc\u0db1\u0dca 3000\u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0daf\u0dd3 \u0d87\u0dad.",
+        "\u0db8\u0dd9\u0db8 \u0dad\u0ddc\u0d9c\u0dba \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dab\u0dba \u0dbb\u0dda\u0d9b\u0dcf\u0dc0 \u0dba\u0da7\u0dad\u0dda \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0da7\u0ddc\u0db1\u0dca 65,000 \u0db1\u0dca \u0db4\u0dc5\u0db8\u0dd4 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda \u0da7\u0ddc\u0db1\u0dca 44,000 \u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0dc0\u0dd6 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0dbb\u0da2\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0dc3\u0dc4 \u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0da7 \u0d85\u0dba\u0dad\u0dca \u0d9c\u0db6\u0da9\u0dcf\u0dc0\u0dbd \u0d9c\u0db6\u0da9\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0dd2\u0dba. .",
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0d9a\u0db1\u0dca\u0db1 \u0dad\u0dd4\u0db1\u0dda\u0daf\u0dd3 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dbd\u0db6\u0dcf \u0db1\u0ddc\u0daf\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0dc0\u0dd3 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0dc1\u0dd3\u0d9d\u0dca\u200d\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d85\u0da9\u0dd4 \u0dc0\u0dd6 \u0db6\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd2\u0dba.",
+        "2021/2022 \u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0daf\u0dd3 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca\u0da7 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0 \u0dc0\u0d9c\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0daf\u0dd4 \u0dc0\u0dd6 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0dc3\u0dc4\u0dbd\u0dca \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0da7\u0ddc\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.6 \u0dc3\u0dd2\u0da7 50% \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0db8\u0dab \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0dbd\u0dd9\u0dc3 \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd4\u0dab\u0dd2. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0 \u0db8\u0dc4 \u0d85\u0dc3\u0dca\u0dc0\u0db1\u0dd4 \u0db1\u0dd9\u0dbd\u0db1 \u0dc3\u0db8\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0dc4\u0dbd\u0dca \u0da7\u0ddc\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db4\u0db8\u0dab \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0d85\u0db8\u0dbb\u0dc0\u0dd3\u0dbb \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda \u0db8\u0dd9\u0dc0\u0dbb \u0dba\u0dbd \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc3\u0dd2\u0da7 \u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0da7 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0db1\u0dca\u0db1\u0dba\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0dca \u0d9a\u0dd4\u0db9\u0dd4\u0dbb\u0dd4 \u0dc0\u0d9c\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0da7\u0ddc\u0db1\u0dca 21,000\u0d9a\u0dca \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0dad\u0dc0\u0dad\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a \u0dad\u0dd4\u0dc5 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0db6\u0dc0 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0d85\u0db8\u0dbb\u0dc0\u0dd3\u0dbb \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 3,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2021/22 \u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "50%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 1.6 m",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 21,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 3,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dc3\u0dda\u0dc0\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 44,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 65,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dab\u0dba \u0dbb\u0dda\u0d9b\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0db8\u0dcf\u0d9c\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd3\u0db8\u0dcf\u0dc3\u0dc4\u0dd2\u0dad Colombo Commercial Fertilizer.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dcf\u0dbb \u0dad\u0dd4\u0db1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "50% \u0db4\u0db8\u0dab",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.6 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db4\u0db8\u0dab",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dbb\u0dca\u0db8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0d85\u0db8\u0dbb\u0dc0\u0dd3\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0db8\u0dbb\u0dc0\u0dd3\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 21,000 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba9\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bc8 \u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b95\u0bae\u0ba8\u0bb2 \u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 3,000 \u0b9f\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+        "\u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd 2021/22 \u0bae\u0bb9\u0bbe \u0baa\u0bb0\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd 50% \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 1.6 \u0bae\u0bc0 \u0b9f\u0ba9\u0bcd\u0ba9\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 21,000 \u0b9f\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 SL \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+        "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b95\u0bae\u0ba8\u0bb2 \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 3,000 \u0ba4\u0bca\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0bae\u0bbe\u0ba9 65,000 \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf 44,000 \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0b9f\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bca\u0bae\u0bb0\u0bcd\u0bb7\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0b9f\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0b95\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1. .",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0bc1\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0ba8\u0bc6\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2021/2022 \u0bae\u0bb9\u0bbe \u0baa\u0bb0\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0baf\u0bbf\u0bb0\u0bbf\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd, \u0ba8\u0bc6\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0b95\u0ba3\u0bbf\u0b9a\u0bae\u0bbe\u0b95 50% \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 1.6 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb0\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4\u0bae\u0bcd \u0bae\u0b95\u0bbe \u0b85\u0bb1\u0bc1\u0bb5\u0b9f\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0ba8\u0b9f\u0baa\u0bcd\u0baa\u0bc1 \u0baf\u0bbe\u0bb2 \u0baa\u0bb0\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b89\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95, \u0b8f\u0ba9\u0bc8\u0baf \u0baa\u0bb0\u0bc1\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f \u0b85\u0ba4\u0bbf\u0b95\u0bb3\u0bb5\u0bc1 \u0ba8\u0bc6\u0bb1\u0bcd\u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 21,000 \u0ba4\u0bca\u0ba9\u0bcd \u0baf\u0bc2\u0bb0\u0bbf\u0baf\u0bbe\u0bb5\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "3,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "2021/22 \u0bae\u0b95\u0bbe \u0b9a\u0bc0\u0b9a\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "50%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.6 \u0bae\u0bc0 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "21,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "3,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "44,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "65,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb2\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0bb2\u0bcb\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0b9f\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0bae\u0bb0\u0bcd\u0bb7\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0b9f\u0bbf\u0bb2\u0bc8\u0b9a\u0bb0\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd.",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0bc1\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 50%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.6 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bcb\u0bb1\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "21,000 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

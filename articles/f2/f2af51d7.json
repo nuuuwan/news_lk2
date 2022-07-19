@@ -1,0 +1,330 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/news/Six-COVID-19-fatalities-raise-death-toll-to-13-674/56-737693",
+  "time_ut": 1658260378,
+  "original_lang": "en",
+  "original_title": "Six COVID-19 fatalities raise death toll to 13,674",
+  "text_idx": {
+    "en": {
+      "title": "Six COVID-19 fatalities raise death toll to 13,674",
+      "author": "unknown",
+      "body_lines": [
+        "Health authorities yesterday confirmed six persons succumbed to COVID-19 on Monday, raising the country\u2019s death toll to 16,531.",
+        "As per the Department of Government Information, three fatalities confirmed on Monday were all females. Of them, two were over the age of 60 years and one between the age of 30-59 years. Epidemiology Unit data shows that 9,330 of the fatalities are male and 7,201 fatalities are female.",
+        "It also said that 76.26% of the total fatalities were over the age of 60, 22.42% were aged between 30 and 59 years, and 1.32% were below the age of 30."
+      ],
+      "title_ents": [
+        {
+          "text": "Six",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "13,674",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "six",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "16,531",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the Department of Government Information",
+            "label": "ORG"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Monday",
+            "label": "DATE"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the age of 60 years",
+            "label": "DATE"
+          },
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30-59 years",
+            "label": "DATE"
+          },
+          {
+            "text": "Epidemiology Unit",
+            "label": "ORG"
+          },
+          {
+            "text": "9,330",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,201",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "76.26%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the age of 60",
+            "label": "DATE"
+          },
+          {
+            "text": "22.42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "between 30 and 59 years",
+            "label": "DATE"
+          },
+          {
+            "text": "1.32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the age of 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "COVID-19 \u0db8\u0dbb\u0dab \u0dc4\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 13,674 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0db1\u0d82\u0dc0\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0db6\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0d8a\u0dba\u0dda \u0dc3\u0db3\u0dd4\u0daf\u0dcf COVID-19 \u0da7 \u0d9c\u0ddc\u0daf\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0dc4\u0dba \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dc5 \u0d85\u0dad\u0dbb, \u0dbb\u0da7\u0dda \u0db8\u0dbb\u0dab \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 16,531 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0db1\u0d82\u0dc0\u0dcf \u0d87\u0dad.",
+        "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0d85\u0db1\u0dd4\u0dc0, \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0dc0\u0dd6 \u0db8\u0dbb\u0dab \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0dba. \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc3\u0dc4 \u0d91\u0d9a\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dd4 \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30-59 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0dba. \u0dc0\u0dc3\u0d82\u0d9c\u0dad \u0dbb\u0ddd\u0d9c \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0d92\u0d9a\u0d9a\u0dba\u0dda \u0daf\u0dad\u0dca\u0dad \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dbb\u0dab\u0dc0\u0dbd\u0dd2\u0db1\u0dca 9,330 \u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db8\u0dbb\u0dab 7,201 \u0d9a\u0dca \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0dc3\u0db8\u0dc3\u0dca\u0dad \u0db8\u0dbb\u0dab\u0dc0\u0dbd\u0dd2\u0db1\u0dca 76.26% \u0d9a\u0dca \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d85\u0dba \u0dc0\u0db1 \u0d85\u0dad\u0dbb 22.42% \u0d9a\u0dca \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30 \u0dad\u0dca 59 \u0dad\u0dca \u0d85\u0dad\u0dbb \u0d85\u0dba \u0dc0\u0db1 \u0d85\u0dad\u0dbb 1.32% \u0d9a\u0dca \u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30 \u0da7 \u0d85\u0da9\u0dd4 \u0d85\u0dba \u0db6\u0dc0 \u0daf \u0d91\u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc4\u0dba",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "13,674 \u0d9a\u0dd2",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc4\u0dba",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "16,531 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0da2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd2 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0db3\u0dd4\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30-59",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0d82\u0d9c\u0dad \u0dbb\u0ddd\u0d9c \u0d92\u0d9a\u0d9a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "9,330 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,201 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "76.26%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 60 \u0dba\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "22.42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30 \u0dc3\u0dc4 59 \u0d85\u0dad\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "1.32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0dba\u0dc3 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b86\u0bb1\u0bc1 COVID-19 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 13,674 \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0bb1\u0bc1 \u0baa\u0bc7\u0bb0\u0bcd COVID-19 \u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b9f\u0bbf\u0baa\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd, \u0b87\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 16,531 \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+        "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bbf, \u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd 60 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd 30-59 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. \u0b87\u0bb1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 9,330 \u0baa\u0bc7\u0bb0\u0bcd \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, 7,201 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0ba4\u0bb0\u0bb5\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 76.26% 60 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, 22.42% \u0baa\u0bc7\u0bb0\u0bcd 30 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd 59 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd, 1.32% \u0baa\u0bc7\u0bb0\u0bcd 30 \u0bb5\u0baf\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc1 \u0b95\u0bc2\u0bb1\u0bbf\u0baf\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b86\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "13,674",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b86\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "16,531",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0b9f\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "60 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "30-59 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "9,330",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7,201",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "76.26%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0ba4\u0bc1 60",
+            "label": "DATE"
+          },
+          {
+            "text": "22.42%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "30 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 59 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "1.32%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb5\u0baf\u0ba4\u0bc1 30",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

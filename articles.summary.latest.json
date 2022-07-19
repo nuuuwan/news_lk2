@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Health-authorities-warn-of-30-40-spike-in-COVID-cases/56-737694",
+    "time_ut": 1658260578,
+    "original_lang": "en",
+    "original_title": "Health authorities warn of 30%-40% spike in COVID cases",
+    "file_name": "/tmp/news_lk2/articles/1e/1e3760dc.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Six-COVID-19-fatalities-raise-death-toll-to-13-674/56-737693",
+    "time_ut": 1658260378,
+    "original_lang": "en",
+    "original_title": "Six COVID-19 fatalities raise death toll to 13,674",
+    "file_name": "/tmp/news_lk2/articles/f2/f2af51d7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Third-batch-of-China-s-grant-rice-arrives/56-737692",
+    "time_ut": 1658260345,
+    "original_lang": "en",
+    "original_title": "Third batch of China\u2019s grant rice arrives",
+    "file_name": "/tmp/news_lk2/articles/30/300def0e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Agriculture-Department-begins-to-distribute-urea-fertiliser-countywide/56-737691",
+    "time_ut": 1658260249,
+    "original_lang": "en",
+    "original_title": "Agriculture Department begins to distribute urea fertiliser countywide",
+    "file_name": "/tmp/news_lk2/articles/b6/b618070a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/If-only-those-walls-could-talk/14-737690",
     "time_ut": 1658259720,
     "original_lang": "en",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "The Need To Appoint An independent President & Its Process",
     "file_name": "/tmp/news_lk2/articles/eb/ebef1b4c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7-\u0dc4\u0dcf\u0db1\u0dd2-\u0d9a\u0dbb\u0dbd\u0dcf/101-616478",
-    "time_ut": 1657891108,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0dbd\u0dd2\u0dba\u0d9c\u0dc4 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dba\u0da7 \u0dc4\u0dcf\u0db1\u0dd2 \u0d9a\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/98/98a1bf31.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0dba-\u0db1\u0dd1-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-616477",
-    "time_ut": 1657890805,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd2\u0dba \u0db1\u0dd1 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf\u0da7 \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/01/0183ced1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1/1-616476",
-    "time_ut": 1657890193,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9a\u0db8 \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/8b/8b32970c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/15/a-leader-with-consensus-needed-patali/",
-    "time_ut": 1657889700,
-    "original_lang": "en",
-    "original_title": "A Leader with consensus needed: Patali",
-    "file_name": "/tmp/news_lk2/articles/e3/e3d9808d.json"
   }
 ]
