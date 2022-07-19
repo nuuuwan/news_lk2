@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 02:43:04 (LK time)*
+*As of 2022-07-20 02:57:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
-
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (17 Articles)
 
 * **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **4** daily-mirror-lk ([Dullas, Sajith agree to fulfill TNA demands in return for support](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c9c666.json))
+* **3** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
 
-* **3** ada-derana-lk ([Suspended postal services to three countries resume](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d09748b6.json))
+* **2** ada-derana-lk ([India worried about Lanka crisis spillover: Jaishankar at all-party meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d93371c5.json))
 
-* **1** tamil-mirror-lk ([தமிழ் தேசியக் கூட்டமைப்பு டலஸுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d2d7114.json))
+## Last 24 Hours (259 Articles)
 
-## Last 24 Hours (258 Articles)
-
-* **54** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
+* **55** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
 * **40** lankadeepa-lk ([ජනාධිපති ධුරයට නම් කැඳවීම  අද උදේ  10.00ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbd37d13.json))
 
@@ -42,9 +36,9 @@
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,805 Articles)
+## Last Week (1,806 Articles)
 
-* **321** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
+* **322** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
 
 * **281** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a232f028.json))
 
@@ -70,11 +64,11 @@
 
 * **15** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
-## All Time (2,761 Articles)
+## All Time (2,762 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **388** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **389** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **345** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
