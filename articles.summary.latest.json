@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/TPA-ACMC-SLMC-to-back-Dullas/108-241390",
+    "time_ut": 1658244224,
+    "original_lang": "en",
+    "original_title": "TPA, ACMC, SLMC to back Dullas",
+    "file_name": "/tmp/news_lk2/articles/d5/d5d3910a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131838",
+    "time_ut": 1658243665,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0ba4\u0bb5 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/83/83343d46.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0db4\u0dd0\u0dba-3-\u0dba\u0dd2-\u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4-40-\u0d9a\u0dca/101-616702",
     "time_ut": 1658242605,
@@ -57,19 +73,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SLFP-decides-to-vote-for-Dullas/342-241387",
+    "url": "https://www.dailymirror.lk/breaking_news/SLFP-decides-to-vote-for-Dullas/108-241387",
     "time_ut": 1658240290,
     "original_lang": "en",
     "original_title": "SLFP decides to vote for Dullas",
-    "file_name": "/tmp/news_lk2/articles/6c/6cf84235.json"
+    "file_name": "/tmp/news_lk2/articles/35/35b1b9cf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SLPP-youth-wing-to-vote-for-Ranil-to-presidency/342-241386",
+    "url": "https://www.dailymirror.lk/breaking_news/SLPP-youth-wing-to-vote-for-Ranil-to-presidency/108-241386",
     "time_ut": 1658240128,
     "original_lang": "en",
     "original_title": "SLPP youth wing to vote for Ranil to presidency",
-    "file_name": "/tmp/news_lk2/articles/47/478d4b57.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6b05cb15.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -273,11 +289,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Suspended-postal-services-resume/342-241385",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspended-postal-services-resume/108-241385",
     "time_ut": 1658233717,
     "original_lang": "en",
     "original_title": "Suspended postal services resume",
-    "file_name": "/tmp/news_lk2/articles/8b/8b0257c4.json"
+    "file_name": "/tmp/news_lk2/articles/da/da27c7e4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0ddd\u0dbb\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0",
     "file_name": "/tmp/news_lk2/articles/a0/a07c22d9.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0dd0\u0daf\u0dd2\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0d85\u0dad\u0dd2\u0d9c\u0dbb\u0dd4-\u0db6\u0dd1---\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0ddc\u0da9\u0dd2\u0dba\u0dad\u0dca-\u0db8\u0dd2\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db1\u0dd1/11-395456",
-    "time_ut": 1657878029,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0dd0\u0daf\u0dd2\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0d85\u0dad\u0dd2\u0d9c\u0dbb\u0dd4 \u0db6\u0dd1 - \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0ddc\u0da9\u0dd2\u0dba\u0dad\u0dca \u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/0d/0d486417.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0db4\u0dad\u0dca\u0dc0\u0dd6\u0dba\u0dda-\u0d9a\u0dd9\u0da7\u0dd2-\u0d9a\u0dbd\u0d9a\u0da7\u0dba\u0dd2/11-395455",
-    "time_ut": 1657877583,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca\u0dc0\u0dd6\u0dba\u0dda \u0d9a\u0dd9\u0da7\u0dd2 \u0d9a\u0dbd\u0d9a\u0da7\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6b/6beb5234.json"
   }
 ]
