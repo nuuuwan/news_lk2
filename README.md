@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 03:29:15 (LK time)*
+*As of 2022-07-20 03:36:54 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (12 Articles)
 
-* **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
+* **11** daily-ft-lk ([Central Bank, its independence and us](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de98d92c.json))
 
-* **3** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
+* **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
 ## Last 24 Hours (259 Articles)
 
