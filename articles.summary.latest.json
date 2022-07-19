@@ -33,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Bus-fare-reduced-by-2-23-from-tonight-Minimum-fare-is-Rs-38/342-241373",
+    "url": "https://www.dailymirror.lk/breaking_news/Bus-fare-reduced-by-2-23-from-tonight-Minimum-fare-is-Rs-38/108-241373",
     "time_ut": 1658213415,
     "original_lang": "en",
     "original_title": "Bus fare reduced by 2.23% from tonight, Minimum fare is Rs.38",
-    "file_name": "/tmp/news_lk2/articles/fd/fd4faa15.json"
+    "file_name": "/tmp/news_lk2/articles/4b/4be9ff0b.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -62,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bc8  \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9\u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd -  \u0b9c\u0bbf.\u0b8e\u0bb2\u0bcd.\u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
     "file_name": "/tmp/news_lk2/articles/99/99dc243a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba-\u0d9c\u0dd0\u0db1-\u0db4\u0dd0\u0dc0\u0dad\u0dd2-\u0dbb\u0da2\u0dba-\u0dc3\u0dad\u0dca\u200d\u0dba-\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dc5\u0dcf/101-616674",
+    "time_ut": 1658212939,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0d9c\u0dd0\u0db1 \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0dbb\u0da2\u0dba \u0dc3\u0dad\u0dca\u200d\u0dba \u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dc5\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c6/c64a9524.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -97,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dc0\u0db8-\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd4:-2\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/1-616670",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0db8-\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dbb\u0dd4:-2\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/101-616670",
     "time_ut": 1658212031,
     "original_lang": "si",
     "original_title": "\u0d85\u0dc0\u0db8 \u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dbb\u0dd4: 2\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6f/6f134216.json"
+    "file_name": "/tmp/news_lk2/articles/dd/dd02ecfd.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -145,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SLPP-ready-to-accept-Sajith-as-PM-GL/108-241372",
+    "url": "https://www.dailymirror.lk/latest_news/SLPP-ready-to-accept-Sajith-as-PM-GL/342-241372",
     "time_ut": 1658211011,
     "original_lang": "en",
     "original_title": "SLPP ready to accept Sajith as PM: GL",
-    "file_name": "/tmp/news_lk2/articles/f9/f9016f99.json"
+    "file_name": "/tmp/news_lk2/articles/a2/a2048945.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -217,11 +225,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/101-616669",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7-\u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8-\u0d89\u0dc0\u0dad\u0da7/1-616669",
     "time_ut": 1658209940,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba\u0da7 \u0db1\u0ddc\u0d9c\u0dd9\u0db1\u0db8 \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/5c/5cc91432.json"
+    "file_name": "/tmp/news_lk2/articles/0e/0e28cf75.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -241,19 +249,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0d85\u0dc0\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0db8\u0dd4\u0dbb\u0d9a\u0dcf\u0dc0\u0dbd\u0dca/101-616667",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0d85\u0dc0\u0da7-\u0daf\u0dd0\u0da9\u0dd2-\u0db8\u0dd4\u0dbb\u0d9a\u0dcf\u0dc0\u0dbd\u0dca/11-616667",
     "time_ut": 1658209243,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d85\u0dc0\u0da7 \u0daf\u0dd0\u0da9\u0dd2 \u0db8\u0dd4\u0dbb\u0d9a\u0dcf\u0dc0\u0dbd\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fa/fa43462c.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cc152b04.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sajith-to-be-made-PM-if-Dullas-elected-Prez-SJB/342-241371",
+    "url": "https://www.dailymirror.lk/breaking_news/Sajith-to-be-made-PM-if-Dullas-elected-Prez-SJB/108-241371",
     "time_ut": 1658209129,
     "original_lang": "en",
     "original_title": "Sajith to be made PM if Dullas elected Prez: SJB",
-    "file_name": "/tmp/news_lk2/articles/83/833782c9.json"
+    "file_name": "/tmp/news_lk2/articles/82/8216c5b1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -337,11 +345,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4-10-\u0dc3\u0dd2\u0da7/1-616665",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4-10-\u0dc3\u0dd2\u0da7/101-616665",
     "time_ut": 1658206644,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10 \u0dc3\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a7/a742be06.json"
+    "file_name": "/tmp/news_lk2/articles/ac/ac1923d9.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -417,11 +425,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Security-beefed-up-around-parliament/342-241366",
+    "url": "https://www.dailymirror.lk/breaking_news/Security-beefed-up-around-parliament/108-241366",
     "time_ut": 1658205962,
     "original_lang": "en",
     "original_title": "Security beefed up around parliament",
-    "file_name": "/tmp/news_lk2/articles/b8/b835f1e4.json"
+    "file_name": "/tmp/news_lk2/articles/17/17cf9828.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -441,11 +449,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dcf\u0db8-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db6\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-616661",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0db8-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db6\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-616661",
     "time_ut": 1658205514,
     "original_lang": "si",
     "original_title": "\u0db1\u0dcf\u0db8 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0db6\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fd/fd3811d1.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f2848b33.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -465,11 +473,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Opposition-Leader-Sajith-Premadasa-withdraws-from-Presidential-nomination/342-241365",
+    "url": "https://www.dailymirror.lk/breaking_news/Opposition-Leader-Sajith-Premadasa-withdraws-from-Presidential-nomination/108-241365",
     "time_ut": 1658205414,
     "original_lang": "en",
     "original_title": "Opposition Leader Sajith Premadasa withdraws from Presidential nomination",
-    "file_name": "/tmp/news_lk2/articles/62/623ff8be.json"
+    "file_name": "/tmp/news_lk2/articles/fc/fc150d3c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -481,11 +489,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0db4\u0dcf\u0dbb-\u0d9a\u0dd0\u0db4\u0dd3\u0db8/2-616660",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0db4\u0dcf\u0dbb-\u0d9a\u0dd0\u0db4\u0dd3\u0db8/26-616660",
     "time_ut": 1658205164,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0db4\u0dcf\u0dbb \u0d9a\u0dd0\u0db4\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/13/13604a6e.json"
+    "file_name": "/tmp/news_lk2/articles/85/85833337.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -505,11 +513,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dba\u0dd2-/101-616659",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dba\u0dd2-/1-616659",
     "time_ut": 1658204129,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/02/028067af.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0694f38.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -529,27 +537,27 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb-\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba-\u0d87\u0dad\u0dd4\u0db5-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/1-616657",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb-\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba-\u0d87\u0dad\u0dd4\u0db5-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/101-616657",
     "time_ut": 1658203643,
     "original_lang": "si",
     "original_title": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb,\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0d87\u0dad\u0dd4\u0db5 \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/cc/ccd0f26b.json"
+    "file_name": "/tmp/news_lk2/articles/18/189a5600.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0d85\u0d9c\u0dcf\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0da7-\u0db8\u0dd4\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dd0\u0dc0\u0ddc\u0db8-\u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d95\u0db1\u0dd1/26-616656",
+    "url": "https://www.lankadeepa.lk/features/\u0d85\u0d9c\u0dcf\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0dbb\u0da7-\u0db8\u0dd4\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1-\u0dc3\u0dd0\u0dc0\u0ddc\u0db8-\u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d95\u0db1\u0dd1/2-616656",
     "time_ut": 1658203555,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0dcf\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0da7 \u0db8\u0dd4\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1 \u0dc3\u0dd0\u0dc0\u0ddc\u0db8 \u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/e3/e336e014.json"
+    "file_name": "/tmp/news_lk2/articles/f0/f0d63074.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0da7-\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba-\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0dba\u0dd2/101-616655",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0da7-\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba-\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0dba\u0dd2/1-616655",
     "time_ut": 1658203306,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba \u0d9a\u0db1\u0dca\u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/48/48e4060d.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d6536e98.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -614,14 +622,6 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc8\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc2\u0b9f\u0bbf \u0bae\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u2013 \u0b9a\u0bbf\u0b8e\u0ba9\u0bcd\u0b8e\u0ba9\u0bcd\u0ba9\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf",
     "file_name": "/tmp/news_lk2/articles/e2/e28c17ae.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131747",
-    "time_ut": 1658200088,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/13/13999668.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -713,11 +713,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/70-of-Sri-Lankans-believe-that-the-Executive-Presidency-should-be-abolished/342-241361",
+    "url": "https://www.dailymirror.lk/breaking_news/70-of-Sri-Lankans-believe-that-the-Executive-Presidency-should-be-abolished/108-241361",
     "time_ut": 1658193581,
     "original_lang": "en",
     "original_title": "70% of Sri Lankans believe that the Executive Presidency should be abolished",
-    "file_name": "/tmp/news_lk2/articles/6f/6f05c3e3.json"
+    "file_name": "/tmp/news_lk2/articles/30/30a65610.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
@@ -856,14 +856,6 @@
     "file_name": "/tmp/news_lk2/articles/04/04098db0.json"
   },
   {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4-\u0b85\u0bb3\u0bb5\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-300685",
-    "time_ut": 1658167393,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4 \u0b85\u0bb3\u0bb5\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/45/45d7e81d.json"
-  },
-  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/The-people-s-uprising-and-the-challenges-of-transition-in-Sri-Lanka/14-737642",
     "time_ut": 1658167206,
@@ -878,6 +870,14 @@
     "original_lang": "en",
     "original_title": "Rebuilding of the nation by its youth (Aragalaya)",
     "file_name": "/tmp/news_lk2/articles/93/9307a13b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4-\u0b85\u0bb3\u0bb5\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-300684",
+    "time_ut": 1658166796,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4 \u0b85\u0bb3\u0bb5\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/9f/9ff456ee.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -913,11 +913,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Israels-Arkia-considering-to-operate-flights-to-Sri-Lanka/273-241329",
+    "url": "https://www.dailymirror.lk/latest_news/Israels-Arkia-considering-to-operate-flights-to-Sri-Lanka/342-241329",
     "time_ut": 1658165336,
     "original_lang": "en",
     "original_title": "Israel\u2019s Arkia considering to operate flights to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/75/75e031f0.json"
+    "file_name": "/tmp/news_lk2/articles/6e/6ecdc9d2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1033,11 +1033,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Isipathana-beat-St-Peters/342-241316",
+    "url": "https://www.dailymirror.lk/caption_story/Isipathana-beat-St-Peters/110-241316",
     "time_ut": 1658161240,
     "original_lang": "en",
     "original_title": "Isipathana beat St. Peter\u2019s",
-    "file_name": "/tmp/news_lk2/articles/e8/e8e808e9.json"
+    "file_name": "/tmp/news_lk2/articles/db/db69ca41.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1049,11 +1049,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-against-Acting-Prez/342-241315",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-against-Acting-Prez/110-241315",
     "time_ut": 1658160161,
     "original_lang": "en",
     "original_title": "Protest against Acting Prez...",
-    "file_name": "/tmp/news_lk2/articles/19/1951bf8f.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4ce6c8f3.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -1073,19 +1073,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7-80-000\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0dc0\u0dd9\u0dbd\u0dcf/101-616644",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7-80-000\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0dc0\u0dd9\u0dbd\u0dcf/1-616644",
     "time_ut": 1658159564,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba \u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7 80,000\u0d9a\u0dca \u0dc0\u0dd0\u0dba \u0dc0\u0dd9\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/f3/f3b3469c.json"
+    "file_name": "/tmp/news_lk2/articles/90/9034936d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/342-241314",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/108-241314",
     "time_ut": 1658159005,
     "original_lang": "en",
     "original_title": "CPC filling stations to dispense fuel from July 21 under QR Code, vehicle\u2019s last number: Fuel Station Owners",
-    "file_name": "/tmp/news_lk2/articles/9c/9ce0447a.json"
+    "file_name": "/tmp/news_lk2/articles/7a/7a0e7292.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1161,11 +1161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9a\u0dca\u0d9a\u0dbb-\u0dc4\u0dad\u0d9a-\u0dc0\u0db8\u0dca\u0db6\u0da7\u0dd4-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0db8-\u0d9a\u0dd4\u0dab\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-616641",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9a\u0dca\u0d9a\u0dbb-\u0dc4\u0dad\u0d9a-\u0dc0\u0db8\u0dca\u0db6\u0da7\u0dd4-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0db8-\u0d9a\u0dd4\u0dab\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-616641",
     "time_ut": 1658157706,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9a\u0dca\u0d9a\u0dbb \u0dc4\u0dad\u0d9a \u0dc0\u0db8\u0dca\u0db6\u0da7\u0dd4 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dda\u0db8 \u0d9a\u0dd4\u0dab\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/49/491e0d56.json"
+    "file_name": "/tmp/news_lk2/articles/db/db18ab51.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -1185,19 +1185,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0dc0\u0dd2\u0dbd\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda-\u0dc0\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dcf-\u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d85\u0db3\u0ddd\u0db1\u0dcf\u0dc0/101-616640",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4\u0dc0\u0dd2\u0dbd\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda-\u0dc0\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dcf-\u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0d85\u0db3\u0ddd\u0db1\u0dcf\u0dc0/1-616640",
     "time_ut": 1658157272,
     "original_lang": "si",
     "original_title": "\u0db8\u0dc4\u0dc0\u0dd2\u0dbd\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda \u0dc0\u0da7\u0dca\u0da7\u0d9a\u0dca\u0d9a\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0d85\u0db3\u0ddd\u0db1\u0dcf\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/72/72de5fd1.json"
+    "file_name": "/tmp/news_lk2/articles/84/846d068d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0db8\u0dd3\u0da7-\u0dc0\u0da9\u0dcf-\u0dc3\u0dd2\u0dad\u0dd2-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/1-616639",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0db8\u0dd3\u0da7-\u0dc0\u0da9\u0dcf-\u0dc3\u0dd2\u0dad\u0dd2-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/101-616639",
     "time_ut": 1658156620,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0db8\u0dd3\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dd2\u0dad\u0dd2 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/aa/aa4249ed.json"
+    "file_name": "/tmp/news_lk2/articles/29/299c64be.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1233,11 +1233,11 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83727/procedure-of-electing-a-president-by-parliament-explained-",
+    "url": "http://www.adaderana.lk/news/83727/procedure-of-electing-a-president-by-parliament-explained",
     "time_ut": 1658154300,
     "original_lang": "en",
     "original_title": "Procedure of electing a President by parliament explained",
-    "file_name": "/tmp/news_lk2/articles/5c/5cf8c370.json"
+    "file_name": "/tmp/news_lk2/articles/c5/c54ab16f.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -1257,11 +1257,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/342-241311",
+    "url": "https://www.dailymirror.lk/breaking_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/108-241311",
     "time_ut": 1658152853,
     "original_lang": "en",
     "original_title": "Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman",
-    "file_name": "/tmp/news_lk2/articles/e9/e936cc98.json"
+    "file_name": "/tmp/news_lk2/articles/69/69fa3c20.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -1337,19 +1337,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83726/transport-minister-directs-ntc-to-reduce-bus-fares",
-    "time_ut": 1658148840,
-    "original_lang": "en",
-    "original_title": "Transport Minister directs NTC to reduce bus fares",
-    "file_name": "/tmp/news_lk2/articles/c1/c1c17e4e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83726/transport-minister-directs-to-reduce-bus-fares",
     "time_ut": 1658148840,
     "original_lang": "en",
     "original_title": "Transport Minister directs to reduce bus fares",
     "file_name": "/tmp/news_lk2/articles/81/815121cc.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83726/transport-minister-directs-ntc-to-reduce-bus-fares",
+    "time_ut": 1658148840,
+    "original_lang": "en",
+    "original_title": "Transport Minister directs NTC to reduce bus fares",
+    "file_name": "/tmp/news_lk2/articles/c1/c1c17e4e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1361,11 +1361,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca-\u0d8b\u0dab\u0dca\u0da9-\u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dad\u0dca-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf-\u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7/1-616635",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca-\u0d8b\u0dab\u0dca\u0da9-\u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dad\u0dca-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf-\u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7/101-616635",
     "time_ut": 1658147735,
     "original_lang": "si",
     "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca \u0d8b\u0dab\u0dca\u0da9 \u0dc3\u0d9f\u0dc0\u0dcf\u0d9c\u0dad\u0dca \u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf \u0db4\u0dd9\u0dbb\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0da7",
-    "file_name": "/tmp/news_lk2/articles/50/50cbccdc.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f9f97a65.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1425,19 +1425,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Freighted-petrol-undergoes-quality-sampling-unloading-tomorrow-Minister/108-241309",
-    "time_ut": 1658145738,
-    "original_lang": "en",
-    "original_title": "Freighted petrol undergoes quality sampling, unloading tomorrow: Minister",
-    "file_name": "/tmp/news_lk2/articles/54/54c8c104.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Two-diesel-cargos-being-discharged-Minister/342-241309",
     "time_ut": 1658145738,
     "original_lang": "en",
     "original_title": "Two diesel cargos being discharged: Minister",
     "file_name": "/tmp/news_lk2/articles/6a/6a4fa543.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Freighted-petrol-undergoes-quality-sampling-unloading-tomorrow-Minister/108-241309",
+    "time_ut": 1658145738,
+    "original_lang": "en",
+    "original_title": "Freighted petrol undergoes quality sampling, unloading tomorrow: Minister",
+    "file_name": "/tmp/news_lk2/articles/54/54c8c104.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1489,11 +1489,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0dda-\u0d85\u0db8\u0dd4-\u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd-\u0dc3\u0dd3-\u0dc3\u0dd3-\u0da9\u0dd3\u0dba\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/1-616631",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0dda-\u0d85\u0db8\u0dd4-\u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd-\u0dc3\u0dd3-\u0dc3\u0dd3-\u0da9\u0dd3\u0dba\u0da7-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/101-616631",
     "time_ut": 1658144780,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0dda \u0d85\u0db8\u0dd4 \u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd \u0dc3\u0dd3.\u0dc3\u0dd3.\u0da9\u0dd3\u0dba\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/0a/0a800152.json"
+    "file_name": "/tmp/news_lk2/articles/83/83c50c7a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1537,11 +1537,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/BASL-urges-Acting-President-to-revoke-Emergency-Regulation/342-241308",
+    "url": "https://www.dailymirror.lk/breaking_news/BASL-urges-Acting-President-to-revoke-Emergency-Regulation/108-241308",
     "time_ut": 1658144255,
     "original_lang": "en",
     "original_title": "BASL urges Acting President to revoke Emergency Regulation",
-    "file_name": "/tmp/news_lk2/articles/55/555af3d1.json"
+    "file_name": "/tmp/news_lk2/articles/1d/1dd87d28.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1601,11 +1601,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Has-Sajith-and-Dullas-struck-a-deal/342-241306",
+    "url": "https://www.dailymirror.lk/top_story/Has-Sajith-and-Dullas-struck-a-deal/155-241306",
     "time_ut": 1658143478,
     "original_lang": "en",
     "original_title": "Has Sajith and Dullas struck a deal?",
-    "file_name": "/tmp/news_lk2/articles/0e/0e37e8fc.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b09f1fb4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1665,11 +1665,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1\u0dba\u0dd2/1-616628",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1\u0dba\u0dd2/101-616628",
     "time_ut": 1658142111,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dba\u0db1\u0dca\u0db1\u0dda \u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ee/eed87e3b.json"
+    "file_name": "/tmp/news_lk2/articles/d6/d69c1f0a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1689,19 +1689,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0dc0\u0dd3\u0db8-\u0db8\u0dd2\u0dbd\u0da7-\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7-\u0db8\u0dd2\u0dbd-\u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1/101-616627",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0dc0\u0dd3\u0db8-\u0db8\u0dd2\u0dbd\u0da7-\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7-\u0db8\u0dd2\u0dbd-\u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1/1-616627",
     "time_ut": 1658141930,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0dc0\u0dd3\u0db8 \u0db8\u0dd2\u0dbd\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7 \u0db8\u0dd2\u0dbd \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/2f/2fb1a00d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc7\u0bb5\u0bb2\u0bcd-\u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd/175-300651",
-    "time_ut": 1658141748,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/42/42e5a44d.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d53ba96.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1710,6 +1702,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/84/84fc7a73.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc7\u0bb5\u0bb2\u0bcd-\u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd/175-300651",
+    "time_ut": 1658141748,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/42/42e5a44d.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1753,11 +1753,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7-\u0db4\u0dcf-\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7-\u0d89\u0da9\u0d9a\u0dca/101-616624",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7-\u0db4\u0dcf-\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7-\u0d89\u0da9\u0d9a\u0dca/1-616624",
     "time_ut": 1658140816,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7 \u0db4\u0dcf \u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7 \u0d89\u0da9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6a/6ad8e376.json"
+    "file_name": "/tmp/news_lk2/articles/2a/2aab35e9.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1817,11 +1817,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca/101-616621",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca/1-616621",
     "time_ut": 1658139375,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b8/b858667b.json"
+    "file_name": "/tmp/news_lk2/articles/5e/5e0e36d5.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1873,11 +1873,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Petition-challenging-appointment-of-Ranil-as-MP-SC-to-deliver-order-tomorrow/108-241300",
+    "url": "https://www.dailymirror.lk/latest_news/Petition-challenging-appointment-of-Ranil-as-MP-SC-to-deliver-order-tomorrow/342-241300",
     "time_ut": 1658138536,
     "original_lang": "en",
     "original_title": "Petition challenging appointment of Ranil as MP: SC to deliver order tomorrow",
-    "file_name": "/tmp/news_lk2/articles/6d/6d840495.json"
+    "file_name": "/tmp/news_lk2/articles/d9/d9515451.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1969,19 +1969,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Pregnant-mother-daughter-die-and-4-injured-in-train-accident/108-241297",
-    "time_ut": 1658135653,
-    "original_lang": "en",
-    "original_title": "Pregnant mother, daughter die and 4 injured in train accident",
-    "file_name": "/tmp/news_lk2/articles/78/789af959.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Expectant-mother-daughter-died-and-4-injured-in-train-accident/108-241297",
     "time_ut": 1658135653,
     "original_lang": "en",
     "original_title": "Expectant mother, daughter died and 4 injured in train accident",
     "file_name": "/tmp/news_lk2/articles/8b/8be64d6c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pregnant-mother-daughter-die-and-4-injured-in-train-accident/108-241297",
+    "time_ut": 1658135653,
+    "original_lang": "en",
+    "original_title": "Pregnant mother, daughter die and 4 injured in train accident",
+    "file_name": "/tmp/news_lk2/articles/78/789af959.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2041,11 +2041,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0da7-\u0da1\u0db1\u0dca\u0daf\u0dd9\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca/101-616615",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0da7-\u0da1\u0db1\u0dca\u0daf\u0dd9\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dd9\u0dbd\u0dca/1-616615",
     "time_ut": 1658134243,
     "original_lang": "si",
     "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0da7 \u0da1\u0db1\u0dca\u0daf\u0dd9\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dd9\u0dbd\u0dca",
-    "file_name": "/tmp/news_lk2/articles/e8/e8b3ae79.json"
+    "file_name": "/tmp/news_lk2/articles/59/59c1615b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2057,11 +2057,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/342-241295",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-launches-probe-into-reports-of-Rs-45mn-being-withdrawn-by-three-leading-Galle-Face-protestors/108-241295",
     "time_ut": 1658133379,
     "original_lang": "en",
     "original_title": "CID launches probe into reports of Rs. 45mn being withdrawn by three leading Galle Face protestors",
-    "file_name": "/tmp/news_lk2/articles/21/2182f8a3.json"
+    "file_name": "/tmp/news_lk2/articles/e9/e992bacf.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2121,11 +2121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db4\u0dca-\u0d91\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-21-\u0dc3\u0dd2\u0da7/101-616612",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db4\u0dca-\u0d91\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-21-\u0dc3\u0dd2\u0da7/1-616612",
     "time_ut": 1658130768,
     "original_lang": "si",
     "original_title": "\u0d87\u0db4\u0dca \u0d91\u0d9a\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 21 \u0dc3\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/25/25a49d94.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f81ef26.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2193,11 +2193,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da2\u0dd2\u0dbb-\u0dad\u0dc0-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616610",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da2\u0dd2\u0dbb-\u0dad\u0dc0-\u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-616610",
     "time_ut": 1658128594,
     "original_lang": "si",
     "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0dad\u0dc0 \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f7/f727d0d0.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7fff8d29.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2209,11 +2209,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0b9f\u0bc8/175-300640",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1-\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0b9f\u0bc8/175-300640",
     "time_ut": 1658127515,
     "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/4e/4ebde9bc.json"
+    "original_title": "\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a2/a2cedb22.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2225,11 +2225,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1-\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0b9f\u0bc8/175-300640",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba4\u0b9f\u0bc8/175-300640",
     "time_ut": 1658127515,
     "original_lang": "ta",
-    "original_title": "\u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/a2/a2cedb22.json"
+    "original_title": "\u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bc1\u0bae\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba4\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/4e/4ebde9bc.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2241,11 +2241,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/101-616608",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd0\u0db1-\u0d9a\u0dad\u0dcf-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/1-616608",
     "time_ut": 1658127188,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0d9a\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/c1/c12a9e85.json"
+    "file_name": "/tmp/news_lk2/articles/59/59caf153.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -2257,11 +2257,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2/101-616607",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda-\u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf-\u0db6\u0dda\u0dbb\u0dcf-\u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2/1-616607",
     "time_ut": 1658126953,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dda \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf \u0db6\u0dda\u0dbb\u0dcf \u0d9c\u0dd0\u0db1\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/12/127a19b1.json"
+    "file_name": "/tmp/news_lk2/articles/92/92e22368.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2281,11 +2281,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300637",
+    "url": "https://www.tamilmirror.lk/video/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/52-300637",
     "time_ut": 1658126460,
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/1a/1add41a2.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b759bac.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2305,11 +2305,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe/175-300635",
+    "url": "https://www.tamilmirror.lk/video/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-\u0baa\u0bb8\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe/52-300635",
     "time_ut": 1658126115,
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0bb8\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe?",
-    "file_name": "/tmp/news_lk2/articles/9f/9f02f131.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f821cfb.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2337,19 +2337,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db4\u0dc4\u0dc5-\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1/101-616603",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db4\u0dc4\u0dc5-\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1/1-616603",
     "time_ut": 1658125560,
     "original_lang": "si",
     "original_title": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db4\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1",
-    "file_name": "/tmp/news_lk2/articles/66/66529301.json"
+    "file_name": "/tmp/news_lk2/articles/4f/4f577fa7.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-5\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-616602",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:-5\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616602",
     "time_ut": 1658125546,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0dbb\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7: 5\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d2/d26f5418.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1a5ff69b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2377,11 +2377,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0ddd-\u0d9c\u0db1\u0dda\u0dc2\u0db1\u0dca\u0d9c\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd9\u0da7/101-616600",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0db1\u0ddd-\u0d9c\u0db1\u0dda\u0dc2\u0db1\u0dca\u0d9c\u0dda-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dc4\u0dd9\u0da7/1-616600",
     "time_ut": 1658125063,
     "original_lang": "si",
     "original_title": "\u0db8\u0db1\u0ddd \u0d9c\u0db1\u0dda\u0dc2\u0db1\u0dca\u0d9c\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dc4\u0dd9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/a1/a1a07652.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9f3040d1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2601,11 +2601,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dda-\u0db4\u0dd2\u0dc4\u0dd2-\u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/1-616587",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dda-\u0db4\u0dd2\u0dc4\u0dd2-\u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616587",
     "time_ut": 1658120015,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0dda \u0db4\u0dd2\u0dc4\u0dd2 \u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/78/78496b65.json"
+    "file_name": "/tmp/news_lk2/articles/60/603c163d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2664,12 +2664,20 @@
     "file_name": "/tmp/news_lk2/articles/84/841bb459.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/18/daily-exchange-rate-from-cbsl-15/",
+    "time_ut": 1658118060,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/b3/b39a5311.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dba\u0dd2-\u0db1\u0dc0\u0dba-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-3215\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616584",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0dba\u0dd2-\u0db1\u0dc0\u0dba-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-3215\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-616584",
     "time_ut": 1658117698,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dba\u0dd2 \u0db1\u0dc0\u0dba \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 3215\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/c9/c9d1e2a3.json"
+    "file_name": "/tmp/news_lk2/articles/44/44b1145d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2681,11 +2689,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dda-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0db6\u0dcf\u0db0\u0dcf-\u0d9a\u0dc5-\u0d9a\u0ddd\u0db4\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-616581",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dda-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0db6\u0dcf\u0db0\u0dcf-\u0d9a\u0dc5-\u0d9a\u0ddd\u0db4\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-616581",
     "time_ut": 1658116632,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dda \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbb\u0dcf\u0da2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db6\u0dcf\u0db0\u0dcf \u0d9a\u0dc5 \u0d9a\u0ddd\u0db4\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/58/5842667d.json"
+    "file_name": "/tmp/news_lk2/articles/46/4640d706.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2697,11 +2705,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd4\u0dc0\u0d9a\u0dca-\u0dbd\u0dd3\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb-\u0d9a\u0dd1-\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf-\u0daf\u0dd2\u0db1-4-\u0d9a\u0da7-\u0db4\u0dc3\u0dd4-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/101-616580",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd4\u0dc0\u0d9a\u0dca-\u0dbd\u0dd3\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb-\u0d9a\u0dd1-\u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf-\u0daf\u0dd2\u0db1-4-\u0d9a\u0da7-\u0db4\u0dc3\u0dd4-\u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2/1-616580",
     "time_ut": 1658116266,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0dd3\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb \u0d9a\u0dd1 \u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dcf \u0daf\u0dd2\u0db1 4 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0db8\u0dd2\u0dba\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/24/241ba309.json"
+    "file_name": "/tmp/news_lk2/articles/64/6422a0bb.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -2753,6 +2761,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131665",
+    "time_ut": 1658114447,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/64/64a3daab.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131664",
     "time_ut": 1658114046,
     "original_lang": "ta",
@@ -2777,11 +2793,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0daf/1-616576",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0daf/14-616576",
     "time_ut": 1658113175,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba \u0d85\u0daf",
-    "file_name": "/tmp/news_lk2/articles/52/52dc2fba.json"
+    "file_name": "/tmp/news_lk2/articles/28/28a9585c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2801,11 +2817,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/State-of-Emergency-declared-from-today/155-241264",
+    "url": "https://www.dailymirror.lk/breaking_news/State-of-Emergency-declared-from-today/108-241264",
     "time_ut": 1658112511,
     "original_lang": "en",
     "original_title": "State of Emergency declared from today",
-    "file_name": "/tmp/news_lk2/articles/e0/e02a2553.json"
+    "file_name": "/tmp/news_lk2/articles/6c/6c62447d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2896,20 +2912,20 @@
     "file_name": "/tmp/news_lk2/articles/81/8122bcba.json"
   },
   {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bank-negative-nops-reducing-flexibility-given-cb-97520/",
-    "time_ut": 1658107140,
-    "original_lang": "en",
-    "original_title": "Sri Lanka bank negative NOPs reducing, flexibility given: CB",
-    "file_name": "/tmp/news_lk2/articles/b3/b33dc77f.json"
-  },
-  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/18/public-transport-in-limbo-due-to-fuel-shortage/",
     "time_ut": 1658107140,
     "original_lang": "en",
     "original_title": "Public transport in limbo due to fuel shortage",
     "file_name": "/tmp/news_lk2/articles/cb/cbca1f9d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bank-negative-nops-reducing-flexibility-given-cb-97520/",
+    "time_ut": 1658107140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bank negative NOPs reducing, flexibility given: CB",
+    "file_name": "/tmp/news_lk2/articles/b3/b33dc77f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -3033,11 +3049,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/CB-asks-what-more-could-incentivise-remittances-than-current-Fx-and-interest-rates/273-241261",
+    "url": "https://www.dailymirror.lk/breaking_news/CB-asks-what-more-could-incentivise-remittances-than-current-Fx-and-interest-rates/108-241261",
     "time_ut": 1658089334,
     "original_lang": "en",
     "original_title": "CB asks what more could incentivise remittances than current Fx and interest rates",
-    "file_name": "/tmp/news_lk2/articles/fd/fd0def28.json"
+    "file_name": "/tmp/news_lk2/articles/22/22253f9f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -3145,11 +3161,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/LPL-postponed-to-December/108-241247",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/LPL-postponed-to-December/326-241247",
     "time_ut": 1658081543,
     "original_lang": "en",
     "original_title": "LPL postponed to December",
-    "file_name": "/tmp/news_lk2/articles/3c/3cce863f.json"
+    "file_name": "/tmp/news_lk2/articles/36/36db775b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -3185,11 +3201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db1\u0db8\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1/1-616570",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db1\u0db8\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1/101-616570",
     "time_ut": 1658075529,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db1\u0db8\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/dc/dc0f2cd6.json"
+    "file_name": "/tmp/news_lk2/articles/2c/2c9f827c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3321,11 +3337,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Gotas-finally-gone-but-how-do-we-keep-our-heads-above-water/231-241245",
+    "url": "https://www.dailymirror.lk/opinion/Gotas-finally-gone-but-how-do-we-keep-our-heads-above-water/172-241245",
     "time_ut": 1658070912,
     "original_lang": "en",
     "original_title": "Gota\u2019s finally gone; but how do we keep our heads above water?",
-    "file_name": "/tmp/news_lk2/articles/54/54e071a5.json"
+    "file_name": "/tmp/news_lk2/articles/38/384c30ff.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -3361,11 +3377,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/The-need-for-stability-amid-crisis-in-Lanka-EDITORIAL/172-241243",
+    "url": "https://www.dailymirror.lk/opinion/The-need-for-stability-amid-crisis-in-Lanka-EDITORIAL/231-241243",
     "time_ut": 1658070263,
     "original_lang": "en",
     "original_title": "The need for stability amid crisis in Lanka - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/68/68e03c52.json"
+    "file_name": "/tmp/news_lk2/articles/51/51e4c638.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -3441,11 +3457,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dc0\u0dbd\u0da7-\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0d8b\u0db4-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a\u0dca/1-616562",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dc0\u0dbd\u0da7-\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0d8b\u0db4-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a\u0dca/101-616562",
     "time_ut": 1658066826,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dc0\u0dbd\u0da7 \u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca \u0d8b\u0db4 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ef/ef455f7a.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a8e64d36.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -3473,11 +3489,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/1-616560",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5-\u0daf\u0db8\u0dba\u0dd2/101-616560",
     "time_ut": 1658066140,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5 \u0daf\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/25/25bdfb45.json"
+    "file_name": "/tmp/news_lk2/articles/c6/c6181646.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -3497,19 +3513,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ready-to-withdraw-nomination-if-two-MPs-without-future-political-agendas-appointed-as-Prez-PM-AKD/108-241238",
+    "url": "https://www.dailymirror.lk/latest_news/Ready-to-withdraw-nomination-if-two-MPs-without-future-political-agendas-appointed-as-Prez-PM-AKD/342-241238",
     "time_ut": 1658065362,
     "original_lang": "en",
     "original_title": "Ready to withdraw nomination if two MPs without future political agendas appointed as Prez, PM: AKD",
-    "file_name": "/tmp/news_lk2/articles/d5/d55d3f91.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-revises-fuel-prices-petrol-price-reduce-by-rs-20-97504/",
-    "time_ut": 1658065320,
-    "original_lang": "en",
-    "original_title": "Sri Lanka revises fuel prices; Petrol price reduce by Rs.20",
-    "file_name": "/tmp/news_lk2/articles/02/02d93092.json"
+    "file_name": "/tmp/news_lk2/articles/7c/7c7b618a.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -3520,12 +3528,20 @@
     "file_name": "/tmp/news_lk2/articles/23/23a384b2.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-revises-fuel-prices-petrol-price-reduce-by-rs-20-97504/",
+    "time_ut": 1658065320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka revises fuel prices; Petrol price reduce by Rs.20",
+    "file_name": "/tmp/news_lk2/articles/02/02d93092.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CPC-to-low-fuel-prices-from-tonight/108-241237",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-to-low-fuel-prices-from-tonight/342-241237",
     "time_ut": 1658064876,
     "original_lang": "en",
     "original_title": "CPC to low fuel prices from tonight",
-    "file_name": "/tmp/news_lk2/articles/77/77ddd5f6.json"
+    "file_name": "/tmp/news_lk2/articles/60/6032786f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -3649,19 +3665,19 @@
   },
   {
     "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-private-bus-owners-request-priority-in-filling-queues-to-resume-operation-97499/",
-    "time_ut": 1658059740,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s private bus owners request priority in filling queues to resume operation",
-    "file_name": "/tmp/news_lk2/articles/37/372149de.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-private-bus-owners-want-priority-fuel-to-resume-operations-97499/",
     "time_ut": 1658059740,
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s private bus owners want priority fuel to resume operations",
     "file_name": "/tmp/news_lk2/articles/97/97caf554.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-private-bus-owners-request-priority-in-filling-queues-to-resume-operation-97499/",
+    "time_ut": 1658059740,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s private bus owners request priority in filling queues to resume operation",
+    "file_name": "/tmp/news_lk2/articles/37/372149de.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -3680,20 +3696,20 @@
     "file_name": "/tmp/news_lk2/articles/35/3528b9e2.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/17/lanka-premier-league-2022-postponed/",
-    "time_ut": 1658059320,
-    "original_lang": "en",
-    "original_title": "Lanka Premier League 2022 postponed",
-    "file_name": "/tmp/news_lk2/articles/96/966fa79f.json"
-  },
-  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131652",
     "time_ut": 1658059294,
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0b9a\u0b95\u0bb2\u0bb0\u0bc1\u0bae\u0bcd\u00a0\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd\u00a0\u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9",
     "file_name": "/tmp/news_lk2/articles/8c/8c4d9b28.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83705/lanka-premier-league-2022-postponed",
+    "time_ut": 1658058960,
+    "original_lang": "en",
+    "original_title": "Lanka Premier League 2022 postponed",
+    "file_name": "/tmp/news_lk2/articles/44/442f63be.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -3833,11 +3849,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db8\u0dc0\u0da7-\u0db8\u0ddd\u0dbd\u0dca\u0d9c\u0dc3\u0dd9\u0db1\u0dca-\u0d9c\u0dc3\u0dcf-\u0db8\u0dbb\u0dcf-\u0daf\u0db8\u0dba\u0dd2/101-616553",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db8\u0dc0\u0da7-\u0db8\u0ddd\u0dbd\u0dca\u0d9c\u0dc3\u0dd9\u0db1\u0dca-\u0d9c\u0dc3\u0dcf-\u0db8\u0dbb\u0dcf-\u0daf\u0db8\u0dba\u0dd2/1-616553",
     "time_ut": 1658056023,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0db8\u0dc0\u0da7 \u0db8\u0ddd\u0dbd\u0dca\u0d9c\u0dc3\u0dd9\u0db1\u0dca \u0d9c\u0dc3\u0dcf \u0db8\u0dbb\u0dcf \u0daf\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e7/e7b8ebff.json"
+    "file_name": "/tmp/news_lk2/articles/38/3874d765.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -3897,6 +3913,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/101-616552",
+    "time_ut": 1658053772,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db6\u0dd2\u0dbd\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/69/69a3951f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd6\u0db4\u0db1\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0dc3\u0db8\u0d9f-\u0d85\u0db8\u0dca\u0db8\u0dba\u0dd2-\u0dad\u0dcf\u0dad\u0dca\u0dad\u0dba\u0dd2-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0da7-\u0db6\u0dd2\u0dbd\u0dd2/1-616552",
     "time_ut": 1658053772,
     "original_lang": "si",
@@ -3905,19 +3929,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0da7-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db6\u0dd2\u0dbd\u0dd2/1-616552",
-    "time_ut": 1658053772,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0daf\u0dd3 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0da7 \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db6\u0dd2\u0dbd\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9e/9eb805a2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dda-\u0dc3\u0daf\u0dcf\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a-\u0dc3\u0dad\u0dd4\u0dbb\u0db1\u0dca-\u0db1\u0dd1/101-616551",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dda-\u0dc3\u0daf\u0dcf\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a-\u0dc3\u0dad\u0dd4\u0dbb\u0db1\u0dca-\u0db1\u0dd1/1-616551",
     "time_ut": 1658053078,
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dda \u0dc3\u0daf\u0dcf\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a \u0dc3\u0dad\u0dd4\u0dbb\u0db1\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/4b/4b1fda4c.json"
+    "file_name": "/tmp/news_lk2/articles/96/9605fcd7.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -3953,11 +3969,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/TUCC-declare-proposals/110-241234",
+    "url": "https://www.dailymirror.lk/latest_news/TUCC-declare-proposals/342-241234",
     "time_ut": 1658051963,
     "original_lang": "en",
     "original_title": "TUCC declare proposals...",
-    "file_name": "/tmp/news_lk2/articles/6b/6b2b8e70.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8a82c58d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -4129,11 +4145,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd0\u0dba-3-\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0dc0\u0dd9\u0dba\u0dd2/1-616545",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dba-3-\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dad\u0dc0-\u0daf\u0dd2\u0db1-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0dc0\u0dd9\u0dba\u0dd2/101-616545",
     "time_ut": 1658043349,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd0\u0dba 3 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dad\u0dc0 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1b/1b239974.json"
+    "file_name": "/tmp/news_lk2/articles/11/1153bb3c.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -4185,11 +4201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dbb\u0ddd\u0dc4\u0dbd\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db1\u0dc0\u0dad\u0dd3/11-616542",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dbb\u0ddd\u0dc4\u0dbd\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db1\u0dc0\u0dad\u0dd3/1-616542",
     "time_ut": 1658042560,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda \u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db1\u0dc0\u0dad\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/68/68cb1936.json"
+    "file_name": "/tmp/news_lk2/articles/7d/7d9a4236.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -4257,19 +4273,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/3-hour-power-cut-for-next-two-days/108-241231",
-    "time_ut": 1658038341,
-    "original_lang": "en",
-    "original_title": "3-hour power cut for next two days",
-    "file_name": "/tmp/news_lk2/articles/ca/ca882402.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/3-hours-power-cuts-for-next-two-days/108-241231",
     "time_ut": 1658038341,
     "original_lang": "en",
     "original_title": "3 hours power cuts for next two days",
     "file_name": "/tmp/news_lk2/articles/1d/1da76645.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/3-hour-power-cut-for-next-two-days/108-241231",
+    "time_ut": 1658038341,
+    "original_lang": "en",
+    "original_title": "3-hour power cut for next two days",
+    "file_name": "/tmp/news_lk2/articles/ca/ca882402.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -4289,11 +4305,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0daf\u0dd6\u0dc2\u0dab\u0dba-\u0db8\u0dd0\u0da9\u0dbd\u0db1--\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2018\u2018/101-616539",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0daf\u0dd6\u0dc2\u0dab\u0dba-\u0db8\u0dd0\u0da9\u0dbd\u0db1--\u0dc4\u0dd0\u0da7\u0dd2-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2018\u2018/1-616539",
     "time_ut": 1658036660,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0daf\u0dd6\u0dc2\u0dab\u0dba \u0db8\u0dd0\u0da9\u0dbd\u0db1  \u0dc4\u0dd0\u0da7\u0dd2 \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/ef/efaaf232.json"
+    "file_name": "/tmp/news_lk2/articles/19/197260c6.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -4337,11 +4353,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a-\u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda-\u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca/1-616538",
+    "url": "https://www.lankadeepa.lk/news/\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a-\u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda-\u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca/101-616538",
     "time_ut": 1658035703,
     "original_lang": "si",
     "original_title": "\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a \u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda \u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9a/9ae96cc5.json"
+    "file_name": "/tmp/news_lk2/articles/19/196f91ed.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -4665,11 +4681,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0da7-\u0daf\u0dd2\u0db1-16\u0d9a\u0da7-\u0db4\u0dc3\u0dd4\u0dc0-\u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/1-616533",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0da7-\u0daf\u0dd2\u0db1-16\u0d9a\u0da7-\u0db4\u0dc3\u0dd4\u0dc0-\u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/101-616533",
     "time_ut": 1657982434,
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0daf\u0dd2\u0db1 16\u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dd4 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba\u0da7 \u0db4\u0db8\u0dab\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/68/684a2534.json"
+    "file_name": "/tmp/news_lk2/articles/fe/fea44b3a.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
@@ -4737,11 +4753,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/BASL-urges-all-parties-to-respect-party-leaders-decision/108-241224",
+    "url": "https://www.dailymirror.lk/top_story/BASL-urges-all-parties-to-respect-party-leaders-decision/155-241224",
     "time_ut": 1657977046,
     "original_lang": "en",
     "original_title": "BASL urges all parties to respect party leaders\u2019 decision",
-    "file_name": "/tmp/news_lk2/articles/97/970e7507.json"
+    "file_name": "/tmp/news_lk2/articles/59/592fca87.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -4793,19 +4809,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83688/minister-wijesekara-urges-public-not-to-queue-up-for-fuel",
-    "time_ut": 1657972740,
-    "original_lang": "en",
-    "original_title": "Minister Wijesekara urges public not to queue up for fuel",
-    "file_name": "/tmp/news_lk2/articles/76/769a3195.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83688/minister-kanchana-urges-public-not-to-queue-up-for-fuel",
     "time_ut": 1657972740,
     "original_lang": "en",
     "original_title": "Minister Kanchana urges public not to queue up for fuel",
     "file_name": "/tmp/news_lk2/articles/1f/1fb4eb5f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83688/minister-wijesekara-urges-public-not-to-queue-up-for-fuel",
+    "time_ut": 1657972740,
+    "original_lang": "en",
+    "original_title": "Minister Wijesekara urges public not to queue up for fuel",
+    "file_name": "/tmp/news_lk2/articles/76/769a3195.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -4865,11 +4881,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Guidelines-to-register-with-National-Fuel-Pass-system/108-241222",
+    "url": "https://www.dailymirror.lk/latest_news/Guidelines-to-register-with-National-Fuel-Pass-system/342-241222",
     "time_ut": 1657968576,
     "original_lang": "en",
     "original_title": "Guidelines to register with National Fuel Pass system",
-    "file_name": "/tmp/news_lk2/articles/1e/1e04be79.json"
+    "file_name": "/tmp/news_lk2/articles/b6/b632ad1c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -4990,14 +5006,6 @@
     "original_lang": "en",
     "original_title": "Silk Cooperation declares open state-of-the-art Vegan manufacturing facility",
     "file_name": "/tmp/news_lk2/articles/de/debdd272.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/combank-launches-arunalu-foreign-currency-savings-account-for-children-2/",
-    "time_ut": 1657964580,
-    "original_lang": "en",
-    "original_title": "ComBank launches \u2018Arunalu\u2019 Foreign Currency Savings Account for children",
-    "file_name": "/tmp/news_lk2/articles/85/85ecd712.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5297,11 +5305,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db9-\u0dc3\u0db1\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-616523",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db9-\u0dc3\u0db1\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-616523",
     "time_ut": 1657958854,
     "original_lang": "si",
     "original_title": "\u0d85\u0db9 \u0dc3\u0db1\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/e2/e27bff79.json"
+    "file_name": "/tmp/news_lk2/articles/10/10d4256e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5337,11 +5345,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca-\u0d89\u0da7\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/1-616520",
+    "url": "https://www.lankadeepa.lk/news/\u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca-\u0d89\u0da7\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1\u0dba-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca/101-616520",
     "time_ut": 1657957796,
     "original_lang": "si",
     "original_title": "\u0db0\u0db1\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0d9a\u0dca \u0d89\u0da7\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/50/50b5b46c.json"
+    "file_name": "/tmp/news_lk2/articles/84/8424b092.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -5368,20 +5376,20 @@
     "file_name": "/tmp/news_lk2/articles/e8/e83b665d.json"
   },
   {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83684/anura-kumara-to-join-race-for-presidency",
-    "time_ut": 1657955880,
-    "original_lang": "en",
-    "original_title": "Anura Kumara to join race for presidency",
-    "file_name": "/tmp/news_lk2/articles/29/2948c4ed.json"
-  },
-  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131577",
     "time_ut": 1657955880,
     "original_lang": "ta",
     "original_title": "\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bc8 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
     "file_name": "/tmp/news_lk2/articles/7f/7fbadcce.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83684/anura-kumara-to-join-race-for-presidency",
+    "time_ut": 1657955880,
+    "original_lang": "en",
+    "original_title": "Anura Kumara to join race for presidency",
+    "file_name": "/tmp/news_lk2/articles/29/2948c4ed.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -5449,11 +5457,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-to-be-introduced-today/342-241220",
+    "url": "https://www.dailymirror.lk/breaking_news/National-Fuel-Pass-to-be-introduced-today/108-241220",
     "time_ut": 1657954615,
     "original_lang": "en",
     "original_title": "National Fuel Pass to be introduced today",
-    "file_name": "/tmp/news_lk2/articles/97/97426d20.json"
+    "file_name": "/tmp/news_lk2/articles/ef/ef16a1df.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5521,19 +5529,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0da2\u0db1\u0dad\u0dcf-\u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0da7-\u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0d86\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0db8\u0dd4/117-616517",
+    "url": "https://www.lankadeepa.lk/features/\u0da2\u0db1\u0dad\u0dcf-\u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0da7-\u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0d86\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0db8\u0dd4/2-616517",
     "time_ut": 1657953064,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0daf\u0dd4\u0dc2\u0dca\u0d9a\u0dbb\u0dad\u0dcf\u0dc0\u0dbd\u0da7 \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0d86\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/86/8624e076.json"
+    "file_name": "/tmp/news_lk2/articles/c6/c60e2b31.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-40-000-\u0d9a\u0dca-\u0d91\u0dba\u0dd2/101-616516",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-40-000-\u0d9a\u0dca-\u0d91\u0dba\u0dd2/1-616516",
     "time_ut": 1657952856,
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 40,000 \u0d9a\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bf/bfd906bd.json"
+    "file_name": "/tmp/news_lk2/articles/04/041ead0e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -5569,11 +5577,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0db6\u0dba\u0da7/101-616515",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0dbd\u0dd2\u0db4\u0dd2\u0dba-\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0db6\u0dba\u0da7/1-616515",
     "time_ut": 1657951199,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0dbd\u0dd2\u0db4\u0dd2\u0dba \u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d2/d22fb758.json"
+    "file_name": "/tmp/news_lk2/articles/74/74f54676.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -5665,19 +5673,19 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/3-395467",
-    "time_ut": 1657948844,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e3/e3955a44.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbb\u0ddc\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/3-395467",
     "time_ut": 1657948844,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0ddc\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ce/ce3d817a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/3-395467",
+    "time_ut": 1657948844,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e3955a44.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5705,11 +5713,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-13\u0d9a\u0da7-\u0dc3\u0dd3\u0db8\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/1-616514",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-13\u0d9a\u0da7-\u0dc3\u0dd3\u0db8\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/101-616514",
     "time_ut": 1657947524,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 13\u0d9a\u0da7 \u0dc3\u0dd3\u0db8\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d2/d272596b.json"
+    "file_name": "/tmp/news_lk2/articles/14/1495600a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5745,11 +5753,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0ddd\u0dbb\u0db1-\u0daf\u0dd2\u0db1\u0dba-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-616513",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0ddd\u0dbb\u0db1-\u0daf\u0dd2\u0db1\u0dba-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616513",
     "time_ut": 1657947214,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0ddd\u0dbb\u0db1 \u0daf\u0dd2\u0db1\u0dba \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5c/5c8a3960.json"
+    "file_name": "/tmp/news_lk2/articles/28/28a3ea7f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5801,11 +5809,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd-\u0d9a\u0dcf\u0db4\u0dd4-\u0db4\u0dc0\u0dd4\u0dbd\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-9\u0d9a\u0dca-\u0d91\u0d9a-\u0dc0\u0dda\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd2\u0dbd\u0dcf/1-616509",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd-\u0d9a\u0dcf\u0db4\u0dd4-\u0db4\u0dc0\u0dd4\u0dbd\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-9\u0d9a\u0dca-\u0d91\u0d9a-\u0dc0\u0dda\u0dbd\u0da7-\u0dc0\u0dd0\u0da7\u0dd2\u0dbd\u0dcf/101-616509",
     "time_ut": 1657946205,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd4\u0db1\u0dca\u0dc0\u0dda\u0dbd \u0d9a\u0dcf\u0db4\u0dd4 \u0db4\u0dc0\u0dd4\u0dbd\u0dca \u0dbd\u0d9a\u0dca\u0dc2 9\u0d9a\u0dca \u0d91\u0d9a \u0dc0\u0dda\u0dbd\u0da7 \u0dc0\u0dd0\u0da7\u0dd2\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/a1/a16292e0.json"
+    "file_name": "/tmp/news_lk2/articles/74/7468fe83.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -5825,11 +5833,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca:\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dad\u0dbb\u0d9f-\u0db6\u0dd2\u0db8\u0dda/1-616508",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc4\u0dad\u0dbb\u0d9a\u0dca:\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dad\u0dbb\u0d9f-\u0db6\u0dd2\u0db8\u0dda/101-616508",
     "time_ut": 1657945854,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dc4\u0dad\u0dbb\u0d9a\u0dca:\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dad\u0dbb\u0d9f \u0db6\u0dd2\u0db8\u0dda",
-    "file_name": "/tmp/news_lk2/articles/75/75f7c68a.json"
+    "file_name": "/tmp/news_lk2/articles/08/088b82ad.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -5897,19 +5905,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83679/ranil-chairs-first-cabinet-meeting-as-acting-president",
-    "time_ut": 1657940820,
-    "original_lang": "en",
-    "original_title": "Ranil chairs first Cabinet meeting as Acting President",
-    "file_name": "/tmp/news_lk2/articles/be/be4dec79.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83679/acting-president-ranil-chairs-cabinet-meeting",
     "time_ut": 1657940820,
     "original_lang": "en",
     "original_title": "Acting President Ranil chairs Cabinet meeting",
     "file_name": "/tmp/news_lk2/articles/bb/bbac01d6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83679/ranil-chairs-first-cabinet-meeting-as-acting-president",
+    "time_ut": 1657940820,
+    "original_lang": "en",
+    "original_title": "Ranil chairs first Cabinet meeting as Acting President",
+    "file_name": "/tmp/news_lk2/articles/be/be4dec79.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -6016,14 +6024,6 @@
     "file_name": "/tmp/news_lk2/articles/4f/4fea12c3.json"
   },
   {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/IMF-hopes-to-soon-resume-Sri-Lanka-high-level-discussions/108-241215",
-    "time_ut": 1657919615,
-    "original_lang": "en",
-    "original_title": "IMF hopes to soon resume Sri Lanka high-level discussions",
-    "file_name": "/tmp/news_lk2/articles/76/76649211.json"
-  },
-  {
     "newspaper_id": "b-b-c-com-sinhala",
     "url": "https://www.bbc.com/sinhala/sri-lanka-62149883",
     "time_ut": 1657919466,
@@ -6033,11 +6033,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/FSP-Leader-Kumar-Gunaratnam-and-his-Aragalaya/352-241201",
+    "url": "https://www.dailymirror.lk/opinion/FSP-Leader-Kumar-Gunaratnam-and-his-Aragalaya/172-241201",
     "time_ut": 1657918030,
     "original_lang": "en",
     "original_title": "FSP Leader  Kumar Gunaratnam and his \u201cAragalaya\u201d",
-    "file_name": "/tmp/news_lk2/articles/e3/e371d419.json"
+    "file_name": "/tmp/news_lk2/articles/38/38bcf87e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -6433,11 +6433,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da7\u0dd4\u0d9c\u0dc4\u0dc4\u0dda\u0db1-\u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0daf\u0dda\u0dc0-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca/1-616488",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0da7\u0dd4\u0d9c\u0dc4\u0dc4\u0dda\u0db1-\u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0daf\u0dda\u0dc0-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca/101-616488",
     "time_ut": 1657901454,
     "original_lang": "si",
     "original_title": "\u0d9a\u0da7\u0dd4\u0d9c\u0dc4\u0dc4\u0dda\u0db1 \u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca \u0daf\u0dda\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b9/b90fa9a0.json"
+    "file_name": "/tmp/news_lk2/articles/c2/c2effeb5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -6513,11 +6513,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dd9\u0dad\u0dca-\u0db4\u0dd0\u0dba-3\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/1-616486",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dd2-\u0d85\u0db1\u0dca\u0dad\u0dba\u0dd9\u0dad\u0dca-\u0db4\u0dd0\u0dba-3\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca/101-616486",
     "time_ut": 1657898737,
     "original_lang": "si",
     "original_title": "\u0dc3\u0dad\u0dd2 \u0d85\u0db1\u0dca\u0dad\u0dba\u0dd9\u0dad\u0dca \u0db4\u0dd0\u0dba 3\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/75/7596f6ab.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cca1b517.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -6529,11 +6529,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0dc0\u0dbd\u0dca-\u0dc4\u0dad\u0dbb\u0d9a-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd3/1-616485",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dc0\u0dbd\u0dca-\u0dc4\u0dad\u0dbb\u0d9a-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0db1\u0dc0\u0dad\u0dd3/101-616485",
     "time_ut": 1657898516,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0dc0\u0dbd\u0dca \u0dc4\u0dad\u0dbb\u0d9a \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db7\u0dcf\u0dbb\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0db1\u0dc0\u0dad\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/c4/c4abea68.json"
+    "file_name": "/tmp/news_lk2/articles/59/59cb80c4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -6601,11 +6601,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-40-000\u0d9a\u0dca-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0dc5\u0d9c\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/101-616481",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-40-000\u0d9a\u0dca-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0dc5\u0d9c\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/1-616481",
     "time_ut": 1657896414,
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 40,000\u0d9a\u0dca \u0d85\u0daf \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0dc5\u0d9c\u0dcf\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fa/fa6d618d.json"
+    "file_name": "/tmp/news_lk2/articles/84/84a67313.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -6617,19 +6617,27 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/11-616480",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/101-616480",
     "time_ut": 1657894752,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/e4/e47116b3.json"
+    "file_name": "/tmp/news_lk2/articles/06/060786ab.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83672/imf-hopes-to-soon-resume-sri-lanka-high-level-discussions",
+    "time_ut": 1657894320,
+    "original_lang": "en",
+    "original_title": "IMF hopes to soon resume Sri Lanka high-level discussions",
+    "file_name": "/tmp/news_lk2/articles/ce/ceca5915.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb-\u0d9c\u0dad\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dba-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/101-616479",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb-\u0d9c\u0dad\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dba-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/1-616479",
     "time_ut": 1657894228,
     "original_lang": "si",
     "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dad\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0dba \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/0a/0af978bc.json"
+    "file_name": "/tmp/news_lk2/articles/36/36eebdde.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -6745,11 +6753,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/101-616475",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/1-616475",
     "time_ut": 1657887771,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0dc3\u0dc4\u0dcf\u0dba \u0da9\u0dbd\u0dc3\u0dca\u0da7",
-    "file_name": "/tmp/news_lk2/articles/aa/aac4cb4a.json"
+    "file_name": "/tmp/news_lk2/articles/fc/fc4b2565.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -6849,19 +6857,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/1-616473",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0ddd\u0daf-\u0dad\u0dd4\u0db1\u0dda-\u0d9c\u0db8\u0db1-\u0d9c\u0dd2\u0db1\u0dd2-\u0d9c\u0dab\u0db1\u0dca/101-616473",
     "time_ut": 1657883618,
     "original_lang": "si",
     "original_title": "\u0dbb\u0ddd\u0daf \u0dad\u0dd4\u0db1\u0dda \u0d9c\u0db8\u0db1 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dab\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/af/af34b394.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83671/sc-issues-travel-ban-on-mahinda-and-basil",
-    "time_ut": 1657883340,
-    "original_lang": "en",
-    "original_title": "SC issues travel ban on Mahinda and Basil",
-    "file_name": "/tmp/news_lk2/articles/4e/4eaeeca4.json"
+    "file_name": "/tmp/news_lk2/articles/36/366c75d1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -6870,6 +6870,14 @@
     "original_lang": "en",
     "original_title": "SC issues temporary travel ban on Mahinda and Basil",
     "file_name": "/tmp/news_lk2/articles/74/743ad3f1.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83671/sc-issues-travel-ban-on-mahinda-and-basil",
+    "time_ut": 1657883340,
+    "original_lang": "en",
+    "original_title": "SC issues travel ban on Mahinda and Basil",
+    "file_name": "/tmp/news_lk2/articles/4e/4eaeeca4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -6969,14 +6977,6 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-government-cbsl-governor",
-    "time_ut": 1657879800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka faces shutdown without stable government: CBSL governor",
-    "file_name": "/tmp/news_lk2/articles/6d/6d8327c3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-govt-cbsl-governor-warns",
     "time_ut": 1657879800,
     "original_lang": "en",
@@ -6984,12 +6984,20 @@
     "file_name": "/tmp/news_lk2/articles/3e/3ecb6a23.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-government-cbsl-governor",
+    "time_ut": 1657879800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka faces shutdown without stable government: CBSL governor",
+    "file_name": "/tmp/news_lk2/articles/6d/6d8327c3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/101-616470",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca/1-616470",
     "time_ut": 1657879760,
     "original_lang": "si",
     "original_title": "\u0da9\u0dbd\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9c/9ce6a08e.json"
+    "file_name": "/tmp/news_lk2/articles/35/3549aeea.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7089,19 +7097,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83667/ranil-delivers-special-statement-as-acting-president-vows-to-safeguard-constitution",
-    "time_ut": 1657876920,
-    "original_lang": "en",
-    "original_title": "Ranil delivers special statement as Acting President; vows to safeguard Constitution",
-    "file_name": "/tmp/news_lk2/articles/13/134567c6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83667/acting-president-ranil-vows-to-safeguard-constitution",
     "time_ut": 1657876920,
     "original_lang": "en",
     "original_title": "Acting President Ranil vows to safeguard Constitution",
     "file_name": "/tmp/news_lk2/articles/69/697a2697.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83667/ranil-delivers-special-statement-as-acting-president-vows-to-safeguard-constitution",
+    "time_ut": 1657876920,
+    "original_lang": "en",
+    "original_title": "Ranil delivers special statement as Acting President; vows to safeguard Constitution",
+    "file_name": "/tmp/news_lk2/articles/13/134567c6.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7120,14 +7128,6 @@
     "file_name": "/tmp/news_lk2/articles/9e/9e882f5e.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/15/daily-exchange-rate-from-cbsl-14/",
-    "time_ut": 1657875900,
-    "original_lang": "en",
-    "original_title": "Daily Exchange Rate from CBSL",
-    "file_name": "/tmp/news_lk2/articles/62/62902ae6.json"
-  },
-  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83666/schools-to-reopen-on-july-21",
     "time_ut": 1657875360,
@@ -7137,27 +7137,27 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd2\u0db1-5\u0d9a\u0daf\u0dd3-\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-440-000\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dba\u0dd2/1-616466",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0db1-5\u0d9a\u0daf\u0dd3-\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-440-000\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dba\u0dd2/101-616466",
     "time_ut": 1657875291,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0db1 5\u0d9a\u0daf\u0dd3 \u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca 440,000\u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9a/9ab02d12.json"
+    "file_name": "/tmp/news_lk2/articles/e4/e4d965f9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u2018\u2018\u0d85\u0dad\u0dd2\u0d9c\u0dbb\u0dd4-\u0d9c\u0dbd\u0dc0\u0dba\u0dd2\u2018\u2018/101-616465",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u2018\u2018\u0d85\u0dad\u0dd2\u0d9c\u0dbb\u0dd4-\u0d9c\u0dbd\u0dc0\u0dba\u0dd2\u2018\u2018/1-616465",
     "time_ut": 1657874797,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u2018\u2018\u0d85\u0dad\u0dd2\u0d9c\u0dbb\u0dd4 \u0d9c\u0dbd\u0dc0\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/c3/c3bcee26.json"
+    "file_name": "/tmp/news_lk2/articles/f0/f0635e42.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2---\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0db8-\u0d9c\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0db1\u0dc0\u0dcf\u2018\u2018/1-616464",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2---\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0db8-\u0d9c\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0db1\u0dc0\u0dcf\u2018\u2018/101-616464",
     "time_ut": 1657874589,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 - \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0db8 \u0d9c\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/a3/a35c7f4d.json"
+    "file_name": "/tmp/news_lk2/articles/40/40fa336b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7185,19 +7185,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83665/train-operations-on-coastal-line-interrupted",
-    "time_ut": 1657874100,
-    "original_lang": "en",
-    "original_title": "Train operations on Coastal Line interrupted",
-    "file_name": "/tmp/news_lk2/articles/0a/0a402b10.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83665/derailment-interrupts-train-operations-on-coastal-line",
     "time_ut": 1657874100,
     "original_lang": "en",
     "original_title": "Derailment interrupts train operations on Coastal Line",
     "file_name": "/tmp/news_lk2/articles/2e/2edc395c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83665/train-operations-on-coastal-line-interrupted",
+    "time_ut": 1657874100,
+    "original_lang": "en",
+    "original_title": "Train operations on Coastal Line interrupted",
+    "file_name": "/tmp/news_lk2/articles/0a/0a402b10.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7273,11 +7273,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0dbb\u0da2\u0dba\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0db1\u0ddc\u0d9a\u0dbd\u0ddc\u0dad\u0dca-\u0dbb\u0da7-\u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba-\u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019/101-616462",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2019\u2019\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0dbb\u0da2\u0dba\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0db1\u0ddc\u0d9a\u0dbd\u0ddc\u0dad\u0dca-\u0dbb\u0da7-\u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba-\u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019/1-616462",
     "time_ut": 1657871477,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0dbb\u0da2\u0dba\u0d9a\u0dca \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dbd\u0ddc\u0dad\u0dca \u0dbb\u0da7 \u0d85\u0d9a\u0dbb\u0dca\u0db8\u0dab\u0dca\u200d\u0dba \u0dc0\u0dd9\u0dba\u0dd2\u2019\u2019",
-    "file_name": "/tmp/news_lk2/articles/a9/a9e953df.json"
+    "file_name": "/tmp/news_lk2/articles/94/94ba4d30.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7385,19 +7385,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Interim-President/108-241155",
+    "time_ut": 1657868522,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe sworn in as Interim President",
+    "file_name": "/tmp/news_lk2/articles/7d/7d3b1437.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-sworn-in-as-Acting-President/108-241155",
     "time_ut": 1657868522,
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe sworn in as Acting President",
     "file_name": "/tmp/news_lk2/articles/f4/f4344797.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ranil-Wickremesinghe-sworn-in-as-Interim-President/342-241155",
-    "time_ut": 1657868522,
-    "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe sworn in as Interim President",
-    "file_name": "/tmp/news_lk2/articles/68/688c8152.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7417,11 +7417,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0d9a\u0dd4\u0db8\u0dca-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/101-616459",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2-\u0dc0\u0dd2\u0d9a\u0dd4\u0db8\u0dca-\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/1-616459",
     "time_ut": 1657867323,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dd2\u0d9a\u0dd4\u0db8\u0dca \u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ca/caea533f.json"
+    "file_name": "/tmp/news_lk2/articles/e4/e43bc754.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7433,11 +7433,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/New-President-will-be-elected-on-July-20/342-241154",
+    "url": "https://www.dailymirror.lk/breaking_news/New-President-will-be-elected-on-July-20/108-241154",
     "time_ut": 1657867076,
     "original_lang": "en",
     "original_title": "New President will be elected on July 20",
-    "file_name": "/tmp/news_lk2/articles/f5/f5ca93b1.json"
+    "file_name": "/tmp/news_lk2/articles/57/57f2de20.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7489,11 +7489,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0da2\u0db1\u0dad\u0dcf-\u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3-\u0dc4\u0dd2\u0db1\u0dcf\u0dc0-\u0d95\u0db1\u0dd1:-\u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0da9/14-616457",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dad\u0dcf-\u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3-\u0dc4\u0dd2\u0db1\u0dcf\u0dc0-\u0d95\u0db1\u0dd1:-\u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca-\u0daf\u0da9/101-616457",
     "time_ut": 1657865648,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0dc3\u0dda\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dc4\u0dd2\u0db1\u0dcf\u0dc0 \u0d95\u0db1\u0dd1: \u0db1\u0dd0\u0dad\u0dd2\u0db1\u0db8\u0dca \u0daf\u0da9",
-    "file_name": "/tmp/news_lk2/articles/13/13d327bd.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4cade388.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7529,11 +7529,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0d85\u0db4\u0dda-\u0dbb\u0da7\u0da7-\u0dc0\u0dd9\u0da0\u0dca\u0da0-\u0daf\u0dda/55-616450",
+    "url": "https://www.lankadeepa.lk/features/\u0d85\u0db4\u0dda-\u0dbb\u0da7\u0da7-\u0dc0\u0dd9\u0da0\u0dca\u0da0-\u0daf\u0dda/2-616450",
     "time_ut": 1657864469,
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dda \u0dbb\u0da7\u0da7 \u0dc0\u0dd9\u0da0\u0dca\u0da0 \u0daf\u0dda",
-    "file_name": "/tmp/news_lk2/articles/0b/0b991f61.json"
+    "file_name": "/tmp/news_lk2/articles/95/95610a8f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7593,14 +7593,6 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/101-616446",
-    "time_ut": 1657863598,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/02/02c098ad.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dca-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/1-616446",
     "time_ut": 1657863598,
     "original_lang": "si",
@@ -7609,11 +7601,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/1-616445",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0daf\u0dd2\u0db1-\u0db1\u0dd2\u0dba\u0db8-\u0dc0\u0dd9\u0dba\u0dd2/101-616446",
+    "time_ut": 1657863598,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0daf\u0dd2\u0db1 \u0db1\u0dd2\u0dba\u0db8 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/02/02c098ad.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616445",
     "time_ut": 1657863185,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/1e/1ec9f4d6.json"
+    "file_name": "/tmp/news_lk2/articles/86/86fe7cc2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7737,11 +7737,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Parliament-to-meet-tomorrow-new-Prez-to-be-elected-within-seven-days-Speaker/342-241134",
+    "url": "https://www.dailymirror.lk/breaking_news/Parliament-to-meet-tomorrow-new-Prez-to-be-elected-within-seven-days-Speaker/108-241134",
     "time_ut": 1657859664,
     "original_lang": "en",
     "original_title": "Parliament to meet tomorrow; new Prez to be elected within seven days: Speaker",
-    "file_name": "/tmp/news_lk2/articles/d1/d1dac0dc.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bdb5736.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7777,11 +7777,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0dda\u0dbb\u0dd3\u0db8-\u0daf\u0dd2\u0db1-\u0dc4\u0dad\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad/101-616435",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0dda\u0dbb\u0dd3\u0db8-\u0daf\u0dd2\u0db1-\u0dc4\u0dad\u0d9a\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad/1-616435",
     "time_ut": 1657858249,
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0dda\u0dbb\u0dd3\u0db8 \u0daf\u0dd2\u0db1 \u0dc4\u0dad\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad",
-    "file_name": "/tmp/news_lk2/articles/55/55a4b92f.json"
+    "file_name": "/tmp/news_lk2/articles/b8/b86c2853.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7801,19 +7801,19 @@
   },
   {
     "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-gotabaya-rajapaksa-officially-resigns-speaker-97455/",
-    "time_ut": 1657857840,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President Gotabaya Rajapaksa officially resigns: Speaker",
-    "file_name": "/tmp/news_lk2/articles/fd/fd818240.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-president-gotabaya-rajapaksa-has-resigned-after-months-of-protest-97455/",
     "time_ut": 1657857840,
     "original_lang": "en",
     "original_title": "Sri Lanka President Gotabaya Rajapaksa has resigned after months of protest",
     "file_name": "/tmp/news_lk2/articles/6e/6e39d45b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-gotabaya-rajapaksa-officially-resigns-speaker-97455/",
+    "time_ut": 1657857840,
+    "original_lang": "en",
+    "original_title": "Sri Lanka President Gotabaya Rajapaksa officially resigns: Speaker",
+    "file_name": "/tmp/news_lk2/articles/fd/fd818240.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7857,11 +7857,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d85\u0daf-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda/1-616433",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0d85\u0daf-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda/101-616433",
     "time_ut": 1657855690,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0d85\u0daf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda",
-    "file_name": "/tmp/news_lk2/articles/68/68dec195.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3bb91aae.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7889,11 +7889,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0ddc\u0dbb-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/101-616432",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7/1-616432",
     "time_ut": 1657855108,
     "original_lang": "si",
     "original_title": "\u0dc4\u0ddc\u0dbb \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc3\u0db8\u0d9c \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d3/d30c6161.json"
+    "file_name": "/tmp/news_lk2/articles/db/db37526b.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7913,11 +7913,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Exclusive-fuel-supply-arrangements-for-healthcare-workers-from-today-Ministry/108-241107",
+    "url": "https://www.dailymirror.lk/latest_news/Exclusive-fuel-supply-arrangements-for-healthcare-workers-from-today-Ministry/342-241107",
     "time_ut": 1657854153,
     "original_lang": "en",
     "original_title": "Exclusive fuel supply arrangements for healthcare workers from today: Ministry",
-    "file_name": "/tmp/news_lk2/articles/3a/3ad64bef.json"
+    "file_name": "/tmp/news_lk2/articles/94/949eccce.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7929,19 +7929,19 @@
   },
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83658/ranil-to-take-oaths-as-acting-president-today",
-    "time_ut": 1657853520,
-    "original_lang": "en",
-    "original_title": "Ranil to take oaths as Acting President today",
-    "file_name": "/tmp/news_lk2/articles/a9/a90d02cf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83658/ranil-to-swear-in-as-acting-president-today",
     "time_ut": 1657853520,
     "original_lang": "en",
     "original_title": "Ranil to swear in as Acting President today",
     "file_name": "/tmp/news_lk2/articles/a2/a2f7bc4b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83658/ranil-to-take-oaths-as-acting-president-today",
+    "time_ut": 1657853520,
+    "original_lang": "en",
+    "original_title": "Ranil to take oaths as Acting President today",
+    "file_name": "/tmp/news_lk2/articles/a9/a90d02cf.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
