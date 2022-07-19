@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-political-parties-split-ahead-of-crucial-presidential-vote-97632/",
+    "time_ut": 1658231340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka political parties split ahead of crucial presidential vote",
+    "file_name": "/tmp/news_lk2/articles/c9/c9f1d726.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83744/dates-for-fueling-based-on-last-digit-of-number-plates-revised",
+    "time_ut": 1658231160,
+    "original_lang": "en",
+    "original_title": "Dates for fueling based on last digit of number plates revised",
+    "file_name": "/tmp/news_lk2/articles/65/65fc01a4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83743/restraining-order-issued-against-staging-protests-on-parliament-entry-roads",
+    "time_ut": 1658230980,
+    "original_lang": "en",
+    "original_title": "Restraining order issued against staging protests on parliament entry roads",
+    "file_name": "/tmp/news_lk2/articles/0e/0ec09a73.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1-\u0dc0\u0dd6-\u0db4\u0d9a\u0dca\u0dc2\u0dc0\u0dbd-\u0dc3\u0dc4\u0dcf\u0dba-\u0da9\u0dbd\u0dc3\u0dca\u0da7/11-395552",
+    "time_ut": 1658230876,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0dc0\u0dd6 \u0db4\u0d9a\u0dca\u0dc2\u0dc0\u0dbd \u0dc3\u0dc4\u0dcf\u0dba \u0da9\u0dbd\u0dc3\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/80/8086f99c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131822",
+    "time_ut": 1658230717,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0b95\u0ba9 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd - \u0bae\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd \u0b87\u0ba4\u0bcb !",
+    "file_name": "/tmp/news_lk2/articles/d8/d89554d2.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83742/schools-to-reopen-on-july-25",
     "time_ut": 1658230200,
@@ -40,6 +80,14 @@
     "file_name": "/tmp/news_lk2/articles/41/4100b103.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/19/national-fuel-pass-qr-program-island-wide-implementation-from-25th-july/",
+    "time_ut": 1658229000,
+    "original_lang": "en",
+    "original_title": "National Fuel Pass QR program island-wide implementation from 25th July",
+    "file_name": "/tmp/news_lk2/articles/56/567f7e31.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0db8\u0dcf\u0dad\u0dbb-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0dc3\u0dd4\u0dc0-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0ddd-\u0dc0\u0dd0\u0da9-\u0dc0\u0dbb\u0dad\u0dd2/101-616693",
     "time_ut": 1658228683,
@@ -64,6 +112,14 @@
     "file_name": "/tmp/news_lk2/articles/21/21604c0d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/19/pucsl-wants-transparent-price-formula-for-ceb/",
+    "time_ut": 1658227860,
+    "original_lang": "en",
+    "original_title": "PUCSL wants transparent price formula for CEB",
+    "file_name": "/tmp/news_lk2/articles/96/966271d7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bbf-\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8/175-300723",
     "time_ut": 1658227278,
@@ -78,6 +134,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 - \u0b9f\u0bbf.\u0bb5\u0bbf.\u0b9a\u0bbe\u0ba9\u0b95",
     "file_name": "/tmp/news_lk2/articles/a7/a79b905f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0dc5-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0ddc\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0dda/11-395550",
+    "time_ut": 1658226735,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0ddc\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0dda",
+    "file_name": "/tmp/news_lk2/articles/85/8533c8a9.json"
   },
   {
     "newspaper_id": "ada-lk",
