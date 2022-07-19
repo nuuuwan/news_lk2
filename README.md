@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 20:54:20 (LK time)*
+*As of 2022-07-19 21:00:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
 
 ## Last Hour (5 Articles)
 
@@ -18,27 +14,27 @@
 
 * **1** virakesari-lk ([எழுத்துமூல உறுதிப்பாடு தேவை ; கூட்டமைப்பு நிபந்தனை - சம்பந்தனின் இல்லத்திற்கு விரையும் டலஸ், சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea922371.json))
 
-## Last 3 Hours (37 Articles)
+## Last 3 Hours (34 Articles)
 
 * **7** tamil-mirror-lk ([ரணிலின் அறிக்கையை ஏற்கமுடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/498b7623.json))
 
 * **7** virakesari-lk ([களுவாஞ்சிகுடியில் கொள்ளையிடப்பட்ட  பெருந்தொகைப் பொருட்களுடன் 4 சந்தேக நபர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fac37fe.json))
 
-* **6** lankadeepa-lk ([කිව්.ආර්. සංකේතයේ පරීක්‍ෂණයක් අනිද්දා සිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1f29a39.json))
+* **5** lankadeepa-lk ([සමාජ මාධ්‍යවලින් මන්ත්‍රීන්ට බලපෑම් කළැයි සී.අයි.ඩීයෙන් පරීක්ෂණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44bc0b04.json))
 
 * **4** economy-next-com ([Sri Lanka’s presidential hopeful, withdrawn opposition leader say move was to solve crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ca1135f.json))
 
 * **4** ada-derana-lk ([Rambukkana shooting: Court to decide on issuing interim order on cops involved](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba5009f.json))
 
-* **3** daily-mirror-lk ([Suspended postal services resume](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0257c4.json))
-
-* **3** news-first-lk ([Sajith & Dullas sit together for first press conference after nomination](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb52e0da.json))
-
 * **3** ada-lk ([සඳුදා සිට පාසල් යළි විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12030e6.json))
 
-## Last 24 Hours (258 Articles)
+* **2** daily-mirror-lk ([SLPP youth wing to vote for Ranil to presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d4b57.json))
 
-* **52** virakesari-lk ([கோட்டாவைவிட ரணில் பாரிய தோல்வியை சந்திப்பார் ஐ.தே.க.வும் அவரால் அழிவடையும் - ஹிருணிகா](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4536f610.json))
+* **2** news-first-lk ([3-hour Power Cuts for Wednesday (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a70191c.json))
+
+## Last 24 Hours (256 Articles)
+
+* **50** virakesari-lk ([வவுனியா எரிபொருள் நிரப்பு நிலையத்தில் மதகுருவை பொலிஸ் பொறுப்பதிகாரி தாக்கியதாகக் கூரி வீதியை மறித்து ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61e0f9fb.json))
 
 * **38** lankadeepa-lk ([මියගිය පෙදරේරුවාගේ අධිකරණ වෛද්‍ය පරීක්ෂණයට 80,000ක් වැය වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9034936d.json))
 
@@ -62,13 +58,13 @@
 
 * **1** colombo-telegraph-com ([Parliament’s Role In Electing The President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c509bd6c.json))
 
-## Last Week (1,816 Articles)
+## Last Week (1,813 Articles)
 
 * **314** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
 
-* **281** lankadeepa-lk ([ජනපති ඇමෙරිකාවෙන් ඉල්ලූ වීසා ප්‍රතික්ෂේප වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12892388.json))
+* **279** lankadeepa-lk ([ජනපති මැදුරේ ආරක්ෂාවට පියවර ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f84aed4.json))
 
-* **224** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a20a36d4.json))
+* **223** daily-mirror-lk ([Basil paid Rs. 5.3mn in cash to leave for Washington](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/266b8a28.json))
 
 * **212** tamil-mirror-lk ([கைப்பற்றியவற்றை கையளியுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c75b20f.json))
 
