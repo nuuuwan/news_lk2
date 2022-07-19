@@ -257,7 +257,7 @@
         ],
         [
           {
-            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0dd2\u0dad",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dd4\u0d9a\u0dd6\u0dbd\u0dba\u0dd2",
             "label": "PRODUCT"
           },
           {
@@ -546,7 +546,7 @@
             "label": "ORDINAL"
           },
           {
-            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
             "label": "NORP"
           },
           {
@@ -558,7 +558,7 @@
             "label": "ORDINAL"
           },
           {
-            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "text": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
             "label": "NORP"
           },
           {
@@ -610,7 +610,7 @@
             "label": "GPE"
           },
           {
-            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95",
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
             "label": "DATE"
           },
           {
