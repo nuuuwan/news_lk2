@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db6\u0dd1\u0d9c\u0dba\u0dda-\u0db6\u0dbb-\u0d85\u0db1\u0dd4\u0dc0-\u0db8\u0dd2\u0dbd-\u0db1\u0dd2\u0dba\u0db8-\u0d9a\u0dbb\u0dba\u0dd2/101-616676",
+    "time_ut": 1658215519,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db6\u0dd1\u0d9c\u0dba\u0dda \u0db6\u0dbb \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0dd2\u0dbd \u0db1\u0dd2\u0dba\u0db8 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/aa/aa4943d0.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83736/sri-lankan-students-in-india-asked-to-register-for-a-census",
     "time_ut": 1658214600,
     "original_lang": "en",
     "original_title": "Sri Lankan students in India asked to register for a census",
     "file_name": "/tmp/news_lk2/articles/86/86650f01.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0da7-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dda-\u0d89\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca-29-\u0daf\u0dcf-\u0dad\u0dd9\u0d9a\u0dca-\u0db4\u0db8\u0dab\u0dba\u0dd2/11-395538",
+    "time_ut": 1658213908,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0da7 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dda \u0d89\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca 29 \u0daf\u0dcf \u0dad\u0dd9\u0d9a\u0dca \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/18/18e142ae.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka local currency rating under observation: Fitch",
     "file_name": "/tmp/news_lk2/articles/76/763cdd93.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62168476",
-    "time_ut": 1657849894,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0d85\u0d9c\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/5d/5d9a8312.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-300453",
-    "time_ut": 1657848335,
-    "original_lang": "ta",
-    "original_title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd  \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/12/12423f8f.json"
   }
 ]
