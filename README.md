@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 02:08:09 (LK time)*
+*As of 2022-07-20 02:23:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (6 Articles)
+
+* **5** daily-ft-lk ([Health authorities warn of 30%-40% spike in COVID cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e3760dc.json))
 
 * **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
-## Last Hour (10 Articles)
-
-* **9** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
-
-* **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
-
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
 * **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
@@ -24,9 +20,7 @@
 
 * **1** tamil-mirror-lk ([தமிழ் தேசியக் கூட்டமைப்பு டலஸுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d2d7114.json))
 
-* **1** lankadeepa-lk ([හෘද සාක්ෂියේ දස දෙනාත් ඩලස්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b629bb2.json))
-
-## Last 24 Hours (259 Articles)
+## Last 24 Hours (258 Articles)
 
 * **54** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
@@ -46,11 +40,11 @@
 
 * **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **4** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
+* **3** b-b-c-com-sinhala ([ඩලස්,රනිල්,අනුර කුමාර ජනපති සටනට;සජිත් නාමයෝජනා නොදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4040e87e.json))
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,809 Articles)
+## Last Week (1,805 Articles)
 
 * **321** virakesari-lk ([இராணுவ விமானத்தில் மாலைதீவிற்கு தப்பிச்சென்றார் கோத்தபாய](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6ff5c9b.json))
 
@@ -68,7 +62,7 @@
 
 * **87** economy-next-com ([Travel ban sought on ex-Sri Lanka PM, Basil, Lakshman, Cabraal, Attygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc30b238.json))
 
-* **85** daily-ft-lk ([The inconvenient truth](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7ebad21.json))
+* **82** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
 * **55** island-lk ([How the celebrities reacted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7417a9d7.json))
 
@@ -76,7 +70,7 @@
 
 * **21** colombo-telegraph-com ([The Destiny Of China’s Colony Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ea98e8.json))
 
-* **16** d-b-s-jeyaraj-com ([Acting President and Premier Ranil Wickremesinghe says  they had  received reports from the Intelligence agencies that some elements within the Aragalaya community were planning to take over and occupy the Prime Minister’s Office and the official residences of the Commanders of the Air Force, Army, and Navy/](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afc54986.json))
+* **15** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
 ## All Time (2,761 Articles)
 
