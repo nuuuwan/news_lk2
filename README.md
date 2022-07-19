@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 05:36:41 (LK time)*
+*As of 2022-07-19 05:47:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (256 Articles)
+## Last 24 Hours (259 Articles)
 
 * **46** virakesari-lk ([இன்று முதல் அவசரகாலச்சட்டம் அமுல் ! அதிவிசேட வர்த்தமானியை வெளிட்டார் பதில் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1398bd45.json))
 
@@ -24,15 +24,15 @@
 
 * **6** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
+* **5** island-lk ([NCE demands complete support for exporters](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40780992.json))
+
 * **5** colombo-telegraph-com ([Unelected & Unconstitutional MP Becoming The President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5c60baa.json))
 
 * **5** b-b-c-com-sinhala ([තෙල් පෝලිම් ගෙවෙන ජිවිත:"මම දවස් තුනකට සැරයක් නානවා"](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c905295e.json))
 
-* **2** island-lk ([Scalefusion takes mobile device management to the next level](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5711635c.json))
-
 * **1** d-b-s-jeyaraj-com ([Tenacious “Aragalaya” (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumaraya](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/038b709a.json))
 
-## Last Week (1,798 Articles)
+## Last Week (1,802 Articles)
 
 * **309** virakesari-lk ([15 ஆம் திகதி பாராளுமன்றம் கூடும் ; இரகசிய வாக்கெடுப்பின் மூலம்  புதிய ஜனாதிபதி தெரிவு - பிரதி சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebed84e7.json))
 
@@ -48,11 +48,11 @@
 
 * **153** news-first-lk ([Officers step away from Silk Route Ops](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3d75b3a.json))
 
-* **86** economy-next-com ([Sri Lanka biz chambers call for smooth transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/0682a58b.json))
+* **85** economy-next-com ([Sri Lanka parliament to select new president on July 20 amid nomination speculation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab2bfd44.json))
 
 * **83** daily-ft-lk ([Rationalise public and private travelling](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3132faec.json))
 
-* **57** island-lk ([AIA’s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37d7252b.json))
+* **62** island-lk ([AIA’s national safety endeavour, the Poson Safety Programme, successfully concludes with zero deaths](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37d7252b.json))
 
 * **28** b-b-c-com-sinhala ([ජනපතිකම භාර ගන්න සුදානම් :ශ්‍රී ලංකාවේ වත්මන් තත්ත්වය"ව්‍යාකූලයි, අවිනිශ්චිතයි, අරාජිකයි" සජිත් කියයි.](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c11f564.json))
 
@@ -60,7 +60,7 @@
 
 * **24** d-b-s-jeyaraj-com ([President Gotabaya Rajapaksa  signs  resignation lette  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cf87a7d.json))
 
-## All Time (2,478 Articles)
+## All Time (2,483 Articles)
 
 * **372** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +82,7 @@
 
 * **124** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **97** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **102** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **53** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 

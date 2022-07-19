@@ -200,6 +200,22 @@
     "file_name": "/tmp/news_lk2/articles/19/1951bf8f.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/missing-the-birthday-boy/",
+    "time_ut": 1658160000,
+    "original_lang": "en",
+    "original_title": "Missing the birthday boy\u2026",
+    "file_name": "/tmp/news_lk2/articles/83/83f78a40.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/elvis-michael-tina-all-in-one/",
+    "time_ut": 1658159880,
+    "original_lang": "en",
+    "original_title": "Elvis, Michael, Tina \u2026all in one!",
+    "file_name": "/tmp/news_lk2/articles/24/241b3ee4.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/CPC-filling-stations-to-dispense-fuel-from-July-21-under-QR-Code-vehicles-last-number-Fuel-Station-Owners/342-241314",
     "time_ut": 1658159005,
@@ -238,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Scalefusion takes mobile device management to the next level",
     "file_name": "/tmp/news_lk2/articles/57/5711635c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/nce-demands-complete-support-for-exporters/",
+    "time_ut": 1658158380,
+    "original_lang": "en",
+    "original_title": "NCE demands complete support for exporters",
+    "file_name": "/tmp/news_lk2/articles/40/40780992.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2214,6 +2238,14 @@
     "original_lang": "en",
     "original_title": "Suspect arrested with 50 tear gas cannisters stolen from police during protest",
     "file_name": "/tmp/news_lk2/articles/6b/6bd6ed81.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/overcoming-economic-crisis-and-rebuilding-economy-a-clarion-call/",
+    "time_ut": 1658082660,
+    "original_lang": "en",
+    "original_title": "Overcoming economic crisis and rebuilding economy: A clarion call",
+    "file_name": "/tmp/news_lk2/articles/ed/ed5df718.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7369,6 +7401,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/act-wisely-or-perish/",
+    "time_ut": 1657818840,
+    "original_lang": "en",
+    "original_title": "Act wisely or perish",
+    "file_name": "/tmp/news_lk2/articles/bd/bd206893.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/treasury-bill-rate-hikes-notably-as-investors-switch-to-govt-securities/",
     "time_ut": 1657817400,
     "original_lang": "en",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gota going into hiding in an unknown country is an indication that he cannot rely on his own service chiefs to guarantee his safety. Gotabaya Rajapaksa has effectively made himself a lame duck of a President.",
     "file_name": "/tmp/news_lk2/articles/b8/b8b960d8.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83646/parliament-to-convene-within-3-days-after-presidents-resignation",
-    "time_ut": 1657798500,
-    "original_lang": "en",
-    "original_title": "Parliament to convene within 3 days after President\u2019s resignation",
-    "file_name": "/tmp/news_lk2/articles/5c/5c8d3efc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf--\u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca-\u0dc4\u0dd9\u0da7-\u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca-\u0dbb\u0da7-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4/11-395430",
-    "time_ut": 1657798338,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf, \u0db6\u0dd0\u0dc3\u0dd2\u0dbd\u0dca \u0dc4\u0dd9\u0da7 \u0dc0\u0dd9\u0db1\u0d9a\u0db8\u0dca \u0dbb\u0da7 \u0dba\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd0\u0dad\u0dd2\u0dbd\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/b2/b255c204.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131468",
-    "time_ut": 1657798114,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0ba3\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf, \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b95\u0bc6\u0bbe\u0bb3\u0bcd\u0bb5\u0bc7\u0bbe\u0bae\u0bcd - \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd  \u0baa\u0bc6\u0baa\u0bcd\u0bb0\u0bb2\u0bcd \u0b95\u0bc7\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/a3/a33d0ec3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dbd\u0daf\u0dd3-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dbd\u0dd0\u0db6\u0dd6-\u0d9c\u0dab\u0db1-84\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d89\u0dc4\u0dc5\u0da7/11-395429",
-    "time_ut": 1657798052,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0dbd\u0daf\u0dd3 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 \u0d9c\u0dab\u0db1 84\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/59/5993f927.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc4\u0dad\u0dbb\u0dda-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d94\u0db6\u0dca\u0db6\u0da7/2-616419",
-    "time_ut": 1657798015,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dad\u0dbb\u0dda \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d94\u0db6\u0dca\u0db6\u0da7",
-    "file_name": "/tmp/news_lk2/articles/12/1261e2ed.json"
   }
 ]
