@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 04:33:36 (LK time)*
+*As of 2022-07-20 04:53:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (2 Articles)
-
-* **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
-
-* **1** daily-ft-lk ([NPP presents series of proposals to revive country](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29096e99.json))
 
 ## Last 24 Hours (260 Articles)
 
