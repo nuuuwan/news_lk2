@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83738/independent-mps-including-wimal-gammanpila-to-back-dullas",
+    "time_ut": 1658222700,
+    "original_lang": "en",
+    "original_title": "Independent MPs including Wimal, Gammanpila to back Dullas",
+    "file_name": "/tmp/news_lk2/articles/b1/b14a05ed.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Wimal-Gammanpila-led-group-to-vote-for-Dullas/108-241376",
     "time_ut": 1658222549,
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019-\u0d89\u0dc0\u0dbb\u0dba\u0dd2-\u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018-\u0dc0\u0dd0\u0da9/101-616683",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019-\u0d89\u0dc0\u0dbb\u0dba\u0dd2-\u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018-\u0dc0\u0dd0\u0da9/1-616683",
     "time_ut": 1658221702,
     "original_lang": "si",
     "original_title": "\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019 \u0d89\u0dc0\u0dbb\u0dba\u0dd2 \u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018 \u0dc0\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/8b/8bb9b24b.json"
+    "file_name": "/tmp/news_lk2/articles/43/438069c3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -153,11 +161,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Professionals-new-comers-in-Parliament-agree-to-support-Dullas-Jayasumana/342-241374",
+    "url": "https://www.dailymirror.lk/breaking_news/Professionals-new-comers-in-Parliament-agree-to-support-Dullas-Jayasumana/108-241374",
     "time_ut": 1658216945,
     "original_lang": "en",
     "original_title": "Professionals, new comers in Parliament agree to support Dullas: Jayasumana",
-    "file_name": "/tmp/news_lk2/articles/b4/b47e56bf.json"
+    "file_name": "/tmp/news_lk2/articles/bc/bc745e24.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd : \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d9/d9b2610c.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300458",
-    "time_ut": 1657858022,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u2013 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e9/e92a70f4.json"
   }
 ]
