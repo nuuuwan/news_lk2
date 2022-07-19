@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 02:23:39 (LK time)*
+*As of 2022-07-20 02:43:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
-
-* **5** daily-ft-lk ([Health authorities warn of 30%-40% spike in COVID cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e3760dc.json))
+## Last Hour (1 Articles)
 
 * **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
