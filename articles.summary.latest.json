@@ -2160,6 +2160,14 @@
     "file_name": "/tmp/news_lk2/articles/9b/9ba00315.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78640",
+    "time_ut": 1658171700,
+    "original_lang": "en",
+    "original_title": "Parliament\u2019s role in electing the President When the Office became vacant",
+    "file_name": "/tmp/news_lk2/articles/98/98f1e3ed.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/9-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8-\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8-3-215-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300693",
     "time_ut": 1658170449,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dad\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0dba \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/36/36eebdde.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/learning-for-sri-lanka-on-soe-reforms-malaysias-khazanah-nasional-berhad/",
-    "time_ut": 1657894020,
-    "original_lang": "en",
-    "original_title": "Learning for Sri Lanka on SOE Reforms \u2013 Malaysia\u2019s Khazanah Nasional Berhad",
-    "file_name": "/tmp/news_lk2/articles/c0/c02f0c34.json"
   }
 ]
