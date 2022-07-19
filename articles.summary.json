@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Ranil-Rajapaksa-Wickremesinghe-s-power-grab-will-end-badly-for-Sri-Lanka/14-737682",
+    "time_ut": 1658257309,
+    "original_lang": "en",
+    "original_title": "\u2018Ranil Rajapaksa\u2019: Wickremesinghe\u2019s power grab will end badly for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/85/85c573ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/New-Law-or-the-same-old-wine-in-new-glasses/172-241397",
+    "time_ut": 1658257202,
+    "original_lang": "en",
+    "original_title": "New Law or the same old wine  in new glasses?",
+    "file_name": "/tmp/news_lk2/articles/f4/f483e456.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83751/india-naturally-worried-about-sri-lanka-crisis-spillover-jaishankar",
+    "time_ut": 1658255340,
+    "original_lang": "en",
+    "original_title": "India naturally worried about Sri Lanka crisis spillover: Jaishankar",
+    "file_name": "/tmp/news_lk2/articles/98/98036337.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83751/india-worried-about-lanka-crisis-spillover-jaishankar-at-all-party-meeting",
     "time_ut": 1658255340,
@@ -9,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Dullas-Sajith-agree-to-fulfill-TNA-demands-in-return-for-support/342-241394",
+    "url": "https://www.dailymirror.lk/top_story/Dullas-Sajith-agree-to-fulfill-TNA-demands-in-return-for-support/155-241394",
     "time_ut": 1658255076,
     "original_lang": "en",
     "original_title": "Dullas, Sajith agree to fulfill TNA demands in return for support",
-    "file_name": "/tmp/news_lk2/articles/bc/bc84db01.json"
+    "file_name": "/tmp/news_lk2/articles/60/60c9c666.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -153,19 +177,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-process-under-QR-code-from-July-25/342-241392",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-distribution-process-under-QR-code-from-July-25/108-241392",
     "time_ut": 1658245889,
     "original_lang": "en",
     "original_title": "Fuel distribution process under QR code from July 25",
-    "file_name": "/tmp/news_lk2/articles/8d/8d69e840.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f303149.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/AKD-vows-to-form-interim-govt-and-call-for-election-within-six-months-if-elected-Prez/342-241391",
+    "url": "https://www.dailymirror.lk/breaking_news/AKD-vows-to-form-interim-govt-and-call-for-election-within-six-months-if-elected-Prez/108-241391",
     "time_ut": 1658245678,
     "original_lang": "en",
     "original_title": "AKD vows to form interim govt. and call for election within six months if elected Prez",
-    "file_name": "/tmp/news_lk2/articles/ed/edb2a93c.json"
+    "file_name": "/tmp/news_lk2/articles/3f/3f93e697.json"
   },
   {
     "newspaper_id": "virakesari-lk",
