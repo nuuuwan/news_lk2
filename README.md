@@ -1,46 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 12:38:25 (LK time)*
+*As of 2022-07-19 12:48:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** virakesari-lk ([சஜித்தை  பிரதமராக ஏற்றுக்கொள்ள ஸ்ரீலங்கா பொதுஜனபெரமுன தயார் -  ஜி.எல்.பீரிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99dc243a.json))
+* **1** virakesari-lk ([மே 9 வன்முறைகளுடன் தொடர்புடைய சந்தேக நபர்கள் 3,220 பேர் கைது ; 1176 பேர் விளக்கமறியலில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c117b48.json))
 
 * **1** daily-mirror-lk ([Bus fare reduced by 2.23% from tonight, Minimum fare is Rs.38](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd4faa15.json))
 
 * **1** economy-next-com ([Sri Lanka Catholic church rejects acting president’s call to review Easter attack probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0fbfadf.json))
 
-* **1** news-first-lk ([Bus fares revised; New Minimum Fare Rs. 38/-](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f67dc5ec.json))
+## Last Hour (13 Articles)
 
-## Last Hour (17 Articles)
-
-* **4** virakesari-lk ([குறைகிறது பஸ் கட்டணம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/991f768e.json))
+* **3** virakesari-lk ([டலஸ் ஜனாதிபதியானால் சஜித் பிரதமர் - ஐக்கிய மக்கள் சக்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f22e4029.json))
 
 * **3** news-first-lk ([Health Sector facing risk of collapse](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c0c7ea8.json))
 
-* **2** daily-mirror-lk ([SLPP ready to accept Sajith as PM: GL](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2048945.json))
-
 * **2** economy-next-com ([Sri Lanka shares gain over 1-pct in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ec83cb4.json))
 
-* **2** tamil-mirror-lk ([2.23 சதவீதம் பஸ் கட்டணம் குறைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ce2b123.json))
+* **2** lankadeepa-lk ([අවම බස් ගාස්තුව රු: 2කින් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd02ecfd.json))
 
-* **2** lankadeepa-lk ([අවම බස් ගාස්තුව රු: 2කින් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f134216.json))
+* **1** daily-mirror-lk ([Bus fare reduced by 2.23% from tonight, Minimum fare is Rs.38](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fd4faa15.json))
 
-* **2** ada-lk ([බස් ගාස්තු පහළට, අවම ගාස්තුව 38යි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97a41882.json))
+* **1** tamil-mirror-lk ([மின் கட்டணம் அதிகரிக்கின்றது](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3808aaf.json))
 
-## Last 3 Hours (63 Articles)
+* **1** ada-lk ([ඉන්ධන අර්බුදයෙන් බැටකන ධීවරයින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/085b279d.json))
+
+## Last 3 Hours (60 Articles)
 
 * **15** ada-lk ([සජිත් ජනපති සටනෙන් ඉවත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b105409d.json))
 
-* **12** lankadeepa-lk ([විදුලි ගාස්තුව අගෝස්තුවේ ඉහළ යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db241a9f.json))
+* **10** lankadeepa-lk ([ඉන්ධන අර්බුදයට පාර කැපීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13604a6e.json))
 
 * **8** virakesari-lk ([ஜனாதிபதித் தேர்தல் போட்டியிலிருந்து வாபஸ் பெற்றார் சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/6896e7e5.json))
 
 * **8** daily-mirror-lk ([Opposition Leader Sajith Premadasa withdraws from Presidential nomination](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/623ff8be.json))
 
-* **7** news-first-lk ([Nomination Day today (19) : Process of electing President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfca24bd.json))
+* **6** news-first-lk ([Sajith Premadasa withdraws from race for President](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02669b4a.json))
 
 * **5** tamil-mirror-lk ([மதகுரு மீது பொலிஸ் தாக்குதல்; மக்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1ca4f04.json))
 
@@ -48,13 +46,13 @@
 
 * **4** ada-derana-lk ([Sajith withdraws candidacy; SJB to support Dullas for Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ce91c6.json))
 
-## Last 24 Hours (273 Articles)
+## Last 24 Hours (271 Articles)
 
 * **59** virakesari-lk ([50 கண்ணீர் புகை குண்டுகளுடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/695a7615.json))
 
-* **43** lankadeepa-lk ([වජිර තව අනාවැකියක් කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f727d0d0.json))
+* **42** lankadeepa-lk ([ඇප් එකට ඉන්ධන 21 සිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25a49d94.json))
 
-* **38** daily-mirror-lk ([Galle Face Aragalaya marks 100 days](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/7054daa3.json))
+* **37** daily-mirror-lk ([MPs receive threats ahead of Presidential vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b205a378.json))
 
 * **32** tamil-mirror-lk ([பொலிஸாருடன் முறுகல்; நகரசபை உறுப்பினர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52d3239e.json))
 
@@ -76,11 +74,11 @@
 
 * **1** d-b-s-jeyaraj-com ([Tenacious “Aragalaya” (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumaraya](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/038b709a.json))
 
-## Last Week (1,837 Articles)
+## Last Week (1,836 Articles)
 
 * **319** virakesari-lk ([இந்தியாவால் வழங்கப்பட்ட உரம் இன்று விநியோகம் - விவசாய அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/086f4f2d.json))
 
-* **284** lankadeepa-lk ([ඕස්ට්‍රේලියා යන්න සිටි 17ක් මාට්ටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c15640b.json))
+* **283** lankadeepa-lk ([වෙරළබඩ පොලිස් බල ප්‍රදේශයේ වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b23e1ff.json))
 
 * **230** daily-mirror-lk ([Motion filed in Supreme Court urging to impose travel ban on MR, Basil, Cabraal and Atygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86cdb4d5.json))
 
