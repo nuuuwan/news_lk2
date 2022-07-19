@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83730/nominations-for-office-of-president-accepted-today",
+    "time_ut": 1658199540,
+    "original_lang": "en",
+    "original_title": "Nominations for office of President accepted today",
+    "file_name": "/tmp/news_lk2/articles/db/db9f42f6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131746",
+    "time_ut": 1658199456,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 ! \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 : \u0ba8\u0bbe\u0bb3\u0bc8 \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/81/81d64c3c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-opposition-leader-sajith-premadasa-says-will-take-crucial-step-97609/",
+    "time_ut": 1658199060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka opposition leader Sajith Premadasa says will take \u2018crucial step\u2019 shortly",
+    "file_name": "/tmp/news_lk2/articles/10/109b3112.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131745",
+    "time_ut": 1658197959,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc8\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc2\u0b9f\u0bbf \u0bae\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0ba4\u0bc1 \u2013 \u0b9a\u0bbf\u0b8e\u0ba9\u0bcd\u0b8e\u0ba9\u0bcd\u0ba9\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/16/163cea01.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-continues-monetary-financing-of-imports-pegging-after-running-out-of-reserves-97600/",
+    "time_ut": 1658195880,
+    "original_lang": "en",
+    "original_title": "Sri Lanka continues monetary financing of imports, pegging after \u2018running out\u2019 of reserves",
+    "file_name": "/tmp/news_lk2/articles/28/2859db4f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83729/spells-of-showers-strong-winds-expected-in-some-areas",
+    "time_ut": 1658195820,
+    "original_lang": "en",
+    "original_title": "Spells of showers, strong winds expected in some areas",
+    "file_name": "/tmp/news_lk2/articles/be/be260d73.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-executive-presidency-opposed-by-70-pct-poll-97598/",
     "time_ut": 1658195400,
@@ -30,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka police probe into key protest leaders receiving overseas money",
     "file_name": "/tmp/news_lk2/articles/e1/e15e1491.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0bb5-\u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe/175-300696",
+    "time_ut": 1658175027,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/ef/ef1c28c7.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -238,6 +294,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd\u00a0\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd !",
     "file_name": "/tmp/news_lk2/articles/24/24d5c409.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dbd\u0dc3\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7-\u0dc4\u0dcf-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf\u0dc0\u0d9a\u0dca/11-395519",
+    "time_ut": 1658162560,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dbd\u0dc3\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0da2\u0dd2\u0dad\u0dca\u0da7 \u0dc4\u0dcf \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c0/c0156ba9.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dde\u0daf\u0dd2\u0dba\u0da7?",
     "file_name": "/tmp/news_lk2/articles/8d/8d09ce3a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Singapore-confirms-Prez-arrives-there/342-241093",
-    "time_ut": 1657804503,
-    "original_lang": "en",
-    "original_title": "Singapore confirms Prez arrives there",
-    "file_name": "/tmp/news_lk2/articles/77/77758e7e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/dayasiri-requests-cj-to-consider-that-president-fled-the-country/",
-    "time_ut": 1657804260,
-    "original_lang": "en",
-    "original_title": "Dayasiri requests CJ to consider that President fled the country",
-    "file_name": "/tmp/news_lk2/articles/d7/d7881d7b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf-\u0b85\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb2\u0bae\u0bcd-\u0b95\u0bcb\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-300429",
-    "time_ut": 1657803809,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf \u0b85\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb2\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/aa/aae2b9b2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0dd2\u0db8\u0dda-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-395433",
-    "time_ut": 1657803613,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0dd2\u0db8\u0dda \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/0e/0e8c514e.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0dc0\u0dca\u0db8\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-616421",
-    "time_ut": 1657803369,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd2\u0dc0\u0dca\u0db8\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/72/72c3e56f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/religion/\u0daf\u0dc5\u0daf\u0dcf-\u0dad\u0dda\u0dc0\u0dcf-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca-\u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0da7/4-395432",
-    "time_ut": 1657803146,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dc5\u0daf\u0dcf \u0dad\u0dda\u0dc0\u0dcf \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/3d/3d1e6b57.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb\u0dba:-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0dba\u0ddd\u0da2\u0dd2\u0dad-\u0db1\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0da7/1-616420",
-    "time_ut": 1657802921,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dc0 \u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0db0\u0dd4\u0dbb\u0dba: \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0dba\u0ddd\u0da2\u0dd2\u0dad \u0db1\u0db8 \u0dc4\u0dd9\u0da7 \u0d91\u0dc5\u0dd2\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/1a/1aece7d9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/president-gotabaya-was-not-granted-asylum-singapore-foreign-ministry/",
-    "time_ut": 1657802820,
-    "original_lang": "en",
-    "original_title": "President Gotabaya was NOT granted asylum: Singapore Foreign Ministry",
-    "file_name": "/tmp/news_lk2/articles/e7/e748b3cb.json"
   }
 ]
