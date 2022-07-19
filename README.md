@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-19 20:43:38 (LK time)*
+*As of 2022-07-19 20:54:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,41 +8,39 @@
 
 * **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
 
-## Last Hour (9 Articles)
+## Last Hour (5 Articles)
 
-* **3** tamil-mirror-lk ([பாராளுமன்ற வீதியில் ஆர்ப்பாட்டங்களுக்குத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30925499.json))
-
-* **2** virakesari-lk ([நாளை மின்வெட்டு தொடர்பான முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d347669f.json))
-
-* **2** daily-mirror-lk ([SLPP youth wing to vote for Ranil to presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/478d4b57.json))
+* **2** tamil-mirror-lk ([தாயால் வீசப்பட்ட குழந்தையை   காப்பாற்றிய மாணவர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b487d3f.json))
 
 * **1** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
 
 * **1** economy-next-com ([Sri Lanka stocks gain for 3rd straight session ahead of presidential vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34d67a8c.json))
 
-## Last 3 Hours (41 Articles)
+* **1** virakesari-lk ([எழுத்துமூல உறுதிப்பாடு தேவை ; கூட்டமைப்பு நிபந்தனை - சம்பந்தனின் இல்லத்திற்கு விரையும் டலஸ், சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea922371.json))
 
-* **9** tamil-mirror-lk ([பாடசாலைகள் எதிர்வரும் திங்களே மீண்டும் திறக்கப்படும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7b7a17d.json))
+## Last 3 Hours (37 Articles)
 
-* **7** lankadeepa-lk ([අම්මා ළිඳට විසි කළ දැරිය පාසල් සිසුහු බේරාගනිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843a4c5e.json))
+* **7** tamil-mirror-lk ([ரணிலின் அறிக்கையை ஏற்கமுடியாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/498b7623.json))
 
 * **7** virakesari-lk ([களுவாஞ்சிகுடியில் கொள்ளையிடப்பட்ட  பெருந்தொகைப் பொருட்களுடன் 4 சந்தேக நபர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fac37fe.json))
 
+* **6** lankadeepa-lk ([කිව්.ආර්. සංකේතයේ පරීක්‍ෂණයක් අනිද්දා සිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1f29a39.json))
+
 * **4** economy-next-com ([Sri Lanka’s presidential hopeful, withdrawn opposition leader say move was to solve crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9ca1135f.json))
 
-* **4** daily-mirror-lk ([Last digit of number plate for refuelling revised: Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be88a00d.json))
-
 * **4** ada-derana-lk ([Rambukkana shooting: Court to decide on issuing interim order on cops involved](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba5009f.json))
+
+* **3** daily-mirror-lk ([Suspended postal services resume](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0257c4.json))
 
 * **3** news-first-lk ([Sajith & Dullas sit together for first press conference after nomination](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb52e0da.json))
 
 * **3** ada-lk ([සඳුදා සිට පාසල් යළි විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12030e6.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (258 Articles)
 
-* **55** virakesari-lk ([மக்கள் கிளர்ச்சி போராட்டக்காரர்களுடன் அரசியல் தொடர்பாடல் அவசியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e06573.json))
+* **52** virakesari-lk ([கோட்டாவைவிட ரணில் பாரிய தோல்வியை சந்திப்பார் ஐ.தே.க.வும் அவரால் அழிவடையும் - ஹிருணிகா](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4536f610.json))
 
-* **40** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
+* **38** lankadeepa-lk ([මියගිය පෙදරේරුවාගේ අධිකරණ වෛද්‍ය පරීක්ෂණයට 80,000ක් වැය වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9034936d.json))
 
 * **36** ada-lk ([ඩලස්ගෙන් සජිත්ට හා රනිල්ට ආරාධනාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0156ba9.json))
 
@@ -62,9 +60,9 @@
 
 * **4** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
-* **2** colombo-telegraph-com ([The Lost Revolution](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a8a7af8.json))
+* **1** colombo-telegraph-com ([Parliament’s Role In Electing The President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c509bd6c.json))
 
-## Last Week (1,819 Articles)
+## Last Week (1,816 Articles)
 
 * **314** virakesari-lk ([காரைநகர் கடற்பகுதியில் கைது செய்யப்பட்ட தமிழக மீனவர்களுக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/877c7a3e.json))
 
@@ -72,13 +70,13 @@
 
 * **224** daily-mirror-lk ([Immigration officials have no legal power to prevent President: SLIEOA](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a20a36d4.json))
 
-* **213** tamil-mirror-lk ([ஜனாதிபதி சென்றால் பிரதமரே அடுத்த ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e969132.json))
+* **212** tamil-mirror-lk ([கைப்பற்றியவற்றை கையளியுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c75b20f.json))
 
-* **181** ada-lk ([ඇමෙරිකාවට යන්න ගෝඨාභයගේ වීසා ඉල්ලීම ඇමෙරිකාව ප්‍රතික්ෂේප කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bbb4916.json))
+* **180** ada-lk ([මහින්ද ප්‍රසිද්ධියේ සමාව ඉල්ලිය යුතුයි - පාඨලී](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea887c61.json))
 
 * **159** ada-derana-lk ([Archaeology Dept. officers inspect President’s House to assess damages](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c28d8c3.json))
 
-* **144** news-first-lk ([We expect President not to play games: Patali](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b67f92cc.json))
+* **143** news-first-lk ([SLAF reject social media claims on President’s whereabouts](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d56becfc.json))
 
 * **91** economy-next-com ([Petitions filed in Supreme Court to prevent Rajapaksas, officials from leaving Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d091d293.json))
 
