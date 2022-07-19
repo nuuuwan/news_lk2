@@ -1,5 +1,197 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dbd\u0dc3\u0dca\u0d9c\u0dda-\u0db1\u0db8-\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2---\u0da2\u0dd3-\u0d91\u0dbd\u0dca--\u0dc3\u0dca\u0dae\u0dd2\u0dbb-\u0d9a\u0dbb\u0dba\u0dd2/11-395526",
+    "time_ut": 1658206773,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dbd\u0dc3\u0dca\u0d9c\u0dda \u0db1\u0db8 \u0dc3\u0da2\u0dd2\u0dad\u0dca \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dbb\u0dba\u0dd2 - \u0da2\u0dd3.\u0d91\u0dbd\u0dca. \u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/12/12bd5728.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-crucial-presidential-vote-becomes-two-horse-race-97630/",
+    "time_ut": 1658206680,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s crucial presidential vote becomes two-horse race",
+    "file_name": "/tmp/news_lk2/articles/f5/f552a600.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131755",
+    "time_ut": 1658206656,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf\u0baf \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ac/ac53ea92.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc4\u0dd9\u0da7-\u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4-10-\u0dc3\u0dd2\u0da7/101-616665",
+    "time_ut": 1658206644,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10 \u0dc3\u0dd2\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ac/ac1923d9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131754",
+    "time_ut": 1658206611,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0ba9\u0bc8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf ! \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd, \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0, \u0b9f\u0bb2\u0bb8\u0bcd \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd ! \u0ba8\u0bbe\u0bb3\u0bc8 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/00/007d6dc3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0dc0\u0dd6-\u0db1\u0db8\u0dca-\u0dad\u0dd4\u0db1\u0db8-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3/101-616664",
+    "time_ut": 1658206492,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0dc0\u0dd6 \u0db1\u0db8\u0dca \u0dad\u0dd4\u0db1\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/01/012dd095.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0daf\u0dc4\u0dba\u0dba\u0dd2/101-616663",
+    "time_ut": 1658206477,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 \u0daf\u0dc4\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a1/a120e0e9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83733/nominations-presented-to-elect-sri-lankas-new-president",
+    "time_ut": 1658206440,
+    "original_lang": "en",
+    "original_title": "Nominations presented to elect Sri Lanka\u2019s new President",
+    "file_name": "/tmp/news_lk2/articles/e7/e7fd2467.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/RW-AKD-Dullas-to-contest-for-presidency-tomorrow/342-241368",
+    "time_ut": 1658206360,
+    "original_lang": "en",
+    "original_title": "RW, AKD, Dullas to contest for presidency tomorrow",
+    "file_name": "/tmp/news_lk2/articles/ac/aca9a8b3.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bb2\u0bb8\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bc8-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-300706",
+    "time_ut": 1658206137,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bb2\u0bb8\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd  \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/17/170a1841.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-12\u0d9a\u0da7-\u0dc3\u0dd3\u0db8\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/11-395525",
+    "time_ut": 1658206085,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 12\u0d9a\u0da7 \u0dc3\u0dd3\u0db8\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ec/ec6bf6c1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Parliament-adjourned-till-100-am-tomorrow/342-241367",
+    "time_ut": 1658206065,
+    "original_lang": "en",
+    "original_title": "Parliament adjourned till 10:0 am tomorrow",
+    "file_name": "/tmp/news_lk2/articles/7d/7d6722f3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Security-beefed-up-around-parliament/342-241366",
+    "time_ut": 1658205962,
+    "original_lang": "en",
+    "original_title": "Security beefed up around parliament",
+    "file_name": "/tmp/news_lk2/articles/b8/b835f1e4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca--\u0d85\u0db1\u0dd4\u0dbb-\u0dc4\u0dcf-\u0da9\u0dbd\u0dc3\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0da7/11-395524",
+    "time_ut": 1658205788,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca, \u0d85\u0db1\u0dd4\u0dbb \u0dc4\u0dcf \u0da9\u0dbd\u0dc3\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/4a/4a93ea99.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-395523",
+    "time_ut": 1658205657,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b1/b105409d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0db8-\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0db6\u0dcf\u0dbb-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/101-616661",
+    "time_ut": 1658205514,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dcf\u0db8 \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0db6\u0dcf\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f2/f2848b33.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131753",
+    "time_ut": 1658205506,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0baa\u0bb8\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/68/6896e7e5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83732/sajith-withdraws-candidacy-sjb-to-support-dullas-for-presidency",
+    "time_ut": 1658205480,
+    "original_lang": "en",
+    "original_title": "Sajith withdraws candidacy; SJB to support Dullas for Presidency",
+    "file_name": "/tmp/news_lk2/articles/67/67ce91c6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Opposition-Leader-Sajith-Premadasa-withdraws-from-Presidential-nomination/342-241365",
+    "time_ut": 1658205414,
+    "original_lang": "en",
+    "original_title": "Opposition Leader Sajith Premadasa withdraws from Presidential nomination",
+    "file_name": "/tmp/news_lk2/articles/62/623ff8be.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/19/sajith-premadasa-withdraws-from-race-for-president/",
+    "time_ut": 1658205240,
+    "original_lang": "en",
+    "original_title": "Sajith Premadasa withdraws from race for President",
+    "file_name": "/tmp/news_lk2/articles/02/02669b4a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0db4\u0dcf\u0dbb-\u0d9a\u0dd0\u0db4\u0dd3\u0db8/2-616660",
+    "time_ut": 1658205164,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0db4\u0dcf\u0dbb \u0d9a\u0dd0\u0db4\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/13/13604a6e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/72-300704",
+    "time_ut": 1658204494,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd; \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d1/d1ca4f04.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sajith-withdraws-from-sri-lanka-president-race-97625/",
+    "time_ut": 1658204460,
+    "original_lang": "en",
+    "original_title": "Sajith withdraws from Sri Lanka President race",
+    "file_name": "/tmp/news_lk2/articles/bd/bd62ec03.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dba\u0dd2-/1-616659",
+    "time_ut": 1658204129,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/b0/b0694f38.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/19/nomination-day-today-19-process-of-electing-president-by-parliament/",
     "time_ut": 1658204040,
@@ -64,12 +256,20 @@
     "file_name": "/tmp/news_lk2/articles/bb/bbbc2d84.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd2\u0db1-\u0dc3\u0dc4\u0dbd\u0dca\u0dc0\u0dbd-\u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2/11-395522",
+    "time_ut": 1658202955,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd2\u0db1 \u0dc3\u0dc4\u0dbd\u0dca\u0dc0\u0dbd \u0dad\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e8/e8ecfdbc.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0db1\u0db8\u0dca-\u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8--\u0d85\u0daf-\u0d8b\u0daf\u0dda--10-00\u0da7/1-616654",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0db1\u0db8\u0dca-\u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8--\u0d85\u0daf-\u0d8b\u0daf\u0dda--10-00\u0da7/101-616654",
     "time_ut": 1658202728,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba\u0da7 \u0db1\u0db8\u0dca \u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8  \u0d85\u0daf \u0d8b\u0daf\u0dda  10.00\u0da7",
-    "file_name": "/tmp/news_lk2/articles/28/28ef6873.json"
+    "file_name": "/tmp/news_lk2/articles/fb/fbd37d13.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -289,11 +489,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/X-or-Y-or-System-Change-The-Role-of-Legislators-and-Professionals/172-241357",
+    "url": "https://www.dailymirror.lk/recomended-news/X-or-Y-or-System-Change-The-Role-of-Legislators-and-Professionals/277-241357",
     "time_ut": 1658170090,
     "original_lang": "en",
     "original_title": "X or Y or System Change? The Role of Legislators and Professionals",
-    "file_name": "/tmp/news_lk2/articles/9d/9deefb0b.json"
+    "file_name": "/tmp/news_lk2/articles/37/37d917cc.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -385,11 +585,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Israels-Arkia-considering-to-operate-flights-to-Sri-Lanka/342-241329",
+    "url": "https://www.dailymirror.lk/business-news/Israels-Arkia-considering-to-operate-flights-to-Sri-Lanka/273-241329",
     "time_ut": 1658165336,
     "original_lang": "en",
     "original_title": "Israel\u2019s Arkia considering to operate flights to Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/6e/6ecdc9d2.json"
+    "file_name": "/tmp/news_lk2/articles/75/75e031f0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7798,205 +7998,5 @@
     "original_lang": "en",
     "original_title": "ComBank and CISCO help prepare over 2,000 students for careers in IT",
     "file_name": "/tmp/news_lk2/articles/74/7449c432.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/baurs-commemorates-125th-anniversary-with-a-series-of-community-service-initiatives/",
-    "time_ut": 1657817100,
-    "original_lang": "en",
-    "original_title": "Baurs commemorates 125th anniversary with a series of community service initiatives",
-    "file_name": "/tmp/news_lk2/articles/8f/8f7df011.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9/175-300435",
-    "time_ut": 1657817078,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/19/19abafaf.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78579",
-    "time_ut": 1657816440,
-    "original_lang": "en",
-    "original_title": "Rajanayagam: From Trotskyite Lawyer  to \u201cTamil Times\u201d Editor.",
-    "file_name": "/tmp/news_lk2/articles/cb/cb1d1c1b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131474",
-    "time_ut": 1657816304,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd  \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/48/48f5bd0b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131475",
-    "time_ut": 1657816221,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bbe\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/c4/c42cb13e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131478",
-    "time_ut": 1657816140,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0b8e\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd : \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/8e/8e88096d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83654/probes-into-firearm-stolen-during-protest-handed-over-to-ccd",
-    "time_ut": 1657816140,
-    "original_lang": "en",
-    "original_title": "Probes into firearm stolen during protest handed over to CCD",
-    "file_name": "/tmp/news_lk2/articles/9e/9e65cb0b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Hat-trick-for-Kalubowitiyana-Tea-Factory/34-737499",
-    "time_ut": 1657816125,
-    "original_lang": "en",
-    "original_title": "Hat-trick for Kalubowitiyana Tea Factory",
-    "file_name": "/tmp/news_lk2/articles/92/92e88dbd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131479",
-    "time_ut": 1657815949,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd - \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6c/6c86e047.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-300433",
-    "time_ut": 1657815499,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd!",
-    "file_name": "/tmp/news_lk2/articles/0a/0a1a2521.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131480",
-    "time_ut": 1657815484,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bc6\u0baf\u0bb0\u0bc8  \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/7c/7cbe6d90.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Investors-continue-to-cash-in-on-Sri-Lankan-apparel-sector-s-resilience/34-737498",
-    "time_ut": 1657815371,
-    "original_lang": "en",
-    "original_title": "Investors continue to cash in on  Sri Lankan apparel sector\u2019s resilience",
-    "file_name": "/tmp/news_lk2/articles/f2/f2191c87.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bbf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd/175-300432",
-    "time_ut": 1657814730,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b1/b12a4001.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/sri-lankan-authorities-must-refrain-from-use-of-military-to-police-protests-amnesty-international/",
-    "time_ut": 1657814276,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Authorities Must Refrain From Use Of Military To Police Protests: Amnesty International",
-    "file_name": "/tmp/news_lk2/articles/83/837fa13d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616428",
-    "time_ut": 1657814204,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0db7\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b3/b3867c60.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/End-casino-capitalism-Sri-Lanka-to-join-global-minimum-tax-agreement/4-737492",
-    "time_ut": 1657814026,
-    "original_lang": "en",
-    "original_title": "End casino capitalism: Sri Lanka to join global minimum tax agreement",
-    "file_name": "/tmp/news_lk2/articles/aa/aa1a15fd.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc8\u0baf\u0bc6\u0bbe\u0baa\u0bcd\u0baa\u0bae\u0bbf\u0b9f\u0bcd\u0b9f-\u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd/175-300431",
-    "time_ut": 1657813024,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bc8\u0baf\u0bc6\u0bbe\u0baa\u0bcd\u0baa\u0bae\u0bbf\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d7/d7d87d73.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc4\u0dd9\u0da7-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dba\u0dd2/11-395439",
-    "time_ut": 1657812779,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc4\u0dd9\u0da7 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/05/05ed804c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/14/sri-lanka-presidents-resignation-received-official-announcement-on-friday-15/",
-    "time_ut": 1657812720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President\u2019s resignation received, official announcement on Friday (15)",
-    "file_name": "/tmp/news_lk2/articles/56/56d9675c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd3\u200d\u0db8-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc4\u0dd9\u0da7/11-395438",
-    "time_ut": 1657812296,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u200d\u0db8 \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc4\u0dd9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/4e/4ef0fa5b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Speaker-receives-Prezs-resignation-official-announcement-to-be-made-tomorrow/108-241098",
-    "time_ut": 1657811933,
-    "original_lang": "en",
-    "original_title": "Speaker receives Prez\u2019s resignation, official announcement to be made tomorrow",
-    "file_name": "/tmp/news_lk2/articles/1b/1bfe96b4.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131483",
-    "time_ut": 1657811817,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/98/98b08605.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-fled-president-sends-resignation-letter-via-email-legality-checked-sources-97420/",
-    "time_ut": 1657811760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s fled president sends resignation letter via email, legality checked \u2013 sources",
-    "file_name": "/tmp/news_lk2/articles/85/8558baea.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-emails-resignation-from-singapore-97420/",
-    "time_ut": 1657811760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka President emails resignation from Singapore",
-    "file_name": "/tmp/news_lk2/articles/6b/6b3b83d4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dbb\u0dd0\u0d9a\u0dc0\u0dbb\u0dab\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1---\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0/11-395437",
-    "time_ut": 1657811251,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0dbb\u0dd0\u0d9a\u0dc0\u0dbb\u0dab\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1 - \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/ec/ec83f4dd.json"
   }
 ]
