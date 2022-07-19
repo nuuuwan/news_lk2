@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 04:10:09 (LK time)*
+*As of 2022-07-20 04:21:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
-* **9** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
+* **7** daily-ft-lk ([Third batch of China’s grant rice arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/300def0e.json))
 
 * **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
