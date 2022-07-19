@@ -1,0 +1,165 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0dba\u0dc5\u0dd2-\u0dc4\u0dd2\u0dc3-\u0d94\u0dc3\u0dc0\u0dba\u0dd2/11-395540",
+  "time_ut": 1658217221,
+  "original_lang": "si",
+  "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Corona is rearing its head again",
+      "author": "unknown",
+      "body_lines": [
+        "Dr. Samitha Ginige, Head of the Epidemiology Department, said that there is a risk of the spread of the corona virus again in Sri Lanka and yesterday (18th) 62 people infected with the corona virus were identified.",
+        "The specialist doctor said this in a press conference held today (19th) in Colombo regarding the increase in corona infected people."
+      ],
+      "title_ents": [
+        {
+          "text": "Corona",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Samitha Ginige",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Epidemiology Department",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "18th",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "62",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0db8\u0dd9\u0dbb\u0da7\u0dd2\u0db1\u0dca \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dc0\u0ddb\u0dbb\u0dc3\u0dba \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dca\u0dad \u0dc0\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db8\u0dad\u0dd4\u0dc0 \u0d87\u0dad\u0dd2 \u0db6\u0dc0\u0dad\u0dca \u0d8a\u0dba\u0dda (18\u0daf\u0dcf) \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d85\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0dd2\u0db1\u0dca 62\u0d9a\u0dca \u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0d9c\u0dad\u0dca \u0db6\u0dc0\u0daf\u00a0\u0dc0\u0dc3\u0d82\u0d9c\u0dad \u0dbb\u0ddd\u0d9c \u0d85\u0d82\u0dc1\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dca\u200d\u0dba \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0dc3\u0db8\u0dd2\u0dad \u0d9c\u0dd2\u0db1\u0dd2\u0d9c\u0dda \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5\u0dca\u200d\u0dba \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dcf \u0db8\u0dd9\u0dca \u0db6\u0dc0 \u0db4\u0dd0\u0dc0\u0dc3\u0dd4\u0dc0\u0dda\u00a0\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0daf\u0dd3 \u0d85\u0daf (19\u0daf\u0dcf) \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc4\u0db8\u0dd4\u0dc0\u0d9a \u0daf\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0db8\u0dd2\u0dad \u0d9c\u0dd2\u0db1\u0dd2\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0d82\u0d9c\u0dad \u0dbb\u0ddd\u0d9c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "18 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "62",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bb2\u0bc8 \u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0baa\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (18\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0bb5\u0bc8\u0bb0\u0bb8\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 62 \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd \u0b9a\u0bae\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0bc7 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (19) \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0ba3\u0bcd\u0b9f\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bae\u0bbf\u0ba4\u0bbe \u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0bc7",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "18\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "62",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
