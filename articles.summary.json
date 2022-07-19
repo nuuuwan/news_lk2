@@ -216,12 +216,28 @@
     "file_name": "/tmp/news_lk2/articles/61/61e0f9fb.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combank-wins-coveted-double-at-asiamoney-banking-awards/",
+    "time_ut": 1658158440,
+    "original_lang": "en",
+    "original_title": "ComBank wins coveted double at Asiamoney Banking Awards",
+    "file_name": "/tmp/news_lk2/articles/2b/2b21b8d8.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-hit-over-3-wk-high-amid-foreign-buying-on-hopes-of-political-stability-97592/",
     "time_ut": 1658158380,
     "original_lang": "en",
     "original_title": "Sri Lanka stocks hit over 3-wk high amid foreign buying on hopes of political stability",
     "file_name": "/tmp/news_lk2/articles/90/90c5dfbc.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/scalefusion-takes-mobile-device-management-to-the-next-level/",
+    "time_ut": 1658158380,
+    "original_lang": "en",
+    "original_title": "Scalefusion takes mobile device management to the next level",
+    "file_name": "/tmp/news_lk2/articles/57/5711635c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2664,12 +2680,28 @@
     "file_name": "/tmp/news_lk2/articles/e4/e43a87e3.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/path-to-knowledge/",
+    "time_ut": 1658060880,
+    "original_lang": "en",
+    "original_title": "Path to Knowledge",
+    "file_name": "/tmp/news_lk2/articles/2b/2b22cc31.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83706/acting-president-orders-probe-into-alleged-attempts-to-influence-mps-votes",
     "time_ut": 1658060820,
     "original_lang": "en",
     "original_title": "Acting President orders probe into alleged attempts to influence MPs\u2019 votes",
     "file_name": "/tmp/news_lk2/articles/9a/9a686186.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dangers-of-aggressive-dog-breeds-and-threat-of-not-training-them-well/",
+    "time_ut": 1658060820,
+    "original_lang": "en",
+    "original_title": "Dangers of aggressive dog breeds and threat of not training them well",
+    "file_name": "/tmp/news_lk2/articles/1b/1be2aed1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2800,6 +2832,14 @@
     "file_name": "/tmp/news_lk2/articles/b4/b47a549c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/brandix-undp-partner-to-cultivate-500-acres-during-mid-season/",
+    "time_ut": 1658057460,
+    "original_lang": "en",
+    "original_title": "Brandix, UNDP partner to cultivate 500 acres during mid-season",
+    "file_name": "/tmp/news_lk2/articles/b4/b4cf3f15.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131649",
     "time_ut": 1658056947,
@@ -2825,11 +2865,27 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/lolc-on-rs-500mn-humanitarian-project/",
+    "time_ut": 1658056860,
+    "original_lang": "en",
+    "original_title": "LOLC on Rs.500mn humanitarian project",
+    "file_name": "/tmp/news_lk2/articles/11/11b59590.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/exporters-to-germany-likely-to-face-more-regulatory-burdens-from-january-2023/",
     "time_ut": 1658056740,
     "original_lang": "en",
     "original_title": "Exporters to Germany likely to face more regulatory burdens from January 2023",
     "file_name": "/tmp/news_lk2/articles/c0/c016d7c3.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/us-dollar-strengthens-against-six-major-currencies/",
+    "time_ut": 1658056620,
+    "original_lang": "en",
+    "original_title": "US dollar strengthens against six major currencies",
+    "file_name": "/tmp/news_lk2/articles/65/658b97b9.json"
   },
   {
     "newspaper_id": "island-lk",
