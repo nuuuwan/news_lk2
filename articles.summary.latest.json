@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd8\u0daf-\u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0dba\u0dda-\u0daf\u0dc3-\u0daf\u0dd9\u0db1\u0dcf\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca\u0da7/101-616708",
+    "time_ut": 1658253139,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd8\u0daf \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0dba\u0dda \u0daf\u0dc3 \u0daf\u0dd9\u0db1\u0dcf\u0dad\u0dca \u0da9\u0dbd\u0dc3\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/6b/6b629bb2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Some-TNA-SJB-SLFP-MPs-to-vote-for-Ranil/108-241393",
+    "time_ut": 1658252031,
+    "original_lang": "en",
+    "original_title": "Some TNA, SJB, SLFP MPs to vote for Ranil",
+    "file_name": "/tmp/news_lk2/articles/fc/fc5bee0e.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Some-TNA-SLFP-MPs-to-vote-for-Ranil/108-241393",
     "time_ut": 1658252031,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0ddd\u0daf \u0dad\u0dd4\u0db1\u0dda \u0d9c\u0db8\u0db1 \u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dab\u0db1\u0dca",
     "file_name": "/tmp/news_lk2/articles/36/366c75d1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83671/sc-issues-temporary-travel-ban-on-mahinda-and-basil",
-    "time_ut": 1657883340,
-    "original_lang": "en",
-    "original_title": "SC issues temporary travel ban on Mahinda and Basil",
-    "file_name": "/tmp/news_lk2/articles/74/743ad3f1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83671/sc-issues-travel-ban-on-mahinda-and-basil",
-    "time_ut": 1657883340,
-    "original_lang": "en",
-    "original_title": "SC issues travel ban on Mahinda and Basil",
-    "file_name": "/tmp/news_lk2/articles/4e/4eaeeca4.json"
   }
 ]
