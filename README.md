@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 02:01:35 (LK time)*
+*As of 2022-07-20 02:08:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **2** daily-ft-lk ([Weerawansa, Gammanpila and group to back Dullas for President](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/930aebf4.json))
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
@@ -16,11 +14,11 @@
 
 * **1** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (21 Articles)
 
 * **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **6** daily-mirror-lk ([Some TNA, SLFP MPs to vote for Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bb14463.json))
+* **4** daily-mirror-lk ([Dullas, Sajith agree to fulfill TNA demands in return for support](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c9c666.json))
 
 * **3** ada-derana-lk ([Suspended postal services to three countries resume](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d09748b6.json))
 
