@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83748/cpcs-notice-on-dispensing-fuel-from-july-21",
+    "time_ut": 1658247300,
+    "original_lang": "en",
+    "original_title": "CPC\u2019s notice on dispensing fuel from July 21",
+    "file_name": "/tmp/news_lk2/articles/72/7252a979.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131840",
+    "time_ut": 1658247143,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0bae\u0bb2\u0bc8 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd : \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8 \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/fa/fa41fee7.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131841",
     "time_ut": 1658245954,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "New President : MPs now represent entire electorate of Sri Lanka, says BASL",
     "file_name": "/tmp/news_lk2/articles/e1/e1b3a912.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca-\u0d85\u0daf-\u0dc3\u0dc0\u0dc3/1-616471",
-    "time_ut": 1657880060,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0d85\u0daf \u0dc3\u0dc0\u0dc3",
-    "file_name": "/tmp/news_lk2/articles/1e/1e84e816.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83668/sri-lanka-faces-shutdown-without-stable-govt-cbsl-governor-warns",
-    "time_ut": 1657879800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka faces shutdown without stable govt: CBSL governor warns",
-    "file_name": "/tmp/news_lk2/articles/3e/3ecb6a23.json"
   }
 ]
