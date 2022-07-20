@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca\u0dc0\u0dbd-\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0da7-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/101-616755",
+    "time_ut": 1658316042,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca\u0dc0\u0dbd \u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba\u0da7 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/04/0438e19c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0dc3\u0dc4\u0dcf\u0dba-\u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0dc4\u0dd0\u0d9a\u0dd2-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/101-616754",
+    "time_ut": 1658315643,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dc4\u0dcf\u0dba \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0dda \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0dc4\u0dd0\u0d9a\u0dd2 \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/97/9761b5bb.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bae\u0ba4\u0bc1-\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-300801",
+    "time_ut": 1658315509,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bae\u0ba4\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ca/ca25e393.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83768/four-arrested-for-torching-ranils-residence-remanded",
     "time_ut": 1658315100,
@@ -17,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dc3\u0da7\u0db1-\u0d85\u0dad\u0dca-\u0db1\u0ddc\u0dc4\u0dbb\u0dd2\u0dad\u0dd2/1-616753",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0dc3\u0da7\u0db1-\u0d85\u0dad\u0dca-\u0db1\u0ddc\u0dc4\u0dbb\u0dd2\u0dad\u0dd2/101-616753",
     "time_ut": 1658314605,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0dc3\u0da7\u0db1 \u0d85\u0dad\u0dca \u0db1\u0ddc\u0dc4\u0dbb\u0dd2\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/21/21d76825.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a8dbb5c7.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -161,11 +185,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dd9\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d87\u0db1\u0dc0\u0dd4\u0db8\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dad\u0dd2/101-616746",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dd9\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd-\u0d87\u0db1\u0dc0\u0dd4\u0db8\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dad\u0dd2/1-616746",
     "time_ut": 1658310177,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dd9\u0daf\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd \u0d87\u0db1\u0dc0\u0dd4\u0db8\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/60/605e0f9f.json"
+    "file_name": "/tmp/news_lk2/articles/8f/8f2ed21a.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLFP decides to refrain from voting in election for presidency",
     "file_name": "/tmp/news_lk2/articles/e8/e89af403.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83686/slfp-decides-not-to-vote-in-election-for-presidency",
-    "time_ut": 1657965300,
-    "original_lang": "en",
-    "original_title": "SLFP decides not to vote in election for presidency",
-    "file_name": "/tmp/news_lk2/articles/12/1284be08.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba\u0dda-\u0dc3\u0dc4\u0dba-\u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca-\u0db1\u0dd1/101-616529",
-    "time_ut": 1657964866,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba\u0dda \u0dc3\u0dc4\u0dba \u0d9a\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/cd/cdad9b3f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/orionstellar-data-center-awarded-iso-27001-information-security-management-system-certification/",
-    "time_ut": 1657964760,
-    "original_lang": "en",
-    "original_title": "OrionStellar Data Center awarded ISO 27001 Information Security Management System certification",
-    "file_name": "/tmp/news_lk2/articles/a6/a6dbd009.json"
   }
 ]
