@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83763/newly-elected-presidents-invitation-to-all-political-parties",
+    "time_ut": 1658303520,
+    "original_lang": "en",
+    "original_title": "Newly elected President\u2019s invitation to all political parties",
+    "file_name": "/tmp/news_lk2/articles/e3/e32f2b12.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd/175-300793",
+    "time_ut": 1658303418,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0bae\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/78/78c1fd46.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Dinesh-Gunawardena-tipped-to-be-PM/108-241444",
+    "time_ut": 1658303409,
+    "original_lang": "en",
+    "original_title": "Dinesh Gunawardena tipped to be PM",
+    "file_name": "/tmp/news_lk2/articles/20/20d3e098.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dad\u0dcf-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad\u0dda-\u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd6\u0dc0\u0dcf---\u0d85\u0db1\u0dd4\u0dbb/11-395585",
     "time_ut": 1658302600,
@@ -40,6 +64,14 @@
     "file_name": "/tmp/news_lk2/articles/72/72f7de0f.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/india-denies-influencing-sri-lanka-president-vote-97714/",
+    "time_ut": 1658301540,
+    "original_lang": "en",
+    "original_title": "India denies influencing Sri Lanka President vote",
+    "file_name": "/tmp/news_lk2/articles/b2/b232b461.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131863",
     "time_ut": 1658301343,
@@ -73,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/155-241442",
+    "url": "https://www.dailymirror.lk/latest_news/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/342-241442",
     "time_ut": 1658301017,
     "original_lang": "en",
     "original_title": "RANIL WICKREMESINGHE WINS PRESIDENTIAL VOTE",
-    "file_name": "/tmp/news_lk2/articles/39/39dc47e6.json"
+    "file_name": "/tmp/news_lk2/articles/85/853178c3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Postal services to four countries suspended",
     "file_name": "/tmp/news_lk2/articles/0e/0ee15d42.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131560",
-    "time_ut": 1657954718,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd, \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd, \u0b9f\u0bb3\u0bb8\u0bcd \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/74/7419e7ed.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7-\u0db1\u0dd2\u0daf\u0dc4\u0dc3--/1-616519",
-    "time_ut": 1657954629,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dca\u0da2\u0db1\u0dca\u0da7 \u0db1\u0dd2\u0daf\u0dc4\u0dc3 ?",
-    "file_name": "/tmp/news_lk2/articles/5b/5b6a8dc2.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/National-Fuel-Pass-to-be-introduced-today/108-241220",
-    "time_ut": 1657954615,
-    "original_lang": "en",
-    "original_title": "National Fuel Pass to be introduced today",
-    "file_name": "/tmp/news_lk2/articles/ef/ef16a1df.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf-\u0da9\u0dd0\u0dc4\u0dd0\u0d9c\u0dd9\u0db1-\u0d9c\u0dd2\u0dba-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395472",
-    "time_ut": 1657954540,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf \u0da9\u0dd0\u0dc4\u0dd0\u0d9c\u0dd9\u0db1 \u0d9c\u0dd2\u0dba \u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d4/d4eb5288.json"
   }
 ]
