@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 02:18:17 (LK time)*
+*As of 2022-07-21 02:28:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **4** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
+* **1** daily-ft-lk ([Protesters sombre after Wickremesinghe’s win, but some vow to fight on](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef171c8d.json))
 
-## Last Hour (5 Articles)
+## Last Hour (6 Articles)
 
-* **5** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
+* **6** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (13 Articles)
 
-* **9** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
 * **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (265 Articles)
 
 * **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -36,13 +36,13 @@
 
 * **16** news-first-lk ([Parliament to elect new President today (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1730ec0.json))
 
-* **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
+* **11** daily-ft-lk ([Ranil elected President](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c16c5be.json))
 
-* **10** daily-ft-lk ([Ranil elected President](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c16c5be.json))
+* **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,763 Articles)
+## Last Week (1,764 Articles)
 
 * **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -58,7 +58,7 @@
 
 * **134** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
 
-* **93** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
+* **94** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
 * **82** economy-next-com ([Sri Lanka curfew ends after overnight battles near parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8786fd0d.json))
 
@@ -70,7 +70,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,053 Articles)
+## All Time (3,054 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +86,7 @@
 
 * **205** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **195** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **196** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **151** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 

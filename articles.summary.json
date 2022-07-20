@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Protesters-sombre-after-Wickremesinghe-s-win-but-some-vow-to-fight-on/56-737740",
+    "time_ut": 1658349156,
+    "original_lang": "en",
+    "original_title": "Protesters sombre after Wickremesinghe\u2019s win, but some vow to fight on",
+    "file_name": "/tmp/news_lk2/articles/ef/ef171c8d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Legal-action-against-occupiers/56-737739",
     "time_ut": 1658348873,
     "original_lang": "en",
