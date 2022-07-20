@@ -1,14 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 03:57:07 (LK time)*
+*As of 2022-07-21 04:12:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **8** daily-ft-lk ([Quickee.lk unveils ‘Quickee Mansion’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab098cb6.json))
+* **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
-## Last 24 Hours (266 Articles)
+## Last Hour (3 Articles)
+
+* **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+
+## Last 3 Hours (9 Articles)
+
+* **6** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
+
+* **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+
+## Last 24 Hours (269 Articles)
 
 * **51** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -18,7 +28,7 @@
 
 * **37** ada-lk ([සිපෙට්කෝ වෙතින් හෙට සිට ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a306ccc2.json))
 
-* **28** daily-mirror-lk ([Ranil, Dullas in close presidential race today](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aafff0f.json))
+* **31** daily-mirror-lk ([Ranil, Dullas in close presidential race today](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aafff0f.json))
 
 * **23** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfec878b.json))
 
@@ -30,7 +40,7 @@
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,760 Articles)
+## Last Week (1,762 Articles)
 
 * **334** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -38,7 +48,7 @@
 
 * **201** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
-* **186** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
+* **189** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
 
 * **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
@@ -54,17 +64,17 @@
 
 * **27** b-b-c-com-sinhala (['ජනපති ඉල්ලා අස්වීමේ ලිපිය නොදෙන්නේ නම් ධුරය හැරගියා සේ සලකනවා' - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f2cd72c.json))
 
-* **21** colombo-telegraph-com ([The Destiny Of China’s Colony Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ea98e8.json))
+* **20** colombo-telegraph-com ([On The Eve Of 39th ‘Black July’ Anniversary – A War Cry! Sarath Weerasekera’s Warning To TNA](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aaf20a7.json))
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,055 Articles)
+## All Time (3,058 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **446** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **373** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
+* **376** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
 * **325** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

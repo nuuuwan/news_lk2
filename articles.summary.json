@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Anarchy-and-the-Aragalaya/172-241465",
+    "time_ut": 1658356223,
+    "original_lang": "en",
+    "original_title": "Anarchy and the Aragalaya",
+    "file_name": "/tmp/news_lk2/articles/74/74ab72d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-Aragalaya-a-postscript/172-241464",
+    "time_ut": 1658355892,
+    "original_lang": "en",
+    "original_title": "The Aragalaya: a postscript",
+    "file_name": "/tmp/news_lk2/articles/6a/6a94e581.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/The-house-Rajapaksas-built-comes-tumbling-down/172-241463",
+    "time_ut": 1658355797,
+    "original_lang": "en",
+    "original_title": "The \u201chouse\u201d Rajapaksas built comes tumbling down",
+    "file_name": "/tmp/news_lk2/articles/89/89c7b331.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Protesters-sombre-after-Wickremesinghe-s-win-but-some-vow-to-fight-on/56-737740",
     "time_ut": 1658349156,
@@ -169,11 +193,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Composition-in-Parliament-don-t-represent-true-desires-of-people-AKD/342-241462",
+    "url": "https://www.dailymirror.lk/breaking_news/Composition-in-Parliament-don-t-represent-true-desires-of-people-AKD/108-241462",
     "time_ut": 1658333290,
     "original_lang": "en",
     "original_title": "Composition in Parliament don't represent true desires of people: AKD",
-    "file_name": "/tmp/news_lk2/articles/a8/a872f7ba.json"
+    "file_name": "/tmp/news_lk2/articles/51/51c260f0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
