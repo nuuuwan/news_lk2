@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Our-candidate-couldn-t-win-MR/108-241460",
+    "time_ut": 1658331029,
+    "original_lang": "en",
+    "original_title": "Our candidate couldn't win: MR",
+    "file_name": "/tmp/news_lk2/articles/52/52228982.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Our-candidate-was-unable-to-win-MR/342-241460",
     "time_ut": 1658331029,
     "original_lang": "en",
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ranil-visits-Gangaramaya/342-241459",
+    "url": "https://www.dailymirror.lk/caption_story/Ranil-visits-Gangaramaya/110-241459",
     "time_ut": 1658329973,
     "original_lang": "en",
     "original_title": "Ranil visits Gangaramaya",
-    "file_name": "/tmp/news_lk2/articles/5d/5d3b703b.json"
+    "file_name": "/tmp/news_lk2/articles/15/1526082b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -230,6 +238,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Treasuries yields down",
     "file_name": "/tmp/news_lk2/articles/13/131db48d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131895",
+    "time_ut": 1658320965,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe\u0ba9 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baa\u0bcb\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd - \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0",
+    "file_name": "/tmp/news_lk2/articles/44/44425350.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "",
     "file_name": "/tmp/news_lk2/articles/c4/c48a62e5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd/175-300549",
-    "time_ut": 1657993030,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b8/b8f0e722.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83692/ex-president-gotabaya-says-he-took-all-possible-steps-to-prevent-crisis",
-    "time_ut": 1657992900,
-    "original_lang": "en",
-    "original_title": "Ex-President Gotabaya says he \u2018took all possible steps\u2019 to prevent crisis",
-    "file_name": "/tmp/news_lk2/articles/63/6314c851.json"
   }
 ]
