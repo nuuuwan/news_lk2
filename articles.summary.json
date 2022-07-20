@@ -1,11 +1,75 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300763",
+    "time_ut": 1658282940,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/57/57c7683d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83755/sjb-will-vote-for-dullas-as-decided-general-secretary",
+    "time_ut": 1658282640,
+    "original_lang": "en",
+    "original_title": "SJB will vote for Dullas as decided - General Secretary",
+    "file_name": "/tmp/news_lk2/articles/34/349f6cb2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83754/cwc-to-support-ranils-bid-for-presidency",
+    "time_ut": 1658282100,
+    "original_lang": "en",
+    "original_title": "CWC to support Ranil\u2019s bid for presidency",
+    "file_name": "/tmp/news_lk2/articles/3d/3d9f19fd.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83753/harin-says-a-section-of-sjb-tna-and-slfp-mps-will-vote-for-ranil",
+    "time_ut": 1658280960,
+    "original_lang": "en",
+    "original_title": "Harin says a section of SJB, TNA and SLFP MPs will vote for Ranil",
+    "file_name": "/tmp/news_lk2/articles/43/43d34b70.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Dullas-in-close-presidential-race-today/108-241401",
+    "time_ut": 1658280926,
+    "original_lang": "en",
+    "original_title": "Ranil, Dullas in close presidential race today",
+    "file_name": "/tmp/news_lk2/articles/1a/1aafff0f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/parliament-to-elect-new-president-today-20/",
+    "time_ut": 1658280720,
+    "original_lang": "en",
+    "original_title": "Parliament to elect new President today (20)",
+    "file_name": "/tmp/news_lk2/articles/d1/d1730ec0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131844",
+    "time_ut": 1658280350,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/77/77bd4bc5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83752/fairly-heavy-showers-expected-in-parts-of-the-country",
     "time_ut": 1658280060,
     "original_lang": "en",
     "original_title": "Fairly heavy showers expected in parts of the country",
     "file_name": "/tmp/news_lk2/articles/bf/bfec878b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1/11-395559",
+    "time_ut": 1658279909,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1",
+    "file_name": "/tmp/news_lk2/articles/a3/a306ccc2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -94,6 +158,14 @@
     "original_lang": "en",
     "original_title": "Invest to progress, not to regress: Bridging the infrastructure gaps in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/b6/b62db5d4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0baa\u0bbe\u0bb2\u0bcd-\u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-300759",
+    "time_ut": 1658258158,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0baa\u0bbe\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/7c/7c592b6f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -390,6 +462,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9f\u0bb2\u0bb8\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf - \u0b9a\u0ba9\u0bcd\u0ba9 \u0b9c\u0baf\u0b9a\u0bc1\u0bae\u0ba9",
     "file_name": "/tmp/news_lk2/articles/5e/5e97c670.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131830",
+    "time_ut": 1658244847,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0bb3\u0bcd\u0bb3\u0b95 \u0b9f\u0bc0\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0ba9 \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0b95\u0bb0\u0bc1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/42/42f39aca.json"
   },
   {
     "newspaper_id": "virakesari-lk",
