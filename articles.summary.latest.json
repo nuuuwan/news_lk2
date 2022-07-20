@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131867",
+    "time_ut": 1658304107,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba8\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb0\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ae/aed83c04.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Schools-to-function-three-days-a-week-two-days-online-until-further-notice/108-241445",
+    "time_ut": 1658303925,
+    "original_lang": "en",
+    "original_title": "Schools to function three days a week, two days online until further notice",
+    "file_name": "/tmp/news_lk2/articles/0e/0e0cc7f7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131866",
+    "time_ut": 1658303738,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0bb0\u0bc8\u0baf\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f\u0bbf \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf\u0baf 4 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5e/5eca5520.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0db8\u0dc4-\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/101-616741",
+    "time_ut": 1658303686,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db8\u0dc4 \u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/aa/aaa7831f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83763/newly-elected-presidents-invitation-to-all-political-parties",
     "time_ut": 1658303520,
@@ -105,11 +137,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/342-241442",
+    "url": "https://www.dailymirror.lk/top_story/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/155-241442",
     "time_ut": 1658301017,
     "original_lang": "en",
     "original_title": "RANIL WICKREMESINGHE WINS PRESIDENTIAL VOTE",
-    "file_name": "/tmp/news_lk2/articles/85/853178c3.json"
+    "file_name": "/tmp/news_lk2/articles/39/39dc47e6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "AKD to contest for presidency from NPP",
     "file_name": "/tmp/news_lk2/articles/ea/eacb6305.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/anura-kumara-dissanayake-to-contest-for-presidency/",
-    "time_ut": 1657955040,
-    "original_lang": "en",
-    "original_title": "Anura Kumara Dissanayake to contest for Presidency",
-    "file_name": "/tmp/news_lk2/articles/cc/cc69e900.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131561",
-    "time_ut": 1657954938,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/fa/fa074584.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0-\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bb5\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-300525",
-    "time_ut": 1657954820,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba9\u0bc1\u0bb0 \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/f5/f5ff5db2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83683/postal-services-to-four-countries-suspended",
-    "time_ut": 1657954740,
-    "original_lang": "en",
-    "original_title": "Postal services to four countries suspended",
-    "file_name": "/tmp/news_lk2/articles/0e/0ee15d42.json"
   }
 ]
