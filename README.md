@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 01:18:58 (LK time)*
+*As of 2022-07-21 01:30:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (4 Articles)
-
-* **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
 ## Last Hour (4 Articles)
 
 * **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
@@ -22,9 +18,7 @@
 
 * **1** ada-derana-lk ([New President vows tough line against troublemakers](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a05efb84.json))
 
-* **1** virakesari-lk ([5 மாதங்களுக்குள் நாட்டை மீட்க முடியும் - மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/188ae9e0.json))
-
-## Last 24 Hours (270 Articles)
+## Last 24 Hours (264 Articles)
 
 * **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -40,9 +34,9 @@
 
 * **16** news-first-lk ([Parliament to elect new President today (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1730ec0.json))
 
-* **14** daily-ft-lk ([Agriculture Department begins to distribute urea fertiliser countywide](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b618070a.json))
-
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
+
+* **8** daily-ft-lk ([FR against Acting President Ranil Wickremesinghe dismissed by SC](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6229156.json))
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
