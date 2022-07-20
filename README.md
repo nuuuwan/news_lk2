@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 23:58:16 (LK time)*
+*As of 2022-07-21 00:13:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
-
-* **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
 ## Last Hour (2 Articles)
 
@@ -16,11 +14,11 @@
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **6** virakesari-lk ([கட்சிகள் எடுத்த தீர்மானத்துக்கு அமைய உறுப்பினர்கள் செயற்படவில்லை - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76b0be94.json))
 
-* **5** daily-mirror-lk ([Our candidate was unable to win: MR](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f96917b.json))
+* **3** daily-mirror-lk ([Not a defeat but an encouraging guidance: Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2051f91.json))
 
 * **2** ada-derana-lk ([CBSL statement on concessions to affected borrowers of licensed banks](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3ede088.json))
 
@@ -28,7 +26,7 @@
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 24 Hours (276 Articles)
+## Last 24 Hours (274 Articles)
 
 * **49** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -40,7 +38,7 @@
 
 * **31** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
 
-* **25** ada-derana-lk ([India worried about Lanka crisis spillover: Jaishankar at all-party meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d93371c5.json))
+* **23** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfec878b.json))
 
 * **16** news-first-lk ([Parliament to elect new President today (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1730ec0.json))
 
@@ -52,7 +50,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
 
-## Last Week (1,761 Articles)
+## Last Week (1,759 Articles)
 
 * **332** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -62,9 +60,9 @@
 
 * **195** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dab49164.json))
 
-* **179** ada-lk ([රෑ 12.00ට පෙර ජනපති ඉල්ලා අස්වීම දෙනවා කිව්වා - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5fbeabf.json))
+* **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
-* **161** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
+* **160** ada-derana-lk ([Number of injured in protests climbs over 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0cc2392.json))
 
 * **134** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
 
