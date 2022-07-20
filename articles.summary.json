@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-overnight-money-markets-dry-up-as-soft-peg-drives-up-counterparty-risks-97681/",
+    "time_ut": 1658286060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks",
+    "file_name": "/tmp/news_lk2/articles/00/00ef2384.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83756/sri-lankas-parliament-to-elect-president-in-three-way-contest-today",
+    "time_ut": 1658285340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Parliament to elect President in three-way contest today",
+    "file_name": "/tmp/news_lk2/articles/3a/3a2c8482.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/rainfall-for-western-province-today-20/",
+    "time_ut": 1658285340,
+    "original_lang": "en",
+    "original_title": "Rainfall for Western Province today (20)",
+    "file_name": "/tmp/news_lk2/articles/5c/5cb162c2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0db6\u0dba\u0da7--\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1-\u0dad\u0dc4\u0db1\u0db8\u0dca/1-616709",
+    "time_ut": 1658284341,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7  \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/25/25bcf6e3.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300763",
     "time_ut": 1658282940,
@@ -22,6 +54,14 @@
     "original_lang": "en",
     "original_title": "CWC to support Ranil\u2019s bid for presidency",
     "file_name": "/tmp/news_lk2/articles/3d/3d9f19fd.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0dd2\u0dbb\u0dab\u0dba-\u0d85\u0daf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3/11-395560",
+    "time_ut": 1658281451,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0dd2\u0dbb\u0dab\u0dba \u0d85\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/bf/bfeb3105.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -150,6 +190,14 @@
     "original_lang": "en",
     "original_title": "If only those walls could talk",
     "file_name": "/tmp/news_lk2/articles/59/593d5710.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-300760",
+    "time_ut": 1658258633,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/84/84ea3ef6.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -1086,6 +1134,14 @@
     "original_lang": "en",
     "original_title": "Ghana battles highly infectious Marburg virus as outbreak is declared",
     "file_name": "/tmp/news_lk2/articles/21/21604c0d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd2\u0dc0\u0dca-\u0d86\u0dbb\u0dca--\u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0da7-\u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba-\u0dc4\u0dbb\u0dc3\u0dca-\u0dc0\u0dd9\u0dba\u0dd2--/1-616692",
+    "time_ut": 1658228075,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0dc0\u0dca.\u0d86\u0dbb\u0dca. \u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0da7 \u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0dc4\u0dbb\u0dc3\u0dca \u0dc0\u0dd9\u0dba\u0dd2 ?",
+    "file_name": "/tmp/news_lk2/articles/9b/9b939224.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2328,6 +2384,14 @@
     "file_name": "/tmp/news_lk2/articles/98/98f1e3ed.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78644",
+    "time_ut": 1658171160,
+    "original_lang": "en",
+    "original_title": "Prime Minister and Acting President Ranil Wickremesinghe issues Special Statement briefly recapping his  multiple achievements during the past 67 days in office.",
+    "file_name": "/tmp/news_lk2/articles/3f/3f0699fd.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/9-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8-\u0b87\u0ba4\u0bc1\u0bb5\u0bb0\u0bc8-3-215-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300693",
     "time_ut": 1658170449,
@@ -2342,6 +2406,14 @@
     "original_lang": "en",
     "original_title": "X or Y or System Change? The Role of Legislators and Professionals",
     "file_name": "/tmp/news_lk2/articles/37/37d917cc.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78647",
+    "time_ut": 1658170080,
+    "original_lang": "en",
+    "original_title": "A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.",
+    "file_name": "/tmp/news_lk2/articles/cd/cde8827e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
