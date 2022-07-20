@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 02:39:56 (LK time)*
+*As of 2022-07-21 02:47:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,11 +8,11 @@
 
 * **5** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
 * **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-* **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
+* **1** economy-next-com ([Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a43afb02.json))
 
 ## Last 24 Hours (265 Articles)
 
@@ -36,7 +36,7 @@
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,761 Articles)
+## Last Week (1,760 Articles)
 
 * **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -44,7 +44,7 @@
 
 * **201** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
-* **187** daily-mirror-lk ([Prospects of SL securing IMF bailout remain bright despite political unrest](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36fd3718.json))
+* **186** daily-mirror-lk ([T-56 firearm, magazines stolen from soldier by  protesters during unrest near Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d31daeda.json))
 
 * **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
