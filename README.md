@@ -1,32 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 00:13:14 (LK time)*
+*As of 2022-07-21 00:26:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
+* **1** economy-next-com ([Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a43afb02.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
 
-* **1** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
+* **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
 ## Last 3 Hours (13 Articles)
 
-* **6** virakesari-lk ([கட்சிகள் எடுத்த தீர்மானத்துக்கு அமைய உறுப்பினர்கள் செயற்படவில்லை - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76b0be94.json))
+* **5** virakesari-lk ([யாழில் நாளை 15 எரிபொருள் நிலையங்களில் எரிபொருள்  விநியோகம் - முழு விபரம் இதோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc92701b.json))
 
 * **3** daily-mirror-lk ([Not a defeat but an encouraging guidance: Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2051f91.json))
 
-* **2** ada-derana-lk ([CBSL statement on concessions to affected borrowers of licensed banks](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3ede088.json))
+* **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
-* **1** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
+* **2** ada-derana-lk ([CBSL statement on concessions to affected borrowers of licensed banks](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3ede088.json))
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 24 Hours (274 Articles)
+## Last 24 Hours (275 Articles)
 
 * **49** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -44,7 +44,7 @@
 
 * **14** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **10** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
+* **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
@@ -58,7 +58,7 @@
 
 * **202** tamil-mirror-lk ([நெருக்கடி தொடர்பில் மகாநாயக்க தேரர்கள் கூட்டறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be43777e.json))
 
-* **195** daily-mirror-lk ([GR does not depart Maldives, awaits private jet](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dab49164.json))
+* **194** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
 
 * **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
@@ -68,7 +68,7 @@
 
 * **84** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
-* **82** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
+* **83** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
 * **55** island-lk ([Terrorism, radicalisation and need for Bread](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0451a72e.json))
 
@@ -78,7 +78,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,042 Articles)
+## All Time (3,043 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -96,7 +96,7 @@
 
 * **186** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
-* **150** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
+* **151** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
 * **140** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
