@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 03:39:48 (LK time)*
+*As of 2022-07-21 03:48:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-## Last 24 Hours (265 Articles)
+## Last 24 Hours (266 Articles)
 
-* **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
+* **51** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
 * **44** lankadeepa-lk ([මැති සබයට  ජංගම දුරකතන තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f067b2d3.json))
 
@@ -30,9 +30,9 @@
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,759 Articles)
+## Last Week (1,760 Articles)
 
-* **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
+* **334** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
 * **271** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
@@ -58,11 +58,11 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,054 Articles)
+## All Time (3,055 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **445** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **446** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **373** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
