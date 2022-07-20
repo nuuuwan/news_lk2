@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Legal-action-against-occupiers/56-737739",
+    "time_ut": 1658348873,
+    "original_lang": "en",
+    "original_title": "Legal action  against occupiers",
+    "file_name": "/tmp/news_lk2/articles/39/39a71d1b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Ranil-vows-tough-line-against-troublemakers/56-737738",
+    "time_ut": 1658348796,
+    "original_lang": "en",
+    "original_title": "Ranil vows tough line against troublemakers",
+    "file_name": "/tmp/news_lk2/articles/29/297fcfb7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/RW-thanks-Tri-Forces-Police-for-protecting-Parliament/56-737737",
+    "time_ut": 1658348690,
+    "original_lang": "en",
+    "original_title": "RW thanks Tri-Forces, Police for protecting Parliament",
+    "file_name": "/tmp/news_lk2/articles/78/78a2285a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Mahinda-gets-comical-saying-Our-candidate-could-not-win/56-737736",
+    "time_ut": 1658348601,
+    "original_lang": "en",
+    "original_title": "Mahinda gets comical saying \u2018Our candidate could not win\u2019",
+    "file_name": "/tmp/news_lk2/articles/2f/2f20ad24.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Dear-Mr-President-and-Mr-Prime-Minister-A-memo/4-737722",
     "time_ut": 1658347381,
     "original_lang": "en",

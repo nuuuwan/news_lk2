@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Legal-action-against-occupiers/56-737739",
+    "time_ut": 1658348873,
+    "original_lang": "en",
+    "original_title": "Legal action  against occupiers",
+    "file_name": "/tmp/news_lk2/articles/39/39a71d1b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Ranil-vows-tough-line-against-troublemakers/56-737738",
+    "time_ut": 1658348796,
+    "original_lang": "en",
+    "original_title": "Ranil vows tough line against troublemakers",
+    "file_name": "/tmp/news_lk2/articles/29/297fcfb7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/RW-thanks-Tri-Forces-Police-for-protecting-Parliament/56-737737",
+    "time_ut": 1658348690,
+    "original_lang": "en",
+    "original_title": "RW thanks Tri-Forces, Police for protecting Parliament",
+    "file_name": "/tmp/news_lk2/articles/78/78a2285a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Mahinda-gets-comical-saying-Our-candidate-could-not-win/56-737736",
+    "time_ut": 1658348601,
+    "original_lang": "en",
+    "original_title": "Mahinda gets comical saying \u2018Our candidate could not win\u2019",
+    "file_name": "/tmp/news_lk2/articles/2f/2f20ad24.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Dear-Mr-President-and-Mr-Prime-Minister-A-memo/4-737722",
     "time_ut": 1658347381,
     "original_lang": "en",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bc7\u0bb0\u0bb2\u0bc8 - \u0ba4\u0bc1\u0bb5\u0bae\u0bcd\u0b9a\u0bae\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/d0/d0d72ef4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/42-\u0dc3\u0dca\u0da7\u0dcf\u0dbd\u0dd2\u0db1\u0dca-22-\u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dd2\u0d9a\u0dd2-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0dc0\u0dd3\u0dbb\u0dba\u0db1\u0dca-\u0db6\u0dd2\u0dc4\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8/3-395478",
-    "time_ut": 1658035958,
-    "original_lang": "si",
-    "original_title": "42 \u0dc3\u0dca\u0da7\u0dcf\u0dbd\u0dd2\u0db1\u0dca 22 \u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dd2\u0d9a\u0dd2 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc0\u0dd3\u0dbb\u0dba\u0db1\u0dca \u0db6\u0dd2\u0dc4\u0dd2\u0d9a\u0dd2\u0dbb\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/e0/e0854724.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d87\u0db8\u0dad\u0dd2-\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a/3-395477",
-    "time_ut": 1658035860,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d87\u0db8\u0dad\u0dd2 \u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba\u0dda \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/f6/f62ea492.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/140\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd/175-300568",
-    "time_ut": 1658035751,
-    "original_lang": "ta",
-    "original_title": "140\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e6/e608433a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a-\u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda-\u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca/101-616538",
-    "time_ut": 1658035703,
-    "original_lang": "si",
-    "original_title": "\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a \u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda \u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/19/196f91ed.json"
   }
 ]
