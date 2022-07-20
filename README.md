@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 02:47:19 (LK time)*
+*As of 2022-07-21 02:58:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (1 Articles)
 
-* **5** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
+* **1** daily-ft-lk ([Protesters sombre after Wickremesinghe’s win, but some vow to fight on](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef171c8d.json))
 
 ## Last 3 Hours (11 Articles)
 
