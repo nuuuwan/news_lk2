@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 01:30:13 (LK time)*
+*As of 2022-07-21 01:45:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,7 +18,7 @@
 
 * **1** ada-derana-lk ([New President vows tough line against troublemakers](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a05efb84.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (261 Articles)
 
 * **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -36,11 +36,11 @@
 
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
-* **8** daily-ft-lk ([FR against Acting President Ranil Wickremesinghe dismissed by SC](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6229156.json))
+* **5** daily-ft-lk ([Ranil elected President](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c16c5be.json))
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,763 Articles)
+## Last Week (1,761 Articles)
 
 * **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -48,7 +48,7 @@
 
 * **201** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
-* **194** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
+* **192** daily-mirror-lk ([A FATHER, SENIOR, MENTOR AND GREAT FRIEND](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e1f1336.json))
 
 * **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
