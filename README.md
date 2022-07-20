@@ -1,22 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 17:59:17 (LK time)*
+*As of 2022-07-20 18:12:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** virakesari-lk ([யாழ். குருநகர் கடற்றொழிலாளர் சங்கத்தினர் எரிபொருள் பெற்றுத்தரக்கோரி யாழ் மாவட்ட செயலாளரிடம் மகஜர் கையளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a46404a.json))
+* **1** virakesari-lk ([யாழில்  172 மில்லியன் ரூபா பெறுமதியான கேரள கஞ்சாவுடன் இருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c48fefe.json))
 
-* **2** lankadeepa-lk ([ජනාධිපති තේරීමේදී ජනතා මතයට පිටුපෑවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79b914bc.json))
+## Last Hour (5 Articles)
 
-* **1** ada-derana-lk ([India rejects “baseless reports” on attempts to influence elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34887243.json))
+* **4** virakesari-lk ([யாழ். குருநகர் கடற்றொழிலாளர் சங்கத்தினர் எரிபொருள் பெற்றுத்தரக்கோரி யாழ் மாவட்ட செயலாளரிடம் மகஜர் கையளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a46404a.json))
 
-## Last 3 Hours (37 Articles)
+* **1** lankadeepa-lk ([පාර්ලිමේන්තුවට ආරක්ෂාව දුන් හමුදාව-පොලිසිය අතරට ජනපති යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7452967e.json))
 
-* **12** lankadeepa-lk ([ඉන්ධන බෙදාහැරීම හෙට සිට ඇරඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/462306ca.json))
+## Last 3 Hours (35 Articles)
 
-* **10** virakesari-lk ([ரணில் நாளையதினம் ஜனாதிபதியாக பதவிப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eca0526.json))
+* **11** lankadeepa-lk ([ඉන්ධන බෙදුම්කරුවෝ ඇනවුම් කිරීම අත්හිටුවති](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f2ed21a.json))
+
+* **9** virakesari-lk ([இலங்கையில் பதவிநீக்கம் செய்யப்பட்ட ஜனாதிபதியின் கூட்டாளி அவருக்கு பதில் தெரிவுசெய்யப்பட்டுள்ளார்- நியூயோர்க் டைம்ஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a94363.json))
 
 * **5** daily-mirror-lk ([Power cut reduced to three hours today: PUCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f886535.json))
 
@@ -28,9 +30,9 @@
 
 * **2** ada-lk ([බණ්ඩාරනායක පිළිරුව අසල සිට මීටර් 50ක ප්‍රදේශයට ඇතුළුවීම තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc19a04a.json))
 
-## Last 24 Hours (292 Articles)
+## Last 24 Hours (293 Articles)
 
-* **52** virakesari-lk ([களுவாஞ்சிகுடியில் கொள்ளையிடப்பட்ட  பெருந்தொகைப் பொருட்களுடன் 4 சந்தேக நபர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fac37fe.json))
+* **53** virakesari-lk ([களுவாஞ்சிகுடியில் கொள்ளையிடப்பட்ட  பெருந்தொகைப் பொருட்களுடன் 4 சந்தேக நபர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fac37fe.json))
 
 * **47** lankadeepa-lk ([සමාජ මාධ්‍යවලින් මන්ත්‍රීන්ට බලපෑම් කළැයි සී.අයි.ඩීයෙන් පරීක්ෂණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44bc0b04.json))
 
@@ -56,11 +58,11 @@
 
 ## Last Week (1,809 Articles)
 
-* **324** virakesari-lk ([ஆயுதமேந்திய படையினர் ஊடாக ஜனநாயகத்தை அழித்து மக்களை அடக்க அரசாங்கம் முயற்சி : சஜித் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c68556e8.json))
+* **325** virakesari-lk ([ஆயுதமேந்திய படையினர் ஊடாக ஜனநாயகத்தை அழித்து மக்களை அடக்க அரசாங்கம் முயற்சி : சஜித் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c68556e8.json))
 
 * **277** lankadeepa-lk ([වැඩබලන ජනාධිපති බව කියමින් රනිල් ජනතාව මර්දනය කරන්න හදනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1d0281e3.json))
 
-* **218** tamil-mirror-lk ([பாராளுமன்றத்தை கைப்பற்ற முயற்சி:  கண்ணீர்ப்புகை தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93c92cf5.json))
+* **217** tamil-mirror-lk ([ஜெனரல் சவேந்திரவின் விசேட அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26ab381c.json))
 
 * **210** daily-mirror-lk ([Publicize President’s resignation as soon as possible:Liberal Fellowship](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd4469dd.json))
 
@@ -82,11 +84,11 @@
 
 * **18** d-b-s-jeyaraj-com ([Gotabaya Rajapaksa’s Much Anticipated Resignation Does Not Materialise but President Appoints Premier Ranil Wickremesinghe as Acting President, to be in charge during his period of absence from Sri Lanka; Ranil Imposes Curfew after Protests Escalate](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad549fa5.json))
 
-## All Time (2,984 Articles)
+## All Time (2,985 Articles)
 
 * **452** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **422** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **423** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **365** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
