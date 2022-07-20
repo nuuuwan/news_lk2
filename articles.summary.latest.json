@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dear-Mr-President-and-Mr-Prime-Minister-A-memo/4-737722",
+    "time_ut": 1658347381,
+    "original_lang": "en",
+    "original_title": "Dear Mr. President  and Mr. Prime Minister: A memo",
+    "file_name": "/tmp/news_lk2/articles/0b/0b2acd5d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/CNCI-congratulates-new-President-with-hopes-of-new-life-to-local-industries/34-737721",
     "time_ut": 1658345342,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0d9a \u0d9c\u0dd4\u0dbb\u0dcf\u0d9c\u0dda \u0da2\u0dbb\u0dcf\u0dc0\u0dd0\u0da9\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/19/196f91ed.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/17/new-fuel-stocks-only-ready-if-fuel-pass-is-complete/",
-    "time_ut": 1658035440,
-    "original_lang": "en",
-    "original_title": "New fuel stocks only ready if fuel pass is complete",
-    "file_name": "/tmp/news_lk2/articles/6f/6fbd6934.json"
   }
 ]

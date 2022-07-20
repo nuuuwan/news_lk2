@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Dear-Mr-President-and-Mr-Prime-Minister-A-memo/4-737722",
+    "time_ut": 1658347381,
+    "original_lang": "en",
+    "original_title": "Dear Mr. President  and Mr. Prime Minister: A memo",
+    "file_name": "/tmp/news_lk2/articles/0b/0b2acd5d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/CNCI-congratulates-new-President-with-hopes-of-new-life-to-local-industries/34-737721",
     "time_ut": 1658345342,
     "original_lang": "en",
