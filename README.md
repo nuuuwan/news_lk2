@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 17:27:33 (LK time)*
+*As of 2022-07-20 17:36:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **1** lankadeepa-lk ([ජනාධිපති තේරීමේදී ජනතා මතයට පිටුපෑවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/20baa71c.json))
+* **2** lankadeepa-lk ([ජනාධිපති තේරීමේදී ජනතා මතයට පිටුපෑවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79b914bc.json))
+
+* **1** virakesari-lk ([யாழ். குருநகர் கடற்றொழிலாளர் சங்கத்தினர் எரிபொருள் பெற்றுத்தரக்கோரி யாழ் மாவட்ட செயலாளரிடம் மகஜர் கையளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a46404a.json))
 
 * **1** ada-derana-lk ([India rejects “baseless reports” on attempts to influence elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34887243.json))
 
-* **1** daily-mirror-lk ([Galle Face protesters vow to continue until Ranil resigns from presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd77a3c.json))
-
 ## Last Hour (11 Articles)
 
-* **4** lankadeepa-lk ([මූල්‍ය සහාය ලබාදීමේ සාකච්ඡා හැකි ඉක්මනින් අවසන් කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9761b5bb.json))
+* **5** lankadeepa-lk ([මූල්‍ය සහාය ලබාදීමේ සාකච්ඡා හැකි ඉක්මනින් අවසන් කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03a0358a.json))
 
-* **2** ada-derana-lk ([Four arrested for torching Ranil’s residence remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39b68f20.json))
+* **2** virakesari-lk ([இலங்கையுடனான பேச்சுவார்த்தைகளை கூடியவிரைவில் நிறைவுசெய்யமுடியும் - சர்வதேச நாணயநிதியத்தின் முகாமைத்துவ பணிப்பாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5732872b.json))
 
-* **2** virakesari-lk (["காவல் படை" வழக்கில் யாழ். மாநகர முதல்வர் விடுவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/854a7cb7.json))
+* **1** ada-derana-lk ([India rejects “baseless reports” on attempts to influence elections](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34887243.json))
 
 * **1** daily-mirror-lk ([Galle Face protesters vow to continue until Ranil resigns from presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd77a3c.json))
 
@@ -26,15 +26,15 @@
 
 * **1** news-first-lk ([Court bars anyone from moving close to Bandaranaike Statue](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34052dd9.json))
 
-## Last 3 Hours (39 Articles)
+## Last 3 Hours (38 Articles)
 
-* **12** lankadeepa-lk ([බෙදුනු අවස්ථාව ඉවරයි: දැන් රට ගොඩ නගමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59a19230.json))
+* **13** lankadeepa-lk ([බෙදුනු අවස්ථාව ඉවරයි: දැන් රට ගොඩ නගමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59a19230.json))
 
-* **7** virakesari-lk ([ரணில் நாளையதினம் ஜனாதிபதியாக பதவிப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eca0526.json))
+* **8** virakesari-lk ([ரணில் நாளையதினம் ஜனாதிபதியாக பதவிப்பிரமாணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eca0526.json))
 
-* **6** daily-mirror-lk ([Court issues order preventing protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a070e398.json))
+* **5** daily-mirror-lk ([Power cut reduced to three hours today: PUCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f886535.json))
 
-* **6** ada-lk ([අගමැතිධුරයට දිනේෂ් ගුණවර්ධන?](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da299e34.json))
+* **4** ada-lk ([පළමු ටෙස්ට් තරගයේ ජය පාකිස්තානයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48651422.json))
 
 * **3** ada-derana-lk ([IMF hopes to complete Sri Lanka aid talks ‘as quickly as possible’](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7ab57d4d.json))
 
@@ -42,15 +42,15 @@
 
 * **2** tamil-mirror-lk ([ரணிலின் தலைவிதி நடந்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/172ffd75.json))
 
-## Last 24 Hours (303 Articles)
+## Last 24 Hours (297 Articles)
 
-* **56** virakesari-lk ([டலஸை எதிர்க்கட்சித்  தலைவர் சஜித் முன்மொழிந்துள்ளமை மகிழ்ச்சிக்குரியது - பேராசிரியர் சரித ஹேரத்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbf8557a.json))
+* **50** virakesari-lk ([களுவாஞ்சிகுடியில் கொள்ளையிடப்பட்ட  பெருந்தொகைப் பொருட்களுடன் 4 சந்தேக நபர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fac37fe.json))
 
-* **48** lankadeepa-lk ([අම්මා ළිඳට විසි කළ දැරිය පාසල් සිසුහු බේරාගනිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843a4c5e.json))
+* **49** lankadeepa-lk ([අම්මා ළිඳට විසි කළ දැරිය පාසල් සිසුහු බේරාගනිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/843a4c5e.json))
 
 * **47** tamil-mirror-lk ([பாடசாலைகள் எதிர்வரும் திங்களே மீண்டும் திறக்கப்படும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7b7a17d.json))
 
-* **39** ada-lk ([ඉන්ධන බලපත්‍රයට මිලියන 2ක් ලියාපදිංචි වෙයි - 25 දා සිට දිවයින පුරා ක්‍රියාත්මකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/091e4c39.json))
+* **38** ada-lk ([සඳුදා සිට පාසල් යළි විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d12030e6.json))
 
 * **34** daily-mirror-lk ([Last digit of number plate for refuelling revised: Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be88a00d.json))
 
@@ -68,11 +68,11 @@
 
 * **1** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
 
-## Last Week (1,815 Articles)
+## Last Week (1,816 Articles)
 
-* **321** virakesari-lk ([ஆயுதமேந்திய படையினர் ஊடாக ஜனநாயகத்தை அழித்து மக்களை அடக்க அரசாங்கம் முயற்சி : சஜித் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c68556e8.json))
+* **322** virakesari-lk ([ஆயுதமேந்திய படையினர் ஊடாக ஜனநாயகத்தை அழித்து மக்களை அடக்க அரசாங்கம் முயற்சி : சஜித் விசனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c68556e8.json))
 
-* **278** lankadeepa-lk ([රටේ සාමය රකින්න ත්‍රිවිධ හමුදාවට සහාය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/525cea1f.json))
+* **279** lankadeepa-lk ([රටේ සාමය රකින්න ත්‍රිවිධ හමුදාවට සහාය දෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/525cea1f.json))
 
 * **219** tamil-mirror-lk ([மாலைதீவு பொலிஸாரால் இலங்கை பிரஜை கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/4852784d.json))
 
@@ -80,7 +80,7 @@
 
 * **187** ada-lk ([රනිල් වහා ඉවත්විය යුතුයි - මෛත්‍රී](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1bf798d.json))
 
-* **165** ada-derana-lk ([Chief of Defence Staff urges public to help maintain law and order](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5c7bb03.json))
+* **164** ada-derana-lk ([Tear gas fired at protesters near parliament entry road](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9bf1a285.json))
 
 * **138** news-first-lk ([120 Lanka-Bound Flights Land At Kerala Airports](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ff3f88b9.json))
 
@@ -96,11 +96,11 @@
 
 * **19** d-b-s-jeyaraj-com ([The departure of . Gotabaya   Rajapaksa from rge Island  has not reduced the uncertainty prevailing in Sri Lanka because  the President is yet to officially resign, though he had promised to do so on Wednesday.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd3a09d4.json))
 
-## All Time (2,979 Articles)
+## All Time (2,981 Articles)
 
-* **451** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **452** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **419** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **420** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **365** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
