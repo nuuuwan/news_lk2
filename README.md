@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 20:54:59 (LK time)*
+*As of 2022-07-20 20:58:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,13 @@
 
 * **1** lankadeepa-lk ([යතුරුපැදියකට ඉන්ධන 1500 කට සීමාවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8a2d90.json))
 
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
 * **3** lankadeepa-lk ([වැවේ නාන්න ගිය සිසුහු ගිලී මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f45779d0.json))
 
 * **2** virakesari-lk ([கட்சி எடுக்கும் தீர்மானங்களுக்கமைய செயற்படுவேன் -முன்னாள் பிரதமர் மஹிந்த ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54f02fec.json))
 
 * **1** ada-derana-lk ([Power cut schedule for tomorrow released](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4902dd5b.json))
-
-* **1** tamil-mirror-lk ([நாடி வைத்தியத்தை நாடியமையால் விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93953a1b.json))
 
 ## Last 3 Hours (31 Articles)
 
@@ -36,9 +34,9 @@
 
 * **2** economy-next-com ([Sri Lanka Treasuries yields down](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/131db48d.json))
 
-## Last 24 Hours (289 Articles)
+## Last 24 Hours (288 Articles)
 
-* **53** virakesari-lk ([தமிழ் முற்போக்கு கூட்டணி, ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ், இலங்கை மக்கள் காங்கிரஸ் ஆகியன டலஸுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93658d88.json))
+* **52** virakesari-lk ([ஜனாதிபதி தெரிவு வெளிப்படைத்தன்மையுடன் இடம்பெறும் - பன்னாட்டு இராஜதந்திரிகளிடம் சபாநாயகர் உறுதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc5c22b9.json))
 
 * **47** lankadeepa-lk ([ජනපති ගෝඨාභය පළායාමේ පසුබිම් කතාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cc0e956.json))
 
@@ -62,17 +60,17 @@
 
 * **1** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
 
-## Last Week (1,791 Articles)
+## Last Week (1,787 Articles)
 
-* **332** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
+* **331** virakesari-lk ([தமிழ் பாராளுமன்ற உறுப்பினர்களுக்கு மதத்தலைவர்கள் கூட்டாக விடுத்துள்ள கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1087e43.json))
 
-* **274** lankadeepa-lk ([‘‘සාමකාමීව කටයුතු කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6947a4b8.json))
+* **273** lankadeepa-lk ([ජනාධිපති ගෝඨාගෙන් ගැසට්ටුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8683d72c.json))
 
 * **209** tamil-mirror-lk ([பாராளுமன்றத்துக்கு முன்பாக போராட்டம்; ’ரணிலின் கேம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97a90c26.json))
 
-* **200** daily-mirror-lk ([Church of Ceylon calls for everyone to exercise discernment and restraint](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a155bab8.json))
+* **199** daily-mirror-lk ([Tense situation erupts near Parliament as clashes erupt](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c14270ba.json))
 
-* **183** ada-lk ([අගමැති නම් කරන්න වැඩබලන ජනපති කථානායකට කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4b2d8ce.json))
+* **182** ada-lk ([කථානායක නිල නිවස අසළත් උණුසුම් තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a016f5c.json))
 
 * **162** ada-derana-lk ([Protestors near Speaker’s residence tear-gassed](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b423fd4.json))
 
