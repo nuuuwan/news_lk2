@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CNCI-congratulates-new-President-with-hopes-of-new-life-to-local-industries/34-737721",
+    "time_ut": 1658345342,
+    "original_lang": "en",
+    "original_title": "CNCI congratulates new President with hopes of new life to local industries",
+    "file_name": "/tmp/news_lk2/articles/e5/e53f733b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Quickee-lk-unveils-Quickee-Mansion/34-737720",
+    "time_ut": 1658345230,
+    "original_lang": "en",
+    "original_title": "Quickee.lk unveils \u2018Quickee Mansion\u2019",
+    "file_name": "/tmp/news_lk2/articles/ab/ab098cb6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Logistics-start-up-RouteSonar-helps-firms-maximise-returns-on-fleet-management/34-737719",
     "time_ut": 1658345071,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "New fuel stocks only ready if fuel pass is complete",
     "file_name": "/tmp/news_lk2/articles/6f/6fbd6934.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/US-organization-donates-medical-supplies-worth-USD-908-547-to-SL/108-241230",
-    "time_ut": 1658035387,
-    "original_lang": "en",
-    "original_title": "US organization donates medical supplies worth USD 908,547 to SL",
-    "file_name": "/tmp/news_lk2/articles/9b/9bc42720.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83697/sri-lankas-economy-to-contract-by-more-than-6-in-2022-cbsl-governor",
-    "time_ut": 1658034360,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s economy to contract by more than 6% in 2022 - CBSL governor",
-    "file_name": "/tmp/news_lk2/articles/2e/2eb0809d.json"
   }
 ]

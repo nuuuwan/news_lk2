@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/CNCI-congratulates-new-President-with-hopes-of-new-life-to-local-industries/34-737721",
+    "time_ut": 1658345342,
+    "original_lang": "en",
+    "original_title": "CNCI congratulates new President with hopes of new life to local industries",
+    "file_name": "/tmp/news_lk2/articles/e5/e53f733b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Quickee-lk-unveils-Quickee-Mansion/34-737720",
+    "time_ut": 1658345230,
+    "original_lang": "en",
+    "original_title": "Quickee.lk unveils \u2018Quickee Mansion\u2019",
+    "file_name": "/tmp/news_lk2/articles/ab/ab098cb6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Logistics-start-up-RouteSonar-helps-firms-maximise-returns-on-fleet-management/34-737719",
     "time_ut": 1658345071,
     "original_lang": "en",

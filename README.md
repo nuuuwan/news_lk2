@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 01:09:07 (LK time)*
+*As of 2022-07-21 01:18:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **2** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-## Last Hour (2 Articles)
+## Last Hour (4 Articles)
 
-* **2** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (9 Articles)
 
-* **2** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **4** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
 * **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
@@ -24,7 +24,7 @@
 
 * **1** virakesari-lk ([5 மாதங்களுக்குள் நாட்டை மீட்க முடியும் - மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/188ae9e0.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (270 Articles)
 
 * **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -40,19 +40,19 @@
 
 * **16** news-first-lk ([Parliament to elect new President today (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1730ec0.json))
 
-* **13** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
+* **14** daily-ft-lk ([Agriculture Department begins to distribute urea fertiliser countywide](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b618070a.json))
 
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,762 Articles)
+## Last Week (1,763 Articles)
 
 * **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
 * **271** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
-* **202** tamil-mirror-lk ([நெருக்கடி தொடர்பில் மகாநாயக்க தேரர்கள் கூட்டறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be43777e.json))
+* **201** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
 * **194** daily-mirror-lk ([People’s power proves more powerful than people in power](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80489db6.json))
 
@@ -62,7 +62,7 @@
 
 * **134** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
 
-* **86** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
+* **88** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
 * **83** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
@@ -74,7 +74,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,046 Articles)
+## All Time (3,048 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -90,7 +90,7 @@
 
 * **205** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **188** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **190** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **151** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
