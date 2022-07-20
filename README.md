@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 00:26:11 (LK time)*
+*As of 2022-07-21 00:38:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a43afb02.json))
-
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
-* **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
+## Last 3 Hours (9 Articles)
 
-## Last 3 Hours (13 Articles)
-
-* **5** virakesari-lk ([யாழில் நாளை 15 எரிபொருள் நிலையங்களில் எரிபொருள்  விநியோகம் - முழு விபரம் இதோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc92701b.json))
-
-* **3** daily-mirror-lk ([Not a defeat but an encouraging guidance: Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2051f91.json))
+* **4** virakesari-lk ([பாராளுமன்றத்திற்குத் தீவைக்கப்பட்டால் எம்மை சாடவேண்டாம் - மக்கள் தன்னெழுச்சிப்போராட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cffbf72b.json))
 
 * **2** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
@@ -26,7 +18,7 @@
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 24 Hours (275 Articles)
+## Last 24 Hours (271 Articles)
 
 * **49** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -36,13 +28,13 @@
 
 * **37** ada-lk ([සිපෙට්කෝ වෙතින් හෙට සිට ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a306ccc2.json))
 
-* **31** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
+* **29** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
 
 * **23** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfec878b.json))
 
 * **16** news-first-lk ([Parliament to elect new President today (20)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1730ec0.json))
 
-* **14** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
+* **12** daily-ft-lk ([Invest to progress, not to regress: Bridging the infrastructure gaps in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b62db5d4.json))
 
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
