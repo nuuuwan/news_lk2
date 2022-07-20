@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Our-candidate-was-unable-to-win-MR/342-241460",
+    "time_ut": 1658331029,
+    "original_lang": "en",
+    "original_title": "Our candidate was unable to win: MR",
+    "file_name": "/tmp/news_lk2/articles/1f/1f96917b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ranil-visits-Gangaramaya/342-241459",
+    "time_ut": 1658329973,
+    "original_lang": "en",
+    "original_title": "Ranil visits Gangaramaya",
+    "file_name": "/tmp/news_lk2/articles/5d/5d3b703b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-1500-\u0d9a\u0da7-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/1-616766",
     "time_ut": 1658329660,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ex-President Gotabaya says he \u2018took all possible steps\u2019 to prevent crisis",
     "file_name": "/tmp/news_lk2/articles/63/6314c851.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/1-000-\u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd-\u0ba4\u0bca\u0ba9\u0bcd-\u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9a\u0bc0\u0ba9\u0bbe/175-300548",
-    "time_ut": 1657992715,
-    "original_lang": "ta",
-    "original_title": "1,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0b85\u0bb0\u0bbf\u0b9a\u0bbf\u0baf\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/78/78939285.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0bc8-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1-\u0bb9\u0bb0\u0bcd\u0bb7-\u0b9f\u0bbf-\u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe/175-300547",
-    "time_ut": 1657992564,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1: \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/d7/d71234ec.json"
   }
 ]

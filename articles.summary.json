@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Our-candidate-was-unable-to-win-MR/342-241460",
+    "time_ut": 1658331029,
+    "original_lang": "en",
+    "original_title": "Our candidate was unable to win: MR",
+    "file_name": "/tmp/news_lk2/articles/1f/1f96917b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ranil-visits-Gangaramaya/342-241459",
+    "time_ut": 1658329973,
+    "original_lang": "en",
+    "original_title": "Ranil visits Gangaramaya",
+    "file_name": "/tmp/news_lk2/articles/5d/5d3b703b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0d9a\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-1500-\u0d9a\u0da7-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/1-616766",
     "time_ut": 1658329660,
