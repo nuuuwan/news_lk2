@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Logistics-start-up-RouteSonar-helps-firms-maximise-returns-on-fleet-management/34-737719",
+    "time_ut": 1658345071,
+    "original_lang": "en",
+    "original_title": "Logistics start-up RouteSonar helps firms maximise returns on fleet management",
+    "file_name": "/tmp/news_lk2/articles/3b/3bd6dccb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/VUCA-and-leading-Sri-Lanka-out-of-crisis/4-737718",
+    "time_ut": 1658344944,
+    "original_lang": "en",
+    "original_title": "VUCA and leading  Sri Lanka out of crisis",
+    "file_name": "/tmp/news_lk2/articles/ff/ffe8f921.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-end-at-5-week-high-as-wickremesinghe-voted-as-president-97743/",
     "time_ut": 1658342040,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s economy to contract by more than 6% in 2022 - CBSL governor",
     "file_name": "/tmp/news_lk2/articles/2e/2eb0809d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baa\u0bc2\u0b9c\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0baa\u0ba3\u0bae\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/71-300565",
-    "time_ut": 1658033591,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc2\u0b9c\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0baa\u0ba3\u0bae\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/51/51f12588.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/NFP-to-upgrade-to-register-multiple-vehicles-Minister/108-241229",
-    "time_ut": 1658033548,
-    "original_lang": "en",
-    "original_title": "NFP to upgrade to register multiple vehicles: Minister",
-    "file_name": "/tmp/news_lk2/articles/41/41cd0981.json"
   }
 ]

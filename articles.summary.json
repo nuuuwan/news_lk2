@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Logistics-start-up-RouteSonar-helps-firms-maximise-returns-on-fleet-management/34-737719",
+    "time_ut": 1658345071,
+    "original_lang": "en",
+    "original_title": "Logistics start-up RouteSonar helps firms maximise returns on fleet management",
+    "file_name": "/tmp/news_lk2/articles/3b/3bd6dccb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/VUCA-and-leading-Sri-Lanka-out-of-crisis/4-737718",
+    "time_ut": 1658344944,
+    "original_lang": "en",
+    "original_title": "VUCA and leading  Sri Lanka out of crisis",
+    "file_name": "/tmp/news_lk2/articles/ff/ffe8f921.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-stocks-end-at-5-week-high-as-wickremesinghe-voted-as-president-97743/",
     "time_ut": 1658342040,
