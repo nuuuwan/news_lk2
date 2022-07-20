@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pakistan-beat-Sri-Lanka-to-take-1-0-lead/108-241449",
+    "time_ut": 1658311134,
+    "original_lang": "en",
+    "original_title": "Pakistan beat Sri Lanka to take 1-0 lead",
+    "file_name": "/tmp/news_lk2/articles/27/274b7a22.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0db8\u0dd9\u0dbb\u0da7-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba-\u0d9c\u0dd0\u0db1-\u0d9a\u0dab\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca/101-616747",
     "time_ut": 1658310764,
@@ -1366,14 +1374,6 @@
     "original_lang": "en",
     "original_title": "If only those walls could talk",
     "file_name": "/tmp/news_lk2/articles/59/593d5710.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78650",
-    "time_ut": 1658258640,
-    "original_lang": "en",
-    "original_title": "Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes",
-    "file_name": "/tmp/news_lk2/articles/36/36906a5b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
