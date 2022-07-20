@@ -1,34 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 21:31:35 (LK time)*
+*As of 2022-07-20 21:41:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Ranil visits Gangaramaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1526082b.json))
 
-* **1** lankadeepa-lk ([යතුරුපැදියකට ඉන්ධන 1500 කට සීමාවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8a2d90.json))
-
-## Last 3 Hours (26 Articles)
-
-* **6** tamil-mirror-lk ([நிகழ்வுக்கான ஏற்பாடுகளில் பாதுகாப்புப் படையினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6369dcae.json))
+## Last 3 Hours (23 Articles)
 
 * **5** daily-mirror-lk ([Gazette announcing election of eighth Executive President published](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95cef165.json))
 
 * **5** lankadeepa-lk ([හෙටත් පැය 3 ක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/946d22dd.json))
 
+* **5** tamil-mirror-lk ([நாளை முதல் எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b75c5d86.json))
+
 * **3** virakesari-lk ([ஐக்கிய மக்கள் சக்தியில் இருந்து 14 பேர் ரணில் விக்ரமசிங்கவுக்கு வாக்களிப்பு - அமைச்சர் ஹரீன் பெர்னாண்டோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad2c89d8.json))
 
 * **2** ada-derana-lk ([CBSL chief confident Sri Lanka can overcome economic crisis within 5 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eea076b1.json))
 
-* **2** ada-lk ([අපි ඩලස්ව ඉදිරිපත් කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c0cd58.json))
+* **1** ada-lk ([ආරක්ෂාව දුන්නාට ජනපති රනිල්ගේ ස්තූතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e8c0764.json))
 
-* **2** news-first-lk ([We wanted Dullas as well – Mahinda](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73796e8e.json))
+* **1** news-first-lk ([Power schedule for Thursday (21)](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dde6f9eb.json))
 
 * **1** economy-next-com ([From defeat to president; Sri Lanka’s Wickremesinghe has hard choices ahead](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7082514.json))
 
-## Last 24 Hours (283 Articles)
+## Last 24 Hours (284 Articles)
 
 * **47** lankadeepa-lk ([ජනපති ගෝඨාභය පළායාමේ පසුබිම් කතාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cc0e956.json))
 
@@ -48,7 +46,7 @@
 
 * **9** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
-* **4** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
+* **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
 * **4** island-lk ([HDDES Group products diversify BOI export basket](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86a5fbe5.json))
 
@@ -74,15 +72,15 @@
 
 * **81** economy-next-com ([Sri Lanka Rajapaksa fails to resign despite repeated promises](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f02ad8e.json))
 
-* **65** island-lk ([How the celebrities reacted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7417a9d7.json))
+* **64** island-lk ([Simple Cabbage Face Packs](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c88c4830.json))
 
-* **27** b-b-c-com-sinhala ([ගෝඨාභය රාජපක්ෂ: ජනාධිපති යටතේ ශ්‍රී ලංකා ආර්ථිකය ප්‍රස්තාර 7 කින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a85b821.json))
+* **28** b-b-c-com-sinhala ([ගෝඨාභය රාජපක්ෂ: ජනාධිපති යටතේ ශ්‍රී ලංකා ආර්ථිකය ප්‍රස්තාර 7 කින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a85b821.json))
 
 * **21** colombo-telegraph-com ([The Destiny Of China’s Colony Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99ea98e8.json))
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,024 Articles)
+## All Time (3,025 Articles)
 
 * **457** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -106,6 +104,6 @@
 
 * **112** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **61** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
+* **62** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
 * **48** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
