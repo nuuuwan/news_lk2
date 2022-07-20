@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 05:29:42 (LK time)*
+*As of 2022-07-20 05:46:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (260 Articles)
+## Last 24 Hours (263 Articles)
 
 * **56** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
@@ -24,11 +24,13 @@
 
 * **12** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **3** b-b-c-com-sinhala ([ඩලස්,රනිල්,අනුර කුමාර ජනපති සටනට;සජිත් නාමයෝජනා නොදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4040e87e.json))
+* **4** island-lk ([HDDES Group products diversify BOI export basket](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86a5fbe5.json))
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,805 Articles)
+* **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ අර්බුදය: ආහාර සහ ඉන්ධන හිඟය ගැබිණි මව්වරුන්ට බලපාන හැටි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c602de9.json))
+
+## Last Week (1,815 Articles)
 
 * **321** virakesari-lk ([ராஜபக்ஷக்களின் வீழ்ச்சியின் பாடங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6043d1d.json))
 
@@ -48,7 +50,7 @@
 
 * **82** daily-ft-lk ([Fleeing Gotabaya faces protests in Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c13e2ef3.json))
 
-* **55** island-lk ([How the celebrities reacted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7417a9d7.json))
+* **65** island-lk ([How the celebrities reacted](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7417a9d7.json))
 
 * **27** b-b-c-com-sinhala (["ජනපතිවරයා මෙන්ම අගමැතිවරයා ද ඉවත් වන තුරු සටන අත්හැරිය නොහැකියි. " - හිරුණිකා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed7c86d5.json))
 
@@ -56,7 +58,7 @@
 
 * **16** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
-## All Time (2,764 Articles)
+## All Time (2,774 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -78,7 +80,7 @@
 
 * **136** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **102** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **112** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **57** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 

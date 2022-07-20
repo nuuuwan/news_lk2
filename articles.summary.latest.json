@@ -192,6 +192,14 @@
     "file_name": "/tmp/news_lk2/articles/1d/1db75805.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/should-ranil-wickramasinghe-be-president/",
+    "time_ut": 1658250960,
+    "original_lang": "en",
+    "original_title": "Should Ranil Wickramasinghe be President?",
+    "file_name": "/tmp/news_lk2/articles/48/48e22cee.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83749/tna-pledges-support-for-dullas",
     "time_ut": 1658250420,
@@ -214,6 +222,30 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b9f\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1",
     "file_name": "/tmp/news_lk2/articles/2f/2fd8e215.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cipm-6th-research-symposium-adds-value-to-glocal-hrm/",
+    "time_ut": 1658249760,
+    "original_lang": "en",
+    "original_title": "CIPM 6th Research Symposium adds value to \u2018Glocal\u2019 HRM",
+    "file_name": "/tmp/news_lk2/articles/14/14fab486.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/elephant-house-superheroes-academy-powered-by-dialog-empowers-youth/",
+    "time_ut": 1658249760,
+    "original_lang": "en",
+    "original_title": "Elephant House SuperHeroes Academy powered by Dialog empowers youth",
+    "file_name": "/tmp/news_lk2/articles/3d/3ddff1ae.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hddes-group-products-diversify-boi-export-basket/",
+    "time_ut": 1658249700,
+    "original_lang": "en",
+    "original_title": "HDDES Group products diversify BOI export basket",
+    "file_name": "/tmp/news_lk2/articles/86/86a5fbe5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -2432,6 +2464,14 @@
     "file_name": "/tmp/news_lk2/articles/24/241b3ee4.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/political-engagement-with-aragayala-necessary/",
+    "time_ut": 1658159700,
+    "original_lang": "en",
+    "original_title": "Political engagement with Aragayala necessary",
+    "file_name": "/tmp/news_lk2/articles/88/88ad253a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba-\u0db4\u0dd9\u0daf\u0dbb\u0dda\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7-80-000\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0dc0\u0dd9\u0dbd\u0dcf/1-616644",
     "time_ut": 1658159564,
@@ -2448,12 +2488,28 @@
     "file_name": "/tmp/news_lk2/articles/7a/7a0e7292.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/education-and-healthcare-in-crisis/",
+    "time_ut": 1658158980,
+    "original_lang": "en",
+    "original_title": "Education and healthcare in crisis:",
+    "file_name": "/tmp/news_lk2/articles/eb/eb45962c.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131734",
     "time_ut": 1658158592,
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0bb0\u0bbf \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/61/61e0f9fb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-plight-of-the-poor/",
+    "time_ut": 1658158500,
+    "original_lang": "en",
+    "original_title": "The Plight of the Poor",
+    "file_name": "/tmp/news_lk2/articles/5c/5c80fb7e.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2473,6 +2529,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-people-should-be-allowed-to-express-their-opinion-at-the-earliest-opportunity-cbeou/",
+    "time_ut": 1658158380,
+    "original_lang": "en",
+    "original_title": "The people should be allowed to express their opinion at the earliest opportunity \u2013 CBEOU",
+    "file_name": "/tmp/news_lk2/articles/25/25e52037.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/scalefusion-takes-mobile-device-management-to-the-next-level/",
     "time_ut": 1658158380,
     "original_lang": "en",
@@ -2486,6 +2550,14 @@
     "original_lang": "en",
     "original_title": "NCE demands complete support for exporters",
     "file_name": "/tmp/news_lk2/articles/40/40780992.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/share-market-gains-as-a-result-of-fuel-price-reduction/",
+    "time_ut": 1658158200,
+    "original_lang": "en",
+    "original_title": "Share market gains as a result of fuel price reduction",
+    "file_name": "/tmp/news_lk2/articles/89/89db4c4f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7760,6 +7832,14 @@
     "file_name": "/tmp/news_lk2/articles/53/53c78e89.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tread-cautiously/",
+    "time_ut": 1657903020,
+    "original_lang": "en",
+    "original_title": "Tread cautiously",
+    "file_name": "/tmp/news_lk2/articles/8b/8b701b85.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131551",
     "time_ut": 1657902952,
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "India hoping for early solution for Sri Lankan crisis through democratic means",
     "file_name": "/tmp/news_lk2/articles/fc/fc41eb23.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0da7\u0ddc\u0db1\u0dca-40000\u0d9a\u0dca-\u0d85\u0daf-\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7/11-395462",
-    "time_ut": 1657897771,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0da7\u0ddc\u0db1\u0dca 40000\u0d9a\u0dca \u0d85\u0daf \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
-    "file_name": "/tmp/news_lk2/articles/e4/e4a07a6c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Postal-services-temporarily-suspended-for-four-countries/108-241173",
-    "time_ut": 1657897716,
-    "original_lang": "en",
-    "original_title": "Postal services temporarily suspended for four countries",
-    "file_name": "/tmp/news_lk2/articles/a9/a909d189.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/China-to-play-positive-role-in-supporting-SL-Wang-Wenbin/108-241170",
-    "time_ut": 1657897294,
-    "original_lang": "en",
-    "original_title": "China to play positive role in supporting SL: Wang  Wenbin",
-    "file_name": "/tmp/news_lk2/articles/73/731b53a6.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda-\u0db1\u0dd2\u0dbd-\u0dc3\u0dc4\u0dcf\u0dba-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7/1-616483",
-    "time_ut": 1657897235,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0db1\u0dd2\u0dbd \u0dc3\u0dc4\u0dcf\u0dba \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d1/d1f5463f.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc3\u0da7\u0db1\u0da7-\u0d91\u0dba\u0dd2/11-395461",
-    "time_ut": 1657897108,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0da7 \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3a/3a0cb330.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-40-000\u0d9a\u0dca-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0dc5\u0d9c\u0dcf\u0dc0\u0dd9\u0dba\u0dd2/1-616481",
-    "time_ut": 1657896414,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 40,000\u0d9a\u0dca \u0d85\u0daf \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0dc5\u0d9c\u0dcf\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/84/84a67313.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sajith-to-contest-for-presidency/108-241167",
-    "time_ut": 1657895082,
-    "original_lang": "en",
-    "original_title": "Sajith to contest for presidency",
-    "file_name": "/tmp/news_lk2/articles/a0/a01b07e7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db6\u0dbd\u0db1\u0dca\u0db1-\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dba\u0dba\u0dd2/101-616480",
-    "time_ut": 1657894752,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd4\u0dc0\u0dcf\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/06/060786ab.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83672/imf-hopes-to-soon-resume-sri-lanka-high-level-discussions",
-    "time_ut": 1657894320,
-    "original_lang": "en",
-    "original_title": "IMF hopes to soon resume Sri Lanka high-level discussions",
-    "file_name": "/tmp/news_lk2/articles/ce/ceca5915.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb-\u0d9c\u0dad\u0dca-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dba-\u0db4\u0dc0\u0dbb\u0dba\u0dd2/1-616479",
-    "time_ut": 1657894228,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb \u0d9c\u0dad\u0dca \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0dba \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/36/36eebdde.json"
   }
 ]
