@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 05:19:19 (LK time)*
+*As of 2022-07-20 05:29:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -28,9 +28,9 @@
 
 * **2** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## Last Week (1,806 Articles)
+## Last Week (1,805 Articles)
 
-* **322** virakesari-lk ([நான்குபேருடன் புறப்பட்ட அன்டொனோவ்; 32 விமானம் - ஏ.எவ்.பி தகவல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b98a3484.json))
+* **321** virakesari-lk ([ராஜபக்ஷக்களின் வீழ்ச்சியின் பாடங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6043d1d.json))
 
 * **281** lankadeepa-lk ([ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a232f028.json))
 
