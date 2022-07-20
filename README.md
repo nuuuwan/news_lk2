@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 03:48:18 (LK time)*
+*As of 2022-07-21 03:57:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
-* **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **8** daily-ft-lk ([Quickee.lk unveils ‘Quickee Mansion’](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab098cb6.json))
 
 ## Last 24 Hours (266 Articles)
 
