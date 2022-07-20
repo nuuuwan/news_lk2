@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131863",
+    "time_ut": 1658301343,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd 8 \u0b86\u0bb5\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/84/848a94ae.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83762/sri-lanka-parliament-elects-ranil-wickremesinghe-as-new-president",
+    "time_ut": 1658301180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka parliament elects Ranil Wickremesinghe as new President",
+    "file_name": "/tmp/news_lk2/articles/71/71896931.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf/175-300792",
     "time_ut": 1658301031,
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf",
     "file_name": "/tmp/news_lk2/articles/7e/7e5b5608.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/155-241442",
+    "time_ut": 1658301017,
+    "original_lang": "en",
+    "original_title": "RANIL WICKREMESINGHE WINS PRESIDENTIAL VOTE",
+    "file_name": "/tmp/news_lk2/articles/39/39dc47e6.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/ranil-wickremesinghe-wins-sri-lankas-crucial-presidential-vote-97710/",
+    "time_ut": 1658301000,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe wins Sri Lanka\u2019s crucial presidential vote",
+    "file_name": "/tmp/news_lk2/articles/48/48105d9d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0d85\u0dad-\u0d89\u0dc3\u0dca\u0dc3\u0dd4\u0dc0\u0dda-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0da2\u0dba\u0d9c\u0dad\u0dca-\u0db6\u0dc0-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7\u0daf-/11-395580",
+    "time_ut": 1658300887,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0d85\u0dad \u0d89\u0dc3\u0dca\u0dc3\u0dd4\u0dc0\u0dda \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0dba\u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/6a/6a46bd95.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -24,20 +64,20 @@
     "file_name": "/tmp/news_lk2/articles/cc/cc3cbfcc.json"
   },
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/20/fuel-distribution-from-21st-july-ministry/",
-    "time_ut": 1658300400,
-    "original_lang": "en",
-    "original_title": "Fuel distribution from 21st July \u2013 Ministry",
-    "file_name": "/tmp/news_lk2/articles/e9/e9987741.json"
-  },
-  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da1\u0db1\u0dca\u0daf-219-\u0d9a\u0dd2\u0db1\u0dca--\u0db6\u0dc4\u0dd4\u0dad\u0dbb\u0dba-\u0d9c\u0dad\u0dca-\u0d9a\u0dd9\u0db1\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2/1-616739",
+    "url": "https://www.lankadeepa.lk/news/\u0da1\u0db1\u0dca\u0daf-219-\u0d9a\u0dd2\u0db1\u0dca--\u0db6\u0dc4\u0dd4\u0dad\u0dbb\u0dba-\u0d9c\u0dad\u0dca-\u0d9a\u0dd9\u0db1\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2/101-616739",
     "time_ut": 1658300383,
     "original_lang": "si",
     "original_title": "\u0da1\u0db1\u0dca\u0daf 219 \u0d9a\u0dd2\u0db1\u0dca  \u0db6\u0dc4\u0dd4\u0dad\u0dbb\u0dba \u0d9c\u0dad\u0dca \u0d9a\u0dd9\u0db1\u0dcf \u0da2\u0db1\u0db4\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/62/6200c67d.json"
+    "file_name": "/tmp/news_lk2/articles/94/944aa58b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131860",
+    "time_ut": 1658300262,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 : \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/25/25e2a8c2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -145,11 +185,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/One-death-occurs-everyday-GMOA/108-241441",
+    "url": "https://www.dailymirror.lk/latest_news/One-death-occurs-everyday-GMOA/342-241441",
     "time_ut": 1658298492,
     "original_lang": "en",
     "original_title": "One death occurs everyday: GMOA",
-    "file_name": "/tmp/news_lk2/articles/a7/a790581e.json"
+    "file_name": "/tmp/news_lk2/articles/ea/ea5f8805.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -174,14 +214,6 @@
     "original_lang": "en",
     "original_title": "Counting of votes begins in Parliament",
     "file_name": "/tmp/news_lk2/articles/be/be089146.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131860",
-    "time_ut": 1658298346,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 : \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd !",
-    "file_name": "/tmp/news_lk2/articles/25/25e2a8c2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -417,11 +449,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da1\u0db1\u0dca\u0daf-\u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-616719",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da1\u0db1\u0dca\u0daf-\u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/1-616719",
     "time_ut": 1658293071,
     "original_lang": "si",
     "original_title": "\u0da1\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ff/ff6bc76c.json"
+    "file_name": "/tmp/news_lk2/articles/e7/e7dc0bb7.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -822,14 +854,6 @@
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0dd2\u0dbb\u0dab\u0dba \u0d85\u0daf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3",
     "file_name": "/tmp/news_lk2/articles/bf/bfeb3105.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62213051",
-    "time_ut": 1658281246,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0d85\u0da7 \u0dc0\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/38/384fe982.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 40,000 \u0d9a\u0dca \u0d91\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/04/041ead0e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/i-will-serve-the-country-even-after-my-resignation-former-president/",
-    "time_ut": 1657952700,
-    "original_lang": "en",
-    "original_title": "I will serve the country even after my resignation: former President",
-    "file_name": "/tmp/news_lk2/articles/2d/2d3f1a0a.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/43000-mt-diesel-reaches-sri-lanka/",
-    "time_ut": 1657952160,
-    "original_lang": "en",
-    "original_title": "43,000 MT Diesel reaches Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b4/b4f1280c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/16/procedure-for-election-of-president/",
-    "time_ut": 1657952100,
-    "original_lang": "en",
-    "original_title": "Procedure for Election of President",
-    "file_name": "/tmp/news_lk2/articles/b8/b8f82f8b.json"
   }
 ]
