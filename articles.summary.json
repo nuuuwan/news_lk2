@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dad\u0dcf-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad\u0dda-\u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd6\u0dc0\u0dcf---\u0d85\u0db1\u0dd4\u0dbb/11-395585",
+    "time_ut": 1658302600,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad\u0dda \u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd6\u0dc0\u0dcf - \u0d85\u0db1\u0dd4\u0dbb",
+    "file_name": "/tmp/news_lk2/articles/7d/7d77e6c4.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/RW-calls-on-MS-MR-Sajith-Dullas-and-AKD-to-work-with-him/108-241443",
+    "time_ut": 1658302395,
+    "original_lang": "en",
+    "original_title": "RW calls on MS, MR, Sajith, Dullas and AKD to work with him",
+    "file_name": "/tmp/news_lk2/articles/4f/4f44c1ec.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db8-\u0dbd\u0ddc\u0d9a\u0dd4-\u0dc3\u0dbd\u0dca\u0dbd\u0dd2\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2---\u0da9\u0dbd\u0dc3\u0dca/11-395584",
+    "time_ut": 1658302249,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db8 \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc3\u0dbd\u0dca\u0dbd\u0dd2\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2 - \u0da9\u0dbd\u0dc3\u0dca",
+    "file_name": "/tmp/news_lk2/articles/ac/ac257d1c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dd4\u0db6-\u0dc3\u0dcf\u0db0\u0db1\u0dba-\u0db4\u0dd4\u0dc5\u0dd4\u0dbd\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-395583",
     "time_ut": 1658301848,
     "original_lang": "si",
@@ -54,6 +78,14 @@
     "original_lang": "en",
     "original_title": "RANIL WICKREMESINGHE WINS PRESIDENTIAL VOTE",
     "file_name": "/tmp/news_lk2/articles/39/39dc47e6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/sri-lanka-gets-a-new-president-ranil-wickremesinghe-wins-with-134-votes/",
+    "time_ut": 1658301000,
+    "original_lang": "en",
+    "original_title": "Sri Lanka gets a new President: Ranil Wickremesinghe wins with 134 votes",
+    "file_name": "/tmp/news_lk2/articles/68/68297636.json"
   },
   {
     "newspaper_id": "economy-next-com",
