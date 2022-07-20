@@ -1,11 +1,107 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/101-616717",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a-\u0db4\u0dc5\u0db8\u0dd4-\u0da1\u0db1\u0dca\u0daf\u0dba-\u0daf\u0dd9\u0dba\u0dd2/101-616720",
+    "time_ut": 1658293144,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0db4\u0dc5\u0db8\u0dd4 \u0da1\u0db1\u0dca\u0daf\u0dba \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3e/3e0a7769.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131851",
+    "time_ut": 1658293119,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/08/0882565a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-speaker-asks-mps-not-to-take-their-mobile-phones-for-polling-booth-97700/",
+    "time_ut": 1658293080,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Speaker asks MPs not to take their mobile phones for polling booth",
+    "file_name": "/tmp/news_lk2/articles/89/89b63ad6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da1\u0db1\u0dca\u0daf-\u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-616719",
+    "time_ut": 1658293071,
+    "original_lang": "si",
+    "original_title": "\u0da1\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ff/ff6bc76c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83759/presidential-vote-gets-underway-in-parliament-",
+    "time_ut": 1658292960,
+    "original_lang": "en",
+    "original_title": "Presidential vote gets underway in parliament",
+    "file_name": "/tmp/news_lk2/articles/c9/c95d34e3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Voting-to-elect-new-Prez-underway-in-Parliament/108-241439",
+    "time_ut": 1658292903,
+    "original_lang": "en",
+    "original_title": "Voting to elect new Prez underway in Parliament",
+    "file_name": "/tmp/news_lk2/articles/df/dfa2dcf1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-300778",
+    "time_ut": 1658292882,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9a/9a5210ca.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-300777",
+    "time_ut": 1658292856,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/60/60857df0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0bb0\u0bae\u0bcd/175-300776",
+    "time_ut": 1658292734,
+    "original_lang": "ta",
+    "original_title": "\u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0bb0\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b2/b2166daf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/fuel-crisis-private-bus-services-in-limbo/",
+    "time_ut": 1658292720,
+    "original_lang": "en",
+    "original_title": "Fuel Crisis: Private Bus Services in Limbo",
+    "file_name": "/tmp/news_lk2/articles/9f/9f0ab4fe.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-presidential-vote-alahapperuma-comes-from-far-behind-after-premadasas-withdrawal-97699/",
+    "time_ut": 1658292600,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s presidential vote \u2013 Alahapperuma comes from far behind after Premadasa\u2019s withdrawal",
+    "file_name": "/tmp/news_lk2/articles/7f/7f9a2773.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bbe\u0bb5\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bc1\u0bae\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bc1/175-300775",
+    "time_ut": 1658292447,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba4\u0bbe\u0bb5\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/77/7743f8e5.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca/1-616717",
     "time_ut": 1658292289,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f5/f5735240.json"
+    "file_name": "/tmp/news_lk2/articles/1b/1b06d22b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -24,12 +120,20 @@
     "file_name": "/tmp/news_lk2/articles/0e/0ee97603.json"
   },
   {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131851",
-    "time_ut": 1658291968,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/08/0882565a.json"
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da1\u0db1\u0dca\u0daf\u0dba-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda-\u0d9a\u0dcf\u0da7\u0daf\u0dd0\u0dba\u0dd2-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf---\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a/11-395572",
+    "time_ut": 1658291969,
+    "original_lang": "si",
+    "original_title": "\u0da1\u0db1\u0dca\u0daf\u0dba \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda \u0d9a\u0dcf\u0da7\u0daf\u0dd0\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf - \u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/09/0963c2e0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/over-500000-gas-cylinders-distributed-litro/",
+    "time_ut": 1658291880,
+    "original_lang": "en",
+    "original_title": "Over 500,000 Gas Cylinders distributed \u2013 Litro",
+    "file_name": "/tmp/news_lk2/articles/b4/b47e2427.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -41,11 +145,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0ddd\u0dbb\u0db1-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/101-616715",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dad\u0ddd\u0dbb\u0db1-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/1-616715",
     "time_ut": 1658291629,
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dad\u0ddd\u0dbb\u0db1 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0dbb\u0dd0\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9b/9bef1553.json"
+    "file_name": "/tmp/news_lk2/articles/c6/c680abc8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/live-election-for-president-speaker-says-its-a-historic-day-for-sri-lanka/",
+    "time_ut": 1658291580,
+    "original_lang": "en",
+    "original_title": "LIVE: Election for President \u2013 Speaker says its a historic day for Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/31/31570608.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -62,6 +174,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/36/36fe802c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/heavy-security-around-parliament/",
+    "time_ut": 1658291280,
+    "original_lang": "en",
+    "original_title": "Heavy Security around Parliament",
+    "file_name": "/tmp/news_lk2/articles/ae/ae2920e0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -342,14 +462,6 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd2\u0db4\u0dd9\u0da7\u0dca\u0d9a\u0ddd \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1",
     "file_name": "/tmp/news_lk2/articles/a3/a306ccc2.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62233213",
-    "time_ut": 1658271446,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0: \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0dc3\u0dd4\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0dad\u0dbb\u0d9c\u0dba \u0dc3\u0dd4\u0dc5\u0dd4 \u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0d9a\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b1/b1152660.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
