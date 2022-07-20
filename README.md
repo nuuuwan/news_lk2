@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 01:47:46 (LK time)*
+*As of 2022-07-21 01:57:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **1** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
 
-## Last Hour (5 Articles)
+## Last Hour (2 Articles)
 
-* **5** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **2** daily-ft-lk ([CNCI congratulates new President with hopes of new life to local industries](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e53f733b.json))
 
 ## Last 3 Hours (8 Articles)
 
@@ -20,7 +20,7 @@
 
 * **1** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/997417d0.json))
 
-## Last 24 Hours (261 Articles)
+## Last 24 Hours (260 Articles)
 
 * **50** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -30,7 +30,7 @@
 
 * **37** ada-lk ([සිපෙට්කෝ වෙතින් හෙට සිට ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a306ccc2.json))
 
-* **29** daily-mirror-lk ([Election for President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa308c12.json))
+* **28** daily-mirror-lk ([Ranil, Dullas in close presidential race today](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aafff0f.json))
 
 * **23** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfec878b.json))
 
@@ -42,7 +42,7 @@
 
 * **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-## Last Week (1,762 Articles)
+## Last Week (1,760 Articles)
 
 * **333** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -50,7 +50,7 @@
 
 * **201** tamil-mirror-lk ([நாடளாவிய ரீதியில் ஊரடங்கு நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c159e5f5.json))
 
-* **192** daily-mirror-lk ([A FATHER, SENIOR, MENTOR AND GREAT FRIEND](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e1f1336.json))
+* **190** daily-mirror-lk ([Economic crisis to test Sri Lanka’s largest banks’ resilience](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e65bb5af.json))
 
 * **178** ada-lk ([විරෝධතාකරුවන්ට එරෙහිව ජීව උණ්ඩ භාවිතයට විපක්ෂයේ පක්ෂ නායකයෝ එරෙහිවෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49553302.json))
 
