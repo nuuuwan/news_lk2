@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7-\u0dc0\u0dd6-\u0da2\u0db1\u0dad\u0dcf-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0db4\u0dc4\u0dc5-\u0dba\u0db8\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0db6\u0dda/3-395565",
+    "time_ut": 1658288940,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7 \u0dc0\u0dd6 \u0da2\u0db1\u0dad\u0dcf \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dc4\u0dc5 \u0dba\u0db8\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0db6\u0dda",
+    "file_name": "/tmp/news_lk2/articles/bd/bda1f5c9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db1\u0dc0\u0dad\u0db8-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19-\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8-\u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2---WHO/3-395564",
+    "time_ut": 1658288779,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0\u0dad\u0db8 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2 - WHO",
+    "file_name": "/tmp/news_lk2/articles/4d/4d36cffc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131847",
+    "time_ut": 1658288185,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bb2\u0bb8\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc2\u0bb2\u0bae\u0bbe\u0ba9  \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/0e/0ecc999f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CWC-to-support-Ranil-at-todays-election/108-241412",
+    "time_ut": 1658287986,
+    "original_lang": "en",
+    "original_title": "CWC to support Ranil at today\u2019s election",
+    "file_name": "/tmp/news_lk2/articles/40/40bd39d0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-300767",
+    "time_ut": 1658287951,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e4/e45ada0c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-vaccination-centres-at-CMC-today/108-241407",
+    "time_ut": 1658287748,
+    "original_lang": "en",
+    "original_title": "Pfizer vaccination centres at CMC today",
+    "file_name": "/tmp/news_lk2/articles/0c/0c97c6d1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/long-queues-for-fuel-qr-system-to-be-implemented-soon/",
+    "time_ut": 1658286840,
+    "original_lang": "en",
+    "original_title": "Long queues for fuel; QR system to be implemented soon",
+    "file_name": "/tmp/news_lk2/articles/ee/eece0adf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-overnight-money-markets-dry-up-as-soft-peg-drives-up-counterparty-risks-97681/",
     "time_ut": 1658286060,
@@ -30,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7  \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 \u0dad\u0dc4\u0db1\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/25/25bcf6e3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/TNA-\u0da9\u0dbd\u0dc3\u0dca\u0da7---CWC-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7/11-395562",
+    "time_ut": 1658283638,
+    "original_lang": "si",
+    "original_title": "TNA \u0da9\u0dbd\u0dc3\u0dca\u0da7 - CWC \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/eb/eb12526d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -118,6 +182,14 @@
     "original_lang": "en",
     "original_title": "Election for President by Parliament",
     "file_name": "/tmp/news_lk2/articles/aa/aa308c12.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbf\u0baf\u0bc1-\u0b86\u0bb0\u0bcd-\u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8/71-300762",
+    "time_ut": 1658261779,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0baf\u0bc1.\u0b86\u0bb0\u0bcd. \u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/00/00eb74df.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -457,6 +529,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131812",
+    "time_ut": 1658247234,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd\u00a0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/aa/aa1015c7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131840",
     "time_ut": 1658247143,
     "original_lang": "ta",
@@ -510,6 +590,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9f\u0bb2\u0bb8\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf - \u0b9a\u0ba9\u0bcd\u0ba9 \u0b9c\u0baf\u0b9a\u0bc1\u0bae\u0ba9",
     "file_name": "/tmp/news_lk2/articles/5e/5e97c670.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131828",
+    "time_ut": 1658244969,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd - '\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bcb \u0b95\u0bae' \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c4/c46ac7a4.json"
   },
   {
     "newspaper_id": "virakesari-lk",

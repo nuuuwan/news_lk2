@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7-\u0dc0\u0dd6-\u0da2\u0db1\u0dad\u0dcf-\u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0db4\u0dc4\u0dc5-\u0dba\u0db8\u0dd2\u0db1\u0dca-\u0dad\u0dd2\u0db6\u0dda/3-395565",
+    "time_ut": 1658288940,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca\u0da7 \u0dc0\u0dd6 \u0da2\u0db1\u0dad\u0dcf \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dc4\u0dc5 \u0dba\u0db8\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0db6\u0dda",
+    "file_name": "/tmp/news_lk2/articles/bd/bda1f5c9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db1\u0dc0\u0dad\u0db8-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19-\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8-\u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2---WHO/3-395564",
+    "time_ut": 1658288779,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0\u0dad\u0db8 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-19 \u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0db8 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dba\u0dd2 - WHO",
+    "file_name": "/tmp/news_lk2/articles/4d/4d36cffc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131847",
+    "time_ut": 1658288185,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bb2\u0bb8\u0bc8 \u0b86\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc2\u0bb2\u0bae\u0bbe\u0ba9  \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/0e/0ecc999f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/CWC-to-support-Ranil-at-todays-election/108-241412",
+    "time_ut": 1658287986,
+    "original_lang": "en",
+    "original_title": "CWC to support Ranil at today\u2019s election",
+    "file_name": "/tmp/news_lk2/articles/40/40bd39d0.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-300767",
+    "time_ut": 1658287951,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e4/e45ada0c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-vaccination-centres-at-CMC-today/108-241407",
+    "time_ut": 1658287748,
+    "original_lang": "en",
+    "original_title": "Pfizer vaccination centres at CMC today",
+    "file_name": "/tmp/news_lk2/articles/0c/0c97c6d1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/20/long-queues-for-fuel-qr-system-to-be-implemented-soon/",
+    "time_ut": 1658286840,
+    "original_lang": "en",
+    "original_title": "Long queues for fuel; QR system to be implemented soon",
+    "file_name": "/tmp/news_lk2/articles/ee/eece0adf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-overnight-money-markets-dry-up-as-soft-peg-drives-up-counterparty-risks-97681/",
     "time_ut": 1658286060,
@@ -30,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7  \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 \u0dad\u0dc4\u0db1\u0db8\u0dca",
     "file_name": "/tmp/news_lk2/articles/25/25bcf6e3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/TNA-\u0da9\u0dbd\u0dc3\u0dca\u0da7---CWC-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7/11-395562",
+    "time_ut": 1658283638,
+    "original_lang": "si",
+    "original_title": "TNA \u0da9\u0dbd\u0dc3\u0dca\u0da7 - CWC \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7",
+    "file_name": "/tmp/news_lk2/articles/eb/eb12526d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -118,6 +182,14 @@
     "original_lang": "en",
     "original_title": "Election for President by Parliament",
     "file_name": "/tmp/news_lk2/articles/aa/aa308c12.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b95\u0bbf\u0baf\u0bc1-\u0b86\u0bb0\u0bcd-\u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8/71-300762",
+    "time_ut": 1658261779,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0baf\u0bc1.\u0b86\u0bb0\u0bcd. \u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/00/00eb74df.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -457,6 +529,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131812",
+    "time_ut": 1658247234,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd - \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bb0\u0bcd\u00a0\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/aa/aa1015c7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131840",
     "time_ut": 1658247143,
     "original_lang": "ta",
@@ -510,6 +590,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9f\u0bb2\u0bb8\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf - \u0b9a\u0ba9\u0bcd\u0ba9 \u0b9c\u0baf\u0b9a\u0bc1\u0bae\u0ba9",
     "file_name": "/tmp/news_lk2/articles/5e/5e97c670.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131828",
+    "time_ut": 1658244969,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0ba4\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd - '\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bcb \u0b95\u0bae' \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c4/c46ac7a4.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "en",
     "original_title": "The country can be saved not by an all-party government but by a non-party government",
     "file_name": "/tmp/news_lk2/articles/ce/ce870744.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/In-Sri-Lanka-no-quiet-after-the-storm/14-737553",
-    "time_ut": 1657909803,
-    "original_lang": "en",
-    "original_title": "In Sri Lanka, no quiet after the storm",
-    "file_name": "/tmp/news_lk2/articles/32/326d2547.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Pusswedilla-s-take-on-Ranil-speech/14-737552",
-    "time_ut": 1657909741,
-    "original_lang": "en",
-    "original_title": "Pusswedilla\u2019s take on Ranil speech",
-    "file_name": "/tmp/news_lk2/articles/6e/6eb0e895.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Aragalaya-and-the-Parliament/4-737551",
-    "time_ut": 1657909578,
-    "original_lang": "en",
-    "original_title": "Aragalaya and the Parliament",
-    "file_name": "/tmp/news_lk2/articles/6f/6f836c62.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/GROBR-and-next-phase-of-Aragalaya/4-737550",
-    "time_ut": 1657909409,
-    "original_lang": "en",
-    "original_title": "GROBR and next phase of Aragalaya",
-    "file_name": "/tmp/news_lk2/articles/d3/d32703f6.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f-\u0baa\u0bcb\u0bb5\u0ba4\u0bbe\u0b95-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300501",
-    "time_ut": 1657907514,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f \u0baa\u0bcb\u0bb5\u0ba4\u0bbe\u0b95 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/ea/ea942148.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0ddd\u0db7\u0dd2\u0dad-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0ddd-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d85\u0d9f\u0dc0\u0dad\u0dd2/101-616493",
-    "time_ut": 1657906374,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0ddd\u0db7\u0dd2\u0dad \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0ddd \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d85\u0d9f\u0dc0\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/62/6263a987.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Damage-caused-to-Presidents-House/342-241175",
-    "time_ut": 1657906036,
-    "original_lang": "en",
-    "original_title": "Damage caused to President\u2019s House",
-    "file_name": "/tmp/news_lk2/articles/31/31df3e15.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/The-need-to-appoint-an-independent-president-and-its-process/4-737541",
-    "time_ut": 1657905485,
-    "original_lang": "en",
-    "original_title": "The need to appoint an independent president and its process",
-    "file_name": "/tmp/news_lk2/articles/76/76010c0c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/15/sajith-to-contest-for-presidency/",
-    "time_ut": 1657905360,
-    "original_lang": "en",
-    "original_title": "Sajith to contest for Presidency",
-    "file_name": "/tmp/news_lk2/articles/e6/e69e269a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131545",
-    "time_ut": 1657903686,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/52/522a3db2.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131546",
-    "time_ut": 1657903484,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd -\u00a0\u0bb0\u0bb7\u0bcd\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/e1/e13f8688.json"
   }
 ]
