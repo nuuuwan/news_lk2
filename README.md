@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 04:12:19 (LK time)*
+*As of 2022-07-21 04:26:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+* **1** daily-mirror-lk ([Anarchy and the Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74ab72d5.json))
 
 ## Last Hour (3 Articles)
 
