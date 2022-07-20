@@ -1,36 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 20:21:46 (LK time)*
+*As of 2022-07-20 20:32:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **1** lankadeepa-lk ([වැවේ නාන්න ගිය සිසුහු ගිලී මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f45779d0.json))
+* **2** virakesari-lk ([கட்சி எடுக்கும் தீர்மானங்களுக்கமைய செயற்படுவேன் -முன்னாள் பிரதமர் மஹிந்த ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54f02fec.json))
 
-* **1** ada-derana-lk ([Power cut schedule for tomorrow released](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4902dd5b.json))
+* **1** lankadeepa-lk ([පාර්ලිමේන්තුවේ ඡන්දයත් ජනතා මතයත් අතර ආලෝක වර්ෂ ගණනාවක පරතයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e89793e9.json))
 
-* **1** tamil-mirror-lk ([நாடி வைத்தியத்தை நாடியமையால் விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93953a1b.json))
+## Last Hour (12 Articles)
 
-## Last Hour (10 Articles)
+* **3** virakesari-lk ([ஐக்கிய மக்கள் சக்தியில் இருந்து 14 பேர் ரணில் விக்ரமசிங்கவுக்கு வாக்களிப்பு - அமைச்சர் ஹரீன் பெர்னாண்டோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad2c89d8.json))
 
-* **3** tamil-mirror-lk ([ஜனாதிபதியின் வீட்டுக்கு தீ: 4 பேருக்கு விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d9fef17.json))
-
-* **2** lankadeepa-lk ([රනිල්  ජනපති කිරීමේ ගැසට් නිවේදනය නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae17035.json))
+* **3** lankadeepa-lk ([රනිල්  ජනපති කිරීමේ ගැසට් නිවේදනය නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae17035.json))
 
 * **2** ada-derana-lk ([CBSL chief confident Sri Lanka can overcome economic crisis within 5 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eea076b1.json))
 
+* **2** tamil-mirror-lk ([கணிசமாக உயர்கிறது தொற்றாளர் தொகை](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e80f1c5f.json))
+
 * **2** daily-mirror-lk ([Gazette announcing election of eighth Executive President published](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95cef165.json))
 
-* **1** virakesari-lk ([ஐக்கிய மக்கள் சக்தியில் இருந்து 14 பேர் ரணில் விக்ரமசிங்கவுக்கு வாக்களிப்பு - அமைச்சர் ஹரீன் பெர்னாண்டோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad2c89d8.json))
+## Last 3 Hours (30 Articles)
 
-## Last 3 Hours (32 Articles)
-
-* **10** virakesari-lk ([யாழ். குருநகர் கடற்றொழிலாளர் சங்கத்தினர் எரிபொருள் பெற்றுத்தரக்கோரி யாழ் மாவட்ட செயலாளரிடம் மகஜர் கையளிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a46404a.json))
+* **8** virakesari-lk ([யாழில்  172 மில்லியன் ரூபா பெறுமதியான கேரள கஞ்சாவுடன் இருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c48fefe.json))
 
 * **8** tamil-mirror-lk ([திடீரென வாகனத்திலிருந்து இறங்கிய ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab5f5457.json))
 
-* **4** lankadeepa-lk ([පාර්ලිමේන්තුවට ආරක්ෂාව දුන් හමුදාව-පොලිසිය අතරට ජනපති යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7452967e.json))
+* **4** lankadeepa-lk ([හෙටත් පැය 3 ක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/946d22dd.json))
 
 * **3** ada-derana-lk ([Special gazette issued declaring Ranil as new Sri Lanka President](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1db8459c.json))
 
@@ -42,11 +40,11 @@
 
 * **1** ada-lk ([අපි ඩලස්ව ඉදිරිපත් කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c0cd58.json))
 
-## Last 24 Hours (286 Articles)
+## Last 24 Hours (288 Articles)
 
-* **51** virakesari-lk ([ஜனாதிபதியாக யார் பதவியேற்றாலும் இந்தியா தொடர்ந்து உதவ வேண்டும் - சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83343d46.json))
+* **53** virakesari-lk ([ஜனாதிபதியாக யார் பதவியேற்றாலும் இந்தியா தொடர்ந்து உதவ வேண்டும் - சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83343d46.json))
 
-* **46** lankadeepa-lk ([විදුලි කප්පාදුව පැය 3 යි මිනිත්තු 40 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/1676b464.json))
+* **46** lankadeepa-lk ([ජනපති ගෝඨාභය පළායාමේ පසුබිම් කතාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cc0e956.json))
 
 * **45** tamil-mirror-lk ([தமிழ் தேசியக் கூட்டமைப்பு டலஸுக்கு ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d2d7114.json))
 
@@ -68,15 +66,15 @@
 
 * **1** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
 
-## Last Week (1,797 Articles)
+## Last Week (1,799 Articles)
 
-* **329** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
+* **331** virakesari-lk ([பாராளுமன்றத்தை நோக்கி நகரும் போராட்டக்காரர்களால் பதற்றம் : காயமடைந்த பலர் வைத்தியசாலையில் அனுமதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4557138a.json))
 
-* **274** lankadeepa-lk ([‘‘හැමෝම පිළිගන්න අගමැති කෙනෙක් නම් කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94a43faa.json))
+* **275** lankadeepa-lk ([‘‘හැමෝම පිළිගන්න අගමැති කෙනෙක් නම් කරන්න‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94a43faa.json))
 
 * **211** tamil-mirror-lk ([பாராளுமன்றம் அருகே மோதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc73ef5f.json))
 
-* **205** daily-mirror-lk ([RW informs Speaker to nominate a PM](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b999356.json))
+* **204** daily-mirror-lk ([Restore law and order in the country immediately: SLPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0118feb.json))
 
 * **183** ada-lk ([සාමකාමි බල හුවමාරුවක් සඳහා දේශපාලන නායකයන්ට ඉඩ දෙන්න - BASL](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/3432c736.json))
 
@@ -96,11 +94,11 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,014 Articles)
+## All Time (3,017 Articles)
 
-* **455** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **456** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **430** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **432** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **367** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
