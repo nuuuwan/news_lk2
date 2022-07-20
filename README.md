@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 04:43:13 (LK time)*
+*As of 2022-07-21 04:54:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
-* **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+* **2** daily-mirror-lk ([The Aragalaya: a postscript](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a94e581.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
-* **5** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
+* **4** daily-ft-lk ([RW thanks Tri-Forces, Police for protecting Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78a2285a.json))
 
 * **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
