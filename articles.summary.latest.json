@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/175-300797",
+    "time_ut": 1658305077,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/7f/7fff9e7d.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf-\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1-\u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf/175-300796",
+    "time_ut": 1658304790,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1? \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/cf/cfbd7603.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131868",
+    "time_ut": 1658304607,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 3 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/02/02c23957.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131867",
     "time_ut": 1658304107,
@@ -137,11 +161,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/155-241442",
+    "url": "https://www.dailymirror.lk/latest_news/RANIL-WICKREMESINGHE-WINS-PRESIDENTIAL-VOTE/342-241442",
     "time_ut": 1658301017,
     "original_lang": "en",
     "original_title": "RANIL WICKREMESINGHE WINS PRESIDENTIAL VOTE",
-    "file_name": "/tmp/news_lk2/articles/39/39dc47e6.json"
+    "file_name": "/tmp/news_lk2/articles/85/853178c3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bc8 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
     "file_name": "/tmp/news_lk2/articles/7f/7fbadcce.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83684/anura-kumara-to-join-race-for-presidency",
-    "time_ut": 1657955880,
-    "original_lang": "en",
-    "original_title": "Anura Kumara to join race for presidency",
-    "file_name": "/tmp/news_lk2/articles/29/2948c4ed.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131576",
-    "time_ut": 1657955690,
-    "original_lang": "ta",
-    "original_title": "\u0b85.\u0ba4\u0bbf.\u0bae\u0bc1.\u0b95.\u0bb5\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b8e\u0b9f\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/ac/ac6c533a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/AKD-to-contest-for-presidency-from-NPP/108-241221",
-    "time_ut": 1657955109,
-    "original_lang": "en",
-    "original_title": "AKD to contest for presidency from NPP",
-    "file_name": "/tmp/news_lk2/articles/ea/eacb6305.json"
   }
 ]
