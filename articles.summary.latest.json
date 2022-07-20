@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/IMF-hopes-to-complete-Sri-Lanka-aid-talks-as-quickly-as-possible-Kristalina/108-241451",
+    "time_ut": 1658312576,
+    "original_lang": "en",
+    "original_title": "IMF hopes to complete Sri Lanka aid talks \u2019as quickly as possible\u2019: Kristalina",
+    "file_name": "/tmp/news_lk2/articles/d1/d17c447b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131883",
+    "time_ut": 1658312471,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd - \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/35/356d777b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0db1\u0dcf\u0dba\u0d9a-\u0db4\u0dd2\u0dc5\u0dd2\u0dbb\u0dd4\u0dc0-\u0d85\u0dc3\u0dbd-\u0dc3\u0dd2\u0da7-\u0db8\u0dd3\u0da7\u0dbb\u0dca-50\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0da7-\u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0\u0dd3\u0db8-\u0dad\u0dc4\u0db1\u0db8\u0dca/11-395593",
+    "time_ut": 1658311858,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0db1\u0dcf\u0dba\u0d9a \u0db4\u0dd2\u0dc5\u0dd2\u0dbb\u0dd4\u0dc0 \u0d85\u0dc3\u0dbd \u0dc3\u0dd2\u0da7 \u0db8\u0dd3\u0da7\u0dbb\u0dca 50\u0d9a \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0\u0dd3\u0db8 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bc/bc19a04a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131880",
+    "time_ut": 1658311683,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bbf \u0b85\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd- \u0ba8\u0bbf\u0baf\u0bc2\u0baf\u0bcb\u0bb0\u0bcd\u0b95\u0bcd \u0b9f\u0bc8\u0bae\u0bcd\u0bb8\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/16/16a94363.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Pakistan-beat-Sri-Lanka-to-take-1-0-lead/108-241449",
     "time_ut": 1658311134,
     "original_lang": "en",
@@ -54,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dd9\u0daf\u0dcf\u0dc4\u0dd0\u0dbb\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0d87\u0dbb\u0db9\u0dda",
     "file_name": "/tmp/news_lk2/articles/46/462306ca.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0da7---\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab\u0dba\u0dda-\u0daf\u0dd3/11-395591",
+    "time_ut": 1658309269,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 - \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0dc3\u0d82\u0d9a\u0dd3\u0dbb\u0dca\u0dab\u0dba\u0dda \u0daf\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/4c/4c39ec59.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -542,6 +582,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1  \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/09/0915daec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/One-death-every-three-or-four-days-occur-due-to-COVID-GMOA/342-241441",
+    "time_ut": 1658298492,
+    "original_lang": "en",
+    "original_title": "One death every three or four days occur due to COVID: GMOA",
+    "file_name": "/tmp/news_lk2/articles/d2/d2014535.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1374,6 +1422,14 @@
     "original_lang": "en",
     "original_title": "If only those walls could talk",
     "file_name": "/tmp/news_lk2/articles/59/593d5710.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78650",
+    "time_ut": 1658258640,
+    "original_lang": "en",
+    "original_title": "Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes",
+    "file_name": "/tmp/news_lk2/articles/36/36906a5b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Kanrich Finance Ratnapura branch relocates to new premises",
     "file_name": "/tmp/news_lk2/articles/b9/b9bf35b0.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0da7-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0db6\u0dd9\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2/101-616527",
-    "time_ut": 1657962701,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0db6\u0dd9\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/97/97df192a.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131589",
-    "time_ut": 1657962690,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1 \u0baf\u0bbe\u0bb0\u0bcd ?",
-    "file_name": "/tmp/news_lk2/articles/8d/8d86cdf8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131588",
-    "time_ut": 1657962636,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0baa\u0bbe\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e3/e331737d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dilmahs-mjf-centre-east-opens-cashew-processing-centre-for-smallholders/",
-    "time_ut": 1657962540,
-    "original_lang": "en",
-    "original_title": "Dilmah\u2019s MJF Centre East Opens Cashew Processing Centre for Smallholders",
-    "file_name": "/tmp/news_lk2/articles/5d/5d5dd358.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131587",
-    "time_ut": 1657962523,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bbe\u0ba8\u0bbf\u0bb2\u0bc8 \u201c\u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bb3\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bcb\u0bae\u0bcd\u201d",
-    "file_name": "/tmp/news_lk2/articles/7b/7b8154a3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131585",
-    "time_ut": 1657962451,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/29/29a2160f.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131584",
-    "time_ut": 1657962392,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/5c/5c164369.json"
   }
 ]

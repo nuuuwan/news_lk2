@@ -1,0 +1,246 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Power-cut-reduced-to-three-hours-today-PUCSL/342-241448",
+  "time_ut": 1658310345,
+  "original_lang": "en",
+  "original_title": "Power cut reduced to three hours today: PUCSL",
+  "text_idx": {
+    "en": {
+      "title": "Power cut reduced to three hours today: PUCSL",
+      "author": "unknown",
+      "body_lines": [
+        "The Ceylon Electricity Board (CEB) has given the directive to reduce the scheduled power cut for today to three hours, the Public Utilities Commission of Sri Lanka (PUCSL) said.",
+        "Accordingly, the areas that come under A, B, C, D, E, F, G, H, I, J, K, L, P, Q, R, S, T, U, V and W group will experience a two-hour power cut during the daytime and a one-hour in the night.",
+        "The areas under group CC will have a two-hour power cut and areas listed under M, N, O, X, Y and Z group will face a three-hour powercut. (Chaturanga Samarawickrama)"
+      ],
+      "title_ents": [
+        {
+          "text": "three hours",
+          "label": "TIME"
+        },
+        {
+          "text": "today",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Ceylon Electricity Board",
+            "label": "ORG"
+          },
+          {
+            "text": "today to three hours",
+            "label": "TIME"
+          },
+          {
+            "text": "the Public Utilities Commission of Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "F, G, H",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "L",
+            "label": "ORG"
+          },
+          {
+            "text": "two-hour",
+            "label": "TIME"
+          },
+          {
+            "text": "one-hour",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "CC",
+            "label": "ORG"
+          },
+          {
+            "text": "two-hour",
+            "label": "TIME"
+          },
+          {
+            "text": "three-hour",
+            "label": "TIME"
+          },
+          {
+            "text": "Chaturanga Samarawickrama",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0d85\u0daf \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2: \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0daf \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0db8\u0dd2\u0dad \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0db4\u0dd0\u0dba 3 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 A, B, C, D, E, F, G, H, I, J, K, L, P, Q, R, S, T, U, V \u0dc3\u0dc4 W \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0dba\u0da7\u0dad\u0dda \u0d91\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dc0\u0dbd\u0da7 \u0d85. \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dc4 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0dba\u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca.",
+        "CC \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0dba\u0da7\u0dad\u0dda \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1 \u0d85\u0dad\u0dbb M, N, O, X, Y \u0dc3\u0dc4 Z \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0dba\u0da7\u0dad\u0dda \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0d9c\u0dad \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0da7 \u0db8\u0dd4\u0dc4\u0dd4\u0dab \u0daf\u0dd9\u0db1\u0dd4 \u0d87\u0dad. (\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0d85\u0daf",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0db6\u0dbd \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf \u0dc3\u0dd2\u0da7 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0dc6\u0dca, \u0da2\u0dd3, \u0d91\u0da0\u0dca",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0d91\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "CC",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0da0\u0dad\u0dd4\u0dbb\u0d82\u0d9c \u0dc3\u0db8\u0dbb\u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1: PUCSL",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8 (CEB) \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 (PUCSL) \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b85\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0b8f, \u0baa\u0bbf, \u0b9a\u0bbf, \u0b9f\u0bbf, \u0b88, \u0b8e\u0b83\u0baa\u0bcd, \u0b9c\u0bbf, \u0b8e\u0b9a\u0bcd, \u0b90, \u0b9c\u0bc7, \u0b95\u0bc7, \u0b8e\u0bb2\u0bcd, \u0baa\u0bbf, \u0b95\u0bbf\u0baf\u0bc2, \u0b86\u0bb0\u0bcd, \u0b8e\u0bb8\u0bcd, \u0b9f\u0bbf, \u0baf\u0bc1, \u0bb5\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2 \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b8f. \u0baa\u0b95\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd, \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1.",
+        "CC \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd M, N, O, X, Y \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Z \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd. (\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "DATE"
+        },
+        {
+          "text": "PUCSL",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b9a\u0baa\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "PUCSL",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0b83\u0baa\u0bcd, \u0b9c\u0bbf, \u0b8e\u0b9a\u0bcd",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "\u0b8e\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bbf\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b9a\u0bae\u0bb0\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
