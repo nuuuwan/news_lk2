@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 06:09:39 (LK time)*
+*As of 2022-07-20 06:34:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (265 Articles)
 
 * **57** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மூவரின் வங்கிக்கணக்குகளில் பெருந்தொகையான பணம் வைப்பிலிடப்பட்டதா ? உண்மை வெளியானது !](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a8b9246.json))
 
@@ -16,7 +16,7 @@
 
 * **28** ada-derana-lk ([Spells of showers, strong winds expected in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be260d73.json))
 
-* **19** tamil-mirror-lk ([எரிபொருள் அட்டை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d89159ce.json))
+* **20** tamil-mirror-lk ([எரிபொருள் அட்டை தொடர்பான அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d89159ce.json))
 
 * **16** economy-next-com ([Sri Lanka executive presidency opposed by 70-pct: Poll](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/136a6aea.json))
 
@@ -30,7 +30,7 @@
 
 * **2** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ අර්බුදය: ආහාර සහ ඉන්ධන හිඟය ගැබිණි මව්වරුන්ට බලපාන හැටි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c602de9.json))
 
-## Last Week (1,812 Articles)
+## Last Week (1,811 Articles)
 
 * **322** virakesari-lk ([ராஜபக்ஷக்களின் வீழ்ச்சியின் பாடங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6043d1d.json))
 
@@ -38,13 +38,13 @@
 
 * **222** daily-mirror-lk ([Dial 1971 for railways inquiries](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab40f6d2.json))
 
-* **209** tamil-mirror-lk ([விமானப்படை விமானத்தில் பறந்தார் கோட்டா](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93dbd0e7.json))
+* **209** tamil-mirror-lk ([ஒரு நாளேனும் ரணில் ஜனாதிபதியாக இடமளிக்க வேண்டாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b41ed3a.json))
 
 * **178** ada-lk ([ලංකාව පතුලටම ඇද දමා ජනපති රටින් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64a30617.json))
 
 * **162** ada-derana-lk ([Spells of showers, strong winds likely in some areas](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/505645b6.json))
 
-* **140** news-first-lk ([President Rajapaksa leaves Sri Lanka – BBC](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5558feb.json))
+* **139** news-first-lk ([Govt Requested AirForce to Fly President to Maldives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7ba3b626.json))
 
 * **87** economy-next-com ([Travel ban sought on ex-Sri Lanka PM, Basil, Lakshman, Cabraal, Attygalle](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc30b238.json))
 
@@ -58,7 +58,7 @@
 
 * **16** d-b-s-jeyaraj-com ([President   Gotabaya Rajapaksa  appoints Prime Minister  Ranil Wickremesinghe  as Acting President to “exercise, perform and discharge the powers, duties and functions of the Office of President” with effect from Wednesday, during his absence from Sri Lanka.](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74afdc76.json))
 
-## All Time (2,775 Articles)
+## All Time (2,776 Articles)
 
 * **413** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -68,7 +68,7 @@
 
 * **287** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **265** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **266** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **208** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
