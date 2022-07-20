@@ -1,30 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-20 22:41:29 (LK time)*
+*As of 2022-07-20 22:54:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** virakesari-lk ([5 மாதங்களுக்குள் நாட்டை மீட்க முடியும் - மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/188ae9e0.json))
+* **2** virakesari-lk ([சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர் தேசபந்து குறித்த வழக்கு ஒத்திவைப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90869d0c.json))
 
-## Last Hour (4 Articles)
+## Last 3 Hours (20 Articles)
 
-* **4** virakesari-lk ([பாராளுமன்றத்திற்குத் தீவைக்கப்பட்டால் எம்மை சாடவேண்டாம் - மக்கள் தன்னெழுச்சிப்போராட்டக்காரர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cffbf72b.json))
+* **8** virakesari-lk ([கட்சி எடுக்கும் தீர்மானங்களுக்கமைய செயற்படுவேன் -முன்னாள் பிரதமர் மஹிந்த ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54f02fec.json))
 
-## Last 3 Hours (24 Articles)
+* **6** daily-mirror-lk ([Ranil visits Gangaramaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1526082b.json))
 
-* **9** virakesari-lk ([ஐக்கிய மக்கள் சக்தியில் இருந்து 14 பேர் ரணில் விக்ரமசிங்கவுக்கு வாக்களிப்பு - அமைச்சர் ஹரீன் பெர்னாண்டோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad2c89d8.json))
-
-* **8** daily-mirror-lk ([Gazette announcing election of eighth Executive President published](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95cef165.json))
-
-* **4** lankadeepa-lk ([රනිල්  ජනපති කිරීමේ ගැසට් නිවේදනය නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ae17035.json))
+* **3** lankadeepa-lk ([වැවේ නාන්න ගිය සිසුහු ගිලී මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f45779d0.json))
 
 * **2** ada-derana-lk ([Power cut schedule for tomorrow released](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4902dd5b.json))
 
 * **1** tamil-mirror-lk ([நாடி வைத்தியத்தை நாடியமையால் விபரீதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93953a1b.json))
 
-## Last 24 Hours (280 Articles)
+## Last 24 Hours (279 Articles)
 
 * **48** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -48,21 +44,19 @@
 
 * **1** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperum by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
 
-* **1** island-lk ([Should Ranil Wickramasinghe be President?](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48e22cee.json))
+## Last Week (1,769 Articles)
 
-## Last Week (1,774 Articles)
-
-* **334** virakesari-lk ([சட்ட ஒழுங்கினை பாதூக்க முழுமையான ஒத்துழைப்பு வழங்குவோம். - பொதுஜன பெரமுன](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d8478b3.json))
+* **331** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
 * **270** lankadeepa-lk ([කලබල අස්සේ 84ක් රෝහල](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aea70d.json))
 
 * **206** tamil-mirror-lk ([’தமிழ் மக்களின் பிரச்சினைக்கும் தீர்வு வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f994ffb.json))
 
-* **197** daily-mirror-lk ([75 admitted to NHC following clashes today](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57c4bce7.json))
+* **196** daily-mirror-lk ([Ukrainian President blames Russia for causing the ongoing crisis in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0d8c760.json))
 
 * **181** ada-lk ([රනිල් රටටම ඇඳිරි නිතිය දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63aa6cae.json))
 
-* **161** ada-derana-lk ([Mahanayaka Theros’ plea to party leaders and protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/847a7735.json))
+* **160** ada-derana-lk ([President Rajapaksa set to fly to Singapore via Maldives - Reuters](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b5c1e.json))
 
 * **134** news-first-lk ([Speaker yet to receive GRs resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31b4c813.json))
 
