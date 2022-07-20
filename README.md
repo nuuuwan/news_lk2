@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 02:58:18 (LK time)*
+*As of 2022-07-21 03:09:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** daily-ft-lk ([Protesters sombre after Wickremesinghe’s win, but some vow to fight on](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef171c8d.json))
-
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (10 Articles)
 
 * **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
-
-* **1** economy-next-com ([Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a43afb02.json))
 
 ## Last 24 Hours (265 Articles)
 
