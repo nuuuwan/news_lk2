@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 04:26:42 (LK time)*
+*As of 2022-07-21 04:34:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Anarchy and the Aragalaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74ab72d5.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
-* **6** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
+* **5** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
 
 * **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
-## Last 24 Hours (269 Articles)
+## Last 24 Hours (268 Articles)
 
 * **51** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -38,7 +34,7 @@
 
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
-* **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
+* **4** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ වැඩි ඡන්දයෙන් අට වන විධායක ජනපති ලෙස පත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/384fe982.json))
 
 ## Last Week (1,762 Articles)
 
