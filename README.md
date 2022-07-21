@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 23:43:36 (LK time)*
+*As of 2022-07-21 23:49:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** ada-derana-lk ([Election Commission informed of vacancy of MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf0788d6.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (22 Articles)
 
 * **5** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
 
@@ -20,15 +20,15 @@
 
 * **3** ada-lk ([ජුනි මාසයේ උද්ධමනය සියයට 58.9ක් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fc84d88.json))
 
-* **3** lankadeepa-lk ([රටේ නායකත්වය ලැබිය යුත්තේ සුජාතභාවය හිමි කණ්ඩායමකටයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a1d3f9f.json))
-
 * **2** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
 * **2** daily-mirror-lk ([Spike in COVID cases; current Pfizer batch to expire soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af1fb9b.json))
 
+* **2** lankadeepa-lk ([ඇමෙරිකා ජනපතිට කොරෝනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e21bf26b.json))
+
 * **1** news-first-lk ([Inflation hits 58.9% in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38210d8f.json))
 
-## Last 24 Hours (264 Articles)
+## Last 24 Hours (262 Articles)
 
 * **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
@@ -42,9 +42,9 @@
 
 * **23** ada-derana-lk ([Fairly heavy rains above 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96cfb65b.json))
 
-* **21** tamil-mirror-lk ([வங்கி கடன் பெற்றவர்களுக்கு மகிழ்ச்சியான செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeafd259.json))
+* **20** tamil-mirror-lk ([அரச கட்டடங்களை ஆக்கிரமிப்போருக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309fed07.json))
 
-* **11** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
+* **10** economy-next-com ([Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a43afb02.json))
 
 * **10** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
@@ -54,7 +54,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## Last Week (1,766 Articles)
+## Last Week (1,765 Articles)
 
 * **333** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -66,7 +66,7 @@
 
 * **182** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
-* **159** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
+* **158** ada-derana-lk ([Duties, institutions gazetted under Defence Ministry amended](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/607209d2.json))
 
 * **138** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
