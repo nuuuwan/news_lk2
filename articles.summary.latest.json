@@ -1,6 +1,94 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/TATA-Memorial-Hospital-in-Mumbai-donates-urgently-required-cancer-medicines-to-Sri-Lanka/56-737777",
+    "time_ut": 1658445975,
+    "original_lang": "en",
+    "original_title": "TATA Memorial Hospital in Mumbai donates urgently required cancer medicines to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/ac/ac0a01f1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Urgent-medicinal-supplies-from-US-to-the-people-of-Sri-Lanka/56-737776",
+    "time_ut": 1658445789,
+    "original_lang": "en",
+    "original_title": "Urgent medicinal supplies from US to the people of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/21/21e05874.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/LOLC-on-Rs-500-m-humanitarian-project/56-737775",
+    "time_ut": 1658445672,
+    "original_lang": "en",
+    "original_title": "LOLC on Rs. 500 m humanitarian project",
+    "file_name": "/tmp/news_lk2/articles/47/479d9d7b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Colombo-Expat-Cultural-Association-Messiah-for-the-children/56-737774",
+    "time_ut": 1658445556,
+    "original_lang": "en",
+    "original_title": "Colombo Expat Cultural Association: Messiah for the children",
+    "file_name": "/tmp/news_lk2/articles/ef/ef5b0270.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/NCE-anticipates-economic-stability-under-newly-elected-President/34-737773",
+    "time_ut": 1658445426,
+    "original_lang": "en",
+    "original_title": "NCE anticipates economic stability under newly elected President",
+    "file_name": "/tmp/news_lk2/articles/e2/e2e88007.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-discusses-enterprise-investment-potential-with-top-ranking-US-officials/34-737772",
+    "time_ut": 1658445401,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel discusses  enterprise investment potential with top-ranking US officials",
+    "file_name": "/tmp/news_lk2/articles/9f/9ff535d0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/ICTA-says-fuel-pass-only-via-official-website/56-737771",
+    "time_ut": 1658445251,
+    "original_lang": "en",
+    "original_title": "ICTA says fuel pass only via official website",
+    "file_name": "/tmp/news_lk2/articles/c4/c4a5129f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kanchana-calls-fuel-QR-pilot-system-a-success/56-737770",
+    "time_ut": 1658445122,
+    "original_lang": "en",
+    "original_title": "Kanchana calls fuel QR pilot system a success",
+    "file_name": "/tmp/news_lk2/articles/f4/f44d870c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Writ-petition-filed-challenging-removal-from-post-of-OUSL-Head-of-Legal-Studies/56-737769",
+    "time_ut": 1658444950,
+    "original_lang": "en",
+    "original_title": "Writ petition filed challenging removal from post of OUSL Head of Legal Studies",
+    "file_name": "/tmp/news_lk2/articles/68/689f7ca4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Jeevan-Thondaman-backs-support-to-President-RW/56-737768",
+    "time_ut": 1658444884,
+    "original_lang": "en",
+    "original_title": "Jeevan Thondaman backs support to President RW",
+    "file_name": "/tmp/news_lk2/articles/28/282f829a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Saman-Ekanayake-appointed-Secretary-to-President/56-737767",
+    "time_ut": 1658444810,
+    "original_lang": "en",
+    "original_title": "Saman Ekanayake appointed Secretary to President",
+    "file_name": "/tmp/news_lk2/articles/4f/4ff3402d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Court-issues-warrants-for-two-protest-leaders/56-737766",
     "time_ut": 1658444640,
     "original_lang": "en",
@@ -14,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/f7/f7a2b2e7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/gazette-to-maintain-public-order-published/",
+    "time_ut": 1658444400,
+    "original_lang": "en",
+    "original_title": "Gazette to maintain public order published",
+    "file_name": "/tmp/news_lk2/articles/70/70b843f5.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1606,14 +1702,6 @@
     "original_lang": "en",
     "original_title": "Saman Ekanayake appointed Secretary to new President",
     "file_name": "/tmp/news_lk2/articles/85/85bc0a71.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83785/saman-ekanayake-appointed-secretary-to-president",
-    "time_ut": 1658383380,
-    "original_lang": "en",
-    "original_title": "Saman Ekanayake appointed Secretary to President",
-    "file_name": "/tmp/news_lk2/articles/3d/3de4cccc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7910,93 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db1\u0dd2\u0dc3\u0dd2 \u0db6\u0dbb \u0db1\u0dd0\u0dad\u0dd4\u0dc0 \u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dca \u0d85\u0db4\u0dc4\u0dc3\u0dd4\u0dad\u0dcf\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/1e/1ea4733b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bc8\u0baf-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300648",
-    "time_ut": 1658137719,
-    "original_lang": "ta",
-    "original_title": "'\u0bae\u0ba9\u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0baf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd'",
-    "file_name": "/tmp/news_lk2/articles/7d/7d2b27ec.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-300647",
-    "time_ut": 1658137593,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/7f/7f14d8f2.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bill-yields-continue-to-edge-down-97568/",
-    "time_ut": 1658137080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka bill yields continue to edge down",
-    "file_name": "/tmp/news_lk2/articles/3e/3e090b28.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131693",
-    "time_ut": 1658136964,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd ; \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bcb\u0b9f\u0bbf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/24/24a99c76.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131687",
-    "time_ut": 1658136756,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bb2\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/65/65f42dfd.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-35-000\u0d9a\u0dca-\u0d85\u0daf-\u0d91\u0dba\u0dd2/101-616618",
-    "time_ut": 1658136508,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca 35,000\u0d9a\u0dca \u0d85\u0daf \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/23/236f36b3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131685",
-    "time_ut": 1658136472,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5f/5f965caf.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/britain-should-lead-international-aid-effort-for-sri-lanka-former-british-diplomat/",
-    "time_ut": 1658136360,
-    "original_lang": "en",
-    "original_title": "Britain should lead international aid effort for Sri Lanka \u2013 Former British Diplomat",
-    "file_name": "/tmp/news_lk2/articles/f8/f832433f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Parliament-has-constitutional-obligation-to-elect-Prez-capable-of-repairing-collapsed-economy-Church-of-Ceylon/342-241298",
-    "time_ut": 1658135945,
-    "original_lang": "en",
-    "original_title": "Parliament has constitutional obligation to elect Prez, capable of repairing collapsed economy: Church of Ceylon",
-    "file_name": "/tmp/news_lk2/articles/64/644f5a21.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/friday-forum-points-out-need-to-elect-new-president-not-linked-to-the-gr-government/",
-    "time_ut": 1658135880,
-    "original_lang": "en",
-    "original_title": "Friday Forum points out need to elect new President not linked to the GR government",
-    "file_name": "/tmp/news_lk2/articles/ee/ee293458.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Expectant-mother-daughter-died-and-4-injured-in-train-accident/108-241297",
-    "time_ut": 1658135653,
-    "original_lang": "en",
-    "original_title": "Expectant mother, daughter died and 4 injured in train accident",
-    "file_name": "/tmp/news_lk2/articles/8b/8be64d6c.json"
   }
 ]

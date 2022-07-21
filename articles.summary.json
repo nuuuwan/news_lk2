@@ -1,6 +1,94 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/TATA-Memorial-Hospital-in-Mumbai-donates-urgently-required-cancer-medicines-to-Sri-Lanka/56-737777",
+    "time_ut": 1658445975,
+    "original_lang": "en",
+    "original_title": "TATA Memorial Hospital in Mumbai donates urgently required cancer medicines to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/ac/ac0a01f1.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Urgent-medicinal-supplies-from-US-to-the-people-of-Sri-Lanka/56-737776",
+    "time_ut": 1658445789,
+    "original_lang": "en",
+    "original_title": "Urgent medicinal supplies from US to the people of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/21/21e05874.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/LOLC-on-Rs-500-m-humanitarian-project/56-737775",
+    "time_ut": 1658445672,
+    "original_lang": "en",
+    "original_title": "LOLC on Rs. 500 m humanitarian project",
+    "file_name": "/tmp/news_lk2/articles/47/479d9d7b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Colombo-Expat-Cultural-Association-Messiah-for-the-children/56-737774",
+    "time_ut": 1658445556,
+    "original_lang": "en",
+    "original_title": "Colombo Expat Cultural Association: Messiah for the children",
+    "file_name": "/tmp/news_lk2/articles/ef/ef5b0270.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/NCE-anticipates-economic-stability-under-newly-elected-President/34-737773",
+    "time_ut": 1658445426,
+    "original_lang": "en",
+    "original_title": "NCE anticipates economic stability under newly elected President",
+    "file_name": "/tmp/news_lk2/articles/e2/e2e88007.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/SLT-Mobitel-discusses-enterprise-investment-potential-with-top-ranking-US-officials/34-737772",
+    "time_ut": 1658445401,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel discusses  enterprise investment potential with top-ranking US officials",
+    "file_name": "/tmp/news_lk2/articles/9f/9ff535d0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/ICTA-says-fuel-pass-only-via-official-website/56-737771",
+    "time_ut": 1658445251,
+    "original_lang": "en",
+    "original_title": "ICTA says fuel pass only via official website",
+    "file_name": "/tmp/news_lk2/articles/c4/c4a5129f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Kanchana-calls-fuel-QR-pilot-system-a-success/56-737770",
+    "time_ut": 1658445122,
+    "original_lang": "en",
+    "original_title": "Kanchana calls fuel QR pilot system a success",
+    "file_name": "/tmp/news_lk2/articles/f4/f44d870c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Writ-petition-filed-challenging-removal-from-post-of-OUSL-Head-of-Legal-Studies/56-737769",
+    "time_ut": 1658444950,
+    "original_lang": "en",
+    "original_title": "Writ petition filed challenging removal from post of OUSL Head of Legal Studies",
+    "file_name": "/tmp/news_lk2/articles/68/689f7ca4.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Jeevan-Thondaman-backs-support-to-President-RW/56-737768",
+    "time_ut": 1658444884,
+    "original_lang": "en",
+    "original_title": "Jeevan Thondaman backs support to President RW",
+    "file_name": "/tmp/news_lk2/articles/28/282f829a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Saman-Ekanayake-appointed-Secretary-to-President/56-737767",
+    "time_ut": 1658444810,
+    "original_lang": "en",
+    "original_title": "Saman Ekanayake appointed Secretary to President",
+    "file_name": "/tmp/news_lk2/articles/4f/4ff3402d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Court-issues-warrants-for-two-protest-leaders/56-737766",
     "time_ut": 1658444640,
     "original_lang": "en",
@@ -14,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/f7/f7a2b2e7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/gazette-to-maintain-public-order-published/",
+    "time_ut": 1658444400,
+    "original_lang": "en",
+    "original_title": "Gazette to maintain public order published",
+    "file_name": "/tmp/news_lk2/articles/70/70b843f5.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1606,14 +1702,6 @@
     "original_lang": "en",
     "original_title": "Saman Ekanayake appointed Secretary to new President",
     "file_name": "/tmp/news_lk2/articles/85/85bc0a71.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83785/saman-ekanayake-appointed-secretary-to-president",
-    "time_ut": 1658383380,
-    "original_lang": "en",
-    "original_title": "Saman Ekanayake appointed Secretary to President",
-    "file_name": "/tmp/news_lk2/articles/3d/3de4cccc.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
