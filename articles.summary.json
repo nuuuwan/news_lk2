@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/video-tense-situation-at-galle-face-protest-site-as-military-sweeps-in/",
+    "time_ut": 1658441340,
+    "original_lang": "en",
+    "original_title": "(VIDEO) Tense situation at Galle Face protest site as military sweeps in",
+    "file_name": "/tmp/news_lk2/articles/ec/ec2f2061.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/caption_story/Military-in-Galle-Face-protest-site/110-241546",
     "time_ut": 1658438357,
@@ -718,6 +726,14 @@
     "original_lang": "en",
     "original_title": "IMF would need commitment from administration \u2013 CBSL Chief",
     "file_name": "/tmp/news_lk2/articles/86/86762d4a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131951",
+    "time_ut": 1658402292,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 6 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd - \u0b89\u0bb2\u0b95 \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/16/1664ff45.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
