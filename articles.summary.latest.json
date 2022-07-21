@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/no-proper-fuel-distribution-for-buses-allege-bus-owners/",
+    "time_ut": 1658380980,
+    "original_lang": "en",
+    "original_title": "NO proper fuel distribution for buses, allege Bus Owners",
+    "file_name": "/tmp/news_lk2/articles/c3/c38a3dd4.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-395604",
+    "time_ut": 1658380212,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/33/33d3ef86.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/ranil-wickremesinghe-sworn-in-as-8th-executive-president-of-sri-lanka/",
+    "time_ut": 1658380140,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe sworn in as 8th Executive President of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/5e/5e79adc9.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd/175-300849",
     "time_ut": 1658380102,
@@ -9,11 +33,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Protesters-still-occupy-Galle-Face-defying-court-order/110-241502",
+    "url": "https://www.dailymirror.lk/latest_news/Protesters-still-occupy-Galle-Face-defying-court-order/342-241502",
     "time_ut": 1658379932,
     "original_lang": "en",
     "original_title": "Protesters still occupy Galle Face defying court order",
-    "file_name": "/tmp/news_lk2/articles/b2/b2dc5fe3.json"
+    "file_name": "/tmp/news_lk2/articles/d0/d0419474.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -81,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Ranil-sworn-in-as-8th-Executive-President/155-241499",
+    "url": "https://www.dailymirror.lk/latest_news/Ranil-sworn-in-as-8th-Executive-President/342-241499",
     "time_ut": 1658378607,
     "original_lang": "en",
     "original_title": "Ranil sworn in as 8th Executive President",
-    "file_name": "/tmp/news_lk2/articles/e3/e32efe47.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8ad92381.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -126,6 +150,14 @@
     "original_lang": "en",
     "original_title": "President-elect Ranil arrives at parliament",
     "file_name": "/tmp/news_lk2/articles/e6/e6ea4654.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd2\u0db8-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/11-395603",
+    "time_ut": 1658377676,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0da7\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0db8 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/55/55f5de67.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "HNB Saru Ge-Watte leads agricultural revival in the central province",
     "file_name": "/tmp/news_lk2/articles/c9/c9212d76.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dimos-vocational-education-arm-dats-ventures-into-manufacturing-training-equipment/",
-    "time_ut": 1658057580,
-    "original_lang": "en",
-    "original_title": "DIMO\u2019s Vocational Education arm DATS ventures into manufacturing training equipment",
-    "file_name": "/tmp/news_lk2/articles/ef/efabeb4b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/flexiprint-wins-gold-at-national-business-excellence-awards-2/",
-    "time_ut": 1658057520,
-    "original_lang": "en",
-    "original_title": "Flexiprint wins Gold at National Business Excellence Awards",
-    "file_name": "/tmp/news_lk2/articles/b4/b47a549c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/brandix-undp-partner-to-cultivate-500-acres-during-mid-season/",
-    "time_ut": 1658057460,
-    "original_lang": "en",
-    "original_title": "Brandix, UNDP partner to cultivate 500 acres during mid-season",
-    "file_name": "/tmp/news_lk2/articles/b4/b4cf3f15.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131649",
-    "time_ut": 1658056947,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0b89\u0bb2\u0b95 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0b95 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc8 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/69/69dfacdf.json"
   }
 ]
