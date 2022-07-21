@@ -6,7 +6,7 @@
   "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8",
   "text_idx": {
     "en": {
-      "title": "Nimal Siripala's request to the new President",
+      "title": "Italian Prime Minister resigns",
       "author": "unknown",
       "body_lines": [
         "Former Minister Nimal Siripala de Silva today requested President Ranil Wickramasinghe to initiate an urgent investigation into the allegations that he tried to take bribe from a Japanese company.",
@@ -16,8 +16,8 @@
       ],
       "title_ents": [
         {
-          "text": "Nimal Siripala's",
-          "label": "PERSON"
+          "text": "Italian",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
@@ -64,8 +64,8 @@
       ],
       "title_ents": [
         {
-          "text": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0d9c\u0dda",
-          "label": "PERSON"
+          "text": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
@@ -112,8 +112,8 @@
       ],
       "title_ents": [
         {
-          "text": "\u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baa\u0bbe\u0bb2\u0bb5\u0bbf\u0ba9\u0bcd",
-          "label": "PERSON"
+          "text": "\u0b87\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0baf",
+          "label": "NORP"
         }
       ],
       "body_line_ents_list": [
