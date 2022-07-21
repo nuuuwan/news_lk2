@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131966",
+    "time_ut": 1658402981,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd 15 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bc8 \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 : \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/14/1457f9d4.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131965",
+    "time_ut": 1658402939,
+    "original_lang": "ta",
+    "original_title": "\u0b90\u0ba8\u0bbe \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc8 \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/fe/feecbaaa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/imf-would-need-commitment-from-administration-cbsl-chief/",
+    "time_ut": 1658402340,
+    "original_lang": "en",
+    "original_title": "IMF would need commitment from administration \u2013 CBSL Chief",
+    "file_name": "/tmp/news_lk2/articles/86/86762d4a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda-\u0da2\u0dd2\u0db1\u0dbb\u0dad\u0db1-\u0dc4\u0dd2\u0db8\u0dd2-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db1\u0dd2\u0dba\u0ddd\u0d9c/101-616815",
+    "time_ut": 1658402026,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dc3\u0db1\u0dca\u0dad \u0db8\u0dd4\u0daf\u0dbd\u0dd2\u0d9c\u0dda-\u0da2\u0dd2\u0db1\u0dbb\u0dad\u0db1 \u0dc4\u0dd2\u0db8\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db1\u0dd2\u0dba\u0ddd\u0d9c",
+    "file_name": "/tmp/news_lk2/articles/2c/2ca7be4a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/UN-acknowledges-constitutional-transfer-of-power-in-SL/342-241517",
+    "time_ut": 1658401979,
+    "original_lang": "en",
+    "original_title": "UN acknowledges constitutional transfer of power in SL",
+    "file_name": "/tmp/news_lk2/articles/1c/1c6367f2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/aragalaya-led-to-appointment-of-mandate-less-leader-wimal/",
+    "time_ut": 1658401860,
+    "original_lang": "en",
+    "original_title": "\u2018Aragalaya\u2019 led to appointment of mandate-less leader: Wimal",
+    "file_name": "/tmp/news_lk2/articles/31/31014139.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/No-Deal-Gama-no-more/342-241516",
     "time_ut": 1658401810,
@@ -17,11 +65,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9c\u0db8-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0d8b\u0db4\u0dbb\u0dd2\u0db8-\u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dda/1-616813",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9c\u0db8-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0d8b\u0db4\u0dbb\u0dd2\u0db8-\u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dda/101-616813",
     "time_ut": 1658401606,
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9c\u0db8 \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0db0\u0dcf\u0dbb\u0dd2\u0dad\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dda",
-    "file_name": "/tmp/news_lk2/articles/04/04e662c0.json"
+    "file_name": "/tmp/news_lk2/articles/f0/f0e8ef03.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -30,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Aragalaya only managed to send elected Prez home and bring in defeated Ranil as Prez: Wimal",
     "file_name": "/tmp/news_lk2/articles/1a/1a5b9062.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/sri-lanka-police-hunt-for-three-heroin-peddlers-after-rs-380-mn-heroin-bust-in-embilipitiya/",
+    "time_ut": 1658401260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Police hunt for three heroin peddlers after Rs. 380 Mn heroin bust in Embilipitiya",
+    "file_name": "/tmp/news_lk2/articles/2f/2ff9a04b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -49,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Parliament-informs-EC-of-vacant-seat-in-UNP-National-List/342-241514",
+    "url": "https://www.dailymirror.lk/breaking_news/Parliament-informs-EC-of-vacant-seat-in-UNP-National-List/108-241514",
     "time_ut": 1658400913,
     "original_lang": "en",
     "original_title": "Parliament informs EC of vacant seat in UNP National List",
-    "file_name": "/tmp/news_lk2/articles/eb/eb1dd2cc.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b9b5abf.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -174,6 +230,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0da7 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0da0\u0dd3\u0db1 \u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e2/e238234c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Can-supply-fuel-up-to-350-filling-stations-Bowser-Owners-Assn/342-241513",
+    "time_ut": 1658397511,
+    "original_lang": "en",
+    "original_title": "Can supply fuel up to 350 filling stations: Bowser Owners\u2019 Assn.",
+    "file_name": "/tmp/news_lk2/articles/1c/1cb27a55.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba \u0d85\u0daf",
     "file_name": "/tmp/news_lk2/articles/28/28a9585c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83715/sri-lankas-ambassador-to-china-urges-adb-and-world-bank-to-take-bigger-role-in-debt-restructure",
-    "time_ut": 1658112840,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s ambassador to China urges ADB and World Bank to take bigger role in debt restructure",
-    "file_name": "/tmp/news_lk2/articles/61/61c08e2d.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83714/parliament-entry-roads-closed-off-as-security-tightened",
-    "time_ut": 1658112540,
-    "original_lang": "en",
-    "original_title": "Parliament entry roads closed off as security tightened",
-    "file_name": "/tmp/news_lk2/articles/e1/e18ec42b.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/State-of-Emergency-declared-from-today/108-241264",
-    "time_ut": 1658112511,
-    "original_lang": "en",
-    "original_title": "State of Emergency declared from today",
-    "file_name": "/tmp/news_lk2/articles/6c/6c62447d.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0ba8\u0bbe\u0bb3\u0bc8/175-300613",
-    "time_ut": 1658112422,
-    "original_lang": "ta",
-    "original_title": "\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8  \u0ba8\u0bbe\u0bb3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/d3/d33c47da.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62204823",
-    "time_ut": 1658112136,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d9c\u0dd9\u0dc0\u0dd9\u0db1 \u0da2\u0dd2\u0dc0\u0dd2\u0dad:\"\u0db8\u0db8 \u0daf\u0dc0\u0dc3\u0dca \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0dc3\u0dd0\u0dbb\u0dba\u0d9a\u0dca \u0db1\u0dcf\u0db1\u0dc0\u0dcf\"",
-    "file_name": "/tmp/news_lk2/articles/c9/c905295e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8/175-300612",
-    "time_ut": 1658112046,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/f2/f2e56bfd.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/state-of-emergency-declared/",
-    "time_ut": 1658110440,
-    "original_lang": "en",
-    "original_title": "State of Emergency declared",
-    "file_name": "/tmp/news_lk2/articles/bc/bc17abc7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83713/state-of-emergency-declared-in-sri-lanka",
-    "time_ut": 1658110380,
-    "original_lang": "en",
-    "original_title": "State of Emergency declared in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/db/db7e009d.json"
   }
 ]

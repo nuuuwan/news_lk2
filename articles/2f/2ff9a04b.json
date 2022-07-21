@@ -1,0 +1,306 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/07/21/sri-lanka-police-hunt-for-three-heroin-peddlers-after-rs-380-mn-heroin-bust-in-embilipitiya/",
+  "time_ut": 1658401260,
+  "original_lang": "en",
+  "original_title": "Sri Lanka: Police hunt for three heroin peddlers after Rs. 380 Mn heroin bust in Embilipitiya",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka: Police hunt for three heroin peddlers after Rs. 380 Mn heroin bust in Embilipitiya",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); Sri Lanka Police is seeking public assistance to track down three people wanted in connection to a heroin peddling ring in the country.",
+        "On the 11th of July 2022 the Embilipitiya Police arrested two suspects, a mother and son, for the possession of 38 kg and 360 grams of heroin worth over Rs. 380 million.",
+        "The suspects were held under detention orders, and investigation revealed that three other suspects were connected to the ring.",
+        "The general public is requested to call the following numbers with information regarding the whereabouts of these suspects.",
+        "Assistant Director of the Police Narcotic Bureau: 071 859 27 27",
+        "Sri Lanka: Police hunt for three heroin peddlers after Rs. 380 Mn heroin bust in Embilipitiya"
+      ],
+      "title_ents": [
+        {
+          "text": "three",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "Embilipitiya",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "Sri Lanka Police",
+            "label": "ORG"
+          },
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "the 11th of July 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "the Embilipitiya Police",
+            "label": "LAW"
+          },
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "38 kg",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "Rs",
+            "label": "PERSON"
+          },
+          {
+            "text": "380 million",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "the Police Narcotic Bureau",
+            "label": "ORG"
+          },
+          {
+            "text": "071",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "three",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "Embilipitiya",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0: \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 100 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc3\u0ddc\u0dba\u0dba\u0dd2. \u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 380\u0d9a \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0db8\u0dd9\u0dbb\u0da7 \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0db8\u0dc4\u0da2\u0db1 \u0dc3\u0dc4\u0dba \u0db4\u0dad\u0dba\u0dd2.",
+        "2022 \u0da2\u0dd4\u0dbd\u0dd2 \u0db8\u0dc3 11 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 38 \u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0da7\u0dd2\u0db1\u0dcf\u0d9a\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 38 \u0dba\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 360 \u0d9a\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf\u0d9c\u0dd9\u0db1 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4, \u0db8\u0dc0 \u0dc3\u0dc4 \u0db4\u0dd4\u0dad\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd9\u0db1 \u0d87\u0dad. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 380 \u0d9a\u0dd2.",
+        "\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dbb\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0dba\u0da7\u0dad\u0dda \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dad\u0dbb, \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dc0\u0dbd\u0daf\u0dd3 \u0dc4\u0dd9\u0dc5\u0dd2 \u0dc0\u0dd6\u0dba\u0dda \u0db8\u0dd9\u0db8 \u0db8\u0dd4\u0daf\u0dca\u0daf\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0db6\u0dc0\u0dba\u0dd2.",
+        "\u0db8\u0dd9\u0db8 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dc4\u0dad \u0d85\u0d82\u0d9a\u0dc0\u0dbd\u0da7 \u0d85\u0db8\u0dad\u0db1 \u0dbd\u0dd9\u0dc3 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd3.",
+        "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dc3\u0dc4\u0d9a\u0dcf\u0dbb \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2: 071 859 27 27",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0: \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0d9a\u0ddd\u0da7\u0dd2 100 \u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc3\u0ddc\u0dba\u0dba\u0dd2. \u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 380\u0d9a \u0dc4\u0dd9\u0dbb\u0ddc\u0dba\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dad\u0dd4\u0db1\u0dca",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "2022 \u0da2\u0dd6\u0dbd\u0dd2 11 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbd\u0ddd \u0d9c\u0dca\u0dbb\u0dd1\u0db8\u0dca 38 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 380 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db1\u0dcf\u0dc1\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "071",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0dad\u0dd4\u0db1\u0dca",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d87\u0db9\u0dd2\u0dbd\u0dd2\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+            "label": "GPE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8: \u0bb9\u0bc6\u0bb0\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bcb\u0bb2\u0bc0\u0b9a\u0bbe\u0bb0\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd. \u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd 380 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd!",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bc2\u0bb5\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0ba8\u0bbe\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8 \u0bae\u0bbe\u0ba4\u0bae\u0bcd 11 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd 38 \u0b95\u0bbf\u0bb2\u0bcb 360 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbe\u0baf\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0ba9\u0bcd \u0b86\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd. 380 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd.",
+        "\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b87\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0ba9\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bb5\u0bbf\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd: 071 859 27 27",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8: \u0bb9\u0bc6\u0bb0\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bcb\u0bb2\u0bc0\u0b9a\u0bbe\u0bb0\u0bcd \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd. \u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd 380 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd!"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+          "label": "CARDINAL"
+        },
+        {
+          "text": "Mn",
+          "label": "ORG"
+        },
+        {
+          "text": "\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 11, 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "38 \u0b95\u0bbf.\u0b95\u0bbf",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0bb0\u0bc2",
+            "label": "PERSON"
+          },
+          {
+            "text": "380 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          }
+        ],
+        [],
+        [
+          {
+            "text": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "071",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Mn",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b8e\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf",
+            "label": "GPE"
+          }
+        ]
+      ]
+    }
+  }
+}
