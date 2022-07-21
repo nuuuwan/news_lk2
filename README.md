@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 05:13:14 (LK time)*
+*As of 2022-07-22 05:23:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **7** daily-ft-lk ([ICTA says fuel pass only via official website](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4a5129f.json))
+* **1** daily-ft-lk ([TATA Memorial Hospital in Mumbai donates urgently required cancer medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac0a01f1.json))
 
-## Last Hour (16 Articles)
+## Last Hour (14 Articles)
 
 * **12** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-* **3** virakesari-lk ([காலிமுகத்திடல் ஆர்ப்பாட்டக்காரர்கள் மீது ஈவிரக்கமற்ற தாக்குதல் - சட்டத்தரணி சாலிய பீரிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22f30fcb.json))
+* **1** virakesari-lk ([பிபிசியின் ஊடகவியலாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7a2b2e7.json))
 
 * **1** news-first-lk ([Gazette to maintain public order published](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b843f5.json))
 
@@ -26,7 +26,7 @@
 
 * **1** daily-mirror-lk ([Military in Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32689329.json))
 
-## Last 24 Hours (274 Articles)
+## Last 24 Hours (275 Articles)
 
 * **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
@@ -38,7 +38,7 @@
 
 * **29** news-first-lk ([75 mm of rainfall expected today (21)](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15351a6a.json))
 
-* **22** tamil-mirror-lk ([அரச கட்டடங்களை ஆக்கிரமிப்போருக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309fed07.json))
+* **23** tamil-mirror-lk ([அரச கட்டடங்களை ஆக்கிரமிப்போருக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309fed07.json))
 
 * **22** ada-derana-lk ([Fairly heavy rains above 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96cfb65b.json))
 
@@ -50,7 +50,7 @@
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,773 Articles)
+## Last Week (1,774 Articles)
 
 * **342** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -58,7 +58,7 @@
 
 * **202** daily-mirror-lk ([Urea under Indian credit line arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91ef8541.json))
 
-* **195** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
+* **196** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
 * **182** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
@@ -70,15 +70,15 @@
 
 * **74** economy-next-com ([Sri Lanka local currency rating under observation: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763cdd93.json))
 
-* **57** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
+* **58** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
 
-* **29** b-b-c-com-sinhala (['දේශපාලන බලය අත්හැරීම විරලයි; සැබවින්ම එය දුෂ්කර තීරණයක්'](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ba0f1c.json))
+* **28** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ වැඩබලන ජනපති ලෙස අගවිනිසුරු ඉදිරියේ දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d9a8312.json))
 
 * **19** colombo-telegraph-com ([The Need To Appoint An independent President & Its Process](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebef1b4c.json))
 
 * **16** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/357fefcc.json))
 
-## All Time (3,360 Articles)
+## All Time (3,362 Articles)
 
 * **507** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +88,7 @@
 
 * **361** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **333** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **334** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **253** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
@@ -100,7 +100,7 @@
 
 * **145** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **124** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **125** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **68** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
