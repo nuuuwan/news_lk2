@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 23:01:54 (LK time)*
+*As of 2022-07-21 23:05:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -20,7 +20,7 @@
 
 * **1** economy-next-com ([Sri Lanka’s central bank requests bank loan borrowers to seek relief before July 31st](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c4c6489.json))
 
-## Last 3 Hours (29 Articles)
+## Last 3 Hours (27 Articles)
 
 * **6** lankadeepa-lk ([ඉන්ධන හිඟය නිසා කැලෑ පාළුවන්ගෙන් මල්ල කරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96fc1a48.json))
 
@@ -30,9 +30,9 @@
 
 * **4** economy-next-com ([Sri Lanka sees rise in Covid deaths; 12 so far in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c5b588e.json))
 
-* **4** daily-mirror-lk ([National Fuel Pass QR code successfully experimented: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d42cc7.json))
+* **3** daily-mirror-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9145d734.json))
 
-* **4** ada-lk ([නව රජයේ අමාත්‍ය මණ්ඩලය හෙට දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6a13744.json))
+* **3** ada-lk ([ජනපති ආරක්ෂක අංශ ප්‍රධානීන් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/241f8f31.json))
 
 * **1** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
@@ -66,7 +66,7 @@
 
 * **1** island-lk ([Food festival… with a difference!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a6976ea.json))
 
-## Last Week (1,770 Articles)
+## Last Week (1,769 Articles)
 
 * **333** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -76,7 +76,7 @@
 
 * **193** tamil-mirror-lk ([‘நாடு முடக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5645c408.json))
 
-* **182** ada-lk ([’ජනපති ධුරයෙන් ඉවත්වීම’ යන ලිපිය ව්‍යාජයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe88676.json))
+* **181** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
 * **159** ada-derana-lk ([Katubedda shooting: Three-wheeler used by gunman to flee seized](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a3e4aca.json))
 
