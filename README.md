@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 17:24:53 (LK time)*
+*As of 2022-07-21 17:31:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **4** virakesari-lk ([ஐநா அலுவலகத்திடம் கடிதமொன்றை கையளித்தனர் மக்கள் போராட்டக்குழுவினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feecbaaa.json))
-
-* **2** lankadeepa-lk ([අලුත් ජනපතිට හිටපු ජනපතිනිගෙන් සුභ පැතුම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98231fe9.json))
+* **2** virakesari-lk ([ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராளுமன்ற உறுப்பினர் பதவியை இராஜினாமா செய்தார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10f55584.json))
 
 * **1** ada-derana-lk ([Election chief informed of vacant MP seat after Ranil’s swearing-in as President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c39d2a68.json))
 
-## Last Hour (21 Articles)
+## Last Hour (17 Articles)
 
-* **6** virakesari-lk ([கியூ.ஆர் முறைமைக்கு 30 இலட்சம் வாகனங்கள் பதிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cddfcbbc.json))
+* **5** virakesari-lk ([வவுனியாவில் 4 இலட்சம் பணத்துடன் குடும்பஸ்தர் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25289b8b.json))
 
-* **6** lankadeepa-lk ([අරලියගහ මැදුර ඉදිරිපිට ‘නෝ ඩීල් ගම’ ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2ed61eaf.json))
+* **5** lankadeepa-lk ([ලංගම සඳුදා සිට උපරිම ධාරිතාවෙන් ධාවනයේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0e8ef03.json))
 
-* **4** daily-mirror-lk ([Parliament informs EC of vacant seat in UNP National List](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2b9b5abf.json))
+* **3** daily-mirror-lk ([Aragalaya only managed to send elected Prez home and bring in defeated Ranil as Prez: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a5b9062.json))
 
-* **3** news-first-lk ([Sri Lanka: Police hunt for three heroin peddlers after Rs. 380 Mn heroin bust in Embilipitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ff9a04b.json))
+* **2** news-first-lk ([‘Aragalaya’ led to appointment of mandate-less leader: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31014139.json))
 
 * **1** ada-derana-lk ([Election chief informed of vacant MP seat after Ranil’s swearing-in as President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c39d2a68.json))
 
 * **1** economy-next-com ([Sri Lanka new president won thanks to fear instilled in MPs by protestors: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5958a9f.json))
 
-## Last 3 Hours (54 Articles)
+## Last 3 Hours (52 Articles)
 
 * **12** virakesari-lk ([அனைத்துப் பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டாளர் வசந்த முதலிகே, ஜீலரத்ன தேரருக்கு பிடியாணை !](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76d98c70.json))
 
@@ -36,21 +34,21 @@
 
 * **7** news-first-lk ([Sajith meets President; discusses committee system in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c64b62c5.json))
 
-* **6** tamil-mirror-lk ([இருவரை கைது செய்ய நீதிமன்றம் பிடியாணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b659d894.json))
-
-* **5** ada-derana-lk ([Court issues arrest warrant on two including IUSF convenor](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/501e988d.json))
+* **5** tamil-mirror-lk ([ஜனாதிபதிப் பதவியேற்கும் நிகழ்வில் மின்சாரம் துண்டிக்கப்பட்டதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999953dc.json))
 
 * **5** ada-lk ([තමා ගැන පරීක්ෂණයක් කරන්නැයි ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70886266.json))
 
+* **4** ada-derana-lk ([Italian PM Mario Draghi resigns following week of turmoil](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/7603a47b.json))
+
 * **1** economy-next-com ([Sri Lanka new president won thanks to fear instilled in MPs by protestors: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5958a9f.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (252 Articles)
 
-* **54** virakesari-lk ([புதிய ஜனாதிபதியின் தெரிவு ஜனநாயகத்துக்கு கிடைத்த வெற்றி - அசாத் சாலி !](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0ba1a96e.json))
+* **52** virakesari-lk ([பிளவுபட்டது போதும் சகல அரசியல் கட்சிகளும் ஒன்றிணைந்து செயற்பட வேண்டும் - ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3904e856.json))
 
 * **39** daily-mirror-lk ([Gazette announcing election of eighth Executive President published](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95cef165.json))
 
-* **38** lankadeepa-lk ([පාර්ලිමේන්තුවට ආරක්ෂාව දුන් හමුදාව-පොලිසිය අතරට ජනපති යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7452967e.json))
+* **37** lankadeepa-lk ([හෙටත් පැය 3 ක විදුලි කප්පාදුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/946d22dd.json))
 
 * **28** ada-lk ([අපි ඩලස්ව ඉදිරිපත් කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c0cd58.json))
 
@@ -68,19 +66,19 @@
 
 * **4** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
 
-## Last Week (1,765 Articles)
+## Last Week (1,763 Articles)
 
 * **335** virakesari-lk ([மாலைதீவிலிருந்து சிங்கப்பூர் சென்றார் ஜனாதிபதி கோட்டாபய](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f4753b.json))
 
 * **272** lankadeepa-lk ([නව අග්‍රාමාත්‍යධුරය: විපක්ෂයේ යෝජිත නම හෙට එළියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aece7d9.json))
 
-* **198** tamil-mirror-lk ([சிங்கப்பூரை சென்றடைந்தார் ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a14f7f25.json))
+* **197** tamil-mirror-lk ([கோட்டா ஏன் சிங்கப்பூருக்கு சென்றார்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec880d1c.json))
 
 * **196** daily-mirror-lk ([Gotabaya Rajapaksa arrives in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8205bfa.json))
 
 * **183** ada-lk ([දළදා තේවා කටයුතු මල්වත්තෙන් අස්ගිරියට](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1e6b57.json))
 
-* **157** ada-derana-lk ([AG ordered to submit proper fuel distribution mechanism for essential services](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e092b1f.json))
+* **156** ada-derana-lk ([Sri Lanka President on private visit, not granted asylum: Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a054e981.json))
 
 * **134** news-first-lk ([President Gotabaya was NOT granted asylum: Singapore Foreign Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e748b3cb.json))
 
