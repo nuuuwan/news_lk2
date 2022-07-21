@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/75-mm-of-rainfall-expected-today-21/",
+    "time_ut": 1658365680,
+    "original_lang": "en",
+    "original_title": "75 mm of rainfall expected today (21)",
+    "file_name": "/tmp/news_lk2/articles/15/15351a6a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a-\u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0b9a\u0b9f\u0bcd\u0b9f-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-300834",
+    "time_ut": 1658365124,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/30/309fed07.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-is-to-be-sworn-in-as-the-eighth-Executive-President/108-241478",
     "time_ut": 1658365092,
@@ -9,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/New-President-pledges-a-system-change/108-241477",
+    "url": "https://www.dailymirror.lk/latest_news/New-President-pledges-a-system-change/342-241477",
     "time_ut": 1658364888,
     "original_lang": "en",
     "original_title": "New President pledges a system change",
-    "file_name": "/tmp/news_lk2/articles/65/653aa418.json"
+    "file_name": "/tmp/news_lk2/articles/49/4912c886.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2406,6 +2422,22 @@
     "original_lang": "en",
     "original_title": "New Law or the same old wine  in new glasses?",
     "file_name": "/tmp/news_lk2/articles/f4/f483e456.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78658",
+    "time_ut": 1658257020,
+    "original_lang": "en",
+    "original_title": "President and United National Party Leader Ranil Wickremesinghe while thanking the majority in Parliament for electing him as the 8th Executive President of the country  invites all political parties in Parliament to join hands for the betterment of the country",
+    "file_name": "/tmp/news_lk2/articles/18/18adeb66.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78656",
+    "time_ut": 1658256120,
+    "original_lang": "en",
+    "original_title": "Protesters intent on harming the armed forces or  public property are  earnestly urged to desist from all forms of violence immediately or be prepared to face consequences as members of the armed forces are legitimately empowered to exercise  force if the situation deems necessary",
+    "file_name": "/tmp/news_lk2/articles/44/44053df3.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
