@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 21:02:02 (LK time)*
+*As of 2022-07-21 21:12:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** lankadeepa-lk ([ඉන්දීය ජනාධිපති ධුරය ද්‍රෞපදී මුර්මු ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b9d9c8e.json))
+* **1** lankadeepa-lk ([රටේ නායකත්වය ලැබිය යුත්තේ සුජාතභාවය හිමි කණ්ඩායමකටයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85a8dee1.json))
 
-## Last Hour (7 Articles)
+## Last Hour (4 Articles)
 
 * **3** lankadeepa-lk ([දුම්රිය ගාස්තු ඉහළ දාන්න ස්ථානාධිපතිවරු කල් ඉල්ලති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec3abc6.json))
 
-* **2** daily-mirror-lk ([National Fuel Pass QR code successfully experimented: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d42cc7.json))
-
 * **1** ada-derana-lk ([Ethnic minority woman Draupadi Murmu wins India’s presidential election](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77d6670.json))
 
-* **1** ada-lk ([නව රජයේ අමාත්‍ය මණ්ඩලය හෙට දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6a13744.json))
-
-## Last 3 Hours (28 Articles)
+## Last 3 Hours (27 Articles)
 
 * **9** lankadeepa-lk ([කොරෝනා ආසාදිතයෝ 57 ක්: දෙදෙනෙක් ඊයේ මිය ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/675f8833.json))
 
-* **6** daily-mirror-lk ([Arrest warrant issued on IUSF Convener](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7443993d.json))
+* **5** daily-mirror-lk ([Train fare increase, will transport people without issuing tickets: Station Masters’ Union](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31a87bad.json))
 
 * **4** ada-derana-lk ([Power interruption schedule for July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59eda630.json))
 
@@ -62,7 +58,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## Last Week (1,770 Articles)
+## Last Week (1,768 Articles)
 
 * **333** virakesari-lk ([பிரதமர் பதவிக்கு முன்மொழியப்படவுள்ள பெயரை  சபாநாயகருக்கு இன்று அறிவிப்போம் - ஐக்கிய மக்கள் சக்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cbe6d90.json))
 
@@ -70,9 +66,9 @@
 
 * **201** daily-mirror-lk ([General Silva visits injured soldiers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e3aae0.json))
 
-* **196** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
+* **195** tamil-mirror-lk ([இனி இலங்கை முன்னோக்கிச் செல்லும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b12a4001.json))
 
-* **180** ada-lk ([වැඩබලන ජනපති ලෙස රනිල් හෙට දිවුරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05ed804c.json))
+* **179** ada-lk ([’ජනපති ධුරයෙන් ඉවත්වීම’ යන ලිපිය ව්‍යාජයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebe88676.json))
 
 * **157** ada-derana-lk ([Probes into firearm stolen during protest handed over to CCD](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e65cb0b.json))
 
