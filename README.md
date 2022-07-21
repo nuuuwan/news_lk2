@@ -1,34 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 23:31:07 (LK time)*
+*As of 2022-07-21 23:43:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([இந்தியாவின் புதிய ஜனாதிபதியானார் பழங்குடியின பெண்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25f31c19.json))
 
-## Last Hour (5 Articles)
+* **1** ada-derana-lk ([Election Commission informed of vacancy of MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf0788d6.json))
 
-* **2** ada-derana-lk ([33 held as navy thwarts another illegal migration attempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2162eb1b.json))
-
-* **1** tamil-mirror-lk ([இந்தியாவின் புதிய ஜனாதிபதியானார் பழங்குடியின பெண்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25f31c19.json))
-
-* **1** ada-lk ([19 වැනි සංශෝධනය ඉක්මනින් ගේනවා - විරෝධතාකරුවන්ට විහාරමහා දේවි උද්‍යානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ff0bc08.json))
-
-* **1** virakesari-lk ([மாயந்த திஸாநாயக்க கட்சியிலிருந்து விலகவில்லை - ஐக்கிய மக்கள் சக்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16001de9.json))
-
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (23 Articles)
 
 * **5** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
 
 * **4** economy-next-com ([Sri Lanka sees rise in Covid deaths; 12 so far in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c5b588e.json))
 
-* **4** lankadeepa-lk ([ඉන්දීය ජනාධිපති ධුරය ද්‍රෞපදී මුර්මු ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b9d9c8e.json))
-
 * **3** ada-derana-lk ([NCPI based headline inflation recorded at 58.9% on Y-o-Y basis in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f7c806f.json))
 
 * **3** ada-lk ([ජුනි මාසයේ උද්ධමනය සියයට 58.9ක් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fc84d88.json))
+
+* **3** lankadeepa-lk ([රටේ නායකත්වය ලැබිය යුත්තේ සුජාතභාවය හිමි කණ්ඩායමකටයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a1d3f9f.json))
 
 * **2** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
@@ -36,9 +28,9 @@
 
 * **1** news-first-lk ([Inflation hits 58.9% in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38210d8f.json))
 
-## Last 24 Hours (267 Articles)
+## Last 24 Hours (264 Articles)
 
-* **50** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35101416.json))
+* **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
 * **43** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
@@ -50,7 +42,7 @@
 
 * **23** ada-derana-lk ([Fairly heavy rains above 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96cfb65b.json))
 
-* **22** tamil-mirror-lk ([5 மாதங்களுக்குள் நெருக்கடிக்கு தீர்வு: மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7c69ad1.json))
+* **21** tamil-mirror-lk ([வங்கி கடன் பெற்றவர்களுக்கு மகிழ்ச்சியான செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeafd259.json))
 
 * **11** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
@@ -62,15 +54,13 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-* **1** island-lk ([Food festival… with a difference!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a6976ea.json))
-
-## Last Week (1,769 Articles)
+## Last Week (1,766 Articles)
 
 * **333** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **280** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
-* **202** daily-mirror-lk ([Election the only solution to fulfil people’s true aspirations: JVP reiterates](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e241f48.json))
+* **201** daily-mirror-lk ([Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10dd77f0.json))
 
 * **193** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
@@ -84,7 +74,7 @@
 
 * **76** economy-next-com ([Sri Lanka’s war winning army chief says ready to take presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d5d7be2.json))
 
-* **59** island-lk ([Business as usual at Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/718f669a.json))
+* **57** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
 
 * **30** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය: පවතින දේශපාලන අස්ථාවරභාවය ආර්ථිකයට බලපාන්නේ කොහොමද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c900839f.json))
 
