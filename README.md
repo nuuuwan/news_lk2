@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 03:10:49 (LK time)*
+*As of 2022-07-22 03:23:24 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Military in Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32689329.json))
 
 ## Last Hour (1 Articles)
 
@@ -18,7 +14,7 @@
 
 * **1** tamil-mirror-lk ([ரணிலின் ஆட்டம் ஆரம்பம்; கோட்டாகோகம மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df5dff9f.json))
 
-## Last 24 Hours (260 Articles)
+## Last 24 Hours (259 Articles)
 
 * **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
@@ -36,11 +32,11 @@
 
 * **9** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
-* **5** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
+* **4** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ: දැඩි ආරක්ෂක රැකවල් මැද ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484baf3c.json))
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,757 Articles)
+## Last Week (1,756 Articles)
 
 * **336** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -64,7 +60,7 @@
 
 * **30** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය: පවතින දේශපාලන අස්ථාවරභාවය ආර්ථිකයට බලපාන්නේ කොහොමද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c900839f.json))
 
-* **21** colombo-telegraph-com ([Transfer Of Formal Power Vs People Power During Societal Transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fc66ad.json))
+* **20** colombo-telegraph-com ([Political Hawks Can Hijack The Post-Aragala Agenda!](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79b70180.json))
 
 * **16** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/357fefcc.json))
 
