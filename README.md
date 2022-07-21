@@ -1,26 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 01:01:43 (LK time)*
+*As of 2022-07-22 01:32:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (5 Articles)
 
-* **1** tamil-mirror-lk ([மரண வீட்டுக்கு சென்று திரும்பிய 11 பேர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28bc04eb.json))
-
-## Last 3 Hours (14 Articles)
-
-* **5** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
-
-* **3** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
+* **2** tamil-mirror-lk ([இந்தியாவின் புதிய ஜனாதிபதியானார் பழங்குடியின பெண்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25f31c19.json))
 
 * **2** ada-derana-lk ([33 held as navy thwarts another illegal migration attempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2162eb1b.json))
 
-* **2** daily-mirror-lk ([Spike in COVID cases; current Pfizer batch to expire soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af1fb9b.json))
-
 * **1** ada-lk ([19 වැනි සංශෝධනය ඉක්මනින් ගේනවා - විරෝධතාකරුවන්ට විහාරමහා දේවි උද්‍යානය](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5ff0bc08.json))
-
-* **1** economy-next-com ([Sri Lanka’s central bank requests bank loan borrowers to seek relief before July 31st](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c4c6489.json))
 
 ## Last 24 Hours (259 Articles)
 
@@ -46,7 +36,7 @@
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,761 Articles)
+## Last Week (1,755 Articles)
 
 * **334** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -64,7 +54,7 @@
 
 * **76** economy-next-com ([Sri Lanka’s war winning army chief says ready to take presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d5d7be2.json))
 
-* **74** daily-ft-lk ([Colombo Port City: A game changer at turbulent times in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4ad34bd9.json))
+* **69** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
 * **57** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
 
@@ -72,7 +62,7 @@
 
 * **21** colombo-telegraph-com ([Transfer Of Formal Power Vs People Power During Societal Transition](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/04fc66ad.json))
 
-* **17** d-b-s-jeyaraj-com ([Widespread Celebrations in Sri Lanka as Speaker Mahinda Yapa Abeywardena announces Official Resignation of  President Gotabaya Rajapaksa;Prime Minister Ranil Wickremesinghe Sworn in as Acting President Until  Parliament Elects a new President Next Week](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7a9db20.json))
+* **16** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/357fefcc.json))
 
 ## All Time (3,333 Articles)
 
