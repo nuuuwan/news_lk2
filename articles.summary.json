@@ -1,19 +1,67 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gas-shortage-to-be-resolved-this-month-Litro/342-241509",
+    "time_ut": 1658390873,
+    "original_lang": "en",
+    "original_title": "Gas shortage to be resolved this month - Litro.",
+    "file_name": "/tmp/news_lk2/articles/2c/2cd45cae.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131943",
+    "time_ut": 1658390800,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b9f\u0bae\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b86\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baf\u0bbe\u0bb0\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 ? \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd- \u0bb0\u0b99\u0bcd\u0b95\u0bc7",
+    "file_name": "/tmp/news_lk2/articles/cd/cdd241f4.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd2\u0db8\u0dbd\u0dca-\u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d9a\u0dc5-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8/101-616800",
+    "time_ut": 1658390657,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd2\u0db8\u0dbd\u0dca \u0dc3\u0dd2\u0dbb\u0dd2\u0db4\u0dcf\u0dbd \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/09/093bcbc0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0d9c\u0dd2\u0dbd\u0db1\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda/1-616799",
+    "time_ut": 1658390608,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9c\u0dd2\u0dbd\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/4f/4f219f8c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131945",
+    "time_ut": 1658390545,
+    "original_lang": "ta",
+    "original_title": "\"\u0b95\u0bcb \u0bb9\u0bcb\u0bae\u0bcd \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd\" \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb9\u0bbe\u0bb0\u0bae\u0b95\u0bbe\u0ba4\u0bc7\u0bb5\u0bbf \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe ?",
+    "file_name": "/tmp/news_lk2/articles/89/899dcb9a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131944",
+    "time_ut": 1658389969,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bbf\u0baa\u0bc6\u0b9f\u0bcd\u0b95\u0bcb \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0bb3 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/78/7888740d.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd-\u0bb5\u0bbf\u0bae\u0bb2\u0bcd/175-300860",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd-\u0bb5\u0bbf\u0bae\u0bb2\u0bcd/175-300860",
     "time_ut": 1658389743,
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd \u0bb5\u0bbf\u0bae\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/dd/dd2f777a.json"
+    "file_name": "/tmp/news_lk2/articles/da/daaf6fc4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/We-acknowledge-Parliament-decision-to-elect-Ranil-as-Prez-Christian-Council/108-241508",
+    "url": "https://www.dailymirror.lk/latest_news/We-acknowledge-Parliament-decision-to-elect-Ranil-as-Prez-Christian-Council/342-241508",
     "time_ut": 1658389627,
     "original_lang": "en",
     "original_title": "We acknowledge Parliament decision to elect Ranil as Prez: Christian Council",
-    "file_name": "/tmp/news_lk2/articles/ca/ca62c8e1.json"
+    "file_name": "/tmp/news_lk2/articles/17/175cc864.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -38,6 +86,14 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0b90.\u0ba8\u0bbe \u0baa\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd\u2019",
     "file_name": "/tmp/news_lk2/articles/06/064f1310.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a-\u0daf\u0ddd\u0dc2-\u0dc4\u0dbb\u0dc3\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-395619",
+    "time_ut": 1658388362,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0daf\u0ddd\u0dc2 \u0dc4\u0dbb\u0dc3\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/32/32e70edf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2902,6 +2958,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1: \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1 \u0baf\u0bbe\u0bb0\u0bcd? (LIVE)",
     "file_name": "/tmp/news_lk2/articles/94/9458f973.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-new-president-must-learn-from-gota/",
+    "time_ut": 1658284000,
+    "original_lang": "en",
+    "original_title": "The New President Must Learn From Gota!",
+    "file_name": "/tmp/news_lk2/articles/ab/abdffdac.json"
   },
   {
     "newspaper_id": "ada-lk",
