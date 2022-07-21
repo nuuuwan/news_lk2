@@ -1,26 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 18:30:59 (LK time)*
+*As of 2022-07-21 18:40:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Arrest warrant issued on IUSF Convener](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7443993d.json))
-
-## Last Hour (11 Articles)
+## Last Hour (10 Articles)
 
 * **5** daily-mirror-lk ([Withdraw from services, if sufficient fuel supplies not given: Gemunu](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b28a7a.json))
 
-* **4** lankadeepa-lk ([මුලතිව් කුරුන්දි විහාරයේ ඉදිකිරීම් නතර කිරීමේ තීන්දුව නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9ee7524b.json))
+* **3** lankadeepa-lk ([මා රාජපක්ෂවරුන්ගේ නොව ජනතාවගේ මිතුරෙක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fcd3160.json))
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் வீட்டின் மீது தாக்குதல் : காணொளிகள் இருப்பின்  'வட்ஸ்அப்' செய்யுங்கள் - பொது மக்களிடம் வேண்டுகோள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cc469cd.json))
 
 * **1** ada-derana-lk ([New Cabinet of Ministers to be sworn in tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731a9650.json))
 
-## Last 3 Hours (52 Articles)
+## Last 3 Hours (51 Articles)
 
-* **13** lankadeepa-lk ([ලංකාවේ ආර්ථිකය කඩා වැටීමට හේතුව විශාල චීන ආයෝජනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e238234c.json))
+* **12** lankadeepa-lk ([මහින්ද සමරසිංහ - ඩබ්.එෆ්.පී ප්‍රධාන විධායක අධ්‍යක්ෂක අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94c88f12.json))
 
 * **10** virakesari-lk ([இளம் செயற்பாட்டாளர்களாலேயே இந்த மாற்றம் சாத்தியமானது என்பதை ரணில் நினைவில் வைத்திருப்பார் - சந்திரிகா நம்பிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dfc3e30.json))
 
@@ -36,7 +32,7 @@
 
 * **2** economy-next-com ([Sri Lanka new president won thanks to fear instilled in MPs by protestors: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5958a9f.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (251 Articles)
 
 * **44** daily-mirror-lk ([Gazette announcing election of eighth Executive President published](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95cef165.json))
 
@@ -44,11 +40,11 @@
 
 * **42** virakesari-lk ([ஐக்கிய மக்கள் சக்தியில் இருந்து 14 பேர் ரணில் விக்ரமசிங்கவுக்கு வாக்களிப்பு - அமைச்சர் ஹரீன் பெர்னாண்டோ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad2c89d8.json))
 
-* **29** ada-lk ([අපි ඩලස්ව ඉදිරිපත් කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c0cd58.json))
-
-* **25** tamil-mirror-lk ([நிகழ்வுக்கான ஏற்பாடுகளில் பாதுகாப்புப் படையினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/6369dcae.json))
+* **28** ada-lk ([ආරක්ෂාව දුන්නාට ජනපති රනිල්ගේ ස්තූතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e8c0764.json))
 
 * **24** news-first-lk ([We wanted Dullas as well – Mahinda](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73796e8e.json))
+
+* **24** tamil-mirror-lk ([நாளை முதல் எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b75c5d86.json))
 
 * **20** ada-derana-lk ([CBSL chief confident Sri Lanka can overcome economic crisis within 5 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eea076b1.json))
 
@@ -60,7 +56,7 @@
 
 * **4** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
 
-## Last Week (1,768 Articles)
+## Last Week (1,767 Articles)
 
 * **335** virakesari-lk ([முல்லைத்தீவு குருந்தூர் மலையில் அமைக்கப்பட்ட விகாரை உள்ளிட்ட அனைத்து கட்டுமானங்களை அகற்றுமாறு நீதிமன்றம் அதிரடி உத்தரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95e07c9b.json))
 
@@ -68,7 +64,7 @@
 
 * **200** daily-mirror-lk ([Singapore confirms Prez arrives there](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77758e7e.json))
 
-* **195** tamil-mirror-lk ([சிங்கப்பூரில் கோட்டாபய அடைக்கலம் கோரவில்லை](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aae2b9b2.json))
+* **194** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
 * **182** ada-lk ([ජනපති සිංගප්පූරුවෙන් සෞදියට?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d09ce3a.json))
 
