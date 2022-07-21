@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 04:25:14 (LK time)*
+*As of 2022-07-22 04:37:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -46,7 +46,7 @@
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,758 Articles)
+## Last Week (1,757 Articles)
 
 * **339** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -68,7 +68,7 @@
 
 * **57** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
 
-* **29** b-b-c-com-sinhala ([ගෝඨාභය රාජපක්ෂ ජනාධිපති ධුරයෙන් ඉල්ලා අස්වීම කතානායක නිල වශයෙන් ප්‍රකාශ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5b/5bcdf464.json))
+* **28** b-b-c-com-sinhala (['දේශපාලන බලය අත්හැරීම විරලයි; සැබවින්ම එය දුෂ්කර තීරණයක්'](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ba0f1c.json))
 
 * **19** colombo-telegraph-com ([The Need To Appoint An independent President & Its Process](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebef1b4c.json))
 
