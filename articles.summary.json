@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-for-5th-straight-session-on-stability-hopes-under-new-leader-97763/",
+    "time_ut": 1658419920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks gain for 5th straight session on stability hopes under new leader",
+    "file_name": "/tmp/news_lk2/articles/61/61161209.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf-\u0d85\u0d82\u0d9a\u0dba\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0-\u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0dba\u0dd2/101-616836",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf-\u0d85\u0d82\u0d9a\u0dba\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0-\u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0dba\u0dd2/1-616836",
     "time_ut": 1658419735,
     "original_lang": "si",
     "original_title": "\u0dbb\u0da7\u0db4\u0dd4\u0dbb\u0dcf \u0d85\u0d82\u0d9a\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0 \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b4/b4049044.json"
+    "file_name": "/tmp/news_lk2/articles/10/100c9187.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -289,11 +297,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d87\u0db8\u0dad\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0db8-\u0dba\u0dc5\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616825",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0d87\u0db8\u0dad\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0db8-\u0dba\u0dc5\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-616825",
     "time_ut": 1658407168,
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d87\u0db8\u0dad\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0db8 \u0dba\u0dc5\u0dd2 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/97/97058668.json"
+    "file_name": "/tmp/news_lk2/articles/f7/f72e01cf.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
