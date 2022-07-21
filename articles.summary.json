@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/83/8353400e.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/navy-seizes-poaching-trawler-in-mannar-seas/",
+    "time_ut": 1658396700,
+    "original_lang": "en",
+    "original_title": "Navy seizes poaching trawler in Mannar seas",
+    "file_name": "/tmp/news_lk2/articles/80/803c9fde.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/No-power-breakdown-during-Presidents-swearing-Sergeant-at-arms/342-241511",
     "time_ut": 1658396696,
@@ -46,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Italian PM Mario Draghi resigns following week of turmoil",
     "file_name": "/tmp/news_lk2/articles/76/7603a47b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/sajith-meets-president-discusses-committee-system-in-parliament/",
+    "time_ut": 1658395800,
+    "original_lang": "en",
+    "original_title": "Sajith meets President; discusses committee system in Parliament",
+    "file_name": "/tmp/news_lk2/articles/c6/c64b62c5.json"
   },
   {
     "newspaper_id": "virakesari-lk",
