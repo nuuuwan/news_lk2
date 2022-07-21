@@ -1,5 +1,53 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bc8\u0b95\u0bb3\u0bc8-\u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd-\u0b90\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-300870",
+    "time_ut": 1658409336,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/72/7207379a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/only-use-icta-link-to-register-for-fuel-pass/",
+    "time_ut": 1658409240,
+    "original_lang": "en",
+    "original_title": "ONLY use ICTA link to register for Fuel Pass",
+    "file_name": "/tmp/news_lk2/articles/55/55f48aa0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd-57-\u0d9a\u0dca:-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0d8a\u0dba\u0dda-\u0db8\u0dd2\u0dba-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca/1-616826",
+    "time_ut": 1658408930,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd 57 \u0d9a\u0dca: \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d8a\u0dba\u0dda \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/13/13044c17.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131970",
+    "time_ut": 1658408883,
+    "original_lang": "ta",
+    "original_title": "\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd - \u0baa\u0ba3\u0bbf \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baa\u0bcd \u0baa\u0b9f\u0bc8 \u0b8e\u0bb8\u0bcd.\u0b8e\u0bb8\u0bcd.\u0baa\u0bbf. \u0bae\u0bc0\u0bb3 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/61/61609ae6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Train-fare-increase-will-transport-people-without-issuing-tickets-Station-Masters-Union/342-241529",
+    "time_ut": 1658408584,
+    "original_lang": "en",
+    "original_title": "Train fare increase, will transport people without issuing tickets: Station Masters\u2019 Union",
+    "file_name": "/tmp/news_lk2/articles/d5/d5bdf07a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/singapore-says-gotabaya-granted-short-term-visit-pass/",
+    "time_ut": 1658407860,
+    "original_lang": "en",
+    "original_title": "Singapore says Gotabaya granted short-term visit pass",
+    "file_name": "/tmp/news_lk2/articles/06/06d2328f.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Arrest-warrant-issued-on-IUSF-Convener/342-241527",
     "time_ut": 1658406749,
@@ -8,12 +56,20 @@
     "file_name": "/tmp/news_lk2/articles/74/7443993d.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/attacks-on-presidents-private-residence-police-seek-video-photos-for-probe/",
+    "time_ut": 1658406660,
+    "original_lang": "en",
+    "original_title": "Attacks on President\u2019s private residence: Police seek video & photos for probe",
+    "file_name": "/tmp/news_lk2/articles/d2/d2068e2b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0ddd-6-\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db7\u0dcf\u0dbb\u0dba\u0da7/101-616822",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0ddd-6-\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db7\u0dcf\u0dbb\u0dba\u0da7/1-616822",
     "time_ut": 1658406483,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0db0\u0dd3\u0dc0\u0dbb\u0dba\u0ddd 6 \u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db7\u0dcf\u0dbb\u0dba\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f8/f83dab2f.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c4ffd6c0.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -30,6 +86,14 @@
     "original_lang": "en",
     "original_title": "Issuing fuel using QR code commences",
     "file_name": "/tmp/news_lk2/articles/de/de9a0603.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/21/3-hour-power-cuts-for-friday-22/",
+    "time_ut": 1658406240,
+    "original_lang": "en",
+    "original_title": "3-hour power cuts for Friday (22)",
+    "file_name": "/tmp/news_lk2/articles/54/54c3651f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -680,6 +744,14 @@
     "file_name": "/tmp/news_lk2/articles/89/899dcb9a.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/a-nation-in-distress/",
+    "time_ut": 1658389990,
+    "original_lang": "en",
+    "original_title": "A Nation In Distress",
+    "file_name": "/tmp/news_lk2/articles/62/623da18a.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131944",
     "time_ut": 1658389969,
@@ -718,6 +790,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 !",
     "file_name": "/tmp/news_lk2/articles/20/20878d77.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/the-elephant-in-the-room-geopolitics-the-great-reset-in-sri-lanka/",
+    "time_ut": 1658389035,
+    "original_lang": "en",
+    "original_title": "The Elephant In The Room: Geopolitics & The \u2018Great Reset\u2019 In Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/d8/d890dfe3.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1201,11 +1281,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/8-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616781",
+    "url": "https://www.lankadeepa.lk/latest_news/8-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-616781",
     "time_ut": 1658378628,
     "original_lang": "si",
     "original_title": "8 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/27/272961e6.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4c2738b1.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
