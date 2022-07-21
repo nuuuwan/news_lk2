@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Dhammika-Perera-resigns-as-MP/342-241510",
+    "time_ut": 1658391281,
+    "original_lang": "en",
+    "original_title": "Dhammika Perera resigns as MP",
+    "file_name": "/tmp/news_lk2/articles/e1/e1104543.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Gas-shortage-to-be-resolved-this-month-Litro/342-241509",
     "time_ut": 1658390873,
     "original_lang": "en",
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0d9c\u0dd2\u0dbd\u0db1\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda/1-616799",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0d9c\u0dd2\u0dbd\u0db1\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda/101-616799",
     "time_ut": 1658390608,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0d9c\u0dd2\u0dbd\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/4f/4f219f8c.json"
+    "file_name": "/tmp/news_lk2/articles/90/9072d0d7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b8e\u0bb5\u0bcd\u0bb5\u0bbf\u0ba4 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b9a\u0bbe\u0b95\u0bb0 \u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bb5\u0b9a\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/7d/7d7c8787.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131642",
-    "time_ut": 1658072250,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0b9c\u0bbf\u0baa\u0bc1\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5a/5ab914a8.json"
   }
 ]
