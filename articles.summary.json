@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-Wickremesinghe-is-to-be-sworn-in-as-the-eighth-Executive-President/108-241478",
+    "time_ut": 1658365092,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe is to be sworn in as the eighth Executive President",
+    "file_name": "/tmp/news_lk2/articles/73/73b7f7f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-President-pledges-a-system-change/108-241477",
+    "time_ut": 1658364888,
+    "original_lang": "en",
+    "original_title": "New President pledges a system change",
+    "file_name": "/tmp/news_lk2/articles/65/653aa418.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Treasury-bill-yields-ease-as-Parliament-elects-new-President/108-241470",
+    "time_ut": 1658357007,
+    "original_lang": "en",
+    "original_title": "Treasury bill yields ease as Parliament elects new President",
+    "file_name": "/tmp/news_lk2/articles/c0/c0b089cf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Anarchy-and-the-Aragalaya/172-241465",
     "time_ut": 1658356223,
     "original_lang": "en",
@@ -110,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka stocks end at 5-week high as Wickremesinghe voted as president",
     "file_name": "/tmp/news_lk2/articles/a4/a43afb02.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0b95\u0b9f\u0ba9\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-300833",
+    "time_ut": 1658341064,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b95\u0b9f\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/ae/aeafd259.json"
   },
   {
     "newspaper_id": "economy-next-com",
