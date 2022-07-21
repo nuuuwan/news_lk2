@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 05:43:06 (LK time)*
+*As of 2022-07-21 05:47:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **3** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
-## Last 24 Hours (271 Articles)
+## Last 24 Hours (273 Articles)
 
 * **51** virakesari-lk ([இலங்கை தொழிலாளர் காங்கிரஸ் ரணிலை ஆதரிக்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77bd4bc5.json))
 
@@ -28,11 +28,11 @@
 
 * **11** economy-next-com ([Sri Lanka overnight money markets dry up as soft-peg drives up counterparty risks](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/00ef2384.json))
 
+* **4** island-lk ([Emirates Flight Catering opens world’s largest Vertical Farm in Dubai](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17224808.json))
+
 * **4** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ වැඩි ඡන්දයෙන් අට වන විධායක ජනපති ලෙස පත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/384fe982.json))
 
-* **2** island-lk ([Emirates Flight Catering opens world’s largest Vertical Farm in Dubai](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17224808.json))
-
-## Last Week (1,761 Articles)
+## Last Week (1,766 Articles)
 
 * **334** virakesari-lk ([பாராளுமன்றப் பகுதியில் மோதல் : 42 பேர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db155cd7.json))
 
@@ -52,7 +52,7 @@
 
 * **82** economy-next-com ([Sri Lanka curfew ends after overnight battles near parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/8786fd0d.json))
 
-* **61** island-lk ([Terrorism, radicalisation and need for Bread](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0451a72e.json))
+* **66** island-lk ([Terrorism, radicalisation and need for Bread](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0451a72e.json))
 
 * **27** b-b-c-com-sinhala (['ජනපති ඉල්ලා අස්වීමේ ලිපිය නොදෙන්නේ නම් ධුරය හැරගියා සේ සලකනවා' - කථානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f2cd72c.json))
 
@@ -60,7 +60,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka’s President Gotabaya Rajapaksa was the world’s most-tracked flight on Thursday July 14](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5a592.json))
 
-## All Time (3,065 Articles)
+## All Time (3,070 Articles)
 
 * **458** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +82,7 @@
 
 * **140** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **118** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **123** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **62** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 

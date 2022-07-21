@@ -128,6 +128,14 @@
     "file_name": "/tmp/news_lk2/articles/99/997417d0.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/food-festival-with-a-difference/",
+    "time_ut": 1658340300,
+    "original_lang": "en",
+    "original_title": "Food festival\u2026 with a difference!",
+    "file_name": "/tmp/news_lk2/articles/3a/3a6976ea.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb1\u0bc1\u0ba4\u0bbf-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-300830",
     "time_ut": 1658339085,
@@ -150,6 +158,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bc8\u0baf\u0bc7 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0bb5\u0bbf\u0bae\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a",
     "file_name": "/tmp/news_lk2/articles/54/54c0423c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/hayleys-aventura-introduces-eco-one-newest-weapon-in-plastic-pollution-battle/",
+    "time_ut": 1658336160,
+    "original_lang": "en",
+    "original_title": "Hayleys Aventura introduces Eco-One: newest weapon in plastic pollution battle",
+    "file_name": "/tmp/news_lk2/articles/b2/b229cb93.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2446,6 +2462,22 @@
     "original_lang": "en",
     "original_title": "TNA and six SLPP MPs pledge support for Dullas",
     "file_name": "/tmp/news_lk2/articles/94/9434648e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-new-president-must-learn-from-gota/",
+    "time_ut": 1658250180,
+    "original_lang": "en",
+    "original_title": "The new President must learn from Gota!",
+    "file_name": "/tmp/news_lk2/articles/3e/3e144ff4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/evolution-of-sri-lankas-educational-reforms-from-kannangara-to-dhammika-perera/",
+    "time_ut": 1658250060,
+    "original_lang": "en",
+    "original_title": "Evolution of Sri Lanka\u2019s Educational Reforms From Kannangara to Dhammika Perera",
+    "file_name": "/tmp/news_lk2/articles/88/88749b3c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLMC to agree with SJB on candidates",
     "file_name": "/tmp/news_lk2/articles/ac/acfa2201.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dbb\u0ddd\u0dc4\u0dbd\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0db1\u0dc0\u0dad\u0dd3/1-616542",
-    "time_ut": 1658042560,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda \u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db1\u0dc0\u0dad\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/7d/7d9a4236.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Much-needs-to-be-done-to-prevent-falling-down-Ranil/108-241232",
-    "time_ut": 1658042369,
-    "original_lang": "en",
-    "original_title": "Much needs to be done to prevent falling down; Ranil",
-    "file_name": "/tmp/news_lk2/articles/b4/b4f5f584.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131625",
-    "time_ut": 1658041548,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/89/890c9b87.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/17/1-5-mn-construction-workers-unemployed/",
-    "time_ut": 1658041500,
-    "original_lang": "en",
-    "original_title": "1.5 mn construction workers unemployed",
-    "file_name": "/tmp/news_lk2/articles/10/10914950.json"
   }
 ]
