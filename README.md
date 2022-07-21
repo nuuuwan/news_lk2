@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 02:26:16 (LK time)*
+*As of 2022-07-22 02:39:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Tense situation at Galle Face protest site as security forces move in](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f600ff37.json))
 
 ## Last Hour (4 Articles)
 
