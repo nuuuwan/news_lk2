@@ -1,0 +1,105 @@
+{
+  "newspaper_id": "ada-lk",
+  "url": "https://www.ada.lk/breaking_news/\u0dc3\u0db8\u0db1\u0dca-\u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0dbd\u0dd9\u0dc3-\u0db4\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-395610",
+  "time_ut": 1658384654,
+  "original_lang": "si",
+  "original_title": "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+  "text_idx": {
+    "en": {
+      "title": "Saman Ekanayake is appointed as the President's Secretary",
+      "author": "unknown",
+      "body_lines": [
+        "Mr. Saman Ekanayake has been appointed as the President's Secretary by President Ranil Wickramasinghe.",
+        "Mr. Saman Ekanayake previously worked as the Prime Minister's Secretary."
+      ],
+      "title_ents": [
+        {
+          "text": "Saman Ekanayake",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Saman Ekanayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "Ranil Wickramasinghe",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Saman Ekanayake",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf\u00a0\u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0db8\u0dd3\u0da7 \u0db4\u0dd9\u0dbb \u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dc5\u0dda\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1 \u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0bb0\u0bc1.\u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9a\u0bae\u0ba9\u0bcd \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
