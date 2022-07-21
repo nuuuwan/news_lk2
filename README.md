@@ -1,34 +1,36 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 04:37:52 (LK time)*
+*As of 2022-07-22 04:54:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **1** virakesari-lk ([காலிமுகத்திடல் ஆர்ப்பாட்டக்காரர்கள் மீது ஈவிரக்கமற்ற தாக்குதல் - சட்டத்தரணி சாலிய பீரிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22f30fcb.json))
+* **1** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-## Last Hour (3 Articles)
+* **1** virakesari-lk ([பிபிசியின் ஊடகவியலாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7a2b2e7.json))
 
-* **2** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
+## Last Hour (5 Articles)
 
-* **1** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
+* **4** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
+
+* **1** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 ## Last 3 Hours (8 Articles)
 
-* **4** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
+* **4** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
-* **2** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
+* **2** daily-mirror-lk ([Tense situation at Galle Face protest site as security forces move in](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f600ff37.json))
+
+* **1** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 * **1** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
 
-* **1** tamil-mirror-lk ([ரணிலின் ஆட்டம் ஆரம்பம்; கோட்டாகோகம மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df5dff9f.json))
-
-## Last 24 Hours (258 Articles)
+## Last 24 Hours (263 Articles)
 
 * **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
-* **45** virakesari-lk ([ஜனாதிபதி ரணில் அதிரடி அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f415810f.json))
+* **48** virakesari-lk ([ஜனாதிபதி ரணில் அதிரடி அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f415810f.json))
 
 * **42** daily-mirror-lk ([New President pledges a system change](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/4912c886.json))
 
@@ -42,13 +44,15 @@
 
 * **9** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
-* **4** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ: දැඩි ආරක්ෂක රැකවල් මැද ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484baf3c.json))
+* **5** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ: දැඩි ආරක්ෂක රැකවල් මැද ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484baf3c.json))
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,757 Articles)
+* **1** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-* **339** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
+## Last Week (1,762 Articles)
+
+* **342** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **280** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
@@ -64,21 +68,21 @@
 
 * **74** economy-next-com ([Sri Lanka local currency rating under observation: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763cdd93.json))
 
-* **69** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
+* **70** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
 * **57** island-lk ([Learning for Sri Lanka on SOE Reforms – Malaysia’s Khazanah Nasional Berhad](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c02f0c34.json))
 
-* **28** b-b-c-com-sinhala (['දේශපාලන බලය අත්හැරීම විරලයි; සැබවින්ම එය දුෂ්කර තීරණයක්'](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ba0f1c.json))
+* **29** b-b-c-com-sinhala (['දේශපාලන බලය අත්හැරීම විරලයි; සැබවින්ම එය දුෂ්කර තීරණයක්'](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44ba0f1c.json))
 
 * **19** colombo-telegraph-com ([The Need To Appoint An independent President & Its Process](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebef1b4c.json))
 
 * **16** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/357fefcc.json))
 
-## All Time (3,344 Articles)
+## All Time (3,349 Articles)
 
 * **507** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **492** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **495** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **420** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
@@ -90,7 +94,7 @@
 
 * **233** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **196** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **197** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **160** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
@@ -98,6 +102,6 @@
 
 * **124** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
-* **67** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
+* **68** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
 * **52** colombo-telegraph-com ([Hague Tribunal: ‘MiG Deal Revelations The Main Motive For Lasantha’s Murder’ – Ex IP Nishantha Silva](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5049d84.json))
