@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83785/saman-ekanayake-appointed-secretary-to-new-president-",
+    "time_ut": 1658383380,
+    "original_lang": "en",
+    "original_title": "Saman Ekanayake appointed Secretary to new President",
+    "file_name": "/tmp/news_lk2/articles/85/85bc0a71.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0dc3\u0db8\u0db1\u0dca-\u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a/101-616792",
+    "time_ut": 1658383335,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc3\u0db8\u0db1\u0dca \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/af/afa4f3c2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83784/increased-train-fares-effective-from-midnight-tomorrow-",
     "time_ut": 1658383200,
     "original_lang": "en",

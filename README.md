@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 11:43:23 (LK time)*
+*As of 2022-07-21 11:51:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (6 Articles)
 
-* **2** ada-lk ([මෙරට මුහුදු තීරයේ මසුන් ඇල්ලූ  ඉන්දීය ධීවරයින් 06ක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca17ffd8.json))
+* **2** ada-derana-lk ([Increased train fares effective from midnight tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2095f81a.json))
 
-* **1** ada-derana-lk ([Increased train fares effective from midnight tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2095f81a.json))
+* **2** lankadeepa-lk ([ජනපති දිවුරුම වෙලාවේ විදුලිය බිඳ වැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb0e4152.json))
+
+* **1** ada-lk ([ජනපති හා විපක්ෂනායක අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17c1ef5f.json))
 
 * **1** tamil-mirror-lk ([’ராஜபக்ஷக்களுக்கு நான் நண்பன் இல்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09ac5f2d.json))
 
-* **1** lankadeepa-lk ([ජනපති දිවුරුම වෙලාවේ විදුලිය බිඳ වැටෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb0e4152.json))
+## Last Hour (11 Articles)
 
-* **1** daily-mirror-lk ([Mayantha Dissanayake steps down as President of SJB youth wing](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/036a3543.json))
+* **4** lankadeepa-lk ([මයන්ත සජබ තනතුරෙන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9787da50.json))
 
-## Last Hour (10 Articles)
+* **2** ada-derana-lk ([Increased train fares effective from midnight tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2095f81a.json))
 
-* **3** ada-lk ([කෝටි 17ක කේරළ ගංජා සමග 02ක් මාට්ටූ](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/03cb39a5.json))
-
-* **3** lankadeepa-lk ([මයන්ත සජබ තනතුරෙන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/9787da50.json))
-
-* **1** ada-derana-lk ([Increased train fares effective from midnight tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/2095f81a.json))
+* **2** ada-lk ([මෙරට මුහුදු තීරයේ මසුන් ඇල්ලූ  ඉන්දීය ධීවරයින් 06ක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca17ffd8.json))
 
 * **1** tamil-mirror-lk ([’ராஜபக்ஷக்களுக்கு நான் நண்பன் இல்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09ac5f2d.json))
 
@@ -32,35 +30,35 @@
 
 ## Last 3 Hours (42 Articles)
 
-* **11** lankadeepa-lk ([අකුරැස්සේ පෞද්ගලික බස් වර්ජනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bba3bcc.json))
+* **11** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
 * **8** daily-mirror-lk ([Three million successfully registered for ’National Fuel Pass’](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/285cb36f.json))
 
 * **7** ada-lk ([ජනාධිපති කාර්යාලය අග්‍රාමාත්‍ය කාර්යාලය අත්පත් කර ගැනීම නීති විරෝධියි - ජනපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1ca76adc.json))
 
-* **5** ada-derana-lk ([Ranil to be sworn in as new President today](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d59bab8c.json))
+* **6** ada-derana-lk ([Ranil to be sworn in as new President today](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d59bab8c.json))
 
 * **3** tamil-mirror-lk ([நீரில் மூழ்கி மாணவர்கள் உயிரிழந்தனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fe80514.json))
 
 * **3** news-first-lk ([‘I am a friend of the people, but forced occupation of offices is illegal’ – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75192fc2.json))
 
-* **3** virakesari-lk ([மூன்று மாகாணங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான கனமழை பெய்யும் - வளிமண்டலவியல் திணைக்களம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6fab288.json))
-
 * **2** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
-## Last 24 Hours (252 Articles)
+* **2** virakesari-lk ([தமிழக மீனவர்கள் 6 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/010692c0.json))
 
-* **48** virakesari-lk ([இலங்கையும் இந்தியாவும் ஆத்மநண்பர்கள்- ;,இலங்கையில் பின்பற்றப்படும்  அரசமைப்பு ஜனநாயக நடைமுறைகளிற்கு இந்தியா ஆதரவளிக்கின்றது- பேட்டியில் இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
+## Last 24 Hours (251 Articles)
 
-* **43** lankadeepa-lk ([ඡන්ද විමසීම අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb359e6c.json))
+* **47** virakesari-lk ([இடைக்கால ஜனாதிபதி தெரிவிற்கான வாக்களிப்பு நிறைவு : வாக்கெண்ணும் பணிகள் ஆரம்பம் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25e2a8c2.json))
+
+* **43** lankadeepa-lk ([ජනපති තෝරන තුරු අරගලකරුවෝ සත්‍යග්‍රහයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b792a.json))
 
 * **39** daily-mirror-lk ([Counting of votes begins in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be089146.json))
 
-* **31** tamil-mirror-lk ([கைதாங்கலாக வாக்களித்தார் ஐயா](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/914fa682.json))
+* **30** tamil-mirror-lk ([செல்லுப்படியற்ற வாக்குச்சீட்டு  சிக்கியது](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/0915daec.json))
 
 * **28** ada-lk ([ජනපති තෝරා පත්කර ගැනිමට ඡන්දය ප්‍රකාශ කර අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8fde827.json))
 
-* **22** ada-derana-lk ([In-person learning at schools limited to three days a week](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32d781b.json))
+* **23** ada-derana-lk ([In-person learning at schools limited to three days a week](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d32d781b.json))
 
 * **13** news-first-lk ([Fuel distribution from 21st July – Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9987741.json))
 
@@ -76,15 +74,15 @@
 
 * **328** virakesari-lk ([ஊரடங்கு தொடர்பில் வெளியான அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb4d58fa.json))
 
-* **272** lankadeepa-lk ([ජනතාව කබලෙන් ළිපට දැමූ අමනෝඥ තීරණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a39c7d14.json))
-
-* **195** tamil-mirror-lk ([மீண்டும் ஊரடங்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7cffc65.json))
+* **273** lankadeepa-lk ([ජනතාව කබලෙන් ළිපට දැමූ අමනෝඥ තීරණ](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a39c7d14.json))
 
 * **195** daily-mirror-lk ([Curfew imposed at 12 noon](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee5ab9e7.json))
 
+* **194** tamil-mirror-lk ([முக்கிய இடங்களை கைவிட  போராட்டக்காரர்கள் தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43efa90.json))
+
 * **176** ada-lk ([කොළඹ දිස්ත්‍රික්කයට ඇඳිරි නීතිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57a85a63.json))
 
-* **161** ada-derana-lk ([Protesters decide to hand over occupied govt buildings](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f354c669.json))
+* **161** ada-derana-lk ([Curfew imposed in Colombo District](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/218eba58.json))
 
 * **131** news-first-lk ([Business as Usual at Hambantota Port](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/961ab10f.json))
 
@@ -100,9 +98,9 @@
 
 * **19** colombo-telegraph-com ([Sequenced To A Premadasa Presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f790e275.json))
 
-## All Time (3,136 Articles)
+## All Time (3,138 Articles)
 
-* **470** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **471** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **452** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
@@ -112,7 +110,7 @@
 
 * **315** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
-* **238** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
+* **239** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **210** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
