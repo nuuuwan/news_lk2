@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba-\u0daf\u0dca\u200d\u0dbb\u0dd9\u0ddf\u0db4\u0daf\u0dd3-\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4-\u0da7/101-616833",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0dda-\u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba-\u0dbd\u0dd0\u0db6\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda-\u0dc3\u0dd4\u0da2\u0dcf\u0dad\u0db7\u0dcf\u0dc0\u0dba-\u0dc4\u0dd2\u0db8\u0dd2-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0da7\u0dba\u0dd2/1-616834",
+    "time_ut": 1658416601,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0dda \u0db1\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0dd0\u0db6\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0dc3\u0dd4\u0da2\u0dcf\u0dad\u0db7\u0dcf\u0dc0\u0dba \u0dc4\u0dd2\u0db8\u0dd2 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0da7\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/85/85a8dee1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db0\u0dd4\u0dbb\u0dba-\u0daf\u0dca\u200d\u0dbb\u0dd9\u0ddf\u0db4\u0daf\u0dd3-\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4-\u0da7/1-616833",
     "time_ut": 1658416018,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba \u0daf\u0dca\u200d\u0dbb\u0dd9\u0ddf\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4 \u0da7",
-    "file_name": "/tmp/news_lk2/articles/76/769bf81c.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6b9d9c8e.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -41,19 +49,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-successfully-experimented-Minister/342-241532",
+    "url": "https://www.dailymirror.lk/breaking_news/National-Fuel-Pass-QR-code-successfully-experimented-Minister/108-241532",
     "time_ut": 1658414006,
     "original_lang": "en",
     "original_title": "National Fuel Pass QR code successfully experimented: Minister",
-    "file_name": "/tmp/news_lk2/articles/83/8396d447.json"
+    "file_name": "/tmp/news_lk2/articles/85/85d42cc7.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-Deal-Gama-no-more/342-241531",
+    "url": "https://www.dailymirror.lk/caption_story/No-Deal-Gama-no-more/110-241531",
     "time_ut": 1658413795,
     "original_lang": "en",
     "original_title": "\u2019No Deal Gama\u2019 no more",
-    "file_name": "/tmp/news_lk2/articles/1f/1fbfb4b9.json"
+    "file_name": "/tmp/news_lk2/articles/3d/3d7ea2f0.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -193,11 +201,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Train-fare-increase-will-transport-people-without-issuing-tickets-Station-Masters-Union/342-241529",
+    "url": "https://www.dailymirror.lk/breaking_news/Train-fare-increase-will-transport-people-without-issuing-tickets-Station-Masters-Union/108-241529",
     "time_ut": 1658408584,
     "original_lang": "en",
     "original_title": "Train fare increase, will transport people without issuing tickets: Station Masters\u2019 Union",
-    "file_name": "/tmp/news_lk2/articles/d5/d5bdf07a.json"
+    "file_name": "/tmp/news_lk2/articles/31/31a87bad.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0dc0\u0dbd\u0da7 \u0db6\u0dcf\u0db0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/06/06a9ca6e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/trains-to-limit-speed-on-coastal-belt/",
-    "time_ut": 1658125980,
-    "original_lang": "en",
-    "original_title": "Trains to limit speed on coastal belt",
-    "file_name": "/tmp/news_lk2/articles/72/72b23798.json"
   }
 ]

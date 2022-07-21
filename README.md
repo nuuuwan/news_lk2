@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 20:52:39 (LK time)*
+*As of 2022-07-21 21:02:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **1** lankadeepa-lk ([ඉන්දීය ජනාධිපති ධුරය ද්‍රෞපදී මුර්මු ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/769bf81c.json))
+* **2** lankadeepa-lk ([ඉන්දීය ජනාධිපති ධුරය ද්‍රෞපදී මුර්මු ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b9d9c8e.json))
 
-## Last Hour (8 Articles)
+## Last Hour (7 Articles)
 
-* **3** lankadeepa-lk ([කෘෂි නියෝජිතයෝ යූරියා මිටියෙන් ගසා කති](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e35a37ed.json))
+* **3** lankadeepa-lk ([දුම්රිය ගාස්තු ඉහළ දාන්න ස්ථානාධිපතිවරු කල් ඉල්ලති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec3abc6.json))
 
-* **3** daily-mirror-lk ([’No Deal Gama’ no more](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fbfb4b9.json))
+* **2** daily-mirror-lk ([National Fuel Pass QR code successfully experimented: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d42cc7.json))
 
 * **1** ada-derana-lk ([Ethnic minority woman Draupadi Murmu wins India’s presidential election](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77d6670.json))
 
 * **1** ada-lk ([නව රජයේ අමාත්‍ය මණ්ඩලය හෙට දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6a13744.json))
 
-## Last 3 Hours (33 Articles)
+## Last 3 Hours (28 Articles)
 
-* **9** lankadeepa-lk ([ඉන්දීය ධීවරයෝ 6 ක් නාවික හමුදා භාරයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4ffd6c0.json))
+* **9** lankadeepa-lk ([කොරෝනා ආසාදිතයෝ 57 ක්: දෙදෙනෙක් ඊයේ මිය ගිහින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/675f8833.json))
 
-* **9** daily-mirror-lk ([President visits Defence Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22c132e9.json))
+* **6** daily-mirror-lk ([Arrest warrant issued on IUSF Convener](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7443993d.json))
 
 * **4** ada-derana-lk ([Power interruption schedule for July 22](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59eda630.json))
-
-* **4** news-first-lk ([3-hour power cuts for Friday (22)](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54c3651f.json))
 
 * **3** virakesari-lk ([ஊடகவியலாளர்கள் மீதான தாக்குதல் - பணி இடைநிறுத்தம் செய்யப்பட்ட பொலிஸ் அதிரடிப் படை எஸ்.எஸ்.பி. மீள சேவைக்கு](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61609ae6.json))
 
@@ -34,11 +32,13 @@
 
 * **2** tamil-mirror-lk ([உள்ளாடைகளை கழற்றிய பெண்கள் ஐவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7207379a.json))
 
-## Last 24 Hours (261 Articles)
+* **2** news-first-lk ([Singapore says Gotabaya granted short-term visit pass](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06d2328f.json))
 
-* **46** daily-mirror-lk ([Our candidate was unable to win: MR](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f96917b.json))
+## Last 24 Hours (260 Articles)
 
-* **45** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35101416.json))
+* **46** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35101416.json))
+
+* **44** daily-mirror-lk ([Not a defeat but an encouraging guidance: Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2051f91.json))
 
 * **42** virakesari-lk ([கட்சிகள் எடுத்த தீர்மானத்துக்கு அமைய உறுப்பினர்கள் செயற்படவில்லை - மைத்திரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76b0be94.json))
 
@@ -62,21 +62,21 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## Last Week (1,771 Articles)
+## Last Week (1,770 Articles)
 
 * **333** virakesari-lk ([பிரதமர் பதவிக்கு முன்மொழியப்படவுள்ள பெயரை  சபாநாயகருக்கு இன்று அறிவிப்போம் - ஐக்கிய மக்கள் சக்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cbe6d90.json))
 
-* **276** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
+* **277** lankadeepa-lk ([ලංකා සභාවෙන් නිවේදනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3867c60.json))
 
 * **201** daily-mirror-lk ([General Silva visits injured soldiers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e3aae0.json))
 
 * **196** tamil-mirror-lk ([கையொப்பமிட்ட கடிதத்துக்காக காத்திருக்கும் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d87d73.json))
 
-* **181** ada-lk ([ජනපතිගේ ඉල්ලා අස්වී‍ම නිල වශයෙන් ප්‍රකාශ කිරීම හෙට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4ef0fa5b.json))
+* **180** ada-lk ([වැඩබලන ජනපති ලෙස රනිල් හෙට දිවුරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05ed804c.json))
 
 * **157** ada-derana-lk ([Probes into firearm stolen during protest handed over to CCD](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e65cb0b.json))
 
-* **138** news-first-lk ([Sri Lanka President’s resignation received, official announcement on Friday (15)](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56d9675c.json))
+* **137** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
 * **83** daily-ft-lk ([End casino capitalism: Sri Lanka to join global minimum tax agreement](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa1a15fd.json))
 
@@ -90,9 +90,9 @@
 
 * **18** d-b-s-jeyaraj-com ([Rajanayagam: From Trotskyite Lawyer  to “Tamil Times” Editor.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb1d1c1b.json))
 
-## All Time (3,303 Articles)
+## All Time (3,304 Articles)
 
-* **502** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **503** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **481** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
