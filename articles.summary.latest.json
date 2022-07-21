@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0dba-24\u0d9a\u0da7-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda-\u0dc0\u0dcf\u0dbb\u0dcf\u0dc0\u0dc3\u0dcf\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/11-395625",
+    "time_ut": 1658398335,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 24\u0d9a\u0da7 \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc0\u0dcf\u0dbb\u0dcf\u0dc0\u0dc3\u0dcf\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/59/59190545.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0da7-\u0dc4\u0dda\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0da0\u0dd3\u0db1-\u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba\u0dd2/1-616808",
+    "time_ut": 1658397959,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0da7 \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0da0\u0dd3\u0db1 \u0d86\u0dba\u0ddd\u0da2\u0db1\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e2/e238234c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Fuel-can-supply-up-to-350-filling-stations-Bowser-Owners-Assn/342-241513",
     "time_ut": 1658397511,
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "No fuel for people waiting unnecessarily in queues tomorrow: Fuel Distributors Assn.",
     "file_name": "/tmp/news_lk2/articles/83/8353400e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/25-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dca\u0daf\u0db1-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2--\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/11-395624",
+    "time_ut": 1658397294,
+    "original_lang": "si",
+    "original_title": "25 \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dca\u0daf\u0db1 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2  \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/90/90c27bea.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "When the mighty fall, the rats hide: Ex-President\u2019s economic team failed to ignite economy",
     "file_name": "/tmp/news_lk2/articles/29/29562ecd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Will-the-225-save-this-country-now-gasping-for-breath/14-737621",
-    "time_ut": 1658089457,
-    "original_lang": "en",
-    "original_title": "Will the 225 save this country now gasping for breath?",
-    "file_name": "/tmp/news_lk2/articles/f4/f48276f5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business__main/India-eclipses-China-to-become-top-lender-to-debt-laden-Sri-Lanka/245-241262",
-    "time_ut": 1658089398,
-    "original_lang": "en",
-    "original_title": "India eclipses China to become top lender to debt-laden Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/ff/fff40355.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CB-asks-what-more-could-incentivise-remittances-than-current-Fx-and-interest-rates/108-241261",
-    "time_ut": 1658089334,
-    "original_lang": "en",
-    "original_title": "CB asks what more could incentivise remittances than current Fx and interest rates",
-    "file_name": "/tmp/news_lk2/articles/22/22253f9f.json"
   }
 ]
