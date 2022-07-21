@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 23:49:18 (LK time)*
+*As of 2022-07-22 00:00:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([இந்தியாவின் புதிய ஜனாதிபதியானார் பழங்குடியின பெண்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25f31c19.json))
-
-* **1** ada-derana-lk ([Election Commission informed of vacancy of MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf0788d6.json))
 
 ## Last 3 Hours (22 Articles)
 
@@ -54,7 +52,7 @@
 
 * **1** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## Last Week (1,765 Articles)
+## Last Week (1,764 Articles)
 
 * **333** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
@@ -66,7 +64,7 @@
 
 * **182** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
-* **158** ada-derana-lk ([Duties, institutions gazetted under Defence Ministry amended](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/607209d2.json))
+* **157** ada-derana-lk ([Strong winds expected in parts of the island](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/949a0e6a.json))
 
 * **138** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
