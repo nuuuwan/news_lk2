@@ -1,0 +1,30 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95-\u0b9a\u0bae\u0ba9\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-300851",
+  "time_ut": 1658384389,
+  "original_lang": "ta",
+  "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b9a\u0bae\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Equal appointment as Secretary to the President",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "si": {
+      "title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dbd\u0dd9\u0dc3 \u0dc3\u0db8\u0dcf\u0db1 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    },
+    "ta": {
+      "title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0b9a\u0bae\u0ba9\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+      "author": "unknown",
+      "body_lines": [],
+      "title_ents": [],
+      "body_line_ents_list": []
+    }
+  }
+}
