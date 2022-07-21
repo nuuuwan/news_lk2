@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83788/italian-pm-mario-draghi-resigns-following-week-of-turmoil",
+    "time_ut": 1658395920,
+    "original_lang": "en",
+    "original_title": "Italian PM Mario Draghi resigns following week of turmoil",
+    "file_name": "/tmp/news_lk2/articles/76/7603a47b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131949",
+    "time_ut": 1658395725,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b87\u0bb0\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/5a/5aadee65.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131946",
+    "time_ut": 1658395596,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbe\u0baf\u0bcd \u0baf\u0bbe\u0ba9\u0bc8 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/28/2848e2da.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0da9\u0dbd\u0dc3\u0dca-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca-\u0d9a\u0dc5\u0dda-\u0d85\u0db4\u0dd2\u2019\u2019/101-616805",
     "time_ut": 1658394993,
     "original_lang": "si",
     "original_title": "\u2019\u2019\u0da9\u0dbd\u0dc3\u0dca \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5\u0dda \u0d85\u0db4\u0dd2\u2019\u2019",
     "file_name": "/tmp/news_lk2/articles/8e/8e650572.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0db8\u0dcf-\u0d9c\u0dd0\u0db1-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395622",
+    "time_ut": 1658394841,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0db8\u0dcf \u0d9c\u0dd0\u0db1 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/70/70886266.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -41,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/world_news/\u0d89\u0dad\u0dcf\u0dbd\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/14-616804",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0dad\u0dcf\u0dbd\u0dd2-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2/1-616804",
     "time_ut": 1658393270,
     "original_lang": "si",
     "original_title": "\u0d89\u0dad\u0dcf\u0dbd\u0dd2 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f9/f9314eb1.json"
+    "file_name": "/tmp/news_lk2/articles/7a/7aa8113f.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -65,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0da7-\u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a\u0dca:-\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-616802",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0da7-\u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a\u0dca:-\u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/1-616802",
     "time_ut": 1658392224,
     "original_lang": "si",
     "original_title": "\u0db8\u0da7 \u0db4\u0dd2\u0dc5\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a\u0dca: \u0db6\u0dba\u0dd2\u0da9\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/05/052dca5c.json"
+    "file_name": "/tmp/news_lk2/articles/ab/ab574bd2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Mobile fuel dispenser to distribute fuel for three wheelers and generators",
     "file_name": "/tmp/news_lk2/articles/08/083a167b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Sri-Lanka-concludes-bilateral-consultation-with-Japan/56-737605",
-    "time_ut": 1658088275,
-    "original_lang": "en",
-    "original_title": "Sri Lanka concludes bilateral consultation with Japan",
-    "file_name": "/tmp/news_lk2/articles/f8/f899e375.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Indian-Govt-convenes-all-party-meeting-tomorrow-on-Sri-Lanka/56-737604",
-    "time_ut": 1658088206,
-    "original_lang": "en",
-    "original_title": "Indian Govt. convenes all-party meeting tomorrow on Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/0e/0e29377d.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/GGG-Aragalaya-reaches-100-day-milestone/56-737603",
-    "time_ut": 1658088145,
-    "original_lang": "en",
-    "original_title": "GGG Aragalaya reaches 100-day milestone",
-    "file_name": "/tmp/news_lk2/articles/4d/4d3bae77.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Suspect-arrested-with-50-tear-gas-cannisters-stolen-from-police-during-protest/108-241250",
-    "time_ut": 1658084680,
-    "original_lang": "en",
-    "original_title": "Suspect arrested with 50 tear gas cannisters stolen from police during protest",
-    "file_name": "/tmp/news_lk2/articles/6b/6bd6ed81.json"
   }
 ]
