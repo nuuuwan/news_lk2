@@ -128,6 +128,14 @@
     "file_name": "/tmp/news_lk2/articles/99/997417d0.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb1\u0bc1\u0ba4\u0bbf-\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-300830",
+    "time_ut": 1658339085,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/17/17e5c6eb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83777/new-president-vows-tough-line-against-troublemakers",
     "time_ut": 1658337420,
@@ -142,6 +150,22 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bc8\u0baf\u0bc7 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0bb5\u0bbf\u0bae\u0bb2\u0bcd \u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a",
     "file_name": "/tmp/news_lk2/articles/54/54c0423c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/alumex-grows-lumin-fabricators-network-to-15000/",
+    "time_ut": 1658336100,
+    "original_lang": "en",
+    "original_title": "Alumex grows Lumin fabricators network to 15,000",
+    "file_name": "/tmp/news_lk2/articles/6e/6e83c4ca.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/emirates-flight-catering-opens-worlds-largest-vertical-farm-in-dubai/",
+    "time_ut": 1658336040,
+    "original_lang": "en",
+    "original_title": "Emirates Flight Catering opens world\u2019s largest Vertical Farm in Dubai",
+    "file_name": "/tmp/news_lk2/articles/17/17224808.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2400,6 +2424,14 @@
     "file_name": "/tmp/news_lk2/articles/48/48e22cee.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/choose-ranil-and-you-choose-a-cycle-of-carnage-and-catastrophe/",
+    "time_ut": 1658250720,
+    "original_lang": "en",
+    "original_title": "Choose Ranil and you choose a cycle of carnage and catastrophe",
+    "file_name": "/tmp/news_lk2/articles/b9/b97cd58a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83749/tna-pledges-support-for-dullas",
     "time_ut": 1658250420,
@@ -2425,6 +2457,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/perera-sons-proudly-celebrates-its-120th-anniversary/",
+    "time_ut": 1658249820,
+    "original_lang": "en",
+    "original_title": "Perera & Sons proudly celebrates its 120th anniversary",
+    "file_name": "/tmp/news_lk2/articles/4f/4fbd53a5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/cipm-6th-research-symposium-adds-value-to-glocal-hrm/",
     "time_ut": 1658249760,
     "original_lang": "en",
@@ -2441,11 +2481,27 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/stepped-up-share-buying-by-foreigners-as-cse-begins-politically-crucial-week-on-positive-note/",
+    "time_ut": 1658249700,
+    "original_lang": "en",
+    "original_title": "Stepped-up share-buying by foreigners as CSE begins politically crucial week on positive note",
+    "file_name": "/tmp/news_lk2/articles/1c/1ced9e62.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/hddes-group-products-diversify-boi-export-basket/",
     "time_ut": 1658249700,
     "original_lang": "en",
     "original_title": "HDDES Group products diversify BOI export basket",
     "file_name": "/tmp/news_lk2/articles/86/86a5fbe5.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lankas-instability-has-led-to-massive-portfolio-outflows-fitch-ratings/",
+    "time_ut": 1658249640,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s instability has led to massive portfolio outflows: Fitch Ratings",
+    "file_name": "/tmp/news_lk2/articles/f4/f4523a96.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
