@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 02:59:39 (LK time)*
+*As of 2022-07-22 03:10:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,11 +12,11 @@
 
 * **1** daily-mirror-lk ([Military in Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32689329.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **4** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
 
-* **2** tamil-mirror-lk ([மரண வீட்டுக்கு சென்று திரும்பிய 11 பேர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28bc04eb.json))
+* **1** tamil-mirror-lk ([ரணிலின் ஆட்டம் ஆரம்பம்; கோட்டாகோகம மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df5dff9f.json))
 
 ## Last 24 Hours (260 Articles)
 
