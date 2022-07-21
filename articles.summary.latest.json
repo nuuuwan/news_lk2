@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Will-the-new-president-renew-a-shattered-nation-EDITORIAL/231-241542",
+    "url": "https://www.dailymirror.lk/breaking_news/Tense-situation-at-Galle-Face-protest-site-as-security-forces-move-in/108-241544",
+    "time_ut": 1658435302,
+    "original_lang": "en",
+    "original_title": "Tense situation at Galle Face protest site as security forces move in",
+    "file_name": "/tmp/news_lk2/articles/f6/f600ff37.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Will-the-new-president-renew-a-shattered-nation-EDITORIAL/172-241542",
     "time_ut": 1658434835,
     "original_lang": "en",
     "original_title": "Will the new president renew a shattered nation ? - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/d3/d3ae5965.json"
+    "file_name": "/tmp/news_lk2/articles/2a/2a13bd8b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "CID launches probe into reports of Rs. 45mn being withdrawn by three leading Galle Face protestors",
     "file_name": "/tmp/news_lk2/articles/e9/e992bacf.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda-\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0dad\u0dd9\u0dbd\u0dca-\u0dbd\u0dd0\u0db6\u0dd9\u0dba\u0dd2/101-616614",
-    "time_ut": 1658132857,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dad\u0dd9\u0dbd\u0dca \u0dbd\u0dd0\u0db6\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/8c/8ce9677f.json"
   }
 ]
