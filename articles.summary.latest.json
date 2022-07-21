@@ -296,6 +296,14 @@
     "file_name": "/tmp/news_lk2/articles/d7/d792ed76.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131973",
+    "time_ut": 1658412600,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/39/396ebeff.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83795/sri-lanka-made-dumb-bets-on-chinese-investment-cia-chief",
     "time_ut": 1658412420,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dcf\u0daf\u0dd2\u0db1\u0dbd\u0dca \u0dad\u0dd4\u0db8\u0db1\u0dca\u0d9c\u0dda \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/8e/8e7758c3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dcf\u0daf\u0dd2\u0db1\u0dbd\u0dca-\u0dad\u0dd4\u0db8\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/101-616613",
-    "time_ut": 1658132349,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dcf\u0daf\u0dd2\u0db1\u0dbd\u0dca \u0dad\u0dd4\u0db8\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/33/3399a837.json"
   }
 ]
