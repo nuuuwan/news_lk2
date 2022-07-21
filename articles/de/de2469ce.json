@@ -13,7 +13,7 @@
         "It has been revealed in the investigations carried out by the police that the assault was carried out in the doctor's office.",
         "The doctor who was attacked has been admitted to Polonnaruwa General Hospital for treatment.",
         "The investigating police officers said that the person who allegedly assaulted the doctor has been arrested. It has been stated to the police that the heavily drunk suspect has come to the hospital to treat a child.",
-        "The director of Polonnaruwa Regional Health Services, Specialist Dr. WMS Kumarawansa said in our inquiry that the entire staff including doctors and nurses of Jayanthipura Hospital have been out of their duties since this afternoon due to the brutal attack on a doctor on duty.",
+        "Polonnaruwa Regional Health Services Director, Specialist Dr. WMS Kumaravansa stated in our inquiry that the entire staff including the doctors and nurses of the Jayantipura Hospital have been out of their duties since this afternoon due to the brutal attack on a doctor on duty.",
         "As a result, all the patients in the hospital were transferred to other hospitals and the hospital was temporarily closed.",
         "The regional director of health services said that 05 doctors are currently working in this hospital and all those doctors are afraid to continue their duties in that hospital and they are requesting transfers to other hospitals."
       ],
@@ -56,15 +56,15 @@
           },
           {
             "text": "Specialist",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
-            "text": "Kumarawansa",
+            "text": "Kumaravansa",
             "label": "PERSON"
           },
           {
-            "text": "Jayanthipura Hospital",
-            "label": "ORG"
+            "text": "the Jayantipura Hospital",
+            "label": "FAC"
           },
           {
             "text": "this afternoon",
@@ -131,15 +131,15 @@
           },
           {
             "text": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0da5",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
-            "text": "Kumarawansa",
+            "text": "\u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dc0\u0d82\u0dc1\u0dba",
             "label": "PERSON"
           },
           {
             "text": "\u0da2\u0dba\u0db1\u0dca\u0dad\u0dd2\u0db4\u0dd4\u0dbb \u0dbb\u0ddd\u0dc4\u0dbd",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0d85\u0daf \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda",
@@ -206,15 +206,15 @@
           },
           {
             "text": "\u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd",
-            "label": "NORP"
+            "label": "ORG"
           },
           {
-            "text": "Kumarawansa",
+            "text": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a\u0bbe",
             "label": "PERSON"
           },
           {
             "text": "\u0b9c\u0bc6\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bc1\u0bb0\u0bbe \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
-            "label": "ORG"
+            "label": "FAC"
           },
           {
             "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
