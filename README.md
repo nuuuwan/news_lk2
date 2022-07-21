@@ -1,44 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 23:05:34 (LK time)*
+*As of 2022-07-21 23:16:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Election Commission informed of vacancy of MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf0788d6.json))
+
+## Last Hour (8 Articles)
+
+* **3** virakesari-lk ([புதிய அமைச்சரவை நாளை புதிய ஜனாதிபதி முன்னிலையில் பதவி ஏற்கும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/346791d1.json))
 
 * **2** ada-derana-lk ([33 held as navy thwarts another illegal migration attempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2162eb1b.json))
-
-## Last Hour (11 Articles)
-
-* **5** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
-
-* **2** ada-derana-lk ([33 held as navy thwarts another illegal migration attempt](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/2162eb1b.json))
-
-* **2** daily-mirror-lk ([Spike in COVID cases; current Pfizer batch to expire soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af1fb9b.json))
 
 * **1** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
 * **1** economy-next-com ([Sri Lanka’s central bank requests bank loan borrowers to seek relief before July 31st](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c4c6489.json))
 
-## Last 3 Hours (27 Articles)
+* **1** daily-mirror-lk ([Public urged to register through official website only](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fb9b3e2.json))
 
-* **6** lankadeepa-lk ([ඉන්ධන හිඟය නිසා කැලෑ පාළුවන්ගෙන් මල්ල කරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96fc1a48.json))
+## Last 3 Hours (25 Articles)
 
 * **5** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
+
+* **5** lankadeepa-lk ([දුම්රිය ගාස්තු ඉහළ දාන්න ස්ථානාධිපතිවරු කල් ඉල්ලති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec3abc6.json))
 
 * **4** ada-derana-lk ([Ethnic minority woman Draupadi Murmu wins India’s presidential election](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f77d6670.json))
 
 * **4** economy-next-com ([Sri Lanka sees rise in Covid deaths; 12 so far in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c5b588e.json))
 
-* **3** daily-mirror-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9145d734.json))
-
 * **3** ada-lk ([ජනපති ආරක්ෂක අංශ ප්‍රධානීන් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/241f8f31.json))
+
+* **2** daily-mirror-lk ([Spike in COVID cases; current Pfizer batch to expire soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af1fb9b.json))
 
 * **1** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
 * **1** news-first-lk ([Inflation hits 58.9% in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38210d8f.json))
 
-## Last 24 Hours (266 Articles)
+## Last 24 Hours (265 Articles)
 
 * **50** lankadeepa-lk ([‘‘ ජනතාවට තව මාස පහක් පමණ දුෂ්කර තා විඳින්න වෙනවා‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35101416.json))
 
@@ -52,7 +52,7 @@
 
 * **23** ada-derana-lk ([Fairly heavy rains above 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96cfb65b.json))
 
-* **22** tamil-mirror-lk ([இறுதி இலக்கத்தின் அடிப்படையில் இன்று எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17e5c6eb.json))
+* **21** tamil-mirror-lk ([5 மாதங்களுக்குள் நெருக்கடிக்கு தீர்வு: மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7c69ad1.json))
 
 * **11** economy-next-com ([Sri Lanka anti-government protesters vow to agitate against new president](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3ec00fb.json))
 
@@ -66,15 +66,15 @@
 
 * **1** island-lk ([Food festival… with a difference!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a6976ea.json))
 
-## Last Week (1,769 Articles)
+## Last Week (1,767 Articles)
 
 * **333** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **280** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
-* **203** daily-mirror-lk ([General Silva visits injured soldiers](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3e3aae0.json))
+* **202** daily-mirror-lk ([Election the only solution to fulfil people’s true aspirations: JVP reiterates](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e241f48.json))
 
-* **193** tamil-mirror-lk ([‘நாடு முடக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5645c408.json))
+* **192** tamil-mirror-lk ([’பதவி விலகல் கடிதம்’ போலியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c276f91.json))
 
 * **181** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
