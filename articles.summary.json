@@ -65,19 +65,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Fuel-can-supply-up-to-350-filling-stations-Bowser-Owners-Assn/342-241513",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-can-supply-up-to-350-filling-stations-Bowser-Owners-Assn/108-241513",
     "time_ut": 1658397511,
     "original_lang": "en",
     "original_title": "Fuel can supply up to 350 filling stations: Bowser Owners\u2019 Assn.",
-    "file_name": "/tmp/news_lk2/articles/e3/e3b84951.json"
+    "file_name": "/tmp/news_lk2/articles/aa/aac7ba62.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-fuel-for-people-waiting-unnecessarily-in-queues-tomorrow-Fuel-Distributors-Assn/342-241512",
+    "url": "https://www.dailymirror.lk/breaking_news/No-fuel-for-people-waiting-unnecessarily-in-queues-tomorrow-Fuel-Distributors-Assn/108-241512",
     "time_ut": 1658397346,
     "original_lang": "en",
     "original_title": "No fuel for people waiting unnecessarily in queues tomorrow: Fuel Distributors Assn.",
-    "file_name": "/tmp/news_lk2/articles/83/8353400e.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6ce8619.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -97,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/No-power-breakdown-during-Presidents-swearing-Sergeant-at-arms/342-241511",
+    "url": "https://www.dailymirror.lk/breaking_news/No-power-breakdown-during-Presidents-swearing-Sergeant-at-arms/108-241511",
     "time_ut": 1658396696,
     "original_lang": "en",
     "original_title": "No power breakdown during President\u2019s swearing: Sergeant-at-arms",
-    "file_name": "/tmp/news_lk2/articles/09/0964600a.json"
+    "file_name": "/tmp/news_lk2/articles/6a/6af92e40.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -590,6 +590,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0bbe\u0bb1\u0bc1\u0bae\u0bc8",
     "file_name": "/tmp/news_lk2/articles/61/616efdc0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Train-fares-to-increase-from-tomorrow-night/108-241505",
+    "time_ut": 1658384144,
+    "original_lang": "en",
+    "original_title": "Train fares to increase from tomorrow night",
+    "file_name": "/tmp/news_lk2/articles/a4/a410be4a.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

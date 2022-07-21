@@ -1,38 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-21 16:21:56 (LK time)*
+*As of 2022-07-21 16:25:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
-
-* **2** tamil-mirror-lk ([ஐ.தே.கட்சியின் தேசிய பட்டியல் உறுப்பினராக சாகல?](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0785dbd.json))
+## Last 30 Minutes (4 Articles)
 
 * **1** ada-derana-lk ([Sri Lanka’s growth to contract by 7.6% in 2022 - ADB](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9587d3a.json))
+
+* **1** tamil-mirror-lk ([ஜனாதிபதியிடம் முன்னாள்  அமைச்சரின் முக்கிய கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4f9f1e7.json))
 
 * **1** lankadeepa-lk ([මහින්ද සමරසිංහ - ඩබ්.එෆ්.පී ප්‍රධාන විධායක අධ්‍යක්ෂක අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3d1059ff.json))
 
 * **1** virakesari-lk ([இளம் செயற்பாட்டாளர்களாலேயே இந்த மாற்றம் சாத்தியமானது என்பதை ரணில் நினைவில் வைத்திருப்பார் - சந்திரிகா நம்பிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dfc3e30.json))
 
-## Last Hour (11 Articles)
+## Last Hour (10 Articles)
 
 * **3** tamil-mirror-lk ([போராட்டக்காரர்களின் நாளைய திட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3548dc11.json))
 
 * **2** lankadeepa-lk ([ලංකාවේ ආර්ථිකය කඩා වැටීමට හේතුව විශාල චීන ආයෝජනයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e238234c.json))
 
-* **2** ada-lk ([25 සඳුදා ඩෙංගු මර්දන විශේෂ  දිනයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90c27bea.json))
-
-* **2** daily-mirror-lk ([No fuel for people waiting unnecessarily in queues tomorrow: Fuel Distributors Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/8353400e.json))
+* **2** daily-mirror-lk ([No fuel for people waiting unnecessarily in queues tomorrow: Fuel Distributors Assn.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6ce8619.json))
 
 * **1** ada-derana-lk ([Sri Lanka’s growth to contract by 7.6% in 2022 - ADB](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9587d3a.json))
 
 * **1** virakesari-lk ([இளம் செயற்பாட்டாளர்களாலேயே இந்த மாற்றம் சாத்தியமானது என்பதை ரணில் நினைவில் வைத்திருப்பார் - சந்திரிகா நம்பிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6dfc3e30.json))
 
-## Last 3 Hours (41 Articles)
+* **1** ada-lk ([පැය 24කට පාර්ලිමේන්තුවේ වාරාවසාන කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59190545.json))
 
-* **8** virakesari-lk ([சிபெட்கோ எரிபொருள் நிரப்பும் நிலையங்களின் செயற்பாடுகள் மீள ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/7888740d.json))
+## Last 3 Hours (40 Articles)
 
 * **7** lankadeepa-lk ([ඉන්දීය ගිලන් රථයක් අනතුරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/9072d0d7.json))
+
+* **7** virakesari-lk (["கோ ஹோம் ரணில்" போராட்டத்தை தடையின்றி நடத்த விஹாரமகாதேவி பூங்கா ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/899dcb9a.json))
 
 * **6** tamil-mirror-lk ([தம்மிக்க பெரேரா இராஜினாமா](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce725217.json))
 
@@ -50,9 +50,9 @@
 
 * **36** lankadeepa-lk ([අරගලකරුවෝ සටන අත් නොහරිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8dbb5c7.json))
 
-* **34** daily-mirror-lk ([Galle Face protesters vow to continue until Ranil resigns from presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd77a3c.json))
+* **35** daily-mirror-lk ([Galle Face protesters vow to continue until Ranil resigns from presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abd77a3c.json))
 
-* **28** tamil-mirror-lk ([ரணிலின் தலைவிதி நடந்துள்ளது](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/172ffd75.json))
+* **27** tamil-mirror-lk ([எமது வேட்பாளர் தோல்வியடைந்துவிட்டார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca25e393.json))
 
 * **27** ada-lk ([අපි ඩලස්ව ඉදිරිපත් කළා](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56c0cd58.json))
 
@@ -72,11 +72,11 @@
 
 * **329** virakesari-lk ([கூட்டு இணக்கப்பாட்டுடன் ஜனாதிபதி, பிரதமரை தெரிவுசெய்து கொள்வோம் - கட்சித் தலைவர்களிடம்  பெப்ரல் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a33d0ec3.json))
 
-* **270** lankadeepa-lk ([ගෝඨා-රනිල් යන තුරු රට පුරා වැඩවර්ජන, හර්තාල්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e56fcfd0.json))
+* **269** lankadeepa-lk ([‘‘ජනපතිකම බාර ගන්න සූදානම්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ef6cabd.json))
 
 * **198** tamil-mirror-lk ([ஜனாதிபதியாக பதவியேற்க பொன்சேகா தயார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54ec2bdc.json))
 
-* **194** daily-mirror-lk ([Back to how it was....](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26e38acc.json))
+* **195** daily-mirror-lk ([Back to how it was....](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26e38acc.json))
 
 * **187** ada-lk ([ආරක්ෂක හමුදා සතු සියලු බලතල භාවිත කිරිමට මැලි වන්නේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bd19c72.json))
 
@@ -96,13 +96,13 @@
 
 * **18** d-b-s-jeyaraj-com ([Gota going into hiding in an unknown country is an indication that he cannot rely on his own service chiefs to guarantee his safety. Gotabaya Rajapaksa has effectively made himself a lame duck of a President.](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8b960d8.json))
 
-## All Time (3,222 Articles)
+## All Time (3,223 Articles)
 
 * **482** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **469** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **398** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
+* **399** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
 * **350** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

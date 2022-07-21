@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "A meeting between Mr. Mahinda Samarasinghe, the Ambassador of Sri Lanka to the United States, and Mr. David Beasley, the Chief Executive Director of the World Food Program, was held in Washington.",
-        "There, Mr. David Beasley's visit to Sri Lanka was discussed at the invitation of President Ranil Wickramasinghe and Ambassador Mahinda Samarasinghe informed Mr. David Beasley, head of the World Food Program, about the election of President Ranil Wickramasinghe as the new president by the majority vote of the Parliament.",
+        "There, at the invitation of President Ranil Wickremesinghe, Mr. David Beasley's visit to Sri Lanka was discussed and Ambassador Mahinda Samarasinghe informed Mr. David Beasley, the head of the World Food Program, about the election of President Ranil Wickramasinghe as the new president by the majority vote of the Parliament.",
         "Also, Mr. Mahinda Samarasinghe emphasized that President Ranil Wickremesinghe is ready to work closely with the World Food Program in the problems that arise in establishing food security in Sri Lanka.",
         "At that time, Mr. David Beasley, who congratulated Mr. Ranil Wickramasinghe on his election as the President, said that he is looking forward to meeting Mr. Wickramasinghe during his upcoming visit to Sri Lanka."
       ],
@@ -49,16 +49,16 @@
         ],
         [
           {
+            "text": "Ranil Wickremesinghe",
+            "label": "PERSON"
+          },
+          {
             "text": "David Beasley",
             "label": "PERSON"
           },
           {
             "text": "Sri Lanka",
             "label": "GPE"
-          },
-          {
-            "text": "Ranil Wickramasinghe",
-            "label": "PERSON"
           },
           {
             "text": "Mahinda Samarasinghe",
@@ -163,16 +163,16 @@
         ],
         [
           {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0da9\u0dda\u0dc0\u0dd2\u0da9\u0dca \u0db6\u0dd3\u0dc3\u0dca\u0dbd\u0dd2",
             "label": "PERSON"
           },
           {
             "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
             "label": "GPE"
-          },
-          {
-            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
-            "label": "PERSON"
           },
           {
             "text": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0dc3\u0db8\u0dbb\u0dc3\u0dd2\u0d82\u0dc4",
@@ -277,16 +277,16 @@
         ],
         [
           {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
             "text": "\u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd \u0baa\u0bc0\u0bb8\u0bcd\u0bb2\u0bbf",
             "label": "PERSON"
           },
           {
             "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
             "label": "GPE"
-          },
-          {
-            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
-            "label": "PERSON"
           },
           {
             "text": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
