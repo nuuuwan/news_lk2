@@ -1,11 +1,99 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/India-extended-Line-of-Credit-worth-USD-1-85-bn-to-SL-in-10-years-Jaishankar/342-241611",
+    "time_ut": 1658496001,
+    "original_lang": "en",
+    "original_title": "India extended Line of Credit worth USD 1.85 bn to SL in 10 years: Jaishankar",
+    "file_name": "/tmp/news_lk2/articles/62/62930826.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/us-ambassador-meets-sri-lanka-president-over-military-raid-of-protest-site-97821/",
+    "time_ut": 1658495880,
+    "original_lang": "en",
+    "original_title": "US ambassador meets Sri Lanka president over military raid of protest site",
+    "file_name": "/tmp/news_lk2/articles/23/23692862.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83813/china-extends-support-for-new-sri-lankan-president",
+    "time_ut": 1658495880,
+    "original_lang": "en",
+    "original_title": "China extends support for new Sri Lankan President",
+    "file_name": "/tmp/news_lk2/articles/6a/6a2dee78.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/sirisena-alarmed-by-new-president-s-actions/",
+    "time_ut": 1658495580,
+    "original_lang": "en",
+    "original_title": "Sirisena alarmed by new President\u2019s actions",
+    "file_name": "/tmp/news_lk2/articles/1d/1d001fff.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132062",
+    "time_ut": 1658495397,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 9 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/4b/4b0090e0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Nine-protesters-released-on-bail/342-241610",
+    "time_ut": 1658495330,
+    "original_lang": "en",
+    "original_title": "Nine protesters released on bail",
+    "file_name": "/tmp/news_lk2/articles/bc/bc666c2a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/military-raid-on-sri-lanka-protest-site-mars-cabinet-swearing-in-nine-injured-97820/",
+    "time_ut": 1658495220,
+    "original_lang": "en",
+    "original_title": "Military raid on Sri Lanka protest site mars cabinet swearing in; nine injured",
+    "file_name": "/tmp/news_lk2/articles/2f/2ffad940.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/sri-lanka-activists-arrested-during-president-s-office-raid-granted-bail/",
+    "time_ut": 1658494800,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Activists arrested during President\u2019s Office raid, granted bail",
+    "file_name": "/tmp/news_lk2/articles/e7/e75196a9.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0da7-\u0d85\u0db8\u0dad\u0dbb\u0dc0-\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-4\u0d9a\u0dca/1-616885",
     "time_ut": 1658494445,
     "original_lang": "si",
     "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/bd/bd8ddf9a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/opposition-leader-condemns-galle-face-raid/",
+    "time_ut": 1658494200,
+    "original_lang": "en",
+    "original_title": "Opposition Leader condemns Galle Face Raid",
+    "file_name": "/tmp/news_lk2/articles/12/123d94b7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/cpa-calls-president-to-issue-apology-over-gallefaceraid/",
+    "time_ut": 1658492760,
+    "original_lang": "en",
+    "original_title": "CPA calls President to issue apology over #GalleFaceRaid",
+    "file_name": "/tmp/news_lk2/articles/ed/ed243d6c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/two-deaths-in-fuel-queues-today-22-both-victims-senior-citizens/",
+    "time_ut": 1658492580,
+    "original_lang": "en",
+    "original_title": "Two deaths in fuel queues today (22); Both victims senior citizens",
+    "file_name": "/tmp/news_lk2/articles/f2/f24f2eea.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -262,6 +350,14 @@
     "original_lang": "en",
     "original_title": "Only 4,000 private buses in operation",
     "file_name": "/tmp/news_lk2/articles/eb/eba6c4d5.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0d9a\u0dca/11-395661",
+    "time_ut": 1658485258,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c3/c32ed50b.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
