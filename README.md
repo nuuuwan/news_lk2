@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 04:39:09 (LK time)*
+*As of 2022-07-23 04:49:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (290 Articles)
+## Last 24 Hours (285 Articles)
 
 * **58** virakesari-lk ([படையினர்  கூடாரங்களை அகற்றினர் – அழித்தனர்- பிபிசி](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c04ff9b.json))
 
@@ -14,11 +14,11 @@
 
 * **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
 
-* **28** daily-ft-lk ([Writ petition filed challenging removal from post of OUSL Head of Legal Studies](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689f7ca4.json))
-
 * **27** daily-mirror-lk ([US concerned about actions taken against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2c745ce.json))
 
 * **25** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
+
+* **23** daily-ft-lk ([Colombo Expat Cultural Association: Messiah for the children](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b0270.json))
 
 * **20** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
 
