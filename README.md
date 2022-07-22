@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 01:34:48 (LK time)*
+*As of 2022-07-23 01:51:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** daily-mirror-lk ([How Kumar Gunaratnam alias “Gemunu” Fought  against the Indian Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7528adf2.json))
-
-## Last Hour (4 Articles)
-
-* **3** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
-
-* **1** daily-ft-lk ([MOVEMENT OF NCPI BASED INFLATION](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d34d29af.json))
+* **2** daily-mirror-lk ([What is happening to Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f28ef1.json))
 
 ## Last 3 Hours (23 Articles)
 
@@ -26,33 +20,33 @@
 
 * **1** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-## Last 24 Hours (301 Articles)
+## Last 24 Hours (298 Articles)
 
-* **58** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
+* **59** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
 * **50** lankadeepa-lk ([‘‘පහරදී අරගලය නවත්වන්න බෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd7a9dc.json))
 
 * **34** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
 
-* **31** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
-
 * **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+
+* **29** daily-mirror-lk ([Tense situation at Galle Face protest site as security forces move in](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f600ff37.json))
 
 * **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
 
 * **24** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **22** tamil-mirror-lk ([ரணிலின் ஆட்டம் ஆரம்பம்; கோட்டாகோகம மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df5dff9f.json))
+* **21** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **15** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
 * **5** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-* **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
+* **1** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
 
-## Last Week (1,822 Articles)
+## Last Week (1,823 Articles)
 
-* **357** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
+* **358** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **286** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
@@ -78,11 +72,11 @@
 
 * **15** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,659 Articles)
+## All Time (3,660 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **550** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **551** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **447** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
