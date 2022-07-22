@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b90-\u0ba8\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd-\u0bae\u0b95\u0b9c\u0bb0\u0bcd/95-300940",
+    "time_ut": 1658504621,
+    "original_lang": "ta",
+    "original_title": "\u0b90.\u0ba8\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0bae\u0b95\u0b9c\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/36/36fcd1a8.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/chinas-jinping-offers-help-to-sri-lankas-wickremesinghe-government-97822/",
+    "time_ut": 1658504520,
+    "original_lang": "en",
+    "original_title": "China\u2019s Jinping offers help to Sri Lanka\u2019s Wickremesinghe government",
+    "file_name": "/tmp/news_lk2/articles/86/8622e7ed.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dc0-\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca-\u0db0\u0dbb\u0dca\u0db8\u0dcf\u0dba\u0dad\u0db1\u0dba\u0da7-\u0dba\u0dba\u0dd2/101-616890",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0da0\u0dd3\u0db1-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc3\u0dd4\u0db6-\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca/1-616891",
+    "time_ut": 1658504463,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0da0\u0dd3\u0db1 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/53/53d7d9c0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132068",
+    "time_ut": 1658504087,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0baa\u0bcb\u0baa\u0bcd\u0baa\u0b95\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f 9 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8 - \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/71/71e61861.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/unhrc-core-group-on-sl-express-dismay-over-gallefaceraid/",
+    "time_ut": 1658503980,
+    "original_lang": "en",
+    "original_title": "UNHRC core group on SL express dismay over #GalleFaceRaid",
+    "file_name": "/tmp/news_lk2/articles/c7/c7623423.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca-\u0db0\u0dbb\u0dca\u0db8\u0dcf\u0dba\u0dad\u0db1\u0dba\u0da7-\u0dba\u0dba\u0dd2/1-616890",
     "time_ut": 1658503598,
     "original_lang": "si",
     "original_title": "\u0db1\u0dc0 \u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca \u0db0\u0dbb\u0dca\u0db8\u0dcf\u0dba\u0dad\u0db1\u0dba\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a6/a6c8fcd2.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6972099.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -225,11 +265,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd1\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3-\u0dc3\u0dd2\u0dba\u0dba\u0d9a\u0dca-\u0daf\u0dc0\u0dbd\u0dca\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0db1\u0dd1/101-616886",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dd1\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3-\u0dc3\u0dd2\u0dba\u0dba\u0d9a\u0dca-\u0daf\u0dc0\u0dbd\u0dca\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0db1\u0dd1/1-616886",
     "time_ut": 1658494888,
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd1\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0d9a\u0dca \u0daf\u0dc0\u0dbd\u0dca\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 \u0d85\u0dc3\u0dd6\u0dc0\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/8e/8ecb93d3.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c8493245.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -393,11 +433,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0da7-\u0dbd\u0d9a\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u2018\u2018/101-616882",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0da7-\u0dbd\u0d9a\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u2018\u2018/1-616882",
     "time_ut": 1658490526,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/73/73063fd7.json"
+    "file_name": "/tmp/news_lk2/articles/74/74a3c8fd.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
