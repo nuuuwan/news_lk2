@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 03:30:34 (LK time)*
+*As of 2022-07-23 03:43:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (7 Articles)
-
-* **4** daily-ft-lk ([Union Assurance-NSBM MoU enhances higher education in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b60372c.json))
+## Last 3 Hours (3 Articles)
 
 * **3** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
-## Last 24 Hours (298 Articles)
+## Last 24 Hours (297 Articles)
 
 * **61** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
 * **50** lankadeepa-lk ([‘‘පහරදී අරගලය නවත්වන්න බෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd7a9dc.json))
 
-* **34** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
+* **33** news-first-lk ([Gazette to maintain public order published](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b843f5.json))
 
 * **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
