@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 03:18:37 (LK time)*
+*As of 2022-07-23 03:30:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (7 Articles)
 
-* **12** daily-ft-lk ([Explained: Ranil and the Rajapaksas](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d25c0631.json))
+* **4** daily-ft-lk ([Union Assurance-NSBM MoU enhances higher education in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b60372c.json))
 
 * **3** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
