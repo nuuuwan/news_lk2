@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 04:15:18 (LK time)*
+*As of 2022-07-23 04:24:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (1 Articles)
+## Last 24 Hours (295 Articles)
 
-* **1** daily-mirror-lk ([How Kumar Gunaratnam alias “Gemunu” Fought  against the Indian Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7528adf2.json))
-
-## Last 24 Hours (297 Articles)
-
-* **61** virakesari-lk ([காலிமுகத்திடல் ஆர்ப்பாட்டக்காரர்கள் மீது ஈவிரக்கமற்ற தாக்குதல் - சட்டத்தரணி சாலிய பீரிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22f30fcb.json))
+* **59** virakesari-lk ([பிபிசியின் ஊடகவியலாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7a2b2e7.json))
 
 * **50** lankadeepa-lk ([‘‘පහරදී අරගලය නවත්වන්න බෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd7a9dc.json))
 
