@@ -1,28 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 20:04:03 (LK time)*
+*As of 2022-07-22 20:14:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** daily-mirror-lk ([Presidential Secretariat after ejecting protesters...](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aeb1f78.json))
+* **1** virakesari-lk ([போராட்டக் குழுவினர், ஊடகவியலாளர்கள் மீதுமான தாக்குதலை வன்மையாகக் கண்டிக்கின்றோம் - சட்டத்தரணி சுகாஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e63f756.json))
+
+## Last Hour (4 Articles)
 
 * **2** lankadeepa-lk ([හෙටත් දුම්රිය ටිකට් පැරණි මිලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9be0cc46.json))
 
-## Last 3 Hours (38 Articles)
+* **1** virakesari-lk ([போராட்டக் குழுவினர், ஊடகவியலாளர்கள் மீதுமான தாக்குதலை வன்மையாகக் கண்டிக்கின்றோம் - சட்டத்தரணி சுகாஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e63f756.json))
 
-* **8** news-first-lk ([“Refrain from unjustifiable use of Emergency Law” – HRCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fcefb43.json))
+* **1** daily-mirror-lk ([Cannot stop struggle through suppression: NPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f25e220.json))
 
-* **7** daily-mirror-lk ([Karu Jayasuriya condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a229f042.json))
+## Last 3 Hours (39 Articles)
+
+* **9** news-first-lk ([“Refrain from unjustifiable use of Emergency Law” – HRCSL](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fcefb43.json))
 
 * **7** lankadeepa-lk ([අරගලයට පහරදීම ව්‍යවස්ථාව අභියෝගයට ලක්කිරීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18bb9410.json))
 
+* **6** daily-mirror-lk ([New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2f6cd5.json))
+
+* **5** virakesari-lk ([ரணிலிற்கு சீன ஜனாதிபதி ஆதரவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48b35a73.json))
+
 * **5** ada-derana-lk ([Public awareness program on the use of NFP launched](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e70f2ae.json))
 
-* **5** virakesari-lk ([மேல் கொத்மலை நீர்த்தேக்கத்திலிருந்து மாணவியின் சடலம் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9de90b4d.json))
-
-* **2** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
+* **3** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
 
 * **2** economy-next-com ([Military raid on Sri Lanka protest site mars cabinet swearing in; nine injured](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ffad940.json))
 
@@ -30,15 +36,15 @@
 
 ## Last 24 Hours (271 Articles)
 
-* **50** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
+* **51** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
 
-* **48** lankadeepa-lk ([ඉන්ධන හිඟය නිසා කැලෑ පාළුවන්ගෙන් මල්ල කරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96fc1a48.json))
+* **47** lankadeepa-lk ([දුම්රිය ගාස්තු ඉහළ දාන්න ස්ථානාධිපතිවරු කල් ඉල්ලති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec3abc6.json))
 
-* **32** ada-lk ([නව රජයේ අමාත්‍ය මණ්ඩලය හෙට දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6a13744.json))
+* **32** ada-lk ([ජනපති ආරක්ෂක අංශ ප්‍රධානීන් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/241f8f31.json))
 
-* **28** daily-mirror-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9145d734.json))
+* **27** daily-mirror-lk ([Spike in COVID cases; current Pfizer batch to expire soon](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af1fb9b.json))
 
-* **24** news-first-lk ([Inflation hits 58.9% in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38210d8f.json))
+* **25** news-first-lk ([Inflation hits 58.9% in June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38210d8f.json))
 
 * **24** tamil-mirror-lk ([பழங்குடியினத்திலிருந்து இந்தியாவின் முதலாவது ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a64af581.json))
 
@@ -54,9 +60,9 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,820 Articles)
+## Last Week (1,823 Articles)
 
-* **353** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
+* **354** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
 * **286** lankadeepa-lk ([ඩීසල් මෙට්‍රික්ටොන් 40,000ක් අද රාත්‍රී කොළඹට ළගාවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a67313.json))
 
@@ -64,11 +70,11 @@
 
 * **195** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-* **190** ada-lk ([සජිත් ජනපති සටනට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a0cb330.json))
+* **191** ada-lk ([සජිත් ජනපති සටනට එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a0cb330.json))
 
 * **153** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
 
-* **142** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
+* **143** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
 
 * **86** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
@@ -82,21 +88,21 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka teetered unsteadily on the edge of anarchy but  sanity prevailed and the country stepped back from the edge.](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c51f6eab.json))
 
-## All Time (3,588 Articles)
+## All Time (3,591 Articles)
 
 * **550** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **537** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **538** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **441** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
-* **388** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **389** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **352** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **270** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
-* **255** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
+* **256** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
 * **213** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
