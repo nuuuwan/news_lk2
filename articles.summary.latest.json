@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132007",
+    "time_ut": 1658465980,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/f2/f2e3b279.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db0\u0dd6\u0dbb\u0dba\u0dda-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616846",
+    "time_ut": 1658465691,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db0\u0dd6\u0dbb\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/63/63a4039a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83806/dinesh-gunawardena-sworn-in-as-new-prime-minister",
+    "time_ut": 1658465460,
+    "original_lang": "en",
+    "original_title": "Dinesh Gunawardena sworn in as new Prime Minister",
+    "file_name": "/tmp/news_lk2/articles/2e/2efdd3ec.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/National-inflation-flirts-with-60-in-June/273-241577",
+    "time_ut": 1658465388,
+    "original_lang": "en",
+    "original_title": "National inflation flirts with 60% in June",
+    "file_name": "/tmp/news_lk2/articles/87/878797ba.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95-\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd-\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd/175-300911",
+    "time_ut": 1658465359,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d2/d2d9e0f1.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0bb1\u0bb2\u0bcd-\u0bae\u0ba9\u0bbf\u0ba4-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-300910",
+    "time_ut": 1658465244,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0bb1\u0bb2\u0bcd; \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/bb/bb1118b3.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132003",
     "time_ut": 1658464444,
     "original_lang": "ta",
@@ -33,6 +81,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Kelani-Valley-trains-delayed-due-to-sheer-negligence-of-Train-guard-driver/342-241568",
+    "time_ut": 1658463554,
+    "original_lang": "en",
+    "original_title": "Kelani Valley trains delayed due to sheer negligence of Train guard, driver",
+    "file_name": "/tmp/news_lk2/articles/3b/3bdd2664.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Kelani-Valley-trains-delayed-due-to-sheer-negligence-of-driver/108-241568",
     "time_ut": 1658463554,
     "original_lang": "en",
@@ -57,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2---\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca/1-616845",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2---\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca/101-616845",
     "time_ut": 1658463080,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 - \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0db1\u0dca\u0db1 \u0dc3\u0dd4\u0daf\u0dcf\u0db1\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/aa/aa0ba607.json"
+    "file_name": "/tmp/news_lk2/articles/20/20d25ef5.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -72,12 +128,20 @@
     "file_name": "/tmp/news_lk2/articles/52/52e0a10b.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda-\u0d85\u0daf-\u0d94\u0dc0\u0dd4\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0dc0\u0dd2\u0da7\u0dba\u0dd2/11-395644",
+    "time_ut": 1658462485,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda \u0d85\u0daf \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc0\u0dd2\u0da7\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7c/7cd0b48c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Police-says-protesters-removed-from-Presidential-Secretariat-Nine-arrested/155-241555",
+    "url": "https://www.dailymirror.lk/latest_news/Police-says-protesters-removed-from-Presidential-Secretariat-Nine-arrested/342-241555",
     "time_ut": 1658462119,
     "original_lang": "en",
     "original_title": "Police says protesters removed from Presidential Secretariat: Nine arrested",
-    "file_name": "/tmp/news_lk2/articles/ae/ae793bb9.json"
+    "file_name": "/tmp/news_lk2/articles/b6/b636a029.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -105,19 +169,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0dc3\u0dc4-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0da7-\u0db8\u0dc4-\u0dc0\u0dd0\u0dc3\u0dd2/1-616843",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0dc3\u0dc4-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0da7-\u0db8\u0dc4-\u0dc0\u0dd0\u0dc3\u0dd2/101-616843",
     "time_ut": 1658460467,
     "original_lang": "si",
     "original_title": "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0da7 \u0db8\u0dc4 \u0dc0\u0dd0\u0dc3\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c3/c3aec793.json"
+    "file_name": "/tmp/news_lk2/articles/fb/fb75bd94.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Dinesh-to-be-sworn-in-today/108-241549",
+    "url": "https://www.dailymirror.lk/latest_news/Dinesh-to-be-sworn-in-today/342-241549",
     "time_ut": 1658460445,
     "original_lang": "en",
     "original_title": "Dinesh to be sworn in today",
-    "file_name": "/tmp/news_lk2/articles/51/512c6510.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9fd65fdc.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -161,11 +225,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/BASL-strongly-condemns-attack-on-Galle-Face-protesters/108-241548",
+    "url": "https://www.dailymirror.lk/latest_news/BASL-strongly-condemns-attack-on-Galle-Face-protesters/342-241548",
     "time_ut": 1658459419,
     "original_lang": "en",
     "original_title": "BASL strongly condemns attack on Galle Face protesters",
-    "file_name": "/tmp/news_lk2/articles/81/816b97f5.json"
+    "file_name": "/tmp/news_lk2/articles/8a/8a001e01.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -857,11 +921,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf/101-616835",
+    "url": "https://www.lankadeepa.lk/world_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf/14-616835",
     "time_ut": 1658419480,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/e2/e21bf26b.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f8cdf8e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "Speaker submits written complaint against threats on MPs",
     "file_name": "/tmp/news_lk2/articles/b3/b30f2e67.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131732",
-    "time_ut": 1658155228,
-    "original_lang": "ta",
-    "original_title": "\u0b89\u0bb2\u0b95\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b93\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b9a\u0bae\u0bbf\u0b95\u0bcd\u0b9e\u0bc8\u0baf\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/1e/1e1cf752.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0dc4\u0db8\u0dd4-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca/11-395518",
-    "time_ut": 1658155042,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd3\u0dbb\u0dab\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc4\u0db8\u0dd4 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/be/be916589.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/silver-linings-amongst-the-gloom/",
-    "time_ut": 1658154592,
-    "original_lang": "en",
-    "original_title": "Silver Linings Amongst The Gloom",
-    "file_name": "/tmp/news_lk2/articles/2a/2aee6fe6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83727/procedure-of-electing-a-president-by-parliament-explained",
-    "time_ut": 1658154300,
-    "original_lang": "en",
-    "original_title": "Procedure of electing a President by parliament explained",
-    "file_name": "/tmp/news_lk2/articles/c5/c54ab16f.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/9th-july-revolution-ousted-rajapaksa-dynasty-so-let-it-imprimatur/",
-    "time_ut": 1658153157,
-    "original_lang": "en",
-    "original_title": "9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur",
-    "file_name": "/tmp/news_lk2/articles/99/998c03d7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300676",
-    "time_ut": 1658152958,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/32/3292a4bf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Inviting-proposals-for-electricity-tariff-revision-ends-tonight-PUCSL-chairman/108-241311",
-    "time_ut": 1658152853,
-    "original_lang": "en",
-    "original_title": "Inviting proposals for electricity tariff revision ends tonight: PUCSL chairman",
-    "file_name": "/tmp/news_lk2/articles/69/69fa3c20.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78620",
-    "time_ut": 1658152680,
-    "original_lang": "en",
-    "original_title": "Tenacious \u201cAragalaya\u201d (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumaraya",
-    "file_name": "/tmp/news_lk2/articles/03/038b709a.json"
   }
 ]
