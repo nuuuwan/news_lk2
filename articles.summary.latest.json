@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-made-dumb-bets-on-China-CIA-chief/14-737789",
+    "time_ut": 1658450826,
+    "original_lang": "en",
+    "original_title": "Sri Lanka made \u2018dumb bets\u2019 on China: CIA chief",
+    "file_name": "/tmp/news_lk2/articles/79/79c9e438.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/President-Ranil-needs-to-resurrect-economy-fast/4-737788",
+    "time_ut": 1658450737,
+    "original_lang": "en",
+    "original_title": "President Ranil needs to resurrect economy fast",
+    "file_name": "/tmp/news_lk2/articles/28/28900331.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131992",
+    "time_ut": 1658450725,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bc7?",
+    "file_name": "/tmp/news_lk2/articles/b3/b35ad4c4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-national-inflation-gallops-to-58-9-pct-to-june-2022-97766/",
+    "time_ut": 1658450460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka national inflation gallops to 58.9-pct to June 2022",
+    "file_name": "/tmp/news_lk2/articles/79/79729c59.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/131991",
     "time_ut": 1658449738,
@@ -222,6 +254,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bb0\u0ba3 \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf 11 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/28/28bc04eb.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-300895",
+    "time_ut": 1658428159,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d8/d855cc95.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -2382,6 +2422,14 @@
     "original_lang": "en",
     "original_title": "Dear Mr. President  and Mr. Prime Minister: A memo",
     "file_name": "/tmp/news_lk2/articles/0b/0b2acd5d.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78673",
+    "time_ut": 1658346060,
+    "original_lang": "en",
+    "original_title": "Army and Police  Crack Down  Aggressively on Galle Face Protest with Brute Force  in the night at 2 am;Tents dismantled, protesters assaulted, at least 8 persons  arrested,agitation site sealed off,lawyers,media denied entry",
+    "file_name": "/tmp/news_lk2/articles/e0/e074e53a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0dc0\u0dd3\u0db8 \u0db8\u0dd2\u0dbd\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7 \u0db8\u0dd2\u0dbd \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/7d/7d53ba96.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc7\u0bb5\u0bb2\u0bcd-\u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd/175-300651",
-    "time_ut": 1658141748,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/84/84fc7a73.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc7\u0bb5\u0bb2\u0bcd-\u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd/175-300651",
-    "time_ut": 1658141748,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc7\u0bb5\u0bb2\u0bcd \u0b95\u0bc2\u0bb5\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/42/42e5a44d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dd0\u0dc0-\u0d85\u0daf-\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/11-395513",
-    "time_ut": 1658141356,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dd0\u0dc0 \u0d85\u0daf \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
-    "file_name": "/tmp/news_lk2/articles/d8/d82bd9be.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131709",
-    "time_ut": 1658141260,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb8\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 30 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd ; \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bb8\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/f9/f9d081f7.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83723/i-cant-lie-and-promise-immediate-relief-to-the-people-sajith",
-    "time_ut": 1658141100,
-    "original_lang": "en",
-    "original_title": "I can\u2019t lie and promise immediate relief to the people \u2013 Sajith",
-    "file_name": "/tmp/news_lk2/articles/c8/c83e9bd5.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83723/i-cant-lie-and-promise-relief-to-the-people-at-once-sajith",
-    "time_ut": 1658141100,
-    "original_lang": "en",
-    "original_title": "I can\u2019t lie and promise relief to the people at once \u2013 Sajith",
-    "file_name": "/tmp/news_lk2/articles/57/57404bda.json"
   }
 ]
