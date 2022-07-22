@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/plus/How-Kumar-Gunaratnam-alias-Gemunu-Fought-against-the-Indian-Army/352-241652",
+    "time_ut": 1658519331,
+    "original_lang": "en",
+    "original_title": "How Kumar Gunaratnam alias \u201cGemunu\u201d Fought\u00a0 against the Indian Army",
+    "file_name": "/tmp/news_lk2/articles/75/7528adf2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/What-is-happening-to-Sri-Lanka/172-241651",
     "time_ut": 1658517914,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ghana battles highly infectious Marburg virus as outbreak is declared",
     "file_name": "/tmp/news_lk2/articles/21/21604c0d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd2\u0dc0\u0dca-\u0d86\u0dbb\u0dca--\u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0da7-\u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba-\u0dc4\u0dbb\u0dc3\u0dca-\u0dc0\u0dd9\u0dba\u0dd2--/1-616692",
-    "time_ut": 1658228075,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd2\u0dc0\u0dca.\u0d86\u0dbb\u0dca. \u0dc3\u0d82\u0d9a\u0dda\u0dad\u0dba\u0da7 \u0dbb\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0dc4\u0dbb\u0dc3\u0dca \u0dc0\u0dd9\u0dba\u0dd2 ?",
-    "file_name": "/tmp/news_lk2/articles/9b/9b939224.json"
   }
 ]

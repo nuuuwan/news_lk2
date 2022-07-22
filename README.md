@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 01:23:45 (LK time)*
+*As of 2022-07-23 01:34:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-mirror-lk ([What is happening to Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f28ef1.json))
+* **1** daily-mirror-lk ([How Kumar Gunaratnam alias “Gemunu” Fought  against the Indian Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7528adf2.json))
 
-## Last Hour (13 Articles)
+## Last Hour (4 Articles)
 
-* **11** daily-ft-lk ([Why a feudal culture and absence of meritocracy bankrupted a nation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c24224be.json))
+* **3** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
-* **2** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
+* **1** daily-ft-lk ([MOVEMENT OF NCPI BASED INFLATION](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d34d29af.json))
 
-## Last 3 Hours (26 Articles)
+## Last 3 Hours (23 Articles)
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
-* **5** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
+* **6** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
 
 * **1** ada-derana-lk ([US envoy calls on President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c741a024.json))
 
@@ -26,15 +26,7 @@
 
 * **1** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-* **1** news-first-lk ([Wajira to fill Ranil’s vacancy](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/279fc96c.json))
-
-* **1** virakesari-lk ([நாட்டில் கொரோனா  தொற்றால் மேலும் ஒருவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33447af1.json))
-
-* **1** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd9ac72c.json))
-
-* **1** economy-next-com ([Sri Lanka t-bond yields further down ; rupee guidance peg up](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8a61049.json))
-
-## Last 24 Hours (300 Articles)
+## Last 24 Hours (301 Articles)
 
 * **58** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
@@ -42,9 +34,9 @@
 
 * **34** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
 
-* **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+* **31** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
 
-* **30** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
+* **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 * **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
 
@@ -64,9 +56,9 @@
 
 * **286** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **205** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+* **206** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
-* **195** tamil-mirror-lk ([இலங்கை சட்டத்தரணிகள் சங்கம் வெளியிட்டுள்ள அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/220468dd.json))
+* **194** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
 * **191** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
@@ -86,13 +78,13 @@
 
 * **15** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,658 Articles)
+## All Time (3,659 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **550** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **446** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
+* **447** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
 * **391** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
