@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-asks-Harin-to-resign-from-Parliament/108-241638",
+    "time_ut": 1658511590,
+    "original_lang": "en",
+    "original_title": "SJB asks Harin to resign from Parliament",
+    "file_name": "/tmp/news_lk2/articles/f6/f64bdf55.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Chinese-President-offers-Sri-Lankas-new-president-support-amid-crisis/108-241637",
     "time_ut": 1658511174,
     "original_lang": "en",
@@ -94,6 +102,14 @@
     "original_lang": "en",
     "original_title": "Three-hour power cuts imposed tomorrow",
     "file_name": "/tmp/news_lk2/articles/ce/ce90e64a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83815/three-hour-power-cuts-expected-tomorrow",
+    "time_ut": 1658506740,
+    "original_lang": "en",
+    "original_title": "Three-hour power cuts expected tomorrow",
+    "file_name": "/tmp/news_lk2/articles/e8/e880dbdd.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -344,6 +360,14 @@
     "file_name": "/tmp/news_lk2/articles/6a/6a2dee78.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83813/china-offers-support-for-new-sri-lankan-president",
+    "time_ut": 1658495880,
+    "original_lang": "en",
+    "original_title": "China offers support for new Sri Lankan President",
+    "file_name": "/tmp/news_lk2/articles/c1/c15efd7a.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d85\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d85\u0db1\u0dd4\u0dbb-\u0daf\u0dd2\u0dc3\u0dcf\u0db1\u0dcf\u0dba\u0d9a/11-395662",
     "time_ut": 1658495604,
@@ -462,6 +486,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/25/250f3a2c.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83812/two-more-deaths-reported-in-fuel-queues",
+    "time_ut": 1658492100,
+    "original_lang": "en",
+    "original_title": "Two more deaths reported in fuel queues",
+    "file_name": "/tmp/news_lk2/articles/7d/7d8b6745.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Parliament\u2019s Role In Electing The President",
     "file_name": "/tmp/news_lk2/articles/c5/c509bd6c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/19/sri-lanka-crisis-india-calls-all-party-meet-on-tuesday-19/",
-    "time_ut": 1658221800,
-    "original_lang": "en",
-    "original_title": "Sri Lanka crisis: India calls all-party meet on Tuesday (19)",
-    "file_name": "/tmp/news_lk2/articles/2b/2b0d364c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019-\u0d89\u0dc0\u0dbb\u0dba\u0dd2-\u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018-\u0dc0\u0dd0\u0da9/1-616683",
-    "time_ut": 1658221702,
-    "original_lang": "si",
-    "original_title": "\u2018\u0da7\u0ddd\u0d9a\u0db1\u0dca\u2019 \u0d89\u0dc0\u0dbb\u0dba\u0dd2 \u2018\u0d87\u0db4\u0dca\u0d91\u0d9a\u2018 \u0dc0\u0dd0\u0da9",
-    "file_name": "/tmp/news_lk2/articles/43/438069c3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd-\u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dd9\u0db1\u0dca-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db4\u0dd0\u0db1\u0dca\u0db1\u0dd4-03\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395544",
-    "time_ut": 1658221689,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0da9\u0dd2\u0db4\u0ddd\u0dc0\u0dd9\u0db1\u0dca \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db4\u0dd0\u0db1\u0dca\u0db1\u0dd4 03\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/97/97dbd33c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/if-dullas-wins-sajith-will-be-pm-in-all-party-govt-sri-lanka-opposition-mp-97644/",
-    "time_ut": 1658221260,
-    "original_lang": "en",
-    "original_title": "If Dullas wins, Sajith will be PM in all-party govt: Sri Lanka opposition MP",
-    "file_name": "/tmp/news_lk2/articles/de/de8a192f.json"
   }
 ]
