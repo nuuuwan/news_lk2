@@ -1,20 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 04:24:55 (LK time)*
+*As of 2022-07-23 04:39:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (295 Articles)
+## Last 24 Hours (290 Articles)
 
-* **59** virakesari-lk ([பிபிசியின் ஊடகவியலாளர் மீது தாக்குதல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7a2b2e7.json))
+* **58** virakesari-lk ([படையினர்  கூடாரங்களை அகற்றினர் – அழித்தனர்- பிபிசி](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c04ff9b.json))
 
 * **50** lankadeepa-lk ([‘‘පහරදී අරගලය නවත්වන්න බෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd7a9dc.json))
 
-* **33** news-first-lk ([Gazette to maintain public order published](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70b843f5.json))
-
-* **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+* **32** news-first-lk ([Sri Lanka: Police arrest nine people as forces raid anti-government protest camp](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b226dc25.json))
 
 * **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
+
+* **28** daily-ft-lk ([Writ petition filed challenging removal from post of OUSL Head of Legal Studies](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/689f7ca4.json))
 
 * **27** daily-mirror-lk ([US concerned about actions taken against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2c745ce.json))
 
@@ -28,7 +28,7 @@
 
 * **1** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
 
-## Last Week (1,822 Articles)
+## Last Week (1,823 Articles)
 
 * **361** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -54,9 +54,9 @@
 
 * **20** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
 
-* **16** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
+* **17** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,665 Articles)
+## All Time (3,666 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,7 +76,7 @@
 
 * **175** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **149** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
+* **150** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
 * **135** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
