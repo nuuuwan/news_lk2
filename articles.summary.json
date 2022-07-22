@@ -1,5 +1,85 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0-\u0dc3\u0dc4-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0da7-\u0db8\u0dc4-\u0dc0\u0dd0\u0dc3\u0dd2/1-616843",
+    "time_ut": 1658460467,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0dc3\u0dc4 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0da7 \u0db8\u0dc4 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/c3/c3aec793.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Dinesh-to-be-sworn-in-today/108-241549",
+    "time_ut": 1658460445,
+    "original_lang": "en",
+    "original_title": "Dinesh to be sworn in today",
+    "file_name": "/tmp/news_lk2/articles/51/512c6510.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83804/use-of-armed-forces-to-supress-civilian-protests-despicable-basl",
+    "time_ut": 1658460180,
+    "original_lang": "en",
+    "original_title": "Use of armed forces to supress civilian protests despicable - BASL",
+    "file_name": "/tmp/news_lk2/articles/b8/b8baf85b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-300906",
+    "time_ut": 1658459524,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bbf\u0ba9\u0bae\u0bcd: \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cd/cd4a7ec2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/BASL-strongly-condemns-attack-on-Galle-Face-protesters/155-241548",
+    "time_ut": 1658459419,
+    "original_lang": "en",
+    "original_title": "BASL strongly condemns attack on Galle Face protesters",
+    "file_name": "/tmp/news_lk2/articles/fd/fd41e44b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/sri-lanka-police-arrest-nine-people-as-forces-raid-anti-government-protest-camp/",
+    "time_ut": 1658459220,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Police arrest nine people as forces raid anti-government protest camp",
+    "file_name": "/tmp/news_lk2/articles/b2/b226dc25.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83803/police-gathering-evidence-of-crimes-committed-at-presidential-secretariat",
+    "time_ut": 1658458980,
+    "original_lang": "en",
+    "original_title": "Police gathering evidence of crimes committed at Presidential Secretariat",
+    "file_name": "/tmp/news_lk2/articles/f1/f117e2b1.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131996",
+    "time_ut": 1658458338,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 : \u0b95\u0ba9\u0b9f\u0bbe, \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ab/ab74c28a.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bar-association-opposition-slam-assault-on-protestors-uk-us-concerned-97783/",
+    "time_ut": 1658458320,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Bar Association, opposition slam assault on protestors, UK, US concerned",
+    "file_name": "/tmp/news_lk2/articles/a3/a328e2d8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0db8\u0ddd\u0daf\u0dbb-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-\u0d91\u0dad\u0dd9\u0dbb-\u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca/1-616842",
+    "time_ut": 1658458314,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0ddd\u0daf\u0dbb \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 \u0d91\u0dad\u0dd9\u0dbb \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/5b/5b730e77.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0b95\u0bcb\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-300905",
     "time_ut": 1658457957,
@@ -33,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0db4\u0dc4\u0dbb\u0daf\u0dd3-\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1-\u0db6\u0dd1\u2018\u2018/101-616840",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0db4\u0dc4\u0dbb\u0daf\u0dd3-\u0d85\u0dbb\u0d9c\u0dbd\u0dba-\u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1-\u0db6\u0dd1\u2018\u2018/1-616840",
     "time_ut": 1658457633,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0db4\u0dc4\u0dbb\u0daf\u0dd3 \u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0db1\u0dc0\u0dad\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0db6\u0dd1\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/ad/ad95e971.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2bd7a9dc.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -62,6 +142,14 @@
     "original_lang": "en",
     "original_title": "Special gazette issued calling in  tri-forces to maintain public order",
     "file_name": "/tmp/news_lk2/articles/c8/c8631e26.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddc\u0db8\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0db1\u0dd3\u0dad\u0dd2\u0da5-\u0dc3\u0d82\u0d9c\u0db8\u0dba-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0dba\u0dd2/11-395641",
+    "time_ut": 1658457024,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddc\u0db8\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0db1\u0dd3\u0dad\u0dd2\u0da5 \u0dc3\u0d82\u0d9c\u0db8\u0dba \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d5/d5d4367e.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -126,6 +214,14 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0d82\u0dc1\u00a0\u0db8\u0dc4 \u0dbb\u0dd1 \u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0ddd\u0db8\u0da7 \u0d9a\u0da9\u0dcf\u0dc0\u0daf\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/35/35b7a654.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-peaceful-protest-site-raided-as-military-called-under-emergency-law-97769/",
+    "time_ut": 1658453340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka peaceful protest site raided as military called under emergency law",
+    "file_name": "/tmp/news_lk2/articles/52/5226f41c.json"
   },
   {
     "newspaper_id": "economy-next-com",
