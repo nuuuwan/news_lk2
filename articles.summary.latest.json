@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-protestors-removed-military-called-under-emergency-law-97769/",
+    "time_ut": 1658453340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka protestors removed, military called under emergency law",
+    "file_name": "/tmp/news_lk2/articles/0a/0aa410dc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/131993",
+    "time_ut": 1658453118,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bcb \u0b95\u0bae \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd : 8 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 - \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/96/969817f2.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Sri-Lanka-made-dumb-bets-on-China-CIA-chief/14-737789",
     "time_ut": 1658450826,
@@ -248,6 +264,30 @@
     "file_name": "/tmp/news_lk2/articles/df/df5dff9f.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/sri-lanka-is-a-neoliberal-failed-state/",
+    "time_ut": 1658434676,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Is A Neoliberal Failed State",
+    "file_name": "/tmp/news_lk2/articles/c2/c2aa306b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3-\u0b92\u0bb0\u0bc1-\u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd/175-300898",
+    "time_ut": 1658431090,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3 \u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6c/6c4e8310.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300897",
+    "time_ut": 1658429976,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8d/8df585ed.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb0\u0ba3-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf-11-\u0baa\u0bc7\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd/175-300896",
     "time_ut": 1658428847,
@@ -278,6 +318,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a4/a4937b80.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0dda\u0daf\u0dd3-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dda\u0dc0\u0dd2/11-395636",
+    "time_ut": 1658425201,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0dda\u0daf\u0dd3 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dda\u0dc0\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8e/8eccdc45.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Acting President\u2019s special statement",
     "file_name": "/tmp/news_lk2/articles/91/91f256a1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83724/sri-lanka-to-seek-uk-assistance-to-probe-easter-sunday-attacks",
-    "time_ut": 1658142180,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to seek UK assistance to probe Easter Sunday attacks",
-    "file_name": "/tmp/news_lk2/articles/fe/fee72322.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131697",
-    "time_ut": 1658142115,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0baf\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0bb1\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bcb\u0bae\u0bcd - \u0ba4\u0bc1.\u0bb0\u0bb5\u0bbf\u0b95\u0bb0\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/1a/1a594d5a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4-\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1\u0dba\u0dd2/101-616628",
-    "time_ut": 1658142111,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dba\u0db1\u0dca\u0db1\u0dda \u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d6/d69c1f0a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-acting-president-wants-to-review-easter-bombings-probe-may-enlist-uk-help-97573/",
-    "time_ut": 1658142060,
-    "original_lang": "en",
-    "original_title": "Sri Lanka acting president wants to review Easter bombings probe, may enlist UK help",
-    "file_name": "/tmp/news_lk2/articles/db/db601a11.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/18/revoke-emergency-bar-association-tells-acting-president/",
-    "time_ut": 1658142000,
-    "original_lang": "en",
-    "original_title": "Revoke Emergency, Bar Association tells Acting President",
-    "file_name": "/tmp/news_lk2/articles/21/218a295f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d82\u0dc0\u0dd3\u0db8-\u0db8\u0dd2\u0dbd\u0da7-\u0d9c\u0db1\u0dca\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7-\u0db8\u0dd2\u0dbd-\u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca-\u0d9c\u0dda\u0db1\u0dca\u0db1/1-616627",
-    "time_ut": 1658141930,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0dc0\u0dd3\u0db8 \u0db8\u0dd2\u0dbd\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc0\u0dbd\u0da7 \u0db8\u0dd2\u0dbd \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0d9c\u0dda\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/7d/7d53ba96.json"
   }
 ]
