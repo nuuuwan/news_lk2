@@ -1,24 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 00:56:28 (LK time)*
+*As of 2022-07-23 01:03:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **7** daily-ft-lk ([Newly appointed Prime Minister Dinesh Gunawardena went to the Dharmayatana in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1a805d4.json))
+* **1** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
-## Last Hour (14 Articles)
+* **1** daily-ft-lk ([MOVEMENT OF NCPI BASED INFLATION](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d34d29af.json))
+
+## Last Hour (15 Articles)
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
+
+* **1** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
 ## Last 3 Hours (29 Articles)
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
-* **4** virakesari-lk ([பத்துளு ஓயா பகுதியில் மூடப்பட்டிருந்த விடுதியிலிருந்து கேரள கஞ்சா மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3e6fc2c.json))
+* **4** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
 
-* **3** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
+* **3** virakesari-lk ([போராட்டகார்கள் மீதான தாக்குதல் மனிதாபிமானமற்ற செயல் ; கரு ஜயசூரிய](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66c22aee.json))
 
 * **2** ada-derana-lk ([Vajira Abeywardena appointed to UNP’s vacant MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c204522.json))
 
@@ -32,7 +36,7 @@
 
 * **1** economy-next-com ([Sri Lanka t-bond yields further down ; rupee guidance peg up](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8a61049.json))
 
-## Last 24 Hours (297 Articles)
+## Last 24 Hours (298 Articles)
 
 * **57** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
@@ -42,9 +46,9 @@
 
 * **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-* **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
+* **29** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
 
-* **28** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
+* **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
 
 * **24** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
@@ -56,13 +60,13 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,820 Articles)
+## Last Week (1,821 Articles)
 
 * **356** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **286** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **203** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+* **204** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
 * **196** tamil-mirror-lk ([’மக்களின் கருத்துக்களுக்கு மதிப்பளிக்க வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3b6ef86.json))
 
@@ -84,13 +88,13 @@
 
 * **15** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,655 Articles)
+## All Time (3,656 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **549** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
-* **444** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
+* **445** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
 * **391** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
