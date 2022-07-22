@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83812/two-men-die-while-waiting-in-fuel-queues",
+    "time_ut": 1658492100,
+    "original_lang": "en",
+    "original_title": "Two men die while waiting in fuel queues",
+    "file_name": "/tmp/news_lk2/articles/14/143e6b3f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/the-governments-real-face-was-revealed-mp-sarath-fonseka/",
+    "time_ut": 1658492040,
+    "original_lang": "en",
+    "original_title": "The Government\u2019s real face was revealed: MP Sarath Fonseka",
+    "file_name": "/tmp/news_lk2/articles/a4/a44c6797.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-COVID-Omicron-variant-deadlier-than-Delta-wear-facemasks-Medical-Specialists-warn/108-241609",
+    "time_ut": 1658491993,
+    "original_lang": "en",
+    "original_title": "New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn",
+    "file_name": "/tmp/news_lk2/articles/cc/cc2f6cd5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83811/public-awareness-program-on-the-use-of-nfp-launched-",
+    "time_ut": 1658491380,
+    "original_lang": "en",
+    "original_title": "Public awareness program on the use of NFP launched",
+    "file_name": "/tmp/news_lk2/articles/1e/1e70f2ae.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bbf\u0ba4\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd-\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-300926",
     "time_ut": 1658491150,
     "original_lang": "ta",
     "original_title": "\u0bae\u0bbf\u0ba4\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/f7/f7e01878.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/desist-all-forms-of-violence-eisenhower-fellowship-sri-lanka-tells-president-and-government/",
+    "time_ut": 1658491080,
+    "original_lang": "en",
+    "original_title": "Desist all forms of violence, Eisenhower Fellowship Sri Lanka tells President and Government",
+    "file_name": "/tmp/news_lk2/articles/e4/e4f8de6c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -56,12 +96,20 @@
     "file_name": "/tmp/news_lk2/articles/48/48b35a73.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/refrain-from-unjustifiable-use-of-emergency-law-hrcsl/",
+    "time_ut": 1658490420,
+    "original_lang": "en",
+    "original_title": "\u201cRefrain from unjustifiable use of Emergency Law\u201d \u2013 HRCSL",
+    "file_name": "/tmp/news_lk2/articles/6f/6fcefb43.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Karu-Jayasuriya-condemns-attack-on-Galle-Face-protesters/342-241607",
+    "url": "https://www.dailymirror.lk/breaking_news/Karu-Jayasuriya-condemns-attack-on-Galle-Face-protesters/108-241607",
     "time_ut": 1658490123,
     "original_lang": "en",
     "original_title": "Karu Jayasuriya condemns attack on Galle Face protesters",
-    "file_name": "/tmp/news_lk2/articles/18/18063b19.json"
+    "file_name": "/tmp/news_lk2/articles/a2/a229f042.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc4\u0dd9\u0da7 \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4 10 \u0dc3\u0dd2\u0da7",
     "file_name": "/tmp/news_lk2/articles/ac/ac1923d9.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131754",
-    "time_ut": 1658206611,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0ba9\u0bc8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf ! \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd, \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0, \u0b9f\u0bb2\u0bb8\u0bcd \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd ! \u0ba8\u0bbe\u0bb3\u0bc8 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/00/007d6dc3.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dba\u0ddd\u0da2\u0db1\u0dcf-\u0dc0\u0dd6-\u0db1\u0db8\u0dca-\u0dad\u0dd4\u0db1\u0db8-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3/101-616664",
-    "time_ut": 1658206492,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0dc0\u0dd6 \u0db1\u0db8\u0dca \u0dad\u0dd4\u0db1\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/01/012dd095.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-\u0daf\u0dc4\u0dba\u0dba\u0dd2/1-616663",
-    "time_ut": 1658206477,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 \u0daf\u0dc4\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bd/bd77be6e.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83733/nominations-presented-to-elect-sri-lankas-new-president",
-    "time_ut": 1658206440,
-    "original_lang": "en",
-    "original_title": "Nominations presented to elect Sri Lanka\u2019s new President",
-    "file_name": "/tmp/news_lk2/articles/e7/e7fd2467.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RW-AKD-Dullas-to-contest-for-presidency-tomorrow/155-241368",
-    "time_ut": 1658206360,
-    "original_lang": "en",
-    "original_title": "RW, AKD, Dullas to contest for presidency tomorrow",
-    "file_name": "/tmp/news_lk2/articles/88/88b6ae73.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bb2\u0bb8\u0bbf\u0ba9\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bc8-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-300706",
-    "time_ut": 1658206137,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bb2\u0bb8\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd  \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/17/170a1841.json"
   }
 ]
