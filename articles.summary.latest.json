@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/What-is-happening-to-Sri-Lanka/172-241651",
+    "time_ut": 1658517914,
+    "original_lang": "en",
+    "original_title": "What is happening to Sri Lanka?",
+    "file_name": "/tmp/news_lk2/articles/85/85f28ef1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Human-trafficking-a-crime-against-humanity/172-241650",
     "time_ut": 1658517483,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "PUCSL wants transparent price formula for CEB",
     "file_name": "/tmp/news_lk2/articles/96/966271d7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bbf-\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8/175-300723",
-    "time_ut": 1658227278,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bbf \u201c\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u201d \u0bae\u0bc1\u0bb1\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/b1/b146580d.json"
   }
 ]
