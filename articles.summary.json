@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-after-violent-attack-on-protesters-profit-taking-97823/",
+    "time_ut": 1658507100,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks fall after violent attack on protesters, profit taking",
+    "file_name": "/tmp/news_lk2/articles/a9/a9ee747e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83815/three-hour-power-cuts-imposed-tomorrow",
     "time_ut": 1658506740,
     "original_lang": "en",
     "original_title": "Three-hour power cuts imposed tomorrow",
     "file_name": "/tmp/news_lk2/articles/ce/ce90e64a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/ohchr-condemns-gallefaceraid-calls-for-president-to-bring-in-genuine-reforms/",
+    "time_ut": 1658505540,
+    "original_lang": "en",
+    "original_title": "OHCHR condemns #GalleFaceRaid, calls for President to bring in genuine reforms",
+    "file_name": "/tmp/news_lk2/articles/86/86344cf5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
