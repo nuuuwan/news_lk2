@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Chinese-President-offers-Sri-Lankas-new-president-support-amid-crisis/108-241637",
+    "time_ut": 1658511174,
+    "original_lang": "en",
+    "original_title": "Chinese President offers Sri Lanka\u2019s new president support amid crisis",
+    "file_name": "/tmp/news_lk2/articles/58/58a5e104.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-nominating-Vajira-Abeywardena-as-National-List-MP/342-241636",
+    "time_ut": 1658510614,
+    "original_lang": "en",
+    "original_title": "Gazette issued nominating Vajira Abeywardena as National List MP",
+    "file_name": "/tmp/news_lk2/articles/54/5424da1c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/22/wajira-to-fill-ranils-vacancy/",
     "time_ut": 1658508960,
@@ -454,6 +470,14 @@
     "original_lang": "en",
     "original_title": "Two men die while waiting in fuel queues",
     "file_name": "/tmp/news_lk2/articles/14/143e6b3f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83812/two-more-fuel-queue-deaths-reported",
+    "time_ut": 1658492100,
+    "original_lang": "en",
+    "original_title": "Two more fuel queue deaths reported",
+    "file_name": "/tmp/news_lk2/articles/b6/b6816cb0.json"
   },
   {
     "newspaper_id": "news-first-lk",

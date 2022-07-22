@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Chinese-President-offers-Sri-Lankas-new-president-support-amid-crisis/108-241637",
+    "time_ut": 1658511174,
+    "original_lang": "en",
+    "original_title": "Chinese President offers Sri Lanka\u2019s new president support amid crisis",
+    "file_name": "/tmp/news_lk2/articles/58/58a5e104.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-issued-nominating-Vajira-Abeywardena-as-National-List-MP/342-241636",
+    "time_ut": 1658510614,
+    "original_lang": "en",
+    "original_title": "Gazette issued nominating Vajira Abeywardena as National List MP",
+    "file_name": "/tmp/news_lk2/articles/54/5424da1c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/22/wajira-to-fill-ranils-vacancy/",
     "time_ut": 1658508960,
@@ -454,6 +470,14 @@
     "original_lang": "en",
     "original_title": "Two men die while waiting in fuel queues",
     "file_name": "/tmp/news_lk2/articles/14/143e6b3f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83812/two-more-fuel-queue-deaths-reported",
+    "time_ut": 1658492100,
+    "original_lang": "en",
+    "original_title": "Two more fuel queue deaths reported",
+    "file_name": "/tmp/news_lk2/articles/b6/b6816cb0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "If Dullas wins, Sajith will be PM in all-party govt: Sri Lanka opposition MP",
     "file_name": "/tmp/news_lk2/articles/de/de8a192f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Any-move-to-force-a-MP-to-photograph-their-ballot-paper-will-result-in-7-year-ban-Speaker/342-241375",
-    "time_ut": 1658221093,
-    "original_lang": "en",
-    "original_title": "Any move to force a MP to photograph their ballot paper will result in 7 year ban - Speaker",
-    "file_name": "/tmp/news_lk2/articles/66/66f810ab.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Who-will-the-Speaker-ban-for-7-years-from-parliamentary-sittings/342-241375",
-    "time_ut": 1658221093,
-    "original_lang": "en",
-    "original_title": "Who will the Speaker ban for 7 years from parliamentary sittings?",
-    "file_name": "/tmp/news_lk2/articles/b4/b414e3d2.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf-\u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda-\u0db6\u0dbb-\u0d85\u0db1\u0dd4\u0dc0-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1/11-395543",
-    "time_ut": 1658220864,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd6\u0dbb\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0db6\u0dbb \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9c\u0dd9\u0dc0\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/ab/ab16846b.json"
   }
 ]
