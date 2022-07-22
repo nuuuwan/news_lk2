@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 01:51:21 (LK time)*
+*As of 2022-07-23 02:04:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
-* **2** daily-mirror-lk ([What is happening to Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f28ef1.json))
+* **1** daily-mirror-lk ([How Kumar Gunaratnam alias “Gemunu” Fought  against the Indian Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/7528adf2.json))
 
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (21 Articles)
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
-* **6** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
+* **4** daily-mirror-lk ([SJB asks Harin to resign from Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f64bdf55.json))
 
 * **1** ada-derana-lk ([US envoy calls on President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c741a024.json))
 
@@ -20,7 +20,7 @@
 
 * **1** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-## Last 24 Hours (298 Articles)
+## Last 24 Hours (297 Articles)
 
 * **59** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
@@ -30,9 +30,9 @@
 
 * **31** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-* **29** daily-mirror-lk ([Tense situation at Galle Face protest site as security forces move in](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f600ff37.json))
-
 * **29** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
+
+* **28** daily-mirror-lk ([Military in Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32689329.json))
 
 * **24** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
@@ -44,19 +44,19 @@
 
 * **1** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
 
-## Last Week (1,823 Articles)
+## Last Week (1,820 Articles)
 
 * **358** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **286** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
-* **206** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
+* **204** daily-mirror-lk ([FSP Leader  Kumar Gunaratnam and his “Aragalaya”](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38bcf87e.json))
 
 * **194** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
 * **191** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
-* **156** ada-derana-lk ([How parliament elects successor when office of President becomes vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0235fef3.json))
+* **155** ada-derana-lk ([Several areas to receive spells of showers today](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16f93027.json))
 
 * **150** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
