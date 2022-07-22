@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 00:02:39 (LK time)*
+*As of 2022-07-23 00:19:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
 * **1** ada-derana-lk ([US envoy calls on President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c741a024.json))
 
-* **1** tamil-mirror-lk ([பாராளுமன்ற உறுப்பினரானார் வஜிர அபேவர்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a319628.json))
-
-## Last Hour (5 Articles)
-
-* **2** daily-mirror-lk ([Chinese President offers Sri Lanka’s new president support amid crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58a5e104.json))
+## Last Hour (3 Articles)
 
 * **1** ada-derana-lk ([US envoy calls on President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c741a024.json))
 
@@ -20,25 +16,25 @@
 
 * **1** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-## Last 3 Hours (26 Articles)
-
-* **5** tamil-mirror-lk ([ஐ.நாவிடம் மகஜர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36fcd1a8.json))
-
-* **5** virakesari-lk ([போராட்டக்களத்தில் கைதுதான சட்டத்தரணி போப்பகே உள்ளிட்ட 9 பேருக்கு பிணை - இருவர் தொடர்ந்தும் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71e61861.json))
+## Last 3 Hours (21 Articles)
 
 * **4** ada-derana-lk ([Three-hour power cuts expected tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e880dbdd.json))
 
+* **4** tamil-mirror-lk ([எங்களுடைய தீர்மானம் இப்போதாவது புரிகிறதா ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e2a8780.json))
+
+* **4** virakesari-lk ([பத்துளு ஓயா பகுதியில் மூடப்பட்டிருந்த விடுதியிலிருந்து கேரள கஞ்சா மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3e6fc2c.json))
+
 * **3** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
 
-* **3** news-first-lk ([UNHRC core group on SL express dismay over #GalleFaceRaid](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7623423.json))
+* **2** news-first-lk ([OHCHR condemns #GalleFaceRaid, calls for President to bring in genuine reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86344cf5.json))
 
-* **3** economy-next-com ([China’s Jinping offers help to Sri Lanka’s Wickremesinghe government](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8622e7ed.json))
-
-* **2** lankadeepa-lk ([රනිල්ට චීන ජනාධිපතිගෙන් සුබ පැතුම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53d7d9c0.json))
+* **2** economy-next-com ([Sri Lanka stocks fall after violent attack on protesters, profit taking](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ee747e.json))
 
 * **1** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-## Last 24 Hours (284 Articles)
+* **1** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/dd9ac72c.json))
+
+## Last 24 Hours (283 Articles)
 
 * **56** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
@@ -52,7 +48,7 @@
 
 * **24** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **24** tamil-mirror-lk ([மரண வீட்டுக்கு சென்று திரும்பிய 11 பேர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28bc04eb.json))
+* **23** tamil-mirror-lk ([பணவீக்கம் பாரிய அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8df585ed.json))
 
 * **17** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
@@ -62,7 +58,7 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,828 Articles)
+## Last Week (1,824 Articles)
 
 * **355** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -70,7 +66,7 @@
 
 * **203** daily-mirror-lk ([Most of all, you’re my best friend](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b5676f7.json))
 
-* **199** tamil-mirror-lk ([’தினேஷ் குணவர்தன பதில் பிரதமராகவேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa029fc.json))
+* **197** tamil-mirror-lk ([அரச மருத்துவ அதிகாரிகள் சங்கத்தின் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08487f71.json))
 
 * **191** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
@@ -78,9 +74,9 @@
 
 * **150** news-first-lk ([Parliament meets after President’s resignation](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b08828d.json))
 
-* **80** daily-ft-lk ([Time to put Sri Lanka first](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a176877.json))
-
 * **79** economy-next-com ([Sri Lanka gets diesel ship: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/25d9abe2.json))
+
+* **78** daily-ft-lk ([The procedure for election of new President by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ab24582.json))
 
 * **62** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
 
