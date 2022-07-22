@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 20:30:23 (LK time)*
+*As of 2022-07-22 20:42:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
 
 * **1** virakesari-lk ([போராட்டக் குழுவினர், ஊடகவியலாளர்கள் மீதுமான தாக்குதலை வன்மையாகக் கண்டிக்கின்றோம் - சட்டத்தரணி சுகாஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e63f756.json))
 
-* **1** daily-mirror-lk ([Cannot stop struggle through suppression: NPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f25e220.json))
-
-* **1** lankadeepa-lk ([අරගල භූමියේදී අත්අඩංගුවට ගත් නීතීඥයා ඇතුළු 09කට ඇප](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca47bb32.json))
-
-## Last 3 Hours (30 Articles)
+## Last 3 Hours (29 Articles)
 
 * **7** news-first-lk ([The Government’s real face was revealed: MP Sarath Fonseka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a44c6797.json))
 
 * **6** daily-mirror-lk ([New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2f6cd5.json))
 
-* **5** ada-derana-lk ([Public awareness program on the use of NFP launched](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e70f2ae.json))
-
-* **4** lankadeepa-lk ([අයි.එම්.එෆ් මුදලට අමතරව ඇමරිකාවෙන් තවත් ඩොලර් බිලියන 4ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd8ddf9a.json))
+* **5** lankadeepa-lk ([අයි.එම්.එෆ් මුදලට අමතරව ඇමරිකාවෙන් තවත් ඩොලර් බිලියන 4ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd8ddf9a.json))
 
 * **3** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
+
+* **3** ada-derana-lk ([Two men die while waiting in fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/143e6b3f.json))
 
 * **2** virakesari-lk ([பாதுகாப்பு படையினரால் கைது செய்யப்பட்ட 9 ஆர்ப்பாட்டக்காரர்களும் பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b0090e0.json))
 
@@ -34,7 +30,7 @@
 
 * **51** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
 
-* **46** lankadeepa-lk ([ඉන්දීය ජනාධිපති ධුරය ද්‍රෞපදී මුර්මු ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b9d9c8e.json))
+* **46** lankadeepa-lk ([රටේ නායකත්වය ලැබිය යුත්තේ සුජාතභාවය හිමි කණ්ඩායමකටයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a1d3f9f.json))
 
 * **31** ada-lk ([ජුනි මාසයේ උද්ධමනය සියයට 58.9ක් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fc84d88.json))
 
@@ -56,21 +52,21 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,821 Articles)
+## Last Week (1,816 Articles)
 
 * **354** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **285** lankadeepa-lk ([පොහොට්ටුවේ නිල සහාය රනිල්ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1f5463f.json))
+* **285** lankadeepa-lk ([ජනාධිපති-අගමැති සටනට සමඟි ජන බලවේගයත් එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6bd7f8.json))
 
-* **204** daily-mirror-lk ([China to play positive role in supporting SL: Wang  Wenbin](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/731b53a6.json))
+* **202** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
 * **195** tamil-mirror-lk ([ஜனாதிபதி தேர்தலில் போட்டியிட போவதாக சஜித் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea942148.json))
 
-* **190** ada-lk ([ඩීසල් මෙට්‍රික් ටොන් 40000ක් අද දිවයිනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4a07a6c.json))
+* **189** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
-* **153** ada-derana-lk ([India hoping for early solution for Sri Lankan crisis through democratic means](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc41eb23.json))
+* **152** ada-derana-lk ([Power cut schedule for July 16 and 17](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13e5b2a6.json))
 
-* **143** news-first-lk ([Power cuts for 16th & 17th approved](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e9874a7.json))
+* **142** news-first-lk ([SLPP must support candidate fielded by the party: G.L. Peiris](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9137c8c.json))
 
 * **86** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
@@ -84,9 +80,9 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka teetered unsteadily on the edge of anarchy but  sanity prevailed and the country stepped back from the edge.](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c51f6eab.json))
 
-## All Time (3,591 Articles)
+## All Time (3,592 Articles)
 
-* **550** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **551** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **538** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
