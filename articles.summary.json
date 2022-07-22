@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dba\u0dd2-\u0d91\u0db8\u0dca-\u0d91\u0dc6\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0da7-\u0d85\u0db8\u0dad\u0dbb\u0dc0-\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-4\u0d9a\u0dca/1-616885",
+    "time_ut": 1658494445,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dba\u0dd2.\u0d91\u0db8\u0dca.\u0d91\u0dc6\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0d85\u0db8\u0dad\u0dbb\u0dc0 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bd/bd8ddf9a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd/75-300927",
     "time_ut": 1658492407,
@@ -30,6 +38,14 @@
     "original_lang": "en",
     "original_title": "New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn",
     "file_name": "/tmp/news_lk2/articles/cc/cc2f6cd5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83811/public-awareness-program-on-the-use-of-fuel-pass-launched",
+    "time_ut": 1658491380,
+    "original_lang": "en",
+    "original_title": "Public awareness program on the use of fuel pass launched",
+    "file_name": "/tmp/news_lk2/articles/b4/b45aa41b.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -401,11 +417,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd418\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/101-616872",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd418\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/1-616872",
     "time_ut": 1658476527,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd418\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9a/9ad98e05.json"
+    "file_name": "/tmp/news_lk2/articles/aa/aad89e0f.json"
   },
   {
     "newspaper_id": "ada-lk",
