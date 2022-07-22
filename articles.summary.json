@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd2\u0dba\u0dd2/101-616881",
+    "time_ut": 1658485841,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/67/67ece714.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132045",
     "time_ut": 1658485724,
@@ -9,11 +17,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc0\u0bb5\u0ba9\u0bc8-\u0b86\u0bb0\u0ba4\u0bcd\u0ba4\u0bb4\u0bc1\u0bb5\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0b95\u0bc8\u0b95\u0bc2\u0baa\u0bcd\u0baa\u0bbf-\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd/175-300919",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb0\u0ba4\u0bcd\u0ba4\u0bb4\u0bc1\u0bb5\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8-\u0b95\u0bc8\u0b95\u0bc2\u0baa\u0bcd\u0baa\u0bbf-\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd/175-300919",
     "time_ut": 1658485431,
     "original_lang": "ta",
     "original_title": "\u0b86\u0bb0\u0ba4\u0bcd\u0ba4\u0bb4\u0bc1\u0bb5\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0b95\u0bc8\u0b95\u0bc2\u0baa\u0bcd\u0baa\u0bbf \u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b9c\u0bc0\u0bb5\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/05/05ce233d.json"
+    "file_name": "/tmp/news_lk2/articles/5d/5d2a608c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -30,6 +38,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/25/25e8e016.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/only-4000-private-buses-in-operation/",
+    "time_ut": 1658485320,
+    "original_lang": "en",
+    "original_title": "Only 4,000 private buses in operation",
+    "file_name": "/tmp/news_lk2/articles/eb/eba6c4d5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -57,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc3\u0da2\u0db6\u0dd9\u0db1\u0dca-\u0dba\u0dd6-\u0d91\u0db1\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/101-616877",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0-\u0dc3\u0da2\u0db6\u0dd9\u0db1\u0dca-\u0dba\u0dd6-\u0d91\u0db1\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/1-616877",
     "time_ut": 1658483161,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc3\u0da2\u0db6\u0dd9\u0db1\u0dca \u0dba\u0dd6.\u0d91\u0db1\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0d82\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/55/55c6230c.json"
+    "file_name": "/tmp/news_lk2/articles/25/2586f9be.json"
   },
   {
     "newspaper_id": "news-first-lk",
