@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132014",
+    "time_ut": 1658469995,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 7 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c7/c71fe169.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/friday/\u0db6\u0dbd\u0dc0\u0dcf\u0daf\u0dba-\u0db4\u0dbb\u0daf\u0dca\u0daf\u0db1\u0dca\u0db1-\u0da2\u0db1\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca/122-616861",
+    "time_ut": 1658469872,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0dbd\u0dc0\u0dcf\u0daf\u0dba \u0db4\u0dbb\u0daf\u0dca\u0daf\u0db1\u0dca\u0db1 \u0da2\u0db1\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d7/d7c56939.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132012",
+    "time_ut": 1658469700,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1 - \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/6d/6ddf40bf.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd3\u0db8-\u0daf\u0dc4\u0dc0\u0dbd\u0dca-1\u0da7/101-616860",
+    "time_ut": 1658469651,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd3\u0db8 \u0daf\u0dc4\u0dc0\u0dbd\u0dca 1\u0da7",
+    "file_name": "/tmp/news_lk2/articles/39/39d5c4c2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0db0\u0dd2-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db6\u0dd1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0d95\u0db1\u0dd1/117-616859",
     "time_ut": 1658469384,
@@ -8,12 +40,20 @@
     "file_name": "/tmp/news_lk2/articles/c8/c8b0e5fb.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/100000-lp-gas-cylinders-delivered-today-22/",
+    "time_ut": 1658468520,
+    "original_lang": "en",
+    "original_title": "100,000 LP Gas cylinders delivered today (22)",
+    "file_name": "/tmp/news_lk2/articles/d8/d8edcbb8.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0daf\u0dd0\u0da9\u0dd2-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca/1-616856",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0daf\u0dd0\u0da9\u0dd2-\u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca/101-616856",
     "time_ut": 1658468301,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0da9\u0dd2 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/14/14921f7d.json"
+    "file_name": "/tmp/news_lk2/articles/30/30a5177d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -30,6 +70,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s new president Wickremesinghe appoints his classmate as PM",
     "file_name": "/tmp/news_lk2/articles/69/69efd23a.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/22/40000-mt-of-petrol-to-reach-sl-tonight-22/",
+    "time_ut": 1658467620,
+    "original_lang": "en",
+    "original_title": "40,000 MT of Petrol to reach SL tonight (22)",
+    "file_name": "/tmp/news_lk2/articles/38/38f6f46c.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -582,6 +630,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka national inflation gallops to 58.9-pct to June 2022",
     "file_name": "/tmp/news_lk2/articles/79/79729c59.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/election-of-a-new-president-old-wine-in-a-new-bottle-or-system-change/",
+    "time_ut": 1658450269,
+    "original_lang": "en",
+    "original_title": "Election Of A New President: Old Wine In A New Bottle Or System Change?",
+    "file_name": "/tmp/news_lk2/articles/bc/bc4a42f9.json"
   },
   {
     "newspaper_id": "virakesari-lk",
