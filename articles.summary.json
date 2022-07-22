@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Right-to-peaceful-protest-is-at-the-heart-of-democracy/14-737814",
+    "time_ut": 1658515129,
+    "original_lang": "en",
+    "original_title": "Right to peaceful protest is at the heart of democracy",
+    "file_name": "/tmp/news_lk2/articles/fb/fbf02812.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Ranil-becomes-President-the-Phoenix-rises-again/4-737813",
+    "time_ut": 1658515079,
+    "original_lang": "en",
+    "original_title": "Ranil becomes President, the Phoenix rises, again",
+    "file_name": "/tmp/news_lk2/articles/55/55af41f5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83817/us-envoy-calls-on-president-ranil-raises-concerns-over-violence-against-protesters",
     "time_ut": 1658514000,
@@ -86,6 +102,14 @@
     "original_lang": "en",
     "original_title": "Vajira Abeywardena appointed to UNP\u2019s vacant MP seat",
     "file_name": "/tmp/news_lk2/articles/1c/1c204522.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b87\u0bb0\u0bb5\u0bcb\u0b9f\u0bc1-\u0b87\u0bb0\u0bb5\u0bbe\u0b95-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf-\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd/175-300947",
+    "time_ut": 1658508042,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb0\u0bb5\u0bcb\u0b9f\u0bc1 \u0b87\u0bb0\u0bb5\u0bbe\u0b95 \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/36/36ba2299.json"
   },
   {
     "newspaper_id": "virakesari-lk",
