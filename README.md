@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 14:26:03 (LK time)*
+*As of 2022-07-22 14:29:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,9 +12,9 @@
 
 * **1** lankadeepa-lk ([සෝභිත හිමි ගෝඨාගේ හොඳක් දකී](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aae17ce0.json))
 
-## Last 3 Hours (52 Articles)
+## Last 3 Hours (51 Articles)
 
-* **18** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
+* **17** lankadeepa-lk ([ඇමැති මණ්ඩලය දිවුරුම් දීම දහවල් 1ට](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39d5c4c2.json))
 
 * **11** virakesari-lk ([போராட்டக்காரர்கள் மீதான தாக்குதல் கண்டிக்கத்தக்கது - ஹர்ஷ டி சில்வா](https://github.com/nuuuwan/news_lk2/blob/data/articles/6d/6ddf40bf.json))
 
@@ -32,7 +32,7 @@
 
 * **1** daily-ft-lk ([New PM, Cabinet take oath in presence of President RW](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c96bf53b.json))
 
-## Last 24 Hours (305 Articles)
+## Last 24 Hours (304 Articles)
 
 * **57** virakesari-lk ([அனைத்துப் பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டாளர் வசந்த முதலிகே, ஜீலரத்ன தேரருக்கு பிடியாணை !](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76d98c70.json))
 
@@ -42,7 +42,7 @@
 
 * **35** ada-lk ([තමා ගැන පරීක්ෂණයක් කරන්නැයි ජනපතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70886266.json))
 
-* **29** tamil-mirror-lk ([இருவரை கைது செய்ய நீதிமன்றம் பிடியாணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b659d894.json))
+* **28** tamil-mirror-lk ([ஜனாதிபதிப் பதவியேற்கும் நிகழ்வில் மின்சாரம் துண்டிக்கப்பட்டதா?](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/999953dc.json))
 
 * **25** news-first-lk ([Sajith meets President; discusses committee system in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c64b62c5.json))
 
