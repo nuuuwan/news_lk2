@@ -1,34 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 05:47:42 (LK time)*
+*As of 2022-07-22 06:20:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **1** daily-ft-lk ([Limitations inherent in July uprising](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9951fef9.json))
+* **1** virakesari-lk ([ஆர்ப்பாட்டக்காரர்கள் மீதான தாக்குதல் - ஏற்றுக்கொள்ள முடியாதவிடயம் - சர்வதேச மன்னிப்புச்சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c5915b.json))
 
-* **1** virakesari-lk ([படையினர்  கூடாரங்களை அகற்றினர் – அழித்தனர்- பிபிசி](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c04ff9b.json))
+## Last Hour (4 Articles)
 
-## Last Hour (6 Articles)
+* **2** virakesari-lk ([படையினர்  கூடாரங்களை அகற்றினர் – அழித்தனர்- பிபிசி](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c04ff9b.json))
 
-* **5** daily-ft-lk ([Colombo Expat Cultural Association: Messiah for the children](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b0270.json))
+* **2** daily-ft-lk ([Limitations inherent in July uprising](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9951fef9.json))
 
-* **1** virakesari-lk ([படையினர்  கூடாரங்களை அகற்றினர் – அழித்தனர்- பிபிசி](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c04ff9b.json))
+## Last 3 Hours (22 Articles)
 
-## Last 3 Hours (21 Articles)
+* **14** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
-* **13** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
-
-* **5** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
+* **6** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
 * **2** news-first-lk ([(VIDEO) Tense situation at Galle Face protest site as military sweeps in](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2f2061.json))
 
-* **1** daily-mirror-lk ([Military in Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32689329.json))
+## Last 24 Hours (286 Articles)
 
-## Last 24 Hours (283 Articles)
-
-* **50** virakesari-lk ([ஜனாதிபதி ரணில் அதிரடி அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f415810f.json))
+* **51** virakesari-lk ([ஜனாதிபதி ரணில் அதிரடி அறிவிப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f415810f.json))
 
 * **49** lankadeepa-lk ([බස්නාහිරත් දකුණ පළාත් කීපයකටත් වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce8de4e.json))
 
@@ -38,11 +34,11 @@
 
 * **29** news-first-lk ([75 mm of rainfall expected today (21)](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15351a6a.json))
 
-* **23** tamil-mirror-lk ([அரச கட்டடங்களை ஆக்கிரமிப்போருக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309fed07.json))
+* **24** tamil-mirror-lk ([அரச கட்டடங்களை ஆக்கிரமிப்போருக்கு எதிராக சட்ட நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/309fed07.json))
 
 * **22** ada-derana-lk ([Fairly heavy rains above 75mm expected in three provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96cfb65b.json))
 
-* **13** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+* **14** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 * **9** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
@@ -52,15 +48,15 @@
 
 * **3** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## Last Week (1,786 Articles)
+## Last Week (1,788 Articles)
 
-* **344** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
+* **345** virakesari-lk ([ஜனாதிபதி கோட்டாவின் பதவி விலகலை உத்தியோகபூர்வமாக இன்று அறிவிப்பார் சபாநாயகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d176fed5.json))
 
 * **280** lankadeepa-lk ([බස්නාහිර,සබරගමුව ඇතුළු පාළාත් කිපයකට වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85d411bd.json))
 
 * **202** daily-mirror-lk ([Urea under Indian credit line arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91ef8541.json))
 
-* **195** tamil-mirror-lk ([’சட்டத்தின் ஆட்சி பாதுகாக்கப்பட வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f145da5.json))
+* **195** tamil-mirror-lk ([பாராளுமன்ற குழுவின் கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f99c09d.json))
 
 * **182** ada-lk ([අද පක්ෂ නායක රැස්වීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c537a8a.json))
 
@@ -68,7 +64,7 @@
 
 * **140** news-first-lk ([IMF wants stability in Sri Lanka to resume talks](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cbb99b.json))
 
-* **82** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
+* **83** daily-ft-lk ([The need to appoint an independent president and its process](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76010c0c.json))
 
 * **74** economy-next-com ([Sri Lanka local currency rating under observation: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/763cdd93.json))
 
@@ -80,23 +76,23 @@
 
 * **16** d-b-s-jeyaraj-com ([Prime Minister Ranil Wickremesinghe Sworn in as Acting President Before Chief Justice Jayantha Jayasuriya;  new President  to be  elected on July 20 by Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/357fefcc.json))
 
-## All Time (3,375 Articles)
+## All Time (3,378 Articles)
 
 * **507** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **497** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **498** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **420** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
 * **361** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **334** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **335** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **253** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
 * **234** news-first-lk ([India stands with the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f47f2e.json))
 
-* **209** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
+* **210** daily-ft-lk ([Ceylon Chamber re-elects leadership at 183rd AGM](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd73db8a.json))
 
 * **160** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
