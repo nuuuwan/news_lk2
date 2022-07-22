@@ -1,0 +1,210 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da2\u0dd2\u0dbb-\u0db8\u0dd0\u0dad\u0dd2-\u0dc3\u0db6\u0dba\u0da7/101-616892",
+  "time_ut": 1658508947,
+  "original_lang": "si",
+  "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7",
+  "text_idx": {
+    "en": {
+      "title": "To the audience of Mr. Vajira",
+      "author": "unknown",
+      "body_lines": [
+        "UNP Chairman Mr. Vajira Abeywardena has been appointed for the position of National List MP belonging to the United National Party.",
+        "After Mr. Ranil Wickramasinghe assumed the office of President, the position of National List MP held by the UNP became vacant.",
+        "UNP General Secretary Palitha Ranga Bandara said that Mr. Vajira Abeywardena's name has been proposed for the post of National List Member of Parliament and the Election Commission has been informed about it."
+      ],
+      "title_ents": [
+        {
+          "text": "Vajira",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "UNP",
+            "label": "ORG"
+          },
+          {
+            "text": "Vajira Abeywardena",
+            "label": "PERSON"
+          },
+          {
+            "text": "the United National Party",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ranil Wickramasinghe",
+            "label": "PERSON"
+          },
+          {
+            "text": "UNP",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "UNP",
+            "label": "ORG"
+          },
+          {
+            "text": "Palitha Ranga Bandara",
+            "label": "PERSON"
+          },
+          {
+            "text": "Vajira Abeywardena's",
+            "label": "PERSON"
+          },
+          {
+            "text": "National List",
+            "label": "ORG"
+          },
+          {
+            "text": "Parliament",
+            "label": "ORG"
+          },
+          {
+            "text": "the Election Commission",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dc0\u0da2\u0dd2\u0dbb \u0db8\u0dd0\u0dad\u0dd2 \u0dc3\u0db6\u0dba\u0da7",
+      "author": "unknown",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0da7 \u0dc4\u0dd2\u0db8\u0dd2 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db0\u0dd4\u0dbb\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0d91\u0da2\u0dcf\u0db4 \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0da2\u0dd2\u0dbb \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dd4 \u0dbd\u0dd0\u0db6 \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0db8\u0dc4\u0dad\u0dcf \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0d91\u0da2\u0dcf\u0db4\u0dba \u0da7 \u0dc4\u0dd2\u0db8\u0dd2\u0dc0 \u0dad\u0dd2\u0db6\u0dd6 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db0\u0dd4\u0dbb\u0dba \u0db4\u0dd4\u0dbb\u0db4\u0dca\u0db4\u0dcf\u0da9\u0dd4 \u0dc0\u0dd2\u0dba.",
+        "\u0dc0\u0da2\u0dd2\u0dbb \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dc4\u0dad\u0dcf\u0d9c\u0dda \u0db1\u0db8 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db0\u0dd4\u0dbb\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0ddc\u0da7 \u0d92 \u0db6\u0dc0 \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0da7 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd4\u0db1\u0dca \u0db6\u0dc0 \u0d91\u0da2\u0dcf\u0db4 \u0db8\u0dc4\u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db4\u0dcf\u0dbd\u0dd2\u0dad \u0dbb\u0d82\u0d9c \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb \u0db8\u0dc4\u0dad\u0dcf \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc0\u0da2\u0dd2\u0dbb",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d91\u0da2\u0dcf\u0db4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0da2\u0dd2\u0dbb \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d91\u0da2\u0dcf\u0db4",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0da2\u0dcf\u0db4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbd\u0dd2\u0dad \u0dbb\u0d82\u0d9c \u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dc0\u0da2\u0dd2\u0dbb \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0dd0\u0dba\u0dd2\u0dc3\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bbf\u0bb0\u0bc1 \u0bb5\u0b9c\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0bb0\u0bc1.\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0b90.\u0ba4\u0bc7.\u0b95 \u0bb5\u0b9a\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b9f\u0bae\u0bbe\u0ba9\u0ba4\u0bc1.",
+        "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1 \u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b85\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0ba4 \u0bb0\u0b99\u0bcd\u0b95 \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0bb5\u0b9c\u0bbf\u0bb0\u0bbe",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b90.\u0ba4\u0bc7.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b90.\u0ba4\u0bc7.\u0b95",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b90.\u0ba4\u0bc7.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb2\u0bbf\u0ba4 \u0bb0\u0b99\u0bcd\u0b95 \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
