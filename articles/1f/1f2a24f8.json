@@ -1,0 +1,225 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dd1\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3-100\u0d9a\u0dca-\u0daf\u0dc0\u0dbd\u0dca\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2-80-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba-\u0db1\u0dd1/1-616886",
+  "time_ut": 1658494888,
+  "original_lang": "si",
+  "original_title": "\u0dbb\u0dd1\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3 100\u0d9a\u0dca \u0daf\u0dc0\u0dbd\u0dca\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 80 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd1",
+  "text_idx": {
+    "en": {
+      "title": "No electricity for 100 minutes at night and 80 minutes during the day",
+      "author": "unknown",
+      "body_lines": [
+        "Janaka Ratnayake, chairman of the Public Utilities Commission, said today (22nd) afternoon that due to lack of sufficient fuel and water for electricity generation, power cut was allowed for 3 hours tomorrow (23rd).",
+        "Accordingly, Mr. Ratnayake said that electricity will be cut for 20 zones from 'A' to 'W' for 1 hour and 40 minutes during the day and 1 hour and 20 minutes at night."
+      ],
+      "title_ents": [
+        {
+          "text": "100 minutes at night and 80 minutes",
+          "label": "TIME"
+        },
+        {
+          "text": "the day",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Janaka Ratnayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Public Utilities Commission",
+            "label": "ORG"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "22nd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "afternoon",
+            "label": "TIME"
+          },
+          {
+            "text": "3 hours",
+            "label": "TIME"
+          },
+          {
+            "text": "tomorrow",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Ratnayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 hour and 40 minutes",
+            "label": "TIME"
+          },
+          {
+            "text": "the day",
+            "label": "DATE"
+          },
+          {
+            "text": "1 hour and 20 minutes at night",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0dbb\u0dd1\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd3 100\u0d9a\u0dca \u0daf\u0dc0\u0dbd\u0dca\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 80 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0db1\u0dd1",
+      "author": "unknown",
+      "body_lines": [
+        "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0da2\u0db1\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc3\u0dc4 \u0da2\u0dbd\u0dba \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0dc4\u0dd9\u0da7 (23) \u0daf\u0dd2\u0db1\u0dba\u0dda \u0daf \u0db4\u0dd0\u0dba 3 \u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0db6\u0dc0 \u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0da2\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0d85\u0daf (22) \u0db4\u0dc3\u0dca\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db4\u0dd0\u0dc0\u0dc3\u0dd3\u0dba.",
+        "\u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u2018\u0d92\u2019 \u0dc3\u0dd2\u0da7 \u2018\u0da9\u0db6\u0dca\u0dbd\u0dd2\u0dc0\u0dca\u2019 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d9a\u0dbd\u0dcf\u0db4 20 \u0da7 \u0daf\u0dd2\u0dc0\u0dcf \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba\u0dba\u0dd2 \u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4 40 \u0d9a\u0dca \u0daf, \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0db4\u0dd0\u0dba\u0dba\u0dd2 \u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4 20 \u0d9a\u0dca \u0daf, \u0dbd\u0dd9\u0dc3 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a \u0db8\u0dc4\u0dad\u0dcf \u0d9a\u0dd3\u0dba."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 100 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 80 \u0dba\u0dd2",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0daf\u0dc0\u0dc3",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0da2\u0dcf\u0db1\u0d9a \u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dc4\u0da2\u0db1 \u0d8b\u0db4\u0dba\u0ddd\u0d9c\u0dd2\u0dad\u0dcf \u0d9a\u0ddc\u0db8\u0dd2\u0dc2\u0db1\u0dca \u0dc3\u0db7\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "22 \u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0daf\u0dc4\u0dc0\u0dbd\u0dca",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 3",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0da7",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dd0\u0dba 1 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 40 \u0dba\u0dd2",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0daf\u0dc0\u0dc3",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0dad\u0dca\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db4\u0dd0\u0dba 1 \u0dba\u0dd2 \u0dc0\u0dd2\u0db1\u0dcf\u0da9\u0dd2 20 \u0dba\u0dd2",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 100 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd, \u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd 80 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0bbf\u0baf \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0b95\u0bbe\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 (23\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf) 3 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0bbe\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 (22) \u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba4\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, '\u0b8f' \u0bae\u0bc1\u0ba4\u0bb2\u0bcd '\u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2' \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bbe\u0ba9 20 \u0bb5\u0bb2\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd 1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd 40 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 100 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 80 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+          "label": "TIME"
+        },
+        {
+          "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b9c\u0ba9\u0b95 \u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baa\u0bca\u0ba4\u0bc1 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "22\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "3 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0ba8\u0bbe\u0bb3\u0bc8",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb0\u0ba4\u0bcd\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "20",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 40 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0bb5\u0bbf\u0bb2\u0bcd 1 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd 20 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "TIME"
+          }
+        ]
+      ]
+    }
+  }
+}

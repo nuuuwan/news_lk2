@@ -1,36 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 20:42:49 (LK time)*
+*As of 2022-07-22 20:50:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (27 Articles)
 
-* **1** virakesari-lk ([போராட்டக் குழுவினர், ஊடகவியலாளர்கள் மீதுமான தாக்குதலை வன்மையாகக் கண்டிக்கின்றோம் - சட்டத்தரணி சுகாஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e63f756.json))
+* **7** lankadeepa-lk ([අයි.එම්.එෆ් මුදලට අමතරව ඇමරිකාවෙන් තවත් ඩොලර් බිලියන 4ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd8ddf9a.json))
 
-## Last 3 Hours (29 Articles)
+* **6** news-first-lk ([Two deaths in fuel queues today (22); Both victims senior citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f24f2eea.json))
 
-* **7** news-first-lk ([The Government’s real face was revealed: MP Sarath Fonseka](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a44c6797.json))
-
-* **6** daily-mirror-lk ([New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2f6cd5.json))
-
-* **5** lankadeepa-lk ([අයි.එම්.එෆ් මුදලට අමතරව ඇමරිකාවෙන් තවත් ඩොලර් බිලියන 4ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd8ddf9a.json))
+* **5** daily-mirror-lk ([Nine protesters released on bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc666c2a.json))
 
 * **3** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
 
-* **3** ada-derana-lk ([Two men die while waiting in fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/143e6b3f.json))
-
 * **2** virakesari-lk ([பாதுகாப்பு படையினரால் கைது செய்யப்பட்ட 9 ஆர்ப்பாட்டக்காரர்களும் பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b0090e0.json))
+
+* **2** ada-derana-lk ([China extends support for new Sri Lankan President](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a2dee78.json))
 
 * **2** economy-next-com ([Military raid on Sri Lanka protest site mars cabinet swearing in; nine injured](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2ffad940.json))
 
-* **1** tamil-mirror-lk ([எரிபொருள் வரிசையில் இரண்டு மரணங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/250f3a2c.json))
-
-## Last 24 Hours (268 Articles)
+## Last 24 Hours (269 Articles)
 
 * **51** virakesari-lk ([பாராளுமன்றக் கூட்டத்தொடரை முடிவுறுத்த ஜனாதிபதி தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf0d0e1a.json))
 
-* **46** lankadeepa-lk ([රටේ නායකත්වය ලැබිය යුත්තේ සුජාතභාවය හිමි කණ්ඩායමකටයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a1d3f9f.json))
+* **47** lankadeepa-lk ([ඇමෙරිකා ජනපතිට කොරෝනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f8cdf8e.json))
 
 * **31** ada-lk ([ජුනි මාසයේ උද්ධමනය සියයට 58.9ක් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fc84d88.json))
 
@@ -52,11 +46,11 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,816 Articles)
+## Last Week (1,817 Articles)
 
 * **354** virakesari-lk ([துப்பாக்கிப் பிரயோகம் மேற்கொள்ள மறுத்த இராணுவ அதிகாரி அதிரடியாக நீக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/587e8809.json))
 
-* **285** lankadeepa-lk ([ජනාධිපති-අගමැති සටනට සමඟි ජන බලවේගයත් එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d6bd7f8.json))
+* **286** lankadeepa-lk ([රටවල් හතරක තැපැල් භාණ්ඩ භාරගැනීම නවතී](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59cb80c4.json))
 
 * **202** daily-mirror-lk ([Damage caused to Temple Trees](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982fd9a1.json))
 
@@ -80,9 +74,9 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka teetered unsteadily on the edge of anarchy but  sanity prevailed and the country stepped back from the edge.](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c51f6eab.json))
 
-## All Time (3,592 Articles)
+## All Time (3,594 Articles)
 
-* **551** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **553** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **538** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
