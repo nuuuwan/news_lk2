@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/New-PM-Cabinet-take-oath-in-presence-of-President-RW/56-737796",
+    "time_ut": 1658478070,
+    "original_lang": "en",
+    "original_title": "New PM, Cabinet take oath in presence of President RW",
+    "file_name": "/tmp/news_lk2/articles/c9/c96bf53b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132013",
+    "time_ut": 1658478004,
+    "original_lang": "ta",
+    "original_title": "40,000 \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0ba4\u0bca\u0ba9\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/e7/e799aceb.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132028",
     "time_ut": 1658477313,
@@ -14,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0ddd\u0db7\u0dd2\u0dad \u0dc4\u0dd2\u0db8\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0d9c\u0dda \u0dc4\u0ddc\u0db3\u0d9a\u0dca \u0daf\u0d9a\u0dd3",
     "file_name": "/tmp/news_lk2/articles/aa/aae17ce0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dc0-\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd3\u0db8-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-616872",
+    "time_ut": 1658476527,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd3\u0db8 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/33/33ba741d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -32,6 +56,14 @@
     "file_name": "/tmp/news_lk2/articles/d7/d7541e6a.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-395658",
+    "time_ut": 1658476380,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/27/273564bd.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8-\u0baa\u0ba4\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd/175-300917",
     "time_ut": 1658476345,
@@ -41,11 +73,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dad\u0dd2\u0db6\u0dd6-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dc4\u0dd2\u0db8\u0dd2-\u0d9a\u0dbb-\u0d9c\u0dad\u0dca\u0dad\u0dcf\u2018\u2018/101-616871",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dad\u0dd2\u0db6\u0dd6-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d85\u0dc4\u0dd2\u0db8\u0dd2-\u0d9a\u0dbb-\u0d9c\u0dad\u0dca\u0dad\u0dcf\u2018\u2018/1-616871",
     "time_ut": 1658475949,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dad\u0dd2\u0db6\u0dd6 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0d9a\u0dbb \u0d9c\u0dad\u0dca\u0dad\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/40/40664b7d.json"
+    "file_name": "/tmp/news_lk2/articles/69/69f88501.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -65,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0d91\u0dba\u0dd2/101-616869",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dc0\u0dad\u0dca-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0d91\u0dba\u0dd2/1-616869",
     "time_ut": 1658475625,
     "original_lang": "si",
     "original_title": "\u0dad\u0dc0\u0dad\u0dca \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0d91\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1e/1e614225.json"
+    "file_name": "/tmp/news_lk2/articles/e8/e8af37ea.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -96,6 +128,14 @@
     "file_name": "/tmp/news_lk2/articles/86/8655d760.json"
   },
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83808/new-cabinet-of-ministers-sworn-in",
+    "time_ut": 1658475480,
+    "original_lang": "en",
+    "original_title": "New Cabinet of Ministers sworn in",
+    "file_name": "/tmp/news_lk2/articles/cc/cc3e262b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Kamal-Gunaratne-re-appointed-as-Defence-Secretary/108-241601",
     "time_ut": 1658474731,
@@ -110,6 +150,14 @@
     "original_lang": "en",
     "original_title": "Kamal Gunaratane re-appointed Defence Secretary",
     "file_name": "/tmp/news_lk2/articles/29/29c0d186.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83807/kamal-gunaratne-re-appointed-defence-secretary",
+    "time_ut": 1658474700,
+    "original_lang": "en",
+    "original_title": "Kamal Gunaratne re-appointed Defence Secretary",
+    "file_name": "/tmp/news_lk2/articles/bc/bc90a8d9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -161,11 +209,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dba-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dbb\u0daf\u0dca\u0daf\u0dd3-\u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0db1\u0dd1\u2018\u2018/101-616867",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dba-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dbb\u0daf\u0dca\u0daf\u0dd3-\u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0db1\u0dd1\u2018\u2018/1-616867",
     "time_ut": 1658474003,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dba \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0daf\u0dca\u0daf\u0dd3 \u0db8\u0dbb\u0dca\u0daf\u0db1\u0dba \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4 \u0db1\u0dd1\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/9c/9c29758c.json"
+    "file_name": "/tmp/news_lk2/articles/82/8270b8f4.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "70% of Sri Lankans believe that the Executive Presidency should be abolished",
     "file_name": "/tmp/news_lk2/articles/30/30a65610.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62213049",
-    "time_ut": 1658189522,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dbd\u0dc3\u0dca,\u0dbb\u0db1\u0dd2\u0dbd\u0dca,\u0d85\u0db1\u0dd4\u0dbb \u0d9a\u0dd4\u0db8\u0dcf\u0dbb \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc3\u0da7\u0db1\u0da7;\u0dc3\u0da2\u0dd2\u0dad\u0dca \u0db1\u0dcf\u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0db1\u0ddc\u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/40/4040e87e.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62202964",
-    "time_ut": 1658177198,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0dd3 \u0dad\u0dbb\u0d9c \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca,\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0db1 \u0db6\u0dc0 \u0dc3\u0dca\u0dae\u0dd2\u0dbb\u0dba\u0dd2!",
-    "file_name": "/tmp/news_lk2/articles/67/67e7349f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-police-probe-into-key-protest-leaders-receiving-overseas-money-97597/",
-    "time_ut": 1658175720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka police probe into key protest leaders receiving overseas money",
-    "file_name": "/tmp/news_lk2/articles/e1/e15e1491.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0bb5-\u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe/175-300696",
-    "time_ut": 1658175027,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe",
-    "file_name": "/tmp/news_lk2/articles/ef/ef1c28c7.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-opposition-mp-says-agreed-with-rival-on-post-presidential-vote-economy-97596/",
-    "time_ut": 1658174760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka opposition MP says agreed with rival on post-presidential vote economy",
-    "file_name": "/tmp/news_lk2/articles/9d/9d80c531.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Karu-says-new-President-Govt-must-find-solutions-to-crisis-through-common-consensus/56-737660",
-    "time_ut": 1658174157,
-    "original_lang": "en",
-    "original_title": "Karu says new President, Govt. must find solutions to crisis through common consensus",
-    "file_name": "/tmp/news_lk2/articles/30/307a8cfa.json"
   }
 ]
