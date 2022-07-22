@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Kamal-Gunaratne-re-appointed-as-Defence-Secretary/108-241601",
+    "time_ut": 1658474731,
+    "original_lang": "en",
+    "original_title": "Kamal Gunaratne re-appointed as Defence Secretary",
+    "file_name": "/tmp/news_lk2/articles/00/0010ed88.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83807/kamal-gunaratane-re-appointed-defence-secretary",
+    "time_ut": 1658474700,
+    "original_lang": "en",
+    "original_title": "Kamal Gunaratane re-appointed Defence Secretary",
+    "file_name": "/tmp/news_lk2/articles/29/29c0d186.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db8\u0dbd\u0dca-\u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0db0\u0dd4\u0dbb\u0dba\u0da7/1-616868",
+    "time_ut": 1658474493,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0db0\u0dd4\u0dbb\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/3a/3a983a72.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Hair-donation-for-cancer-patients/342-241600",
     "time_ut": 1658474258,
     "original_lang": "en",
@@ -17,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dba-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dbb\u0db1-\u0db8\u0ddc\u0dc4\u0dd9\u200d\u0dd9\u0dcf\u0dad\u0d9a-\u0db8\u0dbb\u0dca\u0daf\u0db1\u0d9a\u0dcf\u0dbb\u0dd3-\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dad\u0dca-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0db1\u0dd1/101-616867",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0dc3\u0dc4\u0dba-\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dbb\u0db1-\u0db8\u0ddc\u0dc4\u0dd9\u200d\u0dd9\u0dcf\u0dad\u0d9a-\u0db8\u0dbb\u0dca\u0daf\u0db1\u0d9a\u0dcf\u0dbb\u0dd3-\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dad\u0dca-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4-\u0db1\u0dd1/1-616867",
     "time_ut": 1658474003,
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dba \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0db1 \u0db8\u0ddc\u0dc4\u0dd9\u200d\u0dd9\u0dcf\u0dad\u0d9a \u0db8\u0dbb\u0dca\u0daf\u0db1\u0d9a\u0dcf\u0dbb\u0dd3 \u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dad\u0dca \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/b3/b3e2a626.json"
+    "file_name": "/tmp/news_lk2/articles/54/540725a6.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -33,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/101-616866",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca/1-616866",
     "time_ut": 1658473688,
     "original_lang": "si",
     "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2\u0db0 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/9a/9a8ee6de.json"
+    "file_name": "/tmp/news_lk2/articles/a7/a7360896.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "The people\u2019s uprising and the challenges of transition in Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/cb/cbdb5835.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Rebuilding-of-the-nation-by-its-youth-Aragalaya/4-737641",
-    "time_ut": 1658167145,
-    "original_lang": "en",
-    "original_title": "Rebuilding of the nation by its youth (Aragalaya)",
-    "file_name": "/tmp/news_lk2/articles/93/9307a13b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4-\u0b85\u0bb3\u0bb5\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-300684",
-    "time_ut": 1658166796,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bbe\u0ba4 \u0b85\u0bb3\u0bb5\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/9f/9ff456ee.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83728/previous-govt-was-covering-up-facts-about-financial-crisis-acting-president",
-    "time_ut": 1658166480,
-    "original_lang": "en",
-    "original_title": "Previous govt was \u2018covering up facts\u2019 about financial crisis - Acting President",
-    "file_name": "/tmp/news_lk2/articles/b0/b0666e27.json"
   }
 ]
