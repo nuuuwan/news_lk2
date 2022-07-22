@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132052",
+    "time_ut": 1658489148,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0ba4\u0bb5\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc1 -  \u0b9c\u0bcb\u0ba9\u0bcd\u0bb9\u0bca\u0baa\u0bcd\u0bb9\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bb4\u0b95 \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d2/d29235e6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132051",
+    "time_ut": 1658488781,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b92\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/e0/e05b1fdb.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132046",
+    "time_ut": 1658488645,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc7\u0bb0\u0bbe\u0baf\u0bb0\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/47/477ea4a6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132049",
     "time_ut": 1658488012,
     "original_lang": "ta",
@@ -80,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/25/25e8e016.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-616880",
+    "time_ut": 1658485357,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f9/f95abf93.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/22/only-4000-private-buses-in-operation/",
     "time_ut": 1658485320,
@@ -89,19 +121,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0d9a\u0dca-\u0d9c\u0ddc\u0da9-\u0db1\u0d9f\u0db1\u0dc0\u0dcf\u2018\u2018/101-616879",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0d9a\u0dca-\u0d9c\u0ddc\u0da9-\u0db1\u0d9f\u0db1\u0dc0\u0dcf\u2018\u2018/1-616879",
     "time_ut": 1658484953,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0d9a\u0dca \u0d9c\u0ddc\u0da9 \u0db1\u0d9f\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/dc/dc800fae.json"
+    "file_name": "/tmp/news_lk2/articles/9e/9eece3fb.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0db8\u0dcf\u0db1\u0dc0-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7/101-616878",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dcf\u0dbd\u0dd4-\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0db8\u0dcf\u0db1\u0dc0-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7/1-616878",
     "time_ut": 1658484947,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0db8\u0dcf\u0db1\u0dc0 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/0b/0b79aca5.json"
+    "file_name": "/tmp/news_lk2/articles/a1/a1482c83.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -153,11 +185,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7-\u0db4\u0da7\u0dc4\u0dd0\u0db1\u0dd2/101-616876",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7-\u0db4\u0da7\u0dc4\u0dd0\u0db1\u0dd2/1-616876",
     "time_ut": 1658481996,
     "original_lang": "si",
     "original_title": "\u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0db4\u0dd0\u0db1\u0dc0\u0dd3\u0db8 \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0db4\u0da7\u0dc4\u0dd0\u0db1\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f6/f60337ce.json"
+    "file_name": "/tmp/news_lk2/articles/63/630f2f1f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sajith Premadasa withdraws from race for President",
     "file_name": "/tmp/news_lk2/articles/02/02669b4a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7-\u0db4\u0dcf\u0dbb-\u0d9a\u0dd0\u0db4\u0dd3\u0db8/26-616660",
-    "time_ut": 1658205164,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0da7 \u0db4\u0dcf\u0dbb \u0d9a\u0dd0\u0db4\u0dd3\u0db8",
-    "file_name": "/tmp/news_lk2/articles/85/85833337.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/72-300704",
-    "time_ut": 1658204494,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd; \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d1/d1ca4f04.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sajith-withdraws-from-sri-lanka-president-race-97625/",
-    "time_ut": 1658204460,
-    "original_lang": "en",
-    "original_title": "Sajith withdraws from Sri Lanka President race",
-    "file_name": "/tmp/news_lk2/articles/bd/bd62ec03.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0dc0\u0dd9\u0dba\u0dd2-/1-616659",
-    "time_ut": 1658204129,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dd9\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/b0/b0694f38.json"
   }
 ]
