@@ -1,22 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-22 23:29:00 (LK time)*
+*As of 2022-07-22 23:42:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-mirror-lk ([Chinese President offers Sri Lanka’s new president support amid crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58a5e104.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
 
-## Last 3 Hours (28 Articles)
-
-* **7** news-first-lk ([Ranil brutal than Gota : Ven. Omalpe Sobitha Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1128ba50.json))
+## Last 3 Hours (25 Articles)
 
 * **6** virakesari-lk ([போராட்டக்காரர்கள் மீது படையினர் வன்முறை : கோட்டை ரயில் நிலையம் முன்பாக மீண்டும் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c31516c1.json))
+
+* **4** news-first-lk ([GGG Raid: Protestor defied repeated calls to vacate – Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564e9582.json))
 
 * **3** daily-mirror-lk ([Gazette issued nominating Vajira Abeywardena as National List MP](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5424da1c.json))
 
@@ -28,7 +24,7 @@
 
 * **3** tamil-mirror-lk ([ஐ.நாவிடம் மகஜர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36fcd1a8.json))
 
-## Last 24 Hours (280 Articles)
+## Last 24 Hours (281 Articles)
 
 * **55** virakesari-lk ([கொழும்பில் பதற்றம் : ஜனாதிபதி செயலகத்தை முற்றுகையிட்டது இராணுவம் : கோட்டா கோ கம போரட்டக்காரர்கள் விரட்டியடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9aeaa499.json))
 
@@ -38,7 +34,7 @@
 
 * **28** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
 
-* **27** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
+* **28** ada-lk ([ආරක්ෂක අංශ මහ රෑ ගෝඨාගෝමට කඩාවදියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35b7a654.json))
 
 * **24** tamil-mirror-lk ([யாழ் மாவட்டத்தில் சீரான எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb166777.json))
 
@@ -52,7 +48,7 @@
 
 * **2** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-## Last Week (1,827 Articles)
+## Last Week (1,828 Articles)
 
 * **354** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -62,7 +58,7 @@
 
 * **197** tamil-mirror-lk ([’தினேஷ் குணவர்தன பதில் பிரதமராகவேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aa029fc.json))
 
-* **189** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
+* **190** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
 * **156** ada-derana-lk ([Sajith Premadasa says he will vie for presidency](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb2a47c4.json))
 
@@ -80,7 +76,7 @@
 
 * **17** d-b-s-jeyaraj-com ([Sri Lanka teetered unsteadily on the edge of anarchy but  sanity prevailed and the country stepped back from the edge.](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c51f6eab.json))
 
-## All Time (3,633 Articles)
+## All Time (3,634 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +84,7 @@
 
 * **444** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
-* **389** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **390** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **355** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
