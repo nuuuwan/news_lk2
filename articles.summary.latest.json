@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-cabinet-sworn-in-Ali-Sabry-appointed-Foreign-Affairs-Minister/108-241603",
+    "time_ut": 1658479760,
+    "original_lang": "en",
+    "original_title": "New cabinet sworn-in ; Ali Sabry appointed Foreign Affairs Minister",
+    "file_name": "/tmp/news_lk2/articles/26/260c8c0f.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/New-PM-Cabinet-take-oath-in-presence-of-President-RW/56-737796",
     "time_ut": 1658478070,
@@ -41,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4--18\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/101-616872",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4--18\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/1-616872",
     "time_ut": 1658476527,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4  18\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/68/686b0309.json"
+    "file_name": "/tmp/news_lk2/articles/c3/c345a988.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -3518,6 +3526,14 @@
     "original_lang": "en",
     "original_title": "Logistics start-up RouteSonar helps firms maximise returns on fleet management",
     "file_name": "/tmp/news_lk2/articles/3b/3bd6dccb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78678",
+    "time_ut": 1658345040,
+    "original_lang": "en",
+    "original_title": "18 Sworn in as Cabinet Ministers Before President Ranil Wickremesinghe;GL Peiris Replaced by  Ali Sabry as Foreign Minister; Prime Minister Dinesh Gunawardena Gets Public Administration, Home Affairs, Provincial Councils, and Local Government",
+    "file_name": "/tmp/news_lk2/articles/93/93cfda8f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka executive presidency opposed by 70-pct: Poll",
     "file_name": "/tmp/news_lk2/articles/13/136a6aea.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131744",
-    "time_ut": 1658195373,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0ba3\u0bae\u0bcd \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe ? \u0b89\u0ba3\u0bcd\u0bae\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 !",
-    "file_name": "/tmp/news_lk2/articles/6a/6a8b9246.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/70-of-Sri-Lankans-believe-that-the-Executive-Presidency-should-be-abolished/108-241361",
-    "time_ut": 1658193581,
-    "original_lang": "en",
-    "original_title": "70% of Sri Lankans believe that the Executive Presidency should be abolished",
-    "file_name": "/tmp/news_lk2/articles/30/30a65610.json"
   }
 ]

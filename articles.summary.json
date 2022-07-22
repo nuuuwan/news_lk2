@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-cabinet-sworn-in-Ali-Sabry-appointed-Foreign-Affairs-Minister/108-241603",
+    "time_ut": 1658479760,
+    "original_lang": "en",
+    "original_title": "New cabinet sworn-in ; Ali Sabry appointed Foreign Affairs Minister",
+    "file_name": "/tmp/news_lk2/articles/26/260c8c0f.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/New-PM-Cabinet-take-oath-in-presence-of-President-RW/56-737796",
     "time_ut": 1658478070,
@@ -41,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4--18\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/101-616872",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4--18\u0d9a\u0dca-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2/1-616872",
     "time_ut": 1658476527,
     "original_lang": "si",
     "original_title": "\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4  18\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/68/686b0309.json"
+    "file_name": "/tmp/news_lk2/articles/c3/c345a988.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -3518,6 +3526,14 @@
     "original_lang": "en",
     "original_title": "Logistics start-up RouteSonar helps firms maximise returns on fleet management",
     "file_name": "/tmp/news_lk2/articles/3b/3bd6dccb.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78678",
+    "time_ut": 1658345040,
+    "original_lang": "en",
+    "original_title": "18 Sworn in as Cabinet Ministers Before President Ranil Wickremesinghe;GL Peiris Replaced by  Ali Sabry as Foreign Minister; Prime Minister Dinesh Gunawardena Gets Public Administration, Home Affairs, Provincial Councils, and Local Government",
+    "file_name": "/tmp/news_lk2/articles/93/93cfda8f.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
