@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 22:13:12 (LK time)*
+*As of 2022-07-23 22:28:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
 * **2** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
 
-* **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
+## Last 3 Hours (14 Articles)
 
-## Last 3 Hours (16 Articles)
-
-* **7** daily-mirror-lk ([Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab25906e.json))
+* **6** daily-mirror-lk ([Station masters to stay away from issuing tickets from 6.00 ﻿pm today](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/918be182.json))
 
 * **3** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
 
@@ -22,27 +20,25 @@
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-* **1** ada-lk ([කොවිඩ් ආසාදිතයන් 72ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5494fdb5.json))
-
-## Last 24 Hours (158 Articles)
-
-* **24** daily-mirror-lk ([Aragalaya President Wickremesinghe should have initiated dialogue with protesters - Mano Ganesan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1beced0.json))
-
-* **22** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cf3848.json))
+## Last 24 Hours (152 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
-* **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
+* **22** daily-mirror-lk ([Cabinet discusses country to be normalized in one week](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d02d43d2.json))
 
-* **17** news-first-lk ([Wajira to fill Ranil’s vacancy](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/279fc96c.json))
+* **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
+
+* **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
 * **17** tamil-mirror-lk ([பாராளுமன்ற உறுப்பினரானார் வஜிர அபேவர்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a319628.json))
 
-* **15** ada-derana-lk ([Vajira Abeywardena appointed to UNP’s vacant MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c204522.json))
+* **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
+
+* **14** ada-derana-lk ([US envoy meets President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0bf75f.json))
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
-* **8** economy-next-com ([Sri Lanka t-bond yields further down ; rupee guidance peg up](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8a61049.json))
+* **7** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
 * **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
