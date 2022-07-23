@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Recall-COVID-technical-committee-make-face-masks-mandatory-GMOA-tells-health-authorities/108-241669",
+    "time_ut": 1658584156,
+    "original_lang": "en",
+    "original_title": "Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities",
+    "file_name": "/tmp/news_lk2/articles/2e/2e662173.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/25\u0daf\u0dcf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0d9a\u0dd0\u0db3\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-SJB-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395682",
+    "time_ut": 1658583337,
+    "original_lang": "si",
+    "original_title": "25\u0daf\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d9a\u0dd0\u0db3\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 SJB \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f4/f4babf6c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/23/hrw-urges-president-to-cease-unlawful-use-of-force-against-protestors/",
     "time_ut": 1658581800,
@@ -1329,11 +1345,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Cannot-stop-struggle-through-suppression-NPP/342-241615",
+    "url": "https://www.dailymirror.lk/breaking_news/Cannot-stop-struggle-through-suppression-NPP/108-241615",
     "time_ut": 1658498641,
     "original_lang": "en",
     "original_title": "Cannot stop struggle through suppression: NPP",
-    "file_name": "/tmp/news_lk2/articles/2f/2f25e220.json"
+    "file_name": "/tmp/news_lk2/articles/85/85fedbc1.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1497,11 +1513,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/New-COVID-Omicron-variant-deadlier-than-Delta-wear-facemasks-Medical-Specialists-warn/342-241609",
+    "url": "https://www.dailymirror.lk/breaking_news/New-COVID-Omicron-variant-deadlier-than-Delta-wear-facemasks-Medical-Specialists-warn/108-241609",
     "time_ut": 1658491993,
     "original_lang": "en",
     "original_title": "New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn",
-    "file_name": "/tmp/news_lk2/articles/7b/7bec0b19.json"
+    "file_name": "/tmp/news_lk2/articles/cc/cc2f6cd5.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1545,11 +1561,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Karu-Jayasuriya-condemns-attack-on-Galle-Face-protesters/342-241607",
+    "url": "https://www.dailymirror.lk/breaking_news/Karu-Jayasuriya-condemns-attack-on-Galle-Face-protesters/108-241607",
     "time_ut": 1658490123,
     "original_lang": "en",
     "original_title": "Karu Jayasuriya condemns attack on Galle Face protesters",
-    "file_name": "/tmp/news_lk2/articles/18/18063b19.json"
+    "file_name": "/tmp/news_lk2/articles/a2/a229f042.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1961,11 +1977,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Senesh-and-Charuka-stand-rescue-Thomians/342-241567",
+    "url": "https://www.dailymirror.lk/caption_story/Senesh-and-Charuka-stand-rescue-Thomians/110-241567",
     "time_ut": 1658463278,
     "original_lang": "en",
     "original_title": "Senesh and Charuka stand rescue Thomians",
-    "file_name": "/tmp/news_lk2/articles/ee/ee54e95d.json"
+    "file_name": "/tmp/news_lk2/articles/7c/7c8ccea0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -4593,11 +4609,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Four-fuel-shipments-to-reach-SL-this-month/155-240238",
+    "url": "https://www.dailymirror.lk/breaking_news/Four-fuel-shipments-to-reach-SL-this-month/108-240238",
     "time_ut": 1656835907,
     "original_lang": "en",
     "original_title": "Four fuel shipments to reach SL this month",
-    "file_name": "/tmp/news_lk2/articles/cc/ccccd23a.json"
+    "file_name": "/tmp/news_lk2/articles/b0/b0cbb486.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -4945,11 +4961,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/SL-amends-limit-on-foreign-currency-possession/155-239794",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-amends-limit-on-foreign-currency-possession/108-239794",
     "time_ut": 1656138997,
     "original_lang": "en",
     "original_title": "SL amends limit on foreign currency possession",
-    "file_name": "/tmp/news_lk2/articles/e8/e8c28d83.json"
+    "file_name": "/tmp/news_lk2/articles/e6/e6395b4a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5097,11 +5113,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/155-239279",
+    "url": "https://www.dailymirror.lk/main_image/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/346-239279",
     "time_ut": 1655485620,
     "original_lang": "en",
     "original_title": "Food crisis likely to affect around four to five million people - PM",
-    "file_name": "/tmp/news_lk2/articles/4a/4a0e923b.json"
+    "file_name": "/tmp/news_lk2/articles/ba/ba1f9e39.json"
   },
   {
     "newspaper_id": "island-lk",
