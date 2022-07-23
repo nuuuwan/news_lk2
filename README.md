@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 02:42:38 (LK time)*
+*As of 2022-07-24 02:54:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (2 Articles)
+## Last 3 Hours (1 Articles)
 
 * **1** ada-derana-lk ([Protesters didn’t heed previous requests to vacate Presidential Secretariat: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a162abbc.json))
-
-* **1** tamil-mirror-lk ([தமிழ் நாட்டிலிருந்து மற்றுமொரு நிவாரண கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31e411ca.json))
 
 ## Last 24 Hours (130 Articles)
 
