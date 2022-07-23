@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Tamil-Nadu-sends-INR74-crore-worth-rice-medicines-to-Sri-Lanka/108-241667",
+    "time_ut": 1658574554,
+    "original_lang": "en",
+    "original_title": "Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/51/51b2957c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bb5\u0bbf\u0ba9\u0bcd-\u0b86\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf/175-300963",
+    "time_ut": 1658573690,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0b86\u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/cb/cbf1f689.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bcd\u0bae\u0bbf\u0b95\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0bae\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf/175-300963",
     "time_ut": 1658573690,
@@ -297,11 +313,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Over-1-000-valuable-artefacts-missing-in-state-premises-taken-over-by-protesters/342-241664",
+    "url": "https://www.dailymirror.lk/breaking_news/Over-1-000-valuable-artefacts-missing-in-state-premises-taken-over-by-protesters/108-241664",
     "time_ut": 1658562648,
     "original_lang": "en",
     "original_title": "Over 1,000 valuable artefacts missing in state premises taken over by protesters",
-    "file_name": "/tmp/news_lk2/articles/ba/ba4985f7.json"
+    "file_name": "/tmp/news_lk2/articles/46/469ceda5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -705,11 +721,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/CCC-submits-proposal-to-PUCSL-for-effective-electricity-tariff-revision/108-241645",
+    "url": "https://www.dailymirror.lk/business__main/CCC-submits-proposal-to-PUCSL-for-effective-electricity-tariff-revision/245-241645",
     "time_ut": 1658516769,
     "original_lang": "en",
     "original_title": "CCC submits proposal to PUCSL for effective electricity tariff revision",
-    "file_name": "/tmp/news_lk2/articles/5b/5bebff51.json"
+    "file_name": "/tmp/news_lk2/articles/66/667a402a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -2137,11 +2153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Give-the-new-President-time-to-prove-himself/172-241541",
+    "url": "https://www.dailymirror.lk/opinion/Give-the-new-President-time-to-prove-himself/231-241541",
     "time_ut": 1658434767,
     "original_lang": "en",
     "original_title": "Give the new President time to prove himself",
-    "file_name": "/tmp/news_lk2/articles/fd/fdc93c82.json"
+    "file_name": "/tmp/news_lk2/articles/3f/3fe04eec.json"
   },
   {
     "newspaper_id": "colombo-telegraph-com",
@@ -2825,11 +2841,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RW-AKD-Dullas-to-contest-for-presidency-tomorrow/342-241368",
+    "url": "https://www.dailymirror.lk/top_story/RW-AKD-Dullas-to-contest-for-presidency-tomorrow/155-241368",
     "time_ut": 1658206360,
     "original_lang": "en",
     "original_title": "RW, AKD, Dullas to contest for presidency tomorrow",
-    "file_name": "/tmp/news_lk2/articles/ac/aca9a8b3.json"
+    "file_name": "/tmp/news_lk2/articles/88/88b6ae73.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -3513,11 +3529,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/172-241103",
+    "url": "https://www.dailymirror.lk/opinion/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/231-241103",
     "time_ut": 1657832956,
     "original_lang": "en",
     "original_title": "Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -",
-    "file_name": "/tmp/news_lk2/articles/11/1191310b.json"
+    "file_name": "/tmp/news_lk2/articles/5b/5b2ef66d.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -4593,11 +4609,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Japan-will-not-help-SL-now/342-240126",
+    "url": "https://www.dailymirror.lk/top_story/Japan-will-not-help-SL-now/155-240126",
     "time_ut": 1656643666,
     "original_lang": "en",
     "original_title": "Japan will not help SL now",
-    "file_name": "/tmp/news_lk2/articles/d4/d4730f59.json"
+    "file_name": "/tmp/news_lk2/articles/44/446d6352.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -4921,11 +4937,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/238-239279",
+    "url": "https://www.dailymirror.lk/top_story/Food-crisis-likely-to-affect-around-four-to-five-million-people-PM/155-239279",
     "time_ut": 1655485620,
     "original_lang": "en",
     "original_title": "Food crisis likely to affect around four to five million people - PM",
-    "file_name": "/tmp/news_lk2/articles/58/580fe720.json"
+    "file_name": "/tmp/news_lk2/articles/4a/4a0e923b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -5081,11 +5097,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/342-237802",
+    "url": "https://www.dailymirror.lk/top_story/Basil-fights-back-to-save-his-political-future-as-RW-pushes-for-21A-today/155-237802",
     "time_ut": 1653613036,
     "original_lang": "en",
     "original_title": "Basil fights back to save his political future as RW pushes for 21A today",
-    "file_name": "/tmp/news_lk2/articles/1e/1e5080db.json"
+    "file_name": "/tmp/news_lk2/articles/9b/9bb25c37.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5097,19 +5113,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/342-237090",
+    "url": "https://www.dailymirror.lk/top_story/The-next-couple-of-months-will-be-the-most-difficult-of-our-lives-PM-informs-the-nation/155-237090",
     "time_ut": 1652707634,
     "original_lang": "en",
     "original_title": "The next couple of months will be the most difficult of our lives, PM informs the nation",
-    "file_name": "/tmp/news_lk2/articles/f7/f7f6417f.json"
+    "file_name": "/tmp/news_lk2/articles/c8/c8812a81.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/More-Ministers-to-be-sworn-in-today/342-237068",
+    "url": "https://www.dailymirror.lk/breaking_news/More-Ministers-to-be-sworn-in-today/108-237068",
     "time_ut": 1652674218,
     "original_lang": "en",
     "original_title": "More Ministers to be sworn in today",
-    "file_name": "/tmp/news_lk2/articles/06/0624a4d0.json"
+    "file_name": "/tmp/news_lk2/articles/10/10ffd170.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5153,27 +5169,27 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Cardinal-says-recommendations-made-by-PCoI-delayed/342-235439",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-says-recommendations-made-by-PCoI-delayed/108-235439",
     "time_ut": 1650544177,
     "original_lang": "en",
     "original_title": "Cardinal says recommendations made by PCoI delayed",
-    "file_name": "/tmp/news_lk2/articles/2e/2e3852bd.json"
+    "file_name": "/tmp/news_lk2/articles/d1/d1618b2b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protestors-refuse-to-meet-PM-put-forward-two-demands/342-235062",
+    "url": "https://www.dailymirror.lk/breaking_news/Protestors-refuse-to-meet-PM-put-forward-two-demands/108-235062",
     "time_ut": 1649852682,
     "original_lang": "en",
     "original_title": "Protestors refuse to meet PM, put forward two demands",
-    "file_name": "/tmp/news_lk2/articles/aa/aa07d86a.json"
+    "file_name": "/tmp/news_lk2/articles/74/74a1c7c3.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Protest-erupts-outside-GRs-sons-house-in-LA/342-234458",
+    "url": "https://www.dailymirror.lk/breaking_news/Protest-erupts-outside-GRs-sons-house-in-LA/108-234458",
     "time_ut": 1649064072,
     "original_lang": "en",
     "original_title": "Protest erupts outside GR\u2019s son\u2019s house in LA",
-    "file_name": "/tmp/news_lk2/articles/be/be204663.json"
+    "file_name": "/tmp/news_lk2/articles/64/64debc1b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5193,11 +5209,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Payment-for-already-imported-food-containers-under-Indian-credit-line-hampered/155-233608",
+    "url": "https://www.dailymirror.lk/breaking_news/Payment-for-already-imported-food-containers-under-Indian-credit-line-hampered/108-233608",
     "time_ut": 1647965307,
     "original_lang": "en",
     "original_title": "Payment for already imported food containers under Indian credit line hampered",
-    "file_name": "/tmp/news_lk2/articles/60/60590ffd.json"
+    "file_name": "/tmp/news_lk2/articles/a1/a1aec419.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5209,11 +5225,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/PM-says-Ranil-a-good-friend-but-no-national-government/342-232887",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-says-Ranil-a-good-friend-but-no-national-government/108-232887",
     "time_ut": 1647019435,
     "original_lang": "en",
     "original_title": "PM says Ranil a good friend, but no national government",
-    "file_name": "/tmp/news_lk2/articles/d2/d268fbd2.json"
+    "file_name": "/tmp/news_lk2/articles/e2/e2aaf8de.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5257,19 +5273,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Cardinal-meets-Pope-Francis/155-231954",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-meets-Pope-Francis/108-231954",
     "time_ut": 1645977147,
     "original_lang": "en",
     "original_title": "Cardinal meets Pope Francis",
-    "file_name": "/tmp/news_lk2/articles/d6/d6477b3a.json"
+    "file_name": "/tmp/news_lk2/articles/d1/d11be7ad.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Over-5-hour-power-cuts-on-Monday/155-231944",
+    "url": "https://www.dailymirror.lk/breaking_news/Over-5-hour-power-cuts-on-Monday/108-231944",
     "time_ut": 1645974382,
     "original_lang": "en",
     "original_title": "Over 5-hour power cuts on Monday",
-    "file_name": "/tmp/news_lk2/articles/f5/f5ed3718.json"
+    "file_name": "/tmp/news_lk2/articles/0f/0f7e3242.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
