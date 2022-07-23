@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 00:42:39 (LK time)*
+*As of 2022-07-24 00:53:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** tamil-mirror-lk ([தமிழ் நாட்டிலிருந்து மற்றுமொரு நிவாரண கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31e411ca.json))
 
 ## Last 3 Hours (5 Articles)
 
@@ -16,7 +12,7 @@
 
 * **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
-## Last 24 Hours (132 Articles)
+## Last 24 Hours (131 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -24,11 +20,11 @@
 
 * **17** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
 
-* **16** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
-
 * **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
 * **15** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
+
+* **15** daily-mirror-lk ([What is happening to Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85f28ef1.json))
 
 * **15** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
 
