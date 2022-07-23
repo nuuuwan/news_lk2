@@ -1,0 +1,243 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd/75-300927",
+  "time_ut": 1658492407,
+  "original_lang": "ta",
+  "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+  "text_idx": {
+    "en": {
+      "title": "Two deaths in fuel row",
+      "author": "unknown",
+      "body_lines": [
+        "Two more people were killed while standing in the fuel line. A 64-year-old man has died in Madhugama, Belawat.",
+        "In this case, one of the people who was waiting in line to get fuel at a fuel station in Kinnyal died yesterday (22) around 12 noon.",
+        "49-year-old Muhammad Ramlan Sharif from Kinnia Nudchenai area is the deceased.",
+        "It is noteworthy that he was waiting in the fuel line for more than 24 hours"
+      ],
+      "title_ents": [
+        {
+          "text": "Two",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Madhugama",
+            "label": "GPE"
+          },
+          {
+            "text": "Belawat",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "one",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Kinnyal",
+            "label": "NORP"
+          },
+          {
+            "text": "yesterday",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "around 12 noon",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "49-year-old",
+            "label": "DATE"
+          },
+          {
+            "text": "Muhammad Ramlan Sharif",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kinnia",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "more than 24 hours",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0d9a\u0daf\u0dd3 \u0db8\u0dbb\u0dab \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dda \u0dc3\u0dd2\u0da7\u0d9c\u0dd9\u0db1 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0daf\u0dd3 \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dba\u0dc4. \u0db6\u0dd9\u0dbd\u0dc0\u0dad\u0dca, \u0db8\u0db0\u0dd4\u0d9c\u0db8 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda\u0daf\u0dd3 64 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0db8\u0dd9\u0db8 \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d8a\u0dba\u0dda (22) \u0daf\u0dc4\u0dc0\u0dbd\u0dca 12 \u0da7 \u0db4\u0db8\u0dab \u0d9a\u0dd2\u0db1\u0dca\u0db1\u0dd2\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dc3\u0dd2\u0da7\u0dd2 \u0d91\u0d9a\u0dca \u0d85\u0dba\u0d9a\u0dd4 \u0db8\u0dd2\u0dba\u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dd2\u0db6\u0dda.",
+        "\u0d9a\u0dd2\u0db1\u0dca\u0db1\u0dd2\u0dba\u0dcf \u0db1\u0dd4\u0da9\u0dca\u0da0\u0dda\u0db1\u0dba\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 49 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0db8\u0dd4\u0dc4\u0db8\u0dca\u0db8\u0daf\u0dca \u0dbb\u0db8\u0dca\u0dbd\u0dcf\u0db1\u0dca \u0dc2\u0dbb\u0dd3\u0dc6\u0dca \u0db1\u0db8\u0dd0\u0dad\u0dd2 \u0d85\u0dba\u0dd9\u0d9a\u0dd2.",
+        "\u0d94\u0dc4\u0dd4 \u0db4\u0dd0\u0dba 24\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0dbb\u0dd0\u0db3\u0dd3 \u0dc3\u0dd2\u0da7\u0dd3\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dd2"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dd9\u0d9a",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0db0\u0dd4\u0d9c\u0db8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0db6\u0dd9\u0dbd\u0dc0\u0dad\u0dca",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d91\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0db1\u0dca\u0db1\u0dd2\u0dba\u0dcf\u0dbd\u0dca",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d8a\u0dba\u0dda",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0daf\u0dc4\u0dc0\u0dbd\u0dca 12\u0da7 \u0db4\u0db8\u0dab",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "49 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dc4\u0db8\u0dca\u0db8\u0daf\u0dca \u0dbb\u0db8\u0dca\u0dbd\u0dcf\u0db1\u0dca \u0dc2\u0dbb\u0dd3\u0dc6\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0db1\u0dca\u0db1\u0dd2\u0dba\u0dcf",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db4\u0dd0\u0dba 24 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+      "author": "unknown",
+      "body_lines": [
+        "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd. \u0baa\u0bc6\u0bb2\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd 64 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bbe\u0bb2\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd\u00a0 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd, \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 (22) \u0baa\u0b95\u0bb2\u0bcd 12 \u0bae\u0ba3\u0bbf\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bbe\u00a0 \u0bae\u0bc1\u0ba9\u0bc8\u0b9a\u0bcd\u0b9a\u0bc7\u0ba9\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0ba4\u0bcd\u0ba4\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u00a0 49 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9 \u0bae\u0bc1\u0bb9\u0bae\u0b9f\u0bcd \u0bb0\u0bae\u0bcd\u0bb2\u0bbe\u0ba9\u0bcd \u0b9a\u0bb0\u0bc0\u0baa\u0bcd\u00a0 \u0b8e\u0ba9\u0bcd\u0baa\u0bb5\u0bb0\u0bc7\u00a0 \u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bbe\u0bb5\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb5\u0bb0\u0bcd, \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 24 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bbe\u0b95 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0ba4\u0bc1"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+          "label": "CARDINAL"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bc1\u0b95\u0bae",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc6\u0bb2\u0bbe\u0bb5\u0ba4\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bb2\u0bcd",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "22",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bbf\u0baf\u0bae\u0bcd 12 \u0bae\u0ba3\u0bbf\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd",
+            "label": "TIME"
+          }
+        ],
+        [
+          {
+            "text": "49 \u0bb5\u0baf\u0ba4\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0bb9\u0bae\u0bcd\u0bae\u0ba4\u0bc1 \u0bb0\u0bae\u0bcd\u0bb2\u0bbe\u0ba9\u0bcd \u0bb7\u0bc6\u0bb0\u0bc0\u0baa\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          }
+        ],
+        [
+          {
+            "text": "24 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bbe\u0b95",
+            "label": "TIME"
+          }
+        ]
+      ]
+    }
+  }
+}
