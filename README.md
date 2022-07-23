@@ -1,10 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 06:19:51 (LK time)*
+*As of 2022-07-23 06:45:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (279 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
+
+## Last Hour (1 Articles)
+
+* **1** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
+
+## Last 3 Hours (1 Articles)
+
+* **1** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
+
+## Last 24 Hours (280 Articles)
 
 * **57** virakesari-lk ([கோட்டா கோ கம போராட்டக்காரர்கள் கலைக்கப்பட்டனர் : 8 பேர் கைது - பொலிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969817f2.json))
 
@@ -18,7 +30,7 @@
 
 * **25** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **21** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
+* **22** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
 
 * **15** daily-ft-lk ([New PM, Cabinet take oath in presence of President RW](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c96bf53b.json))
 
@@ -28,7 +40,7 @@
 
 * **4** b-b-c-com-sinhala (["ඕගොල්ලෝ ජාත්‍යන්තර වශයෙන් චාටර් වෙන්න මේ හදන්නේ":අද අලුයම ගාලු මුවදොර අරගල භූමියේදී මොකද වුනේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccf4052.json))
 
-## Last Week (1,838 Articles)
+## Last Week (1,839 Articles)
 
 * **363** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -36,7 +48,7 @@
 
 * **202** daily-mirror-lk ([Acting President has edge with SLPP support](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba14686f.json))
 
-* **195** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
+* **196** tamil-mirror-lk ([ஜனநாயக செயன்முறைக்கு மதிப்பளிக்க வேண்டும்: அவுஸ்திரேலியா](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c5f66b63.json))
 
 * **191** ada-lk ([ණය බර ලිහිල් කිරීම සඳහා ශ්‍රී ලංකාවට සහාය දැක්වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad7d7f59.json))
 
@@ -56,7 +68,7 @@
 
 * **20** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,681 Articles)
+## All Time (3,682 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +78,7 @@
 
 * **391** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **359** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
+* **360** tamil-mirror-lk ([3,740 மெட்ரிக் தொன் எரிவாயு  இன்று வருகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/915183d6.json))
 
 * **278** ada-derana-lk ([Pope tells leaders of Sri Lanka not to ignore needs of the people](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67ed81d4.json))
 
