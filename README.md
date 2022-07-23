@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 19:43:39 (LK time)*
+*As of 2022-07-23 19:54:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** daily-mirror-lk ([Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e662173.json))
 
 ## Last Hour (2 Articles)
 
