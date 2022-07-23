@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 20:32:47 (LK time)*
+*As of 2022-07-23 20:42:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **3** daily-mirror-lk ([’’SLCGS Jayesagara’’ joins SLCG fleet](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85b0122a.json))
+* **1** daily-mirror-lk ([President instructs to speed up and streamline fuel distribution island-wide](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fa75059.json))
 
 * **1** ada-derana-lk ([WHO declares monkeypox a global emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a3de3c.json))
 
@@ -16,7 +16,7 @@
 
 * **2** ada-derana-lk ([PUCSL approves three-hour power cuts for July 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7273d67a.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (18 Articles)
 
 * **6** daily-mirror-lk ([Schools reopen from Monday; three days per week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0a0bbd7.json))
 
@@ -24,15 +24,13 @@
 
 * **4** news-first-lk ([Protestors were unwilling to vacate premises: Police Spokesperson](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9d89c0.json))
 
-* **3** tamil-mirror-lk ([விலைகள் விரைவில்  குறையும் சாத்தியம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66ad5e00.json))
+* **2** tamil-mirror-lk ([பெற்றோலுடன் கவிழ்ந்த பௌசர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84363dd1.json))
 
 * **1** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
 
 * **1** virakesari-lk ([ஒன்றுகூடல்கள், ஆர்ப்பாட்டங்களை கலைக்க பொலிஸ், முப்படைக்கு சிறப்பு அதிகாரங்கள் :  சட்டத்தை அமுல் செய்ய தயங்கப் போவதில்லை என பொலிஸார் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebf387f.json))
 
-## Last 24 Hours (171 Articles)
-
-* **23** news-first-lk ([Ranil brutal than Gota : Ven. Omalpe Sobitha Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/1128ba50.json))
+## Last 24 Hours (168 Articles)
 
 * **22** daily-mirror-lk ([Aragalaya President Wickremesinghe should have initiated dialogue with protesters - Mano Ganesan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1beced0.json))
 
@@ -41,6 +39,8 @@
 * **22** virakesari-lk ([எதிர்ப்பை வெளிக்காட்டுவதற்கான ஜனநாயக உரிமையை அரசாங்கம் பாதுகாக்க வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6740ca.json))
 
 * **21** lankadeepa-lk ([නව අග්‍රාමාත්‍ය දිනේෂ් ධර්මායතනයට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6972099.json))
+
+* **20** news-first-lk ([GGG Raid: Protestor defied repeated calls to vacate – Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/564e9582.json))
 
 * **16** ada-derana-lk ([Three-hour power cuts expected tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e880dbdd.json))
 
