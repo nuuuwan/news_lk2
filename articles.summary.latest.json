@@ -9,6 +9,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/30-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9-\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd-\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd/175-300985",
+    "time_ut": 1658604084,
+    "original_lang": "ta",
+    "original_title": "30 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9 \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/10/103da0c6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd/175-300984",
     "time_ut": 1658600327,
     "original_lang": "ta",
@@ -158,6 +166,14 @@
     "original_lang": "en",
     "original_title": "PUCSL approves three-hour power cuts for July 24",
     "file_name": "/tmp/news_lk2/articles/72/7273d67a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/maldives-nation-of-1-190-islands/",
+    "time_ut": 1658584800,
+    "original_lang": "en",
+    "original_title": "Maldives \u2013 Nation of 1.190 islands",
+    "file_name": "/tmp/news_lk2/articles/01/01627b55.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -336,12 +352,44 @@
     "file_name": "/tmp/news_lk2/articles/e8/e89a2055.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ranil-is-flying-showing-his-colours/",
+    "time_ut": 1658574660,
+    "original_lang": "en",
+    "original_title": "Ranil is flying showing his colours",
+    "file_name": "/tmp/news_lk2/articles/a1/a181085c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/futa-condemns-military-attack-on-protesters/",
+    "time_ut": 1658574600,
+    "original_lang": "en",
+    "original_title": "FUTA condemns military attack on protesters",
+    "file_name": "/tmp/news_lk2/articles/a8/a85ebc52.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Tamil-Nadu-sends-INR74-crore-worth-rice-medicines-to-Sri-Lanka/108-241667",
     "time_ut": 1658574554,
     "original_lang": "en",
     "original_title": "Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/51/51b2957c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/un-to-host-over-190-world-leaders-and-delegates-despite-threats-from-deadly-new-covid-19-variant/",
+    "time_ut": 1658574540,
+    "original_lang": "en",
+    "original_title": "UN to host over 190 world leaders and delegates \u2014 Despite threats from deadly new Covid-19 variant",
+    "file_name": "/tmp/news_lk2/articles/79/79f65a85.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dealing-with-unusual-challenges/",
+    "time_ut": 1658574060,
+    "original_lang": "en",
+    "original_title": "DEALING WITH UNUSUAL CHALLENGES",
+    "file_name": "/tmp/news_lk2/articles/b7/b71b64f0.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -376,6 +424,14 @@
     "file_name": "/tmp/news_lk2/articles/51/51185ead.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/indias-mango-man-father-of-300-varieties/",
+    "time_ut": 1658573100,
+    "original_lang": "en",
+    "original_title": "India\u2019s mango man , father of 300 varieties",
+    "file_name": "/tmp/news_lk2/articles/a0/a0f7c301.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0dad-\u0d86\u0dbb\u0db8\u0dca\u0db7\u0dc0\u0dda/11-395674",
     "time_ut": 1658572183,
@@ -408,12 +464,28 @@
     "file_name": "/tmp/news_lk2/articles/a0/a0c7ef47.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sajith-takes-a-step-back/",
+    "time_ut": 1658571480,
+    "original_lang": "en",
+    "original_title": "Sajith takes a step back",
+    "file_name": "/tmp/news_lk2/articles/a6/a691620c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bcb\u0b95-\u0bae\u0bc1\u0ba9\u0bcd-\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-300962",
     "time_ut": 1658571307,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0b95 \u0bae\u0bc1\u0ba9\u0bcd \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/74/74f0f5ed.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combanks-western-union-customers-to-receive-gifts-of-light-from-july-to-sept/",
+    "time_ut": 1658571000,
+    "original_lang": "en",
+    "original_title": "ComBank\u2019s Western Union customers to receive gifts of light from July to Sept",
+    "file_name": "/tmp/news_lk2/articles/4d/4d32eef3.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -440,6 +512,14 @@
     "file_name": "/tmp/news_lk2/articles/71/71ea1608.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/joseph-fraser-unique-and-prestigious-maternal-hospital-introducing-unique-services/",
+    "time_ut": 1658570040,
+    "original_lang": "en",
+    "original_title": "Joseph Fraser, unique and prestigious maternal hospital, introducing unique services",
+    "file_name": "/tmp/news_lk2/articles/78/783b2644.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132097",
     "time_ut": 1658569600,
@@ -462,6 +542,22 @@
     "original_lang": "ta",
     "original_title": "33,600 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb2\u0bc1\u0b9f\u0ba9\u0bcd  \u0baa\u0bb5\u0bc1\u0bb8\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/62/62292e74.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/record-life-policy-bonus-from-sri-lanka-insurance/",
+    "time_ut": 1658569200,
+    "original_lang": "en",
+    "original_title": "Record life policy bonus from Sri Lanka Insurance",
+    "file_name": "/tmp/news_lk2/articles/60/60132348.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ansell-lanka-officially-certified-as-a-great-place-to-work-2/",
+    "time_ut": 1658569140,
+    "original_lang": "en",
+    "original_title": "Ansell Lanka officially certified as a Great Place to Work",
+    "file_name": "/tmp/news_lk2/articles/11/11f710b2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1385,6 +1481,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/lolc-finance-signup-for-a-reforestation-and-eco-system-restoration-project-in-deniyaya/",
+    "time_ut": 1658504820,
+    "original_lang": "en",
+    "original_title": "Lolc Finance signup for a reforestation and eco system restoration project in Deniyaya",
+    "file_name": "/tmp/news_lk2/articles/cc/cc9b9e58.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/sampath-bank-introduces-cycling-club-encouraging-employees-to-ride-to-work/",
     "time_ut": 1658504760,
     "original_lang": "en",
@@ -1422,6 +1526,22 @@
     "original_lang": "en",
     "original_title": "Pizza Hut SL launches \u2018Hut Cyclist\u2019 initiative",
     "file_name": "/tmp/news_lk2/articles/7c/7cb2f543.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ncpi-based-headline-inflation-recorded-at-58-9-on-year-on-year-basis-in-june-2022/",
+    "time_ut": 1658504040,
+    "original_lang": "en",
+    "original_title": "NCPI based headline inflation recorded at 58.9% on year-on-year basis in June 2022",
+    "file_name": "/tmp/news_lk2/articles/88/888b39f4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/veteran-banker-lakshman-silva-joins-seylan-bank-board/",
+    "time_ut": 1658503980,
+    "original_lang": "en",
+    "original_title": "Veteran banker Lakshman Silva joins Seylan Bank Board",
+    "file_name": "/tmp/news_lk2/articles/ba/bad6a501.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -2865,6 +2985,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-dream-come-true-for-ranil/",
+    "time_ut": 1658342820,
+    "original_lang": "en",
+    "original_title": "A dream come true \u2014 for Ranil",
+    "file_name": "/tmp/news_lk2/articles/08/082dae58.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/food-festival-with-a-difference/",
     "time_ut": 1658340300,
     "original_lang": "en",
@@ -3606,6 +3734,14 @@
     "original_lang": "en",
     "original_title": "Ranil has neither learned nor departed",
     "file_name": "/tmp/news_lk2/articles/e0/e0367379.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/undemocratic-moves-abusing-the-democratic-constitution/",
+    "time_ut": 1657968720,
+    "original_lang": "en",
+    "original_title": "Undemocratic moves abusing the \u2018democratic\u2019 constitution",
+    "file_name": "/tmp/news_lk2/articles/db/dbd968c3.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -4454,6 +4590,14 @@
     "original_lang": "en",
     "original_title": "CONSTITUTIONAL MECHANISMS TO PREVENT AND MITIGATE FINANCIAL CRISES",
     "file_name": "/tmp/news_lk2/articles/5b/5bbd332f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/lankas-misery-should-be-warning-to-us-all-on-global-food-fuel-and-finance-crisis-undp/",
+    "time_ut": 1657376520,
+    "original_lang": "en",
+    "original_title": "Lanka\u2019s misery should be warning to us all on global food, fuel and finance crisis: UNDP",
+    "file_name": "/tmp/news_lk2/articles/56/564b2893.json"
   },
   {
     "newspaper_id": "ada-lk",
