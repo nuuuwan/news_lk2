@@ -6,17 +6,17 @@
   "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db1\u0dad\u0dd4 \u0dc0\u0dd6 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dc0\u0dbd \u0db4\u0dd0\u0dbb\u0dab\u0dd2 \u0db6\u0da9\u0dd4 \u0d8b\u0dc3\u0dca\u0dc3\u0dbd\u0dcf",
   "text_idx": {
     "en": {
-      "title": "Old goods were picked up in the mansions belonging to the fighters",
+      "title": "Old goods were picked up in the houses belonging to the fighters",
       "author": "unknown",
       "body_lines": [
         "It is reported that nearly 1,000 special items, including items of antique value, have gone missing from places including the Presidential Palace and Temple House, which were taken over by the militants.",
-        "According to police sources, special investigations have been started to find those goods.",
+        "According to police sources, special investigations have been started to find those items.",
         "Information has been revealed to the investigation teams that some people have hidden some parts of antiques in these places.",
-        "Meanwhile, it is reported that the Department of Archeology does not have any specific recorded information about the antiquities, although the Presidential Palace has been declared as an ancient site through a gazette notification.",
+        "Meanwhile, it is reported that the Department of Archeology does not have any specific recorded information about the antiquities, even though the Presidential Palace has been declared as an ancient place through a gazette notification.",
         "A senior official of the Department of Archeology told Lankadeepa on Sunday that it will be difficult to get specific and clear information about the destroyed and missing antiquities.",
         "As the Presidential Palace had been maintained as a high-security special zone for a long time, it is understood that due to the practical problems of visiting the place and gathering information, no such gathering of information has taken place.",
         "But the archeological officials admit that there were many articles of ancient value in the Presidential Palace.",
-        "Officials of the Criminal Investigation Department said that various organized people (druggies) had infiltrated places including the President's House, the Temple House, under the guise of activists, and most of these thefts were done by those people.",
+        "Officials of the Criminal Investigation Department said that various organized people (druggies) have infiltrated places including the President's House, Temple House and other places, under the guise of activists, and that these people have done most of the thefts.",
         "Meanwhile, the government has already decided to implement the law against the people who occupied government positions under the guise of struggle."
       ],
       "title_ents": [],
@@ -79,7 +79,7 @@
             "label": "ORG"
           },
           {
-            "text": "the Temple House",
+            "text": "Temple House",
             "label": "ORG"
           }
         ],
