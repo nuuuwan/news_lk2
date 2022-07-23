@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 23:09:07 (LK time)*
+*As of 2022-07-23 23:22:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
 ## Last Hour (3 Articles)
 
@@ -14,25 +10,25 @@
 
 * **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (11 Articles)
 
 * **3** economy-next-com ([Sri Lanka president asks to crackdown black market fuel dealers](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969eda31.json))
 
-* **3** ada-derana-lk ([WHO declares monkeypox a global emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a3de3c.json))
-
 * **3** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
 
-* **3** daily-mirror-lk ([President instructs to speed up and streamline fuel distribution island-wide](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fa75059.json))
+* **2** ada-derana-lk ([Train security officer dies after being pushed off moving train](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2af9d90.json))
+
+* **2** daily-mirror-lk ([WHO declares highest alert over outbreak of monkeypox](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/185d182c.json))
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-## Last 24 Hours (152 Articles)
+## Last 24 Hours (151 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
-* **19** daily-mirror-lk ([SJB asks Harin to resign from Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f64bdf55.json))
+* **18** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
 
 * **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
