@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 05:53:13 (LK time)*
+*As of 2022-07-23 06:19:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (285 Articles)
+## Last 24 Hours (279 Articles)
 
-* **58** virakesari-lk ([ஆர்ப்பாட்டக்காரர்கள் மீதான தாக்குதல் - ஏற்றுக்கொள்ள முடியாதவிடயம் - சர்வதேச மன்னிப்புச்சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c5915b.json))
+* **57** virakesari-lk ([கோட்டா கோ கம போராட்டக்காரர்கள் கலைக்கப்பட்டனர் : 8 பேர் கைது - பொலிஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969817f2.json))
 
 * **50** lankadeepa-lk ([‘‘පහරදී අරගලය නවත්වන්න බෑ‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bd7a9dc.json))
 
@@ -20,19 +20,17 @@
 
 * **21** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
 
-* **17** daily-ft-lk ([President Ranil needs to resurrect economy fast](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28900331.json))
+* **15** daily-ft-lk ([New PM, Cabinet take oath in presence of President RW](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c96bf53b.json))
 
-* **15** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
+* **14** economy-next-com ([Sri Lanka protestors removed, military called under emergency law](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aa410dc.json))
 
 * **5** island-lk ([Keells join forces with customers and partners to provide relief to vulnerable communities](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f600b6.json))
 
-* **5** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
+* **4** b-b-c-com-sinhala (["ඕගොල්ලෝ ජාත්‍යන්තර වශයෙන් චාටර් වෙන්න මේ හදන්නේ":අද අලුයම ගාලු මුවදොර අරගල භූමියේදී මොකද වුනේ ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccf4052.json))
 
-* **1** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
+## Last Week (1,838 Articles)
 
-## Last Week (1,837 Articles)
-
-* **362** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
+* **363** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
 * **286** lankadeepa-lk ([තැන තැනට වැසි වාර කීපයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88e67ac2.json))
 
@@ -58,11 +56,11 @@
 
 * **20** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,680 Articles)
+## All Time (3,681 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **555** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
+* **556** virakesari-lk ([ஹிருணிகாவின் இயங்குநிலையும் முஸ்லிம் அரசியல்வாதிகளும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/429ae9b6.json))
 
 * **447** daily-mirror-lk ([EU strongly urges SL to lift forthwith import restrictions](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f249b67.json))
 
