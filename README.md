@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 21:57:48 (LK time)*
+*As of 2022-07-23 22:13:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (3 Articles)
 
 * **2** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
 
-## Last Hour (6 Articles)
-
-* **3** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
-
-* **2** daily-mirror-lk ([WHO declares highest alert over outbreak of monkeypox](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c6c1db.json))
-
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (16 Articles)
 
 * **7** daily-mirror-lk ([Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab25906e.json))
 
@@ -26,23 +20,23 @@
 
 * **2** ada-derana-lk ([PUCSL approves three-hour power cuts for July 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7273d67a.json))
 
-* **2** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
-
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-## Last 24 Hours (160 Articles)
+* **1** ada-lk ([කොවිඩ් ආසාදිතයන් 72ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/5494fdb5.json))
+
+## Last 24 Hours (158 Articles)
 
 * **24** daily-mirror-lk ([Aragalaya President Wickremesinghe should have initiated dialogue with protesters - Mano Ganesan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1beced0.json))
 
-* **23** virakesari-lk ([எதிர்ப்பை வெளிக்காட்டுவதற்கான ஜனநாயக உரிமையை அரசாங்கம் பாதுகாக்க வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6740ca.json))
-
 * **22** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cf3848.json))
 
-* **18** tamil-mirror-lk ([போராட்டக்காரர்களை இரவோடு இரவாக பந்தாடிய படையினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36ba2299.json))
+* **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
 * **17** news-first-lk ([Wajira to fill Ranil’s vacancy](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/279fc96c.json))
+
+* **17** tamil-mirror-lk ([பாராளுமன்ற உறுப்பினரானார் வஜிர அபேவர்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a319628.json))
 
 * **15** ada-derana-lk ([Vajira Abeywardena appointed to UNP’s vacant MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c204522.json))
 
