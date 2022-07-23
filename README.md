@@ -1,28 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 21:33:34 (LK time)*
+*As of 2022-07-23 21:43:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
-* **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
+* **1** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
 
-* **1** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
+* **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
 ## Last Hour (6 Articles)
 
-* **2** daily-mirror-lk ([WHO declares highest alert over outbreak of monkeypox](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c6c1db.json))
+* **2** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
 
-* **2** economy-next-com ([Sri Lanka president asks to crackdown black market fuel dealers](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969eda31.json))
+* **2** daily-mirror-lk ([WHO declares highest alert over outbreak of monkeypox](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/73c6c1db.json))
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-* **1** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
+* **1** economy-next-com ([Sri Lanka schedules power cuts of up to 3 hours for July 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0da1ac0e.json))
 
 ## Last 3 Hours (16 Articles)
 
 * **7** daily-mirror-lk ([Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab25906e.json))
+
+* **2** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
 
 * **2** economy-next-com ([Sri Lanka president asks to crackdown black market fuel dealers](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969eda31.json))
 
@@ -32,19 +34,15 @@
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-* **1** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1ba4f0f2.json))
-
-* **1** news-first-lk ([HRW urges President to cease unlawful use of force against protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa0aee8.json))
-
 ## Last 24 Hours (161 Articles)
 
 * **24** daily-mirror-lk ([Aragalaya President Wickremesinghe should have initiated dialogue with protesters - Mano Ganesan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1beced0.json))
 
 * **23** virakesari-lk ([எதிர்ப்பை வெளிக்காட்டுவதற்கான ஜனநாயக உரிமையை அரசாங்கம் பாதுகாக்க வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6740ca.json))
 
-* **20** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cf3848.json))
+* **21** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cf3848.json))
 
-* **19** tamil-mirror-lk ([ஆயிரம் தொன் சீன அரிசி வந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a7754a5.json))
+* **18** tamil-mirror-lk ([போராட்டக்காரர்களை இரவோடு இரவாக பந்தாடிய படையினர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36ba2299.json))
 
 * **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
@@ -58,13 +56,13 @@
 
 * **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## Last Week (441 Articles)
+## Last Week (442 Articles)
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
 * **57** daily-mirror-lk ([Rooting out corruption; a necessary step for Sri Lanka to prosper](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52ab63be.json))
 
-* **47** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
+* **48** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
 * **39** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -86,11 +84,11 @@
 
 * **12** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (743 Articles)
+## All Time (744 Articles)
 
 * **111** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
-* **104** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **105** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **97** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
