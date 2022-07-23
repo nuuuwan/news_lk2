@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 05:28:00 (LK time)*
+*As of 2022-07-23 05:45:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (281 Articles)
+## Last 24 Hours (285 Articles)
 
 * **58** virakesari-lk ([ஆர்ப்பாட்டக்காரர்கள் மீதான தாக்குதல் - ஏற்றுக்கொள்ள முடியாதவிடயம் - சர்வதேச மன்னிப்புச்சபை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c5915b.json))
 
@@ -20,15 +20,17 @@
 
 * **21** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
 
-* **18** daily-ft-lk ([Ranil Rajapaksa interregnum](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63203299.json))
+* **17** daily-ft-lk ([President Ranil needs to resurrect economy fast](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28900331.json))
 
 * **15** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
+
+* **5** island-lk ([Keells join forces with customers and partners to provide relief to vulnerable communities](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f600b6.json))
 
 * **5** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
 * **1** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
 
-## Last Week (1,829 Articles)
+## Last Week (1,837 Articles)
 
 * **362** virakesari-lk ([இன்றைய மின்வெட்டு குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60c07d2c.json))
 
@@ -48,15 +50,15 @@
 
 * **77** daily-ft-lk ([GGG Aragalaya reaches 100-day milestone](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d3bae77.json))
 
-* **64** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
+* **71** island-lk ([Dilmah’s MJF Centre East Opens Cashew Processing Centre for Smallholders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d5dd358.json))
 
 * **28** b-b-c-com-sinhala ([ශ්‍රී ලංකාව : විරෝධතාවන් ගැන ලෝකයට පැතිර ගිය ව්‍යාජ පුවත් පිළිබඳ විමසුමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d590e778.json))
 
 * **20** colombo-telegraph-com ([Quo Warranto, Mr. Wickremesinghe?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5806f6d.json))
 
-* **19** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
+* **20** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c48a62e5.json))
 
-## All Time (3,672 Articles)
+## All Time (3,680 Articles)
 
 * **558** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,9 +78,9 @@
 
 * **175** economy-next-com ([Sri Lanka fast on Korea path, interventionists get their malnutrition wish: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cab62b9.json))
 
-* **152** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
+* **153** d-b-s-jeyaraj-com ([“I took on a challenge, let us see where it ends. But I always thought that being a party of one was a strength, not weakness. You could deal with anyone in the opposition or the government. You are not a threat to anyone, and you carry on.”- Prime Minister Ranil  Wickremesinghe](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a631d455.json))
 
-* **137** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
+* **144** island-lk ([WHICH FUTURE FOR THE SLPP? A POLITICAL JATAKA TALE](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96abfb62.json))
 
 * **73** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
