@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 00:10:31 (LK time)*
+*As of 2022-07-24 00:25:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([தமிழ் நாட்டிலிருந்து மற்றுமொரு நிவாரண கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31e411ca.json))
 
 ## Last Hour (2 Articles)
 
@@ -24,15 +20,15 @@
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-## Last 24 Hours (147 Articles)
+## Last 24 Hours (143 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
-* **18** tamil-mirror-lk ([தாக்குதல் அச்சம் வெளியிடும் ஐ.நா. மனித உரிமைகள் பேரவை தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd194102.json))
-
 * **18** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
+
+* **17** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
 
 * **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
@@ -40,7 +36,7 @@
 
 * **15** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
 
-* **12** daily-ft-lk ([Explained: Ranil and the Rajapaksas](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d25c0631.json))
+* **9** daily-ft-lk ([Human Rights Commission condemns despicable attack, launches probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9000c9.json))
 
 * **8** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
