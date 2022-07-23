@@ -104,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/6a/6a9bcccf.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0b90-\u0ba8\u0bbe-\u0bae\u0ba9\u0bbf\u0ba4-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bc7\u0bb0\u0bb5\u0bc8-\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-300951",
+    "time_ut": 1658516114,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0b90.\u0ba8\u0bbe. \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bd/bd194102.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Why-a-feudal-culture-and-absence-of-meritocracy-bankrupted-a-nation/14-737816",
     "time_ut": 1658516069,
@@ -2766,6 +2774,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db0\u0dd4\u0dbb\u0dba \u0daf\u0dca\u200d\u0dbb\u0dd9\u0ddf\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4 \u0da7",
     "file_name": "/tmp/news_lk2/articles/6b/6b9d9c8e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-great-cinemas-of-colombo/",
+    "time_ut": 1658415660,
+    "original_lang": "en",
+    "original_title": "The Great Cinemas of Colombo",
+    "file_name": "/tmp/news_lk2/articles/fa/fadfcb97.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7254,6 +7270,14 @@
     "original_lang": "en",
     "original_title": "Evolution of Sri Lanka\u2019s Educational Reforms From Kannangara to Dhammika Perera",
     "file_name": "/tmp/news_lk2/articles/88/88749b3c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/unite/",
+    "time_ut": 1658250000,
+    "original_lang": "en",
+    "original_title": "Unite!",
+    "file_name": "/tmp/news_lk2/articles/49/493a9f14.json"
   },
   {
     "newspaper_id": "virakesari-lk",
