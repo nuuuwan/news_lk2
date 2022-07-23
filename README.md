@@ -1,26 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 00:25:16 (LK time)*
+*As of 2022-07-24 00:32:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
-* **2** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
+* **1** tamil-mirror-lk ([தமிழ் நாட்டிலிருந்து மற்றுமொரு நிவாரண கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31e411ca.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (6 Articles)
 
 * **2** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
 
 * **2** ada-derana-lk ([Train security officer dies after being pushed off moving train](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2af9d90.json))
 
-* **2** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
-
 * **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
-* **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
+* **1** lankadeepa-lk ([මෝටර් රථයක් ඇඟට වැටී කුඩා දැරියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a7a88a.json))
 
-## Last 24 Hours (143 Articles)
+## Last 24 Hours (136 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -36,11 +34,11 @@
 
 * **15** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
 
-* **9** daily-ft-lk ([Human Rights Commission condemns despicable attack, launches probe](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9000c9.json))
-
 * **8** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
 * **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
+
+* **2** daily-ft-lk ([HDDES further diversifies BOI export basket](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e46c754.json))
 
 ## Last Week (448 Articles)
 
