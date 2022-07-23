@@ -1,0 +1,228 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/caption_story/SLCGS-Jayesagara-joins-SLCG-fleet/110-241671",
+  "time_ut": 1658586889,
+  "original_lang": "en",
+  "original_title": "\u2019\u2019SLCGS Jayesagara\u2019\u2019 joins SLCG fleet",
+  "text_idx": {
+    "en": {
+      "title": "\u2019\u2019SLCGS Jayesagara\u2019\u2019 joins SLCG fleet",
+      "author": "unknown",
+      "body_lines": [
+        "An Offshore Patrol Vessel (OPV) of the Sri Lanka Coast Guard received her commission from the Secretary, Ministry of Defence General Kamal Gunaratne (Retd) during the Commissioning Ceremony held at the Naval Dockyard, Trincomalee today morning. Sri Lanka Navy handed over this OPV to Sri Lanka Coast Guard on 03rd January 2022 at Galle harbour and she was commissioned today."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS Jayesagara",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "SLCG",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "the Sri Lanka Coast Guard",
+            "label": "LOC"
+          },
+          {
+            "text": "Ministry of Defence General",
+            "label": "ORG"
+          },
+          {
+            "text": "Kamal Gunaratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "the Commissioning Ceremony",
+            "label": "ORG"
+          },
+          {
+            "text": "the Naval Dockyard",
+            "label": "FAC"
+          },
+          {
+            "text": "Trincomalee",
+            "label": "NORP"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "morning",
+            "label": "TIME"
+          },
+          {
+            "text": "Sri Lanka Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "03rd January 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Galle harbour",
+            "label": "FAC"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u2019\u2019SLCGS \u0da2\u0dba\u0dda\u0dc3\u0dcf\u0d9c\u0dbb\u2019\u2019 SLCG \u0d87\u0dab\u0dd2\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0daf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba, \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0dab\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0dda\u0daf\u0dd3, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba\u0dda \u0d85\u0d9a\u0dca\u0dc0\u0dd9\u0dbb\u0dc5 \u0db8\u0dd4\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca (OPV) \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1 (\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd2\u0d9a) \u0d85\u0dad\u0dd2\u0db1\u0dca \u0dc3\u0dd2\u0dba \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3. \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd9\u0db8 OPV \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba 2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 03 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0d9c\u0dcf\u0dbd\u0dd4 \u0dc0\u0dbb\u0dcf\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb \u0d87\u0dba \u0d85\u0daf \u0daf\u0dd2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "SLCG",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 03",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u2019\u2019SLCGS \u0b9c\u0bc6\u0baf\u0b9a\u0b95\u0bb0\u0bbe\u2019\u2019 SLCG \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bb2\u0bcd \u0bb0\u0bcb\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd (OPV) \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0b95\u0bae\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9\u0bb5\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 (\u0b93\u0baf\u0bcd\u0bb5\u0bc1) \u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 OPV \u0b90 03 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2022 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0bae\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS \u0b9c\u0baf\u0b9a\u0b95\u0bb0",
+          "label": "WORK_OF_ART"
+        },
+        {
+          "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd.\u0b9a\u0bbf.\u0b9c\u0bbf",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 03, 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}

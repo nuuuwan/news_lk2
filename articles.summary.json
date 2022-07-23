@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/EU-condemns-unwarranted-use-of-force-against-peaceful-demonstrators/342-241672",
+    "time_ut": 1658587004,
+    "original_lang": "en",
+    "original_title": "EU condemns unwarranted use of force against peaceful demonstrators",
+    "file_name": "/tmp/news_lk2/articles/7c/7cae6790.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/SLCGS-Jayesagara-joins-SLCG-fleet/110-241671",
+    "time_ut": 1658586889,
+    "original_lang": "en",
+    "original_title": "\u2019\u2019SLCGS Jayesagara\u2019\u2019 joins SLCG fleet",
+    "file_name": "/tmp/news_lk2/articles/85/85b0122a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Station-masters-to-stay-away-from-issuing-tickets-from-6-00-pm-today/342-241670",
     "time_ut": 1658586708,
     "original_lang": "en",
@@ -1865,11 +1881,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Seven-hour-water-cut-in-some-areas-of-Colombo/108-241597",
+    "url": "https://www.dailymirror.lk/latest_news/Seven-hour-water-cut-in-some-areas-of-Colombo/342-241597",
     "time_ut": 1658467841,
     "original_lang": "en",
     "original_title": "Seven-hour water cut in some areas of Colombo",
-    "file_name": "/tmp/news_lk2/articles/f2/f28bfa25.json"
+    "file_name": "/tmp/news_lk2/articles/35/355b3b98.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1889,11 +1905,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Droupadi-Murmu-elected-15th-President-of-India/108-241596",
+    "url": "https://www.dailymirror.lk/latest_news/Droupadi-Murmu-elected-15th-President-of-India/342-241596",
     "time_ut": 1658467438,
     "original_lang": "en",
     "original_title": "Droupadi Murmu elected 15th President of India",
-    "file_name": "/tmp/news_lk2/articles/ac/acfccf35.json"
+    "file_name": "/tmp/news_lk2/articles/09/0927184b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -5337,11 +5353,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/155-236872",
+    "url": "https://www.dailymirror.lk/latest_news/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/342-236872",
     "time_ut": 1652341395,
     "original_lang": "en",
     "original_title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "file_name": "/tmp/news_lk2/articles/66/6673a461.json"
+    "file_name": "/tmp/news_lk2/articles/87/87b2a211.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5385,11 +5401,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/MR-visits-GRs-residence-in-Mirihana-after-unrest/155-234266",
+    "url": "https://www.dailymirror.lk/latest_news/MR-visits-GRs-residence-in-Mirihana-after-unrest/342-234266",
     "time_ut": 1648792319,
     "original_lang": "en",
     "original_title": "MR visits GR\u2019s residence in Mirihana after unrest",
-    "file_name": "/tmp/news_lk2/articles/c2/c20c17df.json"
+    "file_name": "/tmp/news_lk2/articles/8b/8b96b1ed.json"
   },
   {
     "newspaper_id": "ada-lk",
