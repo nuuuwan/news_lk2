@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-instructs-to-speed-up-and-streamline-fuel-distribution-island-wide/108-241673",
+    "time_ut": 1658587651,
+    "original_lang": "en",
+    "original_title": "President instructs to speed up and streamline fuel distribution island-wide",
+    "file_name": "/tmp/news_lk2/articles/1f/1fa75059.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83829/who-declares-monkeypox-a-global-emergency",
+    "time_ut": 1658587560,
+    "original_lang": "en",
+    "original_title": "WHO declares monkeypox a global emergency",
+    "file_name": "/tmp/news_lk2/articles/01/01a3de3c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/EU-condemns-unwarranted-use-of-force-against-peaceful-demonstrators/342-241672",
     "time_ut": 1658587004,
     "original_lang": "en",
@@ -1881,11 +1897,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Seven-hour-water-cut-in-some-areas-of-Colombo/342-241597",
+    "url": "https://www.dailymirror.lk/breaking_news/Seven-hour-water-cut-in-some-areas-of-Colombo/108-241597",
     "time_ut": 1658467841,
     "original_lang": "en",
     "original_title": "Seven-hour water cut in some areas of Colombo",
-    "file_name": "/tmp/news_lk2/articles/35/355b3b98.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f28bfa25.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1905,11 +1921,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Droupadi-Murmu-elected-15th-President-of-India/342-241596",
+    "url": "https://www.dailymirror.lk/breaking_news/Droupadi-Murmu-elected-15th-President-of-India/108-241596",
     "time_ut": 1658467438,
     "original_lang": "en",
     "original_title": "Droupadi Murmu elected 15th President of India",
-    "file_name": "/tmp/news_lk2/articles/09/0927184b.json"
+    "file_name": "/tmp/news_lk2/articles/ac/acfccf35.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -3737,11 +3753,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/231-241103",
+    "url": "https://www.dailymirror.lk/hard-talk/Without-changing-the-situation-in-the-country-nobody-will-help-us-Hirunika-Premachandra/334-241103",
     "time_ut": 1657832956,
     "original_lang": "en",
     "original_title": "Without changing the  situation in the country, nobody will help us - Hirunika Premachandra -",
-    "file_name": "/tmp/news_lk2/articles/5b/5b2ef66d.json"
+    "file_name": "/tmp/news_lk2/articles/10/10dd77f0.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -5353,11 +5369,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/342-236872",
+    "url": "https://www.dailymirror.lk/top_story/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/155-236872",
     "time_ut": 1652341395,
     "original_lang": "en",
     "original_title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "file_name": "/tmp/news_lk2/articles/87/87b2a211.json"
+    "file_name": "/tmp/news_lk2/articles/66/6673a461.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5401,11 +5417,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/MR-visits-GRs-residence-in-Mirihana-after-unrest/342-234266",
+    "url": "https://www.dailymirror.lk/top_story/MR-visits-GRs-residence-in-Mirihana-after-unrest/155-234266",
     "time_ut": 1648792319,
     "original_lang": "en",
     "original_title": "MR visits GR\u2019s residence in Mirihana after unrest",
-    "file_name": "/tmp/news_lk2/articles/8b/8b96b1ed.json"
+    "file_name": "/tmp/news_lk2/articles/c2/c20c17df.json"
   },
   {
     "newspaper_id": "ada-lk",
