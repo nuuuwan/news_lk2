@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 23:22:35 (LK time)*
+*As of 2022-07-23 23:31:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -22,7 +22,7 @@
 
 * **1** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
-## Last 24 Hours (151 Articles)
+## Last 24 Hours (150 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -30,11 +30,11 @@
 
 * **18** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
 
-* **17** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
-
 * **17** tamil-mirror-lk ([பாராளுமன்ற உறுப்பினரானார் வஜிர அபேவர்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a319628.json))
 
 * **16** ada-derana-lk ([US envoy meets President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0bf75f.json))
+
+* **16** ada-lk ([ජනපතිගේ නායකත්වය යටතේ ලංකාව දුෂ්කරතා ජය ගනීවි - චීන ජනපති](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/870eae7e.json))
 
 * **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
