@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 19:24:37 (LK time)*
+*As of 2022-07-23 19:31:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,21 +10,21 @@
 
 * **1** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
-* **2** daily-mirror-lk ([Schools reopen from Monday; three days per week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/254090d9.json))
+* **1** daily-mirror-lk ([Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e662173.json))
 
 * **1** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
 
 * **1** news-first-lk ([HRW urges President to cease unlawful use of force against protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa0aee8.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (22 Articles)
 
 * **7** ada-lk ([ඉදිරියට ඉන්ධන මිලදී ගැනීම ගැන දිර්ඝ ලෙස සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e89a2055.json))
 
-* **6** tamil-mirror-lk ([தம்மிகவின் பதவிக்கு மும்முனைப் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3113c5a9.json))
-
 * **4** news-first-lk ([Protestors were unwilling to vacate premises: Police Spokesperson](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9d89c0.json))
+
+* **4** tamil-mirror-lk ([பிரதான எதிர்க்கட்சி பிரதமரிடம் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53b37555.json))
 
 * **3** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
 
@@ -32,9 +32,7 @@
 
 * **1** virakesari-lk ([ஒன்றுகூடல்கள், ஆர்ப்பாட்டங்களை கலைக்க பொலிஸ், முப்படைக்கு சிறப்பு அதிகாரங்கள் :  சட்டத்தை அமுல் செய்ய தயங்கப் போவதில்லை என பொலிஸார் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebf387f.json))
 
-* **1** lankadeepa-lk ([ආරක්‍ෂක ලේකම් ත්‍රීකුණාමලය රණවිරු ස්මාරකයට උපහාර පුදකරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e4d6e0d.json))
-
-## Last 24 Hours (171 Articles)
+## Last 24 Hours (169 Articles)
 
 * **26** news-first-lk ([3-Hour power cuts tomorrow (23)](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34f81a60.json))
 
@@ -42,11 +40,11 @@
 
 * **22** virakesari-lk ([எதிர்ப்பை வெளிக்காட்டுவதற்கான ஜனநாயக உரிமையை அரசாங்கம் பாதுகாக்க வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6740ca.json))
 
-* **22** lankadeepa-lk ([නීතිඥයෝ 350ක් අරගලකරුවන් වෙනුවෙන් පෙනී සිටිති](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84aecad1.json))
+* **21** lankadeepa-lk ([නව අග්‍රාමාත්‍ය දිනේෂ් ධර්මායතනයට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6972099.json))
 
 * **19** daily-mirror-lk ([Cannot stop struggle through suppression: NPP](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85fedbc1.json))
 
-* **17** ada-lk ([ඇමෙරිකානු තානාපතිනිය හදිසියේම ජනපති රනිල් හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45102154.json))
+* **16** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
 * **14** ada-derana-lk ([Three-hour power cuts expected tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e880dbdd.json))
 
