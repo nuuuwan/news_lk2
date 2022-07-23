@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 00:32:51 (LK time)*
+*As of 2022-07-24 00:42:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **1** tamil-mirror-lk ([தமிழ் நாட்டிலிருந்து மற்றுமொரு நிவாரண கப்பல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31e411ca.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
 * **2** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
 
@@ -16,17 +16,15 @@
 
 * **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
-* **1** lankadeepa-lk ([මෝටර් රථයක් ඇඟට වැටී කුඩා දැරියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6a7a88a.json))
-
-## Last 24 Hours (136 Articles)
+## Last 24 Hours (132 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
-* **18** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
-
 * **17** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
+
+* **16** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
 * **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
@@ -37,8 +35,6 @@
 * **8** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
 * **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
-
-* **2** daily-ft-lk ([HDDES further diversifies BOI export basket](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e46c754.json))
 
 ## Last Week (448 Articles)
 
