@@ -846,7 +846,7 @@
             "label": "ORDINAL"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
@@ -862,7 +862,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
@@ -1081,7 +1081,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
@@ -1131,7 +1131,7 @@
             "label": "LAW"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
@@ -1353,7 +1353,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dca\u0dbb\u0db8 \u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "text": "\u0dc0\u0dca\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
             "label": "LAW"
           },
           {
@@ -1931,7 +1931,7 @@
             "label": "ORG"
           },
           {
-            "text": "CC",
+            "text": "\u0b9a\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -1963,7 +1963,7 @@
             "label": "DATE"
           },
           {
-            "text": "CC",
+            "text": "\u0b9a\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -1997,7 +1997,7 @@
             "label": "CARDINAL"
           },
           {
-            "text": "CC",
+            "text": "\u0b9a\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -2047,7 +2047,7 @@
             "label": "ORG"
           },
           {
-            "text": "CC",
+            "text": "\u0b9a\u0bbf\u0b9a\u0bbf",
             "label": "ORG"
           },
           {
@@ -2127,7 +2127,7 @@
             "label": "ORG"
           },
           {
-            "text": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8",
+            "text": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b9a\u0baa\u0bc8",
             "label": "FAC"
           },
           {
