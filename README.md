@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 20:25:55 (LK time)*
+*As of 2022-07-23 20:32:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **4** daily-mirror-lk ([Station masters to stay away from issuing tickets from 6.00 ﻿pm today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee761467.json))
+* **3** daily-mirror-lk ([’’SLCGS Jayesagara’’ joins SLCG fleet](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85b0122a.json))
 
-* **2** ada-derana-lk ([PUCSL approves three-hour power cuts for July 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7273d67a.json))
+* **1** ada-derana-lk ([WHO declares monkeypox a global emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01a3de3c.json))
 
 ## Last Hour (6 Articles)
 
