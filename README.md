@@ -1,18 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 01:26:15 (LK time)*
+*As of 2022-07-24 01:33:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Protesters didn’t heed previous requests to vacate Presidential Secretariat: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a162abbc.json))
+
+## Last Hour (1 Articles)
+
+* **1** ada-derana-lk ([Protesters didn’t heed previous requests to vacate Presidential Secretariat: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a162abbc.json))
+
+## Last 3 Hours (6 Articles)
+
+* **3** ada-derana-lk ([Train security officer dies after being pushed off moving train](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2af9d90.json))
 
 * **2** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
 
-* **2** ada-derana-lk ([Train security officer dies after being pushed off moving train](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2af9d90.json))
-
 * **1** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
 
-## Last 24 Hours (129 Articles)
+## Last 24 Hours (130 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -20,9 +28,9 @@
 
 * **17** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
 
-* **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
+* **16** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
-* **15** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
+* **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
 * **15** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
 
@@ -32,7 +40,7 @@
 
 * **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## Last Week (449 Articles)
+## Last Week (450 Articles)
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
@@ -44,7 +52,7 @@
 
 * **39** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
-* **33** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **34** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **32** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
@@ -60,7 +68,7 @@
 
 * **12** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (751 Articles)
+## All Time (752 Articles)
 
 * **112** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
@@ -76,7 +84,7 @@
 
 * **39** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **33** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **34** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **32** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
