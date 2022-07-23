@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Recall-COVID-technical-committee-make-face-masks-mandatory-GMOA-tells-health-authorities/108-241669",
+    "url": "https://www.dailymirror.lk/latest_news/Station-masters-to-stay-away-from-issuing-tickets-from-6-00-pm-today/342-241670",
+    "time_ut": 1658586708,
+    "original_lang": "en",
+    "original_title": "Station masters to stay away from issuing tickets from 6.00 \ufeffpm today",
+    "file_name": "/tmp/news_lk2/articles/ee/ee761467.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83828/pucsl-approves-three-hour-power-cuts-for-july-24",
+    "time_ut": 1658586420,
+    "original_lang": "en",
+    "original_title": "PUCSL approves three-hour power cuts for July 24",
+    "file_name": "/tmp/news_lk2/articles/72/7273d67a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Recall-COVID-technical-committee-make-face-masks-mandatory-GMOA-tells-health-authorities/342-241669",
     "time_ut": 1658584156,
     "original_lang": "en",
     "original_title": "Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities",
-    "file_name": "/tmp/news_lk2/articles/2e/2e662173.json"
+    "file_name": "/tmp/news_lk2/articles/ab/ab25906e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Schools-reopen-from-Monday-three-days-per-week-Ministry/108-241668",
+    "url": "https://www.dailymirror.lk/latest_news/Schools-reopen-from-Monday-three-days-per-week-Ministry/342-241668",
     "time_ut": 1658580992,
     "original_lang": "en",
     "original_title": "Schools reopen from Monday; three days per week: Ministry",
-    "file_name": "/tmp/news_lk2/articles/25/254090d9.json"
+    "file_name": "/tmp/news_lk2/articles/a0/a0a0bbd7.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1849,11 +1865,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Seven-hour-water-cut-in-some-areas-of-Colombo/342-241597",
+    "url": "https://www.dailymirror.lk/breaking_news/Seven-hour-water-cut-in-some-areas-of-Colombo/108-241597",
     "time_ut": 1658467841,
     "original_lang": "en",
     "original_title": "Seven-hour water cut in some areas of Colombo",
-    "file_name": "/tmp/news_lk2/articles/35/355b3b98.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f28bfa25.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -1873,11 +1889,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Droupadi-Murmu-elected-15th-President-of-India/342-241596",
+    "url": "https://www.dailymirror.lk/breaking_news/Droupadi-Murmu-elected-15th-President-of-India/108-241596",
     "time_ut": 1658467438,
     "original_lang": "en",
     "original_title": "Droupadi Murmu elected 15th President of India",
-    "file_name": "/tmp/news_lk2/articles/09/0927184b.json"
+    "file_name": "/tmp/news_lk2/articles/ac/acfccf35.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -5321,11 +5337,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/342-236872",
+    "url": "https://www.dailymirror.lk/top_story/RANIL-TO-TAKE-OATHS-AS-PM-TODAY/155-236872",
     "time_ut": 1652341395,
     "original_lang": "en",
     "original_title": "RANIL TO TAKE OATHS AS PM TODAY",
-    "file_name": "/tmp/news_lk2/articles/87/87b2a211.json"
+    "file_name": "/tmp/news_lk2/articles/66/6673a461.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -5369,11 +5385,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/MR-visits-GRs-residence-in-Mirihana-after-unrest/342-234266",
+    "url": "https://www.dailymirror.lk/top_story/MR-visits-GRs-residence-in-Mirihana-after-unrest/155-234266",
     "time_ut": 1648792319,
     "original_lang": "en",
     "original_title": "MR visits GR\u2019s residence in Mirihana after unrest",
-    "file_name": "/tmp/news_lk2/articles/8b/8b96b1ed.json"
+    "file_name": "/tmp/news_lk2/articles/c2/c20c17df.json"
   },
   {
     "newspaper_id": "ada-lk",

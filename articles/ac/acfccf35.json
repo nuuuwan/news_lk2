@@ -1,0 +1,552 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/breaking_news/Droupadi-Murmu-elected-15th-President-of-India/108-241596",
+  "time_ut": 1658467438,
+  "original_lang": "en",
+  "original_title": "Droupadi Murmu elected 15th President of India",
+  "text_idx": {
+    "en": {
+      "title": "Droupadi Murmu elected 15th President of India",
+      "author": "unknown",
+      "body_lines": [
+        "NDA\u2019s presidential nominee Droupadi Murmu on Thursday became the first tribal woman to be elected as President of India by defeating her rival, opposition candidate Yashwant Sinha, by a margin of 947 votes, bagging 64.03% of the electoral college votes against Sinha\u2019s share of 35.97%.",
+        "Murmu, 64, is only the second former member of BJP after President Ram Nath Kovind to be elected President. She bagged votes from a total of 2,824 electors, including 540 MPs, while Sinha won the support of 1,877 electors, including 208 MPs.",
+        "Though the results of the presidential contest were a foregone conclusion, and the opposition managers had no illusions about the eventual verdict, the anti-BJP bloc can derive some satisfaction from the fact that their tally was better than what they had achieved five years ago when the NDA nominee beat opposition\u2019s candidate Meira Kumar.",
+        "In fact, Murmu\u2019s first preference vote share - 64.03% - is the lowest since President V V Giri\u2019s 48.01% in the 1969 presidential polls.",
+        "However, there are doubts that the opposition managed to achieve the objective they sought to realise by pitching this as a battle of ideologies. The support of parties like BSP and JD(S) for Murmu, the last-minute dramatic defection of her fellow Santhal, Jharkhand CM Hemant Soren, and confusing messages from senior figures like TMC boss Mamata Banerjee muddied the message. (Timed of India)"
+      ],
+      "title_ents": [
+        {
+          "text": "Droupadi Murmu",
+          "label": "PERSON"
+        },
+        {
+          "text": "15th",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "India",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "NDA",
+            "label": "ORG"
+          },
+          {
+            "text": "Droupadi Murmu",
+            "label": "PERSON"
+          },
+          {
+            "text": "Thursday",
+            "label": "DATE"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "India",
+            "label": "GPE"
+          },
+          {
+            "text": "Yashwant Sinha",
+            "label": "PERSON"
+          },
+          {
+            "text": "947",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the electoral college",
+            "label": "ORG"
+          },
+          {
+            "text": "35.97%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "Murmu",
+            "label": "ORG"
+          },
+          {
+            "text": "64",
+            "label": "DATE"
+          },
+          {
+            "text": "second",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "BJP",
+            "label": "ORG"
+          },
+          {
+            "text": "Ram Nath Kovind",
+            "label": "PERSON"
+          },
+          {
+            "text": "2,824",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "540",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Sinha",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "1,877",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "anti-BJP",
+            "label": "NORP"
+          },
+          {
+            "text": "five years ago",
+            "label": "DATE"
+          },
+          {
+            "text": "NDA",
+            "label": "ORG"
+          },
+          {
+            "text": "Meira Kumar",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Murmu",
+            "label": "ORG"
+          },
+          {
+            "text": "first",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "V V Giri\u2019s",
+            "label": "PERSON"
+          },
+          {
+            "text": "48.01%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1969",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "BSP",
+            "label": "ORG"
+          },
+          {
+            "text": "JD(S",
+            "label": "ORG"
+          },
+          {
+            "text": "Murmu",
+            "label": "ORG"
+          },
+          {
+            "text": "Hemant Soren",
+            "label": "PERSON"
+          },
+          {
+            "text": "TMC",
+            "label": "ORG"
+          },
+          {
+            "text": "Timed of India",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "Droupadi Murmu \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda 15 \u0dc0\u0dd0\u0db1\u0dd2 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0dbd\u0dd9\u0dc3 \u0dad\u0dda\u0dbb\u0dd3 \u0db4\u0dad\u0dca \u0dc0\u0dd2\u0dba",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "NDA \u0dc4\u0dd2 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a Droupadi Murmu \u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dad\u0dda\u0dbb\u0dd3 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0db4\u0dc5\u0db8\u0dd4 \u0d9c\u0ddd\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0 \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd6\u0dba\u0dda \u0d87\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dcf\u0daf\u0dd2\u0dba\u0dcf \u0dc0\u0dd6 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0dba\u0dc2\u0dca\u0dc0\u0db1\u0dca\u0dad\u0dca \u0dc3\u0dd2\u0d82\u0dc4\u0dcf \u0da1\u0db1\u0dca\u0daf 947 \u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dbb\u0daf\u0dc0\u0dcf \u0dc3\u0dd2\u0d82\u0dc4\u0dcf\u0d9c\u0dda \u0d9a\u0ddc\u0da7\u0dc3\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 64.03% \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0da1\u0db1\u0dca\u0daf \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca .",
+        "64 \u0dc4\u0dd0\u0dc0\u0dd2\u0dbb\u0dd2\u0daf\u0dd2 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4, \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbb\u0dcf\u0db8\u0dca \u0db1\u0dcf\u0dad\u0dca \u0d9a\u0ddd\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0dad\u0dda\u0dbb\u0dd3 \u0db4\u0dad\u0dca \u0dc0\u0dd6 \u0db7\u0dcf\u0dbb\u0dad\u0dd3\u0dba \u0da2\u0db1\u0dad\u0dcf \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0daf\u0dd9\u0dc0\u0db1 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dcf \u0dc0\u0dda. \u0d87\u0dba \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca 540 \u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0 \u0db8\u0dd4\u0dc5\u0dd4 \u0da1\u0db1\u0dca\u0daf\u0daf\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca 2,824 \u0d9a\u0dd2\u0db1\u0dca \u0da1\u0db1\u0dca\u0daf \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0d85\u0dad\u0dbb \u0dc3\u0dd2\u0d82\u0dc4\u0dcf \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca 208 \u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0 \u0da1\u0db1\u0dca\u0daf\u0daf\u0dcf\u0dba\u0d9a\u0dba\u0dd2\u0db1\u0dca 1,877 \u0d9a \u0dc3\u0dc4\u0dcf\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dda\u0dba.",
+        "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0dad\u0dbb\u0d9f\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d9a\u0dbd\u0dca\u0d9c\u0dad \u0dc0\u0dd6\u0dc0\u0d9a\u0dca \u0dc0\u0dd4\u0dc0\u0daf, \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db8\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0ddc\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0daf, \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0da7 \u0dc0\u0da9\u0dcf \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0d89\u0dc4\u0dc5 \u0db8\u0da7\u0dca\u0da7\u0db8\u0d9a \u0db4\u0dd0\u0dc0\u0dad\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 BJP \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7 \u0dba\u0db8\u0dca \u0dad\u0dd8\u0db4\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0d91\u0db1\u0dca\u0da9\u0dd3\u0d92 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a\u0dba\u0dcf \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0d9a \u0db8\u0dd3\u0dbb\u0dcf \u0d9a\u0dd4\u0db8\u0dcf\u0dbb\u0dca \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0d87\u0dad\u0dca\u0dad \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca\u0db8, \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4\u0d9c\u0dda \u0db4\u0dc5\u0db8\u0dd4 \u0db8\u0db1\u0dcf\u0db4 \u0da1\u0db1\u0dca\u0daf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc1\u0dad\u0dba - 64.03% - 1969 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0da1\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0db8\u0dc3\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc0\u0dd3 \u0dc0\u0dd3 \u0d9c\u0dd2\u0dbb\u0dd2\u0d9c\u0dda 48.01% \u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0d85\u0da9\u0dd4\u0db8 \u0d85\u0d9c\u0dba\u0dba\u0dd2.",
+        "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0db8\u0dd9\u0dba \u0db8\u0dad\u0dc0\u0dcf\u0daf\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0da7\u0db1\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dcf\u0dad\u0dca \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dc5 \u0d85\u0dbb\u0db8\u0dd4\u0dab \u0d89\u0da7\u0dd4\u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dc3\u0db8\u0dad\u0dca \u0dc0\u0dd6 \u0db6\u0dc0\u0da7 \u0dc3\u0dd0\u0d9a\u0dba\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dd3. BSP \u0dc3\u0dc4 JD(S) \u0dc0\u0dd0\u0db1\u0dd2 \u0db4\u0d9a\u0dca\u200d\u0dc2 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4\u0da7 \u0dc3\u0dc4\u0dba \u0daf\u0dd3\u0db8, \u0d85\u0dc0\u0dc3\u0dcf\u0db1 \u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0dda \u0d87\u0d9c\u0dda \u0dc3\u0dc4\u0ddd\u0daf\u0dbb \u0dc3\u0db1\u0dca\u0dad\u0dcf\u0dbd\u0dca, \u0da2\u0dcf\u0dbb\u0dca\u0d9a\u0db1\u0dca\u0da9\u0dca \u0db8\u0dc4 \u0d87\u0db8\u0dad\u0dd2 \u0dc4\u0dda\u0db8\u0db1\u0dca\u0dad\u0dca \u0dc3\u0ddd\u0dbb\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dcf\u0da7\u0d9a\u0dcf\u0d9a\u0dcf\u0dbb \u0dbd\u0dd9\u0dc3 \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 TMC \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf \u0db8\u0db8\u0dad\u0dcf \u0db6\u0dd0\u0db1\u0dbb\u0dca\u0da2\u0dd2 \u0dc0\u0dd0\u0db1\u0dd2 \u0da2\u0dca\u200d\u0dba\u0dd9\u0dc2\u0dca\u0da8 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dca\u200d\u0dba\u0dcf\u0d9a\u0dd6\u0dbd \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9\u0dba \u0db8\u0da9 \u0d9a\u0dc5\u0dda\u0dba. (\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc0\u0dda\u0dbd\u0dcf\u0dc0)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
+          "label": "PERSON"
+        },
+        {
+          "text": "15 \u0dc0\u0dd0\u0db1\u0dd2",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d91\u0db1\u0dca.\u0da9\u0dd3.\u0d92",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dca\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2\u0db1\u0dca\u0daf\u0dcf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0dba\u0dc2\u0dca\u0dc0\u0db1\u0dca\u0dad\u0dca \u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PERSON"
+          },
+          {
+            "text": "947",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0dc0\u0dd2\u0daf\u0dca\u0dba\u0dcf\u0dbd\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "35.97%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "64",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd3.\u0da2\u0dda.\u0db4\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dcf\u0db8\u0dca \u0db1\u0dcf\u0dad\u0dca \u0d9a\u0ddd\u0dc0\u0dd2\u0db1\u0dca\u0daf\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "2,824 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "540",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0d82\u0dc4",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "1,877 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "BJP \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0db4\u0dc4\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d91\u0db1\u0dca.\u0da9\u0dd3.\u0d92",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd3\u0dbb\u0dcf \u0d9a\u0dd4\u0db8\u0dcf\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc5\u0db8\u0dd4\u0dc0\u0db1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0dd3 \u0dc0\u0dd3 \u0d9c\u0dd2\u0dbb\u0dd2\u0d9c\u0dda",
+            "label": "PERSON"
+          },
+          {
+            "text": "48.01%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1969",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dd3\u0d91\u0dc3\u0dca\u0db4\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "JD(S",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd9\u0dc3\u0dda \u0dc0\u0dd9\u0dad\u0dad\u0dca, \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc0\u0dd9\u0dad \u0dba\u0dc0\u0db1 \u0dbd\u0daf \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dda \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd9\u0db1\u0dcf \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca \u0db8\u0dd2\u0dc3 \u0d94\u0dc4\u0dd4 \u0dc4\u0db8\u0dd4\u0dc0\u0dd3\u0db8\u0da7 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0db6\u0dc0\u0dba\u0dd2.",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da7\u0dd3.\u0d91\u0db8\u0dca.\u0dc3\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d9a\u0dcf\u0dbd\u0dcf\u0db1\u0dd4\u0dbb\u0dd6\u0db4\u0dc0",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd 15\u0bb5\u0ba4\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bcc\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bcc\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bbe\u0ba9 \u0baf\u0bb7\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0bb9\u0bbe\u0bb5\u0bc8 947 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1, \u0b9a\u0bbf\u0ba9\u0bcd\u0bb9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bbe\u0ba9 35.97% \u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 64.03% \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1, \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0baa\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0bae\u0ba3\u0bbf \u0b86\u0ba9\u0bbe\u0bb0\u0bcd. .",
+        "64 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9 \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1, \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb0\u0bbe\u0bae\u0bcd\u0ba8\u0bbe\u0ba4\u0bcd \u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbe\u0b95 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0bbe\u0b9c\u0b95 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b86\u0bb5\u0bbe\u0bb0\u0bcd. \u0b85\u0bb5\u0bb0\u0bcd 540 \u0b8e\u0bae\u0bcd.\u0baa\u0bbf.\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 2,824 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd, \u0b85\u0ba4\u0bc7 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0bb9\u0bbe \u200b\u200b208 \u0b8e\u0bae\u0bcd.\u0baa\u0bbf.\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f 1,877 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc7 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0baf\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0bbe\u0b9c\u0b95-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b93\u0bb0\u0bb3\u0bb5\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf \u0b85\u0b9f\u0bc8\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. NDA \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bc0\u0bb0\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd.",
+        "\u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 - 64.03% - 1969 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf.\u0bb5\u0bbf.\u0b95\u0bbf\u0bb0\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 48.01%\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0bae\u0bbf\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9\u0ba4\u0bc1.",
+        "\u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0baf\u0bbf\u0ba9\u0bc1\u0bae\u0bcd, \u0b87\u0ba4\u0bc8 \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0baf \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0b9f\u0bc8\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0b8e\u0bb8\u0bcd\u0baa\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bc7\u0b9f\u0bbf(\u0b8e\u0bb8\u0bcd) \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1, \u0b85\u0bb5\u0bb0\u0ba4\u0bc1 \u0b9a\u0b95 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd, \u0b9c\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb9\u0bc7\u0bae\u0ba8\u0bcd\u0ba4\u0bcd \u0b9a\u0bcb\u0bb0\u0ba9\u0bcd \u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0baf\u0ba4\u0bc1, \u0b9f\u0bbf\u0b8e\u0bae\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bae\u0bcd\u0ba4\u0bbe \u0baa\u0bbe\u0ba9\u0bb0\u0bcd\u0b9c\u0bbf \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0bae\u0bc2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9. (\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0ba4\u0bbf\u0bb0\u0bcc\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1",
+          "label": "PERSON"
+        },
+        {
+          "text": "15\u0bb5\u0ba4\u0bc1",
+          "label": "ORDINAL"
+        },
+        {
+          "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "label": "GPE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0ba4\u0bc7.\u0bae\u0bc1.\u0ba4\u0bbf.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bcc\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baf\u0bb7\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0bb9\u0bbe",
+            "label": "PERSON"
+          },
+          {
+            "text": "947",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "35.97%",
+            "label": "PERCENT"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "64",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe.\u0b9c.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bbe\u0bae\u0bcd \u0ba8\u0bbe\u0ba4\u0bcd \u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2,824",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "540",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9a\u0bbf\u0ba9\u0bcd\u0bb9\u0bbe",
+            "label": "PRODUCT"
+          },
+          {
+            "text": "1,877",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "208",
+            "label": "CARDINAL"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0b9c\u0b95 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0ba4\u0bc7.\u0bae\u0bc1.\u0ba4\u0bbf.\u0b95",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc0\u0bb0\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd",
+            "label": "ORDINAL"
+          },
+          {
+            "text": "64.03%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0bb5\u0bbf \u0bb5\u0bbf \u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "48.01%",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1969",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbf.\u0b8e\u0bb8\u0bcd.\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc7\u0b9f\u0bbf(\u0b8e\u0bb8\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0bb0\u0bcd\u0bae\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb9\u0bc7\u0bae\u0ba8\u0bcd\u0ba4\u0bcd \u0b9a\u0bcb\u0bb0\u0ba9\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9f\u0bbf.\u0b8e\u0bae\u0bcd.\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
