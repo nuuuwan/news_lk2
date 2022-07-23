@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 16:53:41 (LK time)*
+*As of 2022-07-23 17:04:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
-
-* **2** tamil-mirror-lk ([தம்மிகவின் பதவிக்கு மும்முனைப் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3113c5a9.json))
+## Last 30 Minutes (1 Articles)
 
 * **1** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
 
-* **1** lankadeepa-lk ([ආරක්‍ෂක ලේකම් ත්‍රීකුණාමලය රණවිරු ස්මාරකයට උපහාර පුදකරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e4d6e0d.json))
-
-## Last Hour (7 Articles)
+## Last Hour (5 Articles)
 
 * **2** tamil-mirror-lk ([தம்மிகவின் பதவிக்கு மும்முனைப் போட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3113c5a9.json))
 
@@ -20,13 +16,9 @@
 
 * **1** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
 
-* **1** ada-lk ([සඳුදා සිට පාසල් නැවත ආරම්භවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5689a9.json))
+## Last 3 Hours (36 Articles)
 
-* **1** virakesari-lk ([இலங்கை தமிழரசுக் கட்சி அலுவலகத்தில் கறுப்பு ஜூலை நினைவேந்தல் அனுஷ்டிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96ec6492.json))
-
-## Last 3 Hours (38 Articles)
-
-* **14** virakesari-lk ([நிமல் சிறிபால டி சில்வா மீதான குற்றச்சாட்டு தொடர்பில் விசாரணைகளை முன்னெடுக்க விசேட குழு நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38ddbd3e.json))
+* **13** virakesari-lk ([புகையிரத கட்டண திருத்தத்தை செயற்படுத்தாதோருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை - புகையிரத திணைக்கள பொது முகாமையாளர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66575e71.json))
 
 * **7** tamil-mirror-lk ([ஓடும் ரயிலிலிருந்து வீசப்பட்ட அதிகாரி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f0edfa9.json))
 
@@ -34,11 +26,11 @@
 
 * **4** news-first-lk ([Xi congratulates Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce281960.json))
 
-* **2** ada-lk ([පාසල් ළමුන් ප්‍රවාහනය කරන වාහනවලට පස්වරු 3 සිට ලංගම ඩිෆෝ මගින් ඉන්ධන](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4df841b5.json))
-
 * **2** ada-derana-lk ([SLTB depots to supply fuel to vehicles transporting school children](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae61f705.json))
 
 * **1** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
+
+* **1** ada-lk ([සඳුදා සිට පාසල් නැවත ආරම්භවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5689a9.json))
 
 * **1** economy-next-com ([Sri Lanka govt schools to start from July 25](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4786a67.json))
 
