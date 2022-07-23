@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/101-616919",
+    "time_ut": 1658590775,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1b/1ba4f0f2.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/WHO-declares-highest-alert-over-outbreak/342-241675",
     "time_ut": 1658590313,
     "original_lang": "en",
     "original_title": "WHO declares highest alert over outbreak",
     "file_name": "/tmp/news_lk2/articles/b7/b7c5dfcf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-declares-highest-alert-over-outbreak-of-monkeypox/342-241675",
+    "time_ut": 1658590313,
+    "original_lang": "en",
+    "original_title": "WHO declares highest alert over outbreak of monkeypox",
+    "file_name": "/tmp/news_lk2/articles/73/73c6c1db.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -78,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Recall COVID technical committee, make face masks mandatory;  GMOA tells health authorities",
     "file_name": "/tmp/news_lk2/articles/ab/ab25906e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-72\u0d9a\u0dca/11-395683",
+    "time_ut": 1658584107,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 72\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/54/5494fdb5.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1617,11 +1641,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d91\u0dbd\u0dca\u0dbd-\u0d9a\u0dc5-\u0db8\u0dd2\u0dbd\u0dd2\u0da7\u0dbb\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db1\u0dc0\u0dcf\u2018\u2018/1-616883",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0d91\u0dbd\u0dca\u0dbd-\u0d9a\u0dc5-\u0db8\u0dd2\u0dbd\u0dd2\u0da7\u0dbb\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db1\u0dc0\u0dcf\u2018\u2018/101-616883",
     "time_ut": 1658490528,
     "original_lang": "si",
     "original_title": "\u2018\u2018\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0d91\u0dbd\u0dca\u0dbd \u0d9a\u0dc5 \u0db8\u0dd2\u0dbd\u0dd2\u0da7\u0dbb\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd2\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/f1/f183a541.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f238727.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -1665,11 +1689,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/1-616880",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda-\u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/101-616880",
     "time_ut": 1658485357,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dda \u0dad\u0dd9\u0dbb\u0db4\u0dd4\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f9/f95abf93.json"
+    "file_name": "/tmp/news_lk2/articles/6a/6a3bab8a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -5377,11 +5401,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/342-237033",
+    "url": "https://www.dailymirror.lk/top_story/Leave-aside-party-politics-and-lets-join-hands-to-resolve-burning-issues-RW-writes-to-Sajith/155-237033",
     "time_ut": 1652512579,
     "original_lang": "en",
     "original_title": "Leave aside party politics and lets join hands to resolve burning issues - RW writes to Sajith",
-    "file_name": "/tmp/news_lk2/articles/a4/a4275c0a.json"
+    "file_name": "/tmp/news_lk2/articles/7e/7ebe9a84.json"
   },
   {
     "newspaper_id": "b-b-c-com-sinhala",
