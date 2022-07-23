@@ -1,10 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-23 17:31:21 (LK time)*
+*As of 2022-07-23 17:42:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (5 Articles)
+
+* **5** ada-lk ([රුසියාව සහ යුක්රේනය අතර ගිවිසුමකට එලැඹෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f357e4d.json))
+
+## Last Hour (7 Articles)
 
 * **5** ada-lk ([රුසියාව සහ යුක්රේනය අතර ගිවිසුමකට එලැඹෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f357e4d.json))
 
@@ -12,35 +16,23 @@
 
 * **1** ada-derana-lk ([Shinzo Abe’s suspected assassin to undergo psychiatric evaluation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d85064.json))
 
-## Last Hour (8 Articles)
-
-* **5** ada-lk ([රුසියාව සහ යුක්රේනය අතර ගිවිසුමකට එලැඹෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9f357e4d.json))
-
-* **1** tamil-mirror-lk ([பிரதான எதிர்க்கட்சி பிரதமரிடம் கோரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53b37555.json))
-
-* **1** ada-derana-lk ([Shinzo Abe’s suspected assassin to undergo psychiatric evaluation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d85064.json))
-
-* **1** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
-
-## Last 3 Hours (32 Articles)
+## Last 3 Hours (27 Articles)
 
 * **10** virakesari-lk ([எரிபொருள் வரிசையில் மேலும் இரு மரணங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/681fbe52.json))
 
 * **6** ada-lk ([සඳුදා සිට පාසල් නැවත ආරම්භවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5689a9.json))
 
-* **6** tamil-mirror-lk ([ஜனாதிபதி விடுத்துள்ள விசேட பணிப்புரை](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da2a3016.json))
-
-* **3** lankadeepa-lk ([’’අරලියගහ මන්දිරය යන්න පුළුවන් තත්වයක නෑ’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/948da605.json))
-
-* **3** news-first-lk ([Govt and Govt approved private schools to resume activities on 25th July](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cf926c9.json))
+* **5** tamil-mirror-lk ([ஐரோப்பிய ஒன்றியத்தின்  காட்டமான செய்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3e2884ce.json))
 
 * **2** ada-derana-lk ([Work in full compliance with GSP+ commitments: EU urges new SL govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71ea1608.json))
+
+* **2** lankadeepa-lk ([පොලිසියේ දෙකකට කැති ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51185ead.json))
 
 * **1** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
 
 * **1** economy-next-com ([Sri Lanka govt schools to start from July 25](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4786a67.json))
 
-## Last 24 Hours (177 Articles)
+## Last 24 Hours (176 Articles)
 
 * **25** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
@@ -54,7 +46,7 @@
 
 * **18** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
 
-* **16** ada-derana-lk ([Public awareness program on the use of fuel pass launched](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b45aa41b.json))
+* **15** ada-derana-lk ([Two more deaths reported in fuel queues](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d8b6745.json))
 
 * **14** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
