@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-declares-highest-alert-over-outbreak/342-241675",
+    "time_ut": 1658590313,
+    "original_lang": "en",
+    "original_title": "WHO declares highest alert over outbreak",
+    "file_name": "/tmp/news_lk2/articles/b7/b7c5dfcf.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-24-97839/",
     "time_ut": 1658589240,
