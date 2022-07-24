@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SLAF-clarifies-over-airman-who-claims-he-does-not-want-to-be-a-slave-to-SLAF/108-241680",
+    "time_ut": 1658642379,
+    "original_lang": "en",
+    "original_title": "SLAF clarifies over airman who claims he does not want to be a slave to SLAF",
+    "file_name": "/tmp/news_lk2/articles/1e/1e86e737.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd/\u0b95\u0b9f\u0ba9\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0bb5\u0b9f\u0bcd\u0b9f\u0bbf-\u0bb5\u0bc0\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/47-300999",
+    "time_ut": 1658642261,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9f\u0ba9\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bc0\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/4e/4e66a56e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83837/southern-province-schools-to-function-all-five-days-from-tomorrow",
+    "time_ut": 1658642160,
+    "original_lang": "en",
+    "original_title": "Southern Province schools to function all five days from tomorrow",
+    "file_name": "/tmp/news_lk2/articles/a9/a95f774d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-minister-Tariq-Ahmad-says-will-continue-to-support-Sri-Lanka/108-241679",
+    "time_ut": 1658642059,
+    "original_lang": "en",
+    "original_title": "UK minister Tariq Ahmad says will continue to support Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/b3/b3399a9b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132119",
+    "time_ut": 1658641549,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bc6\u0b95\u0bc1\u0ba4\u0bca\u0bb2\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b87\u0bae\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b6/b67dc674.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132118",
     "time_ut": 1658640912,
@@ -30,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db4\u0dd9\u0dc5 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dad\u0dca\u200d\u0dbb \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 6\u0daf\u0dcf \u0db1\u0dd0\u0dc0\u0dad \u0d85\u0dbb\u0db9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/79/79b59866.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/24/what-is-monkeypox/",
+    "time_ut": 1658640480,
+    "original_lang": "en",
+    "original_title": "What is Monkeypox?",
+    "file_name": "/tmp/news_lk2/articles/36/36dc166f.json"
   },
   {
     "newspaper_id": "virakesari-lk",

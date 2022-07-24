@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "Examination Commissioner General L. has planned to start the second phase of examination of the answer sheets of the general examination on August 6. M. D. Mr. Dharmasena said today (24).",
-        "Mr. Dharmasena said that the second phase of examination of the answer sheets was temporarily suspended due to the difficulty of the teachers in reaching the examination centers. He also mentioned that the reason for this was informed by teachers and other officials that transport facilities could not be arranged due to lack of fuel."
+        "Mr. Dharmasena said that the second phase of examination of answer sheets was temporarily suspended early this month due to the difficulty of teachers reaching the examination centers."
       ],
       "title_ents": [
         {
@@ -53,6 +53,10 @@
           {
             "text": "second",
             "label": "ORDINAL"
+          },
+          {
+            "text": "early this month",
+            "label": "DATE"
           }
         ]
       ]
@@ -105,6 +109,10 @@
           {
             "text": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2",
             "label": "ORDINAL"
+          },
+          {
+            "text": "\u0db8\u0dda \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0db8\u0dd4\u0dbd",
+            "label": "DATE"
           }
         ]
       ]
@@ -157,6 +165,10 @@
           {
             "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1",
             "label": "ORDINAL"
+          },
+          {
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0ba4 \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
           }
         ]
       ]
