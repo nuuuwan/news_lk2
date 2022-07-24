@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dda-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4-\u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2/1-616957",
+    "time_ut": 1658681286,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4 \u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca \u0dc0\u0dd0\u0da9 \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/2f/2f4df1e7.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83847/president-reaffirms-sri-lankas-commitment-to-uphold-rights-of-peaceful-non-violent-assembly",
+    "time_ut": 1658680920,
+    "original_lang": "en",
+    "original_title": "President reaffirms Sri Lanka\u2019s commitment to uphold rights of peaceful, non-violent assembly",
+    "file_name": "/tmp/news_lk2/articles/95/95756aa9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4-\u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-616956",
+    "time_ut": 1658680856,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4 \u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/14/14553a91.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132183",
     "time_ut": 1658679327,
