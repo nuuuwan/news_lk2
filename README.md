@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 19:32:03 (LK time)*
+*As of 2022-07-24 19:41:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** daily-mirror-lk ([Rights group seeks arrest of former president Rajapaksa in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63c4cb7d.json))
+
+## Last Hour (2 Articles)
 
 * **1** daily-mirror-lk ([Rights group seeks arrest of former president Rajapaksa in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63c4cb7d.json))
 
 * **1** virakesari-lk ([கோத்தபாய ராஜபக்சவை கைதுசெய்யவேண்டும் - சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திடம் சர்வதேச அமைப்பு மனு](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67968d8e.json))
 
-## Last Hour (3 Articles)
-
-* **2** virakesari-lk ([தேயிலை பயிர்ச்செய்கைக்கு 15,000 மெ.தொன் உரத்தை விநியோகிக்க தீர்மானம். - விவசாயத்துறை அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/346fcf13.json))
-
-* **1** daily-mirror-lk ([Rights group seeks arrest of former president Rajapaksa in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63c4cb7d.json))
-
-## Last 3 Hours (23 Articles)
+## Last 3 Hours (20 Articles)
 
 * **10** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
 
-* **5** lankadeepa-lk ([මාස හතට ලක්ෂ එකහමාරක් එතෙර රැකියාවලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e60ea84.json))
+* **3** lankadeepa-lk ([ඉන්ධන පෝලිමේ තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8de3674.json))
 
-* **3** ada-derana-lk ([Presidential Secretariat to reopen on Monday?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc8aa08.json))
+* **2** ada-derana-lk ([Circular restricting the calling of officers to govt offices](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/574a852e.json))
 
 * **2** tamil-mirror-lk ([சிபெட்கோ தீர்மானத்தால் எரிபொருளுக்கு சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/414de485.json))
 
