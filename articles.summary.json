@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca-\u0db1\u0dd2\u0dc0\u0dc3\u0dda-\u0dc3\u0dd2\u0da7-\u0dc0\u0dd0\u0da9/11-395702",
+    "time_ut": 1658656656,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0dc0\u0dc3\u0dda \u0dc3\u0dd2\u0da7 \u0dc0\u0dd0\u0da9",
+    "file_name": "/tmp/news_lk2/articles/3a/3abc38e2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d9c\u0ddd-\u0d9c\u0db8\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca-\u0db6\u0daf\u0dcf\u0daf\u0dcf/1-616946",
     "time_ut": 1658655544,
@@ -630,6 +638,14 @@
     "original_lang": "en",
     "original_title": "Not far from Sri Lanka moment, warns Imran",
     "file_name": "/tmp/news_lk2/articles/36/361b9fda.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/ranil-wickremesinghe-a-pimp-without-a-country/",
+    "time_ut": 1658637387,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe: A Pimp Without A Country",
+    "file_name": "/tmp/news_lk2/articles/1d/1d2be101.json"
   },
   {
     "newspaper_id": "ada-lk",
