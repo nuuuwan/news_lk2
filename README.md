@@ -1,46 +1,42 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 20:45:52 (LK time)*
+*As of 2022-07-24 20:55:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **2** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
+* **1** tamil-mirror-lk ([ஜனாதிபதி தலைமையில்  ஆளுங்கட்சி கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1632237.json))
 
 * **1** daily-mirror-lk ([End of the road for asphalt producing plants in Kalahagala, Polonnaruwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f579761f.json))
 
 * **1** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
 
-* **1** virakesari-lk ([கைவிடப்பட்டது புகையிரத நிலைய பொறுப்பதிகாரிகளின் பணிப்புறக்கணிப்பு போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f271872e.json))
-
-## Last Hour (9 Articles)
+## Last Hour (7 Articles)
 
 * **2** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
 
 * **2** daily-mirror-lk ([Circular issued calling state employees to work extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ce8320b.json))
 
-* **2** ada-derana-lk ([Power cut schedule for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa8c2728.json))
+* **1** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
 
-* **2** virakesari-lk ([வவுனியாவில் துவிச்சக்கரவண்டிகளின் பாவனையாளர்களுக்கு முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4085d5ef.json))
+* **1** virakesari-lk ([கைவிடப்பட்டது புகையிரத நிலைய பொறுப்பதிகாரிகளின் பணிப்புறக்கணிப்பு போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f271872e.json))
 
 * **1** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
 
-## Last 3 Hours (19 Articles)
-
-* **5** virakesari-lk ([தமிழக அரசின் நிவாரணப் பொருட்கள் வழங்கும் திட்டம் நிறைவு ; தமிழக அரசுக்கு நன்றி - செந்தில் தொண்டமான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f51a6800.json))
+## Last 3 Hours (16 Articles)
 
 * **4** daily-mirror-lk ([Rights group seeks arrest of former president Rajapaksa in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63c4cb7d.json))
 
-* **3** tamil-mirror-lk ([’அமைதியான ஆர்ப்பாட்ட உரிமையை பாதுகாப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad80fab.json))
+* **4** virakesari-lk ([தேயிலை பயிர்ச்செய்கைக்கு 15,000 மெ.தொன் உரத்தை விநியோகிக்க தீர்மானம். - விவசாயத்துறை அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/346fcf13.json))
 
 * **3** ada-derana-lk ([Indian passport scam: Sri Lankans among 15 arrested so far](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99436aa7.json))
+
+* **2** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
 
 * **2** news-first-lk ([Be accountable for assets maintained from public money – Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d06c0787.json))
 
 * **1** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
-
-* **1** ada-lk ([පළමු දිනය නිමාවන විට ශ්‍රී ලංකාව 315-6](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e876e853.json))
 
 ## Last 24 Hours (171 Articles)
 
