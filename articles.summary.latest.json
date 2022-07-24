@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132179",
+    "time_ut": 1658672566,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/40/4085d5ef.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83844/power-cut-schedule-for-tomorrow",
+    "time_ut": 1658672340,
+    "original_lang": "en",
+    "original_title": "Power cut schedule for tomorrow",
+    "file_name": "/tmp/news_lk2/articles/fa/fa8c2728.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Aragalaya-only-achieved-partial-victory-AKD/342-241687",
+    "time_ut": 1658671628,
+    "original_lang": "en",
+    "original_title": "Aragalaya only achieved partial victory: AKD",
+    "file_name": "/tmp/news_lk2/articles/ba/ba5d9d5d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/24/power-cuts-approved-for-monday-25/",
+    "time_ut": 1658670360,
+    "original_lang": "en",
+    "original_title": "Power cuts approved for Monday (25)",
+    "file_name": "/tmp/news_lk2/articles/fa/faefdc6d.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Rights-group-seeks-arrest-of-former-president-Rajapaksa-in-Singapore/108-241686",
     "time_ut": 1658670258,
@@ -2065,11 +2097,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-raises-unofficial-concerns-with-Colombo-based-diplomats-over-statements/342-241660",
+    "url": "https://www.dailymirror.lk/breaking_news/President-raises-unofficial-concerns-with-Colombo-based-diplomats-over-statements/108-241660",
     "time_ut": 1658556729,
     "original_lang": "en",
     "original_title": "President raises unofficial concerns with Colombo based diplomats over statements",
-    "file_name": "/tmp/news_lk2/articles/f1/f10bcbcf.json"
+    "file_name": "/tmp/news_lk2/articles/b7/b7de28f4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
