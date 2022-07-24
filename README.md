@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 22:58:10 (LK time)*
+*As of 2022-07-24 23:15:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
-## Last Hour (4 Articles)
+* **1** lankadeepa-lk ([අපේ ගුවන් හපන්නු එතෙරත් වැඩ පෙන්නයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f4df1e7.json))
 
-* **2** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14553a91.json))
-
-* **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
-
-* **1** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
-
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **4** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
 
@@ -26,11 +20,9 @@
 
 * **2** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
 
-* **2** daily-mirror-lk ([Circular issued calling state employees to work extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ce8320b.json))
-
 * **1** ada-lk ([ගෝඨාභය අත්අඩංගුවට ගන්නැයි සිංගප්පූරුවේ නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a85fb51.json))
 
-* **1** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
+* **1** daily-mirror-lk ([End of the road for asphalt producing plants in Kalahagala, Polonnaruwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f579761f.json))
 
 ## Last 24 Hours (170 Articles)
 
