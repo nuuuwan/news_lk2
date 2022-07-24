@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 22:50:23 (LK time)*
+*As of 2022-07-24 22:58:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,11 +16,11 @@
 
 * **1** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
 
-## Last 3 Hours (16 Articles)
-
-* **4** virakesari-lk ([வவுனியாவில் துவிச்சக்கரவண்டிகளின் பாவனையாளர்களுக்கு முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4085d5ef.json))
+## Last 3 Hours (15 Articles)
 
 * **4** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
+
+* **3** virakesari-lk ([கைவிடப்பட்டது புகையிரத நிலைய பொறுப்பதிகாரிகளின் பணிப்புறக்கணிப்பு போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f271872e.json))
 
 * **2** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14553a91.json))
 
@@ -32,7 +32,7 @@
 
 * **1** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
 
-## Last 24 Hours (171 Articles)
+## Last 24 Hours (170 Articles)
 
 * **45** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -48,7 +48,7 @@
 
 * **9** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
-* **7** economy-next-com ([WHO declares Monkeypox as public health emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bf9acfa.json))
+* **6** economy-next-com ([Int. Red Cross Fedration appeals for 28.9 mln USD humanitarian funding to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a8f8df9.json))
 
 * **6** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
