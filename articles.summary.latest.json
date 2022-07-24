@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83845/rights-group-seeks-arrest-of-former-sri-lanka-president-in-singapore",
+    "time_ut": 1658674620,
+    "original_lang": "en",
+    "original_title": "Rights group seeks arrest of former Sri Lanka president in Singapore",
+    "file_name": "/tmp/news_lk2/articles/7d/7de7efa7.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bcd\u0bae\u0bc8-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b89\u0bb7\u0bbe\u0bb0\u0bcd/175-301023",
     "time_ut": 1658674117,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Circular issued calling state employees to work extended",
     "file_name": "/tmp/news_lk2/articles/7c/7ce8320b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cut-upto-3-hrs-on-july-25th-97868/",
+    "time_ut": 1658673720,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cut upto 3-hrs on July 25th",
+    "file_name": "/tmp/news_lk2/articles/ae/aeaae2a0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -33,11 +49,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Aragalaya-only-achieved-partial-victory-AKD/108-241687",
+    "url": "https://www.dailymirror.lk/latest_news/Aragalaya-only-achieved-partial-victory-AKD/342-241687",
     "time_ut": 1658671628,
     "original_lang": "en",
     "original_title": "Aragalaya only achieved partial victory: AKD",
-    "file_name": "/tmp/news_lk2/articles/1d/1dc48105.json"
+    "file_name": "/tmp/news_lk2/articles/ba/ba5d9d5d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/24/power-cuts-approved-for-monday-25/",
+    "time_ut": 1658670360,
+    "original_lang": "en",
+    "original_title": "Power cuts approved for Monday (25)",
+    "file_name": "/tmp/news_lk2/articles/fa/faefdc6d.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2105,11 +2129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-raises-unofficial-concerns-with-Colombo-based-diplomats-over-statements/342-241660",
+    "url": "https://www.dailymirror.lk/breaking_news/President-raises-unofficial-concerns-with-Colombo-based-diplomats-over-statements/108-241660",
     "time_ut": 1658556729,
     "original_lang": "en",
     "original_title": "President raises unofficial concerns with Colombo based diplomats over statements",
-    "file_name": "/tmp/news_lk2/articles/f1/f10bcbcf.json"
+    "file_name": "/tmp/news_lk2/articles/b7/b7de28f4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
