@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 02:23:13 (LK time)*
+*As of 2022-07-25 02:33:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (18 Articles)
 
 * **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
-
-* **1** ada-derana-lk ([Person traveling in bus arrested with firearm and bullets](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c2510a.json))
-
-* **1** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
 
 ## Last 24 Hours (189 Articles)
 
