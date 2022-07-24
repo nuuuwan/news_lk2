@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Demodara-Estate-sets-an-all-time-record-price/34-737863",
+    "time_ut": 1658689049,
+    "original_lang": "en",
+    "original_title": "Demodara Estate sets an all-time record price",
+    "file_name": "/tmp/news_lk2/articles/8f/8fe26cea.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Glenanore-Estate-establishes-all-time-record-price/34-737862",
+    "time_ut": 1658688988,
+    "original_lang": "en",
+    "original_title": "Glenanore Estate establishes all-time record price",
+    "file_name": "/tmp/news_lk2/articles/e2/e2ac6ff7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-arrested-with-stolen-goods-from-the-Presidents-House/108-241697",
+    "time_ut": 1658688867,
+    "original_lang": "en",
+    "original_title": "Three arrested with stolen goods from the President\u2019s House",
+    "file_name": "/tmp/news_lk2/articles/7d/7d33e105.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/All-time-record-prices-achieved-by-Forbes-Walker-Tea-Brokers/34-737861",
+    "time_ut": 1658688718,
+    "original_lang": "en",
+    "original_title": "All-time record prices achieved by Forbes & Walker Tea Brokers",
+    "file_name": "/tmp/news_lk2/articles/d7/d75eff8c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Deepak-Senthil-succeeds-CCBSL-outgoing-Managing-Director-Mayank-Arora/34-737860",
     "time_ut": 1658688495,
     "original_lang": "en",
