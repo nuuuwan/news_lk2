@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 01:29:45 (LK time)*
+*As of 2022-07-25 01:33:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (7 Articles)
+## Last Hour (4 Articles)
 
-* **7** daily-ft-lk ([Yet another all-time record price for Delta Estate](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3529f67e.json))
+* **4** daily-ft-lk ([President appoints committee to probe bribery allegation on Japan funded BIA expansion](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a7c9221.json))
 
 ## Last 3 Hours (22 Articles)
 
