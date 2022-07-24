@@ -1,32 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 16:25:14 (LK time)*
+*As of 2022-07-24 16:34:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (2 Articles)
 
 * **2** tamil-mirror-lk ([போராட்டக்காரர்களை அகற்றியமை தொடர்பில்   விவாதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad5edcdc.json))
 
-* **2** lankadeepa-lk ([යතුරු පැදිය පිරවුම්හල අසල දී  ගිනිගෙන දැවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68b1713d.json))
-
-* **1** economy-next-com ([Sri Lanka police defend attack on peaceful protestors as Ranil under global fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c17cf762.json))
-
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
 * **3** tamil-mirror-lk ([எரிபொருள் வரிசையில் யானை](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6706c087.json))
 
-* **2** lankadeepa-lk ([යතුරු පැදිය පිරවුම්හල අසල දී  ගිනිගෙන දැවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/68b1713d.json))
+* **2** lankadeepa-lk ([යතුරු පැදිය පිරවුම්හල අසල දී  ගිනිගෙන දැවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2768cf26.json))
 
 * **1** economy-next-com ([Sri Lanka police defend attack on peaceful protestors as Ranil under global fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c17cf762.json))
 
-* **1** ada-lk ([රාජ්‍ය සේවකයන් තවත් මාසයක් නිවසේ සිට වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3abc38e2.json))
-
 ## Last 3 Hours (44 Articles)
 
-* **16** virakesari-lk ([வீரியமடையும்  கறுப்புச்சந்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a45d6083.json))
+* **15** virakesari-lk ([அடுத்த பிரித்தானிய பிரதமர் யார் ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e966907e.json))
 
-* **9** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවක් ඇතිකරන බවක් තාම පේන්නට නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc233c0.json))
+* **10** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවක් ඇතිකරන බවක් තාම පේන්නට නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc233c0.json))
 
 * **5** tamil-mirror-lk ([100 நாட்களைக் கடந்த  போராட்ட களம் அகற்றப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c8b2ba3.json))
 
@@ -44,7 +38,7 @@
 
 * **33** virakesari-lk ([ஒன்றுகூடல்கள், ஆர்ப்பாட்டங்களை கலைக்க பொலிஸ், முப்படைக்கு சிறப்பு அதிகாரங்கள் :  சட்டத்தை அமுல் செய்ய தயங்கப் போவதில்லை என பொலிஸார் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebf387f.json))
 
-* **26** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9cd553.json))
+* **27** lankadeepa-lk ([දුම්රිය ස්ථානාධිපතිවරු ප්‍රවේශපත් නිකුත් කිරීමෙන් ඉවත් වෙති](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d9cd553.json))
 
 * **26** ada-lk ([ඉදිරියට ඉන්ධන මිලදී ගැනීම ගැන දිර්ඝ ලෙස සාකච්ඡා](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e89a2055.json))
 
@@ -60,13 +54,13 @@
 
 * **6** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
-* **5** island-lk ([DEALING WITH UNUSUAL CHALLENGES](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b71b64f0.json))
+* **4** island-lk ([UN to host over 190 world leaders and delegates — Despite threats from deadly new Covid-19 variant](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79f65a85.json))
 
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (585 Articles)
+## Last Week (586 Articles)
 
-* **72** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
+* **73** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
@@ -92,9 +86,9 @@
 
 * **18** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (891 Articles)
+## All Time (892 Articles)
 
-* **129** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **130** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **115** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
