@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 01:07:49 (LK time)*
+*As of 2022-07-25 01:15:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-ft-lk ([Govt. must not hoodwink the people: Elle Gunawansa Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afae689d.json))
 
 ## Last Hour (14 Articles)
 
@@ -14,19 +10,19 @@
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (23 Articles)
 
 * **18** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
-* **2** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
-
-* **2** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14553a91.json))
-
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
+
+* **1** ada-derana-lk ([Person traveling in bus arrested with firearm and bullets](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c2510a.json))
 
 * **1** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
 
 * **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
+
+* **1** lankadeepa-lk ([අපේ ගුවන් හපන්නු එතෙරත් වැඩ පෙන්නයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f4df1e7.json))
 
 ## Last 24 Hours (190 Articles)
 
