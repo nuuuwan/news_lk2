@@ -1,24 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 01:33:04 (LK time)*
+*As of 2022-07-25 01:45:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last 3 Hours (20 Articles)
 
-* **4** daily-ft-lk ([President appoints committee to probe bribery allegation on Japan funded BIA expansion](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a7c9221.json))
-
-## Last 3 Hours (22 Articles)
-
-* **18** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
+* **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
 * **1** ada-derana-lk ([Person traveling in bus arrested with firearm and bullets](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8c2510a.json))
 
 * **1** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
-
-* **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
 ## Last 24 Hours (189 Articles)
 
@@ -44,9 +38,9 @@
 
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (648 Articles)
+## Last Week (642 Articles)
 
-* **87** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
+* **81** daily-ft-lk ([Will the 225 save this country now gasping for breath?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f48276f5.json))
 
 * **80** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
