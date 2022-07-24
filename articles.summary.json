@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-Collective-Against-Torture-condemns-brutal-attack-on-protestors/14-737856",
+    "time_ut": 1658687603,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Collective Against Torture condemns brutal attack on protestors",
+    "file_name": "/tmp/news_lk2/articles/73/73d2e344.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Here-to-eternity/14-737855",
+    "time_ut": 1658687537,
+    "original_lang": "en",
+    "original_title": "Here to eternity",
+    "file_name": "/tmp/news_lk2/articles/21/21d12506.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83848/person-traveling-in-bus-arrested-with-firearm-and-bullets",
     "time_ut": 1658685540,
