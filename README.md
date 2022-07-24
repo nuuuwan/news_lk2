@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 12:49:58 (LK time)*
+*As of 2022-07-24 12:56:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** virakesari-lk ([கோட்டாவுக்கு எதிராக சட்டநடவடிக்கை : புலம்பெயர் தமிழ் அமைப்புக்கள் முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dafdf978.json))
+* **1** virakesari-lk ([வெளிநாட்டு உயர்ஸ்தானிகர்கள், தூதுவர்களிடத்தில் ரணில் அதிருப்தி](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9674d75.json))
 
 ## Last Hour (5 Articles)
 
@@ -36,7 +36,7 @@
 
 ## Last 24 Hours (158 Articles)
 
-* **29** virakesari-lk ([வெளிநாட்டு இராஜதந்திரிகளின் கருத்துக்கள் குறித்து ரணில் கவலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c04d410.json))
+* **28** virakesari-lk ([ஜூலை மாதத்தில் இலங்கைக்கு 28,000 சுற்றுலா பயணிகள் வருகை](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235cd3bf.json))
 
 * **24** lankadeepa-lk ([අගමැති ලේකම් ධුරයට අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0655a09.json))
 
@@ -54,9 +54,11 @@
 
 * **7** economy-next-com ([Sri Lanka govt schools to start from July 25](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4786a67.json))
 
+* **1** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
+
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (523 Articles)
+## Last Week (524 Articles)
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
@@ -82,9 +84,9 @@
 
 * **20** d-b-s-jeyaraj-com ([A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde8827e.json))
 
-* **12** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
+* **13** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (829 Articles)
+## All Time (830 Articles)
 
 * **118** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -110,4 +112,4 @@
 
 * **25** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:ජනපති සිහිනය ජයගත් හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
 
-* **20** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
+* **21** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
