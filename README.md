@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 08:58:42 (LK time)*
+*As of 2022-07-24 09:25:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** ada-derana-lk ([Railway authorities and station masters to hold talks over union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4b81eb7.json))
 
-## Last Hour (5 Articles)
+* **1** lankadeepa-lk ([පළාත් රැසකට අදත් වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/0177c089.json))
 
-* **2** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d8310e.json))
-
-* **2** lankadeepa-lk ([ඉන්ධන පෝලිමෙන් පැන පොලිසියටත් කොටන්නන ගිය අයකු මෙල්ල කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7ad1ad8.json))
-
-* **1** tamil-mirror-lk ([தேயிலை செய்கைக்கு உரத்தினை வழங்க தீர்மானம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a0f6334.json))
-
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (12 Articles)
 
 * **4** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -26,17 +20,19 @@
 
 * **2** tamil-mirror-lk ([தொழிற்சங்க போராட்டம் கைவிடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a90ebfa.json))
 
-## Last 24 Hours (146 Articles)
+* **1** ada-lk ([ඇන්ජි කඩයිමක් අභියස](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43ec0d8a.json))
+
+## Last 24 Hours (144 Articles)
 
 * **26** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
-* **23** lankadeepa-lk ([ධම්මිකගේ පුටුවට තුනක් සටනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28aa088a.json))
+* **20** lankadeepa-lk ([අරගලකරුවන්ට නතු වූ මන්දිරවල පැරණි බඩු උස්සලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8fdefa.json))
 
 * **17** ada-derana-lk ([Fuel pass system tested at 25 filling stations island-wide today](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347a8166.json))
 
 * **17** tamil-mirror-lk ([ஓடும் ரயிலிலிருந்து வீசப்பட்ட அதிகாரி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f0edfa9.json))
 
-* **16** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
+* **17** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
 
 * **15** news-first-lk ([Opposition requests PM to summon P’ment](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d22de49.json))
 
@@ -46,7 +42,7 @@
 
 * **8** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
-## Last Week (480 Articles)
+## Last Week (481 Articles)
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
@@ -56,7 +52,7 @@
 
 * **43** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **40** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
+* **41** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
 * **37** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
@@ -74,13 +70,13 @@
 
 * **12** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (784 Articles)
+## All Time (785 Articles)
 
 * **112** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
 * **109** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **98** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **99** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **97** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
