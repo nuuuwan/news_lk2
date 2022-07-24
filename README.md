@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 06:05:29 (LK time)*
+*As of 2022-07-24 06:27:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (144 Articles)
+## Last 24 Hours (143 Articles)
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
-* **19** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
+* **18** tamil-mirror-lk ([இந்திய - இலங்கை உறவு சிறந்த முறையில் உள்ளது: கோபால் பாக்லே](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/822a21ac.json))
 
 * **17** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
