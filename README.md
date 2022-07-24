@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 00:56:47 (LK time)*
+*As of 2022-07-25 01:07:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (10 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **10** daily-ft-lk ([Demodara Estate sets an all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fe26cea.json))
+* **2** daily-ft-lk ([Govt. must not hoodwink the people: Elle Gunawansa Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afae689d.json))
 
-## Last Hour (17 Articles)
+## Last Hour (14 Articles)
 
-* **16** daily-ft-lk ([Shocking violation of the Constitution by the ‘Lord and Master’](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7cce5e76.json))
+* **13** daily-ft-lk ([Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/649b2f8e.json))
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
@@ -28,7 +28,7 @@
 
 * **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
-## Last 24 Hours (191 Articles)
+## Last 24 Hours (190 Articles)
 
 * **46** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -40,7 +40,7 @@
 
 * **18** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
-* **18** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை ஊழியர்கள் இன்று பணிப்பகிஷ்கரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c561591.json))
+* **17** tamil-mirror-lk ([தொழிற்சங்க போராட்டம் கைவிடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a90ebfa.json))
 
 * **13** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
 
