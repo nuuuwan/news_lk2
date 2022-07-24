@@ -1,40 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 18:04:53 (LK time)*
+*As of 2022-07-24 18:24:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** virakesari-lk ([தமிழக அரசின் நிவாரணப் பொருட்கள் வழங்கும் திட்டம் நிறைவு ; தமிழக அரசுக்கு நன்றி - செந்தில் தொண்டமான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f51a6800.json))
 
 * **1** tamil-mirror-lk ([’அமைதியான ஆர்ப்பாட்ட உரிமையை பாதுகாப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad80fab.json))
 
-## Last Hour (7 Articles)
-
-* **3** virakesari-lk ([கறுப்பு ஜூலையின் 39 ஆவது ஆண்டு நினைவு தினம் :  கனேடிய பிரதமர் ஜஸ்ரின் ட்ரூடோ விசேட  அறிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d433755.json))
-
-* **3** lankadeepa-lk ([ඉන්ධන පෝලිමේ තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8de3674.json))
-
-* **1** tamil-mirror-lk ([’அமைதியான ஆர்ப்பாட்ட உரிமையை பாதுகாப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad80fab.json))
-
-## Last 3 Hours (29 Articles)
-
-* **9** lankadeepa-lk ([ගෝඨා ගෝ ගමට පහරදීම ගැන විවාදයක් බදාදා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec20c90e.json))
+## Last 3 Hours (26 Articles)
 
 * **8** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
 
-* **5** tamil-mirror-lk ([எரிபொருள் வரிசையில் யானை](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6706c087.json))
+* **8** lankadeepa-lk ([නව ජනාධිපති සමග පළමු ආණ්ඩු පක්ෂ රැස්වීම අනිද්දා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d95af1f.json))
 
-* **3** ada-lk ([සාමකාමීව, ප්‍රචණ්ඩත්වයෙන් තොරව රැස්වීමේ අයිතිය තහවුරු කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba70f063.json))
+* **5** tamil-mirror-lk ([எரிபொருள் வரிசையில் யானை](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6706c087.json))
 
 * **2** ada-derana-lk ([Presidential Secretariat to reopen on Monday?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc8aa08.json))
 
+* **2** ada-lk ([රාජ්‍ය සේවකයන් තවත් මාසයක් නිවසේ සිට වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3abc38e2.json))
+
 * **1** economy-next-com ([Sri Lanka police defend attack on peaceful protestors as Ranil under global fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c17cf762.json))
 
-* **1** news-first-lk ([Circular on State employees attendance, extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/8068041a.json))
-
-## Last 24 Hours (175 Articles)
+## Last 24 Hours (168 Articles)
 
 * **40** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
@@ -42,13 +32,13 @@
 
 * **21** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
 
-* **20** ada-derana-lk ([Railway station masters on 48-hour trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/526eec22.json))
+* **18** ada-derana-lk ([PUCSL approves three-hour power cuts for July 24](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/7273d67a.json))
 
-* **18** tamil-mirror-lk ([பெற்றோலுடன் கவிழ்ந்த பௌசர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84363dd1.json))
-
-* **15** news-first-lk ([Protestors were unwilling to vacate premises: Police Spokesperson](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9d89c0.json))
+* **16** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
 
 * **13** daily-mirror-lk ([Schools reopen from Monday; three days per week: Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a0a0bbd7.json))
+
+* **12** news-first-lk ([HRW urges President to cease unlawful use of force against protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6aa0aee8.json))
 
 * **8** economy-next-com ([Sri Lanka president asks to crackdown black market fuel dealers](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969eda31.json))
 
