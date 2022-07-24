@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 12:26:19 (LK time)*
+*As of 2022-07-24 12:34:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (3 Articles)
 
 * **2** lankadeepa-lk ([ඉන්ධන හලේ දී පොලිසියට පහර දෙන්න හැදූ අයකු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a24fd786.json))
 
 * **1** virakesari-lk ([கோட்டாவுக்கு எதிராக சட்டநடவடிக்கை : புலம்பெயர் தமிழ் அமைப்புக்கள் முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dafdf978.json))
 
-* **1** news-first-lk ([Police call for reports on damages to President’s Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e4ac99d.json))
-
-## Last Hour (10 Articles)
+## Last Hour (8 Articles)
 
 * **4** lankadeepa-lk ([දකුණේ පළාත් පාසල් සතියේ දින පහම විවෘතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b178f664.json))
 
@@ -20,11 +18,7 @@
 
 * **1** news-first-lk ([Police call for reports on damages to President’s Office](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e4ac99d.json))
 
-* **1** daily-mirror-lk ([SLAF clarifies over airman who claims he does not want to be a slave to SLAF](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e86e737.json))
-
-* **1** tamil-mirror-lk ([கடன் அட்டைகளுக்கான வட்டி வீதங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e66a56e.json))
-
-## Last 3 Hours (40 Articles)
+## Last 3 Hours (38 Articles)
 
 * **9** lankadeepa-lk ([ඉන්දීය පොහොර වලින් මෙට්‍රික් ටොන් 15000 ක් තේ වගාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39374933.json))
 
@@ -32,19 +26,19 @@
 
 * **6** virakesari-lk ([இலங்கை ஜனாதிபதியுடன் பிரிட்டனின் அமைச்சர் தொலைபேசி உரையாடல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac4558ed.json))
 
-* **5** ada-derana-lk ([Gemstones worth over INR 9 million seized at Chennai airport, Sri Lankan arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bb6ac3ca.json))
-
 * **4** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
+
+* **4** ada-derana-lk ([UK Minister calls President to discuss security and economic situation in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a791e7f.json))
 
 * **3** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
-* **3** economy-next-com ([Int. Red Cross Fedration appeals for 28.9 mln USD humanitarian funding to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a8f8df9.json))
+* **2** economy-next-com ([Sri Lanka banks cut foreign borrowings, see more deposit dollarization](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3cba032a.json))
 
 * **1** tamil-mirror-lk ([கடன் அட்டைகளுக்கான வட்டி வீதங்கள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e66a56e.json))
 
-## Last 24 Hours (163 Articles)
+## Last 24 Hours (162 Articles)
 
-* **30** virakesari-lk ([காலிமுகத்திடல் போராட்டக்காரர்கள் மீதான தாக்குதலுக்கு எதிர்ப்பு தெரிவித்து அட்டனில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f8c28e6.json))
+* **29** virakesari-lk ([காலிமுகத்திடலில் இடம்பெற்ற தாக்குதலுக்கு எதிர்த்து யாழில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a6d3c83.json))
 
 * **25** lankadeepa-lk ([අරගලකරුවන්ට පහර දීම ගැන විපක්ෂය විවාදයක් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b137f0fd.json))
 
