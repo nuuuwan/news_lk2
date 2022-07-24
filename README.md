@@ -1,42 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 17:33:24 (LK time)*
+*As of 2022-07-24 17:48:09 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** lankadeepa-lk ([ඉන්ධන පෝලිමේ තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8edd62b1.json))
+* **1** lankadeepa-lk ([22 අනිද්දා මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1ff497a5.json))
 
-* **3** virakesari-lk ([தேயிலையுடன் லொறி குடைசாய்ந்து விபத்து : சாரதி பலத்த காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d97d5cf.json))
+## Last Hour (9 Articles)
 
-## Last Hour (15 Articles)
+* **5** virakesari-lk ([பொலிஸ் உத்தியோகத்தரை கத்தியால் குத்திய நபர் பொலிஸாரின் துப்பாக்கிச் சூட்டில் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f9bb43f.json))
 
-* **7** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
+* **3** lankadeepa-lk ([ඉන්ධන පෝලිමේ තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8de3674.json))
 
-* **5** lankadeepa-lk ([මාස හතට ලක්ෂ එකහමාරක් එතෙර රැකියාවලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c525d435.json))
+* **1** ada-derana-lk ([Circular restricting the calling of officers to govt offices](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/574a852e.json))
 
-* **2** ada-derana-lk ([Presidential Secretariat to reopen on Monday?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc8aa08.json))
+## Last 3 Hours (32 Articles)
 
-* **1** tamil-mirror-lk ([சிபெட்கோ தீர்மானத்தால் எரிபொருளுக்கு சிக்கல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/414de485.json))
-
-## Last 3 Hours (35 Articles)
-
-* **14** lankadeepa-lk ([දුම්රිය ස්ථානාධිපති වර්ජනය අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/677a8606.json))
+* **13** lankadeepa-lk ([මාතර ගෝඨා ගෝගමට ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/817c5a97.json))
 
 * **7** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
 
-* **6** tamil-mirror-lk ([100 நாட்களைக் கடந்த  போராட்ட களம் அகற்றப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c8b2ba3.json))
-
-* **3** news-first-lk ([Two arrested for skipping queues and obstructing Police duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32199022.json))
+* **5** tamil-mirror-lk ([அரச ஊழியர்களுக்கு ​அடித்தது அதிர்ஷ்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4aacf7a.json))
 
 * **2** ada-derana-lk ([Presidential Secretariat to reopen on Monday?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc8aa08.json))
 
 * **2** ada-lk ([සාමකාමීව, ප්‍රචණ්ඩත්වයෙන් තොරව රැස්වීමේ අයිතිය තහවුරු කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ba/ba70f063.json))
 
+* **2** news-first-lk ([President reaffirms commitment to uphold right to non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f52998a.json))
+
 * **1** economy-next-com ([Sri Lanka police defend attack on peaceful protestors as Ranil under global fire](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c17cf762.json))
 
-## Last 24 Hours (173 Articles)
+## Last 24 Hours (172 Articles)
 
 * **40** virakesari-lk ([ஒன்றுகூடல்கள், ஆர்ப்பாட்டங்களை கலைக்க பொலிஸ், முப்படைக்கு சிறப்பு அதிகாரங்கள் :  சட்டத்தை அமுல் செய்ய தயங்கப் போவதில்லை என பொலிஸார் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebf387f.json))
 
@@ -46,7 +42,7 @@
 
 * **20** ada-lk ([25දා පාර්ලිමේන්තුව කැඳවන්නැයි SJB අගමැතිගෙන් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4babf6c.json))
 
-* **17** tamil-mirror-lk ([விலைகள் விரைவில்  குறையும் சாத்தியம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66ad5e00.json))
+* **16** tamil-mirror-lk ([பெற்றோலுடன் கவிழ்ந்த பௌசர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84363dd1.json))
 
 * **15** news-first-lk ([Protestors were unwilling to vacate premises: Police Spokesperson](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c9d89c0.json))
 
@@ -60,7 +56,7 @@
 
 * **1** island-lk ([Maldives – Nation of 1.190 islands](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01627b55.json))
 
-## Last Week (601 Articles)
+## Last Week (599 Articles)
 
 * **78** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
@@ -78,7 +74,7 @@
 
 * **40** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **34** economy-next-com ([Sri Lanka’s private bus owners want priority fuel to resume operations](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97caf554.json))
+* **33** economy-next-com ([Sri Lanka to balance depositor’s interest in giving debt relief](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56a28e04.json))
 
 * **31** island-lk ([‘Interval in hell’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d17359a6.json))
 
@@ -86,7 +82,7 @@
 
 * **20** d-b-s-jeyaraj-com ([A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde8827e.json))
 
-* **18** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
+* **17** colombo-telegraph-com ([9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998c03d7.json))
 
 ## All Time (907 Articles)
 
