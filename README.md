@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 03:16:32 (LK time)*
+*As of 2022-07-25 03:24:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (11 Articles)
 
-* **13** daily-ft-lk ([Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/649b2f8e.json))
-
-* **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
+* **11** daily-ft-lk ([Glenanore Estate establishes all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2ac6ff7.json))
 
 ## Last 24 Hours (191 Articles)
 
