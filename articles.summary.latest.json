@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83840/railways-station-masters-call-off-trade-union-action",
+    "time_ut": 1658651460,
+    "original_lang": "en",
+    "original_title": "Railways station masters call off trade union action",
+    "file_name": "/tmp/news_lk2/articles/92/921b21d4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/24/over-4700-vehicles-refueled-under-qr-code-system/",
+    "time_ut": 1658650980,
+    "original_lang": "en",
+    "original_title": "Over 4,700 vehicles refueled under QR code system",
+    "file_name": "/tmp/news_lk2/articles/6f/6f039eb9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83839/married-couple-arrested-with-heroin-worth-over-rs-16-million",
     "time_ut": 1658650800,
     "original_lang": "en",
@@ -14,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Willing to play a role in the govt, won\u2019t accept ministries: SJB",
     "file_name": "/tmp/news_lk2/articles/1a/1ad294e2.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dad\u0dbb\u0d9c\u0db8-\u0db4\u0dd9\u0dbb\u0dc4\u0dd0\u0dbb\u0da7-\u0dba\u0dcf\u0dbd-\u0db8\u0dd0\u0daf\u0dd2\u0db1\u0dca-\u0d91\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7-\u0dc0\u0db1\u0da2\u0dd3\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca/11-395699",
+    "time_ut": 1658650495,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dad\u0dbb\u0d9c\u0db8 \u0db4\u0dd9\u0dbb\u0dc4\u0dd0\u0dbb\u0da7 \u0dba\u0dcf\u0dbd \u0db8\u0dd0\u0daf\u0dd2\u0db1\u0dca \u0d91\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0da7 \u0dc0\u0db1\u0da2\u0dd3\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e1/e190c166.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -558,6 +582,14 @@
     "original_lang": "en",
     "original_title": "Railway authorities and station masters to hold talks over union action",
     "file_name": "/tmp/news_lk2/articles/e4/e4b81eb7.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/39-years-after-black-july-it-is-time-for-tamil-eelam-preparing-for-a-unilateral-declaration-of-independence/",
+    "time_ut": 1658631577,
+    "original_lang": "en",
+    "original_title": "39 Years After Black July, It Is Time For Tamil Eelam: Preparing For A Unilateral Declaration Of Independence",
+    "file_name": "/tmp/news_lk2/articles/af/afafe941.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
