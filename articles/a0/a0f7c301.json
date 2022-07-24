@@ -431,7 +431,7 @@
             "label": "PERSON"
           },
           {
-            "text": "\u0dc3\u0da0\u0dd2\u0db1\u0dca \u0da7\u0dd9\u0db1\u0dca\u0da9\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dca",
+            "text": "\u0dc3\u0da0\u0dd2\u0db1\u0dca \u0dad\u0dd9\u0db1\u0dca\u0da9\u0dd4\u0dbd\u0dca\u0d9a\u0dcf\u0dbb\u0dca",
             "label": "PERSON"
           },
           {
@@ -530,7 +530,7 @@
             "label": "ORG"
           },
           {
-            "text": "30,000 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+            "text": "30,000 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2\u0dba",
             "label": "CARDINAL"
           },
           {
@@ -552,7 +552,7 @@
             "label": "DATE"
           },
           {
-            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 90\u0d9a\u0dca",
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 90 \u0dba\u0dd2",
             "label": "PERCENT"
           },
           {
