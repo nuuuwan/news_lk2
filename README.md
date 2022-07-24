@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 03:39:40 (LK time)*
+*As of 2022-07-25 03:44:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 3 Hours (1 Articles)
-
-* **1** daily-ft-lk ([HR complaint to be filed against Police for 22 July crackdown on GGG](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e665cf6c.json))
 
 ## Last 24 Hours (192 Articles)
 
