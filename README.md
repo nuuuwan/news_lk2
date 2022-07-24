@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 00:37:56 (LK time)*
+*As of 2022-07-25 00:45:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
+## Last 30 Minutes (14 Articles)
 
-* **4** daily-ft-lk ([Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/649b2f8e.json))
-
-* **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
-
-## Last Hour (9 Articles)
-
-* **8** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
+* **13** daily-ft-lk ([Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/649b2f8e.json))
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
-## Last 3 Hours (17 Articles)
+## Last Hour (18 Articles)
 
-* **8** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
+* **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
+
+* **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
+
+## Last 3 Hours (24 Articles)
+
+* **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
 
 * **2** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
-
-* **2** virakesari-lk ([வவுனியா வேப்பங்குளம் எரிபொருள் நிரப்பு நிலையத்தில் அமைதியின்மை : 7 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c78495b.json))
 
 * **2** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14553a91.json))
 
@@ -30,9 +28,9 @@
 
 * **1** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
 
-* **1** ada-lk ([ගෝඨාභය අත්අඩංගුවට ගන්නැයි සිංගප්පූරුවේ නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a85fb51.json))
+* **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
-## Last 24 Hours (182 Articles)
+## Last 24 Hours (191 Articles)
 
 * **46** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -44,11 +42,11 @@
 
 * **19** tamil-mirror-lk ([30 நாட்களுக்கு போதுமான டீசல் கையிருப்பில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/103da0c6.json))
 
+* **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
+
 * **13** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
 
 * **12** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
-
-* **8** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
 
 * **6** economy-next-com ([Int. Red Cross Fedration appeals for 28.9 mln USD humanitarian funding to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a8f8df9.json))
 
@@ -56,13 +54,13 @@
 
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (637 Articles)
+## Last Week (646 Articles)
+
+* **86** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
 * **80** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
 * **78** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
-
-* **77** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
 * **65** daily-mirror-lk ([Tomorrow’s critical decision in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8f8221e.json))
 
@@ -84,7 +82,7 @@
 
 * **17** colombo-telegraph-com ([9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998c03d7.json))
 
-## All Time (951 Articles)
+## All Time (960 Articles)
 
 * **137** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -94,7 +92,7 @@
 
 * **109** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **98** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
+* **107** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
 * **78** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 

@@ -1,6 +1,78 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/HR-complaint-to-be-filed-against-Police-for-22-July-crackdown-on-GGG/56-737872",
+    "time_ut": 1658689820,
+    "original_lang": "en",
+    "original_title": "HR complaint to be filed against Police for 22 July crackdown on GGG",
+    "file_name": "/tmp/news_lk2/articles/e6/e665cf6c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Govt-must-not-hoodwink-the-people-Elle-Gunawansa-Thero/56-737871",
+    "time_ut": 1658689711,
+    "original_lang": "en",
+    "original_title": "Govt. must not hoodwink the people: Elle Gunawansa Thero",
+    "file_name": "/tmp/news_lk2/articles/af/afae689d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-directs-quicker-streamlined-fuel-distribution/56-737870",
+    "time_ut": 1658689601,
+    "original_lang": "en",
+    "original_title": "President directs quicker streamlined fuel distribution",
+    "file_name": "/tmp/news_lk2/articles/69/693e1723.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-appoints-committee-to-probe-bribery-allegation-on-Japan-funded-BIA-expansion/56-737869",
+    "time_ut": 1658689410,
+    "original_lang": "en",
+    "original_title": "President appoints committee to probe bribery allegation on Japan funded BIA expansion",
+    "file_name": "/tmp/news_lk2/articles/7a/7a7c9221.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Ceylon-Chamber-National-SME-Forum-2022-kicks-off-tomorrow/34-737868",
+    "time_ut": 1658689346,
+    "original_lang": "en",
+    "original_title": "Ceylon Chamber National SME Forum 2022 kicks off tomorrow",
+    "file_name": "/tmp/news_lk2/articles/d8/d8dfcc19.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Abbotsleigh-Estate-sets-an-all-time-record-price/34-737867",
+    "time_ut": 1658689310,
+    "original_lang": "en",
+    "original_title": "Abbotsleigh Estate sets an all-time record price",
+    "file_name": "/tmp/news_lk2/articles/4d/4d5d5d21.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Yet-another-all-time-record-price-for-Delta-Estate/34-737866",
+    "time_ut": 1658689240,
+    "original_lang": "en",
+    "original_title": "Yet another all-time record price for Delta Estate",
+    "file_name": "/tmp/news_lk2/articles/35/3529f67e.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dunsinane-Estate-sets-an-all-time-record-price/34-737865",
+    "time_ut": 1658689174,
+    "original_lang": "en",
+    "original_title": "Dunsinane Estate sets an all-time record price",
+    "file_name": "/tmp/news_lk2/articles/e9/e9dfef74.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/All-time-record-price-for-Halpewatte-Uva-Estate/34-737864",
+    "time_ut": 1658689113,
+    "original_lang": "en",
+    "original_title": "All-time record price for Halpewatte Uva Estate",
+    "file_name": "/tmp/news_lk2/articles/10/103b96ea.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Demodara-Estate-sets-an-all-time-record-price/34-737863",
     "time_ut": 1658689049,
     "original_lang": "en",
@@ -153,19 +225,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/New-President-shortages-of-essentials-and-the-right-to-protest-EDITORIAL/231-241692",
+    "url": "https://www.dailymirror.lk/opinion/New-President-shortages-of-essentials-and-the-right-to-protest-EDITORIAL/172-241692",
     "time_ut": 1658676640,
     "original_lang": "en",
     "original_title": "New President, shortages of essentials and the right to protest - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/40/4004054a.json"
+    "file_name": "/tmp/news_lk2/articles/8c/8cf71c36.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Decks-cleared-for-the-full-revival-of-19A/231-241691",
+    "url": "https://www.dailymirror.lk/opinion/Decks-cleared-for-the-full-revival-of-19A/172-241691",
     "time_ut": 1658676559,
     "original_lang": "en",
     "original_title": "Decks cleared for the full revival of 19A",
-    "file_name": "/tmp/news_lk2/articles/1e/1ec06b45.json"
+    "file_name": "/tmp/news_lk2/articles/a8/a8c06f42.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
