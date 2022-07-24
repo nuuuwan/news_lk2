@@ -1,0 +1,276 @@
+{
+  "newspaper_id": "island-lk",
+  "url": "http://island.lk/significant-fall-in-tea-production/",
+  "time_ut": 1658660400,
+  "original_lang": "en",
+  "original_title": "Significant fall in tea production",
+  "text_idx": {
+    "en": {
+      "title": "Significant fall in tea production",
+      "author": "Thilina Walpola",
+      "body_lines": [
+        "Sri Lanka tea production for the month of June 2022 totaled 20.15 M/Kgs, showing a decrease of 5.92 M/Kgs vis-\u00e0-vis 26.07 M/Kgs of June 2021.All elevations have shown a decline over the corresponding month of 2021. When compared with the 27.36 M/Kgs of June 2020, June 2022 shows a decrease of 7.21 M/Kgs. Meanwhile, the first half of 2022 (January-June) cumulative production totalled 132.92 M/Kgs, recording a significant decrease of 28.79 M/Kgs vis-\u00e0-vis 161.71 M/Kgs of January-June 2021.",
+        "A pro-level gaming experience with ViewSonic\u2019s latest 240Hz gaming monitor",
+        "Hayleys Solar introduces \u2018PV-DG\u2019 solution to help businesses with solar rooftops to optimise fuel usage and reduce costs",
+        "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *",
+        "Save my name, email, and website in this browser for the next time I comment."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka",
+            "label": "GPE"
+          },
+          {
+            "text": "the month of June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "20.15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "5.92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 2021.All",
+            "label": "DATE"
+          },
+          {
+            "text": "the corresponding month of 2021",
+            "label": "DATE"
+          },
+          {
+            "text": "27.36",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 2020, June 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "7.21 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "the first half of 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "January-June",
+            "label": "DATE"
+          },
+          {
+            "text": "132.92 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "28.79",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "161.71 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "January-June 2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "ViewSonic\u2019s",
+            "label": "PRODUCT"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    },
+    "si": {
+      "title": "\u0dad\u0dda \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba\u0dda \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+      "author": "\u0dad\u0dd2\u0dc5\u0dd2\u0dab \u0dc0\u0dbd\u0dca\u0db4\u0ddc\u0dbd",
+      "body_lines": [
+        "2022 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dda \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0db8\u0dd4\u0dc5\u0dd4 20.15 M/Kgs \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, 2021 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 M/Kgs 5.92 M/Kgs \u0da7 \u0dc3\u0dcf\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dc0 26.07 M/Kgs \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2. \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0d8b\u0db1\u0dca\u0db1\u0dad\u0dcf\u0d82\u0dc1\u0dba\u0db1\u0dca 2021 \u0d85\u0db1\u0dd4\u0dbb\u0dd6\u0db4 \u0db8\u0dcf\u0dc3\u0dba\u0da7 \u0dc0\u0da9\u0dcf \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb \u0d87\u0dad. 2020 \u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba\u0dda 27.36 M/Kgs \u0dc3\u0db8\u0d9f \u0dc3\u0dc3\u0db3\u0db1 \u0dc0\u0dd2\u0da7, 2022 \u0da2\u0dd6\u0db1\u0dd2 \u0db8\u0dc3 7.21 M/Kgs \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2. \u0db8\u0dda \u0d85\u0dad\u0dbb, 2022 (\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0da2\u0dd6\u0db1\u0dd2) \u0db4\u0dc5\u0db8\u0dd4 \u0db7\u0dcf\u0d9c\u0dba\u0dda \u0dc3\u0db8\u0dd4\u0da0\u0dca\u0da0\u0dd2\u0dad \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba 132.92 M/Kgs \u0dc0\u0dd6 \u0d85\u0dad\u0dbb, 2021 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dc0\u0dbd 161.71 M/Kgs \u0dc4\u0dcf \u0dc3\u0dd0\u0dc3\u0db3\u0dd3\u0db8\u0dda\u0daf\u0dd3 28.79 M/Kgs \u0dc4\u0dd2 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda\u0dba.",
+        "ViewSonic \u0dc4\u0dd2 \u0db1\u0dc0\u0dad\u0db8 240Hz \u0dc3\u0dd6\u0daf\u0dd4 \u0db8\u0ddc\u0db1\u0dd2\u0da7\u0dbb\u0dba \u0dc3\u0db8\u0d9f \u0d9c\u0dd0\u0dad\u0dd2 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d85\u0dad\u0dca\u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0d9a\u0dca",
+        "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dc3\u0dca\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dc4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba \u0d85\u0da9\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0dc0\u0dc4\u0dbd \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf Hayleys Solar \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u2018PV-DG\u2019 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d94\u0db6\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dbd\u0dd2\u0db4\u0dd2\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0db1\u0ddc\u0d9a\u0dd9\u0dbb\u0dda. \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d87\u0dad *\u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db1\u0db8 *",
+        "\u0db8\u0db8 \u0d8a\u0dc5\u0d9f \u0dc0\u0dad\u0dcf\u0dc0\u0dda \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0d9c\u0dda \u0db1\u0db8, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dc3\u0dc4 \u0dc0\u0dd9\u0db6\u0dca \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0db8\u0dd9\u0db8 \u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0dc3\u0dbb\u0dba\u0dda \u0dc3\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "GPE"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "20.15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "5.92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2021 \u0da2\u0dd6\u0db1\u0dd2.\u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd",
+            "label": "DATE"
+          },
+          {
+            "text": "2021 \u0d85\u0db1\u0dd4\u0dbb\u0dd6\u0db4 \u0db8\u0dcf\u0dc3\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "27.36 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2020 \u0da2\u0dd6\u0db1\u0dd2, 2022 \u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "7.21 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0db4\u0dc5\u0db8\u0dd4 \u0db7\u0dcf\u0d9c\u0dba",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          },
+          {
+            "text": "132.92 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "28.79 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "161.71 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "2021 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0da2\u0dd6\u0db1\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "ViewSonic's",
+            "label": "PRODUCT"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    },
+    "ta": {
+      "title": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+      "author": "\u0ba4\u0bbf\u0bb2\u0bbf\u0ba9 \u0bb5\u0bb2\u0bcd\u0baa\u0bca\u0bb2",
+      "body_lines": [
+        "2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bca\u0ba4\u0bcd\u0ba4\u0bae\u0bcd 20.15 M/Kgs \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b9c\u0bc2\u0ba9\u0bcd 2021 \u0b87\u0bb2\u0bcd 26.07 M/Kgs \u0b90 \u0bb5\u0bbf\u0b9f 5.92 M/Kgs \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b89\u0baf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd 2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0b9f \u0b9a\u0bb0\u0bbf\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9. \u0b9c\u0bc2\u0ba9\u0bcd 2020 \u0b87\u0ba9\u0bcd 27.36 M/Kgs \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u200b\u200b\u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b87\u0bb2\u0bcd 7.21 M/Kgs \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, 2022 \u0b87\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd (\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0ba9\u0bcd) \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf 132.92 M/Kgs \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0ba9\u0bcd 2021 \u0b87\u0bb2\u0bcd 161.71 M/Kgs \u0b89\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 28.79 M/Kgs \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc8 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "ViewSonic \u0b87\u0ba9\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf 240Hz \u0b95\u0bc7\u0bae\u0bbf\u0b99\u0bcd \u0bae\u0bbe\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bc7\u0bae\u0bbf\u0b99\u0bcd \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bae\u0bcd",
+        "\u0bb9\u0bc6\u0baf\u0bcd\u0bb2\u0bbf\u0bb8\u0bcd \u0b9a\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u2018\u0baa\u0bbf\u0bb5\u0bbf-\u0b9f\u0bbf\u0b9c\u0bbf\u2019 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf, \u0b9a\u0bc2\u0bb0\u0bbf\u0baf \u0b95\u0bc2\u0bb0\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bb5\u0ba3\u0bbf\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd, \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc8 \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1. \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 *\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd *",
+        "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0ba4\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd, \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba3\u0bc8\u0baf\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd."
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "20.15",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "5.92",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2021. \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "2021 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0bae\u0bbe\u0ba4\u0bae\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "27.36",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2020, \u0b9c\u0bc2\u0ba9\u0bcd 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "7.21 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0ba9\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "132.92 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "28.79",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "161.71 M/Kgs",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf-\u0b9c\u0bc2\u0ba9\u0bcd 2021",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0bb5\u0bbf\u0baf\u0bc2\u0b9a\u0bcb\u0ba9\u0bbf\u0b95\u0bcd",
+            "label": "PRODUCT"
+          }
+        ],
+        [],
+        [],
+        []
+      ]
+    }
+  }
+}
