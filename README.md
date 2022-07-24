@@ -1,20 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 23:15:53 (LK time)*
+*As of 2022-07-24 23:24:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
-* **1** lankadeepa-lk ([අපේ ගුවන් හපන්නු එතෙරත් වැඩ පෙන්නයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f4df1e7.json))
-
-## Last 3 Hours (13 Articles)
-
-* **4** tamil-mirror-lk ([குரங்கு அம்மை குறித்து இலங்கை உஷார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/077c5107.json))
+## Last 3 Hours (12 Articles)
 
 * **3** virakesari-lk ([கைவிடப்பட்டது புகையிரத நிலைய பொறுப்பதிகாரிகளின் பணிப்புறக்கணிப்பு போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f271872e.json))
+
+* **3** tamil-mirror-lk ([ஜனாதிபதி தலைமையில்  ஆளுங்கட்சி கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1632237.json))
 
 * **2** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14553a91.json))
 
