@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 21:25:34 (LK time)*
+*As of 2022-07-24 21:35:15 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,11 @@
 
 * **1** tamil-mirror-lk ([5 இடங்களில் கியூஆர் முறைமை தோல்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec209ae.json))
 
-## Last Hour (4 Articles)
+## Last Hour (2 Articles)
 
 * **2** tamil-mirror-lk ([ஜனாதிபதி தலைமையில்  ஆளுங்கட்சி கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1632237.json))
 
-* **1** daily-mirror-lk ([End of the road for asphalt producing plants in Kalahagala, Polonnaruwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f579761f.json))
-
-* **1** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
-
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (15 Articles)
 
 * **4** daily-mirror-lk ([Rights group seeks arrest of former president Rajapaksa in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63c4cb7d.json))
 
@@ -26,15 +22,15 @@
 
 * **2** ada-derana-lk ([Power cut schedule for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa8c2728.json))
 
-* **2** news-first-lk ([Be accountable for assets maintained from public money – Defence Secretary](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d06c0787.json))
-
 * **1** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
 
-## Last 24 Hours (168 Articles)
+* **1** news-first-lk ([Power cuts approved for Monday (25)](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/faefdc6d.json))
 
-* **44** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
+## Last 24 Hours (166 Articles)
 
-* **31** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
+* **43** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
+
+* **30** lankadeepa-lk ([මෝටර් රථයක් ඇඟට වැටී කුඩා දැරියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06ac66de.json))
 
 * **19** tamil-mirror-lk ([போராட்டக்காரர்கள் வெளியேற்றம்: பொலிஸ் ஊடகப்பேச்சாளர் விளக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a63dda38.json))
 
