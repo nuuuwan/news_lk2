@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Rights-group-seeks-arrest-of-former-president-Rajapaksa-in-Singapore/108-241686",
+    "time_ut": 1658670258,
+    "original_lang": "en",
+    "original_title": "Rights group seeks arrest of former president Rajapaksa in Singapore",
+    "file_name": "/tmp/news_lk2/articles/63/63c4cb7d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132177",
+    "time_ut": 1658669653,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba9\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/67/67968d8e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132176",
     "time_ut": 1658667932,
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0baa\u0baf\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 15,000 \u0bae\u0bc6.\u0ba4\u0bca\u0ba9\u0bcd \u0b89\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd. - \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
     "file_name": "/tmp/news_lk2/articles/34/346fcf13.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/24/be-accountable-for-assets-maintained-from-public-money-defence-secretary/",
+    "time_ut": 1658667480,
+    "original_lang": "en",
+    "original_title": "Be accountable for assets maintained from public money \u2013 Defence Secretary",
+    "file_name": "/tmp/news_lk2/articles/d0/d06c0787.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
