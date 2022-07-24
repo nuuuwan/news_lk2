@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 02:01:44 (LK time)*
+*As of 2022-07-25 02:08:29 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -38,13 +38,13 @@
 
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (639 Articles)
+## Last Week (637 Articles)
 
 * **80** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
-* **78** daily-ft-lk ([Sri Lanka’s new government:  Be warned of the empty treasury and negative foreign reserves](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c036773.json))
-
 * **78** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+
+* **76** daily-ft-lk ([Well, it’s legal](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/615ea2b6.json))
 
 * **65** daily-mirror-lk ([Tomorrow’s critical decision in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8f8221e.json))
 
