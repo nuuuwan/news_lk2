@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 15:17:17 (LK time)*
+*As of 2022-07-24 15:26:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **5** lankadeepa-lk ([මාතර ගෝඨා ගෝගමට ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/817c5a97.json))
+* **2** lankadeepa-lk ([රාජ්‍ය සේවකයන් තව මාසයක් නිවසේ සිට වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abe87860.json))
 
 * **1** tamil-mirror-lk ([அரச ஊழியர்களுக்கு ​அடித்தது அதிர்ஷ்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4aacf7a.json))
 
@@ -26,15 +26,15 @@
 
 * **1** daily-mirror-lk ([Station masters called off trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8cdbf691.json))
 
-## Last 3 Hours (49 Articles)
+## Last 3 Hours (44 Articles)
 
-* **22** virakesari-lk ([கோட்டாவுக்கு எதிராக சட்டநடவடிக்கை : புலம்பெயர் தமிழ் அமைப்புக்கள் முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dafdf978.json))
+* **20** virakesari-lk ([ரணிலுடன் பேசத் தயார் ! “ரணில் மக்களால் விரட்டியடிக்கப்பட்ட ராஜபக்ஷகளின் பிரதிநிதி என்பதாலேயே ஆதரிக்கவில்லை” - சம்பந்தன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/840533a5.json))
 
-* **10** lankadeepa-lk ([වල් අලි ප්‍රහාරයෙන් අයෙක් මරුට:අයෙක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/341f5b5b.json))
-
-* **5** news-first-lk ([Two arrested with heroin worth Rs. 16Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5402faa.json))
+* **9** lankadeepa-lk ([දකුණේ පාසල් සතියේ දින පහම වැඩ:සෙසු පළාත්වල සතියට දින තුනක් වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d053878.json))
 
 * **3** tamil-mirror-lk ([தேசிய சபையை  அமைக்க  சஜித் நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9473e4ea.json))
+
+* **3** news-first-lk ([Over 4,700 vehicles refueled under QR code system](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f039eb9.json))
 
 * **3** ada-lk ([ගුවන් භටයාගේ චෝදනාවට ගුවන් හමුදාවෙන් පිළිතුරක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949de.json))
 
@@ -44,7 +44,7 @@
 
 * **1** economy-next-com ([Sri Lanka’s Ceylon tea output down 22.7-pct in May 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fa0e750.json))
 
-## Last 24 Hours (176 Articles)
+## Last 24 Hours (174 Articles)
 
 * **37** virakesari-lk ([பொத்துவிலில் எரிபொருளுக்காக காத்திருந்த சமுர்த்தி உத்தியோகத்தர் ஒருவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9af4be1.json))
 
@@ -52,7 +52,7 @@
 
 * **25** ada-lk ([සඳුදා සිට පාසල් නැවත ආරම්භවේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de5689a9.json))
 
-* **20** ada-derana-lk ([Work in full compliance with GSP+ commitments: EU urges new SL govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71ea1608.json))
+* **19** ada-derana-lk ([Shinzo Abe’s suspected assassin to undergo psychiatric evaluation](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7d85064.json))
 
 * **17** tamil-mirror-lk ([குப்பைக்கு போக முன் குத்திக் கொள்ளுங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74f0f5ed.json))
 
@@ -60,9 +60,9 @@
 
 * **14** daily-mirror-lk ([Tamil Nadu sends INR74 crore worth rice, medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51b2957c.json))
 
-* **9** island-lk ([Joseph Fraser, unique and prestigious maternal hospital, introducing unique services](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/783b2644.json))
-
 * **8** economy-next-com ([Sri Lanka govt schools to start from July 25](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4786a67.json))
+
+* **8** island-lk ([ComBank’s Western Union customers to receive gifts of light from July to Sept](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d32eef3.json))
 
 * **5** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
