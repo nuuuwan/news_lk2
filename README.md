@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 03:02:03 (LK time)*
+*As of 2022-07-25 03:07:19 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (14 Articles)
 
-* **15** daily-ft-lk ([Here to eternity](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21d12506.json))
+* **13** daily-ft-lk ([Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/649b2f8e.json))
 
 * **1** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
-## Last 24 Hours (190 Articles)
+## Last 24 Hours (191 Articles)
 
 * **47** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -28,13 +28,13 @@
 
 * **12** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
-* **7** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
+* **7** economy-next-com ([Int. Red Cross Fedration appeals for 28.9 mln USD humanitarian funding to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a8f8df9.json))
 
-* **6** economy-next-com ([Int. Red Cross Fedration appeals for 28.9 mln USD humanitarian funding to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a8f8df9.json))
+* **7** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
 * **1** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## Last Week (637 Articles)
+## Last Week (638 Articles)
 
 * **80** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
@@ -52,7 +52,7 @@
 
 * **42** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **32** economy-next-com ([Sri Lanka needs quick fiscal reforms, political stability: Central Bank union](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4e64e59.json))
+* **33** economy-next-com ([Sri Lanka needs quick fiscal reforms, political stability: Central Bank union](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4e64e59.json))
 
 * **31** island-lk ([‘Interval in hell’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d17359a6.json))
 
@@ -62,7 +62,7 @@
 
 * **18** colombo-telegraph-com ([9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998c03d7.json))
 
-## All Time (963 Articles)
+## All Time (964 Articles)
 
 * **137** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +80,7 @@
 
 * **52** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **50** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
+* **51** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
 * **45** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
