@@ -1,22 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-24 06:27:39 (LK time)*
+*As of 2022-07-24 07:15:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (143 Articles)
+## Last Hour (1 Articles)
+
+* **1** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
+
+## Last 3 Hours (1 Articles)
+
+* **1** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
+
+## Last 24 Hours (140 Articles)
+
+* **22** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
 * **22** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
-* **21** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
+* **17** tamil-mirror-lk ([கொழும்பில் இன்று ஏழு மணி நேரம் நீர்வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74349e58.json))
 
-* **18** tamil-mirror-lk ([இந்திய - இலங்கை உறவு சிறந்த முறையில் உள்ளது: கோபால் பாக்லே](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/822a21ac.json))
-
-* **17** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
-
-* **16** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
+* **16** ada-derana-lk ([OHCHR urges President Ranil to address impunity to bring genuine reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fedcfcb4.json))
 
 * **15** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය අද දිස්ත්‍රික්ක 25ම අත්හදා බලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/30a6344d.json))
+
+* **15** news-first-lk ([Opposition requests PM to summon P’ment](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d22de49.json))
 
 * **13** daily-mirror-lk ([President appoints committee to probe allegation against Nimal Siripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a41ba700.json))
 
@@ -24,15 +32,15 @@
 
 * **8** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
-* **2** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
+* **1** b-b-c-com-sinhala ([“හිරිකිත යි ජනපතිතුමනි, හිරිකිත යි! මෙහෙම ද ලංකාවට ජාත්‍යන්තර සහාය ගන්න හදන්නේ ?”](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e782c57.json))
 
-## Last Week (468 Articles)
+## Last Week (469 Articles)
 
 * **69** daily-ft-lk ([SLAMERP calls for peaceful transition of power](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12fe3794.json))
 
 * **57** daily-mirror-lk ([Rooting out corruption; a necessary step for Sri Lanka to prosper](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52ab63be.json))
 
-* **49** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
+* **50** lankadeepa-lk ([ආර්ථික අර්බුදයෙන් රට මුදාගන්න මුලින්ම සිතමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/435c6eb8.json))
 
 * **41** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
@@ -54,11 +62,11 @@
 
 * **12** colombo-telegraph-com ([Obligations Of 225 MPs & The Party Leaders To The People Of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3528b9e2.json))
 
-## All Time (772 Articles)
+## All Time (773 Articles)
 
 * **112** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
-* **106** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **107** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **97** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
