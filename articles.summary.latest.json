@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Lankan-envoy-in-India-visits-Amul-Headquarters-in-Gujarat/34-737889",
+    "time_ut": 1658774950,
+    "original_lang": "en",
+    "original_title": "Lankan envoy in India visits Amul Headquarters in Gujarat",
+    "file_name": "/tmp/news_lk2/articles/a7/a7ddcb8c.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Can-Sri-Lanka-beat-inflation-before-being-swallowed-by-hyperinflation/4-737888",
+    "time_ut": 1658774602,
+    "original_lang": "en",
+    "original_title": "Can Sri Lanka beat inflation before being swallowed by hyperinflation?",
+    "file_name": "/tmp/news_lk2/articles/26/262689ea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Rajapaksa-rule-by-proxy/172-241783",
+    "time_ut": 1658771306,
+    "original_lang": "en",
+    "original_title": "Rajapaksa rule by proxy",
+    "file_name": "/tmp/news_lk2/articles/b6/b65d54b1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Place-a-recovery-roadmap-before-people/172-241782",
+    "time_ut": 1658771185,
+    "original_lang": "en",
+    "original_title": "Place a recovery roadmap before people",
+    "file_name": "/tmp/news_lk2/articles/e2/e2e64ca5.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83869/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism",
     "time_ut": 1658767980,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Chandrika Kumaratunga Condemns Torching of Premier Wickremesinghe\u2019s Home; \u201cThe \u2018struggle\u2019 does not need violence to achieve its goal of ousting a government that is highly disliked by the people\u201d  says Former President",
     "file_name": "/tmp/news_lk2/articles/45/45665698.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78496",
-    "time_ut": 1657392480,
-    "original_lang": "en",
-    "original_title": "Thousands of Protesters  inspired by the three-month old \u2018Aragalaya\u2019 force  President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe to announce their resignations.",
-    "file_name": "/tmp/news_lk2/articles/eb/ebd9d6e9.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78491",
-    "time_ut": 1657391940,
-    "original_lang": "en",
-    "original_title": "National Movement for Social Justice Chairman Karu Jayasuriya strongly condemns the attack on a group of journalists and the torching of the personal residence of Prime Minister Ranil Wickremesinghe and  wants those responsible to be brought before the law regardless of their status or standing.",
-    "file_name": "/tmp/news_lk2/articles/82/82f31063.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/leaked-security-deployment-plans-to-obstruct-july-9-protests/",
-    "time_ut": 1657386245,
-    "original_lang": "en",
-    "original_title": "Leaked: Security Deployment Plans To Obstruct July 9 Protests",
-    "file_name": "/tmp/news_lk2/articles/15/15c7a6d7.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/constitutional-mechanisms-to-prevent-and-mitigate-financial-crises/",
-    "time_ut": 1657376640,
-    "original_lang": "en",
-    "original_title": "CONSTITUTIONAL MECHANISMS TO PREVENT AND MITIGATE FINANCIAL CRISES",
-    "file_name": "/tmp/news_lk2/articles/5b/5bbd332f.json"
   }
 ]
