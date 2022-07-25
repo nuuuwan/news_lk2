@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83867/japan-confirms-first-monkeypox-case-as-it-steps-up-preparation-for-outbreak",
+    "time_ut": 1658756340,
+    "original_lang": "en",
+    "original_title": "Japan confirms first monkeypox case as it steps up preparation for outbreak",
+    "file_name": "/tmp/news_lk2/articles/eb/eb5871cc.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132255",
     "time_ut": 1658755339,
     "original_lang": "ta",
     "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0b95\u0bbf\u0bb4\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0b86\u0bb2\u0baf \u0b86\u0bb2\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b99\u0bcd\u0b95\u0bbf \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/59/5996567e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0d9c\u0db8\u0db1\u0d9a\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0dba\u0dd2/11-395731",
+    "time_ut": 1658755221,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dc0 \u0d9c\u0db8\u0db1\u0d9a\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0db1\u0dda \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/08/08e153de.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba \u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dba\u0dd2  \u0dc0\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0d95\u0db1\u0dd1",
     "file_name": "/tmp/news_lk2/articles/24/2476ef23.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca-\u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dbb\u0dba\u0dd2/7-395156",
-    "time_ut": 1657084385,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dbb\u0dca\u0db4\u0dd9\u0da0\u0dd4\u0dc0\u0dbd\u0dca \u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc2\u0dbb\u0dd3\u0dc3\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d85\u0dad\u0dca\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1b/1b26a820.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78403",
-    "time_ut": 1657049040,
-    "original_lang": "en",
-    "original_title": "Business Magnate turned Investment Promotion Minister Dhammika Perera  calls for the resignation of Prime Minister Ranil Wickremesinghe as Finance Minister  alleging that  Ranil is not sincere in tackling   Issues of  boosting foreign reserves and currency.",
-    "file_name": "/tmp/news_lk2/articles/61/61f59809.json"
   }
 ]
