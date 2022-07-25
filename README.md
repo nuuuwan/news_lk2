@@ -1,40 +1,38 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 15:21:55 (LK time)*
+*As of 2022-07-25 15:31:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
-
-* **2** ada-lk ([ලොස් ඇන්ජලීස් තවත් වෙඩි තැබීමක් - මරණ 2ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f849feef.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** daily-mirror-lk ([SL aviation contingent at MINUSCA commended for recent act of bravery](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9dc2836.json))
 
 * **1** virakesari-lk ([கிளிநொச்சியில் 82 போத்தல் கசிப்புடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/deadf80e.json))
 
-## Last Hour (15 Articles)
+## Last Hour (11 Articles)
 
-* **7** ada-lk ([වත්මන් ජනාධිපතිගේ නායකත්වය යටතේ දේශපාලන ස්ථාවරත්වය ඇතිවේවි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c79c651.json))
-
-* **2** virakesari-lk ([முன்னாள் சிறிலங்கா ஜனாதிபதிக்கு எதிராக சிங்கப்பூரில் குற்றவியல் முறைப்பாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3bea1d7.json))
-
-* **2** lankadeepa-lk ([ඝාතනයක් සම්බන්ධයෙන් සොත්ති උපාලිගේ පුතා අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2fd7a3b.json))
+* **5** ada-lk ([දෞපදි මුර්මු ඉන්දීය නව ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/839ad8ae.json))
 
 * **1** daily-mirror-lk ([SL aviation contingent at MINUSCA commended for recent act of bravery](https://github.com/nuuuwan/news_lk2/blob/data/articles/f9/f9dc2836.json))
 
+* **1** virakesari-lk ([கிளிநொச்சியில் 82 போத்தல் கசிப்புடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/deadf80e.json))
+
 * **1** economy-next-com ([Putin congratulates Sri Lanka president; looks to foster bilateral cooperation](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d0e4410.json))
+
+* **1** lankadeepa-lk ([ඉන්ධන බෙදුම්කරුවෝ වර්ජනය අවසන් කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/989eb122.json))
 
 * **1** tamil-mirror-lk ([லிட்ரோ அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed626aaa.json))
 
 * **1** ada-derana-lk ([Energy Minister says only QR Code quota system for fuel from Aug. 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61e2664.json))
 
-## Last 3 Hours (45 Articles)
+## Last 3 Hours (42 Articles)
 
-* **13** virakesari-lk ([இலங்கையில் இருந்து கடல் வழியே தமிழகம் சென்ற போலாந்து நாட்டவர் கைது!](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b29d9.json))
+* **12** virakesari-lk ([சாதாரண தரப் பரீட்சை விடைத்தாள் மதிப்பீட்டுப் பணிகள் மீள ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e6301d2.json))
 
 * **10** ada-lk ([දින 11කට පසු ජනපති කාර්යාලයේ වැඩ අරඹයි- ජනපතිත් නුදුරේදීම එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ebba7a9.json))
 
-* **9** lankadeepa-lk ([තෙල් ගන්න ඇවිත් ආණමඩුව උණුසුම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8fdf334e.json))
+* **8** lankadeepa-lk ([ජනපතිට කාලය දිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f80e6d4c.json))
 
 * **4** ada-derana-lk ([Special dengue eradication programme as cases rise](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22e67796.json))
 
@@ -42,11 +40,11 @@
 
 * **3** economy-next-com ([Three protestors arrested in Sri Lanka for selling stolen items from President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07e12345.json))
 
-* **2** news-first-lk ([Droupadi Murmu takes oath as India’s 15th President](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33be281e.json))
-
 * **1** tamil-mirror-lk ([லிட்ரோ அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed626aaa.json))
 
-## Last 24 Hours (220 Articles)
+* **1** news-first-lk ([Fuel Pass: Implementation from 26th July; Only QR based service from 1st August](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f37c09f0.json))
+
+## Last 24 Hours (219 Articles)
 
 * **45** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
 
@@ -54,7 +52,7 @@
 
 * **25** tamil-mirror-lk ([எரிபொருள் வரிசையில் யானை](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6706c087.json))
 
-* **22** ada-lk ([රාජ්‍ය සේවකයන් තවත් මාසයක් නිවසේ සිට වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3abc38e2.json))
+* **21** ada-lk ([දකුණේ පාසල් දින පහේම](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/068fa4f7.json))
 
 * **20** ada-derana-lk ([Presidential Secretariat to reopen on Monday?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc8aa08.json))
 
