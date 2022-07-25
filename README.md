@@ -1,56 +1,54 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 21:54:18 (LK time)*
+*As of 2022-07-25 22:03:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **1** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aae6b93.json))
+* **2** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
 
-* **1** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
+* **1** virakesari-lk ([ஜனாதிபதி பணிக் குழுவின் தலைவராக சாகல நியமனம் - சிரேஷ்ட பாதுகாப்பு ஆலோசகராகவும் பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64703506.json))
 
-* **1** economy-next-com ([Sri Lanka stocks fall for 2nd session in thin trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b3a12ab.json))
+## Last Hour (8 Articles)
 
-## Last Hour (6 Articles)
+* **2** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
+
+* **2** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
 
 * **2** economy-next-com ([Sri Lanka govt security yields slightly up in dull trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8287d01.json))
 
-* **1** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3aae6b93.json))
-
 * **1** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
-
-* **1** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
 
 * **1** tamil-mirror-lk ([ராஜிதவுக்கு எதிரான கப்பல் வழக்கு வாபஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1efd4b3e.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (19 Articles)
+
+* **3** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුව විසි දෙක සම්මත කරගත් පසුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b293f247.json))
 
 * **3** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
 * **3** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88269620.json))
 
-* **2** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුව විසි දෙක සම්මත කරගත් පසුව](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/300e4de8.json))
+* **3** ada-lk ([ව්‍යාජ ඉන්ධන ටැංකියක් සහිත වෑන් රථයක අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feae0190.json))
+
+* **2** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
 
 * **2** ada-derana-lk ([Japan confirms first monkeypox case as it steps up preparation for outbreak](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb5871cc.json))
 
 * **2** daily-mirror-lk ([Sri Lanka is facing diplomatic sanctions: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58b775c4.json))
 
-* **2** ada-lk ([ව්‍යාජ ඉන්ධන ටැංකියක් සහිත වෑන් රථයක අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feae0190.json))
-
-* **1** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
-
 * **1** news-first-lk ([One Year On: The Late Great Rajamahendran remembered](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/710b4757.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (235 Articles)
 
-* **44** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
+* **45** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
 
-* **37** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
+* **38** virakesari-lk ([நயினாதீவில் ஒருவர் உயிரிழப்பு - வைத்தியசாலை பணியாளர்களை குற்றம் சுமத்தும் உறவினர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/268f0daf.json))
 
 * **30** tamil-mirror-lk ([இன்று முதல் பாடசாலைகள் மீள ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dbb5fb0.json))
 
-* **23** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
+* **24** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
 * **22** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
 
@@ -66,17 +64,17 @@
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (851 Articles)
+## Last Week (854 Articles)
 
-* **119** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
+* **120** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
 
-* **119** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **120** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **87** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **86** daily-mirror-lk ([Tomorrow’s critical decision in Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8f8221e.json))
 
-* **85** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
+* **86** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
 * **75** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
@@ -94,15 +92,15 @@
 
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
-## All Time (1,187 Articles)
+## All Time (1,190 Articles)
 
-* **179** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **143** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **144** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **130** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **119** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **120** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **113** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
