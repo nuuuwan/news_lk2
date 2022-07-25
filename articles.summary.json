@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/AKD-calls-for-an-immediate-snap-poll/56-737905",
+    "time_ut": 1658780826,
+    "original_lang": "en",
+    "original_title": "AKD calls for an immediate snap poll",
+    "file_name": "/tmp/news_lk2/articles/37/37365ddd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Foreign-Minister-Ali-Sabry-assumes-duties/56-737904",
+    "time_ut": 1658780770,
+    "original_lang": "en",
+    "original_title": "Foreign Minister Ali Sabry assumes duties",
+    "file_name": "/tmp/news_lk2/articles/ef/ef4c338a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-should-be-given-time-to-rebuild-country-Ven-Pelpola-Vipassi-Thera/56-737903",
+    "time_ut": 1658780745,
+    "original_lang": "en",
+    "original_title": "President should be given time to rebuild country: Ven. Pelpola Vipassi Thera",
+    "file_name": "/tmp/news_lk2/articles/79/794ed740.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Court-bans-foreign-travel-for-six-activists/56-737902",
+    "time_ut": 1658780711,
+    "original_lang": "en",
+    "original_title": "Court bans foreign travel for six activists",
+    "file_name": "/tmp/news_lk2/articles/fd/fda00289.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Policy-priorities-for-macroeconomic-stability/14-737901",
     "time_ut": 1658780552,
     "original_lang": "en",

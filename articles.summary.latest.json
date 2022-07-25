@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/AKD-calls-for-an-immediate-snap-poll/56-737905",
+    "time_ut": 1658780826,
+    "original_lang": "en",
+    "original_title": "AKD calls for an immediate snap poll",
+    "file_name": "/tmp/news_lk2/articles/37/37365ddd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Foreign-Minister-Ali-Sabry-assumes-duties/56-737904",
+    "time_ut": 1658780770,
+    "original_lang": "en",
+    "original_title": "Foreign Minister Ali Sabry assumes duties",
+    "file_name": "/tmp/news_lk2/articles/ef/ef4c338a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-should-be-given-time-to-rebuild-country-Ven-Pelpola-Vipassi-Thera/56-737903",
+    "time_ut": 1658780745,
+    "original_lang": "en",
+    "original_title": "President should be given time to rebuild country: Ven. Pelpola Vipassi Thera",
+    "file_name": "/tmp/news_lk2/articles/79/794ed740.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Court-bans-foreign-travel-for-six-activists/56-737902",
+    "time_ut": 1658780711,
+    "original_lang": "en",
+    "original_title": "Court bans foreign travel for six activists",
+    "file_name": "/tmp/news_lk2/articles/fd/fda00289.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Policy-priorities-for-macroeconomic-stability/14-737901",
     "time_ut": 1658780552,
     "original_lang": "en",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Samagi Jana Balawegaya leader Sajith Premadasa  to contest for the post of President; MP\u2019s will vote to elect a new President by secret ballot on 20 July if no consensus is reached on a single candidate to take over the Presidency after the resignation of President Gotabaya Rajapaksa.",
     "file_name": "/tmp/news_lk2/articles/15/1520f94c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78520",
-    "time_ut": 1657479960,
-    "original_lang": "en",
-    "original_title": "If Gotabaya Resigns on July 13, Parliament would be summoned on July 15.  nominations for Presidency would be made on July 19 and a parliamentary vote will be held on July 20 to elect a new President",
-    "file_name": "/tmp/news_lk2/articles/8d/8d86e4f0.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/torching-ranils-residence-questions-surface-about-another-arabi-wasantha-incident/",
-    "time_ut": 1657429099,
-    "original_lang": "en",
-    "original_title": "Torching Ranil\u2019s Residence: Questions Surface About Another \u2018Arabi Wasantha\u2019 Incident",
-    "file_name": "/tmp/news_lk2/articles/37/37b7150e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/imf-hopes-for-sri-lanka-political-crisis-resolution-to-resume-deal-talks-97207/",
-    "time_ut": 1657407840,
-    "original_lang": "en",
-    "original_title": "IMF hopes for Sri Lanka political crisis resolution to resume deal talks",
-    "file_name": "/tmp/news_lk2/articles/8c/8c6f2dc6.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78489",
-    "time_ut": 1657395660,
-    "original_lang": "en",
-    "original_title": "Dragged into the darkness by dictatorship, democracy is the only way out into the light",
-    "file_name": "/tmp/news_lk2/articles/45/455f55dd.json"
   }
 ]
