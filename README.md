@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 00:49:33 (LK time)*
+*As of 2022-07-26 00:59:46 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,15 @@
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (6 Articles)
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
 * **2** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
 
-* **2** ada-lk ([ධනුෂ්කට හා ශානුකට ජනපති මාධ්‍ය අංශයේ ඉහළ පුටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cba83f.json))
-
 * **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
+
+* **1** ada-lk ([ජපානයෙන් වඳුරු උණ රෝගියෙක් හඳුනා ගනියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd26b515.json))
 
 ## Last 24 Hours (218 Articles)
 
@@ -42,7 +42,7 @@
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (856 Articles)
+## Last Week (854 Articles)
 
 * **121** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
@@ -54,7 +54,7 @@
 
 * **87** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **75** daily-ft-lk ([Reboot Sri Lanka, a dire need for a complete ‘system change’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9ba00315.json))
+* **74** daily-ft-lk ([Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f723e13.json))
 
 * **73** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
@@ -66,9 +66,9 @@
 
 * **27** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
-* **18** d-b-s-jeyaraj-com ([Three-way contest for Presidential Election  with Ranil Wickremesinghe, Dullas Alahapperuma and Anura Kumara Dissanayake in the fray after  Sajith Premadasa withdraws bid](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33453388.json))
-
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
+
+* **17** d-b-s-jeyaraj-com ([Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.“We presented Dullas. We voted for him, but lost. Somebody has to win,” Mahinda tells media in parliament.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43bccf9.json))
 
 ## All Time (1,200 Articles)
 
