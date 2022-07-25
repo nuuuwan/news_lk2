@@ -1,0 +1,831 @@
+{
+  "newspaper_id": "news-first-lk",
+  "url": "https://www.newsfirst.lk/2022/07/25/slcgs-jayesagara-joins-coast-guard-fleet/",
+  "time_ut": 1658719800,
+  "original_lang": "en",
+  "original_title": "SLCGS Jayesagara joins Coast Guard fleet",
+  "text_idx": {
+    "en": {
+      "title": "SLCGS Jayesagara joins Coast Guard fleet",
+      "author": "unknown",
+      "body_lines": [
+        "COLOMBO (News 1st); An Offshore Patrol Vessel (OPV) of the Sri Lanka Coast Guard received her commission from the Secretary, Ministry of Defence General Kamal Gunaratne (Retd) WWV RWP RSP USP ndc psc MPhil during the Commissioning Ceremony held at the Naval Dockyard, Trincomalee 23rd July 2022.",
+        "Sri Lanka Navy handed over this OPV to Sri Lanka Coast Guard on 03rd January 2022 at Galle harbour and she was commissioned today as \u2018SLCGS Jayesagara\u2019.",
+        "The Commander of the Navy Vice Admiral Nishantha Ulugetenne, RSP*, VSV, USP, ndc, psc and Commander Eastern Naval Area Rear Admiral Jayantha Kularatne RSP*, USP, psc were also present at the occasion.",
+        "The Secretary, Ministry of Defence was received by the Director General Sri Lanka Coast Guard and the Deputy Chief of Staff, Sri Lanka Navy Rear Admiral Anura Ekanayake RSP**, USP, psc upon the arrival of the Chief Guest at the Naval Dockyard, Trincomalee and was accorded a Guard of Honour by Coastguardsmen.",
+        "The Secretary, Ministry of Defence accompanied by the Commander of the Navy and the Director General Sri Lanka Coast Guard made an inspection visit of the ship, \u201cSLCGS Jayesagara\u201d. The Navigation Officer briefed the Secretary, Ministry of Defence on the features of the ship and operational aspects of the ship.",
+        "The Director General Sri Lanka Coast Guard and the Deputy Chief of Staff, Sri Lanka Navy also presented a memento to the Secretary, Ministry of Defence to mark the occasion.",
+        "The SLCGS Jayesagara, with a displacement of 313 tons, is 39.8m in length and 7.0m in breadth. Manned by a crew of 10 officers and 68 sailors, the vessel can cover 3,200 nautical miles maintaining a cruising speed of 7 knots. The vessel served in the Sri Lanka Navy for nearly four decades and made a significant contribution during the Humanitarian Operation and countering illegal activities in Sri Lankan Waters.",
+        "Members of the Maha Sangha and other religious denominations, members of the diplomatic corps, senior officers of the Sri Lanka Navy and Sri Lanka Coast Guard, distinguished invitees and a large number of Naval and Coastguard personnel were also present at the Commissioning Ceremony."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS Jayesagara",
+          "label": "LOC"
+        },
+        {
+          "text": "Coast Guard",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "An Offshore Patrol Vessel",
+            "label": "ORG"
+          },
+          {
+            "text": "the Sri Lanka Coast Guard",
+            "label": "LOC"
+          },
+          {
+            "text": "Ministry of Defence General",
+            "label": "ORG"
+          },
+          {
+            "text": "Kamal Gunaratne",
+            "label": "PERSON"
+          },
+          {
+            "text": "USP",
+            "label": "ORG"
+          },
+          {
+            "text": "the Commissioning Ceremony",
+            "label": "ORG"
+          },
+          {
+            "text": "the Naval Dockyard",
+            "label": "FAC"
+          },
+          {
+            "text": "Trincomalee",
+            "label": "NORP"
+          },
+          {
+            "text": "23rd July 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "03rd January 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "Galle harbour",
+            "label": "FAC"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "\u2018SLCGS Jayesagara\u2019",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Nishantha Ulugetenne",
+            "label": "PERSON"
+          },
+          {
+            "text": "RSP*",
+            "label": "ORG"
+          },
+          {
+            "text": "VSV",
+            "label": "ORG"
+          },
+          {
+            "text": "USP",
+            "label": "ORG"
+          },
+          {
+            "text": "Eastern Naval Area",
+            "label": "LOC"
+          },
+          {
+            "text": "Jayantha Kularatne",
+            "label": "PERSON"
+          },
+          {
+            "text": "RSP*",
+            "label": "FAC"
+          },
+          {
+            "text": "USP",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka",
+            "label": "ORG"
+          },
+          {
+            "text": "Anura Ekanayake",
+            "label": "PERSON"
+          },
+          {
+            "text": "USP",
+            "label": "ORG"
+          },
+          {
+            "text": "the Naval Dockyard",
+            "label": "FAC"
+          },
+          {
+            "text": "Trincomalee",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "SLCGS Jayesagara",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Navigation Officer",
+            "label": "ORG"
+          },
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Ministry of Defence",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "The SLCGS Jayesagara",
+            "label": "LOC"
+          },
+          {
+            "text": "313 tons",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "39.8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7.0",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,200 nautical miles",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the Sri Lanka Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "nearly four decades",
+            "label": "DATE"
+          },
+          {
+            "text": "the Humanitarian Operation",
+            "label": "EVENT"
+          },
+          {
+            "text": "Sri Lankan Waters",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "the diplomatic corps",
+            "label": "ORG"
+          },
+          {
+            "text": "the Sri Lanka Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Sri Lanka Coast Guard",
+            "label": "ORG"
+          },
+          {
+            "text": "Coastguard",
+            "label": "ORG"
+          },
+          {
+            "text": "the Commissioning Ceremony",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "SLCGS \u0da2\u0dba\u0dda\u0dc3\u0dcf\u0d9c\u0dbb \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d87\u0dab\u0dd2\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0da2\u0dd4\u0dbd\u0dd2 23 \u0daf\u0dd2\u0db1 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba, \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba\u0dda \u0db4\u0dd0\u0dc0\u0dad\u0dd2 \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0dda\u0daf\u0dd3 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba\u0dda \u0d85\u0d9a\u0dca\u0dc0\u0dd9\u0dbb\u0dc5 \u0db8\u0dd4\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca (OPV) \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1 (\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd2\u0d9a) WWV RWP RSP USP ndc psc MPhil \u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0dad\u0dca\u0dad\u0dcf\u0dba. .",
+        "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca 2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 03 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0dc0\u0dbb\u0dcf\u0dba\u0dda\u0daf\u0dd3 \u0db8\u0dd9\u0db8 OPV \u0db1\u0dde\u0d9a\u0dcf\u0dc0 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba \u0dc0\u0dd9\u0dad \u0db7\u0dcf\u0dbb \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb, \u0d87\u0dba \u0d85\u0daf \u0daf\u0dd2\u0db1 \u2018SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u2019 \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db4\u0dad\u0dd2 \u0dc0\u0dba\u0dd2\u0dc3\u0dca \u0d85\u0daf\u0dca\u0db8\u0dd2\u0dbb\u0dcf\u0dbd\u0dca \u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d8b\u0dc5\u0dd4\u0d9c\u0dda\u0dad\u0dd0\u0db1\u0dca\u0db1, RSP*, VSV, USP, ndc, psc \u0dc3\u0dc4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dba\u0dda \u0d86\u0da5\u0dcf\u0db4\u0dad\u0dd2 \u0dbb\u0dd2\u0dba\u0dbb\u0dca \u0d85\u0daf\u0dca\u0db8\u0dd2\u0dbb\u0dcf\u0dbd\u0dca \u0da2\u0dba\u0db1\u0dca\u0dad \u0d9a\u0dd4\u0dbd\u0dbb\u0dad\u0dca\u0db1 RSP*, USP, psc \u0dba\u0db1 \u0db8\u0dc4\u0dad\u0dca\u0dc0\u0dbb\u0dd4 \u0daf \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd2 \u0dc0\u0dd6\u0dc4.",
+        "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba, \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba \u0dc0\u0dd9\u0dad \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad \u0d85\u0db8\u0dd4\u0dad\u0dca\u0dad\u0dcf \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda\u0daf\u0dd3, \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba \u0db8\u0dcf\u0dab\u0dca\u0da9\u0dbd\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3, \u0dbb\u0dd2\u0dba\u0dbb\u0dca \u0d85\u0daf\u0dca\u0db8\u0dd2\u0dbb\u0dcf\u0dbd\u0dca \u0d85\u0db1\u0dd4\u0dbb \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a RSP**, USP, psc \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3. \u0dc3\u0dc4 \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db7\u0da7\u0dba\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9c\u0dde\u0dbb\u0dc0 \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0db8\u0dd4\u0dbb\u0dba\u0d9a\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0db1\u0db8\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca, \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dc3\u0db8\u0d9f\u0dd2\u0db1\u0dca \u201cSLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0da0\u0dcf\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a \u0db1\u0dd2\u0dbb\u0dad \u0dc0\u0dd2\u0dba. \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0dda \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c \u0dc3\u0dc4 \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0db8\u0dd9\u0db8 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0da2\u0db1\u0dbb\u0dcf\u0dbd\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba \u0db8\u0dcf\u0dab\u0dca\u0da9\u0dbd\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1\u0dba\u0dda \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dba\u0dcf \u0dc0\u0dd9\u0dad \u0dc3\u0db8\u0dbb\u0dd4 \u0dad\u0dd2\u0dc5\u0dd2\u0dab\u0dba\u0d9a\u0dca \u0daf \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd3.",
+        "\u0da7\u0ddc\u0db1\u0dca 313 \u0d9a \u0dc0\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb, \u0daf\u0dd2\u0d9c \u0db8\u0dd3\u0da7\u0dbb\u0dca 39.8 \u0d9a\u0dca \u0dc3\u0dc4 \u0db4\u0dc5\u0dbd \u0db8\u0dd3\u0da7\u0dbb\u0dca 7.0 \u0d9a\u0dd2. \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca 10 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0dc4 \u0db1\u0dd0\u0dc0\u0dd2\u0dba\u0db1\u0dca 68 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4\u0d9c\u0dd9\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0db8\u0dd9\u0db8 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 3,200\u0d9a\u0dca \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d85\u0dad\u0dbb \u0d9c\u0dd0\u0da7 7\u0d9a \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dc0\u0dda\u0d9c\u0dba\u0d9a\u0dca \u0db4\u0dc0\u0dad\u0dd3. \u0db8\u0dd9\u0db8 \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0 \u0daf\u0dc1\u0d9a \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dda\u0daf\u0dd3 \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dda \u0db1\u0dd3\u0dad\u0dd2 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dd3 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca \u0db8\u0dd0\u0da9\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0dc3\u0dd0\u0dbd\u0d9a\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda\u0dba.",
+        "\u0db8\u0dc4\u0dcf \u0dc3\u0d82\u0d9d\u0dbb\u0dad\u0dca\u0db1\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0dc3\u0dd9\u0dc3\u0dd4 \u0d86\u0d9c\u0db8\u0dd2\u0d9a \u0db1\u0dd2\u0d9a\u0dcf\u0dba\u0db1\u0dca, \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dba\u0dd2\u0db1\u0dca, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dda \u0dc3\u0dc4 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0da2\u0dca\u200d\u0dba\u0dd9\u0dc2\u0dca\u0da8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca, \u0dc3\u0db8\u0dca\u0db7\u0dcf\u0dc0\u0db1\u0dd3\u0dba \u0d86\u0dbb\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0dd2\u0db1\u0dca \u0dc3\u0dc4 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dc4 \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0daf \u0db8\u0dd9\u0db8 \u0db4\u0dad\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dc4."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d85\u0d9a\u0dca\u0dc0\u0dd9\u0dbb\u0dc5 \u0db8\u0dd4\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0d9a\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba \u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd6\u0d91\u0dc3\u0dca\u0db4\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "2022 \u0da2\u0dd6\u0dbd\u0dd2 23",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "2022 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 03",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9c\u0dcf\u0dbd\u0dd4 \u0dc0\u0dbb\u0dcf\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u2018SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u2019",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd2\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d8b\u0dc5\u0dd4\u0d9c\u0dda\u0dad\u0dd0\u0db1\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "RSP*",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd3.\u0d91\u0dc3\u0dca.\u0dc0\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dba\u0dd6\u0d91\u0dc3\u0dca\u0db4\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0d9a\u0dbd\u0dcf\u0db4\u0dba",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0da2\u0dba\u0db1\u0dca\u0dad \u0d9a\u0dd4\u0dbd\u0dbb\u0dad\u0dca\u0db1",
+            "label": "PERSON"
+          },
+          {
+            "text": "RSP*",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dba\u0dd6\u0d91\u0dc3\u0dca\u0db4\u0dd3",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0db1\u0dd4\u0dbb \u0d92\u0d9a\u0db1\u0dcf\u0dba\u0d9a",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0dba\u0dd6\u0d91\u0dc3\u0dca\u0db4\u0dd3",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dad\u0da7\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "SLCGS \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db8\u0dcf\u0dad\u0dca\u0dba\u0dcf\u0d82\u0dc1\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb SLCGS",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 313 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "39.8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7.0",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc3\u0dd0\u0dad\u0db4\u0dd4\u0db8\u0dca 3,200 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc1\u0d9a \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1 \u0d9a\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dcf\u0db1\u0dd4\u0dc2\u0dd3\u0dba \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0dbd\u0dba",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0dbb\u0dcf\u0da2\u0dca\u0dba\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u0dbb\u0dd2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d9a\u0dcf\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "SLCGS \u0b9c\u0bc6\u0baf\u0bcd\u0b9a\u0bbe\u0b95\u0bb0\u0bbe \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "COLOMBO (News 1st); 2022 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8 23 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0b9f\u0bb2\u0bcd \u0bb0\u0bcb\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd (OPV) \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0b95\u0bae\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9 (\u0b93\u0baf\u0bcd\u0bb5\u0bc1) WWV RWP RSP USP ndc psc MPhil \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1. .",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 OPV \u0b90 03 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 2022 \u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u2018SLCGS \u0b9c\u0bc6\u0baf\u0bc7\u0b9a\u0bbe\u0b95\u0bb0\u0bbe\u2019 \u0b86\u0b95 \u0baa\u0ba3\u0bbf\u0baf\u0bae\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0ba8\u0bcd\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0bb5\u0bc8\u0bb8\u0bcd \u0b85\u0b9f\u0bcd\u0bae\u0bbf\u0bb0\u0bb2\u0bcd \u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bc1\u0b95\u0bc6\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9, RSP*, VSV, USP, ndc, psc \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b85\u0b9f\u0bcd\u0bae\u0bbf\u0bb0\u0bb2\u0bcd \u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb2\u0bb0\u0ba4\u0bcd\u0ba9 RSP*, USP, psc \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd.",
+        "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0b85\u0ba4\u0bbf\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bb0\u0bc1\u0b95\u0bc8 \u0ba4\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b85\u0b9f\u0bcd\u0bae\u0bbf\u0bb0\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bb0 \u0b8f\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 RSP**, USP, psc \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd. \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc8 \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd, \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u201cSLCGS \u0b9c\u0baf\u0b9a\u0b95\u0bb0\u201d \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbf\u0ba9\u0bcd \u0b86\u0baf\u0bcd\u0bb5\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bca\u0ba9\u0bcd\u0bb1\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd. \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbf\u0ba9\u0bcd \u0b85\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bbf \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0b9a\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bb0\u0bcd.",
+        "SLCGS \u0b9c\u0bc6\u0baf\u0bcd\u0b9a\u0bbe\u0b95\u0bb0\u0bbe, 313 \u0b9f\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0baa\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd, 39.8 \u0bae\u0bc0 \u0ba8\u0bc0\u0bb3\u0bae\u0bc1\u0bae\u0bcd 7.0 \u0bae\u0bc0 \u0b85\u0b95\u0bb2\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1. 10 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 68 \u0bae\u0bbe\u0bb2\u0bc1\u0bae\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd 3,200 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd, 7 \u0bae\u0bc1\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc7\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd. \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95 \u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0bae\u0b95\u0bbe \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0ba9\u0bc8\u0baf \u0b9a\u0bae\u0baf \u0bb8\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc8\u0b9a\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd, \u0b95\u0bcc\u0bb0\u0bb5 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0\u0baa\u0bcd \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0bae\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9\u0bb0\u0bcd."
+      ],
+      "title_ents": [
+        {
+          "text": "SLCGS \u0b9c\u0baf\u0b9a\u0b95\u0bb0",
+          "label": "LOC"
+        },
+        {
+          "text": "\u0b95\u0b9f\u0bb2\u0bc7\u0bbe\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+          "label": "ORG"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "News 1st",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0b95\u0b9f\u0bb2\u0bcd \u0bb0\u0bcb\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd \u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bae\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0b8e\u0bb8\u0bcd\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "23 \u0b9c\u0bc2\u0bb2\u0bc8 2022",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0ba9\u0bb5\u0bb0\u0bbf 03, 2022",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u2018\u0b8e\u0bb8\u0bcd\u0b8e\u0bb2\u0bcd\u0b9a\u0bbf\u0b9c\u0bbf\u0b8e\u0bb8\u0bcd \u0b9c\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u2019",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0bc1\u0b95\u0bc6\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd\u0b8e\u0bb8\u0bcd\u0baa\u0bbf*",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb5\u0bbf.\u0b8e\u0bb8\u0bcd.\u0bb5\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0b8e\u0bb8\u0bcd\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb2\u0bb0\u0ba4\u0bcd\u0ba9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b86\u0bb0\u0bcd\u0b8e\u0bb8\u0bcd\u0baa\u0bbf*",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0b8e\u0bb8\u0bcd\u0baa\u0bbf",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0ba9\u0bc1\u0bb0 \u0b8f\u0b95\u0bcd\u0b95\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0baf\u0bc1\u0b8e\u0bb8\u0bcd\u0baa\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "SLCGS \u0b9c\u0baf\u0b9a\u0b95\u0bb0",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0bb5\u0bb4\u0bbf\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b8e\u0bb8\u0bcd.\u0b8e\u0bb2\u0bcd.\u0b9a\u0bbf.\u0b9c\u0bbf.\u0b8e\u0bb8\u0bcd.\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bbe",
+            "label": "LOC"
+          },
+          {
+            "text": "313 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "39.8",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "7.0",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "3,200 \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0bc8\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "7",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+            "label": "EVENT"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcd",
+            "label": "NORP"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bc7\u0bbe\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0ba3\u0bc8\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
