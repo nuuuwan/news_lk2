@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-will-implement-from-Aug-1-Minister/342-241750",
+    "time_ut": 1658744599,
+    "original_lang": "en",
+    "original_title": "National Fuel Pass QR code will implement from Aug. 1: Minister",
+    "file_name": "/tmp/news_lk2/articles/4d/4d766f37.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/101-617006",
+    "time_ut": 1658744115,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/39/39ccf052.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0d9a\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc4\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca/101-617005",
+    "time_ut": 1658743931,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0d9a\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc4\u0dba\u0d9a\u0da7 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9b/9b44ab00.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132242",
+    "time_ut": 1658743843,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/af/af586395.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dd1\u0db1\u0dca-\u0dc3\u0dc4-\u0db6\u0dc3\u0dca-\u0dbb\u0dae\u0dc0\u0dbd\u0da7-\u0db6\u0dcf\u0db0\u0dcf/1-617004",
     "time_ut": 1658743467,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks \u2018urgent\u2019 supply from India, Russia, Qatar",
     "file_name": "/tmp/news_lk2/articles/5c/5cb9b1ad.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db8\u0dda-\u0d9d\u0dcf\u0dad\u0db1-\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda-\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0d9a\u0dca-\u0db1\u0dd0\u0daf\u0dca\u0daf-/2-615515",
-    "time_ut": 1656344867,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dda \u0d9d\u0dcf\u0dad\u0db1 \u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0db1\u0dd0\u0daf\u0dca\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/26/2692513c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d86\u0dba\u0ddd\u0da2\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0d87\u0db8\u0dad\u0dd2-\u0d9a\u0dbd\u0dd2\u0db1\u0dca\u0db8-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/7-394875",
-    "time_ut": 1656316488,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dba\u0ddd\u0da2\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d87\u0db8\u0dad\u0dd2 \u0d9a\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/db/db5d42fc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4-\u0db8\u0dcf\u0dc3-5\u0d9a-\u0d9a\u0dcf\u0dbd\u0dba\u0dda-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0da9\u0ddc-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-5\u0d9a\u0dca/7-394874",
-    "time_ut": 1656316187,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0dd9\u0dc0\u0dd4\u0dab\u0dd4 \u0db8\u0dcf\u0dc3 5\u0d9a \u0d9a\u0dcf\u0dbd\u0dba\u0dda \u0d85\u0db4\u0db1\u0dba\u0db1 \u0da9\u0ddc.\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7b/7b261fba.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0dd1\u0dc3\u0dca-\u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1-\u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0d9a\u0dca-\u0dad\u0dd2\u0db6\u0dda\u0daf-/117-615454",
-    "time_ut": 1656307286,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0dd1\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0db1\u0db8\u0dca \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/c0/c0791cdc.json"
   }
 ]

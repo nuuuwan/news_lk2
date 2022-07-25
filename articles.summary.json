@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-will-implement-from-Aug-1-Minister/342-241750",
+    "time_ut": 1658744599,
+    "original_lang": "en",
+    "original_title": "National Fuel Pass QR code will implement from Aug. 1: Minister",
+    "file_name": "/tmp/news_lk2/articles/4d/4d766f37.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/101-617006",
+    "time_ut": 1658744115,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/39/39ccf052.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda-\u0d9a\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4-\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0dc4\u0dba\u0d9a\u0da7-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca/101-617005",
+    "time_ut": 1658743931,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda \u0d9a\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc4\u0dba\u0d9a\u0da7 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/9b/9b44ab00.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132242",
+    "time_ut": 1658743843,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0b9f\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/af/af586395.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dd1\u0db1\u0dca-\u0dc3\u0dc4-\u0db6\u0dc3\u0dca-\u0dbb\u0dae\u0dc0\u0dbd\u0da7-\u0db6\u0dcf\u0db0\u0dcf/1-617004",
     "time_ut": 1658743467,
