@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/95-301083",
+    "time_ut": 1658739786,
+    "original_lang": "ta",
+    "original_title": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ed/ed626aaa.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83861/energy-minister-says-only-qr-code-quota-system-for-fuel-from-aug-01",
+    "time_ut": 1658739720,
+    "original_lang": "en",
+    "original_title": "Energy Minister says only QR Code quota system for fuel from Aug. 01",
+    "file_name": "/tmp/news_lk2/articles/f6/f61e2664.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd0\u0da9-\u0d85\u0dbb\u0db9\u0dba\u0dd2/10-395720",
+    "time_ut": 1658739635,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4d/4dac089e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132235",
     "time_ut": 1658739506,
@@ -497,11 +521,11 @@
   },
   {
     "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0dc0\u0dd0\u0dbd\u0dca-\u0dba\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0dc0\u0dd9\u0db1-\u2019\u0da9\u0ddc\u0dbd\u0dbb\u0dca\u2019/10-395713",
+    "url": "https://www.ada.lk/uncategorized/\u0dc0\u0dd0\u0dbd\u0dca-\u0dba\u0da7-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0dc0\u0dd9\u0db1-\u2019\u0da9\u0ddc\u0dbd\u0dbb\u0dca\u2019/1-395713",
     "time_ut": 1658724932,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd0\u0dbd\u0dca \u0dba\u0da7 \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0dc0\u0dd9\u0db1 \u2019\u0da9\u0ddc\u0dbd\u0dbb\u0dca\u2019",
-    "file_name": "/tmp/news_lk2/articles/af/afca442d.json"
+    "file_name": "/tmp/news_lk2/articles/af/af9323ba.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd3\u0dc0\u0dda \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
     "file_name": "/tmp/news_lk2/articles/f6/f6dad180.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dbb\u0dd4\u0db1\u0dca-\u0db4\u0dd0\u0dbb\u0daf\u0dc0\u0dd6-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dd2\u0d82\u0dc4-\u0db4\u0dd0\u0da7\u0dc0\u0dca/117-615233",
-    "time_ut": 1655910023,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dbb\u0dd4\u0db1\u0dca \u0db4\u0dd0\u0dbb\u0daf\u0dc0\u0dd6 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dd2\u0d82\u0dc4 \u0db4\u0dd0\u0da7\u0dc0\u0dca",
-    "file_name": "/tmp/news_lk2/articles/29/296ff665.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/117-615199",
-    "time_ut": 1655874584,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7 \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/3c/3c32908c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb-\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3-\u0db1\u0da9\u0dd4-\u0db4\u0dc0\u0dbb\u0dbd\u0dcf/7-394679",
-    "time_ut": 1655872055,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dd0\u0db3\u0dd4\u0db8\u0dca\u0d9a\u0dbb \u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dd9\u0d9a\u0dd4 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda\u0daf\u0dd3 \u0db1\u0da9\u0dd4 \u0db4\u0dc0\u0dbb\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/1e/1e0ca084.json"
   }
 ]
