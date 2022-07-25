@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 20:19:47 (LK time)*
+*As of 2022-07-25 20:29:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88269620.json))
 
 ## Last Hour (3 Articles)
 
@@ -16,11 +12,11 @@
 
 * **1** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
 * **5** daily-mirror-lk ([IMF staff level agreement delayed due to unrest by protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d66108a.json))
 
-* **5** lankadeepa-lk ([අරගලකරුවන් රූපවාහිණීයට කඩා වැදීම ගැන පරීක්ෂණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/034d650f.json))
+* **4** lankadeepa-lk ([හොර ඉන්ධන ටැංකියක් සවි කළ වෑන් රියක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8273562.json))
 
 * **3** tamil-mirror-lk ([எரிபொருளுடன் பிடிபட்ட தொழிலதிபர் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/966758a5.json))
 
@@ -34,11 +30,11 @@
 
 * **1** news-first-lk ([T-56 Assault Rifle stolen during protest, found in Diyawanna Oya](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12a0459f.json))
 
-## Last 24 Hours (238 Articles)
-
-* **44** virakesari-lk ([3 மாதங்களின் பின் திறக்கப்படும் ஜனாதிபதி செயலக கதவுகள் : பாதுகாப்புச் செயலர், இராணுவ தளபதி மேற்பார்வை !](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48d7dc9e.json))
+## Last 24 Hours (233 Articles)
 
 * **42** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
+
+* **40** virakesari-lk ([மைத்திரியின் வீடு ரணிலுக்கு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be3772d3.json))
 
 * **31** tamil-mirror-lk ([ஜனாதிபதி தலைமையில்  ஆளுங்கட்சி கூட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a1632237.json))
 
@@ -46,7 +42,7 @@
 
 * **23** ada-lk ([ගෝඨාභය අත්අඩංගුවට ගන්නැයි සිංගප්පූරුවේ නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a85fb51.json))
 
-* **22** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
+* **21** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
 
 * **21** news-first-lk ([President’s Office open from today (25)](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc193498.json))
 
