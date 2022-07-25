@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Policy-priorities-for-macroeconomic-stability/14-737901",
+    "time_ut": 1658780552,
+    "original_lang": "en",
+    "original_title": "Policy priorities for macroeconomic stability",
+    "file_name": "/tmp/news_lk2/articles/82/82690fee.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Canadian-Premier-has-his-say-over-39th-anniversary-of-Sri-Lanka-s-Black-July/14-737900",
+    "time_ut": 1658780462,
+    "original_lang": "en",
+    "original_title": "Canadian Premier has his say over 39th anniversary of Sri Lanka\u2019s Black July",
+    "file_name": "/tmp/news_lk2/articles/69/6940b549.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Lankan-envoy-in-India-visits-Amul-Headquarters-in-Gujarat/34-737889",
     "time_ut": 1658774950,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Dragged into the darkness by dictatorship, democracy is the only way out into the light",
     "file_name": "/tmp/news_lk2/articles/45/455f55dd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78503",
-    "time_ut": 1657394640,
-    "original_lang": "en",
-    "original_title": "Political Parties  Trying Hard to Share the Spoils by Forming an Alternative Govt After Protests by the People  Result in Resignation Announcements by President Rajapaksa and Premier Wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/63/6398850e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78512",
-    "time_ut": 1657394640,
-    "original_lang": "en",
-    "original_title": "UNP Chairman Vajira Abeywardena Says Prime Minister Ranil Wickremesinghe  will not Step Down as Cannot Resign in the Present  Unstable Situation; expresses Disappointment with the Media for  Reporting Incorrectly and Cites Article 37 of Constitution in Support",
-    "file_name": "/tmp/news_lk2/articles/87/87c39278.json"
   }
 ]
