@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301116",
+    "time_ut": 1658761121,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/48/48c7300a.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Remanded-for-Facebook-post/108-241759",
+    "time_ut": 1658760968,
+    "original_lang": "en",
+    "original_title": "Remanded for Facebook post",
+    "file_name": "/tmp/news_lk2/articles/05/05b296fc.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8\u0baf-\u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-301115",
     "time_ut": 1658759120,
     "original_lang": "ta",
@@ -30,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Japan confirms first monkeypox case as it steps up preparation for outbreak",
     "file_name": "/tmp/news_lk2/articles/eb/eb5871cc.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0dc4\u0dd2\u0dad-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dae\u0dba\u0d9a-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/10-395732",
+    "time_ut": 1658756274,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dae\u0dba\u0d9a \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/fe/feae0190.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0dc5\u0dd2\u0db3\u0dd4\u0d9a\u0db8\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0  \u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db4\u0dd9\u0db1\u0dda\u0daf?",
     "file_name": "/tmp/news_lk2/articles/06/065b9e8e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78324",
-    "time_ut": 1657144980,
-    "original_lang": "en",
-    "original_title": "Kamal Haasan Makes Stunning Return  to Cinema From Politics  With Blockbuster \u201cVikram\u201d",
-    "file_name": "/tmp/news_lk2/articles/ac/ace24401.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78415",
-    "time_ut": 1657140720,
-    "original_lang": "en",
-    "original_title": "The inside story of Rajapaksa family infighting that toppled a country into violence and bankruptcy",
-    "file_name": "/tmp/news_lk2/articles/c9/c9bcfab4.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78423",
-    "time_ut": 1657136460,
-    "original_lang": "en",
-    "original_title": "Full Text of Statement in Parliament by Prime  Minister Ranil Wickremesinghe  That Reported on the Progress of Talks with the IMF and outlined the roadmap  being followed by the Govt to revive the   Collapsed economy",
-    "file_name": "/tmp/news_lk2/articles/22/224b0579.json"
   }
 ]
