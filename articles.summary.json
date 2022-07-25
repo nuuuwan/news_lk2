@@ -1,11 +1,75 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/jonas-vingegaard-seals-2022-tour-de-france-triumph-in-paris/",
+    "time_ut": 1658721780,
+    "original_lang": "en",
+    "original_title": "Jonas Vingegaard seals 2022 Tour de France triumph in Paris",
+    "file_name": "/tmp/news_lk2/articles/9d/9d3b05f6.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0d82\u0d9a\u0dd2-\u0dc6\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca/101-616964",
+    "time_ut": 1658721754,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0d82\u0d9a\u0dd2 \u0dc6\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e9/e950122f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/monkeypox-could-enter-sl-warn-health-officials/",
+    "time_ut": 1658721540,
+    "original_lang": "en",
+    "original_title": "Monkeypox \u2018could\u2019 enter SL, warn health officials",
+    "file_name": "/tmp/news_lk2/articles/f0/f0d82b1b.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132189",
+    "time_ut": 1658721357,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1 : \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0ba4 \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/47/47484a3a.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132188",
+    "time_ut": 1658721233,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbe\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0bb5\u0b9c\u0bbf\u0bb0 ?\u00a0\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0b95\u0bb2 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9e/9ebe1ed2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132190",
+    "time_ut": 1658721171,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc2\u0b9f\u0bc1 : 3 \u0baa\u0bc7\u0bbe\u0bcd \u0baa\u0bb2\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/70/700e2945.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83852/17-killed-as-boat-carrying-haitian-migrants-sinks-off-bahamas",
+    "time_ut": 1658720040,
+    "original_lang": "en",
+    "original_title": "17 killed as boat carrying Haitian migrants sinks off Bahamas",
+    "file_name": "/tmp/news_lk2/articles/5c/5ce57713.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/25/slcgs-jayesagara-joins-coast-guard-fleet/",
     "time_ut": 1658719800,
     "original_lang": "en",
     "original_title": "SLCGS Jayesagara joins Coast Guard fleet",
     "file_name": "/tmp/news_lk2/articles/2c/2c7b2909.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132187",
+    "time_ut": 1658719736,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/63/63feec3b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -64,6 +128,14 @@
     "file_name": "/tmp/news_lk2/articles/52/52265c61.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/religion/\u2019\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0da7-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8\u0da7-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2019/4-395710",
+    "time_ut": 1658717066,
+    "original_lang": "si",
+    "original_title": "\u2019\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0da7 \u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0db1\u0dd0\u0d9c\u0dd3\u0db8\u0da7 \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2019",
+    "file_name": "/tmp/news_lk2/articles/5f/5f15db0a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b85\u0bae\u0bc1\u0bb2\u0bcd/175-301051",
     "time_ut": 1658716603,
@@ -73,11 +145,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Refueling-according-QR-code-last-digit-of-vehicles-number-plate-begins-today/342-241700",
+    "url": "https://www.dailymirror.lk/breaking_news/Refueling-according-QR-code-last-digit-of-vehicles-number-plate-begins-today/108-241700",
     "time_ut": 1658716258,
     "original_lang": "en",
     "original_title": "Refueling according QR code, last digit of vehicle\u2019s number plate begins today",
-    "file_name": "/tmp/news_lk2/articles/ec/ec5ce2e0.json"
+    "file_name": "/tmp/news_lk2/articles/26/261efe63.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -337,11 +409,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dda-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4-\u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2/1-616957",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0db4\u0dda-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4-\u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2/11-616957",
     "time_ut": 1658681286,
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4 \u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca \u0dc0\u0dd0\u0da9 \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2f/2f4df1e7.json"
+    "file_name": "/tmp/news_lk2/articles/39/39673db2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -353,11 +425,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4-\u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/1-616956",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4-\u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2\u0da7-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca/101-616956",
     "time_ut": 1658680856,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4 \u0db1\u0dd3\u0dad\u0dd2\u0db4\u0dad\u0dd2\u0da7 \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/14/14553a91.json"
+    "file_name": "/tmp/news_lk2/articles/23/230ee705.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
