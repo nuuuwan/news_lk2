@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3/101-616968",
+    "time_ut": 1658723069,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/b7/b7ded59d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132191",
+    "time_ut": 1658723047,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bb7\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ! \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bc8 \u0b86\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/fb/fb76589f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd9\u0dbd\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dd0\u0da7\u0d9a\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d85\u0db3\u0ddd\u0db1\u0dcf-\u0db1\u0ddc\u0d87\u0dc3\u0dda\u0daf-/2-616967",
+    "time_ut": 1658722995,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dd0\u0da7\u0d9a\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0d85\u0db3\u0ddd\u0db1\u0dcf \u0db1\u0ddc\u0d87\u0dc3\u0dda\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/85/8575dee9.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83853/cabinet-meeting-to-be-held-today",
+    "time_ut": 1658722680,
+    "original_lang": "en",
+    "original_title": "Cabinet meeting to be held today",
+    "file_name": "/tmp/news_lk2/articles/d8/d866d0da.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da2-\u0db8\u0dd0\u0db3\u0dd4\u0dbb\u0dd9\u0db1\u0dca-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0db4\u0dd2\u0dad\u0dca\u0dad\u0dbd-\u0db6\u0ddd\u0dbd-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0dad\u0dd4\u0db1\u0d9a\u0dca-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-616966",
+    "time_ut": 1658722539,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da2 \u0db8\u0dd0\u0db3\u0dd4\u0dbb\u0dd9\u0db1\u0dca \u0d89\u0dc3\u0dca\u0dc3\u0dd6 \u0db4\u0dd2\u0dad\u0dca\u0dad\u0dbd \u0db6\u0ddd\u0dbd \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/53/53e5088b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd/175-301054",
+    "time_ut": 1658722460,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/41/412930d9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dc3\u0ddc\u0dad\u0dca\u0dad\u0dd2-\u0d8b\u0db4\u0dcf\u0dbd\u0dd2\u0d9c\u0dda-\u0db6\u0dcf\u0dbd-\u0db4\u0dd4\u0dad\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/101-616965",
+    "time_ut": 1658721972,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0ddc\u0dad\u0dca\u0dad\u0dd2 \u0d8b\u0db4\u0dcf\u0dbd\u0dd2\u0d9c\u0dda \u0db6\u0dcf\u0dbd \u0db4\u0dd4\u0dad\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/62/62f6a37d.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/25/jonas-vingegaard-seals-2022-tour-de-france-triumph-in-paris/",
     "time_ut": 1658721780,
@@ -46,6 +102,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc2\u0b9f\u0bc1 : 3 \u0baa\u0bc7\u0bbe\u0bcd \u0baa\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/70/700e2945.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/QR-\u0d9b\u0dda\u0dad\u0dba\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd3\u0db8-\u0d9a\u0dbd\u0dca-\u0dba\u0dba\u0dd2/11-395711",
+    "time_ut": 1658720157,
+    "original_lang": "si",
+    "original_title": "QR \u0d9b\u0dda\u0dad\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd3\u0db8 \u0d9a\u0dbd\u0dca \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d9/d93317f1.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -96,12 +160,36 @@
     "file_name": "/tmp/news_lk2/articles/a2/a2c43968.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Open-Air-theatre-at-Viharamahadevi-Park-available-for-peaceful-protests-Prez/108-241726",
+    "time_ut": 1658719085,
+    "original_lang": "en",
+    "original_title": "Open-Air theatre at Viharamahadevi Park available for peaceful protests: Prez",
+    "file_name": "/tmp/news_lk2/articles/ce/cee610c9.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83851/schools-reopen-in-sri-lanka-amid-fuel-crisis",
     "time_ut": 1658718900,
     "original_lang": "en",
     "original_title": "Schools reopen in Sri Lanka amid fuel crisis",
     "file_name": "/tmp/news_lk2/articles/be/be57d38d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-faces-risk-of-airlines-pulling-out-as-jet-fuel-issue-worsens/108-241722",
+    "time_ut": 1658718820,
+    "original_lang": "en",
+    "original_title": "Sri Lanka faces risk of airlines pulling out as jet fuel issue worsens",
+    "file_name": "/tmp/news_lk2/articles/78/783cb901.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Taisei-Corp-denies-bribery-allegations/108-241714",
+    "time_ut": 1658718549,
+    "original_lang": "en",
+    "original_title": "Taisei Corp. denies bribery allegations",
+    "file_name": "/tmp/news_lk2/articles/0a/0a18f37b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -409,11 +497,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/main_picture/\u0d85\u0db4\u0dda-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4-\u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2/11-616957",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dda-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4-\u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca-\u0dc0\u0dd0\u0da9-\u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2/101-616957",
     "time_ut": 1658681286,
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dda \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db4\u0db1\u0dca\u0db1\u0dd4 \u0d91\u0dad\u0dd9\u0dbb\u0dad\u0dca \u0dc0\u0dd0\u0da9 \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/39/39673db2.json"
+    "file_name": "/tmp/news_lk2/articles/45/450e9c93.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
