@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83866/power-cut-schedule-for-tomorrow-released",
+    "time_ut": 1658753700,
+    "original_lang": "en",
+    "original_title": "Power cut schedule for tomorrow released",
+    "file_name": "/tmp/news_lk2/articles/d5/d5cb690f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83865/covid-19-cases-in-sri-lanka-on-the-rise-again",
+    "time_ut": 1658753160,
+    "original_lang": "en",
+    "original_title": "Covid-19 cases in Sri Lanka on the rise again",
+    "file_name": "/tmp/news_lk2/articles/62/62df3e8c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0b89\u0baa-\u0baa\u0bbf\u0bb1\u0bb4\u0bcd\u0bb5\u0bc1-\u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95-\u0baa\u0bb0\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-301112",
     "time_ut": 1658751891,
@@ -8,12 +24,36 @@
     "file_name": "/tmp/news_lk2/articles/42/4222695c.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8/95-301111",
+    "time_ut": 1658751379,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/96/966758a5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ven-Elle-Gunawansa-Thera-blesses-PM/342-241755",
+    "time_ut": 1658751301,
+    "original_lang": "en",
+    "original_title": "Ven. Elle Gunawansa Thera blesses PM",
+    "file_name": "/tmp/news_lk2/articles/7c/7c2d0c0c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/PM-meets-received-blessings/342-241755",
     "time_ut": 1658751301,
     "original_lang": "en",
     "original_title": "PM meets received blessings",
     "file_name": "/tmp/news_lk2/articles/e7/e7aa3712.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/t-56-assault-rifle-stolen-during-protest-found-in-diyawanna-oya/",
+    "time_ut": 1658751060,
+    "original_lang": "en",
+    "original_title": "T-56 Assault Rifle stolen during protest, found in Diyawanna Oya",
+    "file_name": "/tmp/news_lk2/articles/12/12a0459f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",

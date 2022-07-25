@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83866/power-cut-schedule-for-tomorrow-released",
+    "time_ut": 1658753700,
+    "original_lang": "en",
+    "original_title": "Power cut schedule for tomorrow released",
+    "file_name": "/tmp/news_lk2/articles/d5/d5cb690f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83865/covid-19-cases-in-sri-lanka-on-the-rise-again",
+    "time_ut": 1658753160,
+    "original_lang": "en",
+    "original_title": "Covid-19 cases in Sri Lanka on the rise again",
+    "file_name": "/tmp/news_lk2/articles/62/62df3e8c.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0b89\u0baa-\u0baa\u0bbf\u0bb1\u0bb4\u0bcd\u0bb5\u0bc1-\u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95-\u0baa\u0bb0\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-301112",
     "time_ut": 1658751891,
@@ -8,12 +24,36 @@
     "file_name": "/tmp/news_lk2/articles/42/4222695c.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8/95-301111",
+    "time_ut": 1658751379,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/96/966758a5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ven-Elle-Gunawansa-Thera-blesses-PM/342-241755",
+    "time_ut": 1658751301,
+    "original_lang": "en",
+    "original_title": "Ven. Elle Gunawansa Thera blesses PM",
+    "file_name": "/tmp/news_lk2/articles/7c/7c2d0c0c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/PM-meets-received-blessings/342-241755",
     "time_ut": 1658751301,
     "original_lang": "en",
     "original_title": "PM meets received blessings",
     "file_name": "/tmp/news_lk2/articles/e7/e7aa3712.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/t-56-assault-rifle-stolen-during-protest-found-in-diyawanna-oya/",
+    "time_ut": 1658751060,
+    "original_lang": "en",
+    "original_title": "T-56 Assault Rifle stolen during protest, found in Diyawanna Oya",
+    "file_name": "/tmp/news_lk2/articles/12/12a0459f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa, his brothers, nephews, and cousins are the main authors of the Lankan tragedy. But even if a kind wind blows the entire Rajapaksa clan to another plain of existence, the economic crisis will remain as intractable as ever, until the bitter pills of cost-cutting and revenue-raising are swallowed.",
     "file_name": "/tmp/news_lk2/articles/af/af5678ec.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78379",
-    "time_ut": 1656962640,
-    "original_lang": "en",
-    "original_title": "President Gotabaya  Rajapaksa Comes to Parliament after 3 Months and Leaves some minutes later with Opposition MP\u2019sCreate a Rumpus in the House by  Waving Placards and Chanting the Slogan\u201dGota Go Home\u201d Repeatedly",
-    "file_name": "/tmp/news_lk2/articles/3b/3b4fb982.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78386",
-    "time_ut": 1656962100,
-    "original_lang": "en",
-    "original_title": "\u201cIf things do not change,the whole country will collapse. Therefore, we should strive to move forward on this path. It is not an easy journey. I have reminded you of that from time to time. This will be a difficult and bitter journey. But we can get relief at the end of this journey. Progress can be made,\u201d -Premier Ranil Wickremesinghe in Parliament",
-    "file_name": "/tmp/news_lk2/articles/4b/4b571cdb.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78381",
-    "time_ut": 1656961560,
-    "original_lang": "en",
-    "original_title": "\u201cFinancial  Assistance from the International Monetary Fund  Depends on the plan on debt restructuring and sustainability being prepared by financial and legal experts Lazard and Clifford Chance. We hope to submit this  Planto the IMF by August,\u201d says Prime Minister Ranil Wickremesinghe in Parliament",
-    "file_name": "/tmp/news_lk2/articles/2d/2d8de9cb.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78370",
-    "time_ut": 1656961020,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Sprinter Yupun Abeykoon Becomes the first in South Asia to break the 10-seconds barrier in a 100 metres race  by Clocking 9.96 seconds at the World Athletics Championship Meet",
-    "file_name": "/tmp/news_lk2/articles/08/089d6c42.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78384",
-    "time_ut": 1656960480,
-    "original_lang": "en",
-    "original_title": "If the 22nd Amendment  becomes law in its present form, no opposition party or even MPs who have opted to be independent would be inclined to join the government because of the powers that the President would continue to have during the term of this Parliament.",
-    "file_name": "/tmp/news_lk2/articles/f5/f563658b.json"
   }
 ]
