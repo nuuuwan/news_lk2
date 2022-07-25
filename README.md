@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 23:19:21 (LK time)*
+*As of 2022-07-25 23:27:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
-
-## Last 3 Hours (16 Articles)
-
-* **3** ada-lk ([අලි සබ්‍රි වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edac7063.json))
+## Last 3 Hours (14 Articles)
 
 * **3** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
 
 * **2** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
+
+* **2** ada-lk ([ධනුෂ්කට හා ශානුකට ජනපති මාධ්‍ය අංශයේ ඉහළ පුටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cba83f.json))
 
 * **2** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
 
@@ -22,15 +18,15 @@
 
 * **2** tamil-mirror-lk ([எரிபொருள் விநியோகம் குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c7300a.json))
 
-* **2** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
+* **1** daily-mirror-lk ([Black July observed at...](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/876ede77.json))
 
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (233 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
 * **38** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
-* **28** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
+* **27** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
 * **26** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
