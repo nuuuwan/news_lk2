@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 17:26:15 (LK time)*
+*As of 2022-07-25 17:34:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (7 Articles)
 
-* **3** lankadeepa-lk ([ජනපති ඉන්දීය ජනපතිනියට සුබ පතයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88cc146c.json))
-
 * **2** ada-derana-lk ([​​Foreign Minister Ali Sabry assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1800423.json))
 
-* **1** tamil-mirror-lk ([ஒரு வருடத்துக்கு எரிபொருள் இறக்குமதி கட்டுப்பாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2e7cc57.json))
+* **2** tamil-mirror-lk ([ஒரு வருடத்துக்கு இறக்குமதி கட்டுப்பாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4ac2a94.json))
+
+* **2** lankadeepa-lk ([ඉන්ධන ළඟ තබාගත්තැයි ඇල්ලූ ව්‍යාපාරිකයා නිදොස් කර නිදහස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdc7abd8.json))
 
 * **1** news-first-lk ([Fuel imports to be restricted in the next 12 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab32c8b2.json))
 
-## Last Hour (20 Articles)
+## Last Hour (19 Articles)
 
-* **6** tamil-mirror-lk ([புதிய ஜனாதிபதியையும்  மக்கள் வீட்டுக்கு துரத்துவர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33620913.json))
+* **6** tamil-mirror-lk ([ரணிலுக்கு எதிராக போராடும்   மக்களுக்கு ஆதரவளிப்பேன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55c46846.json))
 
 * **5** lankadeepa-lk ([සියලුම පිරවුම්හල්වලට දිනපතා ඉන්ධන දෙන්න බෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c9bda7.json))
 
-* **3** ada-derana-lk ([Court imposes travel ban on six activists](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/061b8e78.json))
+* **2** ada-derana-lk ([​​Foreign Minister Ali Sabry assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1800423.json))
 
 * **2** news-first-lk ([Travel ban against six activists including Rev. Fr. Jeewantha, & IUSF Chief](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77935d1e.json))
 
@@ -28,31 +28,31 @@
 
 * **2** daily-mirror-lk ([FOREX crisis may restrict fuel imports in the next 12 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0aed9ca3.json))
 
-## Last 3 Hours (54 Articles)
+## Last 3 Hours (49 Articles)
 
-* **12** lankadeepa-lk ([ඝාතනයක් සම්බන්ධයෙන් සොත්ති උපාලිගේ පුතා අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2fd7a3b.json))
+* **11** lankadeepa-lk ([ඉන්ධන බෙදුම්කරුවෝ වර්ජනය අවසන් කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/989eb122.json))
 
-* **10** virakesari-lk ([முன்னாள் சிறிலங்கா ஜனாதிபதிக்கு எதிராக சிங்கப்பூரில் குற்றவியல் முறைப்பாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3bea1d7.json))
+* **9** tamil-mirror-lk ([ஸ்டாலினுக்கு வெளிநாடு செல்லத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77684eeb.json))
 
-* **9** tamil-mirror-lk ([லிட்ரோ அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed626aaa.json))
+* **9** virakesari-lk ([கிளிநொச்சியில் 82 போத்தல் கசிப்புடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/deadf80e.json))
 
-* **9** ada-lk ([අගමැති වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4dac089e.json))
+* **7** ada-lk ([පෙට්‍රල් නිසා මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/350cb395.json))
 
 * **6** daily-mirror-lk ([SL aviation contingent at MINUSCA commended for recent act of bravery](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc69fd0.json))
 
-* **4** ada-derana-lk ([Energy Minister says only QR Code quota system for fuel from Aug. 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61e2664.json))
+* **3** ada-derana-lk ([Court imposes travel ban on six activists](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/061b8e78.json))
 
 * **3** news-first-lk ([President Putin congratulates Ranil W on election to office of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ec5863c.json))
 
 * **1** economy-next-com ([Putin congratulates Sri Lanka president; looks to foster bilateral cooperation](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d0e4410.json))
 
-## Last 24 Hours (230 Articles)
+## Last 24 Hours (231 Articles)
 
 * **46** virakesari-lk ([தமிழக அரசின் நிவாரணப் பொருட்கள் வழங்கும் திட்டம் நிறைவு ; தமிழக அரசுக்கு நன்றி - செந்தில் தொண்டமான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f51a6800.json))
 
 * **35** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
 
-* **29** tamil-mirror-lk ([’அமைதியான ஆர்ப்பாட்ட உரிமையை பாதுகாப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad80fab.json))
+* **30** tamil-mirror-lk ([’அமைதியான ஆர்ப்பாட்ட உரிமையை பாதுகாப்பேன்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8ad80fab.json))
 
 * **23** ada-lk ([පළමු දිනය නිමාවන විට ශ්‍රී ලංකාව 315-6](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e876e853.json))
 
@@ -72,13 +72,13 @@
 
 * **1** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
-## Last Week (819 Articles)
+## Last Week (820 Articles)
 
 * **116** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **111** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
 
-* **81** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **82** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **81** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -100,7 +100,7 @@
 
 * **20** colombo-telegraph-com ([9th July Revolution Ousted Rajapaksa Dynasty; So, Let It Imprimatur](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/998c03d7.json))
 
-## All Time (1,150 Articles)
+## All Time (1,151 Articles)
 
 * **170** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -114,7 +114,7 @@
 
 * **108** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
-* **81** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **82** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **68** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 

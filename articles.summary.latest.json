@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/b2/b2e7cc57.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-301098",
+    "time_ut": 1658749395,
+    "original_lang": "ta",
+    "original_title": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/c4/c4ac2a94.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/25/fuel-imports-to-be-restricted-in-the-next-12-months/",
     "time_ut": 1658749260,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lankan Energy Minister Kanchana Wijesekera  Reveals that   petrol reserves in the country are about 4,000 tonnes and  cannot last more than a day;\u201cThe next petrol shipment is expected between the 22nd and 23rd of July\u201d  says Minister",
     "file_name": "/tmp/news_lk2/articles/85/855f48fd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78308",
-    "time_ut": 1656790860,
-    "original_lang": "en",
-    "original_title": "As long as Sri Lanka has a weak and unstable govt, no foreign govt is going to assist Sri Lanka. And Sri Lanka will continue to have a weak and unstable govt as long as there is no political reform.",
-    "file_name": "/tmp/news_lk2/articles/f2/f2c1cdb3.json"
   }
 ]
