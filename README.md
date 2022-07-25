@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 15:31:11 (LK time)*
+*As of 2022-07-25 15:34:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** virakesari-lk ([கிளிநொச்சியில் 82 போத்தல் கசிப்புடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/deadf80e.json))
 
-## Last Hour (11 Articles)
+## Last Hour (9 Articles)
 
 * **5** ada-lk ([දෞපදි මුර්මු ඉන්දීය නව ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/839ad8ae.json))
 
@@ -22,15 +22,11 @@
 
 * **1** lankadeepa-lk ([ඉන්ධන බෙදුම්කරුවෝ වර්ජනය අවසන් කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/989eb122.json))
 
-* **1** tamil-mirror-lk ([லிட்ரோ அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed626aaa.json))
+## Last 3 Hours (40 Articles)
 
-* **1** ada-derana-lk ([Energy Minister says only QR Code quota system for fuel from Aug. 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61e2664.json))
+* **11** virakesari-lk ([அரசாங்க எதிர்ப்பு ஆர்ப்பாட்டத்தில் இராணுவ சிப்பாயிடமிருந்து திருடப்பட்ட துப்பாக்கி மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae940aee.json))
 
-## Last 3 Hours (42 Articles)
-
-* **12** virakesari-lk ([சாதாரண தரப் பரீட்சை விடைத்தாள் மதிப்பீட்டுப் பணிகள் மீள ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e6301d2.json))
-
-* **10** ada-lk ([දින 11කට පසු ජනපති කාර්යාලයේ වැඩ අරඹයි- ජනපතිත් නුදුරේදීම එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ebba7a9.json))
+* **9** ada-lk ([ශ්‍රී ලාංකිකයන්ට ජපානයේ කෘෂිකර්මාන්තයේ දොරත් ඇරෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/5739d2c9.json))
 
 * **8** lankadeepa-lk ([ජනපතිට කාලය දිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f80e6d4c.json))
 
@@ -44,11 +40,11 @@
 
 * **1** news-first-lk ([Fuel Pass: Implementation from 26th July; Only QR based service from 1st August](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f37c09f0.json))
 
-## Last 24 Hours (219 Articles)
+## Last 24 Hours (218 Articles)
 
 * **45** virakesari-lk ([பிரித்தானியாவில் நிகழும் மாற்றம் : பிரதமராக இந்தியர்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/592fe828.json))
 
-* **33** lankadeepa-lk ([නව ජනාධිපති සමග පළමු ආණ්ඩු පක්ෂ රැස්වීම අනිද්දා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d95af1f.json))
+* **32** lankadeepa-lk ([යතුරු පැදිය පිරවුම්හල අසල දී  ගිනිගෙන දැවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2768cf26.json))
 
 * **25** tamil-mirror-lk ([எரிபொருள் வரிசையில் யானை](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/6706c087.json))
 
