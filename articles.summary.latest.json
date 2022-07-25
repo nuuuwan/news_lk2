@@ -64,6 +64,14 @@
     "file_name": "/tmp/news_lk2/articles/26/262689ea.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd-\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0baf\u0bc8-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0bae\u0bcd/175-301123",
+    "time_ut": 1658772394,
+    "original_lang": "ta",
+    "original_title": "\u2018\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1  \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/1e/1e6a3734.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/news-features/July-22-attacks-and-future-of-Aragalaya-Can-the-Aragalaya-survive-amidst-suppressive-measures-by-the-state/131-241785",
     "time_ut": 1658772232,
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0daf\u0db8\u0dd4",
     "file_name": "/tmp/news_lk2/articles/98/983ef751.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-remittances-down-42-pct-in-june-2022-in-non-credible-peg-97215/",
-    "time_ut": 1657504080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka remittances down 42-pct in June 2022 in non-credible peg",
-    "file_name": "/tmp/news_lk2/articles/8b/8b74bc67.json"
   }
 ]
