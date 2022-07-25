@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7-\u0dc4\u0dcf-\u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0d89\u0dc4\u0dc5-\u0db4\u0dd4\u0da7\u0dd4/11-395734",
+    "time_ut": 1658766015,
+    "original_lang": "si",
+    "original_title": "\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7 \u0dc4\u0dcf \u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0dda \u0d89\u0dc4\u0dc5 \u0db4\u0dd4\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/62/62cba83f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-617026",
     "time_ut": 1658765780,
@@ -49,6 +57,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132252",
+    "time_ut": 1658763766,
+    "original_lang": "ta",
+    "original_title": "\u0b89\u0bb3\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0ba9\u0bcd - \u0b85\u0bb2\u0bbf \u0b9a\u0baa\u0bcd\u0bb0\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/55/55769db7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132251",
     "time_ut": 1658763614,
     "original_lang": "ta",
@@ -62,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0bbe\u0b9c\u0bbf\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baa\u0bb8\u0bcd",
     "file_name": "/tmp/news_lk2/articles/1e/1efd4b3e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Black-July-observed-at/110-241760",
+    "time_ut": 1658761432,
+    "original_lang": "en",
+    "original_title": "Black July observed at...",
+    "file_name": "/tmp/news_lk2/articles/1b/1b690961.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -102,6 +126,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/88/88269620.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Against-GotaGoGama-attack/342-241758",
+    "time_ut": 1658758739,
+    "original_lang": "en",
+    "original_title": "Against GotaGoGama attack",
+    "file_name": "/tmp/news_lk2/articles/ac/ac1565da.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
