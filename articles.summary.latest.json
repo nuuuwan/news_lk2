@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83869/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism",
+    "time_ut": 1658767980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
+    "file_name": "/tmp/news_lk2/articles/e7/e77198a7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-395735",
+    "time_ut": 1658766824,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/bd/bd26b515.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7-\u0dc4\u0dcf-\u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0d89\u0dc4\u0dc5-\u0db4\u0dd4\u0da7\u0dd4/11-395734",
     "time_ut": 1658766015,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "CONSTITUTIONAL MECHANISMS TO PREVENT AND MITIGATE FINANCIAL CRISES",
     "file_name": "/tmp/news_lk2/articles/5b/5bbd332f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/lankas-misery-should-be-warning-to-us-all-on-global-food-fuel-and-finance-crisis-undp/",
-    "time_ut": 1657376520,
-    "original_lang": "en",
-    "original_title": "Lanka\u2019s misery should be warning to us all on global food, fuel and finance crisis: UNDP",
-    "file_name": "/tmp/news_lk2/articles/56/564b2893.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca/7-395240",
-    "time_ut": 1657328050,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dad\u0dd0\u0db1\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0dcf\u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/78/7880ac84.json"
   }
 ]

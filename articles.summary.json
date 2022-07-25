@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83869/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism",
+    "time_ut": 1658767980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
+    "file_name": "/tmp/news_lk2/articles/e7/e77198a7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-395735",
+    "time_ut": 1658766824,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/bd/bd26b515.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7-\u0dc4\u0dcf-\u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0d89\u0dc4\u0dc5-\u0db4\u0dd4\u0da7\u0dd4/11-395734",
     "time_ut": 1658766015,
