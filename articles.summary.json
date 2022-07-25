@@ -1808,6 +1808,14 @@
     "file_name": "/tmp/news_lk2/articles/01/01627b55.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/what-next-how-do-we-proceed-to-rebuild-sri-lanka/",
+    "time_ut": 1658584320,
+    "original_lang": "en",
+    "original_title": "WHAT NEXT? HOW DO WE PROCEED TO REBUILD SRI LANKA",
+    "file_name": "/tmp/news_lk2/articles/73/7339c414.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Recall-COVID-technical-committee-make-face-masks-mandatory-GMOA-tells-health-authorities/342-241669",
     "time_ut": 1658584156,
@@ -1982,6 +1990,14 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0dbb\u0dca\u0d9d \u0dbd\u0dd9\u0dc3 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf",
     "file_name": "/tmp/news_lk2/articles/e8/e89a2055.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/high-commissioner-moragoda-calls-on-the-archbishop-of-delhi/",
+    "time_ut": 1658574720,
+    "original_lang": "en",
+    "original_title": "High Commissioner Moragoda calls on the Archbishop of Delhi",
+    "file_name": "/tmp/news_lk2/articles/58/58c6480b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -4350,6 +4366,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s central bank requests bank loan borrowers to seek relief before July 31st",
     "file_name": "/tmp/news_lk2/articles/1c/1c4c6489.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/an-honourable-defeat/",
+    "time_ut": 1658421060,
+    "original_lang": "en",
+    "original_title": "An honourable defeat",
+    "file_name": "/tmp/news_lk2/articles/4b/4b46ef94.json"
   },
   {
     "newspaper_id": "economy-next-com",
