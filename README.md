@@ -1,38 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 20:52:01 (LK time)*
+*As of 2022-07-25 21:00:40 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** tamil-mirror-lk ([எரிபொருள் விநியோகம் குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c7300a.json))
 
 * **1** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
 
-## Last Hour (3 Articles)
-
-* **2** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88269620.json))
-
-* **1** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
-
-## Last 3 Hours (17 Articles)
-
-* **3** tamil-mirror-lk ([ஒமிக்ரோன் உப பிறழ்வு  வேகமாக பரவுகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4222695c.json))
+## Last 3 Hours (15 Articles)
 
 * **3** daily-mirror-lk ([Tusker saved from drowning](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dd918bb.json))
 
 * **3** ada-derana-lk ([Covid-19 cases in Sri Lanka on the rise again](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62df3e8c.json))
 
-* **3** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට අපට ආරාධනා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0482eab.json))
+* **2** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88269620.json))
 
 * **2** ada-lk ([නව ගමනක් වෙනුවට තියෙන්නේ රාජ්‍ය ප්‍රචණ්ඩත්වයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08e153de.json))
 
 * **2** virakesari-lk ([மட்டக்களப்பில் தங்க ஆபரணங்களை திருடிய ஒரே குடும்பத்தைச் சேர்ந்த 2 பெண்கள், 3 ஆண்கள் உட்பட 5 பேர் ஹரோயினுடன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd201ed7.json))
 
+* **2** lankadeepa-lk ([රාජිතගේ නැව් අටේ නඩුව ඉල්ලා අස්කර ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bfeeafd.json))
+
 * **1** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (229 Articles)
 
 * **42** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
 
@@ -40,9 +34,9 @@
 
 * **31** tamil-mirror-lk ([5 இடங்களில் கியூஆர் முறைமை தோல்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/eec209ae.json))
 
-* **25** daily-mirror-lk ([End of the road for asphalt producing plants in Kalahagala, Polonnaruwa](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1ffb852.json))
-
 * **24** ada-lk ([ගෝඨාභය අත්අඩංගුවට ගන්නැයි සිංගප්පූරුවේ නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a85fb51.json))
+
+* **22** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
 * **21** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
 
