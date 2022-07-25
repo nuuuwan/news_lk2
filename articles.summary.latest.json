@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-75\u0d9a\u0dca-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/1-617025",
+    "time_ut": 1658765284,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 75\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3a/3aae6b93.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83868/new-heads-of-presidents-media-division",
     "time_ut": 1658764920,
     "original_lang": "en",
     "original_title": "New heads of President\u2019s Media Division",
     "file_name": "/tmp/news_lk2/articles/cb/cb2fc429.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-fall-for-2nd-session-in-thin-trade-97890/",
+    "time_ut": 1658764860,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks fall for 2nd session in thin trade",
+    "file_name": "/tmp/news_lk2/articles/9b/9b3a12ab.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Thousands of protesters continue to occupy the President\u2019s House, the Presidential Secretariat and Temple Trees at  night after breaking into them earlier in the day demanding the immediate resignation of President Gotabaya Rajapaksa and Prime Minister Ranil Wickremesinghe",
     "file_name": "/tmp/news_lk2/articles/b5/b562a698.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78476",
-    "time_ut": 1657306620,
-    "original_lang": "en",
-    "original_title": "At least 55 Persons Injured During Confrontation in Fort at President\u2019s House Between Public and Security Personnel;3 Civilans Undergo Surgery at Colombo National Hospital for Gunshot Injuries. SJB MP\u2019s Rajitha  Senaratne and Suresh  Vadivale Manhandled by Protesters",
-    "file_name": "/tmp/news_lk2/articles/d6/d6577a82.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78471",
-    "time_ut": 1657306080,
-    "original_lang": "en",
-    "original_title": "Huge Protesting  Crowds \u201cinvade\u201dPresident\u2019s House after Confrontation in Festive Mood  and have Fun swimming in pool,relaxing on lawns and Sofas, raiding the Presidential pantry for snacks and soft drinks and rolling in Gota\u2019s bed",
-    "file_name": "/tmp/news_lk2/articles/9e/9edd4410.json"
   }
 ]
