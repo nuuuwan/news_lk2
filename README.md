@@ -1,32 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 02:09:50 (LK time)*
+*As of 2022-07-26 02:24:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (6 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **6** daily-ft-lk ([Canadian Premier has his say over 39th anniversary of Sri Lanka’s Black July](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6940b549.json))
+* **4** daily-ft-lk ([Court bans foreign travel for six activists](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fda00289.json))
 
 ## Last Hour (6 Articles)
 
 * **6** daily-ft-lk ([Canadian Premier has his say over 39th anniversary of Sri Lanka’s Black July](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6940b549.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (10 Articles)
 
 * **8** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
-* **3** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
+* **1** daily-mirror-lk ([July 22 attacks and future of Aragalaya : Can the  Aragalaya  survive  amidst suppressive measures by the state?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac966699.json))
 
-* **2** tamil-mirror-lk ([வெறுப்பு பேச்சு: ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3aa39a6.json))
+* **1** tamil-mirror-lk ([’பொருளாதார மீட்சிக்கு வலியுடன் கூடிய சிகிச்சை வேண்டும்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2ca62a91.json))
 
-## Last 24 Hours (228 Articles)
+## Last 24 Hours (229 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
 * **39** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
-* **29** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
+* **30** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
 * **26** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
 
@@ -50,7 +50,7 @@
 
 * **120** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
 
-* **89** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **90** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **88** daily-mirror-lk ([RW, AKD, Dullas to contest for presidency tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88b6ae73.json))
 
@@ -66,13 +66,13 @@
 
 * **39** economy-next-com ([Sri Lanka govt security rates fall; guidance peg strengthen](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5572420b.json))
 
-* **27** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
+* **26** b-b-c-com-sinhala ([ඩලස්,රනිල්,අනුර කුමාර ජනපති සටනට;සජිත් නාමයෝජනා නොදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4040e87e.json))
 
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
 * **17** d-b-s-jeyaraj-com ([Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.“We presented Dullas. We voted for him, but lost. Somebody has to win,” Mahinda tells media in parliament.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43bccf9.json))
 
-## All Time (1,210 Articles)
+## All Time (1,211 Articles)
 
 * **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +86,7 @@
 
 * **113** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
-* **89** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **90** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **73** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
