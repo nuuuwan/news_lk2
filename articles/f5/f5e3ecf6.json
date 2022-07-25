@@ -9,7 +9,7 @@
       "title": "A firearm lost from Poldu is found near Samanala Bridge",
       "author": "unknown",
       "body_lines": [
-        "Police Media Spokesman Senior Superintendent of Police Advocate Mr. Nihal Talduwa said that Navy divers have found a T-56 firearm and an ammunition bag that were stolen from an army soldier during the protest at the Polduwa intersection in Diwawanna Reservoir near Samanala Bridge.",
+        "Police Media Spokesman Senior Superintendent of Police Advocate Mr. Nihal Talduwa said that Navy divers have found a T-56 firearm and an ammunition bag that were stolen from an army soldier during the protest at the Polduwa intersection in the Diyavanna reservoir near Samanala bridge.",
         "The media spokesman said that the fire was set off near the Samanala Bridge towards the parliament in Diyavanna Reservoir."
       ],
       "title_ents": [
@@ -34,15 +34,15 @@
           },
           {
             "text": "Polduwa",
-            "label": "NORP"
+            "label": "LOC"
           },
           {
-            "text": "Diwawanna Reservoir",
+            "text": "Diyavanna",
+            "label": "ORG"
+          },
+          {
+            "text": "Samanala",
             "label": "GPE"
-          },
-          {
-            "text": "Samanala Bridge",
-            "label": "FAC"
           }
         ],
         [
@@ -86,15 +86,15 @@
           },
           {
             "text": "\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
-            "label": "NORP"
+            "label": "LOC"
           },
           {
-            "text": "\u0daf\u0dd2\u0dc0\u0dcf\u0dc0\u0db1\u0dca\u0db1\u0dcf \u0da2\u0dbd\u0dcf\u0dc1\u0dba",
+            "text": "\u0daf\u0dd2\u0dba\u0dc0\u0db1\u0dca\u0db1\u0dcf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0db8\u0db1\u0dbd",
             "label": "GPE"
-          },
-          {
-            "text": "\u0dc3\u0db8\u0db1\u0dbd \u0db4\u0dcf\u0dbd\u0db8",
-            "label": "FAC"
           }
         ],
         [
@@ -138,15 +138,15 @@
           },
           {
             "text": "\u0baa\u0bca\u0bb2\u0bcd\u0ba4\u0bc1\u0bb5\u0bbe",
-            "label": "NORP"
+            "label": "LOC"
           },
           {
-            "text": "\u0ba4\u0bbf\u0bb5\u0bbe\u0bb5\u0ba3\u0bcd\u0ba3\u0bbe \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+            "text": "\u0ba4\u0bbf\u0baf\u0bb5\u0ba9\u0bcd\u0ba9\u0bbe",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9a\u0bae\u0ba9\u0bb2",
             "label": "GPE"
-          },
-          {
-            "text": "\u0b9a\u0bae\u0ba9\u0bb2 \u0baa\u0bbe\u0bb2\u0bae\u0bcd",
-            "label": "FAC"
           }
         ],
         [

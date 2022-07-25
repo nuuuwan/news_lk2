@@ -1,36 +1,28 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 13:26:54 (LK time)*
+*As of 2022-07-25 13:36:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (9 Articles)
 
-* **1** virakesari-lk ([வெல்லவாய பகுதியில் மின்சாரம் தாக்கி 11 வயது சிறுவன் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d98ac3b.json))
+* **4** virakesari-lk ([அரசாங்க எதிர்ப்பு ஆர்ப்பாட்டத்தில் இராணுவ சிப்பாயிடமிருந்து திருடப்பட்ட துப்பாக்கி மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/ae940aee.json))
 
-* **1** ada-derana-lk ([Firearm reported missing during protest recovered from Diyawanna Lake](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9276a9fd.json))
-
-## Last Hour (13 Articles)
-
-* **7** virakesari-lk ([இலங்கையில் இருந்து கடல் வழியே தமிழகம் சென்ற போலாந்து நாட்டவர் கைது!](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b29d9.json))
-
-* **3** lankadeepa-lk ([ජනපතිට කාලය දිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f80e6d4c.json))
+* **3** lankadeepa-lk ([ද්‍රෞපදී මුර්මු දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/7705e7e5.json))
 
 * **2** ada-derana-lk ([Special dengue eradication programme as cases rise](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22e67796.json))
 
-* **1** ada-lk ([දින 11කට පසු ජනපති කාර්යාලයේ වැඩ අරඹයි- ජනපතිත් නුදුරේදීම එයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1ebba7a9.json))
+## Last 3 Hours (42 Articles)
 
-## Last 3 Hours (45 Articles)
+* **11** lankadeepa-lk ([විදුලි රැහැනෙන් ආ මරුවා දරුවා ඩැහැ ගනී](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06e7e185.json))
 
-* **11** virakesari-lk ([கப்ராலின் வெளிநாட்டு பயணத்தடை மீண்டும் நீடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fb62275.json))
-
-* **11** lankadeepa-lk ([බල ශක්තියේ බලය විදේශයන්ට ලබාදීම ඉතා භයානක තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abf4cad7.json))
+* **10** virakesari-lk ([கப்ராலின் வெளிநாட்டு பயணத்தடை மீண்டும் நீடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2fb62275.json))
 
 * **7** tamil-mirror-lk ([கப்ராலின் வெளிநாட்டு பயணத்தடை நீடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f35de8a7.json))
 
-* **5** news-first-lk ([Wear Face Masks in Public Place – Health Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a79ab75.json))
+* **4** news-first-lk ([Private Buses to cater to school students today (25)](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/3612d85a.json))
 
-* **4** ada-derana-lk ([Prime Minister Dinesh Gunawardane assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d810ff41.json))
+* **3** ada-derana-lk ([Droupadi Murmu takes oath as 15th President of India](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e4afbbe4.json))
 
 * **3** ada-lk ([කබ්රාල්ට එරෙහි විදෙස් ගමන් තහනම දිර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38e5c39d.json))
 
@@ -38,11 +30,11 @@
 
 * **1** economy-next-com ([Sri Lanka shares slip in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5ef0d10.json))
 
-## Last 24 Hours (226 Articles)
+## Last 24 Hours (222 Articles)
 
-* **55** virakesari-lk ([வீரியமடையும்  கறுப்புச்சந்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a45d6083.json))
+* **50** virakesari-lk ([முகக்கவசம் அணிவதை கட்டாயமாக்க வேண்டும் அரச மருத்துவ அதிகாரிகளின் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/eaeec510.json))
 
-* **35** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවක් ඇතිකරන බවක් තාම පේන්නට නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc233c0.json))
+* **36** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවක් ඇතිකරන බවක් තාම පේන්නට නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/acc233c0.json))
 
 * **26** tamil-mirror-lk ([100 நாட்களைக் கடந்த  போராட்ட களம் அகற்றப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c8b2ba3.json))
 
@@ -68,9 +60,9 @@
 
 ## Last Week (746 Articles)
 
-* **102** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **101** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **96** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
+* **97** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
 
 * **75** daily-ft-lk ([Rebuilding of the nation by its youth (Aragalaya)](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9307a13b.json))
 
@@ -96,7 +88,7 @@
 
 ## All Time (1,077 Articles)
 
-* **155** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **156** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **127** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -106,7 +98,7 @@
 
 * **108** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
-* **102** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **101** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **72** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
