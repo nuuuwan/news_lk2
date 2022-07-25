@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-is-facing-diplomatic-sanctions-Sajith/342-241757",
+    "time_ut": 1658758063,
+    "original_lang": "en",
+    "original_title": "Sri Lanka is facing diplomatic sanctions: Sajith",
+    "file_name": "/tmp/news_lk2/articles/9a/9a060510.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83867/japan-confirms-first-monkeypox-case-as-it-steps-up-preparation-for-outbreak",
     "time_ut": 1658756340,
@@ -25,11 +33,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dc3\u0dca-\u0d9a\u0db4\u0db1\u0dca\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0d9c\u0dda-\u0db4\u0dd4\u0dad\u0dcf-\u0d9a\u0dd2\u0dba\u0dad\u0dd9\u0db1\u0dca-\u0d9a\u0db4\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0dbd\u0dcf/1-617022",
+    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0dc3\u0dca-\u0d9a\u0db4\u0db1\u0dca\u0db1\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0d9c\u0dda-\u0db4\u0dd4\u0dad\u0dcf-\u0d9a\u0dd2\u0dba\u0dad\u0dd9\u0db1\u0dca-\u0d9a\u0db4\u0db1\u0dca\u0db1-\u0dc4\u0daf\u0dbd\u0dcf/101-617022",
     "time_ut": 1658754556,
     "original_lang": "si",
     "original_title": "\u0d9c\u0dc3\u0dca \u0d9a\u0db4\u0db1\u0dca\u0db1\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0dbb\u0dd4\u0d9c\u0dda \u0db4\u0dd4\u0dad\u0dcf \u0d9a\u0dd2\u0dba\u0dad\u0dd9\u0db1\u0dca \u0d9a\u0db4\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/61/6161d08e.json"
+    "file_name": "/tmp/news_lk2/articles/18/18206e6f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -70,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b92\u0bae\u0bbf\u0b95\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0b89\u0baa \u0baa\u0bbf\u0bb1\u0bb4\u0bcd\u0bb5\u0bc1  \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0baa\u0bb0\u0bb5\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/42/4222695c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dbb\u0dca\u0dc0-\u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7-\u0d85\u0db4\u0da7-\u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf-\u0db1\u0dd1/101-617020",
+    "time_ut": 1658751880,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dbb\u0dca\u0dc0 \u0db4\u0dcf\u0d9a\u0dca\u0dc2\u0dd2\u0d9a \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0da7 \u0d85\u0db4\u0da7 \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/1f/1f512013.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
