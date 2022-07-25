@@ -17,6 +17,14 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/news-features/July-22-attacks-and-future-of-Aragalaya-Can-the-Aragalaya-survive-amidst-suppressive-measures-by-the-state/131-241785",
+    "time_ut": 1658772232,
+    "original_lang": "en",
+    "original_title": "July 22 attacks and future of Aragalaya : Can the  Aragalaya  survive  amidst suppressive measures by the state?",
+    "file_name": "/tmp/news_lk2/articles/ac/ac966699.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Rajapaksa-rule-by-proxy/172-241783",
     "time_ut": 1658771306,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Eleven journalists attached to  TV Derana, News First and Sky News,  attacked by the Police and STF  while covering the protests in  Colombo on July 9",
     "file_name": "/tmp/news_lk2/articles/df/df1a3043.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78501",
-    "time_ut": 1657393560,
-    "original_lang": "en",
-    "original_title": "Jubilant  Crowds  Wait in Lengthy Regulated  Queues  at President\u2019s House and Presidential Secretariat to \u201ctour\u201dthe Premises Seized by the People after the July 9  \u201cAragalaya\u201d (Struggle)",
-    "file_name": "/tmp/news_lk2/articles/3b/3b6c2d55.json"
   }
 ]

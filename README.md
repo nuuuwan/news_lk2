@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 01:25:42 (LK time)*
+*As of 2022-07-26 01:37:25 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 3 Hours (6 Articles)
+
+* **3** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
-* **2** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
-
 * **1** tamil-mirror-lk ([வெறுப்பு பேச்சு: ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3aa39a6.json))
 
-## Last 24 Hours (219 Articles)
+## Last 24 Hours (220 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
@@ -20,9 +20,9 @@
 
 * **28** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
-* **26** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
+* **26** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
 
-* **25** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
+* **26** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
 * **22** news-first-lk ([President’s Office open from today (25)](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc193498.json))
 
@@ -36,17 +36,17 @@
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (854 Articles)
+## Last Week (855 Articles)
 
 * **121** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **120** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
 
+* **88** daily-mirror-lk ([RW, AKD, Dullas to contest for presidency tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88b6ae73.json))
+
 * **88** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **88** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
-
-* **87** daily-mirror-lk ([RW, AKD, Dullas to contest for presidency tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88b6ae73.json))
 
 * **73** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
@@ -64,13 +64,13 @@
 
 * **17** d-b-s-jeyaraj-com ([Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.“We presented Dullas. We voted for him, but lost. Somebody has to win,” Mahinda tells media in parliament.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43bccf9.json))
 
-## All Time (1,201 Articles)
+## All Time (1,202 Articles)
 
 * **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **146** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **134** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **135** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **121** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
