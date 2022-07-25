@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SL-aviation-contingent-at-MINUSCA-commended-for-recent-act-of-bravery/342-241748",
+    "time_ut": 1658742225,
+    "original_lang": "en",
+    "original_title": "SL aviation contingent at MINUSCA commended for recent act of bravery",
+    "file_name": "/tmp/news_lk2/articles/f9/f9dc2836.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132236",
+    "time_ut": 1658741913,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 82 \u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b95\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/de/deadf80e.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/international/\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dca-\u0d91\u0db8\u0dd3\u0dbb\u0dca\u0dc0\u0dbb\u0dba\u0dcf-\u0db1\u0dc0-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-395726",
     "time_ut": 1658741230,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "SL amends limit on foreign currency possession",
     "file_name": "/tmp/news_lk2/articles/e6/e6395b4a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0dc0\u0dd2\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda-\u0dad\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db1\u0dc0\u0dad\u0db8-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca/7-394811",
-    "time_ut": 1656134927,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db1\u0dca\u0dad\u0d9a\u0dba\u0dda \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db1\u0dc0\u0dad\u0db8 \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f1/f1627303.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca-\u0da2\u0db1\u0db4\u0daf-\u0daf\u0dd6\u0dad-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0d87\u0dba\u0dd2-/7-394809",
-    "time_ut": 1656134603,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0daf\u0dd6\u0dad \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd9\u0db1\u0dca\u0db1\u0dda \u0d87\u0dba\u0dd2?",
-    "file_name": "/tmp/news_lk2/articles/49/49299b86.json"
   }
 ]
