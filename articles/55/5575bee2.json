@@ -1,0 +1,246 @@
+{
+  "newspaper_id": "daily-mirror-lk",
+  "url": "https://www.dailymirror.lk/latest_news/Travel-ban-on-Cabraal-further-extended-till-October-26/342-241740",
+  "time_ut": 1658727052,
+  "original_lang": "en",
+  "original_title": "Travel ban on Cabraal further extended till October 26",
+  "text_idx": {
+    "en": {
+      "title": "Travel ban on Cabraal further extended till October 26",
+      "author": "unknown",
+      "body_lines": [
+        "The Colombo Chief Magistrate's court today further extended its order preventing former Central Bank Governor Ajith Nivard Cabraal from leaving the country until October 26.",
+        "Meanwhile, Colombo Additional Magistrate Harshana Kekunawala ordered to re-issue notices on former Central Bank Governor to appear in court on October 26.",
+        "The Court made this order consequent to a request made by former Southern Province Governor Rajith Keerthi Thennakoon through a private plaint filed in terms of section 136(1)(a) of the Code of Criminal Procedure Act. (Lakmal Sooriyagoda)"
+      ],
+      "title_ents": [
+        {
+          "text": "Cabraal",
+          "label": "PERSON"
+        },
+        {
+          "text": "October 26",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Magistrate",
+            "label": "PERSON"
+          },
+          {
+            "text": "today",
+            "label": "DATE"
+          },
+          {
+            "text": "Central Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "Ajith Nivard Cabraal",
+            "label": "PERSON"
+          },
+          {
+            "text": "October 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Colombo Additional Magistrate",
+            "label": "ORG"
+          },
+          {
+            "text": "Harshana Kekunawala",
+            "label": "PERSON"
+          },
+          {
+            "text": "Central Bank",
+            "label": "ORG"
+          },
+          {
+            "text": "October 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Court",
+            "label": "ORG"
+          },
+          {
+            "text": "Southern Province",
+            "label": "LOC"
+          },
+          {
+            "text": "section 136(1)(a",
+            "label": "LAW"
+          },
+          {
+            "text": "Lakmal Sooriyagoda",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0da7 \u0db4\u0db1\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0dad\u0dc4\u0db1\u0db8 \u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dd9\u0dbb\u0dda",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d85\u0da2\u0dd2\u0dad\u0dca \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dca \u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0da7 \u0dbb\u0da7\u0dd2\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dc0\u0dd3\u0db8 \u0dc0\u0dc5\u0d9a\u0dca\u0dc0\u0dcf\u0dbd\u0db8\u0dd2\u0db1\u0dca \u0dbd\u0db6\u0dcf\u0daf\u0dd4\u0db1\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db8\u0dc4\u0dda\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0d85\u0daf \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dc5\u0dcf.",
+        "\u0db8\u0dda \u0d85\u0dad\u0dbb \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf\u0da7 \u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dda \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dbd\u0dd9\u0dc3 \u0dba\u0dc5\u0dd2 \u0db1\u0ddc\u0dad\u0dd3\u0dc3\u0dd2 \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0dd9\u0dc3 \u0d9a\u0ddc\u0dc5\u0db9 \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0db8\u0dc4\u0dda\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca \u0dc4\u0dbb\u0dca\u0dc2\u0dab \u0d9a\u0dd0\u0d9a\u0dd4\u0dab\u0dc0\u0dbd \u0db8\u0dc4\u0dad\u0dcf \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dc5\u0dda\u0dba.",
+        "\u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0db1\u0da9\u0dd4 \u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc3\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0dda 136(1)(\u0d85) \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dbb\u0dc0 \u0d9c\u0ddc\u0db1\u0dd4 \u0d9a\u0dc5 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0dbd\u0d9a\u0dca \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d86\u0dab\u0dca\u0da9\u0dd4\u0d9a\u0dcf\u0dbb \u0dbb\u0da2\u0dd2\u0dad\u0dca \u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2 \u0dad\u0dd9\u0db1\u0dca\u0db1\u0d9a\u0ddd\u0db1\u0dca \u0db8\u0dc4\u0dad\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8\u0d9a\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0db8\u0dd9\u0db8 \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba \u0d9a\u0dc5\u0dda\u0dba. (\u0dbd\u0d9a\u0dca\u0db8\u0dcf\u0dbd\u0dca \u0dc3\u0dd6\u0dbb\u0dd2\u0dba\u0d9c\u0ddc\u0da9)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db8\u0dc4\u0dda\u0dc3\u0dca\u0dad\u0dca\u0dbb\u0dcf\u0dad\u0dca\u0dc0\u0dbb\u0dba\u0dcf",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d85\u0daf",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d85\u0da2\u0dd2\u0dad\u0dca \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dca \u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0db8\u0dc4\u0dda\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dad\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc4\u0dbb\u0dca\u0dc2\u0dab \u0d9a\u0dd0\u0d9a\u0dd4\u0dab\u0dc0\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d94\u0d9a\u0dca\u0dad\u0ddd\u0db6\u0dbb\u0dca 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dc5\u0dcf\u0dad",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba 136(1)(\u0d85",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0dbd\u0d9a\u0dca\u0db8\u0dcf\u0dbd\u0dca \u0dc3\u0dd6\u0dbb\u0dd2\u0dba\u0d9c\u0ddc\u0da9",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0baf\u0ba3\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8 \u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26 \u0bb5\u0bb0\u0bc8 \u0ba8\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0b9f\u0bcd \u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bb5\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b92\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bb5\u0bb0\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0ba8\u0bc0\u0ba4\u0bb5\u0bbe\u0ba9\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b87\u0ba4\u0bc7\u0bb5\u0bc7\u0bb3\u0bc8, \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b92\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b86\u0b9c\u0bb0\u0bbe\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bc0\u0bb8\u0bcd \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0ba8\u0bc0\u0ba4\u0bb5\u0bbe\u0ba9\u0bcd \u0bb9\u0bb0\u0bcd\u0bb7\u0ba9 \u0b95\u0bc6\u0b95\u0bc1\u0ba9\u0bbe\u0bb5\u0bb2 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 136(1)(\u0b8f) \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb0\u0bae\u0bcd, \u0ba4\u0bc6\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd \u0bb0\u0b9c\u0bbf\u0ba4\u0bcd \u0b95\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0b95\u0bcb\u0ba9\u0bcd \u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0baf \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. (\u0bb2\u0b95\u0bcd\u0bae\u0bbe\u0bb2\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0b95\u0bca\u0b9f)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd",
+          "label": "PERSON"
+        },
+        {
+          "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26",
+          "label": "DATE"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0bae\u0bbe\u0b9c\u0bbf\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0b9c\u0bbf\u0ba4\u0bcd \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd \u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0ba8\u0bc0\u0ba4\u0bb5\u0bbe\u0ba9\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb9\u0bb0\u0bcd\u0bb7\u0ba9 \u0b95\u0bc6\u0b95\u0bc1\u0ba9\u0bbe\u0bb5\u0bb2",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b85\u0b95\u0bcd\u0b9f\u0bcb\u0baa\u0bb0\u0bcd 26",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc6\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+            "label": "LOC"
+          },
+          {
+            "text": "\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 136(1)(\u0b8f",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0bb2\u0b95\u0bcd\u0bae\u0bbe\u0bb2\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0b95\u0bca\u0b9f",
+            "label": "PERSON"
+          }
+        ]
+      ]
+    }
+  }
+}
