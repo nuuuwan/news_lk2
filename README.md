@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 20:42:20 (LK time)*
+*As of 2022-07-25 20:52:01 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -16,15 +16,15 @@
 
 * **1** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
 
-## Last 3 Hours (20 Articles)
+## Last 3 Hours (17 Articles)
 
-* **5** daily-mirror-lk ([PM meets received blessings](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7aa3712.json))
+* **3** tamil-mirror-lk ([ஒமிக்ரோன் உப பிறழ்வு  வேகமாக பரவுகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4222695c.json))
 
-* **4** tamil-mirror-lk ([எரிபொருளுடன் பிடிபட்ட தொழிலதிபர் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/966758a5.json))
+* **3** daily-mirror-lk ([Tusker saved from drowning](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dd918bb.json))
 
 * **3** ada-derana-lk ([Covid-19 cases in Sri Lanka on the rise again](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62df3e8c.json))
 
-* **3** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට අපට ආරාධනා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1f512013.json))
+* **3** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට අපට ආරාධනා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0482eab.json))
 
 * **2** ada-lk ([නව ගමනක් වෙනුවට තියෙන්නේ රාජ්‍ය ප්‍රචණ්ඩත්වයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08e153de.json))
 
@@ -58,11 +58,11 @@
 
 * **1** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
-## Last Week (845 Articles)
+## Last Week (843 Articles)
 
 * **118** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **118** lankadeepa-lk ([මහවිලච්චියේ වට්ටක්කා ගොවියන්ගේ අඳෝනාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/846d068d.json))
+* **117** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
 
 * **86** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
@@ -84,7 +84,7 @@
 
 * **21** d-b-s-jeyaraj-com ([A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde8827e.json))
 
-* **18** colombo-telegraph-com ([The Lost Revolution](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a8a7af8.json))
+* **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
 ## All Time (1,178 Articles)
 
