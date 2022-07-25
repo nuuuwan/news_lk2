@@ -1,16 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 02:57:00 (LK time)*
+*As of 2022-07-26 03:13:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 3 Hours (7 Articles)
 
-* **1** daily-ft-lk ([AKD calls for an immediate snap poll](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37365ddd.json))
-
-## Last 3 Hours (8 Articles)
-
-* **8** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
+* **7** daily-ft-lk ([Lankan envoy in India visits Amul Headquarters in Gujarat](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ddcb8c.json))
 
 ## Last 24 Hours (231 Articles)
 
