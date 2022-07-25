@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 22:59:51 (LK time)*
+*As of 2022-07-25 23:19:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
 
-* **1** ada-lk ([ජපානයෙන් වඳුරු උණ රෝගියෙක් හඳුනා ගනියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd26b515.json))
-
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (16 Articles)
 
 * **3** ada-lk ([අලි සබ්‍රි වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edac7063.json))
 
@@ -26,15 +24,13 @@
 
 * **2** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
 
-* **1** news-first-lk ([One Year On: The Late Great Rajamahendran remembered](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/710b4757.json))
-
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (234 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
 * **38** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
-* **29** tamil-mirror-lk ([இன்று முதல் பேருந்துந்து சேவைகள் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71661c83.json))
+* **28** tamil-mirror-lk ([குரங்கம்மை குழந்தைகளை தாக்கும் அபாயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1fd8f853.json))
 
 * **26** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
