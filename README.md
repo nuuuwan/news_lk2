@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 02:45:23 (LK time)*
+*As of 2022-07-26 02:57:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (6 Articles)
+## Last Hour (1 Articles)
 
-* **6** daily-ft-lk ([Canadian Premier has his say over 39th anniversary of Sri Lanka’s Black July](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6940b549.json))
+* **1** daily-ft-lk ([AKD calls for an immediate snap poll](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37365ddd.json))
 
 ## Last 3 Hours (8 Articles)
 
