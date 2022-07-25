@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf-56-\u0bb0-\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-301066",
+    "time_ut": 1658728332,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0bbf-56 \u0bb0\u200b\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1a/1a4c5885.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/July-25-designated-as-Dengue-Eradication-Day/342-241741",
+    "url": "https://www.dailymirror.lk/breaking_news/July-25-designated-as-Dengue-Eradication-Day/108-241741",
     "time_ut": 1658727928,
     "original_lang": "en",
     "original_title": "July 25, designated as Dengue Eradication Day",
-    "file_name": "/tmp/news_lk2/articles/dd/ddef5c07.json"
+    "file_name": "/tmp/news_lk2/articles/d8/d85624cc.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Possible devastating situation averted due to COVID vaccination rollout- President",
     "file_name": "/tmp/news_lk2/articles/84/84d859b0.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d92\u0d9a\u0d9a-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-33\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/3-390532",
-    "time_ut": 1645412223,
-    "original_lang": "si",
-    "original_title": "\u0da0\u0dd3\u0db1 \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d92\u0d9a\u0d9a \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 33\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/30/306a9911.json"
   }
 ]
