@@ -1,36 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 22:41:27 (LK time)*
+*As of 2022-07-25 22:59:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
 * **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
 
-## Last Hour (4 Articles)
+* **1** ada-lk ([ජපානයෙන් වඳුරු උණ රෝගියෙක් හඳුනා ගනියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd26b515.json))
 
-* **2** ada-lk ([ධනුෂ්කට හා ශානුකට ජනපති මාධ්‍ය අංශයේ ඉහළ පුටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cba83f.json))
-
-* **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
-
-* **1** lankadeepa-lk ([බණ්ඩාරගමිනුත් ඉන්ධන වංචාවක් හසු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2792c602.json))
-
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (17 Articles)
 
 * **3** ada-lk ([අලි සබ්‍රි වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edac7063.json))
 
 * **3** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
-
-* **3** tamil-mirror-lk ([நாளைய மின்வெட்டு விவரம் வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88269620.json))
-
-* **3** daily-mirror-lk ([Against GotaGoGama attack](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac1565da.json))
 
 * **2** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
 
 * **2** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
 
 * **2** economy-next-com ([Sri Lanka govt security yields slightly up in dull trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8287d01.json))
+
+* **2** tamil-mirror-lk ([எரிபொருள் விநியோகம் குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c7300a.json))
+
+* **2** daily-mirror-lk ([Remanded for Facebook post](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/05b296fc.json))
 
 * **1** news-first-lk ([One Year On: The Late Great Rajamahendran remembered](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/710b4757.json))
 
