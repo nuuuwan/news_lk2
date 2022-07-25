@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 00:42:27 (LK time)*
+*As of 2022-07-26 00:49:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
 ## Last Hour (2 Articles)
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
@@ -21,8 +17,6 @@
 * **2** ada-lk ([ධනුෂ්කට හා ශානුකට ජනපති මාධ්‍ය අංශයේ ඉහළ පුටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cba83f.json))
 
 * **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
-
-* **1** lankadeepa-lk ([බණ්ඩාරගමිනුත් ඉන්ධන වංචාවක් හසු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2792c602.json))
 
 ## Last 24 Hours (218 Articles)
 
@@ -48,7 +42,7 @@
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (857 Articles)
+## Last Week (856 Articles)
 
 * **121** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
@@ -72,7 +66,7 @@
 
 * **27** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
-* **19** d-b-s-jeyaraj-com ([Parliament’s role in electing the President When the Office became vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98f1e3ed.json))
+* **18** d-b-s-jeyaraj-com ([Three-way contest for Presidential Election  with Ranil Wickremesinghe, Dullas Alahapperuma and Anura Kumara Dissanayake in the fray after  Sajith Premadasa withdraws bid](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33453388.json))
 
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
