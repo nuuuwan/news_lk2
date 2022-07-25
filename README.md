@@ -1,42 +1,44 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 19:47:11 (LK time)*
+*As of 2022-07-25 20:02:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **1** daily-mirror-lk ([Sri Lanka is facing diplomatic sanctions: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a060510.json))
+* **1** daily-mirror-lk ([Sri Lanka is facing diplomatic sanctions: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58b775c4.json))
 
-## Last Hour (4 Articles)
+* **1** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
-* **1** daily-mirror-lk ([Sri Lanka is facing diplomatic sanctions: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9a060510.json))
+## Last Hour (3 Articles)
+
+* **1** daily-mirror-lk ([Sri Lanka is facing diplomatic sanctions: Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58b775c4.json))
+
+* **1** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
 * **1** ada-derana-lk ([Japan confirms first monkeypox case as it steps up preparation for outbreak](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb5871cc.json))
 
-* **1** virakesari-lk ([மட்டு மகிழடித்தீவு ஆலய ஆலமரத்தில் ஆண் ஒருவர் தூக்கில் தொங்கி தற்கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/5996567e.json))
+## Last 3 Hours (26 Articles)
 
-* **1** ada-lk ([නව ගමනක් වෙනුවට තියෙන්නේ රාජ්‍ය ප්‍රචණ්ඩත්වයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08e153de.json))
+* **6** lankadeepa-lk ([ඉන්ධන ළඟ තබාගත්තැයි ඇල්ලූ ව්‍යාපාරිකයා නිදොස් කර නිදහස්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ed12287.json))
 
-## Last 3 Hours (34 Articles)
-
-* **11** lankadeepa-lk ([සියලුම පිරවුම්හල්වලට දිනපතා ඉන්ධන දෙන්න බෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53c9bda7.json))
-
-* **7** tamil-mirror-lk ([தாக்கியவர்களை அம்பலப்படுத்தக் கோரி ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/891a2ac5.json))
-
-* **5** daily-mirror-lk ([IMF staff level agreement delayed due to unrest by protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/f8/f8397b79.json))
+* **5** daily-mirror-lk ([IMF staff level agreement delayed due to unrest by protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0d66108a.json))
 
 * **5** ada-derana-lk ([​​Foreign Minister Ali Sabry assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1800423.json))
 
-* **3** virakesari-lk ([மனிதாபிமானத்தோடு நடப்போம் : அதிகாரத்தையும் பண பலத்தையும் பயன்படுத்தாதீர் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6020979.json))
+* **4** tamil-mirror-lk ([ஒரு வருடத்துக்கு இறக்குமதி கட்டுப்பாடு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4ac2a94.json))
+
+* **2** virakesari-lk ([மட்டக்களப்பில் தங்க ஆபரணங்களை திருடிய ஒரே குடும்பத்தைச் சேர்ந்த 2 பெண்கள், 3 ஆண்கள் உட்பட 5 பேர் ஹரோயினுடன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd201ed7.json))
 
 * **2** news-first-lk ([Fuel imports to be restricted in the next 12 months](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab32c8b2.json))
 
+* **1** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
+
 * **1** ada-lk ([නව ගමනක් වෙනුවට තියෙන්නේ රාජ්‍ය ප්‍රචණ්ඩත්වයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08e153de.json))
 
-## Last 24 Hours (240 Articles)
+## Last 24 Hours (239 Articles)
 
-* **45** virakesari-lk ([வவுனியாவில் துவிச்சக்கரவண்டிகளின் பாவனையாளர்களுக்கு முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4085d5ef.json))
+* **44** virakesari-lk ([3 மாதங்களின் பின் திறக்கப்படும் ஜனாதிபதி செயலக கதவுகள் : பாதுகாப்புச் செயலர், இராணுவ தளபதி மேற்பார்வை !](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48d7dc9e.json))
 
 * **41** lankadeepa-lk ([ගෝඨා අල්ලන්නැයි සිංගප්පූරු නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/230ee705.json))
 
@@ -44,15 +46,15 @@
 
 * **25** daily-mirror-lk ([Circular issued calling state employees to work extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ce8320b.json))
 
-* **23** ada-derana-lk ([Power cut schedule for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa8c2728.json))
-
 * **23** ada-lk ([ගෝඨාභය අත්අඩංගුවට ගන්නැයි සිංගප්පූරුවේ නීතිපතිට පැමිණිල්ලක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a85fb51.json))
+
+* **22** ada-derana-lk ([Rights group seeks arrest of former Sri Lanka president in Singapore](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7de7efa7.json))
 
 * **21** news-first-lk ([President’s Office open from today (25)](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc193498.json))
 
 * **18** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
-* **6** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
+* **7** economy-next-com ([Sri Lanka schedules power cut upto 3-hrs on July 25th](https://github.com/nuuuwan/news_lk2/blob/data/articles/ae/aeaae2a0.json))
 
 * **4** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
@@ -80,15 +82,15 @@
 
 * **41** island-lk ([‘Interval in hell’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d17359a6.json))
 
-* **36** economy-next-com ([Sri Lanka govt security rates fall; guidance peg strengthen](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5572420b.json))
+* **37** economy-next-com ([Sri Lanka govt security rates fall; guidance peg strengthen](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5572420b.json))
 
 * **27** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
 * **21** d-b-s-jeyaraj-com ([A new President will be elected by MPs  through  secret ballot today(July 20) morning in Parliament with a close fight expected among the top two contenders  Wickremesinghe and Alahapperuma in the three-cornered battle.](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cde8827e.json))
 
-* **19** colombo-telegraph-com ([Silver Linings Amongst The Gloom](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2aee6fe6.json))
+* **18** colombo-telegraph-com ([The Lost Revolution](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a8a7af8.json))
 
-## All Time (1,172 Articles)
+## All Time (1,173 Articles)
 
 * **176** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -108,7 +110,7 @@
 
 * **63** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **56** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
+* **57** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
 * **55** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
