@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 00:34:49 (LK time)*
+*As of 2022-07-26 00:42:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (8 Articles)
 
 * **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
@@ -20,13 +20,11 @@
 
 * **2** ada-lk ([ධනුෂ්කට හා ශානුකට ජනපති මාධ්‍ය අංශයේ ඉහළ පුටු](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62cba83f.json))
 
-* **2** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
-
 * **1** ada-derana-lk ([Sri Lanka asks China for help with trade, investment and tourism](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e77198a7.json))
 
-* **1** virakesari-lk ([ஜனாதிபதி பணிக் குழுவின் தலைவராக சாகல நியமனம் - சிரேஷ்ட பாதுகாப்பு ஆலோசகராகவும் பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64703506.json))
+* **1** lankadeepa-lk ([බණ්ඩාරගමිනුත් ඉන්ධන වංචාවක් හසු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2792c602.json))
 
-## Last 24 Hours (221 Articles)
+## Last 24 Hours (218 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
@@ -44,13 +42,13 @@
 
 * **8** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
-* **5** daily-ft-lk ([President directs quicker streamlined fuel distribution](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/693e1723.json))
-
 * **4** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
+
+* **2** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (858 Articles)
+## Last Week (857 Articles)
 
 * **121** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
@@ -74,7 +72,7 @@
 
 * **27** b-b-c-com-sinhala ([සජිත්-ඩලස් බෙදී තරග කරන්නේ නම්,රනිල් ජනපති වන බව ස්ථිරයි!](https://github.com/nuuuwan/news_lk2/blob/data/articles/67/67e7349f.json))
 
-* **20** d-b-s-jeyaraj-com ([Prime Minister and Acting President Ranil Wickremesinghe issues Special Statement briefly recapping his  multiple achievements during the past 67 days in office.](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3f0699fd.json))
+* **19** d-b-s-jeyaraj-com ([Parliament’s role in electing the President When the Office became vacant](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/98f1e3ed.json))
 
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
