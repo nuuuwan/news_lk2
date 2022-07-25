@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-25 23:52:32 (LK time)*
+*As of 2022-07-25 23:59:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,7 +18,7 @@
 
 * **1** tamil-mirror-lk ([ராஜிதவுக்கு எதிரான கப்பல் வழக்கு வாபஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1efd4b3e.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (230 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
@@ -34,7 +34,7 @@
 
 * **21** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
 
-* **17** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
+* **15** daily-ft-lk ([Here to eternity](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21d12506.json))
 
 * **8** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
