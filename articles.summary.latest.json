@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132227",
+    "time_ut": 1658735329,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0bb5\u0bbe\u0baf \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf 11 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/2d/2d98ac3b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83859/firearm-reported-missing-during-protest-recovered-from-diyawanna-lake",
+    "time_ut": 1658734380,
+    "original_lang": "en",
+    "original_title": "Firearm reported missing during protest recovered from Diyawanna Lake",
+    "file_name": "/tmp/news_lk2/articles/92/9276a9fd.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132219",
     "time_ut": 1658733933,
     "original_lang": "ta",
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd0\u0dbd\u0dca-\u0daf\u0ddc\u0da9\u0db8\u0dca-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0dc0\u0dd0\u0dbd\u0dda-\u0dc0\u0dd0\u0dbd\u0dca-\u0db1\u0dd1/101-616996",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd0\u0dbd\u0dca-\u0daf\u0ddc\u0da9\u0db8\u0dca-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0dc0\u0dd0\u0dbd\u0dda-\u0dc0\u0dd0\u0dbd\u0dca-\u0db1\u0dd1/1-616996",
     "time_ut": 1658733462,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd0\u0dbd\u0dca \u0daf\u0ddc\u0da9\u0db8\u0dca \u0dc0\u0d9c\u0dcf\u0dc0\u0da7 \u0dc0\u0dd0\u0dbd\u0dda \u0dc0\u0dd0\u0dbd\u0dca \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/86/86fb822f.json"
+    "file_name": "/tmp/news_lk2/articles/00/00683e95.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -142,6 +158,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/91/911f6f96.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd6-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0db1\u0dbd-\u0db4\u0dcf\u0dbd\u0db8-\u0d85\u0dc3\u0dbd\u0dd2\u0db1\u0dca-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-616989",
+    "time_ut": 1658730451,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd6 \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0db1\u0dbd \u0db4\u0dcf\u0dbd\u0db8 \u0d85\u0dc3\u0dbd\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/f5/f5e3ecf6.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d86\u0dc4\u0dcf\u0dbb \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d86\u0db1\u0dba\u0db1 \u0d9c\u0dd0\u0db1 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0db4\u0dc4\u0daf\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e8/e8682eb8.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0dc0\u0dd3\u0db8\u0da7-\u0db8\u0dc4-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1\u0dba\u0d9a\u0dca/7-393937",
-    "time_ut": 1653965107,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fa/fa29a7e8.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d9a\u0dca\u0dc2\u0dd4\u0daf\u0dca\u200d\u0dbb--\u0d9a\u0dd4\u0da9\u0dcf-\u0dc4\u0dcf-\u0db8\u0db0\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf/7-393936",
-    "time_ut": 1653965050,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dca\u0dc2\u0dd4\u0daf\u0dca\u200d\u0dbb, \u0d9a\u0dd4\u0da9\u0dcf \u0dc4\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/5f/5ffc705a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/business/\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0dad\u0dd4\u0dc5-\u0d8b\u0dc3\u0dc3\u0dca-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba\u0da7-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dca/7-393935",
-    "time_ut": 1653964966,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0dad\u0dd4\u0dc5 \u0d8b\u0dc3\u0dc3\u0dca \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba\u0da7 \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dc4\u0dcf\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/00/0040cf22.json"
   }
 ]
