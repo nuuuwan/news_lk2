@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-must-act-expeditiously-to-provide-relief-for-childrens-education/342-241751",
+    "time_ut": 1658745329,
+    "original_lang": "en",
+    "original_title": "Govt. must act expeditiously to provide relief for children\u2019s education",
+    "file_name": "/tmp/news_lk2/articles/4d/4d093435.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd-\u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9-\u0b89\u0baf\u0bbf\u0bb0\u0bcd/175-301091",
+    "time_ut": 1658745157,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9 \u0b89\u0baf\u0bbf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a5/a538abbf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132241",
+    "time_ut": 1658744953,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0bc1\u0bb5\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/76/766904e2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132240",
+    "time_ut": 1658744672,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 5 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/2b/2b6f9af4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/175-301090",
+    "time_ut": 1658744610,
+    "original_lang": "ta",
+    "original_title": "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/77/77684eeb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-will-implement-from-Aug-1-Minister/342-241750",
     "time_ut": 1658744599,
     "original_lang": "en",
@@ -8,12 +48,20 @@
     "file_name": "/tmp/news_lk2/articles/4d/4d766f37.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132232",
+    "time_ut": 1658744405,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95 \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb2\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/97/97a2618e.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/101-617006",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/1-617006",
     "time_ut": 1658744115,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8 \u0dc4\u0dd9\u0dc5\u0dcf \u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/39/39ccf052.json"
+    "file_name": "/tmp/news_lk2/articles/84/84cfda4d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -78,6 +126,14 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0ddc\u0dc3\u0dca \u0d87\u0db1\u0dca\u0da2\u0dbd\u0dd3\u0dc3\u0dca \u0dad\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca - \u0db8\u0dbb\u0dab 2\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/f8/f849feef.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7-\u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca/11-395724",
+    "time_ut": 1658740853,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0dbd\u0dd2\u0db4\u0dd2\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/30/309f5f4e.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ceylon Petroleum Corporation (CPC) owes debt and payments worth nearly $ 1 billion Reveals  Ranil Wickremesinghe:Prime Minister  exposes the bankruptcy of the State-owned entity which has aggravated the on-going fuel crisis and urgent procurement.",
     "file_name": "/tmp/news_lk2/articles/11/11895317.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78286",
-    "time_ut": 1656444240,
-    "original_lang": "en",
-    "original_title": "Was  Mass Escape of over 500 inmates  from Kandakadu Treatment and Rehabilitation Centre  Triggered off by the  Suspicious Death of an Inmate Allegedly Assaulted by an Army Officer? Committee for Protecting the Rights of Prisoners (CPRP) Raises Doubts.",
-    "file_name": "/tmp/news_lk2/articles/ba/bab67e29.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78277",
-    "time_ut": 1656443700,
-    "original_lang": "en",
-    "original_title": "The assigning subjects and functions to the new Minister of Investment Promotion  in 3 Steps By President Rajapaksa  has once Again proved that  Gotabaya  is incapable of rationally assigning subjects and functions to ministries.",
-    "file_name": "/tmp/news_lk2/articles/e4/e417ebc7.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78280",
-    "time_ut": 1656442080,
-    "original_lang": "en",
-    "original_title": "Investment Promotion Minister Dhammika Perera ,inculcating a private-sector approach to boost efficiency and streamline operations ,announces several measures to upgrade the Immigration and Emigration Department, following a special inspection visit to the Department",
-    "file_name": "/tmp/news_lk2/articles/7b/7b7d8be1.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/42198",
-    "time_ut": 1656363120,
-    "original_lang": "en",
-    "original_title": "\u201cMellisai Mannargal\u201d M.S. Viswanathan and T.K. Ramamurthy, the \u2018Monarchs of Light Music\u2019 in Tamil cinema",
-    "file_name": "/tmp/news_lk2/articles/15/15ce8ccf.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78274",
-    "time_ut": 1656358860,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to purchase four shipments of fuel from India for Cash  instead of on credit; Deal Expected to materialise in One week  will result in  Initial shipment Followed by Petrol Shipments  When Required.",
-    "file_name": "/tmp/news_lk2/articles/1e/1e7b153c.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78269",
-    "time_ut": 1656357840,
-    "original_lang": "en",
-    "original_title": "The 22nd Amendment to the Constitution will be published in the Gazette of June 29 and  presented to Parliament after seven days, Says Justice Minister Wijeyadasa Rajapakshe; Cabinet Approved Draft Bill on June 27",
-    "file_name": "/tmp/news_lk2/articles/2c/2c4b2794.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78267",
-    "time_ut": 1656357300,
-    "original_lang": "en",
-    "original_title": "Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks \u2018urgent\u2019 supply from India, Russia, Qatar",
-    "file_name": "/tmp/news_lk2/articles/5c/5cb9b1ad.json"
   }
 ]
