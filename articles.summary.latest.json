@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83855/foreign-travel-ban-on-cabraal-further-extended",
+    "time_ut": 1658724360,
+    "original_lang": "en",
+    "original_title": "Foreign travel ban on Cabraal further extended",
+    "file_name": "/tmp/news_lk2/articles/e9/e91d6cac.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83854/parliament-to-debate-attack-on-protesters",
+    "time_ut": 1658724180,
+    "original_lang": "en",
+    "original_title": "Parliament to debate attack on protesters",
+    "file_name": "/tmp/news_lk2/articles/21/2108df66.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dbd\u0dd2\u0db4\u0da7-\u0daf\u0dd0\u0db8\u0dca\u0db8\u0dda-\u0d9a\u0dc0\u0dd4\u0daf-/26-616970",
+    "time_ut": 1658724166,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dbd\u0dd2\u0db4\u0da7 \u0daf\u0dd0\u0db8\u0dca\u0db8\u0dda \u0d9a\u0dc0\u0dd4\u0daf?",
+    "file_name": "/tmp/news_lk2/articles/85/85fb16f2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/cabraal-s-travel-ban-extended-to-october-2022/",
+    "time_ut": 1658724060,
+    "original_lang": "en",
+    "original_title": "Cabraal\u2019s travel ban extended to October 2022",
+    "file_name": "/tmp/news_lk2/articles/7b/7bf295c3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0d9c\u0dda-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dad\u0dc4\u0db1\u0db8-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dbb\u0dba\u0dd2/101-616969",
+    "time_ut": 1658723634,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dad\u0dc4\u0db1\u0db8 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/97/979fd4aa.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3/101-616968",
     "time_ut": 1658723069,
@@ -17,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd9\u0dbd\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dd0\u0da7\u0d9a\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d85\u0db3\u0ddd\u0db1\u0dcf-\u0db1\u0ddc\u0d87\u0dc3\u0dda\u0daf-/2-616967",
+    "url": "https://www.lankadeepa.lk/visheshanga/\u0dad\u0dd9\u0dbd\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca-\u0db6\u0dd0\u0da7\u0d9a\u0db1-\u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda-\u0d85\u0db3\u0ddd\u0db1\u0dcf-\u0db1\u0ddc\u0d87\u0dc3\u0dda\u0daf-/26-616967",
     "time_ut": 1658722995,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dd0\u0da7\u0d9a\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0\u0d9c\u0dda \u0d85\u0db3\u0ddd\u0db1\u0dcf \u0db1\u0ddc\u0d87\u0dc3\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/85/8575dee9.json"
+    "file_name": "/tmp/news_lk2/articles/c2/c291254e.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -46,6 +86,22 @@
     "original_lang": "ta",
     "original_title": "\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/41/412930d9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/f1-verstappen-wins-french-grand-prix-after-leclerc-crashes-out/",
+    "time_ut": 1658722440,
+    "original_lang": "en",
+    "original_title": "F1: Verstappen wins French Grand Prix after Leclerc crashes out",
+    "file_name": "/tmp/news_lk2/articles/81/8111c8c0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/3-hour-power-cuts-for-today-25/",
+    "time_ut": 1658722200,
+    "original_lang": "en",
+    "original_title": "3-Hour power cuts for today (25)",
+    "file_name": "/tmp/news_lk2/articles/bd/bda22e24.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd3\u0da9\u0dd2\u0dba\u0ddd \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0dc3\u0dad\u0dd2\u0dba\u0d9a\u0da7 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dad\u0dc4\u0db1\u0db8\u0dca!",
     "file_name": "/tmp/news_lk2/articles/3d/3d2c6189.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda-10-\u0dc0\u0dc3\u0dbb-\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6--\u0dc3\u0dd6\u0dbb\u0dca\u0dba-\u0db6\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da9-\u0d9a\u0dbb\u0db1-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dbb\u0dae\u0dba/1-383796",
-    "time_ut": 1630211664,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dda 10 \u0dc0\u0dc3\u0dbb \u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dd6  \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0db6\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae\u0dba",
-    "file_name": "/tmp/news_lk2/articles/c3/c38f6063.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/Tesla-Bot-\u0db1\u0db8\u0dd2\u0db1\u0dca-\u0db8\u0dcf\u0db1\u0dc0\u0dbb\u0dd6\u0db4\u0dd3-\u0dbb\u0ddc\u0db6\u0ddd\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca/5-383648",
-    "time_ut": 1629902398,
-    "original_lang": "si",
-    "original_title": "Tesla Bot \u0db1\u0db8\u0dd2\u0db1\u0dca \u0db8\u0dcf\u0db1\u0dc0\u0dbb\u0dd6\u0db4\u0dd3 \u0dbb\u0ddc\u0db6\u0ddd\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b3/b3b7c51b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/technology/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-wireless-stereo-hearable-\u0dc0\u0dbd\u0da7-\u0dc4\u0ddc\u0db3-\u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca/5-383646",
-    "time_ut": 1629899814,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda wireless stereo hearable \u0dc0\u0dbd\u0da7 \u0dc4\u0ddc\u0db3 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/e4/e417a232.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/politics/\u2018\u2018\u0dbb\u0da2\u0dba-\u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd-\u0db4\u0db1\u0dad-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca-\u0dc3\u0db8\u0d9c--\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018/13-595771",
-    "time_ut": 1627459965,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0dbb\u0da2\u0dba \u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0db4\u0db1\u0dad \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba\u0dc0\u0dbb\u0dd4\u0db1\u0dca \u0dc3\u0db8\u0d9c  \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/71/71316d5c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/uncategorized/\u0dba\u0dd4\u0daf-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc3\u0dca\u0dc0\u0dba\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba-\u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2-\u0dc4\u0dbb\u0dab-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/1-381143",
-    "time_ut": 1625570383,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0dd4\u0daf \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dca\u0dc0\u0dba\u0d82\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0dc0\u0dd2\u0dc2\u0db6\u0dd3\u0da2 \u0dc4\u0dbb\u0dab \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/54/546387e5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/politics/\u2018\u2018\u0dbb\u0da2\u0dba\u0da7-\u0d87\u0dad\u0dca\u0dad\u0dda-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dba\u0d9a\u0dca\u2018\u2018/13-594148",
-    "time_ut": 1625558489,
-    "original_lang": "si",
-    "original_title": "\u2018\u2018\u0dbb\u0da2\u0dba\u0da7 \u0d87\u0dad\u0dca\u0dad\u0dda \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dba\u0d9a\u0dca\u2018\u2018",
-    "file_name": "/tmp/news_lk2/articles/23/23ae8ce2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda-\u0d9c\u0db8\u0db1\u0dca-\u0db8\u0d9f-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dda-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba/101-594002",
-    "time_ut": 1625407437,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0d9c\u0db8\u0db1\u0dca \u0db8\u0d9f \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dda \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba",
-    "file_name": "/tmp/news_lk2/articles/d6/d6eb8efe.json"
   }
 ]
