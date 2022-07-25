@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/PM-meets-received-blessings/342-241755",
+    "time_ut": 1658751301,
+    "original_lang": "en",
+    "original_title": "PM meets received blessings",
+    "file_name": "/tmp/news_lk2/articles/e7/e7aa3712.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/IMF-staff-level-agreement-delayed-due-to-unrest-by-protesters/342-241754",
+    "time_ut": 1658750856,
+    "original_lang": "en",
+    "original_title": "IMF staff level agreement delayed due to unrest by protesters",
+    "file_name": "/tmp/news_lk2/articles/f8/f8397b79.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0ddc\u0dbb-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0dc0\u0dd2-\u0d9a\u0dc5-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-617019",
+    "time_ut": 1658750445,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddc\u0dbb \u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc0\u0dd2 \u0d9a\u0dc5 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/87/8718e08d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0dab\u0dd3\u0dba\u0da7-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca/101-617018",
+    "time_ut": 1658750023,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0dab\u0dd3\u0dba\u0da7 \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/83/83aabc78.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83864/fuel-imports-have-to-be-restricted-in-next-12-months-due-to-forex-issues-minister",
     "time_ut": 1658749440,
@@ -137,11 +169,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/FOREX-crisis-may-restrict-fuel-imports-in-the-next-12-months/108-241752",
+    "url": "https://www.dailymirror.lk/latest_news/FOREX-crisis-may-restrict-fuel-imports-in-the-next-12-months/342-241752",
     "time_ut": 1658747156,
     "original_lang": "en",
     "original_title": "FOREX crisis may restrict fuel imports in the next 12 months",
-    "file_name": "/tmp/news_lk2/articles/0a/0aed9ca3.json"
+    "file_name": "/tmp/news_lk2/articles/ab/ab198029.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dcf\u0da9\u0dd4 \u0d9b\u0dda\u0daf\u0dc0\u0dcf\u0da0\u0d9a\u0dba\u0dda \u0dc0\u0dbb\u0daf \u0d9a\u0ddc\u0dad\u0dd0\u0db1\u0daf? \u0d9a\u0dcf\u0d9c\u0dd9\u0daf?",
     "file_name": "/tmp/news_lk2/articles/8e/8ed86ff2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78373",
-    "time_ut": 1656875160,
-    "original_lang": "en",
-    "original_title": "Leader of the Opposition Sajith Premadasa and Ex-President Maithripala  Sirisena Meet with several Opposition political party leaders and  civil rights activists for discussions on the theme \u201cNational Reforms and Progress\u201d and moot a collective program to get the country out of the current crisis.",
-    "file_name": "/tmp/news_lk2/articles/b0/b0dc1865.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Four-fuel-shipments-to-reach-SL-this-month/108-240238",
-    "time_ut": 1656835907,
-    "original_lang": "en",
-    "original_title": "Four fuel shipments to reach SL this month",
-    "file_name": "/tmp/news_lk2/articles/b0/b0cbb486.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78103",
-    "time_ut": 1656799380,
-    "original_lang": "en",
-    "original_title": "Gotabaya, Ranil and the Fable of the Scorpion and Frog \ud83d\udc38 \ud83e\udd82 \ud83d\udcd6",
-    "file_name": "/tmp/news_lk2/articles/b2/b2237654.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78364",
-    "time_ut": 1656795120,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Energy Minister Kanchana Wijesekera  Reveals that   petrol reserves in the country are about 4,000 tonnes and  cannot last more than a day;\u201cThe next petrol shipment is expected between the 22nd and 23rd of July\u201d  says Minister",
-    "file_name": "/tmp/news_lk2/articles/85/855f48fd.json"
   }
 ]
