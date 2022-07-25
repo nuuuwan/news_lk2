@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0ba3\u0bc1\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd\u0bae\u0bc8-\u0ba4\u0bc0\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1-\u0baa\u0bcb\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/50-301096",
+    "time_ut": 1658747952,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0ba3\u0bc1\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd\u0bae\u0bc8: \u2019 \u0ba4\u0bc0\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0baa\u0bcb\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/18/1852bf6a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7-\u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0db6\u0dd1/101-617011",
+    "time_ut": 1658747945,
+    "original_lang": "si",
+    "original_title": "\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db4\u0dd2\u0dbb\u0dc0\u0dd4\u0db8\u0dca\u0dc4\u0dbd\u0dca\u0dc0\u0dbd\u0da7 \u0daf\u0dd2\u0db1\u0db4\u0dad\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db6\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/53/53c9bda7.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd/175-301094",
+    "time_ut": 1658747697,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0bae\u0bcd   \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/55/55c46846.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/25/travel-ban-against-six-activists-including-rev-fr-jeewantha-iusf-chief/",
     "time_ut": 1658747400,
@@ -14,6 +38,14 @@
     "original_lang": "en",
     "original_title": "Fuel imports to be restricted in next 12 months due to forex crisis: Minister",
     "file_name": "/tmp/news_lk2/articles/f7/f73d133e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/FOREX-crisis-may-restrict-fuel-imports-in-the-next-12-months/108-241752",
+    "time_ut": 1658747156,
+    "original_lang": "en",
+    "original_title": "FOREX crisis may restrict fuel imports in the next 12 months",
+    "file_name": "/tmp/news_lk2/articles/0a/0aed9ca3.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -57,11 +89,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Govt-must-act-expeditiously-to-provide-relief-for-childrens-education/342-241751",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-must-act-expeditiously-to-provide-relief-for-childrens-education/108-241751",
     "time_ut": 1658745329,
     "original_lang": "en",
     "original_title": "Govt. must act expeditiously to provide relief for children\u2019s education",
-    "file_name": "/tmp/news_lk2/articles/4d/4d093435.json"
+    "file_name": "/tmp/news_lk2/articles/03/033a727b.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -128,6 +160,14 @@
     "file_name": "/tmp/news_lk2/articles/97/97a2618e.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/25/president-putin-congratulates-ranil-w-on-election-to-office-of-president/",
+    "time_ut": 1658744220,
+    "original_lang": "en",
+    "original_title": "President Putin congratulates Ranil W on election to office of President",
+    "file_name": "/tmp/news_lk2/articles/3e/3ec5863c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8-\u0dc4\u0dd9\u0dc5\u0dcf-\u0daf\u0d9a\u0dd2\u0db8\u0dd2\u0db1\u0dca-\u0d8b\u0daf\u0dca\u0d9d\u0ddd\u0dc2\u0dab\u0dba\u0d9a\u0dca/1-617006",
     "time_ut": 1658744115,
@@ -169,11 +209,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SL-aviation-contingent-at-MINUSCA-commended-for-recent-act-of-bravery/342-241748",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-aviation-contingent-at-MINUSCA-commended-for-recent-act-of-bravery/108-241748",
     "time_ut": 1658742225,
     "original_lang": "en",
     "original_title": "SL aviation contingent at MINUSCA commended for recent act of bravery",
-    "file_name": "/tmp/news_lk2/articles/f9/f9dc2836.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3bc69fd0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -345,11 +385,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Man-stabbed-to-death-in-Borella-over-petrol-dispute/342-241745",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-stabbed-to-death-in-Borella-over-petrol-dispute/108-241745",
     "time_ut": 1658737337,
     "original_lang": "en",
     "original_title": "Man stabbed to death in Borella over petrol dispute",
-    "file_name": "/tmp/news_lk2/articles/b2/b228e349.json"
+    "file_name": "/tmp/news_lk2/articles/cb/cb4a9395.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -369,11 +409,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Turned-down-govts-request-to-attend-group-meeting-tomorrow-Vasu/342-241744",
+    "url": "https://www.dailymirror.lk/breaking_news/Turned-down-govts-request-to-attend-group-meeting-tomorrow-Vasu/108-241744",
     "time_ut": 1658737170,
     "original_lang": "en",
     "original_title": "Turned down govt\u2019s request to attend group meeting tomorrow: Vasu",
-    "file_name": "/tmp/news_lk2/articles/56/56cbef7c.json"
+    "file_name": "/tmp/news_lk2/articles/be/be209abb.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -473,11 +513,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3-\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-616993",
+    "url": "https://www.lankadeepa.lk/world_news/\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3-\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/14-616993",
     "time_ut": 1658732960,
     "original_lang": "si",
     "original_title": "\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/77/7705e7e5.json"
+    "file_name": "/tmp/news_lk2/articles/1a/1a164afd.json"
   },
   {
     "newspaper_id": "ada-lk",
