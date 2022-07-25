@@ -65,6 +65,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bca\u0bb0\u0bc1-\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf/175-301124",
+    "time_ut": 1658772706,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bca\u0bb0\u0bc1 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u2019",
+    "file_name": "/tmp/news_lk2/articles/7b/7b9576bd.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd-\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0baf\u0bc8-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0bae\u0bcd/175-301123",
     "time_ut": 1658772394,
     "original_lang": "ta",
@@ -574,6 +582,14 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bcb\u0b9f\u0bc1 \u0ba8\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd : \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0ba3 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd !",
     "file_name": "/tmp/news_lk2/articles/b6/b6020979.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132243",
+    "time_ut": 1658748091,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbe\u0b95 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bc7\u0bbe\u0bae\u0bcd - \u0bb5\u0bbf\u0b9c\u0bc7\u0ba4\u0bbe\u0b9a \u0b89\u0bb1\u0bc1\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/bc/bcadf07c.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bond markets inactive ahead of auction, guidance peg weakens",
     "file_name": "/tmp/news_lk2/articles/eb/ebdc5e14.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/monday_meeting/\u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba\u0da7-\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca-\u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0d9a\u0dca/118-616216",
-    "time_ut": 1657520376,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db1\u0dcf\u0d9c\u0dad\u0dba\u0da7 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dd4\u0dad\u0dd2\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/22/2217ebf7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb-\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca-\u0dc4\u0daf\u0db8\u0dd4/2-616209",
-    "time_ut": 1657519863,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0d9a\u0dca\u0db8\u0db1\u0dd2\u0db1\u0dca \u0dc4\u0daf\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/98/983ef751.json"
   }
 ]
