@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/motorcycle-gunmen-shoot-dead-man-in-ambalangoda/",
+    "time_ut": 1658830380,
+    "original_lang": "en",
+    "original_title": "Motorcycle gunmen shoot dead \u00a0man in Ambalangoda",
+    "file_name": "/tmp/news_lk2/articles/ef/efbc1ec8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-301160",
+    "time_ut": 1658830325,
+    "original_lang": "ta",
+    "original_title": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/05/0560ff26.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Some-SJB-MPs-in-favour-of-all-party-govt-with-RW/342-241818",
+    "time_ut": 1658830059,
+    "original_lang": "en",
+    "original_title": "Some SJB MPs in favour of all party govt with RW",
+    "file_name": "/tmp/news_lk2/articles/fc/fc79d7ad.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83883/indian-pm-reiterates-continuous-support-for-sri-lankas-stability-economic-recovery",
     "time_ut": 1658829780,
     "original_lang": "en",
     "original_title": "Indian PM reiterates continuous support for Sri Lanka\u2019s stability, economic recovery",
     "file_name": "/tmp/news_lk2/articles/dc/dc8ed041.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bc7\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd-\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-301159",
+    "time_ut": 1658829651,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bc7\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019",
+    "file_name": "/tmp/news_lk2/articles/59/59b89a03.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -94,6 +126,14 @@
     "original_lang": "en",
     "original_title": "Dan Priyasad\u2019s brother hacked to death",
     "file_name": "/tmp/news_lk2/articles/95/958315da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/lp-gas-theft-caught-on-tape/",
+    "time_ut": 1658828040,
+    "original_lang": "en",
+    "original_title": "LP Gas theft caught on tape",
+    "file_name": "/tmp/news_lk2/articles/6c/6c8b578f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/6f/6fe8e5e5.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62239301",
-    "time_ut": 1658298478,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0d91\u0dbd\u0dca\u0dbd\u0dc0\u0db1 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba \u0d9c\u0dd0\u0db1 BBC \u0d87\u0dc3\u0dd4 \u0db4\u0dd0\u0db1\u0dba\u0da7 \u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf \u0daf\u0dd4\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/45/45684af7.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62233937",
-    "time_ut": 1658293605,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba:\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0dbb\u0da7\u0dc0\u0dbd\u0da7 \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6f/6f475d15.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/the-new-president-must-learn-from-gota/",
-    "time_ut": 1658284000,
-    "original_lang": "en",
-    "original_title": "The New President Must Learn From Gota!",
-    "file_name": "/tmp/news_lk2/articles/ab/abdffdac.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62213051",
-    "time_ut": 1658281246,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4:\u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0d85\u0da7 \u0dc0\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/38/384fe982.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62233213",
-    "time_ut": 1658271446,
-    "original_lang": "si",
-    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0: \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0dc3\u0dd4\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0dad\u0dbb\u0d9c\u0dba \u0dc3\u0dd4\u0dc5\u0dd4 \u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0d9a\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b1/b1152660.json"
   }
 ]
