@@ -186,7 +186,7 @@
           "label": "DATE"
         },
         {
-          "text": "10 \u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2",
+          "text": "10 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
           "label": "CARDINAL"
         }
       ],
@@ -209,7 +209,7 @@
             "label": "ORG"
           },
           {
-            "text": "10 \u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2",
+            "text": "10 \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
             "label": "CARDINAL"
           },
           {
