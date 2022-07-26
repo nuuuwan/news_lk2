@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 13:33:58 (LK time)*
+*As of 2022-07-26 13:39:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,11 +12,11 @@
 
 * **1** news-first-lk ([Archaeology probe at President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55fff5a6.json))
 
-## Last Hour (13 Articles)
+## Last Hour (10 Articles)
 
-* **5** lankadeepa-lk ([මෙහෙකාරිය වැදූ දරුවා මැරුවයි දොස්තර අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0a10205.json))
+* **4** lankadeepa-lk ([ඩෑන් ප්‍රියසාද්ගේ සහෝදරයා කපා කොටා මරා දමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9042841.json))
 
-* **4** news-first-lk ([Sri Lanka’s Fuel Bill increased by USD 4 Bn – Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b013192.json))
+* **2** news-first-lk ([Gotabaya to return to Sri Lanka, soon – Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44c9e7bd.json))
 
 * **1** virakesari-lk ([இ.தொ.கா வின் முடிவு  எதிர்கால அரசியல் பயணத்துக்கு வலுவூட்டுமா ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61c939cf.json))
 
@@ -26,23 +26,23 @@
 
 * **1** ada-lk ([බන්දුල ගුණවර්ධන කැබිනට් ප්‍රකාශක ලෙස පත් කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/080bed05.json))
 
-## Last 3 Hours (59 Articles)
+## Last 3 Hours (55 Articles)
 
-* **17** lankadeepa-lk ([උපකරණවලට ඉන්ධන දෙන්න ප්‍රා.ලේ. ළඟ ලියාපදිංචි වෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/ca/ca1b71d6.json))
+* **16** lankadeepa-lk ([ත්‍රිරෝද තෙල් මාෆියාවට ඇමතිගෙන් වැටක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c8ea3a0.json))
 
 * **12** news-first-lk ([Man arrested for posting disruptive content](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4bdfb08.json))
 
 * **10** ada-lk ([ලක්ෂ 19ක් වටිනා දුම්වැටි අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88178de2.json))
 
-* **6** tamil-mirror-lk ([எரிபொருள் பெற  பொலிஸ் நிலையத்தில் பதியவும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b1d6518.json))
+* **5** tamil-mirror-lk ([பொதுமக்களுக்கு விடுக்கப்பட்டுள்ள முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7201733.json))
 
 * **4** virakesari-lk ([வங்குரோத்தான இலங்கையின் மருத்துவமனைகள் தட்டுப்பாடுகள் காரணமாக வெறிச்சோடிய நிலையில் காணப்படுகின்றன- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/903e98be.json))
-
-* **4** economy-next-com ([4 million vehicles register for Sri Lanka fuel rationing system: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5c5e7548.json))
 
 * **3** ada-derana-lk ([New heads appointed to Inland Revenue Dept. and Sri Lanka Customs](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/850b4f46.json))
 
 * **3** daily-mirror-lk ([S. Thomas’ down fighting St. Anthony’s to retain Fr. Angelo Rosati trophy](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e941bfe.json))
+
+* **2** economy-next-com ([Sri Lanka shares marginally up in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/1744c148.json))
 
 ## Last 24 Hours (249 Articles)
 
