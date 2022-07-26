@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top_story/Leading-GotaGoGama-activist-Dhaniz-Ali-arrested/155-241827",
+    "time_ut": 1658849918,
+    "original_lang": "en",
+    "original_title": "Leading GotaGoGama activist Dhaniz Ali arrested",
+    "file_name": "/tmp/news_lk2/articles/65/652b3ede.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0da2-\u0d9a\u0dc5-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8/2-617091",
+    "time_ut": 1658849585,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dbb\u0da2 \u0d9a\u0dc5 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8",
+    "file_name": "/tmp/news_lk2/articles/12/124bed96.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/covid19/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd-119-\u0d9a\u0dca/203-617090",
+    "time_ut": 1658849496,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd 119 \u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b7/b7236193.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lankas-guidance-peg-edges-up-govt-securities-yields-mixed-97926/",
+    "time_ut": 1658849460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s guidance peg edges up; govt securities yields mixed",
+    "file_name": "/tmp/news_lk2/articles/41/41f1a6f6.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83890/man-who-forcibly-entered-rupavahini-and-disrupted-telecast-arrested-at-bia",
     "time_ut": 1658848200,
@@ -38,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4\u0dc0\u0dd3  \u0dc3\u0da2\u0dd3\u0dc0\u0dd2 \u0dc0\u0dd2\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dd6 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0daf\u0dd0\u0dbd\u0dda",
     "file_name": "/tmp/news_lk2/articles/60/6012fa9e.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dc3-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0db4\u0dc3\u0dd4\u0dc0-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0ddd\u0dc2-\u0d91\u0dba\u0dd2/11-395768",
+    "time_ut": 1658845950,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dad\u0dca\u200d\u0dbb\u0dd2\u0db4\u0ddd\u0dc2 \u0d91\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/29/29ac286d.json"
   },
   {
     "newspaper_id": "economy-next-com",
