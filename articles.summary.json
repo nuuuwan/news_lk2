@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0db1\u0dd3\u0dad\u0dd2-\u0db1\u0ddc\u0dad\u0d9a\u0dcf-\u0d9c\u0ddc\u0dbd\u0dca\u200d-\u0dc6\u0dda\u0dc3\u0dca-\u0dbb\u0dd0\u0daf\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2-\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-29-\u0dad\u0dd9\u0d9a\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-617092",
+    "time_ut": 1658850342,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0db1\u0dd3\u0dad\u0dd2 \u0db1\u0ddc\u0dad\u0d9a\u0dcf \u0d9c\u0ddc\u0dbd\u0dca\u200d \u0dc6\u0dda\u0dc3\u0dca \u0dbb\u0dd0\u0daf\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca 29 \u0dad\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "file_name": "/tmp/news_lk2/articles/df/dfb89405.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-stocks-down-for-3rd-straight-session-on-dull-sentiment-97927/",
+    "time_ut": 1658850180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka stocks down for 3rd straight session on dull sentiment",
+    "file_name": "/tmp/news_lk2/articles/4d/4d48d73b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/top_story/Leading-GotaGoGama-activist-Dhaniz-Ali-arrested/155-241827",
     "time_ut": 1658849918,
@@ -9,19 +25,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0da2-\u0d9a\u0dc5-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8/2-617091",
+    "url": "https://www.lankadeepa.lk/times_column/\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dbb\u0da2-\u0d9a\u0dc5-\u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8/119-617091",
     "time_ut": 1658849585,
     "original_lang": "si",
     "original_title": "\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dbb\u0da2 \u0d9a\u0dc5 \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u200d\u0dc2 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8",
-    "file_name": "/tmp/news_lk2/articles/12/124bed96.json"
+    "file_name": "/tmp/news_lk2/articles/a7/a7e40269.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/covid19/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd-119-\u0d9a\u0dca/203-617090",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd-119-\u0d9a\u0dca/101-617090",
     "time_ut": 1658849496,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0ddd 119 \u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/b7/b7236193.json"
+    "file_name": "/tmp/news_lk2/articles/de/dea19c21.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -54,6 +70,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9f\u0ba9\u0bbf\u0bb8\u0bcd \u0b85\u0bb2\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bc7\u0bb3\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/50/50d3b364.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/sri-lanka-aragalaya-activist-arrested-aboard-flight-to-dubai/",
+    "time_ut": 1658847960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka: Aragalaya activist arrested aboard flight to Dubai",
+    "file_name": "/tmp/news_lk2/articles/11/11ddc0df.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
