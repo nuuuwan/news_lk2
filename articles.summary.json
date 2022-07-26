@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Bharana-tusker-found-dead-mysteriously/108-241821",
+    "time_ut": 1658839879,
+    "original_lang": "en",
+    "original_title": "Bharana tusker found dead mysteriously",
+    "file_name": "/tmp/news_lk2/articles/0a/0a3c892d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/five-covid-deaths-for-monday-25-over-100-cases-today-26/",
+    "time_ut": 1658839560,
+    "original_lang": "en",
+    "original_title": "Five COVID deaths for Monday (25), over 100 cases today (26)",
+    "file_name": "/tmp/news_lk2/articles/e7/e7f46b9c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-to-pay-interest-on-state-owned-airlines-loan-after-sovereign-debt-default-97884/",
+    "time_ut": 1658839260,
+    "original_lang": "en",
+    "original_title": "Sri Lanka to pay interest on state-owned airline\u2019s loan after sovereign debt default",
+    "file_name": "/tmp/news_lk2/articles/eb/ebc09b01.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd-\u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301166",
+    "time_ut": 1658839255,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc6\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd \u0bae\u0bb0\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/e3/e38b176f.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-railways-lost-40-4-billion-rupees-in-2021-salary-bill-7-8bn-97912/",
+    "time_ut": 1658839200,
+    "original_lang": "en",
+    "original_title": "Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn",
+    "file_name": "/tmp/news_lk2/articles/48/486fe7c1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/easter-attack-fr-against-new-president-to-continue/",
+    "time_ut": 1658838900,
+    "original_lang": "en",
+    "original_title": "Easter Attack FR against new President to continue?",
+    "file_name": "/tmp/news_lk2/articles/39/39671683.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/parliament-to-meet-tomorrow-27-to-debate-emergency/",
+    "time_ut": 1658836980,
+    "original_lang": "en",
+    "original_title": "Parliament to meet tomorrow (27) to debate emergency",
+    "file_name": "/tmp/news_lk2/articles/cf/cf676aaf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/sjb-set-to-vote-against-emergency-law/",
+    "time_ut": 1658836680,
+    "original_lang": "en",
+    "original_title": "SJB set to vote against Emergency Law",
+    "file_name": "/tmp/news_lk2/articles/6c/6c040738.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83887/3-hour-power-cuts-for-tomorrow",
     "time_ut": 1658836560,
@@ -41,11 +105,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/FR-filed-by-Police-OIC-challenging-transfer-at-the-behest-of-racketeers-SC-grants-leave-to-proceed/342-241820",
+    "url": "https://www.dailymirror.lk/breaking_news/FR-filed-by-Police-OIC-challenging-transfer-at-the-behest-of-racketeers-SC-grants-leave-to-proceed/108-241820",
     "time_ut": 1658835699,
     "original_lang": "en",
     "original_title": "FR filed by Police OIC challenging transfer at the behest of racketeers: SC grants leave to proceed",
-    "file_name": "/tmp/news_lk2/articles/56/56866e08.json"
+    "file_name": "/tmp/news_lk2/articles/c4/c47e22cd.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -176,6 +240,14 @@
     "file_name": "/tmp/news_lk2/articles/86/86f74f3e.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf-\u0dc0\u0dd9\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dba\u0dba\u0dd2/11-395758",
+    "time_ut": 1658831478,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fe/fe7c48e8.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132300",
     "time_ut": 1658830507,
@@ -281,11 +353,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Debate-on-Emergancy-proclamation-in-Parliament-tomorrow/342-241817",
+    "url": "https://www.dailymirror.lk/breaking_news/Debate-on-Emergancy-proclamation-in-Parliament-tomorrow/108-241817",
     "time_ut": 1658829046,
     "original_lang": "en",
     "original_title": "Debate on Emergancy proclamation in Parliament tomorrow",
-    "file_name": "/tmp/news_lk2/articles/fa/fa440b5d.json"
+    "file_name": "/tmp/news_lk2/articles/ab/ab081a44.json"
   },
   {
     "newspaper_id": "ada-lk",
