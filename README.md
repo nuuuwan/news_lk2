@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 01:23:17 (LK time)*
+*As of 2022-07-27 01:35:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61a3e29.json))
 
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (233 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -24,7 +24,7 @@
 
 * **20** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
 
-* **17** tamil-mirror-lk ([யாழில் வழமைக்கு திரும்பிய பேருந்து சேவைகள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/32da5bda.json))
+* **16** tamil-mirror-lk ([ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab8bfd61.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
@@ -34,7 +34,7 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,095 Articles)
+## Last Week (1,091 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -50,7 +50,7 @@
 
 * **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **74** daily-ft-lk ([Health authorities warn of 30%-40% spike in COVID cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e3760dc.json))
+* **70** daily-ft-lk ([NPP presents series of proposals to revive country](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29096e99.json))
 
 * **55** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
