@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132261",
+    "time_ut": 1658803365,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc0\u0ba9\u0bbe \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1- \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0baa\u0bbe\u0bb2\u0bbf\u0ba4 \u0b95\u0bcb\u0bb9\u0ba9",
+    "file_name": "/tmp/news_lk2/articles/8b/8b8986eb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Doctor-arrested-for-aiding-to-kill-his-maids-newborn-infant-in-2017/108-241808",
+    "time_ut": 1658803309,
+    "original_lang": "en",
+    "original_title": "Doctor arrested for aiding to kill his maid\u2019s newborn infant in 2017",
+    "file_name": "/tmp/news_lk2/articles/1b/1bbc28de.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0ddc\u0da9\u0dd2\u0dba-\u0dc3\u0dbb\u0db8\u0da7-\u0d9c\u0dad\u0dca\u0dad-\u0dc4\u0ddc\u0dbb\u0dcf-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d9a\u0dd0\u0db8\u0dbb\u0dcf\u0dc0\u0dda/101-617035",
+    "time_ut": 1658802298,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0ddc\u0da9\u0dd2\u0dba \u0dc3\u0dbb\u0db8\u0da7 \u0d9c\u0dad\u0dca\u0dad \u0dc4\u0ddc\u0dbb\u0dcf \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d9a\u0dd0\u0db8\u0dbb\u0dcf\u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/a3/a3bcef80.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83871/youth-arrested-for-spreading-hateful-content-on-social-media",
+    "time_ut": 1658802240,
+    "original_lang": "en",
+    "original_title": "Youth arrested for spreading hateful content on social media",
+    "file_name": "/tmp/news_lk2/articles/d7/d76edd2e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dd2\u0da7-\u0da7\u0dd2\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9-\u0db1\u0dd1/101-617034",
+    "time_ut": 1658801672,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dd2\u0da7 \u0da7\u0dd2\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/41/4195eb14.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dd9\u0db1\u0dca-\u0db1\u0dc0-\u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0dca-\u0dc5\u0d9f\u0daf\u0dd3\u0db8/101-617033",
+    "time_ut": 1658801375,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dc0 \u0db4\u0dd9\u0dbb\u0db8\u0dd4\u0dab\u0d9a\u0dca \u0dc5\u0d9f\u0daf\u0dd3\u0db8",
+    "file_name": "/tmp/news_lk2/articles/d5/d51de158.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db6\u0dd2\u0dc5\u0dd2\u0db3\u0dd9\u0d9a\u0dca-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0d9a\u0da7-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395737",
+    "time_ut": 1658801318,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db6\u0dd2\u0dc5\u0dd2\u0db3\u0dd9\u0d9a\u0dca \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0d9a\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/7e/7ec1a717.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83870/fairly-heavy-rains-above-75mm-possible-in-four-provinces",
+    "time_ut": 1658800560,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rains above 75mm possible in four provinces",
+    "file_name": "/tmp/news_lk2/articles/e6/e610499b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Covid-19-on-the-rise-with-2-deaths-reported-yesterday/342-241805",
+    "time_ut": 1658799519,
+    "original_lang": "en",
+    "original_title": "Covid-19 on the rise with 2 deaths reported yesterday",
+    "file_name": "/tmp/news_lk2/articles/be/be847255.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-parliament-elected-a-law-and-order-president-in-ranil-legislator-97892/",
     "time_ut": 1658799480,
@@ -65,6 +137,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd/175-301130",
+    "time_ut": 1658778547,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1  \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/0c/0cde7873.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bbf\u0baf\u0bc2-\u0b86\u0bb0\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-301129",
     "time_ut": 1658777961,
     "original_lang": "ta",
@@ -105,11 +185,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Exporters-set-to-face-higher-freight-charges-amid-acute-jet-fuel-shortage/342-241797",
+    "url": "https://www.dailymirror.lk/breaking_news/Exporters-set-to-face-higher-freight-charges-amid-acute-jet-fuel-shortage/108-241797",
     "time_ut": 1658773378,
     "original_lang": "en",
     "original_title": "Exporters set to face higher freight charges amid acute jet fuel shortage",
-    "file_name": "/tmp/news_lk2/articles/b6/b6f7d604.json"
+    "file_name": "/tmp/news_lk2/articles/44/443c669c.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -129,11 +209,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Free-Trade-Zone-Manufacturers-expresses-confidence-in-Prez-fulfilling-nations-aspirations/342-241791",
+    "url": "https://www.dailymirror.lk/breaking_news/Free-Trade-Zone-Manufacturers-expresses-confidence-in-Prez-fulfilling-nations-aspirations/108-241791",
     "time_ut": 1658772907,
     "original_lang": "en",
     "original_title": "Free Trade Zone Manufacturers expresses confidence in Prez. fulfilling nation\u2019s aspirations",
-    "file_name": "/tmp/news_lk2/articles/70/70d831c5.json"
+    "file_name": "/tmp/news_lk2/articles/2e/2e38fd8f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -208,6 +288,14 @@
     "file_name": "/tmp/news_lk2/articles/e3/e3aa39a6.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0da7-\u0d85\u0daf-\u0d85\u0db3\u0dd4\u0dbb\u0dd4-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/11-395736",
+    "time_ut": 1658768146,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0da7 \u0d85\u0daf \u0d85\u0db3\u0dd4\u0dbb\u0dd4 \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/63/63cec4ba.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83869/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism",
     "time_ut": 1658767980,
@@ -270,6 +358,14 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc6\u0bbe\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u00a0 - \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb7\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0baf",
     "file_name": "/tmp/news_lk2/articles/b3/b3401807.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132257",
+    "time_ut": 1658765352,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0b9c\u0bcb\u0ba9\u0bcd \u0bb9\u0bca\u0baa\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/46/461206f4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -734,6 +830,14 @@
     "original_lang": "ta",
     "original_title": "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/89/891a2ac5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132231",
+    "time_ut": 1658747878,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bc1\u0b9a\u0bbe\u0bb0\u0bbf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/ef/ef68c3d4.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1998,6 +2102,14 @@
     "original_lang": "si",
     "original_title": "QR \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0da7 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
     "file_name": "/tmp/news_lk2/articles/98/982100d6.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78735",
+    "time_ut": 1658690640,
+    "original_lang": "en",
+    "original_title": "Clinging to Ranil-phobia is bad tactics. It has already caused enough damage \u2013 to the opposition. It enabled the obscene travesty of making Dulles Alahapperuma \u2013 a Rajapaksa acolyte for over 25 years \u2013  the standard bearer of the anti-Rajapaksa camp.",
+    "file_name": "/tmp/news_lk2/articles/10/10f49439.json"
   },
   {
     "newspaper_id": "d-b-s-jeyaraj-com",
@@ -7886,117 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Gotabaya Rajapaksa  Sends Resignation Letter by E-mail to Speaker from Singapore; official announcement on July 15 after verifying authenticity of emailed document",
     "file_name": "/tmp/news_lk2/articles/0b/0b6188f2.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78561",
-    "time_ut": 1657780920,
-    "original_lang": "en",
-    "original_title": "Saudi Arabian Airlines flight 788  from Maldives to Singapore believed to be carrying Sri Lanka\u2019s President Gotabaya Rajapaksa was the world\u2019s most-tracked flight on Thursday July 14",
-    "file_name": "/tmp/news_lk2/articles/39/39d5a592.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0daf\u0dd2\u0db1\u0dd6-\u0daf\u0dda-\u0db1\u0dd0\u0dad\u0dd2-\u0db7\u0d82\u0d9c-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8/2-616401",
-    "time_ut": 1657780666,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd2\u0db1\u0dd6 \u0daf\u0dda \u0db1\u0dd0\u0dad\u0dd2 \u0db7\u0d82\u0d9c \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8",
-    "file_name": "/tmp/news_lk2/articles/e0/e031be83.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0db1\u0dd3\u0dad\u0dd2\u0dba---\u0dc3\u0dcf\u0db8\u0dba-\u0dbb\u0d9a\u0dd2\u0db8\u0dd4:-\u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4-\u0d9a\u0dbb\u0db8\u0dd4/2-616397",
-    "time_ut": 1657779759,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd3\u0dad\u0dd2\u0dba - \u0dc3\u0dcf\u0db8\u0dba \u0dbb\u0d9a\u0dd2\u0db8\u0dd4: \u0d89\u0dc0\u0dc3\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4 \u0d9a\u0dbb\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/de/de4558d9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0da2\u0db1\u0dad\u0dcf\u0dc0-\u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca-\u0dc5\u0dd2\u0db4\u0da7-\u0daf\u0dd0\u0db8\u0dd6-\u0d85\u0db8\u0db1\u0ddd\u0da5-\u0dad\u0dd3\u0dbb\u0dab/2-616396",
-    "time_ut": 1657779717,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0dad\u0dcf\u0dc0 \u0d9a\u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc5\u0dd2\u0db4\u0da7 \u0daf\u0dd0\u0db8\u0dd6 \u0d85\u0db8\u0db1\u0ddd\u0da5 \u0dad\u0dd3\u0dbb\u0dab",
-    "file_name": "/tmp/news_lk2/articles/a3/a39c7d14.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dbb\u0da7\u0dda-\u0d85\u0db4\u0da7-\u0dad\u0dc0-\u0d9a\u0dd3-\u0daf\u0dc0\u0dc3\u0d9a\u0dca-\u0db8\u0dd9\u0dc4\u0dd9\u0db8-\u0d89\u0db1\u0dca\u0db1-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dda\u0daf-/2-616395",
-    "time_ut": 1657779201,
-    "original_lang": "si",
-    "original_title": "\u0dbb\u0da7\u0dda \u0d85\u0db4\u0da7 \u0dad\u0dc0 \u0d9a\u0dd3 \u0daf\u0dc0\u0dc3\u0d9a\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0db8 \u0d89\u0db1\u0dca\u0db1 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/62/62606c46.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-to-face-human-rights-rules-on-exports-to-germany-from-jan-23-97411/",
-    "time_ut": 1657779060,
-    "original_lang": "en",
-    "original_title": "Sri Lanka to face human rights rules on exports to Germany from Jan 23",
-    "file_name": "/tmp/news_lk2/articles/60/60fc7506.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/First-Asian-President-of-CIMA-Melanie-speaks-of-way-forward/34-737468",
-    "time_ut": 1657757287,
-    "original_lang": "en",
-    "original_title": "First Asian President of CIMA Melanie speaks of way forward",
-    "file_name": "/tmp/news_lk2/articles/7c/7c67064c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/Flower-Road-turns-into-a-battle-ground-as-protesters-storm-PMs-office/352-241037",
-    "time_ut": 1657743723,
-    "original_lang": "en",
-    "original_title": "Flower Road turns into a battle ground as protesters storm PM\u2019s office",
-    "file_name": "/tmp/news_lk2/articles/e3/e3893566.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/A-FATHER-SENIOR-MENTOR-AND-GREAT-FRIEND/352-241036",
-    "time_ut": 1657743568,
-    "original_lang": "en",
-    "original_title": "A FATHER, SENIOR, MENTOR AND GREAT FRIEND",
-    "file_name": "/tmp/news_lk2/articles/2e/2e1f1336.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/When-the-centre-cannot-hold/172-241035",
-    "time_ut": 1657743209,
-    "original_lang": "en",
-    "original_title": "When the centre cannot hold\u2026",
-    "file_name": "/tmp/news_lk2/articles/e7/e7eb8bdc.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Peoples-power-proves-more-powerful-than-people-in-power/172-241034",
-    "time_ut": 1657743114,
-    "original_lang": "en",
-    "original_title": "People\u2019s power proves more powerful than people in power",
-    "file_name": "/tmp/news_lk2/articles/80/80489db6.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/cut-the-gordian-knot/",
-    "time_ut": 1657736700,
-    "original_lang": "en",
-    "original_title": "Cut the Gordian knot",
-    "file_name": "/tmp/news_lk2/articles/5a/5a4065ce.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78550",
-    "time_ut": 1657722660,
-    "original_lang": "en",
-    "original_title": "Gotabaya Rajapaksa\u2019s Much Anticipated Resignation Does Not Materialise but President Appoints Premier Ranil Wickremesinghe as Acting President, to be in charge during his period of absence from Sri Lanka; Ranil Imposes Curfew after Protests Escalate",
-    "file_name": "/tmp/news_lk2/articles/ad/ad549fa5.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78547",
-    "time_ut": 1657714980,
-    "original_lang": "en",
-    "original_title": "The departure of . Gotabaya   Rajapaksa from the Island  has not reduced the uncertainty prevailing in Sri Lanka because  the President is yet to officially resign, though he had promised to do so on Wednesday.",
-    "file_name": "/tmp/news_lk2/articles/cd/cd3a09d4.json"
   }
 ]
