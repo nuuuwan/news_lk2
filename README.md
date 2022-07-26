@@ -1,30 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 00:06:16 (LK time)*
+*As of 2022-07-27 00:14:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (13 Articles)
 
 * **5** virakesari-lk ([டொன் பிரியசாத்தின் சகோதரர் வெல்லம்பிட்டியவில் கொலை - போதைப் பொருள் வர்த்தக முரண்பாடு காரணம் என சந்தேகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/295d873e.json))
 
 * **4** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
 
-* **3** daily-mirror-lk ([Leading GotaGoGama activist Dhaniz Ali arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/652b3ede.json))
+* **2** daily-mirror-lk ([Any fresh COVID wave in future could cause extensive  harm to non-recipients of vaccines](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/798c5167.json))
 
 * **2** lankadeepa-lk ([අධිකරණ නියෝග කඩා ගාලුමුවදොර රැදී සිටි හතර දෙනා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e4e440.json))
 
-* **1** economy-next-com ([Sri Lanka stocks down for 3rd straight session on dull sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d48d73b.json))
-
-## Last 24 Hours (240 Articles)
+## Last 24 Hours (239 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -42,13 +36,13 @@
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
-* **9** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
+* **8** daily-ft-lk ([Lankan envoy in India visits Amul Headquarters in Gujarat](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7ddcb8c.json))
 
 * **2** colombo-telegraph-com ([President Has To Try Harder To Re-Establish A Legitimate Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a0b160.json))
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,107 Articles)
+## Last Week (1,106 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -72,7 +66,7 @@
 
 * **24** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-* **20** d-b-s-jeyaraj-com ([Protesters intent on harming the armed forces or  public property are  earnestly urged to desist from all forms of violence immediately or be prepared to face consequences as members of the armed forces are legitimately empowered to exercise  force if the situation deems necessary](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44053df3.json))
+* **19** d-b-s-jeyaraj-com ([President and United National Party Leader Ranil Wickremesinghe while thanking the majority in Parliament for electing him as the 8th Executive President of the country  invites all political parties in Parliament to join hands for the betterment of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18adeb66.json))
 
 * **17** colombo-telegraph-com ([The New President Must Learn From Gota!](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abdffdac.json))
 
