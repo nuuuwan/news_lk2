@@ -1,30 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 23:45:17 (LK time)*
+*As of 2022-07-26 23:49:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
+
 ## Last Hour (2 Articles)
+
+* **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
 * **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61a3e29.json))
 
-* **1** ada-derana-lk ([Four arrested for idling near Bandaranaike statue remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f07f967e.json))
+## Last 3 Hours (19 Articles)
 
-## Last 3 Hours (17 Articles)
+* **5** virakesari-lk ([டொன் பிரியசாத்தின் சகோதரர் வெல்லம்பிட்டியவில் கொலை - போதைப் பொருள் வர்த்தக முரண்பாடு காரணம் என சந்தேகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/295d873e.json))
 
-* **4** virakesari-lk ([டொன் பிரியசாத்தின் சகோதரர் வெல்லம்பிட்டியவில் கொலை - போதைப் பொருள் வர்த்தக முரண்பாடு காரணம் என சந்தேகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/295d873e.json))
+* **4** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
 
 * **4** lankadeepa-lk ([කොරෝනා ආසාදිතයෝ 119 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7236193.json))
 
 * **3** daily-mirror-lk ([Leading GotaGoGama activist Dhaniz Ali arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/652b3ede.json))
 
-* **3** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
-
 * **2** economy-next-com ([Sri Lanka’s guidance peg edges up; govt securities yields mixed](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41f1a6f6.json))
 
 * **1** ada-lk ([ජාතික රූපවාහිනියට බලෙන් ඇතුළු වූ අරගලකරු අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2913463.json))
 
-## Last 24 Hours (241 Articles)
+## Last 24 Hours (242 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -32,11 +36,11 @@
 
 * **31** ada-lk ([දරු ප්‍රසූතියෙන් පසු බිළිඳෙක් ඝාතනය කිරිමකට වෛද්‍යවරයෙක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec1a717.json))
 
-* **27** ada-derana-lk ([Fairly heavy rains above 75mm possible in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e610499b.json))
+* **28** ada-derana-lk ([Fairly heavy rains above 75mm possible in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e610499b.json))
 
-* **27** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
+* **28** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
 
-* **23** tamil-mirror-lk ([’இலங்கைக்கு பொருளாதாரத் தடை விதிக்கப்படலாம்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/227730b0.json))
+* **22** tamil-mirror-lk ([ரணில் வகுக்கும்  வியூகம் என்ன? திஸ்ஸ கேள்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02c02f7f.json))
 
 * **21** daily-mirror-lk ([Exporters set to face higher freight charges amid acute jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1421873.json))
 
@@ -48,11 +52,11 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,106 Articles)
+## Last Week (1,108 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
-* **153** virakesari-lk ([இலங்கையில் பின்பற்றப்படும் அரசமைப்பு ஜனநாயக நடைமுறைகளுக்கு இந்தியா ஆதரவு - இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
+* **154** virakesari-lk ([இலங்கையில் பின்பற்றப்படும் அரசமைப்பு ஜனநாயக நடைமுறைகளுக்கு இந்தியா ஆதரவு - இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
 
 * **120** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -60,9 +64,9 @@
 
 * **109** daily-mirror-lk ([New Law or the same old wine  in new glasses?](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f483e456.json))
 
-* **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
+* **100** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **99** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
 * **80** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
@@ -76,15 +80,15 @@
 
 * **17** colombo-telegraph-com ([The New President Must Learn From Gota!](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abdffdac.json))
 
-## All Time (1,472 Articles)
+## All Time (1,474 Articles)
 
 * **230** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **178** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **157** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **158** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **157** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **157** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **117** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
@@ -92,9 +96,9 @@
 
 * **116** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
+* **100** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **99** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
 * **77** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
