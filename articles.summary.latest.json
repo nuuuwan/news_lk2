@@ -168,6 +168,22 @@
     "file_name": "/tmp/news_lk2/articles/e7/e77198a7.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/combank-launches-timely-short-term-high-interest-fixed-deposits/",
+    "time_ut": 1658767920,
+    "original_lang": "en",
+    "original_title": "ComBank launches timely short term high-interest Fixed Deposits",
+    "file_name": "/tmp/news_lk2/articles/8c/8cfe508c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/john-keells-group-partners-with-unilever-and-lseg-for-fasttrack-2022/",
+    "time_ut": 1658767860,
+    "original_lang": "en",
+    "original_title": "John Keells Group partners with Unilever and LSEG for FastTrack 2022.",
+    "file_name": "/tmp/news_lk2/articles/bc/bc8c3f71.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-395735",
     "time_ut": 1658766824,
@@ -2481,6 +2497,22 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/union-assurance-wins-global-acclaim-as-fastest-growing-and-most-admired-insurance-company-in-sri-lanka/",
+    "time_ut": 1658661720,
+    "original_lang": "en",
+    "original_title": "Union Assurance wins global acclaim as Fastest-Growing and Most Admired Insurance Company in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/3a/3aed05d1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/a-pro-level-gaming-experience-with-viewsonics-latest-240hz-gaming-monitor/",
+    "time_ut": 1658661660,
+    "original_lang": "en",
+    "original_title": "A pro-level gaming experience with ViewSonic\u2019s latest 240Hz gaming monitor",
+    "file_name": "/tmp/news_lk2/articles/6d/6d307561.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/limra-holdings-subsidiary-kti-to-boost-sri-lankas-forex-earnings-with-plex-toys-launch-in-india/",
     "time_ut": 1658661600,
     "original_lang": "en",
@@ -2566,6 +2598,14 @@
     "original_lang": "en",
     "original_title": "Fuel shortage increasingly dominate concerns in apparel sector",
     "file_name": "/tmp/news_lk2/articles/18/1881100a.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/singapore-hotel-room-rates-at-6-year-high/",
+    "time_ut": 1658660580,
+    "original_lang": "en",
+    "original_title": "Singapore hotel room rates at 6-year high",
+    "file_name": "/tmp/news_lk2/articles/45/459038c5.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bakery owners raise bread, other baked good prices",
     "file_name": "/tmp/news_lk2/articles/f9/f9613cdd.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78530",
-    "time_ut": 1657630080,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa, his wife and a bodyguard  among four passengers on board an Antonov-32 military aircraft which took off from Katunayake international airport heading for the neighbouring Maldives, according to immigration sources.",
-    "file_name": "/tmp/news_lk2/articles/94/94de6d1f.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78539",
-    "time_ut": 1657629000,
-    "original_lang": "en",
-    "original_title": "Fight at \u201cTemple Trees\u201d between factions supporting Fonseka and JVP over food served to visiting crowds  Results in 10  Pewrsons Being Hospitalised with Injuries",
-    "file_name": "/tmp/news_lk2/articles/2a/2ad9378b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78524",
-    "time_ut": 1657621500,
-    "original_lang": "en",
-    "original_title": "Katunayake  Airport Staff Block Gotabaya Rajapaksa from  Entering VIP area to Stamp his Passport and Leave for Dubai:Basil Rajapaksa prevented from boarding a flight to the US via Dubai after other passengers protest",
-    "file_name": "/tmp/news_lk2/articles/88/88643077.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78525",
-    "time_ut": 1657621260,
-    "original_lang": "en",
-    "original_title": "The United States rejects  Former US Citizen and Current  Sri Lankan President Gotabaya Rajapaksa\u2019s  request for a visa,\u201cHe sought a safe passage to the U.S. after the recent events, but it was denied,\u201d says Colombo-based official",
-    "file_name": "/tmp/news_lk2/articles/3c/3c5b0898.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78528",
-    "time_ut": 1657609560,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa  signs  resignation letter  dated for July 13 and  Submits it to the Speaker of Parliament Mahinda Yapa Abeywardena   who is expected to  publicly announce it to the nation On Wednesday",
-    "file_name": "/tmp/news_lk2/articles/0c/0cf87a7d.json"
   }
 ]
