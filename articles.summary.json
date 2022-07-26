@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Stop-arrests-suppression-of-protesters-AKD-urges-Govt/342-241829",
+    "time_ut": 1658856040,
+    "original_lang": "en",
+    "original_title": "Stop arrests, suppression of protesters: AKD urges Govt.",
+    "file_name": "/tmp/news_lk2/articles/2e/2e00700f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83892/four-arrested-for-idling-near-bandaranaike-statue-remanded",
+    "time_ut": 1658855940,
+    "original_lang": "en",
+    "original_title": "Four arrested for idling near Bandaranaike statue remanded",
+    "file_name": "/tmp/news_lk2/articles/f0/f07f967e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83891/special-notice-for-those-in-urgent-need-of-passports",
     "time_ut": 1658853540,

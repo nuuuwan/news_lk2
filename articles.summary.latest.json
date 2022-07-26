@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Stop-arrests-suppression-of-protesters-AKD-urges-Govt/342-241829",
+    "time_ut": 1658856040,
+    "original_lang": "en",
+    "original_title": "Stop arrests, suppression of protesters: AKD urges Govt.",
+    "file_name": "/tmp/news_lk2/articles/2e/2e00700f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83892/four-arrested-for-idling-near-bandaranaike-statue-remanded",
+    "time_ut": 1658855940,
+    "original_lang": "en",
+    "original_title": "Four arrested for idling near Bandaranaike statue remanded",
+    "file_name": "/tmp/news_lk2/articles/f0/f07f967e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83891/special-notice-for-those-in-urgent-need-of-passports",
     "time_ut": 1658853540,
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bcb \u0b95\u0bae \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd",
     "file_name": "/tmp/news_lk2/articles/4c/4cbaf76c.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62263370",
-    "time_ut": 1658456338,
-    "original_lang": "si",
-    "original_title": "\"\u0d95\u0d9c\u0ddc\u0dbd\u0dca\u0dbd\u0ddd \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0da0\u0dcf\u0da7\u0dbb\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0db8\u0dda \u0dc4\u0daf\u0db1\u0dca\u0db1\u0dda\":\u0d85\u0daf \u0d85\u0dbd\u0dd4\u0dba\u0db8 \u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0d85\u0dbb\u0d9c\u0dbd \u0db7\u0dd6\u0db8\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd4\u0db1\u0dda?",
-    "file_name": "/tmp/news_lk2/articles/fc/fccf4052.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bbf\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-300902",
-    "time_ut": 1658455950,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba4\u0bbf\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/38/386df7c8.json"
   }
 ]
