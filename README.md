@@ -1,14 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 05:36:36 (LK time)*
+*As of 2022-07-26 06:05:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 24 Hours (240 Articles)
+## Last 24 Hours (241 Articles)
 
 * **43** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
-* **42** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
+* **43** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
 * **36** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
@@ -24,15 +24,15 @@
 
 * **8** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
-* **4** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
+* **3** island-lk ([People’s Bank rewards April millionaire of “Vaasi Kotiyai” remittance bonanza in Kuwait](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1bee48d1.json))
 
-* **2** island-lk ([John Keells Group partners with Unilever and LSEG for FastTrack 2022.](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc8c3f71.json))
+* **3** b-b-c-com-sinhala ([වඳුරු උණ(monkeypox) :WHO වෙතින් අධි අවදානම් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1db30f8.json))
 
 * **2** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-## Last Week (877 Articles)
+## Last Week (880 Articles)
 
-* **125** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **126** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **120** lankadeepa-lk ([අගාධයෙන් රට මුදාගන්න සැවොම එක්වෙන්න ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0d63074.json))
 
@@ -48,17 +48,17 @@
 
 * **64** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **45** island-lk ([Unite!](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/493a9f14.json))
+* **48** island-lk ([Unite!](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/493a9f14.json))
 
 * **39** economy-next-com ([Sri Lanka govt security rates fall; guidance peg strengthen](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/5572420b.json))
 
-* **26** b-b-c-com-sinhala ([ඩලස්,රනිල්,අනුර කුමාර ජනපති සටනට;සජිත් නාමයෝජනා නොදෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/4040e87e.json))
+* **25** b-b-c-com-sinhala ([ශ්‍රී ලංකාවේ අර්බුදය: ආහාර සහ ඉන්ධන හිඟය ගැබිණි මව්වරුන්ට බලපාන හැටි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c602de9.json))
 
 * **17** colombo-telegraph-com ([Ranil’s Election To Pave The Way For Gota’s Return](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6ed4f376.json))
 
 * **17** d-b-s-jeyaraj-com ([Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.“We presented Dullas. We voted for him, but lost. Somebody has to win,” Mahinda tells media in parliament.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43bccf9.json))
 
-## All Time (1,225 Articles)
+## All Time (1,229 Articles)
 
 * **180** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +66,7 @@
 
 * **135** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **125** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **126** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **116** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
@@ -78,7 +78,7 @@
 
 * **64** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **60** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
+* **63** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
 * **59** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
