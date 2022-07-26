@@ -9,6 +9,14 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-617077",
+    "time_ut": 1658833850,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0db1 \u0db6\u0dc3\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7c/7c8e0c83.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0da7/1-617077",
     "time_ut": 1658833850,
     "original_lang": "si",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "CNCI congratulates new President with hopes of new life to local industries",
     "file_name": "/tmp/news_lk2/articles/e5/e53f733b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Quickee-lk-unveils-Quickee-Mansion/34-737720",
-    "time_ut": 1658345230,
-    "original_lang": "en",
-    "original_title": "Quickee.lk unveils \u2018Quickee Mansion\u2019",
-    "file_name": "/tmp/news_lk2/articles/ab/ab098cb6.json"
   }
 ]
