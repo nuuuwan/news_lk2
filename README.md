@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 23:11:55 (LK time)*
+*As of 2022-07-26 23:29:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e00700f.json))
-
-* **1** ada-derana-lk ([Four arrested for idling near Bandaranaike statue remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f07f967e.json))
 
 ## Last Hour (2 Articles)
 
@@ -16,13 +10,13 @@
 
 * **1** ada-derana-lk ([Four arrested for idling near Bandaranaike statue remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f07f967e.json))
 
-## Last 3 Hours (24 Articles)
-
-* **6** lankadeepa-lk ([රූපවාහිනී සංස්ථාවට ඇතුළුවී  සජීවි විකාශයකට සම්බන්ධ වූ දෙදෙනාගෙන් අයෙක් දැලේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6012fa9e.json))
+## Last 3 Hours (21 Articles)
 
 * **5** ada-derana-lk ([Man who forcibly entered state media institution arrested at BIA](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f34e95.json))
 
 * **5** virakesari-lk ([டனிஸ் அலி வெளிநாட்டிற்கு தப்பிச்செல்ல முயன்றவேளை விமானத்தில் வைத்து கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50d3b364.json))
+
+* **4** lankadeepa-lk ([කොරෝනා ආසාදිතයෝ 119 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7236193.json))
 
 * **3** daily-mirror-lk ([Leading GotaGoGama activist Dhaniz Ali arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/652b3ede.json))
 
@@ -32,9 +26,7 @@
 
 * **1** news-first-lk ([Sri Lanka: Aragalaya activist arrested aboard flight to Dubai](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11ddc0df.json))
 
-* **1** tamil-mirror-lk ([விமானத்தில் வைத்து போராட்டக்காரர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63fc251f.json))
-
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (246 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -42,13 +34,13 @@
 
 * **31** ada-lk ([දරු ප්‍රසූතියෙන් පසු බිළිඳෙක් ඝාතනය කිරිමකට වෛද්‍යවරයෙක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec1a717.json))
 
-* **29** tamil-mirror-lk ([வெறுப்பு பேச்சு: ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3aa39a6.json))
-
 * **27** ada-derana-lk ([Fairly heavy rains above 75mm possible in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e610499b.json))
 
 * **27** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
 
-* **25** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
+* **26** tamil-mirror-lk ([அந்நிய செலாவணி 51.6 சதவீதத்தால் வீழ்ச்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63cdf658.json))
+
+* **23** daily-mirror-lk ([July 22 attacks and future of Aragalaya : Can the  Aragalaya  survive  amidst suppressive measures by the state?](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc21c2f.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
