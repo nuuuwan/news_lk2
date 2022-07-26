@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Improving-business-strategy-through-politics-and-public-sentiment/231-241830",
+    "url": "https://www.dailymirror.lk/opinion/Truth-at-last-no-adequate-supply-of-fuel-yet-EDITORIAL/172-241832",
+    "time_ut": 1658866069,
+    "original_lang": "en",
+    "original_title": "Truth at last -no adequate supply of fuel yet - EDITORIAL",
+    "file_name": "/tmp/news_lk2/articles/cd/cd9fea26.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Gas-shortage-could-have-been-averted-Litro-Chairman/172-241831",
+    "time_ut": 1658865887,
+    "original_lang": "en",
+    "original_title": "Gas shortage could have been averted  \u2013 Litro Chairman",
+    "file_name": "/tmp/news_lk2/articles/59/59ab03f7.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Improving-business-strategy-through-politics-and-public-sentiment/172-241830",
     "time_ut": 1658865544,
     "original_lang": "en",
     "original_title": "Improving business strategy through politics and public sentiment",
-    "file_name": "/tmp/news_lk2/articles/c6/c601e0af.json"
+    "file_name": "/tmp/news_lk2/articles/1f/1ff94b86.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Bar Association, opposition, EU slam assault on protestors, UK, US concerned",
     "file_name": "/tmp/news_lk2/articles/23/23c6d216.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0b95\u0bcb\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-300905",
-    "time_ut": 1658457957,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0b95\u0bcb\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/ae/aed2a36a.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b95\u0bcb-\u0b95\u0bae-\u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0b95\u0bb5\u0bb2\u0bc8/175-300904",
-    "time_ut": 1658457933,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bcb \u0b95\u0bae \u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1; \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0bb5\u0bb2\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/dd/ddc7788a.json"
   }
 ]
