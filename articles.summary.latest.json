@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83890/man-who-forcibly-entered-rupavahini-and-disrupted-telecast-arrested-at-bia",
+    "time_ut": 1658848200,
+    "original_lang": "en",
+    "original_title": "Man who forcibly entered Rupavahini and disrupted telecast arrested at BIA",
+    "file_name": "/tmp/news_lk2/articles/2d/2de861e8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83890/man-who-forcibly-entered-state-media-institution-arrested-at-bia-",
     "time_ut": 1658848200,
     "original_lang": "en",
     "original_title": "Man who forcibly entered state media institution arrested at BIA",
     "file_name": "/tmp/news_lk2/articles/97/97f34e95.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132315",
+    "time_ut": 1658848095,
+    "original_lang": "ta",
+    "original_title": "\u0b9f\u0ba9\u0bbf\u0bb8\u0bcd \u0b85\u0bb2\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1\u0bb5\u0bc7\u0bb3\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/50/50d3b364.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Writ petition filed challenging removal from post of OUSL Head of Legal Studies",
     "file_name": "/tmp/news_lk2/articles/68/689f7ca4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Jeevan-Thondaman-backs-support-to-President-RW/56-737768",
-    "time_ut": 1658444884,
-    "original_lang": "en",
-    "original_title": "Jeevan Thondaman backs support to President RW",
-    "file_name": "/tmp/news_lk2/articles/28/282f829a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Saman-Ekanayake-appointed-Secretary-to-President/56-737767",
-    "time_ut": 1658444810,
-    "original_lang": "en",
-    "original_title": "Saman Ekanayake appointed Secretary to President",
-    "file_name": "/tmp/news_lk2/articles/4f/4ff3402d.json"
   }
 ]
