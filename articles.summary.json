@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/aragalaya-should-have-been-dealt-with-the-same-way-dissent-was-dealt-in-the-70s-80s-slpps-sanath-nishantha/",
+    "time_ut": 1658832840,
+    "original_lang": "en",
+    "original_title": "Aragalaya should have been dealt with the same way dissent was dealt in the 70s & 80s \u2013 SLPPs Sanath Nishantha",
+    "file_name": "/tmp/news_lk2/articles/dd/ddf21a8c.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83884/hambantota-police-seize-1900-litres-of-hoarded-diesel",
     "time_ut": 1658832600,
@@ -22,6 +30,14 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dc5\u0db8\u0dba\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 14\u0d9a\u0dca \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad \u0dc0\u0dd9\u0dbd\u0dcf",
     "file_name": "/tmp/news_lk2/articles/df/dfcdfaeb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/rs-3-4-bn-indian-aid-reaches-sri-lanka/",
+    "time_ut": 1658832300,
+    "original_lang": "en",
+    "original_title": "Rs.3.4 Bn Indian Aid reaches Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/df/df0f44c0.json"
   },
   {
     "newspaper_id": "ada-lk",
