@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-301147",
+    "time_ut": 1658815018,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd  \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd: \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/2f/2f1e88f7.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca/101-617044",
     "time_ut": 1658814428,
@@ -40,6 +48,14 @@
     "file_name": "/tmp/news_lk2/articles/85/850b4f46.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/igp-senior-cops-failed-to-protect-peaceful-protestors-hrcsl/",
+    "time_ut": 1658813460,
+    "original_lang": "en",
+    "original_title": "IGP & Senior Cops failed to protect peaceful protestors \u2013 HRCSL",
+    "file_name": "/tmp/news_lk2/articles/8b/8b03109c.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc1\u0dd3\u0dba-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca-\u0db0\u0dd4\u0dbb\u0dba\u0da7-\u0d91\u0dc3\u0dca--\u0dc4\u0db4\u0dd4\u0d86\u0dbb\u0da0\u0dca\u0da0\u0dd2-\u0db8\u0dc4\u0dad\u0dcf/11-395743",
     "time_ut": 1658813329,
@@ -48,12 +64,28 @@
     "file_name": "/tmp/news_lk2/articles/99/9905784a.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/daily-exchange-rate-from-cbsl/",
+    "time_ut": 1658812800,
+    "original_lang": "en",
+    "original_title": "Daily Exchange Rate from CBSL",
+    "file_name": "/tmp/news_lk2/articles/c4/c4c4e1bc.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Polish-man-arrested-for-illegally-sailing-in-from-Sri-Lanka/108-241812",
     "time_ut": 1658812762,
     "original_lang": "en",
     "original_title": "Polish man arrested for illegally sailing in from Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/a8/a87f237b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc7-\u0b89\u0bb7\u0bbe\u0bb0\u0bcd/175-301145",
+    "time_ut": 1658812700,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc7 \u0b89\u0bb7\u0bbe\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/22/2212e4f2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -88,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/c0/c0f41f10.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/man-arrested-for-posting-disruptive-content/",
+    "time_ut": 1658812260,
+    "original_lang": "en",
+    "original_title": "Man arrested for posting disruptive content",
+    "file_name": "/tmp/news_lk2/articles/b4/b4bdfb08.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf-\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dcf\u0dc6\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d87\u0db8\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0dc0\u0dd0\u0da7\u0d9a\u0dca/101-617041",
     "time_ut": 1658812240,
@@ -102,6 +142,14 @@
     "original_lang": "si",
     "original_title": "\u0d8b\u0db4\u0d9a\u0dbb\u0dab\u0dc0\u0dbd\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dcf.\u0dbd\u0dda. \u0dc5\u0d9f \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/11/119687fb.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/4-million-vehicles-register-for-sri-lanka-fuel-pass-ration-minister-97897/",
+    "time_ut": 1658811900,
+    "original_lang": "en",
+    "original_title": "4 million vehicles register for Sri Lanka fuel pass ration: Minister",
+    "file_name": "/tmp/news_lk2/articles/18/1831fc9b.json"
   },
   {
     "newspaper_id": "economy-next-com",
