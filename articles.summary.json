@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Govt-to-present-revised-Budget-next-month/56-737946",
+    "time_ut": 1658875380,
+    "original_lang": "en",
+    "original_title": "Govt. to present revised Budget next month",
+    "file_name": "/tmp/news_lk2/articles/ea/ea74cab8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-Gem-Jewellery-Association-aims-to-bring-back-industry-s-glory-days/56-737945",
+    "time_ut": 1658875367,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Gem & Jewellery Association aims to bring back industry\u2019s glory days",
+    "file_name": "/tmp/news_lk2/articles/06/06081820.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Ranil-no-longer-popular-in-West-MPs-voted-for-perks-not-for-the-people-Rajitha/56-737944",
+    "time_ut": 1658875261,
+    "original_lang": "en",
+    "original_title": "Ranil no longer popular in West; MPs voted for perks not for the people: Rajitha",
+    "file_name": "/tmp/news_lk2/articles/a0/a0ec6bb8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SJB-to-vote-against-emergency-lawtoday/56-737943",
+    "time_ut": 1658875199,
+    "original_lang": "en",
+    "original_title": "SJB to vote against emergency law\u00a0today",
+    "file_name": "/tmp/news_lk2/articles/01/01085179.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/National-People-s-Council-to-resolve-public-issues-through-Parliament-Sajith-Premadasa/56-737942",
+    "time_ut": 1658875171,
+    "original_lang": "en",
+    "original_title": "\u2018National People\u2019s Council\u2019 to resolve public issues through Parliament: Sajith Premadasa",
+    "file_name": "/tmp/news_lk2/articles/52/52a40169.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/FactCheck-lk-by-Verit\u00e9-Research-first-Lankan-platform-to-receive-IFCN-accreditation/56-737941",
+    "time_ut": 1658875088,
+    "original_lang": "en",
+    "original_title": "FactCheck.lk by Verit\u00e9 Research first Lankan platform to receive IFCN accreditation",
+    "file_name": "/tmp/news_lk2/articles/be/be7218f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/International-academics-call-on-Sri-Lanka-president-to-protect-right-to-protest-and-other-freedoms/56-737940",
     "time_ut": 1658875074,
     "original_lang": "en",

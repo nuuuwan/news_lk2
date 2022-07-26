@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Govt-to-present-revised-Budget-next-month/56-737946",
+    "time_ut": 1658875380,
+    "original_lang": "en",
+    "original_title": "Govt. to present revised Budget next month",
+    "file_name": "/tmp/news_lk2/articles/ea/ea74cab8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sri-Lanka-Gem-Jewellery-Association-aims-to-bring-back-industry-s-glory-days/56-737945",
+    "time_ut": 1658875367,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Gem & Jewellery Association aims to bring back industry\u2019s glory days",
+    "file_name": "/tmp/news_lk2/articles/06/06081820.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Ranil-no-longer-popular-in-West-MPs-voted-for-perks-not-for-the-people-Rajitha/56-737944",
+    "time_ut": 1658875261,
+    "original_lang": "en",
+    "original_title": "Ranil no longer popular in West; MPs voted for perks not for the people: Rajitha",
+    "file_name": "/tmp/news_lk2/articles/a0/a0ec6bb8.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SJB-to-vote-against-emergency-lawtoday/56-737943",
+    "time_ut": 1658875199,
+    "original_lang": "en",
+    "original_title": "SJB to vote against emergency law\u00a0today",
+    "file_name": "/tmp/news_lk2/articles/01/01085179.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/National-People-s-Council-to-resolve-public-issues-through-Parliament-Sajith-Premadasa/56-737942",
+    "time_ut": 1658875171,
+    "original_lang": "en",
+    "original_title": "\u2018National People\u2019s Council\u2019 to resolve public issues through Parliament: Sajith Premadasa",
+    "file_name": "/tmp/news_lk2/articles/52/52a40169.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/FactCheck-lk-by-Verit\u00e9-Research-first-Lankan-platform-to-receive-IFCN-accreditation/56-737941",
+    "time_ut": 1658875088,
+    "original_lang": "en",
+    "original_title": "FactCheck.lk by Verit\u00e9 Research first Lankan platform to receive IFCN accreditation",
+    "file_name": "/tmp/news_lk2/articles/be/be7218f0.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/International-academics-call-on-Sri-Lanka-president-to-protect-right-to-protest-and-other-freedoms/56-737940",
     "time_ut": 1658875074,
     "original_lang": "en",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "Foreign envoys in SL raise concern over military raid at Galle Face",
     "file_name": "/tmp/news_lk2/articles/5d/5da61cf1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda-\u0d85\u0daf-\u0d94\u0dc0\u0dd4\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0dc3\u0dd2\u0da7\u0dd2\u0db1-\u0dc0\u0dd2\u0da7\u0dba\u0dd2/11-395644",
-    "time_ut": 1658462485,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dda \u0d85\u0daf \u0d94\u0dc0\u0dd4\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0dc0\u0dd2\u0da7\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/7c/7cd0b48c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Police-says-protesters-removed-from-Presidential-Secretariat-Nine-arrested/342-241555",
-    "time_ut": 1658462119,
-    "original_lang": "en",
-    "original_title": "Police says protesters removed from Presidential Secretariat: Nine arrested",
-    "file_name": "/tmp/news_lk2/articles/b6/b636a029.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0d87\u0d9f\u0dd2\u0dbd\u0dd2-\u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-395643",
-    "time_ut": 1658462031,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0d87\u0d9f\u0dd2\u0dbd\u0dd2 \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/d9/d9e246ed.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Dinesh-to-be-sworn-in-today/342-241549",
-    "time_ut": 1658460445,
-    "original_lang": "en",
-    "original_title": "Dinesh to be sworn in today",
-    "file_name": "/tmp/news_lk2/articles/9f/9fd65fdc.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda-\u0d89\u0dad\u0dd2\u0dbb\u0dd2-\u0d9a\u0dcf\u0dbd\u0dba\u0da7-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0db4\u0dad\u0dca\u0dc0\u0dd6-\u0db6\u0dc0-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-395642",
-    "time_ut": 1658460322,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0d9c\u0dda \u0d89\u0dad\u0dd2\u0dbb\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0db4\u0dad\u0dca\u0dc0\u0dd6 \u0db6\u0dc0 \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a2/a21097b9.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83804/use-of-armed-forces-to-supress-civilian-protests-despicable-basl",
-    "time_ut": 1658460180,
-    "original_lang": "en",
-    "original_title": "Use of armed forces to supress civilian protests despicable - BASL",
-    "file_name": "/tmp/news_lk2/articles/b8/b8baf85b.json"
   }
 ]
