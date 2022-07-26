@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 15:12:30 (LK time)*
+*As of 2022-07-26 15:22:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (3 Articles)
 
-* **4** virakesari-lk ([முதலீடின்றி கனவை அடையலாம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52c5245.json))
-
-* **2** tamil-mirror-lk ([காலி முகத்திடலில் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/832d36f6.json))
+* **2** virakesari-lk ([மன்னார் பேசாலை கடற்பரப்பில் 9 மில்லியன் ரூபா பெறுமதியான தங்கத்துடன் 3 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95fa6fa5.json))
 
 * **1** ada-derana-lk ([Dan Priyasad’s brother hacked to death](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/958315da.json))
 
-## Last Hour (11 Articles)
+## Last Hour (10 Articles)
 
 * **4** virakesari-lk ([முதலீடின்றி கனவை அடையலாம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52c5245.json))
 
@@ -20,39 +18,37 @@
 
 * **2** tamil-mirror-lk ([காலி முகத்திடலில் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/832d36f6.json))
 
-* **2** lankadeepa-lk ([හිටපු ජනපති යළි එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b50940cd.json))
+* **2** lankadeepa-lk ([හිටපු ජනපති යළි එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d23117ba.json))
 
-* **1** ada-lk ([ඩෑන්ගේ සහෝදරයා ඝාතනය කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d61e0ef7.json))
-
-## Last 3 Hours (45 Articles)
+## Last 3 Hours (41 Articles)
 
 * **15** lankadeepa-lk ([ලක්ෂ 90ක රත්ත්‍රං හා වාලම්පූරියක් සමඟ 3ක් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e9488d5.json))
 
-* **9** virakesari-lk ([இலங்கையை தாக்குமா குரங்கு அம்மை](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2785e2f8.json))
+* **8** virakesari-lk ([கோட்டா தலைமறைவாகவில்லை ; மீண்டும் வருவார் - அரசாங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf93673d.json))
 
 * **5** ada-derana-lk ([30-year-old shot dead in Balapitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/2564214b.json))
 
-* **5** ada-lk ([පෙට්‍රල් ඉල්ලූ දෙදරු පියාට පොලිසියෙන් ප්‍රහාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bf115135.json))
+* **4** ada-lk ([බන්දුල ගුණවර්ධන කැබිනට් ප්‍රකාශක ලෙස පත් කෙරේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/080bed05.json))
 
-* **5** news-first-lk ([Ruling Party MPs to meet President today (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a29013e3.json))
-
-* **3** economy-next-com ([Sri Lanka shares marginally up in mid-day trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/1744c148.json))
+* **4** news-first-lk ([Sri Lanka’s Fuel Bill increased by USD 4 Bn – Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b013192.json))
 
 * **2** tamil-mirror-lk ([காலி முகத்திடலில் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/832d36f6.json))
 
+* **2** economy-next-com ([Sri Lanka working towards a revised budget in August](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/3506de39.json))
+
 * **1** daily-mirror-lk ([Dan Priyasad’s brother hacked to death in Wellampitiya](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61b433e2.json))
 
-## Last 24 Hours (247 Articles)
+## Last 24 Hours (245 Articles)
 
 * **49** lankadeepa-lk ([ඩීසල් නොමැති වීමෙන් පාසල් වෑන් සහ බස් රථවලට බාධා](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dea4dc51.json))
 
-* **38** virakesari-lk ([பெற்றோல் திருடியவரின் தாக்குதலில் வாகனத்தின் உரிமையாளர் பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84240c35.json))
+* **37** virakesari-lk ([ஜனாதிபதி கடினமான முடிவுகளை எடுக்கவேண்டும் - முன்னாள் மத்திய வங்கி ஆளுநர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af586395.json))
 
 * **36** tamil-mirror-lk ([ஸ்டாலினுக்கு வெளிநாடு செல்லத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77684eeb.json))
 
-* **28** daily-mirror-lk ([SL aviation contingent at MINUSCA commended for recent act of bravery](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc69fd0.json))
-
 * **27** ada-lk ([අගෝස්තු 01 දා වාහන අංක තහඩු ක්‍රමය ඉවරයි - ඉන් අනතුරුව ඉන්ධන දීම QR ඛේතයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/582649f4.json))
+
+* **27** daily-mirror-lk ([National Fuel Pass QR code will implement from Aug. 1: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d766f37.json))
 
 * **23** news-first-lk ([President Putin congratulates Ranil W on election to office of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ec5863c.json))
 
