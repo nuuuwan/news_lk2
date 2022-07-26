@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-Wickremasinghe-should-be-discharged-from-FR-petitions-filed-over-Easter-Sunday-attacks-Counsel/342-241825",
+    "time_ut": 1658844456,
+    "original_lang": "en",
+    "original_title": "President Wickremasinghe should be discharged from FR petitions filed over Easter Sunday attacks: Counsel",
+    "file_name": "/tmp/news_lk2/articles/7a/7a49f4af.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/School-hospital-transport-services-to-resume-from-August-1-Gemunu/342-241823",
+    "time_ut": 1658843928,
+    "original_lang": "en",
+    "original_title": "School, hospital transport services to resume from August 1: Gemunu",
+    "file_name": "/tmp/news_lk2/articles/5e/5e66e21b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83889/fuel-prices-to-reduce-at-next-price-revision",
     "time_ut": 1658843460,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ranil Wickremesinghe\u2019s  election raises hopes that Sri Lanka, which has been in economic and political turmoil for months, will at last regain the political stability required to solve its economic problems. But Mr Wickremesinghe\u2019s chances of success are complicated\u201d- The Economist.",
     "file_name": "/tmp/news_lk2/articles/32/32d690eb.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78682",
-    "time_ut": 1658431440,
-    "original_lang": "en",
-    "original_title": "It appears that the Aragalaya hijacker have become a law unto themselves and do not seem to respect the rule of law. They expect government leaders to genuflect before them and carry out their commands. This is not Aragalaya.",
-    "file_name": "/tmp/news_lk2/articles/e3/e33bb4c4.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78685",
-    "time_ut": 1658430900,
-    "original_lang": "en",
-    "original_title": "Sajith Denies Allegation that he blocked Karu  Jayasuriya from Entering Parliament by Vetoing Moves by Mayantha  Dissanayake and Harin Fernando to Resign their National List MP Seats  for  Karu to be Appointed",
-    "file_name": "/tmp/news_lk2/articles/3f/3fee4fc3.json"
   }
 ]
