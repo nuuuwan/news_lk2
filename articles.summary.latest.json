@@ -1,5 +1,45 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83873/president-wickremesinghe-congratulates-new-indian-counterpart-murmu",
+    "time_ut": 1658806860,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe congratulates new Indian counterpart Murmu",
+    "file_name": "/tmp/news_lk2/articles/9d/9d4e0a51.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Tuk-Tuks-garden-equipment-generators-and-equipment-require-fuel-must-be-registered-Minister/108-241810",
+    "time_ut": 1658806648,
+    "original_lang": "en",
+    "original_title": "Tuk Tuks, garden equipment, generators and equipment require fuel must be registered: Minister",
+    "file_name": "/tmp/news_lk2/articles/eb/eb9c9d53.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132263",
+    "time_ut": 1658806140,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 75 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b95\u0ba9\u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b3/b30cb614.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83872/public-strongly-recommended-to-wear-face-masks-amid-uptick-in-covid-cases",
+    "time_ut": 1658805120,
+    "original_lang": "en",
+    "original_title": "Public \u2018strongly recommended\u2019 to wear face masks amid uptick in COVID cases",
+    "file_name": "/tmp/news_lk2/articles/0a/0aa982f6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Face-masks-recommended-for-indoors-transit-public-gathering-Ministry/108-241809",
+    "time_ut": 1658804334,
+    "original_lang": "en",
+    "original_title": "Face masks recommended for indoors, transit, public gathering: Ministry",
+    "file_name": "/tmp/news_lk2/articles/47/478791c0.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132261",
     "time_ut": 1658803365,
@@ -9,11 +49,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Doctor-arrested-for-aiding-to-kill-his-maids-newborn-infant-in-2017/108-241808",
+    "url": "https://www.dailymirror.lk/latest_news/Doctor-arrested-for-aiding-to-kill-his-maids-newborn-infant-in-2017/342-241808",
     "time_ut": 1658803309,
     "original_lang": "en",
     "original_title": "Doctor arrested for aiding to kill his maid\u2019s newborn infant in 2017",
-    "file_name": "/tmp/news_lk2/articles/1b/1bbc28de.json"
+    "file_name": "/tmp/news_lk2/articles/cb/cb31b6f6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0ddb\u0dbb-\u0dc3\u0dc4\u0d9c\u0dad-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-FB-\u0dc4\u0dbb\u0dc4\u0dcf-Comment-\u0d9a\u0dc5\u0dcf\u0da7-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395738",
+    "time_ut": 1658802803,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0ddb\u0dbb \u0dc3\u0dc4\u0d9c\u0dad \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 FB \u0dc4\u0dbb\u0dc4\u0dcf Comment \u0d9a\u0dc5\u0dcf\u0da7 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dba\u0da7\u0dad\u0dda \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/2c/2c042349.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -54,6 +102,14 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd6\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db6\u0dd2\u0dc5\u0dd2\u0db3\u0dd9\u0d9a\u0dca \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0d9a\u0da7 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/7e/7ec1a717.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83870/fairly-heavy-rains-above-75mm-expected-in-several-provinces",
+    "time_ut": 1658800560,
+    "original_lang": "en",
+    "original_title": "Fairly heavy rains above 75mm expected in several provinces",
+    "file_name": "/tmp/news_lk2/articles/9f/9fa2f4b2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -134,6 +190,14 @@
     "original_lang": "en",
     "original_title": "Canadian Premier has his say over 39th anniversary of Sri Lanka\u2019s Black July",
     "file_name": "/tmp/news_lk2/articles/69/6940b549.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd/71-301131",
+    "time_ut": 1658779353,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/32/32da5bda.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "BoardPAC takes thought leadership on Board meeting automation to India in partnership with IOD",
     "file_name": "/tmp/news_lk2/articles/d0/d028f8f3.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/act-wisely-or-perish/",
-    "time_ut": 1657818840,
-    "original_lang": "en",
-    "original_title": "Act wisely or perish",
-    "file_name": "/tmp/news_lk2/articles/bd/bd206893.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Hat-trick-for-Kalubowitiyana-Tea-Factory/34-737499",
-    "time_ut": 1657816125,
-    "original_lang": "en",
-    "original_title": "Hat-trick for Kalubowitiyana Tea Factory",
-    "file_name": "/tmp/news_lk2/articles/92/92e88dbd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Investors-continue-to-cash-in-on-Sri-Lankan-apparel-sector-s-resilience/34-737498",
-    "time_ut": 1657815371,
-    "original_lang": "en",
-    "original_title": "Investors continue to cash in on  Sri Lankan apparel sector\u2019s resilience",
-    "file_name": "/tmp/news_lk2/articles/f2/f2191c87.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78559",
-    "time_ut": 1657798740,
-    "original_lang": "en",
-    "original_title": "Gota going into hiding in an unknown country is an indication that he cannot rely on his own service chiefs to guarantee his safety. Gotabaya Rajapaksa has effectively made himself a lame duck of a President.",
-    "file_name": "/tmp/news_lk2/articles/b8/b8b960d8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0dc4\u0dad\u0dbb\u0dda-\u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d94\u0db6\u0dca\u0db6\u0da7/2-616419",
-    "time_ut": 1657798015,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dad\u0dbb\u0dda \u0dc3\u0dd3\u0db8\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d94\u0db6\u0dca\u0db6\u0da7",
-    "file_name": "/tmp/news_lk2/articles/12/1261e2ed.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78564",
-    "time_ut": 1657792980,
-    "original_lang": "en",
-    "original_title": "Presiden Gotabaya  Rajapaksa  emails  his resignation letter via the Sri Lanka High Commission in Singapore  to Speaker Mahinda Yapa Abeywardena.Speaker will formally announce that Rajapaksa has vacated the post of President to the public after verifying the authenticity of the letter;Speaker\u2019s office  Consults Attorney General in this connection",
-    "file_name": "/tmp/news_lk2/articles/0b/0bae09cf.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/sri-lankan-authorities-must-refrain-from-use-of-military-to-police-protests-amnesty-international/",
-    "time_ut": 1657792676,
-    "original_lang": "en",
-    "original_title": "Sri Lankan Authorities Must Refrain From Use Of Military To Police Protests: Amnesty International",
-    "file_name": "/tmp/news_lk2/articles/83/837fa13d.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78557",
-    "time_ut": 1657791900,
-    "original_lang": "en",
-    "original_title": "President Gotabaya Rajapaksa  Sends Resignation Letter by E-mail to Speaker from Singapore; official announcement on July 15 after verifying authenticity of emailed document",
-    "file_name": "/tmp/news_lk2/articles/0b/0b6188f2.json"
   }
 ]
