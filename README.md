@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 04:56:55 (LK time)*
+*As of 2022-07-27 05:01:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (2 Articles)
-
-* **2** daily-ft-lk ([Avalanche of non-news](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ab251d6.json))
 
 ## Last Hour (10 Articles)
 
