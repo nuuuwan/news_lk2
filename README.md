@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 05:01:49 (LK time)*
+*As of 2022-07-27 05:13:02 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (10 Articles)
+## Last Hour (3 Articles)
 
-* **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
+* **3** daily-ft-lk ([Neelan Tiruchelvam, LTTE and the devolution package](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40232a0b.json))
 
 ## Last 3 Hours (10 Articles)
 
