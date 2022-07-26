@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8-\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0baa\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b89\u0baf\u0bbf\u0bb0\u0bcd/76-301163",
+    "time_ut": 1658835052,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd  \u0baa\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f  \u0b89\u0baf\u0bbf\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/ce/ce524e84.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83885/passports-to-be-issued-only-to-those-with-prior-appointments",
     "time_ut": 1658833860,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Military takes control of  presidential secretariat after \u201cbrutally assaulting\u201d  protesters;\u201cthe IT Center,  Disabled Soldiers Tent, Community Kitchen that fed people every day for free, SYU Tent,  Hearing Impaired Tent and the Gate Zero Tent structures  at \u201cGotaGo Gama\u201d demolished",
     "file_name": "/tmp/news_lk2/articles/4e/4eb39cd6.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/CNCI-congratulates-new-President-with-hopes-of-new-life-to-local-industries/34-737721",
-    "time_ut": 1658345342,
-    "original_lang": "en",
-    "original_title": "CNCI congratulates new President with hopes of new life to local industries",
-    "file_name": "/tmp/news_lk2/articles/e5/e53f733b.json"
   }
 ]
