@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 00:48:04 (LK time)*
+*As of 2022-07-27 01:00:31 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (6 Articles)
 
 * **4** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
 
-* **3** virakesari-lk ([கொரோனாவை கட்டுப்படுத்த முழுமையான தடுப்பூசியை பெற்றுகொள்ளுங்கள் - சுகாதார தரப்பு வலியுறுத்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b8ea0bd.json))
-
 * **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61a3e29.json))
 
-## Last 24 Hours (237 Articles)
+* **1** virakesari-lk ([உயிர்த்த ஞாயிறு தின தாக்குதல்கள் : ரணிலின் விடுபாட்டுரிமைக்கு மைத்திரி கடும் ஆட்சேபனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1841e625.json))
+
+## Last 24 Hours (236 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -26,7 +26,7 @@
 
 * **20** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
 
-* **20** tamil-mirror-lk ([ஆளும் கட்சியின் விசேட கூட்டம் இன்று](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/7037f8b5.json))
+* **19** tamil-mirror-lk ([இன்று முதல் கியூ.ஆர். முறைமையில் எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5145f17c.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
@@ -36,7 +36,7 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,099 Articles)
+## Last Week (1,098 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -62,7 +62,7 @@
 
 * **17** colombo-telegraph-com ([The New President Must Learn From Gota!](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abdffdac.json))
 
-* **17** d-b-s-jeyaraj-com ([Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperuma by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36906a5b.json))
+* **16** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
 ## All Time (1,474 Articles)
 
