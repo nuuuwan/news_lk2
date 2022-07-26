@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83877/india-hands-over-humanitarian-aid-valued-at-over-rs-34-billion-to-sri-lanka",
+    "time_ut": 1658817420,
+    "original_lang": "en",
+    "original_title": "India hands over humanitarian aid valued at over Rs 3.4 billion to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/7e/7ec96208.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0dc0\u0db1-\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0d9a\u0dca-\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-617046",
+    "time_ut": 1658816865,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dc0\u0db1 \u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0d9a\u0dca \u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/9e/9efdcaf9.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/26/navy-nabs-03-suspects-with-smuggled-gold/",
     "time_ut": 1658816280,
@@ -14,6 +30,22 @@
     "original_lang": "en",
     "original_title": "Gotabaya Rajapaksa to return",
     "file_name": "/tmp/news_lk2/articles/7d/7dbf5ec2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0d86\u0db0\u0dcf\u0dbb-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca/101-617045",
+    "time_ut": 1658816176,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/fd/fdceb13a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf-\u0dbb\u0dae-\u0dc3\u0db3\u0dc4\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0db1\u0dca\u0db1-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0dba-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dba\u0dd2/11-395748",
+    "time_ut": 1658815742,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2\u0dba \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e3/e38e7d11.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -73,11 +105,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dba\u0dc5\u0dd2-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/101-617043",
+    "url": "https://www.lankadeepa.lk/covid19/\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dba\u0dc5\u0dd2-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/203-617043",
     "time_ut": 1658813867,
     "original_lang": "si",
     "original_title": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dba\u0dc5\u0dd2 \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/61/61627399.json"
+    "file_name": "/tmp/news_lk2/articles/ad/ad1cbf3c.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -793,11 +825,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-617026",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-617026",
     "time_ut": 1658765780,
     "original_lang": "si",
     "original_title": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0dc3\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/27/2792c602.json"
+    "file_name": "/tmp/news_lk2/articles/10/10d5bcfa.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2414,6 +2446,14 @@
     "original_lang": "en",
     "original_title": "Fuel pass QR Code system rollout delayed",
     "file_name": "/tmp/news_lk2/articles/04/041438e0.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-is-wrong-to-scapegoat-expat-workers-over-undiyal-bellwether-97870/",
+    "time_ut": 1658717460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka is wrong to scapegoat expat workers over Undiyal: Bellwether",
+    "file_name": "/tmp/news_lk2/articles/b2/b2c87468.json"
   },
   {
     "newspaper_id": "economy-next-com",
