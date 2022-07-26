@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 05:13:02 (LK time)*
+*As of 2022-07-27 05:20:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (2 Articles)
 
-* **3** daily-ft-lk ([Neelan Tiruchelvam, LTTE and the devolution package](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/40232a0b.json))
+* **2** daily-ft-lk ([Avalanche of non-news](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ab251d6.json))
 
 ## Last 3 Hours (10 Articles)
 
