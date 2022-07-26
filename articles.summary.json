@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-parliament-elected-a-law-and-order-president-in-ranil-legislator-97892/",
+    "time_ut": 1658799480,
+    "original_lang": "en",
+    "original_title": "Sri Lanka parliament elected a \u2018law and order\u2019 president in Ranil: legislator",
+    "file_name": "/tmp/news_lk2/articles/fe/fe2ffb7f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Monkeypox-not-proven-as-a-sexually-transmittable-disease/342-241804",
+    "time_ut": 1658799284,
+    "original_lang": "en",
+    "original_title": "Monkeypox not proven as a sexually transmittable disease",
+    "file_name": "/tmp/news_lk2/articles/d9/d9cc3b5d.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/AKD-calls-for-an-immediate-snap-poll/56-737905",
     "time_ut": 1658780826,
@@ -49,6 +65,14 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bbf\u0baf\u0bc2-\u0b86\u0bb0\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-301129",
+    "time_ut": 1658777961,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbf\u0baf\u0bc2.\u0b86\u0bb0\u0bcd. \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/51/5145f17c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb3\u0bc1\u0bae\u0bcd-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-301128",
     "time_ut": 1658777375,
     "original_lang": "ta",
@@ -80,6 +104,14 @@
     "file_name": "/tmp/news_lk2/articles/26/262689ea.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Exporters-set-to-face-higher-freight-charges-amid-acute-jet-fuel-shortage/342-241797",
+    "time_ut": 1658773378,
+    "original_lang": "en",
+    "original_title": "Exporters set to face higher freight charges amid acute jet fuel shortage",
+    "file_name": "/tmp/news_lk2/articles/b6/b6f7d604.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0bb5\u0b95\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0baf\u0bc2\u0b95\u0bae\u0bcd-\u0b8e\u0ba9\u0bcd\u0ba9-\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf/175-301126",
     "time_ut": 1658773323,
@@ -94,6 +126,14 @@
     "original_lang": "ta",
     "original_title": "\u2019\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd\u2019",
     "file_name": "/tmp/news_lk2/articles/22/227730b0.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Free-Trade-Zone-Manufacturers-expresses-confidence-in-Prez-fulfilling-nations-aspirations/342-241791",
+    "time_ut": 1658772907,
+    "original_lang": "en",
+    "original_title": "Free Trade Zone Manufacturers expresses confidence in Prez. fulfilling nation\u2019s aspirations",
+    "file_name": "/tmp/news_lk2/articles/70/70d831c5.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -113,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/news-features/July-22-attacks-and-future-of-Aragalaya-Can-the-Aragalaya-survive-amidst-suppressive-measures-by-the-state/131-241785",
+    "url": "https://www.dailymirror.lk/plus/July-22-attacks-and-future-of-Aragalaya-Can-the-Aragalaya-survive-amidst-suppressive-measures-by-the-state/352-241785",
     "time_ut": 1658772232,
     "original_lang": "en",
     "original_title": "July 22 attacks and future of Aragalaya : Can the  Aragalaya  survive  amidst suppressive measures by the state?",
-    "file_name": "/tmp/news_lk2/articles/ac/ac966699.json"
+    "file_name": "/tmp/news_lk2/articles/3b/3bc21c2f.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -270,6 +310,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka govt security yields slightly up in dull trade",
     "file_name": "/tmp/news_lk2/articles/b8/b8287d01.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132256",
+    "time_ut": 1658764078,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bb2\u0b95 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d0/d06f8d94.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -702,6 +750,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0bae\u0bcd   \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd",
     "file_name": "/tmp/news_lk2/articles/55/55c46846.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132216",
+    "time_ut": 1658747556,
+    "original_lang": "ta",
+    "original_title": "\u0b86\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c3/c3111e34.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -1944,6 +2000,14 @@
     "file_name": "/tmp/news_lk2/articles/98/982100d6.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78727",
+    "time_ut": 1658690100,
+    "original_lang": "en",
+    "original_title": "Ambassador Jaliya Wickramasuriya,, His Swanky New Embassy and the Limits of Diplomatic Immunity",
+    "file_name": "/tmp/news_lk2/articles/e5/e5b49c54.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/HR-complaint-to-be-filed-against-Police-for-22-July-crackdown-on-GGG/56-737872",
     "time_ut": 1658689820,
@@ -1966,6 +2030,14 @@
     "original_lang": "en",
     "original_title": "President directs quicker streamlined fuel distribution",
     "file_name": "/tmp/news_lk2/articles/69/693e1723.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78731",
+    "time_ut": 1658689560,
+    "original_lang": "en",
+    "original_title": "\u201cPresident Wickremesinghe is economically very literate. He knows what has to be done. At times, it has been difficult for him or any other politician to get it done.But, if President Wickremesinghe understands, he can get it done\u201d \u2013 Dr.Indrajit  Coomaraswamy",
+    "file_name": "/tmp/news_lk2/articles/6b/6b60a531.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -2054,6 +2126,14 @@
     "original_lang": "en",
     "original_title": "Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora",
     "file_name": "/tmp/news_lk2/articles/64/649b2f8e.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78733",
+    "time_ut": 1658687940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s New  President  Ranil Wickremesinghe  \u2018swings\u2019 into action on his day one in office to restore law and order and  shows  who is the boss",
+    "file_name": "/tmp/news_lk2/articles/7e/7e993069.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
