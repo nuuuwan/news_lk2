@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Neelan-Tiruchelvam-LTTE-and-the-devolution-package/4-737947",
+    "time_ut": 1658875739,
+    "original_lang": "en",
+    "original_title": "Neelan Tiruchelvam, LTTE and the devolution package",
+    "file_name": "/tmp/news_lk2/articles/40/40232a0b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Govt-to-present-revised-Budget-next-month/56-737946",
     "time_ut": 1658875380,
     "original_lang": "en",

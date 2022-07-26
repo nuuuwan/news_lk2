@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Neelan-Tiruchelvam-LTTE-and-the-devolution-package/4-737947",
+    "time_ut": 1658875739,
+    "original_lang": "en",
+    "original_title": "Neelan Tiruchelvam, LTTE and the devolution package",
+    "file_name": "/tmp/news_lk2/articles/40/40232a0b.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Govt-to-present-revised-Budget-next-month/56-737946",
     "time_ut": 1658875380,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Senesh and Charuka stand rescue Thomians",
     "file_name": "/tmp/news_lk2/articles/7c/7c8ccea0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83805/foreign-envoys-in-sl-raise-concern-over-military-raid-at-galle-face",
-    "time_ut": 1658463180,
-    "original_lang": "en",
-    "original_title": "Foreign envoys in SL raise concern over military raid at Galle Face",
-    "file_name": "/tmp/news_lk2/articles/5d/5da61cf1.json"
   }
 ]
