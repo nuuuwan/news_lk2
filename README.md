@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 23:49:36 (LK time)*
+*As of 2022-07-27 00:06:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,27 +8,23 @@
 
 * **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
-## Last Hour (2 Articles)
+## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
-* **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61a3e29.json))
-
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (15 Articles)
 
 * **5** virakesari-lk ([டொன் பிரியசாத்தின் சகோதரர் வெல்லம்பிட்டியவில் கொலை - போதைப் பொருள் வர்த்தக முரண்பாடு காரணம் என சந்தேகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/295d873e.json))
 
 * **4** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
 
-* **4** lankadeepa-lk ([කොරෝනා ආසාදිතයෝ 119 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7236193.json))
-
 * **3** daily-mirror-lk ([Leading GotaGoGama activist Dhaniz Ali arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/65/652b3ede.json))
 
-* **2** economy-next-com ([Sri Lanka’s guidance peg edges up; govt securities yields mixed](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/41f1a6f6.json))
+* **2** lankadeepa-lk ([අධිකරණ නියෝග කඩා ගාලුමුවදොර රැදී සිටි හතර දෙනා රිමාන්ඩ්](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81e4e440.json))
 
-* **1** ada-lk ([ජාතික රූපවාහිනියට බලෙන් ඇතුළු වූ අරගලකරු අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a2913463.json))
+* **1** economy-next-com ([Sri Lanka stocks down for 3rd straight session on dull sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d48d73b.json))
 
-## Last 24 Hours (242 Articles)
+## Last 24 Hours (240 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -40,9 +36,9 @@
 
 * **28** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
 
-* **22** tamil-mirror-lk ([ரணில் வகுக்கும்  வியூகம் என்ன? திஸ்ஸ கேள்வி](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02c02f7f.json))
+* **21** tamil-mirror-lk ([சீனாவுக்கு செல்கிறார் ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/af8a3638.json))
 
-* **21** daily-mirror-lk ([Exporters set to face higher freight charges amid acute jet fuel shortage](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1421873.json))
+* **20** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
@@ -52,7 +48,7 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,108 Articles)
+## Last Week (1,107 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -76,7 +72,7 @@
 
 * **24** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: ජනපති අසුන සඳහා වන තරගය සුළු මොහොතකින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1152660.json))
 
-* **21** d-b-s-jeyaraj-com ([Mahinda  Rajapaksa says SLPP Candidate Dullas Alahapperuma was unable  to win the Presidential Elections.“We presented Dullas. We voted for him, but lost. Somebody has to win,” Mahinda tells media in parliament.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e43bccf9.json))
+* **20** d-b-s-jeyaraj-com ([Protesters intent on harming the armed forces or  public property are  earnestly urged to desist from all forms of violence immediately or be prepared to face consequences as members of the armed forces are legitimately empowered to exercise  force if the situation deems necessary](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44053df3.json))
 
 * **17** colombo-telegraph-com ([The New President Must Learn From Gota!](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abdffdac.json))
 
