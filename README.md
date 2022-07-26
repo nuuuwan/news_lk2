@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 02:43:29 (LK time)*
+*As of 2022-07-27 02:58:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([The trauma of living this story](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc49206e.json))
 
 ## Last 3 Hours (4 Articles)
 
