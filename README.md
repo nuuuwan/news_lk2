@@ -1,18 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 01:00:31 (LK time)*
+*As of 2022-07-27 01:16:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (3 Articles)
 
-* **4** ada-derana-lk ([Special notice for those in urgent need of passport services](https://github.com/nuuuwan/news_lk2/blob/data/articles/8f/8f92edb3.json))
+* **2** ada-derana-lk ([Four arrested for idling near Bandaranaike statue remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f07f967e.json))
 
 * **1** daily-mirror-lk ([Stop arrests, suppression of protesters: AKD urges Govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61a3e29.json))
 
-* **1** virakesari-lk ([உயிர்த்த ஞாயிறு தின தாக்குதல்கள் : ரணிலின் விடுபாட்டுரிமைக்கு மைத்திரி கடும் ஆட்சேபனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/1841e625.json))
-
-## Last 24 Hours (236 Articles)
+## Last 24 Hours (235 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -26,7 +24,7 @@
 
 * **20** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
 
-* **19** tamil-mirror-lk ([இன்று முதல் கியூ.ஆர். முறைமையில் எரிபொருள் விநியோகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5145f17c.json))
+* **18** tamil-mirror-lk ([இலங்கையர்களுக்கு தொழில் வாய்ப்பு  வழங்கும் ஜப்பான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cde7873.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
@@ -36,7 +34,7 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,098 Articles)
+## Last Week (1,097 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -52,7 +50,7 @@
 
 * **100** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **77** daily-ft-lk ([If only those walls could talk](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/593d5710.json))
+* **76** daily-ft-lk ([Third batch of China’s grant rice arrives](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/300def0e.json))
 
 * **55** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
