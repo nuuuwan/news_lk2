@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/President-Wickremesinghe-current-Pohottuwa-Govt-and-the-way-forward-A-call-from-citizens/14-737949",
+    "time_ut": 1658876436,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe, current Pohottuwa Govt. and the  way forward: A call from citizens",
+    "file_name": "/tmp/news_lk2/articles/48/48402c18.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Avalanche-of-non-news/4-737948",
+    "time_ut": 1658876311,
+    "original_lang": "en",
+    "original_title": "Avalanche of non-news",
+    "file_name": "/tmp/news_lk2/articles/0a/0ab251d6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Neelan-Tiruchelvam-LTTE-and-the-devolution-package/4-737947",
     "time_ut": 1658875739,
     "original_lang": "en",

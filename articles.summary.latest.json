@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/President-Wickremesinghe-current-Pohottuwa-Govt-and-the-way-forward-A-call-from-citizens/14-737949",
+    "time_ut": 1658876436,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe, current Pohottuwa Govt. and the  way forward: A call from citizens",
+    "file_name": "/tmp/news_lk2/articles/48/48402c18.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Avalanche-of-non-news/4-737948",
+    "time_ut": 1658876311,
+    "original_lang": "en",
+    "original_title": "Avalanche of non-news",
+    "file_name": "/tmp/news_lk2/articles/0a/0ab251d6.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Neelan-Tiruchelvam-LTTE-and-the-devolution-package/4-737947",
     "time_ut": 1658875739,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1 \u0d85\u0dbb\u0d9c\u0dbd\u0dba:''\u0dbb\u0db1\u0dd2\u0dbd\u0dca\u0da7 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0daf\u0dc0\u0dc3\u0d9a\u0dca\u0dc0\u0dad\u0dca \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d85\u0db4\u0dd2 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1.''",
     "file_name": "/tmp/news_lk2/articles/75/75f99fe8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Kelani-Valley-trains-delayed-due-to-sheer-negligence-of-Train-guard-driver/108-241568",
-    "time_ut": 1658463554,
-    "original_lang": "en",
-    "original_title": "Kelani Valley trains delayed due to sheer negligence of Train guard, driver",
-    "file_name": "/tmp/news_lk2/articles/64/6442ca44.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Senesh-and-Charuka-stand-rescue-Thomians/110-241567",
-    "time_ut": 1658463278,
-    "original_lang": "en",
-    "original_title": "Senesh and Charuka stand rescue Thomians",
-    "file_name": "/tmp/news_lk2/articles/7c/7c8ccea0.json"
   }
 ]
