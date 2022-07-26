@@ -1,11 +1,91 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0dca-\u0dc4\u0dd9\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0da7/101-617073",
+    "time_ut": 1658829515,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0d9a\u0dca \u0dc4\u0dd9\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0da7",
+    "file_name": "/tmp/news_lk2/articles/54/54f67892.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-minister-gets-cabinet-approval-to-save-railway-trade-unions-97910/",
+    "time_ut": 1658829360,
+    "original_lang": "en",
+    "original_title": "Sri Lanka minister gets cabinet approval to save railway trade unions",
+    "file_name": "/tmp/news_lk2/articles/fd/fdbe2248.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83882/private-bus-strike-on-several-routes-demanding-fuel",
+    "time_ut": 1658829120,
+    "original_lang": "en",
+    "original_title": "Private bus strike on several routes demanding fuel",
+    "file_name": "/tmp/news_lk2/articles/4e/4e66bac6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/four-arrested-near-bandaranaike-statue/",
+    "time_ut": 1658829060,
+    "original_lang": "en",
+    "original_title": "Four arrested near Bandaranaike Statue",
+    "file_name": "/tmp/news_lk2/articles/81/816b4d03.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Debate-on-Emergancy-proclamation-in-Parliament-tomorrow/342-241817",
+    "time_ut": 1658829046,
+    "original_lang": "en",
+    "original_title": "Debate on Emergancy proclamation in Parliament tomorrow",
+    "file_name": "/tmp/news_lk2/articles/fa/fa440b5d.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd3\u0dc0\u0db1-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0d9a\u0da7-\u0db8\u0dd0\u0daf\u0dd2-\u0dc0\u0dd6-\u0d9c\u0ddc\u0dc0\u0dd2-\u0dbb\u0da2\u0dc0\u0dbb\u0dd4/101-617071",
+    "time_ut": 1658828690,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd3\u0dc0\u0db1 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0d9a\u0da7 \u0db8\u0dd0\u0daf\u0dd2 \u0dc0\u0dd6 \u0d9c\u0ddc\u0dc0\u0dd2 \u0dbb\u0da2\u0dc0\u0dbb\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/04/047d8a77.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132295",
+    "time_ut": 1658828418,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baf\u0bbe\u0bb4\u0bcd. \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b1/b1f0caf7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/modi-congratulates-ranil-says-india-will-support-sri-lankan-people/",
+    "time_ut": 1658828340,
+    "original_lang": "en",
+    "original_title": "Modi congratulates Ranil; says India will support Sri Lankan people",
+    "file_name": "/tmp/news_lk2/articles/a2/a2ef4a73.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/qr-system-fuel-quota-increased-for-all-vehicles/",
+    "time_ut": 1658828280,
+    "original_lang": "en",
+    "original_title": "QR system fuel quota increased for all vehicles",
+    "file_name": "/tmp/news_lk2/articles/35/35efd56b.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83881/dan-priyasads-brother-hacked-to-death",
     "time_ut": 1658828280,
     "original_lang": "en",
     "original_title": "Dan Priyasad\u2019s brother hacked to death",
     "file_name": "/tmp/news_lk2/articles/95/958315da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/lp-gas-theft-caught-on-tape/",
+    "time_ut": 1658828040,
+    "original_lang": "en",
+    "original_title": "LP Gas theft caught on tape",
+    "file_name": "/tmp/news_lk2/articles/6c/6c8b578f.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -40,6 +120,14 @@
     "file_name": "/tmp/news_lk2/articles/e5/e52c5245.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba-\u0db6\u0dbb\u0db4\u0dad\u0dbd-\u0dbd\u0dd9\u0dc3--\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0dc0\u0dd9\u0db1\u0dc0\u0dcf/11-395755",
+    "time_ut": 1658827041,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba \u0db6\u0dbb\u0db4\u0dad\u0dbd \u0dbd\u0dd9\u0dc3  \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/c6/c65c37f4.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba8\u0bcd\u0ba4-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3-\u0bae\u0bbe\u0bb1\u0bbf\u0ba9/175-301158",
     "time_ut": 1658827030,
@@ -54,6 +142,22 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/83/832d36f6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/health-dg-strongly-recommends-to-wear-masks/",
+    "time_ut": 1658826960,
+    "original_lang": "en",
+    "original_title": "Health DG strongly recommends to wear masks",
+    "file_name": "/tmp/news_lk2/articles/e1/e1b4e2d0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/long-term-investments-in-sri-lanka-are-indias-plan-to-fix-economic-crisis/",
+    "time_ut": 1658826900,
+    "original_lang": "en",
+    "original_title": "Long-term investments in Sri Lanka are India\u2019s plan to fix economic crisis",
+    "file_name": "/tmp/news_lk2/articles/88/888ed8b0.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -78,6 +182,14 @@
     "original_lang": "si",
     "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dba\u0dc5\u0dd2 \u0d91\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/d2/d23117ba.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/26/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism/",
+    "time_ut": 1658825940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
+    "file_name": "/tmp/news_lk2/articles/e2/e2ae9840.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1190,14 +1302,6 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0d82\u0d9a\u0dcf \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0da7 \u0d85\u0daf \u0d85\u0db3\u0dd4\u0dbb\u0dd4 \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/63/63cec4ba.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83869/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism",
-    "time_ut": 1658767980,
-    "original_lang": "en",
-    "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
-    "file_name": "/tmp/news_lk2/articles/e7/e77198a7.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7568,6 +7672,14 @@
     "file_name": "/tmp/news_lk2/articles/cd/cdeb292a.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-public-debt-surges-over-127-pct-of-gdp-as-monetary-instability-bites-97745/",
+    "time_ut": 1658378340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites",
+    "file_name": "/tmp/news_lk2/articles/10/10a4c407.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/features/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d85\u0db6\u0dd2\u0dba\u0dc3-\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0dba\u0dd2/2-616776",
     "time_ut": 1658376472,
@@ -7886,117 +7998,5 @@
     "original_lang": "en",
     "original_title": "NPP presents series of proposals to revive country",
     "file_name": "/tmp/news_lk2/articles/29/29096e99.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Weerawansa-Gammanpila-and-group-to-back-Dullas-for-President/56-737697",
-    "time_ut": 1658261000,
-    "original_lang": "en",
-    "original_title": "Weerawansa, Gammanpila and group to back Dullas for President",
-    "file_name": "/tmp/news_lk2/articles/93/930aebf4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/FR-against-Acting-President-Ranil-Wickremesinghe-dismissed-by-SC/56-737696",
-    "time_ut": 1658260863,
-    "original_lang": "en",
-    "original_title": "FR against Acting President Ranil Wickremesinghe dismissed by SC",
-    "file_name": "/tmp/news_lk2/articles/d6/d6229156.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Britain-should-lead-international-aid-effort-for-Sri-Lanka/56-737695",
-    "time_ut": 1658260751,
-    "original_lang": "en",
-    "original_title": "Britain should lead international aid effort for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/e8/e80e8f31.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Health-authorities-warn-of-30-40-spike-in-COVID-cases/56-737694",
-    "time_ut": 1658260578,
-    "original_lang": "en",
-    "original_title": "Health authorities warn of 30%-40% spike in COVID cases",
-    "file_name": "/tmp/news_lk2/articles/1e/1e3760dc.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Six-COVID-19-fatalities-raise-death-toll-to-16-531/56-737693",
-    "time_ut": 1658260378,
-    "original_lang": "en",
-    "original_title": "Six COVID-19 fatalities raise death toll to 16,531",
-    "file_name": "/tmp/news_lk2/articles/d0/d0d0e2a3.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Third-batch-of-China-s-grant-rice-arrives/56-737692",
-    "time_ut": 1658260345,
-    "original_lang": "en",
-    "original_title": "Third batch of China\u2019s grant rice arrives",
-    "file_name": "/tmp/news_lk2/articles/30/300def0e.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/If-only-those-walls-could-talk/14-737690",
-    "time_ut": 1658259720,
-    "original_lang": "en",
-    "original_title": "If only those walls could talk",
-    "file_name": "/tmp/news_lk2/articles/59/593d5710.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78650",
-    "time_ut": 1658258640,
-    "original_lang": "en",
-    "original_title": "Six-time Prime Minister and acting President Ranil Wickremesinghe elected President by the  Sri Lanka Parliament on July 20; Defeats  Dullas Alahapperuma by 134 Votes to 82 While Anura Kumara Dissanayake gets 3 Votes",
-    "file_name": "/tmp/news_lk2/articles/36/36906a5b.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Invest-to-progress-not-to-regress-Bridging-the-infrastructure-gaps-in-Sri-Lanka/4-737685",
-    "time_ut": 1658258258,
-    "original_lang": "en",
-    "original_title": "Invest to progress, not to regress: Bridging the infrastructure gaps in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/b6/b62db5d4.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Central-Bank-its-independence-and-us/4-737683",
-    "time_ut": 1658257709,
-    "original_lang": "en",
-    "original_title": "Central Bank, its independence and us",
-    "file_name": "/tmp/news_lk2/articles/de/de98d92c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Countdown-to-end-Lankas-political-vacuum-has-begun-EDITORIAL/231-241398",
-    "time_ut": 1658257612,
-    "original_lang": "en",
-    "original_title": "Countdown to end Lanka\u2019s political vacuum has begun - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/10/1078d6ef.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78660",
-    "time_ut": 1658257560,
-    "original_lang": "en",
-    "original_title": "\u201cMy life has been in this Parliament for 45 years . Hence I like to extend a special gratitude to have been honoured with the Presidency by the very  same Parliament.\u201d -President  Ranil Wickremesinghe",
-    "file_name": "/tmp/news_lk2/articles/02/02c31231.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Ranil-Rajapaksa-Wickremesinghe-s-power-grab-will-end-badly-for-Sri-Lanka/14-737682",
-    "time_ut": 1658257309,
-    "original_lang": "en",
-    "original_title": "\u2018Ranil Rajapaksa\u2019: Wickremesinghe\u2019s power grab will end badly for Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/85/85c573ff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/New-Law-or-the-same-old-wine-in-new-glasses/172-241397",
-    "time_ut": 1658257202,
-    "original_lang": "en",
-    "original_title": "New Law or the same old wine  in new glasses?",
-    "file_name": "/tmp/news_lk2/articles/f4/f483e456.json"
   }
 ]
