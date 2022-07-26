@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83889/fuel-prices-to-reduce-at-next-price-revision",
+    "time_ut": 1658843460,
+    "original_lang": "en",
+    "original_title": "Fuel prices to reduce at next price revision?",
+    "file_name": "/tmp/news_lk2/articles/22/22b545a5.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/covid19/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-5-\u0d9a\u0dca/203-617085",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0d9a\u0dbb\u0d9c\u0dad\u0dca-\u0d85\u0dba\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/101-617086",
+    "time_ut": 1658842629,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dc3\u0dca\u0db4\u0ddd\u0da7\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dda \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0d9a\u0dbb\u0d9c\u0dad\u0dca \u0d85\u0dba\u0da7 \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/fb/fbb51306.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0db8\u0dbb\u0dab-5-\u0d9a\u0dca/101-617085",
     "time_ut": 1658841796,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0db8\u0dbb\u0dab 5 \u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/33/334947d4.json"
+    "file_name": "/tmp/news_lk2/articles/79/7957c8d7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -17,11 +33,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/covid19/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca--\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dd4\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf/203-617084",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca--\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dd4\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf/101-617084",
     "time_ut": 1658841645,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca  \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dd4\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/27/27a51158.json"
+    "file_name": "/tmp/news_lk2/articles/7c/7c76401b.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd9\u0db8\u0ddd\u0daf\u0dbb\u0daf\u0dd3-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dda-\u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca-\u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dc0-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda/101-617083",
+    "time_ut": 1658841475,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0dd9\u0db8\u0ddd\u0daf\u0dbb\u0daf\u0dd3 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dd4\u0dab\u0dd4 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0db6\u0dbb\u0db4\u0dad\u0dc5\u0dc0 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/16/16d68305.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
