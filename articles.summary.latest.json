@@ -1,11 +1,67 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Repeal-emergency-regulations/342-241822",
+    "time_ut": 1658840497,
+    "original_lang": "en",
+    "original_title": "Repeal emergency regulations...",
+    "file_name": "/tmp/news_lk2/articles/4b/4ba85f3a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da0\u0dd3\u0db1-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a/1-617082",
+    "time_ut": 1658840288,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da0\u0dd3\u0db1 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/8a/8ae9cfbe.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132307",
+    "time_ut": 1658840003,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 - \u0b9a\u0b95\u0bcb\u0ba4\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/d4/d42a2e3d.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-27-97913/",
+    "time_ut": 1658839920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for July 27",
+    "file_name": "/tmp/news_lk2/articles/6c/6c22e4bb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83888/sri-lanka-confirms-119-new-covid-19-cases-and-five-more-deaths",
+    "time_ut": 1658839920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka confirms 119 new Covid-19 cases and five more deaths",
+    "file_name": "/tmp/news_lk2/articles/8d/8d6cf8f3.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dd0\u0dba-3-\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0-\u0dc4\u0dd9\u0da7\u0dad\u0dca/1-617081",
+    "time_ut": 1658839901,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dba 3 \u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0 \u0dc4\u0dd9\u0da7\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/b0/b069268b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Bharana-tusker-found-dead-mysteriously/108-241821",
     "time_ut": 1658839879,
     "original_lang": "en",
     "original_title": "Bharana tusker found dead mysteriously",
     "file_name": "/tmp/news_lk2/articles/0a/0a3c892d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Tusker-Bharana-found-dead-mysteriously/342-241821",
+    "time_ut": 1658839879,
+    "original_lang": "en",
+    "original_title": "Tusker Bharana found dead mysteriously",
+    "file_name": "/tmp/news_lk2/articles/48/4879f3a4.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -38,6 +94,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn",
     "file_name": "/tmp/news_lk2/articles/48/486fe7c1.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-100-\u0db4\u0db1\u0dd2\u0dba\u0dd2---\u0db8\u0dbb\u0dab\u0dad\u0dca-5\u0d9a\u0dca/11-395765",
+    "time_ut": 1658839187,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 100 \u0db4\u0db1\u0dd2\u0dba\u0dd2 - \u0db8\u0dbb\u0dab\u0dad\u0dca 5\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/e5/e5fbf8a6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -137,11 +201,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-617077",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-617077",
     "time_ut": 1658833850,
     "original_lang": "si",
     "original_title": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0db1 \u0db6\u0dc3\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/7c/7c8e0c83.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9f47ada2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "en",
     "original_title": "An honourable defeat",
     "file_name": "/tmp/news_lk2/articles/4b/4b46ef94.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-gain-for-5th-straight-session-on-stability-hopes-under-new-leader-97763/",
-    "time_ut": 1658419920,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks gain for 5th straight session on stability hopes under new leader",
-    "file_name": "/tmp/news_lk2/articles/61/61161209.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-govt-security-rates-fall-guidance-peg-strengthen-97762/",
-    "time_ut": 1658419080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka govt security rates fall; guidance peg strengthen",
-    "file_name": "/tmp/news_lk2/articles/55/5572420b.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/the-great-cinemas-of-colombo/",
-    "time_ut": 1658415660,
-    "original_lang": "en",
-    "original_title": "The Great Cinemas of Colombo",
-    "file_name": "/tmp/news_lk2/articles/fa/fadfcb97.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/a-democracy-in-question/",
-    "time_ut": 1658409918,
-    "original_lang": "en",
-    "original_title": "A Democracy In Question",
-    "file_name": "/tmp/news_lk2/articles/15/1519c8b6.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/a-nation-in-distress/",
-    "time_ut": 1658389990,
-    "original_lang": "en",
-    "original_title": "A Nation In Distress",
-    "file_name": "/tmp/news_lk2/articles/62/623da18a.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62252246",
-    "time_ut": 1658389910,
-    "original_lang": "si",
-    "original_title": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba:\"\u0d85\u0db4\u0da7 \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca \u0d95\u0db1\u0dda \u0db1\u0db8\u0dca, \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d95\u0db1\u0dda\"",
-    "file_name": "/tmp/news_lk2/articles/6d/6d692bbf.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/the-elephant-in-the-room-geopolitics-the-great-reset-in-sri-lanka/",
-    "time_ut": 1658389035,
-    "original_lang": "en",
-    "original_title": "The Elephant In The Room: Geopolitics & The \u2018Great Reset\u2019 In Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/d8/d890dfe3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/131932",
-    "time_ut": 1658384419,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bc6\u0bbe\u0bb1\u0bc1\u0bae\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/61/616efdc0.json"
   }
 ]
