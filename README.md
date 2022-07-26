@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 02:04:14 (LK time)*
+*As of 2022-07-27 02:11:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** daily-mirror-lk ([Gas shortage could have been averted  – Litro Chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59ab03f7.json))
+* **1** daily-mirror-lk ([The trauma of living this story](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc49206e.json))
 
 ## Last Hour (4 Articles)
 
