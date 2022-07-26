@@ -1,19 +1,19 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-Wickremasinghe-should-be-discharged-from-FR-petitions-filed-over-Easter-Sunday-attacks-Counsel/342-241825",
+    "url": "https://www.dailymirror.lk/breaking_news/President-Wickremasinghe-should-be-discharged-from-FR-petitions-filed-over-Easter-Sunday-attacks-Counsel/108-241825",
     "time_ut": 1658844456,
     "original_lang": "en",
     "original_title": "President Wickremasinghe should be discharged from FR petitions filed over Easter Sunday attacks: Counsel",
-    "file_name": "/tmp/news_lk2/articles/7a/7a49f4af.json"
+    "file_name": "/tmp/news_lk2/articles/ac/acb3f139.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/School-hospital-transport-services-to-resume-from-August-1-Gemunu/342-241823",
+    "url": "https://www.dailymirror.lk/breaking_news/School-hospital-transport-services-to-resume-from-August-1-Gemunu/108-241823",
     "time_ut": 1658843928,
     "original_lang": "en",
     "original_title": "School, hospital transport services to resume from August 1: Gemunu",
-    "file_name": "/tmp/news_lk2/articles/5e/5e66e21b.json"
+    "file_name": "/tmp/news_lk2/articles/56/564c33e3.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -72,12 +72,20 @@
     "file_name": "/tmp/news_lk2/articles/52/527a7999.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd2\u0dc3\u0dbd\u0dca-\u0dbd\u0dd3\u0da7\u0dbb\u0dca-1914\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395766",
+    "time_ut": 1658840672,
+    "original_lang": "si",
+    "original_title": "\u0da9\u0dd2\u0dc3\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1914\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/59/59e12080.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Repeal-emergency-regulations/342-241822",
+    "url": "https://www.dailymirror.lk/caption_story/Repeal-emergency-regulations/110-241822",
     "time_ut": 1658840497,
     "original_lang": "en",
     "original_title": "Repeal emergency regulations...",
-    "file_name": "/tmp/news_lk2/articles/4b/4ba85f3a.json"
+    "file_name": "/tmp/news_lk2/articles/3d/3d0d98bf.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -129,11 +137,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tusker-Bharana-found-dead-mysteriously/342-241821",
+    "url": "https://www.dailymirror.lk/breaking_news/Tusker-Bharana-found-dead-mysteriously/108-241821",
     "time_ut": 1658839879,
     "original_lang": "en",
     "original_title": "Tusker Bharana found dead mysteriously",
-    "file_name": "/tmp/news_lk2/articles/48/4879f3a4.json"
+    "file_name": "/tmp/news_lk2/articles/96/9648790e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka Is A Neoliberal Failed State",
     "file_name": "/tmp/news_lk2/articles/c2/c2aa306b.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78691",
-    "time_ut": 1658432460,
-    "original_lang": "en",
-    "original_title": "Ranil Wickremesinghe\u2019s  election raises hopes that Sri Lanka, which has been in economic and political turmoil for months, will at last regain the political stability required to solve its economic problems. But Mr Wickremesinghe\u2019s chances of success are complicated\u201d- The Economist.",
-    "file_name": "/tmp/news_lk2/articles/32/32d690eb.json"
   }
 ]
