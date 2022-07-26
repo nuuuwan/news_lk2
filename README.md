@@ -1,66 +1,62 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 17:38:25 (LK time)*
+*As of 2022-07-26 17:49:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **1** ada-derana-lk ([3-hour power cuts for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b37d2a6.json))
+
+* **1** news-first-lk ([Rainfall expected tonight (26)](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c446f499.json))
+
+* **1** tamil-mirror-lk ([தனியார் பஸ் உரிமையாளர்கள் விடுக்கும் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a27f404.json))
+
+## Last Hour (8 Articles)
 
 * **2** ada-derana-lk ([Excise Dept to launch new mobile app for liquor authenticity detection](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aab1f29d.json))
 
 * **2** news-first-lk ([3-hour power cuts for Wednesday (27)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ee2b32e.json))
 
-* **1** tamil-mirror-lk ([தனியார் பஸ் உரிமையாளர்கள் விடுக்கும் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a27f404.json))
+* **2** tamil-mirror-lk ([வைத்தியசாலை பணியாளர்களால்  பறிக்கப்பட்ட  உயிர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce524e84.json))
 
 * **1** lankadeepa-lk ([ගෝඨා ගමට ගැහුවාට ස්විස්ටර්ලන්තයේ ලාංකිකයෝ විරෝධතාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3133177.json))
 
 * **1** daily-mirror-lk ([FR filed by Police OIC challenging transfer at the behest of racketeers: SC grants leave to proceed](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56866e08.json))
 
-## Last Hour (12 Articles)
+## Last 3 Hours (46 Articles)
 
-* **3** ada-derana-lk ([Passports to be issued only to those with prior appointments](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75bcf46d.json))
+* **10** news-first-lk ([LP Gas theft caught on tape](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c8b578f.json))
 
-* **3** news-first-lk ([Two days allocated for school vans and buses to obtain fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/646ba5ef.json))
-
-* **3** lankadeepa-lk ([නුගේගොඩින් ආරම්භ වන බස් ධාවනයෙන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9175e224.json))
-
-* **2** tamil-mirror-lk ([வைத்தியசாலை பணியாளர்களால்  பறிக்கப்பட்ட  உயிர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce524e84.json))
-
-* **1** daily-mirror-lk ([FR filed by Police OIC challenging transfer at the behest of racketeers: SC grants leave to proceed](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56866e08.json))
-
-## Last 3 Hours (54 Articles)
-
-* **12** news-first-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/888ed8b0.json))
-
-* **8** ada-derana-lk ([Weekly fuel quota for all types of vehicles revised](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab4d8321.json))
-
-* **8** ada-lk ([රාජ්‍ය ප්‍රචණ්ඩත්වය බරපතල ලෙස  ක්‍රියාත්මක වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c65c37f4.json))
-
-* **8** virakesari-lk ([முதலீடின்றி கனவை அடையலாம்!](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e52c5245.json))
-
-* **7** tamil-mirror-lk ([காலி முகத்திடலில் பதற்றம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/832d36f6.json))
+* **7** ada-derana-lk ([Dan Priyasad’s brother hacked to death](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/958315da.json))
 
 * **7** lankadeepa-lk ([ජීවන අරගලයකට මැදි වූ ගොවි රජවරු](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d98b75e3.json))
+
+* **7** ada-lk ([කුණු ලොරියේ ඩීසල් ඇද්ද සහයක මාට්ටූ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7a99293.json))
+
+* **7** virakesari-lk ([துப்பாக்கிச்சூட்டில் 3 பிள்ளைகளின் தந்தை உயிரிழப்பு !](https://github.com/nuuuwan/news_lk2/blob/data/articles/f0/f0fff338.json))
+
+* **4** tamil-mirror-lk ([’ஆயுதமேந்தும் நோக்கமில்லை’](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59b89a03.json))
 
 * **3** daily-mirror-lk ([Debate on Emergancy proclamation in Parliament tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fa440b5d.json))
 
 * **1** economy-next-com ([Sri Lanka minister gets cabinet approval to save railway trade unions](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdbe2248.json))
 
-## Last 24 Hours (241 Articles)
+## Last 24 Hours (237 Articles)
 
 * **42** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට අපට ආරාධනා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0482eab.json))
 
-* **33** news-first-lk ([T-56 Assault Rifle stolen during protest, found in Diyawanna Oya](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12a0459f.json))
-
-* **32** tamil-mirror-lk ([எரிபொருளுடன் பிடிபட்ட தொழிலதிபர் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/966758a5.json))
+* **32** news-first-lk ([One Year On: The Late Great Rajamahendran remembered](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/710b4757.json))
 
 * **32** ada-lk ([නව ගමනක් වෙනුවට තියෙන්නේ රාජ්‍ය ප්‍රචණ්ඩත්වයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08e153de.json))
+
+* **31** tamil-mirror-lk ([ஒமிக்ரோன் உப பிறழ்வு  வேகமாக பரவுகிறது](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4222695c.json))
 
 * **29** virakesari-lk ([மட்டக்களப்பில் தங்க ஆபரணங்களை திருடிய ஒரே குடும்பத்தைச் சேர்ந்த 2 பெண்கள், 3 ஆண்கள் உட்பட 5 பேர் ஹரோயினுடன் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cd201ed7.json))
 
 * **24** ada-derana-lk ([Covid-19 cases in Sri Lanka on the rise again](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62df3e8c.json))
 
-* **24** daily-mirror-lk ([PM meets received blessings](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e7aa3712.json))
+* **22** daily-mirror-lk ([Tusker saved from drowning](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7dd918bb.json))
 
 * **11** economy-next-com ([Sri Lanka’s forex crisis to prolong fuel shortage at least for 12 months – minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/76bef5d7.json))
 
