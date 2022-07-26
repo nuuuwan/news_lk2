@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 20:30:05 (LK time)*
+*As of 2022-07-26 20:38:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,7 +10,7 @@
 
 * **1** lankadeepa-lk ([රූපවාහිනී සංස්ථාවට ඇතුළුවී  සජීවි විකාශයකට සම්බන්ධ වූ දෙදෙනාගෙන් අයෙක් දැලේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6012fa9e.json))
 
-## Last Hour (6 Articles)
+## Last Hour (5 Articles)
 
 * **2** lankadeepa-lk ([රටෙි නායකත්වය දිය යුතු පළපුරුදු ම නායකයා රනිල්](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be008c93.json))
 
@@ -20,9 +20,7 @@
 
 * **1** ada-lk ([AKD හා ඉන්දිය මහ කොමසාරිස් අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d912c9e.json))
 
-* **1** daily-mirror-lk ([President Wickremasinghe should be discharged from FR petitions filed over Easter Sunday attacks: Counsel](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a49f4af.json))
-
-## Last 3 Hours (30 Articles)
+## Last 3 Hours (29 Articles)
 
 * **9** lankadeepa-lk ([පැය 3 ක විදුලි කප්පාදුව හෙටත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b069268b.json))
 
@@ -32,15 +30,15 @@
 
 * **3** ada-lk ([කොවිඩ් ආසාදිතයන් 100 පනියි - මරණත් 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5fbf8a6.json))
 
-* **3** news-first-lk ([Parliament to meet tomorrow (27) to debate emergency](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf676aaf.json))
-
 * **2** tamil-mirror-lk ([கொவிட் மரணங்களும் பாதிப்புகளும் அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e38b176f.json))
 
 * **2** ada-derana-lk ([Sri Lanka confirms 119 new Covid-19 cases and five more deaths](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8d6cf8f3.json))
 
 * **2** virakesari-lk ([மட்டக்களப்பில் கோர விபத்து - சகோதரர்கள் இருவர் சம்பவ இடத்திலேயே உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d42a2e3d.json))
 
-## Last 24 Hours (248 Articles)
+* **2** news-first-lk ([Easter Attack FR against new President to continue?](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/39671683.json))
+
+## Last 24 Hours (247 Articles)
 
 * **47** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
 
@@ -52,9 +50,9 @@
 
 * **29** virakesari-lk ([பாடசாலைகள் மீள ஆரம்பம் - போக்குவரத்து நெருக்கடியால் கடும் அசௌகரியத்தை எதிர்கொண்ட மாணவர்கள், ஆசிரியர்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b1986eb.json))
 
-* **23** daily-mirror-lk ([Black July observed at...](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/876ede77.json))
-
 * **23** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
+
+* **22** daily-mirror-lk ([Place a recovery roadmap before people](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2e64ca5.json))
 
 * **14** economy-next-com ([Sri Lanka govt security yields slightly up in dull trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8287d01.json))
 
