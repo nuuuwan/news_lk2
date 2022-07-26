@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395752",
+    "time_ut": 1658821979,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/f5/f5231a25.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132282",
     "time_ut": 1658821845,
     "original_lang": "ta",
     "original_title": "\u0b87.\u0ba4\u0bca.\u0b95\u0bbe \u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1  \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bc1\u0bb5\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe ?",
     "file_name": "/tmp/news_lk2/articles/61/61c939cf.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83878/man-killed-in-shooting-incident-in-balapitiya",
+    "time_ut": 1658821620,
+    "original_lang": "en",
+    "original_title": "Man killed in shooting incident in Balapitiya",
+    "file_name": "/tmp/news_lk2/articles/db/db7af3af.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -33,11 +49,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca/101-617056",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca/1-617056",
     "time_ut": 1658820312,
     "original_lang": "si",
     "original_title": "\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda\u0daf\u0dd3 \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/bc/bcc579a9.json"
+    "file_name": "/tmp/news_lk2/articles/52/52107169.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -73,11 +89,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da9\u0dd1\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dc3\u0dcf\u0daf\u0dca\u0d9c\u0dda-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf-\u0d9a\u0db4\u0dcf-\u0d9a\u0ddc\u0da7\u0dcf-\u0db8\u0dbb\u0dcf-\u0daf\u0db8\u0dba\u0dd2/101-617054",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da9\u0dd1\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dc3\u0dcf\u0daf\u0dca\u0d9c\u0dda-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf-\u0d9a\u0db4\u0dcf-\u0d9a\u0ddc\u0da7\u0dcf-\u0db8\u0dbb\u0dcf-\u0daf\u0db8\u0dba\u0dd2/1-617054",
     "time_ut": 1658819670,
     "original_lang": "si",
     "original_title": "\u0da9\u0dd1\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dc3\u0dcf\u0daf\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf \u0d9a\u0db4\u0dcf \u0d9a\u0ddc\u0da7\u0dcf \u0db8\u0dbb\u0dcf \u0daf\u0db8\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a9/a9042841.json"
+    "file_name": "/tmp/news_lk2/articles/d5/d5138bc1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -577,11 +593,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0daf\u0dd4-\u0dad\u0dd0\u0db1\u0dc0\u0dbd-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0d86\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2/101-617036",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0daf\u0dd4-\u0dad\u0dd0\u0db1\u0dc0\u0dbd-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0d86\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2/1-617036",
     "time_ut": 1658807524,
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0daf\u0dd4 \u0dad\u0dd0\u0db1\u0dc0\u0dbd \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d86\u0dc0\u0dbb\u0dab\u0dba \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b8/b88dbc58.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2b668a9d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -688,6 +704,14 @@
     "file_name": "/tmp/news_lk2/articles/cb/cb31b6f6.json"
   },
   {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/president-has-to-try-harder-to-re-establish-a-legitimate-government/",
+    "time_ut": 1658803179,
+    "original_lang": "en",
+    "original_title": "President Has To Try Harder To Re-Establish A Legitimate Government",
+    "file_name": "/tmp/news_lk2/articles/84/84a0b160.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dc0\u0ddb\u0dbb-\u0dc3\u0dc4\u0d9c\u0dad-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-FB-\u0dc4\u0dbb\u0dc4\u0dcf-Comment-\u0d9a\u0dc5\u0dcf\u0da7-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395738",
     "time_ut": 1658802803,
@@ -713,11 +737,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dd2\u0da7-\u0da7\u0dd2\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9-\u0db1\u0dd1/101-617034",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dd2\u0da7-\u0da7\u0dd2\u0dc0\u0dd2\u0da7\u0dbb\u0dca-\u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9-\u0db1\u0dd1/1-617034",
     "time_ut": 1658801672,
     "original_lang": "si",
     "original_title": "\u0d85\u0db4\u0dd2\u0da7 \u0da7\u0dd2\u0dc0\u0dd2\u0da7\u0dbb\u0dca \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/41/4195eb14.json"
+    "file_name": "/tmp/news_lk2/articles/19/19491f3d.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0da9\u0dbd\u0dc3\u0dca \u0db6\u0dd9\u0daf\u0dd3 \u0dad\u0dbb\u0d9c \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db1\u0db8\u0dca,\u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0db1 \u0db6\u0dc0 \u0dc3\u0dca\u0dae\u0dd2\u0dbb\u0dba\u0dd2!",
     "file_name": "/tmp/news_lk2/articles/67/67e7349f.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-opposition-mp-says-agreed-with-rival-on-post-presidential-vote-economy-97596/",
-    "time_ut": 1658174760,
-    "original_lang": "en",
-    "original_title": "Sri Lanka opposition MP says agreed with rival on post-presidential vote economy",
-    "file_name": "/tmp/news_lk2/articles/9d/9d80c531.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Evolving-world-of-work-may-require-reshaping-of-social-security-in-Sri-Lanka-EFC-Chief/34-737658",
-    "time_ut": 1658172726,
-    "original_lang": "en",
-    "original_title": "Evolving world of work may require reshaping of social security in Sri Lanka: EFC Chief",
-    "file_name": "/tmp/news_lk2/articles/4f/4f723e13.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78642",
-    "time_ut": 1658172240,
-    "original_lang": "en",
-    "original_title": "Three-way contest for Presidential Election  with Ranil Wickremesinghe, Dullas Alahapperuma and Anura Kumara Dissanayake in the fray after  Sajith Premadasa withdraws bid",
-    "file_name": "/tmp/news_lk2/articles/33/33453388.json"
   }
 ]
