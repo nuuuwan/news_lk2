@@ -1,48 +1,52 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 20:03:52 (LK time)*
+*As of 2022-07-26 20:15:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (2 Articles)
 
+* **1** economy-next-com ([Sri Lanka yet to make face masks mandatory despite spike in Covid-19 deaths, cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de7a3d6c.json))
+
 * **1** lankadeepa-lk ([රටෙි නායකත්වය දිය යුතු පළපුරුදු ම නායකයා රනිල්](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be008c93.json))
 
-* **1** daily-mirror-lk ([President Wickremasinghe should be discharged from FR petitions filed over Easter Sunday attacks: Counsel](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a49f4af.json))
-
-## Last Hour (5 Articles)
-
-* **2** lankadeepa-lk ([පාස්පෝට් දෙන්නේ දිනයක් වෙන්කරගත් අයට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fbb51306.json))
+## Last Hour (6 Articles)
 
 * **2** daily-mirror-lk ([School, hospital transport services to resume from August 1: Gemunu](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e66e21b.json))
 
+* **1** economy-next-com ([Sri Lanka yet to make face masks mandatory despite spike in Covid-19 deaths, cases](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de7a3d6c.json))
+
+* **1** lankadeepa-lk ([රටෙි නායකත්වය දිය යුතු පළපුරුදු ම නායකයා රනිල්](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be008c93.json))
+
+* **1** ada-lk ([AKD හා ඉන්දිය මහ කොමසාරිස් අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d912c9e.json))
+
 * **1** ada-derana-lk ([Fuel prices to reduce at next price revision?](https://github.com/nuuuwan/news_lk2/blob/data/articles/22/22b545a5.json))
 
-## Last 3 Hours (34 Articles)
+## Last 3 Hours (33 Articles)
 
-* **9** lankadeepa-lk ([ගෝඨා ගමට ගැහුවාට ස්විස්ටර්ලන්තයේ ලාංකිකයෝ විරෝධතාවක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3133177.json))
-
-* **6** daily-mirror-lk ([FR filed by Police OIC challenging transfer at the behest of racketeers: SC grants leave to proceed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47e22cd.json))
+* **8** lankadeepa-lk ([පැය 3 ක විදුලි කප්පාදුව හෙටත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b069268b.json))
 
 * **6** news-first-lk ([3-hour power cuts for Wednesday (27)](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ee2b32e.json))
 
-* **4** ada-derana-lk ([Excise Dept to launch new mobile app for liquor authenticity detection](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aab1f29d.json))
+* **5** daily-mirror-lk ([Tusker Bharana found dead mysteriously](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/9648790e.json))
 
-* **3** economy-next-com ([Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486fe7c1.json))
+* **4** economy-next-com ([Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486fe7c1.json))
+
+* **3** ada-lk ([කොවිඩ් ආසාදිතයන් 100 පනියි - මරණත් 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5fbf8a6.json))
+
+* **3** ada-derana-lk ([3-hour power cuts for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b37d2a6.json))
 
 * **2** virakesari-lk ([மட்டக்களப்பில் கோர விபத்து - சகோதரர்கள் இருவர் சம்பவ இடத்திலேயே உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d42a2e3d.json))
 
-* **2** ada-lk ([කොවිඩ් ආසාදිතයන් 100 පනියි - මරණත් 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5fbf8a6.json))
-
 * **2** tamil-mirror-lk ([தனியார் பஸ் உரிமையாளர்கள் விடுக்கும் எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a27f404.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (250 Articles)
 
 * **46** lankadeepa-lk ([කොරෝනා ආසාදිතයන් 75ක් වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e3df9fe3.json))
 
 * **36** news-first-lk ([One Year On: The Late Great Rajamahendran remembered](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/710b4757.json))
 
-* **32** ada-lk ([අලි සබ්‍රි වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edac7063.json))
+* **33** ada-lk ([අලි සබ්‍රි වැඩ අරඹයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/edac7063.json))
 
 * **30** tamil-mirror-lk ([எரிபொருள் விநியோகம் குறித்த அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48c7300a.json))
 
@@ -52,7 +56,7 @@
 
 * **23** ada-derana-lk ([New heads of President’s Media Division](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cb2fc429.json))
 
-* **13** economy-next-com ([Sri Lanka govt security yields slightly up in dull trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8287d01.json))
+* **14** economy-next-com ([Sri Lanka govt security yields slightly up in dull trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8287d01.json))
 
 * **9** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
@@ -62,13 +66,13 @@
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,083 Articles)
+## Last Week (1,085 Articles)
 
 * **162** lankadeepa-lk ([ජනපති ගෝඨාභය පළායාමේ පසුබිම් කතාව](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cc0e956.json))
 
 * **148** virakesari-lk ([இலங்கையில் பின்பற்றப்படும் அரசமைப்பு ஜனநாயக நடைமுறைகளுக்கு இந்தியா ஆதரவு - இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
 
-* **117** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
+* **118** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
 * **115** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
@@ -80,7 +84,7 @@
 
 * **80** daily-ft-lk ([‘Ranil Rajapaksa’: Wickremesinghe’s power grab will end badly for Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/85c573ff.json))
 
-* **52** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
+* **53** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
 * **48** island-lk ([Unite!](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/493a9f14.json))
 
@@ -90,11 +94,11 @@
 
 * **17** colombo-telegraph-com ([The New President Must Learn From Gota!](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/abdffdac.json))
 
-## All Time (1,445 Articles)
+## All Time (1,447 Articles)
 
 * **224** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **175** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **176** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **154** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
@@ -110,7 +114,7 @@
 
 * **94** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **74** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
+* **75** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
 * **63** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
