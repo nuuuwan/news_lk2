@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Truth-at-last-no-adequate-supply-of-fuel-yet-EDITORIAL/172-241832",
+    "url": "https://www.dailymirror.lk/opinion/The-trauma-of-living-this-story/231-241833",
+    "time_ut": 1658866521,
+    "original_lang": "en",
+    "original_title": "The trauma of living this story",
+    "file_name": "/tmp/news_lk2/articles/cc/cc49206e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Truth-at-last-no-adequate-supply-of-fuel-yet-EDITORIAL/231-241832",
     "time_ut": 1658866069,
     "original_lang": "en",
     "original_title": "Truth at last -no adequate supply of fuel yet - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/cd/cd9fea26.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f2b5515b.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -17,11 +25,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Improving-business-strategy-through-politics-and-public-sentiment/172-241830",
+    "url": "https://www.dailymirror.lk/opinion/Improving-business-strategy-through-politics-and-public-sentiment/231-241830",
     "time_ut": 1658865544,
     "original_lang": "en",
     "original_title": "Improving business strategy through politics and public sentiment",
-    "file_name": "/tmp/news_lk2/articles/1f/1ff94b86.json"
+    "file_name": "/tmp/news_lk2/articles/c6/c601e0af.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Police gathering evidence of crimes committed at Presidential Secretariat",
     "file_name": "/tmp/news_lk2/articles/f1/f117e2b1.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-bar-association-opposition-eu-slam-assault-on-protestors-uk-us-concerned-97783/",
-    "time_ut": 1658458320,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Bar Association, opposition, EU slam assault on protestors, UK, US concerned",
-    "file_name": "/tmp/news_lk2/articles/23/23c6d216.json"
   }
 ]

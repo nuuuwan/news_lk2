@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 01:51:07 (LK time)*
+*As of 2022-07-27 02:04:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **3** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1ff94b86.json))
+* **3** daily-mirror-lk ([Gas shortage could have been averted  – Litro Chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/59/59ab03f7.json))
 
-## Last Hour (3 Articles)
+## Last Hour (4 Articles)
 
-* **3** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1ff94b86.json))
+* **4** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c601e0af.json))
 
-## Last 3 Hours (4 Articles)
+## Last 3 Hours (5 Articles)
 
-* **3** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/1f/1ff94b86.json))
+* **4** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c601e0af.json))
 
 * **1** ada-derana-lk ([Long-term investments in Sri Lanka are India’s plan to fix economic crisis: Envoy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93de0726.json))
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (231 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -30,19 +30,17 @@
 
 * **28** ada-derana-lk ([Fairly heavy rains above 75mm possible in four provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e610499b.json))
 
-* **23** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
+* **24** daily-mirror-lk ([Monkeypox not proven as a sexually transmittable disease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d9cc3b5d.json))
 
 * **16** tamil-mirror-lk ([ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab8bfd61.json))
 
 * **14** economy-next-com ([Sri Lanka parliament elected a ‘law and order’ president in Ranil: legislator](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe2ffb7f.json))
 
-* **5** daily-ft-lk ([Policy priorities for macroeconomic stability](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/82690fee.json))
-
 * **2** colombo-telegraph-com ([President Has To Try Harder To Re-Establish A Legitimate Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a0b160.json))
 
 * **1** b-b-c-com-sinhala ([ක්‍රීඩාව:ලෝක ශුරතා බොක්සිං තරගාවලියට සුදුසුකම් ලැබූ 'වවුනියාවේ සටන් ශුරිය'](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/745dff93.json))
 
-## Last Week (1,094 Articles)
+## Last Week (1,095 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -52,7 +50,7 @@
 
 * **116** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **110** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+* **111** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
 * **100** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
@@ -70,13 +68,13 @@
 
 * **16** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## All Time (1,478 Articles)
+## All Time (1,479 Articles)
 
 * **230** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **178** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **160** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **161** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **159** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
