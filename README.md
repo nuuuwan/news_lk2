@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-26 14:30:55 (LK time)*
+*As of 2022-07-26 14:36:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -18,15 +18,15 @@
 
 * **1** economy-next-com ([Sri Lanka renewable businesses form association](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708498f1.json))
 
-## Last 3 Hours (46 Articles)
+## Last 3 Hours (45 Articles)
 
 * **15** lankadeepa-lk ([ඉන්දියාවෙන් තවත් ආධාර තොගයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fd/fdceb13a.json))
 
 * **9** news-first-lk ([Navy nabs 03 suspects with smuggled gold](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d13e266a.json))
 
-* **6** virakesari-lk ([வங்குரோத்தான இலங்கையின் மருத்துவமனைகள் தட்டுப்பாடுகள் காரணமாக வெறிச்சோடிய நிலையில் காணப்படுகின்றன- ஏஎவ்பி](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/903e98be.json))
-
 * **6** ada-lk ([ත්‍රීරෝද රථ සඳහා ඉන්ධන ගන්න පොලිසියේ ලියාපදිංචිය අවශ්‍යයයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e38e7d11.json))
+
+* **5** virakesari-lk ([இலங்கையை தாக்குமா குரங்கு அம்மை](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/2785e2f8.json))
 
 * **4** ada-derana-lk ([India hands over humanitarian aid valued at over Rs 3.4 billion to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec96208.json))
 
@@ -36,21 +36,21 @@
 
 * **1** tamil-mirror-lk ([ஜனாதிபதி ஊடகப் பணிப்பாளர்கள் நியமிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a19375bf.json))
 
-## Last 24 Hours (246 Articles)
+## Last 24 Hours (243 Articles)
 
 * **48** lankadeepa-lk ([ඉන්ධන බෙදුම්කරුවෝ වර්ජනය අවසන් කරති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/989eb122.json))
 
 * **35** virakesari-lk ([கிளிநொச்சியில் 82 போத்தல் கசிப்புடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/deadf80e.json))
 
-* **35** tamil-mirror-lk ([லிட்ரோ அதிரடி அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed626aaa.json))
+* **34** tamil-mirror-lk ([ஸ்டாலினுக்கு வெளிநாடு செல்லத் தடை](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77684eeb.json))
 
-* **32** ada-lk ([දෞපදි මුර්මු ඉන්දීය නව ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/839ad8ae.json))
+* **31** ada-lk ([පෙට්‍රල් නිසා මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/350cb395.json))
 
 * **28** daily-mirror-lk ([SL aviation contingent at MINUSCA commended for recent act of bravery](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3bc69fd0.json))
 
 * **23** news-first-lk ([President Putin congratulates Ranil W on election to office of President](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3ec5863c.json))
 
-* **21** ada-derana-lk ([Energy Minister says only QR Code quota system for fuel from Aug. 01](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f61e2664.json))
+* **20** ada-derana-lk ([Court imposes travel ban on six activists](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/061b8e78.json))
 
 * **11** economy-next-com ([Putin congratulates Sri Lanka president; looks to foster bilateral cooperation](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d0e4410.json))
 
