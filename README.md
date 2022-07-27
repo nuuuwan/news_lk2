@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 02:02:42 (LK time)*
+*As of 2022-07-28 02:29:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (12 Articles)
-
-* **9** daily-ft-lk ([Ranil’s rule: Recipe for revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de27d15.json))
-
-* **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
 ## Last 3 Hours (15 Articles)
 
