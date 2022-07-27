@@ -176,6 +176,22 @@
     "file_name": "/tmp/news_lk2/articles/3b/3b8ea0bd.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/emirates-to-operate-additional-flight-to-london-gatwick-with-third-daily-service/",
+    "time_ut": 1658852220,
+    "original_lang": "en",
+    "original_title": "Emirates to operate additional flight to London Gatwick with third daily service",
+    "file_name": "/tmp/news_lk2/articles/b1/b1a30a9e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/pick-link-a-new-online-platform-to-redefine-recruitment-in-sri-lanka/",
+    "time_ut": 1658852220,
+    "original_lang": "en",
+    "original_title": "\u2018Pick & Link\u2019 \u2013 A New Online Platform to Redefine Recruitment in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/08/08b5487e.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132308",
     "time_ut": 1658851757,
@@ -2177,6 +2193,14 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/airtel-lanka-to-build-new-opportunities-for-students-at-college-of-technology-galle/",
+    "time_ut": 1658767860,
+    "original_lang": "en",
+    "original_title": "Airtel Lanka to build new opportunities for students at College of Technology, Galle",
+    "file_name": "/tmp/news_lk2/articles/85/853b42c2.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/john-keells-group-partners-with-unilever-and-lseg-for-fasttrack-2022/",
     "time_ut": 1658767860,
     "original_lang": "en",
@@ -2190,6 +2214,22 @@
     "original_lang": "en",
     "original_title": "People\u2019s Bank rewards April millionaire of \u201cVaasi Kotiyai\u201d remittance bonanza in Kuwait",
     "file_name": "/tmp/news_lk2/articles/1b/1bee48d1.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/january-to-june-2022-tea-income-records-a-hike-of-28-per-cent-over-same-period-last-year/",
+    "time_ut": 1658767800,
+    "original_lang": "en",
+    "original_title": "January to June 2022 tea income records a hike of 28 per cent over same period last year",
+    "file_name": "/tmp/news_lk2/articles/94/94f56221.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/anticipated-global-recession-dampens-local-share-market-indices-down/",
+    "time_ut": 1658767800,
+    "original_lang": "en",
+    "original_title": "Anticipated global recession dampens local share market; indices down",
+    "file_name": "/tmp/news_lk2/articles/ce/ce57d7c3.json"
   },
   {
     "newspaper_id": "ada-lk",

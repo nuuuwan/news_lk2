@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 05:20:57 (LK time)*
+*As of 2022-07-27 05:32:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **2** daily-ft-lk ([Avalanche of non-news](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ab251d6.json))
 
 ## Last 3 Hours (10 Articles)
 
 * **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
 
-## Last 24 Hours (242 Articles)
+## Last 24 Hours (244 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
@@ -32,9 +28,11 @@
 
 * **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
 
+* **2** island-lk ([‘Pick & Link’ – A New Online Platform to Redefine Recruitment in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08b5487e.json))
+
 * **2** colombo-telegraph-com ([President Has To Try Harder To Re-Establish A Legitimate Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a0b160.json))
 
-## Last Week (1,106 Articles)
+## Last Week (1,111 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
@@ -54,7 +52,7 @@
 
 * **55** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
-* **45** island-lk ([Tear Gas: What you need to know](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0533d87.json))
+* **50** island-lk ([Tear Gas: What you need to know](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0533d87.json))
 
 * **23** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:වැඩි ඡන්දයෙන් අට වන විධායක ජනපති ලෙස පත්වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/384fe982.json))
 
@@ -62,7 +60,7 @@
 
 * **16** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## All Time (1,491 Articles)
+## All Time (1,496 Articles)
 
 * **230** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +82,7 @@
 
 * **77** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
-* **63** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
+* **68** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
 * **31** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
 
