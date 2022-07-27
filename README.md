@@ -1,18 +1,18 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 01:40:18 (LK time)*
+*As of 2022-07-28 01:51:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (11 Articles)
+## Last 30 Minutes (9 Articles)
 
-* **8** daily-ft-lk ([Free Trade Zone Manufacturers’ Association congratulates President](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1392bb61.json))
+* **7** daily-ft-lk ([State of Emergency passed in Parliament with 57 majority votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94812388.json))
 
-* **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **2** daily-mirror-lk ([Bring young people to the forefront](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9459aea5.json))
 
-## Last Hour (14 Articles)
+## Last Hour (13 Articles)
 
-* **11** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
+* **10** daily-ft-lk ([Time for new solutions for Sri Lanka:  Fight for private creditor debt cancellation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec68a6b2.json))
 
 * **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
@@ -24,13 +24,13 @@
 
 * **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
 
-## Last 24 Hours (257 Articles)
+## Last 24 Hours (256 Articles)
 
 * **50** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
 
 * **44** lankadeepa-lk ([නව වැනි පාර්ලිමේන්තුවේ දෙවන සභා වාරය අදින් අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb6383d0.json))
 
-* **36** daily-mirror-lk ([The trauma of living this story](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc49206e.json))
+* **35** daily-mirror-lk ([SriLankan says paid interest on US$ 175mn bond after sovereign debt default](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c244ad5.json))
 
 * **27** ada-derana-lk ([Several areas to receive heavy showers of about 100 mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/210c865b.json))
 
