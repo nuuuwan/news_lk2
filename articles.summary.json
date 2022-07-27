@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132316",
+    "time_ut": 1658889611,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bc8 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - 17 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/15/1550a886.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83894/several-areas-to-receive-heavy-showers-of-about-100-mm",
+    "time_ut": 1658888700,
+    "original_lang": "en",
+    "original_title": "Several areas to receive heavy showers of about 100 mm",
+    "file_name": "/tmp/news_lk2/articles/21/210c865b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-expansion-eyed-by-acuity-knowledge-partners-amid-soft-peg-collapse-97938/",
+    "time_ut": 1658888460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expansion eyed by Acuity Knowledge Partners amid soft-peg collapse",
+    "file_name": "/tmp/news_lk2/articles/9c/9c7cf63e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/imf-slashes-global-growth-after-monetary-stimulus-as-sri-lanka-reels-97931/",
     "time_ut": 1658885460,
@@ -1120,6 +1144,14 @@
     "file_name": "/tmp/news_lk2/articles/b1/b1433444.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132280",
+    "time_ut": 1658823729,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a6/a66a836b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0d85\u0daf-\u0d87\u0dad\u0dca\u0dad\u0dda-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0dba\u0dd2/101-617065",
     "time_ut": 1658823591,
@@ -2096,12 +2128,36 @@
     "file_name": "/tmp/news_lk2/articles/af/af8a3638.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78744",
+    "time_ut": 1658775960,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe said \u2013 and perhaps quite rightly \u2013 after assuming office that he will not permit unlawful occupation of State buildings.He also made a clear distinction between \u2018peaceful dissenters\u2019 and \u2018violent agitators.\u2019Those distinctions were thrown to the winds on Friday.",
+    "file_name": "/tmp/news_lk2/articles/cf/cf621289.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78742",
+    "time_ut": 1658775420,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe  Staged  one of the all-time great comebacks in politics when Parliament elected him as Sri Lanka\u2019s 8th Executive President.",
+    "file_name": "/tmp/news_lk2/articles/f3/f36b1bd0.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Lankan-envoy-in-India-visits-Amul-Headquarters-in-Gujarat/34-737889",
     "time_ut": 1658774950,
     "original_lang": "en",
     "original_title": "Lankan envoy in India visits Amul Headquarters in Gujarat",
     "file_name": "/tmp/news_lk2/articles/a7/a7ddcb8c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78740",
+    "time_ut": 1658774880,
+    "original_lang": "en",
+    "original_title": "The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.",
+    "file_name": "/tmp/news_lk2/articles/4f/4f93260b.json"
   },
   {
     "newspaper_id": "daily-ft-lk",

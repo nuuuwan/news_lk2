@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132316",
+    "time_ut": 1658889611,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a\u0bb5\u0bc8 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - 17 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/15/1550a886.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83894/several-areas-to-receive-heavy-showers-of-about-100-mm",
+    "time_ut": 1658888700,
+    "original_lang": "en",
+    "original_title": "Several areas to receive heavy showers of about 100 mm",
+    "file_name": "/tmp/news_lk2/articles/21/210c865b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-expansion-eyed-by-acuity-knowledge-partners-amid-soft-peg-collapse-97938/",
+    "time_ut": 1658888460,
+    "original_lang": "en",
+    "original_title": "Sri Lanka expansion eyed by Acuity Knowledge Partners amid soft-peg collapse",
+    "file_name": "/tmp/news_lk2/articles/9c/9c7cf63e.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/imf-slashes-global-growth-after-monetary-stimulus-as-sri-lanka-reels-97931/",
     "time_ut": 1658885460,
@@ -1120,6 +1144,14 @@
     "file_name": "/tmp/news_lk2/articles/b1/b1433444.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132280",
+    "time_ut": 1658823729,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a6/a66a836b.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0daf\u0dba-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0d85\u0daf-\u0d87\u0dad\u0dca\u0dad\u0dda-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db4\u0dca\u200d\u0dbb\u0da0\u0dab\u0dca\u0da9\u0dad\u0dca\u0dc0\u0dba\u0dba\u0dd2/101-617065",
     "time_ut": 1658823591,
@@ -2096,12 +2128,36 @@
     "file_name": "/tmp/news_lk2/articles/af/af8a3638.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78744",
+    "time_ut": 1658775960,
+    "original_lang": "en",
+    "original_title": "President Wickremesinghe said \u2013 and perhaps quite rightly \u2013 after assuming office that he will not permit unlawful occupation of State buildings.He also made a clear distinction between \u2018peaceful dissenters\u2019 and \u2018violent agitators.\u2019Those distinctions were thrown to the winds on Friday.",
+    "file_name": "/tmp/news_lk2/articles/cf/cf621289.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78742",
+    "time_ut": 1658775420,
+    "original_lang": "en",
+    "original_title": "Ranil Wickremesinghe  Staged  one of the all-time great comebacks in politics when Parliament elected him as Sri Lanka\u2019s 8th Executive President.",
+    "file_name": "/tmp/news_lk2/articles/f3/f36b1bd0.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Lankan-envoy-in-India-visits-Amul-Headquarters-in-Gujarat/34-737889",
     "time_ut": 1658774950,
     "original_lang": "en",
     "original_title": "Lankan envoy in India visits Amul Headquarters in Gujarat",
     "file_name": "/tmp/news_lk2/articles/a7/a7ddcb8c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78740",
+    "time_ut": 1658774880,
+    "original_lang": "en",
+    "original_title": "The Galle Face Green activists who brought about a political revolution through non-violent means should now organise themselves into a political force if not a political party to defend the fundamental rights they so valiantly and successfully fought for.",
+    "file_name": "/tmp/news_lk2/articles/4f/4f93260b.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka shares edge up in mid-day trade",
     "file_name": "/tmp/news_lk2/articles/ec/ece8e707.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/international/\u0dc2\u0dd3-\u0dbd\u0ddd\u0d9a-\u0dad\u0dbb\u0dd4\u0dab-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0dc3\u0d82\u0dc3\u0daf\u0dba\u0da7-\u0dc3\u0dd4\u0db6\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0dba\u0dc0\u0dba\u0dd2/3-395649",
-    "time_ut": 1658471486,
-    "original_lang": "si",
-    "original_title": "\u0dc2\u0dd3 \u0dbd\u0ddd\u0d9a \u0dad\u0dbb\u0dd4\u0dab \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc3\u0d82\u0dc3\u0daf\u0dba\u0da7 \u0dc3\u0dd4\u0db6\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0dba\u0dc0\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/51/51f8c251.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62249170",
-    "time_ut": 1658471156,
-    "original_lang": "si",
-    "original_title": "'\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dda \u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0d9c\u0dad\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d9c\u0dd0\u0db1 \u0daf\u0dd0\u0da9\u0dd2 \u0d9a\u0db1\u0dc3\u0dca\u0dc3\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca'-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0",
-    "file_name": "/tmp/news_lk2/articles/ca/ca342728.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0db1\u0dc0-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3-\u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4/2-616863",
-    "time_ut": 1658470977,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0db1\u0dc0 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0daf\u0dca\u200d\u0dbb\u0dde\u0db4\u0daf\u0dd3 \u0db8\u0dd4\u0dbb\u0dca\u0db8\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/b5/b5eff400.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/friday/\u0db6\u0dbd\u0dc0\u0dcf\u0daf\u0dba-\u0db4\u0dbb\u0daf\u0dca\u0daf\u0db1\u0dca\u0db1-\u0da2\u0db1\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca/122-616861",
-    "time_ut": 1658469872,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dbd\u0dc0\u0dcf\u0daf\u0dba \u0db4\u0dbb\u0daf\u0dca\u0daf\u0db1\u0dca\u0db1 \u0da2\u0db1\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/d7/d7c56939.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/editorial/\u0d85\u0db0\u0dd2-\u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0da7-\u0dc3\u0dd0\u0db6\u0dd1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0d95\u0db1\u0dd1/117-616859",
-    "time_ut": 1658469384,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db0\u0dd2 \u0d8b\u0daf\u0dca\u0db0\u0db8\u0db1\u0dba\u0da7 \u0dc3\u0dd0\u0db6\u0dd1 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0d95\u0db1\u0dd1",
-    "file_name": "/tmp/news_lk2/articles/c8/c8b0e5fb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Seven-hour-water-cut-in-some-areas-of-Colombo/108-241597",
-    "time_ut": 1658467841,
-    "original_lang": "en",
-    "original_title": "Seven-hour water cut in some areas of Colombo",
-    "file_name": "/tmp/news_lk2/articles/f2/f28bfa25.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lankas-new-president-wickremesinghe-appoints-his-classmate-as-pm-97719/",
-    "time_ut": 1658467740,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s new president Wickremesinghe appoints his classmate as PM",
-    "file_name": "/tmp/news_lk2/articles/69/69efd23a.json"
   }
 ]
