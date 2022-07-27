@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Almost-50-filling-stations-test-National-Fuel-Pass-Kanchana/56-738004",
+    "time_ut": 1658951918,
+    "original_lang": "en",
+    "original_title": "Almost 50% filling stations test National Fuel Pass: Kanchana",
+    "file_name": "/tmp/news_lk2/articles/3a/3ac6c1e9.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Executive-committee-system-will-be-re-established-PM/56-738003",
+    "time_ut": 1658951850,
+    "original_lang": "en",
+    "original_title": "Executive committee system will be re-established - PM",
+    "file_name": "/tmp/news_lk2/articles/37/37345071.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Patali-in-Parliament-exposes-Govt-s-duplicity/56-738002",
+    "time_ut": 1658951787,
+    "original_lang": "en",
+    "original_title": "Patali in Parliament exposes Govt.\u2019s duplicity",
+    "file_name": "/tmp/news_lk2/articles/e4/e4dfe761.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Ambassador-Chung-and-Xeroxable-change/172-241929",
     "time_ut": 1658951730,
     "original_lang": "en",
     "original_title": "Ambassador Chung and Xeroxable change",
     "file_name": "/tmp/news_lk2/articles/c1/c11296d7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Sajith-says-people-s-emergencies-are-a-far-cry-from-that-of-Govt/56-738001",
+    "time_ut": 1658951721,
+    "original_lang": "en",
+    "original_title": "Sajith says people\u2019s emergencies are a far cry from that of Govt.",
+    "file_name": "/tmp/news_lk2/articles/36/36c40dcc.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -798,6 +830,14 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba  \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/c2/c28e6b2f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132352",
+    "time_ut": 1658917227,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bbe\u0ba9 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0b9c\u0bc8\u0baf\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bb5\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0bb0\u0ba4\u0bc2\u0bb0\u0bae\u0bbe\u0ba9\u0bb5\u0bc8 -\u00a0\u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bb0\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bc1\u0bb9\u0bbe\u0bae\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/16/16b0d76f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
