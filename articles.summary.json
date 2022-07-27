@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0b9f\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc7-\u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0ba9\u0bcd\u0ba9-\u0bb0\u0ba3\u0ba4\u0bc1\u0b99\u0bcd\u0b95/175-301211",
+    "time_ut": 1658908419,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b9f\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc7 \u0b89\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd - \u0baa\u0bbf\u0bb0\u0b9a\u0ba9\u0bcd\u0ba9 \u0bb0\u0ba3\u0ba4\u0bc1\u0b99\u0bcd\u0b95",
+    "file_name": "/tmp/news_lk2/articles/d5/d548bf43.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca/1-617120",
+    "time_ut": 1658908362,
+    "original_lang": "si",
+    "original_title": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/11/11bce06c.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d87\u0db8\u0dad\u0dd2\u0dad\u0dca-IMF-\u0dab\u0dba\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dcf-\u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2/3-395778",
+    "time_ut": 1658908040,
+    "original_lang": "si",
+    "original_title": "\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d87\u0db8\u0dad\u0dd2\u0dad\u0dca IMF \u0dab\u0dba\u0d9a\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/67/677524ed.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019\u0d91\u0db1\u0dca\u0db1\u0dad-\u0d9c\u0db1\u0dca\u0db1-\u0d8b\u0db1\u0db1\u0dca\u0daf\u0dd4\u0dc0-\u0d89\u0dc4\u0dc5-\u0dba\u0dba\u0dd2/101-617119",
+    "time_ut": 1658908017,
+    "original_lang": "si",
+    "original_title": "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019\u0d91\u0db1\u0dca\u0db1\u0dad \u0d9c\u0db1\u0dca\u0db1 \u0d8b\u0db1\u0db1\u0dca\u0daf\u0dd4\u0dc0 \u0d89\u0dc4\u0dc5 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/13/135471b8.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132341",
     "time_ut": 1658907820,
@@ -17,19 +49,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019-\u0dbb\u0ddd\u0d9c-\u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dab-\u0d87\u0dad\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dba\u0dc0\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/101-617118",
+    "url": "https://www.lankadeepa.lk/latest_news/\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019-\u0dbb\u0ddd\u0d9c-\u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dab-\u0d87\u0dad\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dba\u0dc0\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/1-617118",
     "time_ut": 1658906239,
     "original_lang": "si",
     "original_title": "\u2018\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca\u2019 \u0dbb\u0ddd\u0d9c \u0dbd\u0d9a\u0dca\u200d\u0dc2\u0dab \u0d87\u0dad\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dba\u0dc0\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/72/72c3fab0.json"
+    "file_name": "/tmp/news_lk2/articles/4c/4c6775d5.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0d9c\u0dd9\u0db8\u0dca\u0db6\u0ddd-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca-\u0daf\u0dda\u0dc0\u0dd2/101-617117",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0d9c\u0dd9\u0db8\u0dca\u0db6\u0ddd-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca-\u0da2\u0db1\u0dad\u0dcf-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba-\u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca-\u0daf\u0dda\u0dc0\u0dd2/1-617117",
     "time_ut": 1658906146,
     "original_lang": "si",
     "original_title": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0d9c\u0dd9\u0db8\u0dca\u0db6\u0ddd \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba\u0ddc\u0dad\u0dca \u0da2\u0db1\u0dad\u0dcf \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0daf\u0dac\u0dd4\u0dc0\u0db8\u0dca \u0daf\u0dda\u0dc0\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/6b/6b903f46.json"
+    "file_name": "/tmp/news_lk2/articles/e2/e2266125.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -89,11 +121,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0daf\u0dd0\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db1\u0dda-\u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0db1\u0dca-\u0d9a\u0dd4\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dba\u0dd2\u0db1\u0dca/101-617116",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0daf\u0dd0\u0db1\u0dca-\u0d89\u0db1\u0dca\u0db1\u0dda-\u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0db1\u0dca-\u0d9a\u0dd4\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dba\u0dd2\u0db1\u0dca/1-617116",
     "time_ut": 1658904643,
     "original_lang": "si",
     "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0daf\u0dd0\u0db1\u0dca \u0d89\u0db1\u0dca\u0db1\u0dda \u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0db1\u0dca \u0d9a\u0dd4\u0da9\u0dd4\u0d9a\u0dcf\u0dbb\u0dba\u0dd2\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/e0/e0345d82.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f25f31ff.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -105,11 +137,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dad\u0dc0-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0dca-\u0d89\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0dc3\u0dbb/101-617115",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7-\u0dad\u0dc0-\u0dc3\u0dad\u0dd2-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0dca-\u0d89\u0db1\u0dca\u0db1-\u0d85\u0dc0\u0dc3\u0dbb/1-617115",
     "time_ut": 1658904354,
     "original_lang": "si",
     "original_title": "\u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0da7 \u0dad\u0dc0 \u0dc3\u0dad\u0dd2 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4\u0dc0\u0dd9\u0dca \u0d89\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0dc3\u0dbb",
-    "file_name": "/tmp/news_lk2/articles/05/05757293.json"
+    "file_name": "/tmp/news_lk2/articles/63/636c4e4e.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -393,11 +425,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Singapore-grants-further-14-day-stay-for-former-Sri-Lankan-president/108-241877",
+    "url": "https://www.dailymirror.lk/top_story/Singapore-grants-further-14-day-stay-for-former-Sri-Lankan-president/155-241877",
     "time_ut": 1658897027,
     "original_lang": "en",
     "original_title": "Singapore grants further 14-day stay for former Sri Lankan president",
-    "file_name": "/tmp/news_lk2/articles/4b/4b2a729b.json"
+    "file_name": "/tmp/news_lk2/articles/92/9268bbb2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -1622,14 +1654,6 @@
     "original_lang": "en",
     "original_title": "Modi congratulates Ranil; says India will support Sri Lankan people",
     "file_name": "/tmp/news_lk2/articles/a2/a2ef4a73.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/india-will-support-sri-lanka-for-stability-through-democratic-means/",
-    "time_ut": 1658828340,
-    "original_lang": "en",
-    "original_title": "India will support Sri Lanka for stability through democratic means",
-    "file_name": "/tmp/news_lk2/articles/56/568ad8a8.json"
   },
   {
     "newspaper_id": "news-first-lk",
