@@ -1,18 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 01:51:41 (LK time)*
+*As of 2022-07-28 02:02:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (9 Articles)
+## Last Hour (12 Articles)
 
-* **7** daily-ft-lk ([State of Emergency passed in Parliament with 57 majority votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94812388.json))
-
-* **2** daily-mirror-lk ([Bring young people to the forefront](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9459aea5.json))
-
-## Last Hour (13 Articles)
-
-* **10** daily-ft-lk ([Time for new solutions for Sri Lanka:  Fight for private creditor debt cancellation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec68a6b2.json))
+* **9** daily-ft-lk ([Ranil’s rule: Recipe for revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de27d15.json))
 
 * **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
@@ -46,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,348 Articles)
+## Last Week (1,343 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -62,7 +56,7 @@
 
 * **115** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **84** daily-ft-lk ([Mahinda gets comical saying ‘Our candidate could not win’](https://github.com/nuuuwan/news_lk2/blob/data/articles/2f/2f20ad24.json))
+* **79** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 * **67** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
