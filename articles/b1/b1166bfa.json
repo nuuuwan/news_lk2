@@ -1,0 +1,417 @@
+{
+  "newspaper_id": "lankadeepa-lk",
+  "url": "https://www.lankadeepa.lk/latest_news/\u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-617138",
+  "time_ut": 1658920364,
+  "original_lang": "si",
+  "original_title": "\u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+  "text_idx": {
+    "en": {
+      "title": "Appoints \u201cJayasagara\u201d authority",
+      "author": "unknown",
+      "body_lines": [
+        "The Navy says that the \"Jayasagara\" ship, which was assigned to the Coast Guard Department by the Navy, was recently assigned to the Coast Guard Ship \"Jayasagara\" and joined the Coast Guard Fleet.",
+        "Defense Secretary General (Retired) Kamal Gunaratne recently conducted the ceremony at the Trincomalee Naval Thathakangana Premises.",
+        "The Navy says that the Navy handed over the CG 61 ship to the Coast Guard Department last January.",
+        "The CG 61 ship has performed a special mission for the Navy for 4 decades, and after being handed over to the Coast Guard Department, the Navy says that it was given the name Jayasagara.",
+        "The Jayasagara ship commissioned by the authority is 39.8 meters long, 7 meters wide and has a displacement of 313 tons.",
+        "Includes a crew of 10 officers and 68 sailors."
+      ],
+      "title_ents": [
+        {
+          "text": "Jayasagara",
+          "label": "WORK_OF_ART"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Jayasagara",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "the Coast Guard Department",
+            "label": "ORG"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "the Coast Guard Ship \"Jayasagara",
+            "label": "ORG"
+          },
+          {
+            "text": "the Coast Guard Fleet",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Defense",
+            "label": "ORG"
+          },
+          {
+            "text": "Trincomalee",
+            "label": "NORP"
+          },
+          {
+            "text": "Thathakangana Premises",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "the Coast Guard Department",
+            "label": "ORG"
+          },
+          {
+            "text": "last January",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "4 decades",
+            "label": "DATE"
+          },
+          {
+            "text": "the Coast Guard Department",
+            "label": "ORG"
+          },
+          {
+            "text": "Navy",
+            "label": "ORG"
+          },
+          {
+            "text": "Jayasagara",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Jayasagara",
+            "label": "PERSON"
+          },
+          {
+            "text": "39.8 meters",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "7 meters",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "313 tons",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+      "author": "unknown",
+      "body_lines": [
+        "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc0\u0dd9\u0dbb\u0dc5 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a\u00a0 \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd9\u0dad \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd4 \u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u00a0 \u0dc0\u0dd9\u0dbb\u0dc5 \u0d86\u0dbb\u0d9a\u0dc2\u0dcf\u00a0 \u0db1\u0dde\u0d9a\u0dcf \u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d\u00a0 \u0db1\u0db8\u0dd2\u0db1\u0dca\u00a0 \u00a0 \u00a0\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf\u00a0 \u00a0 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb \u0dc0\u0dd9\u0dbb\u0dc5 \u0d86\u0dbb\u0d9a\u0dca\u0dc2 \u0db1\u0dde\u0d9a\u0dcf \u0dc3\u0db8\u0dd4\u0dc4\u0dba \u0dc0\u0dd9\u0dad\u00a0 \u0d91\u0d9a\u0dca \u0dc0\u0dd4 \u0db6\u0dc0 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0d9a\u0dd2\u0dba\u0dba\u0dd2.",
+        "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca (\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd2\u0d9a ) \u0d9a\u0db8\u0dbd\u0dca \u0d9c\u0dd4\u0dab\u0dbb\u0dad\u0dca\u0db1 \u0db8\u0dc4\u0dad\u0dcf \u0d85\u0dad\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba\u0daf\u0dcf \u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba \u0db1\u0dcf\u0dc0\u0dd2\u0d9a\u00a0 \u0dad\u0da8\u0dcf\u0d9a\u0dcf\u0d82\u0d9c\u0db1 \u0db4\u0dbb\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dba\u0dda \u0daf\u0dd3\u00a0 \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dd9\u0dbb\u0dd2\u0dab\u0dd2.",
+        "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db1\u0dde\u0d9a\u0dcf \u0dc3\u0db8\u0dd4\u0dc4\u0dba\u0dda \u0dad\u0dd2\u0db6\u0dd4 \u0dc3\u0dd3 \u0da2\u0dd3 61 \u0db1\u0db8\u0dca \u0dc0\u0dd4\u00a0 \u00a0\u0db1\u0dde\u0d9a\u0dcf\u0dc0 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd2\u0dc3\u0dd2\u0dca\u0db1\u0dca \u0d89\u0d9a\u0dd4\u0dad\u0dca \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0db8\u0dc3\u00a0 \u0dc0\u0dd9\u0dbb\u0dc5 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd9\u0dad\u00a0 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dcf\u0db1\u0dba \u0d9a\u0dc5 \u0db6\u0dc0 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0d9a\u0dd2\u0dba\u0dba\u0dd2.",
+        "\u0d91\u0db8\u00a0 \u0dc3\u0dd3 \u0da2\u0dd3\u00a0 61 \u0db1\u0db8\u0dca \u0d91\u0db8\u00a0 \u0db1\u0dde\u0d9a\u0dcf\u0dc0 \u0daf\u0dc1\u0d9a\u00a0 4 \u0d9a \u0db4\u0dd4\u0dbb\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0dc0\u0dd9\u0dad \u0dc3\u0dd4\u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd2 \u0db8\u0dd9\u0dc4\u0dd9\u0dc0\u0dbb\u0d9a\u0dca\u00a0 \u0d89\u0da7\u0dd4\u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb, \u0db4\u0dc3\u0dd4\u0dc0 \u0dc0\u0dd9\u0dbb\u0dc5 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd9\u0dad \u0db6\u0dcf\u0dbb \u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u00a0 \u0db8\u0dd9\u0dbd\u0dd9\u0dc3 \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u00a0 \u0db1\u0db8\u0dd2\u0db1\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd4 \u0db6\u0dc0 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0db4\u0dc0\u0dc3\u0dba\u0dd2.",
+        "\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb \u0db1\u0dde\u0d9a\u0dcf\u0dc0\u00a0 \u00a0\u0daf\u0dd2\u0d9c\u0dd2\u0db1\u0dca \u0db8\u0dd3\u0da7\u0dbb\u0dca 39.8 \u0daf, \u0db4\u0dc5\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dd3\u0da7\u0dbb\u0dca 7\u00a0 \u00a0 \u0daf\u0dd2\u0d9c\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0d9a\u0dca\u0dad \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dc4\u0dd2 \u0da7\u0ddc\u0db1\u0dca 313 \u0d9a \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dcf\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca\u0dad \u0dc0\u0dda.",
+        "\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca 10 \u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0dc4\u0dcf\u00a0 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a\u0dba\u0db1\u0dca 68\u00a0 \u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0d9c\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0db1\u0dca\u0dc0\u0dd2\u0dad \u0d9a\u0dcf\u0dbb\u0dca\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+          "label": "WORK_OF_ART"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dde\u0d9a\u0dcf\u0dc0 \"\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db6\u0dbd\u0d87\u0dab\u0dd2\u0dba",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0dad\u0dae\u0dcf\u0d9a\u0d82\u0d9c\u0db1 \u0db4\u0dbb\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dba",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dc1\u0d9a 4\u0d9a\u0dca",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dd9\u0dbb\u0dc5\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd3\u0da7\u0dbb\u0dca 39.8 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0db8\u0dd3\u0da7\u0dbb\u0dca 7 \u0dba\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0da7\u0ddc\u0db1\u0dca 313 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\"\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd\" \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \"\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bbe\" \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bbe\u0ba9 \"\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\" \u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1) \u0b95\u0bae\u0bb2\u0bcd \u0b95\u0bc1\u0ba3\u0bb0\u0ba4\u0bcd\u0ba9 \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0ba9 \u0bb5\u0bb3\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf \u0bae\u0bbe\u0ba4\u0bae\u0bcd CG 61 \u0bb0\u0b95 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc8 \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "CG 61 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd 4 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b92\u0bb0\u0bc1 \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0bc8 \u0b86\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd, \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.",
+        "\u0b86\u0ba3\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0baf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd 39.8 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0ba8\u0bc0\u0bb3\u0bae\u0bc1\u0bae\u0bcd, 7 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b85\u0b95\u0bb2\u0bae\u0bc1\u0bae\u0bcd, 313 \u0b9f\u0ba9\u0bcd \u0b8e\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1.",
+        "10 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 68 \u0bae\u0bbe\u0bb2\u0bc1\u0bae\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc8 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd",
+          "label": "WORK_OF_ART"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \"\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0ba4\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0ba9 \u0bb5\u0bb3\u0bbe\u0b95\u0bae\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "CG 61",
+            "label": "LAW"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "4 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb2\u0bcb\u0bb0 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b9c\u0bc6\u0baf\u0b9a\u0bbe\u0b95\u0bb0\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "39.8 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "7 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "313 \u0b9f\u0ba9\u0bcd",
+            "label": "QUANTITY"
+          }
+        ],
+        [
+          {
+            "text": "10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "68",
+            "label": "CARDINAL"
+          }
+        ]
+      ]
+    }
+  }
+}
