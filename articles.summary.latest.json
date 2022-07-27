@@ -793,6 +793,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132353",
+    "time_ut": 1658917862,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd - \u0b8e\u0bb0\u0bbe\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c7/c7f5d318.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132356",
     "time_ut": 1658917801,
     "original_lang": "ta",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "\u2019\u2019SLCGS Jayesagara\u2019\u2019 joins SLCG fleet",
     "file_name": "/tmp/news_lk2/articles/85/85b0122a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Station-masters-to-stay-away-from-issuing-tickets-from-6-00-pm-today/108-241670",
-    "time_ut": 1658586708,
-    "original_lang": "en",
-    "original_title": "Station masters to stay away from issuing tickets from 6.00 \ufeffpm today",
-    "file_name": "/tmp/news_lk2/articles/91/918be182.json"
   }
 ]
