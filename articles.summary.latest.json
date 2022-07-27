@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Is-Gotabaya-a-war-hero-A-response/14-737980",
+    "time_ut": 1658949575,
+    "original_lang": "en",
+    "original_title": "Is Gotabaya a war hero: A response",
+    "file_name": "/tmp/news_lk2/articles/f1/f174321d.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83915/pas-podda-injured-in-gunfire-opposite-gampaha-court-dies",
     "time_ut": 1658945160,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Protestors were unwilling to vacate premises: Police Spokesperson",
     "file_name": "/tmp/news_lk2/articles/5c/5c9d89c0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83827/railway-stations-masters-begin-a-token-strike",
-    "time_ut": 1658579760,
-    "original_lang": "en",
-    "original_title": "Railway stations masters begin a token strike",
-    "file_name": "/tmp/news_lk2/articles/23/2311c763.json"
   }
 ]

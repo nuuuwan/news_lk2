@@ -1,24 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 00:42:42 (LK time)*
+*As of 2022-07-28 01:02:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **3** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
+* **1** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
-* **3** virakesari-lk ([தமிழர் பிரச்சினைக்கு தீர்வு காண்பது அவசியம் :  புலம்பெயர் தமிழ் அமைப்புக்களுடன் பேசத் தயார் - விஜயதாஸ ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2818a0c.json))
+## Last Hour (1 Articles)
+
+* **1** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
+
+## Last 3 Hours (7 Articles)
 
 * **2** economy-next-com ([Sri Lanka legislator wants probe on delays in stamping President Rajapaksa’s passport](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86a20da.json))
+
+* **1** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
+
+* **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
 
 * **1** lankadeepa-lk ([වෙඩි වැදුණු පස් පොඩ්ඩා මිය යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e8cf83.json))
 
 * **1** ada-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e3d3ce1.json))
 
-* **1** daily-mirror-lk ([Two killed in shooting in Ambalangoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c52096c.json))
+* **1** virakesari-lk ([அம்பலாங்கொடையில் தொடரும் துப்பாக்கிச் சூட்டு சம்பவங்கள் ; இருவர் பலி !](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79cbd601.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (246 Articles)
 
 * **49** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
 
@@ -36,11 +44,11 @@
 
 * **12** economy-next-com ([IMF slashes global growth after monetary stimulus as Sri Lanka reels](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9232e2d0.json))
 
-* **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
+* **11** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,341 Articles)
+## Last Week (1,336 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -56,7 +64,7 @@
 
 * **115** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **78** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
+* **75** daily-ft-lk ([Dear Mr. President  and Mr. Prime Minister: A memo](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0b2acd5d.json))
 
 * **67** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
@@ -64,11 +72,11 @@
 
 * **19** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
 
-* **19** d-b-s-jeyaraj-com ([18 Sworn in as Cabinet Ministers Before President Ranil Wickremesinghe;GL Peiris Replaced by  Ali Sabry as Foreign Minister; Prime Minister Dinesh Gunawardena Gets Public Administration, Home Affairs, Provincial Councils, and Local Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93cfda8f.json))
-
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## All Time (1,743 Articles)
+* **17** d-b-s-jeyaraj-com ([Army and Police  Crack Down  Aggressively on Galle Face Protest with Brute Force  in the night at 2 am;Tents dismantled, protesters assaulted, at least 8 persons  arrested,agitation site sealed off,lawyers,media denied entry](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e074e53a.json))
+
+## All Time (1,744 Articles)
 
 * **275** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,9 +88,9 @@
 
 * **142** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **127** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **128** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
-* **127** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
+* **127** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **121** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
