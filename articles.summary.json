@@ -1,11 +1,35 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Strugglers-conspiring-to-topple-regime-with-vested-interest-Wimal/342-241892",
+    "url": "https://www.dailymirror.lk/caption_story/Against-govt-move-to-suppress-struggle/110-241894",
+    "time_ut": 1658915522,
+    "original_lang": "en",
+    "original_title": "Against govt. move to suppress struggle",
+    "file_name": "/tmp/news_lk2/articles/4e/4ecff1ff.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Getting-booster-vaccines/110-241893",
+    "time_ut": 1658915036,
+    "original_lang": "en",
+    "original_title": "Getting booster vaccines",
+    "file_name": "/tmp/news_lk2/articles/0e/0e26875c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Strugglers-conspiring-to-destroy-the-State-with-vested-interest-Wimal/108-241892",
+    "time_ut": 1658914775,
+    "original_lang": "en",
+    "original_title": "Strugglers conspiring to destroy the State with vested interest: Wimal",
+    "file_name": "/tmp/news_lk2/articles/62/628bfd3b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Strugglers-conspiring-to-topple-regime-with-vested-interest-Wimal/108-241892",
     "time_ut": 1658914775,
     "original_lang": "en",
     "original_title": "Strugglers conspiring to topple regime with vested interest: Wimal",
-    "file_name": "/tmp/news_lk2/articles/cb/cbcdbb0a.json"
+    "file_name": "/tmp/news_lk2/articles/ec/ec2c376c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -72,6 +96,14 @@
     "file_name": "/tmp/news_lk2/articles/90/903d9778.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0d9c\u0dd1\u0dc3\u0dca-\u0d8b\u0dab\u0dca\u0da9-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395788",
+    "time_ut": 1658912947,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0d9c\u0dd1\u0dc3\u0dca \u0d8b\u0dab\u0dca\u0da9 \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/7c/7cbdbf21.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132346",
     "time_ut": 1658912919,
@@ -97,11 +129,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-Wickremesinghe-discharged-from-court-proceedings/342-241890",
+    "url": "https://www.dailymirror.lk/breaking_news/President-Wickremesinghe-discharged-from-court-proceedings/108-241890",
     "time_ut": 1658911965,
     "original_lang": "en",
     "original_title": "President Wickremesinghe discharged from court proceedings",
-    "file_name": "/tmp/news_lk2/articles/51/51359103.json"
+    "file_name": "/tmp/news_lk2/articles/0f/0fac85d3.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -209,11 +241,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SJB-will-force-a-general-election-soon-Kiriella/342-241887",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-will-force-a-general-election-soon-Kiriella/108-241887",
     "time_ut": 1658908564,
     "original_lang": "en",
     "original_title": "SJB will force a general election soon: Kiriella",
-    "file_name": "/tmp/news_lk2/articles/07/071e1041.json"
+    "file_name": "/tmp/news_lk2/articles/36/36e7383d.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -305,11 +337,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/mirror_business/Bdesh-reaches-out-to-IMF-for-4-5-bn-bailout/241-241886",
+    "url": "https://www.dailymirror.lk/breaking_news/Bdesh-reaches-out-to-IMF-for-4-5-bn-bailout/108-241886",
     "time_ut": 1658906865,
     "original_lang": "en",
     "original_title": "B\u2019desh reaches out to IMF for 4.5 bn bailout",
-    "file_name": "/tmp/news_lk2/articles/69/694a7032.json"
+    "file_name": "/tmp/news_lk2/articles/d9/d98fc1fe.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
