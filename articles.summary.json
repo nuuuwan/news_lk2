@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/nine-sri-lanka-navy-sailors-jump-ship-in-america-97970/",
+    "time_ut": 1658941560,
+    "original_lang": "en",
+    "original_title": "Nine Sri Lanka Navy sailors jump ship in America",
+    "file_name": "/tmp/news_lk2/articles/7a/7af8674c.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4-\u0db4\u0dc3\u0dca-\u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/101-617149",
     "time_ut": 1658940974,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0db4\u0dc3\u0dca \u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/77/77302855.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-395800",
+    "time_ut": 1658940927,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/9e/9e3d3ce1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
