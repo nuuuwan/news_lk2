@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83913/one-dead-another-injured-in-shooting-at-ambalangoda",
+    "time_ut": 1658931120,
+    "original_lang": "en",
+    "original_title": "One dead, another injured in shooting at Ambalangoda",
+    "file_name": "/tmp/news_lk2/articles/a7/a75cde41.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83912/bail-rejected-for-suspects-arrested-over-torching-of-presidents-residence",
     "time_ut": 1658929920,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Record life policy bonus from Sri Lanka Insurance",
     "file_name": "/tmp/news_lk2/articles/60/60132348.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ansell-lanka-officially-certified-as-a-great-place-to-work-2/",
-    "time_ut": 1658569140,
-    "original_lang": "en",
-    "original_title": "Ansell Lanka officially certified as a Great Place to Work",
-    "file_name": "/tmp/news_lk2/articles/11/11f710b2.json"
   }
 ]
