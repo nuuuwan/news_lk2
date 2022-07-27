@@ -1,10 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 23:06:06 (LK time)*
+*As of 2022-07-27 23:16:44 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (3 Articles)
 
 * **1** economy-next-com ([Nine Sri Lanka Navy sailors jump ship in America](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af8674c.json))
 
@@ -12,23 +12,21 @@
 
 * **1** ada-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e3d3ce1.json))
 
-* **1** virakesari-lk ([அம்பலாங்கொடையில் தொடரும் துப்பாக்கிச் சூட்டு சம்பவங்கள் ; இருவர் பலி !](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79cbd601.json))
+## Last 3 Hours (24 Articles)
 
-## Last 3 Hours (27 Articles)
-
-* **7** virakesari-lk ([பண்டாரநாயக்க உருவச் சிலை அருகே வைத்து கைது செய்யப்பட்ட நால்வருக்கும் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8fa0ae4.json))
+* **6** virakesari-lk ([இலங்கை சீனாவுடன் கடன் மறுசீரமைப்பு தொடர்பான பேச்சுவார்த்தைகளை ஆரம்பிக்கவேண்டும்- சர்வதேச நாணயநிதியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f6dced8.json))
 
 * **5** lankadeepa-lk ([ජනපති මහ ගෙදරට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b10cf8c8.json))
 
-* **4** tamil-mirror-lk ([துப்பாக்கி சூட்டில் ஒருவர் பலி; ஒருவர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81968a02.json))
-
-* **3** daily-mirror-lk ([’GotaGoGama’ activist cum freelance journalist abducted by group in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c61a182.json))
+* **3** tamil-mirror-lk ([காசை எண்ணியோரில் ஒருவர் கைதானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/450ab758.json))
 
 * **2** economy-next-com ([Sri Lanka legislator wants probe on delays in stamping President Rajapaksa’s passport](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86a20da.json))
 
 * **2** ada-lk ([ලංකාව චීන ණය ප්‍රතිව්‍යුහගත කිරීමට සාකච්ඡා කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa5465c.json))
 
 * **2** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
+
+* **2** daily-mirror-lk ([Police arrest IUSF activist Veranga Pushpika](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aa94066.json))
 
 * **2** news-first-lk ([Chinese Ambassador meets Ali Sabry to discuss current situation in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e94df12.json))
 
