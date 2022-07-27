@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 21:30:16 (LK time)*
+*As of 2022-07-27 21:35:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** lankadeepa-lk ([ලබන නව වැනිදා ඇවිත් අරගලය අවසාන් කරන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a8db73.json))
+* **1** lankadeepa-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙකක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24cb2a24.json))
 
 ## Last Hour (4 Articles)
 
@@ -14,7 +14,7 @@
 
 * **1** tamil-mirror-lk ([டனிஸ் அலிக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e13ac937.json))
 
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (26 Articles)
 
 * **9** virakesari-lk ([வவுனியா மாவட்ட வைத்தியசாலை சுகாதார பணியாளர்கள் ஆர்ப்பாட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1655d27.json))
 
@@ -26,7 +26,7 @@
 
 * **3** daily-mirror-lk ([Demanding to dissolve parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06af6a16.json))
 
-* **2** news-first-lk ([US – SL relations can flourish in a Sri Lanka that respects Human Rights – US Ambassador](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebb86113.json))
+* **1** news-first-lk ([Chinese Ambassador meets Ali Sabry to discuss current situation in Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e94df12.json))
 
 * **1** ada-lk ([අරගලයේ තරුණයන්ගේ වෙනසක ඉල්ලීම අපි පිළිගන්නවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2ddd0c9b.json))
 
