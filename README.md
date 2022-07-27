@@ -1,30 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 00:32:24 (LK time)*
+*As of 2022-07-28 00:42:42 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
-
-## Last 3 Hours (15 Articles)
-
-* **4** virakesari-lk ([சுதந்திர ஊடகவியலாளர் அன்டனி வேரங்க கடத்தல் பாணியில் பொலிஸாரால் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/beb4feb3.json))
+## Last 3 Hours (11 Articles)
 
 * **3** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
 
-* **2** economy-next-com ([Sri Lanka legislator wants probe on delays in stamping President Rajapaksa’s passport](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86a20da.json))
+* **3** virakesari-lk ([தமிழர் பிரச்சினைக்கு தீர்வு காண்பது அவசியம் :  புலம்பெயர் தமிழ் அமைப்புக்களுடன் பேசத் தயார் - விஜயதாஸ ராஜபக்ஷ](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2818a0c.json))
 
-* **2** daily-mirror-lk ([Police arrest IUSF activist Veranga Pushpika](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aa94066.json))
+* **2** economy-next-com ([Sri Lanka legislator wants probe on delays in stamping President Rajapaksa’s passport](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86a20da.json))
 
 * **1** lankadeepa-lk ([වෙඩි වැදුණු පස් පොඩ්ඩා මිය යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e8cf83.json))
 
 * **1** ada-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e3d3ce1.json))
 
-* **1** news-first-lk ([Motorcycle gunmen kill two men in Ambalangoda; Police say murders likely linked to Tuesday’s (26) shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d830de2.json))
-
-* **1** tamil-mirror-lk ([நாளைய மின்வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a61359b.json))
+* **1** daily-mirror-lk ([Two killed in shooting in Ambalangoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c52096c.json))
 
 ## Last 24 Hours (245 Articles)
 
@@ -48,7 +40,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,342 Articles)
+## Last Week (1,341 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -70,9 +62,9 @@
 
 * **48** island-lk ([The Great Cinemas of Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadfcb97.json))
 
-* **20** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
-
 * **19** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
+
+* **19** d-b-s-jeyaraj-com ([18 Sworn in as Cabinet Ministers Before President Ranil Wickremesinghe;GL Peiris Replaced by  Ali Sabry as Foreign Minister; Prime Minister Dinesh Gunawardena Gets Public Administration, Home Affairs, Provincial Councils, and Local Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93cfda8f.json))
 
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
