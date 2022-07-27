@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 04:05:50 (LK time)*
+*As of 2022-07-28 04:21:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
-* **8** daily-ft-lk ([Free Trade Zone Manufacturers’ Association congratulates President](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1392bb61.json))
+* **7** daily-ft-lk ([State of Emergency passed in Parliament with 57 majority votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94812388.json))
 
-* **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **2** daily-mirror-lk ([Bring young people to the forefront](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9459aea5.json))
 
-## Last 24 Hours (258 Articles)
+## Last 24 Hours (250 Articles)
 
 * **52** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
 
@@ -24,9 +24,9 @@
 
 * **25** tamil-mirror-lk ([அரச நிறுவனங்களுக்கான புதிய பிரதானிகள் நியமனம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77885f01.json))
 
-* **21** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
-
 * **14** news-first-lk ([Parliament to meet today (27); Emergency proclamation to be debated](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cb4aac9.json))
+
+* **13** daily-ft-lk ([Avalanche of non-news](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ab251d6.json))
 
 * **12** economy-next-com ([IMF slashes global growth after monetary stimulus as Sri Lanka reels](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9232e2d0.json))
 
