@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 03:50:52 (LK time)*
+*As of 2022-07-28 04:02:04 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (12 Articles)
 
-* **10** daily-ft-lk ([Time for new solutions for Sri Lanka:  Fight for private creditor debt cancellation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec68a6b2.json))
+* **9** daily-ft-lk ([Ranil’s rule: Recipe for revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de27d15.json))
 
 * **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
@@ -32,7 +32,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,344 Articles)
+## Last Week (1,341 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -40,7 +40,7 @@
 
 * **148** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
-* **147** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+* **144** daily-mirror-lk ([Give the new President time to prove himself](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe04eec.json))
 
 * **142** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
