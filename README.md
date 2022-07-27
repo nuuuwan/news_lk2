@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 23:33:01 (LK time)*
+*As of 2022-07-27 23:40:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** economy-next-com ([Nine Sri Lanka Navy sailors jump ship in America](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af8674c.json))
 
 ## Last 3 Hours (20 Articles)
 
@@ -48,7 +44,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,345 Articles)
+## Last Week (1,344 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -68,7 +64,7 @@
 
 * **67** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
-* **52** island-lk ([Food festival… with a difference!](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a6976ea.json))
+* **51** island-lk ([A dream come true — for Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/082dae58.json))
 
 * **20** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
