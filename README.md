@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 05:39:42 (LK time)*
+*As of 2022-07-27 06:15:30 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,13 @@
 
 * **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
 
-## Last 24 Hours (245 Articles)
+## Last 24 Hours (247 Articles)
 
 * **50** lankadeepa-lk ([විපක්ෂයෙන් නව පෙරමුණක් ළඟදීම](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d51de158.json))
 
 * **36** news-first-lk ([Gazette: Subjects and Functions of Ministers announced](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc27961c.json))
 
-* **31** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
+* **33** virakesari-lk ([சீனா தொடர்பான கொள்கைகளில் அடிப்படை மாற்றம் ஏற்படாது- ரணில் சீனாவிற்கு விஜயம் மேற்கொள்ள திட்டம் - பாலித கோஹன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b8986eb.json))
 
 * **31** ada-lk ([දරු ප්‍රසූතියෙන් පසු බිළිඳෙක් ඝාතනය කිරිමකට වෛද්‍යවරයෙක් අත්අඩංගුවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec1a717.json))
 
@@ -32,11 +32,11 @@
 
 * **2** colombo-telegraph-com ([President Has To Try Harder To Re-Establish A Legitimate Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84a0b160.json))
 
-## Last Week (1,114 Articles)
+## Last Week (1,116 Articles)
 
 * **167** lankadeepa-lk ([නව ජනපතිට වගකීම් සම්භාරයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/38b4ba6b.json))
 
-* **157** virakesari-lk ([இலங்கையில் பின்பற்றப்படும் அரசமைப்பு ஜனநாயக நடைமுறைகளுக்கு இந்தியா ஆதரவு - இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
+* **159** virakesari-lk ([இலங்கையில் பின்பற்றப்படும் அரசமைப்பு ஜனநாயக நடைமுறைகளுக்கு இந்தியா ஆதரவு - இந்திய உயர்ஸ்தானிகர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fe8e5e5.json))
 
 * **120** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -60,15 +60,15 @@
 
 * **16** d-b-s-jeyaraj-com ([Ranil Wickremesinghe Sworn in as 8th Executive President of Sri Lanka;Old cabinet to continue until opposition ‘ready’ to cooperate in all-party govt;Dinesh Gunawardena Likely to be Prime Ministe](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261e1ec7.json))
 
-## All Time (1,499 Articles)
+## All Time (1,501 Articles)
 
 * **230** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **178** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **161** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **163** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **161** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **161** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **127** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
