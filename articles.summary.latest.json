@@ -2096,6 +2096,14 @@
     "file_name": "/tmp/news_lk2/articles/26/262689ea.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78738",
+    "time_ut": 1658774340,
+    "original_lang": "en",
+    "original_title": "Indian Prime Minister Narendra Modi sends Congratulatory Message to New Sri Lankan President Ranil Wickremesinghe days after Chinese President Xi Jinping and Russian President Vladimir Putin sent messages; Modi says India would continue to be supportive of the quest of the people of Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/2a/2ae2dc8c.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/business__main/Exporters-set-to-face-higher-freight-charges-amid-acute-jet-fuel-shortage/245-241797",
     "time_ut": 1658773378,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Droupadi Murmu elected 15th President of India",
     "file_name": "/tmp/news_lk2/articles/ac/acfccf35.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/1-\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-300913",
-    "time_ut": 1658467065,
-    "original_lang": "ta",
-    "original_title": "1 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/ba/baadbca2.json"
   }
 ]
