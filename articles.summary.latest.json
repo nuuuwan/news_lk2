@@ -1,11 +1,51 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Ambassador-Chung-and-Xeroxable-change/172-241929",
+    "time_ut": 1658951730,
+    "original_lang": "en",
+    "original_title": "Ambassador Chung and Xeroxable change",
+    "file_name": "/tmp/news_lk2/articles/c1/c11296d7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Susil-Premajayantha-appointed-as-the-Leader-of-the-House-of-Parliament/56-738000",
+    "time_ut": 1658951650,
+    "original_lang": "en",
+    "original_title": "Susil Premajayantha appointed as the Leader  of the House of Parliament",
+    "file_name": "/tmp/news_lk2/articles/54/544eeb6b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Bring-young-people-to-the-forefront/172-241928",
     "time_ut": 1658951621,
     "original_lang": "en",
     "original_title": "Bring young people to the forefront",
     "file_name": "/tmp/news_lk2/articles/94/9459aea5.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Wajira-Abeywardena-sworn-in-as-Member-of-Parliament/56-737999",
+    "time_ut": 1658951606,
+    "original_lang": "en",
+    "original_title": "Wajira Abeywardena sworn in as Member of Parliament",
+    "file_name": "/tmp/news_lk2/articles/7f/7f0f100a.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/State-of-Emergency-passed-in-Parliament-with-57-majority-votes/56-737998",
+    "time_ut": 1658951560,
+    "original_lang": "en",
+    "original_title": "State of Emergency passed in Parliament with 57 majority votes",
+    "file_name": "/tmp/news_lk2/articles/94/94812388.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Free-Trade-Zone-Manufacturers-Association-congratulates-President/56-737997",
+    "time_ut": 1658951491,
+    "original_lang": "en",
+    "original_title": "Free Trade Zone Manufacturers\u2019 Association congratulates President",
+    "file_name": "/tmp/news_lk2/articles/13/1392bb61.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca 72\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/54/5494fdb5.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/25\u0daf\u0dcf-\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0d9a\u0dd0\u0db3\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-SJB-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-395682",
-    "time_ut": 1658583337,
-    "original_lang": "si",
-    "original_title": "25\u0daf\u0dcf \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0d9a\u0dd0\u0db3\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 SJB \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f4/f4babf6c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/rw-shows-an-iron-fist/",
-    "time_ut": 1658582640,
-    "original_lang": "en",
-    "original_title": "RW shows an iron fist",
-    "file_name": "/tmp/news_lk2/articles/44/448e5aae.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/23/hrw-urges-president-to-cease-unlawful-use-of-force-against-protestors/",
-    "time_ut": 1658581800,
-    "original_lang": "en",
-    "original_title": "HRW urges President to cease unlawful use of force against protestors",
-    "file_name": "/tmp/news_lk2/articles/6a/6aa0aee8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Schools-reopen-from-Monday-three-days-per-week-Ministry/342-241668",
-    "time_ut": 1658580992,
-    "original_lang": "en",
-    "original_title": "Schools reopen from Monday; three days per week: Ministry",
-    "file_name": "/tmp/news_lk2/articles/a0/a0a0bbd7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/23/highway-revenue-down-by-70/",
-    "time_ut": 1658580180,
-    "original_lang": "en",
-    "original_title": "Highway revenue down by 70%",
-    "file_name": "/tmp/news_lk2/articles/27/27678b7f.json"
   }
 ]
