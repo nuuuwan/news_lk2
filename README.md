@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 04:02:04 (LK time)*
+*As of 2022-07-28 04:05:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (12 Articles)
+## Last 3 Hours (11 Articles)
 
-* **9** daily-ft-lk ([Ranil’s rule: Recipe for revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de27d15.json))
+* **8** daily-ft-lk ([Free Trade Zone Manufacturers’ Association congratulates President](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/1392bb61.json))
 
 * **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
