@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0db1\u0dcf\u0dc3\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dda-\u0dc0\u0dd2\u0db1\u0dca\u0db1\u0dd0\u0dc4\u0dd2\u0dba/2-617110",
+    "time_ut": 1658902261,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dcf\u0dc3\u0dca\u0dad\u0dd2\u0d9a\u0dcf\u0dbb \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0dda \u0dc0\u0dd2\u0db1\u0dca\u0db1\u0dd0\u0dc4\u0dd2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/d0/d08a0295.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/editorial/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca/117-617109",
     "time_ut": 1658901532,
     "original_lang": "si",
@@ -14,6 +22,22 @@
     "original_lang": "ta",
     "original_title": "\u0baf\u0bbe\u0bb4\u0bcd.\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8 \u0baa\u0b95\u0bbf\u0b9f\u0bbf\u0bb5\u0ba4\u0bc8",
     "file_name": "/tmp/news_lk2/articles/e7/e76faed7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/27/secretaries-appointed-to-28-ministries/",
+    "time_ut": 1658901000,
+    "original_lang": "en",
+    "original_title": "Secretaries appointed to 28 Ministries",
+    "file_name": "/tmp/news_lk2/articles/46/464889a9.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0da2\u0dd2\u0dbb-\u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/11-395772",
+    "time_ut": 1658900998,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0d85\u0db6\u0dda\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ff/ffecf7f7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "en",
     "original_title": "3-Hour power cuts tomorrow (23)",
     "file_name": "/tmp/news_lk2/articles/34/34f81a60.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Cannot-stop-struggle-through-suppression-NPP/108-241615",
-    "time_ut": 1658498641,
-    "original_lang": "en",
-    "original_title": "Cannot stop struggle through suppression: NPP",
-    "file_name": "/tmp/news_lk2/articles/85/85fedbc1.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dba\u0ddd-350\u0d9a\u0dca-\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0db1\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2\u0dad\u0dd2/101-616889",
-    "time_ut": 1658498448,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dba\u0ddd 350\u0d9a\u0dca \u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0db1\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/84/84aecad1.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda\u0db8-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbb\u0db1\u0dd2\u0dbd\u0dca-\u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395665",
-    "time_ut": 1658498262,
-    "original_lang": "si",
-    "original_title": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba \u0dc4\u0daf\u0dd2\u0dc3\u0dd2\u0dba\u0dda\u0db8 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/45/45102154.json"
   }
 ]
