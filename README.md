@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 01:25:51 (LK time)*
+*As of 2022-07-28 01:31:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **2** daily-ft-lk ([Time for new solutions for Sri Lanka:  Fight for private creditor debt cancellation](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec68a6b2.json))
+* **2** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
-* **1** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **1** daily-ft-lk ([Ranil’s rule: Recipe for revolution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8de27d15.json))
 
-## Last Hour (4 Articles)
+## Last Hour (5 Articles)
 
 * **3** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
-* **1** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **2** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
 ## Last 3 Hours (7 Articles)
 
 * **3** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
-* **1** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **2** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
 
 * **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
 
 * **1** economy-next-com ([Nine Sri Lanka Navy sailors jump ship in America](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7af8674c.json))
-
-* **1** lankadeepa-lk ([වෙඩි වැදුණු පස් පොඩ්ඩා මිය යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/58e8cf83.json))
 
 ## Last 24 Hours (249 Articles)
 
@@ -34,7 +32,7 @@
 
 * **44** lankadeepa-lk ([නව වැනි පාර්ලිමේන්තුවේ දෙවන සභා වාරය අදින් අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb6383d0.json))
 
-* **37** daily-mirror-lk ([Improving business strategy through politics and public sentiment](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c601e0af.json))
+* **37** daily-mirror-lk ([Gas shortage could have been averted  – Litro Chairman](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fceeaee5.json))
 
 * **27** ada-derana-lk ([Several areas to receive heavy showers of about 100 mm](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/210c865b.json))
 
@@ -50,7 +48,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,338 Articles)
+## Last Week (1,339 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -58,7 +56,7 @@
 
 * **148** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
-* **145** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
+* **146** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
 * **142** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
@@ -78,7 +76,7 @@
 
 * **16** d-b-s-jeyaraj-com ([Thousands of police and troops armed with riot gear  attack  protest  venue  known as Gota Go Gama, beating protesters, destroying tents and arresting nine people. More than 50 people  injured and three people hospitalized  in the attack, according to St John Ambulance](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/836af719.json))
 
-## All Time (1,747 Articles)
+## All Time (1,748 Articles)
 
 * **275** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +84,7 @@
 
 * **206** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **195** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **196** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **142** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
