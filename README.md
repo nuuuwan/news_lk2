@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 03:10:34 (LK time)*
+*As of 2022-07-28 03:32:26 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -32,7 +32,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,344 Articles)
+## Last Week (1,343 Articles)
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -54,7 +54,7 @@
 
 * **48** island-lk ([The Great Cinemas of Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/fadfcb97.json))
 
-* **19** b-b-c-com-sinhala ([ශ්‍රී ලංකාව: තේ දළු නෙළන්නියන් හා වගාකරුවන් ජීවන අරගලයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c06d88b1.json))
+* **18** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ: දැඩි ආරක්ෂක රැකවල් මැද ජනපති ලෙස දිවුරුම් දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484baf3c.json))
 
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
