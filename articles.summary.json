@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/editorial/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc3\u0dca\u0dc3\u0dda-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca/117-617109",
+    "time_ut": 1658901532,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0dc3\u0dca\u0dc3\u0dda \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a1/a123f205.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132332",
+    "time_ut": 1658901157,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd.\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8 \u0baa\u0b95\u0bbf\u0b9f\u0bbf\u0bb5\u0ba4\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/e7/e76faed7.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132330",
     "time_ut": 1658900655,
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7-\u0dbd\u0d9a\u0dca\u200d\u0dc2-40\u0d9a\u0dca-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0dc0\u0dd9\u0dad\u0dd2/101-617108",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7-\u0dbd\u0d9a\u0dca\u200d\u0dc2-40\u0d9a\u0dca-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0dc0\u0dd9\u0dad\u0dd2/1-617108",
     "time_ut": 1658899605,
     "original_lang": "si",
     "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u200d\u0dc2 40\u0d9a\u0dca \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a4/a40f376d.json"
+    "file_name": "/tmp/news_lk2/articles/a4/a4032426.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -41,11 +57,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0da2\u0dd2\u0dbb-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db0\u0dd4\u0dbb\u0dba\u0dda-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/101-617107",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da2\u0dd2\u0dbb-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db0\u0dd4\u0dbb\u0dba\u0dda-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-617107",
     "time_ut": 1658899242,
     "original_lang": "si",
     "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db0\u0dd4\u0dbb\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3e/3e151cb1.json"
+    "file_name": "/tmp/news_lk2/articles/ad/ad8afb26.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -638,6 +654,14 @@
     "original_lang": "en",
     "original_title": "Any fresh COVID wave in future could cause extensive  harm to non-recipients of vaccines",
     "file_name": "/tmp/news_lk2/articles/79/798c5167.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1-\u0dc3\u0dc4\u0dbd\u0dca-\u0dad\u0ddc\u0d9c\u0dba\u0dda-\u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2-\u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba-\u0d9a\u0ddc\u0dc5\u0db9-\u0dc0\u0dbb\u0dcf\u0dba\u0da7/11-395770",
+    "time_ut": 1658851048,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0dc3\u0dc4\u0dbd\u0dca \u0dad\u0ddc\u0d9c\u0dba\u0dda \u0db4\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0da7",
+    "file_name": "/tmp/news_lk2/articles/06/0610ba27.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1542,6 +1566,14 @@
     "original_lang": "en",
     "original_title": "Dan Priyasad\u2019s brother hacked to death in Wellampitiya",
     "file_name": "/tmp/news_lk2/articles/61/61b433e2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Court-imposes-travel-ban-on-six-protest-leaders/342-241815",
+    "time_ut": 1658823849,
+    "original_lang": "en",
+    "original_title": "Court imposes travel ban on six protest leaders",
+    "file_name": "/tmp/news_lk2/articles/a7/a70a413a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
