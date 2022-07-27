@@ -1,36 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 16:29:48 (LK time)*
+*As of 2022-07-27 16:38:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **3** virakesari-lk ([நல்லாட்சியை முன்னெடுக்க தொடர்ந்தும் அமெரிக்கா ஒத்துழைக்கும் - ஜனாதிபதியிடம் அமெரிக்கத் தூதுவர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/692ced70.json))
+* **2** virakesari-lk ([தமிழக மக்களின் மனிதாபிமான உதவிப் பொருட்களை அராங்கத்திடம் கையளித்த இந்திய உயர்ஸ்தானிகர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49ca367a.json))
 
-* **2** lankadeepa-lk ([බරණ මැරුවේ කවුද](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61b4ea66.json))
+* **1** economy-next-com ([Sri Lanka extends expiry date of Pfizer Covid-19 vaccine by 3 months on WHO advice](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/7639d2d6.json))
 
 * **1** tamil-mirror-lk ([கோட்டா உள்ளே: ரணில் வெளியே](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6378b58.json))
 
-* **1** daily-mirror-lk ([US Amb. meets President to discuss SL’s economic and political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2fe7ee5.json))
+* **1** lankadeepa-lk ([කොළඹ කොටුවේ අදත් විරෝධතා](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a432b427.json))
 
-* **1** ada-lk ([ජනපති රනිල් ජනපති‌ ලේකම් කාර්යාලයේ රාජකාරී කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c8bce8.json))
+## Last Hour (21 Articles)
 
-## Last Hour (22 Articles)
+* **6** lankadeepa-lk ([විදුලිය කැපුවාහම මැදිරිගිරිය රෝහලේ වැඩට ඉටිපන්දම් පිහිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2c1f12c.json))
 
-* **6** virakesari-lk ([அவசரகால சட்டத்திற்கு எதிரானவர்கள் தீவிரவாதத்திற்கு துணை செல்பவர்களாக கருதப்படுவர் - பிரசன்ன ரணதுங்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/287b6023.json))
-
-* **6** lankadeepa-lk ([විදුලිය කැපුවාහම මැදිරිගිරිය රෝහලේ වැඩට ඉටිපන්දම් පිහිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7eff657.json))
+* **5** virakesari-lk ([விவசாயி தோற்றால் அந்த நாடே தோற்றுப்போகும் - விவசாயத்துறை விரிவுரையாளர் ரஜிதன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cdd6900.json))
 
 * **4** daily-mirror-lk ([Police release photographs of main suspects wanted over setting fire to Ranil’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55935a5e.json))
 
 * **3** ada-lk ([ජනපති දිවුරුම් දුන් අවස්ථාවේ දුටු රිදී රේඛාව පැය 24ක් යන්නට පෙර අන්ධකාරයක් බවට පත් වුනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db4843ea.json))
 
+* **1** economy-next-com ([Sri Lanka extends expiry date of Pfizer Covid-19 vaccine by 3 months on WHO advice](https://github.com/nuuuwan/news_lk2/blob/data/articles/76/7639d2d6.json))
+
 * **1** tamil-mirror-lk ([கோட்டா உள்ளே: ரணில் வெளியே](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6378b58.json))
 
 * **1** ada-derana-lk ([US envoy meets President Ranil, discusses ongoing crisis situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7966932.json))
-
-* **1** news-first-lk ([Sri Lanka: Supreme Court issues notice on Ex-President Gotabaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7316d67a.json))
 
 ## Last 3 Hours (57 Articles)
 
@@ -42,15 +40,15 @@
 
 * **11** ada-lk ([මහින්දට බැසිල්ට තවදුරටත් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adc22fc5.json))
 
-* **6** ada-derana-lk ([Powerful 7.1 earthquake strikes Philippines](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74de9dfb.json))
+* **5** ada-derana-lk ([‘Pas Podda’ and 3 others injured in shooting opposite Gampaha Court](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e0f6e457.json))
+
+* **2** economy-next-com ([Sri Lanka chamber appoints panel to choose sustainable companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97615802.json))
 
 * **2** tamil-mirror-lk ([சஜித் அணியில் இருவருக்கு அமைச்சு பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b6a3c.json))
 
 * **2** news-first-lk ([Shots fired in Gampaha; Four criminals including Pas Podda injured](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/558fd474.json))
 
-* **1** economy-next-com ([Sri Lanka chamber appoints panel to choose sustainable companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97615802.json))
-
-## Last 24 Hours (241 Articles)
+## Last 24 Hours (242 Articles)
 
 * **51** lankadeepa-lk ([නුගේගොඩින් ආරම්භ වන බස් ධාවනයෙන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9175e224.json))
 
@@ -66,7 +64,7 @@
 
 * **17** news-first-lk ([Two days allocated for school vans and buses to obtain fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/646ba5ef.json))
 
-* **12** economy-next-com ([Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486fe7c1.json))
+* **13** economy-next-com ([Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486fe7c1.json))
 
 * **10** daily-ft-lk ([International academics call on  Sri Lanka president to protect right to protest and other freedoms](https://github.com/nuuuwan/news_lk2/blob/data/articles/30/3095a6bb.json))
 
@@ -74,7 +72,7 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,268 Articles)
+## Last Week (1,269 Articles)
 
 * **199** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
@@ -92,7 +90,7 @@
 
 * **78** daily-ft-lk ([VUCA and leading  Sri Lanka out of crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffe8f921.json))
 
-* **60** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
+* **61** economy-next-com ([Sri Lanka public debt surges over 127-pct of GDP as monetary instability bites](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10a4c407.json))
 
 * **53** island-lk ([Tear Gas: What you need to know](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d0533d87.json))
 
@@ -102,7 +100,7 @@
 
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## All Time (1,663 Articles)
+## All Time (1,664 Articles)
 
 * **264** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -122,7 +120,7 @@
 
 * **110** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **82** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
+* **83** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
 * **71** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
