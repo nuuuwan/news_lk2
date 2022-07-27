@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 04:28:43 (LK time)*
+*As of 2022-07-28 04:40:56 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 24 Hours (248 Articles)
 
-* **52** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
+* **53** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
 
 * **44** lankadeepa-lk ([නව වැනි පාර්ලිමේන්තුවේ දෙවන සභා වාරය අදින් අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fb/fb6383d0.json))
 
@@ -20,15 +20,15 @@
 
 * **14** news-first-lk ([Parliament to meet today (27); Emergency proclamation to be debated](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cb4aac9.json))
 
-* **12** daily-ft-lk ([President Wickremesinghe, current Pohottuwa Govt. and the  way forward: A call from citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48402c18.json))
-
 * **12** economy-next-com ([IMF slashes global growth after monetary stimulus as Sri Lanka reels](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9232e2d0.json))
 
-## Last Week (1,341 Articles)
+* **11** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
+
+## Last Week (1,342 Articles)
+
+* **211** virakesari-lk ([இலக்கை அடைந்த பொறுமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/616efdc0.json))
 
 * **210** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
-
-* **210** virakesari-lk ([இலக்கை அடைந்த பொறுமை](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/616efdc0.json))
 
 * **148** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -52,11 +52,11 @@
 
 * **16** d-b-s-jeyaraj-com ([Thousands of police and troops armed with riot gear  attack  protest  venue  known as Gota Go Gama, beating protesters, destroying tents and arresting nine people. More than 50 people  injured and three people hospitalized  in the attack, according to St John Ambulance](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/836af719.json))
 
-## All Time (1,760 Articles)
+## All Time (1,761 Articles)
 
 * **275** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **217** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **218** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **206** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
