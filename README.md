@@ -1,48 +1,48 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 15:15:03 (LK time)*
+*As of 2022-07-27 15:19:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (5 Articles)
 
-* **3** ada-derana-lk ([Suspect arrested with tear gas canisters stolen during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b7dc887.json))
+* **1** daily-mirror-lk ([Strugglers conspiring to topple regime with vested interest: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/cb/cbcdbb0a.json))
 
-* **2** virakesari-lk ([சமந்தா பவர் இந்தியாவில் - இலங்கை நிலவரம் குறித்தும் பேச்சுவார்த்தை](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e2c0db7.json))
+* **1** ada-derana-lk ([Bangladesh seeks $4.5 billion IMF loan as deficit widens](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad3e9566.json))
 
-* **1** daily-mirror-lk ([Strugglers conspiring to topple regime with vested interest: Wimal](https://github.com/nuuuwan/news_lk2/blob/data/articles/ec/ec2c376c.json))
+* **1** lankadeepa-lk ([වී මෙට්‍රික්ටොන් ලක්ෂයක් ගන්න මණ්ඩලය තීරණය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c98c58.json))
+
+* **1** virakesari-lk ([புதிய அரசுடன் இலங்கை பயணிக்க தொழிலாளர் காங்கிரஸ் தயார் - செந்தில் தொண்டமான்](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/064c2503.json))
 
 * **1** tamil-mirror-lk ([சஜித் அணியில் இருவருக்கு அமைச்சு பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b6a3c.json))
 
-## Last Hour (16 Articles)
+## Last Hour (14 Articles)
 
-* **5** daily-mirror-lk ([Four including gangster ’Pas Podda’ injured in shooting near Gampaha court](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314ab9c.json))
+* **3** daily-mirror-lk ([President Wickremesinghe discharged from court proceedings](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/51359103.json))
 
 * **3** ada-derana-lk ([Suspect arrested with tear gas canisters stolen during protest](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4b7dc887.json))
 
 * **3** virakesari-lk ([கம்பஹாவில் நீதிமன்ற வளாகத்தில் துப்பாக்கி சூடு ; நால்வர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c7cba39.json))
 
+* **2** lankadeepa-lk ([මෙි අරගල කරුවන් නොවේ අරාජිකකරුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d55da1.json))
+
 * **1** tamil-mirror-lk ([சஜித் அணியில் இருவருக்கு அமைச்சு பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b6a3c.json))
 
 * **1** economy-next-com ([Sri Lanka chamber appoints panel to choose sustainable companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97615802.json))
 
-* **1** lankadeepa-lk ([මෙි අරගල කරුවන් නොවේ අරාජිකකරුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e6d55da1.json))
-
 * **1** news-first-lk ([Shots fired in Gampaha; Four criminals including Pas Podda injured](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/558fd474.json))
 
-* **1** ada-lk ([අරගල භූමිය කුමන්ත්‍රණ කරන තිප්පොලක් නොවිය යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a789124.json))
-
-## Last 3 Hours (53 Articles)
+## Last 3 Hours (52 Articles)
 
 * **11** ada-lk ([හිටපු ජනපති ගෝඨාභයට තවත් සති 02ක් සිංගප්පූරුවේ සිටීමට අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bf75657.json))
 
-* **10** lankadeepa-lk ([ගෝඨාභයට තව සති දෙකක් සිංගප්පූරුවේ ඉන්න අවසර](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/636c4e4e.json))
+* **10** lankadeepa-lk ([අරගලයේ දැන් ඉන්නේ පිස්සන් කුඩුකාරයින්](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f25f31ff.json))
 
 * **9** daily-mirror-lk ([Travel ban imposed on MR and Basil further extended till August 2](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a1e01ee.json))
 
-* **8** virakesari-lk ([போராட்டம் மலையகத்துக்கு சொல்லும் பாடம் என்ன…?](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab7170bb.json))
-
 * **7** ada-derana-lk ([Singapore extends Gotabaya Rajapaksa’s visit pass by 14 days: report](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5f6c3a3.json))
+
+* **7** virakesari-lk ([தூத்துக்குடியில் இருந்து இலங்கைக்கு கடத்தவிருந்த வலி நிவாரண மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54faf565.json))
 
 * **4** tamil-mirror-lk ([ராஜபக்ஷர்களுக்கான பயணத்தடை நீடிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/9a/9ad6a6e1.json))
 
@@ -52,15 +52,15 @@
 
 ## Last 24 Hours (239 Articles)
 
-* **45** lankadeepa-lk ([පුරාවිද්‍යා කණ්ඩායමක් හෙට ජනපති මැදුරට](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54f67892.json))
+* **46** lankadeepa-lk ([පුරාවිද්‍යා කණ්ඩායමක් හෙට ජනපති මැදුරට](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54f67892.json))
 
 * **40** virakesari-lk ([ஜனாதிபதி மாளிகையில் தொல்பொருள் சேதம் தொடர்பில் விசாரணைகள் ஆரம்பம் - தொல்பொருள் திணைக்களம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebc2733f.json))
 
 * **33** daily-mirror-lk ([Debate on Emergancy proclamation in Parliament tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/ab/ab081a44.json))
 
-* **28** ada-lk ([කුණු ලොරියේ ඩීසල් ඇද්ද සහයක මාට්ටූ](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7a99293.json))
-
 * **27** ada-derana-lk ([Private bus strike on several routes demanding fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/4e/4e66bac6.json))
+
+* **27** ada-lk ([හිටපු ජනපති ගෝඨාභය නැවත එනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f26f4bf.json))
 
 * **20** news-first-lk ([Four arrested near Bandaranaike Statue](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/816b4d03.json))
 
@@ -74,9 +74,9 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,238 Articles)
+## Last Week (1,239 Articles)
 
-* **190** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
+* **191** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
 * **184** virakesari-lk ([இலங்கையில் பதவிநீக்கம் செய்யப்பட்ட ஜனாதிபதியின் கூட்டாளி அவருக்கு பதில் தெரிவுசெய்யப்பட்டுள்ளார்- நியூயோர்க் டைம்ஸ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16a94363.json))
 
@@ -102,9 +102,9 @@
 
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## All Time (1,631 Articles)
+## All Time (1,632 Articles)
 
-* **255** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **256** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **193** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

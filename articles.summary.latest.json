@@ -1,11 +1,11 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Strugglers-conspiring-to-topple-regime-with-vested-interest-Wimal/108-241892",
+    "url": "https://www.dailymirror.lk/latest_news/Strugglers-conspiring-to-topple-regime-with-vested-interest-Wimal/342-241892",
     "time_ut": 1658914775,
     "original_lang": "en",
     "original_title": "Strugglers conspiring to topple regime with vested interest: Wimal",
-    "file_name": "/tmp/news_lk2/articles/ec/ec2c376c.json"
+    "file_name": "/tmp/news_lk2/articles/cb/cbcdbb0a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -14,6 +14,14 @@
     "original_lang": "en",
     "original_title": "Bangladesh seeks $4.5 billion IMF loan as deficit widens",
     "file_name": "/tmp/news_lk2/articles/ad/ad3e9566.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd3-\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/1-617127",
+    "time_ut": 1658914450,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3 \u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0ddc\u0db1\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/15/15c98c58.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -89,11 +97,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-Wickremesinghe-discharged-from-court-proceedings/108-241890",
+    "url": "https://www.dailymirror.lk/latest_news/President-Wickremesinghe-discharged-from-court-proceedings/342-241890",
     "time_ut": 1658911965,
     "original_lang": "en",
     "original_title": "President Wickremesinghe discharged from court proceedings",
-    "file_name": "/tmp/news_lk2/articles/0f/0fac85d3.json"
+    "file_name": "/tmp/news_lk2/articles/51/51359103.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -201,11 +209,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/SJB-will-force-a-general-election-soon-Kiriella/108-241887",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-will-force-a-general-election-soon-Kiriella/342-241887",
     "time_ut": 1658908564,
     "original_lang": "en",
     "original_title": "SJB will force a general election soon: Kiriella",
-    "file_name": "/tmp/news_lk2/articles/36/36e7383d.json"
+    "file_name": "/tmp/news_lk2/articles/07/071e1041.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -297,11 +305,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business_247/Bdesh-reaches-out-to-IMF-for-4-5-bn-bailout/395-241886",
+    "url": "https://www.dailymirror.lk/mirror_business/Bdesh-reaches-out-to-IMF-for-4-5-bn-bailout/241-241886",
     "time_ut": 1658906865,
     "original_lang": "en",
     "original_title": "B\u2019desh reaches out to IMF for 4.5 bn bailout",
-    "file_name": "/tmp/news_lk2/articles/e8/e8280e0e.json"
+    "file_name": "/tmp/news_lk2/articles/69/694a7032.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0bc2\u0bb2\u0bbf",
     "file_name": "/tmp/news_lk2/articles/5f/5fa7eaff.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/How-Kumar-Gunaratnam-alias-Gemunu-Fought-against-the-Indian-Army/172-241652",
-    "time_ut": 1658519331,
-    "original_lang": "en",
-    "original_title": "How Kumar Gunaratnam alias \u201cGemunu\u201d Fought\u00a0 against the Indian Army",
-    "file_name": "/tmp/news_lk2/articles/b1/b1f86f78.json"
   }
 ]
