@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 23:50:55 (LK time)*
+*As of 2022-07-28 00:03:51 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,23 +12,23 @@
 
 * **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
 
-## Last 3 Hours (21 Articles)
-
-* **5** lankadeepa-lk ([ජනපති මහ ගෙදරට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b10cf8c8.json))
+## Last 3 Hours (18 Articles)
 
 * **5** virakesari-lk ([விமானத்தில் வைத்து சி.ஐ.டி.யினரால் கைதான தானிஸ் அலிக்கு விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97f05abe.json))
 
 * **3** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
 
+* **3** lankadeepa-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙකක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/24/24cb2a24.json))
+
 * **2** economy-next-com ([Sri Lanka legislator wants probe on delays in stamping President Rajapaksa’s passport](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a86a20da.json))
 
 * **2** daily-mirror-lk ([Police arrest IUSF activist Veranga Pushpika](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4aa94066.json))
 
-* **2** tamil-mirror-lk ([டனிஸ் அலிக்கு  விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e13ac937.json))
-
 * **1** ada-lk ([අම්බලන්ගොඩ වෙඩි තැබීමකින් දෙදෙනෙක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e3d3ce1.json))
 
 * **1** news-first-lk ([Motorcycle gunmen kill two men in Ambalangoda; Police say murders likely linked to Tuesday’s (26) shooting](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d830de2.json))
+
+* **1** tamil-mirror-lk ([நாளைய மின்வெட்டு அட்டவணை](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a61359b.json))
 
 ## Last 24 Hours (245 Articles)
 
