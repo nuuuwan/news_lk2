@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 02:29:39 (LK time)*
+*As of 2022-07-28 02:37:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (15 Articles)
+## Last 3 Hours (14 Articles)
 
 * **11** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
 * **3** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
-
-* **1** ada-derana-lk ([‘Pas Podda’ injured in gunfire opposite Gampaha Court dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c91668.json))
 
 ## Last 24 Hours (256 Articles)
 
