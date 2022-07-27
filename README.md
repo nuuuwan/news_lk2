@@ -1,16 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 04:21:41 (LK time)*
+*As of 2022-07-28 04:28:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (9 Articles)
-
-* **7** daily-ft-lk ([State of Emergency passed in Parliament with 57 majority votes](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/94812388.json))
-
-* **2** daily-mirror-lk ([Bring young people to the forefront](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9459aea5.json))
-
-## Last 24 Hours (250 Articles)
+## Last 24 Hours (248 Articles)
 
 * **52** virakesari-lk ([கோத்தபாய ராஜபக்சவை விசாரணைக்குட்படுத்தவேண்டும் - 17 அமைப்புகள் சிங்கப்பூர் சட்டமா அதிபர் திணைக்களத்திற்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/1550a886.json))
 
@@ -26,11 +20,9 @@
 
 * **14** news-first-lk ([Parliament to meet today (27); Emergency proclamation to be debated](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cb4aac9.json))
 
-* **13** daily-ft-lk ([Avalanche of non-news](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0ab251d6.json))
+* **12** daily-ft-lk ([President Wickremesinghe, current Pohottuwa Govt. and the  way forward: A call from citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/48402c18.json))
 
 * **12** economy-next-com ([IMF slashes global growth after monetary stimulus as Sri Lanka reels](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/9232e2d0.json))
-
-* **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
 ## Last Week (1,341 Articles)
 
