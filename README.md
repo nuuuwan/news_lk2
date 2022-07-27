@@ -1,62 +1,70 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-27 16:20:12 (LK time)*
+*As of 2022-07-27 16:29:48 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (8 Articles)
 
-* **3** lankadeepa-lk ([ඇමරිකා තානාපතිනිය  ජනපති හමුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c28e6b2f.json))
+* **3** virakesari-lk ([நல்லாட்சியை முன்னெடுக்க தொடர்ந்தும் அமெரிக்கா ஒத்துழைக்கும் - ஜனாதிபதியிடம் அமெரிக்கத் தூதுவர் தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/692ced70.json))
+
+* **2** lankadeepa-lk ([බරණ මැරුවේ කවුද](https://github.com/nuuuwan/news_lk2/blob/data/articles/61/61b4ea66.json))
+
+* **1** tamil-mirror-lk ([கோட்டா உள்ளே: ரணில் வெளியே](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6378b58.json))
 
 * **1** daily-mirror-lk ([US Amb. meets President to discuss SL’s economic and political crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/f2/f2fe7ee5.json))
 
-## Last Hour (19 Articles)
+* **1** ada-lk ([ජනපති රනිල් ජනපති‌ ලේකම් කාර්යාලයේ රාජකාරී කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b8/b8c8bce8.json))
 
-* **6** lankadeepa-lk ([ලක්ෂ 200 මෝටර් රථය ගිනි රකුසාට බිලි](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/956bfff4.json))
+## Last Hour (22 Articles)
 
-* **6** daily-mirror-lk ([Against govt. move to suppress struggle](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3be2e9a8.json))
+* **6** virakesari-lk ([அவசரகால சட்டத்திற்கு எதிரானவர்கள் தீவிரவாதத்திற்கு துணை செல்பவர்களாக கருதப்படுவர் - பிரசன்ன ரணதுங்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/287b6023.json))
 
-* **3** virakesari-lk ([5 கண்ணீர் புகை குண்டுகளுடன் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44afeaec.json))
+* **6** lankadeepa-lk ([විදුලිය කැපුවාහම මැදිරිගිරිය රෝහලේ වැඩට ඉටිපන්දම් පිහිට](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7eff657.json))
 
-* **2** ada-lk ([ජනපති දිවුරුම් දුන් අවස්ථාවේ දුටු රිදී රේඛාව පැය 24ක් යන්නට පෙර අන්ධකාරයක් බවට පත් වුනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db4843ea.json))
+* **4** daily-mirror-lk ([Police release photographs of main suspects wanted over setting fire to Ranil’s private residence](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55935a5e.json))
+
+* **3** ada-lk ([ජනපති දිවුරුම් දුන් අවස්ථාවේ දුටු රිදී රේඛාව පැය 24ක් යන්නට පෙර අන්ධකාරයක් බවට පත් වුනා](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db4843ea.json))
+
+* **1** tamil-mirror-lk ([கோட்டா உள்ளே: ரணில் வெளியே](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6378b58.json))
 
 * **1** ada-derana-lk ([US envoy meets President Ranil, discusses ongoing crisis situation](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7966932.json))
 
 * **1** news-first-lk ([Sri Lanka: Supreme Court issues notice on Ex-President Gotabaya](https://github.com/nuuuwan/news_lk2/blob/data/articles/73/7316d67a.json))
 
-## Last 3 Hours (56 Articles)
+## Last 3 Hours (57 Articles)
 
-* **14** daily-mirror-lk ([SJB will force a general election soon: Kiriella](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/071e1041.json))
+* **13** daily-mirror-lk ([Four including gangster ’Pas Podda’ injured in shooting near Gampaha court](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d314ab9c.json))
 
-* **12** lankadeepa-lk ([ගම්පහ අධිකරණය ඉදිරිපිට වෙඩි තැබීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a65dfb9c.json))
+* **11** virakesari-lk ([கொவிட் அறிகுறிகளுடைய சிறுவர்களை பாடசாலைகளுக்கு அனுப்புவதை தவிர்த்துக் கொள்ளவும் - விசேட வைத்திய நிபுணர் தீபால் பெரேரா](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/324c4ad6.json))
 
-* **10** ada-lk ([මහින්දට බැසිල්ට තවදුරටත් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adc22fc5.json))
+* **11** lankadeepa-lk ([විරෝධතා මුවාවෙන් කෙරෙන ත්‍රස්තවාදී ක්‍රියා ප්‍රතික්ෂේප කරනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2e/2e5610de.json))
 
-* **7** virakesari-lk ([கொவிட் அறிகுறிகளுடைய சிறுவர்களை பாடசாலைகளுக்கு அனுப்புவதை தவிர்த்துக் கொள்ளவும் - விசேட வைத்திய நிபுணர் தீபால் பெரேரா](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/324c4ad6.json))
+* **11** ada-lk ([මහින්දට බැසිල්ට තවදුරටත් විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/adc22fc5.json))
 
 * **6** ada-derana-lk ([Powerful 7.1 earthquake strikes Philippines](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74de9dfb.json))
 
-* **3** news-first-lk ([Travel Ban on Mahinda and Basil, extended to 2nd August](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49396870.json))
+* **2** tamil-mirror-lk ([சஜித் அணியில் இருவருக்கு அமைச்சு பதவி](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/708b6a3c.json))
 
-* **3** tamil-mirror-lk ([போதைப்பொருளுக்கு அடிமையானவர்களே உள்ளனர் - பிரசன்ன ரணதுங்க](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d548bf43.json))
+* **2** news-first-lk ([Shots fired in Gampaha; Four criminals including Pas Podda injured](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/558fd474.json))
 
 * **1** economy-next-com ([Sri Lanka chamber appoints panel to choose sustainable companies](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/97615802.json))
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (241 Articles)
 
-* **50** lankadeepa-lk ([නුගේගොඩින් ආරම්භ වන බස් ධාවනයෙන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9175e224.json))
+* **51** lankadeepa-lk ([නුගේගොඩින් ආරම්භ වන බස් ධාවනයෙන් ඉවතට](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/9175e224.json))
+
+* **41** virakesari-lk ([மட்டக்களப்பில் கோர விபத்து - சகோதரர்கள் இருவர் சம்பவ இடத்திலேயே உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d42a2e3d.json))
 
 * **39** daily-mirror-lk ([FR filed by Police OIC challenging transfer at the behest of racketeers: SC grants leave to proceed](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c47e22cd.json))
 
-* **37** virakesari-lk ([மட்டக்களப்பில் கோர விபத்து - சகோதரர்கள் இருவர் சம்பவ இடத்திலேயே உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d42a2e3d.json))
+* **25** ada-lk ([කොවිඩ් ආසාදිතයන් 100 පනියි - මරණත් 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5fbf8a6.json))
 
 * **25** ada-derana-lk ([Passports to be issued only to those with prior appointments](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/75bcf46d.json))
 
-* **24** ada-lk ([කොවිඩ් ආසාදිතයන් 100 පනියි - මරණත් 5ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5fbf8a6.json))
+* **17** tamil-mirror-lk ([வைத்தியசாலை பணியாளர்களால்  பறிக்கப்பட்ட  உயிர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce524e84.json))
 
-* **18** news-first-lk ([Aragalaya should have been dealt with the same way dissent was dealt in the 70s & 80s – SLPPs Sanath Nishantha](https://github.com/nuuuwan/news_lk2/blob/data/articles/dd/ddf21a8c.json))
-
-* **16** tamil-mirror-lk ([வைத்தியசாலை பணியாளர்களால்  பறிக்கப்பட்ட  உயிர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce524e84.json))
+* **17** news-first-lk ([Two days allocated for school vans and buses to obtain fuel](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/646ba5ef.json))
 
 * **12** economy-next-com ([Sri Lanka railways lost 40.4 billion rupees in 2021, salary bill 7.8bn](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/486fe7c1.json))
 
@@ -66,17 +74,17 @@
 
 * **1** colombo-telegraph-com ([Niemöller’s Quote Resonating With Aragalaya’s Aim For Racial Unity!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1834c88.json))
 
-## Last Week (1,261 Articles)
+## Last Week (1,268 Articles)
 
-* **198** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
+* **199** lankadeepa-lk ([ජනපති අබියස අභියෝග විශාලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d778bc57.json))
 
-* **186** virakesari-lk ([இதுகாலவரை தன்னிடமிருந்து நழுவிய பதவியை இறுதியில் அடைந்துவிட்ட ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d48bb0fa.json))
+* **190** virakesari-lk ([இதுகாலவரை தன்னிடமிருந்து நழுவிய பதவியை இறுதியில் அடைந்துவிட்ட ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d48bb0fa.json))
 
-* **139** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
+* **140** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
 * **138** daily-mirror-lk ([The “house” Rajapaksas built comes tumbling down](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89c7b331.json))
 
-* **129** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **130** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **114** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
@@ -94,17 +102,17 @@
 
 * **17** colombo-telegraph-com ([The Elephant In The Room: Geopolitics & The ‘Great Reset’ In Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d890dfe3.json))
 
-## All Time (1,656 Articles)
+## All Time (1,663 Articles)
 
-* **263** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **264** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **197** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **198** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **192** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **196** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **188** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **129** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **130** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
 * **127** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
