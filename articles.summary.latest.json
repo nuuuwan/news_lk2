@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/All-party-government-Reality-and-alternatives/4-738022",
+    "time_ut": 1659035112,
+    "original_lang": "en",
+    "original_title": "All-party government: Reality and alternatives",
+    "file_name": "/tmp/news_lk2/articles/7c/7c259215.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-fuel-pass-registration-process-amended-after-complaints-98003/",
     "time_ut": 1659033060,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Evening thundershowers expected in several provinces during next few days",
     "file_name": "/tmp/news_lk2/articles/db/db8966e8.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb2\u0bcd\u0bb5\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301050",
-    "time_ut": 1658715032,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/64/64aaf766.json"
   }
 ]
