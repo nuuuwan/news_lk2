@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/parliament-prorogue-with-effect-from-today-28-next-session-on-3rd-august/",
+    "time_ut": 1659022320,
+    "original_lang": "en",
+    "original_title": "Parliament prorogued with effect from today (28); Next session on 3rd August",
+    "file_name": "/tmp/news_lk2/articles/1a/1aca59fe.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dcf\u0dbb-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-617199",
+    "time_ut": 1659022169,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dcf\u0dbb \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/08/0863f402.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/rambukkana-shooting-four-suspects-further-arrested/",
+    "time_ut": 1659021360,
+    "original_lang": "en",
+    "original_title": "Rambukkana shooting: Four suspects further arrested",
+    "file_name": "/tmp/news_lk2/articles/fe/fe1fd9c6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/28/no-split-in-the-slpp-but-there-is-a-conspiracy-kariyawasam/",
     "time_ut": 1659021360,
     "original_lang": "en",
@@ -134,6 +158,14 @@
     "original_lang": "en",
     "original_title": "Court issues travel ban on 21 protesters including Dhaniz Ali",
     "file_name": "/tmp/news_lk2/articles/cd/cdc28a86.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dc0\u0dd2\u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0da7-\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca/11-395838",
+    "time_ut": 1659015172,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0da7 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0d9a \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/a2/a252dc3b.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Deepak Senthil succeeds CCBSL outgoing Managing Director Mayank Arora",
     "file_name": "/tmp/news_lk2/articles/64/649b2f8e.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78733",
-    "time_ut": 1658687940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s New  President  Ranil Wickremesinghe  \u2018swings\u2019 into action on his day one in office to restore law and order and  shows  who is the boss",
-    "file_name": "/tmp/news_lk2/articles/7e/7e993069.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-Collective-Against-Torture-condemns-brutal-attack-on-protestors/14-737856",
-    "time_ut": 1658687603,
-    "original_lang": "en",
-    "original_title": "Sri Lanka Collective Against Torture condemns brutal attack on protestors",
-    "file_name": "/tmp/news_lk2/articles/73/73d2e344.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Here-to-eternity/14-737855",
-    "time_ut": 1658687537,
-    "original_lang": "en",
-    "original_title": "Here to eternity",
-    "file_name": "/tmp/news_lk2/articles/21/21d12506.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Shocking-violation-of-the-Constitution-by-the-Lord-and-Master/4-737853",
-    "time_ut": 1658687339,
-    "original_lang": "en",
-    "original_title": "Shocking violation of the Constitution by the \u2018Lord and Master\u2019",
-    "file_name": "/tmp/news_lk2/articles/7c/7cce5e76.json"
   }
 ]
