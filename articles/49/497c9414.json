@@ -14,7 +14,7 @@
         "According to the warrant, the CIT has handed over the arrested person to the Fort Police yesterday (27) to appear in the Fort Court.",
         "After that, on June 12, he was interrogated in connection with the incident in which the members of the Military Intelligence Unit were forcefully detained in the area where the protesters were gathered near the Presidential Secretariat.",
         "Later on June 13, he was taken to the Karuwathottam police station for questioning in relation to the incident of trespassing at the Rupavahini corporation under the Karuwathottam police division and obstructing the live broadcasts. He was then presented at the official residence of Fort Justice Dilina Kamage yesterday (27) with his body completely covered.",
-        "At this time, the police presented the issues and demanded that the suspect be remanded in custody as he has to undergo an identification parade in connection with the violation within the Rupavahini corporation.",
+        "At this time, the police presented the issues and demanded that the suspect be remanded in custody as he has to undergo an identification parade in connection with the violation within the Rupavahini Corporation.",
         "At this time, lawyers including senior advocate Siras Noordeen and Nuwan Bobake were present before the judge on behalf of the suspect.",
         "The lawyers mentioned that the police wanted an identification parade with a view to taking the suspect into custody.",
         "However, the judge ordered the suspect to be remanded until the 5th and ordered him to appear at the Colombo Chief Magistrate's Court on the 1st for the Rupavahi Corporation case.",
@@ -153,8 +153,8 @@
         ],
         [
           {
-            "text": "Rupavahini",
-            "label": "PERSON"
+            "text": "the Rupavahini Corporation",
+            "label": "ORG"
           }
         ],
         [
@@ -390,8 +390,8 @@
         ],
         [
           {
-            "text": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba",
-            "label": "PERSON"
+            "text": "\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd3 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
+            "label": "ORG"
           }
         ],
         [
@@ -627,8 +627,8 @@
         ],
         [
           {
-            "text": "\u0bb0\u0bc2\u0baa\u0bb5\u0bbe\u0bb9\u0bbf\u0ba9\u0bbf",
-            "label": "PERSON"
+            "text": "\u0bb0\u0bc2\u0baa\u0bb5\u0bbe\u0bb9\u0bbf\u0ba9\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0baa\u0ba9\u0bae\u0bcd",
+            "label": "ORG"
           }
         ],
         [

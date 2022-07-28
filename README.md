@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 22:50:59 (LK time)*
+*As of 2022-07-28 22:59:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (5 Articles)
 
-* **1** economy-next-com ([Sri Lanka raises Rs.50 bln via T-bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/993e7b19.json))
-
-## Last Hour (6 Articles)
-
-* **3** lankadeepa-lk ([කොරෝනා රෝගීහු 131ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfe86a5a.json))
+* **3** lankadeepa-lk ([කොරෝනා රෝගීහු 131ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42c793bf.json))
 
 * **2** economy-next-com ([Sri Lanka bond yields edge up; guidance peg steady](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6be0c1e.json))
 
-* **1** virakesari-lk ([பாராளுமன்ற கூட்டத்தொடர் ஒத்திவைப்பு : வெளியானது அதிவிசேட வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f89e2b8.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (26 Articles)
 
 * **6** virakesari-lk ([பிரபாகரனைவிட தெற்கு பயங்கரவாதம் நாட்டில் பாரிய அழிவை ஏற்படுத்தியுள்ளது - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/efc86874.json))
 
-* **6** news-first-lk ([Nuwan Bopage goes to HRCSL on 22nd July Attacks](https://github.com/nuuuwan/news_lk2/blob/data/articles/85/859140f1.json))
+* **5** news-first-lk ([Justice Minister invites parties to form all-party Government](https://github.com/nuuuwan/news_lk2/blob/data/articles/64/64f91e1a.json))
 
 * **4** lankadeepa-lk ([පාර්ලිමේන්තුව වාර අවසන් කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6be550c.json))
 
@@ -54,7 +48,7 @@
 
 * **8** economy-next-com ([Sri Lanka’s JKH profits soar driven by forex gains as soft-peg collapses](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26b5ae34.json))
 
-## Last Week (1,560 Articles)
+## Last Week (1,558 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -74,13 +68,13 @@
 
 * **71** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
-* **56** island-lk ([Concessions to affected borrowers of licensed banks amidst prevailing extraordinary macroeconomic circumstances](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b0d6e1c.json))
+* **55** island-lk ([SLT-MOBITEL discusses Sri Lanka’s enterprise investment potential with top-ranking US officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/34261641.json))
 
 * **22** d-b-s-jeyaraj-com ([Thousands of police and troops armed with riot gear  attack  protest  venue  known as Gota Go Gama, beating protesters, destroying tents and arresting nine people. More than 50 people  injured and three people hospitalized  in the attack, according to St John Ambulance](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/836af719.json))
 
 * **14** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
-* **14** b-b-c-com-sinhala ([ගාලු මුවදොර අරගලකරුවන්ට හමුදාවෙන් අමානුෂික ප්‍රහාර;සජීව විකාශය අතරතුර BBC මාධ්‍යවේදීන්ටත් පහර දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dee614a1.json))
+* **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
 ## All Time (1,996 Articles)
 
