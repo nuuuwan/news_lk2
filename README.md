@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 04:53:43 (LK time)*
+*As of 2022-07-29 05:03:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
-* **6** daily-ft-lk ([Federation of Renewable Energy Developers holds inaugural meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce712d4.json))
+* **5** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
 
 ## Last 24 Hours (245 Articles)
 
@@ -32,7 +32,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,569 Articles)
+## Last Week (1,568 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -48,7 +48,7 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **84** daily-ft-lk ([TATA Memorial Hospital in Mumbai donates urgently required cancer medicines to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/ac0a01f1.json))
+* **83** daily-ft-lk ([Limitations inherent in July uprising](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9951fef9.json))
 
 * **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
