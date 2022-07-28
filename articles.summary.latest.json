@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Businesses-with-multiple-vehicles-can-register-with-National-Fuel-Pass-portal/342-241963",
+    "time_ut": 1659003629,
+    "original_lang": "en",
+    "original_title": "Businesses with multiple vehicles can register with National Fuel Pass portal",
+    "file_name": "/tmp/news_lk2/articles/aa/aa854acf.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132411",
+    "time_ut": 1659003556,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd  \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd - \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc2\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1e/1e53a29d.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd3-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dba\u0ddc\u0daf\u0db1-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba-\u0d9c\u0dd0\u0db1-\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/101-617184",
     "time_ut": 1659003086,
@@ -16,6 +32,14 @@
     "file_name": "/tmp/news_lk2/articles/cc/cc74fed0.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/cops-chase-after-suspicious-swimmer-and-recover-stolen-money-bag-with-rs-1-5-mn/",
+    "time_ut": 1659002760,
+    "original_lang": "en",
+    "original_title": "Cops chase after suspicious swimmer and recover stolen money bag with Rs. 1.5 Mn",
+    "file_name": "/tmp/news_lk2/articles/a7/a7f5384f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132409",
     "time_ut": 1659002690,
@@ -25,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/First-home-grown-electric-car-launched/110-241961",
+    "url": "https://www.dailymirror.lk/latest_news/First-home-grown-electric-car-launched/342-241961",
     "time_ut": 1659002584,
     "original_lang": "en",
     "original_title": "First home-grown electric car launched",
-    "file_name": "/tmp/news_lk2/articles/fb/fb13aa8b.json"
+    "file_name": "/tmp/news_lk2/articles/25/25658d15.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -38,6 +62,14 @@
     "original_lang": "si",
     "original_title": "\u0db4\u0ddc\u0daf\u0dd4\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd3\u0dba \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7 \u0d9c\u0dd2\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda 5\u0d9a\u0da7 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca",
     "file_name": "/tmp/news_lk2/articles/44/440e916f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2-02-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0dad\u0db6\u0dcf-\u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d9c\u0db8\u0da7/11-395830",
+    "time_ut": 1659002363,
+    "original_lang": "si",
+    "original_title": "\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd0\u0daf\u0dd2 02 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0dad\u0db6\u0dcf \u0db4\u0dcf\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0db8\u0da7",
+    "file_name": "/tmp/news_lk2/articles/68/68364cd2.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Deepak Senthil succeeds outgoing managing director of Coca-Cola Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/d8/d8a578bc.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0baa\u0bc6\u0b9f\u0bcd\u0b95\u0bcb-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd/175-301015",
-    "time_ut": 1658661481,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbf\u0baa\u0bc6\u0b9f\u0bcd\u0b95\u0bcb \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/41/414de485.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/hayleys-solar-introduces-pv-dg-solution-to-help-businesses-with-solar-rooftops-to-optimise-fuel-usage-and-reduce-costs/",
-    "time_ut": 1658661480,
-    "original_lang": "en",
-    "original_title": "Hayleys Solar introduces \u2018PV-DG\u2019 solution to help businesses with solar rooftops to optimise fuel usage and reduce costs",
-    "file_name": "/tmp/news_lk2/articles/e1/e14905a3.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132150",
-    "time_ut": 1658661385,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0ba9\u0bbf\u0baf\u0ba9\u0bbf\u0ba9\u0bcd \u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/01/010ed950.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132152",
-    "time_ut": 1658661329,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd : \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd?",
-    "file_name": "/tmp/news_lk2/articles/59/592fe828.json"
   }
 ]
