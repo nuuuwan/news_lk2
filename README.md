@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 04:29:08 (LK time)*
+*As of 2022-07-29 04:47:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,13 +8,13 @@
 
 * **7** daily-ft-lk ([Young apparel entrepreneur offers ‘winning deal’ to Sri Lankan nationals living abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/531081c4.json))
 
-## Last 24 Hours (243 Articles)
+## Last 24 Hours (244 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
 * **40** lankadeepa-lk ([පිලිපීනය භූමි කම්පාවකින් කැලැඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80fdd5b5.json))
 
-* **36** virakesari-lk ([அரகலயவின் முன்னணி செயற்பாட்டாளர்கள் அச்சுறுத்தப்படுகின்றனர் – கண்காணிக்கப்படுகின்றனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffc38fff.json))
+* **37** virakesari-lk ([அரகலயவின் முன்னணி செயற்பாட்டாளர்கள் அச்சுறுத்தப்படுகின்றனர் – கண்காணிக்கப்படுகின்றனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffc38fff.json))
 
 * **35** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය ඉන්ධනහල් සියයට 50ක ක්‍රියාත්මකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee4f6657.json))
 
@@ -32,11 +32,11 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,578 Articles)
+## Last Week (1,571 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
-* **247** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
+* **248** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
 
 * **184** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -48,7 +48,7 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **95** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+* **87** daily-ft-lk ([Colombo Expat Cultural Association: Messiah for the children](https://github.com/nuuuwan/news_lk2/blob/data/articles/ef/ef5b0270.json))
 
 * **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
@@ -60,11 +60,11 @@
 
 * **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-## All Time (2,028 Articles)
+## All Time (2,029 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **255** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **256** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **243** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
