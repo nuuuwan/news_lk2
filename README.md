@@ -1,36 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 20:01:53 (LK time)*
+*As of 2022-07-28 20:11:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** virakesari-lk ([ஜனாதிபதி மாளிகையில் மின் அழுத்தியை திருடியவர் கைது -- அலரி மாளிகையில் இரு தொலைக்காட்சிகளை திருடியவருக்கு விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5ed72ab.json))
+
+* **1** ada-derana-lk ([Power cut schedule for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c45686b9.json))
+
+## Last Hour (6 Articles)
+
+* **2** virakesari-lk ([வெள்ளவத்தை கடலில் மிதந்த ஆணின் சடலம் - பின்னணி குறித்து சிறப்பு விசாரணைகள் ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b79e8076.json))
 
 * **2** ada-derana-lk ([801 filling stations in total tested fuel pass QR facility: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/51/5184d22d.json))
 
 * **1** lankadeepa-lk ([රුවන් විජයවර්ධන ජනාධිපති උපදේශක තනතුරකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a08f340b.json))
 
-* **1** virakesari-lk ([வெள்ளவத்தை கடலில் மிதந்த ஆணின் சடலம் - பின்னணி குறித்து சிறப்பு விசாரணைகள் ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b79e8076.json))
-
-## Last Hour (7 Articles)
-
-* **3** ada-derana-lk ([Court issues travel ban on 21 protesters including Dhaniz Ali](https://github.com/nuuuwan/news_lk2/blob/data/articles/cd/cdc28a86.json))
-
-* **2** lankadeepa-lk ([වෑන් රියැදුරු ඇතුළු දෙදෙනකුට බණ්ඩාරගමදී කඩු පොලුවලින් පහරදීලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/7479599a.json))
-
-* **1** virakesari-lk ([வெள்ளவத்தை கடலில் மிதந்த ஆணின் சடலம் - பின்னணி குறித்து சிறப்பு விசாரணைகள் ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b79e8076.json))
-
 * **1** tamil-mirror-lk ([’பட்டலந்த ரணில் நிருபிக்க தவறிவிட்டார்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2759c7b.json))
 
 ## Last 3 Hours (33 Articles)
 
-* **10** news-first-lk ([Iraq’s protestors break into Parliament building](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a13b040.json))
+* **9** news-first-lk ([Two advisors to President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/e4/e41cab01.json))
 
 * **8** lankadeepa-lk ([සිපෙට්කෝ පිරවුම්හල්වලට  ප්‍රමාණවත් තොග නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc6fa481.json))
 
 * **5** ada-derana-lk ([Fort Police ordered to hand over Rs. 17.8 Mn found at President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/3949532e.json))
 
-* **3** virakesari-lk ([அம்பாந்தோட்டை துறைமுகத்திற்கு சீன கப்பல் விஜயம் - இந்தியா தெரிவித்துள்ளது என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8619ba72.json))
+* **4** virakesari-lk ([அம்பாந்தோட்டை துறைமுகத்திற்கு சீன கப்பல் விஜயம் - இந்தியா தெரிவித்துள்ளது என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8619ba72.json))
 
 * **3** daily-mirror-lk ([School transport service will be back to normal by Monday: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e701e6c.json))
 
@@ -38,7 +36,7 @@
 
 * **2** ada-lk ([කොවිඩ් ආසාදිතයන් එන්න එන්නම වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b9ed62.json))
 
-## Last 24 Hours (233 Articles)
+## Last 24 Hours (231 Articles)
 
 * **42** lankadeepa-lk ([ජනපති මහ ගෙදරට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b10cf8c8.json))
 
@@ -46,13 +44,13 @@
 
 * **35** ada-lk ([ලංකාව චීන ණය ප්‍රතිව්‍යුහගත කිරීමට සාකච්ඡා කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa5465c.json))
 
-* **32** virakesari-lk ([பண்டாரநாயக்க உருவச் சிலை அருகே வைத்து கைது செய்யப்பட்ட நால்வருக்கும் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8fa0ae4.json))
+* **32** virakesari-lk ([இலங்கை சீனாவுடன் கடன் மறுசீரமைப்பு தொடர்பான பேச்சுவார்த்தைகளை ஆரம்பிக்கவேண்டும்- சர்வதேச நாணயநிதியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/4f/4f6dced8.json))
 
-* **26** daily-mirror-lk ([Justice for Tamil prisoners murdered in 1983](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6f5d2dd.json))
+* **25** daily-mirror-lk ([’GotaGoGama’ activist cum freelance journalist abducted by group in Fort](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c61a182.json))
 
 * **24** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
 
-* **13** tamil-mirror-lk ([துப்பாக்கி சூட்டில் ஒருவர் பலி; ஒருவர் காயம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/81/81968a02.json))
+* **12** tamil-mirror-lk ([காசை எண்ணியோரில் ஒருவர் கைதானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/450ab758.json))
 
 * **11** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
@@ -60,11 +58,11 @@
 
 * **3** island-lk ([Ideal First Choice expands with brand new auto parts branch in Kurunegala](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/5055670c.json))
 
-## Last Week (1,536 Articles)
+## Last Week (1,537 Articles)
 
 * **246** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
-* **236** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
+* **237** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
 
 * **182** ada-lk ([ජුනි මාසයේ උද්ධමනය සියයට 58.9ක් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fc84d88.json))
 
@@ -88,11 +86,11 @@
 
 * **14** b-b-c-com-sinhala ([ගාලු මුවදොර අරගලකරුවන්ට හමුදාවෙන් අමානුෂික ප්‍රහාර;සජීව විකාශය අතරතුර BBC මාධ්‍යවේදීන්ටත් පහර දෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/dee614a1.json))
 
-## All Time (1,966 Articles)
+## All Time (1,967 Articles)
 
 * **313** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **244** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **245** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **240** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
