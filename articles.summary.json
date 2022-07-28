@@ -1,19 +1,35 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Leading-animal-rights-advocate-attacked/108-241975",
+    "time_ut": 1659024707,
+    "original_lang": "en",
+    "original_title": "Leading animal rights advocate attacked",
+    "file_name": "/tmp/news_lk2/articles/5e/5ed88bf2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/india-says-it-will-protect-its-interests-as-chinese-boat-heads-to-sri-lanka/",
+    "time_ut": 1659024300,
+    "original_lang": "en",
+    "original_title": "India says it will protect its interests as Chinese boat heads to Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/a9/a9265eb4.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83938/parliament-prorogued-from-midnight-today",
+    "url": "http://www.adaderana.lk/news/83938/sri-lanka-president-prorogues-parliament",
     "time_ut": 1659024000,
     "original_lang": "en",
-    "original_title": "Parliament prorogued from midnight today",
-    "file_name": "/tmp/news_lk2/articles/8b/8bb9b266.json"
+    "original_title": "Sri Lanka President prorogues Parliament",
+    "file_name": "/tmp/news_lk2/articles/bf/bfec8dd5.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/President-prorogues-parliament-until-Aug-3/342-241974",
+    "url": "https://www.dailymirror.lk/breaking_news/President-prorogues-parliament-until-Aug-3/108-241974",
     "time_ut": 1659023340,
     "original_lang": "en",
     "original_title": "President prorogues parliament until Aug 3",
-    "file_name": "/tmp/news_lk2/articles/5d/5d3d062c.json"
+    "file_name": "/tmp/news_lk2/articles/ee/ee247a91.json"
   },
   {
     "newspaper_id": "virakesari-lk",
