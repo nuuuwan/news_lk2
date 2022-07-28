@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dd3-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dba\u0ddc\u0daf\u0db1-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba-\u0d9c\u0dd0\u0db1-\u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba-\u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca/101-617184",
+    "time_ut": 1659003086,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd3 \u0dc0\u0d9c\u0dcf\u0dc0\u0da7 \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dba\u0ddc\u0daf\u0db1 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0d9c\u0dd0\u0db1 \u0db8\u0dc4\u0dcf\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0db1\u0dd2\u0dbb\u0dca\u0daf\u0dda\u0dc1\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/78/781e9c75.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132410",
+    "time_ut": 1659002858,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cc/cc74fed0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132409",
+    "time_ut": 1659002690,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd \u0bb5\u0bc6\u0b95\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0baf\u0bbe\u0bb5\u0bb0\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb9\u0bb0\u0bbf\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/c5/c5e589b6.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/First-home-grown-electric-car-launched/110-241961",
+    "time_ut": 1659002584,
+    "original_lang": "en",
+    "original_title": "First home-grown electric car launched",
+    "file_name": "/tmp/news_lk2/articles/fb/fb13aa8b.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/sports/\u0db4\u0ddc\u0daf\u0dd4\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd3\u0dba-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0da7-\u0d9c\u0dd2\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-5\u0d9a\u0da7-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca/9-395831",
     "time_ut": 1659002433,
@@ -25,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/SLs-First-home-grown-fully-electric-car-launched/342-241960",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-First-home-grown-fully-electric-car-launched/108-241960",
     "time_ut": 1659001827,
     "original_lang": "en",
     "original_title": "SL\u2019s First home-grown fully electric car launched",
-    "file_name": "/tmp/news_lk2/articles/ff/ff781162.json"
+    "file_name": "/tmp/news_lk2/articles/3a/3af9b651.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -46,6 +78,14 @@
     "original_lang": "en",
     "original_title": "Iraqi protesters occupy parliament in Baghdad",
     "file_name": "/tmp/news_lk2/articles/f0/f0723862.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/101-617183",
+    "time_ut": 1659001066,
+    "original_lang": "si",
+    "original_title": "\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2\u0db1\u0dd2\u0dba \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0da7 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/77/77357c92.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -126,6 +166,14 @@
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3\u0dbd\u0db1\u0dd2\u0db4\u0dba \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d0/d05d8747.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0ddc\u0dbb\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0daf-\u0dc4\u0dd0\u0daf\u0dd6-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dbd\u0dd3\u0da7\u0dbb\u0dca-1500\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-617181",
+    "time_ut": 1658999451,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0ddc\u0dbb\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0daf \u0dc4\u0dd0\u0daf\u0dd6 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1500\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a1/a16a412c.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd : \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd?",
     "file_name": "/tmp/news_lk2/articles/59/592fe828.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83841/presidential-secretariat-to-reopen-on-monday",
-    "time_ut": 1658660940,
-    "original_lang": "en",
-    "original_title": "Presidential Secretariat to reopen on Monday?",
-    "file_name": "/tmp/news_lk2/articles/ac/acc8aa08.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0dc3-\u0dc4\u0dad\u0da7-\u0dbd\u0d9a\u0dca\u0dc2-\u0d91\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a\u0dca\u0d9a\u0dca-\u0d91\u0dad\u0dd9\u0dbb-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7/1-616951",
-    "time_ut": 1658660798,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dcf\u0dc3 \u0dc4\u0dad\u0da7 \u0dbd\u0d9a\u0dca\u0dc2 \u0d91\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a\u0dca\u0d9a\u0dca \u0d91\u0dad\u0dd9\u0dbb \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/c1/c1bc568f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dcf\u0dc3-\u0dc4\u0dad\u0da7-\u0dbd\u0d9a\u0dca\u0dc2-\u0d91\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a\u0dca-\u0d91\u0dad\u0dd9\u0dbb-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7/1-616951",
-    "time_ut": 1658660798,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dcf\u0dc3 \u0dc4\u0dad\u0da7 \u0dbd\u0d9a\u0dca\u0dc2 \u0d91\u0d9a\u0dc4\u0db8\u0dcf\u0dbb\u0d9a\u0dca \u0d91\u0dad\u0dd9\u0dbb \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/4e/4e60ea84.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lanka-visitor-arrivals-record-28733-for-first-19-days-of-july/",
-    "time_ut": 1658660700,
-    "original_lang": "en",
-    "original_title": "Sri Lanka visitor arrivals record 28,733 for first 19 days of July",
-    "file_name": "/tmp/news_lk2/articles/81/816dbcfb.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/fuel-shortage-increasingly-dominate-concerns-in-apparel-sector/",
-    "time_ut": 1658660640,
-    "original_lang": "en",
-    "original_title": "Fuel shortage increasingly dominate concerns in apparel sector",
-    "file_name": "/tmp/news_lk2/articles/18/1881100a.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/singapore-hotel-room-rates-at-6-year-high/",
-    "time_ut": 1658660580,
-    "original_lang": "en",
-    "original_title": "Singapore hotel room rates at 6-year high",
-    "file_name": "/tmp/news_lk2/articles/45/459038c5.json"
   }
 ]
