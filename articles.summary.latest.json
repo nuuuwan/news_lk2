@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/no-split-in-the-slpp-but-there-is-a-conspiracy-kariyawasam/",
+    "time_ut": 1659021360,
+    "original_lang": "en",
+    "original_title": "NO split in the SLPP, but there is a conspiracy: Kariyawasam",
+    "file_name": "/tmp/news_lk2/articles/2f/2f55456c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132430",
+    "time_ut": 1659020974,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bbe\u0b95\u0bae \u0bb0\u0baf\u0bbf\u0bb2\u0bcd\u00a0 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd.",
+    "file_name": "/tmp/news_lk2/articles/6b/6bc32c3d.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132428",
+    "time_ut": 1659020450,
+    "original_lang": "ta",
+    "original_title": "36 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b90\u0bb5\u0bb0\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8 - \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/25/250c042f.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132427",
     "time_ut": 1659019708,
@@ -16,6 +40,14 @@
     "file_name": "/tmp/news_lk2/articles/dd/dddc64bd.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/justice-minister-invites-parties-to-form-all-party-government/",
+    "time_ut": 1659019620,
+    "original_lang": "en",
+    "original_title": "Justice Minister invites parties to form all-party Government",
+    "file_name": "/tmp/news_lk2/articles/64/64f91e1a.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/10-\u0bae\u0bc1\u0bb1\u0bc8-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8-\u0ba8\u0bbe\u0bb2\u0b95-\u0b95\u0bca\u0b9f\u0bb9\u0bc7\u0bb5\u0bbe-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/175-301293",
     "time_ut": 1659019310,
@@ -25,11 +57,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Popular-South-Indian-Actor-Kamal-Haasan-discusses-Sri-Lanka/342-241972",
+    "url": "https://www.dailymirror.lk/breaking_news/Popular-South-Indian-Actor-Kamal-Haasan-discusses-Sri-Lanka/108-241972",
     "time_ut": 1659018710,
     "original_lang": "en",
     "original_title": "Popular South Indian Actor Kamal Haasan discusses Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/e3/e3d2b2c5.json"
+    "file_name": "/tmp/news_lk2/articles/cb/cba1e28a.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -713,11 +745,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/108-241959",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/324-241959",
     "time_ut": 1658996807,
     "original_lang": "en",
     "original_title": "Jayasuriya, Mendis bowl Sri Lanka to improbable win",
-    "file_name": "/tmp/news_lk2/articles/05/0520eefd.json"
+    "file_name": "/tmp/news_lk2/articles/d5/d5856348.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Shocking violation of the Constitution by the \u2018Lord and Master\u2019",
     "file_name": "/tmp/news_lk2/articles/7c/7cce5e76.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/columns/Fuel-crisis-and-passenger-transport-Is-there-a-solution/4-737852",
-    "time_ut": 1658687084,
-    "original_lang": "en",
-    "original_title": "Fuel crisis and passenger transport: Is there a solution?",
-    "file_name": "/tmp/news_lk2/articles/a9/a91a9805.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/in-defence-of-constitution-and-the-rule-of-law/",
-    "time_ut": 1658686020,
-    "original_lang": "en",
-    "original_title": "In defence of Constitution and the rule of law",
-    "file_name": "/tmp/news_lk2/articles/a9/a9cf51f2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/fuel-mess-persists/",
-    "time_ut": 1658685840,
-    "original_lang": "en",
-    "original_title": "Fuel mess persists",
-    "file_name": "/tmp/news_lk2/articles/9f/9f015062.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83848/person-traveling-in-bus-arrested-with-firearm-and-bullets",
-    "time_ut": 1658685540,
-    "original_lang": "en",
-    "original_title": "Person traveling in bus arrested with firearm and bullets",
-    "file_name": "/tmp/news_lk2/articles/a8/a8c2510a.json"
   }
 ]
