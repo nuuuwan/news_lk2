@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 04:17:27 (LK time)*
+*As of 2022-07-29 04:29:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (8 Articles)
+## Last 3 Hours (7 Articles)
 
-* **8** daily-ft-lk ([Glenanore Estate excels once again](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2866d8.json))
+* **7** daily-ft-lk ([Young apparel entrepreneur offers ‘winning deal’ to Sri Lankan nationals living abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/531081c4.json))
 
 ## Last 24 Hours (243 Articles)
 
