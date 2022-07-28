@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 00:24:18 (LK time)*
+*As of 2022-07-29 00:34:43 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka Fuel Pass registration process amended after complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982abeb6.json))
 
 ## Last Hour (2 Articles)
 
@@ -14,13 +10,13 @@
 
 * **1** ada-derana-lk ([Sri Lanka hopes for $4bn in China aid ‘soon’ as envoy defends ties](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dadc86b4.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (14 Articles)
 
 * **5** economy-next-com ([Sri Lanka bond yields edge up; guidance peg steady](https://github.com/nuuuwan/news_lk2/blob/data/articles/a6/a6be0c1e.json))
 
-* **4** ada-derana-lk ([Sri Lanka President prorogues Parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/bf/bfec8dd5.json))
-
 * **3** lankadeepa-lk ([කොරෝනා රෝගීහු 131ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42c793bf.json))
+
+* **2** ada-derana-lk ([Japan hands over life-saving medicines procured through UNICEF in response to economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26a6b636.json))
 
 * **1** tamil-mirror-lk ([தேசிய வங்கிக்கட்டமைப்பு அபாயத்துக்கு உள்ளாகலாம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/a5/a5356dce.json))
 
@@ -50,7 +46,7 @@
 
 * **11** daily-ft-lk ([Is Gotabaya a war hero: A response](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f174321d.json))
 
-## Last Week (1,563 Articles)
+## Last Week (1,562 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -72,7 +68,7 @@
 
 * **54** island-lk ([Fascists and democrats](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1fe7437.json))
 
-* **22** d-b-s-jeyaraj-com ([Thousands of police and troops armed with riot gear  attack  protest  venue  known as Gota Go Gama, beating protesters, destroying tents and arresting nine people. More than 50 people  injured and three people hospitalized  in the attack, according to St John Ambulance](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/836af719.json))
+* **21** d-b-s-jeyaraj-com ([The question that is in the minds of observers of the Sri Lankan Aragalaya movement is: Will it go the way of violent populist  movements in other countries in the past or will it have a lasting salutary effect?](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dba7357d.json))
 
 * **14** colombo-telegraph-com ([Sri Lanka Is A Neoliberal Failed State](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2aa306b.json))
 
