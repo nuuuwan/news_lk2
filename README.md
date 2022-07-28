@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 03:15:41 (LK time)*
+*As of 2022-07-29 03:24:13 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
+## Last 30 Minutes (2 Articles)
 
-* **3** daily-ft-lk ([President’s Chief of Staff Sagala Ratnayaka assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed809976.json))
+* **2** daily-ft-lk ([Demise of Moragodage Christopher Walter Pinto](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9db97fb.json))
 
 ## Last Hour (5 Articles)
 
