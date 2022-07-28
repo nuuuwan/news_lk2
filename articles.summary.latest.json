@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83925/slfp-to-meet-president-ranil-for-talks-on-all-party-govt",
+    "time_ut": 1658989320,
+    "original_lang": "en",
+    "original_title": "SLFP to meet President Ranil for talks on all-party govt",
+    "file_name": "/tmp/news_lk2/articles/59/594ac910.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/28/sub-post-offices-across-the-island-closed/",
     "time_ut": 1658988840,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Political Risks Still Challenge Sri Lanka \u2013 FITCH",
     "file_name": "/tmp/news_lk2/articles/94/9499954b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd4\u0da7\u0dca\u0da7\u0dd2\u0d86\u0dbb\u0da0\u0dca\u0da0\u0dd2\u0da7-\u0d86\u0dab\u0dca\u0da9\u0dd4-\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca/11-395814",
+    "time_ut": 1658988156,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0da7\u0dca\u0da7\u0dd2\u0d86\u0dbb\u0da0\u0dca\u0da0\u0dd2\u0da7 \u0d86\u0dab\u0dca\u0da9\u0dd4 \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c1/c12903c7.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -2638,6 +2654,46 @@
     "original_lang": "en",
     "original_title": "Improving business strategy through politics and public sentiment",
     "file_name": "/tmp/news_lk2/articles/c6/c601e0af.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78747",
+    "time_ut": 1658862900,
+    "original_lang": "en",
+    "original_title": "The Proclamation on the State of Emergency, announced by then-Acting President Ranil Wickremesinghe on 17 July followed by a Gazette on 18 July is debated and passed in Parliament  with 120 votes in favour  and 63 against on July 27",
+    "file_name": "/tmp/news_lk2/articles/22/22b51c0b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78753",
+    "time_ut": 1658862360,
+    "original_lang": "en",
+    "original_title": "The International Monetary Fund (IMF) says  Sri Lanka should Commence debt restructuring talks with its bilateral lender China,",
+    "file_name": "/tmp/news_lk2/articles/6b/6b656c7c.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78751",
+    "time_ut": 1658861820,
+    "original_lang": "en",
+    "original_title": "Singapore extends  short-stay visa for Sri Lanka\u2019s deposed president Gotabaya Rajapaksa by a further Fourteen Days Until August 11 Reports  \u201cStraits Times\u201d",
+    "file_name": "/tmp/news_lk2/articles/d6/d673e59b.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78755",
+    "time_ut": 1658861280,
+    "original_lang": "en",
+    "original_title": "Following  dramatic arrest by CID officers aboard a flight to Dubai UAE on 26th, Dhaniz Ali remanded till 5 August by the Colombo Fort Magistrate\u2019s Court; Suspect allegedly entered the Sri Lanka Rupavahini (Television) Corporation (SLRC) premises in Colombo 7 and interfered with its broadcasting",
+    "file_name": "/tmp/news_lk2/articles/14/142c76bc.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78757",
+    "time_ut": 1658860740,
+    "original_lang": "en",
+    "original_title": "Wajira Abeywardana sworn in as the United National Party\u2019s (UNP) National List Parliamentarian in place of Ranil Wickremesinghe; Minister of Education Dr. Susil Premajayantha appointed as the new Leader of the House; Minister of Urban Development and Housing Prasanna Ranatunga  re-appointed Chief Government Whip",
+    "file_name": "/tmp/news_lk2/articles/6d/6de5362c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 : \u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf",
     "file_name": "/tmp/news_lk2/articles/da/dafdf978.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dbd\u0dca-\u0d85\u0dbd\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-616937",
-    "time_ut": 1658645271,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dbd\u0dca \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7:\u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/34/341f5b5b.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/24/3700-mt-lp-gas-reaches-sri-lanka/",
-    "time_ut": 1658644920,
-    "original_lang": "en",
-    "original_title": "3,700 MT LP gas reaches Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/cb/cb703d9a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dda-\u0daf\u0dd3-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7-\u0db4\u0dc4\u0dbb-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0d9a\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-616936",
-    "time_ut": 1658644471,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0dda \u0daf\u0dd3 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0db4\u0dc4\u0dbb \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd6 \u0d85\u0dba\u0d9a\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/79/798ca73d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/24/police-call-for-reports-on-damages-to-presidents-office/",
-    "time_ut": 1658644440,
-    "original_lang": "en",
-    "original_title": "Police call for reports on damages to President\u2019s Office",
-    "file_name": "/tmp/news_lk2/articles/5e/5e4ac99d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0daf-\u0dad\u0dc0\u0dad\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0dc0\u0dd9\u0db1-\u0daf\u0dd4\u0dbb-\u0dc0\u0dd0\u0da9\u0dd2-\u0d88\u0dad\u0d9a-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2---\u0d89\u0db8\u0dca\u0dbb\u0dcf\u0db1\u0dca/11-395697",
-    "time_ut": 1658643370,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0daf \u0dad\u0dc0\u0dad\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0dc0\u0dd9\u0db1 \u0daf\u0dd4\u0dbb \u0dc0\u0dd0\u0da9\u0dd2 \u0d88\u0dad\u0d9a \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2 - \u0d89\u0db8\u0dca\u0dbb\u0dcf\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/61/61dfedc4.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca-\u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0db1\u0dc0\u0dcf/1-616935",
-    "time_ut": 1658643340,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/fb/fb7289b5.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0dd4\u0dab\u0dda-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc3\u0dad\u0dd2\u0dba\u0dda-\u0daf\u0dd2\u0db1-\u0db4\u0dc4\u0db8-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2/101-616934",
-    "time_ut": 1658643167,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0d9a\u0dd4\u0dab\u0dda \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc3\u0dad\u0dd2\u0dba\u0dda \u0daf\u0dd2\u0db1 \u0db4\u0dc4\u0db8 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b1/b178f664.json"
   }
 ]
