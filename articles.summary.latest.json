@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/True-nature-of-the-storm/4-738023",
+    "time_ut": 1659035320,
+    "original_lang": "en",
+    "original_title": "True nature of the storm",
+    "file_name": "/tmp/news_lk2/articles/18/18ca2231.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/All-party-government-Reality-and-alternatives/4-738022",
     "time_ut": 1659035112,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Schools open from today (25)",
     "file_name": "/tmp/news_lk2/articles/61/61a81990.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83849/evening-thundershowers-expected-in-several-provinces-during-next-few-days",
-    "time_ut": 1658715180,
-    "original_lang": "en",
-    "original_title": "Evening thundershowers expected in several provinces during next few days",
-    "file_name": "/tmp/news_lk2/articles/db/db8966e8.json"
   }
 ]
