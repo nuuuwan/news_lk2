@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/President-prorogues-parliament-until-Aug-3/342-241974",
+    "time_ut": 1659023340,
+    "original_lang": "en",
+    "original_title": "President prorogues parliament until Aug 3",
+    "file_name": "/tmp/news_lk2/articles/5d/5d3d062c.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/28/parliament-prorogue-with-effect-from-today-28-next-session-on-3rd-august/",
     "time_ut": 1659022320,
@@ -8,12 +16,20 @@
     "file_name": "/tmp/news_lk2/articles/1a/1aca59fe.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0dc4\u0dcf-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d87\u0db8\u0dad\u0dd2-\u0d85\u0dad\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/11-395839",
+    "time_ut": 1659022249,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0dc4\u0dcf \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d87\u0db8\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/bb/bb1f3566.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dcf\u0dbb-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/1-617199",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0-\u0dc0\u0dcf\u0dbb-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-617199",
     "time_ut": 1659022169,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dcf\u0dbb \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/08/0863f402.json"
+    "file_name": "/tmp/news_lk2/articles/f6/f6be550c.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Glenanore Estate establishes all-time record price",
     "file_name": "/tmp/news_lk2/articles/e2/e2ac6ff7.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Three-arrested-with-stolen-goods-from-the-Presidents-House/108-241697",
-    "time_ut": 1658688867,
-    "original_lang": "en",
-    "original_title": "Three arrested with stolen goods from the President\u2019s House",
-    "file_name": "/tmp/news_lk2/articles/7d/7d33e105.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/All-time-record-prices-achieved-by-Forbes-Walker-Tea-Brokers/34-737861",
-    "time_ut": 1658688718,
-    "original_lang": "en",
-    "original_title": "All-time record prices achieved by Forbes & Walker Tea Brokers",
-    "file_name": "/tmp/news_lk2/articles/d7/d75eff8c.json"
   }
 ]
