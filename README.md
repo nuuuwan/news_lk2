@@ -1,26 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 01:51:25 (LK time)*
+*As of 2022-07-29 02:04:58 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
-* **1** daily-ft-lk ([Glenanore Estate excels once again](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2866d8.json))
+* **1** daily-ft-lk ([Young apparel entrepreneur offers ‘winning deal’ to Sri Lankan nationals living abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/531081c4.json))
 
 ## Last Hour (7 Articles)
 
-* **7** daily-ft-lk ([Debt restructuring will not succeed unless](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3af9fd.json))
+* **7** daily-ft-lk ([Kirklees Estate amongst record books at Colombo tea auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eab1e08.json))
 
 ## Last 3 Hours (13 Articles)
 
-* **9** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
+* **10** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
 * **2** economy-next-com ([Sri Lanka shares reverses falling trend; plantation, energy stocks lead](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb0ed132.json))
 
-* **2** ada-derana-lk ([Japan hands over life-saving medicines procured through UNICEF in response to economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26a6b636.json))
+* **1** ada-derana-lk ([Sri Lanka hopes for $4bn in China aid ‘soon’ as envoy defends ties](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dadc86b4.json))
 
-## Last 24 Hours (232 Articles)
+## Last 24 Hours (233 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
@@ -38,11 +38,11 @@
 
 * **11** economy-next-com ([Sri Lanka’s JKH profits soar driven by forex gains as soft-peg collapses](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26b5ae34.json))
 
-* **9** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
+* **10** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
 * **1** colombo-telegraph-com ([An Emergency Means Nothing Less Than ‘Legalizing Lawlessness’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ec221d.json))
 
-## Last Week (1,567 Articles)
+## Last Week (1,568 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -58,7 +58,7 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **88** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
+* **89** daily-ft-lk ([Court issues warrants for two protest leaders](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f568fc32.json))
 
 * **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
@@ -70,7 +70,7 @@
 
 * **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-## All Time (2,015 Articles)
+## All Time (2,016 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -86,7 +86,7 @@
 
 * **151** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **147** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
+* **148** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
 * **127** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
