@@ -120,6 +120,30 @@
     "file_name": "/tmp/news_lk2/articles/b8/b8c91668.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/cse-shows-gains-but-fails-to-sustain-momentum/",
+    "time_ut": 1658941920,
+    "original_lang": "en",
+    "original_title": "CSE shows gains but fails to sustain momentum",
+    "file_name": "/tmp/news_lk2/articles/64/64a149c7.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/jkh-records-strong-ebitda-of-rs-13-33-billion-in-q1-resilient-performance-despite-macro-challenges/",
+    "time_ut": 1658941740,
+    "original_lang": "en",
+    "original_title": "\u201cJKH records strong EBITDA of Rs.13.33 billion in Q1; Resilient performance despite macro challenges\u201d",
+    "file_name": "/tmp/news_lk2/articles/43/434c34c2.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ideal-first-choice-expands-with-brand-new-auto-parts-branch-in-kurunegala/",
+    "time_ut": 1658941680,
+    "original_lang": "en",
+    "original_title": "Ideal First Choice expands with brand new auto parts branch in Kurunegala",
+    "file_name": "/tmp/news_lk2/articles/50/5055670c.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/nine-sri-lanka-navy-sailors-jump-ship-in-america-97970/",
     "time_ut": 1658941560,
@@ -2168,6 +2192,14 @@
     "file_name": "/tmp/news_lk2/articles/0d/0d8fe93c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/parliamentary-fantasy-and-ground-reality/",
+    "time_ut": 1658852640,
+    "original_lang": "en",
+    "original_title": "Parliamentary fantasy and ground reality",
+    "file_name": "/tmp/news_lk2/articles/2d/2d140b8d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132310",
     "time_ut": 1658852628,
@@ -2193,11 +2225,35 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/central-bank-governor-hopeful-of-assistance-from-imf-amid-lingering-uncertainties/",
+    "time_ut": 1658852160,
+    "original_lang": "en",
+    "original_title": "Central Bank Governor hopeful of assistance from IMF amid lingering uncertainties",
+    "file_name": "/tmp/news_lk2/articles/64/64a428cb.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/amana-takaful-insurance-reinforces-people-centricity-through-leadership-excellence-programme-in-partnership-with-pim/",
     "time_ut": 1658852160,
     "original_lang": "en",
     "original_title": "Amana Takaful Insurance reinforces people-centricity through Leadership Excellence Programme in partnership with PIM",
     "file_name": "/tmp/news_lk2/articles/5d/5d7260f4.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/decline-in-net-foreign-outflows-from-cse-this-year/",
+    "time_ut": 1658852100,
+    "original_lang": "en",
+    "original_title": "Decline in net foreign outflows from CSE this year",
+    "file_name": "/tmp/news_lk2/articles/2a/2a74594e.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/ifc-provides-us150-million-funding-package-to-dialog-axiata-towards-broadband-infrastructure-development-in-sl/",
+    "time_ut": 1658852040,
+    "original_lang": "en",
+    "original_title": "IFC provides US$150 million funding package to Dialog Axiata towards broadband infrastructure development in SL",
+    "file_name": "/tmp/news_lk2/articles/64/6469fc47.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -4288,6 +4344,14 @@
     "file_name": "/tmp/news_lk2/articles/e3/e3aa39a6.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/president-has-to-work-overtime-to-restore-confidence-and-credibility/",
+    "time_ut": 1658768460,
+    "original_lang": "en",
+    "original_title": "President has to work overtime to restore confidence and credibility",
+    "file_name": "/tmp/news_lk2/articles/46/4614ab8b.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a-\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0da7-\u0d85\u0daf-\u0d85\u0db3\u0dd4\u0dbb\u0dd4-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca/11-395736",
     "time_ut": 1658768146,
@@ -6312,6 +6376,14 @@
     "file_name": "/tmp/news_lk2/articles/a9/a9cf51f2.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/fuel-mess-persists/",
+    "time_ut": 1658685840,
+    "original_lang": "en",
+    "original_title": "Fuel mess persists",
+    "file_name": "/tmp/news_lk2/articles/9f/9f015062.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83848/person-traveling-in-bus-arrested-with-firearm-and-bullets",
     "time_ut": 1658685540,
@@ -6334,6 +6406,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/71/71661c83.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/microplastics-the-latest-air-pollutant/",
+    "time_ut": 1658683860,
+    "original_lang": "en",
+    "original_title": "Microplastics: The latest air pollutant",
+    "file_name": "/tmp/news_lk2/articles/41/41f0ae16.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d87\u0d9f\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0d9a\u0dd4\u0da9\u0dcf \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
     "file_name": "/tmp/news_lk2/articles/06/06ac66de.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da0\u0dca\u0da0\u0dd2-\u0db4\u0dcf\u0dbb-\u0d85\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca-\u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-616920",
-    "time_ut": 1658591946,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0ddd\u0da0\u0dca\u0da0\u0dd2 \u0db4\u0dcf\u0dbb \u0d85\u0dba\u0dd2\u0db1\u0dd9\u0db1\u0dca \u0db8\u0dc5\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ce/ce31af2d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132112",
-    "time_ut": 1658591844,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/0d/0dd3a563.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/1-616919",
-    "time_ut": 1658590775,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0db4\u0dad\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/7d/7d9cd553.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0da7\u0dd2\u0d9a\u0da7\u0dca-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dad\u0dd2/11-395684",
-    "time_ut": 1658590603,
-    "original_lang": "si",
-    "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0da7\u0dd2\u0d9a\u0da7\u0dca \u0d85\u0dbd\u0dd9\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/3d/3da16f66.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/WHO-declares-highest-alert-over-outbreak/342-241675",
-    "time_ut": 1658590313,
-    "original_lang": "en",
-    "original_title": "WHO declares highest alert over outbreak",
-    "file_name": "/tmp/news_lk2/articles/b7/b7c5dfcf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/WHO-declares-highest-alert-over-outbreak-of-monkeypox/108-241675",
-    "time_ut": 1658590313,
-    "original_lang": "en",
-    "original_title": "WHO declares highest alert over outbreak of monkeypox",
-    "file_name": "/tmp/news_lk2/articles/18/185d182c.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-july-24-97839/",
-    "time_ut": 1658589240,
-    "original_lang": "en",
-    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for July 24",
-    "file_name": "/tmp/news_lk2/articles/0d/0da1ac0e.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-president-asks-to-crackdown-black-market-fuel-dealers-97835/",
-    "time_ut": 1658589000,
-    "original_lang": "en",
-    "original_title": "Sri Lanka president asks to crackdown black market fuel dealers",
-    "file_name": "/tmp/news_lk2/articles/96/969eda31.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/President-instructs-to-speed-up-and-streamline-fuel-distribution-island-wide/108-241673",
-    "time_ut": 1658587651,
-    "original_lang": "en",
-    "original_title": "President instructs to speed up and streamline fuel distribution island-wide",
-    "file_name": "/tmp/news_lk2/articles/1f/1fa75059.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83829/who-declares-monkeypox-a-global-emergency",
-    "time_ut": 1658587560,
-    "original_lang": "en",
-    "original_title": "WHO declares monkeypox a global emergency",
-    "file_name": "/tmp/news_lk2/articles/01/01a3de3c.json"
   }
 ]
