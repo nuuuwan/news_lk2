@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd4\u0da9\u0dd4-\u0db6\u0ddc\u0db1\u0dca\u0db1-\u0d85\u0d9a\u0dca\u0d9a\u0dcf-\u0db1\u0d82\u0d9c\u0dd3-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2/101-617179",
+    "time_ut": 1658997708,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd4\u0da9\u0dd4 \u0db6\u0ddc\u0db1\u0dca\u0db1 \u0d85\u0d9a\u0dca\u0d9a\u0dcf \u0db1\u0d82\u0d9c\u0dd3 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a3/a30512e0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Pakistan-by-246-runs-in-second-Test-series-ends-1-1/108-241959",
     "time_ut": 1658996807,
     "original_lang": "en",
     "original_title": "Sri Lanka beat Pakistan by 246 runs in second Test, series ends 1-1",
     "file_name": "/tmp/news_lk2/articles/97/9749b191.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395820",
+    "time_ut": 1658996783,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/bf/bf054a3b.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -30,6 +46,14 @@
     "original_lang": "si",
     "original_title": "\u0db8\u0db8 \u0daf\u0dd2\u0db1\u0dd4\u0dc0\u0dcf \u0db1\u0db8\u0dca \u0d85\u0da7\u0dc0\u0db1 \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd2\u0db0\u0dcf\u0dba\u0d9a \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/08/08da219c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132401",
+    "time_ut": 1658996420,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bc6\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bc6\u0bb0\u0bcd\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9c/9caf9908.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -905,11 +929,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Extension-of-state-of-emergency-to-hit-tourism-industry-hard/108-241917",
+    "url": "https://www.dailymirror.lk/latest_news/Extension-of-state-of-emergency-to-hit-tourism-industry-hard/342-241917",
     "time_ut": 1658949259,
     "original_lang": "en",
     "original_title": "Extension of state of emergency to hit tourism industry hard",
-    "file_name": "/tmp/news_lk2/articles/3c/3cf5bf24.json"
+    "file_name": "/tmp/news_lk2/articles/23/23d63777.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
