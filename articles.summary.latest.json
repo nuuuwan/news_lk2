@@ -2032,6 +2032,14 @@
     "file_name": "/tmp/news_lk2/articles/ec/ec68a6b2.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78783",
+    "time_ut": 1658949840,
+    "original_lang": "en",
+    "original_title": "India sends \u201cclear message\u201d that it is monitoring the ship\u2019s progress \u201ccarefully\u201d of Chinese space and satellite tracking research vessel \u201cYuan Wang 5\u201d expected to dock in Sri Lanka\u2019s Hambantota port from August 11-17 for \u201creplenishment\u201d but  Sri Lanka Defence Ministry  Spolesman says \u201cWe have no confirmation of such a vessel calling at the Hambantota port,\u201d",
+    "file_name": "/tmp/news_lk2/articles/01/01e4622e.json"
+  },
+  {
     "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/opinion/Is-Gotabaya-a-war-hero-A-response/14-737980",
     "time_ut": 1658949575,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "17 killed as boat carrying Haitian migrants sinks off Bahamas",
     "file_name": "/tmp/news_lk2/articles/5c/5ce57713.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/slcgs-jayesagara-joins-coast-guard-fleet/",
-    "time_ut": 1658719800,
-    "original_lang": "en",
-    "original_title": "SLCGS Jayesagara joins Coast Guard fleet",
-    "file_name": "/tmp/news_lk2/articles/2c/2c7b2909.json"
   }
 ]
