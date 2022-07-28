@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83931/two-senior-advisors-to-the-president-appointed",
+    "time_ut": 1659005520,
+    "original_lang": "en",
+    "original_title": "Two senior advisors to the president appointed",
+    "file_name": "/tmp/news_lk2/articles/ae/ae8e8329.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132416",
+    "time_ut": 1659005494,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 \u0b9a\u0bc1\u0ba9\u0ba8\u0bcd\u0ba4 \u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0, \u0bb7\u0bc6\u0ba9\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0ba9\u0bb5\u0bbf\u0bb0\u0ba4\u0bcd\u0ba9 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf, \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b8a\u0b9f\u0b95 \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/31/31a71baa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/deputy-and-assistant-govt-whips-appointed/",
+    "time_ut": 1659005280,
+    "original_lang": "en",
+    "original_title": "Deputy and Assistant Govt Whips Appointed",
+    "file_name": "/tmp/news_lk2/articles/31/31f58158.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95-\u0b92\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd/175-301289",
+    "time_ut": 1659005224,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95 \u0b92\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3e/3e7b7be6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83930/advisory-issued-for-thundershowers-and-severe-lightning-",
+    "time_ut": 1659005220,
+    "original_lang": "en",
+    "original_title": "Advisory issued for thundershowers and severe lightning",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf630db.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132415",
+    "time_ut": 1659004872,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9 ?",
+    "file_name": "/tmp/news_lk2/articles/45/4527a5a8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/state-of-emergency-is-against-slpp-policies-gl/",
+    "time_ut": 1659004680,
+    "original_lang": "en",
+    "original_title": "State of Emergency is against SLPP policies \u2013 GL",
+    "file_name": "/tmp/news_lk2/articles/bd/bd39d74c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/asia-cup-moved-out-of-sri-lanka-to-uae/",
+    "time_ut": 1659004260,
+    "original_lang": "en",
+    "original_title": "Asia Cup moved out of Sri Lanka to UAE",
+    "file_name": "/tmp/news_lk2/articles/71/71d2ec90.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132412",
+    "time_ut": 1659004089,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bcb\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0b95 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 - \u0b9a\u0bc7\u0bb5\u0bcd \u0ba4 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb0\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/76/7640b1a0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Businesses-with-multiple-vehicles-can-register-with-National-Fuel-Pass-portal/342-241963",
     "time_ut": 1659003629,

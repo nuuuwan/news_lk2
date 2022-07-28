@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83931/two-senior-advisors-to-the-president-appointed",
+    "time_ut": 1659005520,
+    "original_lang": "en",
+    "original_title": "Two senior advisors to the president appointed",
+    "file_name": "/tmp/news_lk2/articles/ae/ae8e8329.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132416",
+    "time_ut": 1659005494,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 \u0b9a\u0bc1\u0ba9\u0ba8\u0bcd\u0ba4 \u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0, \u0bb7\u0bc6\u0ba9\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0ba9\u0bb5\u0bbf\u0bb0\u0ba4\u0bcd\u0ba9 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf, \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b8a\u0b9f\u0b95 \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/31/31a71baa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/deputy-and-assistant-govt-whips-appointed/",
+    "time_ut": 1659005280,
+    "original_lang": "en",
+    "original_title": "Deputy and Assistant Govt Whips Appointed",
+    "file_name": "/tmp/news_lk2/articles/31/31f58158.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95-\u0b92\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd/175-301289",
+    "time_ut": 1659005224,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0b95 \u0b92\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/3e/3e7b7be6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83930/advisory-issued-for-thundershowers-and-severe-lightning-",
+    "time_ut": 1659005220,
+    "original_lang": "en",
+    "original_title": "Advisory issued for thundershowers and severe lightning",
+    "file_name": "/tmp/news_lk2/articles/9c/9cf630db.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132415",
+    "time_ut": 1659004872,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc8\u0baf \u0ba8\u0bbf\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9 ?",
+    "file_name": "/tmp/news_lk2/articles/45/4527a5a8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/state-of-emergency-is-against-slpp-policies-gl/",
+    "time_ut": 1659004680,
+    "original_lang": "en",
+    "original_title": "State of Emergency is against SLPP policies \u2013 GL",
+    "file_name": "/tmp/news_lk2/articles/bd/bd39d74c.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/asia-cup-moved-out-of-sri-lanka-to-uae/",
+    "time_ut": 1659004260,
+    "original_lang": "en",
+    "original_title": "Asia Cup moved out of Sri Lanka to UAE",
+    "file_name": "/tmp/news_lk2/articles/71/71d2ec90.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132412",
+    "time_ut": 1659004089,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bcb\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0b95 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 - \u0b9a\u0bc7\u0bb5\u0bcd \u0ba4 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb0\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/76/7640b1a0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Businesses-with-multiple-vehicles-can-register-with-National-Fuel-Pass-portal/342-241963",
     "time_ut": 1659003629,
@@ -7926,77 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b9c\u0bc2\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd 39 \u0b86\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0ba4\u0bbf\u0ba9\u0bae\u0bcd :  \u0b95\u0ba9\u0bc7\u0b9f\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b9c\u0bb8\u0bcd\u0bb0\u0bbf\u0ba9\u0bcd \u0b9f\u0bcd\u0bb0\u0bc2\u0b9f\u0bcb \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f\u00a0 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
     "file_name": "/tmp/news_lk2/articles/4d/4d433755.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132151",
-    "time_ut": 1658662417,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bb2\u0bca\u0bb1\u0bbf \u0b95\u0bc1\u0b9f\u0bc8\u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/5d/5d97d5cf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83842/circular-restricting-the-calling-of-officers-to-govt-offices",
-    "time_ut": 1658662260,
-    "original_lang": "en",
-    "original_title": "Circular restricting the calling of officers to govt offices",
-    "file_name": "/tmp/news_lk2/articles/57/574a852e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132169",
-    "time_ut": 1658662174,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 !",
-    "file_name": "/tmp/news_lk2/articles/7a/7ac45c97.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132168",
-    "time_ut": 1658662127,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bc8 \u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/0f/0f9bb43f.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/joseph-fraser-maternal-hospital-introduces-unique-services/",
-    "time_ut": 1658661780,
-    "original_lang": "en",
-    "original_title": "Joseph Fraser maternal hospital introduces unique services",
-    "file_name": "/tmp/news_lk2/articles/37/37120f7d.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/union-assurance-wins-global-acclaim-as-fastest-growing-and-most-admired-insurance-company-in-sri-lanka/",
-    "time_ut": 1658661720,
-    "original_lang": "en",
-    "original_title": "Union Assurance wins global acclaim as Fastest-Growing and Most Admired Insurance Company in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/3a/3aed05d1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/a-pro-level-gaming-experience-with-viewsonics-latest-240hz-gaming-monitor/",
-    "time_ut": 1658661660,
-    "original_lang": "en",
-    "original_title": "A pro-level gaming experience with ViewSonic\u2019s latest 240Hz gaming monitor",
-    "file_name": "/tmp/news_lk2/articles/6d/6d307561.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/limra-holdings-subsidiary-kti-to-boost-sri-lankas-forex-earnings-with-plex-toys-launch-in-india/",
-    "time_ut": 1658661600,
-    "original_lang": "en",
-    "original_title": "LIMRA Holdings subsidiary KTI to boost Sri Lanka\u2019s forex earnings with PLEX toys launch in India",
-    "file_name": "/tmp/news_lk2/articles/8f/8f3b47ef.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/deepak-senthil-succeeds-outgoing-managing-director-of-coca-cola-sri-lanka/",
-    "time_ut": 1658661540,
-    "original_lang": "en",
-    "original_title": "Deepak Senthil succeeds outgoing managing director of Coca-Cola Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/d8/d8a578bc.json"
   }
 ]
