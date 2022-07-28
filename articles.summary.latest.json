@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-fuel-pass-registration-process-amended-after-complaints-98003/",
+    "time_ut": 1659033060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Fuel Pass registration process amended after complaints",
+    "file_name": "/tmp/news_lk2/articles/98/982abeb6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83940/sri-lanka-hopes-for-4bn-in-china-aid-soon-as-envoy-defends-ties",
+    "time_ut": 1659032280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka hopes for $4bn in China aid \u2018soon\u2019 as envoy defends ties",
+    "file_name": "/tmp/news_lk2/articles/da/dadc86b4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-reverses-falling-trend-plantation-energy-stocks-lead-98002/",
     "time_ut": 1659030060,
     "original_lang": "en",
@@ -62,6 +78,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dbb\u0ddd\u0d9c\u0dd3\u0dc4\u0dd4 131\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/42/42c793bf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-301295",
+    "time_ut": 1659025440,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a5/a5356dce.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/64/64aaf766.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/presidents-office-open-from-today-25/",
-    "time_ut": 1658714340,
-    "original_lang": "en",
-    "original_title": "President\u2019s Office open from today (25)",
-    "file_name": "/tmp/news_lk2/articles/bc/bc193498.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/president-wickremesinghe-the-current-pohottuwa-government-the-way-forward-a-call-from-citizens/",
-    "time_ut": 1658713595,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe, The Current Pohottuwa Government & The Way Forward \u2013 A Call From Citizens",
-    "file_name": "/tmp/news_lk2/articles/58/586171b0.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132184",
-    "time_ut": 1658712159,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0b92\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bbf\u0ba9\u0bae\u0bbe\u0b95 \u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf\u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd - \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f3/f3a87b36.json"
   }
 ]

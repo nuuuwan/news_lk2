@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-fuel-pass-registration-process-amended-after-complaints-98003/",
+    "time_ut": 1659033060,
+    "original_lang": "en",
+    "original_title": "Sri Lanka Fuel Pass registration process amended after complaints",
+    "file_name": "/tmp/news_lk2/articles/98/982abeb6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83940/sri-lanka-hopes-for-4bn-in-china-aid-soon-as-envoy-defends-ties",
+    "time_ut": 1659032280,
+    "original_lang": "en",
+    "original_title": "Sri Lanka hopes for $4bn in China aid \u2018soon\u2019 as envoy defends ties",
+    "file_name": "/tmp/news_lk2/articles/da/dadc86b4.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-shares-reverses-falling-trend-plantation-energy-stocks-lead-98002/",
     "time_ut": 1659030060,
     "original_lang": "en",
@@ -62,6 +78,14 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dbb\u0ddd\u0d9c\u0dd3\u0dc4\u0dd4 131\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/42/42c793bf.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-301295",
+    "time_ut": 1659025440,
+    "original_lang": "ta",
+    "original_title": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0bbe\u0b95\u0bb2\u0bbe\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/a5/a5356dce.json"
   },
   {
     "newspaper_id": "virakesari-lk",
