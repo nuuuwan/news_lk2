@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Weerawansa-presents-12-proposals-to-save-SL-from-imperialist-plot/56-738049",
+    "time_ut": 1659042865,
+    "original_lang": "en",
+    "original_title": "Weerawansa presents 12 proposals to save SL from imperialist plot",
+    "file_name": "/tmp/news_lk2/articles/c1/c1d2ab4f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Two-Senior-Advisors-to-the-President-appointed/56-738048",
+    "time_ut": 1659042781,
+    "original_lang": "en",
+    "original_title": "Two Senior Advisors to the President appointed",
+    "file_name": "/tmp/news_lk2/articles/46/46592888.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Federation-of-Renewable-Energy-Developers-holds-inaugural-meeting/34-738037",
     "time_ut": 1659040192,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
     "file_name": "/tmp/news_lk2/articles/a2/a2c43968.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/front_page/Open-Air-theatre-at-Viharamahadevi-Park-available-for-peaceful-protests-Prez/238-241726",
-    "time_ut": 1658719085,
-    "original_lang": "en",
-    "original_title": "Open-Air theatre at Viharamahadevi Park available for peaceful protests: Prez",
-    "file_name": "/tmp/news_lk2/articles/18/18dc96c1.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83851/schools-reopen-in-sri-lanka-amid-fuel-crisis",
-    "time_ut": 1658718900,
-    "original_lang": "en",
-    "original_title": "Schools reopen in Sri Lanka amid fuel crisis",
-    "file_name": "/tmp/news_lk2/articles/be/be57d38d.json"
   }
 ]

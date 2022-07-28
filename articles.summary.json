@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Weerawansa-presents-12-proposals-to-save-SL-from-imperialist-plot/56-738049",
+    "time_ut": 1659042865,
+    "original_lang": "en",
+    "original_title": "Weerawansa presents 12 proposals to save SL from imperialist plot",
+    "file_name": "/tmp/news_lk2/articles/c1/c1d2ab4f.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Two-Senior-Advisors-to-the-President-appointed/56-738048",
+    "time_ut": 1659042781,
+    "original_lang": "en",
+    "original_title": "Two Senior Advisors to the President appointed",
+    "file_name": "/tmp/news_lk2/articles/46/46592888.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Federation-of-Renewable-Energy-Developers-holds-inaugural-meeting/34-738037",
     "time_ut": 1659040192,
     "original_lang": "en",
