@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 01:11:58 (LK time)*
+*As of 2022-07-29 01:18:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,7 +12,7 @@
 
 * **3** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (9 Articles)
 
 * **4** economy-next-com ([Sri Lanka raises Rs.50 bln via T-bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/993e7b19.json))
 
@@ -20,9 +20,7 @@
 
 * **2** ada-derana-lk ([Japan hands over life-saving medicines procured through UNICEF in response to economic crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26a6b636.json))
 
-* **2** lankadeepa-lk ([දේශපාලුවෝ දෙවන පෑ තිස් රජුගේ බුලංකුලමත් විකුණති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987b1fc2.json))
-
-## Last 24 Hours (234 Articles)
+## Last 24 Hours (233 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
@@ -34,7 +32,7 @@
 
 * **25** ada-derana-lk ([Showers expected in most parts of the Island](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/827f6fd2.json))
 
-* **24** daily-mirror-lk ([Election only after a new Constitution - IUSF](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99a791af.json))
+* **23** daily-mirror-lk ([Bring young people to the forefront](https://github.com/nuuuwan/news_lk2/blob/data/articles/94/9459aea5.json))
 
 * **12** tamil-mirror-lk ([வீடு புகுந்து ஒருவர் சுட்டுப் படுகொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9394fcd8.json))
 
