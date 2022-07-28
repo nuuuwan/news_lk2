@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83927/pathum-kerner-arrested-by-ccd",
+    "time_ut": 1658994240,
+    "original_lang": "en",
+    "original_title": "Pathum Kerner arrested by CCD",
+    "file_name": "/tmp/news_lk2/articles/62/62a12bdf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/essential-that-leaders-uphold-due-process-us-ambassador/",
+    "time_ut": 1658994240,
+    "original_lang": "en",
+    "original_title": "Essential that leaders uphold due process \u2013 US Ambassador",
+    "file_name": "/tmp/news_lk2/articles/e7/e7c1f465.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbb\u0d9c\u0dbd-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2-\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-617174",
+    "time_ut": 1658994098,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dca\u0db1\u0dbb\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/56/563101f2.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/usaid-chief-calls-on-china-to-restructure-sri-lanka-s-debt/",
+    "time_ut": 1658994060,
+    "original_lang": "en",
+    "original_title": "USAID chief calls on China to restructure Sri Lanka\u2019s debt",
+    "file_name": "/tmp/news_lk2/articles/c3/c3bcebcb.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83926/almost-50-of-filling-stations-adopted-fuel-pass-system-minister",
     "time_ut": 1658993700,
     "original_lang": "en",
@@ -441,11 +473,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/COVID-forces-Ragama-Railway-station-ticket-counters-shut/342-241952",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-forces-Ragama-Railway-station-ticket-counters-shut/108-241952",
     "time_ut": 1658981727,
     "original_lang": "en",
     "original_title": "COVID forces Ragama Railway station ticket counters shut",
-    "file_name": "/tmp/news_lk2/articles/36/366f3a28.json"
+    "file_name": "/tmp/news_lk2/articles/5e/5edcc45b.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -481,11 +513,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-must-reach-deal-with-creditors-IMF-resumes-talks-with-Govt/342-241949",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-must-reach-deal-with-creditors-IMF-resumes-talks-with-Govt/108-241949",
     "time_ut": 1658981390,
     "original_lang": "en",
     "original_title": "Sri Lanka must reach deal with creditors - IMF resumes talks with Govt.",
-    "file_name": "/tmp/news_lk2/articles/4e/4eb4ef57.json"
+    "file_name": "/tmp/news_lk2/articles/3d/3de6f039.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -761,19 +793,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Foreign-financial-assistance-sought-to-electrify-Kelani-Valley-railway-line/273-241919",
+    "url": "https://www.dailymirror.lk/latest_news/Foreign-financial-assistance-sought-to-electrify-Kelani-Valley-railway-line/342-241919",
     "time_ut": 1658949401,
     "original_lang": "en",
     "original_title": "Foreign financial assistance sought to electrify Kelani Valley railway line",
-    "file_name": "/tmp/news_lk2/articles/5d/5d666308.json"
+    "file_name": "/tmp/news_lk2/articles/a6/a62296b2.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/business-news/Extension-of-state-of-emergency-to-hit-tourism-industry-hard/273-241917",
+    "url": "https://www.dailymirror.lk/breaking_news/Extension-of-state-of-emergency-to-hit-tourism-industry-hard/108-241917",
     "time_ut": 1658949259,
     "original_lang": "en",
     "original_title": "Extension of state of emergency to hit tourism industry hard",
-    "file_name": "/tmp/news_lk2/articles/1b/1b0f5fca.json"
+    "file_name": "/tmp/news_lk2/articles/3c/3cf5bf24.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bc7  \u0b8f\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd !",
     "file_name": "/tmp/news_lk2/articles/37/37753d46.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132142",
-    "time_ut": 1658650336,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0bb2\u0bb8\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bc8 \u0bb8\u0bcd\u0ba4\u0bbe\u0baa\u0bbf\u0b95\u0bcd\u0b95 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8 - \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0ba3",
-    "file_name": "/tmp/news_lk2/articles/3b/3b73de8f.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132144",
-    "time_ut": 1658650297,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u00a0 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bc7\u0b9a\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 -\u0baa\u0bbf\u0bb0\u0b9a\u0ba9\u0bcd\u0ba9 \u0bb0\u0ba3\u0ba4\u0bc1\u0b99\u0bcd\u0b95",
-    "file_name": "/tmp/news_lk2/articles/d9/d9df567e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132141",
-    "time_ut": 1658650224,
-    "original_lang": "ta",
-    "original_title": "\u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/6f/6f10b30c.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132140",
-    "time_ut": 1658650193,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/16/169a222b.json"
   }
 ]
