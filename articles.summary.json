@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Will-not-hesitate-to-form-new-political-party-Dullas/56-738052",
+    "time_ut": 1659043811,
+    "original_lang": "en",
+    "original_title": "Will not hesitate to form new political party: Dullas",
+    "file_name": "/tmp/news_lk2/articles/a9/a93d1967.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Demise-of-Moragodage-Christopher-Walter-Pinto/56-738051",
+    "time_ut": 1659043475,
+    "original_lang": "en",
+    "original_title": "Demise of Moragodage Christopher Walter Pinto",
+    "file_name": "/tmp/news_lk2/articles/e9/e9db97fb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-s-Chief-of-Staff-Sagala-Ratnayaka-assumes-duties/56-738050",
+    "time_ut": 1659043330,
+    "original_lang": "en",
+    "original_title": "President\u2019s Chief of Staff Sagala Ratnayaka assumes duties",
+    "file_name": "/tmp/news_lk2/articles/ed/ed809976.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Weerawansa-presents-12-proposals-to-save-SL-from-imperialist-plot/56-738049",
     "time_ut": 1659042865,
     "original_lang": "en",
@@ -2030,6 +2054,14 @@
     "original_lang": "en",
     "original_title": "Extension of state of emergency to hit tourism industry hard",
     "file_name": "/tmp/news_lk2/articles/23/23d63777.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78781",
+    "time_ut": 1658948760,
+    "original_lang": "en",
+    "original_title": "India says it will protect its interests as Chinese research and survey vessel \u201cYuan Wang 5\u201d heads to  Hambantota Port in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/a1/a1236e6c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",

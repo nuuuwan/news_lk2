@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Will-not-hesitate-to-form-new-political-party-Dullas/56-738052",
+    "time_ut": 1659043811,
+    "original_lang": "en",
+    "original_title": "Will not hesitate to form new political party: Dullas",
+    "file_name": "/tmp/news_lk2/articles/a9/a93d1967.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Demise-of-Moragodage-Christopher-Walter-Pinto/56-738051",
+    "time_ut": 1659043475,
+    "original_lang": "en",
+    "original_title": "Demise of Moragodage Christopher Walter Pinto",
+    "file_name": "/tmp/news_lk2/articles/e9/e9db97fb.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/President-s-Chief-of-Staff-Sagala-Ratnayaka-assumes-duties/56-738050",
+    "time_ut": 1659043330,
+    "original_lang": "en",
+    "original_title": "President\u2019s Chief of Staff Sagala Ratnayaka assumes duties",
+    "file_name": "/tmp/news_lk2/articles/ed/ed809976.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/news/Weerawansa-presents-12-proposals-to-save-SL-from-imperialist-plot/56-738049",
     "time_ut": 1659042865,
     "original_lang": "en",
@@ -2030,6 +2054,14 @@
     "original_lang": "en",
     "original_title": "Extension of state of emergency to hit tourism industry hard",
     "file_name": "/tmp/news_lk2/articles/23/23d63777.json"
+  },
+  {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78781",
+    "time_ut": 1658948760,
+    "original_lang": "en",
+    "original_title": "India says it will protect its interests as Chinese research and survey vessel \u201cYuan Wang 5\u201d heads to  Hambantota Port in Sri Lanka",
+    "file_name": "/tmp/news_lk2/articles/a1/a1236e6c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "SLCGS Jayesagara joins Coast Guard fleet",
     "file_name": "/tmp/news_lk2/articles/2c/2c7b2909.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132187",
-    "time_ut": 1658719736,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/63/63feec3b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bc1\u0b95\u0b95\u0bcd\u0b95\u0bb5\u0b9a\u0bae\u0bcd-\u0b85\u0ba3\u0bbf\u0baf\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe/175-301052",
-    "time_ut": 1658719714,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0b95\u0bcd\u0b95\u0bb5\u0b9a\u0bae\u0bcd \u0b85\u0ba3\u0bbf\u0baf\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe?",
-    "file_name": "/tmp/news_lk2/articles/13/133ef4af.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/no-rice-shortage-assures-trade-ministry/",
-    "time_ut": 1658719500,
-    "original_lang": "en",
-    "original_title": "No rice shortage, assures Trade Ministry",
-    "file_name": "/tmp/news_lk2/articles/09/09b2a306.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132186",
-    "time_ut": 1658719259,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bae\u0bc1\u0bb2\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8",
-    "file_name": "/tmp/news_lk2/articles/a2/a2c43968.json"
   }
 ]
