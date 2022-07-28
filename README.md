@@ -1,12 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 04:04:10 (LK time)*
+*As of 2022-07-29 04:17:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (8 Articles)
 
-* **13** daily-ft-lk ([Kirklees Estate amongst record books at Colombo tea auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eab1e08.json))
+* **8** daily-ft-lk ([Glenanore Estate excels once again](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2866d8.json))
 
 ## Last 24 Hours (243 Articles)
 
