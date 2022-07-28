@@ -1,0 +1,339 @@
+{
+  "newspaper_id": "daily-ft-lk",
+  "url": "https://www.ft.lk/business/Kirklees-Estate-amongst-record-books-at-Colombo-tea-auctions/34-738030",
+  "time_ut": 1659037023,
+  "original_lang": "en",
+  "original_title": "Kirklees Estate amongst record books at Colombo tea auctions",
+  "text_idx": {
+    "en": {
+      "title": "Kirklees Estate amongst record books at Colombo tea auctions",
+      "author": "unknown",
+      "body_lines": [
+        "At the recently concluded Colombo Tea Auction of 27 July, Kirklees Estate established an all-time record price of Rs. 1550/- for a BOPF grade, in the Uda Pussellawa category. This line of tea was purchased by M/s. Adam Expo.",
+        "Kirklees Estate is renowned for its high-quality BOP, BOPF and Dust-1 grades, which are highly sought-after teas by buyers at the Colombo Tea Auctions.",
+        "Kirklees is situated at an elevation of 1400 meters above mean sea level in the Uda Pussellawa Planting District.\u00a0 The total extent is 232 hectares with an annual production of 600,000 kgs. of made Tea. Kirklees Estate comes under the stewardship of the Superintendent Chaminda Jayaratne. Eastern Brokers Lrd., are the brokers associated in selling and marketing of Kirklees Estate Teas.",
+        "Kirklees Estate comes under the management of Kegalle Plantation and owned by the Richard Peiris Group of Companies."
+      ],
+      "title_ents": [
+        {
+          "text": "Kirklees Estate",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Colombo Tea Auction",
+            "label": "ORG"
+          },
+          {
+            "text": "27 July",
+            "label": "DATE"
+          },
+          {
+            "text": "Kirklees Estate",
+            "label": "ORG"
+          },
+          {
+            "text": "1550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Uda Pussellawa",
+            "label": "ORG"
+          },
+          {
+            "text": "Adam Expo",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "Kirklees Estate",
+            "label": "PERSON"
+          },
+          {
+            "text": "BOP",
+            "label": "ORG"
+          },
+          {
+            "text": "Dust-1",
+            "label": "ORG"
+          },
+          {
+            "text": "the Colombo Tea Auctions",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "Kirklees",
+            "label": "PERSON"
+          },
+          {
+            "text": "1400 meters",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "the Uda Pussellawa Planting District",
+            "label": "FAC"
+          },
+          {
+            "text": "232 hectares",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "600,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Tea",
+            "label": "ORG"
+          },
+          {
+            "text": "Eastern Brokers Lrd",
+            "label": "ORG"
+          },
+          {
+            "text": "Kirklees Estate Teas",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "Kirklees Estate",
+            "label": "PERSON"
+          },
+          {
+            "text": "Kegalle Plantation",
+            "label": "ORG"
+          },
+          {
+            "text": "the Richard Peiris Group of Companies",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0db4\u0ddc\u0dad\u0dca \u0d85\u0dad\u0dbb \u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0da2\u0dd4\u0dbd\u0dd2 27 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0dd6 \u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0dc3\u0dbb\u0dca\u0dc0\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9c\u0dad \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 1550/- BOPF \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0dcf, \u0d8b\u0da9 \u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0dda. \u0db8\u0dd9\u0db8 \u0dad\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba M/s \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dbd\u0daf\u0dd3. \u0d87\u0da9\u0db8\u0dca \u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd.",
+        "\u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0d91\u0dc4\u0dd2 \u0d8b\u0dc3\u0dc3\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0dda BOP, BOPF \u0dc3\u0dc4 Dust-1 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0d9a\u0dca \u0d8b\u0dc3\u0dd4\u0dbd\u0db1 \u0d85\u0dad\u0dbb, \u0d92\u0dc0\u0dcf \u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dad\u0dda \u0dc0\u0dda.",
+        "\u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dcf \u0d87\u0dad\u0dca\u0dad\u0dda \u0d8b\u0da9 \u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0dda \u0db8\u0db0\u0dca\u200d\u0dba \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0dc3\u0dd2\u0da7 \u0db8\u0dd3\u0da7\u0dbb\u0dca 1400 \u0d9a \u0d8b\u0db1\u0dca\u0db1\u0dad\u0dcf\u0d82\u0dc1\u0dba\u0d9a \u0dba. \u0db8\u0dd4\u0dc5\u0dd4 \u0db7\u0dd6\u0db8\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb 232 \u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dba \u0d9a\u0dd2\u0dbd\u0ddd\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca 600,000 \u0d9a\u0dd2. \u0dc3\u0dcf\u0daf\u0db1 \u0dbd\u0daf \u0dad\u0dda \u0dc0\u0dbd\u0dd2\u0db1\u0dca. \u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dd4\u0dba\u0dcf\u0dba \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd3 \u0da0\u0db8\u0dd2\u0db1\u0dca\u0daf \u0da2\u0dba\u0dbb\u0dad\u0dca\u0db1\u0d9c\u0dda \u0db7\u0dcf\u0dbb\u0d9a\u0dcf\u0dbb\u0dad\u0dca\u0dc0\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dc0\u0dad\u0dd3. East Brokers Lrd., Kirklees Estate Teas \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8 \u0dc3\u0dc4 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dc0\u0dda.",
+        "\u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad \u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3\u0dad\u0dca\u0dc0\u0dba \u0dba\u0da7\u0dad\u0dda \u0db4\u0dc0\u0dad\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0dbb\u0dd2\u0da0\u0da9\u0dca \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dc0\u0dda."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 27",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "ORG"
+          },
+          {
+            "text": "1550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d8b\u0da9 \u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d87\u0da9\u0db8\u0dca \u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "PERSON"
+          },
+          {
+            "text": "BOP",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0daf\u0dd6\u0dc0\u0dd2\u0dbd\u0dd2-1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dad\u0dda \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db8\u0dd3\u0da7\u0dbb\u0dca 1400",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0d8b\u0da9 \u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0 \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba",
+            "label": "FAC"
+          },
+          {
+            "text": "\u0dc4\u0dd9\u0d9a\u0dca\u0da7\u0dba\u0dcf\u0dbb 232 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "600,000 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dad\u0dda",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dad\u0dd0\u0dbb\u0dd0\u0dc0\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca Lrd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dd4 \u0dad\u0dda",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0d9a\u0dd2\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dd3\u0dc3\u0dca \u0dc0\u0dad\u0dca\u0dad",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0dc0\u0dd0\u0dc0\u0dd2\u0dbd\u0dd2",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dbb\u0dd2\u0da0\u0da9\u0dca \u0db4\u0dd3\u0dbb\u0dd2\u0dc3\u0dca \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba",
+            "label": "ORG"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u0bc1\u0bae\u0bcd",
+      "author": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+      "body_lines": [
+        "\u0b9c\u0bc1\u0bb2\u0bc8 27\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b85\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0bb0\u0bc2. \u0b89\u0b9f\u0bbe \u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5 \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd BOPF \u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 1550/-. \u0b87\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 M/s \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b86\u0b9f\u0bae\u0bcd \u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb.",
+        "Kirklees Estate \u0b85\u0ba4\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bb0 BOP, BOPF \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd Dust-1 \u0ba4\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1, \u0b87\u0bb5\u0bc8 \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd, \u0b89\u0b9f\u0bbe \u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5 \u0ba8\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bbe\u0b9a\u0bb0\u0bbf \u0b95\u0b9f\u0bb2\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 1400 \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b89\u0baf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bb3\u0bb5\u0bc1 232 \u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd, \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf 600,000 \u0b95\u0bbf\u0bb2\u0bcb. \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bcd. \u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9f\u0bcd\u0b9a\u0b95\u0bb0\u0bcd \u0b9a\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9c\u0baf\u0bb0\u0ba4\u0bcd\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd Lrd., \u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd.",
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bc0\u0bb4\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1."
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd",
+          "label": "PERSON"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "27 \u0b9c\u0bc2\u0bb2\u0bc8",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "1550/-",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b89\u0b9f\u0bbe \u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b86\u0b9f\u0bae\u0bcd \u0b8e\u0b95\u0bcd\u0bb8\u0bcd\u0baa\u0bcb",
+            "label": "PERSON"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "BOP",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0ba4\u0bc2\u0b9a\u0bbf-1",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0b8f\u0bb2\u0bae\u0bcd",
+            "label": "ORG"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "1400 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0b89\u0b9f\u0bbe \u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5 \u0ba8\u0b9f\u0bb5\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "FAC"
+          },
+          {
+            "text": "232 \u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "600,000",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0ba4\u0bc7\u0ba8\u0bc0\u0bb0\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb0\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd Lrd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd \u0b9f\u0bc0\u0bb8\u0bcd",
+            "label": "FAC"
+          }
+        ],
+        [
+          {
+            "text": "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb2\u0bc0\u0bb8\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0bb0\u0bbf\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b9f\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bae \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "ORG"
+          }
+        ]
+      ]
+    }
+  }
+}
