@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83935/court-issues-travel-ban-on-21-protesters-including-dhaniz-ali",
+    "time_ut": 1659015300,
+    "original_lang": "en",
+    "original_title": "Court issues travel ban on 21 protesters including Dhaniz Ali",
+    "file_name": "/tmp/news_lk2/articles/cd/cdc28a86.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da0\u0dab\u0dca\u0da9\u0dd2\u0db4\u0dcf\u0da7\u0dca-\u0daf\u0dcf\u0db1\u0dca\u0db1-\u0d86\u0dc0\u0ddc\u0dad\u0dca-\u0d85\u0dad\u0db4\u0dba-\u0d9a\u0da9\u0dcf\u0d9c\u0db1\u0dca\u0db1--\u0dc0\u0dd9\u0dba\u0dd2/11-395837",
+    "time_ut": 1659014431,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dab\u0dca\u0da9\u0dd2\u0db4\u0dcf\u0da7\u0dca \u0daf\u0dcf\u0db1\u0dca\u0db1 \u0d86\u0dc0\u0ddc\u0dad\u0dca \u0d85\u0dad\u0db4\u0dba \u0d9a\u0da9\u0dcf\u0d9c\u0db1\u0dca\u0db1  \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/37/37614a3f.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/28/british-agencies-secure-funds-to-develop-standard-monkeypox-tools/",
     "time_ut": 1659014220,
@@ -54,6 +70,14 @@
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc3\u0dd6\u0daf\u0dd4\u0dc0\u0dda: \u0dbd\u0d9a\u0dca\u0dc2 45 \u0d9a\u0dca \u0da2\u0dd3\u0dc0\u0db1 \u0dc3\u0da7\u0db1\u0dda",
     "file_name": "/tmp/news_lk2/articles/34/349c75a0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0d91\u0db1\u0dca\u0db1-\u0d91\u0db1\u0dca\u0db1\u0db8-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-395836",
+    "time_ut": 1659012913,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca \u0d91\u0db1\u0dca\u0db1 \u0d91\u0db1\u0dca\u0db1\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/33/33b9ed62.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -673,11 +697,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Activist-Pathum-Kerner-arrested/108-241958",
+    "url": "https://www.dailymirror.lk/top_story/Activist-Pathum-Kerner-arrested/155-241958",
     "time_ut": 1658995679,
     "original_lang": "en",
     "original_title": "Activist Pathum Kerner arrested",
-    "file_name": "/tmp/news_lk2/articles/52/5205d03d.json"
+    "file_name": "/tmp/news_lk2/articles/2b/2ba39525.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1649,11 +1673,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Police-arrest-IUSF-activist-Veranga-Pushpika/155-241908",
+    "url": "https://www.dailymirror.lk/latest_news/Police-arrest-IUSF-activist-Veranga-Pushpika/342-241908",
     "time_ut": 1658938179,
     "original_lang": "en",
     "original_title": "Police arrest IUSF activist Veranga Pushpika",
-    "file_name": "/tmp/news_lk2/articles/4a/4aa94066.json"
+    "file_name": "/tmp/news_lk2/articles/fb/fba71e14.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
