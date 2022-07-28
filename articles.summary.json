@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83938/parliament-prorogued-from-midnight-today",
+    "time_ut": 1659024000,
+    "original_lang": "en",
+    "original_title": "Parliament prorogued from midnight today",
+    "file_name": "/tmp/news_lk2/articles/8b/8bb9b266.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/President-prorogues-parliament-until-Aug-3/342-241974",
     "time_ut": 1659023340,
     "original_lang": "en",
     "original_title": "President prorogues parliament until Aug 3",
     "file_name": "/tmp/news_lk2/articles/5d/5d3d062c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132423",
+    "time_ut": 1659023181,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b85\u0ba9\u0bcd\u0b9f\u0ba9\u0bbf \u0bb5\u0bc7\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/2e/2ea722a0.json"
   },
   {
     "newspaper_id": "news-first-lk",
