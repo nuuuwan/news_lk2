@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 03:32:24 (LK time)*
+*As of 2022-07-29 03:44:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (5 Articles)
+## Last Hour (4 Articles)
 
-* **5** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
+* **4** daily-ft-lk ([Weerawansa presents 12 proposals to save SL from imperialist plot](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d2ab4f.json))
 
-## Last 3 Hours (16 Articles)
+## Last 3 Hours (14 Articles)
 
-* **16** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
+* **14** daily-ft-lk ([Debt restructuring will not succeed unless](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3af9fd.json))
 
-## Last 24 Hours (241 Articles)
+## Last 24 Hours (243 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
 * **40** lankadeepa-lk ([පිලිපීනය භූමි කම්පාවකින් කැලැඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80fdd5b5.json))
 
-* **35** virakesari-lk ([அரகலயவின் முன்னணி செயற்பாட்டாளர்கள் அச்சுறுத்தப்படுகின்றனர் – கண்காணிக்கப்படுகின்றனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffc38fff.json))
+* **36** virakesari-lk ([அரகலயவின் முன்னணி செயற்பாட்டாளர்கள் அச்சுறுத்தப்படுகின்றனர் – கண்காணிக்கப்படுகின்றனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffc38fff.json))
 
 * **35** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය ඉන්ධනහල් සියයට 50ක ක්‍රියාත්මකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee4f6657.json))
 
@@ -34,11 +34,13 @@
 
 * **1** colombo-telegraph-com ([An Emergency Means Nothing Less Than ‘Legalizing Lawlessness’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ec221d.json))
 
-## Last Week (1,577 Articles)
+* **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
+
+## Last Week (1,578 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
-* **246** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
+* **247** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
 
 * **184** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
@@ -56,17 +58,17 @@
 
 * **54** island-lk ([Fascists and democrats](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1fe7437.json))
 
-* **19** d-b-s-jeyaraj-com ([Tenacious “Aragalaya” (Struggle) of FSP Leader Kumar Gunaratnam Alias Kumar/Kumara.](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/038b709a.json))
+* **19** d-b-s-jeyaraj-com ([JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5842d76.json))
 
 * **14** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
 
 * **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-## All Time (2,026 Articles)
+## All Time (2,028 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **254** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **255** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **243** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -80,7 +82,7 @@
 
 * **151** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **129** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
+* **130** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
 * **100** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 

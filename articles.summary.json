@@ -616,6 +616,14 @@
     "file_name": "/tmp/news_lk2/articles/99/99ed1790.json"
   },
   {
+    "newspaper_id": "d-b-s-jeyaraj-com",
+    "url": "https://dbsjeyaraj.com/dbsj/archives/78785",
+    "time_ut": 1659011640,
+    "original_lang": "en",
+    "original_title": "",
+    "file_name": "/tmp/news_lk2/articles/f4/f4af35f3.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Reserved-unreserved-1st-class-train-fares-to-go-up-from-Aug-1/108-241969",
     "time_ut": 1659011528,
@@ -822,6 +830,14 @@
     "original_lang": "en",
     "original_title": "Advisory issued for thundershowers and severe lightning",
     "file_name": "/tmp/news_lk2/articles/9c/9cf630db.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132414",
+    "time_ut": 1659005086,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc7 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f5/f58ab714.json"
   },
   {
     "newspaper_id": "virakesari-lk",
