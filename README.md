@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-28 19:55:45 (LK time)*
+*As of 2022-07-28 20:01:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -38,7 +38,7 @@
 
 * **2** ada-lk ([කොවිඩ් ආසාදිතයන් එන්න එන්නම වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b9ed62.json))
 
-## Last 24 Hours (235 Articles)
+## Last 24 Hours (233 Articles)
 
 * **42** lankadeepa-lk ([ජනපති මහ ගෙදරට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b10cf8c8.json))
 
@@ -46,9 +46,9 @@
 
 * **35** ada-lk ([ලංකාව චීන ණය ප්‍රතිව්‍යුහගත කිරීමට සාකච්ඡා කළ යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8aa5465c.json))
 
-* **33** virakesari-lk ([ஜனாதிபதி மாளிகையில் பணம் எண்ணும் குழுவில் இருந்த சந்தேகநபர் ஒருவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/12bb83bf.json))
+* **32** virakesari-lk ([பண்டாரநாயக்க உருவச் சிலை அருகே வைத்து கைது செய்யப்பட்ட நால்வருக்கும் விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8fa0ae4.json))
 
-* **27** daily-mirror-lk ([Demanding to dissolve parliament](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06af6a16.json))
+* **26** daily-mirror-lk ([Justice for Tamil prisoners murdered in 1983](https://github.com/nuuuwan/news_lk2/blob/data/articles/f6/f6f5d2dd.json))
 
 * **24** ada-derana-lk ([Dhaniz Ali arrested for forcibly entering state media institute remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/20/204aba65.json))
 
