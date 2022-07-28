@@ -1,16 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 03:44:14 (LK time)*
+*As of 2022-07-29 03:56:38 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (4 Articles)
+## Last Hour (1 Articles)
 
-* **4** daily-ft-lk ([Weerawansa presents 12 proposals to save SL from imperialist plot](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c1d2ab4f.json))
+* **1** daily-ft-lk ([Will not hesitate to form new political party: Dullas](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a93d1967.json))
 
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (13 Articles)
 
-* **14** daily-ft-lk ([Debt restructuring will not succeed unless](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3af9fd.json))
+* **13** daily-ft-lk ([Kirklees Estate amongst record books at Colombo tea auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eab1e08.json))
 
 ## Last 24 Hours (243 Articles)
 
