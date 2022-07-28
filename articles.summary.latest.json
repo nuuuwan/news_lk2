@@ -1,11 +1,19 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132432",
+    "time_ut": 1659025341,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1 : \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/5f/5f89e2b8.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Leading-animal-rights-advocate-attacked/108-241975",
+    "url": "https://www.dailymirror.lk/latest_news/Leading-animal-rights-advocate-attacked/342-241975",
     "time_ut": 1659024707,
     "original_lang": "en",
     "original_title": "Leading animal rights advocate attacked",
-    "file_name": "/tmp/news_lk2/articles/5e/5ed88bf2.json"
+    "file_name": "/tmp/news_lk2/articles/93/930825e1.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "India says it will protect its interests as Chinese boat heads to Sri Lanka",
     "file_name": "/tmp/news_lk2/articles/a9/a9265eb4.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83938/parliament-prorogued-from-midnight-today",
+    "time_ut": 1659024000,
+    "original_lang": "en",
+    "original_title": "Parliament prorogued from midnight today",
+    "file_name": "/tmp/news_lk2/articles/8b/8bb9b266.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Ceylon Chamber National SME Forum 2022 kicks off tomorrow",
     "file_name": "/tmp/news_lk2/articles/d8/d8dfcc19.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Abbotsleigh-Estate-sets-an-all-time-record-price/34-737867",
-    "time_ut": 1658689310,
-    "original_lang": "en",
-    "original_title": "Abbotsleigh Estate sets an all-time record price",
-    "file_name": "/tmp/news_lk2/articles/4d/4d5d5d21.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/business/Yet-another-all-time-record-price-for-Delta-Estate/34-737866",
-    "time_ut": 1658689240,
-    "original_lang": "en",
-    "original_title": "Yet another all-time record price for Delta Estate",
-    "file_name": "/tmp/news_lk2/articles/35/3529f67e.json"
   }
 ]
