@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/british-agencies-secure-funds-to-develop-standard-monkeypox-tools/",
+    "time_ut": 1659014220,
+    "original_lang": "en",
+    "original_title": "British agencies secure funds to develop standard Monkeypox tools",
+    "file_name": "/tmp/news_lk2/articles/83/83186c26.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Rs-17-85-Million-cash-recovered-inside-Presidents-House-Police-yet-to-keep-recovered-money-in-judicial-custody/108-241970",
+    "time_ut": 1659013737,
+    "original_lang": "en",
+    "original_title": "Rs. 17.85 Million cash recovered inside President\u2019s House: Police yet to keep recovered money in judicial custody",
+    "file_name": "/tmp/news_lk2/articles/42/421447b7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb-\u0dc3\u0dad\u0dd4-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7-\u0d9a\u0dd2\u0dc0\u0dca-\u0d86\u0dbb\u0dca--\u0d9a\u0dda\u0dad\u0dba/1-617196",
+    "time_ut": 1659013675,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dc3\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7 \u0d9a\u0dd2\u0dc0\u0dca.\u0d86\u0dbb\u0dca. \u0d9a\u0dda\u0dad\u0dba",
+    "file_name": "/tmp/news_lk2/articles/62/625bafeb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/imran-khan-again-demands-early-pakistan-polls/",
+    "time_ut": 1659013500,
+    "original_lang": "en",
+    "original_title": "Imran Khan Again Demands Early Pakistan Polls",
+    "file_name": "/tmp/news_lk2/articles/1e/1e5a6c3d.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132419",
     "time_ut": 1659013160,
@@ -8,12 +40,28 @@
     "file_name": "/tmp/news_lk2/articles/5f/5fd458ee.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/3-hour-power-outage-for-friday-29/",
+    "time_ut": 1659013020,
+    "original_lang": "en",
+    "original_title": "3-Hour power outage for Friday (29)",
+    "file_name": "/tmp/news_lk2/articles/44/44af365f.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0dd6\u0daf\u0dd4\u0dc0\u0dda:-\u0dbd\u0d9a\u0dca\u0dc2-45-\u0d9a\u0dca-\u0da2\u0dd3\u0dc0\u0db1-\u0dc3\u0da7\u0db1\u0dda/101-617195",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1-\u0dc3\u0dd6\u0daf\u0dd4\u0dc0\u0dda:-\u0dbd\u0d9a\u0dca\u0dc2-45-\u0d9a\u0dca-\u0da2\u0dd3\u0dc0\u0db1-\u0dc3\u0da7\u0db1\u0dda/1-617195",
     "time_ut": 1659012977,
     "original_lang": "si",
     "original_title": "\u0d87\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0db1 \u0dc3\u0dd6\u0daf\u0dd4\u0dc0\u0dda: \u0dbd\u0d9a\u0dca\u0dc2 45 \u0d9a\u0dca \u0da2\u0dd3\u0dc0\u0db1 \u0dc3\u0da7\u0db1\u0dda",
-    "file_name": "/tmp/news_lk2/articles/83/83ae1866.json"
+    "file_name": "/tmp/news_lk2/articles/34/349c75a0.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/aragalaya-activist-anthony-weranga-pushpika-remanded-to-9th-august/",
+    "time_ut": 1659012480,
+    "original_lang": "en",
+    "original_title": "Aragalaya activist Anthony Weranga Pushpika, remanded to 9th August",
+    "file_name": "/tmp/news_lk2/articles/c1/c156c877.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -40,6 +88,14 @@
     "file_name": "/tmp/news_lk2/articles/3f/3fe9dfe0.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/travel-ban-on-multiple-aragalaya-activists/",
+    "time_ut": 1659011520,
+    "original_lang": "en",
+    "original_title": "Travel Ban on multiple Aragalaya activists",
+    "file_name": "/tmp/news_lk2/articles/57/573e907a.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2\u0dba\u0da7-\u0d9a\u0da9\u0dcf-\u0db4\u0dd0\u0db1\u0dca\u0db1-\u0db0\u0dcf\u0db1\u0dd2\u0dc1\u0dca-\u0d85\u0dbd\u0dd3\u00a0\u0d87\u0dad\u0dd4\u0dc5\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4\u0d9c\u0dda-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dad\u0dc4\u0db1\u0db8\u0dca/101-617194",
     "time_ut": 1659011397,
@@ -48,12 +104,20 @@
     "file_name": "/tmp/news_lk2/articles/e5/e5ea465f.json"
   },
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/28/japan-hands-over-donation-of-usd-1-5mn-to-curb-medicine-crisis/",
+    "time_ut": 1659011280,
+    "original_lang": "en",
+    "original_title": "Japan hands over donation of USD 1.5Mn to curb medicine crisis",
+    "file_name": "/tmp/news_lk2/articles/92/92ad2953.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d86\u0dc3\u0db1-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda--\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db1\u0d9c\u0dd3/101-617193",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0d86\u0dc3\u0db1-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda--\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0db1\u0d9c\u0dd3/1-617193",
     "time_ut": 1659010949,
     "original_lang": "si",
     "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d86\u0dc3\u0db1 \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda  \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0db1\u0d9c\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/54/5418865c.json"
+    "file_name": "/tmp/news_lk2/articles/0c/0c701608.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
