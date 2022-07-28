@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83939/japan-hands-over-life-saving-medicines-procured-through-unicef-in-response-to-economic-crisis",
+    "time_ut": 1659029280,
+    "original_lang": "en",
+    "original_title": "Japan hands over life-saving medicines procured through UNICEF in response to economic crisis",
+    "file_name": "/tmp/news_lk2/articles/26/26a6b636.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-president-suspends-parliament-new-session-on-aug-03-98000/",
+    "time_ut": 1659028620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka president suspends parliament, new session on Aug 03",
+    "file_name": "/tmp/news_lk2/articles/84/8441cd22.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-raises-rs-50-bln-via-t-bonds-97998/",
     "time_ut": 1659027480,
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b87.\u0baa\u0bcb.\u0b9a. \u0baf\u0bbe\u0bb4\u0bcd. \u0b9a\u0bbe\u0bb2\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/0e/0e8d288e.json"
-  },
-  {
-    "newspaper_id": "b-b-c-com-sinhala",
-    "url": "https://www.bbc.com/sinhala/sri-lanka-62249172",
-    "time_ut": 1658708070,
-    "original_lang": "si",
-    "original_title": "QR \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf\u0dba\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dbd\u0db6\u0dcf\u0daf\u0dd3\u0db8\u0da7 \u0db8\u0ddc\u0d9a\u0daf \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda?",
-    "file_name": "/tmp/news_lk2/articles/98/982100d6.json"
-  },
-  {
-    "newspaper_id": "d-b-s-jeyaraj-com",
-    "url": "https://dbsjeyaraj.com/dbsj/archives/78735",
-    "time_ut": 1658690640,
-    "original_lang": "en",
-    "original_title": "Clinging to Ranil-phobia is bad tactics. It has already caused enough damage \u2013 to the opposition. It enabled the obscene travesty of making Dulles Alahapperuma \u2013 a Rajapaksa acolyte for over 25 years \u2013  the standard bearer of the anti-Rajapaksa camp.",
-    "file_name": "/tmp/news_lk2/articles/10/10f49439.json"
   }
 ]
