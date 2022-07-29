@@ -1,27 +1,27 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/hard-talk/Sri-Lankan-exporters-to-face-tough-access-to-Germany-unless-HR-sustainability-standards-met/334-242003",
+    "url": "https://www.dailymirror.lk/news-features/Sri-Lankan-exporters-to-face-tough-access-to-Germany-unless-HR-sustainability-standards-met/131-242003",
     "time_ut": 1659052530,
     "original_lang": "en",
     "original_title": "Sri Lankan exporters to face tough access to Germany unless HR, sustainability standards met",
-    "file_name": "/tmp/news_lk2/articles/11/11923cf1.json"
+    "file_name": "/tmp/news_lk2/articles/60/60d0d6fb.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Lets-consider-home-growing-as-a-worthy-job-EDITORIAL/231-241995",
+    "url": "https://www.dailymirror.lk/opinion/Lets-consider-home-growing-as-a-worthy-job-EDITORIAL/172-241995",
     "time_ut": 1659052062,
     "original_lang": "en",
     "original_title": "Let\u2019s consider home growing as a \u2018worthy job\u2019 - EDITORIAL",
-    "file_name": "/tmp/news_lk2/articles/0d/0d62a059.json"
+    "file_name": "/tmp/news_lk2/articles/54/5402103c.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Crackdown-on-protests-What-the-Dickens-is-happening/231-241994",
+    "url": "https://www.dailymirror.lk/opinion/Crackdown-on-protests-What-the-Dickens-is-happening/172-241994",
     "time_ut": 1659051971,
     "original_lang": "en",
     "original_title": "Crackdown on protests:  What the Dickens is happening?",
-    "file_name": "/tmp/news_lk2/articles/5e/5ed95d8c.json"
+    "file_name": "/tmp/news_lk2/articles/e1/e1320b13.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -176,6 +176,14 @@
     "file_name": "/tmp/news_lk2/articles/eb/eb0ed132.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bb8\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8/175-301317",
+    "time_ut": 1659029557,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bb8\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/5d/5de76d8e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83939/japan-hands-over-life-saving-medicines-procured-through-unicef-in-response-to-economic-crisis",
     "time_ut": 1659029280,
@@ -190,6 +198,46 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president suspends parliament, new session on Aug 03",
     "file_name": "/tmp/news_lk2/articles/84/8441cd22.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dialog-club-vision-conducts-wellness-webinar-to-support-members-during-challenging-times/",
+    "time_ut": 1659028260,
+    "original_lang": "en",
+    "original_title": "Dialog Club Vision conducts wellness webinar to support members during challenging times",
+    "file_name": "/tmp/news_lk2/articles/62/62c5e97f.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/tea-auctions-offerings-decline-again-amid-strong-demand/",
+    "time_ut": 1659028200,
+    "original_lang": "en",
+    "original_title": "Tea auction\u2019s offerings decline again amid strong demand",
+    "file_name": "/tmp/news_lk2/articles/f4/f4f1e0db.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/trade-finance-association-of-bankers-holds-25th-agm-for-2022-2023/",
+    "time_ut": 1659028140,
+    "original_lang": "en",
+    "original_title": "Trade Finance Association of Bankers holds 25th AGM for 2022/2023",
+    "file_name": "/tmp/news_lk2/articles/c7/c7eb8e26.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-to-offer-its-underutilised-properties-to-corporate-sector-on-long-term-lease/",
+    "time_ut": 1659028080,
+    "original_lang": "en",
+    "original_title": "SLT-Mobitel to offer its underutilised properties to corporate sector on long term lease",
+    "file_name": "/tmp/news_lk2/articles/d3/d3c24584.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bc2-1-78-\u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bc8-\u0b89\u0b9f\u0ba9\u0bcd-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd/175-301313",
+    "time_ut": 1659027815,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0bc2.1.78 \u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bc8 \u0b89\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9b/9b959579.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -238,6 +286,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka bond yields edge up; guidance peg steady",
     "file_name": "/tmp/news_lk2/articles/a6/a6be0c1e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8-\u0b87\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd/175-301296",
+    "time_ut": 1659026044,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8  \u0b87\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6b/6be132d2.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -1185,19 +1241,19 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/324-241959",
-    "time_ut": 1658996807,
-    "original_lang": "en",
-    "original_title": "Jayasuriya, Mendis bowl Sri Lanka to improbable win",
-    "file_name": "/tmp/news_lk2/articles/d5/d5856348.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-beat-Pakistan-by-246-runs-in-second-Test-series-ends-1-1/108-241959",
     "time_ut": 1658996807,
     "original_lang": "en",
     "original_title": "Sri Lanka beat Pakistan by 246 runs in second Test, series ends 1-1",
     "file_name": "/tmp/news_lk2/articles/97/9749b191.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/324-241959",
+    "time_ut": 1658996807,
+    "original_lang": "en",
+    "original_title": "Jayasuriya, Mendis bowl Sri Lanka to improbable win",
+    "file_name": "/tmp/news_lk2/articles/d5/d5856348.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -1590,6 +1646,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dcf\u0dc4\u0db1 \u0dbb\u0dcf\u0dc1\u0dd2\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dc0\u0dbd\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0",
     "file_name": "/tmp/news_lk2/articles/9f/9fea0156.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/the-issue-of-rising-state-brutality-in-the-asian-theatre/",
+    "time_ut": 1658986260,
+    "original_lang": "en",
+    "original_title": "The issue of rising state brutality in the Asian theatre",
+    "file_name": "/tmp/news_lk2/articles/b4/b4cef550.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -2137,6 +2201,22 @@
   },
   {
     "newspaper_id": "island-lk",
+    "url": "http://island.lk/home-remedies-for-wrinkles/",
+    "time_ut": 1658943960,
+    "original_lang": "en",
+    "original_title": "Home remedies for wrinkles",
+    "file_name": "/tmp/news_lk2/articles/c8/c890b192.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/dance-of-the-lions-down-under/",
+    "time_ut": 1658943780,
+    "original_lang": "en",
+    "original_title": "Dance of the Lions down under",
+    "file_name": "/tmp/news_lk2/articles/f9/f9bbae34.json"
+  },
+  {
+    "newspaper_id": "island-lk",
     "url": "http://island.lk/cse-shows-gains-but-fails-to-sustain-momentum/",
     "time_ut": 1658941920,
     "original_lang": "en",
@@ -2150,6 +2230,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dda\u0dbb\u0d82\u0d9c \u0db4\u0dd4\u0dc2\u0dca\u0db4\u0dd2\u0d9a \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/ce/ceffc00c.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/slt-mobitel-digitally-ready-for-a-system-change-in-sl/",
+    "time_ut": 1658941860,
+    "original_lang": "en",
+    "original_title": "\u2018SLT-MOBITEL \u2013 digitally ready for a system change in SL\u2019",
+    "file_name": "/tmp/news_lk2/articles/0d/0da8db90.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -2168,6 +2256,14 @@
     "file_name": "/tmp/news_lk2/articles/50/5055670c.json"
   },
   {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/winners-of-the-2022-quiz-on-korea-felicitated-at-embassy/",
+    "time_ut": 1658941620,
+    "original_lang": "en",
+    "original_title": "Winners of the \u20182022 Quiz on Korea\u2019 felicitated at embassy",
+    "file_name": "/tmp/news_lk2/articles/11/1128148a.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/nine-sri-lanka-navy-sailors-jump-ship-in-america-97970/",
     "time_ut": 1658941560,
@@ -2182,6 +2278,14 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0db4\u0dc3\u0dca \u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/58/58e8cf83.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/sri-lankas-runaway-inflation-and-the-limits-of-monetary-policy/",
+    "time_ut": 1658940960,
+    "original_lang": "en",
+    "original_title": "Sri Lanka\u2019s Runaway Inflation and the Limits of Monetary Policy",
+    "file_name": "/tmp/news_lk2/articles/fe/fea84fd4.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -6446,6 +6550,14 @@
     "original_lang": "en",
     "original_title": "President has to work overtime to restore confidence and credibility",
     "file_name": "/tmp/news_lk2/articles/46/4614ab8b.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/souls-for-sale/",
+    "time_ut": 1658768280,
+    "original_lang": "en",
+    "original_title": "Souls for sale!",
+    "file_name": "/tmp/news_lk2/articles/52/524418e4.json"
   },
   {
     "newspaper_id": "ada-lk",

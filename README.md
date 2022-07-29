@@ -1,24 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 05:32:52 (LK time)*
+*As of 2022-07-29 05:40:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (3 Articles)
 
-* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
 ## Last Hour (3 Articles)
 
-* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
 ## Last 3 Hours (8 Articles)
 
 * **5** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
 
-* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (256 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
@@ -32,17 +32,19 @@
 
 * **24** daily-mirror-lk ([Man shot dead in Ratmalana](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4514c243.json))
 
+* **18** tamil-mirror-lk ([வீடு புகுந்து ஒருவர் சுட்டுப் படுகொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9394fcd8.json))
+
 * **16** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
-* **15** tamil-mirror-lk ([வீடு புகுந்து ஒருவர் சுட்டுப் படுகொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9394fcd8.json))
-
 * **11** economy-next-com ([Sri Lanka’s JKH profits soar driven by forex gains as soft-peg collapses](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/26b5ae34.json))
+
+* **5** island-lk ([The issue of rising state brutality in the Asian theatre](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b4cef550.json))
 
 * **1** colombo-telegraph-com ([An Emergency Means Nothing Less Than ‘Legalizing Lawlessness’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ec221d.json))
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,570 Articles)
+## Last Week (1,584 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -52,9 +54,9 @@
 
 * **168** daily-mirror-lk ([BASL strongly condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a001e01.json))
 
-* **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
+* **159** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
 
-* **156** tamil-mirror-lk ([அதிவிசேட வர்த்தமானி வெளியானது](https://github.com/nuuuwan/news_lk2/blob/data/articles/38/386df7c8.json))
+* **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
@@ -62,7 +64,7 @@
 
 * **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
-* **54** island-lk ([Fascists and democrats](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1fe7437.json))
+* **65** island-lk ([Fascists and democrats](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1fe7437.json))
 
 * **19** d-b-s-jeyaraj-com ([JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5842d76.json))
 
@@ -70,7 +72,7 @@
 
 * **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-## All Time (2,033 Articles)
+## All Time (2,047 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,9 +82,9 @@
 
 * **223** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
+* **160** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **157** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
+* **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
 * **154** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
@@ -92,7 +94,7 @@
 
 * **100** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
-* **81** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
+* **92** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
 * **33** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
 
