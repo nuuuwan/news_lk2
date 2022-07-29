@@ -1,24 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 23:42:59 (LK time)*
+*As of 2022-07-29 23:54:32 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (2 Articles)
 
-* **1** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/045dfb3f.json))
+* **1** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db3c46f3.json))
 
-## Last Hour (4 Articles)
+* **1** ada-derana-lk ([Another man waiting in fuel queue dies after falling ill](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de065a31.json))
 
-* **3** ada-derana-lk ([Police make 24 arrests in raids against fuel hoarding](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a858bdc.json))
-
-* **1** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/045dfb3f.json))
-
-## Last 3 Hours (14 Articles)
+## Last 3 Hours (12 Articles)
 
 * **5** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
 
-* **3** daily-mirror-lk ([Male body found in Galle Face beach](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43d7b3da.json))
+* **2** daily-mirror-lk ([Legendary Trotskyist Wije Dias no more](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28d27a2b.json))
 
 * **2** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
 
@@ -26,9 +22,7 @@
 
 * **1** virakesari-lk ([மக்களின் குரலுக்கு செவிசாய்க்கவேண்டுமே தவிர, அடக்குமுறை கூடாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a434cdb.json))
 
-* **1** ada-lk ([කොවිඩ් ආසාදිතයන් 143ක් - මරණ 05ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c5/c53ac2ec.json))
-
-## Last 24 Hours (244 Articles)
+## Last 24 Hours (243 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -36,7 +30,7 @@
 
 * **34** news-first-lk ([Maldives President To Visit India Next Month](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13934605.json))
 
-* **31** ada-derana-lk ([Sri Lanka hopes for $4bn in China aid ‘soon’ as envoy defends ties](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dadc86b4.json))
+* **30** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
 
 * **29** daily-mirror-lk ([SriLankan Airlines’ bond rated at ‘C’ despite interest payment](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8b615c.json))
 
@@ -48,7 +42,7 @@
 
 * **11** economy-next-com ([Sri Lanka Fuel Pass registration process amended after complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982abeb6.json))
 
-## Last Week (1,664 Articles)
+## Last Week (1,663 Articles)
 
 * **288** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -60,7 +54,7 @@
 
 * **170** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
 
-* **164** ada-derana-lk ([US envoy meets President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0bf75f.json))
+* **163** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
 * **153** tamil-mirror-lk ([தாக்குதல் அச்சம் வெளியிடும் ஐ.நா. மனித உரிமைகள் பேரவை தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd194102.json))
 
