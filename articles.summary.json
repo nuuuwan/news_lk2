@@ -1,11 +1,27 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2-\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0d85\u0dbb\u0d9c\u0dbd\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0da7-\u0dba\u0dba\u0dd2/101-617238",
+    "time_ut": 1659086110,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0d85\u0dbb\u0d9c\u0dbd\u0db7\u0dd6\u0db8\u0dd2\u0dba\u0da7 \u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1d/1df5c5a8.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95-\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-301328",
+    "time_ut": 1659085592,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb5\u0bbf\u0b9f\u0bcd-19 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/c4/c48d705b.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/British-High-Commissioner-calls-on-President/342-242028",
+    "url": "https://www.dailymirror.lk/breaking_news/British-High-Commissioner-calls-on-President/108-242028",
     "time_ut": 1659085515,
     "original_lang": "en",
     "original_title": "British High Commissioner calls on President",
-    "file_name": "/tmp/news_lk2/articles/00/0092a549.json"
+    "file_name": "/tmp/news_lk2/articles/9f/9f42b002.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -25,11 +41,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Ruwan-Wijayawardene-appointed-Presidential-Advisor-on-Climate-Change/342-242027",
+    "url": "https://www.dailymirror.lk/breaking_news/Ruwan-Wijayawardene-appointed-Presidential-Advisor-on-Climate-Change/108-242027",
     "time_ut": 1659083393,
     "original_lang": "en",
     "original_title": "Ruwan Wijayawardene appointed Presidential Advisor on Climate Change",
-    "file_name": "/tmp/news_lk2/articles/3b/3b46155d.json"
+    "file_name": "/tmp/news_lk2/articles/72/72c97102.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -65,19 +81,19 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dba\u0dd4-\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-617237",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dba\u0dd4-\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/1-617237",
     "time_ut": 1659082773,
     "original_lang": "si",
     "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dcf\u0dba\u0dd4 \u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd6 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/ef/ef1fd511.json"
+    "file_name": "/tmp/news_lk2/articles/df/dfa9108e.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Separate-lane-for-bicycle-users/342-242025",
+    "url": "https://www.dailymirror.lk/caption_story/Separate-lane-for-bicycle-users/110-242025",
     "time_ut": 1659082702,
     "original_lang": "en",
     "original_title": "Separate lane for bicycle users",
-    "file_name": "/tmp/news_lk2/articles/11/117d79ec.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bf557e0.json"
   },
   {
     "newspaper_id": "news-first-lk",
