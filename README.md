@@ -1,14 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 05:16:07 (LK time)*
+*As of 2022-07-29 05:32:52 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (5 Articles)
+## Last 30 Minutes (3 Articles)
+
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+
+## Last Hour (3 Articles)
+
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+
+## Last 3 Hours (8 Articles)
 
 * **5** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
 
-## Last 24 Hours (245 Articles)
+* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ed95d8c.json))
+
+## Last 24 Hours (248 Articles)
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
@@ -20,7 +30,7 @@
 
 * **25** ada-derana-lk ([Showers expected in most parts of the Island](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/827f6fd2.json))
 
-* **21** daily-mirror-lk ([Man shot dead in Ratmalana](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4514c243.json))
+* **24** daily-mirror-lk ([Man shot dead in Ratmalana](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4514c243.json))
 
 * **16** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
@@ -32,7 +42,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,568 Articles)
+## Last Week (1,570 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -40,7 +50,7 @@
 
 * **184** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
-* **165** daily-mirror-lk ([BASL strongly condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a001e01.json))
+* **168** daily-mirror-lk ([BASL strongly condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a001e01.json))
 
 * **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
@@ -48,7 +58,7 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **83** daily-ft-lk ([Limitations inherent in July uprising](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/9951fef9.json))
+* **82** daily-ft-lk ([Ranil Rajapaksa interregnum](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63203299.json))
 
 * **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
 
@@ -60,7 +70,7 @@
 
 * **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
 
-## All Time (2,030 Articles)
+## All Time (2,033 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -68,7 +78,7 @@
 
 * **243** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **220** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **223** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **158** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
