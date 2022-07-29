@@ -1,16 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 01:31:59 (LK time)*
+*As of 2022-07-30 01:45:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
+* **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-## Last 3 Hours (21 Articles)
+## Last Hour (4 Articles)
 
-* **8** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
+* **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
+
+## Last 3 Hours (25 Articles)
+
+* **12** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
 
 * **7** ada-derana-lk ([Police make 24 arrests in raids against fuel hoarding](https://github.com/nuuuwan/news_lk2/blob/data/articles/5a/5a858bdc.json))
 
@@ -20,7 +24,7 @@
 
 * **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
 
-## Last 24 Hours (249 Articles)
+## Last 24 Hours (253 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -34,13 +38,13 @@
 
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
 
-* **15** daily-ft-lk ([Young apparel entrepreneur offers ‘winning deal’ to Sri Lankan nationals living abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/531081c4.json))
+* **19** daily-ft-lk ([Young apparel entrepreneur offers ‘winning deal’ to Sri Lankan nationals living abroad](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/531081c4.json))
 
 * **13** tamil-mirror-lk ([இன்று முதல் துவிச்சக்கர வண்டிகளுக்காக பிரத்தியேக ஒழுங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd742ec1.json))
 
 * **11** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,659 Articles)
+## Last Week (1,663 Articles)
 
 * **289** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -56,9 +60,9 @@
 
 * **153** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
 
-* **73** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
+* **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
-* **72** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
+* **73** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
 * **55** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
@@ -68,7 +72,7 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,292 Articles)
+## All Time (2,296 Articles)
 
 * **366** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -84,7 +88,7 @@
 
 * **175** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **162** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
+* **166** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
 * **131** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 

@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/SLFP-presents-nine-point-proposal-for-formation-of-National-Government/56-738106",
+    "time_ut": 1659124891,
+    "original_lang": "en",
+    "original_title": "SLFP presents nine-point proposal for formation of National Government",
+    "file_name": "/tmp/news_lk2/articles/29/2942f7e3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Former-HRCSL-member-files-FR-against-emergency/56-738105",
+    "time_ut": 1659124802,
+    "original_lang": "en",
+    "original_title": "Former HRCSL member files FR against emergency",
+    "file_name": "/tmp/news_lk2/articles/0b/0b6a6b4d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/India-China-Ministers-at-summit-as-PLA-ship-in-neighbourhood-irks-Delhi/56-738104",
+    "time_ut": 1659124743,
+    "original_lang": "en",
+    "original_title": "India, China Ministers at summit as PLA ship in neighbourhood irks Delhi",
+    "file_name": "/tmp/news_lk2/articles/f0/f034e0cd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Veteran-Trotskyist-and-SEP-Chairman-Wije-Dias-dies-aged-80/56-738103",
+    "time_ut": 1659124685,
+    "original_lang": "en",
+    "original_title": "Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80",
+    "file_name": "/tmp/news_lk2/articles/96/96bbf8d6.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lankas-3-month-t-bill-yield-down-guidance-peg-edges-up-98030/",
     "time_ut": 1659121860,
