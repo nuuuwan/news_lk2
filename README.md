@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 03:14:41 (LK time)*
+*As of 2022-07-30 03:18:16 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,13 @@
 
 * **1** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
-## Last 3 Hours (9 Articles)
+## Last 3 Hours (8 Articles)
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
 * **2** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
 
 * **2** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
-
-* **1** daily-mirror-lk ([Tamil Parties  Must Urge  Full Implementation of 13A](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41b6a77.json))
 
 ## Last 24 Hours (250 Articles)
 
