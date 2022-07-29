@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 02:15:07 (LK time)*
+*As of 2022-07-30 02:19:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -10,9 +10,9 @@
 
 * **1** economy-next-com ([Sri Lanka stocks gain for second session; ends month in green](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e989742.json))
 
-## Last 3 Hours (21 Articles)
+## Last 3 Hours (20 Articles)
 
-* **11** daily-ft-lk ([A democracy of dunces](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0271b3a0.json))
+* **10** daily-ft-lk ([Dialog Club Vision conducts wellness webinar to support members during challenging times](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1aea8080.json))
 
 * **4** ada-derana-lk ([China says its massive loans, projects did not push Sri Lanka to bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96347cdf.json))
 
