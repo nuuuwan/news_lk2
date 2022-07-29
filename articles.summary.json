@@ -1,11 +1,43 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/11-hour-water-cut-on-saturday-30/",
+    "time_ut": 1659076920,
+    "original_lang": "en",
+    "original_title": "11-Hour water cut on Saturday (30)",
+    "file_name": "/tmp/news_lk2/articles/92/9278d6ed.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-\u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9/175-301326",
+    "time_ut": 1659076046,
+    "original_lang": "ta",
+    "original_title": "5 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd  \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba9.",
+    "file_name": "/tmp/news_lk2/articles/3d/3d1ff781.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132464",
+    "time_ut": 1659076024,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0ba9 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/cf/cfc6415d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/52-soes-made-a-significant-loss-of-rs-859-bn-in-2022/",
     "time_ut": 1659075900,
     "original_lang": "en",
     "original_title": "52 SOEs made a significant loss of Rs. 859 Bn in 2022",
     "file_name": "/tmp/news_lk2/articles/d3/d34a352e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132463",
+    "time_ut": 1659075854,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd !",
+    "file_name": "/tmp/news_lk2/articles/dc/dc507ef4.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -30,6 +62,14 @@
     "original_lang": "en",
     "original_title": "Man who misused President\u2019s flag arrested after surrender",
     "file_name": "/tmp/news_lk2/articles/3b/3bf827ab.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83945/man-who-misused-presidents-flag-arrested-after-surrendering",
+    "time_ut": 1659075600,
+    "original_lang": "en",
+    "original_title": "Man who misused President\u2019s flag arrested after surrendering",
+    "file_name": "/tmp/news_lk2/articles/4d/4d288064.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -104,6 +144,14 @@
     "file_name": "/tmp/news_lk2/articles/6f/6f3d45a4.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd2\u0da7\u0dbb\u0dca-\u0dad\u0dd4\u0db1\u0d9a-\u0d89\u0db1\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8-\u0db4\u0dd0\u0dba-\u0dad\u0dd4\u0db1\u0dd9\u0db1\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca/11-395847",
+    "time_ut": 1659072997,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0dbd\u0ddd\u0db8\u0dd2\u0da7\u0dbb\u0dca \u0dad\u0dd4\u0db1\u0d9a \u0d89\u0db1\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8 \u0db4\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/d2/d2b3e9d3.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132458",
     "time_ut": 1659072995,
@@ -113,11 +161,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/features/\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a-\u0dba\u0dd4\u0d9c-\u0daf\u0dd9\u0d9a\u0d9a-\u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba/2-617225",
+    "url": "https://www.lankadeepa.lk/friday/\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a-\u0dba\u0dd4\u0d9c-\u0daf\u0dd9\u0d9a\u0d9a-\u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba/122-617225",
     "time_ut": 1659072944,
     "original_lang": "si",
     "original_title": "\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a \u0dba\u0dd4\u0d9c \u0daf\u0dd9\u0d9a\u0d9a \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba",
-    "file_name": "/tmp/news_lk2/articles/89/8901e9ef.json"
+    "file_name": "/tmp/news_lk2/articles/d2/d2dfb66e.json"
   },
   {
     "newspaper_id": "virakesari-lk",
