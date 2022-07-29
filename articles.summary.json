@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/us-ambassador-meets-foreign-minister/",
+    "time_ut": 1659103680,
+    "original_lang": "en",
+    "original_title": "US Ambassador meets Foreign Minister",
+    "file_name": "/tmp/news_lk2/articles/b3/b360292d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83959/covid-five-more-deaths-143-new-cases-added-to-total-count",
+    "time_ut": 1659103620,
+    "original_lang": "en",
+    "original_title": "Covid: Five more deaths, 143 new cases added to total count",
+    "file_name": "/tmp/news_lk2/articles/ad/ad1fdd35.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/chinese-research-vessel-to-hambantota/",
     "time_ut": 1659103020,
     "original_lang": "en",
