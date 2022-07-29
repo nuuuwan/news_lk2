@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-invites-all-MPs-to-join-all-party-programme/342-242064",
+    "time_ut": 1659116671,
+    "original_lang": "en",
+    "original_title": "Prez invites all MPs to join all-party programme",
+    "file_name": "/tmp/news_lk2/articles/04/045dfb3f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83963/another-man-waiting-in-fuel-queue-dies-after-falling-ill",
     "time_ut": 1659115860,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Police make 24 arrests in raids to crack down on fuel hoarding",
     "file_name": "/tmp/news_lk2/articles/4a/4acec63d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83962/police-make-24-arrests-in-raids-against-fuel-hoarding",
+    "time_ut": 1659115140,
+    "original_lang": "en",
+    "original_title": "Police make 24 arrests in raids against fuel hoarding",
+    "file_name": "/tmp/news_lk2/articles/5a/5a858bdc.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc0\u0ba9\u0bbe \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1- \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0baa\u0bbe\u0bb2\u0bbf\u0ba4 \u0b95\u0bcb\u0bb9\u0ba9",
     "file_name": "/tmp/news_lk2/articles/8b/8b8986eb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Doctor-arrested-for-aiding-to-kill-his-maids-newborn-infant-in-2017/342-241808",
-    "time_ut": 1658803309,
-    "original_lang": "en",
-    "original_title": "Doctor arrested for aiding to kill his maid\u2019s newborn infant in 2017",
-    "file_name": "/tmp/news_lk2/articles/cb/cb31b6f6.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/president-has-to-try-harder-to-re-establish-a-legitimate-government/",
-    "time_ut": 1658803179,
-    "original_lang": "en",
-    "original_title": "President Has To Try Harder To Re-Establish A Legitimate Government",
-    "file_name": "/tmp/news_lk2/articles/84/84a0b160.json"
   }
 ]

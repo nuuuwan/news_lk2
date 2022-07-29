@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Prez-invites-all-MPs-to-join-all-party-programme/342-242064",
+    "time_ut": 1659116671,
+    "original_lang": "en",
+    "original_title": "Prez invites all MPs to join all-party programme",
+    "file_name": "/tmp/news_lk2/articles/04/045dfb3f.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83963/another-man-waiting-in-fuel-queue-dies-after-falling-ill",
     "time_ut": 1659115860,
@@ -14,6 +22,14 @@
     "original_lang": "en",
     "original_title": "Police make 24 arrests in raids to crack down on fuel hoarding",
     "file_name": "/tmp/news_lk2/articles/4a/4acec63d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83962/police-make-24-arrests-in-raids-against-fuel-hoarding",
+    "time_ut": 1659115140,
+    "original_lang": "en",
+    "original_title": "Police make 24 arrests in raids against fuel hoarding",
+    "file_name": "/tmp/news_lk2/articles/5a/5a858bdc.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
