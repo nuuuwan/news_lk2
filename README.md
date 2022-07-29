@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 06:11:23 (LK time)*
+*As of 2022-07-29 06:35:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
 ## Last 3 Hours (3 Articles)
 
@@ -16,11 +12,11 @@
 
 * **43** news-first-lk ([Rainfall of 100 mm expected today (28)](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b0beb1b2.json))
 
-* **40** lankadeepa-lk ([පිලිපීනය භූමි කම්පාවකින් කැලැඹේ](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80fdd5b5.json))
+* **39** lankadeepa-lk ([වඳුරු උණ ආසාදිතයෝ 18,000 ක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7aca5a22.json))
 
 * **37** virakesari-lk ([அரகலயவின் முன்னணி செயற்பாட்டாளர்கள் அச்சுறுத்தப்படுகின்றனர் – கண்காணிக்கப்படுகின்றனர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ff/ffc38fff.json))
 
-* **35** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය ඉන්ධනහල් සියයට 50ක ක්‍රියාත්මකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee4f6657.json))
+* **36** ada-lk ([ජාතික ඉන්ධන බලපත්‍රය ඉන්ධනහල් සියයට 50ක ක්‍රියාත්මකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee4f6657.json))
 
 * **25** ada-derana-lk ([Showers expected in most parts of the Island](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/827f6fd2.json))
 
@@ -38,13 +34,13 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,580 Articles)
+## Last Week (1,579 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
 * **248** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
 
-* **184** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
+* **185** ada-lk ([ගෝඨාගොමට පහරදීම නීතිඥ සංගමය හෙළා දකියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d5/d5d4367e.json))
 
 * **168** daily-mirror-lk ([BASL strongly condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a001e01.json))
 
@@ -54,7 +50,7 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **81** daily-ft-lk ([President Ranil needs to resurrect economy fast](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28900331.json))
+* **79** daily-ft-lk ([New PM, Cabinet take oath in presence of President RW](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c96bf53b.json))
 
 * **73** economy-next-com ([Sri Lanka peaceful protest site raided as military called under emergency law](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5226f41c.json))
 
@@ -66,13 +62,13 @@
 
 * **12** b-b-c-com-sinhala (["ඕගොල්ලෝ ජාත්‍යන්තර වශයෙන් චාටර් වෙන්න මේ හදන්නේ":අද අලුයම ගාලු මුවදොර අරගල භූමියේදී මොකද වුනේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccf4052.json))
 
-## All Time (2,047 Articles)
+## All Time (2,048 Articles)
 
 * **317** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **256** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **243** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **244** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **223** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
