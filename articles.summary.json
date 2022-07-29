@@ -1,11 +1,27 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/biden-xi-could-meet-in-person-us-official-says/",
+    "time_ut": 1659084480,
+    "original_lang": "en",
+    "original_title": "Biden, Xi could meet in person, US official says",
+    "file_name": "/tmp/news_lk2/articles/18/18649d9f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/shortage-of-102-essential-medicines/",
     "time_ut": 1659083040,
     "original_lang": "en",
     "original_title": "Shortage of 102 essential medicines",
     "file_name": "/tmp/news_lk2/articles/3c/3c806686.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-exports-rise-20-pct-in-june-2022-amid-forex-shortages-98011/",
+    "time_ut": 1659082980,
+    "original_lang": "en",
+    "original_title": "Sri Lanka exports rise 20-pct in June 2022 amid forex shortages",
+    "file_name": "/tmp/news_lk2/articles/eb/eb0aeaee.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -24,12 +40,20 @@
     "file_name": "/tmp/news_lk2/articles/a4/a4ccfe95.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dba\u0dd4-\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-617237",
+    "time_ut": 1659082773,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dcf\u0dba\u0dd4 \u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd6 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/ef/ef1fd511.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Separate-lane-for-bicycle-users/342-242025",
+    "url": "https://www.dailymirror.lk/caption_story/Separate-lane-for-bicycle-users/110-242025",
     "time_ut": 1659082702,
     "original_lang": "en",
     "original_title": "Separate lane for bicycle users",
-    "file_name": "/tmp/news_lk2/articles/11/117d79ec.json"
+    "file_name": "/tmp/news_lk2/articles/6b/6bf557e0.json"
   },
   {
     "newspaper_id": "news-first-lk",
