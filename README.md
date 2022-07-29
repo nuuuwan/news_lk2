@@ -1,28 +1,26 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 17:04:55 (LK time)*
+*As of 2022-07-29 17:15:55 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (7 Articles)
+## Last 30 Minutes (4 Articles)
 
-* **3** lankadeepa-lk ([පාර්ලිමේන්තු මහලේකම්ගෙන් සියලු මන්ත්‍රීවරුන්ට ලිපියක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc39f63f.json))
+* **1** virakesari-lk ([காலி முகத்திடல் போராட்டகாரர்கள் கைது செய்யப்படுவதை கண்டித்து  யாழ்ப்பாணத்தில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6addb67.json))
 
 * **1** daily-mirror-lk ([Pathum Kerner remanded till August 4](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe88dd32.json))
 
 * **1** news-first-lk ([Another man was arrested with Tear Gas Ammo](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17361373.json))
 
-* **1** economy-next-com ([Sri Lanka seizes postal Meth](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0cd038eb.json))
+* **1** lankadeepa-lk ([අගෝස්තු 1 සිට පොදු පාසල් බස් රථ සේවාවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/789fbaef.json))
 
-* **1** ada-derana-lk ([Edu. Minister says no school holidays this August](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/89a95e73.json))
+## Last Hour (16 Articles)
 
-## Last Hour (17 Articles)
+* **5** lankadeepa-lk ([හදිසි නීතියට විරුද්ධ ආණ්ඩු පක්ෂ මන්ත්‍රීන්ට විවාදයේ අදහස් දක්වන්න ඉඩදුන්නේ නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/19/19f81e2d.json))
 
-* **6** lankadeepa-lk ([කෝටි 3ක මත්පෙති මධ්‍යම තැපැල් හුවමාරුවෙන් අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ac/aca9d3bf.json))
+* **4** virakesari-lk ([மட்டு தமிழ் உணர்வாளர் அமைப்பின் தலைவர் பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91426bd5.json))
 
-* **3** news-first-lk ([Strict measures on private buses](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be5624a5.json))
-
-* **3** virakesari-lk ([மட்டு தமிழ் உணர்வாளர் அமைப்பின் தலைவர் பிணையில் விடுதலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91426bd5.json))
+* **2** news-first-lk ([Police search FSP Office in Nugegoda](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91b7face.json))
 
 * **2** ada-derana-lk ([Social media activist Pathum Kerner remanded](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6d1ff23.json))
 
@@ -32,11 +30,11 @@
 
 * **1** tamil-mirror-lk ([பதவி உயர்வு..](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/ebfc11b4.json))
 
-## Last 3 Hours (48 Articles)
+## Last 3 Hours (50 Articles)
 
 * **12** lankadeepa-lk ([ජනාධිපති මාධ්‍ය අධ්‍යක්ෂ ගාලුමුවදොර අරගලභූමියට යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52e49557.json))
 
-* **10** virakesari-lk ([கொழும்பில் நாளை நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35121e91.json))
+* **11** virakesari-lk ([கொழும்பில் நாளை நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35121e91.json))
 
 * **8** news-first-lk ([Biden, Xi could meet in person, US official says](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18649d9f.json))
 
@@ -48,15 +46,15 @@
 
 * **2** economy-next-com ([Sri Lanka DFCC Bank rating watch negative kept in soft-peg collapse: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69e3aab0.json))
 
-* **1** ada-lk ([බස්නාහිර වාහන ආදායම් බලපත්‍ර කාලය දීර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/128a4eb2.json))
+* **2** ada-lk ([බස්නාහිර වාහන ආදායම් බලපත්‍ර කාලය දීර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/128a4eb2.json))
 
 ## Last 24 Hours (254 Articles)
 
 * **46** lankadeepa-lk ([සිපෙට්කෝ පිරවුම්හල්වලට  ප්‍රමාණවත් තොග නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fc6fa481.json))
 
-* **41** virakesari-lk ([அம்பாந்தோட்டை துறைமுகத்திற்கு சீன கப்பல் விஜயம் - இந்தியா தெரிவித்துள்ளது என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8619ba72.json))
+* **42** virakesari-lk ([அம்பாந்தோட்டை துறைமுகத்திற்கு சீன கப்பல் விஜயம் - இந்தியா தெரிவித்துள்ளது என்ன?](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/8619ba72.json))
 
-* **37** news-first-lk ([Iraq’s protestors break into Parliament building](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a13b040.json))
+* **35** news-first-lk ([Warrants against Lahiru Weerasekera & Tempitiye Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4cd2dc7.json))
 
 * **30** daily-mirror-lk ([School transport service will be back to normal by Monday: Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/9e/9e701e6c.json))
 
@@ -64,7 +62,7 @@
 
 * **23** tamil-mirror-lk ([ஓரங்க நடிகன்  கைதானார்](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed466d69.json))
 
-* **16** ada-lk ([කොවිඩ් ආසාදිතයන් එන්න එන්නම වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b9ed62.json))
+* **17** ada-lk ([කොවිඩ් ආසාදිතයන් එන්න එන්නම වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b9ed62.json))
 
 * **16** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
@@ -76,17 +74,17 @@
 
 * **1** colombo-telegraph-com ([An Emergency Means Nothing Less Than ‘Legalizing Lawlessness’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ec221d.json))
 
-## Last Week (1,656 Articles)
+## Last Week (1,657 Articles)
 
-* **275** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
+* **276** virakesari-lk ([களவாடிய துப்பாக்கிகள் எங்கே ? ஜே.வி.பி.யின் தலைவரை கேட்ட ஜனாதிபதி ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47623a9c.json))
 
 * **274** lankadeepa-lk ([‘‘අරගලයට පහරදීම ව්‍යවස්ථාව අභියෝගයට ලක්කිරීමක්‘‘](https://github.com/nuuuwan/news_lk2/blob/data/articles/74/74a3c8fd.json))
 
 * **179** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **177** daily-mirror-lk ([Karu Jayasuriya condemns attack on Galle Face protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a229f042.json))
+* **178** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
 
-* **177** ada-lk ([අග්‍රාමාත්‍ය ලේකම් අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29500efd.json))
+* **176** daily-mirror-lk ([New COVID Omicron variant deadlier than Delta, wear facemasks: Medical Specialists warn](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2f6cd5.json))
 
 * **159** tamil-mirror-lk ([மிதந்துக் கொண்டிருந்த மாணவியின் சடலம் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f7e01878.json))
 
@@ -104,13 +102,13 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,197 Articles)
+## All Time (2,199 Articles)
 
 * **351** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **283** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **284** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **254** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **255** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **243** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 

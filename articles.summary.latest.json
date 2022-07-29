@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132508",
+    "time_ut": 1659094101,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1  \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b6/b6addb67.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Pathum-Kerner-remanded-till-August-4/108-242036",
     "time_ut": 1659093921,
@@ -198,6 +206,14 @@
     "original_lang": "en",
     "original_title": "New Omicron sub-variant most contagious, immune-evasive: Medical expert warns",
     "file_name": "/tmp/news_lk2/articles/bb/bb595934.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0da0\u0dd3\u0db1-\u0dab\u0dba-\u0dc4\u0dcf-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-395853",
+    "time_ut": 1659089874,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1 \u0dab\u0dba \u0dc4\u0dcf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/08/08499909.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0ba8\u0bbe\u0bb3\u0bc8\u0baf \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/88/88269620.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Against-GotaGoGama-attack/110-241758",
-    "time_ut": 1658758739,
-    "original_lang": "en",
-    "original_title": "Against GotaGoGama attack",
-    "file_name": "/tmp/news_lk2/articles/7a/7a655ec8.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-is-facing-diplomatic-sanctions-Sajith/108-241757",
-    "time_ut": 1658758063,
-    "original_lang": "en",
-    "original_title": "Sri Lanka is facing diplomatic sanctions: Sajith",
-    "file_name": "/tmp/news_lk2/articles/58/58b775c4.json"
   }
 ]
