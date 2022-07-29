@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/52-soes-made-a-significant-loss-of-rs-859-bn-in-2022/",
+    "time_ut": 1659075900,
+    "original_lang": "en",
+    "original_title": "52 SOEs made a significant loss of Rs. 859 Bn in 2022",
+    "file_name": "/tmp/news_lk2/articles/d3/d34a352e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dcf-\u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7-\u0dc0\u0dd9\u0db1\u0db8-\u0db8\u0d82\u0dad\u0dd3\u0dbb\u0dd4/1-617231",
+    "time_ut": 1659075842,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dcf \u0db4\u0dd0\u0daf\u0dd2\u0dba\u0da7 \u0dc0\u0dd9\u0db1\u0db8 \u0db8\u0d82\u0dad\u0dd3\u0dbb\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/b3/b37feca3.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/No-plans-to-offer-financing-to-SL-until-adequate-macroeconomic-policy-framework-in-place-WB/342-242023",
+    "time_ut": 1659075677,
+    "original_lang": "en",
+    "original_title": "No plans to offer financing to SL until adequate macroeconomic policy framework in place: WB",
+    "file_name": "/tmp/news_lk2/articles/42/42f0f86f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83945/man-who-misused-presidents-flag-arrested-after-surrender",
+    "time_ut": 1659075600,
+    "original_lang": "en",
+    "original_title": "Man who misused President\u2019s flag arrested after surrender",
+    "file_name": "/tmp/news_lk2/articles/3b/3bf827ab.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd4\u0daf\u0dbd\u0dca\u0d9c\u0dd9\u0db1-\u0da7\u0dd2\u0d9a\u0da7\u0dca-\u0db1\u0ddc\u0daf\u0dd4\u0db1\u0dca-\u0dbd\u0d82\u0d9c\u0db8-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dc0\u0dbb\u0dd4-3\u0d9a\u0da7-\u0dc0\u0dd0\u0da9\u0dc0\u0dbb\u0daf\u0dd3/1-617230",
     "time_ut": 1659074745,
@@ -81,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/friday/\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a-\u0dba\u0dd4\u0d9c-\u0daf\u0dd9\u0d9a\u0d9a-\u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba/122-617225",
+    "url": "https://www.lankadeepa.lk/features/\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a-\u0dba\u0dd4\u0d9c-\u0daf\u0dd9\u0d9a\u0d9a-\u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba/2-617225",
     "time_ut": 1659072944,
     "original_lang": "si",
     "original_title": "\u0d85\u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a \u0dba\u0dd4\u0d9c \u0daf\u0dd9\u0d9a\u0d9a \u0db4\u0dab\u0dd2\u0dc0\u0dd4\u0da9\u0dba",
-    "file_name": "/tmp/news_lk2/articles/d2/d2dfb66e.json"
+    "file_name": "/tmp/news_lk2/articles/89/8901e9ef.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/ed/ed626aaa.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83861/energy-minister-says-only-qr-code-quota-system-for-fuel-from-aug-01",
-    "time_ut": 1658739720,
-    "original_lang": "en",
-    "original_title": "Energy Minister says only QR Code quota system for fuel from Aug. 01",
-    "file_name": "/tmp/news_lk2/articles/f6/f61e2664.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/picture_story/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0dc0\u0dd0\u0da9-\u0d85\u0dbb\u0db9\u0dba\u0dd2/10-395720",
-    "time_ut": 1658739635,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/4d/4dac089e.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132235",
-    "time_ut": 1658739506,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d3/d3bea1d7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0dc3\u0ddc\u0dad\u0dca\u0dad\u0dd2-\u0d8b\u0db4\u0dcf\u0dbd\u0dd2\u0d9c\u0dda-\u0db4\u0dd4\u0dad\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-617002",
-    "time_ut": 1658739415,
-    "original_lang": "si",
-    "original_title": "\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0ddc\u0dad\u0dca\u0dad\u0dd2 \u0d8b\u0db4\u0dcf\u0dbd\u0dd2\u0d9c\u0dda \u0db4\u0dd4\u0dad\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/c2/c2fd7a3b.json"
   }
 ]
