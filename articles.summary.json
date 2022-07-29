@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83947/ruwan-wijewardene-appointed-as-a-presidential-advisor",
+    "time_ut": 1659081000,
+    "original_lang": "en",
+    "original_title": "Ruwan Wijewardene appointed as a presidential advisor",
+    "file_name": "/tmp/news_lk2/articles/b3/b301ab0a.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132465",
     "time_ut": 1659079685,
@@ -22,6 +30,14 @@
     "original_lang": "en",
     "original_title": "Earnings from merchandise exports up by 20% in June",
     "file_name": "/tmp/news_lk2/articles/c4/c4460968.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83946/merchandise-export-earnings-rise-to-usd-12-billion-in-june",
+    "time_ut": 1659078720,
+    "original_lang": "en",
+    "original_title": "Merchandise export earnings rise to USD 1.2 billion in June",
+    "file_name": "/tmp/news_lk2/articles/d6/d6f54bca.json"
   },
   {
     "newspaper_id": "ada-lk",
