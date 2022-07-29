@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/shortage-of-102-essential-medicines/",
+    "time_ut": 1659083040,
+    "original_lang": "en",
+    "original_title": "Shortage of 102 essential medicines",
+    "file_name": "/tmp/news_lk2/articles/3c/3c806686.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bond-yields-marginally-up-guidance-peg-stronger-98014/",
+    "time_ut": 1659082920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bond yields marginally up, guidance peg stronger",
+    "file_name": "/tmp/news_lk2/articles/33/3322f155.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dba\u0dd4-\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-617237",
+    "time_ut": 1659082773,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dcf\u0dba\u0dd4 \u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd6 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a4/a4ccfe95.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Separate-lane-for-bicycle-users/342-242025",
+    "time_ut": 1659082702,
+    "original_lang": "en",
+    "original_title": "Separate lane for bicycle users",
+    "file_name": "/tmp/news_lk2/articles/11/117d79ec.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/over-100-000-lp-gas-cylinders-to-the-market/",
     "time_ut": 1659082020,
     "original_lang": "en",
@@ -17,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/China-says-its-loans-projects-boosted-SLs-economy/342-242024",
+    "url": "https://www.dailymirror.lk/breaking_news/China-says-its-loans-projects-boosted-SLs-economy/108-242024",
     "time_ut": 1659081555,
     "original_lang": "en",
     "original_title": "China says its loans, projects boosted SL\u2019s economy",
-    "file_name": "/tmp/news_lk2/articles/fa/fa12a76b.json"
+    "file_name": "/tmp/news_lk2/articles/10/10cbc993.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -473,11 +505,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/342-242020",
+    "url": "https://www.dailymirror.lk/breaking_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/108-242020",
     "time_ut": 1659069275,
     "original_lang": "en",
     "original_title": "Pilot program to allocate bicycle lanes for users from today in Colombo",
-    "file_name": "/tmp/news_lk2/articles/31/31a3e842.json"
+    "file_name": "/tmp/news_lk2/articles/ea/ea8c4e93.json"
   },
   {
     "newspaper_id": "virakesari-lk",

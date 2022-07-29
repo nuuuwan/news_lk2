@@ -1,6 +1,38 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/shortage-of-102-essential-medicines/",
+    "time_ut": 1659083040,
+    "original_lang": "en",
+    "original_title": "Shortage of 102 essential medicines",
+    "file_name": "/tmp/news_lk2/articles/3c/3c806686.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-bond-yields-marginally-up-guidance-peg-stronger-98014/",
+    "time_ut": 1659082920,
+    "original_lang": "en",
+    "original_title": "Sri Lanka bond yields marginally up, guidance peg stronger",
+    "file_name": "/tmp/news_lk2/articles/33/3322f155.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0db3\u0dd4\u0dc5\u0dd4-\u0dc0\u0dcf\u0dba\u0dd4-\u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1-\u0dc4\u0dd0\u0daf\u0dd6-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/101-617237",
+    "time_ut": 1659082773,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0db3\u0dd4\u0dc5\u0dd4 \u0dc0\u0dcf\u0dba\u0dd4 \u0db6\u0ddd\u0db8\u0dca\u0db6\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd6 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a4/a4ccfe95.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Separate-lane-for-bicycle-users/342-242025",
+    "time_ut": 1659082702,
+    "original_lang": "en",
+    "original_title": "Separate lane for bicycle users",
+    "file_name": "/tmp/news_lk2/articles/11/117d79ec.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/over-100-000-lp-gas-cylinders-to-the-market/",
     "time_ut": 1659082020,
     "original_lang": "en",
@@ -17,11 +49,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/China-says-its-loans-projects-boosted-SLs-economy/342-242024",
+    "url": "https://www.dailymirror.lk/breaking_news/China-says-its-loans-projects-boosted-SLs-economy/108-242024",
     "time_ut": 1659081555,
     "original_lang": "en",
     "original_title": "China says its loans, projects boosted SL\u2019s economy",
-    "file_name": "/tmp/news_lk2/articles/fa/fa12a76b.json"
+    "file_name": "/tmp/news_lk2/articles/10/10cbc993.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -473,11 +505,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/342-242020",
+    "url": "https://www.dailymirror.lk/breaking_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/108-242020",
     "time_ut": 1659069275,
     "original_lang": "en",
     "original_title": "Pilot program to allocate bicycle lanes for users from today in Colombo",
-    "file_name": "/tmp/news_lk2/articles/31/31a3e842.json"
+    "file_name": "/tmp/news_lk2/articles/ea/ea8c4e93.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db8\u0dcf\u0dc3 12 \u0dad\u0dd4\u0dc5 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d86\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dd3\u0db8\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1\u0dc0\u0dcf",
     "file_name": "/tmp/news_lk2/articles/43/43e2b16a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d91\u0dad\u0dd9\u0dbb\u0dd2\u0db1\u0dca-\u0dbd\u0dd0\u0db6\u0dd9\u0db1-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db4\u0dc4\u0dc5\u0da7/1-617008",
-    "time_ut": 1658745634,
-    "original_lang": "si",
-    "original_title": "\u0d91\u0dad\u0dd9\u0dbb\u0dd2\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dc4\u0dc5\u0da7",
-    "file_name": "/tmp/news_lk2/articles/59/590fe3bb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Govt-must-act-expeditiously-to-provide-relief-for-childrens-education/108-241751",
-    "time_ut": 1658745329,
-    "original_lang": "en",
-    "original_title": "Govt. must act expeditiously to provide relief for children\u2019s education",
-    "file_name": "/tmp/news_lk2/articles/03/033a727b.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd-\u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9-\u0b89\u0baf\u0bbf\u0bb0\u0bcd/175-301091",
-    "time_ut": 1658745157,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9 \u0b89\u0baf\u0bbf\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/a5/a538abbf.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132241",
-    "time_ut": 1658744953,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0bbe\u0ba4\u0bbe\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0bc1\u0bb5\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/76/766904e2.json"
   }
 ]
