@@ -1,14 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 01:55:01 (LK time)*
+*As of 2022-07-30 02:15:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (5 Articles)
-
-* **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
-
-* **1** economy-next-com ([Sri Lanka stocks gain for second session; ends month in green](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e989742.json))
 
 ## Last Hour (5 Articles)
 
@@ -16,19 +10,19 @@
 
 * **1** economy-next-com ([Sri Lanka stocks gain for second session; ends month in green](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e989742.json))
 
-## Last 3 Hours (24 Articles)
+## Last 3 Hours (21 Articles)
 
-* **12** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
+* **11** daily-ft-lk ([A democracy of dunces](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/0271b3a0.json))
 
-* **5** ada-derana-lk ([Another man waiting in fuel queue dies after falling ill](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de065a31.json))
+* **4** ada-derana-lk ([China says its massive loans, projects did not push Sri Lanka to bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96347cdf.json))
 
-* **4** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db3c46f3.json))
+* **3** daily-mirror-lk ([Climate action for most vulnerable people](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7684960.json))
 
 * **2** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
 * **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (253 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -42,7 +36,7 @@
 
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
 
-* **18** daily-ft-lk ([Federation of Renewable Energy Developers holds inaugural meeting](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fce712d4.json))
+* **17** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
 
 * **13** tamil-mirror-lk ([இன்று முதல் துவிச்சக்கர வண்டிகளுக்காக பிரத்தியேக ஒழுங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd742ec1.json))
 
