@@ -1,40 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 22:11:01 (LK time)*
+*As of 2022-07-29 22:30:33 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([India monitoring reports of Chinese vessel’s planned visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/006086cd.json))
+
+## Last Hour (5 Articles)
+
+* **2** lankadeepa-lk ([සුද්දො බාගෙට බාගයකට ලංකාව එපා වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99febc61.json))
 
 * **1** ada-derana-lk ([India monitoring reports of Chinese vessel’s planned visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/006086cd.json))
 
 * **1** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
 
-* **1** lankadeepa-lk ([ගාලුමුවදොර වෙරළට නාඳුනන මළ සිරුරක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86fbc6e9.json))
-
 * **1** virakesari-lk ([மக்களின் குரலுக்கு செவிசாய்க்கவேண்டுமே தவிர, அடக்குமுறை கூடாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a434cdb.json))
 
-## Last Hour (7 Articles)
+## Last 3 Hours (26 Articles)
 
-* **2** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
-
-* **2** lankadeepa-lk ([සුද්දො බාගෙට බාගයකට ලංකාව එපා වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99febc61.json))
-
-* **1** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
-
-* **1** virakesari-lk ([மக்களின் குரலுக்கு செவிசாய்க்கவேண்டுமே தவிர, அடக்குமுறை கூடாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a434cdb.json))
-
-* **1** daily-mirror-lk ([Legendary Trotskyist Wije Dias no more](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28d27a2b.json))
-
-## Last 3 Hours (29 Articles)
-
-* **10** news-first-lk ([Over 100 cases & 5 deaths reported due to COVID-19](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc308dd6.json))
+* **8** news-first-lk ([US Ambassador meets Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b360292d.json))
 
 * **6** virakesari-lk ([அதிபர், ஆசிரியர்கள் எரிபொருள் பெற பொறிமுறையை உருவாக்குங்கள் - இலங்கைத் தமிழர் ஆசிரியர் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fbb4927.json))
 
-* **4** ada-derana-lk ([President to address parliament on Aug 03](https://github.com/nuuuwan/news_lk2/blob/data/articles/e0/e07f8542.json))
-
 * **4** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට එක්වෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77b93b4d.json))
+
+* **3** ada-derana-lk ([Covid: Five more deaths, 143 new cases added to total count](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad1fdd35.json))
 
 * **2** daily-mirror-lk ([Male body found in Galle Face beach](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43d7b3da.json))
 
@@ -42,9 +34,9 @@
 
 * **1** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (248 Articles)
 
-* **51** lankadeepa-lk ([දේශපාලුවෝ දෙවන පෑ තිස් රජුගේ බුලංකුලමත් විකුණති](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/987b1fc2.json))
+* **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
 * **39** virakesari-lk ([இலங்கை திரும்பியதும் கோத்தபாய ராஜபக்ச ஊழல் மற்றும் போர்க்குற்றம் தொடர்பான விசாரணைகளை எதிர்கொள்ளநேரிடும் - சர்வதேச  ஊடகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90797c35.json))
 
@@ -56,33 +48,33 @@
 
 * **21** ada-lk ([ජාතික ඉන්ධන බලපත්‍රයට මිලියන 4.4ක් ලියාපදිංචියි](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79c6e0c6.json))
 
-* **17** tamil-mirror-lk ([சிறைச்சாலையை தயார்ப்படுத்துங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/251558c1.json))
-
 * **16** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
 
-* **14** economy-next-com ([Sri Lanka raises Rs.50 bln via T-bonds](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/993e7b19.json))
+* **15** tamil-mirror-lk ([ரூ.1.78 கோடியை உடன் கையளிக்கவும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9b/9b959579.json))
+
+* **13** economy-next-com ([Sri Lanka president suspends parliament, new session on Aug 03](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/8441cd22.json))
 
 * **4** island-lk ([SLT-Mobitel to offer its underutilised properties to corporate sector on long term lease](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d3c24584.json))
 
-## Last Week (1,669 Articles)
+## Last Week (1,663 Articles)
 
 * **286** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
-* **282** lankadeepa-lk ([වජිර මැති සබයට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15cf3848.json))
+* **281** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
 * **183** ada-lk ([අලිය‍ගෙන් වජිරත් දියවන්නාවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7974d49.json))
 
-* **180** news-first-lk ([Wajira to fill Ranil’s vacancy](https://github.com/nuuuwan/news_lk2/blob/data/articles/27/279fc96c.json))
+* **179** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
-* **175** daily-mirror-lk ([Aragalaya President Wickremesinghe should have initiated dialogue with protesters - Mano Ganesan](https://github.com/nuuuwan/news_lk2/blob/data/articles/f1/f1beced0.json))
+* **173** daily-mirror-lk ([Cabinet discusses country to be normalized in one week](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d02d43d2.json))
 
-* **162** ada-derana-lk ([Vajira Abeywardena appointed to UNP’s vacant MP seat](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1c204522.json))
+* **161** ada-derana-lk ([US envoy meets President Ranil, raises concerns over violence against protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c0bf75f.json))
 
 * **153** tamil-mirror-lk ([பாராளுமன்ற உறுப்பினரானார் வஜிர அபேவர்தன](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a319628.json))
 
 * **78** daily-ft-lk ([Ranil becomes President, the Phoenix rises, again](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55af41f5.json))
 
-* **73** economy-next-com ([Sri Lanka t-bond yields further down ; rupee guidance peg up](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8a61049.json))
+* **72** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
 * **56** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
