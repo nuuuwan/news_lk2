@@ -1,24 +1,32 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 03:42:30 (LK time)*
+*As of 2022-07-30 03:57:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
+
+## Last Hour (1 Articles)
+
+* **1** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
+
+## Last 3 Hours (7 Articles)
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-* **1** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
+* **2** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
 * **1** economy-next-com ([Sri Lanka stocks gain for second session; ends month in green](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e989742.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (252 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
 * **45** virakesari-lk ([இலங்கை திரும்பியதும் கோத்தபாய ராஜபக்ச ஊழல் மற்றும் போர்க்குற்றம் தொடர்பான விசாரணைகளை எதிர்கொள்ளநேரிடும் - சர்வதேச  ஊடகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90797c35.json))
 
-* **35** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
+* **36** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
 
 * **34** news-first-lk ([Maldives President To Visit India Next Month](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13934605.json))
 
@@ -32,7 +40,7 @@
 
 * **12** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,668 Articles)
+## Last Week (1,669 Articles)
 
 * **292** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -42,7 +50,7 @@
 
 * **179** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
-* **168** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
+* **169** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
 * **168** daily-mirror-lk ([President appoints committee to probe allegation against Nimal Siripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a41ba700.json))
 
@@ -60,7 +68,7 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,301 Articles)
+## All Time (2,302 Articles)
 
 * **366** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -72,7 +80,7 @@
 
 * **192** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **186** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **187** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **175** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 

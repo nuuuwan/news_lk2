@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83969/money-found-inside-presidents-house-handed-over-to-court",
+    "time_ut": 1659132300,
+    "original_lang": "en",
+    "original_title": "Money found inside President\u2019s House handed over to court",
+    "file_name": "/tmp/news_lk2/articles/31/3177e56a.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83968/killing-of-mp-amarakeerthi-police-seek-public-assistance-to-identify-08-suspects",
     "time_ut": 1659127740,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "4 million vehicles register for Sri Lanka fuel pass ration: Minister",
     "file_name": "/tmp/news_lk2/articles/18/1831fc9b.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/4-million-vehicles-register-for-sri-lanka-fuel-rationing-system-minister-97897/",
-    "time_ut": 1658811900,
-    "original_lang": "en",
-    "original_title": "4 million vehicles register for Sri Lanka fuel rationing system: Minister",
-    "file_name": "/tmp/news_lk2/articles/5c/5c5e7548.json"
   }
 ]
