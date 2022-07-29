@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-10-\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf/101-617236",
+    "time_ut": 1659081576,
+    "original_lang": "si",
+    "original_title": "\u0dbb\u0da7\u0dda \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dc3\u0dd2\u0dba\u0dba\u0da7 10 \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/4a/4a06e23d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/China-says-its-loans-projects-boosted-SLs-economy/342-242024",
+    "time_ut": 1659081555,
+    "original_lang": "en",
+    "original_title": "China says its loans, projects boosted SL\u2019s economy",
+    "file_name": "/tmp/news_lk2/articles/fa/fa12a76b.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba8\u0bbf\u0ba4\u0bbf-\u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8-\u0b8e\u0ba9-\u0b89\u0bb2\u0b95-\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301327",
+    "time_ut": 1659081327,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0ba4\u0bbf \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9 \u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/7e/7ea59e54.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83947/ruwan-wijewardene-appointed-as-a-presidential-advisor",
     "time_ut": 1659081000,
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
     "file_name": "/tmp/news_lk2/articles/77/77684eeb.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-to-be-implemented-from-Aug-1-Minister/342-241750",
-    "time_ut": 1658744599,
-    "original_lang": "en",
-    "original_title": "National Fuel Pass QR code to be implemented from Aug. 1: Minister",
-    "file_name": "/tmp/news_lk2/articles/24/24e63204.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/National-Fuel-Pass-QR-code-will-implement-from-Aug-1-Minister/342-241750",
-    "time_ut": 1658744599,
-    "original_lang": "en",
-    "original_title": "National Fuel Pass QR code will implement from Aug. 1: Minister",
-    "file_name": "/tmp/news_lk2/articles/4d/4d766f37.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132232",
-    "time_ut": 1658744405,
-    "original_lang": "ta",
-    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95 \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb2\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0ba9 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/97/97a2618e.json"
   }
 ]
