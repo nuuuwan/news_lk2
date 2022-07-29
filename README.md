@@ -1,18 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 01:15:00 (LK time)*
+*As of 2022-07-30 01:24:34 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
-* **1** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
-
-* **1** daily-mirror-lk ([Tamil Parties  Must Urge  Full Implementation of 13A](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41b6a77.json))
-
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (21 Articles)
 
 * **8** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
 
@@ -20,9 +16,9 @@
 
 * **4** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db3c46f3.json))
 
-* **2** tamil-mirror-lk ([லிட்ரோ எரிவாயு வரிசைகள் முடிந்துவிட்டன](https://github.com/nuuuwan/news_lk2/blob/data/articles/8a/8a29bc79.json))
-
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
+
+* **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
 
 ## Last 24 Hours (250 Articles)
 
@@ -44,7 +40,7 @@
 
 * **11** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,660 Articles)
+## Last Week (1,659 Articles)
 
 * **289** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -54,7 +50,7 @@
 
 * **179** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
-* **169** daily-mirror-lk ([How Kumar Gunaratnam alias “Gemunu” Fought  against the Indian Army](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b1f86f78.json))
+* **168** daily-mirror-lk ([President appoints committee to probe allegation against Nimal Siripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a41ba700.json))
 
 * **167** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
