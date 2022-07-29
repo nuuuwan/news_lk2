@@ -1,11 +1,19 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83962/police-make-24-arrests-in-raids-against-fuel-hoarding",
+    "url": "http://www.adaderana.lk/news/83963/another-man-waiting-in-fuel-queue-dies-after-falling-ill",
+    "time_ut": 1659115860,
+    "original_lang": "en",
+    "original_title": "Another man waiting in fuel queue dies after falling ill",
+    "file_name": "/tmp/news_lk2/articles/de/de065a31.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83962/police-make-24-arrests-in-raids-to-crack-down-on-fuel-hoarding",
     "time_ut": 1659115140,
     "original_lang": "en",
-    "original_title": "Police make 24 arrests in raids against fuel hoarding",
-    "file_name": "/tmp/news_lk2/articles/5a/5a858bdc.json"
+    "original_title": "Police make 24 arrests in raids to crack down on fuel hoarding",
+    "file_name": "/tmp/news_lk2/articles/4a/4acec63d.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "President Has To Try Harder To Re-Establish A Legitimate Government",
     "file_name": "/tmp/news_lk2/articles/84/84a0b160.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0ddb\u0dbb-\u0dc3\u0dc4\u0d9c\u0dad-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-FB-\u0dc4\u0dbb\u0dc4\u0dcf-Comment-\u0d9a\u0dc5\u0dcf\u0da7-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dba\u0da7\u0dad\u0dda-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-395738",
-    "time_ut": 1658802803,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0ddb\u0dbb \u0dc3\u0dc4\u0d9c\u0dad \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 FB \u0dc4\u0dbb\u0dc4\u0dcf Comment \u0d9a\u0dc5\u0dcf\u0da7 \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dba\u0da7\u0dad\u0dda \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "file_name": "/tmp/news_lk2/articles/2c/2c042349.json"
   }
 ]
