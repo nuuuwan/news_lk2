@@ -10,7 +10,7 @@
       "author": "unknown",
       "body_lines": [
         "The Indian government said citing data reports that Yuan Wang 5, a Chinese research ship engaged in space and satellite observation activities, is scheduled to reach Sri Lanka's Hambantota port on August 11.",
-        "Mr. Arindam Bagchi, spokesperson of the Ministry of External Affairs of India, said that the Government of India monitors any incident affecting India's security and economy very carefully and will take all necessary measures to ensure India's security in such an incident.",
+        "Mr. Arindam Bagchi, the spokesperson of the Ministry of External Affairs of India, said that the Indian government monitors any incident affecting India's security and economy very carefully and will take all necessary measures to ensure India's security in such an incident.",
         "Citing sources, Reuters reported that the Indian diplomats in Colombo have expressed their protest verbally to the Ministry of Foreign Affairs of Sri Lanka against the arrival of the Yuan Wang 5 ship to Sri Lanka.",
         "When 'The Hindu' newspaper made an inquiry to the Ministry of Defense of Sri Lanka, the newspaper reported that a spokesperson of the Ministry of Defense said that there is no confirmation that the Yuan Wang 5 will arrive at Hambantota port."
       ],
@@ -65,8 +65,8 @@
             "label": "GPE"
           },
           {
-            "text": "India",
-            "label": "GPE"
+            "text": "Indian",
+            "label": "NORP"
           },
           {
             "text": "India",
@@ -179,8 +179,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
-            "label": "GPE"
+            "text": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba",
+            "label": "NORP"
           },
           {
             "text": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
@@ -293,8 +293,8 @@
             "label": "GPE"
           },
           {
-            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-            "label": "GPE"
+            "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "NORP"
           },
           {
             "text": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
