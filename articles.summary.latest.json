@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Over-6mn-people-over-20-years-of-age-havent-received-booster-vaccines-Dr-Ginige/342-242021",
+    "time_ut": 1659070024,
+    "original_lang": "en",
+    "original_title": "Over 6mn people over 20 years of age haven\u2019t received booster vaccines: Dr. Ginige",
+    "file_name": "/tmp/news_lk2/articles/ad/ade9da1c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132444",
+    "time_ut": 1659069867,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf, \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a7/a7fc6a4c.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dd9\u0db1\u0dca-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2-\u0d89\u0dc3\u0dca\u0dc3\u0dd6-\u0dc3\u0dd4\u0db4\u0dc0\u0dda\u0daf\u0dd2\u0dba\u0dcf-\u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4/101-617217",
+    "time_ut": 1659069692,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dd9\u0db1\u0dca \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0db1\u0dd2 \u0d89\u0dc3\u0dca\u0dc3\u0dd6 \u0dc3\u0dd4\u0db4\u0dc0\u0dda\u0daf\u0dd2\u0dba\u0dcf \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "file_name": "/tmp/news_lk2/articles/4c/4c1733b7.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d8b\u0da9\u0dbb\u0da7-\u0db8\u0dc4\u0dcf-\u0db8\u0d82\u0d9c\u0dbd\u0dca\u200d\u0dba\u0dba\u0da7-\u0db8\u0dd4\u0dbd-\u0db4\u0dd4\u0dbb\u0dba\u0dd2/101-617216",
+    "time_ut": 1659069644,
+    "original_lang": "si",
+    "original_title": "\u0d8b\u0da9\u0dbb\u0da7 \u0db8\u0dc4\u0dcf \u0db8\u0d82\u0d9c\u0dbd\u0dca\u200d\u0dba\u0dba\u0da7 \u0db8\u0dd4\u0dbd \u0db4\u0dd4\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/37/37229a89.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/kimbula-ele-guna-s-associates-arrested-with-kg-heroin/",
+    "time_ut": 1659069540,
+    "original_lang": "en",
+    "original_title": "Kimbula-Ele Guna\u2019s associates arrested with KG, Heroin",
+    "file_name": "/tmp/news_lk2/articles/14/14ccea98.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/342-242020",
     "time_ut": 1659069275,
     "original_lang": "en",
@@ -46,6 +86,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bae\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9c\u0bbf.\u0b8e\u0bb2\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
     "file_name": "/tmp/news_lk2/articles/55/55fee8a9.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/maldives-president-to-visit-india-next-month/",
+    "time_ut": 1659067860,
+    "original_lang": "en",
+    "original_title": "Maldives President To Visit India Next Month",
+    "file_name": "/tmp/news_lk2/articles/13/13934605.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -1505,11 +1553,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top-story-sports-1/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/324-241959",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Jayasuriya-Mendis-bowl-Sri-Lanka-to-improbable-win/326-241959",
     "time_ut": 1658996807,
     "original_lang": "en",
     "original_title": "Jayasuriya, Mendis bowl Sri Lanka to improbable win",
-    "file_name": "/tmp/news_lk2/articles/d5/d5856348.json"
+    "file_name": "/tmp/news_lk2/articles/74/740a504a.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd2\u0db1 11\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0dba\u0dd2- \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dad\u0dca \u0db1\u0dd4\u0daf\u0dd4\u0dbb\u0dda\u0daf\u0dd3\u0db8 \u0d91\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/1e/1ebba7a9.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132210",
-    "time_ut": 1658732518,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3 \u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0bb3 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/4e/4e6301d2.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132217",
-    "time_ut": 1658732405,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bb2\u0bcd \u0bb5\u0bb4\u0bbf\u0baf\u0bc7 \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0baa\u0bcb\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "file_name": "/tmp/news_lk2/articles/70/708b29d9.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dd9\u0dbd\u0dca-\u0d9c\u0db1\u0dca\u0db1-\u0d87\u0dc0\u0dd2\u0dad\u0dca-\u0d86\u0dab\u0db8\u0da9\u0dd4\u0dc0-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca/1-616991",
-    "time_ut": 1658732106,
-    "original_lang": "si",
-    "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1 \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0d86\u0dab\u0db8\u0da9\u0dd4\u0dc0 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/8f/8fdf334e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/droupadi-murmu-takes-oath-as-india-s-15th-president/",
-    "time_ut": 1658731920,
-    "original_lang": "en",
-    "original_title": "Droupadi Murmu takes oath as India\u2019s 15th President",
-    "file_name": "/tmp/news_lk2/articles/33/33be281e.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-301070",
-    "time_ut": 1658731679,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u200b\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/3c/3cab5151.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/T-56-firearm-stolen-by-protestors-during-recent-unrest-found-in-Diyawanna-Lake/342-241743",
-    "time_ut": 1658731095,
-    "original_lang": "en",
-    "original_title": "T-56 firearm stolen by protestors during recent unrest found in Diyawanna Lake",
-    "file_name": "/tmp/news_lk2/articles/a8/a8068959.json"
   }
 ]
