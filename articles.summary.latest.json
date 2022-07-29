@@ -1,11 +1,51 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0dc4\u0dd2\u0dc3-\u0d94\u0dc3\u0dc0\u0dba\u0dd2/1-617253",
+    "time_ut": 1659099374,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0dc4\u0dd2\u0dc3 \u0d94\u0dc3\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/5a/5ade89ef.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/us-provides-over-usd-1mn-to-combat-human-trafficking-in-sl/",
+    "time_ut": 1659099060,
+    "original_lang": "en",
+    "original_title": "US provides over USD 1Mn to combat human trafficking in SL",
+    "file_name": "/tmp/news_lk2/articles/df/df64270f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/3-hr-power-cuts-for-30th-31st-july/",
+    "time_ut": 1659098880,
+    "original_lang": "en",
+    "original_title": "3-hr power cuts for 30th & 31st July",
+    "file_name": "/tmp/news_lk2/articles/41/411bc9a3.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83955/sri-lankas-ncpi-based-inflation-rises-to-589-in-june",
     "time_ut": 1659098340,
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s NCPI-based inflation rises to 58.9% in June",
     "file_name": "/tmp/news_lk2/articles/23/230ec1d9.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-says-talks-with-imf-resumed-debt-advisors-doing-analysis-98025/",
+    "time_ut": 1659098340,
+    "original_lang": "en",
+    "original_title": "Sri Lanka says talks with IMF resumed, debt advisors doing analysis",
+    "file_name": "/tmp/news_lk2/articles/b0/b0dc2a04.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83955/ccpi-based-headline-inflation-hits-608-in-july",
+    "time_ut": 1659098340,
+    "original_lang": "en",
+    "original_title": "CCPI-based headline inflation hits 60.8% in July",
+    "file_name": "/tmp/news_lk2/articles/fa/faa4dbb0.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -166,6 +206,14 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dd9\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd6 \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0db7\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/7f/7f3f9e82.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-busts-postal-meth-smuggling-racket-98022/",
+    "time_ut": 1659093180,
+    "original_lang": "en",
+    "original_title": "Sri Lanka busts postal meth smuggling racket",
+    "file_name": "/tmp/news_lk2/articles/0c/0c6200ba.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7950,53 +7998,5 @@
     "original_lang": "en",
     "original_title": "People\u2019s Bank rewards April millionaire of \u201cVaasi Kotiyai\u201d remittance bonanza in Kuwait",
     "file_name": "/tmp/news_lk2/articles/1b/1bee48d1.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/january-to-june-2022-tea-income-records-a-hike-of-28-per-cent-over-same-period-last-year/",
-    "time_ut": 1658767800,
-    "original_lang": "en",
-    "original_title": "January to June 2022 tea income records a hike of 28 per cent over same period last year",
-    "file_name": "/tmp/news_lk2/articles/94/94f56221.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/anticipated-global-recession-dampens-local-share-market-indices-down/",
-    "time_ut": 1658767800,
-    "original_lang": "en",
-    "original_title": "Anticipated global recession dampens local share market; indices down",
-    "file_name": "/tmp/news_lk2/articles/ce/ce57d7c3.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab-\u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca-\u0dc4\u0db3\u0dd4\u0db1\u0dcf-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-395735",
-    "time_ut": 1658766824,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db4\u0dcf\u0db1\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab \u0dbb\u0ddd\u0d9c\u0dd2\u0dba\u0dd9\u0d9a\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/bd/bd26b515.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7-\u0dc4\u0dcf-\u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0d82\u0dc1\u0dba\u0dda-\u0d89\u0dc4\u0dc5-\u0db4\u0dd4\u0da7\u0dd4/11-395734",
-    "time_ut": 1658766015,
-    "original_lang": "si",
-    "original_title": "\u0db0\u0db1\u0dd4\u0dc2\u0dca\u0d9a\u0da7 \u0dc4\u0dcf \u0dc1\u0dcf\u0db1\u0dd4\u0d9a\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d85\u0d82\u0dc1\u0dba\u0dda \u0d89\u0dc4\u0dc5 \u0db4\u0dd4\u0da7\u0dd4",
-    "file_name": "/tmp/news_lk2/articles/62/62cba83f.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca-\u0dc4\u0dc3\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/1-617026",
-    "time_ut": 1658765780,
-    "original_lang": "si",
-    "original_title": "\u0db6\u0dab\u0dca\u0da9\u0dcf\u0dbb\u0d9c\u0db8\u0dd2\u0db1\u0dd4\u0dad\u0dca \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc0\u0d82\u0da0\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0dc3\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/10/10d5bcfa.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132258",
-    "time_ut": 1658765416,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc6\u0bbe\u0ba4\u0bc1\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u00a0 - \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb7\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0baf",
-    "file_name": "/tmp/news_lk2/articles/b3/b3401807.json"
   }
 ]
