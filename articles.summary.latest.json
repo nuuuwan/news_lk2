@@ -1,11 +1,75 @@
 [
   {
     "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddd\u0da7\u0dd2-3\u0d9a-\u0db8\u0dad\u0dca\u0db4\u0dd9\u0dad\u0dd2-\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-617243",
+    "time_ut": 1659091355,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddd\u0da7\u0dd2 3\u0d9a \u0db8\u0dad\u0dca\u0db4\u0dd9\u0dad\u0dd2 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/ac/aca9d3bf.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/strict-measures-on-private-buses/",
+    "time_ut": 1659091140,
+    "original_lang": "en",
+    "original_title": "Strict measures on private buses",
+    "file_name": "/tmp/news_lk2/articles/be/be5624a5.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83950/new-public-school-bus-service-operative-from-aug",
+    "time_ut": 1659090720,
+    "original_lang": "en",
+    "original_title": "New public school bus service operative from Aug",
+    "file_name": "/tmp/news_lk2/articles/3e/3e9eebfb.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/futa-condemns-the-repression-of-aragalaya-activists/",
+    "time_ut": 1659090660,
+    "original_lang": "en",
+    "original_title": "FUTA condemns the repression of aragalaya activists",
+    "file_name": "/tmp/news_lk2/articles/09/092a5c12.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd-\u0b95\u0bca\u0bb2\u0bc8/175-301334",
+    "time_ut": 1659090550,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/a2/a26286b7.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/pathum-kerner-remanded-to-4th-august/",
+    "time_ut": 1659090480,
+    "original_lang": "en",
+    "original_title": "Pathum Kerner remanded to 4th August",
+    "file_name": "/tmp/news_lk2/articles/b1/b198e99f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca-\u0d9a\u0dbb\u0dca\u0db1\u0dbd\u0dca-4\u0dad\u0dd9\u0d9a\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-617242",
     "time_ut": 1659090345,
     "original_lang": "si",
     "original_title": "\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca \u0d9a\u0dbb\u0dca\u0db1\u0dbd\u0dca 4\u0dad\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
     "file_name": "/tmp/news_lk2/articles/e1/e13bef47.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/ccpi-inflation-climbs-to-60-8/",
+    "time_ut": 1659090180,
+    "original_lang": "en",
+    "original_title": "CCPI inflation climbs to 60.8%",
+    "file_name": "/tmp/news_lk2/articles/56/56721851.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Omicron-sub-variant-most-contagious-immune-evasive-Medical-expert-warns/108-242035",
+    "time_ut": 1659090131,
+    "original_lang": "en",
+    "original_title": "New Omicron sub-variant most contagious, immune-evasive: Medical expert warns",
+    "file_name": "/tmp/news_lk2/articles/76/76dff0a1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -22,6 +86,14 @@
     "original_lang": "si",
     "original_title": "\u0dc3\u0dd4\u0dc0 \u0dc3\u0dd0\u0dbb\u0dd2\u0dba\u0da7 \u0dc0\u0dc3\u0dbb \u0dc4\u0dba\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/e1/e17349bf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-MP-Dr-Harsha-de-Silva-stresses-need-for-all-party-government/108-242033",
+    "time_ut": 1659088964,
+    "original_lang": "en",
+    "original_title": "SJB MP Dr. Harsha de Silva stresses need for all party government",
+    "file_name": "/tmp/news_lk2/articles/1c/1c353f0b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -104,12 +176,36 @@
     "file_name": "/tmp/news_lk2/articles/1d/1de8537e.json"
   },
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-against-suppression/342-242031",
+    "time_ut": 1659087081,
+    "original_lang": "en",
+    "original_title": "Protest against suppression...",
+    "file_name": "/tmp/news_lk2/articles/fd/fde515d5.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Liberal-Fellowship-withdraws-from-Galle-Face-Protest/342-242030",
+    "time_ut": 1659086658,
+    "original_lang": "en",
+    "original_title": "Liberal Fellowship withdraws from Galle Face Protest",
+    "file_name": "/tmp/news_lk2/articles/09/0992d2b1.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132488",
     "time_ut": 1659086624,
     "original_lang": "ta",
     "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
     "file_name": "/tmp/news_lk2/articles/35/35121e91.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Cases-against-Gota-should-resume-after-his-return-JVP/342-242029",
+    "time_ut": 1659086432,
+    "original_lang": "en",
+    "original_title": "Cases against Gota should resume after his return: JVP",
+    "file_name": "/tmp/news_lk2/articles/16/16cc6c1c.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7902,101 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8",
     "file_name": "/tmp/news_lk2/articles/96/966758a5.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Ven-Elle-Gunawansa-Thera-blesses-PM/110-241755",
-    "time_ut": 1658751301,
-    "original_lang": "en",
-    "original_title": "Ven. Elle Gunawansa Thera blesses PM",
-    "file_name": "/tmp/news_lk2/articles/06/06cad778.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/PM-meets-received-blessings/342-241755",
-    "time_ut": 1658751301,
-    "original_lang": "en",
-    "original_title": "PM meets received blessings",
-    "file_name": "/tmp/news_lk2/articles/e7/e7aa3712.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/t-56-assault-rifle-stolen-during-protest-found-in-diyawanna-oya/",
-    "time_ut": 1658751060,
-    "original_lang": "en",
-    "original_title": "T-56 Assault Rifle stolen during protest, found in Diyawanna Oya",
-    "file_name": "/tmp/news_lk2/articles/12/12a0459f.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/IMF-staff-level-agreement-delayed-due-to-unrest-by-protesters/108-241754",
-    "time_ut": 1658750856,
-    "original_lang": "en",
-    "original_title": "IMF staff level agreement delayed due to unrest by protesters",
-    "file_name": "/tmp/news_lk2/articles/0d/0d66108a.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0ddc\u0dbb-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0dc0\u0dd2-\u0d9a\u0dc5-\u0dc0\u0dd1\u0db1\u0dca-\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/1-617019",
-    "time_ut": 1658750445,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0ddc\u0dbb \u0d89\u0db1\u0dca\u0db0\u0db1 \u0da7\u0dd0\u0d82\u0d9a\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dc0\u0dd2 \u0d9a\u0dc5 \u0dc0\u0dd1\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b8/b8273562.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0dab\u0dd3\u0dba\u0da7-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0daf\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca/1-617018",
-    "time_ut": 1658750023,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0dbb\u0dd6\u0db4\u0dc0\u0dcf\u0dc4\u0dd2\u0dab\u0dd3\u0dba\u0da7 \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0daf\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/03/034d650f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83864/fuel-imports-have-to-be-restricted-in-next-12-months-due-to-forex-issues-minister",
-    "time_ut": 1658749440,
-    "original_lang": "en",
-    "original_title": "Fuel imports have to be restricted in next 12 months due to forex issues - Minister",
-    "file_name": "/tmp/news_lk2/articles/86/86afdea7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-301098",
-    "time_ut": 1658749395,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/b2/b2e7cc57.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc1-\u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-301098",
-    "time_ut": 1658749395,
-    "original_lang": "ta",
-    "original_title": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/c4/c4ac2a94.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/fuel-imports-to-be-restricted-in-the-next-12-months/",
-    "time_ut": 1658749260,
-    "original_lang": "en",
-    "original_title": "Fuel imports to be restricted in the next 12 months",
-    "file_name": "/tmp/news_lk2/articles/ab/ab32c8b2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3-\u0dad\u0db1\u0dad\u0dd4\u0dbb\u0da7-\u0dc3\u0dcf\u0d9c\u0dbd-\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2/1-617016",
-    "time_ut": 1658749097,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0db8\u0dab\u0dca\u0da9\u0dbd \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dd3 \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0da7 \u0dc3\u0dcf\u0d9c\u0dbd \u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/46/465fc588.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc5\u0d9f-\u0dad\u0db6\u0dcf\u0d9c\u0dad\u0dca\u0dad\u0dd0\u0dba\u0dd2-\u0d87\u0dbd\u0dca\u0dbd\u0dd6-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf-\u0db1\u0dd2\u0daf\u0ddc\u0dc3\u0dca-\u0d9a\u0dbb-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca/1-617015",
-    "time_ut": 1658748942,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc5\u0d9f \u0dad\u0db6\u0dcf\u0d9c\u0dad\u0dca\u0dad\u0dd0\u0dba\u0dd2 \u0d87\u0dbd\u0dca\u0dbd\u0dd6 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dcf \u0db1\u0dd2\u0daf\u0ddc\u0dc3\u0dca \u0d9a\u0dbb \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7e/7ed12287.json"
   }
 ]
