@@ -1,16 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 00:33:53 (LK time)*
+*As of 2022-07-30 00:46:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (5 Articles)
-
-* **3** daily-mirror-lk ([Climate action for most vulnerable people](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7684960.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
 
-* **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
+* **1** daily-mirror-lk ([Tamil Parties  Must Urge  Full Implementation of 13A](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41b6a77.json))
 
 ## Last Hour (8 Articles)
 
@@ -20,7 +18,7 @@
 
 * **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
 
-## Last 3 Hours (25 Articles)
+## Last 3 Hours (24 Articles)
 
 * **8** ada-derana-lk ([India monitoring reports of Chinese vessel’s planned visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/006086cd.json))
 
@@ -32,9 +30,7 @@
 
 * **1** lankadeepa-lk ([ගාලුමුවදොර වෙරළට නාඳුනන මළ සිරුරක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/86/86fbc6e9.json))
 
-* **1** virakesari-lk ([மக்களின் குரலுக்கு செவிசாய்க்கவேண்டுமே தவிர, அடக்குமுறை கூடாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a434cdb.json))
-
-## Last 24 Hours (256 Articles)
+## Last 24 Hours (254 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -46,7 +42,7 @@
 
 * **30** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
-* **24** daily-ft-lk ([All-party government: Reality and alternatives](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c259215.json))
+* **22** daily-ft-lk ([Debt restructuring will not succeed unless](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc3af9fd.json))
 
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
 
@@ -54,7 +50,7 @@
 
 * **10** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,664 Articles)
+## Last Week (1,661 Articles)
 
 * **288** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -64,13 +60,13 @@
 
 * **179** news-first-lk ([EU takes Hard-Line with Lankan Govt, After Attack on Peaceful Protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c878c94d.json))
 
-* **173** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
+* **171** daily-mirror-lk ([Human trafficking a crime against humanity](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72754f8e.json))
 
 * **167** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
 * **153** tamil-mirror-lk ([ரணிலை சந்தித்தார் ஜூலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fa7eaff.json))
 
-* **73** daily-ft-lk ([MOVEMENT OF NCPI BASED INFLATION](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d34d29af.json))
+* **72** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
 * **72** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
