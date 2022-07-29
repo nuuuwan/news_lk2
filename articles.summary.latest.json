@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Pilot-program-to-allocate-bicycle-lanes-for-users-from-today-in-Colombo/342-242020",
+    "time_ut": 1659069275,
+    "original_lang": "en",
+    "original_title": "Pilot program to allocate bicycle lanes for users from today in Colombo",
+    "file_name": "/tmp/news_lk2/articles/31/31a3e842.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132442",
+    "time_ut": 1659069244,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/48/48d8e30e.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/4-479-376-users-registered-for-fuel-pass-at-826-fuel-stations-Ministry/342-242019",
+    "time_ut": 1659069028,
+    "original_lang": "en",
+    "original_title": "4,479,376 users registered for fuel pass at 826 fuel stations: Ministry",
+    "file_name": "/tmp/news_lk2/articles/84/8482c590.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83942/us-ambassador-calls-on-pm-dinesh",
+    "time_ut": 1659068880,
+    "original_lang": "en",
+    "original_title": "U.S. ambassador calls on PM Dinesh",
+    "file_name": "/tmp/news_lk2/articles/f8/f841ef68.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132440",
+    "time_ut": 1659068612,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc6\u0b95\u0bc1\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0b9f\u0bb2\u0bb8\u0bcd \u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae",
+    "file_name": "/tmp/news_lk2/articles/00/00c18d54.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132438",
+    "time_ut": 1659067895,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bae\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9c\u0bc6\u0ba9\u0bbf\u0bb5\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b9c\u0bbf.\u0b8e\u0bb2\u0bcd \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/55/55fee8a9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132436",
+    "time_ut": 1659067455,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/1e/1e876136.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8-\u0b9a\u0bcb\u0bb7\u0bb2\u0bbf\u0b9a-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8/175-301323",
     "time_ut": 1659067389,
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "T-56 firearm stolen by protestors during recent unrest found in Diyawanna Lake",
     "file_name": "/tmp/news_lk2/articles/a8/a8068959.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-shares-slip-in-mid-day-trade-97878/",
-    "time_ut": 1658731080,
-    "original_lang": "en",
-    "original_title": "Sri Lanka shares slip in mid-day trade",
-    "file_name": "/tmp/news_lk2/articles/d5/d5ef0d10.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132213",
-    "time_ut": 1658730905,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b92\u0baa\u0bcd\u0baa\u0bae\u0bbf\u0b9f\u0bc1\u0bb5\u0bcb\u0bae\u0bcd ! \u0b89\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0b89\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0ba9\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 !!",
-    "file_name": "/tmp/news_lk2/articles/46/46cfce6d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db1\u0dcf\u0dba\u0d9a-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca/1-616990",
-    "time_ut": 1658730571,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db1\u0dcf\u0dba\u0d9a \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/91/911f6f96.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd6-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0db1\u0dbd-\u0db4\u0dcf\u0dbd\u0db8-\u0d85\u0dc3\u0dbd\u0dd2\u0db1\u0dca-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-616989",
-    "time_ut": 1658730451,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd6 \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0db1\u0dbd \u0db4\u0dcf\u0dbd\u0db8 \u0d85\u0dc3\u0dbd\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/1c/1c61bd72.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca-\u0db1\u0dd0\u0dad\u0dd2-\u0dc0\u0dd6-\u0d9c\u0dd2\u0db1\u0dd2-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc3\u0db8\u0db1\u0dbd-\u0db4\u0dcf\u0dbd\u0db8-\u0d85\u0dc3\u0dbd-\u0dc4\u0db8\u0dd4-\u0dc0\u0dd9\u0dba\u0dd2/101-616989",
-    "time_ut": 1658730451,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0dbd\u0dca\u0daf\u0dd6\u0dc0\u0dd9\u0db1\u0dca \u0db1\u0dd0\u0dad\u0dd2 \u0dc0\u0dd6 \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0db1\u0dbd \u0db4\u0dcf\u0dbd\u0db8 \u0d85\u0dc3\u0dbd \u0dc4\u0db8\u0dd4 \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a2/a2d03e48.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0dc0\u0dd0\u0da9-\u0d85\u0dbb\u0db9\u0dba\u0dd2/1-616988",
-    "time_ut": 1658730097,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0dc0\u0dd0\u0da9 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b3/b3645df5.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132212",
-    "time_ut": 1658729835,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0b95\u0bbe\u0bb2 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc7 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd  \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc8 \u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/75/753401df.json"
   }
 ]
