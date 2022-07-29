@@ -1,5 +1,69 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0baf\u0ba4\u0bc1-\u0baa\u0bcd\u0bb3\u0b95\u0bcd-\u0b95\u0bc6\u0baa\u0bcd/175-301322",
+    "time_ut": 1659064637,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u2018\u0baa\u0bcd\u0bb3\u0b95\u0bcd \u0b95\u0bc6\u0baa\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/72/72429cad.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132433",
+    "time_ut": 1659064411,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a \u0b8a\u0bb4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0ba8\u0bc7\u0bb0\u0bbf\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a  \u0b8a\u0b9f\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/90/90797c35.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Young-woman-died-and-her-sister-injured-in-train-mishap-in-Wellawatta/342-242016",
+    "time_ut": 1659063960,
+    "original_lang": "en",
+    "original_title": "Young woman died and her sister injured in train mishap in Wellawatta",
+    "file_name": "/tmp/news_lk2/articles/6f/6ffe6a7a.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0baf\u0bc2-\u0b86\u0bb0\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301321",
+    "time_ut": 1659063353,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbf\u0baf\u0bc2.\u0b86\u0bb0\u0bcd. \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5f/5f2c4cd9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf-\u0d87\u0dc5\u0dda-\u0d9c\u0dd4\u0dab\u0dcf\u0d9c\u0dda-\u0d9c\u0ddd\u0dbd\u0dba\u0ddd-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0daf\u0dd0\u0dbd\u0dda/101-617213",
+    "time_ut": 1659062977,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dd2\u0db9\u0dd4\u0dbd\u0dcf \u0d87\u0dc5\u0dda \u0d9c\u0dd4\u0dab\u0dcf\u0d9c\u0dda \u0d9c\u0ddd\u0dbd\u0dba\u0ddd \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0daf\u0dd0\u0dbd\u0dda",
+    "file_name": "/tmp/news_lk2/articles/22/22db772a.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0dca-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d9c\u0db8\u0da7-\u0dc0\u0dc0\u0dd4\u0da0\u0dbb\u0dca-\u0db6\u0dd9\u0daf\u0dbd\u0dcf/101-617212",
+    "time_ut": 1659062671,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dad\u0dca \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d9c\u0db8\u0da7 \u0dc0\u0dc0\u0dd4\u0da0\u0dbb\u0dca \u0db6\u0dd9\u0daf\u0dbd\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/8e/8ec0f26e.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0-\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0baa\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7\u0b95-\u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc8/175-301320",
+    "time_ut": 1659062046,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7\u0b95 \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/bd/bd742ec1.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dc4\u0dba\u0d9a\u0da7-\u0dc3\u0dc0\u0dc3-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3/101-617211",
+    "time_ut": 1659061739,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc4\u0dba\u0d9a\u0da7 \u0dc3\u0dc0\u0dc3 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
+    "file_name": "/tmp/news_lk2/articles/4c/4cf445f7.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/latest_news/Govt-initiates-talks-for-all-party-govt/342-242014",
     "time_ut": 1659061186,
@@ -182,6 +246,22 @@
     "original_lang": "en",
     "original_title": "All-party government: Reality and alternatives",
     "file_name": "/tmp/news_lk2/articles/7c/7c259215.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/CB-issues-guidelines-to-non-bank-borrowerson-loan-concessions/273-241988",
+    "time_ut": 1659034455,
+    "original_lang": "en",
+    "original_title": "CB issues guidelines to non-bank borrowers\u00a0on loan concessions",
+    "file_name": "/tmp/news_lk2/articles/c4/c46a78f8.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/SriLankan-Airlinesbond-rated-at-C-despite-interest-payment/273-241985",
+    "time_ut": 1659034257,
+    "original_lang": "en",
+    "original_title": "SriLankan Airlines\u2019\u00a0bond rated at \u2018C\u2019 despite interest payment",
+    "file_name": "/tmp/news_lk2/articles/8c/8c8b615c.json"
   },
   {
     "newspaper_id": "economy-next-com",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "July 25, designated as Dengue Eradication Day",
     "file_name": "/tmp/news_lk2/articles/d8/d85624cc.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bae\u0bc8\u0b95\u0bb3\u0bc8-\u0b8f\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd/175-301064",
-    "time_ut": 1658727922,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0b9f\u0bae\u0bc8\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/74/74e759e5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301063",
-    "time_ut": 1658727627,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/33/33dd7ad3.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83857/droupadi-murmu-takes-oath-as-15th-president-of-india",
-    "time_ut": 1658727420,
-    "original_lang": "en",
-    "original_title": "Droupadi Murmu takes oath as 15th President of India",
-    "file_name": "/tmp/news_lk2/articles/e4/e4afbbe4.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/7000-mt-of-fuel-to-be-delivered-today-25/",
-    "time_ut": 1658727240,
-    "original_lang": "en",
-    "original_title": "7,000 MT of fuel to be delivered today (25)",
-    "file_name": "/tmp/news_lk2/articles/91/916f2783.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd-\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf/\u0ba8\u0bbe\u0bb5\u0bc1\u0bb2-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc7\u0ba4\u0bae\u0bcd/94-301060",
-    "time_ut": 1658726708,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0bb5\u0bc1\u0bb2 \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd ; \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/8d/8dc2e456.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Travel-ban-on-Cabraal-further-extended-till-October-26/108-241739",
-    "time_ut": 1658726592,
-    "original_lang": "en",
-    "original_title": "Travel ban on Cabraal further extended till October 26",
-    "file_name": "/tmp/news_lk2/articles/4b/4bdb4410.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301058",
-    "time_ut": 1658726127,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0baa\u0bcd\u0bb0\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8 \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/f3/f35de8a7.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/25/private-buses-to-cater-to-school-students-today-25/",
-    "time_ut": 1658726040,
-    "original_lang": "en",
-    "original_title": "Private Buses to cater to school students today (25)",
-    "file_name": "/tmp/news_lk2/articles/36/3612d85a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d9c\u0db8\u0db1\u0dca-\u0dad\u0dc4\u0db1\u0db8-\u0daf\u0dd2\u0dbb\u0dca\u0d9d\u00a0\u0d9a\u0dbb\u0dba\u0dd2/11-395714",
-    "time_ut": 1658725944,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dad\u0dc4\u0db1\u0db8 \u0daf\u0dd2\u0dbb\u0dca\u0d9d\u00a0\u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/38/38e5c39d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132200",
-    "time_ut": 1658725767,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 3 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/0e/0e147ee7.json"
   }
 ]
