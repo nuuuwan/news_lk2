@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/chinese-research-vessel-to-hambantota/",
+    "time_ut": 1659103020,
+    "original_lang": "en",
+    "original_title": "Chinese Research Vessel to Hambantota?",
+    "file_name": "/tmp/news_lk2/articles/bf/bff7ef15.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/over-100-cases-5-deaths-reported-due-to-covid-19/",
+    "time_ut": 1659102900,
+    "original_lang": "en",
+    "original_title": "Over 100 cases & 5 deaths reported due to COVID-19",
+    "file_name": "/tmp/news_lk2/articles/dc/dc308dd6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83958/president-to-address-parliament-on-aug-03",
+    "time_ut": 1659102840,
+    "original_lang": "en",
+    "original_title": "President to address parliament on Aug 03",
+    "file_name": "/tmp/news_lk2/articles/e0/e07f8542.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132518",
+    "time_ut": 1659102005,
+    "original_lang": "ta",
+    "original_title": "2,973 \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bc1\u0b99\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/88/88adf5aa.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-inflation-tops-60-pct-in-july-2022-after-money-printing-98028/",
+    "time_ut": 1659101940,
+    "original_lang": "en",
+    "original_title": "Sri Lanka inflation tops 60-pct in July 2022 after money printing",
+    "file_name": "/tmp/news_lk2/articles/c4/c4943f34.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Negotiations-between-Govt-and-IMF-highly-successful-PMD/108-242037",
+    "time_ut": 1659101916,
+    "original_lang": "en",
+    "original_title": "Negotiations between Govt. and IMF highly successful-PMD",
+    "file_name": "/tmp/news_lk2/articles/f5/f5e739f3.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca/1-617257",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd-\u0d9c\u0dd1\u0dc3\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d85\u0dc0\u0dc3\u0db1\u0dca/101-617257",
     "time_ut": 1659101694,
     "original_lang": "si",
     "original_title": "\u0dbd\u0dd2\u0da7\u0dca\u200d\u0dbb\u0ddd \u0d9c\u0dd1\u0dc3\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d85\u0dc0\u0dc3\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/29/29ba2c39.json"
+    "file_name": "/tmp/news_lk2/articles/25/2501c635.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -49,11 +97,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dd9\u0dbb-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0ddd\u0dc2\u0dca\u200d\u0dba\u0daf\u0dcf\u0dba\u0dd3-\u0d86\u0dc4\u0dcf\u0dbb-\u200d\u0dc0\u0dda\u0dbd\u0d9a\u0dca/1-617254",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dd9\u0dbb-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7-\u0db4\u0ddd\u0dc2\u0dca\u200d\u0dba\u0daf\u0dcf\u0dba\u0dd3-\u0d86\u0dc4\u0dcf\u0dbb-\u200d\u0dc0\u0dda\u0dbd\u0d9a\u0dca/101-617254",
     "time_ut": 1659099676,
     "original_lang": "si",
     "original_title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dd9\u0dbb \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7 \u0db4\u0ddd\u0dc2\u0dca\u200d\u0dba\u0daf\u0dcf\u0dba\u0dd3 \u0d86\u0dc4\u0dcf\u0dbb \u200d\u0dc0\u0dda\u0dbd\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/83/83fb629e.json"
+    "file_name": "/tmp/news_lk2/articles/54/54fa1c47.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -126,6 +174,14 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0dbd\u0dd4\u0dad\u0dca\u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dcf \u0d9a\u0dc5 \u0dbd\u0d82\u0d9c\u0db8 \u0db6\u0dc3\u0dca 800\u0d9a\u0dca \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dc3\u0dd2\u0da7 \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dda",
     "file_name": "/tmp/news_lk2/articles/64/64f83e07.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dbd\u0d82\u0d9c\u0db8-\u0db6\u0dc3\u0dca-800\u0d9a\u0da7-\u0d86\u0dba\u0dd9\u0dad\u0dca-\u0db4\u0dab-\u0daf\u0dd9\u0dba\u0dd2/101-617252",
+    "time_ut": 1659097884,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9c\u0db8 \u0db6\u0dc3\u0dca 800\u0d9a\u0da7 \u0d86\u0dba\u0dd9\u0dad\u0dca \u0db4\u0dab \u0daf\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/44/448e1e13.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -649,11 +705,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Ruwan-Wijewardena-appointed-Presidential-Advisor-on-Climate-Change/108-242027",
+    "url": "https://www.dailymirror.lk/latest_news/Ruwan-Wijewardena-appointed-Presidential-Advisor-on-Climate-Change/342-242027",
     "time_ut": 1659083393,
     "original_lang": "en",
     "original_title": "Ruwan Wijewardena appointed Presidential Advisor on Climate Change",
-    "file_name": "/tmp/news_lk2/articles/bb/bbb6bcea.json"
+    "file_name": "/tmp/news_lk2/articles/7f/7f9c2ea4.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "Free Trade Zone Manufacturers expresses confidence in Prez. fulfilling nation\u2019s aspirations",
     "file_name": "/tmp/news_lk2/articles/4e/4e2b5bf2.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bca\u0bb0\u0bc1-\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf/175-301124",
-    "time_ut": 1658772706,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf\u0ba4\u0bca\u0bb0\u0bc1 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u2019",
-    "file_name": "/tmp/news_lk2/articles/7b/7b9576bd.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd-\u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0baf\u0bc8-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0bae\u0bcd/175-301123",
-    "time_ut": 1658772394,
-    "original_lang": "ta",
-    "original_title": "\u2018\u0b93\u0b95\u0bb8\u0bcd\u0b9f\u0bcd \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1  \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/1e/1e6a3734.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/plus/July-22-attacks-and-future-of-Aragalaya-Can-the-Aragalaya-survive-amidst-suppressive-measures-by-the-state/352-241785",
-    "time_ut": 1658772232,
-    "original_lang": "en",
-    "original_title": "July 22 attacks and future of Aragalaya : Can the  Aragalaya  survive  amidst suppressive measures by the state?",
-    "file_name": "/tmp/news_lk2/articles/3b/3bc21c2f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf-\u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf-51-6-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-301122",
-    "time_ut": 1658772092,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf \u0b9a\u0bc6\u0bb2\u0bbe\u0bb5\u0ba3\u0bbf 51.6 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-    "file_name": "/tmp/news_lk2/articles/63/63cdf658.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0-\u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-301121",
-    "time_ut": 1658771848,
-    "original_lang": "ta",
-    "original_title": "\u2019\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "file_name": "/tmp/news_lk2/articles/2c/2ca62a91.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0baa\u0bcb\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-301120",
-    "time_ut": 1658771480,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0baa\u0bcb\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/3f/3fcaa0da.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/opinion/Rajapaksa-rule-by-proxy/172-241783",
-    "time_ut": 1658771306,
-    "original_lang": "en",
-    "original_title": "Rajapaksa rule by proxy",
-    "file_name": "/tmp/news_lk2/articles/b6/b65d54b1.json"
   }
 ]
