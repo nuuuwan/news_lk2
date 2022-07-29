@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83967/china-defends-military-ships-planned-visit-to-sri-lanka-as-india-voices-concern",
+    "time_ut": 1659120840,
+    "original_lang": "en",
+    "original_title": "China defends military ship\u2019s planned visit to Sri Lanka as India voices concern",
+    "file_name": "/tmp/news_lk2/articles/f7/f765a9b2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Tamil-Parties-Must-Urge-Full-Implementation-of-13A/277-242089",
+    "time_ut": 1659120390,
+    "original_lang": "en",
+    "original_title": "Tamil Parties  Must Urge  Full Implementation of 13A",
+    "file_name": "/tmp/news_lk2/articles/c4/c41b6a77.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/29-7-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0baa\u0bcb\u0ba4\u0bc8-\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-301340",
+    "time_ut": 1659120062,
+    "original_lang": "ta",
+    "original_title": "29.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bd/bdf9b971.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/To-prevent-another-Aragalaya/172-242088",
+    "time_ut": 1659119880,
+    "original_lang": "en",
+    "original_title": "To prevent another Aragalaya\u2026",
+    "file_name": "/tmp/news_lk2/articles/a6/a64d859b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Climate-action-for-most-vulnerable-people/172-242087",
+    "time_ut": 1659119760,
+    "original_lang": "en",
+    "original_title": "Climate action for most vulnerable people",
+    "file_name": "/tmp/news_lk2/articles/b7/b7684960.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83966/british-envoy-engages-in-wide-ranging-talks-with-president-",
+    "time_ut": 1659119400,
+    "original_lang": "en",
+    "original_title": "British envoy engages in wide-ranging talks with President",
+    "file_name": "/tmp/news_lk2/articles/31/31b607f6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83965/substantial-progress-made-during-imf-talks-finance-ministry",
     "time_ut": 1659119100,
     "original_lang": "en",
@@ -16,12 +64,76 @@
     "file_name": "/tmp/news_lk2/articles/96/96347cdf.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Shock-and-awe/14-738073",
+    "time_ut": 1659117679,
+    "original_lang": "en",
+    "original_title": "Shock and awe",
+    "file_name": "/tmp/news_lk2/articles/bd/bd53b922.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/BOI-team-s-efforts-to-promote-online-services-bears-fruit-investors-convey-positive-remarks/34-738071",
+    "time_ut": 1659117454,
+    "original_lang": "en",
+    "original_title": "BOI team\u2019s efforts to promote online services bears fruit; investors convey positive remarks",
+    "file_name": "/tmp/news_lk2/articles/87/8729bd4d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Hytera-delivers-cutting-edge-digital-mobile-radio-system-to-Police/34-738070",
+    "time_ut": 1659117393,
+    "original_lang": "en",
+    "original_title": "Hytera delivers cutting-edge digital mobile radio system to Police",
+    "file_name": "/tmp/news_lk2/articles/34/345dede7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sri-Lanka-missing-out-on-billions-of-dollars-in-oil-and-gas-foreign-direct-investment/34-738069",
+    "time_ut": 1659117323,
+    "original_lang": "en",
+    "original_title": "Sri Lanka missing out on billions of dollars in oil and gas foreign direct investment",
+    "file_name": "/tmp/news_lk2/articles/b4/b40868ca.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Exterminators-wins-National-Business-Excellence-Award/34-738068",
+    "time_ut": 1659117269,
+    "original_lang": "en",
+    "original_title": "Exterminators wins National Business Excellence Award",
+    "file_name": "/tmp/news_lk2/articles/e3/e373d527.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-Club-Vision-conducts-wellness-webinar-to-support-members-during-challenging-times/34-738067",
+    "time_ut": 1659117208,
+    "original_lang": "en",
+    "original_title": "Dialog Club Vision conducts wellness webinar to support members during challenging times",
+    "file_name": "/tmp/news_lk2/articles/1a/1aea8080.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/A-democracy-of-dunces/4-738066",
+    "time_ut": 1659116763,
+    "original_lang": "en",
+    "original_title": "A democracy of dunces",
+    "file_name": "/tmp/news_lk2/articles/02/0271b3a0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-invites-all-MPs-to-join-all-party-programme/108-242064",
     "time_ut": 1659116671,
     "original_lang": "en",
     "original_title": "Prez invites all MPs to join all-party programme",
     "file_name": "/tmp/news_lk2/articles/db/db3c46f3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Let-the-President-and-Government-do-what-is-expected-now/4-738065",
+    "time_ut": 1659116670,
+    "original_lang": "en",
+    "original_title": "Let the President and Government do what is expected now",
+    "file_name": "/tmp/news_lk2/articles/eb/eb983ab4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2006,14 +2118,6 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president suspends parliament, new session on Aug 03",
     "file_name": "/tmp/news_lk2/articles/84/8441cd22.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-club-vision-conducts-wellness-webinar-to-support-members-during-challenging-times/",
-    "time_ut": 1659028260,
-    "original_lang": "en",
-    "original_title": "Dialog Club Vision conducts wellness webinar to support members during challenging times",
-    "file_name": "/tmp/news_lk2/articles/62/62c5e97f.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7894,109 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bae\u0bc1\u0b95\u0b95\u0bcd\u0b95\u0bb5\u0b9a\u0bae\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba3\u0bbf\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe ? \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9 ?",
     "file_name": "/tmp/news_lk2/articles/a5/a5a1645c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83874/fuel-pass-system-registering-with-vehicle-revenue-licences-to-be-allowed",
-    "time_ut": 1658808660,
-    "original_lang": "en",
-    "original_title": "Fuel pass: Three-wheelers can pump fuel only from registered filling station",
-    "file_name": "/tmp/news_lk2/articles/13/1328e009.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132264",
-    "time_ut": 1658807850,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/28/2878792e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/qr-system-from-today-26-minister-wijesekara/",
-    "time_ut": 1658807700,
-    "original_lang": "en",
-    "original_title": "QR system from today (26); Minister Wijesekara",
-    "file_name": "/tmp/news_lk2/articles/28/289f6349.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db4\u0ddc\u0daf\u0dd4-\u0dad\u0dd0\u0db1\u0dc0\u0dbd-\u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4-\u0d86\u0dc0\u0dbb\u0dab\u0dba-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2/1-617036",
-    "time_ut": 1658807524,
-    "original_lang": "si",
-    "original_title": "\u0db4\u0ddc\u0daf\u0dd4 \u0dad\u0dd0\u0db1\u0dc0\u0dbd \u0db8\u0dd4\u0dc4\u0dd4\u0dab\u0dd4 \u0d86\u0dc0\u0dbb\u0dab\u0dba \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/2b/2b668a9d.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/students-can-use-previous-season-pass-for-trains/",
-    "time_ut": 1658807160,
-    "original_lang": "en",
-    "original_title": "Students can use previous season pass for trains",
-    "file_name": "/tmp/news_lk2/articles/1a/1aaf3f7a.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd-\u0dad\u0dc0\u0dad\u0dca-\u0db8\u0dbb\u0dab\u0dba\u0d9a\u0dca/11-395740",
-    "time_ut": 1658807084,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca\u0dc0\u0dbd \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dbb\u0dab\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/d9/d9ba4bc6.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83873/president-wickremesinghe-congratulates-new-indian-counterpart-murmu",
-    "time_ut": 1658806860,
-    "original_lang": "en",
-    "original_title": "President Wickremesinghe congratulates new Indian counterpart Murmu",
-    "file_name": "/tmp/news_lk2/articles/9d/9d4e0a51.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Tuk-Tuks-garden-equipment-generators-and-equipment-require-fuel-must-be-registered-Minister/342-241810",
-    "time_ut": 1658806648,
-    "original_lang": "en",
-    "original_title": "Tuk Tuks, garden equipment, generators and equipment require fuel must be registered: Minister",
-    "file_name": "/tmp/news_lk2/articles/2c/2c7cf265.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132263",
-    "time_ut": 1658806140,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bb2 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 75 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b95\u0ba9\u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b3/b30cb614.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/rainfall-likely-for-many-areas-today-26/",
-    "time_ut": 1658806020,
-    "original_lang": "en",
-    "original_title": "Rainfall likely for many areas today (26)",
-    "file_name": "/tmp/news_lk2/articles/9b/9bb1e675.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/three-wheelers-to-register-with-police-for-fuel-49cc-bikes-to-register-with-dmt-for-fuel/",
-    "time_ut": 1658805840,
-    "original_lang": "en",
-    "original_title": "Three-wheelers to register with police for fuel; 49CC Bikes to register with DMT for Fuel",
-    "file_name": "/tmp/news_lk2/articles/ee/eebfdbfa.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/health-official-to-expedite-4th-covid-19-dose/",
-    "time_ut": 1658805240,
-    "original_lang": "en",
-    "original_title": "Health official to expedite 4th COVID-19 dose",
-    "file_name": "/tmp/news_lk2/articles/a5/a5fec12f.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83872/public-strongly-recommended-to-wear-face-masks-amid-uptick-in-covid-cases",
-    "time_ut": 1658805120,
-    "original_lang": "en",
-    "original_title": "Public \u2018strongly recommended\u2019 to wear face masks amid uptick in COVID cases",
-    "file_name": "/tmp/news_lk2/articles/0a/0aa982f6.json"
   }
 ]

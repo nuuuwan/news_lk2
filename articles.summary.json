@@ -1,6 +1,54 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83967/china-defends-military-ships-planned-visit-to-sri-lanka-as-india-voices-concern",
+    "time_ut": 1659120840,
+    "original_lang": "en",
+    "original_title": "China defends military ship\u2019s planned visit to Sri Lanka as India voices concern",
+    "file_name": "/tmp/news_lk2/articles/f7/f765a9b2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/recomended-news/Tamil-Parties-Must-Urge-Full-Implementation-of-13A/277-242089",
+    "time_ut": 1659120390,
+    "original_lang": "en",
+    "original_title": "Tamil Parties  Must Urge  Full Implementation of 13A",
+    "file_name": "/tmp/news_lk2/articles/c4/c41b6a77.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/29-7-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9-\u0baa\u0bcb\u0ba4\u0bc8-\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-301340",
+    "time_ut": 1659120062,
+    "original_lang": "ta",
+    "original_title": "29.7 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/bd/bdf9b971.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/To-prevent-another-Aragalaya/172-242088",
+    "time_ut": 1659119880,
+    "original_lang": "en",
+    "original_title": "To prevent another Aragalaya\u2026",
+    "file_name": "/tmp/news_lk2/articles/a6/a64d859b.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/opinion/Climate-action-for-most-vulnerable-people/172-242087",
+    "time_ut": 1659119760,
+    "original_lang": "en",
+    "original_title": "Climate action for most vulnerable people",
+    "file_name": "/tmp/news_lk2/articles/b7/b7684960.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83966/british-envoy-engages-in-wide-ranging-talks-with-president-",
+    "time_ut": 1659119400,
+    "original_lang": "en",
+    "original_title": "British envoy engages in wide-ranging talks with President",
+    "file_name": "/tmp/news_lk2/articles/31/31b607f6.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83965/substantial-progress-made-during-imf-talks-finance-ministry",
     "time_ut": 1659119100,
     "original_lang": "en",
@@ -16,12 +64,76 @@
     "file_name": "/tmp/news_lk2/articles/96/96347cdf.json"
   },
   {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/opinion/Shock-and-awe/14-738073",
+    "time_ut": 1659117679,
+    "original_lang": "en",
+    "original_title": "Shock and awe",
+    "file_name": "/tmp/news_lk2/articles/bd/bd53b922.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/BOI-team-s-efforts-to-promote-online-services-bears-fruit-investors-convey-positive-remarks/34-738071",
+    "time_ut": 1659117454,
+    "original_lang": "en",
+    "original_title": "BOI team\u2019s efforts to promote online services bears fruit; investors convey positive remarks",
+    "file_name": "/tmp/news_lk2/articles/87/8729bd4d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Hytera-delivers-cutting-edge-digital-mobile-radio-system-to-Police/34-738070",
+    "time_ut": 1659117393,
+    "original_lang": "en",
+    "original_title": "Hytera delivers cutting-edge digital mobile radio system to Police",
+    "file_name": "/tmp/news_lk2/articles/34/345dede7.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Sri-Lanka-missing-out-on-billions-of-dollars-in-oil-and-gas-foreign-direct-investment/34-738069",
+    "time_ut": 1659117323,
+    "original_lang": "en",
+    "original_title": "Sri Lanka missing out on billions of dollars in oil and gas foreign direct investment",
+    "file_name": "/tmp/news_lk2/articles/b4/b40868ca.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Exterminators-wins-National-Business-Excellence-Award/34-738068",
+    "time_ut": 1659117269,
+    "original_lang": "en",
+    "original_title": "Exterminators wins National Business Excellence Award",
+    "file_name": "/tmp/news_lk2/articles/e3/e373d527.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Dialog-Club-Vision-conducts-wellness-webinar-to-support-members-during-challenging-times/34-738067",
+    "time_ut": 1659117208,
+    "original_lang": "en",
+    "original_title": "Dialog Club Vision conducts wellness webinar to support members during challenging times",
+    "file_name": "/tmp/news_lk2/articles/1a/1aea8080.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/A-democracy-of-dunces/4-738066",
+    "time_ut": 1659116763,
+    "original_lang": "en",
+    "original_title": "A democracy of dunces",
+    "file_name": "/tmp/news_lk2/articles/02/0271b3a0.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-invites-all-MPs-to-join-all-party-programme/108-242064",
     "time_ut": 1659116671,
     "original_lang": "en",
     "original_title": "Prez invites all MPs to join all-party programme",
     "file_name": "/tmp/news_lk2/articles/db/db3c46f3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/columns/Let-the-President-and-Government-do-what-is-expected-now/4-738065",
+    "time_ut": 1659116670,
+    "original_lang": "en",
+    "original_title": "Let the President and Government do what is expected now",
+    "file_name": "/tmp/news_lk2/articles/eb/eb983ab4.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -2006,14 +2118,6 @@
     "original_lang": "en",
     "original_title": "Sri Lanka president suspends parliament, new session on Aug 03",
     "file_name": "/tmp/news_lk2/articles/84/8441cd22.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/dialog-club-vision-conducts-wellness-webinar-to-support-members-during-challenging-times/",
-    "time_ut": 1659028260,
-    "original_lang": "en",
-    "original_title": "Dialog Club Vision conducts wellness webinar to support members during challenging times",
-    "file_name": "/tmp/news_lk2/articles/62/62c5e97f.json"
   },
   {
     "newspaper_id": "ada-lk",
