@@ -1,11 +1,59 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Male-body-found-in-Galle-Face-beach/108-242039",
+    "time_ut": 1659107632,
+    "original_lang": "en",
+    "original_title": "Male body found in Galle Face beach",
+    "file_name": "/tmp/news_lk2/articles/43/43d7b3da.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/rs-29-mn-worth-meth-pills-seized-by-customs/",
+    "time_ut": 1659107280,
+    "original_lang": "en",
+    "original_title": "Rs. 29 Mn worth Meth Pills seized by Customs",
+    "file_name": "/tmp/news_lk2/articles/3e/3ec32673.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132521",
+    "time_ut": 1659107183,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd\u00a0 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/b7/b7938a80.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132520",
+    "time_ut": 1659106955,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc1\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u00a0 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/3b/3b1ff5aa.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/931-fuel-station-using-qr-system/",
+    "time_ut": 1659106800,
+    "original_lang": "en",
+    "original_title": "931 Fuel Station using QR system",
+    "file_name": "/tmp/news_lk2/articles/db/db178503.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/cash-from-president-s-house-to-court/",
     "time_ut": 1659106260,
     "original_lang": "en",
     "original_title": "Cash from President\u2019s House to Court",
     "file_name": "/tmp/news_lk2/articles/83/83b196e7.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132509",
+    "time_ut": 1659105973,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bbe\u0bb2 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b89\u0bb0\u0bbf\u0bae\u0bc8 \u0bae\u0bc0\u0bb1\u0bb2\u0bcd \u0bae\u0ba9\u0bc1 : \u0b85\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bbe \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd : \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0ba4\u0b9f\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/dd/dd50ece6.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -150,6 +198,14 @@
     "original_lang": "en",
     "original_title": "Three-hour power cuts on July 30 and 31",
     "file_name": "/tmp/news_lk2/articles/9e/9eddb603.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-90%\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/1-617256",
+    "time_ut": 1659101552,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc0\u0dbd\u0dd2\u0db1\u0dca 90%\u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/33/337ebaad.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "President should be given time to rebuild country: Ven. Pelpola Vipassi Thera",
     "file_name": "/tmp/news_lk2/articles/79/794ed740.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Court-bans-foreign-travel-for-six-activists/56-737902",
-    "time_ut": 1658780711,
-    "original_lang": "en",
-    "original_title": "Court bans foreign travel for six activists",
-    "file_name": "/tmp/news_lk2/articles/fd/fda00289.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Policy-priorities-for-macroeconomic-stability/14-737901",
-    "time_ut": 1658780552,
-    "original_lang": "en",
-    "original_title": "Policy priorities for macroeconomic stability",
-    "file_name": "/tmp/news_lk2/articles/82/82690fee.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/opinion/Canadian-Premier-has-his-say-over-39th-anniversary-of-Sri-Lanka-s-Black-July/14-737900",
-    "time_ut": 1658780462,
-    "original_lang": "en",
-    "original_title": "Canadian Premier has his say over 39th anniversary of Sri Lanka\u2019s Black July",
-    "file_name": "/tmp/news_lk2/articles/69/6940b549.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/healthcare/Health-experts-call-for-close-surveillance-against-monkeypox-threat/45-737895",
-    "time_ut": 1658780095,
-    "original_lang": "en",
-    "original_title": "Health experts call for close surveillance against monkeypox threat",
-    "file_name": "/tmp/news_lk2/articles/90/9021144f.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd/71-301131",
-    "time_ut": 1658779353,
-    "original_lang": "ta",
-    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/32/32da5bda.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd/175-301130",
-    "time_ut": 1658778547,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1  \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/0c/0cde7873.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bbf\u0baf\u0bc2-\u0b86\u0bb0\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-301129",
-    "time_ut": 1658777961,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbf\u0baf\u0bc2.\u0b86\u0bb0\u0bcd. \u0bae\u0bc1\u0bb1\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/51/5145f17c.json"
   }
 ]
