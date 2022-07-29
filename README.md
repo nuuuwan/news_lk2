@@ -1,20 +1,14 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 05:40:17 (LK time)*
+*As of 2022-07-29 06:11:23 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (3 Articles)
-
-* **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
 ## Last Hour (3 Articles)
 
 * **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
-## Last 3 Hours (8 Articles)
-
-* **5** daily-ft-lk ([Two Senior Advisors to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46592888.json))
+## Last 3 Hours (3 Articles)
 
 * **3** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
@@ -44,7 +38,7 @@
 
 * **1** d-b-s-jeyaraj-com ([](https://github.com/nuuuwan/news_lk2/blob/data/articles/f4/f4af35f3.json))
 
-## Last Week (1,584 Articles)
+## Last Week (1,580 Articles)
 
 * **250** lankadeepa-lk ([අධි උද්ධමනයට සැබෑ විසඳුම් ඕනෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8b0e5fb.json))
 
@@ -60,17 +54,17 @@
 
 * **150** ada-derana-lk ([Tense situation ensues as troops sweep into Galle Face protest site](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5ea3f937.json))
 
-* **82** daily-ft-lk ([Ranil Rajapaksa interregnum](https://github.com/nuuuwan/news_lk2/blob/data/articles/63/63203299.json))
+* **81** daily-ft-lk ([President Ranil needs to resurrect economy fast](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28900331.json))
 
-* **74** economy-next-com ([Sri Lanka national inflation gallops to 58.9-pct to June 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/79/79729c59.json))
+* **73** economy-next-com ([Sri Lanka peaceful protest site raided as military called under emergency law](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/5226f41c.json))
 
 * **65** island-lk ([Fascists and democrats](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1fe7437.json))
 
 * **19** d-b-s-jeyaraj-com ([JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5842d76.json))
 
-* **14** colombo-telegraph-com ([Election Of A New President: Old Wine In A New Bottle Or System Change?](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc4a42f9.json))
+* **13** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
-* **13** b-b-c-com-sinhala ([දිනේෂ් ගුණවර්ධන: නව අගමැතිවරයා ගැන මේ තොරතුරු ඔබ දන්නවාද?](https://github.com/nuuuwan/news_lk2/blob/data/articles/47/47431356.json))
+* **12** b-b-c-com-sinhala (["ඕගොල්ලෝ ජාත්‍යන්තර වශයෙන් චාටර් වෙන්න මේ හදන්නේ":අද අලුයම ගාලු මුවදොර අරගල භූමියේදී මොකද වුනේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/fc/fccf4052.json))
 
 ## All Time (2,047 Articles)
 
