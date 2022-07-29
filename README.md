@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 01:02:32 (LK time)*
+*As of 2022-07-30 01:15:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
-
-## Last Hour (6 Articles)
-
-* **3** daily-mirror-lk ([Climate action for most vulnerable people](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7684960.json))
+## Last Hour (3 Articles)
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
 * **1** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
 
-* **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
+* **1** daily-mirror-lk ([Tamil Parties  Must Urge  Full Implementation of 13A](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41b6a77.json))
 
 ## Last 3 Hours (22 Articles)
 
@@ -30,7 +24,7 @@
 
 * **1** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
-## Last 24 Hours (255 Articles)
+## Last 24 Hours (250 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -42,15 +36,15 @@
 
 * **30** daily-mirror-lk ([Crackdown on protests:  What the Dickens is happening?](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e1320b13.json))
 
-* **21** daily-ft-lk ([Kirklees Estate amongst record books at Colombo tea auctions](https://github.com/nuuuwan/news_lk2/blob/data/articles/3e/3eab1e08.json))
-
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
+
+* **16** daily-ft-lk ([Glenanore Estate excels once again](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc2866d8.json))
 
 * **13** tamil-mirror-lk ([இன்று முதல் துவிச்சக்கர வண்டிகளுக்காக பிரத்தியேக ஒழுங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd742ec1.json))
 
 * **11** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,661 Articles)
+## Last Week (1,660 Articles)
 
 * **289** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -72,7 +66,7 @@
 
 * **55** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
-* **20** d-b-s-jeyaraj-com ([JR Jayewardene, the Kanatte Mass Funeral and the July 1983 Anti-Tamil Pogrom](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5842d76.json))
+* **19** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
 * **13** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
