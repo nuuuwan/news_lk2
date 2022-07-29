@@ -1,18 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 23:54:32 (LK time)*
+*As of 2022-07-30 00:06:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (2 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **2** ada-derana-lk ([China says its massive loans, projects did not push Sri Lanka to bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96347cdf.json))
+
+## Last Hour (3 Articles)
+
+* **2** ada-derana-lk ([China says its massive loans, projects did not push Sri Lanka to bankruptcy](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96347cdf.json))
 
 * **1** daily-mirror-lk ([Prez invites all MPs to join all-party programme](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db3c46f3.json))
 
-* **1** ada-derana-lk ([Another man waiting in fuel queue dies after falling ill](https://github.com/nuuuwan/news_lk2/blob/data/articles/de/de065a31.json))
+## Last 3 Hours (14 Articles)
 
-## Last 3 Hours (12 Articles)
-
-* **5** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
+* **7** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
 
 * **2** daily-mirror-lk ([Legendary Trotskyist Wije Dias no more](https://github.com/nuuuwan/news_lk2/blob/data/articles/28/28d27a2b.json))
 
@@ -22,7 +26,7 @@
 
 * **1** virakesari-lk ([மக்களின் குரலுக்கு செவிசாய்க்கவேண்டுமே தவிர, அடக்குமுறை கூடாது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a434cdb.json))
 
-## Last 24 Hours (243 Articles)
+## Last 24 Hours (244 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -30,7 +34,7 @@
 
 * **34** news-first-lk ([Maldives President To Visit India Next Month](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13934605.json))
 
-* **30** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
+* **32** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
 
 * **29** daily-mirror-lk ([SriLankan Airlines’ bond rated at ‘C’ despite interest payment](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8c8b615c.json))
 
@@ -40,9 +44,9 @@
 
 * **12** tamil-mirror-lk ([இன்று முதல் துவிச்சக்கர வண்டிகளுக்காக பிரத்தியேக ஒழுங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd742ec1.json))
 
-* **11** economy-next-com ([Sri Lanka Fuel Pass registration process amended after complaints](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982abeb6.json))
+* **10** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,663 Articles)
+## Last Week (1,665 Articles)
 
 * **288** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -54,7 +58,7 @@
 
 * **170** daily-mirror-lk ([Tourist arrivals in July cross 28,000 mark](https://github.com/nuuuwan/news_lk2/blob/data/articles/6a/6a780093.json))
 
-* **163** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
+* **165** ada-derana-lk ([Fairly heavy rainfall above 75mm in some areas today](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fed5f16d.json))
 
 * **153** tamil-mirror-lk ([தாக்குதல் அச்சம் வெளியிடும் ஐ.நா. மனித உரிமைகள் பேரவை தெரிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd194102.json))
 
@@ -70,7 +74,7 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,275 Articles)
+## All Time (2,277 Articles)
 
 * **366** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -82,7 +86,7 @@
 
 * **192** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
-* **181** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **183** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **174** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 

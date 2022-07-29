@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83965/substantial-progress-made-during-imf-talks-finance-ministry",
+    "time_ut": 1659119100,
+    "original_lang": "en",
+    "original_title": "Substantial progress made during IMF talks - Finance Ministry",
+    "file_name": "/tmp/news_lk2/articles/f7/f759231e.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83964/china-says-its-massive-loans-projects-did-not-push-sri-lanka-to-bankruptcy",
+    "time_ut": 1659118800,
+    "original_lang": "en",
+    "original_title": "China says its massive loans, projects did not push Sri Lanka to bankruptcy",
+    "file_name": "/tmp/news_lk2/articles/96/96347cdf.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Prez-invites-all-MPs-to-join-all-party-programme/108-242064",
     "time_ut": 1659116671,
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "Public \u2018strongly recommended\u2019 to wear face masks amid uptick in COVID cases",
     "file_name": "/tmp/news_lk2/articles/0a/0aa982f6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/gazette-subjects-and-functions-of-ministers-announced/",
-    "time_ut": 1658804580,
-    "original_lang": "en",
-    "original_title": "Gazette: Subjects and Functions of Ministers announced",
-    "file_name": "/tmp/news_lk2/articles/dc/dc27961c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/top_story/Face-masks-recommended-for-indoors-transit-public-gathering-Ministry/155-241809",
-    "time_ut": 1658804334,
-    "original_lang": "en",
-    "original_title": "Face masks recommended for indoors, transit, public gathering: Ministry",
-    "file_name": "/tmp/news_lk2/articles/d2/d2260d2c.json"
   }
 ]
