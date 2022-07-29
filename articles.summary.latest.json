@@ -72,6 +72,22 @@
     "file_name": "/tmp/news_lk2/articles/1d/1dcaa956.json"
   },
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf--\u0d89\u0dc4\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba\u0d9a----\u0dbb\u0da2\u0dba/11-395863",
+    "time_ut": 1659105380,
+    "original_lang": "si",
+    "original_title": "IMF \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf  \u0d89\u0dc4\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dad\u0dd2\u0dba\u0d9a  - \u0dbb\u0da2\u0dba",
+    "file_name": "/tmp/news_lk2/articles/a5/a5186af8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0d85\u0db8\u0dbb\u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dad\u0dc0\u0dad\u0dca-8-\u0d9a\u0dca-\u0dc3\u0ddc\u0dba\u0dba\u0dd2/101-617260",
+    "time_ut": 1659105323,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d85\u0db8\u0dbb\u0d9a\u0dd3\u0dbb\u0dca\u0dad\u0dd2 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dad\u0dc0\u0dad\u0dca 8 \u0d9a\u0dca \u0dc3\u0ddc\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/4c/4c7fe7fa.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/29/china-defends-military-ship-visit-to-sri-lanka/",
     "time_ut": 1659104700,
@@ -201,11 +217,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-90%\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/1-617256",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-90%\u0d9a\u0dca-\u0db6\u0dd9\u0daf\u0dcf-\u0d85\u0dc0\u0dc3\u0db1\u0dca/101-617256",
     "time_ut": 1659101552,
     "original_lang": "si",
     "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dba\u0dd4\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc0\u0dbd\u0dd2\u0db1\u0dca 90%\u0d9a\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0d85\u0dc0\u0dc3\u0db1\u0dca",
-    "file_name": "/tmp/news_lk2/articles/33/337ebaad.json"
+    "file_name": "/tmp/news_lk2/articles/04/043154b3.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "en",
     "original_title": "AKD calls for an immediate snap poll",
     "file_name": "/tmp/news_lk2/articles/37/37365ddd.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/Foreign-Minister-Ali-Sabry-assumes-duties/56-737904",
-    "time_ut": 1658780770,
-    "original_lang": "en",
-    "original_title": "Foreign Minister Ali Sabry assumes duties",
-    "file_name": "/tmp/news_lk2/articles/ef/ef4c338a.json"
-  },
-  {
-    "newspaper_id": "daily-ft-lk",
-    "url": "https://www.ft.lk/news/President-should-be-given-time-to-rebuild-country-Ven-Pelpola-Vipassi-Thera/56-737903",
-    "time_ut": 1658780745,
-    "original_lang": "en",
-    "original_title": "President should be given time to rebuild country: Ven. Pelpola Vipassi Thera",
-    "file_name": "/tmp/news_lk2/articles/79/794ed740.json"
   }
 ]
