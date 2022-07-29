@@ -1,58 +1,52 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-29 17:49:34 (LK time)*
+*As of 2022-07-29 17:58:53 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (8 Articles)
-
-* **5** ada-lk ([2024 න් පසු රුසියාව ISS වෙතින් ඉවත් වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/296bcac9.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** lankadeepa-lk ([අයි.එම්.එෆ් සාකච්ඡා සාර්ථකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c7dcb96.json))
 
 * **1** virakesari-lk ([78 வயதான ஓய்வுப்பெற்ற அதிபர் கழுத்தறுத்து கொலை - பலாங்கொடையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e65184c4.json))
 
-* **1** ada-derana-lk ([New DG of Public Relations to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e164f026.json))
-
-## Last Hour (13 Articles)
+## Last Hour (10 Articles)
 
 * **5** ada-lk ([2024 න් පසු රුසියාව ISS වෙතින් ඉවත් වීමට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/296bcac9.json))
 
 * **2** lankadeepa-lk ([‘ලිබරල් සහෝදරත්වය’ අරගලයෙන් ඉවත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a9ac986.json))
 
-* **2** virakesari-lk ([காலி முகத்திடல் போராட்டகாரர்கள் கைது செய்யப்படுவதை கண்டித்து  யாழ்ப்பாணத்தில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b6addb67.json))
-
-* **2** news-first-lk ([Another man was arrested with Tear Gas Ammo](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17361373.json))
+* **1** virakesari-lk ([78 வயதான ஓய்வுப்பெற்ற அதிபர் கழுத்தறுத்து கொலை - பலாங்கொடையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e65184c4.json))
 
 * **1** ada-derana-lk ([New DG of Public Relations to the President appointed](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e164f026.json))
 
-* **1** daily-mirror-lk ([Pathum Kerner remanded till August 4](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe88dd32.json))
+* **1** news-first-lk ([Dr. Jeewandara raises concerns regarding Omicron subvariant](https://github.com/nuuuwan/news_lk2/blob/data/articles/54/54c5278b.json))
 
-## Last 3 Hours (56 Articles)
+## Last 3 Hours (52 Articles)
 
 * **13** lankadeepa-lk ([අකිල ඉහල තනතුරකට](https://github.com/nuuuwan/news_lk2/blob/data/articles/4a/4a1c246e.json))
 
-* **12** virakesari-lk ([கொழும்பில் நாளை நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35121e91.json))
+* **11** virakesari-lk ([காலி முகத்திடல் போராட்டக்காரர் மீதான தாக்குதல், கைதுகளை கண்டித்து மன்னாரில் கவனயீர்ப்புப் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1de8537e.json))
 
 * **7** ada-lk ([බස්නාහිර වාහන ආදායම් බලපත්‍ර කාලය දීර්ඝ කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/128a4eb2.json))
 
 * **7** news-first-lk ([CCPI inflation climbs to 60.8%](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/56721851.json))
 
-* **7** daily-mirror-lk ([Cases against Gota should resume after his return: JVP](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16cc6c1c.json))
+* **5** ada-derana-lk ([Merchant Shipping Secretariat limits services](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e754ad28.json))
 
-* **6** ada-derana-lk ([STF arrests two accomplices of “Kimbula Ele Guna”](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/4583116e.json))
+* **5** daily-mirror-lk ([Protest against suppression...](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bde96f0.json))
 
 * **2** economy-next-com ([Sri Lanka DFCC Bank rating watch negative kept in soft-peg collapse: Fitch](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69e3aab0.json))
 
 * **2** tamil-mirror-lk ([பலாங்கொடையில் குடும்பஸ்தர் ஒருவர் வெட்டிக் கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/a2/a26286b7.json))
 
-## Last 24 Hours (258 Articles)
+## Last 24 Hours (256 Articles)
 
-* **46** lankadeepa-lk ([දුම්රිය ආසන කලින් වෙන්කිරීමේ  ගාස්තුව නගී](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c701608.json))
+* **45** lankadeepa-lk ([රූපවාහිනියට කඩා පැන්න ධානිශ් අලී ඇතුළු දෙදෙනකුගේ විදෙස් ගමන් තහනම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5ea465f.json))
 
 * **42** virakesari-lk ([மட்டு ரிதிதென்னையில் கடன் பிரச்சனை காரணமாக தன்னை கடத்தி கட்டிவைத்தாக நாடகமாடிய விமானபடை வீரர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5fd458ee.json))
 
-* **34** news-first-lk ([Japan hands over donation of USD 1.5Mn to curb medicine crisis](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92ad2953.json))
+* **33** news-first-lk ([Travel Ban on multiple Aragalaya activists](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e907a.json))
 
 * **30** daily-mirror-lk ([Reserved, unreserved, 1st class train fares to go up from Aug. 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe9dfe0.json))
 
@@ -72,7 +66,7 @@
 
 * **1** colombo-telegraph-com ([An Emergency Means Nothing Less Than ‘Legalizing Lawlessness’](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a9ec221d.json))
 
-## Last Week (1,661 Articles)
+## Last Week (1,660 Articles)
 
 * **276** virakesari-lk ([எதிர்ப்பை வெளிக்காட்டுவதற்கான ஜனநாயக உரிமையை அரசாங்கம் பாதுகாக்க வேண்டும்](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f6740ca.json))
 
@@ -84,7 +78,7 @@
 
 * **176** daily-mirror-lk ([Nine protesters released on bail](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc666c2a.json))
 
-* **158** tamil-mirror-lk ([எரிபொருள் வரிசையில் இரண்டு மரணங்கள்](https://github.com/nuuuwan/news_lk2/blob/data/articles/25/250f3a2c.json))
+* **157** tamil-mirror-lk ([ஐ.நாவிடம் மகஜர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/36fcd1a8.json))
 
 * **156** ada-derana-lk ([China offers support for new Sri Lankan President](https://github.com/nuuuwan/news_lk2/blob/data/articles/c1/c15efd7a.json))
 
