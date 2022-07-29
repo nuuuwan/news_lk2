@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2018\u0dbd\u0dd2\u0db6\u0dbb\u0dbd\u0dca-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dad\u0dca\u0dc0\u0dba\u2019-\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/101-617249",
+    "time_ut": 1659094875,
+    "original_lang": "si",
+    "original_title": "\u2018\u0dbd\u0dd2\u0db6\u0dbb\u0dbd\u0dca \u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dad\u0dca\u0dc0\u0dba\u2019 \u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/3a/3a9ac986.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/dr-jeewandara-raises-concerns-regarding-omicron-subvariant/",
+    "time_ut": 1659094440,
+    "original_lang": "en",
+    "original_title": "Dr. Jeewandara raises concerns regarding Omicron subvariant",
+    "file_name": "/tmp/news_lk2/articles/54/54c5278b.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132508",
     "time_ut": 1659094101,
@@ -214,6 +230,14 @@
     "original_lang": "si",
     "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0da0\u0dd3\u0db1 \u0dab\u0dba \u0dc4\u0dcf \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/08/08499909.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-disassociates-itself-from-SFs-call-for-August-9-final-battle/342-242034",
+    "time_ut": 1659089191,
+    "original_lang": "en",
+    "original_title": "SJB disassociates itself from SF\u2019s call for August 9 final battle",
+    "file_name": "/tmp/news_lk2/articles/c8/c8de71be.json"
   },
   {
     "newspaper_id": "virakesari-lk",
