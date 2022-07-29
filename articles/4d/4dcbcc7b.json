@@ -1,0 +1,93 @@
+{
+  "newspaper_id": "tamil-mirror-lk",
+  "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8-\u0b9a\u0bcb\u0bb7\u0bb2\u0bbf\u0b9a-\u0b95\u0b9f\u0bcd\u0b9a\u0bbf-\u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8/175-301323",
+  "time_ut": 1659067389,
+  "original_lang": "ta",
+  "original_title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0b9a\u0bcb\u0bb7\u0bb2\u0bbf\u0b9a \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+  "text_idx": {
+    "en": {
+      "title": "Raid at the office of the leading socialist party",
+      "author": "unknown",
+      "body_lines": [
+        "The Police Media Unit reported that the police conducted a raid at the Nukegodai office of the Frontline Socialist Party this morning. (a)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "The Police Media Unit",
+            "label": "ORG"
+          },
+          {
+            "text": "Nukegodai",
+            "label": "NORP"
+          },
+          {
+            "text": "the Frontline Socialist Party",
+            "label": "ORG"
+          },
+          {
+            "text": "this morning",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba \u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8",
+      "author": "\u0db1\u0ddc\u0daf\u0db1\u0dca\u0db1\u0dcf",
+      "body_lines": [
+        "\u0d85\u0daf \u0db4\u0dd9\u0dbb\u0dc0\u0dbb\u0dd4\u0dc0\u0dda \u0db4\u0dd9\u0dbb\u0da7\u0dd4\u0d9c\u0dcf\u0db8\u0dd3 \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0db1\u0dd4\u0d9a\u0dda\u0d9c\u0ddc\u0da9 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dc5 \u0db6\u0dc0\u0dba\u0dd2 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d92\u0d9a\u0d9a\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5\u0dda. (\u0d92)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d92\u0d9a\u0d9a\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "Nukegodai",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0db4\u0dd9\u0dbb\u0da7\u0dd4\u0d9c\u0dcf\u0db8\u0dd3 \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0db4\u0d9a\u0dca\u0dc2\u0dba",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0db8\u0dda \u0d8b\u0daf\u0dd1\u0dc3\u0db1",
+            "label": "TIME"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0b9a\u0bcb\u0bb7\u0bb2\u0bbf\u0b9a \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+      "author": "unknown",
+      "body_lines": [
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u00a0 \u0ba8\u0bc1\u0b95\u0bc7\u0b95\u0bca\u0b9f\u0bc8 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b8a\u0b9f\u0b95\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. (a)"
+      ],
+      "title_ents": [],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b8a\u0b9f\u0b95\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+            "label": "ORG"
+          },
+          {
+            "text": "Nukegodai",
+            "label": "NORP"
+          },
+          {
+            "text": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0bb2\u0bc8",
+            "label": "TIME"
+          }
+        ]
+      ]
+    }
+  }
+}
