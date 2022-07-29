@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 03:57:45 (LK time)*
+*As of 2022-07-30 04:05:36 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
 
 ## Last Hour (1 Articles)
 
