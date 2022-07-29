@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/29/over-100-000-lp-gas-cylinders-to-the-market/",
+    "time_ut": 1659082020,
+    "original_lang": "en",
+    "original_title": "Over 100,000 LP Gas Cylinders to the market",
+    "file_name": "/tmp/news_lk2/articles/21/219363cb.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dbb\u0da7\u0dda-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dc3\u0dd2\u0dba\u0dba\u0da7-10-\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dbd\u0dcf/101-617236",
     "time_ut": 1659081576,
@@ -16,6 +24,14 @@
     "file_name": "/tmp/news_lk2/articles/fa/fa12a76b.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132482",
+    "time_ut": 1659081537,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 '\u0baa\u0bc8\u0b9a\u0bb0\u0bcd' \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bbf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf \u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9f/9f041f07.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba8\u0bbf\u0ba4\u0bbf-\u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8-\u0b8e\u0ba9-\u0b89\u0bb2\u0b95-\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301327",
     "time_ut": 1659081327,
@@ -30,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Ruwan Wijewardene appointed as a presidential advisor",
     "file_name": "/tmp/news_lk2/articles/b3/b301ab0a.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0dbd\u0ddd\u0d9a-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2/11-395850",
+    "time_ut": 1659080603,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0dbd\u0ddd\u0d9a \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b9/b93bfac2.json"
   },
   {
     "newspaper_id": "virakesari-lk",
