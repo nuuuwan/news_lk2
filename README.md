@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 02:51:53 (LK time)*
+*As of 2022-07-30 03:14:41 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,19 +8,17 @@
 
 * **1** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
-## Last 3 Hours (14 Articles)
-
-* **4** ada-derana-lk ([Substantial progress made during IMF talks - Finance Ministry](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f759231e.json))
+## Last 3 Hours (9 Articles)
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-* **3** daily-mirror-lk ([Climate action for most vulnerable people](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7684960.json))
+* **2** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
 
 * **2** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
-* **1** tamil-mirror-lk ([29.7 மில்லியன் ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bdf9b971.json))
+* **1** daily-mirror-lk ([Tamil Parties  Must Urge  Full Implementation of 13A](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c41b6a77.json))
 
-## Last 24 Hours (253 Articles)
+## Last 24 Hours (250 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -34,9 +32,9 @@
 
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
 
-* **15** daily-ft-lk ([President’s Chief of Staff Sagala Ratnayaka assumes duties](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed809976.json))
-
 * **13** tamil-mirror-lk ([இன்று முதல் துவிச்சக்கர வண்டிகளுக்காக பிரத்தியேக ஒழுங்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd742ec1.json))
+
+* **12** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
 
 * **12** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
