@@ -1,20 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 04:51:22 (LK time)*
+*As of 2022-07-31 05:12:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d272f7d.json))
 
 ## Last 3 Hours (1 Articles)
 
 * **1** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d272f7d.json))
 
-## Last 24 Hours (139 Articles)
+## Last 24 Hours (141 Articles)
 
-* **26** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
+* **27** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
 * **24** ada-derana-lk ([Several areas to receive fairly heavy rainfall today](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dacc4b9.json))
 
@@ -30,9 +26,11 @@
 
 * **6** economy-next-com ([Sri Lanka loses Norway shipbuilding deal over sovereign default](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d1c756.json))
 
-## Last Week (1,683 Articles)
+* **1** colombo-telegraph-com ([The Aragalaya & Human Rights In Geneva This September](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773f8b63.json))
 
-* **304** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
+## Last Week (1,685 Articles)
+
+* **305** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
 * **281** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
 
@@ -54,15 +52,15 @@
 
 * **19** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
-* **13** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
+* **14** colombo-telegraph-com ([Aragalaya At The Cross-Roads & In The Cross-Hairs](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/337fd7ce.json))
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,466 Articles)
+## All Time (2,468 Articles)
 
 * **387** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **336** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **337** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **278** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
@@ -82,6 +80,6 @@
 
 * **102** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
-* **33** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
+* **34** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
 
 * **30** b-b-c-com-sinhala ([රනිල් වික්‍රමසිංහ:ජනපති සිහිනය ජයගත් හෙණ්ඩුව අත නොහරින ඇතරුවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14e093df.json))
