@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/several-hour-water-cut-in-sri-lanka-capital-98033/",
+    "time_ut": 1659154440,
+    "original_lang": "en",
+    "original_title": "Several hour water cut in Sri Lanka capital",
+    "file_name": "/tmp/news_lk2/articles/75/759c5624.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-hunt-8-more-suspects-over-MP-Amarakeerthi-Athukoralas-murder/108-242094",
+    "time_ut": 1659153726,
+    "original_lang": "en",
+    "original_title": "Police hunt 8 more suspects over MP Amarakeerthi Athukorala\u2019s murder",
+    "file_name": "/tmp/news_lk2/articles/0c/0c3e1ceb.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Stamps-currencies-coins-exhibition/342-242093",
+    "time_ut": 1659153578,
+    "original_lang": "en",
+    "original_title": "Stamps, currencies, coins exhibition",
+    "file_name": "/tmp/news_lk2/articles/40/403f81a6.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132530",
     "time_ut": 1659153180,
@@ -550,6 +574,14 @@
     "original_lang": "en",
     "original_title": "931 Fuel Station using QR system",
     "file_name": "/tmp/news_lk2/articles/db/db178503.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132516",
+    "time_ut": 1659106543,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0b86\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 -\u00a0 \u00a0\u0b86\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc6\u0bbe\u0b9f\u0bb9\u0bc7\u0bb5\u0bbe \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/9b/9b04a412.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd1\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dc3\u0dcf\u0daf\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf \u0d9a\u0db4\u0dcf \u0d9a\u0ddc\u0da7\u0dcf \u0db8\u0dbb\u0dcf \u0daf\u0db8\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/d5/d5138bc1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132271",
-    "time_ut": 1658819475,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 : \u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/8e/8e1000dc.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/unidentified-body-washes-up-on-wellawatte-beach/",
-    "time_ut": 1658819160,
-    "original_lang": "en",
-    "original_title": "Unidentified body washes up on Wellawatte Beach",
-    "file_name": "/tmp/news_lk2/articles/57/57d28ac8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd9\u0dc4\u0dd9\u0d9a\u0dcf\u0dbb\u0dd2\u0dba-\u0dc0\u0dd0\u0daf\u0dd6-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf-\u0db8\u0dd0\u0dbb\u0dd4\u0dc0\u0dba\u0dd2-\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/101-617053",
-    "time_ut": 1658819117,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd9\u0dc4\u0dd9\u0d9a\u0dcf\u0dbb\u0dd2\u0dba \u0dc0\u0dd0\u0daf\u0dd6 \u0daf\u0dbb\u0dd4\u0dc0\u0dcf \u0db8\u0dd0\u0dbb\u0dd4\u0dc0\u0dba\u0dd2 \u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/f0/f0a10205.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/sri-lankas-fuel-bill-increased-by-usd-4-bn-bandula/",
-    "time_ut": 1658819040,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Fuel Bill increased by USD 4 Bn \u2013 Bandula",
-    "file_name": "/tmp/news_lk2/articles/8b/8b013192.json"
   }
 ]
