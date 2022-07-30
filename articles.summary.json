@@ -153,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Oil-and-gas-exploration-delays-in-Mannar-basin-to-cost-SL-over-US-1bn-in-FDI/108-242074",
+    "url": "https://www.dailymirror.lk/business-news/Oil-and-gas-exploration-delays-in-Mannar-basin-to-cost-SL-over-US-1bn-in-FDI/273-242074",
     "time_ut": 1659118121,
     "original_lang": "en",
     "original_title": "Oil and gas exploration delays in Mannar basin to cost SL over US $ 1bn in FDI",
-    "file_name": "/tmp/news_lk2/articles/9b/9bc7e843.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f26c770a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -238,6 +238,22 @@
     "original_lang": "en",
     "original_title": "Another man waiting in fuel queue dies after falling ill",
     "file_name": "/tmp/news_lk2/articles/de/de065a31.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/China-assures-support-to-SL-at-IMF-Board-Meetings/238-242055",
+    "time_ut": 1659115748,
+    "original_lang": "en",
+    "original_title": "China assures support to SL at IMF Board Meetings",
+    "file_name": "/tmp/news_lk2/articles/ec/ec0e5f42.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Two-police-teams-raid-FSP-headquarters-in-Nugegoda-search-for-Wasantha-Mudalige/238-242048",
+    "time_ut": 1659115214,
+    "original_lang": "en",
+    "original_title": "Two police teams raid FSP headquarters in Nugegoda; search for Wasantha Mudalige",
+    "file_name": "/tmp/news_lk2/articles/73/73bee81a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1278,6 +1294,14 @@
     "original_lang": "en",
     "original_title": "131 COVID cases reported on Thursday (28)",
     "file_name": "/tmp/news_lk2/articles/6f/6f6baef6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132475",
+    "time_ut": 1659084869,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb4\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0b9c\u0bbf\u0baa\u0bc1\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/7d/7d4cb885.json"
   },
   {
     "newspaper_id": "news-first-lk",

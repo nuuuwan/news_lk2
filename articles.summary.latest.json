@@ -153,11 +153,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Oil-and-gas-exploration-delays-in-Mannar-basin-to-cost-SL-over-US-1bn-in-FDI/108-242074",
+    "url": "https://www.dailymirror.lk/business-news/Oil-and-gas-exploration-delays-in-Mannar-basin-to-cost-SL-over-US-1bn-in-FDI/273-242074",
     "time_ut": 1659118121,
     "original_lang": "en",
     "original_title": "Oil and gas exploration delays in Mannar basin to cost SL over US $ 1bn in FDI",
-    "file_name": "/tmp/news_lk2/articles/9b/9bc7e843.json"
+    "file_name": "/tmp/news_lk2/articles/f2/f26c770a.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -238,6 +238,22 @@
     "original_lang": "en",
     "original_title": "Another man waiting in fuel queue dies after falling ill",
     "file_name": "/tmp/news_lk2/articles/de/de065a31.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/China-assures-support-to-SL-at-IMF-Board-Meetings/238-242055",
+    "time_ut": 1659115748,
+    "original_lang": "en",
+    "original_title": "China assures support to SL at IMF Board Meetings",
+    "file_name": "/tmp/news_lk2/articles/ec/ec0e5f42.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/front_page/Two-police-teams-raid-FSP-headquarters-in-Nugegoda-search-for-Wasantha-Mudalige/238-242048",
+    "time_ut": 1659115214,
+    "original_lang": "en",
+    "original_title": "Two police teams raid FSP headquarters in Nugegoda; search for Wasantha Mudalige",
+    "file_name": "/tmp/news_lk2/articles/73/73bee81a.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -1278,6 +1294,14 @@
     "original_lang": "en",
     "original_title": "131 COVID cases reported on Thursday (28)",
     "file_name": "/tmp/news_lk2/articles/6f/6f6baef6.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132475",
+    "time_ut": 1659084869,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb4\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd - \u0bae\u0bc1\u0b9c\u0bbf\u0baa\u0bc1\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/7d/7d4cb885.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7974,29 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd  \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd: \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/2f/2f1e88f7.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd/95-301146",
-    "time_ut": 1658814702,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb0\u0bcb\u0ba9\u0bbe \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/46/46854ebb.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1-\u0dc0\u0dd2\u0dc2\u0dba\u0dba-\u0db4\u0dae\u0dba\u0dba\u0db1\u0dca-\u0dc3\u0dc4-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0db1\u0dca-\u0d9c\u0dd0\u0dc3\u0da7\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-395746",
-    "time_ut": 1658814540,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db8\u0dcf\u0dad\u0dca\u200d\u0dba\u0dcf\u0d82\u0dc1 \u0dc0\u0dd2\u0dc2\u0dba\u0dba \u0db4\u0dae\u0dba\u0dba\u0db1\u0dca \u0dc3\u0dc4 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0db1\u0dca \u0d9c\u0dd0\u0dc3\u0da7\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/82/82eb180b.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4-\u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca/1-617044",
-    "time_ut": 1658814428,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/6b/6b3ee52b.json"
   }
 ]
