@@ -1,22 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 12:37:12 (LK time)*
+*As of 2022-07-30 12:52:12 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
+## Last 30 Minutes (1 Articles)
 
-* **2** news-first-lk ([Fuel crisis: Postal Department admits delay in letters](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31ae42bf.json))
+* **1** lankadeepa-lk ([’’මාසයක් හරි නවතින්න බලාගෙන 9වෙනිදා කොළඹට එන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dbe9cb.json))
 
-* **1** ada-derana-lk ([Grace period for vehicle revenue license renewal in WP extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe627dbf.json))
-
-* **1** virakesari-lk ([உலகவங்கி எதனையும் வழங்க மறுத்ததை  தொடர்ந்து இலங்கை சர்வதேச நாணயநிதியத்துடன் பேச்சுவார்த்தைகளை ஆரம்பித்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb9c3b6f.json))
-
-## Last Hour (7 Articles)
+## Last Hour (8 Articles)
 
 * **3** news-first-lk ([CBSL calls for market players to comply with regulations](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/da0b6d45.json))
 
 * **3** virakesari-lk ([யாழ்ப்பாணத்தில் 3 மாதங்களாக அலைபேசிகளைத் திருடிய கும்பலைச் சேர்ந்த மூவர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9518e42.json))
+
+* **1** lankadeepa-lk ([’’මාසයක් හරි නවතින්න බලාගෙන 9වෙනිදා කොළඹට එන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dbe9cb.json))
 
 * **1** ada-derana-lk ([Grace period for vehicle revenue license renewal in WP extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe627dbf.json))
 
@@ -24,9 +22,9 @@
 
 * **7** virakesari-lk ([யாழில் "ஆரோக்கியத்தின் பாதையில்" என்ற விழிப்புணர்வு ஈருருளிப் பயணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ca0a3b7.json))
 
-* **6** news-first-lk ([Export earnings increase to US$ 1.2Bn in June: EDB](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/392df545.json))
+* **6** lankadeepa-lk ([කොවිඩ් රැල්ලක්! පරෙස්සමෙන් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad4889af.json))
 
-* **5** lankadeepa-lk ([කොවිඩ් රැල්ලක්! පරෙස්සමෙන් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad4889af.json))
+* **6** news-first-lk ([Export earnings increase to US$ 1.2Bn in June: EDB](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/392df545.json))
 
 * **2** ada-derana-lk ([Number of filling stations using NFP system reached record high yesterday](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/feac13b8.json))
 
@@ -34,15 +32,13 @@
 
 * **1** ada-lk ([ආචාර්ය චන්දිම ජීවන්දරගෙන් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/72/72f77660.json))
 
-* **1** economy-next-com ([Several hour water cut in Sri Lanka capital](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759c5624.json))
+## Last 24 Hours (235 Articles)
 
-## Last 24 Hours (239 Articles)
+* **49** virakesari-lk ([இலங்கைக்கு உதவும் ஆர்வத்தில் நடிகர் கமல்ஹாசன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/119b88e5.json))
 
-* **50** virakesari-lk ([பொதுஜன பெரமுனவின் உறுப்பினர்களை ஒன்றிணைத்து மஹிந்த தலைமையில் விசேட பேச்சுவார்த்தை - சாகர காரியவசம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/6053e372.json))
+* **41** lankadeepa-lk ([රටේ කොවිඩ් සියයට 10 කින් වැඩිවෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/b4/b491f9a3.json))
 
-* **41** lankadeepa-lk ([ලංකාවට නව මූල්‍ය පහසුකම් නොදෙන බව ලෝක බැංකුව කියයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/2d/2d221e12.json))
-
-* **33** ada-derana-lk ([Merchandise export earnings rise to USD 1.2 billion in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/d6/d6f54bca.json))
+* **30** ada-derana-lk ([Ruwan Wijewardene appointed as a presidential advisor](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b301ab0a.json))
 
 * **29** news-first-lk ([Over 100,000 LP Gas Cylinders to the market](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/219363cb.json))
 
@@ -58,15 +54,15 @@
 
 * **4** island-lk ([‘Sri Lanka missing out on billions of dollars in oil and gas Foreign Direct Investment’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c564a23.json))
 
-## Last Week (1,703 Articles)
+## Last Week (1,698 Articles)
 
-* **308** virakesari-lk ([காலிமுகத்திடலில் இடம்பெற்ற தாக்குதலுக்கு எதிர்த்து யாழில் போராட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/0a/0a6d3c83.json))
+* **306** virakesari-lk ([ஜூலை மாதத்தில் இலங்கைக்கு 28,000 சுற்றுலா பயணிகள் வருகை](https://github.com/nuuuwan/news_lk2/blob/data/articles/23/235cd3bf.json))
 
-* **283** lankadeepa-lk ([අරගලකරුවන්ට පහර දීම ගැන විපක්ෂය විවාදයක් ඉල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/b1/b137f0fd.json))
+* **283** lankadeepa-lk ([අගමැති ලේකම් ධුරයට අනුර දිසානායක](https://github.com/nuuuwan/news_lk2/blob/data/articles/c0/c0655a09.json))
 
-* **183** ada-lk ([මහජන මුදලින් නඩත්තු කරන වත්කම්වලට වගකියන්න – ආරක්‍ෂක ලේකම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bc3d970.json))
+* **182** ada-lk ([සාගල ජනපතිගේ උපදේශක තනතුරට](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15c62257.json))
 
-* **178** news-first-lk ([Over 100,000 gas cylinders to be distributed today](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ec763f8.json))
+* **177** news-first-lk ([Xi congratulates Ranil](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce281960.json))
 
 * **174** daily-mirror-lk ([Over 1,000 valuable artefacts missing in state premises taken over by protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/469ceda5.json))
 
@@ -76,7 +72,7 @@
 
 * **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
-* **73** economy-next-com ([Abeywardana fills vacant seat of Wickremesinghe after Sri Lanka president vote](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09143ac6.json))
+* **72** economy-next-com ([Sri Lanka govt schools to start from July 25](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4786a67.json))
 
 * **66** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
@@ -86,9 +82,9 @@
 
 * **6** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## All Time (2,374 Articles)
+## All Time (2,375 Articles)
 
-* **376** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **377** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **321** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 

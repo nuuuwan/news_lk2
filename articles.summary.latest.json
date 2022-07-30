@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca-\u0dc4\u0dbb\u0dd2-\u0db1\u0dc0\u0dad\u0dd2\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1-9\u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d91\u0db1\u0dca\u0db1\u2019\u2019/101-617286",
+    "time_ut": 1659164376,
+    "original_lang": "si",
+    "original_title": "\u2019\u2019\u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca \u0dc4\u0dbb\u0dd2 \u0db1\u0dc0\u0dad\u0dd2\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1 9\u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d91\u0db1\u0dca\u0db1\u2019\u2019",
+    "file_name": "/tmp/news_lk2/articles/e5/e5dbe9cb.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83974/grace-period-for-vehicle-revenue-license-renewal-in-wp-extended",
     "time_ut": 1659163680,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
     "file_name": "/tmp/news_lk2/articles/e2/e2ae9840.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da9\u0dd1\u0db1\u0dca\u0d9c\u0dda-\u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dd9\u0dbb\u0dda/11-395754",
-    "time_ut": 1658825403,
-    "original_lang": "si",
-    "original_title": "\u0da9\u0dd1\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dc4\u0ddd\u0daf\u0dbb\u0dba\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dd9\u0dbb\u0dda",
-    "file_name": "/tmp/news_lk2/articles/d6/d61e0ef7.json"
   }
 ]
