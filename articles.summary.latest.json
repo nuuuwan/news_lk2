@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83975/political-risks-still-challenge-sri-lankas-emergence-from-default-fitch-ratings",
+    "time_ut": 1659168180,
+    "original_lang": "en",
+    "original_title": "Political risks still challenge Sri Lanka\u2019s emergence from default: Fitch Ratings",
+    "file_name": "/tmp/news_lk2/articles/17/176d6ab2.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf-\u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db0\u0da2\u0dba-\u0db1\u0dd1/101-617287",
     "time_ut": 1659166809,
@@ -110,6 +118,14 @@
     "original_lang": "en",
     "original_title": "CBSL calls for market players to comply with regulations",
     "file_name": "/tmp/news_lk2/articles/da/da0b6d45.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dca-\u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2/11-395869",
+    "time_ut": 1659161349,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0dca \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b0/b0b11e6e.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b86\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3 \u0bae\u0bbe\u0bb1\u0bbf\u0ba9",
     "file_name": "/tmp/news_lk2/articles/59/598ec4a5.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8-\u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba8\u0bcd\u0ba4-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3-\u0bae\u0bbe\u0bb1\u0bbf\u0ba9/175-301158",
-    "time_ut": 1658827030,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3 \u0bae\u0bbe\u0bb1\u0bbf\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/63/63915bd1.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0bbf-\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-301157",
-    "time_ut": 1658826962,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/83/832d36f6.json"
   }
 ]
