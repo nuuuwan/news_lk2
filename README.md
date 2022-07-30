@@ -1,16 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 21:29:17 (LK time)*
+*As of 2022-07-30 21:53:10 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (3 Articles)
-
-* **1** news-first-lk ([Sri Lanka’s Economic Crisis: Did the Island-nation miss the warning signs?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a8/a8ce3640.json))
-
-* **1** lankadeepa-lk ([කුඩම්මාගේ හිරිහැර නිසා දරුවකු කිලෝ මීටර් 200 අම්මා සොයා පා පාදියෙන් යයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1b/1b46c3fd.json))
-
-* **1** virakesari-lk ([அரகலயவுடன் ஆர்ப்பாட்டம் என்ற பெயரில் வெளிச்சக்திகள் இணைந்துகொண்டதால் இலங்கை பாசிச பயங்கரவாதத்தை எதிர்கொண்டது- ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d44430e.json))
 
 ## Last 3 Hours (11 Articles)
 
@@ -22,15 +14,15 @@
 
 * **1** virakesari-lk ([அரகலயவுடன் ஆர்ப்பாட்டம் என்ற பெயரில் வெளிச்சக்திகள் இணைந்துகொண்டதால் இலங்கை பாசிச பயங்கரவாதத்தை எதிர்கொண்டது- ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d44430e.json))
 
-## Last 24 Hours (160 Articles)
+## Last 24 Hours (157 Articles)
 
 * **28** ada-derana-lk ([India monitoring reports of Chinese vessel’s planned visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/006086cd.json))
 
-* **23** lankadeepa-lk ([සුද්දො බාගෙට බාගයකට ලංකාව එපා වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99febc61.json))
-
-* **22** virakesari-lk ([இலங்கையின் அண்மைக்கால நிலைவரங்கள் ஆசிய - பசுபிக் பிராந்தியத்துக்கான எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/681ae825.json))
+* **21** lankadeepa-lk ([අප්‍රිකාවෙන් පිට පළමු  වඳුරු උණ මරණ වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e186bd94.json))
 
 * **21** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
+
+* **20** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
 * **20** daily-mirror-lk ([Law related to Contempt of Court to be amended : Bandula](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c4af0f5.json))
 
@@ -38,7 +30,7 @@
 
 * **12** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
 
-* **10** ada-lk ([මේ අය ගැන දන්නවනම් පොලීසියට කියන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb3d8a00.json))
+* **11** ada-lk ([මේ අය ගැන දන්නවනම් පොලීසියට කියන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb3d8a00.json))
 
 * **5** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
@@ -46,11 +38,11 @@
 
 * **298** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
-* **282** lankadeepa-lk ([මෝටර් රථයක් ඇඟට වැටී කුඩා දැරියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06ac66de.json))
+* **281** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
 
 * **182** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
 
-* **176** ada-lk ([ඇන්ජි කඩයිමක් අභියස](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43ec0d8a.json))
+* **177** ada-lk ([ඇන්ජි කඩයිමක් අභියස](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43ec0d8a.json))
 
 * **174** ada-derana-lk ([Train security officer dies after being pushed off moving train](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2af9d90.json))
 
@@ -70,13 +62,13 @@
 
 * **6** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## All Time (2,446 Articles)
+## All Time (2,447 Articles)
 
 * **387** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
 * **330** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
-* **275** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
+* **276** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
 * **268** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 

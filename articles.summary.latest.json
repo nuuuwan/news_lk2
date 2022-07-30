@@ -89,6 +89,14 @@
   },
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/IMF-\u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba-\u0dbd\u0db6\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0d9a\u0dbd\u0dca-\u0dba\u0db1\u0dc0\u0dcf/11-395875",
+    "time_ut": 1659186088,
+    "original_lang": "si",
+    "original_title": "IMF \u0dc3\u0dc4\u0dba\u0ddd\u0d9c\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9a\u0dbd\u0dca \u0dba\u0db1\u0dc0\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/fb/fb028c54.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0db8\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-395874",
     "time_ut": 1659185875,
     "original_lang": "si",
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Tusker Bharana found dead mysteriously",
     "file_name": "/tmp/news_lk2/articles/96/9648790e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/five-covid-deaths-for-monday-25-over-100-cases-today-26/",
-    "time_ut": 1658839560,
-    "original_lang": "en",
-    "original_title": "Five COVID deaths for Monday (25), over 100 cases today (26)",
-    "file_name": "/tmp/news_lk2/articles/e7/e7f46b9c.json"
   }
 ]
