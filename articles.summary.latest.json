@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/cbsl-calls-for-market-players-to-comply-with-regulations/",
+    "time_ut": 1659162720,
+    "original_lang": "en",
+    "original_title": "CBSL calls for market players to comply with regulations",
+    "file_name": "/tmp/news_lk2/articles/da/da0b6d45.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/30/suspect-arrested-for-stockpiling-over-100l-petrol/",
     "time_ut": 1659160560,
     "original_lang": "en",
@@ -7990,13 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0dc3\u0db8\u0dca\u0db8\u0dda\u0dbd\u0db1\u0dba \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dad\u0dcf\u0dc0\u0d9a",
     "file_name": "/tmp/news_lk2/articles/16/16b75894.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dd2\u0dc0-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dd9\u0daf\u0db1-\u0dad\u0dd0\u0db1\u0d9a\u0dca/1-617063",
-    "time_ut": 1658823356,
-    "original_lang": "si",
-    "original_title": "\u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dd9\u0daf\u0db1 \u0dad\u0dd0\u0db1\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/84/84b145e8.json"
   }
 ]
