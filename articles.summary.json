@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0b95\u0bcd-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0b95\u0bca\u0bb2\u0bc8/95-301360",
+    "time_ut": 1659159395,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0b95\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0bca\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/af/afdf3929.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0dd4\u0dbd\u0dd3-\u0da0\u0db1\u0dca\u0d9c\u0dca-\u0d85\u0dbd\u0dd2-\u0dc3\u0db6\u0dca\u0dbb\u0dd2-\u0d85\u0dad\u0dbb-\u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca/101-617283",
+    "time_ut": 1659159136,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0dd4\u0dbd\u0dd3 \u0da0\u0db1\u0dca\u0d9c\u0dca-\u0d85\u0dbd\u0dd2 \u0dc3\u0db6\u0dca\u0dbb\u0dd2 \u0d85\u0dad\u0dbb \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/c9/c9a8a0a5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132543",
+    "time_ut": 1659158717,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 12 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0b9f\u0bae\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/5f/5f437417.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132541",
     "time_ut": 1659158203,
@@ -94,6 +118,14 @@
     "original_lang": "en",
     "original_title": "China defends military ship\u2019s planned visit to SL as India voices concern",
     "file_name": "/tmp/news_lk2/articles/bd/bd0a6406.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dc5\u0db3-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0d85\u0db4\u0db1\u0dba\u0db1\u0dba-\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a/11-395867",
+    "time_ut": 1659152463,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd9\u0dc5\u0db3 \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0d85\u0db4\u0db1\u0dba\u0db1\u0dba \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a",
+    "file_name": "/tmp/news_lk2/articles/a0/a06bf4b2.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
