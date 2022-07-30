@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 05:19:08 (LK time)*
+*As of 2022-07-30 05:31:49 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,7 +8,7 @@
 
 * **1** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
 
-## Last 24 Hours (251 Articles)
+## Last 24 Hours (254 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
@@ -18,7 +18,7 @@
 
 * **34** news-first-lk ([Maldives President To Visit India Next Month](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/13934605.json))
 
-* **28** daily-mirror-lk ([Sri Lankan exporters to face tough access to Germany unless HR, sustainability standards met](https://github.com/nuuuwan/news_lk2/blob/data/articles/60/60d0d6fb.json))
+* **27** daily-mirror-lk ([Govt. initiates talks for all-party govt.](https://github.com/nuuuwan/news_lk2/blob/data/articles/07/07716359.json))
 
 * **21** ada-lk ([පරාටේ නීතිය ක්‍රියාත්මක කිරීම නවත්වන්න - සජිත්](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf03ee6a.json))
 
@@ -28,7 +28,9 @@
 
 * **12** economy-next-com ([Sri Lanka’s Chevron Lubricants net up 82-pct despite forex loss](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e11106f.json))
 
-## Last Week (1,670 Articles)
+* **4** island-lk ([‘Sri Lanka missing out on billions of dollars in oil and gas Foreign Direct Investment’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c564a23.json))
+
+## Last Week (1,681 Articles)
 
 * **293** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
@@ -48,7 +50,7 @@
 
 * **74** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
 
-* **55** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
+* **66** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
 * **19** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
@@ -56,7 +58,7 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,303 Articles)
+## All Time (2,314 Articles)
 
 * **366** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -78,7 +80,7 @@
 
 * **112** economy-next-com ([EXPLAINER – Why foreign nations use IMF as a shield to help crisis-hit Sri Lanka?](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/573e687d.json))
 
-* **91** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
+* **102** island-lk ([Rethinking Sri Lanka’s industrialisation](https://github.com/nuuuwan/news_lk2/blob/data/articles/88/88632834.json))
 
 * **33** colombo-telegraph-com ([SriLankan Airlines: Management Confirms No Risk Of Midair Collision](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/17ef5d9c.json))
 
