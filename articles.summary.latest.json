@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83976/schools-to-continue-to-deliver-onsite-lessons-three-days-per-week",
+    "time_ut": 1659170340,
+    "original_lang": "en",
+    "original_title": "Schools to continue to deliver onsite lessons three days per week",
+    "file_name": "/tmp/news_lk2/articles/4a/4aebfec9.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132570",
+    "time_ut": 1659170334,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bbf\u0bb5\u0bbe\u0b95\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcb\u0bb0\u0bbf\u0baf  \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc8 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b95\u0ba3\u0bb5\u0ba9\u0bcd ; \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd - \u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9a/9a3bbeab.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/thaksalawa/\u0d89\u0dc0\u0dad-\u0daf\u0db8\u0db1-\u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca-\u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca-\u0dbb\u0da7\u0da7-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0d9c\u0dd9\u0db1\u0dd9\u0db1-\u0dbb\u0da2-\u0dc0\u0dd0\u0da9-\u0d9a\u0dcf\u0dbb\u0dba\u0ddd/55-617291",
+    "time_ut": 1659170333,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0dc0\u0dad \u0daf\u0db8\u0db1 \u0db4\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0da7\u0dd2\u0d9a\u0dca \u0db6\u0ddd\u0dad\u0dbd\u0dd9\u0db1\u0dca \u0dbb\u0da7\u0da7 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0d9c\u0dd9\u0db1\u0dd9\u0db1 \u0dbb\u0da2 \u0dc0\u0dd0\u0da9 \u0d9a\u0dcf\u0dbb\u0dba\u0ddd",
+    "file_name": "/tmp/news_lk2/articles/b8/b8bddba2.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0daf\u0dc5\u0daf\u0dcf-\u0dc0\u0dd0\u0db3\u0db4\u0dd4\u0daf\u0dcf-\u0d9c\u0db1\u0dd3/101-617290",
+    "time_ut": 1659170236,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0daf\u0dc5\u0daf\u0dcf \u0dc0\u0dd0\u0db3\u0db4\u0dd4\u0daf\u0dcf \u0d9c\u0db1\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/52/52396904.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/thaksalawa/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/55-617289",
     "time_ut": 1659169811,
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "India will support Sri Lanka for stability through democratic means",
     "file_name": "/tmp/news_lk2/articles/56/568ad8a8.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/qr-system-fuel-quota-increased-for-all-vehicles/",
-    "time_ut": 1658828280,
-    "original_lang": "en",
-    "original_title": "QR system fuel quota increased for all vehicles",
-    "file_name": "/tmp/news_lk2/articles/35/35efd56b.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83881/dan-priyasads-brother-hacked-to-death",
-    "time_ut": 1658828280,
-    "original_lang": "en",
-    "original_title": "Dan Priyasad\u2019s brother hacked to death",
-    "file_name": "/tmp/news_lk2/articles/95/958315da.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/lp-gas-theft-caught-on-tape/",
-    "time_ut": 1658828040,
-    "original_lang": "en",
-    "original_title": "LP Gas theft caught on tape",
-    "file_name": "/tmp/news_lk2/articles/6c/6c8b578f.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132294",
-    "time_ut": 1658828036,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0ba4\u0bbf :  \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/2e/2e3eb85f.json"
   }
 ]
