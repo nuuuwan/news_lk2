@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 00:21:59 (LK time)*
+*As of 2022-07-31 00:37:03 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Soft liquor licences for SLTDA-registered establishments](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8af7996.json))
 
 ## Last Hour (3 Articles)
 
@@ -14,21 +10,19 @@
 
 * **1** economy-next-com ([Sri Lanka Nestlé unit’s profit up 34% amid net financial expenses jump](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec78521.json))
 
-## Last 3 Hours (10 Articles)
+## Last 3 Hours (7 Articles)
 
 * **3** ada-derana-lk ([More COVID infections and deaths reported today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee0847dc.json))
 
 * **2** economy-next-com ([Sri Lanka to fully implement QR code system in fuel rationing from Aug. 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc20f506.json))
 
-* **2** ada-lk ([පොදු රාජ්‍ය මණ්ඩලයීය පළමු පදක්කම ඉසුරුගෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe4fa8d.json))
-
-* **2** virakesari-lk ([சவால்களை எதிர்கொள்ள இலங்கைக்கு தொடர்ந்தும் உதவுவதற்கு உறுதிபூண்டுள்ளோம் - இந்திய ஜனாதிபதி திரௌபதி முர்மு ஜனாதிபதி ரணிலுக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fc9430.json))
-
 * **1** tamil-mirror-lk ([முதலாம் வகுப்புக்கு மாணவர்கள் தொடர்பில் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57864da2.json))
 
-## Last 24 Hours (141 Articles)
+* **1** ada-lk ([කොවිඩ් ආසාදිතයන් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45b1ac90.json))
 
-* **26** ada-derana-lk ([China defends military ship’s planned visit to Sri Lanka as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/f7/f765a9b2.json))
+## Last 24 Hours (140 Articles)
+
+* **25** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
 * **22** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
