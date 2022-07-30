@@ -1,0 +1,627 @@
+{
+  "newspaper_id": "economy-next-com",
+  "url": "https://economynext.com/sri-lanka-bairaha-farms-profit-soars-over-200-on-rising-chicken-price-98035/",
+  "time_ut": 1659179820,
+  "original_lang": "en",
+  "original_title": "Sri Lanka Bairaha Farm\u2019s profit soars over 200% on rising chicken price",
+  "text_idx": {
+    "en": {
+      "title": "Sri Lanka Bairaha Farm\u2019s profit soars over 200% on rising chicken price",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT \u2013 Sri Lanka\u2019s Bairaha Farms Plc, a poultry group, said its profits grew more than 200 percent in the June 2022 quarter from a year earlier led by increase in other operating income and join venture profits, interim accounts showed.",
+        "The poultry group recorded a profit of 369.5 million rupees in the June 2022 quarter, an increase of 274.1 percent from 98 million rupees a year earlier.",
+        "The group reported earnings of 23.10 rupees per share for the quarter, compared 17.38 rupees in the same quarter last year.",
+        "Bairaha Farms reported revenues of 2.31 billion rupees for the June 2022 quarter, up 68 percent from a year earlier while cost of sales went up 58 percent to 1.7 billion rupees, allowing gross profits to grow 117 percent to 538 million dollars.",
+        "Share of profits from joint venture companies rose 150 percent to 77 million rupees from a 31million rupee a year earlier.",
+        "The firm reported 233 percent increase in other operating income to 17.5 million rupees\u00a0from 5.2\u00a0million a year earlier.",
+        "The group\u2019s total assets have increased by 22.1 percent to 6.7 billion rupees\u00a0from 5.2\u00a0billion a year earlier.",
+        "The group has two joint ventures Fortune Agro industries (Pvt) Ltd a feed mill, Fortune GP Farms (Lanka) Ltd, a breeder farm. (Colombo/July 302021)"
+      ],
+      "title_ents": [
+        {
+          "text": "Sri Lanka Bairaha Farm\u2019s",
+          "label": "ORG"
+        },
+        {
+          "text": "over 200%",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "Sri Lanka\u2019s",
+            "label": "GPE"
+          },
+          {
+            "text": "Bairaha Farms Plc",
+            "label": "ORG"
+          },
+          {
+            "text": "more than 200 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "the June 2022 quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "369.5 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the June 2022 quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "274.1 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "98 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "23.10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "17.38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "the same quarter last year",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "Bairaha Farms",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.31 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "June 2022 quarter",
+            "label": "DATE"
+          },
+          {
+            "text": "68 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          },
+          {
+            "text": "58 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.7 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "117 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "538 million dollars",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "150 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "77 million rupees",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "31million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "233 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "17.5 million",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5.2\u00a0million",
+            "label": "MONEY"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "22.1 percent",
+            "label": "PERCENT"
+          },
+          {
+            "text": "6.7 billion",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5.2\u00a0billion",
+            "label": "MONEY"
+          },
+          {
+            "text": "a year earlier",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "two",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Fortune Agro",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Fortune GP Farms",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Lanka) Ltd",
+            "label": "ORG"
+          },
+          {
+            "text": "Colombo",
+            "label": "PERSON"
+          },
+          {
+            "text": "July 302021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "si": {
+      "title": "\u0d9a\u0dd4\u0d9a\u0dd4\u0dc5\u0dd4 \u0db8\u0dc3\u0dca \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5 \u0dba\u0dcf\u0db8 \u0db8\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dba\u0dd2\u0dbb\u0dc4\u0dcf \u0dc6\u0dcf\u0db8\u0dca \u0dc4\u0dd2 \u0dbd\u0dcf\u0db7\u0dba 200% \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - Sri Lanka\u2019s Bairaha Farms Plc, Kullry group, \u0d91\u0dc4\u0dd2 \u0dbd\u0dcf\u0db7\u0dba 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0daf\u0dd3 \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dda \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0dc4\u0dc0\u0dd4\u0dbd\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dbd\u0dcf\u0db7\u0dba\u0db1\u0dca\u0dc4\u0dd2 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd3\u0db8 \u0dc4\u0dda\u0dad\u0dd4\u0dc0\u0dd9\u0db1\u0dca 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 200 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dc5 \u0db6\u0dc0 \u0d85\u0dad\u0dd4\u0dbb\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd9\u0dba\u0dd2.",
+        "\u0d9a\u0dd4\u0d9a\u0dd4\u0dc5\u0dd4 \u0dc3\u0db8\u0dd6\u0dc4\u0dba 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 369.5 \u0d9a \u0dbd\u0dcf\u0db7\u0dba\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0dda \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 98 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd2\u0dba\u0dba\u0da7 274.1 \u0d9a \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0d9a\u0dd2.",
+        "\u0dc3\u0db8\u0dd6\u0dc4\u0dba \u0db8\u0dd9\u0db8 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 23.10 \u0d9a \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dc5 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca 17.38 \u0d9a \u0d89\u0db4\u0dd0\u0dba\u0dd3\u0db8\u0d9a\u0dd2.",
+        "\u0db6\u0dba\u0dd2\u0dbb\u0dc4\u0dcf \u0dc6\u0dcf\u0db8\u0dca\u0dc3\u0dca 2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.31 \u0d9a \u0d86\u0daf\u0dcf\u0dba\u0db8\u0d9a\u0dca \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d91\u0dba \u0db4\u0dd9\u0dbb \u0dc0\u0dc3\u0dbb\u0da7 \u0dc0\u0da9\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 68 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc0\u0dd0\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 58 \u0d9a\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.7 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0daf\u0dc5 \u0dbd\u0dcf\u0db7\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 117 \u0d9a\u0dd2\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 538 \u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd2\u0dba.",
+        "\u0dc4\u0dc0\u0dd4\u0dbd\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dca\u0dc0\u0dbd \u0dbd\u0dcf\u0db7 \u0d9a\u0ddc\u0da7\u0dc3 \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 31 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 77 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 150 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dba\u0dda\u0dba.",
+        "\u0dc3\u0db8\u0dcf\u0d9c\u0db8 \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0d85\u0db1\u0dd9\u0d9a\u0dd4\u0dad\u0dca \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 17.5 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 233 \u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dc3\u0dca \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dbb \u0d87\u0dad.",
+        "\u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0db8\u0dd4\u0dc5\u0dd4 \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5.2 \u0dc3\u0dd2\u0da7 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 6.7 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0dd2\u0dba\u0dba\u0da7 22.1 \u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd3 \u0d87\u0dad.",
+        "\u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0da7 Fortune Agro industries (Pvt) Ltd, Feed Mill, Fortune GP Farms (Lanka) Ltd, \u0d85\u0db7\u0dd2\u0da2\u0db1\u0db1 \u0d9c\u0ddc\u0dc0\u0dd2\u0db4\u0dbd \u0dba\u0db1 \u0dc4\u0dc0\u0dd4\u0dbd\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d87\u0dad. (\u0d9a\u0ddc\u0dc5\u0db9/\u0da2\u0dd6\u0dbd\u0dd2 302021)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db6\u0dba\u0dd2\u0dbb\u0dc4\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0db4\u0dc5",
+          "label": "ORG"
+        },
+        {
+          "text": "200% \u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
+            "label": "GPE"
+          },
+          {
+            "text": "Bairaha Farms Plc",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 200 \u0d9a\u0da7 \u0dc0\u0da9\u0dcf",
+            "label": "PERCENT"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 369.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 274.1 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 98 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "23.10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "17.38 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0d91\u0db8 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0db6\u0dba\u0dd2\u0dbb\u0dc4\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0db4\u0dbd",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.31 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "2022 \u0da2\u0dd4\u0db1\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dad\u0dd4\u0dc0",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 68 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 58 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 1.7 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 117 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 538 \u0d9a\u0dd2",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 150\u0d9a\u0dca",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 77 \u0d9a\u0dd2",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 31 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 233 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 17.5 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5.2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0dc3\u0dd2\u0dba\u0dba\u0da7 22.1 \u0d9a\u0dd2",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 6.7 \u0d9a\u0dd2",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 5.2",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0dc0\u0dc3\u0dbb\u0d9a\u0da7 \u0db4\u0dd9\u0dbb",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0daf\u0dd9\u0d9a",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "Fortune Agro",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "Fortune GP Farms",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0dbd\u0d82\u0d9a\u0dcf) \u0dbd\u0dd2\u0db8\u0dd2\u0da7\u0da9\u0dca",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0d9a\u0ddc\u0dc5\u0db9",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0da2\u0dd6\u0dbd\u0dd2 302021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    },
+    "ta": {
+      "title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc8\u0bb0\u0bbe\u0bb9\u0bbe \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb2\u0bbe\u0baa\u0bae\u0bcd \u0b95\u0bcb\u0bb4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bbe\u0bb2\u0bcd 200%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+      "author": "",
+      "body_lines": [
+        "ECONOMYNEXT - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd Bairaha Farms Plc, \u0b95\u0bcb\u0bb4\u0bbf \u0bb5\u0bb3\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd \u0b87\u0bb2\u0bbe\u0baa\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 200 \u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0bcb\u0bb4\u0bbf \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bcd 2022 \u0b9c\u0bc2\u0ba9\u0bcd \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 369.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 98 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 274.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 17.38 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 23.10 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0baa\u0bc8\u0bb0\u0bbe\u0bb9\u0bbe \u0b83\u0baa\u0bbe\u0bb0\u0bcd\u0bae\u0bcd\u0bb8\u0bcd \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd 2.31 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0bc1 \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b86\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f 68 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1 58 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 1.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1, \u0b87\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0bb2\u0bbe\u0baa\u0bae\u0bcd 117 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 538 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1.",
+        "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0bbe\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 150 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 77 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1 \u0b87\u0baf\u0b95\u0bcd\u0b95 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 233 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 17.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u00a0\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd 22.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 6.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bbe\u0b95\u00a0\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+        "\u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 Fortune Agro industries (Pvt) Ltd \u0b92\u0bb0\u0bc1 \u0ba4\u0bc0\u0bb5\u0ba9 \u0b86\u0bb2\u0bc8, Fortune GP Farms (Lanka) Ltd, \u0b92\u0bb0\u0bc1 \u0bb5\u0bb3\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0ba3\u0bcd\u0ba3\u0bc8 \u0b86\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. (\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1/\u0b9c\u0bc2\u0bb2\u0bc8 302021)"
+      ],
+      "title_ents": [
+        {
+          "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc8\u0bb0\u0bbe\u0bb9\u0bbe \u0baa\u0ba3\u0bcd\u0ba3\u0bc8",
+          "label": "ORG"
+        },
+        {
+          "text": "200%\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd",
+          "label": "PERCENT"
+        }
+      ],
+      "body_line_ents_list": [
+        [
+          {
+            "text": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd",
+            "label": "GPE"
+          },
+          {
+            "text": "\u0baa\u0bc8\u0bb0\u0bbe\u0bb9\u0bbe \u0b83\u0baa\u0bbe\u0bb0\u0bcd\u0bae\u0bcd\u0bb8\u0bcd \u0baa\u0bbf.\u0b8e\u0bb2\u0bcd.\u0b9a\u0bbf",
+            "label": "ORG"
+          },
+          {
+            "text": "200 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "369.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "274.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "98 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "23.10",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "17.38",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0ba4\u0bc7 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0baa\u0bc8\u0bb0\u0bbe\u0bb9\u0bbe \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "PERSON"
+          },
+          {
+            "text": "2.31 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b95\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "68 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          },
+          {
+            "text": "58 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "1.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "117 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "538 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+            "label": "MONEY"
+          }
+        ],
+        [
+          {
+            "text": "150 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "77 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd",
+            "label": "QUANTITY"
+          },
+          {
+            "text": "31 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "233 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "17.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5.2\u00a0\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "22.1 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bcd",
+            "label": "PERCENT"
+          },
+          {
+            "text": "6.7 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "5.2\u00a0\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd",
+            "label": "MONEY"
+          },
+          {
+            "text": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1",
+            "label": "DATE"
+          }
+        ],
+        [
+          {
+            "text": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1",
+            "label": "CARDINAL"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc2\u0ba9\u0bcd \u0b85\u0b95\u0bcd\u0bb0\u0bcb",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0baa\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc2\u0ba9\u0bcd GP \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bcd",
+            "label": "WORK_OF_ART"
+          },
+          {
+            "text": "\u0bb2\u0b99\u0bcd\u0b95\u0bbe) \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+            "label": "ORG"
+          },
+          {
+            "text": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+            "label": "PERSON"
+          },
+          {
+            "text": "\u0b9c\u0bc2\u0bb2\u0bc8 302021",
+            "label": "DATE"
+          }
+        ]
+      ]
+    }
+  }
+}
