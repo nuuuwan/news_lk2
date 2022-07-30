@@ -1,6 +1,14 @@
 [
   {
     "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395877",
+    "time_ut": 1659198690,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d86\u0dc3\u0dcf\u0daf\u0dd2\u0dad\u0dba\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/45/45b1ac90.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/sports/\u0db4\u0ddc\u0daf\u0dd4-\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd3\u0dba-\u0db4\u0dc5\u0db8\u0dd4-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8-\u0d89\u0dc3\u0dd4\u0dbb\u0dd4\u0d9c\u0dd9\u0db1\u0dca/9-395876",
     "time_ut": 1659196566,
     "original_lang": "si",
