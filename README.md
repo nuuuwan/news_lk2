@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 21:19:58 (LK time)*
+*As of 2022-07-30 21:29:17 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,23 +12,19 @@
 
 * **1** virakesari-lk ([அரகலயவுடன் ஆர்ப்பாட்டம் என்ற பெயரில் வெளிச்சக்திகள் இணைந்துகொண்டதால் இலங்கை பாசிச பயங்கரவாதத்தை எதிர்கொண்டது- ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d44430e.json))
 
-## Last 3 Hours (14 Articles)
-
-* **4** news-first-lk ([National Fuel Pass: Energy Ministry explains new system](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/336b2f7b.json))
+## Last 3 Hours (11 Articles)
 
 * **4** lankadeepa-lk ([පැය 24 ක් යන්න කලින් තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed4320ce.json))
+
+* **3** news-first-lk ([Does the President seek to misuse idea of All-party Govt? – Ven. Omalpe Sobhitha Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa2c6fc5.json))
 
 * **3** tamil-mirror-lk ([வலுச்சக்தி அமைச்சின் விசேட அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e34ad618.json))
 
 * **1** virakesari-lk ([அரகலயவுடன் ஆர்ப்பாட்டம் என்ற பெயரில் வெளிச்சக்திகள் இணைந்துகொண்டதால் இலங்கை பாசிச பயங்கரவாதத்தை எதிர்கொண்டது- ரணில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d44430e.json))
 
-* **1** ada-lk ([මට ගෙදර යන්න කියන්න එපා](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2cf53656.json))
+## Last 24 Hours (160 Articles)
 
-* **1** daily-mirror-lk ([Airmail charges up from Aug.1](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/102d4778.json))
-
-## Last 24 Hours (161 Articles)
-
-* **29** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
+* **28** ada-derana-lk ([India monitoring reports of Chinese vessel’s planned visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/006086cd.json))
 
 * **23** lankadeepa-lk ([සුද්දො බාගෙට බාගයකට ලංකාව එපා වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99febc61.json))
 
@@ -46,11 +42,11 @@
 
 * **5** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
-## Last Week (1,676 Articles)
+## Last Week (1,674 Articles)
 
-* **299** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
+* **298** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
-* **283** lankadeepa-lk ([කෝච්චි පාර අයිනෙන් මළසිරුරු දෙකක් හමු වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce31af2d.json))
+* **282** lankadeepa-lk ([මෝටර් රථයක් ඇඟට වැටී කුඩා දැරියක් මරුට](https://github.com/nuuuwan/news_lk2/blob/data/articles/06/06ac66de.json))
 
 * **182** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
 
