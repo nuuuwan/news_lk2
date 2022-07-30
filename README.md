@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 02:17:05 (LK time)*
+*As of 2022-07-31 02:31:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka’s Expolanka profit skyrockets over 200% on exports, rupee depreciation](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dd17671.json))
 
 ## Last 3 Hours (5 Articles)
 
@@ -14,9 +10,9 @@
 
 * **2** economy-next-com ([Sri Lanka Nestlé unit’s profit up 34% amid net financial expenses jump](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec78521.json))
 
-## Last 24 Hours (137 Articles)
+## Last 24 Hours (136 Articles)
 
-* **26** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
+* **25** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
 
 * **23** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
