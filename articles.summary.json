@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0da7-\u0d9c\u0dd9\u0daf\u0dbb-\u0dba\u0db1\u0dca\u0db1-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0d91\u0db4\u0dcf/11-395874",
+    "time_ut": 1659185875,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0da7 \u0d9c\u0dd9\u0daf\u0dbb \u0dba\u0db1\u0dca\u0db1 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf",
+    "file_name": "/tmp/news_lk2/articles/2c/2cf53656.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Airmail-charges-up-from-Aug-1/108-242102",
+    "time_ut": 1659185687,
+    "original_lang": "en",
+    "original_title": "Airmail charges up from Aug.1",
+    "file_name": "/tmp/news_lk2/articles/10/102d4778.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Ministry-requests-public-to-send-evidence-of-illegal-fuel-hoarding-selling/342-242101",
+    "time_ut": 1659185290,
+    "original_lang": "en",
+    "original_title": "Ministry requests public to send evidence of illegal fuel hoarding, selling",
+    "file_name": "/tmp/news_lk2/articles/f5/f5d0182d.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db8-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dd4\u0dab\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dbd\u0dcf-\u0db1\u0dd1/11-395873",
+    "time_ut": 1659184503,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db8 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dd4\u0dab\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dbd\u0dcf \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/3a/3a51505a.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83982/all-party-govt-the-best-way-to-resolve-crisis-situation-president",
     "time_ut": 1659184380,
@@ -30,6 +62,14 @@
     "original_lang": "en",
     "original_title": "President visits Kandy",
     "file_name": "/tmp/news_lk2/articles/93/9329f0e8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83981/special-notice-on-rollout-of-national-fuel-pass-system",
+    "time_ut": 1659180900,
+    "original_lang": "en",
+    "original_title": "Special notice on rollout of national fuel pass system",
+    "file_name": "/tmp/news_lk2/articles/d5/d5e55646.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -401,11 +441,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/All-arrangements-in-place-to-implement-QR-code-system-from-Aug-1/342-242095",
+    "url": "https://www.dailymirror.lk/breaking_news/All-arrangements-in-place-to-implement-QR-code-system-from-Aug-1/108-242095",
     "time_ut": 1659166325,
     "original_lang": "en",
     "original_title": "All arrangements in place to implement QR code system from Aug.1",
-    "file_name": "/tmp/news_lk2/articles/bf/bf508427.json"
+    "file_name": "/tmp/news_lk2/articles/bc/bc4edf90.json"
   },
   {
     "newspaper_id": "virakesari-lk",
