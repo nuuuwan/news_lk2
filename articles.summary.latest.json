@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf-\u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0da7-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db0\u0da2\u0dba-\u0db1\u0dd1/101-617287",
+    "time_ut": 1659166809,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf \u0d8b\u0dad\u0dca\u0dc3\u0dc0\u0dba\u0da7 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db0\u0da2\u0dba \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/7c/7c2d2f75.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-to-function-schools-during-the-week-will-be-announced-today/108-242096",
+    "time_ut": 1659166580,
+    "original_lang": "en",
+    "original_title": "Decision to function schools during the week will be announced today",
+    "file_name": "/tmp/news_lk2/articles/9f/9f63ecae.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301361",
     "time_ut": 1659166365,
@@ -233,11 +249,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Stamps-currencies-coins-exhibition/342-242093",
+    "url": "https://www.dailymirror.lk/caption_story/Stamps-currencies-coins-exhibition/110-242093",
     "time_ut": 1659153578,
     "original_lang": "en",
     "original_title": "Stamps, currencies, coins exhibition",
-    "file_name": "/tmp/news_lk2/articles/40/403f81a6.json"
+    "file_name": "/tmp/news_lk2/articles/f9/f966367b.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/83/832d36f6.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/health-dg-strongly-recommends-to-wear-masks/",
-    "time_ut": 1658826960,
-    "original_lang": "en",
-    "original_title": "Health DG strongly recommends to wear masks",
-    "file_name": "/tmp/news_lk2/articles/e1/e1b4e2d0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/long-term-investments-in-sri-lanka-are-indias-plan-to-fix-economic-crisis/",
-    "time_ut": 1658826900,
-    "original_lang": "en",
-    "original_title": "Long-term investments in Sri Lanka are India\u2019s plan to fix economic crisis",
-    "file_name": "/tmp/news_lk2/articles/88/888ed8b0.json"
   }
 ]
