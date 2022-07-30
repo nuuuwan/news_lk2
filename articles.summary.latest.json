@@ -1,5 +1,37 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132579",
+    "time_ut": 1659177037,
+    "original_lang": "ta",
+    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0ba4\u0bb2\u0ba4\u0bbe \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/14/141dc82e.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/medical-professionals-concerned-about-effects-of-emergency-law/",
+    "time_ut": 1659176400,
+    "original_lang": "en",
+    "original_title": "Medical professionals concerned about effects of Emergency Law",
+    "file_name": "/tmp/news_lk2/articles/bb/bb032e1c.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132576",
+    "time_ut": 1659176078,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba9\u0bbf \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/7e/7e43b6c6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc2\u0bb0\u0ba3-\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd-\u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-301367",
+    "time_ut": 1659175938,
+    "original_lang": "ta",
+    "original_title": "\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc2\u0bb0\u0ba3 \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/11/11826991.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83979/man-arrested-for-stealing-presidents-flag-remanded",
     "time_ut": 1659175200,
@@ -222,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Decision to function schools during the week will be announced today",
     "file_name": "/tmp/news_lk2/articles/9f/9f63ecae.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301361",
+    "time_ut": 1659166365,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/fb/fbc0cb31.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0dda \u0daf\u0dd2\u0db1\u0d9a \u0d85\u0dbd\u0dcf\u0db7\u0dba \u0d9a\u0ddd\u0da7\u0dd2 10\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/86/86f74f3e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf-\u0dc0\u0dd9\u0db1\u0dca-\u0dc4\u0dd9\u0da7-\u0dba\u0dba\u0dd2/11-395758",
-    "time_ut": 1658831478,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dda \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd4\u0dbb\u0dcf\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf \u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0dd9\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/fe/fe7c48e8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132300",
-    "time_ut": 1658830507,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bb7\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b88\u0b9f\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bc7 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 - \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2 \u0b95\u0bc1\u0ba3\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
-    "file_name": "/tmp/news_lk2/articles/c2/c2ce2f43.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/motorcycle-gunmen-shoot-dead-man-in-ambalangoda/",
-    "time_ut": 1658830380,
-    "original_lang": "en",
-    "original_title": "Motorcycle gunmen shoot dead \u00a0man in Ambalangoda",
-    "file_name": "/tmp/news_lk2/articles/ef/efbc1ec8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dbb\u0dcf\u0dc0\u0da7-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca-\u0d85\u0db8\u0dad\u0d9a-\u0db1\u0ddc\u0dc0\u0db1-\u0db4\u0dcf\u0da9\u0db8\u0d9a\u0dca/1-617074",
-    "time_ut": 1658830371,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dbb\u0dcf\u0dc0\u0da7 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0d85\u0db8\u0dad\u0d9a \u0db1\u0ddc\u0dc0\u0db1 \u0db4\u0dcf\u0da9\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ea/ea647b35.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0b9a\u0bcd-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b95\u0bcd\u0b95-\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd-\u0b85\u0ba3\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-301161",
-    "time_ut": 1658830359,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b85\u0ba3\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/4b/4b4d6fdd.json"
   }
 ]
