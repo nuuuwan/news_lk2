@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 05:31:49 (LK time)*
+*As of 2022-07-30 05:43:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,11 +8,11 @@
 
 * **1** ada-derana-lk ([Money found inside President’s House handed over to court](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/3177e56a.json))
 
-## Last 24 Hours (254 Articles)
+## Last 24 Hours (255 Articles)
 
 * **49** lankadeepa-lk ([පළාත් හයකට සවස වැස්ස](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cfe5ced3.json))
 
-* **46** virakesari-lk ([இலங்கை திரும்பியதும் கோத்தபாய ராஜபக்ச ஊழல் மற்றும் போர்க்குற்றம் தொடர்பான விசாரணைகளை எதிர்கொள்ளநேரிடும் - சர்வதேச  ஊடகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90797c35.json))
+* **47** virakesari-lk ([இலங்கை திரும்பியதும் கோத்தபாய ராஜபக்ச ஊழல் மற்றும் போர்க்குற்றம் தொடர்பான விசாரணைகளை எதிர்கொள்ளநேரிடும் - சர்வதேச  ஊடகம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/90/90797c35.json))
 
 * **36** ada-derana-lk ([Fairly heavy showers above 75mm expected in six provinces](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8b9dd07c.json))
 
@@ -30,9 +30,9 @@
 
 * **4** island-lk ([‘Sri Lanka missing out on billions of dollars in oil and gas Foreign Direct Investment’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c564a23.json))
 
-## Last Week (1,681 Articles)
+## Last Week (1,682 Articles)
 
-* **293** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
+* **294** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
 
 * **281** lankadeepa-lk ([පළාත් කීපයකට කඩින් කඩ වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d8/d8425c29.json))
 
@@ -58,11 +58,11 @@
 
 * **8** b-b-c-com-sinhala ([කළු ජූලියට වසර 39 යි:ඒ ජුලිය තවමත් කළුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/ed/ed2b5158.json))
 
-## All Time (2,314 Articles)
+## All Time (2,315 Articles)
 
 * **366** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **303** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **304** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **265** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 

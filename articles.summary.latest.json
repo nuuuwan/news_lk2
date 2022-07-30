@@ -1408,6 +1408,14 @@
     "file_name": "/tmp/news_lk2/articles/2d/2d221e12.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132469",
+    "time_ut": 1659079147,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 - \u0b9a\u0bbe\u0b95\u0bb0 \u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bb5\u0b9a\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/60/6053e372.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83946/earnings-from-merchandise-exports-up-by-20-in-june",
     "time_ut": 1659078720,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "New heads appointed to Inland Revenue Dept. and Sri Lanka Customs",
     "file_name": "/tmp/news_lk2/articles/85/850b4f46.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/igp-senior-cops-failed-to-protect-peaceful-protestors-hrcsl/",
-    "time_ut": 1658813460,
-    "original_lang": "en",
-    "original_title": "IGP & Senior Cops failed to protect peaceful protestors \u2013 HRCSL",
-    "file_name": "/tmp/news_lk2/articles/8b/8b03109c.json"
   }
 ]
