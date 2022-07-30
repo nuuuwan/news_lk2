@@ -1,32 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 11:14:29 (LK time)*
+*As of 2022-07-30 11:29:08 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (4 Articles)
-
-* **2** virakesari-lk ([வவுனியாவில் பதுக்கிவைக்கப்பட்டிருந்த 550 லீற்றர் டீசல் மீட்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/02552708.json))
+## Last 30 Minutes (2 Articles)
 
 * **1** tamil-mirror-lk ([ரப்பாணக் தோட்ட இளைஞன் வெட்டி கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afdf3929.json))
 
 * **1** lankadeepa-lk ([ජුලී චන්ග්-අලි සබ්රි අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a8a0a5.json))
 
-## Last Hour (7 Articles)
-
-* **3** lankadeepa-lk ([කොවිඩ් රැල්ලක්! පරෙස්සමෙන් සිටිමු](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad4889af.json))
+## Last Hour (5 Articles)
 
 * **3** virakesari-lk ([யாழில் "ஆரோக்கியத்தின் பாதையில்" என்ற விழிப்புணர்வு ஈருருளிப் பயணம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7ca0a3b7.json))
 
 * **1** tamil-mirror-lk ([ரப்பாணக் தோட்ட இளைஞன் வெட்டி கொலை](https://github.com/nuuuwan/news_lk2/blob/data/articles/af/afdf3929.json))
 
-## Last 3 Hours (24 Articles)
+* **1** lankadeepa-lk ([ජුලී චන්ග්-අලි සබ්රි අතර හමුවක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c9/c9a8a0a5.json))
+
+## Last 3 Hours (23 Articles)
 
 * **7** lankadeepa-lk ([පළාත් රැසකට සවස ගිගුරුම් සහිත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0435f83a.json))
 
 * **6** virakesari-lk ([இன்று பல பகுதிகளில் கனமழை பெய்யும் சாத்தியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e9e71f4.json))
 
-* **4** tamil-mirror-lk ([இலங்கை மக்களுக்கு உதவி செய்ய தயார்: இந்திய ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a9a1e77.json))
+* **3** tamil-mirror-lk ([எரிபொருள் விநியோகம் தொடர்பான அறிவுறுத்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/89/893abd24.json))
 
 * **3** daily-mirror-lk ([China defends military ship’s planned visit to SL as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd0a6406.json))
 
@@ -36,17 +34,17 @@
 
 * **1** ada-lk ([වෙළඳ භාණ්ඩ අපනයනය වර්ධනයක](https://github.com/nuuuwan/news_lk2/blob/data/articles/a0/a06bf4b2.json))
 
-## Last 24 Hours (248 Articles)
+## Last 24 Hours (241 Articles)
 
 * **50** virakesari-lk ([ஜனாதிபதியின் கொடியை திருடிச் சென்றவர் சிக்கினார் !](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc507ef4.json))
 
-* **46** lankadeepa-lk ([කිව්.ආර්. කේතය හරහා ලක්‍ෂ 5ක් ඉන්ධන අරගෙන](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f5dc058.json))
+* **43** lankadeepa-lk ([මුදල්ගෙන ටිකට් නොදුන් ලංගම කොන්දොස්තරවරු 3කට වැඩවරදී](https://github.com/nuuuwan/news_lk2/blob/data/articles/33/33b8c974.json))
 
-* **35** ada-derana-lk ([No new financing to Sri Lanka until macroeconomic policy framework is ready - WB](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b610e036.json))
+* **33** ada-derana-lk ([Man who misused President’s flag arrested after surrendering](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d288064.json))
 
-* **30** daily-mirror-lk ([Man who stole President’s flag and used as bed sheet, arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46d5e039.json))
+* **29** daily-mirror-lk ([No plans to offer financing to SL until adequate macroeconomic policy framework in place: WB](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/42f0f86f.json))
 
-* **27** news-first-lk ([Ceylon Electricity Board needs restructuring – Kanchana](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/533e908d.json))
+* **26** news-first-lk ([52 SOEs made a significant loss of Rs. 859 Bn in 2022](https://github.com/nuuuwan/news_lk2/blob/data/articles/d3/d34a352e.json))
 
 * **19** ada-lk ([ජනපති කොඩිය ඇඳ ඇතිරිල්ලට ගත් SJB වෘත්තීය සමිති නායකයෙක් අත්අඩංගවට](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a5dccfd.json))
 
