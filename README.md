@@ -1,24 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 20:20:14 (LK time)*
+*As of 2022-07-30 20:39:06 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (3 Articles)
-
-* **1** tamil-mirror-lk ([கொரோனா தொற்றாளர், மரணங்களின் விவரம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b9/b9e34223.json))
-
-* **1** news-first-lk ([Protests and debates will not resolve the crisis – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e76543c3.json))
-
-* **1** lankadeepa-lk ([බණ්ඩාරගම ඉන්ධනහලේ ගින්නක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b3e054ec.json))
-
-## Last Hour (7 Articles)
+## Last Hour (6 Articles)
 
 * **3** lankadeepa-lk ([පැය 24 ක් යන්න කලින් තවත් මරණයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/05/0522da55.json))
 
 * **2** tamil-mirror-lk ([’வந்து எனக்கு வீடு  கட்டித் தாருங்கள்’](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d4e369c2.json))
 
-* **2** news-first-lk ([Does the President seek to misuse idea of All-party Govt? – Ven. Omalpe Sobhitha Thero](https://github.com/nuuuwan/news_lk2/blob/data/articles/aa/aa2c6fc5.json))
+* **1** news-first-lk ([Protests and debates will not resolve the crisis – President](https://github.com/nuuuwan/news_lk2/blob/data/articles/e7/e76543c3.json))
 
 ## Last 3 Hours (16 Articles)
 
@@ -34,11 +26,9 @@
 
 * **1** ada-derana-lk ([All-party govt, the best way to resolve crisis situation - President](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/771ac9d4.json))
 
-## Last 24 Hours (168 Articles)
+## Last 24 Hours (161 Articles)
 
 * **29** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
-
-* **25** virakesari-lk ([சர்வதேச நாணய நிதியத்துடனான கலந்துரையாடல்கள் உயர் முன்னேற்றத்தை அடைந்துள்ளன - ஜனாதிபதி ஊடகப்பிரிவு](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83040375.json))
 
 * **22** lankadeepa-lk ([සුද්දො බාගෙට බාගයකට ලංකාව එපා වෙලා](https://github.com/nuuuwan/news_lk2/blob/data/articles/99/99febc61.json))
 
@@ -46,7 +36,9 @@
 
 * **21** tamil-mirror-lk ([அமரகீர்த்தி கொலை வழக்கு ; மேலும் 8 பேருக்கு வலைவீச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/69d22d6c.json))
 
-* **21** news-first-lk ([Cash from President’s House to Court](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83b196e7.json))
+* **21** virakesari-lk ([இலங்கையின் அண்மைக்கால நிலைவரங்கள் ஆசிய - பசுபிக் பிராந்தியத்துக்கான எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/68/681ae825.json))
+
+* **18** news-first-lk ([Export earnings increase to US$ 1.2Bn in June: EDB](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/392df545.json))
 
 * **12** daily-ft-lk ([Let the President and Government do what is expected now](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb983ab4.json))
 
