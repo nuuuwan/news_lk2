@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 01:09:18 (LK time)*
+*As of 2022-07-31 01:27:14 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -32,7 +32,7 @@
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-## Last Week (1,679 Articles)
+## Last Week (1,677 Articles)
 
 * **300** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -42,7 +42,7 @@
 
 * **179** ada-lk ([ඇන්ජි කඩයිමක් අභියස](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43ec0d8a.json))
 
-* **177** ada-derana-lk ([Protesters didn’t heed previous requests to vacate Presidential Secretariat: Police](https://github.com/nuuuwan/news_lk2/blob/data/articles/a1/a162abbc.json))
+* **175** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d8310e.json))
 
 * **171** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
