@@ -1,12 +1,10 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 02:48:04 (LK time)*
+*As of 2022-07-31 03:14:07 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (3 Articles)
-
-* **2** ada-derana-lk ([Soft liquor licences for SLTDA-registered establishments](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8af7996.json))
+## Last 3 Hours (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka’s Expolanka profit skyrockets over 200% on exports, rupee depreciation](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dd17671.json))
 
