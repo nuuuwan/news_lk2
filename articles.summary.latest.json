@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301361",
+    "time_ut": 1659166365,
+    "original_lang": "ta",
+    "original_title": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba9\u0bb5\u0bc1 \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/eb/eba8260d.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/All-arrangements-in-place-to-implement-QR-code-system-from-Aug-1/342-242095",
+    "time_ut": 1659166325,
+    "original_lang": "en",
+    "original_title": "All arrangements in place to implement QR code system from Aug.1",
+    "file_name": "/tmp/news_lk2/articles/bf/bf508427.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132556",
+    "time_ut": 1659165706,
+    "original_lang": "ta",
+    "original_title": "\u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb2\u0bca\u0bb1\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b5/b5e5d052.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u2019\u2019\u0db8\u0dcf\u0dc3\u0dba\u0d9a\u0dca-\u0dc4\u0dbb\u0dd2-\u0db1\u0dc0\u0dad\u0dd2\u0db1\u0dca\u0db1-\u0db6\u0dbd\u0dcf\u0d9c\u0dd9\u0db1-9\u0dc0\u0dd9\u0db1\u0dd2\u0daf\u0dcf-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d91\u0db1\u0dca\u0db1\u2019\u2019/101-617286",
     "time_ut": 1659164376,
@@ -38,6 +62,14 @@
     "original_lang": "ta",
     "original_title": "\u0b89\u0bb2\u0b95\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b8e\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc8  \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/eb/eb9c3b6f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/11-hour-water-cut-for-several-areas-in-colombo/",
+    "time_ut": 1659163260,
+    "original_lang": "en",
+    "original_title": "11-hour water cut for several areas in Colombo",
+    "file_name": "/tmp/news_lk2/articles/7f/7f927613.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "en",
     "original_title": "Long-term investments in Sri Lanka are India\u2019s plan to fix economic crisis",
     "file_name": "/tmp/news_lk2/articles/88/888ed8b0.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83880/weekly-fuel-quota-for-all-types-of-vehicles-revised",
-    "time_ut": 1658826600,
-    "original_lang": "en",
-    "original_title": "Weekly fuel quota for all types of vehicles revised",
-    "file_name": "/tmp/news_lk2/articles/ab/ab4d8321.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7-\u0daf\u0dd9\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/101-617069",
-    "time_ut": 1658826147,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dcf\u0dc4\u0db1\u0dc0\u0dbd\u0da7 \u0daf\u0dd9\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/94/94fb6bbe.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dba\u0dc5\u0dd2-\u0d91\u0db1\u0dc0\u0dcf/1-617068",
-    "time_ut": 1658826144,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dba\u0dc5\u0dd2 \u0d91\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/d2/d23117ba.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/sri-lanka-asks-china-for-help-with-trade-investment-and-tourism/",
-    "time_ut": 1658825940,
-    "original_lang": "en",
-    "original_title": "Sri Lanka asks China for help with trade, investment and tourism",
-    "file_name": "/tmp/news_lk2/articles/e2/e2ae9840.json"
   }
 ]
