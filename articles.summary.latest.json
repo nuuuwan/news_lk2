@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83971/spain-reports-first-monkeypox-related-death-in-europe",
+    "time_ut": 1659150240,
+    "original_lang": "en",
+    "original_title": "Spain reports first monkeypox-related death in Europe",
+    "file_name": "/tmp/news_lk2/articles/8a/8acb8fca.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0ba4\u0bb5\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-301357",
+    "time_ut": 1659149432,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bcd: \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/7a/7a9a1e77.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132523",
+    "time_ut": 1659148204,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b85\u0baf\u0bb2\u0bcd\u0ba8\u0bbe\u0b9f\u0bbe\u0ba9 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bc8 \u0ba8\u0bbf\u0baf\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b9a\u0bc0\u0ba9\u0bbe",
+    "file_name": "/tmp/news_lk2/articles/7d/7d62bc6c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Australia-reveals-four-asylum-seeker-boats-with-125-Lankans-intercepted-in-June/108-242091",
+    "time_ut": 1659148154,
+    "original_lang": "en",
+    "original_title": "Australia reveals four asylum seeker boats with 125 Lankans intercepted in June",
+    "file_name": "/tmp/news_lk2/articles/be/be929f84.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-loses-norway-shipbuilding-deal-over-sovereign-default-98032/",
+    "time_ut": 1659147900,
+    "original_lang": "en",
+    "original_title": "Sri Lanka loses Norway shipbuilding deal over sovereign default",
+    "file_name": "/tmp/news_lk2/articles/16/16d1c756.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83970/several-areas-to-receive-fairly-heavy-rainfall-today",
     "time_ut": 1659146040,
     "original_lang": "en",
@@ -294,6 +334,14 @@
     "original_lang": "en",
     "original_title": "Law related to Contempt of Court to be amended : Bandula",
     "file_name": "/tmp/news_lk2/articles/57/5764f7a7.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/picture_story/\u0db8\u0dda-\u0d85\u0dba-\u0d9c\u0dd0\u0db1-\u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1/10-395865",
+    "time_ut": 1659113681,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dda \u0d85\u0dba \u0d9c\u0dd0\u0db1 \u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1",
+    "file_name": "/tmp/news_lk2/articles/eb/eb3d8a00.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7950,53 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b8a\u0b9f\u0b95\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
     "file_name": "/tmp/news_lk2/articles/a1/a19375bf.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-09\u0d9a-\u0dbb\u0db1\u0dca-\u0dc3\u0db8\u0d9c-03\u0d9a\u0dca-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-395749",
-    "time_ut": 1658816936,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 09\u0d9a \u0dbb\u0db1\u0dca \u0dc3\u0db8\u0d9c 03\u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/16/16eac9f0.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/trafficking-persons-tip-report-sl-upgraded-to-tier-2/",
-    "time_ut": 1658816880,
-    "original_lang": "en",
-    "original_title": "Trafficking Persons (TIP) Report: SL upgraded to Tier 2",
-    "file_name": "/tmp/news_lk2/articles/d5/d5ee81fc.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0dc0\u0db1-\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0d9a\u0dca-\u0db1\u0db8\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/101-617046",
-    "time_ut": 1658816865,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dc0\u0db1 \u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0d9a\u0dca \u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9e/9efdcaf9.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/navy-nabs-03-suspects-with-smuggled-gold/",
-    "time_ut": 1658816280,
-    "original_lang": "en",
-    "original_title": "Navy nabs 03 suspects with smuggled gold",
-    "file_name": "/tmp/news_lk2/articles/d1/d13e266a.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Gotabaya-Rajapaksa-to-return/108-241813",
-    "time_ut": 1658816245,
-    "original_lang": "en",
-    "original_title": "Gotabaya Rajapaksa to return",
-    "file_name": "/tmp/news_lk2/articles/7d/7dbf5ec2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0d86\u0db0\u0dcf\u0dbb-\u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca/101-617045",
-    "time_ut": 1658816176,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/fd/fdceb13a.json"
   }
 ]
