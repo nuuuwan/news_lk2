@@ -1,42 +1,34 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 19:29:51 (LK time)*
+*As of 2022-07-30 19:48:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** tamil-mirror-lk ([வலுச்சக்தி அமைச்சின் விசேட அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e34ad618.json))
 
 ## Last Hour (1 Articles)
 
 * **1** tamil-mirror-lk ([வலுச்சக்தி அமைச்சின் விசேட அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e34ad618.json))
 
-## Last 3 Hours (19 Articles)
+## Last 3 Hours (13 Articles)
 
-* **6** ada-derana-lk ([Fuel quota to be reserved for Police Dept. at selected filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53640bfa.json))
+* **4** news-first-lk ([President visits Kandy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9329f0e8.json))
 
-* **5** news-first-lk ([SLAASC condemns attacks on peaceful protestors](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c350cba.json))
-
-* **2** tamil-mirror-lk ([இலங்கையர்களுக்கு எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6959ce34.json))
+* **4** ada-derana-lk ([Public requested to send photo or video evidence on fuel hoarders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d1ed422.json))
 
 * **2** ada-lk ([මම ජනපතිවුණත් ප්‍රශ්න ප්‍රශ්න විසඳිලා නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/3a/3a51505a.json))
 
 * **2** daily-mirror-lk ([Ministry requests public to send evidence of illegal fuel hoarding, selling](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5d0182d.json))
 
-* **1** virakesari-lk ([பொருளாதார நெருக்கடி - இலங்கையில் விபச்சாரத்தில் ஈடுபடும் பெண்களின் எண்ணிக்கை அதிகரிக்கின்றது – ஏஎன்ஐ](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31aa86c2.json))
+* **1** tamil-mirror-lk ([வலுச்சக்தி அமைச்சின் விசேட அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e3/e34ad618.json))
 
-* **1** economy-next-com ([Sri Lanka Bairaha Farm’s profit soars over 200% on rising chicken price](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93a3317d.json))
+## Last 24 Hours (172 Articles)
 
-## Last 24 Hours (176 Articles)
+* **29** ada-derana-lk ([President invites all MPs to join talks on forming all-party govt](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd79e3c0.json))
 
-* **30** ada-derana-lk ([Covid: Five more deaths, 143 new cases added to total count](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ad1fdd35.json))
-
-* **30** virakesari-lk ([அதிபர், ஆசிரியர்கள் எரிபொருள் பெற பொறிமுறையை உருவாக்குங்கள் - இலங்கைத் தமிழர் ஆசிரியர் சங்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/9f/9fbb4927.json))
-
-* **24** news-first-lk ([US Ambassador meets Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/b3/b360292d.json))
+* **29** virakesari-lk ([கியூ.ஆர். குறியீட்டு முறைமையின் கீழ் இடம்பெறக்கூடிய முறைகேடுகளைத் தடுக்க சிறப்பு நடவடிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/56/5631caa7.json))
 
 * **22** daily-mirror-lk ([Male body found in Galle Face beach](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43d7b3da.json))
+
+* **22** news-first-lk ([China defends military ship visit to Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/44bfc5b1.json))
 
 * **21** lankadeepa-lk ([සර්ව පාක්ෂික ආණ්ඩුවකට එක්වෙන්න](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77b93b4d.json))
 
@@ -48,7 +40,7 @@
 
 * **5** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
 
-## Last Week (1,679 Articles)
+## Last Week (1,678 Articles)
 
 * **298** virakesari-lk ([ஜனாதிபதி ரணில் பொலிஸாருக்கு வழங்கிய ஆலோசனை](https://github.com/nuuuwan/news_lk2/blob/data/articles/0d/0dd3a563.json))
 
@@ -68,7 +60,7 @@
 
 * **72** economy-next-com ([Sri Lanka president asks to crackdown black market fuel dealers](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/969eda31.json))
 
-* **52** island-lk ([Maldives – Nation of 1.190 islands](https://github.com/nuuuwan/news_lk2/blob/data/articles/01/01627b55.json))
+* **51** island-lk ([Significant fall in tea production](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ada48baa.json))
 
 * **19** d-b-s-jeyaraj-com ([How Kumar Gunaratnam alias “Gemunu” Fought a Guerilla War  against the Indian Army in Trinco](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/55349e5b.json))
 
