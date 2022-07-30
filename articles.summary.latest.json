@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd-\u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301386",
+    "time_ut": 1659201956,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/57/57864da2.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83984/more-covid-infections-and-deaths-reported-today",
+    "time_ut": 1659201600,
+    "original_lang": "en",
+    "original_title": "More COVID infections and deaths reported today",
+    "file_name": "/tmp/news_lk2/articles/ee/ee0847dc.json"
+  },
+  {
     "newspaper_id": "economy-next-com",
     "url": "https://economynext.com/sri-lanka-to-fully-implement-qr-code-system-in-fuel-rationing-from-aug-1-98038/",
     "time_ut": 1659200820,
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da9\u0dd2\u0dc3\u0dbd\u0dca \u0dbd\u0dd3\u0da7\u0dbb\u0dca 1914\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
     "file_name": "/tmp/news_lk2/articles/59/59e12080.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Repeal-emergency-regulations/110-241822",
-    "time_ut": 1658840497,
-    "original_lang": "en",
-    "original_title": "Repeal emergency regulations...",
-    "file_name": "/tmp/news_lk2/articles/3d/3d0d98bf.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0da0\u0dd3\u0db1-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a/1-617082",
-    "time_ut": 1658840288,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da0\u0dd3\u0db1 \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0dba\u0d9a",
-    "file_name": "/tmp/news_lk2/articles/8a/8ae9cfbe.json"
   }
 ]
