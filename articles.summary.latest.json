@@ -1,11 +1,43 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83982/all-party-govt-the-best-way-to-resolve-crisis-situation-president",
+    "time_ut": 1659184380,
+    "original_lang": "en",
+    "original_title": "All-party govt, the best way to resolve crisis situation - President",
+    "file_name": "/tmp/news_lk2/articles/77/771ac9d4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/imf-discussions-continued-with-aim-to-reach-staff-level-agreement-finance-ministry/",
+    "time_ut": 1659183780,
+    "original_lang": "en",
+    "original_title": "IMF discussions continued with aim to reach Staff-Level Agreement: Finance Ministry",
+    "file_name": "/tmp/news_lk2/articles/6f/6f3a6cf4.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/chinese-ambassador-assures-necessary-support-for-sl-imf-discussions/",
+    "time_ut": 1659183540,
+    "original_lang": "en",
+    "original_title": "Chinese Ambassador assures necessary support for SL-IMF discussions",
+    "file_name": "/tmp/news_lk2/articles/55/5548c247.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/30/president-visits-kandy/",
     "time_ut": 1659181080,
     "original_lang": "en",
     "original_title": "President visits Kandy",
     "file_name": "/tmp/news_lk2/articles/93/9329f0e8.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83981/special-notice-on-rolling-out-fuel-pass-system-",
+    "time_ut": 1659180900,
+    "original_lang": "en",
+    "original_title": "Special notice on rolling out fuel pass system",
+    "file_name": "/tmp/news_lk2/articles/b5/b5e90246.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -142,6 +174,14 @@
     "original_lang": "ta",
     "original_title": "\u0bb0\u0b9e\u0bcd\u0b9a\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0b95\u0bc1\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0ba8\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bc7\u0ba9\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
     "file_name": "/tmp/news_lk2/articles/6f/6f510c9b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db4\u0dc5\u0db8\u0dd4-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-\u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca-\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7-\u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca-\u0dba\u0ddc\u0db8\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd2\u0d9c\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-395872",
+    "time_ut": 1659174647,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0db8\u0dd4 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0da7 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0da7 \u0d85\u0dba\u0daf\u0dd4\u0db8\u0dca\u0db4\u0dad\u0dca \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/b0/b07ae128.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7958,45 +7998,5 @@
     "original_lang": "en",
     "original_title": "Passports to be issued only to those with prior appointments",
     "file_name": "/tmp/news_lk2/articles/75/75bcf46d.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/1-617077",
-    "time_ut": 1658833850,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0db1 \u0db6\u0dc3\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/9f/9f47ada2.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca-\u0d86\u0dbb\u0db8\u0dca\u0db7-\u0dc0\u0db1-\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca-\u0d89\u0dc0\u0dad\u0da7/1-617077",
-    "time_ut": 1658833850,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0dc0\u0db1 \u0db6\u0dc3\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dc0\u0dad\u0da7",
-    "file_name": "/tmp/news_lk2/articles/91/9175e224.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/two-days-allocated-for-school-vans-and-buses-to-obtain-fuel/",
-    "time_ut": 1658833800,
-    "original_lang": "en",
-    "original_title": "Two days allocated for school vans and buses to obtain fuel",
-    "file_name": "/tmp/news_lk2/articles/64/646ba5ef.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/26/aragalaya-should-have-been-dealt-with-the-same-way-dissent-was-dealt-in-the-70s-80s-slpps-sanath-nishantha/",
-    "time_ut": 1658832840,
-    "original_lang": "en",
-    "original_title": "Aragalaya should have been dealt with the same way dissent was dealt in the 70s & 80s \u2013 SLPPs Sanath Nishantha",
-    "file_name": "/tmp/news_lk2/articles/dd/ddf21a8c.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83884/hambantota-police-seize-1900-litres-of-hoarded-diesel",
-    "time_ut": 1658832600,
-    "original_lang": "en",
-    "original_title": "Hambantota Police seize 1,900 litres of hoarded diesel",
-    "file_name": "/tmp/news_lk2/articles/83/83fc1dd2.json"
   }
 ]
