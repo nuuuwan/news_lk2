@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bbe\u0ba4-\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd-\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-301341",
+    "time_ut": 1659141987,
+    "original_lang": "ta",
+    "original_title": "\u2019\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bbe\u0ba4 \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u2019",
+    "file_name": "/tmp/news_lk2/articles/e9/e9ca0806.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7-\u0db4\u0dc5\u0db8\u0dd4--\u0dc0\u0db3\u0dd4\u0dbb\u0dd4-\u0d8b\u0dab-\u0db8\u0dbb\u0dab-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf-\u0dc0\u0dd9\u0dba\u0dd2/101-617276",
+    "time_ut": 1659141599,
+    "original_lang": "si",
+    "original_title": "\u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7 \u0db4\u0dc5\u0db8\u0dd4  \u0dc0\u0db3\u0dd4\u0dbb\u0dd4 \u0d8b\u0dab \u0db8\u0dbb\u0dab \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0dc0\u0dd9\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/e1/e186bd94.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/83969/money-found-inside-presidents-house-handed-over-to-court",
     "time_ut": 1659132300,
@@ -126,6 +142,22 @@
     "original_lang": "en",
     "original_title": "China says its massive loans, projects did not push Sri Lanka to bankruptcy",
     "file_name": "/tmp/news_lk2/articles/96/96347cdf.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Merchandise-export-earnings-top-US-1-2bn-in-June/108-242081",
+    "time_ut": 1659118675,
+    "original_lang": "en",
+    "original_title": "Merchandise export earnings top US $ 1.2bn in June",
+    "file_name": "/tmp/news_lk2/articles/03/0392a78f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Oil-and-gas-exploration-delays-in-Mannar-basin-to-cost-SL-over-US-1bn-in-FDI/108-242074",
+    "time_ut": 1659118121,
+    "original_lang": "en",
+    "original_title": "Oil and gas exploration delays in Mannar basin to cost SL over US $ 1bn in FDI",
+    "file_name": "/tmp/news_lk2/articles/9b/9bc7e843.json"
   },
   {
     "newspaper_id": "daily-ft-lk",
@@ -7966,37 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0dc0\u0dbb\u0dd4 \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/6b/6b3ee52b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0db8-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dd2\u0dbd-\u0db8\u0dda-\u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3/11-395745",
-    "time_ut": 1658814295,
-    "original_lang": "si",
-    "original_title": "\u0d89\u0dad\u0dd2\u0dc4\u0dcf\u0dc3\u0dba\u0dda \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd\u0db8 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dd2\u0dbd \u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/3e/3e68d726.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/covid19/\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dba\u0dc5\u0dd2-\u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca/203-617043",
-    "time_ut": 1658813867,
-    "original_lang": "si",
-    "original_title": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dba\u0dc5\u0dd2 \u0d9a\u0ddc\u0dbb\u0ddd\u0db1\u0dcf \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/ad/ad1cbf3c.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0ddd\u0db4\u0d9a\u0dbb\u0dab-\u0dc3\u0db3\u0dc4\u0dcf-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9c\u0db1\u0dca\u0db1-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1/11-395744",
-    "time_ut": 1658813819,
-    "original_lang": "si",
-    "original_title": "\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0ddd\u0db4\u0d9a\u0dbb\u0dab \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9c\u0db1\u0dca\u0db1 \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1",
-    "file_name": "/tmp/news_lk2/articles/c4/c422ea62.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83876/new-heads-appointed-to-inland-revenue-dept-and-sri-lanka-customs",
-    "time_ut": 1658813640,
-    "original_lang": "en",
-    "original_title": "New heads appointed to Inland Revenue Dept. and Sri Lanka Customs",
-    "file_name": "/tmp/news_lk2/articles/85/850b4f46.json"
   }
 ]
