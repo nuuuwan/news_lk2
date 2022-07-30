@@ -1,28 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 01:48:51 (LK time)*
+*As of 2022-07-31 02:17:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** economy-next-com ([Sri Lanka’s Expolanka profit skyrockets over 200% on exports, rupee depreciation](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dd17671.json))
 
 ## Last Hour (1 Articles)
 
 * **1** economy-next-com ([Sri Lanka’s Expolanka profit skyrockets over 200% on exports, rupee depreciation](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dd17671.json))
 
-## Last 3 Hours (6 Articles)
+## Last 3 Hours (5 Articles)
 
-* **3** ada-derana-lk ([More COVID infections and deaths reported today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee0847dc.json))
+* **3** ada-derana-lk ([‘Pas Podda’ murder: Another man injured in Gampaha shooting dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb9621f9.json))
 
 * **2** economy-next-com ([Sri Lanka Nestlé unit’s profit up 34% amid net financial expenses jump](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec78521.json))
 
-* **1** tamil-mirror-lk ([முதலாம் வகுப்புக்கு மாணவர்கள் தொடர்பில் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57864da2.json))
+## Last 24 Hours (137 Articles)
 
-## Last 24 Hours (136 Articles)
-
-* **25** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
+* **26** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
 * **23** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
@@ -38,7 +32,7 @@
 
 * **6** economy-next-com ([Sri Lanka loses Norway shipbuilding deal over sovereign default](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d1c756.json))
 
-## Last Week (1,679 Articles)
+## Last Week (1,680 Articles)
 
 * **301** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -48,7 +42,7 @@
 
 * **179** ada-lk ([ඇන්ජි කඩයිමක් අභියස](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43ec0d8a.json))
 
-* **175** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d8310e.json))
+* **176** ada-derana-lk ([Showers expected in several provinces and districts](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d8310e.json))
 
 * **171** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
@@ -66,7 +60,7 @@
 
 * **6** b-b-c-com-sinhala ([අවාබායි වාඩියා: ඉන්දියාවේ පවුල් සැලසුම්කරණයේ පුරෝගාමියා වූ ලාංකික නීතිඥවරිය](https://github.com/nuuuwan/news_lk2/blob/data/articles/c4/c4fc26bd.json))
 
-## All Time (2,461 Articles)
+## All Time (2,462 Articles)
 
 * **387** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -76,9 +70,9 @@
 
 * **268** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **211** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
+* **211** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
-* **210** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **211** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
 * **194** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
