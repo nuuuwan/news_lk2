@@ -1,11 +1,35 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83978/fuel-pass-registering-with-vehicle-revenue-licence-number-allowed-from-tomorrow",
+    "time_ut": 1659174600,
+    "original_lang": "en",
+    "original_title": "Fuel pass: Registering with vehicle revenue licence number allowed from tomorrow",
+    "file_name": "/tmp/news_lk2/articles/91/91f1a00c.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc8-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-301366",
+    "time_ut": 1659173999,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6b/6b2f9b63.json"
+  },
+  {
     "newspaper_id": "lankadeepa-lk",
     "url": "https://www.lankadeepa.lk/news/\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd9\u0db1-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0d85\u0db1\u0dd4-\u0db4\u0dca\u200d\u0dbb\u0db7\u0dda\u0daf\u0dba\u0d9a\u0dca-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda/101-617292",
     "time_ut": 1659173444,
     "original_lang": "si",
     "original_title": "\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dad\u0dd2\u0dbb\u0dd9\u0db1 \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0d85\u0db1\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db7\u0dda\u0daf\u0dba\u0d9a\u0dca \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda",
     "file_name": "/tmp/news_lk2/articles/23/2385079f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dd2\u0d9f\u0dba-\u0d91\u0dc5\u0dc0\u0dbd\u0dd4-\u0db8\u0dd2\u0dbd-\u0db6\u0dc3\u0dca\u0dc3\u0dc0\u0dba\u0dd2/11-395871",
+    "time_ut": 1659173049,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dd2\u0d9f\u0dba \u0d91\u0dc5\u0dc0\u0dbd\u0dd4 \u0db8\u0dd2\u0dbd \u0db6\u0dc3\u0dca\u0dc3\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/1a/1a4d4da0.json"
   },
   {
     "newspaper_id": "news-first-lk",
@@ -22,6 +46,14 @@
     "original_lang": "en",
     "original_title": "Thirteen people arrested over unruly behaviour at filling stations",
     "file_name": "/tmp/news_lk2/articles/ea/ea497dc0.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83977/thirteen-arrested-over-unruly-behaviour-at-filling-stations",
+    "time_ut": 1659172620,
+    "original_lang": "en",
+    "original_title": "Thirteen arrested over unruly behaviour at filling stations",
+    "file_name": "/tmp/news_lk2/articles/5e/5e860665.json"
   },
   {
     "newspaper_id": "news-first-lk",
