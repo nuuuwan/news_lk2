@@ -1,14 +1,12 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 00:37:03 (LK time)*
+*As of 2022-07-31 00:55:45 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (3 Articles)
+## Last Hour (1 Articles)
 
-* **2** ada-derana-lk ([‘Pas Podda’ murder: Another man injured in Gampaha shooting dies](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eb9621f9.json))
-
-* **1** economy-next-com ([Sri Lanka Nestlé unit’s profit up 34% amid net financial expenses jump](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ec78521.json))
+* **1** ada-derana-lk ([Soft liquor licences for SLTDA-registered establishments](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8af7996.json))
 
 ## Last 3 Hours (7 Articles)
 
@@ -20,7 +18,7 @@
 
 * **1** ada-lk ([කොවිඩ් ආසාදිතයන් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45b1ac90.json))
 
-## Last 24 Hours (140 Articles)
+## Last 24 Hours (139 Articles)
 
 * **25** ada-derana-lk ([Killing of MP Amarakeerthi: Police seek public assistance to identify 08 suspects](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/77d474c3.json))
 
@@ -36,11 +34,11 @@
 
 * **11** daily-mirror-lk ([Australia reveals four asylum seeker boats with 125 Lankans intercepted in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be929f84.json))
 
-* **7** economy-next-com ([Sri Lanka’s 3-month T-bill yield down; guidance peg edges up](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5eeef971.json))
+* **6** economy-next-com ([Sri Lanka stocks gain for second session; ends month in green](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e989742.json))
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-## Last Week (1,681 Articles)
+## Last Week (1,680 Articles)
 
 * **300** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -54,7 +52,7 @@
 
 * **171** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
-* **155** tamil-mirror-lk ([30 நாட்களுக்கு போதுமான டீசல் கையிருப்பில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/103da0c6.json))
+* **154** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை ஊழியர்கள் இன்று பணிப்பகிஷ்கரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c561591.json))
 
 * **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
