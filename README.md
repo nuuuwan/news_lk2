@@ -1,36 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 17:31:37 (LK time)*
+*As of 2022-07-30 17:47:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (2 Articles)
+## Last Hour (2 Articles)
 
 * **1** news-first-lk ([President visits Kandy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9329f0e8.json))
 
 * **1** ada-derana-lk ([Public requested to send photo or video evidence on fuel hoarders](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d1ed422.json))
 
-## Last Hour (7 Articles)
+## Last 3 Hours (23 Articles)
 
-* **3** ada-derana-lk ([Fuel quota to be reserved for Police Dept. at selected filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53640bfa.json))
+* **5** news-first-lk ([Public Security Ministry to take legal action over protestors occupying Galle Face area](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e98a2e94.json))
 
-* **1** news-first-lk ([President visits Kandy](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/9329f0e8.json))
-
-* **1** virakesari-lk ([பொருளாதார நெருக்கடி - இலங்கையில் விபச்சாரத்தில் ஈடுபடும் பெண்களின் எண்ணிக்கை அதிகரிக்கின்றது – ஏஎன்ஐ](https://github.com/nuuuwan/news_lk2/blob/data/articles/31/31aa86c2.json))
-
-* **1** economy-next-com ([Sri Lanka Bairaha Farm’s profit soars over 200% on rising chicken price](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93a3317d.json))
-
-* **1** tamil-mirror-lk ([இலங்கையர்களுக்கு எச்சரிக்கை](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/6959ce34.json))
-
-## Last 3 Hours (28 Articles)
-
-* **7** ada-derana-lk ([Thirteen arrested over unruly behaviour at filling stations](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e860665.json))
-
-* **6** news-first-lk ([Education Ministry update on school activities next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bc10500.json))
-
-* **6** tamil-mirror-lk ([பாடசாலை மாணவர்களுக்கான அறிவித்தல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/02/026cda26.json))
+* **5** ada-derana-lk ([Fuel pass: Registering with vehicle revenue licence number allowed from tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/91/91f1a00c.json))
 
 * **5** virakesari-lk ([ரஞ்சனுக்கு வெகுவிரைவில் விடுதலை கிடைக்கும் என நம்புகின்றேன் - சஜித் பிரேமதாச](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f510c9b.json))
+
+* **4** tamil-mirror-lk ([கொடியை திருடியவருக்கு விளக்கமறியல்](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b2f9b63.json))
 
 * **1** economy-next-com ([Sri Lanka Bairaha Farm’s profit soars over 200% on rising chicken price](https://github.com/nuuuwan/news_lk2/blob/data/articles/93/93a3317d.json))
 
@@ -40,13 +28,13 @@
 
 * **1** ada-lk ([ඉන්ධන හිඟය එළවලු මිල බස්සවයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1a/1a4d4da0.json))
 
-## Last 24 Hours (197 Articles)
+## Last 24 Hours (195 Articles)
 
-* **36** virakesari-lk ([78 வயதான ஓய்வுப்பெற்ற அதிபர் கழுத்தறுத்து கொலை - பலாங்கொடையில் சம்பவம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/e6/e65184c4.json))
+* **35** virakesari-lk ([முன்னிலை சோசலிசக் கட்சியை தடை செய்வது தொடர்பில் பேச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ee9f014.json))
 
 * **32** ada-derana-lk ([CCPI-based headline inflation hits 60.8% in July](https://github.com/nuuuwan/news_lk2/blob/data/articles/fa/faa4dbb0.json))
 
-* **31** lankadeepa-lk ([අයි.එම්.එෆ් සාකච්ඡා සාර්ථකයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6e/6e19965e.json))
+* **30** lankadeepa-lk ([වාර්තාගත ලෙස උද්ධමනය ඉහළට](https://github.com/nuuuwan/news_lk2/blob/data/articles/03/0304f309.json))
 
 * **25** news-first-lk ([3-hr power cuts for 30th & 31st July](https://github.com/nuuuwan/news_lk2/blob/data/articles/41/411bc9a3.json))
 
@@ -62,7 +50,7 @@
 
 * **4** island-lk ([‘Sri Lanka missing out on billions of dollars in oil and gas Foreign Direct Investment’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c564a23.json))
 
-## Last Week (1,683 Articles)
+## Last Week (1,682 Articles)
 
 * **299** virakesari-lk ([ஒன்றுகூடல்கள், ஆர்ப்பாட்டங்களை கலைக்க பொலிஸ், முப்படைக்கு சிறப்பு அதிகாரங்கள் :  சட்டத்தை அமுல் செய்ய தயங்கப் போவதில்லை என பொலிஸார் அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0ebf387f.json))
 
@@ -76,7 +64,7 @@
 
 * **175** ada-derana-lk ([Railway station masters on 48-hour trade union action](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/526eec22.json))
 
-* **156** tamil-mirror-lk ([விலைகள் விரைவில்  குறையும் சாத்தியம்?](https://github.com/nuuuwan/news_lk2/blob/data/articles/66/66ad5e00.json))
+* **155** tamil-mirror-lk ([பெற்றோலுடன் கவிழ்ந்த பௌசர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84363dd1.json))
 
 * **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
