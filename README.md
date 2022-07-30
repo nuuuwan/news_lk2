@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 00:55:45 (LK time)*
+*As of 2022-07-31 01:09:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Soft liquor licences for SLTDA-registered establishments](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8af7996.json))
-
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (6 Articles)
 
 * **3** ada-derana-lk ([More COVID infections and deaths reported today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee0847dc.json))
 
 * **2** economy-next-com ([Sri Lanka to fully implement QR code system in fuel rationing from Aug. 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc20f506.json))
 
 * **1** tamil-mirror-lk ([முதலாம் வகுப்புக்கு மாணவர்கள் தொடர்பில் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57864da2.json))
-
-* **1** ada-lk ([කොවිඩ් ආසාදිතයන් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45b1ac90.json))
 
 ## Last 24 Hours (139 Articles)
 
@@ -38,7 +32,7 @@
 
 * **4** daily-ft-lk ([Veteran Trotskyist and SEP Chairman Wije Dias dies aged 80](https://github.com/nuuuwan/news_lk2/blob/data/articles/96/96bbf8d6.json))
 
-## Last Week (1,680 Articles)
+## Last Week (1,679 Articles)
 
 * **300** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
@@ -52,7 +46,7 @@
 
 * **171** daily-mirror-lk ([Not far from Sri Lanka moment, warns Imran](https://github.com/nuuuwan/news_lk2/blob/data/articles/36/361b9fda.json))
 
-* **154** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை ஊழியர்கள் இன்று பணிப்பகிஷ்கரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/6c/6c561591.json))
+* **153** tamil-mirror-lk ([தொழிற்சங்க போராட்டம் கைவிடப்பட்டது](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2a90ebfa.json))
 
 * **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
 
