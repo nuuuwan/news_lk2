@@ -1,5 +1,61 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/suspect-arrested-for-stockpiling-over-100l-petrol/",
+    "time_ut": 1659160560,
+    "original_lang": "en",
+    "original_title": "Suspect arrested for stockpiling over 100l Petrol",
+    "file_name": "/tmp/news_lk2/articles/69/699de139.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf-\u0dbb\u0da7-\u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dad\u0dca--\u0db1\u0dc0\u0dad\u0dd3/101-617285",
+    "time_ut": 1659160505,
+    "original_lang": "si",
+    "original_title": "\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb\u0dbd\u0dcf \u0dbb\u0da7 \u0dba\u0dd0\u0dc0\u0dd3\u0db8\u0dad\u0dca  \u0db1\u0dc0\u0dad\u0dd3",
+    "file_name": "/tmp/news_lk2/articles/fe/fed377fa.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/features/\u0d91\u0d9a\u0dad\u0dd0\u0db1-\u0db4\u0dbd\u0dca\u0dc0\u0dd9\u0dbd-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba/2-617284",
+    "time_ut": 1659160490,
+    "original_lang": "si",
+    "original_title": "\u0d91\u0d9a\u0dad\u0dd0\u0db1 \u0db4\u0dbd\u0dca\u0dc0\u0dd9\u0dbd \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba",
+    "file_name": "/tmp/news_lk2/articles/5b/5bc35b10.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83973/number-of-filling-stations-using-nfp-system-reached-record-high-yesterday",
+    "time_ut": 1659160440,
+    "original_lang": "en",
+    "original_title": "Number of filling stations using NFP system reached record high yesterday",
+    "file_name": "/tmp/news_lk2/articles/fe/feac13b8.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132545",
+    "time_ut": 1659160370,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/a8/a86c2d6d.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/10-12-increase-in-covid-19-patients-health-ministry/",
+    "time_ut": 1659160140,
+    "original_lang": "en",
+    "original_title": "10-12% increase in COVID-19 patients: Health Ministry",
+    "file_name": "/tmp/news_lk2/articles/d4/d43fb04b.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/30/export-earnings-increase-to-us-1-2bn-in-june-edb/",
+    "time_ut": 1659159720,
+    "original_lang": "en",
+    "original_title": "Export earnings increase to US$ 1.2Bn in June: EDB",
+    "file_name": "/tmp/news_lk2/articles/39/392df545.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd/\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0b95\u0bcd-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0b95\u0bca\u0bb2\u0bc8/95-301360",
     "time_ut": 1659159395,
@@ -22,6 +78,14 @@
     "original_lang": "ta",
     "original_title": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 12 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0b9f\u0bae\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/5f/5f437417.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba-\u0da0\u0db1\u0dca\u0daf\u0dd2\u0db8-\u0da2\u0dd3\u0dc0\u0db1\u0dca\u0daf\u0dbb\u0d9c\u0dd9\u0db1\u0dca-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4-\u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca/11-395868",
+    "time_ut": 1659158654,
+    "original_lang": "si",
+    "original_title": "\u0d86\u0da0\u0dcf\u0dbb\u0dca\u0dba \u0da0\u0db1\u0dca\u0daf\u0dd2\u0db8 \u0da2\u0dd3\u0dc0\u0db1\u0dca\u0daf\u0dbb\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/72/72f77660.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7934,69 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dd9\u0daf\u0db1 \u0dad\u0dd0\u0db1\u0d9a\u0dca",
     "file_name": "/tmp/news_lk2/articles/84/84b145e8.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132277",
-    "time_ut": 1658823101,
-    "original_lang": "ta",
-    "original_title": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b9a\u0bc1 \u0b95\u0bca\u0bb2\u0bc8 ; \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/65/6513935b.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad-\u0dc4\u0dcf-\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9a\u0dcf\u0dbd\u0dd3\u0db1-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca-\u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4-\u0db8\u0dcf\u0dc3\u0dba\u0dda-\u0daf\u0dd3/11-395753",
-    "time_ut": 1658822967,
-    "original_lang": "si",
-    "original_title": "\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0dd2\u0dad \u0dc4\u0dcf \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0d9a\u0dca \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dcf\u0dc3\u0dba\u0dda \u0daf\u0dd3",
-    "file_name": "/tmp/news_lk2/articles/14/14cf3f83.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-renewable-businesses-form-association-97908/",
-    "time_ut": 1658822880,
-    "original_lang": "en",
-    "original_title": "Sri Lanka renewable businesses form association",
-    "file_name": "/tmp/news_lk2/articles/70/708498f1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132283",
-    "time_ut": 1658822427,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd \u0b86\u0bb2\u0baf \u0b95\u0bca\u0b9f\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd ; \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc8 - \u0baf\u0bbe\u0bb4\u0bcd  \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bae\u0ba3\u0bbf\u0bb5\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6e/6ee74e22.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-395752",
-    "time_ut": 1658821979,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "file_name": "/tmp/news_lk2/articles/f5/f5231a25.json"
-  },
-  {
-    "newspaper_id": "colombo-telegraph-com",
-    "url": "https://www.colombotelegraph.com/index.php/an-open-letter-appeal-to-the-imf/",
-    "time_ut": 1658821846,
-    "original_lang": "en",
-    "original_title": "An Open Letter & Appeal To The IMF",
-    "file_name": "/tmp/news_lk2/articles/3e/3e934ebd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132282",
-    "time_ut": 1658821845,
-    "original_lang": "ta",
-    "original_title": "\u0b87.\u0ba4\u0bca.\u0b95\u0bbe \u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1  \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bbe\u0bb2 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bc1\u0bb5\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe ?",
-    "file_name": "/tmp/news_lk2/articles/61/61c939cf.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83878/man-killed-in-shooting-incident-in-balapitiya",
-    "time_ut": 1658821620,
-    "original_lang": "en",
-    "original_title": "Man killed in shooting incident in Balapitiya",
-    "file_name": "/tmp/news_lk2/articles/db/db7af3af.json"
   }
 ]
