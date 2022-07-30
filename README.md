@@ -1,26 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-30 10:06:37 (LK time)*
+*As of 2022-07-30 10:17:28 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last Hour (5 Articles)
+
+* **2** daily-mirror-lk ([Stamps, currencies, coins exhibition](https://github.com/nuuuwan/news_lk2/blob/data/articles/40/403f81a6.json))
 
 * **1** economy-next-com ([Several hour water cut in Sri Lanka capital](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759c5624.json))
 
-## Last Hour (10 Articles)
+* **1** virakesari-lk ([12 யோசனைகளை முன்வைத்து விமல் ஜனாதிபதி ரணிலுக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/bb/bbca7aef.json))
 
-* **3** daily-mirror-lk ([China defends military ship’s planned visit to SL as India voices concern](https://github.com/nuuuwan/news_lk2/blob/data/articles/bd/bd0a6406.json))
+* **1** lankadeepa-lk ([ජනපති පාර්ලිමේන්තු අසුනේ ලාංඡනය ගැලවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/dbf9d8b2.json))
 
-* **3** lankadeepa-lk ([රට තැපල් ගාස්තු වැඩිවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc53e334.json))
-
-* **2** virakesari-lk ([கொழும்பில் இன்று நீர் வெட்டு](https://github.com/nuuuwan/news_lk2/blob/data/articles/7b/7b9ea8de.json))
-
-* **1** economy-next-com ([Several hour water cut in Sri Lanka capital](https://github.com/nuuuwan/news_lk2/blob/data/articles/75/759c5624.json))
-
-* **1** ada-derana-lk ([11-hour water cut in parts of Colombo tonight](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/dfd3a806.json))
-
-## Last 3 Hours (22 Articles)
+## Last 3 Hours (21 Articles)
 
 * **4** daily-mirror-lk ([Australia reveals four asylum seeker boats with 125 Lankans intercepted in June](https://github.com/nuuuwan/news_lk2/blob/data/articles/be/be929f84.json))
 
@@ -28,25 +22,25 @@
 
 * **4** lankadeepa-lk ([පළාත් රැසකට සවස ගිගුරුම් සහිත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/80/80cfdb45.json))
 
-* **4** tamil-mirror-lk ([உக்ரேன் ஜனாதிபதியின் சர்ச்சை புகைப்படம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b659a240.json))
-
 * **3** ada-derana-lk ([Several areas to receive fairly heavy rainfall today](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dacc4b9.json))
+
+* **3** tamil-mirror-lk ([இலங்கை மக்களுக்கு உதவி செய்ய தயார்: இந்திய ஜனாதிபதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7a/7a9a1e77.json))
 
 * **2** economy-next-com ([Sri Lanka loses Norway shipbuilding deal over sovereign default](https://github.com/nuuuwan/news_lk2/blob/data/articles/16/16d1c756.json))
 
 * **1** ada-lk ([ගාලුමුවදොර මුහුදේ පාවෙමින් තිබූ මළ සිරුර හඳුනා ගැනෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/c3/c3a9355b.json))
 
-## Last 24 Hours (263 Articles)
+## Last 24 Hours (258 Articles)
 
-* **51** virakesari-lk ([சர்வகட்சி அரசாங்கம் தொடர்பில் சுதந்திர கட்சி, ஜனாதிபதிக்கிடையில் விசேட சந்திப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/a7/a7fc6a4c.json))
+* **50** virakesari-lk ([பாராளுமன்ற தெரிவுக்குழு அமைத்து புதிய அரசியலமைப்பு தயாரிக்க அரசாங்கம் தீர்மானம் - நீதி அமைச்சர்](https://github.com/nuuuwan/news_lk2/blob/data/articles/70/70dad8f5.json))
 
-* **50** lankadeepa-lk ([උඩරට මහා මංගල්‍යයට මුල පුරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/82/827132af.json))
+* **48** lankadeepa-lk ([තෙල් දෙන්න අල්ලස් ගත්තැයි මඩකලපුව ලංගම කළමනාකරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/181d9558.json))
 
 * **37** ada-derana-lk ([Two arrested with hoarded fuel stock](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5144c57.json))
 
-* **33** news-first-lk ([Kimbula-Ele Guna’s associates arrested with KG, Heroin](https://github.com/nuuuwan/news_lk2/blob/data/articles/14/14ccea98.json))
+* **32** news-first-lk ([Fuel Crisis takes toll on Fishermen](https://github.com/nuuuwan/news_lk2/blob/data/articles/69/698fb595.json))
 
-* **31** daily-mirror-lk ([Over 6mn people over 20 years of age haven’t received booster vaccines: Dr. Ginige](https://github.com/nuuuwan/news_lk2/blob/data/articles/ad/ade9da1c.json))
+* **30** daily-mirror-lk ([Man who stole President’s flag and used as bed sheet, arrested](https://github.com/nuuuwan/news_lk2/blob/data/articles/46/46d5e039.json))
 
 * **19** ada-lk ([කිලෝමිටර් තුනක ඉනධන පෝලිම පැය තුනෙන් අවසන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d2/d2b3e9d3.json))
 
@@ -58,25 +52,25 @@
 
 * **4** island-lk ([‘Sri Lanka missing out on billions of dollars in oil and gas Foreign Direct Investment’](https://github.com/nuuuwan/news_lk2/blob/data/articles/9c/9c564a23.json))
 
-## Last Week (1,699 Articles)
+## Last Week (1,693 Articles)
 
-* **303** virakesari-lk ([ரணிலின் பாராளுமன்ற ஆசனத்திற்கு வஜிர : வெளியானது வர்த்தமானி](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8e1c1684.json))
+* **302** virakesari-lk ([ஆம்புலன்ஸ் வண்டி  மூன்று முச்சக்கர வண்டிகளின் மீது மோதி விபத்து - மதுபோதையில் இருந்த சாரதி கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/2b/2bb110bc.json))
 
 * **279** lankadeepa-lk ([වජිර පත් කෙරෙන ගැසට් නිවේදනය නිකුත් වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d9/d91bb9db.json))
 
 * **183** ada-lk ([දුම්රිය ආරක්ෂක නියාමකවරයෙකු පහරදී දුම්රියෙන් පිටතට තල්ලුකර ඝාතනය කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/83/83746d7e.json))
 
-* **177** daily-mirror-lk ([President appoints committee to probe allegation against Nimal Siripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a41ba700.json))
+* **176** daily-mirror-lk ([President raises unofficial concerns with Colombo based diplomats over statements](https://github.com/nuuuwan/news_lk2/blob/data/articles/b7/b7de28f4.json))
 
-* **177** news-first-lk ([Revised train fares in effect from today (23)](https://github.com/nuuuwan/news_lk2/blob/data/articles/d4/d49bb349.json))
+* **175** news-first-lk ([Dengue & COVID-19 risk, warning from health officials](https://github.com/nuuuwan/news_lk2/blob/data/articles/78/78568488.json))
 
-* **170** ada-derana-lk ([Fuel pass system tested at 25 filling stations island-wide today](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/347a8166.json))
+* **169** ada-derana-lk ([President appoints committee to probe bribery allegations against Nimal Siripala](https://github.com/nuuuwan/news_lk2/blob/data/articles/87/87452b41.json))
 
 * **154** tamil-mirror-lk ([ஓடும் ரயிலிலிருந்து வீசப்பட்ட அதிகாரி பலி](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f0edfa9.json))
 
-* **76** economy-next-com ([Sri Lanka President appoints committee to probe Taisei-linked allegation](https://github.com/nuuuwan/news_lk2/blob/data/articles/5d/5d3c708d.json))
-
 * **76** daily-ft-lk ([Economy should be the top priority of the new (or more correctly the old) government](https://github.com/nuuuwan/news_lk2/blob/data/articles/15/15a9eb60.json))
+
+* **75** economy-next-com ([EU stresses need of individual rights after Sri Lanka military attack on peaceful protesters](https://github.com/nuuuwan/news_lk2/blob/data/articles/42/4289ec1d.json))
 
 * **66** island-lk ([Ansell Lanka officially certified as a Great Place to Work](https://github.com/nuuuwan/news_lk2/blob/data/articles/11/11f710b2.json))
 
