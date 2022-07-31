@@ -1,6 +1,30 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/GMOA-claims-data-on-daily-COVID-cases-and-deaths-are-unrealistic/56-738148",
+    "time_ut": 1659301463,
+    "original_lang": "en",
+    "original_title": "GMOA claims data on daily COVID cases and deaths are unrealistic",
+    "file_name": "/tmp/news_lk2/articles/db/dbffacd3.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/Marikkar-says-can-support-all-party-Govt-whilst-being-in-Opposition/56-738146",
+    "time_ut": 1659301134,
+    "original_lang": "en",
+    "original_title": "Marikkar says can support all-party Govt. whilst being in Opposition",
+    "file_name": "/tmp/news_lk2/articles/44/44a334dd.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/news/World-Bank-says-160-m-disbursed-for-SL-to-meet-urgent-essential-items/56-738145",
+    "time_ut": 1659300891,
+    "original_lang": "en",
+    "original_title": "World Bank says $ 160 m disbursed for SL to meet urgent essential items",
+    "file_name": "/tmp/news_lk2/articles/c6/c6df278d.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/business/Hayleys-Fabric-surpasses-global-giants-to-win-new-Sustainable-Impact-Award-at-International-Quality-Awards-2022-UK/34-738144",
     "time_ut": 1659300762,
     "original_lang": "en",
@@ -102,6 +126,14 @@
     "original_lang": "ta",
     "original_title": "\u0b9a\u0bc0\u0ba9 \u0bb5\u0bbf\u0b9e\u0bcd\u0b9e\u0bbe\u0ba9 \u0b86\u0baf\u0bcd\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 -\u00a0\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8",
     "file_name": "/tmp/news_lk2/articles/94/94bcdb77.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132618",
+    "time_ut": 1659284320,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bc1\u0b9f\u0ba9\u0bcd \u0b8e\u0bb5\u0bcd\u0bb5\u0bbf\u0ba4 \u0baa\u0b95\u0bc8\u0bae\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 : \u0bb8\u0bcd\u0bb0\u0bc0 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd - \u0b9a\u0bbe\u0b95\u0bb0 \u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bb5\u0b9a\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6b/6ba747e9.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
