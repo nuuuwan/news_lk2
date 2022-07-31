@@ -1,28 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 00:48:47 (LK time)*
+*As of 2022-08-01 01:32:18 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last Hour (1 Articles)
-
-* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
-
-## Last 3 Hours (8 Articles)
-
-* **4** virakesari-lk ([இலங்கைக்கு முழுமையான ஒத்துழைப்பை வழங்குவோம் பிரதமர் தினேஷ் குணவர்தனவிடம் சீன தூதுவர் உறுதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18e134a9.json))
-
-* **2** ada-derana-lk ([Elections after another two and a half years - Manusha](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/440912a1.json))
+## Last 3 Hours (4 Articles)
 
 * **2** tamil-mirror-lk ([பதவி விலகினார் கதிர்செல்வன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/177e1698.json))
 
-## Last 24 Hours (181 Articles)
+* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
+
+* **1** daily-ft-lk ([Ranil’s biggest woe: What to do when fiscal and monetary policies have failed and are still falling?](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45356ea6.json))
+
+## Last 24 Hours (180 Articles)
 
 * **32** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
 * **31** lankadeepa-lk ([රෝග ලක්ෂණ නැතත් බයිඩන් තවමත් පොසිටිව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49a7befd.json))
 
-* **30** tamil-mirror-lk ([மின் வெட்டு நேரம் அதிகரிக்கும் சாத்தியம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/13/138ed769.json))
+* **29** tamil-mirror-lk ([இலங்கை மின்சார சபை விடுத்துள்ள அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/37/37cea969.json))
 
 * **22** ada-lk ([දැලක පැටලුණු දුර්ලභ තල්මසෙකු සොයා යෑම](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4b8ca91.json))
 
@@ -32,9 +28,11 @@
 
 * **18** news-first-lk ([Motorcycle murders strike again: 51-year-old man gunned down in Colombo 15](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2ac9f95.json))
 
-* **8** economy-next-com ([Sri Lanka’s Expolanka profit skyrockets over 200% on exports, rupee depreciation](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dd17671.json))
+* **7** economy-next-com ([Nihal Fonseka re-appointed as Sri Lanka monetary board member for 6-years](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e967a3e.json))
 
 * **3** colombo-telegraph-com ([26.6 Million Of Sri Lankan Taxpayers’ Money Spent On Former Prime Minister Mahinda Rajapaksa’s Trip To Italy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d099f422.json))
+
+* **1** daily-ft-lk ([Ranil’s biggest woe: What to do when fiscal and monetary policies have failed and are still falling?](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45356ea6.json))
 
 ## Last Week (1,688 Articles)
 
@@ -54,17 +52,17 @@
 
 * **72** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
-* **58** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
+* **59** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
 * **51** island-lk ([Anticipated global recession dampens local share market; indices down](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce57d7c3.json))
 
-* **15** d-b-s-jeyaraj-com ([Clinging to Ranil-phobia is bad tactics. It has already caused enough damage – to the opposition. It enabled the obscene travesty of making Dulles Alahapperuma – a Rajapaksa acolyte for over 25 years –  the standard bearer of the anti-Rajapaksa camp.](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10f49439.json))
+* **14** d-b-s-jeyaraj-com ([Indian Prime Minister Narendra Modi sends Congratulatory Message to New Sri Lankan President Ranil Wickremesinghe days after Chinese President Xi Jinping and Russian President Vladimir Putin sent messages; Modi says India would continue to be supportive of the quest of the people of Sri Lanka](https://github.com/nuuuwan/news_lk2/blob/data/articles/2a/2ae2dc8c.json))
 
 * **10** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,685 Articles)
+## All Time (2,686 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +78,7 @@
 
 * **224** tamil-mirror-lk ([சீன அரிசி கப்பல் நாட்டை வந்தடைந்தது](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45f6c04b.json))
 
-* **166** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
+* **167** daily-ft-lk ([Ideamart, a digital gateway for aspiring women entrepreneurs](https://github.com/nuuuwan/news_lk2/blob/data/articles/35/35f00fcd.json))
 
 * **131** d-b-s-jeyaraj-com ([Life Comes to a Near Standstill in Sri Lanka as Govt Suspends  Nationwide Sale of Fuel for 2 weeks Except for Essential Services;Colombo seeks ‘urgent’ supply from India, Russia, Qatar](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cb9b1ad.json))
 
