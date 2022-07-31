@@ -1,14 +1,20 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 03:52:14 (LK time)*
+*As of 2022-08-01 04:30:35 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 3 Hours (6 Articles)
+## Last Hour (2 Articles)
 
-* **6** daily-ft-lk ([Combatting chaotic crises: Agile leadership in high demand](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8fa51ea.json))
+* **2** daily-mirror-lk ([Abyss between Legality and Legitimacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f72902c.json))
 
-## Last 24 Hours (189 Articles)
+## Last 3 Hours (7 Articles)
+
+* **5** daily-ft-lk ([Advocata conference on the way forward for economic reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e8bf22.json))
+
+* **2** daily-mirror-lk ([Abyss between Legality and Legitimacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f72902c.json))
+
+## Last 24 Hours (190 Articles)
 
 * **35** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
@@ -18,9 +24,9 @@
 
 * **22** ada-lk ([දැලක පැටලුණු දුර්ලභ තල්මසෙකු සොයා යෑම](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4b8ca91.json))
 
-* **19** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5fc2de7.json))
+* **19** daily-mirror-lk ([Chinese rocket falls to Earth](https://github.com/nuuuwan/news_lk2/blob/data/articles/29/29e0358c.json))
 
-* **18** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ce3302d.json))
+* **19** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5fc2de7.json))
 
 * **18** news-first-lk ([Motorcycle murders strike again: 51-year-old man gunned down in Colombo 15](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2ac9f95.json))
 
@@ -30,7 +36,7 @@
 
 * **3** colombo-telegraph-com ([26.6 Million Of Sri Lankan Taxpayers’ Money Spent On Former Prime Minister Mahinda Rajapaksa’s Trip To Italy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d099f422.json))
 
-## Last Week (1,697 Articles)
+## Last Week (1,699 Articles)
 
 * **309** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
@@ -40,9 +46,9 @@
 
 * **182** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
-* **179** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
+* **179** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
 
-* **177** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
+* **179** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
 
 * **164** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
@@ -58,7 +64,7 @@
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,695 Articles)
+## All Time (2,697 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -66,7 +72,7 @@
 
 * **303** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **286** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **288** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **230** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
