@@ -1,27 +1,11 @@
 [
   {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/31/new-bus-service-for-students-from-tomorrow-01/",
-    "time_ut": 1659243840,
-    "original_lang": "en",
-    "original_title": "New bus service for students from tomorrow (01)",
-    "file_name": "/tmp/news_lk2/articles/73/73e43103.json"
-  },
-  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132585",
     "time_ut": 1659243803,
     "original_lang": "ta",
     "original_title": "\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 .\u0b85\u0bb0\u0b9a \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bb5\u0bb4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd - \u0b85\u0bb0\u0b9a \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf",
     "file_name": "/tmp/news_lk2/articles/cc/cc414c79.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/31/qr-system-in-effect-from-1st-august-12-important-points-to-know-before-heading-to-pump-fuel/",
-    "time_ut": 1659243600,
-    "original_lang": "en",
-    "original_title": "QR system in effect from 1st August : 12 important points to know before heading to pump fuel",
-    "file_name": "/tmp/news_lk2/articles/78/78fa2638.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -73,11 +57,11 @@
   },
   {
     "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8-30-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301398",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb1\u0bc8-30-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301398",
     "time_ut": 1659242030,
     "original_lang": "ta",
-    "original_title": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8 30 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/2d/2db4befd.json"
+    "original_title": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb1\u0bc8 30 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/73/7387f286.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
