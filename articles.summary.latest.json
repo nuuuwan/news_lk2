@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84001/three-hour-power-cut-scheduled-for-tomorrow",
+    "time_ut": 1659281880,
+    "original_lang": "en",
+    "original_title": "Three-hour power cut scheduled for tomorrow",
+    "file_name": "/tmp/news_lk2/articles/2c/2c94a444.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/SJB-says-all-its-MPs-with-Sajith/108-242118",
     "time_ut": 1659280455,
@@ -46,6 +54,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka in trade surplus in June as economy smashed, fx shortages persist",
     "file_name": "/tmp/news_lk2/articles/3b/3b6a5adb.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba-\u0dc4\u0dd9\u0da7---\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2-/11-395900",
+    "time_ut": 1659276577,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0db8\u0dd2\u0dbd \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0dc4\u0dd9\u0da7 - \u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2?",
+    "file_name": "/tmp/news_lk2/articles/fb/fb9c9e94.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2\u0dba \u0d9a\u0dd0\u0db4\u0dd4\u0dc0\u0dcf\u0dc4\u0db8 \u0db8\u0dd0\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0dd2\u0dbb\u0dd2\u0dba \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0dc0\u0dd0\u0da9\u0da7 \u0d89\u0da7\u0dd2\u0db4\u0db1\u0dca\u0daf\u0db8\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7",
     "file_name": "/tmp/news_lk2/articles/c2/c2c1f12c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Police-release-photographs-of-main-suspects-wanted-over-setting-fire-to-Ranils-private-residence/108-241897",
-    "time_ut": 1658916738,
-    "original_lang": "en",
-    "original_title": "Police release photographs of main suspects wanted over setting fire to Ranil\u2019s private residence",
-    "file_name": "/tmp/news_lk2/articles/55/55935a5e.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd4\u0db1\u0dca-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda-\u0daf\u0dd4\u0da7\u0dd4-\u0dbb\u0dd2\u0daf\u0dd3-\u0dbb\u0dda\u0d9b\u0dcf\u0dc0-\u0db4\u0dd0\u0dba-24\u0d9a\u0dca-\u0dba\u0db1\u0dca\u0db1\u0da7-\u0db4\u0dd9\u0dbb-\u0d85\u0db1\u0dca\u0db0\u0d9a\u0dcf\u0dbb\u0dba\u0d9a\u0dca-\u0db6\u0dc0\u0da7-\u0db4\u0dad\u0dca-\u0dc0\u0dd4\u0db1\u0dcf/11-395790",
-    "time_ut": 1658916591,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0daf\u0dd4\u0da7\u0dd4 \u0dbb\u0dd2\u0daf\u0dd3 \u0dbb\u0dda\u0d9b\u0dcf\u0dc0 \u0db4\u0dd0\u0dba 24\u0d9a\u0dca \u0dba\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dca\u0db0\u0d9a\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd4\u0db1\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/db/db4843ea.json"
   }
 ]
