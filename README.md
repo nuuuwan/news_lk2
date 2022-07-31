@@ -1,22 +1,16 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 02:49:35 (LK time)*
+*As of 2022-08-01 03:14:50 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (4 Articles)
-
-* **4** daily-ft-lk ([Hayleys Fabric surpasses global giants to win new Sustainable Impact Award at International Quality Awards 2022 – UK](https://github.com/nuuuwan/news_lk2/blob/data/articles/cf/cf2088ad.json))
 
 ## Last Hour (5 Articles)
 
 * **5** daily-ft-lk ([Advocata conference on the way forward for economic reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e8bf22.json))
 
-## Last 3 Hours (7 Articles)
+## Last 3 Hours (6 Articles)
 
 * **6** daily-ft-lk ([Combatting chaotic crises: Agile leadership in high demand](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8fa51ea.json))
-
-* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
 
 ## Last 24 Hours (188 Articles)
 
