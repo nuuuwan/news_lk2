@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 06:21:27 (LK time)*
+*As of 2022-07-31 06:48:00 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -30,11 +30,11 @@
 
 * **1** colombo-telegraph-com ([The Aragalaya & Human Rights In Geneva This September](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773f8b63.json))
 
-## Last Week (1,702 Articles)
+## Last Week (1,701 Articles)
 
 * **308** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
-* **281** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
+* **280** lankadeepa-lk ([ඉන්ධන පෝලිමෙන් පැන පොලිසියටත් කොටන්නන ගිය අයකු මෙල්ල කරයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/d7/d7ad1ad8.json))
 
 * **182** news-first-lk ([Station Masters’ TU action: discussions with authorities today](https://github.com/nuuuwan/news_lk2/blob/data/articles/a3/a379b085.json))
 
