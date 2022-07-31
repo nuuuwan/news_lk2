@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/33-arrested-over-illegal-stockpiling-and-sale-of-fuel/108-242115",
+    "time_ut": 1659260950,
+    "original_lang": "en",
+    "original_title": "33 arrested over illegal stockpiling and sale of fuel",
+    "file_name": "/tmp/news_lk2/articles/63/637f995d.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83996/one-dead-3-injured-in-shooting-at-rathgama",
+    "time_ut": 1659260760,
+    "original_lang": "en",
+    "original_title": "One dead, 3 injured in shooting at Rathgama",
+    "file_name": "/tmp/news_lk2/articles/47/4743d0eb.json"
+  },
+  {
     "newspaper_id": "tamil-mirror-lk",
     "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0bbf-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-301415",
     "time_ut": 1659260589,
@@ -129,11 +145,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Set-aside-political-differences-become-united-to-overcome-major-crisis-Karu-Jayasuriya/108-242112",
+    "url": "https://www.dailymirror.lk/latest_news/Set-aside-political-differences-become-united-to-overcome-major-crisis-Karu-Jayasuriya/342-242112",
     "time_ut": 1659255092,
     "original_lang": "en",
     "original_title": "Set aside political differences, become united to overcome major crisis: Karu Jayasuriya",
-    "file_name": "/tmp/news_lk2/articles/bc/bc4427fa.json"
+    "file_name": "/tmp/news_lk2/articles/1e/1eb3375a.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
