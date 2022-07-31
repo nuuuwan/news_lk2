@@ -1,20 +1,22 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 21:21:28 (LK time)*
+*As of 2022-07-31 21:30:59 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
-## Last 30 Minutes (1 Articles)
+## Last 30 Minutes (2 Articles)
+
+* **1** daily-mirror-lk ([Bodhi Pooja for Jackson Anthoney](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/453a5d43.json))
 
 * **1** ada-derana-lk ([Three-hour power cut scheduled for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c94a444.json))
 
-## Last Hour (2 Articles)
+## Last Hour (3 Articles)
+
+* **2** daily-mirror-lk ([SJB says all its MPs with Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71058e30.json))
 
 * **1** ada-derana-lk ([Three-hour power cut scheduled for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c94a444.json))
 
-* **1** daily-mirror-lk ([SJB says all its MPs with Sajith](https://github.com/nuuuwan/news_lk2/blob/data/articles/71/71058e30.json))
-
-## Last 3 Hours (27 Articles)
+## Last 3 Hours (28 Articles)
 
 * **6** virakesari-lk ([வவுனியாவில் குடும்பஸ்தர் வெட்டிக்கொலை.](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e12e65ad.json))
 
@@ -22,7 +24,7 @@
 
 * **5** tamil-mirror-lk ([ஐ.தே.கவுக்கு தாவ பல எம்.பிக்கள் முஸ்தீபு](https://github.com/nuuuwan/news_lk2/blob/data/articles/ea/ea2810c2.json))
 
-* **3** daily-mirror-lk ([Allegations against Nimal Siripala: committee submits report](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df9a49e7.json))
+* **4** daily-mirror-lk ([Allegations against Nimal Siripala: committee submits report](https://github.com/nuuuwan/news_lk2/blob/data/articles/df/df9a49e7.json))
 
 * **3** ada-lk ([සහල් ටොන් 3057ක් සත්ත්ව ආහාර නිෂ්පාදනයට ගත් ආයතනයක් වටලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/4b/4bd90bed.json))
 
@@ -32,27 +34,27 @@
 
 * **1** economy-next-com ([Sri Lanka in trade surplus in June as economy smashed, fx shortages persist](https://github.com/nuuuwan/news_lk2/blob/data/articles/3b/3b6a5adb.json))
 
-## Last 24 Hours (173 Articles)
+## Last 24 Hours (171 Articles)
 
 * **31** lankadeepa-lk ([රෝග ලක්ෂණ නැතත් බයිඩන් තවමත් පොසිටිව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49a7befd.json))
 
-* **27** virakesari-lk ([சவால்களை எதிர்கொள்ள இலங்கைக்கு தொடர்ந்தும் உதவுவதற்கு உறுதிபூண்டுள்ளோம் - இந்திய ஜனாதிபதி திரௌபதி முர்மு ஜனாதிபதி ரணிலுக்கு கடிதம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/08/08fc9430.json))
-
 * **25** tamil-mirror-lk ([முதலாம் வகுப்புக்கு மாணவர்கள் தொடர்பில் முக்கிய அறிவிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/57/57864da2.json))
 
-* **24** ada-lk ([පොදු රාජ්‍ය මණ්ඩලයීය පළමු පදක්කම ඉසුරුගෙන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/3f/3fe4fa8d.json))
+* **25** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
+
+* **23** ada-lk ([කොවිඩ් ආසාදිතයන් අඩුවෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/45b1ac90.json))
 
 * **20** ada-derana-lk ([More COVID infections and deaths reported today](https://github.com/nuuuwan/news_lk2/blob/data/articles/ee/ee0847dc.json))
 
 * **18** news-first-lk ([Motorcycle murders strike again: 51-year-old man gunned down in Colombo 15](https://github.com/nuuuwan/news_lk2/blob/data/articles/b2/b2ac9f95.json))
 
-* **16** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ce3302d.json))
+* **17** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ce3302d.json))
 
 * **8** economy-next-com ([Sri Lanka to fully implement QR code system in fuel rationing from Aug. 1](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc20f506.json))
 
 * **4** colombo-telegraph-com ([The Aragalaya & Human Rights In Geneva This September](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773f8b63.json))
 
-## Last Week (1,703 Articles)
+## Last Week (1,704 Articles)
 
 * **301** virakesari-lk ([வவுனியா வேப்பங்குளம் எரிபொருள் நிரப்பு நிலையத்தில் அமைதியின்மை : 7 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/3c/3c78495b.json))
 
@@ -64,7 +66,7 @@
 
 * **178** ada-derana-lk ([President reaffirms Sri Lanka’s commitment to uphold rights of peaceful, non-violent assembly](https://github.com/nuuuwan/news_lk2/blob/data/articles/95/95756aa9.json))
 
-* **176** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
+* **177** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
 * **161** tamil-mirror-lk ([இன்று முதல் பாடசாலைகள் மீள ஆரம்பம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/8d/8dbb5fb0.json))
 
@@ -80,7 +82,7 @@
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,663 Articles)
+## All Time (2,664 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -88,7 +90,7 @@
 
 * **301** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
-* **284** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
+* **285** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
 * **229** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
