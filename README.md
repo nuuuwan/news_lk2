@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 06:04:37 (LK time)*
+*As of 2022-07-31 06:21:27 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,15 +8,15 @@
 
 * **1** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d272f7d.json))
 
-## Last 24 Hours (155 Articles)
+## Last 24 Hours (154 Articles)
 
-* **29** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
+* **30** virakesari-lk ([இந்தியாவின் அயல்நாடான இலங்கைக்கு தனது இராணுவ கப்பல் செல்வதை நியாயப்படுத்தியது சீனா](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d62bc6c.json))
 
 * **24** ada-derana-lk ([Several areas to receive fairly heavy rainfall today](https://github.com/nuuuwan/news_lk2/blob/data/articles/3d/3dacc4b9.json))
 
-* **21** lankadeepa-lk ([අප්‍රිකාවෙන් පිට පළමු  වඳුරු උණ මරණ වාර්තා වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e1/e186bd94.json))
+* **20** lankadeepa-lk ([පළාත් රැසකට සවස ගිගුරුම් සහිත වැසි](https://github.com/nuuuwan/news_lk2/blob/data/articles/04/0435f83a.json))
 
-* **20** tamil-mirror-lk ([’சேவையில் ஈடுபடாத தனியார் பேருந்துகளின் அனுமதிப் பத்திரம் இரத்து’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e9ca0806.json))
+* **19** tamil-mirror-lk ([உக்ரேன் ஜனாதிபதியின் சர்ச்சை புகைப்படம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b6/b659a240.json))
 
 * **19** news-first-lk ([Export earnings increase to US$ 1.2Bn in June: EDB](https://github.com/nuuuwan/news_lk2/blob/data/articles/39/392df545.json))
 
@@ -30,9 +30,9 @@
 
 * **1** colombo-telegraph-com ([The Aragalaya & Human Rights In Geneva This September](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773f8b63.json))
 
-## Last Week (1,701 Articles)
+## Last Week (1,702 Articles)
 
-* **307** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
+* **308** virakesari-lk ([பாடசாலை நாட்கள் மூன்றாக வரையறை : 2 நாட்கள் இணையவழி மூலமான கற்றலுக்கு ஒதுக்கம்  - கல்வி அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/c6/c6578eed.json))
 
 * **281** lankadeepa-lk ([වඳුරු උණ: ගෝලීය හදිසි තත්ත්වයක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/c2/c2f547e9.json))
 
@@ -58,11 +58,11 @@
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,485 Articles)
+## All Time (2,486 Articles)
 
 * **387** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **339** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **340** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **278** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
