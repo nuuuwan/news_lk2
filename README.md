@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 00:22:39 (LK time)*
+*As of 2022-08-01 00:31:21 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -12,11 +12,11 @@
 
 * **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
 
-## Last 3 Hours (13 Articles)
+## Last 3 Hours (11 Articles)
 
-* **5** virakesari-lk ([சட்ட விரோதமாக 2500 லீற்றருக்கும் அதிகமான எரிபொருளை பதுக்கி வைத்திருந்த 33 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7207f77.json))
+* **4** virakesari-lk ([யாழ். குருநகரிலுள்ள கத்தோலிக்க ஆலயத்தில் மின்னல் தாக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/557da005.json))
 
-* **3** ada-derana-lk ([Russian Ambassador calls on new Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dee2821.json))
+* **2** ada-derana-lk ([Elections after another two and a half years - Manusha](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/440912a1.json))
 
 * **2** tamil-mirror-lk ([பதவி விலகினார் கதிர்செல்வன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/177e1698.json))
 
@@ -44,7 +44,7 @@
 
 * **3** colombo-telegraph-com ([26.6 Million Of Sri Lankan Taxpayers’ Money Spent On Former Prime Minister Mahinda Rajapaksa’s Trip To Italy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d099f422.json))
 
-## Last Week (1,701 Articles)
+## Last Week (1,695 Articles)
 
 * **305** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
@@ -56,13 +56,13 @@
 
 * **179** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
 
-* **178** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
+* **177** daily-mirror-lk ([Refueling according QR code, last digit of vehicle’s number plate begins today](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/261efe63.json))
 
 * **164** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
 * **72** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
-* **69** daily-ft-lk ([Glenanore Estate establishes all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2ac6ff7.json))
+* **64** daily-ft-lk ([Abbotsleigh Estate sets an all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d5d5d21.json))
 
 * **51** island-lk ([Anticipated global recession dampens local share market; indices down](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce57d7c3.json))
 
