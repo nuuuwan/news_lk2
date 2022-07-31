@@ -1,32 +1,24 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 00:31:21 (LK time)*
+*As of 2022-08-01 00:48:47 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last 30 Minutes (1 Articles)
-
-* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
 
 ## Last Hour (1 Articles)
 
 * **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
 
-## Last 3 Hours (11 Articles)
+## Last 3 Hours (8 Articles)
 
-* **4** virakesari-lk ([யாழ். குருநகரிலுள்ள கத்தோலிக்க ஆலயத்தில் மின்னல் தாக்கம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/55/557da005.json))
+* **4** virakesari-lk ([இலங்கைக்கு முழுமையான ஒத்துழைப்பை வழங்குவோம் பிரதமர் தினேஷ் குணவர்தனவிடம் சீன தூதுவர் உறுதி](https://github.com/nuuuwan/news_lk2/blob/data/articles/18/18e134a9.json))
 
 * **2** ada-derana-lk ([Elections after another two and a half years - Manusha](https://github.com/nuuuwan/news_lk2/blob/data/articles/44/440912a1.json))
 
 * **2** tamil-mirror-lk ([பதவி விலகினார் கதிர்செல்வன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/177e1698.json))
 
-* **2** economy-next-com ([Sri Lanka low-grown tea prices rise in July third week sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ebb9c2b.json))
+## Last 24 Hours (181 Articles)
 
-* **1** daily-mirror-lk ([Car catches fire in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53052fa4.json))
-
-## Last 24 Hours (180 Articles)
-
-* **31** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
+* **32** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
 * **31** lankadeepa-lk ([රෝග ලක්ෂණ නැතත් බයිඩන් තවමත් පොසිටිව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49a7befd.json))
 
@@ -44,9 +36,9 @@
 
 * **3** colombo-telegraph-com ([26.6 Million Of Sri Lankan Taxpayers’ Money Spent On Former Prime Minister Mahinda Rajapaksa’s Trip To Italy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d099f422.json))
 
-## Last Week (1,695 Articles)
+## Last Week (1,688 Articles)
 
-* **305** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
+* **306** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
 * **282** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
@@ -62,21 +54,21 @@
 
 * **72** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
 
-* **64** daily-ft-lk ([Abbotsleigh Estate sets an all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4d5d5d21.json))
+* **58** daily-ft-lk ([Can Sri Lanka beat inflation before being swallowed by hyperinflation?](https://github.com/nuuuwan/news_lk2/blob/data/articles/26/262689ea.json))
 
 * **51** island-lk ([Anticipated global recession dampens local share market; indices down](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce57d7c3.json))
 
-* **17** d-b-s-jeyaraj-com ([“President Wickremesinghe is economically very literate. He knows what has to be done. At times, it has been difficult for him or any other politician to get it done.But, if President Wickremesinghe understands, he can get it done” – Dr.Indrajit  Coomaraswamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b60a531.json))
+* **15** d-b-s-jeyaraj-com ([Clinging to Ranil-phobia is bad tactics. It has already caused enough damage – to the opposition. It enabled the obscene travesty of making Dulles Alahapperuma – a Rajapaksa acolyte for over 25 years –  the standard bearer of the anti-Rajapaksa camp.](https://github.com/nuuuwan/news_lk2/blob/data/articles/10/10f49439.json))
 
 * **10** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,684 Articles)
+## All Time (2,685 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **388** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **389** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **303** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
