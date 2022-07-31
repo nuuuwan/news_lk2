@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84003/elections-after-another-two-and-a-half-years-manusha",
+    "time_ut": 1659284400,
+    "original_lang": "en",
+    "original_title": "Elections after another two and a half years - Manusha",
+    "file_name": "/tmp/news_lk2/articles/44/440912a1.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/caption_story/Car-catches-fire-in-Colombo/110-242121",
+    "time_ut": 1659284146,
+    "original_lang": "en",
+    "original_title": "Car catches fire in Colombo",
+    "file_name": "/tmp/news_lk2/articles/53/53052fa4.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132613",
+    "time_ut": 1659284015,
+    "original_lang": "ta",
+    "original_title": "\u0baf\u0bbe\u0bb4\u0bcd. \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0b95\u0bb0\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/55/557da005.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-98061/",
+    "time_ut": 1659283620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for",
+    "file_name": "/tmp/news_lk2/articles/51/510d7e58.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-low-grown-tea-prices-rise-in-july-third-week-sale-98064/",
+    "time_ut": 1659283620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka low-grown tea prices rise in July third week sale",
+    "file_name": "/tmp/news_lk2/articles/8e/8ebb9c2b.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84002/russian-ambassador-calls-on-new-foreign-minister",
     "time_ut": 1659283200,
     "original_lang": "en",
