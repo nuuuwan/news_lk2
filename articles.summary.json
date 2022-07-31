@@ -1,5 +1,13 @@
 [
   {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-says-all-its-MPs-with-Sajith/108-242118",
+    "time_ut": 1659280455,
+    "original_lang": "en",
+    "original_title": "SJB says all its MPs with Sajith",
+    "file_name": "/tmp/news_lk2/articles/71/71058e30.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/31/power-cuts-approved-for-01st-august/",
     "time_ut": 1659278460,
@@ -14,6 +22,14 @@
     "original_lang": "ta",
     "original_title": "\u0b87\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0ba8\u0bbe\u0bb3\u0bc8 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
     "file_name": "/tmp/news_lk2/articles/96/964fc3f6.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/175-000-\u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-301441",
+    "time_ut": 1659277632,
+    "original_lang": "ta",
+    "original_title": "175,000 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd  \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/06/0652c097.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
