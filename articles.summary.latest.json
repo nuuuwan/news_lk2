@@ -1,6 +1,46 @@
 [
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132602",
+    "time_ut": 1659253820,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9\u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9\u0bb5\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bbe\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bcd - \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/97/97e6d263.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0dc4\u0dbd\u0dda-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db8\u0dbb\u0dd4\u0da7/101-617316",
+    "time_ut": 1659253795,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0dc4\u0dbd\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/66/66e26f6e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132601",
+    "time_ut": 1659253601,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbe\u0bb2\u0bbf\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0b90\u0bb5\u0bb0\u0bcd \u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/11/11a108e9.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0da0\u0dd3\u0db1-\u0dbb\u0ddc\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0da7-\u0dc0\u0dd0\u0da7\u0dda/101-617313",
+    "time_ut": 1659253120,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0dbb\u0ddc\u0d9a\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc3\u0dcf\u0d9c\u0dbb\u0dba\u0da7 \u0dc0\u0dd0\u0da7\u0dda",
+    "file_name": "/tmp/news_lk2/articles/c1/c1474cb5.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132600",
+    "time_ut": 1659252825,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bb5 \u0bae\u0ba4\u0b95\u0bc1\u0bb0\u0bc1\u0bb5\u0bc8 \u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/f9/f9108d68.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132598",
     "time_ut": 1659252319,
     "original_lang": "ta",
@@ -70,6 +110,14 @@
     "original_lang": "en",
     "original_title": "Appoint five individuals from Aragalaya campaign to Parliament: Gemunu requests prez",
     "file_name": "/tmp/news_lk2/articles/86/869b46bf.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dbb\u0dc5\u0db6\u0da9-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-395890",
+    "time_ut": 1659248499,
+    "original_lang": "si",
+    "original_title": "\u0dc0\u0dd9\u0dbb\u0dc5\u0db6\u0da9 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "file_name": "/tmp/news_lk2/articles/72/72d384e1.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -793,6 +841,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132538",
+    "time_ut": 1659194614,
+    "original_lang": "ta",
+    "original_title": "\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/69/6983d8fc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132537",
     "time_ut": 1659194550,
     "original_lang": "ta",
@@ -1417,11 +1473,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/thaksalawa/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/55-617289",
+    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda-\u0db8\u0dbb\u0dab-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca/2-617289",
     "time_ut": 1659169811,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dda \u0db8\u0dbb\u0dab \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db6\u0dda\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0d8b\u0db4\u0daf\u0dd9\u0dc3\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/cc/ccf2eb4b.json"
+    "file_name": "/tmp/news_lk2/articles/a5/a5a5377f.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "ta",
     "original_title": "\u0baa\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bbe\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0baa\u0bb0\u0bb5\u0bb2\u0bcd",
     "file_name": "/tmp/news_lk2/articles/35/35b98bf7.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7-\u0dbd\u0d9a\u0dca\u200d\u0dc2-40\u0d9a\u0dca-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0dc0\u0dd9\u0dad\u0dd2/1-617108",
-    "time_ut": 1658899605,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0da7 \u0dbd\u0d9a\u0dca\u200d\u0dc2 40\u0d9a\u0dca \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0dc0\u0dd9\u0dad\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/a4/a4032426.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/27/ethul-kotte-resident-arrested-with-stolen-tear-gas-ammo/",
-    "time_ut": 1658899380,
-    "original_lang": "en",
-    "original_title": "Ethul Kotte resident arrested with stolen Tear Gas Ammo",
-    "file_name": "/tmp/news_lk2/articles/2d/2db147da.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132328",
-    "time_ut": 1658899278,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 6 \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0b95\u0ba4\u0bbf\u0b95\u0bb3\u0bbe\u0b95 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/67/67f1d891.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da2\u0dd2\u0dbb-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0db0\u0dd4\u0dbb\u0dba\u0dda-\u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0dba\u0dd2/1-617107",
-    "time_ut": 1658899242,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0da2\u0dd2\u0dbb \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0db0\u0dd4\u0dbb\u0dba\u0dda \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ad/ad8afb26.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83899/over-4-million-users-registered-with-nfp-system-as-of-yesterday",
-    "time_ut": 1658899080,
-    "original_lang": "en",
-    "original_title": "Over 4 million users registered with NFP system as of yesterday",
-    "file_name": "/tmp/news_lk2/articles/ec/ec01e188.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe-\u0bb5\u0b9c\u0bbf\u0bb0-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-301202",
-    "time_ut": 1658898951,
-    "original_lang": "ta",
-    "original_title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbe\u0bae\u0bbe: \u0bb5\u0b9c\u0bbf\u0bb0 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/b9/b9a30431.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-calls-foreign-investor-interest-for-petroleum-distribution-97944/",
-    "time_ut": 1658898720,
-    "original_lang": "en",
-    "original_title": "Sri Lanka calls foreign investor interest for petroleum distribution",
-    "file_name": "/tmp/news_lk2/articles/a0/a0238101.json"
   }
 ]
