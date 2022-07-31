@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/31/motorcycle-murderers-one-dead-two-injured-in-rathgama-attack/",
+    "time_ut": 1659262140,
+    "original_lang": "en",
+    "original_title": "Motorcycle murderers: One dead, two injured in Rathgama attack",
+    "file_name": "/tmp/news_lk2/articles/12/124178a8.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0d86\u0dc4\u0dcf\u0dbb-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf-\u0da9\u0db6\u0dca\u0dbd\u0dd2\u0dc0\u0dca-\u0d91\u0da0\u0dca-\u0db4\u0dd3-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dba\u0dd2/1-617326",
+    "time_ut": 1659261916,
+    "original_lang": "si",
+    "original_title": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0d86\u0dc4\u0dcf\u0dbb \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf \u0da9\u0db6\u0dca\u0dbd\u0dd2\u0dc0\u0dca.\u0d91\u0da0\u0dca.\u0db4\u0dd3 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/d8/d874503e.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf-\u0daf\u0dd2\u0db1\u0dcf\u0d9c\u0dad-\u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda-\u0da2\u0db1\u0dad\u0dcf-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba\u0dba\u0dd2/1-617325",
+    "time_ut": 1659261728,
+    "original_lang": "si",
+    "original_title": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dba\u0dcf \u0daf\u0dd2\u0db1\u0dcf\u0d9c\u0dad \u0dba\u0dd4\u0dad\u0dca\u0dad\u0dda \u0da2\u0db1\u0dad\u0dcf \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/a5/a5addd65.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/33-arrested-over-illegal-stockpiling-and-sale-of-fuel/108-242115",
     "time_ut": 1659260950,
@@ -145,11 +169,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Set-aside-political-differences-become-united-to-overcome-major-crisis-Karu-Jayasuriya/342-242112",
+    "url": "https://www.dailymirror.lk/breaking_news/Set-aside-political-differences-become-united-to-overcome-major-crisis-Karu-Jayasuriya/108-242112",
     "time_ut": 1659255092,
     "original_lang": "en",
     "original_title": "Set aside political differences, become united to overcome major crisis: Karu Jayasuriya",
-    "file_name": "/tmp/news_lk2/articles/1e/1eb3375a.json"
+    "file_name": "/tmp/news_lk2/articles/bc/bc4427fa.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -550,6 +574,14 @@
     "original_lang": "en",
     "original_title": "Ranjan\u2019s Pardon: Documents sent to President",
     "file_name": "/tmp/news_lk2/articles/5c/5cc0e273.json"
+  },
+  {
+    "newspaper_id": "colombo-telegraph-com",
+    "url": "https://www.colombotelegraph.com/index.php/proroguing-the-parliament-a-political-subterfuge/",
+    "time_ut": 1659242153,
+    "original_lang": "en",
+    "original_title": "Proroguing The Parliament \u2013 A Political Subterfuge!",
+    "file_name": "/tmp/news_lk2/articles/b2/b25c655a.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
