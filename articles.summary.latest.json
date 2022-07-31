@@ -1,6 +1,22 @@
 [
   {
     "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Hayleys-Fabric-surpasses-global-giants-to-win-new-Sustainable-Impact-Award-at-International-Quality-Awards-2022-UK/34-738144",
+    "time_ut": 1659300762,
+    "original_lang": "en",
+    "original_title": "Hayleys Fabric surpasses global giants to win new Sustainable Impact Award at International Quality Awards 2022 \u2013 UK",
+    "file_name": "/tmp/news_lk2/articles/cf/cf2088ad.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
+    "url": "https://www.ft.lk/business/Advocata-conference-on-the-way-forward-for-economic-reforms/34-738143",
+    "time_ut": 1659300537,
+    "original_lang": "en",
+    "original_title": "Advocata conference on the way forward for economic reforms",
+    "file_name": "/tmp/news_lk2/articles/62/62e8bf22.json"
+  },
+  {
+    "newspaper_id": "daily-ft-lk",
     "url": "https://www.ft.lk/columns/Combatting-chaotic-crises-Agile-leadership-in-high-demand/4-738135",
     "time_ut": 1659297273,
     "original_lang": "en",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u201c\u0da2\u0dba\u0dc3\u0dcf\u0d9c\u0dbb\u201d \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
     "file_name": "/tmp/news_lk2/articles/b1/b1166bfa.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132363",
-    "time_ut": 1658920351,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bb5\u0bc7\u0bb3\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0bc1\u0bb0\u0bbf\u0ba4\u0bae\u0bbe\u0b95 \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0ba4\u0bc1 - \u0b9a\u0bc0\u0ba9\u0bbe \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bc1\u0bb0\u0bb2\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb2\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8- \u0b9a\u0bae\u0ba8\u0bcd\u0ba4\u0bbe \u0baa\u0bb5\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/6f/6f66c35d.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0db1\u0dc0-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2-\u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7-\u0da0\u0dd3\u0db1-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0ddb\u0db1\u0dca-\u0dc3\u0dd4\u0db6-\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca/11-395795",
-    "time_ut": 1658920027,
-    "original_lang": "si",
-    "original_title": "\u0db1\u0dc0 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2 \u0daf\u0dd2\u0db1\u0dda\u0dc2\u0dca\u0da7 \u0da0\u0dd3\u0db1 \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0ddb\u0db1\u0dca \u0dc3\u0dd4\u0db6 \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/7b/7b5439a2.json"
   }
 ]
