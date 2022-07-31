@@ -1,54 +1,50 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 12:15:21 (LK time)*
+*As of 2022-07-31 12:35:05 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
 ## Last 30 Minutes (1 Articles)
 
+* **1** lankadeepa-lk ([ඉන්ධන පිරවුම්හල් 1,060 ක් කිව්.ආර්. ක්‍රමයට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/976a8f1a.json))
+
+## Last Hour (4 Articles)
+
+* **2** virakesari-lk ([இலங்கையில் எஞ்சியுள்ள பெட்ரோல் கையிருப்பு சாதாரண தேவைகளை பூர்த்தி செய்வதற்கு கூட போதுமானதாகயில்லை- உலக உணவு திட்டம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/00/0085da20.json))
+
+* **1** lankadeepa-lk ([ඉන්ධන පිරවුම්හල් 1,060 ක් කිව්.ආර්. ක්‍රමයට සූදානම්](https://github.com/nuuuwan/news_lk2/blob/data/articles/97/976a8f1a.json))
+
 * **1** daily-mirror-lk ([Appoint five individuals from Aragalaya campaign to Parliament: Gemunu requests prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09ecfaaf.json))
 
-## Last Hour (8 Articles)
+## Last 3 Hours (41 Articles)
 
-* **3** lankadeepa-lk ([පවතින අර්බුදයට පාර්ලිමේන්තුව තුළින් විසඳුම් සොයා ගත යුතුයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/1c/1cea2160.json))
+* **8** tamil-mirror-lk ([இலங்கையில் பாலியல் தொழிற்றுரை 30 சதவீதமாக அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/1e/1e3d072f.json))
 
-* **2** virakesari-lk ([யாழில் கொரோனா தொற்றால் முதியவர் உயிரிழப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/dc/dc987cf4.json))
+* **8** news-first-lk ([Ranjan’s Pardon: Documents sent to President](https://github.com/nuuuwan/news_lk2/blob/data/articles/5c/5cc0e273.json))
 
-* **1** daily-mirror-lk ([Appoint five individuals from Aragalaya campaign to Parliament: Gemunu requests prez](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09ecfaaf.json))
+* **7** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
-* **1** economy-next-com ([Sri Lanka and Bangladesh biz chambers hold dicussion to enchance bilateral trade](https://github.com/nuuuwan/news_lk2/blob/data/articles/50/50ef5901.json))
+* **5** lankadeepa-lk ([මිනී මරා රට පනින්න බැරි වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ebe0cd7.json))
 
-* **1** tamil-mirror-lk ([கொலைக்கு தயாரான நபர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/0c/0c9cbc16.json))
-
-## Last 3 Hours (42 Articles)
-
-* **9** tamil-mirror-lk ([இலங்கையின் நாளாந்த அவலநிலை!](https://github.com/nuuuwan/news_lk2/blob/data/articles/32/3209bab8.json))
-
-* **9** news-first-lk ([Motorcycle murderers strike again: 51-year-old man gunned down in Colombo 15](https://github.com/nuuuwan/news_lk2/blob/data/articles/21/21c3cdfa.json))
-
-* **6** daily-mirror-lk ([Man shot dead in Kotahena](https://github.com/nuuuwan/news_lk2/blob/data/articles/92/92d4d911.json))
-
-* **5** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
-
-* **4** lankadeepa-lk ([මිනී මරා රට පනින්න බැරි වෙයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7ebe0cd7.json))
-
-* **4** ada-derana-lk ([51-year-old man shot dead in Kotahena](https://github.com/nuuuwan/news_lk2/blob/data/articles/4d/4db38025.json))
+* **5** daily-mirror-lk ([Finance Ministry approves to issue soft liquor licences](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db4a9179.json))
 
 * **3** ada-lk ([රු. කෝටි 15.8ක මැණික් සේප්පු හොරු අල්ලයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/0b/0be4abbd.json))
 
+* **3** ada-derana-lk ([Makeshift brothels crop up in Sri Lanka as economic hardship pushes women into prostitution - report](https://github.com/nuuuwan/news_lk2/blob/data/articles/09/09aff7f5.json))
+
 * **2** economy-next-com ([Nihal Fonseka re-appointed as Sri Lanka monetary board member for 6-years](https://github.com/nuuuwan/news_lk2/blob/data/articles/5e/5e967a3e.json))
 
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (182 Articles)
 
-* **35** virakesari-lk ([நானுஓயாவில் லொறி விபத்து ; இருவர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5e5d052.json))
+* **38** virakesari-lk ([நானுஓயாவில் லொறி விபத்து ; இருவர் வைத்தியசாலையில்](https://github.com/nuuuwan/news_lk2/blob/data/articles/b5/b5e5d052.json))
 
 * **25** tamil-mirror-lk ([எரிபொருள் கொடுப்பனவு திடீரென அதிகரிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/eb/eba8260d.json))
 
-* **25** ada-derana-lk ([Grace period for vehicle revenue license renewal in WP extended](https://github.com/nuuuwan/news_lk2/blob/data/articles/fe/fe627dbf.json))
+* **24** ada-derana-lk ([Political risks still challenge Sri Lanka’s emergence from default: Fitch Ratings](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/176d6ab2.json))
 
-* **23** news-first-lk ([Licenses of buses NOT functioning after obtaining fuel to be banned](https://github.com/nuuuwan/news_lk2/blob/data/articles/4c/4c4d6238.json))
+* **22** news-first-lk ([Education Ministry update on school activities next week](https://github.com/nuuuwan/news_lk2/blob/data/articles/8b/8bc10500.json))
 
-* **20** lankadeepa-lk ([’’මාසයක් හරි නවතින්න බලාගෙන 9වෙනිදා කොළඹට එන්න’’](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5dbe9cb.json))
+* **20** lankadeepa-lk ([මැතිසබා උත්සවයට ජනපති ධජය නෑ](https://github.com/nuuuwan/news_lk2/blob/data/articles/7c/7c2d2f75.json))
 
 * **20** ada-lk ([ලබන සතියේ පාසල් පැවැත්වෙන්නේ මෙහෙමයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6fecd730.json))
 
@@ -60,13 +56,13 @@
 
 * **1** colombo-telegraph-com ([The Aragalaya & Human Rights In Geneva This September](https://github.com/nuuuwan/news_lk2/blob/data/articles/77/773f8b63.json))
 
-## Last Week (1,716 Articles)
+## Last Week (1,713 Articles)
 
-* **316** virakesari-lk ([கோட்டாவுக்கு எதிராக சட்டநடவடிக்கை : புலம்பெயர் தமிழ் அமைப்புக்கள் முயற்சி](https://github.com/nuuuwan/news_lk2/blob/data/articles/da/dafdf978.json))
+* **315** virakesari-lk ([யானைக்கு வைத்த மின்சார வேலியில் சிக்கி முதியவர் பலி!](https://github.com/nuuuwan/news_lk2/blob/data/articles/b0/b065fe57.json))
 
-* **279** lankadeepa-lk ([වල් අලි ප්‍රහාරයෙන් අයෙක් මරුට:අයෙක් රෝහලට](https://github.com/nuuuwan/news_lk2/blob/data/articles/34/341f5b5b.json))
+* **279** lankadeepa-lk ([දකුණේ පාසල් සතියේ දින පහම වැඩ:සෙසු පළාත්වල සතියට දින තුනක් වැඩ](https://github.com/nuuuwan/news_lk2/blob/data/articles/9d/9d053878.json))
 
-* **187** news-first-lk ([Two arrested with heroin worth Rs. 16Mn](https://github.com/nuuuwan/news_lk2/blob/data/articles/e5/e5402faa.json))
+* **185** news-first-lk ([Over 4,700 vehicles refueled under QR code system](https://github.com/nuuuwan/news_lk2/blob/data/articles/6f/6f039eb9.json))
 
 * **179** ada-lk ([ගුවන් භටයාගේ චෝදනාවට ගුවන් හමුදාවෙන් පිළිතුරක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/43/43b949de.json))
 
@@ -88,11 +84,11 @@
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,559 Articles)
+## All Time (2,563 Articles)
 
-* **396** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
+* **397** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **357** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **360** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **290** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
