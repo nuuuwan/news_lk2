@@ -16,6 +16,14 @@
     "file_name": "/tmp/news_lk2/articles/9f/9f1155b6.json"
   },
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/76-301402",
+    "time_ut": 1659245727,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd   \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/93/933c075e.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/31/two-shipbuilding-contracts-cancelled-due-to-unstable-economic-situation/",
     "time_ut": 1659245640,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Names of new ministerial secretaries gazetted",
     "file_name": "/tmp/news_lk2/articles/29/292dd9b8.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dd0\u0dba\u0dd2-9-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba-\u0d9c\u0dd0\u0db1-\u0db8\u0dcf\u0db1\u0dc0-\u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca-\u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca/1-617104",
-    "time_ut": 1658893853,
-    "original_lang": "si",
-    "original_title": "\u0db8\u0dd0\u0dba\u0dd2 9 \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba \u0d9c\u0dd0\u0db1 \u0db8\u0dcf\u0db1\u0dc0 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dd9\u0db1\u0dca \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca",
-    "file_name": "/tmp/news_lk2/articles/f8/f8e28195.json"
   }
 ]
