@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 04:50:11 (LK time)*
+*As of 2022-08-01 05:14:20 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (2 Articles)
-
-* **2** daily-mirror-lk ([Abyss between Legality and Legitimacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f72902c.json))
 
 ## Last 3 Hours (7 Articles)
 
