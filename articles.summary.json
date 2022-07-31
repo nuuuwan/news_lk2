@@ -1,11 +1,91 @@
 [
   {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/31/new-strain-of-dengue-identified-health-authorities/",
+    "time_ut": 1659245760,
+    "original_lang": "en",
+    "original_title": "New strain of dengue identified: Health authorities",
+    "file_name": "/tmp/news_lk2/articles/7f/7ffa2ea9.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/76-301402",
+    "time_ut": 1659245727,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd  \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/9f/9f1155b6.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/31/two-shipbuilding-contracts-cancelled-due-to-unstable-economic-situation/",
+    "time_ut": 1659245640,
+    "original_lang": "en",
+    "original_title": "Two shipbuilding contracts cancelled due to unstable economic situation",
+    "file_name": "/tmp/news_lk2/articles/e5/e53c5789.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/latest_news/Maximum-effort-should-made-to-prevent-another-COVID-wave-cant-afford-to-face-such-situation-GMOA/342-242109",
+    "time_ut": 1659245603,
+    "original_lang": "en",
+    "original_title": "Maximum effort should made to prevent another COVID wave; can\u2019t afford to face such situation: GMOA",
+    "file_name": "/tmp/news_lk2/articles/63/63ee5449.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba8\u0bcd\u0ba4-8-\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301401",
+    "time_ut": 1659245524,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0ba8\u0bcd\u0ba4 8 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baf\u0bbe\u0bb0\u0bcd?; \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/cc/cc4438e0.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132584",
+    "time_ut": 1659245425,
+    "original_lang": "ta",
+    "original_title": "\u0bae\u0bb8\u0bcd\u0b95\u0bc6\u0bb2\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/6a/6a8d5adc.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132587",
+    "time_ut": 1659245186,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc0\u0ba9 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd  - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/02/02e950b8.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/31/new-bus-service-for-students-from-tomorrow-01/",
+    "time_ut": 1659243840,
+    "original_lang": "en",
+    "original_title": "New bus service for students from tomorrow (01)",
+    "file_name": "/tmp/news_lk2/articles/73/73e43103.json"
+  },
+  {
     "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132585",
     "time_ut": 1659243803,
     "original_lang": "ta",
     "original_title": "\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 .\u0b85\u0bb0\u0b9a \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bb5\u0bb4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b9f\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bb2\u0bbe\u0bae\u0bcd - \u0b85\u0bb0\u0b9a \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf",
     "file_name": "/tmp/news_lk2/articles/cc/cc414c79.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/QR-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba-\u0d85\u0db1\u0dd4\u0dc0-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0db1-\u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca-\u0dc0\u0dd9\u0dad-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf\u0dc0/11-395888",
+    "time_ut": 1659243606,
+    "original_lang": "si",
+    "original_title": "QR \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba \u0d85\u0db1\u0dd4\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0d89\u0db1\u0dca\u0db0\u0db1\u0dc4\u0dbd\u0dca \u0dc0\u0dd9\u0dad \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dad\u0dcf\u0dc0",
+    "file_name": "/tmp/news_lk2/articles/73/737e9302.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/07/31/qr-system-in-effect-from-1st-august-12-important-points-to-know-before-heading-to-pump-fuel/",
+    "time_ut": 1659243600,
+    "original_lang": "en",
+    "original_title": "QR system in effect from 1st August : 12 important points to know before heading to pump fuel",
+    "file_name": "/tmp/news_lk2/articles/78/78fa2638.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -54,6 +134,14 @@
     "original_lang": "en",
     "original_title": "Ranjan\u2019s Pardon: Documents sent to President",
     "file_name": "/tmp/news_lk2/articles/5c/5cc0e273.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8-30-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301398",
+    "time_ut": 1659242030,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8 30 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/2d/2db4befd.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -750,6 +838,14 @@
     "original_lang": "en",
     "original_title": "Ministry requests public to send evidence of illegal fuel hoarding, selling",
     "file_name": "/tmp/news_lk2/articles/d1/d1f41ae3.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0db8\u0db8-\u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dd4\u0dab\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dbd\u0dcf-\u0db1\u0dd1/11-395873",
+    "time_ut": 1659184503,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db8 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0dc0\u0dd4\u0dab\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0db3\u0dd2\u0dbd\u0dcf \u0db1\u0dd1",
+    "file_name": "/tmp/news_lk2/articles/42/4242d5fd.json"
   },
   {
     "newspaper_id": "ada-lk",
