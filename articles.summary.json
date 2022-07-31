@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132598",
+    "time_ut": 1659252319,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 40 \u0baa\u0bc1\u0ba4\u0bbf\u0baf\u00a0 \u0baa\u0bb8\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/d1/d1e4b6fa.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83992/merchandise-trade-balance-records-a-surplus-for-first-time-in-nearly-20-years",
+    "time_ut": 1659251820,
+    "original_lang": "en",
+    "original_title": "Merchandise trade balance records a surplus for first time in nearly 20 years",
+    "file_name": "/tmp/news_lk2/articles/f2/f2358450.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Couple-wanted-over-murder-arrested-while-trying-to-flee-to-Dubai/108-242111",
     "time_ut": 1659251781,
@@ -97,11 +113,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dcf\u0daf-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca/101-617306",
+    "url": "https://www.lankadeepa.lk/main_picture/\u0db4\u0dcf\u0daf-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca/11-617306",
     "time_ut": 1659247187,
     "original_lang": "si",
     "original_title": "\u0db4\u0dcf\u0daf \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0da7 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8\u0dca",
-    "file_name": "/tmp/news_lk2/articles/57/578d7030.json"
+    "file_name": "/tmp/news_lk2/articles/90/90fe55a9.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -854,6 +870,14 @@
     "original_lang": "en",
     "original_title": "The Ambassador, His Swanky New Embassy and the Limits of Diplomatic Immunity",
     "file_name": "/tmp/news_lk2/articles/bc/bc0d3d82.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0dd9\u0da9\u0dcf-\u0d9c\u0ddc\u0da9-\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf\u0daf--\u0db8\u0dd0\u0dbb\u0dd9\u0db1\u0dca\u0db1-\u0d85\u0dbb\u0dd2\u0db1\u0dc0\u0dcf\u0daf/1-617298",
+    "time_ut": 1659191934,
+    "original_lang": "si",
+    "original_title": "\u0dbd\u0dd9\u0da9\u0dcf \u0d9c\u0ddc\u0da9 \u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf\u0daf? \u0db8\u0dd0\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0dbb\u0dd2\u0db1\u0dc0\u0dcf\u0daf",
+    "file_name": "/tmp/news_lk2/articles/0c/0c39b1a9.json"
   },
   {
     "newspaper_id": "island-lk",
