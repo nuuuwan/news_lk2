@@ -121,6 +121,14 @@
   },
   {
     "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132572",
+    "time_ut": 1659195990,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe, \u0b9a\u0bc0\u0ba9\u0bbe \u0b86\u0b95\u0bbf\u0baf\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 -\u00a0 \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0bb5\u0bbf\u0ba4\u0bbe\u0bb0\u0ba3",
+    "file_name": "/tmp/news_lk2/articles/f3/f3cb50f2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
     "url": "http://www.virakesari.lk/article/132571",
     "time_ut": 1659195870,
     "original_lang": "ta",
@@ -246,6 +254,14 @@
     "original_lang": "en",
     "original_title": "Tory Leadership Battle",
     "file_name": "/tmp/news_lk2/articles/b6/b686ab65.json"
+  },
+  {
+    "newspaper_id": "island-lk",
+    "url": "http://island.lk/covid-in-my-life/",
+    "time_ut": 1659191160,
+    "original_lang": "en",
+    "original_title": "Covid in my life",
+    "file_name": "/tmp/news_lk2/articles/72/7247990b.json"
   },
   {
     "newspaper_id": "island-lk",
@@ -7982,21 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0db1\u0dd3\u0dad\u0dd2 \u0db1\u0ddc\u0dad\u0d9a\u0dcf \u0d9c\u0ddc\u0dbd\u0dca\u200d \u0dc6\u0dda\u0dc3\u0dca \u0dbb\u0dd0\u0daf\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca 29 \u0dad\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
     "file_name": "/tmp/news_lk2/articles/df/dfb89405.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-\u0db1\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0da9\u0dcf-\u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0dbb\u0dd0\u0daf\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc4\u0dad\u0dbb-\u0daf\u0dd9\u0db1\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/101-617092",
-    "time_ut": 1658850342,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab \u0db1\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0da9\u0dcf \u0d9c\u0dcf\u0dbd\u0dd4\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0dbb\u0dd0\u0daf\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc4\u0dad\u0dbb \u0daf\u0dd9\u0db1\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "file_name": "/tmp/news_lk2/articles/81/81e4e440.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-stocks-down-for-3rd-straight-session-on-dull-sentiment-97927/",
-    "time_ut": 1658850180,
-    "original_lang": "en",
-    "original_title": "Sri Lanka stocks down for 3rd straight session on dull sentiment",
-    "file_name": "/tmp/news_lk2/articles/4d/4d48d73b.json"
   }
 ]
