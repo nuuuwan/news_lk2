@@ -1,5 +1,29 @@
 [
   {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8-30-\u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301398",
+    "time_ut": 1659242030,
+    "original_lang": "ta",
+    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0bb0\u0bc8 30 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/1e/1e3d072f.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-suspects-wanted-for-gem-theft-worth-over-Rs-158Mn-arrested/108-242107",
+    "time_ut": 1659242019,
+    "original_lang": "en",
+    "original_title": "Two suspects wanted for gem theft worth over Rs. 158Mn arrested",
+    "file_name": "/tmp/news_lk2/articles/7d/7d10b884.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/83991/registration-to-fuel-pass-with-revenue-license-available-now-minister",
+    "time_ut": 1659241920,
+    "original_lang": "en",
+    "original_title": "Registration to fuel pass with revenue license available now - minister",
+    "file_name": "/tmp/news_lk2/articles/6e/6e628200.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Finance-Ministry-approves-to-issue-soft-liquor-licences/108-242106",
     "time_ut": 1659241570,
@@ -432,12 +456,28 @@
     "file_name": "/tmp/news_lk2/articles/f2/f2832577.json"
   },
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132532",
+    "time_ut": 1659194251,
+    "original_lang": "ta",
+    "original_title": "1983 \u0b9c\u0bc2\u0bb2\u0bc8 \u0b87\u0ba9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb2\u0bc8\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b95\u0bae\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/83/831bc9b5.json"
+  },
+  {
     "newspaper_id": "news-first-lk",
     "url": "https://www.newsfirst.lk/2022/07/30/sri-lanka-s-economic-crisis-did-the-island-nation-miss-the-warning-signs/",
     "time_ut": 1659194040,
     "original_lang": "en",
     "original_title": "Sri Lanka\u2019s Economic Crisis: Did the Island-nation miss the warning signs?",
     "file_name": "/tmp/news_lk2/articles/a8/a8ce3640.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132529",
+    "time_ut": 1659193979,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u2018\u0b9a\u0ba4\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd\u2019",
+    "file_name": "/tmp/news_lk2/articles/ae/aedbcb06.json"
   },
   {
     "newspaper_id": "virakesari-lk",
