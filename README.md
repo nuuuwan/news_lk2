@@ -1,12 +1,8 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 03:14:50 (LK time)*
+*As of 2022-08-01 03:37:11 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
-
-## Last Hour (5 Articles)
-
-* **5** daily-ft-lk ([Advocata conference on the way forward for economic reforms](https://github.com/nuuuwan/news_lk2/blob/data/articles/62/62e8bf22.json))
 
 ## Last 3 Hours (6 Articles)
 
