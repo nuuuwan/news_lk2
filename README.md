@@ -1,28 +1,30 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-07-31 23:52:09 (LK time)*
+*As of 2022-08-01 00:22:39 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
+## Last 30 Minutes (1 Articles)
+
+* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
+
 ## Last Hour (1 Articles)
 
-* **1** tamil-mirror-lk ([நிமல் மீதான விசாரணை அறிக்கை ஜனாதிபதியிடம்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/484cd9c4.json))
+* **1** ada-derana-lk ([Group of Indian fishermen stranded in Sri Lankan waters rescued by navy](https://github.com/nuuuwan/news_lk2/blob/data/articles/7f/7f88500b.json))
 
-## Last 3 Hours (17 Articles)
+## Last 3 Hours (13 Articles)
 
 * **5** virakesari-lk ([சட்ட விரோதமாக 2500 லீற்றருக்கும் அதிகமான எரிபொருளை பதுக்கி வைத்திருந்த 33 பேர் கைது](https://github.com/nuuuwan/news_lk2/blob/data/articles/c7/c7207f77.json))
 
-* **3** tamil-mirror-lk ([செய்திகளை முற்றாக மறுத்தார் சஜித்](https://github.com/nuuuwan/news_lk2/blob/data/articles/48/482d3691.json))
+* **3** ada-derana-lk ([Russian Ambassador calls on new Foreign Minister](https://github.com/nuuuwan/news_lk2/blob/data/articles/1d/1dee2821.json))
 
-* **3** ada-derana-lk ([Three-hour power cut scheduled for tomorrow](https://github.com/nuuuwan/news_lk2/blob/data/articles/2c/2c94a444.json))
-
-* **2** daily-mirror-lk ([Bodhi Pooja for Jackson Anthoney](https://github.com/nuuuwan/news_lk2/blob/data/articles/45/453a5d43.json))
+* **2** tamil-mirror-lk ([பதவி விலகினார் கதிர்செல்வன்](https://github.com/nuuuwan/news_lk2/blob/data/articles/17/177e1698.json))
 
 * **2** economy-next-com ([Sri Lanka low-grown tea prices rise in July third week sale](https://github.com/nuuuwan/news_lk2/blob/data/articles/8e/8ebb9c2b.json))
 
-* **2** ada-lk ([හෙට සිට ඉන්ධන නිකුත් කිරීම QR ඛේතයට පමණයි](https://github.com/nuuuwan/news_lk2/blob/data/articles/e8/e8b25c93.json))
+* **1** daily-mirror-lk ([Car catches fire in Colombo](https://github.com/nuuuwan/news_lk2/blob/data/articles/53/53052fa4.json))
 
-## Last 24 Hours (181 Articles)
+## Last 24 Hours (180 Articles)
 
 * **31** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
@@ -32,7 +34,7 @@
 
 * **22** ada-lk ([දැලක පැටලුණු දුර්ලභ තල්මසෙකු සොයා යෑම](https://github.com/nuuuwan/news_lk2/blob/data/articles/a4/a4b8ca91.json))
 
-* **20** ada-derana-lk ([Soft liquor licences for SLTDA-registered establishments](https://github.com/nuuuwan/news_lk2/blob/data/articles/c8/c8af7996.json))
+* **19** ada-derana-lk ([Fairly heavy showers expected in parts of the country](https://github.com/nuuuwan/news_lk2/blob/data/articles/f5/f5fc2de7.json))
 
 * **18** daily-mirror-lk ([World Athletics U-20 Championship: Arrangements finally made to send SL team to Colombia: Harin](https://github.com/nuuuwan/news_lk2/blob/data/articles/8c/8ce3302d.json))
 
@@ -42,7 +44,7 @@
 
 * **3** colombo-telegraph-com ([26.6 Million Of Sri Lankan Taxpayers’ Money Spent On Former Prime Minister Mahinda Rajapaksa’s Trip To Italy](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d099f422.json))
 
-## Last Week (1,707 Articles)
+## Last Week (1,701 Articles)
 
 * **305** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
@@ -52,25 +54,25 @@
 
 * **182** ada-lk ([’ජනාධිපතිවරයාට රට ගොඩනැගීමට කාලය දිය යුතුයි’](https://github.com/nuuuwan/news_lk2/blob/data/articles/5f/5f15db0a.json))
 
-* **178** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
+* **179** ada-derana-lk ([Evening thundershowers expected in several provinces during next few days](https://github.com/nuuuwan/news_lk2/blob/data/articles/db/db8966e8.json))
 
 * **178** daily-mirror-lk ([Three arrested with stolen goods from the President’s House](https://github.com/nuuuwan/news_lk2/blob/data/articles/7d/7d33e105.json))
 
 * **164** tamil-mirror-lk ([இ.போ.ச. யாழ். சாலை இன்றும் பணிப்புறக்கணிப்பு](https://github.com/nuuuwan/news_lk2/blob/data/articles/0e/0e8d288e.json))
 
-* **75** daily-ft-lk ([Fuel crisis and passenger transport: Is there a solution?](https://github.com/nuuuwan/news_lk2/blob/data/articles/a9/a91a9805.json))
-
 * **72** economy-next-com ([Sri Lanka is wrong scapegoat expat workers over Undiyal: Bellwether](https://github.com/nuuuwan/news_lk2/blob/data/articles/52/52265c61.json))
+
+* **69** daily-ft-lk ([Glenanore Estate establishes all-time record price](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e2ac6ff7.json))
 
 * **51** island-lk ([Anticipated global recession dampens local share market; indices down](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce57d7c3.json))
 
-* **18** d-b-s-jeyaraj-com ([Sri Lanka’s New  President  Ranil Wickremesinghe  ‘swings’ into action on his day one in office to restore law and order and  shows  who is the boss](https://github.com/nuuuwan/news_lk2/blob/data/articles/7e/7e993069.json))
+* **17** d-b-s-jeyaraj-com ([“President Wickremesinghe is economically very literate. He knows what has to be done. At times, it has been difficult for him or any other politician to get it done.But, if President Wickremesinghe understands, he can get it done” – Dr.Indrajit  Coomaraswamy](https://github.com/nuuuwan/news_lk2/blob/data/articles/6b/6b60a531.json))
 
 * **10** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
 * **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
 
-## All Time (2,683 Articles)
+## All Time (2,684 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
@@ -80,7 +82,7 @@
 
 * **286** daily-mirror-lk ([Possible devastating situation averted due to COVID vaccination rollout- President](https://github.com/nuuuwan/news_lk2/blob/data/articles/84/84d859b0.json))
 
-* **229** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
+* **230** ada-derana-lk ([US President Joe Biden tests positive for COVID](https://github.com/nuuuwan/news_lk2/blob/data/articles/bc/bc753301.json))
 
 * **229** news-first-lk ([Opposition Leader condemns Galle Face Raid](https://github.com/nuuuwan/news_lk2/blob/data/articles/12/123d94b7.json))
 
