@@ -1,5 +1,21 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132630",
+    "time_ut": 1659318090,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0baa\u0bbe\u0baf \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0b9a \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba4\u0bc1 \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0bb0\u0bc1\u0ba3\u0bae\u0bb2\u0bcd\u0bb2 \u2013 \u0bb0\u0ba3\u0bbf\u0bb2\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/cb/cbc6d397.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-private-credit-negative-in-june-2022-rs189bn-printed-98066/",
+    "time_ut": 1659317580,
+    "original_lang": "en",
+    "original_title": "Sri Lanka private credit negative in June 2022, Rs189bn printed",
+    "file_name": "/tmp/news_lk2/articles/c2/c2fa5f7a.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/opinion/Fuel-shortages-inflation-IMF-facility-and-stability-EDITORIAL/231-242137",
     "time_ut": 1659306237,
@@ -62,6 +78,30 @@
     "original_lang": "en",
     "original_title": "Combatting chaotic crises: Agile leadership in high demand",
     "file_name": "/tmp/news_lk2/articles/c8/c8fa51ea.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Colombo-inflation-breaches-60-food-inflation-tops-90/108-242134",
+    "time_ut": 1659293662,
+    "original_lang": "en",
+    "original_title": "Colombo inflation breaches 60%; food inflation tops 90%",
+    "file_name": "/tmp/news_lk2/articles/4b/4b2ea989.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/business-news/Central-Bank-calls-for-fair-play-by-all-stakeholders-of-economy/273-242131",
+    "time_ut": 1659293481,
+    "original_lang": "en",
+    "original_title": "Central Bank calls for \u2018fair play\u2019 by all stakeholders of economy",
+    "file_name": "/tmp/news_lk2/articles/e0/e0676926.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0d9a\u0dda\u0dad\u0dba-\u0daf\u0dd2\u0d9c\u0dda-\u0dbd\u0d9a\u0dca\u0dc2-50\u0d9a\u0dca-\u0d87\u0dc0\u0dd2\u0dad\u0dca/101-617337",
+    "time_ut": 1659292781,
+    "original_lang": "si",
+    "original_title": "\u0d9a\u0dda\u0dad\u0dba \u0daf\u0dd2\u0d9c\u0dda \u0dbd\u0d9a\u0dca\u0dc2 50\u0d9a\u0dca \u0d87\u0dc0\u0dd2\u0dad\u0dca",
+    "file_name": "/tmp/news_lk2/articles/40/4002c22f.json"
   },
   {
     "newspaper_id": "lankadeepa-lk",
@@ -344,6 +384,14 @@
     "file_name": "/tmp/news_lk2/articles/3b/3b6a5adb.json"
   },
   {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-in-trade-surplus-in-june-as-economy-smashed-98062/",
+    "time_ut": 1659277140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka in trade surplus in June as economy smashed",
+    "file_name": "/tmp/news_lk2/articles/3d/3dd9194c.json"
+  },
+  {
     "newspaper_id": "ada-lk",
     "url": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0db8\u0dd2\u0dbd-\u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba-\u0dc4\u0dd9\u0da7---\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2-/11-395900",
     "time_ut": 1659276577,
@@ -366,6 +414,14 @@
     "original_lang": "ta",
     "original_title": "\u0b8a\u0bb4\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
     "file_name": "/tmp/news_lk2/articles/b5/b5e2b776.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132615",
+    "time_ut": 1659275866,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 - \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/8a/8ac464ad.json"
   },
   {
     "newspaper_id": "tamil-mirror-lk",
@@ -7942,61 +7998,5 @@
     "original_lang": "en",
     "original_title": "IMF says Sri Lanka needs to talk with China about debt restructuring",
     "file_name": "/tmp/news_lk2/articles/d7/d72c3b8e.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/27/us-sl-relations-can-flourish-in-a-sri-lanka-that-respects-human-rights-us-ambassador/",
-    "time_ut": 1658926980,
-    "original_lang": "en",
-    "original_title": "US \u2013 SL relations can flourish in a Sri Lanka that respects Human Rights \u2013 US Ambassador",
-    "file_name": "/tmp/news_lk2/articles/eb/ebb86113.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132369",
-    "time_ut": 1658926217,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bb5\u0b9a\u0bb0\u0b95\u0bbe\u0bb2\u0b9a\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd 57 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/d0/d015ce41.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-t-bill-rates-up-in-secondary-market-guidance-peg-steady-97966/",
-    "time_ut": 1658925660,
-    "original_lang": "en",
-    "original_title": "Sri Lanka T-bill rates up in secondary market; guidance peg steady",
-    "file_name": "/tmp/news_lk2/articles/a3/a3707c34.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/27/attack-on-journalists-mtv-channel-provides-evidence-to-human-rights-commission/",
-    "time_ut": 1658925120,
-    "original_lang": "en",
-    "original_title": "Attack on Journalists: MTV Network Gives Evidence to Human Rights Commission",
-    "file_name": "/tmp/news_lk2/articles/d5/d549c081.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9c\u0bc2\u0bb2\u0bbf-\u0b9a\u0b99\u0bcd/175-301246",
-    "time_ut": 1658925093,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd: \u0b9c\u0bc2\u0bb2\u0bbf \u0b9a\u0b99\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/c1/c191cb73.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dc3\u0db8\u0dca\u0db8\u0dad-\u0dc0\u0dd9\u0dba\u0dd2/101-617143",
-    "time_ut": 1658925023,
-    "original_lang": "si",
-    "original_title": "\u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dc3\u0db8\u0dca\u0db8\u0dad \u0dc0\u0dd9\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b5/b59741d3.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/sri-lanka-parliament-endorses-emergency-law-for-30-days-97965/",
-    "time_ut": 1658924820,
-    "original_lang": "en",
-    "original_title": "Sri Lanka parliament endorses emergency law for 30 days",
-    "file_name": "/tmp/news_lk2/articles/16/1673949c.json"
   }
 ]
