@@ -1,6 +1,6 @@
 # Sri Lanka News App (Article Summary)
 
-*As of 2022-08-01 05:38:40 (LK time)*
+*As of 2022-08-01 05:58:57 (LK time)*
 
 ![wordcloud animation](wordcloud.gif)
 
@@ -8,9 +8,9 @@
 
 * **2** daily-mirror-lk ([Abyss between Legality and Legitimacy](https://github.com/nuuuwan/news_lk2/blob/data/articles/0f/0f72902c.json))
 
-## Last 24 Hours (199 Articles)
+## Last 24 Hours (200 Articles)
 
-* **36** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
+* **37** virakesari-lk ([அதிகாரத்தை .அரச கட்டிடங்களை கைப்பற்றுவதற்கு வன்முறை ஜனநாயகவிரோத வழிமுறைகளை பயன்படுத்தும் கட்சிகள் குழுக்கள் தடை செய்யப்படலாம் - அரச அதிகாரி](https://github.com/nuuuwan/news_lk2/blob/data/articles/cc/cc414c79.json))
 
 * **31** lankadeepa-lk ([රෝග ලක්ෂණ නැතත් බයිඩන් තවමත් පොසිටිව්](https://github.com/nuuuwan/news_lk2/blob/data/articles/49/49a7befd.json))
 
@@ -34,7 +34,7 @@
 
 ## Last Week (1,712 Articles)
 
-* **310** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
+* **311** virakesari-lk ([டெங்கு ஒழிப்பு தினமாக இன்றையதினம் பிரகடனம் - சுகாதார அமைச்சு](https://github.com/nuuuwan/news_lk2/blob/data/articles/f3/f3a87b36.json))
 
 * **282** lankadeepa-lk ([මංකි ෆොක්ස් ලංකාවට එන්න පුළුවන්](https://github.com/nuuuwan/news_lk2/blob/data/articles/e9/e950122f.json))
 
@@ -58,13 +58,13 @@
 
 * **10** colombo-telegraph-com ([President Wickremesinghe, The Current Pohottuwa Government & The Way Forward – A Call From Citizens](https://github.com/nuuuwan/news_lk2/blob/data/articles/58/586171b0.json))
 
-* **5** b-b-c-com-sinhala ([QR ක්‍රමවේදයට ඉන්ධන ලබාදීමට මොකද වෙන්නේ?](https://github.com/nuuuwan/news_lk2/blob/data/articles/98/982100d6.json))
+* **4** b-b-c-com-sinhala ([වඳුරු උණ(monkeypox) :WHO වෙතින් අධි අවදානම් අනතුරු ඇඟවීමක්](https://github.com/nuuuwan/news_lk2/blob/data/articles/d1/d1db30f8.json))
 
-## All Time (2,710 Articles)
+## All Time (2,711 Articles)
 
 * **419** lankadeepa-lk ([සමෘද්ධි නිලධාරීන්ට එන්නත නැත්නම් රාජකාරියෙන් ඉවත්වෙනවා](https://github.com/nuuuwan/news_lk2/blob/data/articles/ce/ce124b8f.json))
 
-* **393** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
+* **394** virakesari-lk ([முன்னைய அரசாங்கம் மூடி மறைத்த உண்மையை வெளிப்படுத்தினார் ரணில் – சிஎன்என்னிற்கு ரணில் பேட்டி](https://github.com/nuuuwan/news_lk2/blob/data/articles/e2/e28c17ae.json))
 
 * **303** ada-lk ([ඉතිහාසයේ පළමු වතාවට පරීක්ෂණ දත්ත රැසක් රැස් කරන බැලුනයක් ගුවනට](https://github.com/nuuuwan/news_lk2/blob/data/articles/d0/d03668f2.json))
 
