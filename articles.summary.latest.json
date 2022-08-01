@@ -1,5 +1,77 @@
 [
   {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84012/not-the-right-time-for-gotabaya-rajapaksa-to-return-to-sri-lanka-president",
+    "time_ut": 1659329760,
+    "original_lang": "en",
+    "original_title": "Not the right time for Gotabaya Rajapaksa to return to Sri Lanka - President",
+    "file_name": "/tmp/news_lk2/articles/bc/bcc3ab7e.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132635",
+    "time_ut": 1659329702,
+    "original_lang": "ta",
+    "original_title": "\u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/97/97b2dd7f.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/01/another-unidentified-body-washes-up-on-galle-face-beach/",
+    "time_ut": 1659329700,
+    "original_lang": "en",
+    "original_title": "Another unidentified body washes up on Galle Face Beach",
+    "file_name": "/tmp/news_lk2/articles/ab/ab2c6226.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dda-\u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7:\u0db4\u0dc4\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/101-617349",
+    "time_ut": 1659329620,
+    "original_lang": "si",
+    "original_title": "\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7:\u0db4\u0dc4\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "file_name": "/tmp/news_lk2/articles/41/41c6abe2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132641",
+    "time_ut": 1659329176,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 47 \u200b\u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/14/1481e2c0.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba-\u0d86\u0dba\u0dad\u0db1\u0dba\u0dda-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0dc3\u0dd2\u0dba\u0dba\u0da7-30\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/101-617348",
+    "time_ut": 1659329076,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba \u0d86\u0dba\u0dad\u0db1\u0dba\u0dda \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0dc3\u0dd2\u0dba\u0dba\u0da7 30\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "file_name": "/tmp/news_lk2/articles/a5/a5549503.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/01/reserved-seat-fares-for-trains-increased/",
+    "time_ut": 1659328920,
+    "original_lang": "en",
+    "original_title": "Reserved seat fares for trains increased",
+    "file_name": "/tmp/news_lk2/articles/f9/f9f7948f.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1-\u0db8\u0dc5-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4\u0d9a\u0dca-\u0d9c\u0dcf\u0dbd\u0dd4-\u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb-\u0dc0\u0dd9\u0dbb\u0dc5\u0da7-\u0d9c\u0ddc\u0da9-\u0d9c\u0dc3\u0dba\u0dd2/101-617347",
+    "time_ut": 1659328346,
+    "original_lang": "si",
+    "original_title": "\u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1 \u0db8\u0dc5 \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4\u0d9a\u0dca \u0d9c\u0dcf\u0dbd\u0dd4 \u0db8\u0dd4\u0dc0\u0daf\u0ddc\u0dbb \u0dc0\u0dd9\u0dbb\u0dc5\u0da7 \u0d9c\u0ddc\u0da9 \u0d9c\u0dc3\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/23/237b7af1.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/01/school-to-function-on-3-days-a-week/",
+    "time_ut": 1659328260,
+    "original_lang": "en",
+    "original_title": "School to function on 3-days a week",
+    "file_name": "/tmp/news_lk2/articles/b7/b77bc8ed.json"
+  },
+  {
     "newspaper_id": "daily-mirror-lk",
     "url": "https://www.dailymirror.lk/breaking_news/Complaint-lodged-against-Nimal-Siripala-with-Bribery-Commission/108-242164",
     "time_ut": 1659328157,
@@ -57,11 +129,11 @@
   },
   {
     "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/visheshanga/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d9a\u0dc0\u0daf\u0dcf-\u0daf\u0dd4\u0dbb\u0dd4\u0dc0\u0dda\u0daf-/26-617345",
+    "url": "https://www.lankadeepa.lk/features/\u0dad\u0dd9\u0dbd\u0dca-\u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca-\u0d9a\u0dc0\u0daf\u0dcf-\u0daf\u0dd4\u0dbb\u0dd4\u0dc0\u0dda\u0daf-/2-617345",
     "time_ut": 1659326889,
     "original_lang": "si",
     "original_title": "\u0dad\u0dd9\u0dbd\u0dca \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0d9a\u0dc0\u0daf\u0dcf \u0daf\u0dd4\u0dbb\u0dd4\u0dc0\u0dda\u0daf?",
-    "file_name": "/tmp/news_lk2/articles/24/246d7e22.json"
+    "file_name": "/tmp/news_lk2/articles/81/81a385f3.json"
   },
   {
     "newspaper_id": "virakesari-lk",
@@ -718,6 +790,14 @@
     "original_lang": "en",
     "original_title": "Sri Lanka in trade surplus in June as economy smashed",
     "file_name": "/tmp/news_lk2/articles/3d/3dd9194c.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-in-trade-surplus-in-june-as-economy-smashed-to-resurrect-soft-peg-98062/",
+    "time_ut": 1659277140,
+    "original_lang": "en",
+    "original_title": "Sri Lanka in trade surplus in June as economy smashed to resurrect soft-peg",
+    "file_name": "/tmp/news_lk2/articles/6d/6d139b80.json"
   },
   {
     "newspaper_id": "ada-lk",
@@ -7918,85 +7998,5 @@
     "original_lang": "en",
     "original_title": "CSE shows gains but fails to sustain momentum",
     "file_name": "/tmp/news_lk2/articles/64/64a149c7.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dc0\u0dda\u0dbb\u0d82\u0d9c-\u0db4\u0dd4\u0dc2\u0dca\u0db4\u0dd2\u0d9a-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0dad\u0dca-\u0db6\u0dc0-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-395801",
-    "time_ut": 1658941867,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dda\u0dbb\u0d82\u0d9c \u0db4\u0dd4\u0dc2\u0dca\u0db4\u0dd2\u0d9a \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/ce/ceffc00c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/slt-mobitel-digitally-ready-for-a-system-change-in-sl/",
-    "time_ut": 1658941860,
-    "original_lang": "en",
-    "original_title": "\u2018SLT-MOBITEL \u2013 digitally ready for a system change in SL\u2019",
-    "file_name": "/tmp/news_lk2/articles/0d/0da8db90.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/jkh-records-strong-ebitda-of-rs-13-33-billion-in-q1-resilient-performance-despite-macro-challenges/",
-    "time_ut": 1658941740,
-    "original_lang": "en",
-    "original_title": "\u201cJKH records strong EBITDA of Rs.13.33 billion in Q1; Resilient performance despite macro challenges\u201d",
-    "file_name": "/tmp/news_lk2/articles/43/434c34c2.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/ideal-first-choice-expands-with-brand-new-auto-parts-branch-in-kurunegala/",
-    "time_ut": 1658941680,
-    "original_lang": "en",
-    "original_title": "Ideal First Choice expands with brand new auto parts branch in Kurunegala",
-    "file_name": "/tmp/news_lk2/articles/50/5055670c.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/winners-of-the-2022-quiz-on-korea-felicitated-at-embassy/",
-    "time_ut": 1658941620,
-    "original_lang": "en",
-    "original_title": "Winners of the \u20182022 Quiz on Korea\u2019 felicitated at embassy",
-    "file_name": "/tmp/news_lk2/articles/11/1128148a.json"
-  },
-  {
-    "newspaper_id": "economy-next-com",
-    "url": "https://economynext.com/nine-sri-lanka-navy-sailors-jump-ship-in-america-97970/",
-    "time_ut": 1658941560,
-    "original_lang": "en",
-    "original_title": "Nine Sri Lanka Navy sailors jump ship in America",
-    "file_name": "/tmp/news_lk2/articles/7a/7af8674c.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dd9\u0da9\u0dd2-\u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4-\u0db4\u0dc3\u0dca-\u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/1-617149",
-    "time_ut": 1658940974,
-    "original_lang": "si",
-    "original_title": "\u0dc0\u0dd9\u0da9\u0dd2 \u0dc0\u0dd0\u0daf\u0dd4\u0dab\u0dd4 \u0db4\u0dc3\u0dca \u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/58/58e8cf83.json"
-  },
-  {
-    "newspaper_id": "island-lk",
-    "url": "http://island.lk/sri-lankas-runaway-inflation-and-the-limits-of-monetary-policy/",
-    "time_ut": 1658940960,
-    "original_lang": "en",
-    "original_title": "Sri Lanka\u2019s Runaway Inflation and the Limits of Monetary Policy",
-    "file_name": "/tmp/news_lk2/articles/fe/fea84fd4.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-395800",
-    "time_ut": 1658940927,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0db8\u0dca\u0db6\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0da9 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "file_name": "/tmp/news_lk2/articles/9e/9e3d3ce1.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132384",
-    "time_ut": 1658940277,
-    "original_lang": "ta",
-    "original_title": "\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bcd ; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf !",
-    "file_name": "/tmp/news_lk2/articles/79/79cbd601.json"
   }
 ]
