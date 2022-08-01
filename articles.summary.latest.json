@@ -64,6 +64,14 @@
     "file_name": "/tmp/news_lk2/articles/c8/c8fa51ea.json"
   },
   {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf-\u0d9a\u0dc5\u0ddc\u0dad\u0dca-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1-\u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca/1-617336",
+    "time_ut": 1659292620,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf \u0d9a\u0dc5\u0ddc\u0dad\u0dca \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0d85\u0d82\u0d9a\u0dba\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/69/69959d5e.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84004/group-of-indian-fishermen-stranded-in-sri-lankan-waters-rescued-by-navy",
     "time_ut": 1659292440,
@@ -7990,13 +7998,5 @@
     "original_lang": "en",
     "original_title": "Sri Lanka parliament endorses emergency law for 30 days",
     "file_name": "/tmp/news_lk2/articles/16/1673949c.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/27/state-of-emergency-proclamation-passed-in-parliament/",
-    "time_ut": 1658924160,
-    "original_lang": "en",
-    "original_title": "State of Emergency proclamation passed in Parliament",
-    "file_name": "/tmp/news_lk2/articles/43/43914d2a.json"
   }
 ]
