@@ -1,5 +1,141 @@
 [
   {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132634",
+    "time_ut": 1659325208,
+    "original_lang": "ta",
+    "original_title": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "file_name": "/tmp/news_lk2/articles/b8/b88bfdd2.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-body-of-male-washed-ashore-at-Galle-Face/108-242156",
+    "time_ut": 1659324704,
+    "original_lang": "en",
+    "original_title": "Another body of male washed ashore at Galle Face",
+    "file_name": "/tmp/news_lk2/articles/ec/ecf1094f.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db8\u0dd4\u0dbb-\u0dc3\u0d82\u0da0\u0dcf\u0dbb-\u0d9a\u0dbd\u0dcf\u0db4\u0dba-\u0db4\u0dd4\u0dbb\u0dcf-\u0d89\u0dc4\u0dc5-\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0d9a\u0dca/3-395910",
+    "time_ut": 1659324675,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db8\u0dd4\u0dbb \u0dc3\u0d82\u0da0\u0dcf\u0dbb \u0d9a\u0dbd\u0dcf\u0db4\u0dba \u0db4\u0dd4\u0dbb\u0dcf \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0d9a\u0dca",
+    "file_name": "/tmp/news_lk2/articles/7a/7a12607f.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132633",
+    "time_ut": 1659324559,
+    "original_lang": "ta",
+    "original_title": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb2 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb4\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bc7\u0b95\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "file_name": "/tmp/news_lk2/articles/b5/b5d10762.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0b95\u0bb0\u0bcd-\u0baa\u0bc1\u0ba9\u0bbf\u0ba4-\u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba8\u0bbe\u0ba4\u0bb0\u0bcd-\u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1/71-301456",
+    "time_ut": 1659324483,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0b95\u0bb0\u0bcd \u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba8\u0bbe\u0ba4\u0bb0\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/ad/ad94c29b.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0d91\u0db1\u0dca\u0db1\u0dad\u0dca-\u0dad\u0dbb\u0d9c-\u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca-\u0dad\u0dbb\u0d9c\u0dba-\u0dc3\u0dd2\u0dc4\u0dd2-\u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2/3-395909",
+    "time_ut": 1659324258,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0d91\u0db1\u0dca\u0db1\u0dad\u0dca \u0dad\u0dbb\u0d9c \u0d9a\u0ddc\u0dc0\u0dd2\u0da9\u0dca \u0dad\u0dbb\u0d9c\u0dba \u0dc3\u0dd2\u0dc4\u0dd2 \u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/8f/8f620a26.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84009/47-arrested-as-navy-foils-illegal-migration-attempt",
+    "time_ut": 1659324240,
+    "original_lang": "en",
+    "original_title": "47 arrested as navy foils illegal migration attempt",
+    "file_name": "/tmp/news_lk2/articles/2d/2d856ee4.json"
+  },
+  {
+    "newspaper_id": "tamil-mirror-lk",
+    "url": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8/72-301455",
+    "time_ut": 1659324004,
+    "original_lang": "ta",
+    "original_title": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
+    "file_name": "/tmp/news_lk2/articles/50/5022ef55.json"
+  },
+  {
+    "newspaper_id": "news-first-lk",
+    "url": "https://www.newsfirst.lk/2022/08/01/qr-based-fuel-system-from-today-1/",
+    "time_ut": 1659324000,
+    "original_lang": "en",
+    "original_title": "QR-based fuel system from today (1)",
+    "file_name": "/tmp/news_lk2/articles/85/85c2c451.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84008/one-injured-in-shooting-at-norochcholai",
+    "time_ut": 1659323880,
+    "original_lang": "en",
+    "original_title": "One injured in shooting at Norochcholai",
+    "file_name": "/tmp/news_lk2/articles/01/0166e56c.json"
+  },
+  {
+    "newspaper_id": "daily-mirror-lk",
+    "url": "https://www.dailymirror.lk/breaking_news/President-says-not-right-time-for-Gotabaya-Rajapaksa-to-return/108-242144",
+    "time_ut": 1659323291,
+    "original_lang": "en",
+    "original_title": "President says not right time for Gotabaya Rajapaksa to return",
+    "file_name": "/tmp/news_lk2/articles/38/382cf338.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0da0\u0dd3\u0db1\u0dba-\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf\u0dc0\u0dda-\u0d89\u0daf\u0dd2\u0d9a\u0dc5-\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0dc0\u0dda/3-395907",
+    "time_ut": 1659323133,
+    "original_lang": "si",
+    "original_title": "\u0da0\u0dd3\u0db1\u0dba \u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf\u0dc0\u0dda \u0d89\u0daf\u0dd2\u0d9a\u0dc5 \u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dda",
+    "file_name": "/tmp/news_lk2/articles/35/35770ad0.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0db8\u0dd2\u0dba\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dba\u0dda-\u0dc4\u0daf\u0dd2\u0dc3\u0dd2-\u0db1\u0dd3\u0dad\u0dd2\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0db8\u0dcf\u0dc3-6\u0d9a\u0da7-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dd9\u0dbb\u0dda/3-395906",
+    "time_ut": 1659322500,
+    "original_lang": "si",
+    "original_title": "\u0db8\u0dd2\u0dba\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dba\u0dda \u0dc4\u0daf\u0dd2\u0dc3\u0dd2 \u0db1\u0dd3\u0dad\u0dd2\u0dba \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dcf\u0dc3 6\u0d9a\u0da7 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dd9\u0dbb\u0dda",
+    "file_name": "/tmp/news_lk2/articles/f6/f63ea1e2.json"
+  },
+  {
+    "newspaper_id": "virakesari-lk",
+    "url": "http://www.virakesari.lk/article/132631",
+    "time_ut": 1659322448,
+    "original_lang": "ta",
+    "original_title": "\u0b9a\u0bc0\u0ba9\u0bbe \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0ba9\u0ba4\u0bc1 \u0b95\u0bb0\u0bbf\u0b9a\u0ba9\u0bc8\u0baf\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "file_name": "/tmp/news_lk2/articles/85/85142e8f.json"
+  },
+  {
+    "newspaper_id": "ada-derana-lk",
+    "url": "http://www.adaderana.lk/news/84007/indian-navy-monitoring-chinese-research-vessel-headed-for-sri-lanka-report",
+    "time_ut": 1659322200,
+    "original_lang": "en",
+    "original_title": "Indian Navy monitoring Chinese research vessel headed for Sri Lanka - report",
+    "file_name": "/tmp/news_lk2/articles/b6/b6b2d0a6.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/international/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca-\u0db8\u0dbb\u0dab\u0dba-\u0d9a\u0dda\u0dbb\u0dc5\u0dba\u0dd9\u0db1\u0dca/3-395904",
+    "time_ut": 1659322091,
+    "original_lang": "si",
+    "original_title": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0db8\u0db1\u0dca\u0d9a\u0dd2\u0db4\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0db8\u0dbb\u0dab\u0dba \u0d9a\u0dda\u0dbb\u0dc5\u0dba\u0dd9\u0db1\u0dca",
+    "file_name": "/tmp/news_lk2/articles/42/4201e620.json"
+  },
+  {
+    "newspaper_id": "lankadeepa-lk",
+    "url": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0dbb\u0dd0\u0dc3\u0d9a\u0da7--\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dc3\u0db8\u0d9f-\u0dc3\u0dd4\u0dc5\u0d82/101-617344",
+    "time_ut": 1659321856,
+    "original_lang": "si",
+    "original_title": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dbb\u0dd0\u0dc3\u0d9a\u0da7  \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc3\u0db8\u0d9f \u0dc3\u0dd4\u0dc5\u0d82",
+    "file_name": "/tmp/news_lk2/articles/ce/ce145e16.json"
+  },
+  {
     "newspaper_id": "ada-derana-lk",
     "url": "http://www.adaderana.lk/news/84006/fuel-issued-only-under-qr-code-system-from-today",
     "time_ut": 1659321720,
@@ -129,11 +265,11 @@
   },
   {
     "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/breaking_news/Colombo-inflation-breaches-60-food-inflation-tops-90/108-242134",
+    "url": "https://www.dailymirror.lk/business-news/Colombo-inflation-breaches-60-food-inflation-tops-90/273-242134",
     "time_ut": 1659293662,
     "original_lang": "en",
     "original_title": "Colombo inflation breaches 60%; food inflation tops 90%",
-    "file_name": "/tmp/news_lk2/articles/4b/4b2ea989.json"
+    "file_name": "/tmp/news_lk2/articles/a6/a6b2f6df.json"
   },
   {
     "newspaper_id": "daily-mirror-lk",
@@ -302,6 +438,22 @@
     "original_lang": "en",
     "original_title": "Sri Lanka low-grown tea prices rise in July third week sale",
     "file_name": "/tmp/news_lk2/articles/8e/8ebb9c2b.json"
+  },
+  {
+    "newspaper_id": "economy-next-com",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-3-hours-for-aug-01-98061/",
+    "time_ut": 1659283620,
+    "original_lang": "en",
+    "original_title": "Sri Lanka schedules power cuts of up to 3 hours for Aug 01",
+    "file_name": "/tmp/news_lk2/articles/aa/aa40db13.json"
+  },
+  {
+    "newspaper_id": "ada-lk",
+    "url": "https://www.ada.lk/breaking_news/\u0dc4\u0dd9\u0da7-\u0dc3\u0dd2\u0da7-\u0db1\u0dd2\u0dbb\u0dd2\u0dad-\u0daf\u0dd2\u0d9c-\u0db8\u0ddd\u0dc3\u0db8-\u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dba\u0dd2/11-395903",
+    "time_ut": 1659283413,
+    "original_lang": "si",
+    "original_title": "\u0dc4\u0dd9\u0da7 \u0dc3\u0dd2\u0da7 \u0db1\u0dd2\u0dbb\u0dd2\u0dad \u0daf\u0dd2\u0d9c \u0db8\u0ddd\u0dc3\u0db8 \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba\u0dba\u0dd2",
+    "file_name": "/tmp/news_lk2/articles/0a/0a1e9a9f.json"
   },
   {
     "newspaper_id": "ada-derana-lk",
@@ -7846,157 +7998,5 @@
     "original_lang": "si",
     "original_title": "\u0dbd\u0db6\u0db1 \u0db1\u0dc0 \u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf \u0d87\u0dc0\u0dd2\u0dad\u0dca \u0d85\u0dbb\u0d9c\u0dbd\u0dba \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
     "file_name": "/tmp/news_lk2/articles/10/10a8db73.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0ba9\u0bbf\u0bb8\u0bcd-\u0b85\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-301252",
-    "time_ut": 1658935619,
-    "original_lang": "ta",
-    "original_title": "\u0b9f\u0ba9\u0bbf\u0bb8\u0bcd \u0b85\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1  \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e1/e13ac937.json"
-  },
-  {
-    "newspaper_id": "lankadeepa-lk",
-    "url": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0db8\u0dc4-\u0d9c\u0dd9\u0daf\u0dbb\u0da7-\u0dba\u0dba\u0dd2/101-617145",
-    "time_ut": 1658935608,
-    "original_lang": "si",
-    "original_title": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0db8\u0dc4 \u0d9c\u0dd9\u0daf\u0dbb\u0da7 \u0dba\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/b1/b10cf8c8.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0b9a\u0bc8-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bcb\u0bb0\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-301251",
-    "time_ut": 1658933835,
-    "original_lang": "ta",
-    "original_title": "\u0b95\u0bbe\u0b9a\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bcb\u0bb0\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/45/450ab758.json"
-  },
-  {
-    "newspaper_id": "news-first-lk",
-    "url": "https://www.newsfirst.lk/2022/07/27/chinese-ambassador-meets-ali-sabry-to-discuss-current-situation-in-sri-lanka/",
-    "time_ut": 1658933700,
-    "original_lang": "en",
-    "original_title": "Chinese Ambassador meets Ali Sabry to discuss current situation in Sri Lanka",
-    "file_name": "/tmp/news_lk2/articles/9e/9e94df12.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132378",
-    "time_ut": 1658933372,
-    "original_lang": "ta",
-    "original_title": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0b9a\u0bc0\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd- \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0ba8\u0bbe\u0ba3\u0baf\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/4f/4f6dced8.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0da0\u0dd3\u0db1-\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0d9a\u0dc5-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-395799",
-    "time_ut": 1658933353,
-    "original_lang": "si",
-    "original_title": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0da0\u0dd3\u0db1 \u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc0\u0dca\u200d\u0dba\u0dd4\u0dc4\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "file_name": "/tmp/news_lk2/articles/8a/8aa5465c.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/GotaGoGama-activist-cum-freelance-journalist-abducted-by-group-in-Fort/342-241907",
-    "time_ut": 1658932943,
-    "original_lang": "en",
-    "original_title": "\u2019GotaGoGama\u2019 activist cum freelance journalist abducted by group in Fort",
-    "file_name": "/tmp/news_lk2/articles/3c/3c61a182.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-301250",
-    "time_ut": 1658932720,
-    "original_lang": "ta",
-    "original_title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf; \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/81/81968a02.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132377",
-    "time_ut": 1658932637,
-    "original_lang": "ta",
-    "original_title": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b89\u0bb0\u0bc1\u0bb5\u0b9a\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8 \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/e8/e8fa0ae4.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/caption_story/Justice-for-Tamil-prisoners-murdered-in-1983/110-241906",
-    "time_ut": 1658932392,
-    "original_lang": "en",
-    "original_title": "Justice for Tamil prisoners murdered in 1983",
-    "file_name": "/tmp/news_lk2/articles/f6/f6f5d2dd.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132376",
-    "time_ut": 1658932295,
-    "original_lang": "ta",
-    "original_title": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bbe\u0bb3\u0bbf\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bae\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/12/12bb83bf.json"
-  },
-  {
-    "newspaper_id": "daily-mirror-lk",
-    "url": "https://www.dailymirror.lk/latest_news/Demanding-to-dissolve-parliament/342-241905",
-    "time_ut": 1658932257,
-    "original_lang": "en",
-    "original_title": "Demanding to dissolve parliament",
-    "file_name": "/tmp/news_lk2/articles/06/06af6a16.json"
-  },
-  {
-    "newspaper_id": "ada-lk",
-    "url": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0dc0\u0dd9\u0db1\u0dc3\u0d9a-\u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0d85\u0db4\u0dd2-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf/11-395798",
-    "time_ut": 1658931770,
-    "original_lang": "si",
-    "original_title": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0dda \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd9\u0db1\u0dc3\u0d9a \u0d89\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0d85\u0db4\u0dd2 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf",
-    "file_name": "/tmp/news_lk2/articles/2d/2ddd0c9b.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132375",
-    "time_ut": 1658931673,
-    "original_lang": "ta",
-    "original_title": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0ba4\u0bbf\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 12 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0b89\u0bb0\u0bbf\u0bae\u0bc8 \u0bae\u0bc0\u0bb1\u0bb2\u0bcd \u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/d1/d132f540.json"
-  },
-  {
-    "newspaper_id": "tamil-mirror-lk",
-    "url": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9-\u0b95\u0b9f\u0ba9\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-IMF-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-301249",
-    "time_ut": 1658931618,
-    "original_lang": "ta",
-    "original_title": "\u0b9a\u0bc0\u0ba9 \u0b95\u0b9f\u0ba9\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 IMF \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "file_name": "/tmp/news_lk2/articles/e0/e0067d8d.json"
-  },
-  {
-    "newspaper_id": "virakesari-lk",
-    "url": "http://www.virakesari.lk/article/132374",
-    "time_ut": 1658931590,
-    "original_lang": "ta",
-    "original_title": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b85\u0bb0\u0bbe\u0b9c\u0b95 \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc6\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0baa\u0bc7\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bae\u0bb3\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0bb5\u0bbf\u0bae\u0bb2\u0bcd",
-    "file_name": "/tmp/news_lk2/articles/11/1152b850.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83913/one-dead-another-injured-in-shooting-at-ambalangoda",
-    "time_ut": 1658931120,
-    "original_lang": "en",
-    "original_title": "One dead, another injured in shooting at Ambalangoda",
-    "file_name": "/tmp/news_lk2/articles/a7/a75cde41.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83913/one-dead-another-injured-in-shooting-in-ambalangoda",
-    "time_ut": 1658931120,
-    "original_lang": "en",
-    "original_title": "One dead, another injured in shooting in Ambalangoda",
-    "file_name": "/tmp/news_lk2/articles/12/12c492c2.json"
-  },
-  {
-    "newspaper_id": "ada-derana-lk",
-    "url": "http://www.adaderana.lk/news/83913/two-killed-in-another-shooting-incident-in-ambalangoda",
-    "time_ut": 1658931120,
-    "original_lang": "en",
-    "original_title": "Two killed in another shooting incident in Ambalangoda",
-    "file_name": "/tmp/news_lk2/articles/50/50893fe8.json"
   }
 ]
